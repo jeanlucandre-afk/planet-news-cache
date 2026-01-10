@@ -1,1 +1,18 @@
-
+{
+  "name": "news.json",
+  "path": "public/news.json",
+  "sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+  "size": 1,
+  "url": "https://api.github.com/repos/jeanlucandre-afk/planet-news-cache/contents/public/news.json?ref=main",
+  "html_url": "https://github.com/jeanlucandre-afk/planet-news-cache/blob/main/public/news.json",
+  "git_url": "https://api.github.com/repos/jeanlucandre-afk/planet-news-cache/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc",
+  "download_url": "https://raw.githubusercontent.com/jeanlucandre-afk/planet-news-cache/main/public/news.json",
+  "type": "file",
+  "content": "Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/jeanlucandre-afk/planet-news-cache/contents/public/news.json?ref=main",
+    "git": "https://api.github.com/repos/jeanlucandre-afk/planet-news-cache/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc",
+    "html": "https://github.com/jeanlucandre-afk/planet-news-cache/blob/main/public/news.json"
+  }
+}
