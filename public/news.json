@@ -1,6 +1,84 @@
 {
   "news": [
     {
+      "slug": "que-es-el-glaucoma-y-por-que-es-tan-importante-hacerse-un-control-oftalmologico",
+      "title": "Qué es el glaucoma y por qué es tan importante hacerse un control oftalmológico",
+      "category": "Ciencia",
+      "bullets_20s": "• El glaucoma puede no presentar síntomas en las etapas iniciales, lo que lo hace más peligroso.\n• Se estima que millones de personas pueden padecer glaucoma sin ser diagnosticadas adecuadamente.\n• Se recomienda un control oftalmológico anual para detectar la enfermedad a tiempo.\n• El diagnóstico temprano es clave para prevenir la pérdida de visión irreversible en los pacientes.\n• La pandemia ha incrementado los casos de glaucoma debido a la falta de revisiones y controles.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/ciencia/salud/glaucoma-la-enfermedad-silenciosa-que-causa/6NJWT3CFUNCRHBQEYMENQCXWK4/story/",
+      "publish_date": "2026-03-18T15:26:12.000Z",
+      "teaser": "Lo clave en 20 segundos: El glaucoma es una causa principal de ceguera irreversible, su detección es crucial.",
+      "image_url": "https://www.nacion.com/resizer/v2/XWVJETKSRVABZMH6CNPGQYXOJM.png?auth=d37db77053a2a02ff1bb73182030bb292ce67814e169eb2bc318ffac6c9ec9ad&smart=true&width=1920&height=1080",
+      "description": "El glaucoma es una de las principales causas de ceguera irreversible. Especialistas advierten sobre el aumento de casos tras la pandemia y promueven controles oftalmológicos anuales.",
+      "featured": false
+    },
+    {
+      "slug": "gemini-integra-inteligencia-personal-cuentas-gratuitas",
+      "title": "Gemini integra inteligencia personal en cuentas gratuitas: la apuesta de Google para personalizar sus búsquedas",
+      "category": "Tecnología",
+      "bullets_20s": "• Google Gemini busca mejorar la experiencia de usuarios gratuitos con inteligencia personal.\n• La integración permite personalizar búsquedas conectando Gmail y Google Fotos.\n• Los usuarios podrán disfrutar de resultados más relevantes sin costo alguno.\n• Esta apuesta busca competir con otras herramientas de búsqueda avanzadas.\n• La inteligencia artificial jugará un papel clave en la personalización de servicios.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/tecnologia/gemini-integra-inteligencia-personal-en-cuentas/4SHW2TJ23BFEROAXXDDEECN6GI/story/",
+      "publish_date": "2026-03-18T15:24:03.000Z",
+      "teaser": "Lo clave en 20 segundos: Google lanza Gemini, mejorando búsquedas para usuarios gratuitos con inteligencia personal.",
+      "image_url": "https://www.nacion.com/resizer/v2/UEMG6MDB2NG6VFI56Z5AHQJA6Y.png?auth=2d77817de588ec39238d42247373bfceec0629fce5f074fde0affd5351fd2b36&smart=true&width=1920&height=1080",
+      "description": "Google expande la inteligencia personal en Gemini para usuarios gratuitos. Conozca cómo esta función de inteligencia artificial conecta con Gmail y Fotos para ofrecer resultados personalizados y facilitar búsquedas diarias sin costo.",
+      "featured": false
+    },
+    {
+      "slug": "donde-comprar-el-nokia-1100-en-2026-y-cuanto-cuesta",
+      "title": "Dónde comprar el Nokia 1100 en 2026 y cuánto cuesta: el clásico que aún se vende",
+      "category": "Tecnología",
+      "bullets_20s": "• El Nokia 1100, un ícono, todavía se encuentra disponible en el mercado del 2026.\n• Este modelo es valorado por su duración y simplicidad en la comunicación básica.\n• El coste actual del Nokia 1100 es accesible, ideal para quienes buscan funcionalidad.\n• Se puede adquirir en varias tiendas en línea y físicas especializadas en tecnología.\n• La popularidad del Nokia 1100 resalta la nostalgia por la tecnología retro de los celulares.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/tecnologia/donde-comprar-el-nokia-1100-en-2026-y-cuanto/6UHNEWXNSZES5KITIJCVOC3KFI/story/",
+      "publish_date": "2026-03-18T15:21:34.000Z",
+      "teaser": "Lo clave en 20 segundos: El Nokia 1100 sigue vivo en 2026, descubre dónde comprarlo.",
+      "image_url": "https://www.nacion.com/resizer/v2/62TVKKBMIJHENOPXZGK6HGMQJE.png?auth=d3d3b66fd77b273cabcfb02604528c9672386dbbfad1b9aefaf6667464b1f136&smart=true&width=939&height=528",
+      "description": "El Nokia 1100 aún se vende en 2026. Conozca dónde comprarlo, su precio actual y por qué sigue siendo una pieza clave en la historia de los celulares.",
+      "featured": false
+    },
+    {
+      "slug": "que-paso-con-encarta-la-enciclopedia-que-marco-a-toda-una-generacion",
+      "title": "¿Qué pasó con Encarta? La enciclopedia que marcó a toda una generación",
+      "category": "Tecnología",
+      "bullets_20s": "• Encarta fue una herramienta popular para estudiantes en los años 90, proporcionando información accesible.\n• La enciclopedia digital cambió la forma de aprender y enseñar en las aulas de ese período.\n• Microsoft lanzó Encarta en 1993, buscando revolucionar la educación a través de la tecnología.\n• A medida que Wikipedia crecía, Encarta perdió relevancia, llevando a su eventual desaparición en 2009.\n• El auge del acceso a Internet hizo que Encarta quedara obsoleta, ya que los users buscaban información en línea.",
+      "source_name": "El  Universal",
+      "source_url": "https://www.nacion.com/tecnologia/en-1993-microsoft-lanzo-encarta-para-cambiar-el/UB6FEX2ASBAP5FQVBEMRJ3JHEM/story/",
+      "publish_date": "2026-03-18T15:09:11.000Z",
+      "teaser": "Lo clave en 20 segundos: Encarta marcó la educación, pero fue superada por Wikipedia y la web.",
+      "image_url": "https://www.nacion.com/resizer/v2/LEVQTQPRZZDXZJNNFN4UIMXRVY.png?auth=313afd6143c7ac2b72ca442b1afbdd38ebc78742ef8afb8b418951c3a8b6513c&smart=true&width=1920&height=1080",
+      "description": "Encarta, la enciclopedia digital de Microsoft que dominó las tareas escolares en los años 90, desapareció en 2009 tras el auge de Wikipedia y el crecimiento del Internet.",
+      "featured": false
+    },
+    {
+      "slug": "victor-mambo-nunez-dice-que-le-sabe-riquisimo-que-alajuelense-haya-sido-eliminado",
+      "title": "Víctor  ‘Mambo‘ Núñez dice que le sabe ‘riquísimo‘ que Alajuelense haya sido eliminado",
+      "category": "Mundo",
+      "bullets_20s": "• La eliminación de Alajuelense ha causado revuelo entre los aficionados del fútbol en Costa Rica.\n• Víctor ‘Mambo‘ Núñez no oculta su satisfacción por el desenlace del partido.\n• El equipo rival, Los Ángeles FC, se destaca en la MLS con buenos resultados.\n• El rendimiento de Alajuelense en la serie es tema de análisis entre expertos.\n• Las reacciones entre la afición reflejan un fuerte sentido de rivalidad en el fútbol.\n• Este tipo de declaraciones siempre generan controversia en el ambiente deportivo.\n• El impacto de la derrota se siente en varias partes de la comunidad futbolística.\n• La importancia de la competencia internacional es un aspecto clave del fútbol local.\n• Núñez ha sido una figura conocida en el fútbol costarricense durante años.\n• Este evento se suma a la historia de rivalidades entre equipos en ligas internacionales.",
+      "source_name": "Milton Montenegro",
+      "source_url": "https://www.nacion.com/puro-deporte/victor-mambo-nunez-dice-que-le-sabe-riquisimo-que/S6MKNXEB4FFFVKD2VDNUFC2YQE/story/",
+      "publish_date": "2026-03-18T15:07:16.000Z",
+      "teaser": "Lo clave en 20 segundos: Mambo Núñez reacciona a la eliminación de Alajuelense en la MLS.",
+      "image_url": "https://www.nacion.com/resizer/v2/Z67YAP3GVVB4ZA6WBOXGP6WNQI.jpeg?auth=e7859303ae32a0c63284db747957169a0846c9391deb854aaf04d886b829a1d6&smart=true&width=1881&height=1254",
+      "description": "Alajuelense no logró pasar la serie contra Los Ángeles FC, equipo de la MLS.",
+      "featured": false
+    },
+    {
+      "slug": "el-peligro-que-enfrenta-netanyahu",
+      "title": "El peligro que enfrenta Netanyahu: que la guerra no logre el cambio de régimen en Irán que lleva décadas anhelando",
+      "category": "Mundo",
+      "bullets_20s": "• Netanyahu enfrenta un desafío significativo en su estrategia hacia Irán, buscando el cambio de régimen.\n• La guerra en Medio Oriente se presenta como un factor clave en la política regional actual.\n• Los bombardeos son justificados como medidas para estabilizar la situación en Irán y sus alrededores.\n• El conflicto en Irán ha durado décadas y su resolución aún parece distante e incierta.\n• Aumenta la presión internacional para que se encuentre una solución pacífica al conflicto.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c0mgdl490xyo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-18T14:31:04.000Z",
+      "teaser": "Lo clave en 20 segundos: Netanyahu y su lucha por un cambio de régimen en Irán en medio de la guerra.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/35b0/live/50d502f0-1ee4-11f1-9120-a910fc22c6ac.jpg",
+      "description": "Los líderes israelíes presentan la campaña de bombardeos como algo que ha transformado Medio Oriente a su favor, a medida que aumenta la presión para poner fin al conflicto en Irán.",
+      "featured": false
+    },
+    {
       "slug": "el-peligro-que-enfrenta-netanyahu-irán",
       "title": "El peligro que enfrenta Netanyahu: que con la guerra no ocurra en Irán el cambio de régimen que lleva décadas anhelando",
       "category": "Mundo",
@@ -36,6 +114,19 @@
       "publish_date": "2026-03-18T14:18:17.000Z",
       "teaser": "Lo clave en 20 segundos: La tendencia looksmaxxing busca la perfección estética entre hombres jóvenes.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/7c02/live/23d953e0-1fd0-11f1-801d-ed3cff6bf876.jpg",
+      "description": "Cada vez más hombres jóvenes están dispuestos a hacer todo lo posible para conseguir lo que consideran como el rostro perfecto.",
+      "featured": false
+    },
+    {
+      "slug": "que-es-el-looksmaxxing-tendencia-hombres-jovenes",
+      "title": "Qué es el looksmaxxing, la nueva y controvertida tendencia entre los hombres jóvenes",
+      "category": "Mundo",
+      "bullets_20s": "• El looksmaxxing se centra en mejorar la apariencia física de los hombres jóvenes.\n• Esta tendencia se origina en foros de discusión en línea y redes sociales.\n• Los jóvenes buscan intervenciones estéticas para alcanzar sus ideales de belleza.\n• El fenómeno genera debate sobre la presión estética y salud mental.\n• Expertos advierten sobre los riesgos de la obsesión por la apariencia.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cgk2lrn5273o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-18T14:18:17.000Z",
+      "teaser": "Lo clave en 20 segundos: hombres buscan mejoras estéticas para su apariencia.",
+      "image_url": "",
       "description": "Cada vez más hombres jóvenes están dispuestos a hacer todo lo posible para conseguir lo que consideran como el rostro perfecto.",
       "featured": false
     },
@@ -131,6 +222,32 @@
       "featured": false
     },
     {
+      "slug": "pe-ai-10-conformacion-expedientes-servicios-auditoria",
+      "title": "PE-AI-10 Conformación expedientes de los servicios de auditoría",
+      "category": "Tecnología",
+      "bullets_20s": "• Este procedimiento busca estandarizar la conformación de expedientes en auditorías.\n• Se detallan los manuales que guiarán el proceso de auditoría.\n• Este sistema se implementó para mejorar la eficiencia en auditorías.\n• La última revisión tuvo lugar en marzo de 2026, reflejando actualizaciones importantes.\n• El documento profundiza en las normativas a seguir durante la auditoría.",
+      "source_name": "malvarez",
+      "source_url": "http://www.tec.ac.cr/pe-ai-10-conformacion-expedientes-servicios-auditoria",
+      "publish_date": "2026-03-18T13:08:27.000Z",
+      "teaser": "Lo clave en 20 segundos: Procedimiento para conformar expedientes de auditoría estandarizados en 2026.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "malvarez",
+      "featured": false
+    },
+    {
+      "slug": "pe-ai-09-conformacion-expedientes-actividades-gestion",
+      "title": "PE-AI-09 Conformación expedientes de actividades de gestión",
+      "category": "Tecnología",
+      "bullets_20s": "• El documento explica el procedimiento para la conformación de expedientes de actividades gestionadas.\n• Incluye manuales necesarios para la correcta gestión de documentos y actividades relacionadas.\n• Se detalla la importancia de la organización documental en el contexto administrativo.\n• Proporciona pautas sobre cómo llevar a cabo la creación de expedientes adecuados.\n• Abarca fechas clave que marcan el inicio y revisión de la conformación de los documentos.",
+      "source_name": "malvarez",
+      "source_url": "http://www.tec.ac.cr/pe-ai-09-conformacion-expedientes-actividades-gestion",
+      "publish_date": "2026-03-18T13:06:52.000Z",
+      "teaser": "Lo clave en 20 segundos: ¡Aprende sobre la gestión documental en nuestra nueva guía!",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "malvarez",
+      "featured": false
+    },
+    {
       "slug": "pe-ai-09-conformacion-expedientes-actividades-gestion",
       "title": "PE-AI-09 Conformación expedientes de actividades de gestión",
       "category": "Costa Rica",
@@ -172,6 +289,19 @@
     {
       "slug": "pe-ai-06-revision-actualizacion-ciclo-auditoria",
       "title": "PE-AI-06 Revisión y actualización del ciclo de auditoría",
+      "category": "Tecnología",
+      "bullets_20s": "• La revisión del ciclo de auditoría es esencial para mantener los estándares de calidad.\n• Se actualizan los manuales y procedimientos para mejorar la transparencia en auditorías.\n• La creación de nuevos procesos busca fortalecer la gestión de auditoría en el Tec.\n• Las últimas modificaciones se realizaron en marzo de 2026, destacando la innovación.\n• Este procedimiento es fundamental para asegurar la conformidad con las normativas.",
+      "source_name": "malvarez",
+      "source_url": "http://www.tec.ac.cr/pe-ai-06-revision-actualizacion-ciclo-auditoria",
+      "publish_date": "2026-03-18T13:04:38.000Z",
+      "teaser": "Lo clave en 20 segundos: Revisión del ciclo de auditoría en proceso de actualización.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "malvarez",
+      "featured": false
+    },
+    {
+      "slug": "pe-ai-06-revision-actualizacion-ciclo-auditoria",
+      "title": "PE-AI-06 Revisión y actualización del ciclo de auditoría",
       "category": "Costa Rica",
       "bullets_20s": "• La revisión del ciclo de auditoría es crucial para mejorar el control interno.\n• Se actualizarán los manuales y procedimientos para mayor claridad.\n• El procedimiento busca fortalecer la transparencia en la auditoría.\n• La creación y revisión de documentos se llevará a cabo en marzo.\n• Se espera que estas medidas impulsen una auditoría más efectiva.",
       "source_name": "malvarez",
@@ -204,6 +334,19 @@
       "source_url": "http://www.tec.ac.cr/pe-ai-03-formulacion-seguimiento-plan-anual-trabajo-auditoria-interna",
       "publish_date": "2026-03-18T13:02:01.000Z",
       "teaser": "Lo clave en 20 segundos: Importancia del plan anual de auditoría interna en la gestión eficiente.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "malvarez",
+      "featured": false
+    },
+    {
+      "slug": "pe-ai-03-formulacion-seguimiento-plan-anual-trabajo-auditoria-interna",
+      "title": "PE-AI-03 Formulación y seguimiento del Plan Anual de Trabajo de la Auditoría Interna",
+      "category": "Ciencia",
+      "bullets_20s": "• La auditoría interna desempeña un papel crucial en el control organizacional.\n• Se busca mejorar la eficiencia y eficacia a través de un plan anual.\n• El seguimiento del plan es esencial para alcanzar los objetivos propuestos.\n• Los manuales y procedimientos buscan estandarizar prácticas de auditoría.\n• El documento es una guía para la formulación de planes de trabajo.",
+      "source_name": "malvarez",
+      "source_url": "http://www.tec.ac.cr/pe-ai-03-formulacion-seguimiento-plan-anual-trabajo-auditoria-interna",
+      "publish_date": "2026-03-18T13:02:01.000Z",
+      "teaser": "Lo clave en 20 segundos: La auditoría interna establece un plan anual para mejorar la eficiencia organizacional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "malvarez",
       "featured": false
@@ -284,6 +427,19 @@
       "teaser": "Lo clave en 20 segundos: Conoce los premios del sorteo de la lotería popular de la JPS.",
       "image_url": "https://www.nacion.com/resizer/v2/NU7OEJE4VZADTJAAYMYCUPWBVI.jpg?auth=5ee9a47347fd572ae06b22ae59f0882d2df33371b311fcc6272a1a9accee88c6&smart=true&width=1029&height=611",
       "description": "Lea aquí el detalle de todos los premios del sorteo de los chances de este martes 17 de marzo",
+      "featured": false
+    },
+    {
+      "slug": "la-inedita-batalla-legal-catalina-giraldo",
+      "title": "La inédita batalla legal de Catalina Giraldo, la colombiana de 30 años que pide acceder al suicidio médicamente asistido",
+      "category": "Mundo",
+      "bullets_20s": "• Catalina Giraldo busca obtener acceso al suicidio médicamente asistido en Colombia.\n• La joven ha padecido de depresión severa y otros problemas de salud mental.\n• Su caso plantea importantes interrogantes sobre la ética en la salud pública.\n• El debate sobre la eutanasia sigue generando opiniones encontradas en la sociedad.\n• Catalina enfrenta una lucha legal por sus derechos como paciente en Colombia.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/clyzygk7vd4o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-18T12:01:58.000Z",
+      "teaser": "Lo clave en 20 segundos: Catalina Giraldo pide acceso al suicidio asistido en medio de un debate ético.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/82bc/live/9adae4f0-2254-11f1-b6d0-3bb01abdfc34.jpg",
+      "description": "Tras años sufriendo de un cuadro de depresión severa, entre otros diagnósticos, Catalina le está haciendo una petición al sistema de salud colombiano: que la ayude y la acompañe a terminar su vida.",
       "featured": false
     },
     {
@@ -430,6 +586,19 @@
       "featured": false
     },
     {
+      "slug": "como-los-medios-del-regimen-de-los-ayatolas-les-cuentan-a-los-iranies-la-guerra-con-ee-uu-e-israel",
+      "title": "Cómo los medios del régimen de los ayatolás les cuentan a los iraníes la guerra con EE.UU. e Israel",
+      "category": "Mundo",
+      "bullets_20s": "• Los medios estatales iraníes exageran las bajas del enemigo para construir una narrativa de victorias.\n• Se utiliza manipulación digital para proyectar una imagen positiva del régimen ante el pueblo.\n• Los informes a menudo ignoran o distorsionan hechos verificables sobre el conflicto actual.\n• El control de la información busca mantener la lealtad de la población hacia el gobierno.\n• La propaganda se desarrolla en un contexto de crisis regional y tensiones internacionales.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cd6z16zdjvlo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-18T10:41:53.000Z",
+      "teaser": "Lo clave en 20 segundos: La propaganda iraní distorsiona la guerra para glorificar el régimen.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/17fe/live/103bdfd0-1fbf-11f1-b048-c9424b2cf5fd.jpg",
+      "description": "La cobertura de la guerra por parte de los medios estatales iraníes incluye la exageración de las bajas enemigas y la manipulación digital destinada a glorificar a Irán.",
+      "featured": false
+    },
+    {
       "slug": "victoria-historica-venezuela-gana-clasico-mundial-beisbol",
       "title": "¡Victoria histórica! Venezuela gana su primer Clásico Mundial de Béisbol tras derrotar a EE.UU. en Miami",
       "category": "Mundo",
@@ -451,6 +620,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/c1l7lmgnz69o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-18T07:58:05.000Z",
       "teaser": "Lo clave en 20 segundos: Venezuela celebra su primera victoria en el Clásico Mundial de Béisbol, derrotando a EE.UU.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/13e2/live/85e1afa0-227e-11f1-88ad-93e1f88f37dc.jpg",
+      "description": "La selección venezolana venció a Estados Unidos por 3-2 este martes por la noche en el Clásico Mundial de Béisbol.",
+      "featured": false
+    },
+    {
+      "slug": "victoria-historica-venezuela-gana-clasico-mundial-beisbol",
+      "title": "¡Victoria histórica! Venezuela gana su primer Clásico Mundial de Béisbol tras derrotar a EE.UU. en Miami",
+      "category": "Mundo",
+      "bullets_20s": "• Venezuela logra su primera victoria en la historia del Clásico Mundial de Béisbol.\n• El partido fue emocionante, con grandes momentos de tensión y habilidades deportivas.\n• Estados Unidos, defensor del título, fue superado en un cerrado enfrentamiento final.\n• La selección venezolana mostró un gran nivel competitivo en todo el torneo.\n• Esta victoria celebra el talento y la fuerza del béisbol venezolano en el mundo.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c1l7lmgnz69o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-18T07:58:05.000Z",
+      "teaser": "Lo clave en 20 segundos: Venezuela ganó su primer Clásico Mundial de Béisbol tras vencer a EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/13e2/live/85e1afa0-227e-11f1-88ad-93e1f88f37dc.jpg",
       "description": "La selección venezolana venció a Estados Unidos por 3-2 este martes por la noche en el Clásico Mundial de Béisbol.",
       "featured": false
@@ -1725,6 +1907,19 @@
       "source_url": "http://www.tec.ac.cr/arranca-negociacion-financiamiento-universitario-2027-fees",
       "publish_date": "2026-03-17T23:14:57.000Z",
       "teaser": "Lo clave en 20 segundos: Se inicia la negociación del FEES 2027 para fortalecer la educación superior en Costa Rica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees-tec-conferencia-1.jpg.webp?itok=OzgYY9KA",
+      "description": "Arranca negociación del financiamiento universitario 2027 (FEES)",
+      "featured": false
+    },
+    {
+      "slug": "arranca-negociacion-financiamiento-universitario-2027-fees",
+      "title": "Arranca negociación del financiamiento universitario 2027 (FEES)",
+      "category": "Costa Rica",
+      "bullets_20s": "• La negociación del FEES 2027 se inicia con el objetivo de mejorar la educación superior en Costa Rica.\n• Se enfatiza en el cumplimiento del aumento de becas estudiantiles en las Universidades Públicas.\n• El Gobierno solicita una redistribución del FEES para potenciar instituciones menos financiadas.\n• Se afirma que el FEES es una inversión social estratégica para el desarrollo del país.\n• Los acuerdos del FEES 2026 incluyen mejoras en los sistemas de apoyo financiero a estudiantes.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/arranca-negociacion-financiamiento-universitario-2027-fees",
+      "publish_date": "2026-03-17T23:14:57.000Z",
+      "teaser": "Lo clave en 20 segundos: Arranca negociación del FEES para mejorar financiamiento universitario en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees-tec-conferencia-1.jpg.webp?itok=OzgYY9KA",
       "description": "Arranca negociación del financiamiento universitario 2027 (FEES)",
       "featured": false
@@ -9504,5 +9699,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-18T15:30:43.767Z"
+  "generated_at": "2026-03-18T16:30:43.810Z"
 }
