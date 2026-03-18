@@ -1,6 +1,84 @@
 {
   "news": [
     {
+      "slug": "delcy-rodriguez-destituye-ministro-defensa-venezuela",
+      "title": "Delcy Rodríguez destituye a Vladimir Padrino como ministro de Defensa de Venezuela",
+      "category": "Mundo",
+      "bullets_20s": "• Delcy Rodríguez, nueva ministra de Defensa en Venezuela, destituye a Vladimir Padrino.\n• El general Gustavo González López será el nuevo encargado de Defensa del país.\n• Este cambio se produce en un contexto político tenso en Venezuela actualmente.\n• Las reacciones internacionales son variadas ante este nuevo nombramiento en el gobierno.\n• El papel del ministro de Defensa es crucial en la estabilidad del país hoy en día.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c8egegkpl0ro?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-18T18:27:25.000Z",
+      "teaser": "Lo clave en 20 segundos: Delcy destituye a Padrino, nuevo ministro es Gustavo González.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/bfdb/live/20cb91e0-22f5-11f1-8620-17795c093e86.jpg",
+      "description": "Delcy Rodríguez nombró como nuevo ministro de Defensa al general Gustavo González López.",
+      "featured": false
+    },
+    {
+      "slug": "jefe-del-estado-mayor-israeli-admite-ataques-inaceptables",
+      "title": "Jefe del Estado Mayor israelí admite ataques ‘inaceptables’ de colonos a palestinos de Cisjordania y pide que frenen",
+      "category": "Mundo",
+      "bullets_20s": "• El teniente general expresó su preocupación sobre la violencia en Cisjordania.\n• Denunció los ataques de colonos israelíes hacia civiles palestinos.\n• Se busca detener la escalada de violencia en esta región conflictiva.\n• La comunidad internacional observa con atención la situación actual.\n• Las tensiones entre israelíes y palestinos continúan afectando la paz.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/jefe-del-estado-mayor-israeli-admite-ataques/UOCPV6TDFNA4HEV4LD2HG2K2RY/story/",
+      "publish_date": "2026-03-18T18:25:49.000Z",
+      "teaser": "Lo clave en 20 segundos: Teniente general israelí denuncia ataques a palestinos.",
+      "image_url": "https://www.nacion.com/resizer/v2/3IDOII7XNNEPNIBDLMVBVJZ5TU.jpg?auth=751d81897ab48aa5cfdc4ce6cc1c9a6c023bc4c9cd3431d9c4bd3d3708647882&smart=true&width=1200&height=800",
+      "description": "Los ataques de colonos israelíes contra civiles en Cisjordania ocupada son “moral y éticamente inaceptables”, dice teniente general.",
+      "featured": false
+    },
+    {
+      "slug": "cuanto-cardio-necesita-para-empezar-a-quemar-grasa",
+      "title": "¿Cuánto cardio necesita para empezar a quemar grasa? La respuesta sorprende y rompe un mito común",
+      "category": "Ciencia",
+      "bullets_20s": "• El ejercicio cardiovascular es clave en la quema de grasa corporal y mejora la salud general.\n• Contrario a lo que muchos piensan, se comienza a quemar grasa en menos tiempo del esperado.\n• Factores como la intensidad y la duración del ejercicio afectan el inicio del proceso de quema de grasa.\n• Un especialista ofrece detalles sobre el tipo de cardio más efectivo para perder grasa rápidamente.\n• Es importante combinar el cardio con una alimentación balanceada para obtener mejores resultados.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/salud/cuanto-cardio-necesita-para-empezar-a-quemar-grasa/RSGGPJK6TVCHJITC4FQJP5KKFA/story/",
+      "publish_date": "2026-03-18T18:25:41.000Z",
+      "teaser": "Lo clave en 20 segundos: Descubre cuánto cardio necesitas para empezar a quemar grasa efectivamente.",
+      "image_url": "https://www.nacion.com/resizer/v2/D5HGK5XDDJBWDL7N4KCDWBMVCE.png?auth=edae329d2489e26889952b1686b14fc48d209cfdbf7d40e750848a18a8d5c86e&smart=true&width=1920&height=1080",
+      "description": "El tiempo necesario para quemar grasa con cardio es menor de lo que muchos creen. Un experto explica cuándo inicia el proceso y qué factores influyen.",
+      "featured": false
+    },
+    {
+      "slug": "conozca-la-medusa-canibal-que-puede-llegar-a-pesar-una-tonelada",
+      "title": "Conozca la medusa caníbal que puede llegar a pesar una tonelada",
+      "category": "Ciencia",
+      "bullets_20s": "• La medusa caníbal es conocida por su gran tamaño y su dieta depredadora.\n• Puede alcanzar un peso impresionante de hasta una tonelada en ciertos casos.\n• Este organismo marino se alimenta principalmente de sus congéneres para sobrevivir.\n• Investigar su hábitat es crucial para entender su impacto en el ecosistema marino.\n• Estudios recientes revelan nuevos datos sobre su comportamiento y características.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/conozca-la-medusa-canibal-que-puede-llegar-a-pesar/2VC2FHY53VCGJM6BI4UH75LBY4/story/",
+      "publish_date": "2026-03-18T18:21:39.000Z",
+      "teaser": "Lo clave en 20 segundos: una medusa caníbal alcanza hasta una tonelada y se alimenta de otras medusas.",
+      "image_url": "https://www.nacion.com/resizer/v2/TYJ5SLNDTZCZJCAZKXTYBYOCMA.jpg?auth=835771ec55a4e1a6e2190448a0387838ba698e36e15cb912fb0a023c98eafe93&smart=true&width=1788&height=1380",
+      "description": "Descubra los detalles de la medusa más pesada del mundo, que puede pesar hasta una tonelada y se alimenta de otras de su especie.",
+      "featured": false
+    },
+    {
+      "slug": "nuevo-puente-en-alajuelita-conecta-barrios",
+      "title": "Nuevo puente en Alajuelita conecta por primera vez dos barrios separados por la quebrada",
+      "category": "Costa Rica",
+      "bullets_20s": "• El nuevo puente de Alajuelita tiene una longitud de 45 metros y mejora la movilidad local.\n• Con este puente, los barrios afectados por la quebrada ahora están conectados de manera efectiva.\n• La construcción del puente representa un avance significativo en infraestructura de la zona.\n• Los residentes esperan que esta conexión mejore el acceso a servicios y comercios locales.\n• Las autoridades celebran la finalización de este puente como un logro importante para la comunidad.",
+      "source_name": "Damián Arroyo C.",
+      "source_url": "https://www.nacion.com/el-pais/nuevo-puente-en-alajuelita-conecta-por-primera-vez/HQOMUASTQZCIRP3ZB2NMFPKHQA/story/",
+      "publish_date": "2026-03-18T18:18:33.000Z",
+      "teaser": "Lo clave en 20 segundos: Un nuevo puente en Alajuelita une dos barrios separados por una quebrada.",
+      "image_url": "https://www.nacion.com/resizer/v2/NOWVD5ZHSVFYLI43XBSSWWAI4I.jpeg?auth=9d8b02ea15e5bca000c51974fe878a42d87c3076d9ee133f207d13490b702b9a&smart=true&width=1600&height=835",
+      "description": "Durante años, una quebrada separó a dos barrios de Alajuelita. Un nuevo puente de 45 metros ahora cambia la movilidad en la zona y crea una conexión vial que antes no existía.",
+      "featured": false
+    },
+    {
+      "slug": "encarcelan-a-futbolista-que-jugo-en-costa-rica-por-delito-nicaragua",
+      "title": "Encarcelan a futbolista que jugó en Costa Rica por presunto delito relacionado con accidente en Nicaragua, según prensa local",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un futbolista que jugó en Costa Rica ha sido encarcelado en Nicaragua por un incidente serio.\n• El jugador, de 28 años, se vio involucrado en un accidente que generó grandes repercusiones.\n• La prensa local ha reportado sobre su arresto y los detalles del incidente en Nicaragua.\n• Este caso genera preocupación en el ámbito deportivo y en la vida de los futbolistas.\n• Las consecuencias legales y deportivas del incidente podrían afectar su futuro profesional.",
+      "source_name": "Juan Diego Villarreal",
+      "source_url": "https://www.nacion.com/puro-deporte/encarcelan-a-futbolista-que-jugo-en-costa-rica-por/BALNV2JFGFGEVI62ENLP3HJXDE/story/",
+      "publish_date": "2026-03-18T18:16:41.000Z",
+      "teaser": "Lo clave en 20 segundos: Un futbolista encarcelado en Nicaragua por un grave incidente.",
+      "image_url": "https://www.nacion.com/resizer/v2/S4FNRQHRLJEHHGDIV7PQYZA6A4.jpg?auth=9399efb65a3cfe7a7e60098ffdb70d8d7dfdcc84effb0b66fbac13a3859afceb&smart=true&width=720&height=480",
+      "description": "El futbolista de 28 años estuvo involucrado en un serio incidente y según medios de Nicaragua terminó en prisión.",
+      "featured": false
+    },
+    {
       "slug": "disney-en-marzo-estrenos-clave",
       "title": "Disney+ en marzo: estrenos clave que impulsan nuevas temporadas y grandes regresos",
       "category": "Mundo",
@@ -170,6 +248,32 @@
       "featured": false
     },
     {
+      "slug": "directorio-asamblea-institucional-representativa-normativa-consulta-formal",
+      "title": "Directorio de la Asamblea Institucional Representativa Normativa Consulta Formal",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Directorio de la AIR busca mejorar la comunicación interna de la institución.\n• Incluye procedimientos claros para la consulta de normativas en la asamblea.\n• Se establece un marco formal para la participación de los representantes.\n• Las modificaciones realizadas se reflejan en la Gaceta oficial del país.\n• El documento tiene vigencia desde febrero de 2026 tras ser publicado.",
+      "source_name": "macastro",
+      "source_url": "http://www.tec.ac.cr/directorio-asamblea-institucional-representativa-normativa-consulta-formal",
+      "publish_date": "2026-03-18T16:05:38.000Z",
+      "teaser": "Lo clave en 20 segundos: Nuevo directorio institucional para la consulta formal.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "macastro",
+      "featured": false
+    },
+    {
+      "slug": "v-congreso-institucional-cuatro-ponencias-aprobadas-segundo-dia",
+      "title": "V Congreso Institucional: Cuatro ponencias fueron aprobadas en el segundo día",
+      "category": "Costa Rica",
+      "bullets_20s": "• El V Congreso Institucional ha presentado un total de ocho ponencias en su segundo día de sesiones.\n• Cuatro de estas ponencias fueron aprobadas, mientras que otras cuatro pasaron a conciliación para discusión.\n• Los temas aprobados incluyen el estímulo al talento humano y un repositorio de software del TEC.\n• El congreso busca decisiones estratégicas que impacten positivamente a la Institución y sus estudiantes.\n• Se abordaron también retos de la universidad pública ante el nuevo gobierno de Costa Rica.",
+      "source_name": "anasolano",
+      "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cuatro-ponencias-fueron-aprobadas-segundo-dia",
+      "publish_date": "2026-03-18T15:36:10.000Z",
+      "teaser": "Lo clave en 20 segundos: Cuatro ponencias aprobadas en el V Congreso Institucional en sesión intensa de trabajo.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-institucional_2026_tec-cartago_djimenez-1.jpg.webp?itok=eOvSoKG5",
+      "description": "V Congreso Institucional: Cuatro ponencias fueron aprobadas en el segundo día",
+      "featured": false
+    },
+    {
       "slug": "v-congreso-institucional-cuatro-ponencias-aprobadas-segundo-dia",
       "title": "V Congreso Institucional: Cuatro ponencias fueron aprobadas en el segundo día",
       "category": "Costa Rica",
@@ -274,6 +378,19 @@
       "featured": false
     },
     {
+      "slug": "el-peligro-que-enfrenta-netanyahu-guerra-cambio-regimen-iran",
+      "title": "El peligro que enfrenta Netanyahu: que la guerra no logre el cambio de régimen en Irán que lleva décadas anhelando",
+      "category": "Mundo",
+      "bullets_20s": "• La situación en Medio Oriente sigue siendo tensa y complicada para los líderes mundiales en 2026.\n• Netanyahu enfrenta críticas internas mientras lidia con la situación en Irán y sus consecuencias.\n• El cambio de régimen en Irán es un objetivo que ha perdurado en la agenda de varios gobiernos.\n• Los bombardeos en la región generan tanto apoyo como oposición a nivel internacional.\n• Las decisiones actuales podrían influir en la estabilidad política de Israel y la región en los próximos años.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c0mgdl490xyo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-18T14:31:04.000Z",
+      "teaser": "Lo clave en 20 segundos: Netanyahu enfrenta retos en medio de una guerra que podría cambiar a Irán.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9aec/live/1fd95ac0-22d6-11f1-90cb-27c5deaacbc1.jpg",
+      "description": "Los líderes israelíes presentan la campaña de bombardeos como algo que ha transformado Medio Oriente a su favor, a medida que aumenta la presión para poner fin al conflicto en Irán.",
+      "featured": false
+    },
+    {
       "slug": "el-peligro-que-enfrenta-netanyahu",
       "title": "El peligro que enfrenta Netanyahu: que la guerra no logre el cambio de régimen en Irán que lleva décadas anhelando",
       "category": "Mundo",
@@ -322,6 +439,19 @@
       "publish_date": "2026-03-18T14:18:17.000Z",
       "teaser": "Lo clave en 20 segundos: La tendencia looksmaxxing busca la perfección estética entre hombres jóvenes.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/7c02/live/23d953e0-1fd0-11f1-801d-ed3cff6bf876.jpg",
+      "description": "Cada vez más hombres jóvenes están dispuestos a hacer todo lo posible para conseguir lo que consideran como el rostro perfecto.",
+      "featured": false
+    },
+    {
+      "slug": "que-es-el-looksmaxxing-tendencia-hombres-jovenes",
+      "title": "Qué es el looksmaxxing, la nueva y controvertida tendencia entre los hombres jóvenes",
+      "category": "Mundo",
+      "bullets_20s": "• Looksmaxxing se refiere a mejorar la apariencia física de manera extrema y constante.\n• Esta tendencia ha ganado popularidad entre hombres jóvenes en diferentes partes del mundo.\n• Se basa en ideales de belleza que se ven influenciados por las redes sociales.\n• Hombres jóvenes están dispuestos a invertir tiempo y dinero en su apariencia.\n• Las opiniones sobre este fenómeno están divididas entre apoyo y crítica.\n• Puede llevar a una presión social para cumplir con estándares de belleza imposibles.\n• Expertos advierten sobre el impacto psicológico de seguir estas tendencias.\n• El looksmaxxing incluye estrategias como dietas, rutinas de ejercicio y cirugía estética.\n• La cultura de la imagen ha sido profundamente afectada por el looksmaxxing.\n• La búsqueda de la perfección visual puede ser perjudicial para la autoestima.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cgk2lrn5273o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-18T14:18:17.000Z",
+      "teaser": "Lo clave en 20 segundos: jóvenes siguen tendencias para mejorar su apariencia física constantemente.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/f554/live/b7866670-1ef7-11f1-801d-ed3cff6bf876.png",
       "description": "Cada vez más hombres jóvenes están dispuestos a hacer todo lo posible para conseguir lo que consideran como el rostro perfecto.",
       "featured": false
     },
@@ -459,6 +589,19 @@
       "slug": "pe-ai-10-conformacion-expedientes-servicios-auditoria",
       "title": "PE-AI-10 Conformación expedientes de los servicios de auditoría",
       "category": "Tecnología",
+      "bullets_20s": "• Se presenta el procedimiento de conformación de expedientes de auditoría en esta normativa.\n• Los manuales establecidos son cruciales para el correcto desarrollo de auditorías.\n• El procedimiento es parte de un marco más amplio de mejora continua en auditoría.\n• Se sugiere revisar regularmente los expedientes conforme a estándares internacionales.\n• La capacidad de atención a servicios de auditoría mejora con procedimientos claros.",
+      "source_name": "malvarez",
+      "source_url": "http://www.tec.ac.cr/pe-ai-10-conformacion-expedientes-servicios-auditoria",
+      "publish_date": "2026-03-18T13:08:27.000Z",
+      "teaser": "Lo clave en 20 segundos: Conformación de expedientes para servicios de auditoría, un procedimiento esencial.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "malvarez",
+      "featured": false
+    },
+    {
+      "slug": "pe-ai-10-conformacion-expedientes-servicios-auditoria",
+      "title": "PE-AI-10 Conformación expedientes de los servicios de auditoría",
+      "category": "Tecnología",
       "bullets_20s": "• El procedimiento aborda la creación de expedientes para auditorías en diferentes ámbitos.\n• Incluye manuales que guían sobre la conformación de documentación necesaria.\n• Se establecen fechas clave de creación y revisión de los procedimientos.\n• El enfoque se centra en la mejora continua de los servicios de auditoría.\n• Se busca estandarizar procesos para asegurar calidad en resultados de auditoría.",
       "source_name": "malvarez",
       "source_url": "http://www.tec.ac.cr/pe-ai-10-conformacion-expedientes-servicios-auditoria",
@@ -503,6 +646,19 @@
       "source_url": "http://www.tec.ac.cr/pe-ai-09-conformacion-expedientes-actividades-gestion",
       "publish_date": "2026-03-18T13:06:52.000Z",
       "teaser": "Lo clave en 20 segundos: ¡Aprende sobre la gestión documental en nuestra nueva guía!",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "malvarez",
+      "featured": false
+    },
+    {
+      "slug": "pe-ai-09-conformacion-expedientes-actividades-gestion",
+      "title": "PE-AI-09 Conformación expedientes de actividades de gestión",
+      "category": "Ciencia",
+      "bullets_20s": "• El procedimiento busca estandarizar la creación de expedientes para actividades de gestión.\n• Se detalla un método claro para la organización de documentos y actividades.\n• Las fechas de creación y revisión son importantes para el correcto seguimiento.\n• El enfoque está en la mejora continua y la adaptabilidad del proceso.\n• Se implementarán manuales que facilitarán la implementación de procedimientos.",
+      "source_name": "malvarez",
+      "source_url": "http://www.tec.ac.cr/pe-ai-09-conformacion-expedientes-actividades-gestion",
+      "publish_date": "2026-03-18T13:06:52.000Z",
+      "teaser": "Lo clave en 20 segundos: un procedimiento para gestionar actividades de forma eficiente.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "malvarez",
       "featured": false
@@ -568,6 +724,19 @@
       "source_url": "http://www.tec.ac.cr/pe-ai-06-revision-actualizacion-ciclo-auditoria",
       "publish_date": "2026-03-18T13:04:38.000Z",
       "teaser": "Lo clave en 20 segundos: Actualización de manuales y procedimientos de auditoría en marzo de 2026.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "malvarez",
+      "featured": false
+    },
+    {
+      "slug": "pe-ai-06-revision-actualizacion-ciclo-auditoria",
+      "title": "PE-AI-06 Revisión y actualización del ciclo de auditoría",
+      "category": "Costa Rica",
+      "bullets_20s": "• La revisión del ciclo de auditoría busca mejorar los procedimientos implementados.\n• El ciclo de auditoría incluye manuales y procedimientos claros para la efectividad.\n• Se espera que los cambios sean implementados a partir de marzo de 2026.\n• Es fundamental que los auditores se capaciten en los nuevos procedimientos.\n• La actualización del ciclo tiene como objetivo la transparencia y eficiencia.",
+      "source_name": "malvarez",
+      "source_url": "http://www.tec.ac.cr/pe-ai-06-revision-actualizacion-ciclo-auditoria",
+      "publish_date": "2026-03-18T13:04:38.000Z",
+      "teaser": "Lo clave en 20 segundos: Actualización del ciclo de auditoría para una mejor eficiencia.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "malvarez",
       "featured": false
@@ -794,6 +963,19 @@
       "featured": false
     },
     {
+      "slug": "la-inedita-batalla-legal-catalina-giraldo-suicidio",
+      "title": "La inédita batalla legal de Catalina Giraldo, la colombiana de 30 años que pide acceder al suicidio médicamente asistido",
+      "category": "Mundo",
+      "bullets_20s": "• Catalina Giraldo enfrenta una situación legal única en Colombia sobre el suicidio asistido.\n• Su caso refleja el debate actual sobre la eutanasia en América Latina y derechos humanos.\n• La salud mental y el apoyo adecuado son claves en situaciones de depresión severa.\n• El sistema de salud colombiano enfrenta retos para abordar estos casos controvertidos.\n• La petición de Catalina ha generado discusiones sobre la ética médica y la ley.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/clyzygk7vd4o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-18T12:01:58.000Z",
+      "teaser": "Lo clave en 20 segundos: Debate sobre suicidio asistido en Colombia a través del caso de Catalina Giraldo.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/82bc/live/9adae4f0-2254-11f1-b6d0-3bb01abdfc34.jpg",
+      "description": "Tras años sufriendo de un cuadro de depresión severa, entre otros diagnósticos, Catalina le está haciendo una petición al sistema de salud colombiano: que la ayude y la acompañe a terminar su vida.",
+      "featured": false
+    },
+    {
       "slug": "la-inedita-batalla-legal-catalina-giraldo-suicidio-asistido",
       "title": "La inédita batalla legal de Catalina Giraldo, la colombiana de 30 años que pide acceder al suicidio médicamente asistido",
       "category": "Mundo",
@@ -921,6 +1103,19 @@
       "teaser": "Lo clave en 20 segundos: Falta de experiencia de directivos podría amenazar pensiones en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/BIPSI6Y4OVEGNGQAFRDAEKORTA.JPG?auth=56f846e6f7418bc55c19bfe324bd331217b1c25e55f4b76148d96ea185609423&smart=true&width=4000&height=2666",
       "description": "Supén señaló que dos directivos de la CCSS no acreditaban idoneidad para decidir sobre el IVM y detectó vacíos en la información profesional de su presidenta ejecutiva, Mónica Taylor",
+      "featured": false
+    },
+    {
+      "slug": "como-los-medios-del-regimen-de-los-ayatolas-les-cuentan-a-los-iranies-la-guerra-con-ee-uu-e-israel",
+      "title": "Cómo los medios del régimen de los ayatolás les cuentan a los iraníes la guerra con EE.UU. e Israel",
+      "category": "Mundo",
+      "bullets_20s": "• Los medios estatales de Irán presentan una narrativa esperanzadora sobre el conflicto con EE.UU. e Israel.\n• Se exageran las bajas enemigas como parte de una estrategia comunicacional de propaganda.\n• La manipulación digital es utilizada para combatir las narrativas adversas sobre la guerra.\n• Los reportes buscan consolidar una imagen positiva del régimen ante su población.\n• La influencia de la tecnología en la información se siente en la cobertura de conflictos.\n• Se analiza cómo la guerra ha transformado la percepción pública dentro de Irán.\n• Los medios iraníes tienen un enfoque propagandístico que distorsiona la realidad del conflicto.\n• Influencia en la opinión pública: una táctica clave del régimen iraní.\n• Las imágenes utilizadas buscan inspirar patriotismo y apoyo al gobierno.\n• El enfoque en la cobertura mediática resalta el impacto de la guerra en la sociedad.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cd6z16zdjvlo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-18T10:41:53.000Z",
+      "teaser": "Lo clave en 20 segundos: Los medios iraníes manipulan la guerra con propaganda contra EE.UU. e Israel.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/17fe/live/103bdfd0-1fbf-11f1-b048-c9424b2cf5fd.jpg",
+      "description": "La cobertura de la guerra por parte de los medios estatales iraníes incluye la exageración de las bajas enemigas y la manipulación digital destinada a glorificar a Irán.",
       "featured": false
     },
     {
@@ -10089,5 +10284,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-18T18:30:43.837Z"
+  "generated_at": "2026-03-18T19:30:43.534Z"
 }
