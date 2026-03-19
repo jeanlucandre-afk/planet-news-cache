@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "randall-leal-vuelve-a-la-seleccion-de-costa-rica",
+      "title": "Randall Leal vuelve a la Selección de Costa Rica tras dos años y su sonrisa es imposible de ocultar",
+      "category": "Costa Rica",
+      "bullets_20s": "• Randall Leal ha sido un jugador destacado en el fútbol costarricense en años recientes.\n• Su regreso a la Selección genera expectativas entre los aficionados y la prensa deportiva.\n• Leal ha pasado por un proceso de adaptación en su club actual, Herediano.\n• La Selección busca consolidar un equipo competitivo para el próximo evento internacional.\n• La participación de Leal puede influir en el rendimiento del equipo en el campo.",
+      "source_name": "Esteban Valverde",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/randall-leal-vuelve-a-la-seleccion-de-costa-rica/CVYJDSZ3CJC7DGCG7QYW6BQJQU/story/",
+      "publish_date": "2026-03-19T00:58:35.000Z",
+      "teaser": "Lo clave en 20 segundos: El regreso de Randall Leal a la Selección Costa Rica ilusiona a los aficionados.",
+      "image_url": "https://www.nacion.com/resizer/v2/ISOJZULLOZC43DTBRNIYPXE7TY.jpeg?auth=3a06bae65f4a4f9e52258a5882bf4a3b45fedfd719d1a16b189bbeeccc7fbe42&smart=true&width=1280&height=853",
+      "description": "Randall Leal, hoy en Herediano, volvió a ponerse la camisa de la Selección de Costa Rica, luego de que en el proceso 2026 estuvo ausente.",
+      "featured": false
+    },
+    {
+      "slug": "perros-ingresan-a-cuidados-intensivos-del-monseñor-sanabria",
+      "title": "Perros ingresan a cuidados intensivos del Monseñor Sanabria para apoyar a pacientes",
+      "category": "Costa Rica",
+      "bullets_20s": "• El hospital Monseñor Sanabria implementa una terapia innovadora con perros en su UCI.\n• La inclusión de perros busca mejorar el bienestar emocional de los pacientes graves.\n• Terapias con animales han mostrado beneficios positivos en la salud mental.\n• Los perros ayudan a reducir la ansiedad y el estrés en ambientes hospitalarios.\n• Los pacientes han respondido de manera positiva a la visita de estos animales.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-pais/perros-en-la-uci-de-un-hospital-esto-ocurre-en-el/XN5EFCTKQZESTPM5M7IWNY3IIM/story/",
+      "publish_date": "2026-03-19T00:03:00.000Z",
+      "teaser": "Lo clave en 20 segundos: perros en terapia UCI ayudan a pacientes en Puntarenas.",
+      "image_url": "https://www.nacion.com/resizer/v2/WJJ74DKKYFCZLDD5R7AWVZQULM.png?auth=6c107fd29af989fd57462cca7b47704377914d54389cdbd8efe1bd9b7b9f4451&smart=true&width=1680&height=945",
+      "description": "Un hospital de Puntarenas abrió las puertas de su UCI a una terapia poco común en Costa Rica. Conozca cómo la visita de perros busca reducir el estrés y apoyar emocionalmente a pacientes en condición crítica.",
+      "featured": false
+    },
+    {
       "slug": "perros-ingresan-a-cuidados-intensivos-del-monseñor-sanabria",
       "title": "Perros ingresan a cuidados intensivos del Monseñor Sanabria para apoyar a pacientes",
       "category": "Costa Rica",
@@ -14,6 +40,19 @@
       "featured": false
     },
     {
+      "slug": "propuesta-propia-de-las-dictaduras-alvaro-ramirez",
+      "title": "Es una propuesta ‘propia de las dictaduras’: Álvaro Ramírez y Abril Gordienko fustigan idea de Nogui Acosta de allanamientos sin orden judicial",
+      "category": "Costa Rica",
+      "bullets_20s": "• Álvaro Ramírez y Abril Gordienko critican la propuesta de allanamientos sin orden judicial.\n• Nogui Acosta defiende su idea de allanamientos, generando gran controversia política.\n• Las reacciones de PLN y PUSC reflejan preocupaciones sobre derechos ciudadanos en Costa Rica.\n• Expertos comentan sobre la posible violación de derechos humanos con esta propuesta.\n• La discusión se intensifica en el ámbito político del país ante la inminente decisión.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/politica/es-una-propuesta-propia-de-las-dictaduras-alvaro/NCW4G4CBNBEUPIXX52YAK3CMEQ/story/",
+      "publish_date": "2026-03-19T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Ramírez y Gordienko critican propuesta de allanamientos sin orden judicial.",
+      "image_url": "https://www.nacion.com/resizer/v2/IVRHZKWO4JHCZNEPZFJZYZUTO4.jpg?auth=5816c9b1aa22756c632c7d4f2256111330be3d49142720720a5f6c29a7f20898&smart=true&width=1920&height=1080",
+      "description": "Las próximas jefaturas del PLN y el PUSC reaccionan a la propuesta del oficialista Nogui Acosta sobre allanamientos sin orden judicial.",
+      "featured": false
+    },
+    {
       "slug": "nathan-ordaz-sorprende-alajuelense",
       "title": "Nathan Ordaz, el salvadoreño de LAFC, sorprende con lo que dijo de Alajuelense y su afición",
       "category": "Costa Rica",
@@ -22,6 +61,19 @@
       "source_url": "https://www.nacion.com/puro-deporte/nathan-ordaz-el-salvadoreno-de-lafc-sorprende-con/W5OVJXCJDBDX3K2RYKB4QOCEL4/story/",
       "publish_date": "2026-03-18T23:59:17.000Z",
       "teaser": "Lo clave en 20 segundos: Nathan Ordaz habla sobre la afición de Alajuelense tras el partido.",
+      "image_url": "https://www.nacion.com/resizer/v2/HFITFAVPSFDOVCK6E6TELJ4PSI.JPG?auth=a5f276e2a59aa071e36b297a7c77aafef0de50f118ccf6e2953e0e3e2282755e&smart=true&width=4256&height=2832",
+      "description": "Estas fueron las impresiones de Nathan Ordaz luego del partido entre Liga Deportiva Alajuelense y LAFC.",
+      "featured": false
+    },
+    {
+      "slug": "nathan-ordaz-sorprende-alajuelense-aficion",
+      "title": "Nathan Ordaz, el salvadoreño de LAFC, sorprende con lo que dijo de Alajuelense y su afición",
+      "category": "Mundo",
+      "bullets_20s": "• Nathan Ordaz, jugador salvadoreño, habló sobre su experiencia en LAFC.\n• Resaltó la energía y apoyo constante de la afición de Alajuelense.\n• Las impresiones fueron compartidas tras un reciente partido significativo.\n• Ordaz valoró cómo el ambiente influye en el rendimiento de los jugadores.\n• El choque cultural entre ambos clubes brindó perspectivas interesantes.",
+      "source_name": "Fanny Tayver Marín",
+      "source_url": "https://www.nacion.com/puro-deporte/nathan-ordaz-el-salvadoreno-de-lafc-sorprende-con/W5OVJXCJDBDX3K2RYKB4QOCEL4/story/",
+      "publish_date": "2026-03-18T23:59:17.000Z",
+      "teaser": "Lo clave en 20 segundos: Nathan Ordaz comparte sus impresiones sobre la afición de Alajuelense.",
       "image_url": "https://www.nacion.com/resizer/v2/HFITFAVPSFDOVCK6E6TELJ4PSI.JPG?auth=a5f276e2a59aa071e36b297a7c77aafef0de50f118ccf6e2953e0e3e2282755e&smart=true&width=4256&height=2832",
       "description": "Estas fueron las impresiones de Nathan Ordaz luego del partido entre Liga Deportiva Alajuelense y LAFC.",
       "featured": false
@@ -443,6 +495,19 @@
       "featured": false
     },
     {
+      "slug": "delcy-rodriguez-destituye-general-vladimir-padrino",
+      "title": "Delcy Rodríguez destituye al general Vladimir Padrino, el leal aliado militar de Maduro",
+      "category": "Mundo",
+      "bullets_20s": "• Delcy Rodríguez es la vicepresidenta de la República Bolivariana de Venezuela.\n• La decisión de destituir al general Padrino generó reacciones en el ámbito político.\n• El general Padrino era considerado un aliado cercano al presidente Nicolás Maduro.\n• Gustavo González López asume un papel clave en la estrategia militar del país.\n• Esta medida refleja cambios significativos en la estructura del gobierno venezolano.\n• Las tensiones en Venezuela continúan afectando la estabilidad regional y global.\n• Observadores internacionales siguen de cerca los acontecimientos en Venezuela.\n• Las fuerzas armadas han jugado un papel crucial en la política del país.\n• La destitución plantea preguntas sobre el futuro de las relaciones militares en Venezuela.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c8egegkpl0ro?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-18T18:27:25.000Z",
+      "teaser": "Lo clave en 20 segundos: Delcy Rodríguez destituye a Padrino, un cambio que sacude el escenario militar en Venezuela.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/bfdb/live/20cb91e0-22f5-11f1-8620-17795c093e86.jpg",
+      "description": "Delcy Rodríguez nombró como nuevo ministro de Defensa al general Gustavo González López.",
+      "featured": false
+    },
+    {
       "slug": "delcy-rodriguez-destituye-a-vladimir-padrino-como-ministro-de-defensa-de-venezuela",
       "title": "Delcy Rodríguez destituye a Vladimir Padrino como ministro de Defensa de Venezuela",
       "category": "Mundo",
@@ -568,6 +633,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/c5y6yjp1rkzo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-18T17:53:18.000Z",
       "teaser": "Lo clave en 20 segundos: Fin de patente de Ozempic en India revolucionará el acceso a tratamientos contra la obesidad.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/93c1/live/1ad74b40-22b8-11f1-a79a-77e93010d956.jpg",
+      "description": "Dado que la patente de la semaglutida en India expira el 20 de marzo, se espera que entren en el mercado alrededor de 50 genéricos de marca.",
+      "featured": false
+    },
+    {
+      "slug": "fin-patente-ozempic-india-obesidad",
+      "title": "Cómo el fin de la patente de Ozempic en India puede cambiar la lucha global contra la obesidad (y cuáles son los riesgos)",
+      "category": "Mundo",
+      "bullets_20s": "• La expiración de la patente de Ozempic en India se anticipa con mucho interés por los especialistas en salud.\n• Se espera que la llegada de nuevos genéricos impacte en el costo de los tratamientos para la obesidad.\n• La semaglutida ha sido utilizada como tratamiento efectivo contra la obesidad a nivel global.\n• Los genéricos pueden aumentar el acceso a medicamentos para personas con sobrepeso en varios países.\n• Existen preocupaciones sobre la calidad y los posibles efectos secundarios de estos nuevos medicamentos genéricos.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c5y6yjp1rkzo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-18T17:53:18.000Z",
+      "teaser": "Lo clave en 20 segundos: Expira la patente de Ozempic en India, impactando la lucha global contra la obesidad.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/93c1/live/1ad74b40-22b8-11f1-a79a-77e93010d956.jpg",
       "description": "Dado que la patente de la semaglutida en India expira el 20 de marzo, se espera que entren en el mercado alrededor de 50 genéricos de marca.",
       "featured": false
@@ -823,6 +901,19 @@
       "slug": "directorio-asamblea-institucional-representativa-normativa-consulta-formal",
       "title": "Directorio de la Asamblea Institucional Representativa Normativa Consulta Formal",
       "category": "Costa Rica",
+      "bullets_20s": "• Se presenta el nuevo directorio para la Asamblea Institucional Representativa en su versión normativa.\n• Se detallan los procedimientos relevantes para la correcta consulta formal del directorio.\n• El documento fue publicado en la Gaceta 1311 durante el mes de febrero de 2026.\n• La entrada en vigencia de este directorio se estableció en febrero del presente año.\n• Se enfatiza la importancia de la organización en las instituciones de educación superior.",
+      "source_name": "macastro",
+      "source_url": "http://www.tec.ac.cr/directorio-asamblea-institucional-representativa-normativa-consulta-formal",
+      "publish_date": "2026-03-18T16:05:38.000Z",
+      "teaser": "Lo clave en 20 segundos: Nuevo directorio para la Asamblea Institucional Representativa en Costa Rica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "macastro",
+      "featured": false
+    },
+    {
+      "slug": "directorio-asamblea-institucional-representativa-normativa-consulta-formal",
+      "title": "Directorio de la Asamblea Institucional Representativa Normativa Consulta Formal",
+      "category": "Costa Rica",
       "bullets_20s": "• El Directorio de la AIR busca mejorar la comunicación interna de la institución.\n• Incluye procedimientos claros para la consulta de normativas en la asamblea.\n• Se establece un marco formal para la participación de los representantes.\n• Las modificaciones realizadas se reflejan en la Gaceta oficial del país.\n• El documento tiene vigencia desde febrero de 2026 tras ser publicado.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/directorio-asamblea-institucional-representativa-normativa-consulta-formal",
@@ -945,6 +1036,19 @@
       "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cuatro-ponencias-fueron-aprobadas-segundo-dia",
       "publish_date": "2026-03-18T15:36:10.000Z",
       "teaser": "Lo clave en 20 segundos: Cuatro ponencias aprobadas en el V Congreso Institucional del TEC.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-institucional_2026_tec-cartago_djimenez-1.jpg.webp?itok=eOvSoKG5",
+      "description": "V Congreso Institucional: Cuatro ponencias fueron aprobadas en el segundo día",
+      "featured": false
+    },
+    {
+      "slug": "v-congreso-institucional-cuatro-ponencias-aprobadas",
+      "title": "V Congreso Institucional: Cuatro ponencias fueron aprobadas en el segundo día",
+      "category": "Costa Rica",
+      "bullets_20s": "• El V Congreso Institucional ha debatido diversas ponencias críticas del desarrollo educativo.\n• Cuatro ponencias fueron aprobadas en el segundo día, avanzando en decisiones importantes.\n• Temas tratados incluyen el estímulo al talento humano y la creación de un repositorio de software.\n• Las sesiones plenarias permiten discutir estrategias para mejorar la educación en Costa Rica.\n• Se espera que las mociones y propuestas avancen en bien de la institución educativa.",
+      "source_name": "anasolano",
+      "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cuatro-ponencias-fueron-aprobadas-segundo-dia",
+      "publish_date": "2026-03-18T15:36:10.000Z",
+      "teaser": "Lo clave en 20 segundos: Se aprueban cuatro ponencias en el V Congreso Institucional de Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-institucional_2026_tec-cartago_djimenez-1.jpg.webp?itok=eOvSoKG5",
       "description": "V Congreso Institucional: Cuatro ponencias fueron aprobadas en el segundo día",
       "featured": false
@@ -1446,6 +1550,19 @@
     {
       "slug": "pe-ai-10-conformacion-expedientes-servicios-auditoria",
       "title": "PE-AI-10 Conformación expedientes de los servicios de auditoría",
+      "category": "Ciencia",
+      "bullets_20s": "• El procedimiento establece directrices para la conformación de expedientes de auditoría.\n• Se enfoca en la creación de manuales que guiarán el proceso de auditoría.\n• Destaca la importancia de la actualización de documentos en auditoría.\n• Los procedimientos fueron revisados y modificados en marzo de 2026.\n• El cumplimiento de estos procedimientos es esencial para la auditoría efectiva.",
+      "source_name": "malvarez",
+      "source_url": "http://www.tec.ac.cr/pe-ai-10-conformacion-expedientes-servicios-auditoria",
+      "publish_date": "2026-03-18T13:08:27.000Z",
+      "teaser": "Lo clave en 20 segundos: Conoce el nuevo procedimiento para la conformación de expedientes de auditoría.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "malvarez",
+      "featured": false
+    },
+    {
+      "slug": "pe-ai-10-conformacion-expedientes-servicios-auditoria",
+      "title": "PE-AI-10 Conformación expedientes de los servicios de auditoría",
       "category": "Tecnología",
       "bullets_20s": "• La conformación de expedientes es clave para la auditoría de los servicios.\n• Se detallan manuales y procedimientos necesarios para la creación de expedientes.\n• Los procedimientos incluyen pautas que aseguran la integridad de la auditoría.\n• El proceso se revisó y actualizó en marzo de 2026 para mayor efectividad.\n• La documentación adecuada es esencial para una auditoría exitosa.",
       "source_name": "malvarez",
@@ -1517,6 +1634,19 @@
       "source_url": "http://www.tec.ac.cr/pe-ai-09-conformacion-expedientes-actividades-gestion",
       "publish_date": "2026-03-18T13:06:52.000Z",
       "teaser": "Lo clave en 20 segundos: Este procedimiento establece cómo gestionar eficientemente expedientes.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "malvarez",
+      "featured": false
+    },
+    {
+      "slug": "pe-ai-09-conformacion-expedientes-actividades-gestion",
+      "title": "PE-AI-09 Conformación expedientes de actividades de gestión",
+      "category": "Tecnología",
+      "bullets_20s": "• El procedimiento trata sobre la conformación de expedientes de actividades de gestión.\n• Proporciona un manual detallado para la correcta realización de las actividades.\n• Los documentos son esenciales para el seguimiento de proyectos y actividades.\n• Incluye fechas de creación y revisión de los procedimientos establecidos.\n• El enfoque es mejorar la organización y gestión de actividades profesionales.",
+      "source_name": "malvarez",
+      "source_url": "http://www.tec.ac.cr/pe-ai-09-conformacion-expedientes-actividades-gestion",
+      "publish_date": "2026-03-18T13:06:52.000Z",
+      "teaser": "Lo clave en 20 segundos: un procedimiento para gestionar actividades efectivamente.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "malvarez",
       "featured": false
@@ -1608,6 +1738,19 @@
       "source_url": "http://www.tec.ac.cr/pe-ai-09-conformacion-expedientes-actividades-gestion",
       "publish_date": "2026-03-18T13:06:52.000Z",
       "teaser": "Lo clave en 20 segundos: Procedimientos para la gestión efectiva de actividades en proyectos.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "malvarez",
+      "featured": false
+    },
+    {
+      "slug": "pe-ai-06-revision-actualizacion-ciclo-auditoria",
+      "title": "PE-AI-06 Revisión y actualización del ciclo de auditoría",
+      "category": "Tecnología",
+      "bullets_20s": "• La revisión y actualización del ciclo de auditoría es crucial para mantener estándares de calidad.\n• Los procedimientos documentados facilitan la comprensión de cómo se realizan las auditorías.\n• La auditoría regular ayuda a identificar áreas de mejora en los procesos internos.\n• Las modificaciones se realizarán en marzo de 2026 y se espera su implementación pronta.\n• Es importante seguir los manuales para una correcta auditoría y evaluación de resultados.",
+      "source_name": "malvarez",
+      "source_url": "http://www.tec.ac.cr/pe-ai-06-revision-actualizacion-ciclo-auditoria",
+      "publish_date": "2026-03-18T13:04:38.000Z",
+      "teaser": "Lo clave en 20 segundos: Revisión del ciclo de auditoría para mantener calidad y eficiencia.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "malvarez",
       "featured": false
@@ -1912,6 +2055,19 @@
       "featured": false
     },
     {
+      "slug": "la-inedita-batalla-legal-de-catalina-giraldo",
+      "title": "La inédita batalla legal de Catalina Giraldo, la colombiana de 30 años que pide acceder al suicidio médicamente asistido",
+      "category": "Mundo",
+      "bullets_20s": "• Catalina Giraldo busca el acceso al suicidio asistido en Colombia debido a su severa depresión.\n• El caso ha generado un intenso debate sobre la eutanasia y los derechos individuales en Latinoamérica.\n• Las leyes sobre suicidio asistido varían considerablemente entre diferentes países de la región.\n• Catalina enfrenta años de sufrimiento, lo que la llevó a solicitar esta ayuda médica específica.\n• La oposición y el apoyo social reflejan posturas divergentes en la sociedad colombiana respecto al tema.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/clyzygk7vd4o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-18T12:01:58.000Z",
+      "teaser": "Lo clave en 20 segundos: Debates sobre el suicidio asistido en Colombia tras el caso de Catalina Giraldo.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/82bc/live/9adae4f0-2254-11f1-b6d0-3bb01abdfc34.jpg",
+      "description": "Tras años sufriendo de un cuadro de depresión severa, entre otros diagnósticos, Catalina le está haciendo una petición al sistema de salud colombiano: que la ayude y la acompañe a terminar su vida.",
+      "featured": false
+    },
+    {
       "slug": "la-inedita-batalla-legal-catalina-giraldo-suicidio-asistido",
       "title": "La inédita batalla legal de Catalina Giraldo, la colombiana de 30 años que pide acceder al suicidio médicamente asistido",
       "category": "Mundo",
@@ -2156,6 +2312,19 @@
       "teaser": "Lo clave en 20 segundos: Falta de experiencia de directivos podría amenazar pensiones en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/BIPSI6Y4OVEGNGQAFRDAEKORTA.JPG?auth=56f846e6f7418bc55c19bfe324bd331217b1c25e55f4b76148d96ea185609423&smart=true&width=4000&height=2666",
       "description": "Supén señaló que dos directivos de la CCSS no acreditaban idoneidad para decidir sobre el IVM y detectó vacíos en la información profesional de su presidenta ejecutiva, Mónica Taylor",
+      "featured": false
+    },
+    {
+      "slug": "como-los-medios-del-regimen-de-los-ayatolas-les-cuentan-a-los-iranies-la-guerra-con-ee-uu-e-israel",
+      "title": "Cómo los medios del régimen de los ayatolás les cuentan a los iraníes la guerra con EE.UU. e Israel",
+      "category": "Mundo",
+      "bullets_20s": "• Los medios estatales de Irán presentan una narrativa favorable a su régimen sobre el conflicto.\n• Se observan exageraciones en las cifras de muertos y heridos del enemigo en sus informes.\n• La manipulación digital juega un papel clave en la difusión de su versión del conflicto.\n• Las estrategias de comunicación buscan reforzar el sentimiento nacionalista entre los iraníes.\n• Los reportes no suelen incluir información proveniente de fuentes independientes o externas.\n• Se destaca el uso de imágenes y videos para promover una imagen heroica de la resistencia.\n• El control sobre la información limita el acceso a versiones distintas del conflicto.\n• Los ciudadanos iraníes a menudo sólo tienen acceso a la versión oficial de su gobierno.\n• La propaganda bélica busca fortalecer el apoyo interno al régimen en tiempos de crisis.\n• Las tecnologías de la información permiten un mayor alcance de la narrativa del régimen.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cd6z16zdjvlo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-18T10:41:53.000Z",
+      "teaser": "Lo clave en 20 segundos: Control mediático en Irán sobre la guerra con EE.UU. y su impacto.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/17fe/live/103bdfd0-1fbf-11f1-b048-c9424b2cf5fd.jpg",
+      "description": "La cobertura de la guerra por parte de los medios estatales iraníes incluye la exageración de las bajas enemigas y la manipulación digital destinada a glorificar a Irán.",
       "featured": false
     },
     {
@@ -11415,5 +11584,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-19T01:30:44.062Z"
+  "generated_at": "2026-03-19T02:30:43.922Z"
 }
