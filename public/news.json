@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "slug": "donald-trump-bromea-sobre-pearl-harbor",
+      "title": "Donald Trump bromea sobre Pearl Harbor ante líder de Japón y provoca momento incómodo",
+      "category": "Mundo",
+      "bullets_20s": "• Donald Trump hizo una declaración inusual frente al primer ministro de Japón.\n• La broma sobre Pearl Harbor generó incomodidad en la reunión.\n• Trump evitó abordar temas sensibles como el conflicto con Irán.\n• Las reacciones a su broma se reflejan en medios de comunicación internacionales.\n• Este incidente destaca las complejas relaciones diplomáticas entre EE.UU. y Japón.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/donald-trump-bromea-sobre-pearl-harbor-ante-lider/TWQYGFMVNNFAPFBWSVNZ63CFAQ/story/",
+      "publish_date": "2026-03-19T19:26:11.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump bromea sobre un tema delicado durante reunión con Japón.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZOBBNXOFBJB3FBTXPNUMODFOJM.jpg?auth=fffab77998d1d59d1682f2ce71a97a4892a8bb100fb8811341b5d96737449e07&smart=true&width=1024&height=682",
+      "description": "Presidente de Estados Unidos esquivó pregunta sobre Irán bromeando sobre ataque a base estadounidense en la Segunda Guerra Mundial.",
+      "featured": false
+    },
+    {
+      "slug": "para-que-sirve-el-pequeno-agujero-que-tienen-los-celulares-en-un-borde",
+      "title": "Para qué sirve el pequeño agujero que tienen los celulares en un borde",
+      "category": "Tecnología",
+      "bullets_20s": "• El agujero ayuda a eliminar el ruido de fondo en las llamadas telefónicas.\n• Se encuentra en muchos modelos de celulares modernos, especialmente Android.\n• Este micrófono adicional mejora la experiencia auditiva durante las llamadas.\n• No es un diseño estético, sino una función técnica útil para los usuarios.\n• Contribuye a la claridad de la voz en ambientes ruidosos.",
+      "source_name": "El País / GDA / Uruguay",
+      "source_url": "https://www.nacion.com/ciencia/para-que-sirve-el-pequeno-agujero-del-celular-que/L7UKN3OHFZHRHHV2RUEADJDXUY/story/",
+      "publish_date": "2026-03-19T19:25:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El agujero en los celulares mejora la calidad de tus llamadas al reducir el ruido externo.",
+      "image_url": "https://www.nacion.com/resizer/v2/MEIP4JFTZRE2JJY33RMYR47ARY.png?auth=198f1f4f8cb0ea67fe9565ad4a7fbdf85f91f67a4fd70b30a00bf88cac389850&smart=true&width=1680&height=945",
+      "description": "El pequeño agujero en los celulares Android no es decoración. Es un micrófono clave que mejora la calidad de llamadas al reducir el ruido externo.",
+      "featured": false
+    },
+    {
+      "slug": "tipo-de-cambio-monex-nuevo-minimo",
+      "title": "Tipo de cambio en el Monex no detiene su caída y marca un nuevo mínimo",
+      "category": "Costa Rica",
+      "bullets_20s": "• El tipo de cambio del dólar sigue su tendencia a la baja en el mercado Monex.\n• Analistas prevén que esta caída afecte diferentes sectores económicos locales.\n• La disminución del dólar puede influir en los precios de importación en el país.\n• Este movimiento genera incertidumbre en los ciudadanos y en las empresas.\n• Se recomienda a los consumidores observar las fluctuaciones del tipo de cambio.",
+      "source_name": "Mónica Cerdas Gómez",
+      "source_url": "https://www.nacion.com/economia/tipo-de-cambio-en-el-monex-no-detiene-su-caida-y/2WSIYWXT2ZGTZHWQFSD6D5VFFI/story/",
+      "publish_date": "2026-03-19T19:21:44.000Z",
+      "teaser": "Lo clave en 20 segundos: El dólar continúa su caída en el mercado Monex, generando preocupación.",
+      "image_url": "https://www.nacion.com/resizer/v2/A6ZK5BKXRBDDNACRGQDOBN5O5I.jpg?auth=3065edc016f0a0bdcd9d920a0f190879b3001353f474618f3980de13d85339d8&smart=true&width=4841&height=3227",
+      "description": "Este 19 de marzo, el precio del dólar en el Monex bajó ¢0,78 respecto a la sesión del día anterior.",
+      "featured": false
+    },
+    {
+      "slug": "la-nueva-opcion-de-adobe-firefly-logra-que-la-inteligencia-artificial-aprenda-su-estilo-visual",
+      "title": "La nueva opción de Adobe Firefly logra que la inteligencia artificial aprenda su estilo visual",
+      "category": "Tecnología",
+      "bullets_20s": "• Adobe introduce Firefly, una nueva herramienta que personaliza la IA según el estilo del usuario.\n• Los usuarios pueden entrenar la inteligencia artificial utilizando sus propias imágenes e ilustraciones.\n• Firefly permite mantener congruencia visual en proyectos creativos de diferentes tipos.\n• Esta beta pública facilita un acceso directo a las funcionalidades más avanzadas.\n• Los creadores pueden experimentar con sus propios contenidos para obtener resultados únicos.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/tecnologia/la-nueva-opcion-de-adobe-firefly-logra-que-la/4OVRYTST2RDOXJ4OOOANPC4RJY/story/",
+      "publish_date": "2026-03-19T19:05:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Adobe Firefly permite personalizar IA con tu estilo visual.",
+      "image_url": "https://www.nacion.com/resizer/v2/WJ6DLOSGT5BALGCHBPAPLVZAXQ.png?auth=f555d91d078f212ff367d0f55eb2a9dd7148093285686517ce2ea70dd6d0e395&smart=true&width=1920&height=1080",
+      "description": "Adobe lanza beta pública de Firefly para entrenar inteligencia artificial con contenido propio. Aprenda cómo personalizar modelos de IA con sus fotos e ilustraciones para mantener coherencia visual en sus proyectos creativos.",
+      "featured": false
+    },
+    {
+      "slug": "jose-giacone-fue-contundente-sobre-la-eliminacion",
+      "title": "José Giacone fue contundente sobre la eliminación de Alajuelense y el caso de Alejandro Bran",
+      "category": "Costa Rica",
+      "bullets_20s": "• José Giacone se pronunció sobre la eliminación de Alajuelense en el torneo reciente.\n• Las preguntas se centraron en su opinión sobre Alejandro Bran y su rendimiento.\n• Giacone mostró una postura clara y contundente ante las dudas planteadas.\n• La Liga Deportiva Alajuelense ha tenido un desempeño que generó reacciones mixtas.\n• Los aficionados esperan escuchar más opiniones sobre el futuro del equipo.",
+      "source_name": "Fanny Tayver Marín, Juan Diego Villarreal",
+      "source_url": "https://www.nacion.com/puro-deporte/jose-giacone-fue-contundente-sobre-la-eliminacion/OCSAYIOFGVC33D32BPTPCIAEAY/story/",
+      "publish_date": "2026-03-19T18:56:20.000Z",
+      "teaser": "Lo clave en 20 segundos: Giacone responde preguntas sobre la eliminación de Alajuelense y Alejandro Bran.",
+      "image_url": "https://www.nacion.com/resizer/v2/AKCBTNQ2GZBTRG5CME7QOONZVQ.jpeg?auth=ff1c8aace74525153a0f5280f41207557198dc5203ac6795a3a32167e5aafeb5&smart=true&width=2976&height=1984",
+      "description": "Esto dijo José Giacone al recibir preguntas directas sobre Alejandro Bran y Liga Deportiva Alajuelense.",
+      "featured": false
+    },
+    {
       "slug": "vecinos-hallan-muerto-estadounidense-guanacaste",
       "title": "Vecinos hallan muerto a estadounidense dentro de una vivienda en Guanacaste: OIJ identifica víctima",
       "category": "Costa Rica",
@@ -193,6 +258,19 @@
       "teaser": "Lo clave en 20 segundos: Tensiones en Irán y su impacto en Israel y la política global.",
       "image_url": "https://www.nacion.com/resizer/v2/HXGVVLFUXBCHBG37XNX6SARVRY.jpg?auth=51810e5c80c788b03831b6e337798a102e129121d30a90f6b65d303de03f5437&smart=true&width=1200&height=801",
       "description": "“El debate no debería ser cuándo (la guerra) terminará, sino cómo vamos a prolongar y profundizar el daño”, dice jerarca.",
+      "featured": false
+    },
+    {
+      "slug": "conversatorio-unesco-como-nos-relacionamos-con-nuestro-entorno",
+      "title": "Conversatorio UNESCO: ¿Cómo nos relacionamos con nuestro entorno? ¿Hemos roto lazos con la naturaleza?",
+      "category": "Ciencia",
+      "bullets_20s": "• El conversatorio busca reflexionar sobre nuestro vínculo con la naturaleza y su importancia.\n• Expertos de UNESCO compartirán sus conocimientos sobre la relación sociedad-naturaleza.\n• Se abordarán los desafíos ambientales contemporáneos y sus implicaciones globales.\n• La actividad fomenta el diálogo interdisciplinario entre diversas áreas de estudio.\n• El conversatorio es parte de las celebraciones del 55 aniversario del TEC.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/conversatorio-unesco-nos-relacionamos-nuestro-entorno-hemos-roto-lazos-naturaleza",
+      "publish_date": "2026-03-19T15:28:47.000Z",
+      "teaser": "Lo clave en 20 segundos: un evento sobre la relación entre sociedad y naturaleza.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/area-vegetal_cib_rgarita-1.jpg",
+      "description": "Conversatorio UNESCO: ¿Cómo nos relacionamos con nuestro entorno? ¿Hemos roto lazos con la naturaleza?",
       "featured": false
     },
     {
@@ -417,6 +495,19 @@
       "featured": false
     },
     {
+      "slug": "sin-darme-cuenta-me-estaba-prostituyendo",
+      "title": "Sin darme cuenta, me estaba prostituyendo: cómo la red de Epstein utilizó agencias de modelos para reclutar adolescentes de América Latina",
+      "category": "Mundo",
+      "bullets_20s": "• Investigaciones revelan cómo se usaron agencias de modelos para reclutar adolescentes vulnerables.\n• Las víctimas comparten testimonios sobre su experiencia con la red de Epstein.\n• Los agentes utilizaban promesas de trabajo y visas para acceder a las chicas.\n• El reclutamiento se dio principalmente en América Latina, afectando a muchas jóvenes.\n• Las implicaciones legales y sociales de este caso siguen generando controversia.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cp320d2v55zo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-19T12:32:14.000Z",
+      "teaser": "Lo clave en 20 segundos: agencias de modelos facilitaban el reclutamiento de adolescentes para Epstein.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ad37/live/f06de510-1deb-11f1-801d-ed3cff6bf876.jpg",
+      "description": "Un agente de modelos utilizó empresas para reclutar chicas y gestionar visas estadounidenses para visitar a Jeffrey Epstein, según cuentan mujeres brasileñas a la BBC.",
+      "featured": false
+    },
+    {
       "slug": "tipo-de-cambio-del-dolar-jueves-19-marzo-2026",
       "title": "Tipo de cambio del dólar: jueves 19 de marzo de 2026",
       "category": "Costa Rica",
@@ -625,6 +716,19 @@
       "featured": false
     },
     {
+      "slug": "por-que-cada-cultura-tiene-un-caldo-para-tratar-dolencias-y-buscar-confort",
+      "title": "Por qué cada cultura tiene un caldo para tratar dolencias y buscar confort",
+      "category": "Mundo",
+      "bullets_20s": "• Los caldos son una receta ancestral presente en diferentes culturas alrededor del mundo.\n• Se han utilizado como remedios naturales para aliviar diversas dolencias a lo largo del tiempo.\n• Las celebraciones muchas veces incluyen sopas que simbolizan unidad y tradición en cada cultura.\n• Históricamente, los caldos han ayudado a optimizar el uso de ingredientes escasos y nutritivos.\n• Existen variaciones en la preparación de caldos que reflejan la diversidad cultural de cada zona.\n• Los beneficios emocionales de los caldos también son significativos, propiciando el bienestar.\n• Los caldos han evolucionado a lo largo del tiempo, adaptándose a los cambios sociales.\n• Cada región tiene su receta característica que conecta a las personas con sus raíces.\n• Los ingredientes de los caldos son fuente de nutrición y confort en momentos difíciles.\n• Los caldosos son un elemento clave en la gastronomía, trascendiendo fronteras y culturas.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c2k839514p1o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-19T11:39:16.000Z",
+      "teaser": "Lo clave en 20 segundos: Los caldos son un vínculo cultural que ofrece salud y confort en diversas tradiciones.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/79ce/live/aaf503f0-1978-11f1-b048-c9424b2cf5fd.jpg",
+      "description": "En todas las latitudes, los caldos han aliviado enfermedades, marcado celebraciones y hecho rendir los ingredientes escasos mucho antes de que se convirtieran en una tendencia de bienestar.",
+      "featured": false
+    },
+    {
       "slug": "por-que-cada-cultura-tiene-un-caldo",
       "title": "Por qué cada cultura tiene un caldo para tratar dolencias y buscar confort",
       "category": "Mundo",
@@ -763,6 +867,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/c3rzr7ldj42o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-19T03:52:16.000Z",
       "teaser": "Lo clave en 20 segundos: La guerra de Irán altera la seguridad en Dubái y Qatar, causando pérdidas millonarias.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cdc2/live/68b9d7d0-22de-11f1-9c64-25f36d76b36f.jpg",
+      "description": "La frustración crece entre las monarquías del Golfo, que se han visto arrastradas a una guerra que no buscaron, con carísismas consecuencias y sin una salida clara.",
+      "featured": false
+    },
+    {
+      "slug": "como-la-guerra-de-iran-rompio-el-espejismo-de-seguridad",
+      "title": "Cómo la guerra de Irán rompió el espejismo de seguridad en lugares del Golfo como Dubái y Qatar (y las millonarias pérdidas que conlleva)",
+      "category": "Mundo",
+      "bullets_20s": "• Las monarquías del Golfo, enfrentadas a situaciones inesperadas, están reevaluando su seguridad regional.\n• El conflicto ha impactado severamente la economía de países como Dubái y Qatar.\n• Las consecuencias de la guerra se extienden más allá de lo económico, afectando la confianza internacional.\n• Los líderes de la región buscan soluciones para mantener la estabilidad en medio del caos.\n• Las tensiones aumentan y la diplomacia se vuelve crucial ante la falta de claridad futura.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c3rzr7ldj42o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-19T03:52:16.000Z",
+      "teaser": "Lo clave en 20 segundos: La guerra en Irán pone en jaque la seguridad de Dubái y Qatar.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cdc2/live/68b9d7d0-22de-11f1-9c64-25f36d76b36f.jpg",
       "description": "La frustración crece entre las monarquías del Golfo, que se han visto arrastradas a una guerra que no buscaron, con carísismas consecuencias y sin una salida clara.",
       "featured": false
@@ -914,6 +1031,19 @@
       "slug": "directorio-asamblea-institucional-representativa-normativa-consulta-formal",
       "title": "Directorio de la Asamblea Institucional Representativa Normativa Consulta Formal",
       "category": "Costa Rica",
+      "bullets_20s": "• El directorio proporciona acceso a información sobre la Asamblea Institucional Representativa.\n• Se puede consultar la normativa vigente relacionada con la Asamblea Institucional.\n• La entrada en vigencia de este directorio es en febrero de 2026.\n• El documento también incluye la fecha de última modificación en marzo de 2026.\n• Se presenta un formato accesible mediante un archivo PDF en la Gaceta TEC.",
+      "source_name": "macastro",
+      "source_url": "http://www.tec.ac.cr/directorio-asamblea-institucional-representativa-normativa-consulta-formal",
+      "publish_date": "2026-03-18T16:05:38.000Z",
+      "teaser": "Lo clave en 20 segundos: Consultas sobre la Asamblea Institucional Representativa ahora accesibles online.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "macastro",
+      "featured": false
+    },
+    {
+      "slug": "directorio-asamblea-institucional-representativa-normativa-consulta-formal",
+      "title": "Directorio de la Asamblea Institucional Representativa Normativa Consulta Formal",
+      "category": "Costa Rica",
       "bullets_20s": "• La Asamblea Institucional Representativa es vital para la toma de decisiones en instituciones públicas.\n• Este directorio incluye procedimientos esenciales para la consulta formal en los procesos administrativos.\n• La entrada en vigencia del documento fue en febrero de 2026, tras su publicación en gaceta.\n• El directorio promueve la transparencia y participación ciudadana en la gestión pública.\n• La última modificación se realizó en marzo de 2026 para actualizar procedimientos necesarios.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/directorio-asamblea-institucional-representativa-normativa-consulta-formal",
@@ -997,6 +1127,19 @@
       "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cuatro-ponencias-fueron-aprobadas-segundo-dia",
       "publish_date": "2026-03-18T15:36:10.000Z",
       "teaser": "Lo clave en 20 segundos: Cuatro ponencias aprobadas en el V Congreso Institucional del TEC.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-institucional_2026_tec-cartago_djimenez-1.jpg.webp?itok=eOvSoKG5",
+      "description": "V Congreso Institucional: Cuatro ponencias fueron aprobadas en el segundo día",
+      "featured": false
+    },
+    {
+      "slug": "v-congreso-institucional-cuatro-ponencias-aprobadas-segundo-dia",
+      "title": "V Congreso Institucional: Cuatro ponencias fueron aprobadas en el segundo día",
+      "category": "Costa Rica",
+      "bullets_20s": "• El V Congreso Institucional aborda ocho ponencias, de las cuales cuatro recibieron aprobación.\n• La aprobación de ponencias se basa en análisis estratégico de propuestas de interés institucional.\n• Las temáticas discuten el talento humano, innovación y estabilidad laboral en la educación pública.\n• Se espera que los resultados impacten positivamente en la dinámica de trabajo del TEC.\n• El enfoque se dirige a fortalecer la vinculación entre la educación y el sector social.\n• Las ponencias aprobadas promueven la democratización del conocimiento y la transferencia tecnológica.",
+      "source_name": "anasolano",
+      "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cuatro-ponencias-fueron-aprobadas-segundo-dia",
+      "publish_date": "2026-03-18T15:36:10.000Z",
+      "teaser": "Lo clave en 20 segundos: Se aprobaron cuatro ponencias en el V Congreso Institucional del TEC, abordando temas cruciales.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-institucional_2026_tec-cartago_djimenez-1.jpg.webp?itok=eOvSoKG5",
       "description": "V Congreso Institucional: Cuatro ponencias fueron aprobadas en el segundo día",
       "featured": false
@@ -1171,6 +1314,19 @@
       "featured": false
     },
     {
+      "slug": "pe-ai-10-conformacion-expedientes-servicios-auditoria",
+      "title": "PE-AI-10 Conformación expedientes de los servicios de auditoría",
+      "category": "Tecnología",
+      "bullets_20s": "• El proceso de conformación de expedientes es fundamental para la auditoría efectiva.\n• Se utilizarán manuales y procedimientos estandarizados durante la auditoría.\n• El procedimiento busca garantizar la calidad en el manejo de expedientes.\n• Las fechas de creación y revisión son clave en la gestión del documento.\n• La implementación de este procedimiento se inició en febrero de 2026.\n• Las auditorías requieren una organización adecuada de la información.\n• La última modificación del procedimiento fue realizada en marzo de 2026.\n• Los manuales proporcionan directrices claras para los responsables.\n• Es esencial conocer bien los procedimientos para realizar auditorías efectivas.",
+      "source_name": "malvarez",
+      "source_url": "http://www.tec.ac.cr/pe-ai-10-conformacion-expedientes-servicios-auditoria",
+      "publish_date": "2026-03-18T13:08:27.000Z",
+      "teaser": "Lo clave en 20 segundos: Estándares de auditoría a través de la conformación de expedientes.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "malvarez",
+      "featured": false
+    },
+    {
       "slug": "pe-ai-10-conformacion-expedientes-auditoria",
       "title": "PE-AI-10 Conformación expedientes de los servicios de auditoría",
       "category": "Tecnología",
@@ -1288,6 +1444,19 @@
       "featured": false
     },
     {
+      "slug": "pe-ai-09-conformacion-expedientes-actividades-gestion",
+      "title": "PE-AI-09 Conformación expedientes de actividades de gestión",
+      "category": "Tecnología",
+      "bullets_20s": "• El procedimiento PE-AI-09 establece pautas claras para la gestión de actividades.\n• Facilita la conformación de expedientes necesarios para proyectos tecnológicos.\n• Incluye manuales y procedimientos en la creación de documentos eficientes.\n• Una revisión periódica asegura que los procesos se mantengan actualizados y efectivos.\n• Promueve la transparencia en los procesos administrativos de actividades de gestión.",
+      "source_name": "malvarez",
+      "source_url": "http://www.tec.ac.cr/pe-ai-09-conformacion-expedientes-actividades-gestion",
+      "publish_date": "2026-03-18T13:06:52.000Z",
+      "teaser": "Lo clave en 20 segundos: Importancia del procedimiento PE-AI-09 en la gestión de actividades.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "malvarez",
+      "featured": false
+    },
+    {
       "slug": "pe-ai-06-revision-actualizacion-ciclo-auditoria",
       "title": "PE-AI-06 Revisión y actualización del ciclo de auditoría",
       "category": "Ciencia",
@@ -1353,5 +1522,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-19T19:30:38.106Z"
+  "generated_at": "2026-03-19T20:30:38.168Z"
 }
