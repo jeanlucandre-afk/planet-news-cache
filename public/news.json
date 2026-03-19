@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "slug": "vecinos-hallan-muerto-estadounidense-guanacaste",
+      "title": "Vecinos hallan muerto a estadounidense dentro de una vivienda en Guanacaste: OIJ identifica víctima",
+      "category": "Costa Rica",
+      "bullets_20s": "• La víctima fue encontrada en una vivienda en Guanacaste por vecinos preocupados.\n• El OIJ ha comenzado las investigaciones para determinar las causas de la muerte.\n• La Cruz Roja confirmó el estado de descomposición del cuerpo al llegar al lugar.\n• La comunidad se ha mostrado consternada por el descubrimiento en su vecindario.\n• Expertos indican que la autopsia será crucial para esclarecer el caso.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/sucesos/vecinos-hallan-muerto-a-adulto-mayor-dentro-de-una/VLHDWFTAPVGGRLMA4DGPKTGIXM/story/",
+      "publish_date": "2026-03-19T18:27:27.000Z",
+      "teaser": "Lo clave en 20 segundos: un hombre fue hallado muerto en Guanacaste, y se investiga su deceso.",
+      "image_url": "https://www.nacion.com/resizer/v2/I5FTNWQB3FFNFMVI45TYLIJTCA.jpeg?auth=dc6a2eb98ea4a0bdad98ec303ef34f2516f9eb64d2353eaa9ab4d43fa19c358b&smart=true&width=955&height=720",
+      "description": "La Cruz Roja Costarricense confirmó el hallazgo de un hombre de aproximadamente 80 años en estado de descomposición.",
+      "featured": false
+    },
+    {
+      "slug": "ganaderos-san-carlos-alertan-aumento-inseguridad",
+      "title": "Ganaderos de San Carlos alertan por aumento de la inseguridad en el cantón",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los ganaderos de San Carlos expresan su creciente preocupación por la inseguridad en la región.\n• Informes recientes indican un aumento en el número de delitos en el cantón de San Carlos.\n• Diversos sectores de la comunidad están alarmados por la falta de medidas de seguridad efectivas.\n• Se espera una respuesta por parte de las autoridades para abordar la situación actual.\n• La inseguridad afecta no solo a ganaderos, sino a todos los residentes de San Carlos.",
+      "source_name": "Hillary Benavides Meléndez",
+      "source_url": "https://www.nacion.com/economia/ganaderos-de-san-carlos-alertan-por-aumento-de-la/UTGB43WQBJA6JMFXERRJW4XHMI/story/",
+      "publish_date": "2026-03-19T18:26:42.000Z",
+      "teaser": "Lo clave en 20 segundos: Inseguridad en San Carlos preocupa a ganaderos y comunidades aledañas.",
+      "image_url": "https://www.nacion.com/resizer/v2/S4NOKER555FWBP3GWNZJ433XFM.JPG?auth=d6cd26a1bbb9d366ca06d7fa9dd1066334e42bf8f2045069fb631c76bbe709e1&smart=true&width=3000&height=2000",
+      "description": "San Carlos enfrenta un aumento en hechos delictivos que preocupa a distintos sectores.",
+      "featured": false
+    },
+    {
+      "slug": "atencion-fans-de-abba-tributo-costa-rica",
+      "title": "¡Atención fans de ABBA! Otro tributo a la música de los suecos llegará a Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un nuevo tributo a ABBA se presentará en Costa Rica, emocionando a sus seguidores.\n• El espectáculo se titula 'ABBA The History' y promete una noche inolvidable.\n• Las entradas ya están disponibles, y se espera una alta demanda por el evento.\n• Los fans podrán disfrutar de los clásicos atemporales de la famosa banda sueca.\n• El show será una mezcla de música, historias y efectos visuales impresionantes.",
+      "source_name": "Jessica Rojas Ch.",
+      "source_url": "https://www.nacion.com/viva/atencion-fans-de-abba-otro-tributo-a-la-musica-de/2VT2A6MSOJCVRC26DM6O3HV2RY/story/",
+      "publish_date": "2026-03-19T18:25:22.000Z",
+      "teaser": "Lo clave en 20 segundos: Un tributo a ABBA llega a Costa Rica con una única función.",
+      "image_url": "https://www.nacion.com/resizer/v2/VS7B7SVLA5G6NNBVHYTQ3NFOHE.jpeg?auth=71cb2420ca313a5664a9fd21796241aa39ca989b84535d89204db27b6fb151f8&smart=true&width=1600&height=870",
+      "description": "‘ABBA The History’ tendrá una única función en Costa Rica. Vea aquí los detalles del show, entradas y más",
+      "featured": false
+    },
+    {
+      "slug": "por-que-estar-sentado-todo-el-dia-sigue-siendo-peligroso",
+      "title": "¿Por qué estar sentado todo el día sigue siendo peligroso aunque haga ejercicio? Esto es lo que ocurre",
+      "category": "Ciencia",
+      "bullets_20s": "• Estar sentado mucho tiempo aporta a problemas de salud serios a largo plazo y enfermedades.\n• Los estudios muestran una relación entre largas horas sentados y enfermedades cardíacas.\n• Ejercicio regular no elimina los riesgos de permanecer sentado por tiempos prolongados.\n• Alternar posturas ayuda a mitigar los efectos negativos de estar sedentario por mucho tiempo.\n• Importante reconocer el impacto del sedentarismo; cambiar hábitos puede mejorar la salud.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/ciencia/salud/por-que-estar-sentado-todo-el-dia-sigue-siendo/VSB2PRRHMJH73PAA2C7UWGK7XA/story/",
+      "publish_date": "2026-03-19T18:23:15.000Z",
+      "teaser": "Lo clave en 20 segundos: Peligros de estar sentado todo el día, incluso si se hace ejercicio.",
+      "image_url": "https://www.nacion.com/resizer/v2/INRBFDZETVGL3J5NVGVOUAX3FE.png?auth=740e079f951ceec0d28ae58f2de0c57b304b0882b447173c0a2250a6d1b42933&smart=true&width=1920&height=1080",
+      "description": "Permanecer sentado durante muchas horas al día aumenta riesgos de enfermedades cardiovasculares, cáncer y muerte, incluso en personas que hacen ejercicio.",
+      "featured": false
+    },
+    {
+      "slug": "hoy-curamos-a-pacientes-que-hace-apenas-una-decada-eran-incurables-afirma-un-oncologo",
+      "title": "Hoy curamos a pacientes que hace apenas una década eran incurables, afirma un oncólogo",
+      "category": "Ciencia",
+      "bullets_20s": "• El aumento del cáncer en jóvenes es un tema de preocupación en la comunidad médica internacional.\n• Avances significativos en tratamientos han convertido casos incurables en posibilidades de recuperación.\n• Los oncólogos destacan la importancia de la detección temprana en el tratamiento exitoso del cáncer.\n• Existen nuevos enfoques terapéuticos que están revolucionando la atención a pacientes jóvenes con cáncer.\n• La medicina personalizada se convierte en una herramienta vital en la lucha contra el cáncer en jóvenes.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/cancer-en-jovenes-y-avances-medicos-lo-que-cambio/55VISVQ6PZEG3FGQANGNLQWUGI/story/",
+      "publish_date": "2026-03-19T18:22:45.000Z",
+      "teaser": "Lo clave en 20 segundos: Los avances médicos permiten curar cáncer en jóvenes antes incurables.",
+      "image_url": "https://www.nacion.com/resizer/v2/CUCNTPZHWRF7RJMVN4UDMCBP5A.png?auth=ff551219218d6acbcb9597811c0e5da41f5885a7a48b797269c5aaefc66738a8&smart=true&width=1680&height=945",
+      "description": "El cáncer aumenta en jóvenes mientras la medicina logra curar casos antes incurables. Un oncólogo explica riesgos, avances y el futuro del tratamiento.",
+      "featured": false
+    },
+    {
       "slug": "vea-el-impactante-momento-de-la-detencion-de-alejandro-bran",
       "title": "Vea el impactante momento de la detención de Alejandro Bran: gritando, esposado y contra una columna",
       "category": "Costa Rica",
@@ -128,6 +193,19 @@
       "teaser": "Lo clave en 20 segundos: Tensiones en Irán y su impacto en Israel y la política global.",
       "image_url": "https://www.nacion.com/resizer/v2/HXGVVLFUXBCHBG37XNX6SARVRY.jpg?auth=51810e5c80c788b03831b6e337798a102e129121d30a90f6b65d303de03f5437&smart=true&width=1200&height=801",
       "description": "“El debate no debería ser cuándo (la guerra) terminará, sino cómo vamos a prolongar y profundizar el daño”, dice jerarca.",
+      "featured": false
+    },
+    {
+      "slug": "conversatorio-unesco-relacionamos-entorno-naturaleza",
+      "title": "Conversatorio UNESCO: ¿Cómo nos relacionamos con nuestro entorno? ¿Hemos roto lazos con la naturaleza?",
+      "category": "Ciencia",
+      "bullets_20s": "• El conversatorio se centra en la relación entre la sociedad y la naturaleza en la actualidad.\n• Representantes de UNESCO participarán para fomentar el diálogo interdisciplinario en este tema.\n• El evento busca analizar la importancia del conocimiento científico en la comprensión ambiental.\n• Es parte de las celebraciones del 55 aniversario del Tecnológico de Costa Rica.\n• Se realizarán actividades culturales y académicas en conmemoración a esta ocasión.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/conversatorio-unesco-nos-relacionamos-nuestro-entorno-hemos-roto-lazos-naturaleza",
+      "publish_date": "2026-03-19T15:28:47.000Z",
+      "teaser": "Lo clave en 20 segundos: Conversatorio sobre la relación entre sociedad y naturaleza en Costa Rica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/area-vegetal_cib_rgarita-1.jpg",
+      "description": "Conversatorio UNESCO: ¿Cómo nos relacionamos con nuestro entorno? ¿Hemos roto lazos con la naturaleza?",
       "featured": false
     },
     {
@@ -524,6 +602,19 @@
       "slug": "por-que-cada-cultura-tiene-un-caldo-para-tratar-dolencias-y-buscar-confort",
       "title": "Por qué cada cultura tiene un caldo para tratar dolencias y buscar confort",
       "category": "Mundo",
+      "bullets_20s": "• Los caldos no solo son una comida reconfortante, también tienen propiedades curativas en diversas culturas.\n• Se utilizan en celebraciones, rituales y como tratamiento para enfermedades a lo largo de la historia.\n• Cada cultura tiene su propia versión de caldo, adaptando ingredientes locales y sabores característicos.\n• Los caldos aprovechan ingredientes escasos, transformándolos en nutritivas y sabrosas recetas.\n• Estos platos han perdurado a través del tiempo, simbolizando el cuidado y la tradición familiar.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c2k839514p1o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-19T11:39:16.000Z",
+      "teaser": "Lo clave en 20 segundos: Los caldos son fundamentales en muchas culturas por su poder reconfortante y curativo.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/79ce/live/aaf503f0-1978-11f1-b048-c9424b2cf5fd.jpg",
+      "description": "En todas las latitudes, los caldos han aliviado enfermedades, marcado celebraciones y hecho rendir los ingredientes escasos mucho antes de que se convirtieran en una tendencia de bienestar.",
+      "featured": false
+    },
+    {
+      "slug": "por-que-cada-cultura-tiene-un-caldo-para-tratar-dolencias-y-buscar-confort",
+      "title": "Por qué cada cultura tiene un caldo para tratar dolencias y buscar confort",
+      "category": "Mundo",
       "bullets_20s": "• Los caldos son parte fundamental de diversas culturas por su valor nutricional y medicinal.\n• Se han utilizado en distintas tradiciones para aliviar malestares y proporcionar calor.\n• Cada región adapta sus caldos a los ingredientes locales disponibles en su entorno.\n• Los caldos reflejan la diversidad cultural y los métodos de cocción ancestrales.\n• Su consumo está relacionado con la unión familiar y las reuniones sociales en muchas culturas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2k839514p1o?at_medium=RSS&at_campaign=rss",
@@ -620,6 +711,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/c3rzr7ldj42o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-19T03:52:16.000Z",
       "teaser": "Lo clave en 20 segundos: La guerra en Irán sacude la seguridad en el Golfo y causa pérdidas millonarias.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cdc2/live/68b9d7d0-22de-11f1-9c64-25f36d76b36f.jpg",
+      "description": "La frustración crece entre las monarquías del Golfo, que se han visto arrastradas a una guerra que no buscaron, con carísismas consecuencias y sin una salida clara.",
+      "featured": false
+    },
+    {
+      "slug": "como-la-guerra-de-iran-rompio-el-espejismo-de-seguridad-en-lugares-del-golfo",
+      "title": "Cómo la guerra de Irán rompió el espejismo de seguridad en lugares del Golfo como Dubái y Qatar (y las millonarias pérdidas que conlleva)",
+      "category": "Mundo",
+      "bullets_20s": "• Las monarquías del Golfo enfrentan consecuencias económicas debido al conflicto en Irán.\n• La seguridad en Dubái y Qatar se ve afectada por la guerra.\n• Las pérdidas financieras son significativas y afectan el turismo en la región.\n• Se cuestiona la viabilidad de la seguridad en el Golfo tras el estallido del conflicto.\n• Las tensiones geopolíticas aumentan en medio de la incertidumbre en la región.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c3rzr7ldj42o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-19T03:52:16.000Z",
+      "teaser": "Lo clave en 20 segundos: La guerra en Irán afecta gravemente la seguridad y economía en el Golfo.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cdc2/live/68b9d7d0-22de-11f1-9c64-25f36d76b36f.jpg",
       "description": "La frustración crece entre las monarquías del Golfo, que se han visto arrastradas a una guerra que no buscaron, con carísismas consecuencias y sin una salida clara.",
       "featured": false
@@ -849,6 +953,19 @@
       "slug": "directorio-asamblea-institucional-representativa-normativa-consulta-formal",
       "title": "Directorio de la Asamblea Institucional Representativa Normativa Consulta Formal",
       "category": "Costa Rica",
+      "bullets_20s": "• El Directorio busca facilitar el acceso a información relevante para los ciudadanos.\n• Se actualizan procedimientos y normativas para mejorar la transparencia institucional.\n• La entrada en vigencia de este directorio se dio en febrero de 2026.\n• El documento esencial fue publicado en la Gaceta No. 1311.\n• La modificación del directorio se realizó en marzo de 2026.",
+      "source_name": "macastro",
+      "source_url": "http://www.tec.ac.cr/directorio-asamblea-institucional-representativa-normativa-consulta-formal",
+      "publish_date": "2026-03-18T16:05:38.000Z",
+      "teaser": "Lo clave en 20 segundos: Nueva normativa para mejorar la transparencia institucional en Costa Rica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "macastro",
+      "featured": false
+    },
+    {
+      "slug": "directorio-asamblea-institucional-representativa-normativa-consulta-formal",
+      "title": "Directorio de la Asamblea Institucional Representativa Normativa Consulta Formal",
+      "category": "Costa Rica",
       "bullets_20s": "• El directorio de la AIR busca mejorar la representación dentro de la institución.\n• Se publican normas para la consulta formal de decisiones institucionales.\n• El procedimiento incluye fechas de creación y última modificación importantes.\n• La entrada en vigencia está estipulada para febrero de 2026.\n• Documentación relevante como gacetas se incluye en el proceso.\n• La ASSEMBLIA tiene como objetivo fomentar la participación activa de la comunidad.\n• Este directorio fue destacado en la gaceta No. 1311 de febrero de 2026.\n• El enfoque es la transparencia en los procesos normativos de la institución.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/directorio-asamblea-institucional-representativa-normativa-consulta-formal",
@@ -919,6 +1036,19 @@
       "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cuatro-ponencias-fueron-aprobadas-segundo-dia",
       "publish_date": "2026-03-18T15:36:10.000Z",
       "teaser": "Lo clave en 20 segundos: Se aprobaron cuatro ponencias en el segundo día del V Congreso Institucional.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-institucional_2026_tec-cartago_djimenez-1.jpg.webp?itok=eOvSoKG5",
+      "description": "V Congreso Institucional: Cuatro ponencias fueron aprobadas en el segundo día",
+      "featured": false
+    },
+    {
+      "slug": "v-congreso-institucional-cuatro-ponencias-aprobadas-segundo-dia",
+      "title": "V Congreso Institucional: Cuatro ponencias fueron aprobadas en el segundo día",
+      "category": "Costa Rica",
+      "bullets_20s": "• Cuatro de las ocho ponencias presentadas fueron aprobadas en el V Congreso Institucional.\n• Las sesiones plenarias se caracterizaron por el análisis y discusión de dictámenes.\n• Las propuestas abarcan temas como talento humano y repositorios de software para el TEC.\n• Se aprobó un programa de VolunTEC para fomentar el compromiso social entre estudiantes.\n• La estabilidad laboral para interinos fue otro punto clave en las discusiones y votaciones.",
+      "source_name": "anasolano",
+      "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cuatro-ponencias-fueron-aprobadas-segundo-dia",
+      "publish_date": "2026-03-18T15:36:10.000Z",
+      "teaser": "Lo clave en 20 segundos: Cuatro ponencias se aprobaron en el segundo día del V Congreso Institucional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-institucional_2026_tec-cartago_djimenez-1.jpg.webp?itok=eOvSoKG5",
       "description": "V Congreso Institucional: Cuatro ponencias fueron aprobadas en el segundo día",
       "featured": false
@@ -997,6 +1127,19 @@
       "source_url": "http://www.tec.ac.cr/pe-ai-10-conformacion-expedientes-servicios-auditoria",
       "publish_date": "2026-03-18T13:08:27.000Z",
       "teaser": "Lo clave en 20 segundos: Conformación de expedientes de auditoría, manuales y procedimientos claros.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "malvarez",
+      "featured": false
+    },
+    {
+      "slug": "pe-ai-10-conformacion-expedientes-servicios-auditoria",
+      "title": "PE-AI-10 Conformación expedientes de los servicios de auditoría",
+      "category": "Tecnología",
+      "bullets_20s": "• Los servicios de auditoría son fundamentales para la transparencia en la gestión pública.\n• El procedimiento busca estandarizar la conformación de los expedientes de auditoría.\n• Se realizarán actualizaciones periódicas para mantener la calidad del proceso.\n• El manual incluye pasos específicos para la creación de documentos de auditoría.\n• La última revisión del procedimiento ocurrió en marzo de 2026.",
+      "source_name": "malvarez",
+      "source_url": "http://www.tec.ac.cr/pe-ai-10-conformacion-expedientes-servicios-auditoria",
+      "publish_date": "2026-03-18T13:08:27.000Z",
+      "teaser": "Lo clave en 20 segundos: procedimientos estandarizados para auditorías eficaces en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "malvarez",
       "featured": false
@@ -1090,6 +1233,19 @@
       "teaser": "Lo clave en 20 segundos: Nuevo procedimiento para gestionar actividades académicas eficientemente.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "malvarez",
+      "featured": false
+    },
+    {
+      "slug": "pe-ai-09-conformacion-expedientes-actividades-gestion",
+      "title": "PE-AI-09 Conformación expedientes de actividades de gestión",
+      "category": "Costa Rica",
+      "bullets_20s": "• Nuevo procedimiento que organizará los expedientes de actividades de gestión dentro del TEC.\n• Manuales y guías disponibles para facilitar la implementación del proceso.\n• Revisión y modificación de procedimientos serán periódicas para su mejora continua.\n• Se espera que este cambio optimice la eficiencia en la gestión administrativa.\n• Fecha de creación y revisión se establecieron en febrero de 2026.\n• Este documento busca estandarizar la gestión de actividades en la institución.\n• La última modificación se realizó en marzo de 2026.\n• Los empleados deberán familiarizarse con este nuevo procedimiento pronto.\n• La conformación de expedientes es clave para el orden organizacional.",
+      "source_name": "malvarez",
+      "source_url": "http://www.tec.ac.cr/pe-ai-09-conformacion-expedientes-actividades-gestion",
+      "publish_date": "2026-03-18T13:06:52.000Z",
+      "teaser": "Lo clave en 20 segundos: Nuevo procedimiento para la gestión de actividades en el TEC.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "Procedimiento para la conformación de expedientes de actividades de gestión en el TEC.",
       "featured": false
     },
     {
@@ -1197,5 +1353,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-19T18:30:37.648Z"
+  "generated_at": "2026-03-19T19:30:38.106Z"
 }
