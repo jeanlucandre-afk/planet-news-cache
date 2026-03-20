@@ -1,6 +1,84 @@
 {
   "news": [
     {
+      "slug": "dejar-su-computador-conectada-todo-el-dia-dana-la-bateria",
+      "title": "¿Dejar su computador conectada todo el día daña la batería? Expertos lo explican",
+      "category": "Tecnología",
+      "bullets_20s": "• Muchos usuarios se preguntan si dejar su laptop enchufada afecta su salud.\n• Expertos indican que las baterías tienen un ciclo de carga específico y limitado.\n• Mantener la computadora conectada evita ciclos de carga no necesarios.\n• Los fabricantes sugieren mejores prácticas para prolongar la vida útil de la batería.\n• El uso de software puede optimizar el rendimiento de la batería de su laptop.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/tecnologia/dejar-su-computador-portatil-enchufado-todo-el-dia/VDSB6BROPVHGDHQWXEXTQXBL2M/story/",
+      "publish_date": "2026-03-20T18:24:59.000Z",
+      "teaser": "Lo clave en 20 segundos: Expertos analizan el impacto de mantener laptops conectadas todo el día.",
+      "image_url": "https://www.nacion.com/resizer/v2/OZBYMQQRJRA4ZLB2RGYAA7QJNI.png?auth=67fb193f71df0c64d576c68747e047e2c795f9416d0c5c065068f712d51ea14f&smart=true&width=1920&height=1080",
+      "description": "¿Mantener su portátil conectado todo el día afecta la batería? Esto dicen los fabricantes.",
+      "featured": false
+    },
+    {
+      "slug": "gustavo-petro-investigacion-narcotrafico-eeuu",
+      "title": "Gustavo Petro es parte de una investigación en EE.UU. por supuestos vínculos con el narcotráfico, según medios",
+      "category": "Mundo",
+      "bullets_20s": "• Gustavo Petro enfrenta serias acusaciones en una investigación estadounidense sobre narcotráfico.\n• Fiscales analizan contactos del mandatario con personas del narcotráfico en Colombia.\n• Se sospecha el ingreso de fondos ilícitos en su campaña presidencial del año 2022.\n• La investigación ha causado revuelo en el entorno político colombiano y estadounidense.\n• Medios han informado sobre el interés del gobierno de EE.UU. en el caso de Petro.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cx2exvddngeo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-20T18:19:08.000Z",
+      "teaser": "Lo clave en 20 segundos: Gustavo Petro enfrenta investigación de EE.UU. por supuestos vínculos con narcotráfico.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/5468/live/96f951b0-2488-11f1-a673-e3b236a15253.jpg",
+      "description": "Dos fiscales analizan posibles contactos del mandatario con personas vinculadas al narcotráfico, así como la posible entrada de fondos ilícitos en su campaña presidencial de 2022.",
+      "featured": false
+    },
+    {
+      "slug": "proponen-cheques-3000-familias-estados-unidos",
+      "title": "Proponen cheques de $3.000 para familias en Estados Unidos: así funcionaría el plan",
+      "category": "Mundo",
+      "bullets_20s": "• El Congreso de Estados Unidos discute un plan para ofrecer cheques a familias estadounidenses.\n• El monto propuesto es de hasta $3.000 por persona, en un intento por ayudar económicamente.\n• Los posibles cheques estarían financiados mediante impuestos a los multimillonarios del país.\n• El plan busca no solo pagos directos, sino también fomentar la inversión social en comunidades.\n• La propuesta sigue generando debates sobre su viabilidad y los impactos en la economía.",
+      "source_name": "Primera Hora/ Puerto Rico/ GDA",
+      "source_url": "https://www.nacion.com/el-mundo/proponen-cheques-de-3000-para-familias-en-estados/B4224TA46JF4HHU3GVW4S6ZU7I/story/",
+      "publish_date": "2026-03-20T18:18:50.000Z",
+      "teaser": "Lo clave en 20 segundos: un plan para ayudar a familias en EE. UU. con cheques financiados por impuestos.",
+      "image_url": "https://www.nacion.com/resizer/v2/BBETVBBYTFCLHPPILAP6XHSQIU.png?auth=4dc4340b04603cda6615db54b4b1d0af5123be81e9425f74f8a2c947cbaa0646&smart=true&width=1680&height=945",
+      "description": "Congreso de Estados Unidos analiza cheques de hasta $3.000 por persona financiados con impuestos a multimillonarios. El plan incluye pagos directos e inversión social.",
+      "featured": false
+    },
+    {
+      "slug": "conmebol-declara-argentina-bicampeona-finalissima-espana-no-se-presento",
+      "title": "Conmebol declara a Argentina bicampeona de la Finalissima: ‘España no se presentó’",
+      "category": "Mundo",
+      "bullets_20s": "• La CONMEBOL ha declarado a Argentina como bicampeona de la Finalissima del fútbol internacional.\n• Alejandro Domínguez argumenta que la no presentación de España cambia el resultado del torneo.\n• La decisión ha generado controversia en el ámbito del fútbol a nivel mundial.\n• Este evento destaca la importancia de las reglas en competiciones internacionales.\n• Se espera que este anuncio impacte en la percepción del torneo en futuras ediciones.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/puro-deporte/conmebol-declara-a-argentina-bicampeona-de-la/XTACACVULFAZBBGTY3MVVTNKAY/story/",
+      "publish_date": "2026-03-20T18:13:57.000Z",
+      "teaser": "Lo clave en 20 segundos: Argentina se corona bicampeona tras la cancelación del partido contra España.",
+      "image_url": "https://www.nacion.com/resizer/v2/SPOIH4Q33BEEBBCQUY6ETICHY4.jpg?auth=679d6e7598b2ca78f34a45aa8ea51c9d01ab9fbb2f1d67febbf1e0829013a7a8&smart=true&width=3500&height=2333",
+      "description": "Alejandro Domínguez afirma que Argentina es bicampeona de la Finalissima tras la cancelación del partido ante España y genera debate en el fútbol internacional.",
+      "featured": false
+    },
+    {
+      "slug": "repretel-denuncia-agente-oij-amenazo-periodistas",
+      "title": "Repretel denuncia que agente del OIJ amenazó a periodistas durante cobertura de extradición; organismo abre investigación",
+      "category": "Costa Rica",
+      "bullets_20s": "• Repretel denuncia que un agente del OIJ amenazó a sus periodistas durante una cobertura.\n• La amenaza ocurrió durante la extradición de dos personas hacia el aeropuerto.\n• El incidente ha generado preocupación sobre la libertad de prensa en el país.\n• El OIJ ha comenzado una investigación interna tras la denuncia de Repretel.\n• Es necesario asegurar condiciones seguras para los periodistas en su trabajo diario.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/sucesos/repretel-denuncia-que-agente-del-oij-amenazo-a/VY4QD4IPZBBFBD7B4EFVEOBMUA/story/",
+      "publish_date": "2026-03-20T18:13:05.000Z",
+      "teaser": "Lo clave en 20 segundos: Repretel denuncia amenazas de un agente del OIJ a periodistas durante una cobertura.",
+      "image_url": "https://www.nacion.com/resizer/v2/KTU2UJAEWZHF3DKWTJE6KUE6LY.png?auth=70981e45f343654684cf79c513d255a1e2e11ced12088965ad7cbdbae9e0102c&smart=true&width=694&height=389",
+      "description": "El incidente entre Repretel y OIJ ocurrió en el momento del traslado de Celso Gamboa y alias Pecho de rata desde La Reforma hacia el aeropuerto.",
+      "featured": false
+    },
+    {
+      "slug": "captan-un-evento-unico-cometa-que-se-rompe-en-cuatro-fragmentos-cerca-del-sol",
+      "title": "Captan un evento único: cometa que se rompe en cuatro fragmentos cerca del Sol",
+      "category": "Ciencia",
+      "bullets_20s": "• El telescopio Hubble ha proporcionado una visión sin precedentes de un cometa desintegrándose.\n• El cometa C/2025 K1 se fragmentó en cuatro partes según observaciones recientes.\n• Este fenómeno puede ofrecer información crucial sobre la estructura de los cometas.\n• La fragmentación ocurre tras el acercamiento del cometa al Sol, un evento notable.\n• Observaciones por telescopios espaciales son clave en el estudio de los cometas.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/ciencia/telescopio-espacial-hubble-sorprende-al-captar-un/IZHE2FP5HZEC5HSIMJ7NOD43SA/story/",
+      "publish_date": "2026-03-20T18:05:08.000Z",
+      "teaser": "Lo clave en 20 segundos: Hubble captura un cometa rompiéndose en cuatro fragmentos cerca del Sol.",
+      "image_url": "https://www.nacion.com/resizer/v2/CFNYLAEBMVG4ZFWXAPSIXXP3AQ.jpg?auth=5417020a750f546c2a15a0a249a633a153c8f4f913c7fe73086e8f0bba95b4ab&smart=true&width=4000&height=1098",
+      "description": "El telescopio Hubble captó la fragmentación del cometa C/2025 K1 en cuatro partes tras su paso por el Sol. El hallazgo ofrece pistas sobre la composición y evolución de estos cuerpos.",
+      "featured": false
+    },
+    {
       "slug": "atencion-la-nueva-moneda-coleccionable-de-25-ya",
       "title": "Atención: la nueva moneda coleccionable de ¢25 ya tiene fecha, conozca el diseño inspirado en la basílica de los Ángeles",
       "category": "Costa Rica",
@@ -225,6 +303,19 @@
       "slug": "muere-a-los-86-anos-chuck-norris",
       "title": "Muere a los 86 años Chuck Norris, el actor que se convirtió en un ícono de los héroes de acción",
       "category": "Mundo",
+      "bullets_20s": "• Chuck Norris fue uno de los actores más emblemáticos del cine de acción estadounidense.\n• Su carrera abarcó varias décadas, convirtiéndose en un ícono de la cultura popular.\n• Más allá del cine, Norris influyó en las artes marciales y su difusión en Occidente.\n• El actor también fue conocido por sus contribuciones a causas humanitarias y sociales.\n• Su legado perdurará en filmes, series de televisión y referencias culturales en todo el mundo.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c3w363gn8vqo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-20T14:37:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Chuck Norris, ícono de acción, fallece a los 86 años, dejando un gran legado cultural.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/aec8/live/cd620d70-2468-11f1-a2c1-39d16ad974aa.jpg",
+      "description": "La familia confirmó el \"repentino fallecimiento\" del actor y artista marcial estadounidense a los 86 años.",
+      "featured": false
+    },
+    {
+      "slug": "muere-a-los-86-anos-chuck-norris",
+      "title": "Muere a los 86 años Chuck Norris, el actor que se convirtió en un ícono de los héroes de acción",
+      "category": "Mundo",
       "bullets_20s": "• Chuck Norris fue un ícono del cine de acción y artes marciales a nivel mundial.\n• Su carrera se destacó por películas que redefinieron el género de acción en los años 80.\n• Norris se hizo famoso por su papel en la serie 'Walker, Texas Ranger' muy popular en Estados Unidos.\n• Además de actor, fue una figura reconocida por su trabajo en artes marciales y competencias.\n• Chuck Norris dejó un legado que influenció a varias generaciones de cineastas y actores.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c3w363gn8vqo?at_medium=RSS&at_campaign=rss",
@@ -232,6 +323,19 @@
       "teaser": "Lo clave en 20 segundos: Chuck Norris fallece a los 86 años, un ícono del cine de acción.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/aec8/live/cd620d70-2468-11f1-a2c1-39d16ad974aa.jpg",
       "description": "La familia confirmó el 'repentino fallecimiento' del actor y artista marcial estadounidense a los 86 años.",
+      "featured": false
+    },
+    {
+      "slug": "casi-100-barcos-han-atrapado-el-estrecho-de-ormuz",
+      "title": "Casi 100 barcos han atravesado el estrecho de Ormuz desde que empezó la guerra en Irán: ¿quiénes están logrando pasar?",
+      "category": "Mundo",
+      "bullets_20s": "• La guerra en Irán ha impactado la navegación en el crucial estrecho de Ormuz.\n• Casi 100 barcos han logrado cruzar el estrecho en medio de tensiones crecientes.\n• BBC Verify investiga las rutas utilizadas por estos barcos en la travesía.\n• Se analizan los riesgos asociados a la navegación durante este conflicto.\n• Los barcos implicados son de diversos tipos y nacionalidades.\n• La estrategia de navegación cambia constantemente debido a las amenazas.\n• El estrecho de Ormuz es vital para el comercio de petróleo a nivel mundial.\n• Los análisis de riesgo son claves para los capitanes de los barcos.\n• Organizaciones internacionales siguen de cerca la situación en la región.\n• Los marineros enfrentan decisiones difíciles debido a la inestabilidad.",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.com/mundo/articles/c5yj3rlp9q1o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-20T14:20:11.000Z",
+      "teaser": "Lo clave en 20 segundos: casi 100 barcos navegan el estrecho de Ormuz en guerra.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d8bd/live/077ff0d0-22bb-11f1-b297-95b0a0a8331e.png",
+      "description": "BBC Verify analizó cuáles son los barcos que realizan la travesía y los riesgos que corren.",
       "featured": false
     },
     {
@@ -336,6 +440,19 @@
       "teaser": "Lo clave en 20 segundos: Conoce las zonas más afectadas por serpientes en EE.UU. y cómo prevenir encuentros.",
       "image_url": "https://www.nacion.com/resizer/v2/E37YCVOKXREFPLHGHCMG64JHCM.png?auth=7cf9c7a25bdddfcb5d39b10e6d72a0acbca99a2e6828f960286ae628d384cab5&smart=true&width=1680&height=945",
       "description": "El aumento de temperaturas activa la presencia de serpientes en Estados Unidos. Conozca cuáles son las zonas más afectadas y qué medidas sí funcionan para evitar encuentros cerca de su hogar.",
+      "featured": false
+    },
+    {
+      "slug": "como-funciona-la-red-trasnacional-de-espionaje-y-acoso",
+      "title": "Cómo funciona la red trasnacional de espionaje y acoso a opositores del gobierno de Ortega y Murillo en Nicaragua, según la ONU",
+      "category": "Mundo",
+      "bullets_20s": "• La ONU ha documentado prácticas de espionaje en Nicaragua, afectando a opositores y activistas.\n• El informe destaca la falta de atención internacional hacia la crisis nicaragüense actual.\n• Expertos opinan que la comunidad internacional debe actuar para ayudar a los nicaragüenses.\n• Nicaragua enfrenta una creciente represión bajo el gobierno de Ortega y Murillo.\n• Se hace un llamado a la cooperación para enfrentar estos problemas de derechos humanos.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cvg80dv88rgo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-20T13:45:02.000Z",
+      "teaser": "Lo clave en 20 segundos: Espionaje sistemático en Nicaragua con impacto en derechos humanos.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8787/live/161a1e60-23d6-11f1-92f6-6d3dbba93239.jpg",
+      "description": "Reed Brody, integrante del Grupo de Expertos de la ONU, dice que 'Nicaragua padece de un olvido, y ese olvido ayuda a una dictadura'.",
       "featured": false
     },
     {
@@ -542,6 +659,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/c3dz3ej8n43o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-20T11:28:59.000Z",
       "teaser": "Lo clave en 20 segundos: Tres hermanos remar 15,000 km desde Perú a Australia, una hazaña histórica.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/91ff/live/23f6fbe0-232f-11f1-a786-bd0fecd3af67.jpg",
+      "description": "Los hermanos Maclean son el primer equipo en cruzar el Pacífico a remo, sin parar y sin asistencia.",
+      "featured": false
+    },
+    {
+      "slug": "hermanos-hazaña-remar-peru-australia",
+      "title": "Los 3 hermanos que lograron la hazaña de remar 15.000 km desde Perú a Australia",
+      "category": "Mundo",
+      "bullets_20s": "• Los hermanos Maclean han logrado una hazaña sin precedentes en la historia de la navegación.\n• Remaron más de 15.000 kilómetros desde Perú hasta Australia, demostrando resistencia y tenacidad.\n• Este equipo es el primero en realizar este recorrido sin asistencia externa ni paradas.\n• La travesía los llevó a enfrentar difíciles condiciones climáticas y desafíos impredecibles.\n• Su historia inspira a muchos aventureros y amantes de la naturaleza a seguir sus sueños.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c3dz3ej8n43o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-20T11:28:59.000Z",
+      "teaser": "Lo clave en 20 segundos: hermanos Maclean cruzan el Pacífico a remo, sin asistencia ni paradas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/91ff/live/23f6fbe0-232f-11f1-a786-bd0fecd3af67.jpg",
       "description": "Los hermanos Maclean son el primer equipo en cruzar el Pacífico a remo, sin parar y sin asistencia.",
       "featured": false
@@ -1798,6 +1928,19 @@
       "slug": "v-congreso-institucional-cierra-14-acuerdos",
       "title": "V Congreso Institucional cierra con 14 acuerdos",
       "category": "Costa Rica",
+      "bullets_20s": "• El V Congreso Institucional culmina con 14 acuerdos tras cuatro días de sesiones. Destacan dos ponencias aprobadas.\n• Se abordaron temas sobre la creación de una Vicerrectoría de Extensión y modelos para la gestión técnica.\n• Las sesiones se realizaron de forma bimodal, combinando presencia física y virtual de los participantes.\n• La aprobación de acuerdos busca fortalecer la vinculación del TEC con la sociedad y mejorar su gestión.\n• Se presentó una ponencia sobre la creación de políticas específicas para investigación y extensión universitaria.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
+      "publish_date": "2026-03-19T22:27:42.000Z",
+      "teaser": "Lo clave en 20 segundos: El V Congreso Institucional culmina con importantes acuerdos para el TEC.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/v-congreso-institucional_19-marzo-2.jpg.webp?itok=j-YOCl75",
+      "description": "V Congreso Institucional cierra con 14 acuerdos",
+      "featured": false
+    },
+    {
+      "slug": "v-congreso-institucional-cierra-14-acuerdos",
+      "title": "V Congreso Institucional cierra con 14 acuerdos",
+      "category": "Costa Rica",
       "bullets_20s": "• El V Congreso Institucional se realizó en formato bimodal, combinando presencial y virtual.\n• Se cerró la Asamblea Plenaria con acuerdos que apoyan la extensión universitaria en el TEC.\n• Se aprobaron 14 acuerdos en un periodo de cuatro días de sesiones y ponencias.\n• Las nuevas comisiones buscarán la creación de una Vicerrectoría de Extensión y más.\n• Se propusieron modelos para gestión de programas técnicos y transferencia tecnológica.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
@@ -2258,6 +2401,19 @@
       "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
       "publish_date": "2026-03-19T19:53:14.000Z",
       "teaser": "Lo clave en 20 segundos: TEC obtiene acreditación Platinum Class, destacando su calidad académica internacionalmente.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
+      "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "featured": false
+    },
+    {
+      "slug": "administracion-empresas-tec-acreditacion-platinum-class",
+      "title": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC obtiene la acreditación Platinum Class por la agencia EQUAA, reflejando su calidad académica.\n• Es la primera institución en Costa Rica en recibir dicha acreditación internacional de cuatro estrellas.\n• La acreditación incluye 18 programas académicos, abarcando diversas áreas del conocimiento empresarial.\n• El proceso de acreditación implica autoevaluación y revisión externa por pares académicos internacionales.\n• EQUAA garantiza que los estudiantes reciben un valor educativo comprometido con la mejora continua.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
+      "publish_date": "2026-03-19T19:53:14.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC recibe acreditación internacional Platinum Class confirmando su excelencia académica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
       "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
       "featured": false
@@ -2760,6 +2916,19 @@
       "slug": "estudiantes-tec-representaran-costa-rica-elite-mundial-programacion-universitaria",
       "title": "Estudiantes del TEC representarán a Costa Rica en la élite mundial de la programación universitaria",
       "category": "Costa Rica",
+      "bullets_20s": "• Estudiantes del TEC se clasifican a la final mundial del ICPC 2026 en Dubái.\n• El equipo ganador, 'No Name Yet', se coronó campeón centroamericano recientemente.\n• La competencia reunió más de 100 equipos de toda América Latina en Santiago.\n• El ICPC es un certamen prestigioso que desafía las habilidades de programación.\n• El entrenamiento y la colaboración son claves para el éxito en esta competencia.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/estudiantes-tec-representaran-costa-rica-elite-mundial-programacion-universitaria",
+      "publish_date": "2026-03-19T16:16:14.000Z",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC van a competir contra élite mundial en Dubái.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/_mg_6388_courtesy-of-nubank.jpg.webp?itok=4832mr2R",
+      "description": "Estudiantes del TEC representarán a Costa Rica en la élite mundial de la programación universitaria",
+      "featured": false
+    },
+    {
+      "slug": "estudiantes-tec-representaran-costa-rica-elite-mundial-programacion-universitaria",
+      "title": "Estudiantes del TEC representarán a Costa Rica en la élite mundial de la programación universitaria",
+      "category": "Costa Rica",
       "bullets_20s": "• Tres estudiantes del TEC participarán en la final mundial del ICPC 2026 en Dubái este año.\n• El equipo 'No Name Yet' se proclamó campeón en la competencia regional de Santiago de Chile.\n• El certamen busca fomentar la creatividad y la colaboración entre estudiantes universitarios de programación.\n• El profesor Eddy Ramírez destaca el prestigio del TEC en competiciones internacionales de programación.\n• Este logro es un hito importante tras asistir a finales mundiales en Kazajistán y Azerbaiyán.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/estudiantes-tec-representaran-costa-rica-elite-mundial-programacion-universitaria",
@@ -3183,6 +3352,19 @@
       "teaser": "Lo clave en 20 segundos: Reflexión sobre el vínculo entre la sociedad y la naturaleza en un conversatorio de UNESCO.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/area-vegetal_cib_rgarita-1.jpg",
       "description": "Conversatorio sobre el vínculo entre la sociedad y la naturaleza, destacando la importancia del conocimiento científico.",
+      "featured": false
+    },
+    {
+      "slug": "conversatorio-unesco-relacionamos-entorno",
+      "title": "Conversatorio UNESCO: ¿Cómo nos relacionamos con nuestro entorno? ¿Hemos roto lazos con la naturaleza?",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebra su 55 aniversario con un importante conversatorio sobre la naturaleza.\n• Se llevará a cabo un diálogo interdisciplinario para abordar desafíos ambientales actuales.\n• Representantes de UNESCO participarán en la discusión sobre el vínculo entre la sociedad y el entorno.\n• El evento busca resaltar la importancia del conocimiento científico en la toma de decisiones.\n• Este conversatorio es parte de actividades académicas y culturales del TEC en su aniversario.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/conversatorio-unesco-nos-relacionamos-nuestro-entorno-hemos-roto-lazos-naturaleza",
+      "publish_date": "2026-03-19T15:28:47.000Z",
+      "teaser": "Lo clave en 20 segundos: conversatorio sobre la relación de la sociedad con la naturaleza por UNESCO.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/area-vegetal_cib_rgarita-1.jpg",
+      "description": "Conversatorio UNESCO: ¿Cómo nos relacionamos con nuestro entorno? ¿Hemos roto lazos con la naturaleza?",
       "featured": false
     },
     {
@@ -4603,6 +4785,19 @@
       "featured": false
     },
     {
+      "slug": "tec-se-corona-campeon-torneo-universitario-baloncesto-representara-costa-rica-fisu-america-3x3",
+      "title": "TEC se corona campeón en Torneo Universitario de baloncesto y representará a Costa Rica en el FISU América 3x3",
+      "category": "Costa Rica",
+      "bullets_20s": "• El equipo del TEC logró la medalla de oro en el VII Torneo Universitario de Baloncesto 3x3.\n• El torneo fue organizado por la Federación Universitaria de Deportes (Fede U) y la Universidad Latina.\n• Cerca de 100 estudiantes-atletas participaron en este emocionante evento deportivo universitario.\n• El TEC competirá en el FISU América 3x3 del 25 al 28 de mayo en Tegucigalpa, Honduras.\n• Las Copas Mundiales Universitarias de la FISU buscan atraer a estudiantes-atletas a competencias internacionales.",
+      "source_name": "anasolano",
+      "source_url": "http://www.tec.ac.cr/tec-se-corona-campeon-torneo-universitario-baloncesto-representara-costa-rica-fisu-america-3x3",
+      "publish_date": "2026-03-18T21:16:02.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC es campeón universitario y representará a Costa Rica en Honduras.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/1_2.jpeg.webp?itok=rPV8nooA",
+      "description": "TEC se corona campeón en Torneo Universitario de baloncesto y representará a Costa Rica en el FISU América 3x3",
+      "featured": false
+    },
+    {
       "slug": "tec-se-corona-campeon-torneo-universitario-baloncesto-fisu-america-3x3",
       "title": "TEC se corona campeón en Torneo Universitario de baloncesto y representará a Costa Rica en el FISU América 3x3",
       "category": "Costa Rica",
@@ -5396,5 +5591,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-20T18:30:40.428Z"
+  "generated_at": "2026-03-20T19:30:40.380Z"
 }
