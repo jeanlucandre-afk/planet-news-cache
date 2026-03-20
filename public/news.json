@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "slug": "magistrado-fernando-cruz-visa-esposa",
+      "title": "Magistrado Fernando Cruz confirma que Estados Unidos también le retiró la visa a su esposa",
+      "category": "Costa Rica",
+      "bullets_20s": "• La decisión de Estados Unidos impacta a la familia del magistrado Fernando Cruz.\n• La revocación de visas empezó en el gobierno de Donald Trump.\n• Cruz resalta la importancia de su cargo como juez en el país.\n• La situación genera debate sobre la política migratoria estadounidense.\n• Se cuestiona la relación entre Costa Rica y Estados Unidos tras estos eventos.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/politica/magistrado-fernando-cruz-confirma-que-estados/7KE66PUCD5HKTMUV4YWIYMUC2M/story/",
+      "publish_date": "2026-03-20T00:23:35.000Z",
+      "teaser": "Lo clave en 20 segundos: Estados Unidos retiró la visa de la esposa del magistrado Fernando Cruz.",
+      "image_url": "https://www.nacion.com/resizer/v2/7YQOWO4EBBG4JJCBEXDLIT6ELE.JPG?auth=9f7f3a26ddf9bda1f9ade146f9131629836e42f1654425e0206b6724a9e185a6&smart=true&width=3000&height=2000",
+      "description": "Estados Unidos revocó la visa de la esposa del magistrado Fernando Cruz. Días antes, el gobierno de Donald Trump también retiró la visa al juez.",
+      "featured": false
+    },
+    {
+      "slug": "la-nacion-hablo-con-una-de-las-personas-despedidas-de-pollo-granjero-no-veiamos-venir-el-cierre",
+      "title": "La Nación habló con una de las personas despedidas de Pollo Granjero: ‘No veíamos venir el cierre’",
+      "category": "Costa Rica",
+      "bullets_20s": "• El cierre de Pollo Granjero afecta a cientos de empleados en Costa Rica.\n• Los trabajadores enfrentan incertidumbre tras la noticia del despido masivo.\n• La reacción de los despedidos revela sorpresa y desánimo por la situación.\n• Pollo Granjero ha sido un pilar importante en la economía local.\n• El impacto económico del cierre podría sentirse en la comunidad a largo plazo.",
+      "source_name": "Gustavo Ortega Campos",
+      "source_url": "https://www.nacion.com/economia/la-nacion-hablo-con-una-de-las-personas-despididas/DCJY4GDP6ZHWVAYAE2PDPGU7LM/story/",
+      "publish_date": "2026-03-20T00:12:41.000Z",
+      "teaser": "Lo clave en 20 segundos: El cierre de Pollo Granjero sorprendió a empleados, quedando 280 sin trabajo.",
+      "image_url": "https://www.nacion.com/resizer/v2/76MPJRLXNRAETLZ3B76WHKNARY.jpeg?auth=54934152268821e352368d4715cfee3aaab81345a63027562b8aa2d8f18ac87c&smart=true&width=1296&height=972",
+      "description": "El cierre de 96 locales de Pollo Granjero tomó por sorpresa a sus trabajadores: 280 personas quedaron desempleadas y en incertidumbre",
+      "featured": false
+    },
+    {
+      "slug": "tribunal-rechaza-recurso-de-revocatoria-de-extradicion-de-celso-gamboa",
+      "title": "Tribunal rechaza recurso de revocatoria de extradición de Celso Gamboa",
+      "category": "Costa Rica",
+      "bullets_20s": "• El tribunal tomó una decisión firme respecto a la extradición de Celso Gamboa.\n• El abogado de Gamboa presentó un recurso que fue rechazado en su totalidad.\n• Este caso ha atraído la atención de medios y ciudadanos en el país.\n• La extradición está relacionada con múltiples denuncias y acusaciones en su contra.\n• Este fallo podría tener implicaciones en la justicia costarricense y en la opinión pública.",
+      "source_name": "Christian Montero",
+      "source_url": "https://www.nacion.com/sucesos/tribunal-rechaza-recurso-de-revocatoria-de/QCHRMCVMNVGZ5EPA4LHGLNE5JQ/story/",
+      "publish_date": "2026-03-20T00:01:24.000Z",
+      "teaser": "Lo clave en 20 segundos: Tribunal negó el recurso de Gamboa, manteniendo su proceso de extradición.",
+      "image_url": "https://www.nacion.com/resizer/v2/S3E7ZTAXNFD2HPHRIP4WZHEK74.jpg?auth=b014b6ad1a44282633ec61042141a7ef86de8f82be1dee723797354260f4b1a9&smart=true&width=1200&height=628",
+      "description": "El Tribunal Penal de San José rechazó el recurso de revocatoria de la extradición del exmagistrado Celso Gamboa que presentó este miércoles, según confirmó el abogado de Gamboa, Michael Castillo.",
+      "featured": false
+    },
+    {
+      "slug": "el-hielo-tambien-puede-generar-electricidad-lo-que-descubrieron-los-cientificos",
+      "title": "El hielo también puede generar electricidad: lo que descubrieron los científicos",
+      "category": "Ciencia",
+      "bullets_20s": "• Científicos descubrieron que el hielo puede generar electricidad de formas sorprendentes.\n• Este hallazgo puede ayudar a entender la formación de electricidad en tormentas.\n• Se exploran nuevas aplicaciones para sensores en climas fríos y extremos.\n• El estudio abre la puerta a futuras investigaciones sobre la electricidad natural.\n• Las implicaciones de este descubrimiento son importantes para la tecnología energética.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/ciencia/el-hielo-tambien-puede-generar-electricidad-lo-que/R424FKRBYNF3VPQSQSKTXXCI4E/story/",
+      "publish_date": "2026-03-19T23:59:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El hielo puede generar electricidad, impactando ciencia y tecnología.",
+      "image_url": "https://www.nacion.com/resizer/v2/4LCHUI67JFEAVNEB7MPJY5OINQ.png?auth=fb9ee09c96a0ad7eeaec4d9096f42aac11e5c7ef1707a9e0e3a8b7c9c349fcd9&smart=true&width=1920&height=1080",
+      "description": "El hallazgo podría explicar cómo se forma la electricidad en tormentas y abrir puertas para sensores en lugares fríos.",
+      "featured": false
+    },
+    {
+      "slug": "pese-a-la-guerra-estados-unidos-valora-quitar-sanciones-a-petroleo-irani",
+      "title": "Pese a la guerra, Estados Unidos valora quitar sanciones a petróleo iraní",
+      "category": "Mundo",
+      "bullets_20s": "• Las sanciones a Irán podrían reducirse mientras se analiza la situación del mercado energético.\n• El conflicto en cuestión ha generado un impacto significativo en los precios globales del petróleo.\n• El secretario del Tesoro de EE. UU. propone nuevas medidas en respuesta a los aumentos de precios.\n• Las acciones en el mercado energético están influyendo directamente en la economía global actual.\n• Las autoridades estadounidenses observan las posibles repercusiones de las sanciones en el petróleo.\n• Regular el suministro de petróleo de Irán podría estabilizar el mercado internacional de energía.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/pese-a-la-guerra-estados-unidos-valora-quitar/BP2225TWIRFDBFJMJG4WY72T7U/story/",
+      "publish_date": "2026-03-19T23:55:19.000Z",
+      "teaser": "Lo clave en 20 segundos: Estados Unidos evalúa reducir sanciones a Irán por el aumento de precios de energía.",
+      "image_url": "https://www.nacion.com/resizer/v2/3TMIP23XNJBP5OHGU363DP52FM.png?auth=674cf23b7b26a88a1a330af7afe72f75da13bc79f0f2833c2851c8d3c9dedda1&smart=true&width=1680&height=945",
+      "description": "Conflicto dispara los precios de la energía y el secretario del Tesoro anuncia nuevas medidas para contenerlos.",
+      "featured": false
+    },
+    {
       "slug": "para-que-sirve-aplicar-agua-de-arroz-en-el-cabello",
       "title": "Para qué sirve aplicar agua de arroz en el cabello",
       "category": "Ciencia",
@@ -63,6 +128,19 @@
       "teaser": "Lo clave en 20 segundos: llegan aviones de Texas para extraditar a Celso Gamboa.",
       "image_url": "https://www.nacion.com/resizer/v2/RCMI5VHR7RELVPSUR4YHJKYPSU.png?auth=b2c262ec12ea2850799e3248cfcf03b2e6e9b07fed90da46805d423359e63fc2&smart=true&width=2880&height=1620",
       "description": "Dos aeronaves provenientes de Texas ya están en Costa Rica para la posible extradición de Celso Gamboa y alias Pecho de Rata.",
+      "featured": false
+    },
+    {
+      "slug": "v-congreso-institucional-cierra-con-14-acuerdos",
+      "title": "V Congreso Institucional cierra con 14 acuerdos",
+      "category": "Costa Rica",
+      "bullets_20s": "• El V Congreso Institucional del TEC logró un total de 14 acuerdos en sus cuatro días de sesiones.\n• Los acuerdos incluyen propuestas para establecer una Vicerrectoría de Extensión en la Institución.\n• Se aprobó un Modelo de Gestión de Programas Técnicos para fortalecer la formación técnica del TEC.\n• La asamblea se realizó en formato bimodal, con participantes virtuales y presenciales en el TEC.\n• Uno de los objetivos fue fomentar un diálogo académico sobre la realidad nacional y políticas públicas.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
+      "publish_date": "2026-03-19T22:27:42.000Z",
+      "teaser": "Lo clave en 20 segundos: Se cierran 14 acuerdos clave en el V Congreso Institucional del TEC.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/v-congreso-institucional_19-marzo-2.jpg.webp?itok=j-YOCl75",
+      "description": "V Congreso Institucional cierra con 14 acuerdos",
       "featured": false
     },
     {
@@ -165,6 +243,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/cd0r5jpz014o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-19T21:24:07.000Z",
       "teaser": "Lo clave en 20 segundos: Nombramiento de un nuevo ministro de Defensa en medio de controversias por derechos humanos.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/53b8/live/f6502e70-23c7-11f1-b050-bdbe6e966f25.jpg",
+      "description": "La presidenta encargada de Venezuela, Delcy Rodríguez, designó a Gustavo González López como nuevo ministro de Defensa. Su trayectoria no está exenta de acusaciones.",
+      "featured": false
+    },
+    {
+      "slug": "quien-es-el-nuevo-ministro-de-defensa-de-venezuela",
+      "title": "Quién es el nuevo ministro de Defensa de Venezuela, Gustavo González López (y los casos de derechos humanos por los que es cuestionado)",
+      "category": "Mundo",
+      "bullets_20s": "• Gustavo González López ha sido nombrado nuevo ministro de Defensa de Venezuela por la presidenta Delcy Rodríguez.\n• Su carrera profesional incluye cargos en el ámbito militar y de seguridad en el país.\n• González López enfrenta cuestionamientos por su historial relacionado con derechos humanos.\n• La designación se produce en un contexto de tensión política en Venezuela.\n• Organizaciones internacionales han manifestado preocupaciones sobre su posible influencia en la defensa de derechos.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cd0r5jpz014o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-19T21:24:07.000Z",
+      "teaser": "Lo clave en 20 segundos: El nuevo ministro de Defensa en Venezuela enfrenta críticas por derechos humanos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/53b8/live/f6502e70-23c7-11f1-b050-bdbe6e966f25.jpg",
       "description": "La presidenta encargada de Venezuela, Delcy Rodríguez, designó a Gustavo González López como nuevo ministro de Defensa. Su trayectoria no está exenta de acusaciones.",
       "featured": false
@@ -360,6 +451,19 @@
       "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
       "publish_date": "2026-03-19T19:53:14.000Z",
       "teaser": "Lo clave en 20 segundos: TEC obtiene acreditación Platinum Class, fortaleciéndose a nivel internacional.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
+      "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "featured": false
+    },
+    {
+      "slug": "administracion-empresas-tec-acreditacion-platinum-class",
+      "title": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "category": "Costa Rica",
+      "bullets_20s": "• La acreditación Platinum Class es un logro significativo para la Escuela de Administración del TEC.\n• Es la primera acreditación de este tipo en Costa Rica, destacando la calidad académica internacional.\n• El proceso de acreditación incluyó autoevaluación y revisión por pares académicos internacionales.\n• La acreditación abarca 18 programas académicos en diversas áreas de la administración.\n• Se requerirá un informe intermedio de cumplimiento en enero de 2028 para mantener la acreditación.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
+      "publish_date": "2026-03-19T19:53:14.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC logra la primera acreditación Platinum Class en Costa Rica, mejorando su proyección internacional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
       "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
       "featured": false
@@ -576,6 +680,19 @@
       "slug": "estudiantes-tec-representaran-costa-rica-elite-mundial-programacion-universitaria",
       "title": "Estudiantes del TEC representarán a Costa Rica en la élite mundial de la programación universitaria",
       "category": "Costa Rica",
+      "bullets_20s": "• El equipo del TEC se llama 'No Name Yet' y competirá en el ICPC en Dubái.\n• Tres estudiantes del TEC fueron elegidos para representar a Costa Rica en la final.\n• La competencia se llevará a cabo entre el 15 y el 20 de noviembre de 2026.\n• El ICPC es uno de los torneos más prestigiosos de programación a nivel mundial.\n• El equipo fue campeón regional en Santiago de Chile, destacándose entre 100 equipos.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/estudiantes-tec-representaran-costa-rica-elite-mundial-programacion-universitaria",
+      "publish_date": "2026-03-19T16:16:14.000Z",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC competirán en el ICPC 2026 en Dubái, representando a Costa Rica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/_mg_6388_courtesy-of-nubank.jpg.webp?itok=4832mr2R",
+      "description": "Estudiantes del TEC representarán a Costa Rica en la élite mundial de la programación universitaria",
+      "featured": false
+    },
+    {
+      "slug": "estudiantes-tec-representaran-costa-rica-elite-mundial-programacion-universitaria",
+      "title": "Estudiantes del TEC representarán a Costa Rica en la élite mundial de la programación universitaria",
+      "category": "Costa Rica",
       "bullets_20s": "• Tres estudiantes del TEC alcanzan la final mundial del ICPC 2026 en Dubái, representando a Costa Rica.\n• El equipo se denomina 'No Name Yet' y es campeón centroamericano de programación universitaria.\n• La competencia se llevará a cabo del 15 al 20 de noviembre de 2026 en Dubái, Emiratos Árabes Unidos.\n• El certamen fomenta creatividad y resolución de problemas en situaciones del mundo real para estudiantes.\n• Más de 50 mil estudiantes de todo el mundo participan cada año en la final del ICPC, un evento prestigioso.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/estudiantes-tec-representaran-costa-rica-elite-mundial-programacion-universitaria",
@@ -750,6 +867,19 @@
       "source_url": "http://www.tec.ac.cr/conversatorio-unesco-nos-relacionamos-nuestro-entorno-hemos-roto-lazos-naturaleza",
       "publish_date": "2026-03-19T15:28:47.000Z",
       "teaser": "Lo clave en 20 segundos: Conversatorio UNESCO sobre vínculos entre sociedad y naturaleza en Costa Rica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/area-vegetal_cib_rgarita-1.jpg",
+      "description": "Conversatorio UNESCO: ¿Cómo nos relacionamos con nuestro entorno? ¿Hemos roto lazos con la naturaleza?",
+      "featured": false
+    },
+    {
+      "slug": "conversatorio-unesco-relacionamos-entorno-naturaleza",
+      "title": "Conversatorio UNESCO: ¿Cómo nos relacionamos con nuestro entorno? ¿Hemos roto lazos con la naturaleza?",
+      "category": "Ciencia",
+      "bullets_20s": "• Reflexión sobre la relación entre sociedad y naturaleza en el contexto actual.\n• Participación de expertos de UNESCO en diálogo sobre temas ambientales.\n• Importancia del conocimiento científico para comprender nuestro entorno.\n• Actividades del 55 aniversario del Tecnológico de Costa Rica.\n• Fomento de un diálogo interdisciplinario sobre desafíos ambientales.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/conversatorio-unesco-nos-relacionamos-nuestro-entorno-hemos-roto-lazos-naturaleza",
+      "publish_date": "2026-03-19T15:28:47.000Z",
+      "teaser": "Lo clave en 20 segundos: Reflexionamos sobre nuestra relación con la naturaleza y la ciencia en el conversatorio UNESCO.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/area-vegetal_cib_rgarita-1.jpg",
       "description": "Conversatorio UNESCO: ¿Cómo nos relacionamos con nuestro entorno? ¿Hemos roto lazos con la naturaleza?",
       "featured": false
@@ -1213,6 +1343,19 @@
       "slug": "por-que-cada-cultura-tiene-un-caldo-para-tratar-dolencias-y-buscar-confort",
       "title": "Por qué cada cultura tiene un caldo para tratar dolencias y buscar confort",
       "category": "Mundo",
+      "bullets_20s": "• Los caldos han sido parte de la medicina popular en diversas culturas durante siglos.\n• Son utilizados para tratar resfriados, gripe y otras dolencias comunes en todo el mundo.\n• Aparte de su valor medicinal, los caldos representan tradiciones y celebraciones familiares.\n• A menudo, los ingredientes escasos son aprovechados en la preparación de caldos nutritivos.\n• Cada región tiene su propia variedad de caldos, reflejando la biodiversidad local.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c2k839514p1o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-19T11:39:16.000Z",
+      "teaser": "Lo clave en 20 segundos: los caldos son vitales en diversas culturas para sanar y reconfortar.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/79ce/live/aaf503f0-1978-11f1-b048-c9424b2cf5fd.jpg",
+      "description": "En todas las latitudes, los caldos han aliviado enfermedades, marcado celebraciones y hecho rendir los ingredientes escasos mucho antes de que se convirtieran en una tendencia de bienestar.",
+      "featured": false
+    },
+    {
+      "slug": "por-que-cada-cultura-tiene-un-caldo-para-tratar-dolencias-y-buscar-confort",
+      "title": "Por qué cada cultura tiene un caldo para tratar dolencias y buscar confort",
+      "category": "Mundo",
       "bullets_20s": "• Los caldos son parte fundamental de diversas culturas por su valor nutricional y medicinal.\n• Se han utilizado en distintas tradiciones para aliviar malestares y proporcionar calor.\n• Cada región adapta sus caldos a los ingredientes locales disponibles en su entorno.\n• Los caldos reflejan la diversidad cultural y los métodos de cocción ancestrales.\n• Su consumo está relacionado con la unión familiar y las reuniones sociales en muchas culturas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2k839514p1o?at_medium=RSS&at_campaign=rss",
@@ -1444,6 +1587,19 @@
       "featured": false
     },
     {
+      "slug": "como-la-guerra-de-iran-rompio-el-espejismo-de-seguridad-en-lugares-del-golfo",
+      "title": "Cómo la guerra de Irán rompió el espejismo de seguridad en lugares del Golfo como Dubái y Qatar (y las millonarias pérdidas que conlleva)",
+      "category": "Mundo",
+      "bullets_20s": "• Las tensiones en el Golfo han afectado gravemente la percepción de seguridad en la región.\n• Dubái y Qatar eran vistos como refugios seguros, pero la guerra ha alterado esta imagen.\n• Analistas advierten sobre las profundas repercusiones económicas en los países afectados.\n• Las autoridades del Golfo buscan alternativas para lidiar con los efectos de la guerra.\n• La falta de una salida clara genera incertidumbre entre los inversores extranjeros.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c3rzr7ldj42o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-19T03:52:16.000Z",
+      "teaser": "Lo clave en 20 segundos: La guerra de Irán cambia la percepción de seguridad en el Golfo.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cdc2/live/68b9d7d0-22de-11f1-9c64-25f36d76b36f.jpg",
+      "description": "La frustración crece entre las monarquías del Golfo, que se han visto arrastradas a una guerra que no buscaron, con carísismas consecuencias y sin una salida clara.",
+      "featured": false
+    },
+    {
       "slug": "como-la-guerra-de-iran-rompio-el-espejismo-de-seguridad",
       "title": "Cómo la guerra de Irán rompió el espejismo de seguridad en lugares del Golfo como Dubái y Qatar (y las millonarias pérdidas que conlleva)",
       "category": "Mundo",
@@ -1506,6 +1662,19 @@
       "teaser": "Lo clave en 20 segundos: Directora de inteligencia de EE.UU. evalúa el estado de Irán.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/138f/live/926aeab0-22ed-11f1-abe1-05da6de99c2b.jpg",
       "description": "Los responsables de inteligencia tuvieron que responder a las preguntas de los congresistas sobre la guerra contra Irán y si la República Islámica representaba una amenaza inminente.",
+      "featured": false
+    },
+    {
+      "slug": "tec-se-corona-campeon-torneo-universitario-baloncesto",
+      "title": "TEC se corona campeón en Torneo Universitario de baloncesto y representará a Costa Rica en el FISU América 3x3",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC ganó la medalla de oro en el VII Torneo Universitario de Baloncesto 3x3.\n• El equipo está compuesto por cuatro estudiantes de distintas carreras del TEC.\n• El torneo reunió a cerca de 100 estudiantes-atletas de diversas universidades.\n• El TEC competirá en el FISU América 3x3 en Tegucigalpa, Honduras.\n• La competencia está diseñada para impulsar el deporte universitario entre los jóvenes.",
+      "source_name": "anasolano",
+      "source_url": "http://www.tec.ac.cr/tec-se-corona-campeon-torneo-universitario-baloncesto-representara-costa-rica-fisu-america-3x3",
+      "publish_date": "2026-03-18T21:16:02.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC se corona campeón y competirá en FISU América 3x3.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/1_2.jpeg.webp?itok=rPV8nooA",
+      "description": "TEC se corona campeón en Torneo Universitario de baloncesto y representará a Costa Rica en el FISU América 3x3",
       "featured": false
     },
     {
@@ -2198,5 +2367,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-20T00:30:38.414Z"
+  "generated_at": "2026-03-20T01:30:38.480Z"
 }
