@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "mep-necesita-resultados-no-mas-anuncios",
+      "title": "MEP necesita resultados, no más anuncios",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los anuncios sin resultados concretos generan desconfianza en la comunidad educativa y la sociedad.\n• Es crucial implementar métricas claras para evaluar el desempeño del sistema educativo costarricense.\n• Los desafíos estructurales requieren acciones concretas y contundentes, no solo palabras vacías.\n• La rendición de cuentas debe ser fundamental en la gestión del MEP para mejorar la calidad educativa.\n• La educación enfrenta retos serios que deben ser abordados con seriedad y compromiso real.",
+      "source_name": "Andrés Fernández Arauz",
+      "source_url": "https://www.nacion.com/opinion/columnistas/mep-necesita-resultados-no-mas-anuncios/ZG4XIV6PFRC2NLXSMQHQ5NKZ6Q/story/",
+      "publish_date": "2026-03-21T14:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La rendición de cuentas es esencial para enfrentar los desafíos educativos.",
+      "image_url": "https://www.nacion.com/resizer/v2/SMRYOWNLP5F23K5DJG6CU7NTME.png?smart=true&auth=ec96ae8efda49ef7e794ec2f769426d80d4036d60b680b7c6616328d04b805f9&width=1440",
+      "description": "Sustituir la rendición de cuentas por una sucesión de anuncios debilita la capacidad de conducción del sistema, que afronta desafíos estructurales impostergables.",
+      "featured": false
+    },
+    {
+      "slug": "para-paliar-el-desamparo-una-historia-del-hospicio",
+      "title": "Para paliar el desamparo: Una historia del Hospicio de Huérfanos",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Hospicio de Huérfanos es un sitio emblemático en la historia de la beneficencia costarricense.\n• Este lugar ha sido fundamental para el cuidado de niños en situación de vulnerabilidad.\n• Se fundó con la intención de proporcionar un hogar y educación a los huérfanos.\n• A pesar de su historia rica, el hospicio enfrenta desafíos en la actualidad.\n• Su ubicación en San José resalta la paradoja de su legado en Cartago.",
+      "source_name": "Andrés Fernández",
+      "source_url": "https://www.nacion.com/ancora/para-paliar-el-desamparo-una-historia-del-hospicio/YB3U2FXXQRBDRMCLWUDGTAU22Q/story/",
+      "publish_date": "2026-03-21T13:40:00.000Z",
+      "teaser": "Lo clave en 20 segundos: una mirada a la historia del Hospicio de Huérfanos en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/RQXIWDYPNVBXXBHXTRZTEXNL5U.jpg?auth=9f3bb741ea70d0a777ba9c2db647f5370d8b6984292f1f9ee5ac6435ffb82dbd&smart=true&width=1838&height=1318",
+      "description": "El Hospicio de Huérfanos, el monumento al fundador de Cartago, paradójicamente, está en San José.",
+      "featured": false
+    },
+    {
+      "slug": "hace-50-anos-guatemala-sufre-hambre-y-falta-de-vivienda-tras-el-terremoto",
+      "title": "Hace 50 años: Guatemala sufre hambre y falta de vivienda tras el terremoto",
+      "category": "Mundo",
+      "bullets_20s": "• El terremoto de Guatemala ocurrió en 1976, devastando la infraestructura del país.\n• Millones de personas enfrentaron hambre y falta de vivienda tras el desastre natural.\n• La respuesta internacional fue clave para la recuperación en las siguientes décadas.\n• El sismo dejó una profunda huella en la memoria histórica de Guatemala.\n• La reconstrucción fue lenta y llena de desafíos para la población afectada.",
+      "source_name": "Yeryis Salas",
+      "source_url": "https://www.nacion.com/el-pais/hace-50-anos-guatemala-sufre-hambre-y-falta-de/7GUQZHUWT5ADHPJFD6B6RD3KVA/story/",
+      "publish_date": "2026-03-21T13:30:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El devastador terremoto de 1976 dejó a Guatemala en crisis.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZL2AZ53MMJBUZMPFSVOPLV5GD4.png?auth=2d8f6502c1502774408972d06381c7d84493f7234d5b658b170c055de416f716&smart=true&width=565&height=357",
+      "description": "Sismo del 4 de febrero dejó a 1 millón de personas sin hogar.",
+      "featured": false
+    },
+    {
+      "slug": "elecciones-de-medio-mandato-en-estados-unidos-guerra-iran-trump",
+      "title": "Elecciones de medio mandato en Estados Unidos: ¿Puede la guerra con Irán hacerle perder el Congreso a Trump?",
+      "category": "Mundo",
+      "bullets_20s": "• Las elecciones de medio mandato son cruciales para el equilibrio de poder en el Congreso.\n• Los votantes indecisos podrían ser influenciados por la situación internacional actual.\n• La postura de Trump sobre Irán polariza a la opinión pública en Estados Unidos.\n• Históricamente, las guerras suelen afectar las decisiones electorales de los votantes.\n• Se anticipa un intenso debate político en los próximos meses previo a las elecciones.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/elecciones-de-medio-mandato-en-estados-unidos/NCHGURYYTBEEDNLXLTRBILL47A/story/",
+      "publish_date": "2026-03-21T13:06:40.000Z",
+      "teaser": "Lo clave en 20 segundos: El impacto de la guerra con Irán en las elecciones de medio mandato en EE.UU.",
+      "image_url": "https://www.nacion.com/resizer/v2/74FMJ43BVVDHLFLBKT4XJDCLYA.jpg?auth=116246dc55c211379916aceec43f19662901bedcf4dbc1b8af84607fdc48d8f5&smart=true&width=1200&height=807",
+      "description": "El Congreso de Estados Unidos se encamina a las elecciones de medio término en noviembre. Con esa fecha en el horizonte, surge la interrogante sobre cómo impactará en los votantes indecisos la guerra impulsada por Donald Trump contra Irán.",
+      "featured": false
+    },
+    {
       "slug": "elecciones-de-medio-mandato-eeuu-guerra-con-iran",
       "title": "Elecciones de medio mandato en Estados Unidos: ¿Puede la guerra con Irán hacerle perder el Congreso a Trump?",
       "category": "Mundo",
@@ -27,6 +79,19 @@
       "featured": false
     },
     {
+      "slug": "benito-juarez-presidente-indigena-mexico",
+      "title": "Benito Juárez, el admirado y denostado primer presidente indígena de México (y qué papel jugó en la modernización del país)",
+      "category": "Mundo",
+      "bullets_20s": "• Benito Juárez nació en una comunidad indígena y llegó a ser presidente de México.\n• Su vida es un ejemplo de superación personal y liderazgo político significativo.\n• La modernización de México fue una de sus principales metas durante su presidencia.\n• Juárez enfrentó oposición, siendo admirado y criticado en su tiempo.\n• Sus decisiones influyeron en el futuro político y social del país.\n• La figura de Juárez es recordada en diversas partes del mundo.\n• Su legado continúa vivo en la política moderna de México.\n• Juárez promovió reformas que buscaban igualdad y derechos para todos.\n• Su vida representa la lucha indígena en la historia de México.\n• Es un ícono mexicano, estudiado en varias disciplinas académicas hoy.",
+      "source_name": "",
+      "source_url": "https://www.bbc.com/mundo/articles/c7vq5edy881o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T13:01:20.000Z",
+      "teaser": "Lo clave en 20 segundos: Benito Juárez, figura clave en la historia de México, modernizó el país desde sus raíces indígenas.",
+      "image_url": "",
+      "description": "Benito Juárez tuvo una vida de superación, que lo llevó desde su origen en una comunidad indígena al máximo cargo del país. Sus acciones fueron alabadas y rechazadas en varios frentes.",
+      "featured": false
+    },
+    {
       "slug": "libertad-para-aprender-libertad-para-ensenar",
       "title": "Libertad para aprender, libertad para enseñar",
       "category": "Ciencia",
@@ -48,6 +113,19 @@
       "source_url": "https://www.nacion.com/economia/que-refleja-el-cierre-de-pollo-granjero-lideres/NBMWBRIQ3BHEXNL4J7UZERSIA4/story/",
       "publish_date": "2026-03-21T13:00:00.000Z",
       "teaser": "Lo clave en 20 segundos: El cierre de Pollo Granjero revela altos costos operativos en restaurantes de Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/XUJWDPYV3FHFDCAFODEZJWSNUE.JPG?auth=b5d5ff14c75017f44fd48ecc4eebcb4921a57adeac24535aed8c6a21c65d81fc&smart=true&width=4000&height=2667",
+      "description": "Más allá del cierre de 96 puntos de venta, el sector de restaurantes advierte que operar en el país es ‘extremadamente caro’ por estas razones.",
+      "featured": false
+    },
+    {
+      "slug": "que-refleja-el-cierre-de-pollo-granjero",
+      "title": "¿Qué refleja el cierre de Pollo Granjero? Líderes empresariales señalan 9 razones para explicar lo sucedido",
+      "category": "Costa Rica",
+      "bullets_20s": "• El cierre de Pollo Granjero impacta la economía local y el empleo en el sector alimenticio.\n• Líderes empresariales destacan altos costos operativos y normativas que afectan a restaurantes.\n• El análisis incluye factores como precios de insumos y competencia en el mercado.\n• Expertos advierten sobre la sostenibilidad de otros negocios similares en el país.\n• La situación plantea un reto para la industria gastronómica y el acceso a alimentos.",
+      "source_name": "Gustavo Ortega Campos",
+      "source_url": "https://www.nacion.com/economia/que-refleja-el-cierre-de-pollo-granjero-lideres/NBMWBRIQ3BHEXNL4J7UZERSIA4/story/",
+      "publish_date": "2026-03-21T13:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El cierre revela altos costos y desafíos en el sector de restaurantes en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/XUJWDPYV3FHFDCAFODEZJWSNUE.JPG?auth=b5d5ff14c75017f44fd48ecc4eebcb4921a57adeac24535aed8c6a21c65d81fc&smart=true&width=4000&height=2667",
       "description": "Más allá del cierre de 96 puntos de venta, el sector de restaurantes advierte que operar en el país es ‘extremadamente caro’ por estas razones.",
       "featured": false
@@ -113,6 +191,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/cp32l75p2qro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-21T11:56:24.000Z",
       "teaser": "Lo clave en 20 segundos: Avances en ingeniería de sueños generan tanto entusiasmo como controversia.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8862/live/6d85d900-1981-11f1-9156-4356592fc9c8.jpg",
+      "description": "Algunos científicos están entusiasmados con los avances en el campo de la ingeniería de sueños, pero otros advierten su dimensión controvertida.",
+      "featured": false
+    },
+    {
+      "slug": "que-es-la-ingenieria-de-suenos-y-como-permite-influir-en-que-sonamos",
+      "title": "Qué es la ingeniería de sueños y cómo permite influir en qué soñamos",
+      "category": "Ciencia",
+      "bullets_20s": "• La ingeniería de sueños busca manipular los sueños a través de la tecnología y la ciencia.\n• Científicos exploran métodos para influir en los contenidos de nuestros sueños nocturnos.\n• Algunos investigadores ven potencial terapéutico, mientras que otros plantean dilemas éticos.\n• Explorar los sueños podría ayudar en el tratamiento de traumas y trastornos de ansiedad.\n• Las tecnologías actuales permiten registrar y analizar patrones de sueño en tiempo real.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cp32l75p2qro?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T11:56:24.000Z",
+      "teaser": "Lo clave en 20 segundos: La ingeniería de sueños está en auge, entre promesas y dilemas éticos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8862/live/6d85d900-1981-11f1-9156-4356592fc9c8.jpg",
       "description": "Algunos científicos están entusiasmados con los avances en el campo de la ingeniería de sueños, pero otros advierten su dimensión controvertida.",
       "featured": false
@@ -244,6 +335,19 @@
       "publish_date": "2026-03-21T10:38:04.000Z",
       "teaser": "Lo clave en 20 segundos: el sorprendente secuestro de Patty Hearst y su cambio inesperado.",
       "image_url": "",
+      "description": "El secuestro de Patty Hearst terminó teniendo uno de los giros inesperados más espectaculares de los años 70.",
+      "featured": false
+    },
+    {
+      "slug": "la-rocambolesca-historia-de-patty-hearst",
+      "title": "La rocambolesca historia de Patty Hearst, la rica heredera que fue secuestrada y se unió a la guerrilla de sus captores",
+      "category": "Mundo",
+      "bullets_20s": "• Patty Hearst fue secuestrada en 1974 por un grupo armado en su ciudad natal.\n• Su historia incluye giros sorprendentes que capturaron la atención del público.\n• La heredera se unió a sus captores, lo que provocó un gran debate social.\n• Este caso refleja las tensiones políticas de los años 70 en Estados Unidos.\n• El secuestro y la posterior transformación de Hearst desató múltiples análisis psicológicos.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cre0e002v8po?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T10:38:04.000Z",
+      "teaser": "Lo clave en 20 segundos: La intrigante historia de secuestro y lealtad de Patty Hearst en los años 70.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/37b4/live/de82aff0-24a0-11f1-9573-9907bc8f835c.jpg",
       "description": "El secuestro de Patty Hearst terminó teniendo uno de los giros inesperados más espectaculares de los años 70.",
       "featured": false
     },
@@ -828,6 +932,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/c5yw851lpjpo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-21T03:01:19.000Z",
       "teaser": "Lo clave en 20 segundos: La postura de Corea del Norte ante los ataques en Irán y su relación con la seguridad.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/89cd/live/3a8eb9c0-21b7-11f1-be41-af0a235fe6eb.png",
+      "description": "Los ataques de EE.UU. e Israel contra Irán probablemente afianzarán la idea del líder norcoreano de que las armas nucleares son esenciales para la supervivencia, según los analistas.",
+      "featured": false
+    },
+    {
+      "slug": "por-que-kim-jong-un-no-teme-un-ataque-de-ee-uu-a-corea-del-norte-como-el-que-sufre-iran",
+      "title": "Por qué Kim Jong-un no teme un ataque de EE.UU. a Corea del Norte como el que sufre Irán",
+      "category": "Mundo",
+      "bullets_20s": "• Kim Jong-un considera que las armas nucleares son esenciales para su régimen, según analistas internacionales.\n• La percepción de amenazas de EE.UU. ha aumentado en Corea del Norte tras los conflictos en Irán.\n• Iran es visto como un aviso para Corea del Norte sobre las consecuencias de no tener armamento nuclear.\n• Los líderes autoritarios a menudo justifican su arsenal nuclear como protección contra intervenciones externas.\n• La estrategia de defensa de Corea del Norte puede desviarse por el contexto internacional actual.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c5yw851lpjpo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T03:01:19.000Z",
+      "teaser": "Lo clave en 20 segundos: Corea del Norte ve la necesidad de un arsenal nuclear tras los ataques en Irán.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/89cd/live/3a8eb9c0-21b7-11f1-be41-af0a235fe6eb.png",
       "description": "Los ataques de EE.UU. e Israel contra Irán probablemente afianzarán la idea del líder norcoreano de que las armas nucleares son esenciales para la supervivencia, según los analistas.",
       "featured": false
@@ -1460,6 +1577,19 @@
       "slug": "se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
       "title": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
       "category": "Costa Rica",
+      "bullets_20s": "• Dwane James se graduó de Ingeniería en Producción Industrial en el TEC de Limón.\n• La ceremonia de graduación tuvo un ambiente de celebración y reconocimiento mutuo.\n• El TEC ha impactado positivamente en la educación en la región Huetar Atlántica.\n• James es considerado un fundador del movimiento estudiantil en el Centro Académico.\n• La responsabilidad social es crucial para los graduados según la rectora del TEC.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "publish_date": "2026-03-20T20:31:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Dwane James se graduó y celebró su impacto en el movimiento estudiantil en Limón.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/acto-graduacion-limon_20_03_2026paquesada-76.jpg.webp?itok=vQb4z-Ny",
+      "description": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
+      "featured": false
+    },
+    {
+      "slug": "se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "title": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
+      "category": "Costa Rica",
       "bullets_20s": "• La graduación destaca el compromiso de los estudiantes en la educación superior pública de Limón.\n• Dwane James fue reconocido como fundador del movimiento estudiantil en el Centro Académico.\n• La ceremonia tuvo un ambiente emotivo, repleto de aplausos y abrazos entre los graduados.\n• La rectora del TEC recordó la responsabilidad de los graduados con la sociedad costarricense.\n• 778 estudiantes se graduaron en total durante este primer semestre académico de 2026.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
@@ -1673,6 +1803,19 @@
       "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
       "publish_date": "2026-03-20T20:24:45.000Z",
       "teaser": "Lo clave en 20 segundos: convenio entre el TEC y la Asociación de Ingeniería de Transporte.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "featured": false
+    },
+    {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "category": "Costa Rica",
+      "bullets_20s": "• El convenio busca fortalecer la colaboración entre instituciones educativas y profesionales.\n• Se espera mejorar la infraestructura de transporte en Costa Rica mediante este acuerdo.\n• La asociación traerá su experiencia en ingeniería para beneficiar al Instituto Tecnológico.\n• Ambas partes trabajarán en proyectos conjuntos que atiendan necesidades del país.\n• Se fomentará la investigación y el desarrollo en el área de transporte.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "publish_date": "2026-03-20T20:24:45.000Z",
+      "teaser": "Lo clave en 20 segundos: Convenio entre el TEC y asociación de ingenieros para mejorar transporte.",
       "image_url": "",
       "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
       "featured": false
@@ -1946,6 +2089,19 @@
       "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
       "publish_date": "2026-03-20T20:16:52.000Z",
       "teaser": "Lo clave en 20 segundos: Acuerdo entre ITCR e ILISA potencia la educación en diversas áreas.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "featured": false
+    },
+    {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Instituto Tecnológico de Costa Rica busca fortalecer su vínculo con la educación técnica.\n• ILISA se especializa en la enseñanza de idiomas, colaborando en diversas áreas educativas.\n• El convenio permitirá intercambios académicos y proyectos conjuntos entre ambas instituciones.\n• Se enfocarán en generar alternativas que beneficien a estudiantes y docentes.\n• Este acuerdo tiene un impacto positivo en la formación profesional en el país.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
+      "publish_date": "2026-03-20T20:16:52.000Z",
+      "teaser": "Lo clave en 20 segundos: Convenio que fortalece la educación técnica y de idiomas en Costa Rica.",
       "image_url": "",
       "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
       "featured": false
@@ -2960,6 +3116,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/c5yj3rlp9q1o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-20T14:20:11.000Z",
       "teaser": "Lo clave en 20 segundos: La guerra en Irán complica el paso por el estrecho de Ormuz para los barcos.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d8bd/live/077ff0d0-22bb-11f1-b297-95b0a0a8331e.png",
+      "description": "BBC Verify analizó cuáles son los barcos que realizan la travesía y los riesgos que corren.",
+      "featured": false
+    },
+    {
+      "slug": "casi-100-barcos-han-atrevesado-el-estrecho-de-ormuz",
+      "title": "Casi 100 barcos han atravesado el estrecho de Ormuz desde que empezó la guerra en Irán: ¿quiénes están logrando pasar?",
+      "category": "Mundo",
+      "bullets_20s": "• El estrecho de Ormuz es una de las rutas marítimas más estratégicas del mundo.\n• Casi 100 barcos han realizado exitosamente la travesía en medio del conflicto.\n• Los barcos enfrentan múltiples riesgos al cruzar esta zona conflictiva.\n• BBC Verify investiga qué tipo de embarcaciones están logrando pasar.\n• La situación en Irán afecta el comercio marítimo global de manera significativa.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c5yj3rlp9q1o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-20T14:20:11.000Z",
+      "teaser": "Lo clave en 20 segundos: Casi 100 barcos cruzan el estrecho de Ormuz en medio de la guerra en Irán.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d8bd/live/077ff0d0-22bb-11f1-b297-95b0a0a8331e.png",
       "description": "BBC Verify analizó cuáles son los barcos que realizan la travesía y los riesgos que corren.",
       "featured": false
@@ -5100,6 +5269,19 @@
       "slug": "v-congreso-institucional-cierra-14-acuerdos",
       "title": "V Congreso Institucional cierra con 14 acuerdos",
       "category": "Costa Rica",
+      "bullets_20s": "• El V Congreso Institucional se realizó en modalidad bimodal, con participación física y virtual.\n• Se firmaron 14 acuerdos en total, fortaleciendo la extensión universitaria del TEC.\n• Uno de los acuerdos incluye la creación de una nueva comisión para la Vicerrectoría de Extensión.\n• Las ponencias presentadas variaron en propuestas, desde modelos de gestión hasta tecnología.\n• El Consejo Institucional tomará decisiones sobre los acuerdos presentados en el congreso.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
+      "publish_date": "2026-03-19T22:27:42.000Z",
+      "teaser": "Lo clave en 20 segundos: Se cerró con 14 acuerdos el V Congreso Institucional del TEC.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/v-congreso-institucional_19-marzo-2.jpg.webp?itok=j-YOCl75",
+      "description": "V Congreso Institucional cierra con 14 acuerdos",
+      "featured": false
+    },
+    {
+      "slug": "v-congreso-institucional-cierra-14-acuerdos",
+      "title": "V Congreso Institucional cierra con 14 acuerdos",
+      "category": "Costa Rica",
       "bullets_20s": "• El V Congreso Institucional fue desarrollado en formato bimodal por el Tecnológico de Costa Rica.\n• Se tomaron 14 acuerdos tras cuatro días de intensas sesiones de trabajo y debate.\n• La creación de una Vicerrectoría de Extensión fue uno de los puntos clave discutidos.\n• También se aprobaron modelos para mejorar la gestión técnica y transferencia tecnológica.\n• Se enfatizó la importancia de un modelo participativo y riguroso en la toma de decisiones.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
@@ -6067,6 +6249,19 @@
       "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
       "publish_date": "2026-03-19T19:53:14.000Z",
       "teaser": "Lo clave en 20 segundos: TEC obtiene acreditación Platinum Class, fortaleciéndose a nivel internacional.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
+      "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "featured": false
+    },
+    {
+      "slug": "administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
+      "title": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Escuela de Administración del TEC recibe una acreditación internacional de cuatro estrellas por su calidad académica.\n• La acreditación Platinum Class es otorgada por la Education Quality Accreditation Agency (EQUAA).\n• Este reconocimiento amplía las oportunidades académicas para los graduados de la escuela.\n• El proceso de acreditación incluyó autoevaluación y revisión externa por pares académicos.\n• La acreditación cubre 18 programas académicos incluyendo maestrías y licenciaturas.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
+      "publish_date": "2026-03-19T19:53:14.000Z",
+      "teaser": "Lo clave en 20 segundos: TEC recibe acreditación Platinum Class por su excelencia académica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
       "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
       "featured": false
@@ -9244,5 +9439,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-21T14:30:42.380Z"
+  "generated_at": "2026-03-21T15:30:42.320Z"
 }
