@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "slug": "le-sangran-las-encias-al-cepillarse",
+      "title": "¿Le sangran las encías al cepillarse? Cuidado, podría estar ignorando una alerta grave",
+      "category": "Ciencia",
+      "bullets_20s": "• El sangrado de encías puede ser un indicativo de problemas de salud bucal serios.\n• Se debe prestar atención a los cuidados dentales para prevenir enfermedades más complejas.\n• Caries invisibles pueden causar daños significativos si no se detectan a tiempo.\n• Visitar regularmente al dentista es crucial para un diagnóstico temprano y tratamiento adecuado.\n• Educación sobre salud dental es necesaria para evitar complicaciones irreversibles.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/ciencia/le-sangran-las-encias-al-cepillarse-cuidado-podria/J6AIJFYRIVA7PCDRF3DRMUUGEU/story/",
+      "publish_date": "2026-03-21T21:16:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El sangrado de encías puede ser una señal de alerta seria para la salud dental.",
+      "image_url": "https://www.nacion.com/resizer/v2/POZNFRQVHRBA5EBZQLDYGDCYR4.png?auth=aea87c36c2cba21209bab173012a28029278f26baeaffdbb31871b4947470382&smart=true&width=1920&height=1080",
+      "description": "¿Sabía que el sangrado dental al cepillarse es una señal de alerta médica? Conozca por qué este síntoma y las caries invisibles representan un peligro real para su dentadura.",
+      "featured": false
+    },
+    {
+      "slug": "herediano-vs-alajuelense-hora-y-canal",
+      "title": "Herediano vs. Alajuelense: Hora y canal para ver un partido muy esperado en medio del escándalo de indisciplina",
+      "category": "Costa Rica",
+      "bullets_20s": "• El partido se juega entre dos de los equipos más grandes de Costa Rica.\n• Se espera una gran afluencia de aficionados en el estadio para el evento.\n• Ambos equipos han estado en el centro de atención por recientes escándalos.\n• Los entrenadores han enfatizado la importancia de este partido clave.\n• La rivalidad histórica entre ambos equipos añade un sabor especial al duelo.",
+      "source_name": "Fanny Tayver Marín",
+      "source_url": "https://www.nacion.com/puro-deporte/herediano-vs-alajuelense-hora-y-canal-para-ver-un/TZTJICP4SBGMPCFUCON6HEVPYA/story/",
+      "publish_date": "2026-03-21T21:03:10.000Z",
+      "teaser": "Lo clave en 20 segundos: gran partido entre Herediano y Alajuelense en medio de polémicas.",
+      "image_url": "https://www.nacion.com/resizer/v2/AL2KKXFS3VCLPBH6AQZWNIUFQE.JPG?auth=1e0991432a4b7c1ec002534fdbb256d434d130a8ab07d88e4430f6407c1ae259&smart=true&width=4256&height=2832",
+      "description": "El Club Sport Herediano y Liga Deportiva Alajuelense juegan esta noche en el Estadio Carlos Alvarado, en Santa Bárbara.",
+      "featured": false
+    },
+    {
+      "slug": "costa-rica-destino-mundial-ecuestre-2026",
+      "title": "Costa Rica es designada Destino Mundial Ecuestre 2026 y atrae a amantes de los caballos",
+      "category": "Costa Rica",
+      "bullets_20s": "• Costa Rica recibe un importante reconocimiento internacional en el ámbito ecuestre para el año 2026.\n• La certificación busca impulsar el turismo rural y fortalecer la economía local a través del ecuestre.\n• Se espera atraer a amantes de los caballos de diferentes partes del mundo a este destino.\n• Este evento posicionará a Costa Rica como un referente en turismo ecuestre a nivel mundial.\n• Las autoridades planean implementar estrategias para optimizar la infraestructura y servicios ofrecidos.",
+      "source_name": "Damián Arroyo C.",
+      "source_url": "https://www.nacion.com/economia/costa-rica-es-designada-destino-mundial-ecuestre/P2WRKRBFZ5AFLOGYOVQEOX2THM/story/",
+      "publish_date": "2026-03-21T20:58:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Costa Rica, Destino Mundial Ecuestre 2026, potencia su turismo y economía local.",
+      "image_url": "https://www.nacion.com/resizer/v2/LTKW5HKIVBEKFC3GPRK3Q4UPCA.JPG?auth=3fb6f345a80970d4bdb9776a80543238650a6abc36561497e7b2b04467df2dc5&smart=true&width=5568&height=3712",
+      "description": "Costa Rica fue nombrada Destino Mundial Ecuestre 2026 por la OMTE. La certificación impulsa el turismo rural y posiciona al país como referente internacional.",
+      "featured": false
+    },
+    {
+      "slug": "los-tiburones-del-caribe-se-estan-contaminando-con-cocaina-y-analgesicos-revela-estudio",
+      "title": "Los tiburones del Caribe se están contaminando con cocaína y analgésicos, revela estudio",
+      "category": "Ciencia",
+      "bullets_20s": "• Investigación indica que tiburones del Caribe contienen sustancias tóxicas en su organismo.\n• Se han encontrado cocaína y analgésicos como parte de una alarmante tendencia.\n• La contaminación del agua marina afecta la vida marina, incluidos tiburones.\n• La alerta sobre este hallazgo subraya los problemas ecológicos en la zona del Caribe.\n• Estudio refleja el impacto de actividades humanas en la salud del ecosistema marino.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/tiburones-del-caribe-presentan-contaminacion-con/ODU5Q2BWMFHZBIMUCLFHQIXXUQ/story/",
+      "publish_date": "2026-03-21T20:37:00.000Z",
+      "teaser": "Lo clave en 20 segundos: tiburones contaminados en el Caribe por drogas, según estudio reciente.",
+      "image_url": "https://www.nacion.com/resizer/v2/N7UEBJAIUNBMBJROYLH74Q3MKM.jpg?auth=e7b0e2c7e799704a42fea1b63951bc3994039a1b256350fb319e4da25ad35803&smart=true&width=640&height=464",
+      "description": "Estudio científico detecta cocaína, cafeína y analgésicos en tiburones del Caribe. Investigación alerta sobre contaminación marina en Bahamas.",
+      "featured": false
+    },
+    {
+      "slug": "misteriosas-marcas-en-pompeya-revelan-uso-de-una-antigua-ametralladora-romana",
+      "title": "Misteriosas marcas en Pompeya revelan uso de una antigua ‘ametralladora’ romana antes de la erupción del Vesubio",
+      "category": "Ciencia",
+      "bullets_20s": "• Marcas en Pompeya sugieren el uso de herramientas de guerra avanzadas en la antigua Roma.\n• Un estudio revela similitudes entre una máquina romana y las ametralladoras modernas.\n• Los hallazgos ofrecen nueva perspectiva sobre las tecnologías de combate del pasado.\n• Investigadores de diversas instituciones colaboran para analizar las marcas históricas.\n• Las mareas del tiempo ocultan secretos sobre la vida en la romana Pompeya.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/misteriosas-marcas-en-pompeya-revelan-uso-de-una/AYCXHCQCZVDYJIIFVQQZI742Y4/story/",
+      "publish_date": "2026-03-21T20:36:28.000Z",
+      "teaser": "Lo clave en 20 segundos: Marcas antiguas revelan tecnología bélica sorprendente de Roma.",
+      "image_url": "https://www.nacion.com/resizer/v2/O6P35EXDEJADBAJACFUFHTPN2Q.png?auth=29be3c8c1d26fa8db904b2c4dcb433b64af7e842d4b0c8fbcfbce08912f987cd&smart=true&width=1920&height=1080",
+      "description": "Marcas en murallas de Pompeya revelan el uso de una avanzada máquina de guerra romana similar a una ametralladora, según estudio científico reciente.",
+      "featured": false
+    },
+    {
       "slug": "recta-final-en-liga-ascenso-asi-marchan-las-tablas",
       "title": "Recta final en Liga Ascenso: Así marchan las tablas a falta de cuatro jornadas",
       "category": "Costa Rica",
@@ -139,6 +204,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/c93jl08eqveo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-21T18:26:37.000Z",
       "teaser": "Lo clave en 20 segundos: El inusual poder compartido de dos hermanos en la historia venezolana.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4de1/live/59aed660-0b22-11f1-a204-b3f033b84443.png",
+      "description": "Con la salida de Nicolás Maduro del poder, el país sudamericano vive la inusual situación de tener a un hermano al frente del gobierno y a otro presidiendo el parlamento. Hay un antecedente histórico de hermanos con gran poder.",
+      "featured": false
+    },
+    {
+      "slug": "que-fue-el-monagato-hermanos-poder-venezuela",
+      "title": "Qué fue el 'Monagato', la primera vez que dos hermanos compartieron el poder en Venezuela hace más de 170 años",
+      "category": "Mundo",
+      "bullets_20s": "• La historia del 'Monagato' revela la complejidad del poder en Venezuela y su legado.\n• Dos hermanos, un gobierno y un parlamento; una situación política inusual en la historia.\n• Venezolanos enfrentan un cambio significativo en su liderazgo político en estos tiempos.\n• El 'Monagato' marca un hito en la historia política del país sudamericano.\n• La relación entre poder y familia ha tenido precedentes notables a lo largo de los años.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c93jl08eqveo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T18:26:37.000Z",
+      "teaser": "Lo clave en 20 segundos: hermanos comparten el poder en Venezuela, un fenómeno histórico que se repite.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4de1/live/59aed660-0b22-11f1-a204-b3f033b84443.png",
       "description": "Con la salida de Nicolás Maduro del poder, el país sudamericano vive la inusual situación de tener a un hermano al frente del gobierno y a otro presidiendo el parlamento. Hay un antecedente histórico de hermanos con gran poder.",
       "featured": false
@@ -375,6 +453,19 @@
       "teaser": "Lo clave en 20 segundos: Irán denuncia ataque a Natanz por fuerzas de EE.UU. e Israel, aumentando tensiones internacionales.",
       "image_url": "",
       "description": "Teherán denunció que su complejo nuclear en Natanz fue atacado y descartó riesgos para las zonas adyacentes, mientras que la BBC pudo confirmar que Irán lazó dos mísiles a la base militar conjunta de Reino Unido y EE.UU. en Diego García.",
+      "featured": false
+    },
+    {
+      "slug": "iran-installacion-nuclear-natanz-atacada",
+      "title": "Irán dice que la instalación nuclear de Natanz fue atacada por fuerzas de EE.UU. e Israel",
+      "category": "Mundo",
+      "bullets_20s": "• Teherán informó que su instalación nuclear sufrió un ataque de fuerzas externas.\n• Descartaron riesgo para la población en las áreas cercanas al ataque nuclear.\n• Se confirmaron lanzamientos de misiles desde Irán hacia bases extranjeras.\n• El ataque fue atribuido a un operativo conjunto de EE.UU. e Israel.\n• Expertos analizan las consecuencias de este conflicto en la región.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/czx9gn9qe4eo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T15:40:40.000Z",
+      "teaser": "Lo clave en 20 segundos: Irán denuncia ataque a su instalación nuclear y responde con misiles.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/37a7/live/e3c7e050-2529-11f1-bb95-2dc272eaaadd.jpg",
+      "description": "Teherán denunció que su complejo nuclear en Natanz fue atacado, pero descartó riesgos para las zonas adyacentes, mientras que la BBC pudo confirmar que Irán lanzó dos misiles a la base militar conjunta de Reino Unido y EE.UU. en Diego García.",
       "featured": false
     },
     {
@@ -784,6 +875,19 @@
       "slug": "que-es-la-ingenieria-de-suenos-y-como-permite-influir-en-que-sonamos",
       "title": "Qué es la ingeniería de sueños y cómo permite influir en qué soñamos",
       "category": "Ciencia",
+      "bullets_20s": "• La ingeniería de sueños es un campo emergente que explora la manipulación del contenido onírico.\n• Expertos prevén que esta tecnología podría influir en la salud mental y el bienestar general.\n• Los avances tecnológicos están facilitando la comprensión de los mecanismos del sueño y los sueños.\n• Hay preocupaciones éticas sobre el uso de esta tecnología en la vida cotidiana de las personas.\n• Investigaciones recientes sugieren que la calidad del sueño puede mejorar con la ingeniería de sueños.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cp32l75p2qro?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T11:56:24.000Z",
+      "teaser": "Lo clave en 20 segundos: La ingeniería de sueños está revolucionando nuestra comprensión del sueño y sus implicaciones.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8862/live/6d85d900-1981-11f1-9156-4356592fc9c8.jpg",
+      "description": "Algunos científicos están entusiasmados con los avances en el campo de la ingeniería de sueños, pero otros advierten su dimensión controvertida.",
+      "featured": false
+    },
+    {
+      "slug": "que-es-la-ingenieria-de-suenos-y-como-permite-influir-en-que-sonamos",
+      "title": "Qué es la ingeniería de sueños y cómo permite influir en qué soñamos",
+      "category": "Ciencia",
       "bullets_20s": "• La ingeniería de sueños busca manipular los sueños a través de la tecnología y la ciencia.\n• Científicos exploran métodos para influir en los contenidos de nuestros sueños nocturnos.\n• Algunos investigadores ven potencial terapéutico, mientras que otros plantean dilemas éticos.\n• Explorar los sueños podría ayudar en el tratamiento de traumas y trastornos de ansiedad.\n• Las tecnologías actuales permiten registrar y analizar patrones de sueño en tiempo real.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cp32l75p2qro?at_medium=RSS&at_campaign=rss",
@@ -894,6 +998,19 @@
       "publish_date": "2026-03-21T10:38:04.000Z",
       "teaser": "Lo clave en 20 segundos: El secuestro de Patty Hearst transformó su vida en un thriller real de los años 70.",
       "image_url": "",
+      "description": "El secuestro de Patty Hearst terminó teniendo uno de los giros inesperados más espectaculares de los años 70.",
+      "featured": false
+    },
+    {
+      "slug": "la-rocambolesca-historia-de-patty-hearst",
+      "title": "La rocambolesca historia de Patty Hearst, la rica heredera que fue secuestrada y se unió a la guerrilla de sus captores",
+      "category": "Mundo",
+      "bullets_20s": "• Patty Hearst fue secuestrada en 1974, un evento que impactó a Estados Unidos y el mundo entero.\n• Su historia es conocida por el cambio radical en su comportamiento y lealtades tras el secuestro.\n• Hearst terminó uniéndose a la organización que la retenía, lo que generó gran controversia.\n• La saga de Patty Hearst combina temas de violencia, romance, y dilemas éticos complejos.\n• Este caso se convirtió en un estudio sobre la psicología del secuestro y el fenómeno de Stockholm.",
+      "source_name": "",
+      "source_url": "https://www.bbc.com/mundo/articles/cre0e002v8po?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T10:38:04.000Z",
+      "teaser": "Lo clave en 20 segundos: Patty Hearst fue secuestrada y se unió a sus captores en una historia impactante.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/37b4/live/de82aff0-24a0-11f1-9573-9907bc8f835c.jpg",
       "description": "El secuestro de Patty Hearst terminó teniendo uno de los giros inesperados más espectaculares de los años 70.",
       "featured": false
     },
@@ -1519,6 +1636,19 @@
       "teaser": "Lo clave en 20 segundos: Cardozo habla de su futuro en el fútbol y las ofertas que recibe.",
       "image_url": "https://www.nacion.com/resizer/v2/LXNOMVNID5BM3BRFT2TQXT2IJQ.jpg?auth=e87b4e8085f36b3870c2b6664b37ee42041d5a7b063d3e1c3ca4c9facc3dd108&smart=true&width=3600&height=2400",
       "description": "El paraguayo José Saturnino Cardozo tiene contrato hasta mayo en Costa Rica.",
+      "featured": false
+    },
+    {
+      "slug": "por-que-kim-jong-un-no-teme-un-ataque-de-eeuu",
+      "title": "Por qué Kim Jong-un no teme un ataque de EE.UU. a Corea del Norte como el que sufre Irán",
+      "category": "Mundo",
+      "bullets_20s": "• Los analistas opinan que la situación actual en Irán puede influir en Corea del Norte.\n• La percepción de Kim Jong-un sobre la necesidad de armas nucleares podría reforzarse.\n• Los ataques en Irán generan un contexto internacional complejo para las relaciones en Asia.\n• Históricamente, Corea del Norte ha buscado la disuasión a través de su arsenal nuclear.\n• El análisis de la política internacional subraya la importancia de las armas en conflictos.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c5yw851lpjpo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T03:01:19.000Z",
+      "teaser": "Lo clave en 20 segundos: La perspectiva norcoreana frente a tensiones globales se redefine.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/89cd/live/3a8eb9c0-21b7-11f1-be41-af0a235fe6eb.png",
+      "description": "Los ataques de EE.UU. e Israel contra Irán probablemente afianzarán la idea del líder norcoreano de que las armas nucleares son esenciales para la supervivencia, según los analistas.",
       "featured": false
     },
     {
@@ -2422,6 +2552,19 @@
       "slug": "se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
       "title": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
       "category": "Costa Rica",
+      "bullets_20s": "• Dwane James, figura clave del movimiento estudiantil, se graduó en Ingeniería en Producción Industrial.\n• El TEC abrió el Centro Académico de Limón, creando oportunidades educativas en la región.\n• La graduación estuvo marcada por agradecimientos y recuerdos de desafíos superados por los estudiantes.\n• La rectora del TEC enfatizó la responsabilidad social de los nuevos profesionales en su entorno.\n• Los graduados enfrentaron dificultades como la pandemia, demostrando resiliencia y dedicación.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "publish_date": "2026-03-20T20:31:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Dwane James se graduó en el TEC, resaltando la importancia del movimiento estudiantil.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/acto-graduacion-limon_20_03_2026paquesada-76.jpg.webp?itok=vQb4z-Ny",
+      "description": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
+      "featured": false
+    },
+    {
+      "slug": "se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "title": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
+      "category": "Costa Rica",
       "bullets_20s": "• Dwane James se graduó en Ingeniería en Producción Industrial tras un recorrido desafiante.\n• El TEC abrió el Centro Académico de Limón, mejorando las oportunidades educativas en la región.\n• Las graduaciones destacaron la resiliencia de estudiantes durante la pandemia de COVID-21.\n• La rectora María Estrada Sánchez enfatiza el deber social de los profesionales graduados.\n• Esta ceremonia marcó el fin de las graduaciones ordinarias del primer semestre de 2026.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
@@ -2518,6 +2661,19 @@
       "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
       "publish_date": "2026-03-20T20:24:45.000Z",
       "teaser": "Lo clave en 20 segundos: Convenio busca mejorar infraestructura y transporte en Costa Rica.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "featured": false
+    },
+    {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "category": "Costa Rica",
+      "bullets_20s": "• El convenio busca fomentar la colaboración entre instituciones educativas y profesionales del transporte.\n• Se establecerán proyectos conjuntos para mejorar la infraestructura de transporte en el país.\n• Ambas partes trabajarán en la capacitación de nuevos ingenieros en el área de transporte.\n• El acuerdo promueve la investigación y la innovación en soluciones de transporte.\n• Se espera impactar positivamente en el desarrollo sostenible del sector transporte en Costa Rica.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "publish_date": "2026-03-20T20:24:45.000Z",
+      "teaser": "Lo clave en 20 segundos: convenio entre el ITCR y la Asociación de Ingeniería de Transporte.",
       "image_url": "",
       "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
       "featured": false
@@ -3168,6 +3324,19 @@
       "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
       "publish_date": "2026-03-20T20:16:52.000Z",
       "teaser": "Lo clave en 20 segundos: colaboración entre instituciones para mejorar la educación en Costa Rica.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "featured": false
+    },
+    {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-e-ilisa",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Instituto Tecnológico de Costa Rica busca mejorar la educación mediante colaboración esencial.\n• ILISA aportará recursos y experiencia para el desarrollo académico y tecnológico.\n• Este convenio promoverá cursos y programas conjuntos entre ambas instituciones.\n• Beneficiará a estudiantes en diversas áreas de estudios técnicos y profesionales.\n• Se espera una mayor innovación en la educación superior costarricense.\n• Tendrá un impacto positivo en la formación de profesionales bien preparados.\n• Fomentará un ambiente de cooperación y aprendizaje entre ambas entidades.\n• El acuerdo incluye oportunidades de investigación conjunta y desarrollo.\n• Se enfocará en la actualización y modernización de programas educativos.\n• Aumentará la interacción entre los sectores educativo y tecnológico en Costa Rica.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
+      "publish_date": "2026-03-20T20:16:52.000Z",
+      "teaser": "Lo clave en 20 segundos: colaboración entre ITCR e ILISA potenciará la educación en Costa Rica.",
       "image_url": "",
       "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
       "featured": false
@@ -6036,6 +6205,19 @@
       "slug": "v-congreso-institucional-cierra-14-acuerdos",
       "title": "V Congreso Institucional cierra con 14 acuerdos",
       "category": "Costa Rica",
+      "bullets_20s": "• El V Congreso Institucional reunió a congresistas de forma bimodal en el TEC.\n• Se aprobaron 14 acuerdos en total, con enfoque en la extensión universitaria.\n• Una de las propuestas busca crear una Vicerrectoría de Extensión en el TEC.\n• El modelo de Gestión de Programas Técnicos fue uno de los puntos destacados.\n• Se rechazó la creación de la Red de nodos regionales de innovación tecnológica.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
+      "publish_date": "2026-03-19T22:27:42.000Z",
+      "teaser": "Lo clave en 20 segundos: el V Congreso Institucional del TEC aprueba 14 acuerdos vitales para la extensión universitaria.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/v-congreso-institucional_19-marzo-2.jpg.webp?itok=j-YOCl75",
+      "description": "V Congreso Institucional cierra con 14 acuerdos",
+      "featured": false
+    },
+    {
+      "slug": "v-congreso-institucional-cierra-14-acuerdos",
+      "title": "V Congreso Institucional cierra con 14 acuerdos",
+      "category": "Costa Rica",
       "bullets_20s": "• El V Congreso Institucional del TEC concluyó con la aprobación de 14 importantes acuerdos.\n• El formato del congreso fue bimodal, con sesiones presenciales y virtuales.\n• Se destacó la creación de una Vicerrectoría de Extensión entre los acuerdos finales.\n• Otras propuestas buscan la mejora continua en programas técnicos y transferencia tecnológica.\n• La asamblea también evaluó ponencias relacionadas con la extensión universitaria y sus beneficios.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
@@ -7003,6 +7185,19 @@
       "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
       "publish_date": "2026-03-19T19:53:14.000Z",
       "teaser": "Lo clave en 20 segundos: TEC logra acreditación Platinum Class, mejorando su proyección internacional.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
+      "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "featured": false
+    },
+    {
+      "slug": "administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
+      "title": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Escuela de Administración de Empresas del TEC es reconocida por su calidad académica internacionalmente.\n• Obtuvo la acreditación Platinum Class de EQUAA, siendo la primera en Costa Rica.\n• EQUAA es una agencia que evalúa programas de educación según estándares globales.\n• La acreditación es de cuatro estrellas y tiene una vigencia de cinco años.\n• Este reconocimiento amplía las oportunidades académicas para los graduados del TEC.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
+      "publish_date": "2026-03-19T19:53:14.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC logra una prestigiosa acreditación internacional para su Escuela de Administración.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
       "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
       "featured": false
@@ -10609,5 +10804,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-21T21:30:43.013Z"
+  "generated_at": "2026-03-21T22:30:43.091Z"
 }
