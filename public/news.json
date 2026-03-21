@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "slug": "nueva-clasificacion-planeta-fundido",
+      "title": "Los científicos han identificado un nuevo tipo de planeta ‘fundido’ con un océano de magma y olor a huevos podridos",
+      "category": "Ciencia",
+      "bullets_20s": "• Científicos identifican un planeta inusual con océano de magma y atmósfera peculiar.\n• El nuevo planeta se encuentra a una distancia de aproximadamente 35 años luz.\n• Este descubrimiento redefine nuestra comprensión de los exoplanetas conocidos.\n• L 98-59 d presenta un entorno hostil con altas concentraciones de azufre.\n• Investigaciones futuras podrían arrojar más luz sobre mundos similares en el universo.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/descubren-planeta-infernal-con-oceano-de-magma-y/NJCX5GVYK5ELRJBYMMSVSUTDYQ/story/",
+      "publish_date": "2026-03-21T18:21:00.000Z",
+      "teaser": "Lo clave en 20 segundos: descubren un planeta con magma y atmósfera rica en azufre.",
+      "image_url": "https://www.nacion.com/resizer/v2/XTJPTH5PZBGBBHWV2VKVYMSWMU.jpg?auth=cd7fc978a04484c290d32f27bbe1ac0e229e8aaca692a5d9a0e4e482a0880e55&smart=true&width=720&height=475",
+      "description": "Astrónomos descubren L 98-59 d, un planeta con océano de magma y atmósfera rica en azufre a 35 años luz. El hallazgo redefine la clasificación de exoplanetas.",
+      "featured": false
+    },
+    {
+      "slug": "liceo-daniel-oduber-envia-sentido-mensaje",
+      "title": "Liceo Daniel Oduber envía sentido mensaje tras muerte de alumna en la institución y anuncia suspensión de lecciones",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Liceo Daniel Oduber se manifiesta tras el fallecimiento de una alumna de la institución.\n• Anuncian suspensión de lecciones como medida de respeto y duelo por el suceso.\n• La comunidad educativa se une en un mensaje de apoyo a la familia afectada por la tragedia.\n• Se reprogramará la prueba nacional diagnóstica para los estudiantes de undécimo año.\n• La noticia ha conmocionado a alumnos, docentes y padres de familia en la institución.",
+      "source_name": "Fernanda Matarrita Chaves",
+      "source_url": "https://www.nacion.com/el-pais/liceo-daniel-oduber-envia-sentido-mensaje-tras/O3JNQGBVL5AQ3CL4QEGQPDMRZU/story/",
+      "publish_date": "2026-03-21T18:14:09.000Z",
+      "teaser": "Lo clave en 20 segundos: el Liceo Daniel Oduber envía mensaje tras la muerte de una alumna.",
+      "image_url": "https://www.nacion.com/resizer/v2/DJW75CVKURFKHHCX3FB2HYHFQQ.jpg?auth=112952fa831bf25a337d405c5d46cde244b479185c5ad0d9425bceee486bfaa3&smart=true&width=899&height=651",
+      "description": "Asimismo, comunicó reprogramación de prueba nacional diagnóstica para estudiantes de undécimo año.",
+      "featured": false
+    },
+    {
+      "slug": "trump-amenaza-con-desplegar-agentes-de-ice-en-aeropuertos",
+      "title": "Trump amenaza con desplegar agentes de ICE en aeropuertos de Estados Unidos",
+      "category": "Mundo",
+      "bullets_20s": "• Donald Trump ha considerado acciones polémicas para controlar la situación en los aeropuertos.\n• La TSA ha enfrentado problemas de financiamiento que afectan su operación diaria.\n• Las largas filas en los aeropuertos han generado frustración entre los viajeros en EE.UU.\n• La propuesta despertó críticas y preocupaciones sobre la seguridad y derechos humanos.\n• El uso de agentes de ICE podría cambiar la dinámica en la seguridad aeroportuaria.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/trump-amenaza-con-desplegar-agentes-de-ice-en/3C3UMYG3UVB6FB35UHLPMQYB6M/story/",
+      "publish_date": "2026-03-21T18:12:11.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump podría desplegar ICE en aeropuertos ante problemas de TSA y largas filas.",
+      "image_url": "https://www.nacion.com/resizer/v2/HH4Y6AO4OFAPZC366QWILEPN2I.jpg?auth=f07fb86eabb523bcf5ad87a84c9146701bcc39617bf59e3ab3e6ae1f9150ee36&smart=true&width=7781&height=5187",
+      "description": "Ante la falta de pago a la TSA y las largas filas en los aeropuertos, Donald Trump advirtió que utilizará fuerzas de control migratorio para la seguridad aérea.",
+      "featured": false
+    },
+    {
+      "slug": "astronomos-recuperan-satelite-perdido-en-el-espacio",
+      "title": "Astrónomos recuperan satélite perdido en el espacio y reactivan misión clave para estudiar el Sol",
+      "category": "Ciencia",
+      "bullets_20s": "• La Agencia Espacial Europea logró recuperar el satélite Proba-3 después de un mes extraviado en el espacio.\n• Este satélite es crucial para la investigación solar y tiene como objetivo el estudio de la corona solar.\n• La misión utiliza eclipses artificiales para obtener datos sobre las condiciones en la corona del Sol.\n• Los astrónomos esperan que la reactivación del satélite contribuya a comprender mejor el comportamiento solar.\n• La recuperación del satélite es un gran avance tecnológico y una victoria para la ciencia europea.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/astronomos-recuperan-satelite-perdido-en-el/YNLIXPY2BNEEJANLNOHHPC6GNA/story/",
+      "publish_date": "2026-03-21T18:10:33.000Z",
+      "teaser": "Lo clave en 20 segundos: Recuperan satélite para estudiar el Sol, tras un mes perdido en el espacio.",
+      "image_url": "https://www.nacion.com/resizer/v2/SW3XXI7K5ZHC3EANW56GYIFDWY.jpg?auth=84b861a1c20afafd9e1bc22442a96932278e8f0818cc9e42fa3b64f4d83694a2&smart=true&width=3500&height=2475",
+      "description": "La ESA recuperó el satélite Proba-3 tras un mes perdido en el espacio. La misión busca estudiar la corona solar mediante eclipses artificiales.",
+      "featured": false
+    },
+    {
+      "slug": "cruz-roja-busqueda-joven-puntarenas",
+      "title": "Cruz Roja mantiene operativo de búsqueda de joven desaparecido en reconocida playa de Puntarenas",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Cruz Roja activa protocolos de búsqueda para localización de joven en playa Puntarenas.\n• Búsqueda se lleva a cabo desde el miércoles; voluntarios y autoridades trabajan juntos.\n• Las condiciones del mar complican el operativo de rescate en la zona costera.\n• La comunidad se une a las labores de ayuda y apoyo a familiares del desaparecido.\n• Se espera más información oficial sobre el avance de las búsquedas en la playa.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/cruz-roja-mantiene-operativo-de-busqueda-de-joven/2IOUNVUR6VFYLKMGEKQKUJ6W5E/story/",
+      "publish_date": "2026-03-21T18:10:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La Cruz Roja busca a un joven desaparecido en Puntarenas desde el miércoles.",
+      "image_url": "https://www.nacion.com/resizer/v2/443XQQZNYZDPBM3TGWTTQWYYXI.jpg?auth=ba7c3d544253f4444352bf501f9c9b2842a8412fa24609e4ee5d15ffe39cf5d4&smart=true&width=1599&height=899",
+      "description": "Las autoridades continúan este sábado con las labores de búsqueda de un joven que desapareció el pasado miércoles 18 de marzo, por la tarde, en reconocida playa de Puntarenas.",
+      "featured": false
+    },
+    {
       "slug": "herencia-de-chuck-norris-cuanto-dinero-tenia-y-qui-en-heredara-su-fortuna",
       "title": "Herencia de Chuck Norris: ¿cuánto dinero tenía y quién heredará su fortuna?",
       "category": "Mundo",
@@ -128,6 +193,19 @@
       "teaser": "Lo clave en 20 segundos: Costa Rica no puede aplicar el modelo de multas por heces caninas usado en España.",
       "image_url": "https://www.nacion.com/resizer/v2/MEMVJOO52JBY7MRTYISNOUO2NE.jpg?auth=90824db1abffe9bc8ae8740522e0c2ca055a92c8ad1d1d8ef4feb035492780bb&smart=true&width=3000&height=2000",
       "description": "El uso de ADN para multar a dueños que no recogen heces de perros ya funciona en España. En Costa Rica, la tecnología existe, pero hay un obstáculo clave que impide aplicarla.",
+      "featured": false
+    },
+    {
+      "slug": "iran-ataca-instalacion-nuclear-natanz",
+      "title": "Irán dice que la instalación nuclear de Natanz fue atacada por fuerzas de EE.UU. e Israel",
+      "category": "Mundo",
+      "bullets_20s": "• Irán denunció un ataque en su instalación nuclear ubicada en Natanz por fuerzas estadounidenses e israelíes.\n• La defensa iraní lanzó misiles a una base militar conjunta en Diego García como respuesta al ataque recibido.\n• La instalación nuclear de Natanz es clave para el programa atómico iraní y su seguridad es prioritaria.\n• Teherán aseguró que no hay riesgos inmediatos para las zonas aledañas tras el ataque a su instalación.\n• El conflicto entre Irán y las fuerzas occidentales refleja tensiones geopolíticas en el Medio Oriente.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/czx9gn9qe4eo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T15:40:40.000Z",
+      "teaser": "Lo clave en 20 segundos: Irán denuncia ataque a su planta nuclear, responde con misiles a base militar extranjera.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/37a7/live/e3c7e050-2529-11f1-bb95-2dc272eaaadd.jpg",
+      "description": "Teherán denunció que su complejo nuclear en Natanz fue atacado, pero descartó riesgos para las zonas adyacentes.",
       "featured": false
     },
     {
@@ -313,6 +391,19 @@
       "featured": false
     },
     {
+      "slug": "benito-juarez-presidente-indigena-mexico",
+      "title": "Benito Juárez, el admirado y denostado primer presidente indígena de México (y qué papel jugó en la modernización del país)",
+      "category": "Mundo",
+      "bullets_20s": "• Benito Juárez nació en 1806 en Oaxaca, México, en una familia indígena zapoteca.\n• Se destacó como abogado y político, convirtiéndose en presidente en varias ocasiones.\n• Juárez impulsó reformas que buscaban modernizar y secularizar el país, enfrentando críticas.\n• Su gobierno fue clave en la defensa de la soberanía y la independencia de México.\n• Aún hoy, sus acciones y legado continúan siendo objeto de debate y análisis.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c7vq5edy881o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T13:01:20.000Z",
+      "teaser": "Lo clave en 20 segundos: Benito Juárez, un líder indígena que transformó México y enfrenta críticas hasta hoy.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/efe2/live/ba057ec0-23ae-11f1-9a4e-e13728524fa3.jpg",
+      "description": "Benito Juárez tuvo una vida de superación, que lo llevó desde su origen en una comunidad indígena al máximo cargo del país. Sus acciones fueron alabadas y rechazadas en varios frentes.",
+      "featured": false
+    },
+    {
       "slug": "benito-juarez-primer-presidente-indigena-mexico",
       "title": "Benito Juárez, el admirado y denostado primer presidente indígena de México (y qué papel jugó en la modernización del país)",
       "category": "Mundo",
@@ -439,6 +530,19 @@
       "publish_date": "2026-03-21T11:56:24.000Z",
       "teaser": "Lo clave en 20 segundos: Avances en ingeniería de sueños generan tanto entusiasmo como controversia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8862/live/6d85d900-1981-11f1-9156-4356592fc9c8.jpg",
+      "description": "Algunos científicos están entusiasmados con los avances en el campo de la ingeniería de sueños, pero otros advierten su dimensión controvertida.",
+      "featured": false
+    },
+    {
+      "slug": "que-es-la-ingenieria-de-suenos-y-como-permite-influir-en-que-sonamos",
+      "title": "Qué es la ingeniería de sueños y cómo permite influir en qué soñamos",
+      "category": "Ciencia",
+      "bullets_20s": "• La ingeniería de sueños es un campo emergente que busca influir en nuestros sueños.\n• Algunos científicos estudian cómo manipular los contenidos oníricos de manera ética.\n• Las implicaciones éticas de esta tecnología generan debate entre expertos en el tema.\n• Los sueños pueden verse afectados por estímulos externos, según investigaciones recientes.\n• El potencial de la ingeniería de sueños podría abrir nuevas formas de terapia.\n• Este campo también presenta riesgos que deben ser considerados cuidadosamente.\n• Se están desarrollando técnicas para explorar áreas del subconsciente a través de sueños.\n• El futuro de esta disciplina podría cambiar nuestra comprensión del sueño humano.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cp32l75p2qro?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T11:56:24.000Z",
+      "teaser": "Lo clave en 20 segundos: La ingeniería de sueños plantea avances y dilemas sobre la manipulación onírica.",
+      "image_url": "",
       "description": "Algunos científicos están entusiasmados con los avances en el campo de la ingeniería de sueños, pero otros advierten su dimensión controvertida.",
       "featured": false
     },
@@ -620,6 +724,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/cre0e002v8po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-21T10:38:04.000Z",
       "teaser": "Lo clave en 20 segundos: El giro inesperado de Patty Hearst y su vida con sus captores.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/37b4/live/de82aff0-24a0-11f1-9573-9907bc8f835c.jpg",
+      "description": "El secuestro de Patty Hearst terminó teniendo uno de los giros inesperados más espectaculares de los años 70.",
+      "featured": false
+    },
+    {
+      "slug": "la-rocambolesca-historia-de-patty-hearst",
+      "title": "La rocambolesca historia de Patty Hearst, la rica heredera que fue secuestrada y se unió a la guerrilla de sus captores",
+      "category": "Mundo",
+      "bullets_20s": "• Patty Hearst, una joven heredera, fue secuestrada en 1974 por un grupo armado.\n• El caso capturó la atención de medios de comunicación a nivel internacional.\n• Hearst fue vista más tarde participando en actividades de sus captores.\n• El suceso se volvió un símbolo de la lucha entre clase y poder en EE.UU.\n• El desenlace del secuestro generó debates sobre su consentimiento y coerción.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cre0e002v8po?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T10:38:04.000Z",
+      "teaser": "Lo clave en 20 segundos: la intrigante historia de Patty Hearst y su secuestro sorprendente.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/37b4/live/de82aff0-24a0-11f1-9573-9907bc8f835c.jpg",
       "description": "El secuestro de Patty Hearst terminó teniendo uno de los giros inesperados más espectaculares de los años 70.",
       "featured": false
@@ -1353,6 +1470,19 @@
       "featured": false
     },
     {
+      "slug": "por-que-kim-jong-un-no-teme-ataque-ee-uu-corea-norte",
+      "title": "Por qué Kim Jong-un no teme un ataque de EE.UU. a Corea del Norte como el que sufre Irán",
+      "category": "Mundo",
+      "bullets_20s": "• Los analistas consideran que la situación en Irán afecta la percepción de seguridad en Corea del Norte.\n• El líder norcoreano refuerza su postura sobre la necesidad de armamento nuclear ante nuevas amenazas.\n• La tensión internacional se incrementa en el contexto de las relaciones entre EE.UU. y Corea del Norte.\n• El miedo a un ataque forja decisiones bélicas en la política de Kim Jong-un.\n• Históricamente, la posesión de armas nucleares ha cambiado el juego para naciones como Corea del Norte.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c5yw851lpjpo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T03:01:19.000Z",
+      "teaser": "Lo clave en 20 segundos: La tensión internacional influye en las decisiones bélicas de Corea del Norte.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/89cd/live/3a8eb9c0-21b7-11f1-be41-af0a235fe6eb.png",
+      "description": "Los ataques de EE.UU. e Israel contra Irán probablemente afianzarán la idea del líder norcoreano de que las armas nucleares son esenciales para la supervivencia, según los analistas.",
+      "featured": false
+    },
+    {
       "slug": "por-que-kim-jong-un-no-teme-un-ataque-de-eeuu",
       "title": "Por qué Kim Jong-un no teme un ataque de EE.UU. a Corea del Norte como el que sufre Irán",
       "category": "Mundo",
@@ -1889,6 +2019,19 @@
       "slug": "se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
       "title": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
       "category": "Costa Rica",
+      "bullets_20s": "• Dwane James se graduó en Ingeniería en Producción Industrial en el Centro Académico de Limón.\n• El TEC inauguró el CAL en 2014, abriendo nuevas oportunidades educativas en Limón.\n• James es conocido como fundador del movimiento estudiantil, impulsando mejoras en su sede.\n• La rectora del TEC destacó la importancia del conocimiento al servicio de la sociedad.\n• El evento marcó la culminación de los actos de graduación del primer semestre de 2026.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "publish_date": "2026-03-20T20:31:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Dwane James se gradúa, destacando un movimiento estudiantil en Limón.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/acto-graduacion-limon_20_03_2026paquesada-76.jpg.webp?itok=vQb4z-Ny",
+      "description": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
+      "featured": false
+    },
+    {
+      "slug": "se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "title": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
+      "category": "Costa Rica",
       "bullets_20s": "• El Centro Académico de Limón celebra su graduación, con estudiantes que han luchado por su futuro.\n• Dwane James, reconocido fundador del movimiento estudiantil, se graduó en Ingeniería en Producción Industrial.\n• La rectora del TEC enfatiza la responsabilidad social de los nuevos profesionales en la ceremonia.\n• Estudiantes enfrentaron desafíos significativos durante su formación, incluyendo la pandemia por COVID-19.\n• Con 20 graduandos, el TEC resalta la importancia de la educación pública en la región Huetar Atlántica.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
@@ -2331,6 +2474,19 @@
       "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
       "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
       "category": "Costa Rica",
+      "bullets_20s": "• El Instituto Tecnológico de Costa Rica busca mejorar la infraestructura de transporte en el país.\n• Se busca fortalecer la cooperación entre el sector académico y el profesional en ingeniería.\n• Este convenio permitirá joint ventures en proyectos de movilidad sostenible en Costa Rica.\n• Las partes se comprometen a compartir recursos y conocimientos para el desarrollo tecnológico.\n• Se espera que este acuerdo también fomente investigaciones conjuntas en el área de transporte.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "publish_date": "2026-03-20T20:24:45.000Z",
+      "teaser": "Lo clave en 20 segundos: Se firma un convenio para mejorar la ingeniería de transporte en Costa Rica.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "featured": false
+    },
+    {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "category": "Costa Rica",
       "bullets_20s": "• El convenio busca fortalecer la colaboración entre las entidades involucradas.\n• Promover la investigación y el desarrollo en ingeniería de transporte es un objetivo clave.\n• Se espera que este acuerdo beneficie a estudiantes y profesionales del área.\n• Además de formación, se planean proyectos conjuntos para el avance tecnológico.\n• Nuevas iniciativas en transporte sostenible serán parte de esta colaboración.",
       "source_name": "mmata",
       "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
@@ -2479,6 +2635,19 @@
       "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
       "publish_date": "2026-03-20T20:16:52.000Z",
       "teaser": "Lo clave en 20 segundos: convenio entre el Instituto Tecnológico de Costa Rica e ILISA para colaboración educativa.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "featured": false
+    },
+    {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-e-ilisa",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Instituto Tecnológico de Costa Rica busca fortalecer la educación mediante alianzas estratégicas.\n• ILISA es una institución que promueve la formación profesional y el desarrollo educativo.\n• Esta colaboración permitirá el intercambio de conocimientos y recursos entre ambas instituciones.\n• Se espera que el convenio potencie la innovación en el sector educativo costarricense.\n• El acuerdo tiene como objetivo mejorar la calidad de la educación superior en el país.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
+      "publish_date": "2026-03-20T20:16:52.000Z",
+      "teaser": "Lo clave en 20 segundos: Alianza entre el Instituto Tecnológico y ILISA para fortalecer la educación.",
       "image_url": "",
       "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
       "featured": false
@@ -5932,6 +6101,19 @@
       "slug": "v-congreso-institucional-cierra-14-acuerdos",
       "title": "V Congreso Institucional cierra con 14 acuerdos",
       "category": "Costa Rica",
+      "bullets_20s": "• El Congreso se realizó en un formato bimodal con participación presencial y virtual.\n• Se aprobaron 14 acuerdos que apoyan la extensión universitaria y modelos de gestión.\n• Destaca la propuesta para crear una Vicerrectoría de Extensión en el TEC.\n• Se busca potenciar programas técnicos y la transferencia tecnológica en la institución.\n• Una política de investigación y extensión también fue ratificada por los congresistas.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
+      "publish_date": "2026-03-19T22:27:42.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC cierra su Congreso con decisiones clave para la extensión universitaria.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/v-congreso-institucional_19-marzo-2.jpg.webp?itok=j-YOCl75",
+      "description": "V Congreso Institucional cierra con 14 acuerdos",
+      "featured": false
+    },
+    {
+      "slug": "v-congreso-institucional-cierra-14-acuerdos",
+      "title": "V Congreso Institucional cierra con 14 acuerdos",
+      "category": "Costa Rica",
       "bullets_20s": "• El V Congreso Institucional del TEC culminó con 14 acuerdos importantes para el desarrollo de la universidad.\n• La asamblea se realizó en un formato bimodal, con presencia virtual y física de los asistentes.\n• Se aprobó la creación de una Vicerrectoría de Extensión para fortalecer la acción social del TEC.\n• Algunos acuerdos proponen restructuración de la gestión de programas técnicos y transferencia tecnológica.\n• El proceso de votación incluyó propuestas para mejorar la enseñanza y la inclusión en el TEC.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
@@ -6782,6 +6964,19 @@
       "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
       "publish_date": "2026-03-19T19:53:14.000Z",
       "teaser": "Lo clave en 20 segundos: TEC recibe acreditación Platinum Class, elevando su prestigio internacional en educación.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
+      "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "featured": false
+    },
+    {
+      "slug": "administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
+      "title": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC recibió acreditación Platinum Class, un logro inédito para una institución en Costa Rica.\n• La acreditación fue otorgada por la agencia EQUAA, reconocida a nivel internacional en educación.\n• Este reconocimiento se basa en la excelencia académica y estándares de calidad global.\n• La acreditación incluye 18 programas académicos en diversas áreas de Administración y Contabilidad.\n• Los beneficiarios serán estudiantes de diferentes campus del TEC en todo el país.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
+      "publish_date": "2026-03-19T19:53:14.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC destaca al obtener una acreditación Platinum Class en Administración de Empresas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
       "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
       "featured": false
@@ -10024,5 +10219,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-21T18:30:42.482Z"
+  "generated_at": "2026-03-21T19:30:42.618Z"
 }
