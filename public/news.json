@@ -1,6 +1,84 @@
 {
   "news": [
     {
+      "slug": "iran-instalacion-nuclear-natanz-atacada-eeuu-israel",
+      "title": "Irán dice que la instalación nuclear de Natanz fue atacada por fuerzas de EE.UU. e Israel",
+      "category": "Mundo",
+      "bullets_20s": "• Teherán acusó a EE.UU. e Israel de llevar a cabo un ataque en su instalación nuclear.\n• La planta de Natanz es un centro clave en el programa nuclear iraní y su desarrollo.\n• Irán confirmó el lanzamiento de misiles dirigidos hacia bases militares de potencias extranjeras.\n• El ataque no causó daños en áreas cercanas, según el gobierno de Irán.\n• Dicha acción eleva las tensiones en el Medio Oriente, especialmente en el ámbito nuclear.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/czx9gn9qe4eo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-22T03:23:19.000Z",
+      "teaser": "Lo clave en 20 segundos: Irán denuncia un ataque a su planta nuclear y responde con misiles.",
+      "image_url": "",
+      "description": "Teherán denunció que su complejo nuclear en Natanz fue atacado, pero descartó riesgos para las zonas adyacentes, mientras que la BBC pudo confirmar que Irán lanzó dos misiles a la base militar conjunta de Reino Unido y EE.UU. en Diego García.",
+      "featured": false
+    },
+    {
+      "slug": "herediano-vs-alajuelense-se-lesiona-una-figura-clave-de-la-liga",
+      "title": "Herediano vs. Alajuelense: Se lesiona una figura clave de la Liga",
+      "category": "Costa Rica",
+      "bullets_20s": "• El torneo de Clausura 2026 es clave para ambos equipos en su rendimiento.\n• La lesión de un jugador fundamental puede afectar las tácticas del equipo.\n• Herediano y Alajuelense tienen una rivalidad histórica en el fútbol costarricense.\n• El desarrollo del partido es seguido por los fanáticos con gran expectación.\n• Las lesiones son una preocupación constante en el fútbol profesional.",
+      "source_name": "Fanny Tayver Marín",
+      "source_url": "https://www.nacion.com/puro-deporte/herediano-vs-alajuelense-hora-y-canal-para-ver-un/TZTJICP4SBGMPCFUCON6HEVPYA/story/",
+      "publish_date": "2026-03-22T03:22:47.000Z",
+      "teaser": "Lo clave en 20 segundos: lesión en partido entre Herediano y Alajuelense impacta el torneo.",
+      "image_url": "https://www.nacion.com/resizer/v2/Y3NAZ4AHS5DLNA4NSIRCPXOEYU.JPG?auth=0f6a51fb879d1de3da7673070f0c6586fb34fc3cdd8a83550930bd482d6d9e6b&smart=true&width=3000&height=2000",
+      "description": "El Club Sport Herediano y Liga Deportiva Alajuelense están jugando en la jornada 13 del Torneo de Clausura 2026.",
+      "featured": false
+    },
+    {
+      "slug": "la-frustracion-de-santiago-van-der-putten-otro-serio-problema-en-alajuelense",
+      "title": "La frustración de Santiago van der Putten: otro serio problema en Alajuelense",
+      "category": "Costa Rica",
+      "bullets_20s": "• Santiago van der Putten mostró un gran rendimiento en el partido antes de la lesión.\n• La Alajuelense enfrenta un reto importante con otra lesión en su plantilla.\n• Los aficionados esperan un pronto regreso de van der Putten al equipo.\n• El Estadio Carlos Alvarado ha sido escenario de momentos intensos en el fútbol.\n• La situación actual de Alajuelense genera inquietud entre sus seguidores.",
+      "source_name": "Fanny Tayver Marín",
+      "source_url": "https://www.nacion.com/puro-deporte/la-frustracion-de-santiago-van-der-putten-otro/DQGZ3Z5QYJCT5FZ4D56GZGTHMM/story/",
+      "publish_date": "2026-03-22T03:19:56.000Z",
+      "teaser": "Lo clave en 20 segundos: Santiago van der Putten se lesionó y preocupa a su equipo.",
+      "image_url": "https://www.nacion.com/resizer/v2/XI2WMRTQ6BGLJMWX3UKKDHLECU.JPG?auth=98f21ceb7220cb1bcd2c9438c258b367f51af63a4c1ea9d3c037329da4cdef42&smart=true&width=3000&height=2000",
+      "description": "Santiago van der Putten hacía un buen partido, pero se lesionó en el Estadio Carlos Alvarado.",
+      "featured": false
+    },
+    {
+      "slug": "hombre-fallece-por-un-disparo-en-el-cuello-durante-ataque-armado-en-liberia",
+      "title": "Hombre fallece por un disparo en el cuello durante ataque armado en Liberia",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un ataque armado ocurrió en el barrio el Fósforo, generando consternación en la comunidad local.\n• La violencia en la región ha aumentado en los últimos meses, según reportes de la policía.\n• Los testigos del evento aseguran haber escuchado múltiples disparos durante la noche del ataque.\n• Las autoridades están investigando las circunstancias que llevaron a este trágico episodio.\n• Este incidente añade una preocupación más sobre la seguridad en Guanacaste y otras regiones.",
+      "source_name": "Natalia Vargas",
+      "source_url": "https://www.nacion.com/sucesos/hombre-fallece-por-un-disparo-en-el-cuello-durante/WUPMHNXPYRDKLEX6E223YKYGAU/story/",
+      "publish_date": "2026-03-22T02:55:39.000Z",
+      "teaser": "Lo clave en 20 segundos: Un hombre fue víctima de un ataque armado en Liberia, dejando una comunidad preocupada.",
+      "image_url": "https://www.nacion.com/resizer/v2/MBWRTG3L6NCINILQC4XKMRWJPY.JPG?auth=57c5b8da06b65c415b00270cc777bae5d8fb72c5bf5b7a281249826de587cb36&smart=true&width=5472&height=3648",
+      "description": "Un ataque armado la noche de este sábado en el barrio el Fósforo, en Liberia, Guanacaste, dejó a un hombre fallecido.",
+      "featured": false
+    },
+    {
+      "slug": "vea-los-goles-del-emocionante-partido-entre-herediano-y-alajuelense",
+      "title": "Vea los goles del emocionante partido entre Herediano y Alajuelense",
+      "category": "Costa Rica",
+      "bullets_20s": "• El partido mostró una intensa rivalidad entre los equipos en el campo de juego.\n• Los aficionados disfrutaron de una emocionante jornada con múltiples jugadas destacadas.\n• Ambos equipos tuvieron oportunidades de anotar, creando un ambiente electrizante.\n• El histórico enfrentamiento llevó a que muchos fanáticos estuvieran pegados a sus asientos.\n• Las estrategias defensivas fallaron, permitiendo goles tempranos en el partido.",
+      "source_name": "Juan Diego Villarreal, Fanny Tayver Marín",
+      "source_url": "https://www.nacion.com/puro-deporte/vea-los-goles-del-emocionante-partido-entre/RUWSNDP74ZCVPPJSF2SULQYDDI/story/",
+      "publish_date": "2026-03-22T02:29:33.000Z",
+      "teaser": "Lo clave en 20 segundos: dos goles en ocho minutos hicieron vibrar a los aficionados.",
+      "image_url": "https://www.nacion.com/resizer/v2/UEUX2GGONFCJJCTJHE2EBLKG7U.JPG?auth=b137c90dbc48979a6bdad4000cfb2837866a41565b14a1d430145ab80812d44f&smart=true&width=3000&height=2000",
+      "description": "En apenas ocho minutos se marcaron dos goles en el partido entre Alajuelense y Herediano.",
+      "featured": false
+    },
+    {
+      "slug": "ataque-contra-hospital-sudan-muertos-heridos",
+      "title": "Ataque contra hospital de Sudán deja 64 muertos, entre ellos 13 niños, y 89 heridos",
+      "category": "Mundo",
+      "bullets_20s": "• El ataque se produjo en un hospital durante el conflicto armado en Sudán, desatando condenas globales.\n• La OMS expresó su preocupación ante el aumento de la violencia en zonas vulnerables como los hospitales.\n• Se estima que la crisis humanitaria en Sudán se ha agravado tras el reciente ataque.\n• Organizaciones internacionales demandan mayor protección para instalaciones de salud en conflictos.\n• El evento subraya la necesidad de sumas esfuerzos para proteger a los civiles en conflictos bélicos.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/ataque-contra-hospital-de-sudan-deja-64-muertos/APY453FUWZCPLAXL5NC4F3Y6S4/story/",
+      "publish_date": "2026-03-22T02:28:09.000Z",
+      "teaser": "Lo clave en 20 segundos: Ataque en Sudán resalta crisis humanitaria y necesidad de protección en guerras.",
+      "image_url": "https://www.nacion.com/resizer/v2/QG7HWHKBCBGQTO27A2KFPBVLB4.jpg?auth=8177b0da6642cc5b35e6562a82ef9ee77773fd62c0b48be75fe3275381035a4e&smart=true&width=4032&height=2688",
+      "description": "Un ataque contra un centro de salud en Sudán dejó 64 muertos, entre ellos 13 niños, y 89 heridos, informó el sábado la OMS.",
+      "featured": false
+    },
+    {
       "slug": "alejandro-bran-comienza-descontar-castigo",
       "title": "Alejandro Bran empieza a descontar su castigo: esto dijo Carlos Vela",
       "category": "Costa Rica",
@@ -690,6 +768,19 @@
       "featured": false
     },
     {
+      "slug": "que-fue-el-monagato-compartieron-poder-venezuela",
+      "title": "Qué fue el \"Monagato\", la primera vez que dos hermanos compartieron el poder en Venezuela hace más de 170 años",
+      "category": "Mundo",
+      "bullets_20s": "• Venezuela enfrenta una situación política única con dos hermanos en el poder actualmente.\n• El evento histórico conocido como 'Monagato' ocurrió hace más de 170 años en el país.\n• La relación entre los hermanos en el poder provoca reacciones diversas en la ciudadanía venezolana.\n• Este fenómeno político refleja ciclos de liderazgo que han marcado la historia de Venezuela.\n• Las implicaciones de tener a dos hermanos en posiciones clave reavivan debates sobre gobernabilidad.\n• El contexto actual en Venezuela pone de relieve la lucha por el poder en el país.\n• Un análisis histórico de los Monagas puede ofrecer lecciones sobre liderazgo y conflictos.\n• La historia de Venezuela está llena de momentos cruciales que han definido su presente.\n• El rol de la oposición y su impacto en la política venezolana no puede ser subestimado.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c93jl08eqveo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T18:26:37.000Z",
+      "teaser": "Lo clave en 20 segundos: Venezuela tiene dos hermanos en el poder, un fenómeno político histórico.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4de1/live/59aed660-0b22-11f1-a204-b3f033b84443.png",
+      "description": "Con la salida de Nicolás Maduro del poder, el país sudamericano vive la inusual situación de tener a un hermano al frente del gobierno y a otro presidiendo el parlamento. Hay un antecedente histórico de hermanos con gran poder.",
+      "featured": false
+    },
+    {
       "slug": "nueva-clasificacion-planeta-fundido",
       "title": "Los científicos han identificado un nuevo tipo de planeta ‘fundido’ con un océano de magma y olor a huevos podridos",
       "category": "Ciencia",
@@ -1314,6 +1405,19 @@
       "featured": false
     },
     {
+      "slug": "que-es-la-ingenieria-de-suenos-y-como-permite-influir-en-que-sonamos",
+      "title": "Qué es la ingeniería de sueños y cómo permite influir en qué soñamos",
+      "category": "Ciencia",
+      "bullets_20s": "• La ingeniería de sueños es un nuevo campo que busca entender los procesos oníricos.\n• Investigadores exploran métodos para influir en los sueños de las personas.\n• Algunos científicos ven grandes posibilidades en esta tecnología innovadora.\n• Sin embargo, otros expresan preocupaciones éticas sobre su aplicación futura.\n• El sueño es una parte crucial de la salud mental y bienestar general.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cp32l75p2qro?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T11:56:24.000Z",
+      "teaser": "Lo clave en 20 segundos: Avances en ingeniería de sueños generan debates sobre ética y potencial.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8862/live/6d85d900-1981-11f1-9156-4356592fc9c8.jpg",
+      "description": "Algunos científicos están entusiasmados con los avances en el campo de la ingeniería de sueños, pero otros advierten su dimensión controvertida.",
+      "featured": false
+    },
+    {
       "slug": "que-es-la-ingenieria-de-suenos",
       "title": "Qué es la ingeniería de sueños y cómo permite influir en qué soñamos",
       "category": "Ciencia",
@@ -1609,6 +1713,19 @@
       "publish_date": "2026-03-21T10:38:04.000Z",
       "teaser": "Lo clave en 20 segundos: El sorprendente giro de la vida de Patty Hearst tras su secuestro.",
       "image_url": "",
+      "description": "El secuestro de Patty Hearst terminó teniendo uno de los giros inesperados más espectaculares de los años 70.",
+      "featured": false
+    },
+    {
+      "slug": "la-rocambolesca-historia-de-patty-hearst",
+      "title": "La rocambolesca historia de Patty Hearst, la rica heredera que fue secuestrada y se unió a la guerrilla de sus captores",
+      "category": "Mundo",
+      "bullets_20s": "• Patty Hearst, heredera de una fortuna, fue secuestrada en 1974 por un grupo guerrillero.\n• Su secuestro resultó en operaciones mediáticas que cambiaron la percepción pública del crimen.\n• Hearst sorprendió a muchos al unirse activamente a sus captores después del secuestro.\n• Este caso dejó una huella importante en la historia del crimen en Estados Unidos.\n• La historia de Hearst es un reflejo de los turbulentos años 70 en América.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cre0e002v8po?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T10:38:04.000Z",
+      "teaser": "Lo clave en 20 segundos: El caso de Patty Hearst es fascinante y complejo, lleno de giros inesperados.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/37b4/live/de82aff0-24a0-11f1-9573-9907bc8f835c.jpg",
       "description": "El secuestro de Patty Hearst terminó teniendo uno de los giros inesperados más espectaculares de los años 70.",
       "featured": false
     },
@@ -2297,6 +2414,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/c5yw851lpjpo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-21T03:01:19.000Z",
       "teaser": "Lo clave en 20 segundos: Corea del Norte refuerza su postura defensiva ante tensiones internacionales.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/89cd/live/3a8eb9c0-21b7-11f1-be41-af0a235fe6eb.png",
+      "description": "Los ataques de EE.UU. e Israel contra Irán probablemente afianzarán la idea del líder norcoreano de que las armas nucleares son esenciales para la supervivencia, según los analistas.",
+      "featured": false
+    },
+    {
+      "slug": "por-que-kim-jong-un-no-teme-un-ataque-de-ee-uu-a-corea-del-norte-como-el-que-sufre-iran",
+      "title": "Por qué Kim Jong-un no teme un ataque de EE.UU. a Corea del Norte como el que sufre Irán",
+      "category": "Mundo",
+      "bullets_20s": "• Kim Jong-un percibe un escenario diferente al de Irán respecto a amenazas militares.\n• Las armas nucleares son vistas como vitales para la defensa de Corea del Norte.\n• Analistas sugieren que esto refuerza las políticas militares del régimen norcoreano.\n• La dinámica de poder en Asia se complica con cada nuevo desarrollo bélico.\n• Irán y Corea del Norte enfrentan desafíos similares, pero sus contextos son diferentes.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c5yw851lpjpo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-21T03:01:19.000Z",
+      "teaser": "Lo clave en 20 segundos: Kim Jong-un y su visión sobre la defensa norcoreana frente a EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/89cd/live/3a8eb9c0-21b7-11f1-be41-af0a235fe6eb.png",
       "description": "Los ataques de EE.UU. e Israel contra Irán probablemente afianzarán la idea del líder norcoreano de que las armas nucleares son esenciales para la supervivencia, según los analistas.",
       "featured": false
@@ -3293,6 +3423,19 @@
       "slug": "se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
       "title": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
       "category": "Costa Rica",
+      "bullets_20s": "• Dwane James se graduó en Ingeniería en Producción Industrial, marcando un hito en su comunidad.\n• El evento de graduación número 358 se celebró en el Centro Académico de Limón.\n• La rectora destacó la importancia del compromiso profesional con la sociedad y su entorno.\n• COVID-21 presentó desafíos, pero los graduandos mostraron resiliencia y perseverancia.\n• La graduación incluye a 20 profesionales en diversas áreas que completaron sus estudios.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "publish_date": "2026-03-20T20:31:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Dwane James destaca en graduación del TEC, simbolizando el esfuerzo estudiantil en Limón.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/acto-graduacion-limon_20_03_2026paquesada-76.jpg.webp?itok=vQb4z-Ny",
+      "description": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
+      "featured": false
+    },
+    {
+      "slug": "se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "title": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
+      "category": "Costa Rica",
       "bullets_20s": "• Dwane James se graduó en Ingeniería en Producción Industrial en el Centro Académico de Limón.\n• El TEC abrió el Centro Académico de Limón en 2014, aumentando las oportunidades educativas.\n• James es reconocido como fundador del movimiento estudiantil del CAL y defensor de su comunidad.\n• La graduación del 20 de marzo culminó las graduaciones ordinarias del primer semestre de 2026.\n• La rectora del TEC destacó la responsabilidad social de los nuevos profesionales.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
@@ -3571,6 +3714,19 @@
       "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
       "publish_date": "2026-03-20T20:24:45.000Z",
       "teaser": "Lo clave en 20 segundos: Convenio entre el TEC y asociación de ingenieros para mejorar transporte.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "featured": false
+    },
+    {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "category": "Costa Rica",
+      "bullets_20s": "• El convenio busca fortalecer la colaboración en proyectos de ingeniería y transporte en Costa Rica.\n• Se promoverán programas de formación y capacitación para estudiantes en el campo del transporte.\n• Ambas instituciones trabajarán en investigaciones conjuntas relacionadas con la infraestructura.\n• El INTEC y la asociación pretenden mejorar la movilidad y eficiencia del sistema de transporte.\n• Se realizarán actividades de difusión de conocimientos en ingeniería y tecnología del transporte.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "publish_date": "2026-03-20T20:24:45.000Z",
+      "teaser": "Lo clave en 20 segundos: Fortalecen colaboración entre INTEC y Asociación de Ingeniería de Transporte en Costa Rica.",
       "image_url": "",
       "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
       "featured": false
@@ -4000,6 +4156,19 @@
       "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
       "publish_date": "2026-03-20T20:16:52.000Z",
       "teaser": "Lo clave en 20 segundos: Acuerdo entre ITCR e ILISA potencia la educación en diversas áreas.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "featured": false
+    },
+    {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Instituto Tecnológico de Costa Rica firma un convenio importante para la educación.\n• ILISA se une al ITCR para fomentar la colaboración en proyectos educativos.\n• Este convenio busca mejorar la calidad educativa en Costa Rica.\n• Participarán estudiantes y docentes en iniciativas conjuntas y programas de formación.\n• Ambas instituciones esperan promover el intercambio de conocimientos y recursos.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
+      "publish_date": "2026-03-20T20:16:52.000Z",
+      "teaser": "Lo clave en 20 segundos: un convenio para mejorar la educación en Costa Rica.",
       "image_url": "",
       "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
       "featured": false
@@ -7427,6 +7596,19 @@
       "slug": "v-congreso-institucional-cierra-14-acuerdos",
       "title": "V Congreso Institucional cierra con 14 acuerdos",
       "category": "Costa Rica",
+      "bullets_20s": "• El V Congreso Institucional se realizó de forma bimodal, presencial y virtual.\n• Se aprobaron 14 acuerdos en total, reflejando un fuerte compromiso institucional.\n• Entre los acuerdos se incluye una propuesta para una nueva Vicerrectoría de Extensión.\n• Se discutieron modelos para mejorar la gestión y transferencia tecnológica.\n• Se acordó comunicar los resultados a la comunidad institucional del TEC.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
+      "publish_date": "2026-03-19T22:27:42.000Z",
+      "teaser": "Lo clave en 20 segundos: El V Congreso Institucional del TEC culmina con 14 decisiones importantes para el futuro.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/v-congreso-institucional_19-marzo-2.jpg.webp?itok=j-YOCl75",
+      "description": "V Congreso Institucional cierra con 14 acuerdos",
+      "featured": false
+    },
+    {
+      "slug": "v-congreso-institucional-cierra-14-acuerdos",
+      "title": "V Congreso Institucional cierra con 14 acuerdos",
+      "category": "Costa Rica",
       "bullets_20s": "• El V Congreso Institucional se realizó en un formato bimodal, presencial y virtual, con gran participación.\n• Se tomaron 14 acuerdos en un proceso de cuatro días, enfocado en la extensión universitaria.\n• Una de las propuestas es crear una Vicerrectoría de Extensión para fortalecer la extensión universitaria.\n• Se presentó un Modelo de Gestión de Programas Técnicos para optimizar la formación técnica en el TEC.\n• Se aprobó la creación de un catálogo de productos relacionados con la extensión universitaria.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
@@ -8524,6 +8706,19 @@
       "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
       "publish_date": "2026-03-19T19:53:14.000Z",
       "teaser": "Lo clave en 20 segundos: El TEC recibe acreditación Platinum Class, destacándose en calidad académica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
+      "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "featured": false
+    },
+    {
+      "slug": "administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
+      "title": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Escuela de Administración de Empresas del TEC recibe acreditación internacional Platinum Class, un gran logro académico.\n• EQUAA otorgó la acreditación de cuatro estrellas, vigencia hasta 2031, tras una rigurosa evaluación.\n• El reconocimiento resalta la calidad académica y potencial internacional de programas del TEC en diversas áreas.\n• Incluye programas como Ciberseguridad Empresarial, Análisis de Datos y varias maestrías y doctorados.\n• EQUAA asegura que la acreditación promueve la mejora continua y asegura calidad en la educación.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
+      "publish_date": "2026-03-19T19:53:14.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC logra la prestigiosa acreditación Platinum Class, impulsando su calidad académica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
       "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
       "featured": false
@@ -11779,5 +11974,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-22T03:30:43.785Z"
+  "generated_at": "2026-03-22T04:30:43.710Z"
 }
