@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "slug": "fotos-o-videos-que-ocupa-mas-espacio-en-whatsapp",
+      "title": "¿Fotos o videos? Qué ocupa más espacio en WhatsApp",
+      "category": "Tecnología",
+      "bullets_20s": "• Los archivos de video son los que más espacio ocupan en WhatsApp generalmente.\n• Es recomendable gestionar el almacenamiento regularmente para liberar espacio en su dispositivo.\n• Puede eliminar videos antiguos desde la configuración de almacenamiento de WhatsApp.\n• El uso de fotos y audios también ocupa espacio, pero en menor medida que los videos.\n• Conozca tips para optimizar la gestión de archivos en WhatsApp y otros servicios.",
+      "source_name": "El  Universal",
+      "source_url": "https://www.nacion.com/tecnologia/fotos-audios-o-videos-este-archivo-llena-mas/2ECMJY7RTJETFITIQXFNBVPUPE/story/",
+      "publish_date": "2026-03-22T20:22:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Los videos ocupan más espacio en WhatsApp que fotos y audios.",
+      "image_url": "https://www.nacion.com/resizer/v2/A3VTPLUWXBHMZNW5L4WKGQAF2E.jpg?auth=494d11b68bb1c50edc8bb8905a6e93cb364bd2c9e5d93ce43fa8ced8501d10cb&smart=true&width=1200&height=900",
+      "description": "Los videos son los archivos que más espacio consumen en WhatsApp. Conozca cómo eliminarlos y qué hacer para evitar que saturen su celular.",
+      "featured": false
+    },
+    {
+      "slug": "temporada-de-serpientes-en-estados-unidos-2026",
+      "title": "Temporada de serpientes en Estados Unidos: cuándo inicia y cuáles son las zonas con mayor presencia en 2026",
+      "category": "Mundo",
+      "bullets_20s": "• Las serpientes se vuelven más activas cuando las temperaturas aumentan durante la primavera.\n• Algunas zonas de Estados Unidos tienen mayor presencia de serpientes venenosas y no venenosas.\n• Es importante conocer cómo prevenir encuentros con serpientes cerca de nuestras casas.\n• Las recomendaciones incluyen revisar jardines y áreas exteriores frecuentemente.\n• En caso de un encuentro, mantener la calma y evitar movimientos bruscos es crucial.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-mundo/temporada-de-serpientes-en-estados-unidos-estas/Y6TPAG35RRDGVEXJWOIFGLIMXQ/story/",
+      "publish_date": "2026-03-22T20:01:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Conoce cuándo y dónde hay más serpientes en EE.UU.",
+      "image_url": "https://www.nacion.com/resizer/v2/E37YCVOKXREFPLHGHCMG64JHCM.png?auth=7cf9c7a25bdddfcb5d39b10e6d72a0acbca99a2e6828f960286ae628d384cab5&smart=true&width=1680&height=945",
+      "description": "El aumento de temperaturas activa la presencia de serpientes en Estados Unidos. Conozca cuáles son las zonas más afectadas y qué medidas sí funcionan para evitar encuentros cerca de su hogar.",
+      "featured": false
+    },
+    {
+      "slug": "por-que-cenar-huevo-cocido-beneficia-salud",
+      "title": "Por qué cenar huevo cocido puede beneficiar su salud y ayudar a controlar el apetito en la noche",
+      "category": "Ciencia",
+      "bullets_20s": "• El huevo cocido es una excelente fuente de proteínas de alta calidad para la cena.\n• Contiene vitaminas esenciales que ayudan en el mantenimiento de la salud general.\n• Proporciona saciedad, lo que puede reducir el hambre durante la noche.\n• Es bajo en calorías, lo que favorece el control del peso corporal.\n• Además, ayuda a regular el apetito para evitar picar entre comidas.\n• Los expertos sugieren incorporarlo en cenas balanceadas para mejores resultados.\n• El huevo también contribuye a la salud muscular y el bienestar general.\n• Se puede preparar de forma rápida y sencilla, ideal para la cena.\n• Incluirlo en la dieta puede ayudar a mejorar la calidad nutricional.\n• Estudios respaldan sus beneficios como parte de una alimentación saludable.",
+      "source_name": "El  Universal",
+      "source_url": "https://www.nacion.com/ciencia/por-que-cenar-huevo-cocido-puede-beneficiar-su/4DJCKOPPUFEZRHWPKXAYUOHMPY/story/",
+      "publish_date": "2026-03-22T19:43:34.000Z",
+      "teaser": "Lo clave en 20 segundos: El huevo cocido mejora la salud y controla el apetito nocturno.",
+      "image_url": "https://www.nacion.com/resizer/v2/DRCTUJLQP5CQRDBICKKJVQNJD4.png?auth=3499fa40ba38a15b30c53bbb152eebacaff46164c47054f70c32551f6c01b191&smart=true&width=1920&height=1080",
+      "description": "Cenar huevo cocido aporta proteínas, vitaminas y saciedad. Expertos explican sus beneficios para la salud, el control del apetito y el peso.",
+      "featured": false
+    },
+    {
+      "slug": "el-fbi-admite-comprar-datos-localizacion",
+      "title": "El FBI admite que está comprando datos de localización para rastrear a ciudadanos estadounidenses",
+      "category": "Mundo",
+      "bullets_20s": "• El FBI ha reconocido que utiliza datos de ubicación para rastrear a ciudadanos sin su conocimiento.\n• Se revelan vacíos legales que permiten al FBI evitar órdenes judiciales al acceder a datos.\n• Los datos de ubicación son adquiridos a empresas comerciales que ofrecen esta información.\n• Se está proponiendo una nueva ley en EE. UU. para limitar esta forma de vigilancia masiva.\n• Las implicaciones sobre la privacidad de los ciudadanos son un tema de preocupación creciente.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/tecnologia/lo-rastrean-sin-saberlo-el-fbi-reconocio-la-compra/5243HIREB5HJBDZ7S675TW3DBE/story/",
+      "publish_date": "2026-03-22T19:43:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El FBI compra datos para rastrear sin órdenes y una ley busca frenar esto.",
+      "image_url": "https://www.nacion.com/resizer/v2/XTQA7ZQRVFBNZCNSJAJRSL4LRU.png?auth=0e97095ac8ca972917dd581de090a932d406806961e443d911d5fba10230a234&smart=true&width=1920&height=1080",
+      "description": "El FBI admite que compra datos de ubicación comerciales para rastrear ciudadanos. Conozca el vacío legal que permite al organismo evitar las órdenes judiciales y la nueva ley que busca frenar esta vigilancia masiva en EE. UU.",
+      "featured": false
+    },
+    {
+      "slug": "kevin-durant-supera-a-michael-jordan-en-importante-lista-de-la-nba",
+      "title": "Kevin Durant supera a Michael Jordan en importante lista de la NBA",
+      "category": "Mundo",
+      "bullets_20s": "• Kevin Durant ha logrado un hito significativo al superar a Michael Jordan en la NBA.\n• La carrera de Durant ha estado marcada por su impresionante rendimiento y dedicación.\n• Este logro genera interés en la comunidad del baloncesto y sus aficionados.\n• El debate sobre el mejor jugador de baloncesto de todos los tiempos continúa.\n• Durant sigue siendo una figura relevante en la actualidad del deporte profesional.",
+      "source_name": "Isaac Vega",
+      "source_url": "https://www.nacion.com/puro-deporte/kevin-durant-supera-a-michael-jordan-en-importante/CWJJUUJGYND2BKXUGDBQJ3BLKM/story/",
+      "publish_date": "2026-03-22T19:36:52.000Z",
+      "teaser": "Lo clave en 20 segundos: Kevin Durant supera a Michael Jordan en una lista importante de la NBA.",
+      "image_url": "https://www.nacion.com/resizer/v2/QVEDJZZ7BJCXDITZMJKJK33L2U.jpeg?auth=677cffc0cd2950ba8828122222f98258164b972c98258b44960d5b8c4e0cdfb6&smart=true&width=1260&height=1019",
+      "description": "Con 37 años, Kevin Durant hace historia en la NBA por encima del propio Michael Jordan.",
+      "featured": false
+    },
+    {
       "slug": "camara-capta-puma-gesto-peculiar-reserva-mexico",
       "title": "Cámara capta a puma haciendo gesto peculiar en reserva de México: así fue el momento",
       "category": "Ciencia",
@@ -128,6 +193,19 @@
       "teaser": "Lo clave en 20 segundos: un asteroide contiene elementos fundamentales para entender el origen de la vida en la Tierra.",
       "image_url": "https://www.nacion.com/resizer/v2/6DZW4XX7JVCNPDLQFJAN3RNWJY.png?auth=3c52276ab7f92ea8ce11298f167b8133100be1a8896f260332f49dfea230866b&smart=true&width=1920&height=1080",
       "description": "Estudio revela que el asteroide Ryugu contiene cinco bases del ADN. Hallazgo respalda teoría sobre origen extraterrestre de la vida en la Tierra.",
+      "featured": false
+    },
+    {
+      "slug": "amadeo-giannini-visionario-banquero",
+      "title": "Amadeo Giannini, el visionario banquero que apostó por inmigrantes en EE.UU. y creó el banco más grande del mundo",
+      "category": "Mundo",
+      "bullets_20s": "• Amadeo Giannini transformó la industria bancaria en Estados Unidos durante el siglo XX.\n• Su enfoque innovador permitió el acceso a servicios financieros a inmigrantes.\n• Creó el Bank of America, el banco más grande del mundo en su tiempo.\n• Defendió los valores de inclusión y acceso para aquellos sin recursos.\n• Rompió con las prácticas tradicionales que limitaban el servicio a personas adineradas.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/czdnnd422y2o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-22T17:43:05.000Z",
+      "teaser": "Lo clave en 20 segundos: Giannini cambió la banca dando acceso a servicios a millones.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4810/live/4c2bfab0-1417-11f1-9120-a910fc22c6ac.jpg",
+      "description": "Rompió las reglas de la banca tradicional y abrió las puertas a millones de personas que antes no tenían acceso a servicios financieros.",
       "featured": false
     },
     {
@@ -334,6 +412,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/czx9gn9qe4eo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-22T15:25:51.000Z",
       "teaser": "Lo clave en 20 segundos: EE.UU. amenaza a Irán mientras el mundo observa la crisis en el estrecho de Ormuz.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/f028/live/61277b10-25e2-11f1-9146-735d3f71509a.png",
+      "description": "El Cuerpo de la Guardia Revolucionaria Islámica dijo, el domingo, que \"cerrará completamente\" el estrecho de Ormuz si EE.UU. cumple con su amenaza de atacar la infraestructura energética de Irán.",
+      "featured": false
+    },
+    {
+      "slug": "trump-eeuu-arrasara-centrales-electricas-iran",
+      "title": "Trump dice que EE.UU. \"arrasará\" las centrales eléctricas de Irán si el estrecho de Ormuz no se abre antes del plazo de 48 horas",
+      "category": "Mundo",
+      "bullets_20s": "• Las tensiones entre EE.UU. e Irán aumentan por el control del estrecho de Ormuz vital para el petróleo.\n• Trump afirmó que tomará medidas drásticas si no se reabre el estrecho pronto.\n• La Guardia Revolucionaria en Irán advierte sobre consecuencias severas si se realizan ataques.\n• Expertos analizan las repercusiones globales que tendría un conflicto en la región.\n• El transporte marítimo por el estrecho es crucial para la economía mundial y la seguridad energética.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/czx9gn9qe4eo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-22T15:25:51.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump advierte sobre acción militar si el estrecho de Ormuz no se abre.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/f028/live/61277b10-25e2-11f1-9146-735d3f71509a.png",
       "description": "El Cuerpo de la Guardia Revolucionaria Islámica dijo, el domingo, que \"cerrará completamente\" el estrecho de Ormuz si EE.UU. cumple con su amenaza de atacar la infraestructura energética de Irán.",
       "featured": false
@@ -586,6 +677,19 @@
       "featured": false
     },
     {
+      "slug": "cual-es-la-luz-mas-antigua-que-hemos-observado",
+      "title": "Cuál es la luz más antigua que hemos observado (y ¿será que alguna vez se apaga?)",
+      "category": "Ciencia",
+      "bullets_20s": "• La luz observada ha recorrido el universo por miles de millones de años, revelando su antigüedad.\n• Astrónomos estudian la luz para entender su origen y el futuro que le espera en el cosmos.\n• La exploración de la luz antigua abre puertas a nuevos conocimientos sobre la historia del universo.\n• Se investiga cómo la luz puede continuar existiendo o si eventualmente se apagará con el tiempo.\n• El estudio de la luz antigua plantea preguntas sobre el ciclo de vida de diversas estrellas.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cvgpl0z6w9go?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-22T12:53:11.000Z",
+      "teaser": "Lo clave en 20 segundos: La luz más antigua observada revela grandes secretos sobre el cosmos.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/0b8e/live/65b2c640-ed10-11f0-ad80-d7f736b055b6.jpg",
+      "description": "La luz que detectan los astrónomos es inimaginablemente antigua: ha viajado por miles de millones de años por el Universo. Pero,¿qué será de ella en un futuro lejano? ¿Cuánto tiempo dura la luz?",
+      "featured": false
+    },
+    {
       "slug": "propuestas-diputados-alajuela",
       "title": "Estas son las propuestas de los 12 diputados que representarán la provincia de Alajuela",
       "category": "Costa Rica",
@@ -711,6 +815,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/c5yv1n843eyo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-22T11:48:30.000Z",
       "teaser": "Lo clave en 20 segundos: Las rutas marítimas fundamentales que sostienen el comercio global.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1da3/live/5743d580-21fa-11f1-9256-9b680459597d.jpg",
+      "description": "El comercio mundial depende de un número sorprendentemente reducido de estrechos canales, a menudo denominados \"puntos de estrangulamiento\" marítimos.",
+      "featured": false
+    },
+    {
+      "slug": "del-estrecho-de-ormuz-al-de-malaca",
+      "title": "Del estrecho de Ormuz al de Malaca: las 5 angostas vías navegables de las que depende el comercio mundial",
+      "category": "Mundo",
+      "bullets_20s": "• Existen vías navegables críticas que facilitan el comercio internacional y la economía global.\n• El estrecho de Ormuz es vital para el transporte de petróleo en el mundo.\n• El estrecho de Malaca conecta el comercio entre Asia y el océano Índico.\n• Estos puntos de estrangulamiento son vulnerables y afectan la seguridad comercial.\n• Entender estas vías es esencial para evaluar riesgos globales en el comercio.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c5yv1n843eyo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-22T11:48:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Las vías navegables que sostienen el comercio mundial son pocas y cruciales.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1da3/live/5743d580-21fa-11f1-9256-9b680459597d.jpg",
       "description": "El comercio mundial depende de un número sorprendentemente reducido de estrechos canales, a menudo denominados \"puntos de estrangulamiento\" marítimos.",
       "featured": false
@@ -915,6 +1032,19 @@
       "title": "Por qué los supermercados de Finlandia son fundamentales para la defensa del país",
       "category": "Mundo",
       "bullets_20s": "• Los supermercados en Finlandia juegan un papel crucial en la logística de defensa nacional.\n• Cada cadena de supermercados tiene estrategias definidas en caso de conflicto.\n• Estos planes incluyen el suministro de alimentos y recursos esenciales.\n• La colaboración entre el gobierno y el sector privado es fundamental.\n• Los ciudadanos son capacitados para actuar en situaciones de emergencia.\n• La seguridad alimentaria es una prioridad en tiempos de guerra.\n• Finlandia ha aprendido de experiencias históricas en conflictos pasados.\n• La importancia de la infraestructura de supermercados se ha incrementado.\n• El enfoque integral busca garantizar el bienestar de la población.\n• El modelo finlandés puede ser un ejemplo para otros países.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cp84n7lyl88o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-22T10:19:08.000Z",
+      "teaser": "Lo clave en 20 segundos: los supermercados en Finlandia son vitales para la defensa nacional.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e0dc/live/89a6fa90-22b6-11f1-934f-036468834728.jpg",
+      "description": "Todas las cadenas de supermercados tienen planes detallados para seguir en el caso de que la nación entre en guerra.",
+      "featured": false
+    },
+    {
+      "slug": "por-que-los-supermercados-de-finlandia-son-fundamentales-para-la-defensa-del-pais",
+      "title": "Por qué los supermercados de Finlandia son fundamentales para la defensa del país",
+      "category": "Mundo",
+      "bullets_20s": "• Los supermercados finlandeses tienen un papel crucial en la defensa nacional en tiempos de crisis.\n• Cuentan con planes de contingencia que aseguran la supervivencia de la población civil.\n• La logística de abastecimiento es clave para mantener orden durante situaciones de emergencia.\n• Estos planes permiten garantizar el acceso a alimentos y otros productos esenciales.\n• Las cadenas han colaborado con el gobierno para desarrollar estrategias de respuesta.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cp84n7lyl88o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-22T10:19:08.000Z",
@@ -5555,6 +5685,19 @@
       "slug": "se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
       "title": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
       "category": "Costa Rica",
+      "bullets_20s": "• Dwane James se graduó en Ingeniería en Producción Industrial del TEC en Limón.\n• El Centro Académico de Limón abrió en 2014, facilitando los estudios a jóvenes.\n• La graduación tuvo un acto lleno de aplausos y reconocimientos a los graduados.\n• La rectora del TEC recordó la responsabilidad social de los nuevos profesionales.\n• Este evento culmina las graduaciones ordinarias del primer semestre de 2026.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "publish_date": "2026-03-20T20:31:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Graduación transformadora en el TEC de Limón.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/acto-graduacion-limon_20_03_2026paquesada-76.jpg.webp?itok=vQb4z-Ny",
+      "description": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
+      "featured": false
+    },
+    {
+      "slug": "se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "title": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
+      "category": "Costa Rica",
       "bullets_20s": "• Dwane James se gradúa en Ingeniería en Producción Industrial en el TEC de Limón.\n• El TEC abrió el Centro Académico de Limón en 2014, mejorando las opciones educativas.\n• La graduación se celebró con aplausos y reconocimientos a los graduandos.\n• Las autoridades resaltaron la importancia del compromiso social de los graduados.\n• El acto marcó el fin de las graduaciones ordinarias del primer semestre de 2026.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
@@ -6319,6 +6462,19 @@
       "featured": false
     },
     {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Instituto Tecnológico de Costa Rica firma un convenio crucial con la Asociación Costarricense de Ingeniería.\n• Este acuerdo busca fortalecer la colaboración entre instituciones de educación y organizaciones profesionales.\n• Iniciativas conjuntas pueden impulsar la investigación y el desarrollo en ingeniería de transporte.\n• El convenio establece lineamientos para proyectos que beneficien a la comunidad y a los estudiantes.\n• Ambas instituciones destacan la importancia de la educación para el desarrollo del país.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "publish_date": "2026-03-20T20:24:45.000Z",
+      "teaser": "Lo clave en 20 segundos: Nuevo convenio entre el ITCR y la Asociación de Ingeniería promete grandes avances.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "featured": false
+    },
+    {
       "slug": "convenio-marco-colaboracion-instituto-tecnologico",
       "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
       "category": "Costa Rica",
@@ -6704,6 +6860,19 @@
       "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
       "publish_date": "2026-03-20T20:16:52.000Z",
       "teaser": "Lo clave en 20 segundos: Un nuevo convenio que fomenta la educación e investigación entre instituciones.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "featured": false
+    },
+    {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-e-ilisa",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "category": "Costa Rica",
+      "bullets_20s": "• Este convenio permitirá la colaboración entre dos instituciones destacadas.\n• Ambas instituciones buscan mejorar la educación y la investigación conjunta.\n• Se espera aumentar las oportunidades de aprendizaje para los estudiantes.\n• Las áreas de estudio incluirán tecnología, ciencia e innovación.\n• El convenio fomenta un intercambio de recursos y conocimientos.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
+      "publish_date": "2026-03-20T20:16:52.000Z",
+      "teaser": "Lo clave en 20 segundos: Convenio entre el Tecnológico de Costa Rica e ILISA potenciará la educación y colaboración.",
       "image_url": "",
       "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
       "featured": false
@@ -10079,6 +10248,19 @@
       "slug": "v-congreso-institucional-cierra-14-acuerdos",
       "title": "V Congreso Institucional cierra con 14 acuerdos",
       "category": "Costa Rica",
+      "bullets_20s": "• El V Congreso Institucional se llevó a cabo en formato bimodal y con gran participación.\n• Catorce acuerdos se lograron durante los cuatro días de sesiones del congreso.\n• Se discutió la creación de una Vicerrectoría de Extensión en el TEC.\n• Se aprobó un modelo de gestión técnica para mejorar la educación en el TEC.\n• Los participantes recibieron un mensaje de agradecimiento por su compromiso institucional.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
+      "publish_date": "2026-03-19T22:27:42.000Z",
+      "teaser": "Lo clave en 20 segundos: El V Congreso Institucional culminó con 14 importantes acuerdos.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/v-congreso-institucional_19-marzo-2.jpg.webp?itok=j-YOCl75",
+      "description": "V Congreso Institucional cierra con 14 acuerdos",
+      "featured": false
+    },
+    {
+      "slug": "v-congreso-institucional-cierra-14-acuerdos",
+      "title": "V Congreso Institucional cierra con 14 acuerdos",
+      "category": "Costa Rica",
       "bullets_20s": "• El V Congreso Institucional del TEC culminó con 14 acuerdos relevantes para la institución.\n• Se desarrolló en un formato bimodal, con muchos congresistas presentes de manera virtual.\n• Entre los acuerdos se propuso una Vicerrectoría para la Extensión Universitaria.\n• También se aprobaron modelos de gestión para programas técnicos y transferencia tecnológica.\n• El consejo busca fortalecer la formación técnica y mejorar procesos en la institución.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
@@ -11644,6 +11826,19 @@
       "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
       "publish_date": "2026-03-19T19:53:14.000Z",
       "teaser": "Lo clave en 20 segundos: El TEC recibe acreditación Platinum Class por su Escuela de Administración de Empresas.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
+      "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "featured": false
+    },
+    {
+      "slug": "administracion-empresas-tec-acreditacion-internacional-platinum-class",
+      "title": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Escuela de Administración de Empresas del TEC recibe acreditación Platinum Class de EQUAA.\n• Es la primera institución en Costa Rica en obtener esta acreditación internacional.\n• La acreditación tiene una vigencia de cinco años, hasta el 2031.\n• EQUAA evalúa programas de educación superior basándose en estándares globales.\n• El reconocimiento fortalece la proyección internacional de sus programas académicos.\n• La acreditación incluye 18 programas académicos en diferentes áreas de administración.\n• EQUAA destaca la importancia de la mejora continua en la educación superior.\n• El TEC deberá presentar un informe intermedio de cumplimiento en 2028.\n• El reconocimiento promueve oportunidades académicas para los graduados del TEC.\n• Este logro resalta el compromiso con la calidad académica en Costa Rica.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
+      "publish_date": "2026-03-19T19:53:14.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC logra una acreditación internacional Platinum Class, destacando su calidad académica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
       "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
       "featured": false
@@ -15094,5 +15289,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-22T20:30:45.233Z"
+  "generated_at": "2026-03-22T21:30:45.452Z"
 }
