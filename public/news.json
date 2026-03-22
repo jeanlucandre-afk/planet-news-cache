@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "slug": "ranking-mundial-de-la-felicidad",
+      "title": "Ranking mundial de la felicidad: cómo un país lleva nueve años conservando el primer lugar",
+      "category": "Mundo",
+      "bullets_20s": "• El análisis global de bienestar destaca aspectos cruciales que contribuyen a la felicidad colectiva en el país líder.\n• A pesar del primer lugar, se observa una caída en los índices de felicidad entre los jóvenes de la región.\n• El reporte revela que la desigualdad sigue siendo un gran desafío en el contexto global actual.\n• Las políticas públicas implementadas juegan un rol importante en la mejora de la calidad de vida de sus ciudadanos.\n• Los especialistas recomiendan trabajar en la equidad social para mejorar los niveles de felicidad en todos los grupos.",
+      "source_name": "O Globo, Jailine González Gómez",
+      "source_url": "https://www.nacion.com/ciencia/ranking-mundial-de-la-felicidad-un-pais-lleva/QIWLOMMD3BC6XE5BJFQH6M2YQA/story/",
+      "publish_date": "2026-03-22T22:25:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Un país mantiene su liderazgo en felicidad, pero enfrenta retos importantes entre los jóvenes.",
+      "image_url": "https://www.nacion.com/resizer/v2/IZBXOWLSY5DJTFRBJMSV6ADNFY.JPG?auth=83cfedb5d9c866f650f8af9e989afdfc950649ded11424a49f1a900ed1a237c6&smart=true&width=1920&height=1250",
+      "description": "Un país lidera el ranking mundial de felicidad por noveno año consecutivo. El informe 2026 revela claves del bienestar y alerta por caída en jóvenes y desigualdad global.",
+      "featured": false
+    },
+    {
+      "slug": "costa-rica-inicia-la-semana-con-buen-tiempo",
+      "title": "Costa Rica inicia la semana con buen tiempo: se prevé un lunes soleado y con temperaturas elevadas",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Instituto Meteorológico Nacional informa sobre un lunes soleado en Costa Rica.\n• Temperaturas podrían alcanzar hasta 36,8 °C en el Pacífico norte del país.\n• Se esperan ráfagas de viento moderadas a lo largo de la jornada.\n• Se recomienda tener cuidado con la exposición directa al sol.\n• Las condiciones climáticas son ideales para actividades al aire libre.\n• La estabilidad del clima indicará un inicio de semana agradable.\n• Las proyecciones meteorológicas son positivas para los próximos días.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/sucesos/costa-rica-inicia-la-semana-con-buen-tiempo-se/D4R44DSZINHY3DTMP7CLZWORDY/story/",
+      "publish_date": "2026-03-22T22:24:40.000Z",
+      "teaser": "Lo clave en 20 segundos: Costa Rica disfrutará de un lunes soleado con altas temperaturas.",
+      "image_url": "https://www.nacion.com/resizer/v2/SLUF2CLTYVFQ5ALBCACJFOURYA.JPG?auth=c25df29f1812ae73c2302d8c13f110deb1b72decdadfde16dbfc7ebf00b20063&smart=true&width=3200&height=2133",
+      "description": "El IMN pronostica un lunes estable y soleado en Costa Rica. Habrá ráfagas de viento y temperaturas de hasta 36,8 °C en el Pacífico norte.",
+      "featured": false
+    },
+    {
+      "slug": "encuentran-en-el-desierto-de-atacama-una-de-las-criaturas-mas-sorprendentes",
+      "title": "Encuentran en el desierto de Atacama una de las criaturas más sorprendentes de la Tierra",
+      "category": "Ciencia",
+      "bullets_20s": "• El desierto de Atacama es famoso por su extrema aridez y condiciones climáticas severas.\n• Científicos han hallado vida en formas inesperadas, como los nematodos microscópicos.\n• Este descubrimiento proporciona información sobre la capacidad de adaptación de los organismos.\n• Las condiciones extremas en Atacama permiten estudiar la vida en otros planetas.\n• El hallazgo subraya la importancia de preservar estos ecosistemas únicos y frágiles.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/ciencia/hallazgo-en-atacama-revela-vida-microscopica-en/R2SKU424JZB23I6Q2TISIQYAP4/story/",
+      "publish_date": "2026-03-22T22:02:00.000Z",
+      "teaser": "Lo clave en 20 segundos: descubrimiento de vida microscópica en el desierto más árido.",
+      "image_url": "https://www.nacion.com/resizer/v2/GOLBMDJUPVBZVBPFCNBSZLXS5U.png?auth=8e30ea388df44641d118264eebce060d2a1ff9c017d042fc1ea5f1572d17eeb4&smart=true&width=1680&height=945",
+      "description": "Científicos descubren nematodos en el desierto de Atacama, uno de los lugares más áridos del planeta, y revelan cómo sobrevive la vida en condiciones extremas.",
+      "featured": false
+    },
+    {
+      "slug": "impuesto-sobre-dividendos-en-costa-rica-tributacion-delimita-alcances-de-exencion",
+      "title": "Impuesto sobre dividendos en Costa Rica: Tributación delimita alcances de exención",
+      "category": "Costa Rica",
+      "bullets_20s": "• La tributación en Costa Rica ha determinado nuevos lineamientos para la exención de dividendos.\n• Las sociedades deben entender el concepto de 'afectación patrimonial' para aplicar la exención.\n• Es importante que los contribuyentes conozcan sus obligaciones fiscales respecto a los dividendos.\n• Los asesoramientos fiscales son clave para evitar sorpresas en la declaración de impuestos.\n• Las modificaciones en la Ley de Impuestos impactan a muchos sectores empresariales en el país.",
+      "source_name": "Mario Hidalgo",
+      "source_url": "https://www.nacion.com/economia/impuesto-sobre-dividendos-en-costa-rica/N36ZJQLDMJDEBHLXVE7X6H3CFM/story/",
+      "publish_date": "2026-03-22T21:58:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La tributación aclara requisitos para la exención de impuestos sobre dividendos en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/BQOFVQKPLNHV3JC547ZXPYRKBQ.jpg?auth=592cdb058848dac2f8c8a8e2d63008bf4a52ad6e2941405789f5b794946bfb24&smart=true&width=6000&height=4000",
+      "description": "¿Sabe si su sociedad debe pagar impuestos por los dividendos percibidos? Tributación aclara el requisito de 'afectación patrimonial' para aplicar la exención.",
+      "featured": false
+    },
+    {
+      "slug": "jason-huertas-medito-un-prematuro-retiro-sin-pensar-que-la-gloria-deportiva-lo-esperaba",
+      "title": "Jason Huertas meditó un prematuro retiro sin pensar que la gloria deportiva lo esperaba",
+      "category": "Costa Rica",
+      "bullets_20s": "• Jason Huertas estuvo a punto de retirarse del ciclismo antes de encontrar su motivación.\n• El ciclista compartió sus pensamientos sobre la presión en el deporte competitivo.\n• Huertas reveló la importancia de la planificación en su carrera deportiva.\n• La gloria esperada le llegó en un momento inesperado de su trayectoria.\n• La pasión por el ciclismo llevó a Huertas a reconsiderar su decisión de retirarse.",
+      "source_name": "Juan Diego Villarreal",
+      "source_url": "https://www.nacion.com/puro-deporte/jason-huertas-medito-un-prematuro-retiro-sin/WIT2GEHGPRAAXL2DI3S3ECVVF4/story/",
+      "publish_date": "2026-03-22T21:53:31.000Z",
+      "teaser": "Lo clave en 20 segundos: Huertas a punto de retirarse, pero la gloria le aguardaba inesperadamente.",
+      "image_url": "https://www.nacion.com/resizer/v2/HRFTGQLY5JBZZGJNGX6OYQEBRM.jpg?auth=1540c9bd06785b17ee04e6f97890c7cf85a988f442fd2d550ee629f6662976dc&smart=true&width=1280&height=853",
+      "description": "El ciclista Jason Huertas explicó la estrategia de carrera y el motivo por el cual iba a colgar su bicicleta",
+      "featured": false
+    },
+    {
       "slug": "dunkin-abre-nuevo-local-cartago",
       "title": "Dunkin’ abre su nuevo local en Cartago: conozca dónde está ubicado y su horario",
       "category": "Costa Rica",
@@ -300,6 +365,19 @@
       "featured": false
     },
     {
+      "slug": "amadeo-giannini-visionario-banquero",
+      "title": "Amadeo Giannini, el visionario banquero que apostó por inmigrantes en EE.UU. y creó el banco más grande del mundo",
+      "category": "Mundo",
+      "bullets_20s": "• Amadeo Giannini cambió la banca al enfocarse en migrantes en Estados Unidos.\n• Su enfoque inclusivo permitió a muchos acceder a servicios financieros antes negados.\n• Fundó el Bank of America, un ícono en el sector bancario mundial.\n• Romper las reglas tradicionales fue clave en su éxito empresarial.\n• Su legado sigue influyendo en la banca moderna y la inclusión financiera.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/czdnnd422y2o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-22T17:43:05.000Z",
+      "teaser": "Lo clave en 20 segundos: Amadeo Giannini transformó el acceso financiero en EE.UU.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4810/live/4c2bfab0-1417-11f1-9120-a910fc22c6ac.jpg",
+      "description": "Rompió las reglas de la banca tradicional y abrió las puertas a millones de personas que antes no tenían acceso a servicios financieros.",
+      "featured": false
+    },
+    {
       "slug": "amadeo-giannini-banquero-inmigrantes",
       "title": "Amadeo Giannini, el visionario banquero que apostó por inmigrantes en EE.UU. y creó el banco más grande del mundo",
       "category": "Mundo",
@@ -427,6 +505,19 @@
       "teaser": "Lo clave en 20 segundos: El Vaticano insta a evitar inversiones en minería por daños sociales y ambientales.",
       "image_url": "https://www.nacion.com/resizer/v2/BXFXHPHQ6NBIROFE5S5RPRKL2A.jpg?auth=19587bb2934af80034f14f54148307c1c0ed8e1fdabd38f5ebd2b5b636dd98b5&smart=true&width=3746&height=2107",
       "description": "El Vaticano impulsa abandonar inversiones en minería y alerta por impactos sociales y ambientales. La medida se vincula con inteligencia artificial y demanda de minerales.",
+      "featured": false
+    },
+    {
+      "slug": "trump-eeuu-arrasara-centrales-electricas-iran",
+      "title": "Trump dice que EE.UU. \"arrasará\" las centrales eléctricas de Irán si el estrecho de Ormuz no se abre antes del plazo de 48 horas",
+      "category": "Mundo",
+      "bullets_20s": "• Tensión creciente en el estrecho de Ormuz debido a las amenazas entre EE.UU. e Irán.\n• Irán advertiría sobre posibles consecuencias si EE.UU. actúa contra sus instalaciones.\n• EE.UU. mantiene su postura firme ante cualquier obstáculo en el tráfico marítimo.\n• Cierre del estrecho de Ormuz afectaría a la economía global de manera significativa.\n• Los enfrentamientos en esta región impactan directamente el mercado energético internacional.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/czx9gn9qe4eo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-22T15:25:51.000Z",
+      "teaser": "Lo clave en 20 segundos: EE.UU. amenaza con atacar Irán si no se abre el estrecho de Ormuz.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/f028/live/61277b10-25e2-11f1-9146-735d3f71509a.png",
+      "description": "El Cuerpo de la Guardia Revolucionaria Islámica dijo, el domingo, que \"cerrará completamente\" el estrecho de Ormuz si EE.UU. cumple con su amenaza de atacar la infraestructura energética de Irán.",
       "featured": false
     },
     {
@@ -757,6 +848,19 @@
     {
       "slug": "cual-es-la-luz-mas-antigua-que-hemos-observado",
       "title": "Cuál es la luz más antigua que hemos observado (y ¿será que alguna vez se apaga?)",
+      "category": "Mundo",
+      "bullets_20s": "• Los astrónomos han observado luz que ha viajado miles de millones de años desde el origen del Universo.\n• Esta luz es un vestigio del pasado que nos conecta con los primeros momentos del cosmos.\n• El estudio de esta luz antigua nos ayuda a entender la formación de galaxias y estrellas.\n• Las propiedades de la luz pueden revelar información sobre la expansión del Universo.\n• Los científicos se preguntan si esta luz podría alguna vez apagarse con el paso del tiempo.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cvgpl0z6w9go?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-22T12:53:11.000Z",
+      "teaser": "Lo clave en 20 segundos: La luz más antigua nos conecta con la historia del cosmos y su futuro es incierto.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/0b8e/live/65b2c640-ed10-11f0-ad80-d7f736b055b6.jpg",
+      "description": "La luz que detectan los astrónomos es inimaginablemente antigua: ha viajado por miles de millones de años por el Universo. Pero,¿qué será de ella en un futuro lejano? ¿Cuánto tiempo dura la luz?",
+      "featured": false
+    },
+    {
+      "slug": "cual-es-la-luz-mas-antigua-que-hemos-observado",
+      "title": "Cuál es la luz más antigua que hemos observado (y ¿será que alguna vez se apaga?)",
       "category": "Ciencia",
       "bullets_20s": "• Los astrónomos han detectado una luz proveniente de tiempos antiguos en el Universo.\n• Esta luz ha estado viajando por miles de millones de años hasta llegar a nosotros.\n• La investigación sobre esta luz nos ayuda a comprender mejor el cosmos.\n• Se desconoce cuánto tiempo más podrá seguir presente esta luz en el universo.\n• El estudio de la luz antigua también plantea preguntas sobre su naturaleza y origen.\n• Las observaciones recientes desvelan grandes misterios sobre el tiempo y el espacio.\n• La luz de los astrónomos es una ventana al pasado del universo observable.\n• El futuro de esta luz en el cosmos sigue siendo un enigma fascinante.\n• Esta investigación puede revolucionar nuestra comprensión de la física del universo.\n• Explorar la luz antigua ofrece una oportunidad para descubrir nuevas verdades científicas.",
       "source_name": "BBC Mundo",
@@ -950,6 +1054,19 @@
       "featured": false
     },
     {
+      "slug": "del-estrecho-de-ormuz-al-de-malaca-5-angostas-vias-navegables",
+      "title": "Del estrecho de Ormuz al de Malaca: las 5 angostas vías navegables de las que depende el comercio mundial",
+      "category": "Mundo",
+      "bullets_20s": "• Los estrechos son cruciales para el comercio internacional y su estabilidad económica.\n• Existen solo cinco vías navegables que dominan el tráfico marítimo global.\n• Un cierre o bloqueo en estos puntos puede afectar a diversas economías.\n• Los estrechos de Ormuz y Malaca son ejemplos claves en el comercio marítimo.\n• Estos canales estratégicos han sido históricos de conflictos geopolíticos.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c5yv1n843eyo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-22T11:48:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Los estrechos marítimos son vitales para el comercio mundial.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1da3/live/5743d580-21fa-11f1-9256-9b680459597d.jpg",
+      "description": "El comercio mundial depende de un número sorprendentemente reducido de estrechos canales, a menudo denominados \"puntos de estrangulamiento\" marítimos.",
+      "featured": false
+    },
+    {
       "slug": "del-estrecho-de-ormuz-al-de-malaca-vias-navegables",
       "title": "Del estrecho de Ormuz al de Malaca: las 5 angostas vías navegables de las que depende el comercio mundial",
       "category": "Mundo",
@@ -1114,6 +1231,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/cp84n7lyl88o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-22T10:19:08.000Z",
       "teaser": "Lo clave en 20 segundos: Finlandia integra a supermercados en estrategia de defensa nacional.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e0dc/live/89a6fa90-22b6-11f1-934f-036468834728.jpg",
+      "description": "Todas las cadenas de supermercados tienen planes detallados para seguir en el caso de que la nación entre en guerra.",
+      "featured": false
+    },
+    {
+      "slug": "por-que-los-supermercados-de-finlandia-son-fundamentales-para-la-defensa-del-pais",
+      "title": "Por qué los supermercados de Finlandia son fundamentales para la defensa del país",
+      "category": "Mundo",
+      "bullets_20s": "• Los supermercados en Finlandia mantienen planes para operaciones durante crisis nacionales.\n• La importancia radica en asegurar el suministro de alimentos en tiempos de guerra.\n• Las cadenas colaboran con el gobierno para garantizar la seguridad alimentaria.\n• Cada local tiene protocolos específicos en caso de emergencia nacional o invasión.\n• Este modelo podría ser analizado por otros países en situaciones de conflicto.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cp84n7lyl88o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-22T10:19:08.000Z",
+      "teaser": "Lo clave en 20 segundos: Los supermercados finlandeses son cruciales en la defensa y abastecimiento del país.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e0dc/live/89a6fa90-22b6-11f1-934f-036468834728.jpg",
       "description": "Todas las cadenas de supermercados tienen planes detallados para seguir en el caso de que la nación entre en guerra.",
       "featured": false
@@ -5568,6 +5698,19 @@
       "slug": "se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
       "title": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
       "category": "Costa Rica",
+      "bullets_20s": "• Dwane James se graduó de Ingeniería en Producción Industrial en el TEC de Limón.\n• El TEC abrió el Centro Académico de Limón en 2014, transformando la educación local.\n• Dwane es conocido como fundador del movimiento estudiantil en el CAL del TEC.\n• La universidad resaltó la importancia de la educación superior pública en la región.\n• La ceremonia de graduación número 358 marcó un fin importante para los estudiantes.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "publish_date": "2026-03-20T20:31:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Dwane James se gradúa y marca el fin de una etapa en el TEC de Limón.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/acto-graduacion-limon_20_03_2026paquesada-76.jpg.webp?itok=vQb4z-Ny",
+      "description": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
+      "featured": false
+    },
+    {
+      "slug": "se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "title": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
+      "category": "Costa Rica",
       "bullets_20s": "• Dwane James se graduó tras combinar trabajo y estudios, destacando su esfuerzo personal.\n• El TEC celebró la graduación con un evento lleno de aplausos y emociones entre estudiantes.\n• María Estrada Sánchez recordó la importancia de servir a la sociedad con el conocimiento.\n• El director del CAL mencionó los desafíos enfrentados por los estudiantes durante la pandemia.\n• Este evento marca el final de las graduaciones ordinarias del primer semestre de 2026.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
@@ -6132,6 +6275,19 @@
       "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
       "publish_date": "2026-03-20T20:24:45.000Z",
       "teaser": "Lo clave en 20 segundos: colaboración entre el TEC y la Asociación de Ingeniería de Transporte.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "featured": false
+    },
+    {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "category": "Costa Rica",
+      "bullets_20s": "• El convenio busca fortalecer la cooperación entre instituciones académicas y profesionales.\n• Se espera desarrollar proyectos innovadores en el campo de la ingeniería del transporte.\n• Ambas partes colaborarán en investigaciones y capacitaciones conjuntas.\n• El objetivo es mejorar la infraestructura de transporte en el país.\n• Se fomentará la creación de nuevas tecnologías y metodologías en el sector.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "publish_date": "2026-03-20T20:24:45.000Z",
+      "teaser": "Lo clave en 20 segundos: Se establece un convenio para mejorar la ingeniería del transporte en Costa Rica.",
       "image_url": "",
       "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
       "featured": false
@@ -7341,6 +7497,19 @@
       "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
       "publish_date": "2026-03-20T20:16:52.000Z",
       "teaser": "Lo clave en 20 segundos: Convenio fortalece la educación técnica en Costa Rica.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "featured": false
+    },
+    {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "category": "Costa Rica",
+      "bullets_20s": "• El convenio busca fortalecer la colaboración entre instituciones educativas en Costa Rica.\n• Se espera la creación de programas conjuntos en innovación y desarrollo tecnológico.\n• ILISA es una institución reconocida en la enseñanza de idiomas y cultura.\n• El Instituto Tecnológico de Costa Rica enfoca su trabajo en la educación técnica y profesional.\n• Ambas instituciones se comprometen a mejorar la calidad educativa en el país.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
+      "publish_date": "2026-03-20T20:16:52.000Z",
+      "teaser": "Lo clave en 20 segundos: Se firma un convenio entre el TEC e ILISA para potenciar la educación en Costa Rica.",
       "image_url": "",
       "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
       "featured": false
@@ -11015,6 +11184,19 @@
       "slug": "v-congreso-institucional-cierra-14-acuerdos",
       "title": "V Congreso Institucional cierra con 14 acuerdos",
       "category": "Costa Rica",
+      "bullets_20s": "• El V Congreso Institucional tuvo un formato bimodal, combinando sesiones presenciales y virtuales exitosamente.\n• Se alcanzaron un total de 14 acuerdos significativos para el avance del Tecnológico de Costa Rica.\n• Una de las propuestas fue la creación de una Vicerrectoría de Extensión en el TEC.\n• El congreso reforzó el apoyo y la importancia de la extensión universitaria en la educación técnica.\n• Se realizó un análisis y votación de varias ponencias presentadas durante el evento congresual.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
+      "publish_date": "2026-03-19T22:27:42.000Z",
+      "teaser": "Lo clave en 20 segundos: el V Congreso Institucional culminó con 14 importantes acuerdos para el TEC.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/v-congreso-institucional_19-marzo-2.jpg.webp?itok=j-YOCl75",
+      "description": "V Congreso Institucional cierra con 14 acuerdos.",
+      "featured": false
+    },
+    {
+      "slug": "v-congreso-institucional-cierra-14-acuerdos",
+      "title": "V Congreso Institucional cierra con 14 acuerdos",
+      "category": "Costa Rica",
       "bullets_20s": "• El V Congreso Institucional culmina con la aprobación de 14 acuerdos relevantes para el Tecnológico de Costa Rica.\n• La jornada final incluyó cinco nuevos acuerdos, sumando con esto un total de 14 durante el congreso.\n• Destacan propuestas para crear una Vicerrectoría de Extensión y un catálogo de productos de extensión.\n• Se buscó potenciar modelos de gestión técnica y transferencia tecnológica, involucrando a toda la comunidad.\n• El congreso se desarrolló en modalidad bimodal, combinando participación presencial y virtual.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
@@ -11865,6 +12047,19 @@
       "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
       "publish_date": "2026-03-19T19:53:14.000Z",
       "teaser": "Lo clave en 20 segundos: El TEC recibe acreditación Platinum Class en educación superior.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
+      "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "featured": false
+    },
+    {
+      "slug": "administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
+      "title": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "category": "Costa Rica",
+      "bullets_20s": "• Administración de Empresas del TEC logró acreditación Platinum Class por EQUAA tras un riguroso proceso de evaluación.\n• Este reconocimiento internacional fortalece la proyección académica y profesional del TEC en el ámbito global.\n• La acreditación cubre 18 programas académicos, incluyendo administración y ciberseguridad empresarial, entre otros.\n• EQUAA evalúa y acredita instituciones de educación superior cumpliendo estándares globales de calidad académica.\n• La Escuela deberá presentar un informe intermedio en 2028 para demostrar el cumplimiento de criterios establecidos.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
+      "publish_date": "2026-03-19T19:53:14.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC obtiene acreditación Platinum Class, destacando su calidad académica internacional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
       "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
       "featured": false
@@ -15484,5 +15679,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-22T22:30:45.453Z"
+  "generated_at": "2026-03-22T23:30:45.862Z"
 }
