@@ -1,6 +1,84 @@
 {
   "news": [
     {
+      "slug": "el-habito-diario-que-protege-el-cerebro",
+      "title": "El hábito diario que protege el cerebro: neurólogo revela la clave para evitar fallas de memoria",
+      "category": "Ciencia",
+      "bullets_20s": "• El ejercicio físico se asocia con la mejora de la salud cerebral a largo plazo.\n• Expertos revelan que la actividad física diaria es crucial para la memoria.\n• Realizar deportes ayuda a reducir el riesgo de demencia y otras afecciones.\n• El papel de la actividad física en el bienestar general del cerebro es destacable.\n• Mantener un estilo de vida activo protege contra el deterioro cognitivo.\n• El neurocientífico enfatiza la importancia de la constancia en el ejercicio.",
+      "source_name": "El Tiempo  Colombia",
+      "source_url": "https://www.nacion.com/ciencia/salud/el-habito-diario-que-protege-el-cerebro-neurologo/YKB2Y45LPRGNNII6QJPQVJIL3I/story/",
+      "publish_date": "2026-03-23T22:26:07.000Z",
+      "teaser": "Lo clave en 20 segundos: El ejercicio diario potencia la memoria y protege el cerebro de fallas.",
+      "image_url": "https://www.nacion.com/resizer/v2/GAAJ4INOW5DVTGCPR64CA5KAFY.png?auth=080c838c8597ef7f852ab7d0ccf0496fa971e542a9d0201147dc04a66d887cc9&smart=true&width=1920&height=1080",
+      "description": "El ejercicio físico diario destaca como el hábito más efectivo para proteger el cerebro y prevenir fallas de memoria, según un neurólogo experto.",
+      "featured": false
+    },
+    {
+      "slug": "uber-apuesta-robotaxis-inversion",
+      "title": "Uber apuesta por los robotaxis: invierte $1.250 millones por unos 50.000 vehículos autónomos",
+      "category": "Tecnología",
+      "bullets_20s": "• Uber se está posicionando en el sector de vehículos autónomos con una gran inversión.\n• La empresa planea comprar 50.000 robotaxis para transformar la movilidad urbana.\n• La inversión total alcanza los $1.250 millones, enfocándose en tecnología avanzada.\n• El plan contempla la expansión a 25 ciudades importantes en los próximos años.\n• Se espera un despliegue efectivo de los robotaxis a partir del año 2028.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/tecnologia/uber-apuesta-por-los-robotaxis-planea-invertir/DENVNJVLTFE7TEPWMHPYVTE27Q/story/",
+      "publish_date": "2026-03-23T22:17:56.000Z",
+      "teaser": "Lo clave en 20 segundos: Uber invierte en robotaxis para revolucionar el transporte urbano.",
+      "image_url": "https://www.nacion.com/resizer/v2/EPLPN32D3JE7DDIQDSPRDIOJPA.jpg?auth=b161b71f381fd85ccf5dba6e670675963316ab819038a9fedb8ef846ffe37e33&smart=true&width=5392&height=3592",
+      "description": "Uber anuncia inversión de hasta $1.250 millones en Rivian y la compra de 50.000 robotaxis. El plan incluye expansión en 25 ciudades y despliegue a partir de 2028.",
+      "featured": false
+    },
+    {
+      "slug": "vientos-alisios-calor-costa-rica",
+      "title": "Vientos alisios y calor dominarán este martes en Costa Rica: máximas alcanzarán los 37,4 °C",
+      "category": "Costa Rica",
+      "bullets_20s": "• Este martes se prevé un clima caracterizado por vientos alisios predominantes en el país.\n• Las temperaturas máximas alcanzarán los 37,4 °C en varias regiones de Costa Rica.\n• El Instituto Meteorológico Nacional advierte de pocas lluvias en el horizonte inmediato.\n• Las ráfagas de viento podrían aportar alivio, pero el calor será intenso en muchas áreas.\n• Se recomienda a la población mantenerse hidratada y tomar precauciones contra el calor.",
+      "source_name": "Damián Arroyo C.",
+      "source_url": "https://www.nacion.com/sucesos/vientos-alisios-y-calor-dominaran-este-martes-en/4VHKWH6SXVGALLGM6HKGA7FOCA/story/",
+      "publish_date": "2026-03-23T22:13:34.000Z",
+      "teaser": "Lo clave en 20 segundos: Vientos alisios y altas temperaturas dominarán el clima de Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/WRHO5WXSJBD3RHVEH7EQ3GWC7U.JPG?auth=3ccbf337c1ed837691220e79817b54e9e155276f5c019e916c4ab903339a764e&smart=true&width=4000&height=2667",
+      "description": "Costa Rica tendrá este martes 24 de marzo un clima estable, con altas temperaturas, pocas lluvias y ráfagas de viento en varias regiones, según el IMN.",
+      "featured": false
+    },
+    {
+      "slug": "canas-habitos-aparicion-revertir",
+      "title": "Canas: los hábitos que pueden acelerar su aparición y qué tan posible es revertirlas",
+      "category": "Ciencia",
+      "bullets_20s": "• Las canas son un fenómeno natural que puede ser influenciado por diversos hábitos y factores.\n• El estrés tiene un impacto significativo en la aparición temprana de las canas en muchas personas.\n• Investigaciones sugieren que el tabaquismo podría estar relacionado con un aumento en las canas.\n• Una dieta equilibrada y nutritiva es clave para mantener la coloración del cabello durante más tiempo.\n• Los expertos discuten métodos para revertir la aparición de canas, aunque no son definitivos.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/ciencia/canas-estos-habitos-aceleran-su-aparicion-y-esto/MDJ7J3TXWRGCFGRSL7ICYSQZBU/story/",
+      "publish_date": "2026-03-23T22:05:56.000Z",
+      "teaser": "Lo clave en 20 segundos: descubre cómo hábitos diarios pueden influir en la aparición de canas.",
+      "image_url": "https://www.nacion.com/resizer/v2/O7ILDFWT7BB67MQCCSVISYR2AU.png?auth=8c89eba9a94b66cfa86c6b2be49155af08c9bbb9bdf8136b1f2bba030f610776&smart=true&width=1680&height=945",
+      "description": "Las canas pueden aparecer antes de lo esperado por factores como estrés, tabaquismo y nutrición. Expertos explican qué las causa y si es posible revertirlas.",
+      "featured": false
+    },
+    {
+      "slug": "michael-b-jordan-exige-18-millones-tras-ganar-el-oscar",
+      "title": "Michael B. Jordan exige $18 millones tras ganar el Óscar para protagonizar ‘remake’ de clásico de los años 80",
+      "category": "Mundo",
+      "bullets_20s": "• Michael B. Jordan se vuelve un actor cotizado tras su reciente reconocimiento en los Óscar.\n• El remake de 'Miami Vice' es uno de los proyectos más esperados del cine actual.\n• Las negociaciones de salario en Hollywood pueden complicarse en producciones de alto presupuesto.\n• Este tipo de remakes suele atraer tanto a fanáticos como a nuevos seguidores del cine.\n• Los clásicos de los 80 continúan inspirando a nuevas generaciones de cineastas y actores.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/viva/michael-b-jordan-exige-18-millones-tras-ganar-el/B4EIDH3OMZFTXL6DYX2R3TPUCA/story/",
+      "publish_date": "2026-03-23T22:02:07.000Z",
+      "teaser": "Lo clave en 20 segundos: Michael B. Jordan complica negociación por su alto salario tras ganar un Óscar.",
+      "image_url": "https://www.nacion.com/resizer/v2/Y4ROIDRHO5BKFMOBE5Z7X4A3WI.jpg?auth=6fda14fb81bc0fc7843e96d88e9a4ce24088c8d5b0cee399264ba3741e268051&smart=true&width=4212&height=2748",
+      "description": "Michael B. Jordan exige $18 millones tras ganar el Óscar y complica negociaciones del remake de 'Miami Vice', que podría gastar $50 millones en salarios.",
+      "featured": false
+    },
+    {
+      "slug": "un-avion-de-la-fuerza-aerea-colombiana-se-estrella",
+      "title": "Un avión de la Fuerza Aérea Colombiana con al menos 125 personas a bordo se estrella en el sur del país",
+      "category": "Mundo",
+      "bullets_20s": "• Un avión militar colombiano se accidentó en el sur del país con un alto número de pasajeros.\n• Las operaciones de rescate iniciaron rápidamente tras la confirmación del accidente aéreo.\n• Al menos 48 personas fueron evacuadas con éxito tras el incidente en el vuelo militar.\n• Las autoridades investigan las causas del accidente aéreo en la zona sur del país.\n• Este evento ha causado gran conmoción en la comunidad y entre las fuerzas armadas.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c1d9p0k67qro?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-23T21:39:39.000Z",
+      "teaser": "Lo clave en 20 segundos: Un avión colombiano se estrella, con múltiples evacuados y un intenso rescate.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3558/live/891ff9e0-26e0-11f1-908d-0f187797fc2f.jpg",
+      "description": "Una fuente militar cifra en al menos 48 el número de militares sobrevivientes y evacuados.",
+      "featured": false
+    },
+    {
       "slug": "relatora-onu-licencia-torturar-palestinos",
       "title": "Relatora de la ONU dice que comunidad internacional le dio a Israel ‘licencia para torturar palestinos’",
       "category": "Mundo",
@@ -524,6 +602,19 @@
       "slug": "trump-conversaciones-iran-guerra",
       "title": "Trump dice que está en conversaciones con Irán para poner fin a la guerra, pero el gobierno de Teherán lo niega",
       "category": "Mundo",
+      "bullets_20s": "• Trump ha manifestado su intención de dialogar con Irán para finalizar el conflicto actual.\n• El gobierno iraní rechaza las afirmaciones sobre las conversaciones, generando tensión.\n• La situación en el estrecho de Ormuz está bajo especial vigilancia internacional.\n• Analistas destacan que este es un cambio notable en la postura de EE.UU.\n• Las relaciones entre ambos países han sido complejas y conflictivas en el tiempo.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cy81ng24xqvo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-23T14:40:07.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump busca diálogo con Irán, pero Teherán lo desmiente.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/0402/live/817c9820-26ad-11f1-a79a-77e93010d956.jpg",
+      "description": "El anuncio del presidente de EE.UU. es el más conciliador desde que empezó la guerra. El sábado había amenazado con \"arrasar\" las centrales eléctricas iraníes si el estrecho de Ormuz no se abría en un plazo de 48 horas.",
+      "featured": false
+    },
+    {
+      "slug": "trump-conversaciones-iran-guerra",
+      "title": "Trump dice que está en conversaciones con Irán para poner fin a la guerra, pero el gobierno de Teherán lo niega",
+      "category": "Mundo",
       "bullets_20s": "• El presidente Trump menciona diálogos con Irán sobre la finalización del conflicto actual.\n• El gobierno iraní rechaza las afirmaciones de conversaciones pacíficas con Estados Unidos.\n• Se producen tensiones crecientes en la región, especialmente en el estrecho de Ormuz.\n• Trump había realizado amenazas significativas antes de su anuncio conciliador reciente.\n• Las relaciones entre ambos países han estado marcadas por múltiples desacuerdos históricos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cy81ng24xqvo?at_medium=RSS&at_campaign=rss",
@@ -755,6 +846,19 @@
       "featured": false
     },
     {
+      "slug": "el-cangrejo-azul-exportacion-venezuela",
+      "title": "El cangrejo azul, el manjar que Venezuela tuvo que dejar de exportar a EE.UU.: \"Mucha gente quedó en la calle\"",
+      "category": "Mundo",
+      "bullets_20s": "• El cangrejo azul ha sido importante para la economía de Venezuela durante muchos años.\n• Las restricciones legales han afectado a miles de trabajadores dependientes de esta industria.\n• Exportaciones que generaron millones ahora enfrentan un futuro incierto.\n• Se estima que la paralización dejó a muchas familias sin su sustento diario.\n• La situación ha generado debates sobre la sostenibilidad y el futuro de los recursos.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cy0kv92wzd5o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-23T12:09:11.000Z",
+      "teaser": "Lo clave en 20 segundos: El cangrejo azul venezolano enfrenta una crisis tras la prohibición de exportaciones a EE.UU.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/10b4/live/17ec2760-b8fb-11f0-aa13-0b0479f6f42a.jpg",
+      "description": "Las exportaciones del cangrejo azul de Venezuela a Estados Unidos sumaron varias decenas de millones de dólares en los últimos años, pero una norma legal paralizó la industria.",
+      "featured": false
+    },
+    {
       "slug": "el-cangrejo-azul-macarena-venezuela-exportar-eeuu",
       "title": "El cangrejo azul, el manjar que Venezuela tuvo que dejar de exportar a EE.UU.: \"Mucha gente quedó en la calle\"",
       "category": "Mundo",
@@ -958,6 +1062,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/cy5141exkkeo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-23T11:32:26.000Z",
       "teaser": "Lo clave en 20 segundos: un país latinoamericano alcanza el top de felicidad mundial.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/f916/live/5b357eb0-26b3-11f1-b297-95b0a0a8331e.jpg",
+      "description": "Confianza y sentido de comunidad. Los residentes de cuatro países nórdicos y uno de América Latina explican como es el día a día en los cinco países que lideran la lista del Índice Global de Felicidad en 2026.",
+      "featured": false
+    },
+    {
+      "slug": "la-lista-de-los-5-paises-mas-felices-del-mundo",
+      "title": "La lista de los 5 países más felices del mundo en la que por primera vez hay uno de América Latina",
+      "category": "Mundo",
+      "bullets_20s": "• La felicidad se mide a través del Índice Global de Felicidad, que evalúa varios factores.\n• Cuatro países nórdicos destacan por su cohesión social y bienestar en la comunidad.\n• Un país latinoamericano ha entrado en la lista, rompiendo la exclusividad de Europa.\n• El día a día en estos países refleja altos niveles de confianza entre sus ciudadanos.\n• El sentido de comunidad es fundamental en la percepción de felicidad de los residentes.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cy5141exkkeo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-23T11:32:26.000Z",
+      "teaser": "Lo clave en 20 segundos: Un país de América Latina se une a la lista de los más felices del mundo.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/f916/live/5b357eb0-26b3-11f1-b297-95b0a0a8331e.jpg",
       "description": "Confianza y sentido de comunidad. Los residentes de cuatro países nórdicos y uno de América Latina explican como es el día a día en los cinco países que lideran la lista del Índice Global de Felicidad en 2026.",
       "featured": false
@@ -1765,6 +1882,19 @@
       "publish_date": "2026-03-23T02:32:26.000Z",
       "teaser": "Lo clave en 20 segundos: La guerra en Irán beneficia a algunos países y perjudica a otros significativamente.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/5394/live/d432c9d0-2483-11f1-a673-e3b236a15253.jpg",
+      "description": "Mientras muchos países se enfrentan al riesgo de verse duramente golpeados por el aumento de los precios del combustible, hay quienes sacan ventaja.",
+      "featured": false
+    },
+    {
+      "slug": "noruega-canada-rusia-beneficiados-guerra-iran",
+      "title": "Por qué Noruega, Canadá y Rusia son los grandes beneficiados de la guerra en Irán (y cuáles son los más perjudicados)",
+      "category": "Mundo",
+      "bullets_20s": "• Noruega, Canadá y Rusia se benefician de la guerra en Irán debido al incremento de los precios del petróleo.\n• El conflicto ha generado tensiones en el mercado energético mundial, favoreciendo a estos países productores.\n• Los costos de combustible siguen aumentando, afectando a muchos países que dependen de importaciones.\n• A pesar de las consecuencias negativas, algunos países aprovechan la situación para fortalecer sus economías.\n• El análisis revela cómo los beneficios económicos se distribuyen de manera desigual en el contexto global.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cvg45zedm2po?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-23T02:32:26.000Z",
+      "teaser": "Lo clave en 20 segundos: Noruega, Canadá y Rusia se benefician económicamente por el conflicto en Irán.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/be23/live/e474ec40-26b5-11f1-a79a-77e93010d956.jpg",
       "description": "Mientras muchos países se enfrentan al riesgo de verse duramente golpeados por el aumento de los precios del combustible, hay quienes sacan ventaja.",
       "featured": false
     },
@@ -9286,6 +9416,19 @@
       "slug": "se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
       "title": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
       "category": "Costa Rica",
+      "bullets_20s": "• Dwane James se graduó tras un camino complicado entre estudios y trabajo en Limón.\n• La graduación se realizó en el Centro Académico de Limón del TEC con gran emoción.\n• James es reconocido como fundador del movimiento estudiantil en su institución educativa.\n• La rectora del TEC destacó la importancia del conocimiento al servicio de la sociedad.\n• 778 estudiantes se graduaron durante el primer semestre de 2026 en el TEC.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "publish_date": "2026-03-20T20:31:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Dwane James se graduó del TEC, un paso importante para la educación en Limón.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/acto-graduacion-limon_20_03_2026paquesada-76.jpg.webp?itok=vQb4z-Ny",
+      "description": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
+      "featured": false
+    },
+    {
+      "slug": "se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "title": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
+      "category": "Costa Rica",
       "bullets_20s": "• Dwane James se graduó en Ingeniería en Producción Industrial en el Centro Académico de Limón.\n• Este evento de graduación celebró la dedicación y esfuerzo de los estudiantes locales.\n• La rectora María Estrada Sánchez enfatizó la responsabilidad social de los graduados.\n• 20 nuevos profesionales recibieron títulos en diferentes carreras en este acto solemne.\n• La ceremonia fue marcada por emociones, abrazos y reconocimientos de logros académicos.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
@@ -9525,6 +9668,19 @@
       "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
       "publish_date": "2026-03-20T20:24:45.000Z",
       "teaser": "Lo clave en 20 segundos: Convenio fortalecerá la ingeniería de transporte en Costa Rica.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "featured": false
+    },
+    {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "category": "Costa Rica",
+      "bullets_20s": "• El convenio busca fomentar la colaboración entre el Instituto Tecnológico y la Asociación de Ingenieros.\n• Ambas instituciones trabajarán para mejorar la educación y la formación profesional en el país.\n• Se prevé la creación de proyectos conjuntos que beneficien a la sociedad costarricense.\n• El acuerdo fortalecerá la investigación y el desarrollo en ingeniería de transporte.\n• Este tipo de convenios son esenciales para el avance de la tecnología en Costa Rica.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "publish_date": "2026-03-20T20:24:45.000Z",
+      "teaser": "Lo clave en 20 segundos: nuevo convenio para mejorar la ingeniería de transporte en Costa Rica.",
       "image_url": "",
       "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
       "featured": false
@@ -11249,6 +11405,19 @@
       "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
       "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
       "category": "Costa Rica",
+      "bullets_20s": "• El Instituto Tecnológico de Costa Rica firma acuerdo con ILISA para colaboración educativa.\n• El convenio fortalecerá la formación profesional de estudiantes en tecnologías emergentes.\n• Ambas instituciones buscan desarrollar proyectos conjuntos en investigación y desarrollo.\n• El acuerdo incluye programas de capacitación y formación continua para docentes.\n• La colaboración espera impactar positivamente en el sector educativo nacional.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
+      "publish_date": "2026-03-20T20:16:52.000Z",
+      "teaser": "Lo clave en 20 segundos: convenio educativo entre instituciones para impulsar la tecnificación.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "featured": false
+    },
+    {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "category": "Costa Rica",
       "bullets_20s": "• El Instituto Tecnológico de Costa Rica fortalece la educación mediante alianzas estratégicas.\n• ILISA se suma a esta colaboración para el desarrollo educativo en la región.\n• El convenio busca impulsar la formación profesional de estudiantes costarricenses.\n• Se espera mejorar la calidad académica a través de la cooperación mutua.\n• Los beneficios se extenderán a diversas áreas del conocimiento y la investigación.",
       "source_name": "mmata",
       "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
@@ -11633,6 +11802,19 @@
       "teaser": "Lo clave en 20 segundos: Mette-Marit habla sobre su relación con Epstein y los efectos en su vida.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d7b4/live/059b7740-2459-11f1-a89a-5b5e5d061970.jpg",
       "description": "La princesa heredera Mette-Marit declaró a la televisión noruega que desearía no haber conocido nunca al fallecido delincuente sexual.",
+      "featured": false
+    },
+    {
+      "slug": "docentes-region-huetar-norte-congreso-ciencias",
+      "title": "Docentes de la Región Huetar Norte participan en XII Congreso Costarricense de Enseñanza de las Ciencias",
+      "category": "Costa Rica",
+      "bullets_20s": "• Educadores se actualizan en el congreso de Enseñanza de Ciencias en San Carlos, Costa Rica.\n• El evento promueve la pedagogía y las metodologías dinámicas en la enseñanza de las ciencias.\n• Docentes destacan la importancia de compartir experiencias para resolver desafíos comunes.\n• La actividad se enfocó en el lema: 'Educación científica para transformar el futuro'.\n• Participaron instituciones como el TEC, UCR, UNA, UNED y UTN en la organización del evento.\n• Talleres y conferencias se llevaron a cabo, promoviendo aprendizaje y actualización profesional.\n• Se busca fortalecer la colaboración entre instituciones educativas y la comunidad docente.\n• La descentralización del conocimiento se enfatiza acercando eventos a zonas rurales.\n• Este congreso responde a la necesidad de adaptar la educación a demandas del país.\n• La enseñanza de ciencias busca desarrollar pensamiento crítico y creativo en estudiantes.",
+      "source_name": "tkguzman",
+      "source_url": "http://www.tec.ac.cr/docentes-region-huetar-norte-participan-xii-congreso-costarricense-ensenanza-ciencias",
+      "publish_date": "2026-03-20T16:22:36.000Z",
+      "teaser": "Lo clave en 20 segundos: educadores de la Región Huetar Norte se actualizan en enseñanza científica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/multimedia-11.jpg.webp?itok=plKFuIlt",
+      "description": "Docentes de la Región Huetar Norte participan en XII Congreso Costarricense de Enseñanza de las Ciencias",
       "featured": false
     },
     {
@@ -14699,6 +14881,19 @@
       "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
       "publish_date": "2026-03-19T22:27:42.000Z",
       "teaser": "Lo clave en 20 segundos: El V Congreso del TEC culminó con 14 acuerdos importantes.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/v-congreso-institucional_19-marzo-2.jpg.webp?itok=j-YOCl75",
+      "description": "V Congreso Institucional cierra con 14 acuerdos",
+      "featured": false
+    },
+    {
+      "slug": "v-congreso-institucional-cierra-14-acuerdos",
+      "title": "V Congreso Institucional cierra con 14 acuerdos",
+      "category": "Costa Rica",
+      "bullets_20s": "• El V Congreso Institucional se llevó a cabo en formato bimodal, con sesiones presenciales y virtuales.\n• Se firmaron 14 acuerdos en total, buscando fortalecer la extensión universitaria y la gestión técnica.\n• Se priorizó la creación de modelos que mejoren la transferencia tecnológica y la formación técnica.\n• Las ponencias aprobadas abordan temas de inclusividad, sostenibilidad y la efectividad de los programas académicos.\n• La comunidad del TEC se compromete a implementar los acuerdos alcanzados durante el congreso.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
+      "publish_date": "2026-03-19T22:27:42.000Z",
+      "teaser": "Lo clave en 20 segundos: Se cierran 14 acuerdos en el V Congreso Institucional del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/v-congreso-institucional_19-marzo-2.jpg.webp?itok=j-YOCl75",
       "description": "V Congreso Institucional cierra con 14 acuerdos",
       "featured": false
@@ -20138,5 +20333,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-23T22:30:47.978Z"
+  "generated_at": "2026-03-23T23:30:48.120Z"
 }
