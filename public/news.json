@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "viceministro-de-seguridad-confirma-corrupcion",
+      "title": "Viceministro de Seguridad confirma corrupción policial en Crucitas y Conchudita: algunos oficiales reciben dinero a cambio de dejar pasar a los coligalleros",
+      "category": "Costa Rica",
+      "bullets_20s": "• Viceministro de Seguridad revela corrupción relacionada con la extracción de oro en Crucitas.\n• Las acusaciones involucran a oficiales de policía en operaciones de seguridad pública.\n• Se menciona la entrega de dinero a cambio de protección a coligalleros.\n• Los casos de corrupción afectan la confianza en la institución policial.\n• Las autoridades incrementarán la vigilancia en las zonas afectadas por esta actividad.",
+      "source_name": "Christian Montero",
+      "source_url": "https://www.nacion.com/sucesos/viceministro-de-seguridad-confirma-corrupcion/TB7YEGW22BGPNHOD5RV5WYQ6RU/story/",
+      "publish_date": "2026-03-23T11:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: corrupción policial en Crucitas afectando operativos de seguridad.",
+      "image_url": "https://www.nacion.com/resizer/v2/2IUTNLHHLNETHG53M4KGEU4XBQ.jpeg?auth=25bbfee6762d25b296f1992edb2d44847f15f01fc8af3addc449d5bf859b2043&smart=true&width=1600&height=1200",
+      "description": "El viceministro de Seguridad, Erick Lacayo, confirmó que han detectado casos de corrupción policial en los operativos contra la extracción ilegal de oro en Crucitas y Conchudita. Algunos oficiales reciben dinero a cambio de dejar pasar a los coligalleros.",
+      "featured": false
+    },
+    {
+      "slug": "recaudacion-del-iva-cayo-por-primera-vez-en-una-decada",
+      "title": "Recaudación del IVA cayó por primera vez en una década. ¿Qué pasó? Hacienda revela sectores con fuertes bajas",
+      "category": "Costa Rica",
+      "bullets_20s": "• La recaudación del IVA ha experimentado una baja significativa en los últimos años en Costa Rica.\n• Hacienda reporta que solo dos sectores económicos mostraron ingresos positivos por IVA en 2025.\n• Expertos analizan las posibles causas detrás de esta caída en la recaudación del impuesto.\n• La crisis económica ha impactado negativamente en varias áreas productivas del país.\n• Se espera que el gobierno implemente estrategias para mejorar la situación tributaria.",
+      "source_name": "Mónica Cerdas Gómez",
+      "source_url": "https://www.nacion.com/economia/recaudacion-del-iva-cayo-por-primera-vez-en-una/ACIVM6GD7VCMHOTOXHPD6ABV3Y/story/",
+      "publish_date": "2026-03-23T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La recaudación del IVA cae por primera vez en diez años, revelando sectores económicos afectados.",
+      "image_url": "https://www.nacion.com/resizer/v2/RZWDTUT5KJCBRN6OUN36UWK65A.jpeg?auth=5a519e4612d981211c3b152a9bcbaef3ce12b0a8ccb75ee20665ecc342ae5fa1&smart=true&width=3182&height=2121",
+      "description": "Solo en dos de 16 actividades económicas hubo un incremento en los ingresos hacendarios por el IVA interno. Conozca los factores detrás del resultado de 2025",
+      "featured": false
+    },
+    {
       "slug": "motociclista-se-dirigia-a-casa-de-su-madre-cuando",
       "title": "Motociclista se dirigía a casa de su madre cuando murió en falso adelantamiento",
       "category": "Costa Rica",
@@ -92,6 +118,19 @@
       "featured": false
     },
     {
+      "slug": "motociclista-se-dirigia-a-casa-de-su-madre-cuando",
+      "title": "Motociclista se dirigía a casa de su madre cuando murió en falso adelantamiento",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un motociclista joven perdió la vida tras un accidente en La Fortuna, San Carlos.\n• El incidente ocurrió cuando intentó adelantar a un automóvil en la carretera.\n• El motociclista regresaba de una visita a su madre en la zona.\n• Las autoridades están investigando las circunstancias que llevaron al percance.\n• Familiares y amigos lamentan la trágica pérdida del joven.",
+      "source_name": "Sebastián Sánchez, Edgar Chinchilla",
+      "source_url": "https://www.nacion.com/sucesos/motociclista-se-dirigia-a-casa-de-su-madre-cuando/DOTTJGX2GBGYDLXZW7DATZZMSA/story/",
+      "publish_date": "2026-03-23T03:51:22.000Z",
+      "teaser": "Lo clave en 20 segundos: Un joven motociclista fallece tras un choque en San Carlos, mientras regresaba a casa.",
+      "image_url": "https://www.nacion.com/resizer/v2/IU54P3KFMZB2FHVEI23C6BGMM4.jpeg?auth=4d752496d6aa48a6df9303c07814892fb666b3a45d0e013607f8cdf00fe23354&smart=true&width=1280&height=960",
+      "description": "Un joven motociclista murió la noche de este domingo en La Fortuna, en San Carlos, tras intentar adelantar cuando regresaba de comer y colisionar con un automóvil. El OIJ investiga las causas del percance.",
+      "featured": false
+    },
+    {
       "slug": "comentarista-de-radio-columbia-confesion-club-europa",
       "title": "Comentarista de Radio Columbia hizo confesión que pocos esperaban: Lo quiso un club gigante de Europa",
       "category": "Mundo",
@@ -113,6 +152,19 @@
       "source_url": "https://www.nacion.com/puro-deporte/futbol/comentarista-de-radio-columbia-hizo-confesion-que/3W7GA7LL2JCOVPGW6RK3VAYVVA/story/",
       "publish_date": "2026-03-23T03:36:38.000Z",
       "teaser": "Lo clave en 20 segundos: La inesperada revelación de un comentarista de fútbol sorprende a muchos.",
+      "image_url": "https://www.nacion.com/resizer/v2/77KUT2CD2FDPXNGA43CKYC2TYM.jpg?auth=1d2ac04f237549542712af00b0e0fb69f9a5c49573b1eb987661e2d361a9a845&smart=true&width=2996&height=2000",
+      "description": "El exjugador y analista de Columbia aseguró que en su época de juvenil lo estuvo siguiendo uno de los clubes más fuertes de Europa.",
+      "featured": false
+    },
+    {
+      "slug": "comentarista-de-radio-columbia-hizo-confesion-que",
+      "title": "Comentarista de Radio Columbia hizo confesión que pocos esperaban: Lo quiso un club gigante de Europa",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un comentarista de Radio Columbia revela un interés inesperado de un club europeo.\n• La confesión sorprende a los seguidores de la radio y del fútbol costarricense.\n• El analista menciona épocas pasadas en el fútbol juvenil y sus aspiraciones.\n• Se discuten las implicaciones de este interés en su carrera futbolística.\n• Los oyentes comentan sobre la noticia en redes sociales y otras plataformas.",
+      "source_name": "Esteban Valverde",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/comentarista-de-radio-columbia-hizo-confesion-que/3W7GA7LL2JCOVPGW6RK3VAYVVA/story/",
+      "publish_date": "2026-03-23T03:36:38.000Z",
+      "teaser": "Lo clave en 20 segundos: un comentarista revela interés de club europeo en su juventud.",
       "image_url": "https://www.nacion.com/resizer/v2/77KUT2CD2FDPXNGA43CKYC2TYM.jpg?auth=1d2ac04f237549542712af00b0e0fb69f9a5c49573b1eb987661e2d361a9a845&smart=true&width=2996&height=2000",
       "description": "El exjugador y analista de Columbia aseguró que en su época de juvenil lo estuvo siguiendo uno de los clubes más fuertes de Europa.",
       "featured": false
@@ -217,6 +269,19 @@
       "source_url": "https://www.nacion.com/el-pais/loteria-nacional-de-costa-rica-lista-completa-de/MUCJLJOJIJHRJJYFYAEJ2QSXY4/story/",
       "publish_date": "2026-03-23T03:22:55.000Z",
       "teaser": "Lo clave en 20 segundos: Resultados del sorteo N.º 4.894 de la Lotería Nacional en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/X4XLFQI4DVGARBZQWYV62MH67E.jpeg?auth=509d626f9a6027ada8262ef3ac1d684502b20f3539da9f3c3da5960365391a85&smart=true&width=1600&height=898",
+      "description": "Revise aquí todos los números ganadores y premios del sorteo ordinario N.° 4.894 de la Lotería Nacional de este 22 de marzo.",
+      "featured": false
+    },
+    {
+      "slug": "loteria-nacional-de-costa-rica-lista-completa-de-ganadores-y-premios",
+      "title": "Lotería Nacional de Costa Rica: lista completa de ganadores y premios del sorteo N.º 4.894 de este domingo 22 de marzo",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Lotería Nacional de Costa Rica ha realizado su sorteo numero 4.894 con ganadores importantes.\n• Este sorteo es esperado por muchos costarricenses que anhelan premios significativos.\n• Verifique la lista completa de números ganadores del sorteo del 22 de marzo.\n• El evento se celebró el domingo, un día que atrae numerosos participantes.\n• Revise si su número fue uno de los afortunados ganadores del sorteo.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/el-pais/loteria-nacional-de-costa-rica-lista-completa-de/MUCJLJOJIJHRJJYFYAEJ2QSXY4/story/",
+      "publish_date": "2026-03-23T03:22:55.000Z",
+      "teaser": "Lo clave en 20 segundos: Números ganadores del sorteo N.º 4.894 de la Lotería Nacional en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/X4XLFQI4DVGARBZQWYV62MH67E.jpeg?auth=509d626f9a6027ada8262ef3ac1d684502b20f3539da9f3c3da5960365391a85&smart=true&width=1600&height=898",
       "description": "Revise aquí todos los números ganadores y premios del sorteo ordinario N.° 4.894 de la Lotería Nacional de este 22 de marzo.",
       "featured": false
@@ -568,6 +633,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/cvg45zedm2po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-23T02:32:26.000Z",
       "teaser": "Lo clave en 20 segundos: Noruega, Canadá y Rusia se benefician del aumento de precios en medio del conflicto.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/5394/live/d432c9d0-2483-11f1-a673-e3b236a15253.jpg",
+      "description": "Mientras muchos países se enfrentan al riesgo de verse duramente golpeados por el aumento de los precios del combustible, hay quienes sacan ventaja.",
+      "featured": false
+    },
+    {
+      "slug": "por-que-noruega-canada-y-rusia-son-los-grandes-beneficiados-de-la-guerra-en-iran",
+      "title": "Por qué Noruega, Canadá y Rusia son los grandes beneficiados de la guerra en Irán (y cuáles son los más perjudicados)",
+      "category": "Mundo",
+      "bullets_20s": "• La guerra en Irán ha alterado significativamente el mercado global de combustibles.\n• Noruega, Canadá y Rusia se benefician del aumento en los precios de petróleo.\n• Muchos países enfrentan riesgos económicos debido a la crisis energética actual.\n• El conflicto ha generado tensiones en las relaciones internacionales y el comercio.\n• Las decisiones políticas de estas naciones influencian el suministro energético global.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cvg45zedm2po?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-23T02:32:26.000Z",
+      "teaser": "Lo clave en 20 segundos: Noruega, Canadá y Rusia se benefician de la crisis en Irán mientras otros sufren.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/5394/live/d432c9d0-2483-11f1-a673-e3b236a15253.jpg",
       "description": "Mientras muchos países se enfrentan al riesgo de verse duramente golpeados por el aumento de los precios del combustible, hay quienes sacan ventaja.",
       "featured": false
@@ -945,6 +1023,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/c0q9dejgdkpo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-22T22:27:32.000Z",
       "teaser": "Lo clave en 20 segundos: caos en aeropuertos de EE.UU. por decisiones políticas recientes.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/86e2/live/58e14400-263b-11f1-ab49-d33bf9f59256.jpg",
+      "description": "Los pasajeros en varios de los aeropuertos más grandes de EE.UU. han tenido que hacer colas de varias horas en los controles de seguridad por una disputa política en Washington.",
+      "featured": false
+    },
+    {
+      "slug": "caos-aeropuertos-eeuu-trump-ice",
+      "title": "Por qué hay caos en los aeropuertos de EE.UU. (y la polémica decisión de Trump de enviar a los agentes migratorios de ICE)",
+      "category": "Mundo",
+      "bullets_20s": "• Las largas filas en los aeropuertos estadounidenses se deben a decisiones políticas recientes.\n• La polémica decisión de Trump incluye el envío de agentes migratorios a los aeropuertos.\n• Los pasajeros enfrentan demoras significativas en los controles de seguridad.\n• La situación ha generado críticas por afectar la experiencia de viaje en EE.UU.\n• Políticos y analistas discuten las implicaciones de esta medida en la seguridad.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c0q9dejgdkpo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-22T22:27:32.000Z",
+      "teaser": "Lo clave en 20 segundos: Caos en aeropuertos de EE.UU. por decisiones políticas y agentes migratorios.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/86e2/live/58e14400-263b-11f1-ab49-d33bf9f59256.jpg",
       "description": "Los pasajeros en varios de los aeropuertos más grandes de EE.UU. han tenido que hacer colas de varias horas en los controles de seguridad por una disputa política en Washington.",
       "featured": false
@@ -1439,6 +1530,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/czdnnd422y2o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-22T17:43:05.000Z",
       "teaser": "Lo clave en 20 segundos: un banquero que revolucionó el acceso financiero para inmigrantes.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4810/live/4c2bfab0-1417-11f1-9120-a910fc22c6ac.jpg",
+      "description": "Rompió las reglas de la banca tradicional y abrió las puertas a millones de personas que antes no tenían acceso a servicios financieros.",
+      "featured": false
+    },
+    {
+      "slug": "amadeo-giannini-banquero-visionario",
+      "title": "Amadeo Giannini, el visionario banquero que apostó por inmigrantes en EE.UU. y creó el banco más grande del mundo",
+      "category": "Mundo",
+      "bullets_20s": "• Amadeo Giannini transformó la banca al enfocarse en inmigrantes y grupos marginados.\n• El banco que fundó, Bank of America, creció hasta convertirse en el más grande de EE.UU.\n• Giannini creía en la inclusión financiera, rompiendo barreras de acceso a servicios.\n• Su enfoque innovador en préstamos cambió las normas del sector financiero de la época.\n• Promovió una banca que priorizaba al cliente común sobre las élites financieras.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/czdnnd422y2o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-22T17:43:05.000Z",
+      "teaser": "Lo clave en 20 segundos: Giannini revolucionó la banca para inmigrantes en EE.UU. y creó un gigante financiero.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4810/live/4c2bfab0-1417-11f1-9120-a910fc22c6ac.jpg",
       "description": "Rompió las reglas de la banca tradicional y abrió las puertas a millones de personas que antes no tenían acceso a servicios financieros.",
       "featured": false
@@ -2024,6 +2128,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/cvgpl0z6w9go?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-22T12:53:11.000Z",
       "teaser": "Lo clave en 20 segundos: Un hallazgo sobre la luz más antigua observada y su futuro en el cosmos.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/0b8e/live/65b2c640-ed10-11f0-ad80-d7f736b055b6.jpg",
+      "description": "La luz que detectan los astrónomos es inimaginablemente antigua: ha viajado por miles de millones de años por el Universo. Pero,¿qué será de ella en un futuro lejano? ¿Cuánto tiempo dura la luz?",
+      "featured": false
+    },
+    {
+      "slug": "cual-es-la-luz-mas-antigua-que-hemos-observado",
+      "title": "Cuál es la luz más antigua que hemos observado (y ¿será que alguna vez se apaga?)",
+      "category": "Ciencia",
+      "bullets_20s": "• Los astrónomos han observado luz que viajó por miles de millones de años luz.\n• Esta luz ofrece información valiosa sobre la formación del universo.\n• Los estudios sobre el tiempo de vida de la luz son fascinantes.\n• El futuro de esta luz es incierto y plantea muchas preguntas.\n• Entender cómo se comporta la luz en el espacio puede cambiar nuestra visión del cosmos.\n• La investigación astrofísica sigue avanzando en la comprensión de la luz antigua.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cvgpl0z6w9go?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-22T12:53:11.000Z",
+      "teaser": "Lo clave en 20 segundos: La luz más antigua revela secretos sobre el cosmos y su duración es objeto de estudio constante.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/0b8e/live/65b2c640-ed10-11f0-ad80-d7f736b055b6.jpg",
       "description": "La luz que detectan los astrónomos es inimaginablemente antigua: ha viajado por miles de millones de años por el Universo. Pero,¿qué será de ella en un futuro lejano? ¿Cuánto tiempo dura la luz?",
       "featured": false
@@ -2817,6 +2934,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/cp84n7lyl88o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-22T10:19:08.000Z",
       "teaser": "Lo clave en 20 segundos: supermercados de Finlandia son cruciales en defensa nacional ante crisis.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e0dc/live/89a6fa90-22b6-11f1-934f-036468834728.jpg",
+      "description": "Todas las cadenas de supermercados tienen planes detallados para seguir en el caso de que la nación entre en guerra.",
+      "featured": false
+    },
+    {
+      "slug": "como-los-supermercados-de-finlandia-se-hicieron-fundamentales-para-la-defensa-del-pais",
+      "title": "Cómo los supermercados de Finlandia se hicieron fundamentales para la defensa del país",
+      "category": "Mundo",
+      "bullets_20s": "• Los supermercados en Finlandia tienen estrategias para mantener la operación en tiempos de crisis.\n• El abastecimiento de alimentos es crucial para la seguridad nacional en casos de guerra.\n• Las cadenas de supermercados trabajan en conjunto con el gobierno para asegurarse de su funcionalidad.\n• Planes de contingencia incluyen el almacenamiento estratégico de productos esenciales.\n• La infraestructura de los supermercados es clave para la resiliencia del país.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cp84n7lyl88o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-22T10:19:08.000Z",
+      "teaser": "Lo clave en 20 segundos: Supermercados en Finlandia, esenciales para la defensa del país en crisis.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e0dc/live/89a6fa90-22b6-11f1-934f-036468834728.jpg",
       "description": "Todas las cadenas de supermercados tienen planes detallados para seguir en el caso de que la nación entre en guerra.",
       "featured": false
@@ -7193,6 +7323,19 @@
       "slug": "se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
       "title": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
       "category": "Costa Rica",
+      "bullets_20s": "• Dwane James se graduó en Ingeniería en Producción Industrial en el Centro Académico de Limón.\n• El TEC abrió las puertas del CAL y ofreció nuevas oportunidades para los estudiantes de la región.\n• La ceremonia de graduación estuvo llena de aplausos y reconocimientos a los graduados.\n• La rectora del TEC destacó la importancia del compromiso con la sociedad entre los graduados.\n• El director del CAL resaltó la resiliencia de los estudiantes ante los desafíos de la pandemia.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "publish_date": "2026-03-20T20:31:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Dwane James se graduó del TEC, destacando su papel en el movimiento estudiantil.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/acto-graduacion-limon_20_03_2026paquesada-76.jpg.webp?itok=vQb4z-Ny",
+      "description": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
+      "featured": false
+    },
+    {
+      "slug": "se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "title": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
+      "category": "Costa Rica",
       "bullets_20s": "• Dwane James se graduó en Ingeniería en Producción Industrial en el Centro Académico de Limón.\n• El TEC abrió el Centro Académico en Limón en 2014, transformando opciones educativas locales.\n• La ceremonia de graduación estuvo llena de aplausos y emociones entre graduandos y sus familias.\n• Dwane es reconocido como fundador del movimiento estudiantil en la sede, luchando por mejoras.\n• La rectora del TEC habló sobre la responsabilidad de los graduados hacia la sociedad.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
@@ -8220,6 +8363,19 @@
       "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
       "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
       "category": "Costa Rica",
+      "bullets_20s": "• El convenio busca potenciar el desarrollo de la ingeniería de transporte en el país.\n• Ambas instituciones colaborarán en investigaciones y proyectos conjuntos.\n• Se espera que el acuerdo beneficie a estudiantes y profesionales del área.\n• Se promoverán iniciativas de innovación tecnológica en el ámbito del transporte.\n• El convenio refuerza el compromiso con la educación y el desarrollo sostenible.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "publish_date": "2026-03-20T20:24:45.000Z",
+      "teaser": "Lo clave en 20 segundos: convenio para fortalecer la ingeniería de transporte en Costa Rica.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "featured": false
+    },
+    {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "category": "Costa Rica",
       "bullets_20s": "• Se establece un convenio entre el Instituto Tecnológico de Costa Rica y una asociación local.\n• El objetivo principal es fortalecer la colaboración en el área de ingeniería de transporte.\n• Se busca promover la investigación y desarrollo en infraestructura y movilidad.\n• Las instituciones trabajarán juntas en proyectos y programas educativos conjuntos.\n• Este convenio podría beneficiar a estudiantes de ingeniería y profesionales del sector.",
       "source_name": "mmata",
       "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
@@ -9148,6 +9304,19 @@
       "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
       "publish_date": "2026-03-20T20:16:52.000Z",
       "teaser": "Lo clave en 20 segundos: Convenio educativo entre instituciones costarricenses.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "featured": false
+    },
+    {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "category": "Costa Rica",
+      "bullets_20s": "• El convenio forma parte de las acciones estratégicas del Instituto Tecnológico de Costa Rica.\n• Ilisa busca fomentar el desarrollo educativo y tecnológico en la región centroamericana.\n• Colaboración entre instituciones educativas fortalece la formación profesional de los estudiantes.\n• El acuerdo incluye programas de investigación y capacitación en áreas tecnológicas.\n• Ambas instituciones promoverán intercambios académicos y actividades conjuntas en el futuro.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
+      "publish_date": "2026-03-20T20:16:52.000Z",
+      "teaser": "Lo clave en 20 segundos: un convenio que fortalece la educación técnica en Costa Rica.",
       "image_url": "",
       "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
       "featured": false
@@ -12848,6 +13017,19 @@
       "slug": "v-congreso-institucional-cierra-14-acuerdos",
       "title": "V Congreso Institucional cierra con 14 acuerdos",
       "category": "Costa Rica",
+      "bullets_20s": "• El congreso se realizó en formato bimodal, integrando la presencia y conexión virtual de participantes.\n• Se desarrollaron ponencias que buscan fortalecer la extensión universitaria en Costa Rica.\n• Se aprobaron 14 acuerdos, destacando la creación de un Modelo de Gestión de Programas Técnicos.\n• Una de las propuestas incluye la formación de una Vicerrectoría de Extensión para avanzar en gestión.\n• Los acuerdos contemplan la mejora de procesos y la comunicación entre todas las partes involucradas.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
+      "publish_date": "2026-03-19T22:27:42.000Z",
+      "teaser": "Lo clave en 20 segundos: Se cierran 14 acuerdos en el V Congreso Institucional del TEC.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/v-congreso-institucional_19-marzo-2.jpg.webp?itok=j-YOCl75",
+      "description": "V Congreso Institucional cierra con 14 acuerdos",
+      "featured": false
+    },
+    {
+      "slug": "v-congreso-institucional-cierra-14-acuerdos",
+      "title": "V Congreso Institucional cierra con 14 acuerdos",
+      "category": "Costa Rica",
       "bullets_20s": "• El V Congreso Institucional se realizó en modalidad bimodal, con participación física y virtual.\n• Se firmaron 14 acuerdos en total, fortaleciendo la extensión universitaria del TEC.\n• Uno de los acuerdos incluye la creación de una nueva comisión para la Vicerrectoría de Extensión.\n• Las ponencias presentadas variaron en propuestas, desde modelos de gestión hasta tecnología.\n• El Consejo Institucional tomará decisiones sobre los acuerdos presentados en el congreso.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
@@ -14855,6 +15037,19 @@
       "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
       "publish_date": "2026-03-19T19:53:14.000Z",
       "teaser": "Lo clave en 20 segundos: El TEC logra acreditación internacional Platinum Class, destacando su calidad académica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
+      "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "featured": false
+    },
+    {
+      "slug": "administracion-empresas-tec-acreditacion-platinum-class",
+      "title": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC recibió la acreditación Platinum Class, una distinción internacional por su calidad académica.\n• EQUAA evaluó y validó la calidad de los programas de la Escuela de Administración del TEC.\n• Este reconocimiento abre nuevas oportunidades para los graduados en el ámbito internacional.\n• La acreditación incluye 18 programas académicos en diferentes áreas de la administración.\n• El proceso de evaluación fue voluntario y se realizó mediante autoevaluación y revisión externa.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/administracion-empresas-tec-obtiene-acreditacion-internacional-platinum-class",
+      "publish_date": "2026-03-19T19:53:14.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC recibe acreditación internacional Platinum Class por su excelencia académica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/escuela-administracion-empresas.jpg.webp?itok=TxkhI5eG",
       "description": "Administración de Empresas del TEC obtiene acreditación internacional Platinum Class",
       "featured": false
@@ -18006,5 +18201,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-23T11:30:44.937Z"
+  "generated_at": "2026-03-23T12:30:47.184Z"
 }
