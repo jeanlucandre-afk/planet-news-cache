@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "al-menos-66-muertos-tras-estrellarse-un-avion-de-la-fuerza-aerea-colombiana",
+      "title": "Al menos 66 muertos tras estrellarse un avión de la Fuerza Aérea Colombiana con 128 personas a bordo en el sur del país",
+      "category": "Mundo",
+      "bullets_20s": "• Un trágico accidente aéreo ocurre en el sur de Colombia, dejando múltiples víctimas fatales.\n• El avión de la Fuerza Aérea transportaba 128 personas al momento del siniestro ocurrido.\n• Las autoridades investigan las causas del accidente que ocurrió poco después del despegue.\n• Este incidente resalta las preocupaciones sobre la seguridad en aviación militar en la región.\n• Los detalles sobre la identificación de las víctimas están siendo comunicados a sus familias.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c1d9p0k67qro?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-24T03:58:03.000Z",
+      "teaser": "Lo clave en 20 segundos: Un accidente aéreo deja al menos 66 muertos en Colombia.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3558/live/891ff9e0-26e0-11f1-908d-0f187797fc2f.jpg",
+      "description": "La aeronave se accidentó poco después del despegue, cayendo a tierra a aproximadamente 1,5 km del aeródromo desde donde partió, según las autoridades.",
+      "featured": false
+    },
+    {
       "slug": "accidente-avion-fuerza-aerea-colombiana",
       "title": "Al menos 66 muertos tras estrellarse un avión de la Fuerza Aérea Colombiana con 128 personas a bordo en el sur del país",
       "category": "Mundo",
@@ -11,6 +24,19 @@
       "teaser": "Lo clave en 20 segundos: un avión militar colombiano se estrelló, dejando 66 muertos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3558/live/891ff9e0-26e0-11f1-908d-0f187797fc2f.jpg",
       "description": "La aeronave se accidentó poco después del despegue, cayendo a tierra a aproximadamente 1,5 km del aeródromo desde donde partió, según las autoridades.",
+      "featured": false
+    },
+    {
+      "slug": "por-que-los-estados-del-golfo-no-estan-tomando-represas-contra-iran",
+      "title": "¿Por qué los estados del Golfo no están tomando represalias contra Irán?",
+      "category": "Mundo",
+      "bullets_20s": "• Los estados del Golfo tienen una posición delicada en la política del Medio Oriente actual.\n• Expertos sugieren que la guerra podría desestabilizar aún más la región ya conflictiva.\n• Las represalias pueden llevar a consecuencias imprevistas que los países quieren evitar.\n• El temor a la escalada del conflicto es un factor clave en las decisiones tomadas.\n• Los vínculos económicos con Irán complican aún más la decisión de actuar en represalia.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/czex3y3er3ko?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-24T03:38:25.000Z",
+      "teaser": "Lo clave en 20 segundos: Los estados del Golfo evitan represalias contra Irán por miedo a escaladas bélicas.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/7e46/live/3959a840-26b1-11f1-b13a-5bcd17b65474.jpg",
+      "description": "Los estados del Golfo se muestran reacios a implicarse directamente en la guerra, pero es poco probable que acepten ser atacados indefinidamente, afirman los expertos.",
       "featured": false
     },
     {
@@ -53,6 +79,32 @@
       "featured": false
     },
     {
+      "slug": "choque-frontal-motocicleta-trailer-pococi",
+      "title": "Choque frontal entre motocicleta y tráiler deja a una mujer fallecida y a un joven con heridas graves",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un accidente grave ocurrió en Cantón de Pococí, impactando a una motocicleta y un tráiler.\n• Una mujer perdió la vida durante el trágico choque, generando conmoción en la comunidad local.\n• Un joven de 24 años fue trasladado a un hospital, su estado de salud es crítico.\n• Las autoridades están investigando las causas del accidente, que ha afectado el tráfico en la zona.\n• El evento resalta la importancia de la seguridad vial en motociclistas y conductores de camiones.",
+      "source_name": "Sebastián Sánchez, Reiner Montero",
+      "source_url": "https://www.nacion.com/sucesos/accidentes/choque-frontal-entre-motocicleta-y-trailer-deja-a/Y4ZFM5ARDZA63IX7LECX6K4TRA/story/",
+      "publish_date": "2026-03-24T03:19:36.000Z",
+      "teaser": "Lo clave en 20 segundos: un choque en Pococí deja una mujer fallecida y otro joven grave.",
+      "image_url": "https://www.nacion.com/resizer/v2/B6KJ322HNVGV3PFS52OBNABQUI.jpeg?auth=5c2a76d67c23de77a50223c710ee0864fee6e21370a1286bedc2995b0c436b72&smart=true&width=936&height=574",
+      "description": "Un choque frontal entre una motocicleta y un tráiler en Cariari de Pococí dejó una mujer fallecida y un hombre de 24 años en condición crítica.",
+      "featured": false
+    },
+    {
+      "slug": "diputados-envian-informe-sobre-ccss",
+      "title": "Diputados envían informe sobre CCSS a Fiscalía, Contraloría y Procuraduría: estos fueron sus hallazgos",
+      "category": "Costa Rica",
+      "bullets_20s": "• El informe aborda problemas graves en la administración de la CCSS en Costa Rica.\n• Se solicita investigar responsabilidades por listas de espera y atención sanitaria.\n• La fiscalía, contraloría y procuraduría recibirán el informe para su análisis.\n• La deuda del Estado con la CCSS fue uno de los hallazgos destacados.\n• Los diputados buscan una respuesta efectiva ante situaciones críticas en salud.",
+      "source_name": "Aarón Sequeira",
+      "source_url": "https://www.nacion.com/politica/diputados-envian-informe-sobre-ccss-a-fiscalia/TTVWOLCDCBBKLFCNAOO3KV7WV4/story/",
+      "publish_date": "2026-03-24T03:08:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Diputados investigan problemas en la CCSS y solicitan responsabilidad a autoridades.",
+      "image_url": "https://www.nacion.com/resizer/v2/LTA5ULBS35H2RJCXWIL4QJGXPI.JPG?auth=cbf1788cb565dc85f0457424ea4b348cd3f99765f77666e552950070fcd652ad&smart=true&width=4464&height=2976",
+      "description": "Diputados solicitan determinar responsabilidades administrativas, civiles y penales de los problemas en listas de espera, deuda del Estado y la administración de la CCSS.",
+      "featured": false
+    },
+    {
       "slug": "diputados-envian-informe-sobre-ccss-a-fiscalia",
       "title": "Diputados envían informe sobre CCSS a Fiscalía, Contraloría y Procuraduría: estos fueron sus hallazgos",
       "category": "Costa Rica",
@@ -79,6 +131,19 @@
       "featured": false
     },
     {
+      "slug": "tribunal-de-cartago-confirma-extradicion",
+      "title": "Tribunal de Cartago confirma extradición de otro costarricense; este no irá a Estados Unidos",
+      "category": "Costa Rica",
+      "bullets_20s": "• El tribunal de Cartago ha confirmado la extradición de un ciudadano costarricense.\n• El extraditado enfrenta cargos relacionados con tráfico internacional de drogas.\n• Las autoridades consideran el caso significativo en la lucha contra el narcotráfico.\n• Este caso específico no implica la extradición a Estados Unidos.\n• El hombre tiene 54 años y su situación legal ha sido objeto de debate.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/tribunal-de-cartago-confirma-extradicion-de-otro/LPMCIENIXRCUFFRQ3ISLYUBSTY/story/",
+      "publish_date": "2026-03-24T03:01:19.000Z",
+      "teaser": "Lo clave en 20 segundos: extradición confirmada, no irá a EE. UU., sospechas de narcotráfico.",
+      "image_url": "https://www.nacion.com/resizer/v2/SFSB3GGPYVDXNN4ES3Q2QWFXBI.jpg?auth=572b874daa607c39ad53688ef23cdfec9a21c0d199ad4eb359d020b9764e44a5&smart=true&width=674&height=506",
+      "description": "Hombre de 54 años es sospechoso de tráfico internacional de drogas",
+      "featured": false
+    },
+    {
       "slug": "maynor-solano-da-otra-oportunidad-al-amor",
       "title": "Maynor Solano da otra oportunidad al amor tras separarse y sorprende al presentar a su nueva pareja",
       "category": "Costa Rica",
@@ -87,6 +152,19 @@
       "source_url": "https://www.nacion.com/viva/maynor-solano-se-abre-otra-vez-al-amor-tras/TEOXE7VZVBG5ZJCFW4VQ2SURWM/story/",
       "publish_date": "2026-03-24T02:45:34.000Z",
       "teaser": "Lo clave en 20 segundos: Maynor Solano se abre al amor nuevamente y presenta a su nueva pareja.",
+      "image_url": "https://www.nacion.com/resizer/v2/GSQX5PQW2NHB5KNJJ5XULBMJAY.jpg?auth=8b1c7f3674e9de9cf2ba121e7c51fb0af79081b775148d9b211958ce464e6baa&smart=true&width=491&height=589",
+      "description": "El periodista Maynor Solano aseguró que su vida atraviesa un periodo de paz tras su divorcio y confirmó que tiene un nuevo amor.",
+      "featured": false
+    },
+    {
+      "slug": "maynor-solano-da-otra-oportunidad-al-amor",
+      "title": "Maynor Solano da otra oportunidad al amor tras separarse y sorprende al presentar a su nueva pareja",
+      "category": "Costa Rica",
+      "bullets_20s": "• Maynor Solano ha compartido sus experiencias recientes sobre la vida amorosa tras una separación.\n• El periodista busca un nuevo comienzo en su vida personal después del divorcio.\n• Confirma que ha encontrado un nuevo amor que le aporta paz y felicidad.\n• Sus declaraciones han sorprendido a muchos de sus seguidores y colegas.\n• A medida que avanza su vida, espera un futuro más estable y positivo.",
+      "source_name": "Juan Pablo Sanabria",
+      "source_url": "https://www.nacion.com/viva/maynor-solano-se-abre-otra-vez-al-amor-tras/TEOXE7VZVBG5ZJCFW4VQ2SURWM/story/",
+      "publish_date": "2026-03-24T02:45:34.000Z",
+      "teaser": "Lo clave en 20 segundos: Maynor Solano inicia un nuevo capítulo amoroso tras su separación.",
       "image_url": "https://www.nacion.com/resizer/v2/GSQX5PQW2NHB5KNJJ5XULBMJAY.jpg?auth=8b1c7f3674e9de9cf2ba121e7c51fb0af79081b775148d9b211958ce464e6baa&smart=true&width=491&height=589",
       "description": "El periodista Maynor Solano aseguró que su vida atraviesa un periodo de paz tras su divorcio y confirmó que tiene un nuevo amor.",
       "featured": false
@@ -287,6 +365,19 @@
       "featured": false
     },
     {
+      "slug": "quienes-son-algunas-de-las-victimas-civiles-en-iran",
+      "title": "Quiénes son algunas de las víctimas civiles en Irán de los ataques de EE.UU. e Israel",
+      "category": "Mundo",
+      "bullets_20s": "• Irán se encuentra en una situación de conflicto debido a ataques aéreos constantes.\n• Las autoridades iraníes han reportado un aumento significativo en las víctimas civiles.\n• Los ataques de EE.UU. e Israel han alcanzado zonas densamente pobladas en Irán.\n• La comunidad internacional observa con preocupación el impacto en civiles inocentes.\n• Se están realizando esfuerzos para documentar las historias de las víctimas afectadas.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cql7r40nrnyo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-23T23:09:15.000Z",
+      "teaser": "Lo clave en 20 segundos: Civiles en Irán sufren a causa de ataques en medio del conflicto.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d3e0/live/5181ce60-26df-11f1-934f-036468834728.jpg",
+      "description": "Durante más de tres semanas la capital y otras ciudades de Irán han sido el blanco de ataques estadounidenses e israelíes, que han alcanzado miles de objetivos en todo el país. Y la cifra de muertes de civiles sigue en aumento.",
+      "featured": false
+    },
+    {
       "slug": "trump-conversaciones-iran-guerra",
       "title": "Trump dice que está en conversaciones con Irán para poner fin a la guerra, pero el gobierno de Teherán lo niega",
       "category": "Mundo",
@@ -347,6 +438,19 @@
       "source_url": "https://www.bbc.com/mundo/articles/cy0kv92wzd5o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-23T12:09:11.000Z",
       "teaser": "Lo clave en 20 segundos: La prohibición de exportar cangrejo azul afecta la economía venezolana.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/10b4/live/17ec2760-b8fb-11f0-aa13-0b0479f6f42a.jpg",
+      "description": "Las exportaciones del cangrejo azul de Venezuela a Estados Unidos sumaron varias decenas de millones de dólares en los últimos años, pero una norma legal paralizó la industria.",
+      "featured": false
+    },
+    {
+      "slug": "el-cangrejo-azul-venezuela-eeuu",
+      "title": "El cangrejo azul, el manjar que Venezuela tuvo que dejar de exportar a EE.UU.: \"Mucha gente quedó en la calle\"",
+      "category": "Mundo",
+      "bullets_20s": "• Las exportaciones del cangrejo azul eran significativas para la economía venezolana en años anteriores.\n• Una nueva normativa en EE.UU. detuvo las importaciones de este marisco específico.\n• La paralización de la industria ha impactado a muchas familias que dependían de este trabajo.\n• Expertos advierten sobre las consecuencias a largo plazo en la economía local por esta situación.\n• La falta de ingresos por estos productos afecta directamente a la calidad de vida de los ciudadanos.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cy0kv92wzd5o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-23T12:09:11.000Z",
+      "teaser": "Lo clave en 20 segundos: Venezuela interrumpe exportaciones de cangrejo azul a EE.UU., impactando a muchas familias.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/10b4/live/17ec2760-b8fb-11f0-aa13-0b0479f6f42a.jpg",
       "description": "Las exportaciones del cangrejo azul de Venezuela a Estados Unidos sumaron varias decenas de millones de dólares en los últimos años, pero una norma legal paralizó la industria.",
       "featured": false
@@ -430,6 +534,19 @@
       "featured": false
     },
     {
+      "slug": "lista-paises-mas-felices-mundo-america-latina",
+      "title": "La lista de los 5 países más felices del mundo en la que por primera vez hay uno de América Latina",
+      "category": "Mundo",
+      "bullets_20s": "• El Índice Global de Felicidad clasifica a los países según el bienestar de sus ciudadanos.\n• Los países nórdicos siguen dominando la lista, destacando la calidad de vida.\n• Se menciona la importancia de la confianza entre la población en estos países.\n• La inclusión de un país de América Latina es un hito significativo en el ranking.\n• Los habitantes comparten cómo construyen comunidades unidas y colaborativas.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cy5141exkkeo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-03-23T11:32:26.000Z",
+      "teaser": "Lo clave en 20 segundos: Un país latinoamericano destaca en el Índice Global de Felicidad 2026.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/f916/live/5b357eb0-26b3-11f1-b297-95b0a0a8331e.jpg",
+      "description": "Confianza y sentido de comunidad. Los residentes de cuatro países nórdicos y uno de América Latina explican como es el día a día en los cinco países que lideran la lista del Índice Global de Felicidad en 2026.",
+      "featured": false
+    },
+    {
       "slug": "por-que-noruega-canada-y-rusia-son-los-grandes-beneficiados-de-la-guerra-en-iran",
       "title": "Por qué Noruega, Canadá y Rusia son los grandes beneficiados de la guerra en Irán (y cuáles son los más perjudicados)",
       "category": "Mundo",
@@ -466,6 +583,19 @@
       "teaser": "Lo clave en 20 segundos: Noruega, Canadá y Rusia aprovechan la guerra en Irán para beneficiarse económicamente.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/be23/live/e474ec40-26b5-11f1-a79a-77e93010d956.jpg",
       "description": "Mientras muchos países se enfrentan al riesgo de verse duramente golpeados por el aumento de los precios del combustible, hay quienes sacan ventaja.",
+      "featured": false
+    },
+    {
+      "slug": "se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "title": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
+      "category": "Costa Rica",
+      "bullets_20s": "• Dwane James se graduó en Ingeniería en Producción Industrial en el TEC de Limón.\n• El Centro Académico de Limón abrió nuevas oportunidades educativas en 2014.\n• La graduación se celebró con aplausos y reconocimiento a las luchas estudiantiles.\n• James destacó la importancia de la dedicación en su camino hacia la graduación.\n• La rectora del TEC enfatizó la responsabilidad social de los nuevos profesionales.\n• El director del CAL resaltó la resiliencia ante desafíos como la pandemia.\n• Se culminan las graduaciones ordinarias del primer semestre de 2026 en el TEC.\n• Un total de 778 personas se graduaron en esta ceremonia en Limón.\n• La educación superior pública tiene un impacto crucial en la región Huetar Atlántica.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/se-graduo-alma-movimiento-estudiantil-centro-academico-limon",
+      "publish_date": "2026-03-20T20:31:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Dwane James se graduó, simbolizando el esfuerzo y la lucha estudiantil.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/acto-graduacion-limon_20_03_2026paquesada-76.jpg.webp?itok=vQb4z-Ny",
+      "description": "Se graduó el alma del movimiento estudiantil en el Centro Académico de Limón",
       "featured": false
     },
     {
@@ -560,6 +690,19 @@
       "featured": false
     },
     {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "category": "Costa Rica",
+      "bullets_20s": "• El convenio busca promover la colaboración entre instituciones en temas de transporte.\n• Se espera mejorar la calidad de la educación en ingeniería de transporte en el país.\n• Ambas entidades trabajarán en proyectos conjuntos y capacitación continua.\n• El Instituto Tecnológico aportará su experiencia y recursos en educación técnica.\n• La Asociación tendrá un rol activo en la formación de profesionales del sector.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-asociacion-costarricense-ingenieria",
+      "publish_date": "2026-03-20T20:24:45.000Z",
+      "teaser": "Lo clave en 20 segundos: Un convenio entre instituciones para impulsar la ingeniería de transporte en Costa Rica.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA Y LA ASOCIACIÓN COSTARRICENSE DE INGENIERÍA DE TRANSPORTE",
+      "featured": false
+    },
+    {
       "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
       "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
       "category": "Costa Rica",
@@ -581,6 +724,19 @@
       "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
       "publish_date": "2026-03-20T20:16:52.000Z",
       "teaser": "Lo clave en 20 segundos: Convenio entre instituciones educativas para fortalecer la colaboración.",
+      "image_url": "",
+      "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "featured": false
+    },
+    {
+      "slug": "convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
+      "title": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Instituto Tecnológico de Costa Rica firma convenio con ILISA para impulsar colaboración educativa.\n• El acuerdo busca promover el intercambio de conocimiento entre ambas instituciones.\n• Este convenio abre oportunidades para estudiantes en sectores tecnológicos y educativos.\n• Ambas partes se comprometen a desarrollar proyectos conjuntos de investigación.\n• Se prevé que la colaboración permita mejorar la formación técnica en Costa Rica.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/convenio-marco-colaboracion-instituto-tecnologico-costa-rica-ilisa",
+      "publish_date": "2026-03-20T20:16:52.000Z",
+      "teaser": "Lo clave en 20 segundos: Convenio entre el ITCR e ILISA para fortalecer la educación en Costa Rica.",
       "image_url": "",
       "description": "CONVENIO MARCO DE COLABORACIÓN ENTRE EL INSTITUTO TECNOLÓGICO DE COSTA RICA E ILISA",
       "featured": false
@@ -638,6 +794,19 @@
       "featured": false
     },
     {
+      "slug": "docentes-region-huetar-norte-participan-xii-congreso-costarricense-ensenanza-ciencias",
+      "title": "Docentes de la Región Huetar Norte participan en XII Congreso Costarricense de Enseñanza de las Ciencias",
+      "category": "Costa Rica",
+      "bullets_20s": "• Educadores se actualizan en el XII Congreso Nacional de la Enseñanza de las Ciencias 2026.\n• El evento se realizó en el Campus Tecnológico Local San Carlos durante este mes.\n• Participaron universidades como UCR, UNA, UNED y UTN como coorganizadores.\n• Se desarrollaron conferencias, talleres y mesas de trabajo en el congreso.\n• Expertos destacan la importancia de la pedagogía en la enseñanza de ciencias.\n• El congreso busca fortalecer la enseñanza en contextos educativos fuera de la capital.\n• Se impulsó la creación de redes colaborativas entre docentes de distintas regiones.\n• Los participantes resaltan la renovación de estrategias didácticas para el aula.\n• El evento se alinea con las demandas tecnológicas y sociales del país.\n• Las ciencias son clave para formar estudiantes con pensamiento crítico e innovador.",
+      "source_name": "tkguzman",
+      "source_url": "http://www.tec.ac.cr/docentes-region-huetar-norte-participan-xii-congreso-costarricense-ensenanza-ciencias",
+      "publish_date": "2026-03-20T16:22:36.000Z",
+      "teaser": "Lo clave en 20 segundos: Docentes de la Región Huetar Norte participan en un congreso de ciencias.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/multimedia-11.jpg.webp?itok=plKFuIlt",
+      "description": "Docentes de la Región Huetar Norte participan en XII Congreso Costarricense de Enseñanza de las Ciencias",
+      "featured": false
+    },
+    {
       "slug": "v-congreso-institucional-cierra-14-acuerdos",
       "title": "V Congreso Institucional cierra con 14 acuerdos",
       "category": "Costa Rica",
@@ -677,6 +846,32 @@
       "featured": false
     },
     {
+      "slug": "v-congreso-institucional-cierra-14-acuerdos",
+      "title": "V Congreso Institucional cierra con 14 acuerdos",
+      "category": "Costa Rica",
+      "bullets_20s": "• El congreso culminó con la aprobación de 14 acuerdos en cuatro días de sesiones.\n• Entre los acuerdos resalta la propuesta de crear una Vicerrectoría de Extensión.\n• Se abordaron temas relacionados con la gestión de programas técnicos para la institución.\n• Las sesiones contaron con participación tanto presencial como virtual de los congresistas.\n• Se creó un catálogo de productos derivados de procesos de extensión universitaria.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/v-congreso-institucional-cierra-14-acuerdos",
+      "publish_date": "2026-03-19T22:27:42.000Z",
+      "teaser": "Lo clave en 20 segundos: El V Congreso Institucional logró firmar 14 acuerdos clave para el TEC.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/v-congreso-institucional_19-marzo-2.jpg.webp?itok=j-YOCl75",
+      "description": "El V Congreso Institucional se desarrolló en formato bimodal, con presencia en el Centro de las Artes y la mayoría de personas congresistas conectadas virtualmente.",
+      "featured": false
+    },
+    {
+      "slug": "presentador-canal-7-prueba-producto",
+      "title": "Presentador de Canal 7 no pudo ocultar lo mal que la pasó al probar producto en vivo: vea el momento",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un presentador de televisión enfrenta un inesperado incidente en vivo durante una demostración de producto.\n• El momento causó sorpresa entre los espectadores que seguían la transmisión en tiempo real.\n• Varios comentarios en redes sociales destacan la reacción del presentador durante la prueba.\n• Este tipo de incidentes son comunes en programas de televisión en vivo y generan mucha atención.\n• El producto en cuestión era un nuevo lanzamiento en el mercado local, diseñado para el hogar.",
+      "source_name": "Juan Pablo Sanabria",
+      "source_url": "https://www.nacion.com/viva/presentador-de-canal-7-no-pudo-ocultar-lo-mal-que/KQILV4GWMNGHNEL44SUEBBYERU/story/",
+      "publish_date": "",
+      "teaser": "Lo clave en 20 segundos: un presentador tuvo una experiencia inesperada al probar un producto en vivo.",
+      "image_url": "https://www.nacion.com/resizer/v2/LTERB4ZOMNBNBG6YAY6BMUIMQA.jpg?auth=593943ca765e40c12a87c57e9f550abf9bfecc5797a851e7af9d12470fb1b488&smart=true&width=1600&height=1066",
+      "description": "El presentador de Canal 7 se lanzó a probar el producto sin miedo y no pudo ocultar lo mal que la pasó.",
+      "featured": false
+    },
+    {
       "slug": "presentador-canal-7-producto-vivo",
       "title": "Presentador de Canal 7 no pudo ocultar lo mal que la pasó al probar producto en vivo: vea el momento",
       "category": "Costa Rica",
@@ -690,5 +885,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-24T04:30:37.465Z"
+  "generated_at": "2026-03-24T05:30:37.570Z"
 }
