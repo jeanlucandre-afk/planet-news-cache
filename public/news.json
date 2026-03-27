@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "jose-miguel-villalobos-define-pesos-dentro-de-la-fraccion-de-pueblo-soberano-yo-soy-el-cercano-a-rodrigo-chaves",
+      "title": "José Miguel Villalobos define pesos dentro de la fracción de Pueblo Soberano: ‘Yo soy el cercano a Rodrigo Chaves’",
+      "category": "Costa Rica",
+      "bullets_20s": "• José Miguel Villalobos se posiciona dentro de la fracción de Pueblo Soberano hacia Rodrigo Chaves.\n• La relación con el presidente Chaves es clave para el peso político de Villalobos.\n• Los movimientos internos en el oficialismo están generando atención en Costa Rica.\n• Villalobos compartió sus perspectivas sobre el papel de su fracción en el gobierno.\n• Las decisiones políticas del PPSO podrían influir en el futuro del país.",
+      "source_name": "Lucía Astorga, Aarón Sequeira",
+      "source_url": "https://www.nacion.com/politica/jose-miguel-villalobos-define-pesos-dentro-de-la/7BQQSVMOUFAVZFNPGB22KFBUIU/story/",
+      "publish_date": "2026-03-27T11:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Villalobos se refiere a su cercanía con Chaves dentro de su fracción política.",
+      "image_url": "https://www.nacion.com/resizer/v2/DKCUP4L5VFFCHABA3YVXGRSISU.jpeg?auth=641f4ba23b0630167e0388dbe9acd2599b9eee65c17d9e30c76ff81e3ca77e59&smart=true&width=1947&height=1298",
+      "description": "José Miguel Villalobos, diputado electo del PPSO, agrega un nuevo elemento al mapa interno del oficialismo: el peso de la relación con el presidente Rodrigo Chaves.",
+      "featured": false
+    },
+    {
+      "slug": "caida-de-precio-del-dolar-complica-operacion-de-multinacionales-riesgo-en-inversion-y-empleo",
+      "title": "Caída de precio del dólar complica operación de multinacionales: riesgo en inversión y empleo",
+      "category": "Costa Rica",
+      "bullets_20s": "• La caída del dólar afecta la rentabilidad de las multinacionales en el país.\n• Empresas están enfrentando pérdidas por la disminución en el tipo de cambio.\n• La fuga de talento se ha intensificado debido a la situación económica actual.\n• Menor competitividad genera preocupación entre los líderes empresariales.\n• Inversionistas extranjeros están reconsiderando sus decisiones en el país.",
+      "source_name": "Gustavo Ortega Campos",
+      "source_url": "https://www.nacion.com/economia/caida-de-precio-del-dolar-complica-operacion-de/6P2T5VRJOJEDZLR6DMXGIW2M4U/story/",
+      "publish_date": "2026-03-27T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Impacto del dólar en las multinacionales costarricenses.",
+      "image_url": "https://www.nacion.com/resizer/v2/2ZYO7D5S7VAY7POHTMZPI6O5V4.png?auth=4691cd0316ea58a5e4cabd20bfae5f080ec914b63e5a348bcb1d228c67f73f81&smart=true&width=1200&height=628",
+      "description": "Caída del tipo de cambio reduce el ingreso de quienes ganan en dólares y mete presión a las empresas, las cuales reportan fuga de talento y menor competitividad.",
+      "featured": false
+    },
+    {
       "slug": "jamaica-gana-y-sigue-con-vida-en-el-repechaje-hacia-el-mundial-2026",
       "title": "Jamaica gana y sigue con vida en el repechaje hacia el Mundial 2026",
       "category": "Mundo",
-      "bullets_20s": "• Jamaica logró una victoria importante en su camino hacia el Mundial 2026.\n• El partido contra Nueva Caledonia fue una prueba desafiante para Jamaica.\n• El repechaje intercontinental despierta el interés en el fútbol internacional.\n• Este triunfo mantiene a Jamaica en la lucha por un lugar en el Mundial.\n• El próximo desafío para Jamaica será crucial para sus aspiraciones.",
+      "bullets_20s": "• Jamaica avanza en el repechaje, con una victoria crucial para sus aspiraciones mundialistas.\n• El partido fue intenso, con Nueva Caledonia ofreciendo una resistencia notable durante el encuentro.\n• El repechaje hacia el Mundial 2026 está lleno de sorpresas y emociones para los equipos participantes.\n• Jamaica necesita continuar su racha para asegurar su lugar en la próxima Copa del Mundo.\n• Los aficionados apoyan fervientemente a su selección en este importante camino hacia Qatar.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/puro-deporte/jamaica-gana-y-sigue-con-vida-en-el-repechaje/PWVU62K5QJGK7DM6JXTJAC6DGY/story/",
       "publish_date": "2026-03-27T05:38:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Jamaica avanza en la repesca mundial tras vencer a Nueva Caledonia.",
+      "teaser": "Lo clave en 20 segundos: Jamaica avanza en el repechaje hacia el Mundial 2026 tras vencer a Nueva Caledonia.",
       "image_url": "https://www.nacion.com/resizer/v2/6SN7NWOQY5HDHNDNEGAG45N7OA.jpg?auth=fbc8ab49f32b6eaf399f7e9ff2a2c834899f0761fe4bf66232ecef4dafa74efe&smart=true&width=3321&height=2214",
       "description": "Nueva Caledonia puso algo de resistencia, pero Jamaica salió avante en el duelo por la repesca intercontinental de la Copa del Mundo 2026.",
       "featured": false
@@ -17,11 +43,11 @@
       "slug": "menor-de-15-anos-fue-atacado-a-balazos-en-via-publica-de-pavas",
       "title": "Menor de 15 años fue atacado a balazos en vía pública de Pavas",
       "category": "Costa Rica",
-      "bullets_20s": "• Un menor de 15 años fue víctima de un ataque armado en Pavas, generando gran conmoción en la comunidad local.\n• El incidente ocurrió en plena vía pública, lo que ha levantado preocupaciones sobre la seguridad en la zona.\n• El joven se encuentra en este momento en estado crítico en la sala de shock del Hospital México.\n• La noticia ha impactado a los residentes, que exigen acciones para mejorar la seguridad pública.\n• La policía investiga el suceso y busca a los responsables del ataque armado en Pavas.",
+      "bullets_20s": "• Un menor de 15 años fue víctima de un ataque armado en la vía pública.\n• El incidente ocurrió en Pavas, una zona conocida de San José.\n• El menor está recibiendo atención médica en el Hospital México.\n• Se investiga la motivación detrás del ataque a balazos.\n• Las autoridades buscan a los responsables del acto violento.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/sucesos/menor-de-15-anos-fue-atacado-a-balazos-en-via/ZRO45TRERJEBTJSU6MR5XV6HN4/story/",
       "publish_date": "2026-03-27T04:15:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Un menor fue atacado a balazos y está en estado crítico. Comunidad preocupada.",
+      "teaser": "Lo clave en 20 segundos: menor de 15 años atacado a balazos en Pavas y en sala de shock.",
       "image_url": "https://www.nacion.com/resizer/v2/CAKLH32J2ZDT7LJ74S2UJ4DIHI.jpg?auth=b965f7bb1ffefd677281b71b8e1457bf108c7b0f28072ed9ab7436bf65ac58ee&smart=true&width=1280&height=960",
       "description": "Un menor de 15 años fue atacado a balazos por sujetos en vía pública en Pavas y permanece en sala de shock del Hospital México.",
       "featured": false
@@ -30,13 +56,13 @@
       "slug": "costarricense-es-asesinado-a-punaladas-en-belice-era-gerente-de-una-reconocida-bananera-internacional",
       "title": "Costarricense es asesinado a puñaladas en Belice: era gerente de una reconocida bananera internacional",
       "category": "Mundo",
-      "bullets_20s": "• Un hombre costarricense fue asesinado en Belice en un ataque violento con un arma blanca.\n• La policía local ha detenido a un sospechoso vinculado a este trágico evento ocurrido recientemente.\n• La víctima era gerente de una empresa bananera internacional reconocida en la región centroamericana.\n• Este evento resalta preocupaciones sobre la seguridad de los costarricenses en el extranjero.\n• Se espera que el consulado de Costa Rica active protocolos de asistencia a los familiares.",
+      "bullets_20s": "• Un hombre de nacionalidad costarricense fue asesinado en Belice en un ataque violento e inesperado.\n• La víctima, de 51 años, era gerente de una reconocida empresa bananera internacional.\n• El ataque fue atribuido a un vecino del costarricense, quien fue arrestado por la policía.\n• Este suceso ha conmocionado a la comunidad costarricense tanto en el país como en el extranjero.\n• Las autoridades locales están investigando las circunstancias que rodearon este trágico evento.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/sucesos/costarricense-es-asesinado-a-punaladas-en-belice/2Y3F7WHF4JDZ3F3OD7XFJB4LIQ/story/",
       "publish_date": "2026-03-27T04:13:39.000Z",
-      "teaser": "Lo clave en 20 segundos: un costarricense fue asesinado en Belice, dejando conmocionada a su comunidad.",
+      "teaser": "Lo clave en 20 segundos: Asesinato de un costarricense en Belice conmociona a la comunidad.",
       "image_url": "https://www.nacion.com/resizer/v2/CBGBCRTUBFANRNFXW4DUWO5ZVQ.jpg?auth=4d69c311cd398acd614fde2c48d8aa2995b8049059a368e34985e6d13f2ceb01&smart=true&width=400&height=400",
-      "description": "Un costarricense de 51 años fue asesinado en Belice tras un ataque atribuido a un vecino.",
+      "description": "Un costarricense de 51 años fue asesinado en Belice tras un ataque atribuido a un vecino. La policía detuvo a un sospechoso. Tico era gerente de una reconocida empresa bananera.",
       "featured": false
     },
     {
@@ -1005,11 +1031,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El Campus Tecnológico Central fue sede de una jornada científica centrada en biotecnología.\n• Estudiantes compartieron sus investigaciones en biotecnología ambiental y salud.\n• La jornada incluyó presentaciones relámpago y mesas redondas sobre desafíos y proyecciones.\n• Se promovió la colaboración entre universidades e industria para avanzar el conocimiento.\n• El Dr. Anthony Valverde Abarca ofreció una charla magistral sobre biotecnología reproductiva.",
+      "bullets_20s": "• El TEC realizó la Jornada Estudiantil de Divulgación Científica 2026 con gran participación estudiantil.\n• Adrián Alpízar presentó su proyecto sobre el rescate genético de larvas en la jornada.\n• La jornada promovió el intercambio de ideas entre estudiantes y profesionales del sector biotecnológico.\n• La actividad incluyó presentaciones sobre biotecnología ambiental, salud y bioprocesos.\n• El Dr. Anthony Valverde ofreció una charla magistral sobre biotecnología reproductiva en Costa Rica.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: jóvenes investigadores promueven la biotecnología en el Tecnológico de Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La divulgación científica en biotecnología se impulsa en el TEC con jóvenes investigadores.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -1213,11 +1239,11 @@
       "slug": "semana-de-la-autonomia-universitaria",
       "title": "Semana de la Autonomía Universitaria",
       "category": "Costa Rica",
-      "bullets_20s": "• Un cineforo y un concurso de pintura destacan entre las actividades programadas.\n• Las actividades se llevarán a cabo en el Campus Tecnológico Central de Cartago.\n• La iniciativa busca generar espacios de reflexión sobre la autonomía universitaria.\n• Se pretende fortalecer el sentido de pertenencia institucional y la comprensión de la autonomía.\n• Habrá frases inspiradas en textos jurídicos distribuidas por la institución durante la semana.\n• El conversatorio sobre autonomía universitaria se realizará el 22 de abril en San José.",
+      "bullets_20s": "• Se llevará a cabo del 6 al 10 de abril de 2026 en Cartago.\n• Iniciativa promovida por la Comisión Permanente de Defensa de la Autonomía.\n• Actividades incluirán cineforo, concurso de pintura y conversatorios.\n• Buscan reflexionar sobre la autonomía universitaria y su impacto.\n• La comunidad está invitada a participar activamente en estas actividades.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/semana-autonomia-universitaria",
       "publish_date": "2026-03-25T17:14:59.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebramos la autonomía universitaria con actividades reflexivas en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Reflexiones sobre la autonomía universitaria del 6 al 10 de abril en Cartago.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/cronograma-general_post.png",
       "description": "Semana de la Autonomía Universitaria",
       "featured": false
@@ -2055,5 +2081,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-27T11:30:45.607Z"
+  "generated_at": "2026-03-27T12:30:45.655Z"
 }
