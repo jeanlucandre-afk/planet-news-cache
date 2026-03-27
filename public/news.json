@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "menor-de-15-anos-fue-atacado-a-balazos-en-via-publica-de-pavas",
+      "title": "Menor de 15 años fue atacado a balazos en vía pública de Pavas",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un ataque a balazos tuvo lugar en Pavas, afectando a un menor de 15 años.\n• El menor fue trasladado a sala de shock del Hospital México para recibir atención médica.\n• Las autoridades investigan la situación y buscan a los responsables del ataque.\n• Los hechos ocurrieron en plena calle, aumentando la preocupación de la comunidad.\n• Este incidente resalta la problemática de la violencia en áreas urbanas de Costa Rica.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/menor-de-15-anos-fue-atacado-a-balazos-en-via/ZRO45TRERJEBTJSU6MR5XV6HN4/story/",
+      "publish_date": "2026-03-27T04:15:40.000Z",
+      "teaser": "Lo clave en 20 segundos: Un menor atacado a balazos en Pavas requiere atención médica urgente.",
+      "image_url": "https://www.nacion.com/resizer/v2/CAKLH32J2ZDT7LJ74S2UJ4DIHI.jpg?auth=b965f7bb1ffefd677281b71b8e1457bf108c7b0f28072ed9ab7436bf65ac58ee&smart=true&width=1280&height=960",
+      "description": "Un menor de 15 años fue atacado a balazos por sujetos en vía pública en Pavas y permanece en sala de shock del Hospital México.",
+      "featured": false
+    },
+    {
+      "slug": "costarricense-es-asesinado-a-punaladas-en-belice-era-gerente-de-una-reconocida-bananera-internacional",
+      "title": "Costarricense es asesinado a puñaladas en Belice: era gerente de una reconocida bananera internacional",
+      "category": "Mundo",
+      "bullets_20s": "• Un costarricense fue asesinado a puñaladas en un ataque en Belice, generando conmoción.\n• La víctima trabajaba como gerente en una importante empresa bananera internacional en Belice.\n• La policía local ha detenido a un sospechoso relacionado con el crimen ocurrido en la zona.\n• El incidente ha desatado un debate sobre la seguridad de los expatriados en Belice.\n• La comunidad costarricense en el extranjero está en alerta tras este suceso trágico.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/costarricense-es-asesinado-a-punaladas-en-belice/2Y3F7WHF4JDZ3F3OD7XFJB4LIQ/story/",
+      "publish_date": "2026-03-27T04:13:39.000Z",
+      "teaser": "Lo clave en 20 segundos: un costarricense fue asesinado en Belice, suceso que impacta a la comunidad.",
+      "image_url": "https://www.nacion.com/resizer/v2/CBGBCRTUBFANRNFXW4DUWO5ZVQ.jpg?auth=4d69c311cd398acd614fde2c48d8aa2995b8049059a368e34985e6d13f2ceb01&smart=true&width=400&height=400",
+      "description": "Un costarricense de 51 años fue asesinado en Belice tras un ataque atribuido a un vecino. La policía detuvo a un sospechoso. Tico era gerente de una reconocida empresa bananera.",
+      "featured": false
+    },
+    {
       "slug": "consejo-universitario-de-la-ucr-envia-advertencia-a-ministro-de-educacion",
       "title": "Consejo Universitario de la UCR envía advertencia a ministro de Educación",
       "category": "Costa Rica",
-      "bullets_20s": "• El Consejo Universitario de la UCR es una entidad importante en la educación del país.\n• Las advertencias a autoridades son habituales en procesos de negociación educativa.\n• El FEES es un tema clave en la financiación de universidades costarricenses.\n• Se espera que el diálogo entre las partes lleve a un consenso productivo.\n• La UCR ha defendido históricamente la autonomía universitaria en Costa Rica.",
+      "bullets_20s": "• El Consejo Universitario de la UCR se preocupa por la situación del FEES en educación superior.\n• El ministro de Educación, Sánchez Hernández, recibe una advertencia sobre este asunto crítico.\n• La negociación del FEES impacta directamente en las universidades y su financiamiento.\n• La UCR busca mejorar las condiciones para la educación en Costa Rica mediante esta advertencia.\n• Es fundamental considerar la voz de las universidades en temas de financiamiento educativo.",
       "source_name": "Fernanda Matarrita Chaves",
       "source_url": "https://www.nacion.com/el-pais/consejo-universitario-de-la-ucr-envia-advertencia/WM3MENGHEJFYNAI5RXOGL4SQ7M/story/",
       "publish_date": "2026-03-27T03:15:04.000Z",
-      "teaser": "Lo clave en 20 segundos: El CU de la UCR advierte al ministro de Educación sobre negociaciones del FEES.",
+      "teaser": "Lo clave en 20 segundos: La UCR advierte al ministro sobre el FEES y la educación superior en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/BKANDKRVMBDDZBPPTU6L72WLKQ.JPG?auth=270ef525defaccdf5c6b0acef416bdb6d51643ea31ae8bd80bc01a84173cbbf2&smart=true&width=4000&height=2667",
       "description": "El Consejo Universitario (CU) de la Universidad de Costa Rica (UCR) envió una advertencia al ministro de Educación, Leonardo Sánchez Hernández, en el marco de la negociación del FEES.",
       "featured": false
@@ -17,11 +43,11 @@
       "slug": "jose-miguel-villalobos-confirma-que-fue-rodrigo-chaves-quien-le-ofrecio-un-puesto-para-su-hijo-en-casa-presidencial",
       "title": "José Miguel Villalobos confirma que fue Rodrigo Chaves quien le ofreció un puesto para su hijo en Casa Presidencial",
       "category": "Costa Rica",
-      "bullets_20s": "• José Miguel Villalobos destacó la oferta de Rodrigo Chaves como un hecho notable en la política.\n• La confirmación se dio en medio de un contexto político complejo en Costa Rica.\n• Pilar Cisneros, figura influyente, destacó la oferta como un ejemplo de la 'red de cuido'.\n• El puesto en Casa Presidencial genera debate sobre nepotismo en la administración actual.\n• Esta situación pone en la mira a las prácticas de contratación en la administración pública.",
-      "source_name": "Sebastián Sánchez, Aarón Sequeira",
+      "bullets_20s": "• José Miguel Villalobos habló sobre un ofrecimiento de trabajo para su hijo en Casa Presidencial.\n• Rodrigo Chaves, actual presidente de Costa Rica, fue quien hizo el ofrecimiento directamente.\n• Pilar Cisneros, ministra, había criticado la situación llamándola ‘red de cuido’.\n• La noticia ha generado reacciones de diversos sectores políticos y ciudadanos en el país.\n• Este tipo de ofrecimientos plantea preguntas sobre nepotismo en el gobierno actual.",
+      "source_name": "Sebastián Sánchez, Aarón Sequeira, Cristian Mora",
       "source_url": "https://www.nacion.com/politica/jose-miguel-villalobos-confirma-que-fue-rodrigo/WJP3A34TEZDB7NCZD2QM2G45YE/story/",
       "publish_date": "2026-03-27T03:05:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Villalobos confirma oferta de Chaves para su hijo en Casa Presidencial.",
+      "teaser": "Lo clave en 20 segundos: Villalobos confirma ofrecimiento de puesto en Presidencia para su hijo.",
       "image_url": "https://www.nacion.com/resizer/v2/CODXKFZQTRFPTINCXVP2SICGXA.JPG?auth=3c39b0604ba4b9da0caaccfa35fd42f5eacf7444d8459ab1e97bf29edb0cb256&smart=true&width=4464&height=2976",
       "description": "José Miguel Villalobos confirmó que Rodrigo Chaves le ofreció un puesto en Casa Presidencial para su hijo. Pilar Cisneros lo había calificado de ‘red de cuido’.",
       "featured": false
@@ -30,11 +56,11 @@
       "slug": "pilotos-de-talla-mundial-llegan-a-costa-rica-para-la-segunda-fecha-del-ama-superbike",
       "title": "Pilotos de talla mundial llegan a Costa Rica para la segunda fecha del AMA Superbike",
       "category": "Costa Rica",
-      "bullets_20s": "• El AMA Superbike es un evento prestigioso que atrae a los mejores pilotos del mundo.\n• La competencia se llevará a cabo en el Circuito StarCars, un lugar reconocido de Alajuela.\n• Expectativa alta entre los aficionados que esperan ver grandes carreras este fin de semana.\n• Segunda fecha del campeonato se enmarca en un exitoso inicio de temporada para los motociclistas.\n• Diversas actividades complementarán el evento, fomentando la cultura del motociclismo en el país.",
+      "bullets_20s": "• El AMA Superbike es uno de los campeonatos más importantes en motociclismo a nivel mundial.\n• Costa Rica será sede de la segunda fecha de esta emocionante competencia de motociclismo.\n• El evento se llevará a cabo en el Circuito StarCars, un lugar emblemático para eSports.\n• Pilotos de renombre internacional participarán, trayendo atención global al evento.\n• Los fanáticos del motociclismo en Costa Rica esperan este evento con gran entusiasmo.",
       "source_name": "El bloguero de la pista",
       "source_url": "https://www.nacion.com/blogs/pilotos-de-talla-mundial-llegan-a-costa-rica-para/GKGTPRJXWNAUFESNS7HAJC3YDU/story/",
       "publish_date": "2026-03-27T02:56:42.000Z",
-      "teaser": "Lo clave en 20 segundos: Pilotos destacados compiten en el AMA Superbike este domingo en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Costa Rica recibe a pilotos internacionales para el AMA Superbike en marzo.",
       "image_url": "https://www.nacion.com/resizer/v2/UGZR2HGA55C6FA6RN34YS7OQSY.jpeg?auth=9a2d70db84aa5f193c4db2b83411b6ad52d7a272ec3a4547028c0c12b31e55eb&smart=true&width=1280&height=853",
       "description": "El Campeonato AMA Superbike Castrol Actevo 2026 disputará su segunda fecha el próximo domingo 29 de marzo a partir de las 8:00 a.m. en el Circuito StarCars de Parque Viva, en La Guácima de Alajuela.",
       "featured": false
@@ -966,11 +992,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC realizó la Jornada Estudiantil de Divulgación Científica 2026 con gran éxito.\n• Estudiantes compartieron avances en investigaciones de biotecnología y sus aplicaciones.\n• La actividad promovió la colaboración entre jóvenes investigadores y profesionales del sector.\n• Se contó con una mesa redonda sobre los desafíos de la biotecnología en Costa Rica.\n• La charla magistral se centró en biotecnología reproductiva y su impacto en el futuro.",
+      "bullets_20s": "• La jornada de divulgación científica reunió a estudiantes e investigadores en el TEC de Cartago.\n• Estudiantes compartieron avances en investigación en biotecnología ambiental y de salud.\n• Se llevó a cabo una mesa redonda sobre los desafíos de la biotecnología en el país.\n• El Dr. Anthony Valverde expuso sobre biotecnología reproductiva y su impacto en Costa Rica.\n• La actividad concluyó con un espacio de networking para fomentar colaboraciones futuras.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: jóvenes investigadores impulsan la biotecnología y su divulgación en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Jóvenes investigadores están impulsando la biotecnología en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -1173,12 +1199,12 @@
     {
       "slug": "semana-de-la-autonomia-universitaria",
       "title": "Semana de la Autonomía Universitaria",
-      "category": "Ciencia",
-      "bullets_20s": "• Se celebrará del 6 al 10 de abril en el Campus Tecnológico Central de Cartago.\n• Habrá un cineforo, concurso de pintura y un conversatorio sobre la autonomía.\n• Buscan generar reflexión sobre la autonomía universitaria en la comunidad académica.\n• La iniciativa promueve el sentido de pertenencia y la libertad académica.\n• Enfocada en la autonomía como vivencia cotidiana, no solo un principio abstracto.\n• Las actividades incluyen frases inspiradas en textos jurídicos y la Constitución.\n• Se realizará al menos una actividad en cada campus durante el año.\n• El conversatorio sobre autonomía será el 22 de abril en San José.\n• Se busca visibilizar la importancia de la autonomía en el contexto actual.\n• El evento es gratuito y abierto a docentes, colaboradores y estudiantes.",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Semana de la Autonomía Universitaria se celebrará del 6 al 10 de abril en Cartago.\n• Se realizarán actividades que incluyen cineforos, concursos y conversatorios educativos.\n• La iniciativa busca fomentar la reflexión sobre la autonomía universitaria en la comunidad.\n• Se abordarán los beneficios, límites y responsabilidades de la autonomía en universidades.\n• Frases inspiradas en textos jurídicos se expondrán en el campus durante la semana.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/semana-autonomia-universitaria",
       "publish_date": "2026-03-25T17:14:59.000Z",
-      "teaser": "Lo clave en 20 segundos: Semana de actividades sobre la autonomía universitaria en abril.",
+      "teaser": "Lo clave en 20 segundos: Actividades para reflexionar sobre la autonomía universitaria en Cartago.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/cronograma-general_post.png",
       "description": "Semana de la Autonomía Universitaria",
       "featured": false
@@ -2016,5 +2042,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-27T04:30:45.700Z"
+  "generated_at": "2026-03-27T05:30:45.633Z"
 }
