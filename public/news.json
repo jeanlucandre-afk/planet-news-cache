@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "costa-rica-vs-jordania-alineaciones-confirmadas-recuerde-donde-ver-el-partido-que-empezara-en-minutos",
+      "title": "Costa Rica vs. Jordania: Alineaciones confirmadas; recuerde dónde ver el partido que empezará en minutos",
+      "category": "Costa Rica",
+      "bullets_20s": "• Costa Rica se prepara para iniciar una nueva etapa bajo el mando de Fernando Batista como director técnico.\n• Jordania será el primer rival en esta nueva era, buscando mejorar el rendimiento del equipo costarricense.\n• Los aficionados están ansiosos por ver cómo se desempeñará su selección en este encuentro amistoso.\n• Las alineaciones de ambos equipos han sido confirmadas y se espera un partido muy interesante.\n• El partido será transmitido por varios canales, facilitando su visualización para los seguidores.",
+      "source_name": "Fanny Tayver Marín",
+      "source_url": "https://www.nacion.com/puro-deporte/costa-rica-vs-jordania-hora-y-canales-para-ver-el/X3CWZXFSQNGZLGH25ROCHV3AXI/story/",
+      "publish_date": "2026-03-27T17:16:08.000Z",
+      "teaser": "Lo clave en 20 segundos: Costa Rica enfrenta a Jordania en un nuevo inicio futbolístico.",
+      "image_url": "https://www.nacion.com/resizer/v2/LQZVEDR3CZGJTOB4EPEVEJ5HXM.jpg?auth=45d1d57b4e44d34b003f7369e6e84bc62fce1cde979d69f8c319d7607b5d82c4&smart=true&width=1080&height=1350",
+      "description": "La Selección de Costa Rica se enfrentará a Jordania este viernes, en el primer partido de la era de Fernando Batista.",
+      "featured": false
+    },
+    {
       "slug": "sala-iv-admite-accion-de-inconstitucionalidad-de-miguel-guillen-contra-el-gobierno-por-adhesion-a-coalicion-militar",
       "title": "Sala IV admite acción de inconstitucionalidad de Miguel Guillén contra el Gobierno por adhesión a coalición militar",
       "category": "Costa Rica",
@@ -53,27 +66,14 @@
       "featured": false
     },
     {
-      "slug": "costa-rica-vs-jordania-hora-y-canales-para-ver-el-estreno-de-fernando-batista-con-la-seleccion-nacional",
-      "title": "Costa Rica vs. Jordania: Hora y canales para ver el estreno de Fernando Batista con la Selección Nacional",
-      "category": "Costa Rica",
-      "bullets_20s": "• Este viernes se llevará a cabo el esperado debut de Fernando Batista con la selección nacional.\n• Los aficionados esperan conocer el rendimiento del equipo en este partido amistoso internacional.\n• La hora y los canales de transmisión están disponibles para los seguidores de la selección.\n• El partido se considera clave en la preparación del equipo para futuros torneos.\n• Jordania será un rival interesante para medir las capacidades del nuevo entrenador.",
-      "source_name": "Fanny Tayver Marín",
-      "source_url": "https://www.nacion.com/puro-deporte/costa-rica-vs-jordania-hora-y-canales-para-ver-el/X3CWZXFSQNGZLGH25ROCHV3AXI/story/",
-      "publish_date": "2026-03-27T16:18:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica enfrenta a Jordania en el debut de Fernando Batista este viernes.",
-      "image_url": "https://www.nacion.com/resizer/v2/POK3JUJCAFDW7FNTVL5YELDLHQ.jpeg?auth=d74dd442306b6fb742610d4ada98644420ed7642a45a4854b75b2c3626514f28&smart=true&width=5000&height=3333",
-      "description": "La Selección de Costa Rica se enfrentará a Jordania este viernes, en el primer partido de la era de Fernando Batista.",
-      "featured": false
-    },
-    {
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria es fundamental para el desarrollo de la educación superior en Costa Rica.\n• El TEC celebrará la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• La docente Jacqueline Herrera hablará sobre la importancia de la autonomía universitaria.\n• Los estudiantes también participarán en la discusión sobre la autonomía en el TEC.\n• El evento se transmitirá en vivo a través de las redes sociales del TEC.",
+      "bullets_20s": "• El TEC celebrará la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• Este evento conmemora el Día de la Autonomía Universitaria en Costa Rica.\n• Conversemos con el TEC se transmitirá en vivo a través de redes sociales.\n• La docente Jacqueline Herrera y el estudiante Sebastian Vallecillos participarán.\n• Los interesados pueden enviar preguntas al correo proporcionado.\n• La autonomía universitaria es un tema de gran relevancia actual.\n• Se invitará a la comunidad a participar y reflexionar sobre la autonomía.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Aprende sobre la autonomía universitaria en el TEC este 8 de abril.",
+      "teaser": "Lo clave en 20 segundos: Semana de la Autonomía Universitaria en el TEC, actividades y charla en redes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -622,6 +622,19 @@
       "teaser": "Lo clave en 20 segundos: la eutanasia de Noelia reaviva el debate en torno a la legalidad en España.",
       "image_url": "https://www.nacion.com/resizer/v2/KC66QC4VOBFRJDXIXBI6DNWXE4.jpg?auth=87021992cadec9cae679ea35169e07741bd2169ab415d419c14615d7bf84a571&smart=true&width=1200&height=675",
       "description": "La historia de Noelia Castillo Ramos reabre el debate sobre la eutanasia en España tras una intensa batalla legal con su padre que llegó hasta instancias europeas.",
+      "featured": false
+    },
+    {
+      "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
+      "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
+      "category": "Ciencia",
+      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería en Producción Industrial se realizó en el TEC.\n• El evento promovió intercambio académico entre estudiantes y docentes de varios países.\n• Se debatieron temáticas innovadoras como ingeniería industrial 5.0 y robótica háptica.\n• La sostenibilidad y transición energética fueron focos destacados en las conferencias.\n• El encuentro se posiciona como referente en ingeniería y sostenibilidad en América Latina.",
+      "source_name": "tkguzman",
+      "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
+      "publish_date": "2026-03-26T19:57:56.000Z",
+      "teaser": "Lo clave en 20 segundos: Reflexiones sobre innovación y sostenibilidad en la industria.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
+      "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
     },
     {
@@ -1330,11 +1343,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La Jornada Estudiantil de Divulgación Científica 2026 se realizó en el TEC en Cartago.\n• Se presentaron investigaciones sobre biotecnología ambiental, salud y bioprocesos.\n• El lema del evento fue fortalecer la conversación sobre biotecnología en Costa Rica.\n• Asistieron jóvenes investigadores que compartieron sus avances en diferentes proyectos.\n• La actividad incluyó una mesa redonda sobre la proyección de la biotecnología en el país.",
+      "bullets_20s": "• La Jornada Estudiantil de Divulgación Científica 2026 se llevó a cabo en el TEC.\n• Estudiantes presentaron avances de sus investigaciones en áreas de biotecnología.\n• El lema del evento fue 'Fortaleciendo caminos: jóvenes investigadores y biotecnología'.\n• El Dr. Anthony Valverde ofreció una charla sobre biotecnología reproductiva en el país.\n• Se realizó una mesa redonda sobre los desafíos actuales en el sector biotecnológico.\n• Los participantes intercambiaron ideas en espacios de diálogo formales e informales.\n• El evento busca reducir la estigmatización de la biotecnología en Costa Rica.\n• Se promovió el networking para colaborar y fortalecer el ecosistema biotecnológico.\n• El TEC reafirmó su compromiso con la divulgación científica y formación integral.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: jóvenes investigadores fortalecen la biotecnología en el TEC.",
+      "teaser": "Lo clave en 20 segundos: jóvenes investigadores y su impacto en la biotecnología en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -1538,7 +1551,7 @@
       "slug": "semana-de-la-autonomia-universitaria",
       "title": "Semana de la Autonomía Universitaria",
       "category": "Costa Rica",
-      "bullets_20s": "• La Semana de la Autonomía Universitaria estará del 6 al 10 de abril en Cartago.\n• Habrá un cineforo, un concurso de pintura y un conversatorio programados.\n• La iniciativa busca generar espacios de reflexión sobre la autonomía universitaria.\n• Las actividades promueven una comprensión responsable de la autonomía académica.\n• El concepto incluye la consigna #SoyAutonomía para dar voz a este principio.\n• Frases inspiradas en textos jurídicos se encontrarán en el campus durante la semana.\n• Los ejes de reflexión incluyen derechos y responsabilidades en la autonomía.\n• Se coordinarán más actividades a lo largo del año en diferentes campus.\n• La acción responde a la necesidad de visibilizar la autonomía en la educación.\n• El evento es gratuito y abierto a docentes, colaboradores y estudiantes.",
+      "bullets_20s": "• La Semana de la Autonomía se llevará a cabo del 6 al 10 de abril de 2026.\n• Se realizarán actividades como cineforos, concursos de pintura y conversatorios.\n• El objetivo es reflexionar sobre la importancia de la autonomía universitaria.\n• Las frases inspiradas en la Constitución se colocarán en el campus.\n• La iniciativa busca fortalecer el sentido de pertenencia institucional.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/semana-autonomia-universitaria",
       "publish_date": "2026-03-25T17:14:59.000Z",
@@ -2380,5 +2393,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-27T17:30:45.794Z"
+  "generated_at": "2026-03-27T18:30:45.785Z"
 }
