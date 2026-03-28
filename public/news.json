@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "sabemos-que-aqui-es-peligroso-pero-no-tenemos-a-donde-ir-vecinos-de-los-diques-de-cartago-reaccionan-a-propuesta-de-desa",
+      "title": "‘Sabemos que aquí es peligroso, pero no tenemos a dónde ir’: vecinos de Los Diques de Cartago reaccionan a propuesta de desalojo y reubicación",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los vecinos expresan su preocupación ante la propuesta de desalojo de la Municipalidad de Cartago.\n• La incertidumbre crece entre las familias que no tienen alternativas habitacionales viables.\n• El gobierno local busca mitigar riesgos en áreas vulnerables a desastres naturales.\n• Familias temen verse afectadas y piden más información sobre la reubicación.\n• La situación refleja el dilema de la seguridad frente a la estabilidad residencial.",
+      "source_name": "Cristian Mora",
+      "source_url": "https://www.nacion.com/el-pais/sabemos-que-aqui-es-peligroso-pero-no-tenemos-a/ABMBJH3AEFDMDBNQVGWWXXUWYA/story/",
+      "publish_date": "2026-03-28T11:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: vecinos preocupados ante posible desalojo en Los Diques de Cartago.",
+      "image_url": "https://www.nacion.com/resizer/v2/23Z7FZKV2JGNHK3YNJGPR6QTI4.JPG?auth=adcc2cea4a9fb8ceac5248a9c4a73bea2152bba3061428b3c09cf17e7f113d1d&smart=true&width=5000&height=2813",
+      "description": "Propuesta de la Municipalidad de Cartago genera incertidumbre entre las familias, que temen quedar en la calle",
+      "featured": false
+    },
+    {
+      "slug": "es-posible-desalojar-los-diques-de-cartago-municipalidad-y-gobierno-analizan-como-intervenir-el-asentamiento",
+      "title": "¿Es posible desalojar Los Diques de Cartago? Municipalidad y Gobierno analizan cómo intervenir el asentamiento",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Municipalidad de Cartago está evaluando la situación actual del asentamiento.\n• Intervenciones se están discutiendo en un contexto de creciente riesgo para los residentes.\n• Se han considerado diversas opciones para reubicar a los habitantes de Los Diques.\n• El Gobierno busca medidas que garanticen la seguridad de las personas afectadas.\n• La decisión final implicaría un análisis de las condiciones de vida en el lugar.",
+      "source_name": "Cristian Mora",
+      "source_url": "https://www.nacion.com/el-pais/es-posible-desalojar-los-diques-de-cartago/JOZVYJQK3FHFPNRXRZWYPLWSLM/story/",
+      "publish_date": "2026-03-28T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Análisis sobre intervención en asentamiento informal en Cartago.",
+      "image_url": "https://www.nacion.com/resizer/v2/N2BNEQ55BJE7TAP4DXTRRDD2JY.JPG?auth=5da8172033050c951d1a8e30d49f00ecbde4f42dc50ff1d4e7e2d1afd456a98e&smart=true&width=5000&height=3333",
+      "description": "Municipalidad de Cartago y el Gobierno analizan cómo intervenir Los Diques de Cartago, un asentamiento informal con miles de personas en zona de riesgo.",
+      "featured": false
+    },
+    {
       "slug": "bomberos-controla-quema-de-charral-frente-a-parque-viva",
       "title": "Bomberos controla quema de charral frente a Parque Viva",
       "category": "Costa Rica",
-      "bullets_20s": "• La rápida intervención de los bomberos evitó daños mayores en Parque Viva. Se actuó con eficiencia y rapidez.\n• Tres unidades de bomberos llegaron rápidamente al lugar para controlar la quema de charral.\n• El fuego generó preocupación entre vecinos, pero fue contenido sin complicaciones.\n• La acción de los bomberos resalta la importancia de una respuesta eficiente ante emergencias.\n• Se recomienda a la comunidad estar alerta ante situaciones similares y reportar rápidamente.",
+      "bullets_20s": "• Bomberos de Belén respondieron rápidamente a la emergencia por quema de charral.\n• El control del fuego evitó que se propagara a áreas cercanas al Parque Viva.\n• La rápida intervención de los bomberos fue clave para contener la situación.\n• No se reportaron heridos ni daños materiales significativos por el incidente.\n• La comunidad fue notificada y se mantuvo a distancia durante las labores.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/sucesos/bomberos-controla-quema-de-charral-frente-a-parque/C3PDM7IN4JCVRDJXW7JDPSLAJY/story/",
       "publish_date": "2026-03-28T05:17:05.000Z",
-      "teaser": "Lo clave en 20 segundos: Bomberos controlaron una quema de charral en Parque Viva sin complicaciones.",
+      "teaser": "Lo clave en 20 segundos: Bomberos controlan rápidamente una quema en el Parque Viva.",
       "image_url": "https://www.nacion.com/resizer/v2/VQHYFTVBSZD4PKEZFIKLK76J2U.jpeg?auth=e66a093bcea6252247149e1b19561a29a49958271a6d14c540b07f9eb9cc3dff&smart=true&width=4160&height=3120",
       "description": "Tres unidades de la Estación de Bomberos de Belén atendieron la emergencia sin contratiempos y lograron controlar el fuego para evitar su propagación a zonas cercanas.",
       "featured": false
@@ -17,11 +43,11 @@
       "slug": "comex-confirma-reuniones-con-estados-unidos-tras-investigacion-por-trabajo-forzoso-esta-es-su-postura",
       "title": "Comex confirma reuniones con Estados Unidos tras investigación por trabajo forzoso; esta es su postura",
       "category": "Costa Rica",
-      "bullets_20s": "• Comex se reúne con autoridades de Estados Unidos por preocupaciones sobre trabajo forzoso.\n• La investigación de EE.UU. generó atención sobre los derechos laborales en Costa Rica.\n• El Gobierno busca aclarar su postura y fortalecer la relación comercial.\n• Se espera que las reuniones aborden problemas laborales y propuestas de mejora.\n• La situación del trabajo forzoso es un tema sensible en el ámbito internacional.",
+      "bullets_20s": "• Comex ha estado en contacto constante con funcionarios estadounidenses sobre el trabajo forzoso.\n• La investigación rige preocupación en diversos sectores sobre la diplomacia y comercio.\n• Se espera que las reuniones aborden temas laborales y derechos humanos en el país.\n• Gobierno costarricense busca aclarar su postura sobre las acusaciones planteadas.\n• Las acciones de Comex buscan proteger las relaciones comerciales entre ambas naciones.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/economia/comex-confirma-reuniones-con-estados-unidos-tras/EMDLU3VHM5ATLAFLKVZB6EPAQA/story/",
       "publish_date": "2026-03-28T03:08:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Comex se reúne con EE.UU. tras investigar trabajo forzoso.",
+      "teaser": "Lo clave en 20 segundos: Comex dialoga con EE. UU. tras preocupaciones de trabajo forzoso.",
       "image_url": "https://www.nacion.com/resizer/v2/5AUQCZJXPBAOJMQVW76S3VXRKE.png?auth=5e35d38be55ad0f75df550139ddee4e0e7bc9084a54bc803419bf7c2b8c1ed09&smart=true&width=1200&height=628",
       "description": "Comex confirmó que mantiene múltiples reuniones con autoridades de Estados Unidos tras la investigación por trabajo forzoso anunciada por ese país. Así responde el Gobierno.",
       "featured": false
@@ -211,12 +237,12 @@
     {
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
-      "category": "Ciencia",
-      "bullets_20s": "• El foro UNESCO en el TEC impulsó la reflexión sobre paz y naturaleza en su último conversatorio.\n• Participaron estudiantes, académicos y especialistas en un diálogo interdisciplinario sobre sostenibilidad.\n• Se abordaron enfoques sobre la relación entre la paz y el entorno natural desde diversas perspectivas.\n• Expertos discutieron la importancia de la integración de saberes indígenas en la conservación ambiental.\n• La ética se presentó como una brújula en decisiones cotidianas relacionadas con el medio ambiente.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El foro reunió a académicos, estudiantes y especialistas en un diálogo interdisciplinario sobre paz y naturaleza.\n• Se discutieron los desafíos ambientales como elementos esenciales en la construcción de paz en nuestros tiempos.\n• Las panelistas incluyeron expertas en sostenibilidad, bioética y gestión de comunidades indígenas, compartiendo sus conocimientos.\n• El conversatorio promovió la integración de saberes indígenas para proteger y conservar los territorios naturales.\n• La reflexión sobre ética y sostenibilidad fue central en las intervenciones de los especialistas presentes en el foro.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Un foro discute el papel de la naturaleza en la construcción de la paz.",
+      "teaser": "Lo clave en 20 segundos: Foro UNESCO en el TEC dialoga sobre construcción de paz y naturaleza.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -420,11 +446,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria es fundamental para el desarrollo educativo en Costa Rica.\n• El TEC celebrará la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• Jacqueline Herrera y Sebastian Vallecillos conversarán sobre la autonomía universitaria.\n• Se conmemora el Día de la Autonomía Universitaria el 12 de abril en el país.\n• La transmisión será en vivo a través de Facebook y YouTube del TEC.",
+      "bullets_20s": "• La autonomía universitaria es fundamental para la educación superior en Costa Rica.\n• Se celebra cada 12 de abril el Día de la Autonomía Universitaria en el país.\n• El TEC realizará actividades del 6 al 10 de abril en conmemoración de esta fecha.\n• Jacqueline Herrera y Sebastian Vallecillos discutirán sobre la importancia de la autonomía.\n• La transmisión se realizará en vivo a través de las redes sociales del TEC.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Importancia de la autonomía universitaria en el TEC.",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria se celebra con actividades en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -979,11 +1005,11 @@
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "category": "Costa Rica",
-      "bullets_20s": "• El IV Encuentro Internacional reunió a estudiantes y académicos de varios países de América Latina.\n• Se exploraron temas como la Ingeniería Industrial 5.0 y su impacto en la sostenibilidad.\n• El evento promovió el intercambio de conocimientos entre instituciones académicas de la región.\n• Las conferencias abordaron el uso ético de la inteligencia artificial en la industria actual.\n• Se debatió sobre la crisis en la cadena de abastecimiento y sus soluciones innovadoras.",
+      "bullets_20s": "• El IV Encuentro Internacional reunió a expertos de varios países en producción industrial.\n• Temas como la robótica y la inteligencia artificial fueron centrales en las conferencias.\n• Se destacó la importancia de la sostenibilidad en la ingeniería industrial moderna.\n• El evento impulsó el intercambio académico entre estudiantes y profesionales de la región.\n• Se discutieron tendencias emergentes como 'Internet Física' en gestión de operaciones.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Innovación y sostenibilidad destacan en evento académico de Ingeniería Industrial.",
+      "teaser": "Lo clave en 20 segundos: Innovación y sostenibilidad en la ingeniería industrial se discutieron en este evento internacional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -1694,11 +1720,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra la Jornada Estudiantil de Divulgación Científica 2026 en su Campus Tecnológico Central.\n• Se presentaron proyectos sobre biotecnología ambiental, salud y bioprocesos por estudiantes dedicados.\n• La jornada fomenta el intercambio de conocimiento entre estudiantes y profesionales de la biotecnología.\n• Un momento clave fue la charla del Dr. Anthony Valverde sobre biotecnología reproductiva y desarrollo.\n• La actividad promueve la creación de una red de colaboradores entre universidades e industria biotecnológica.",
+      "bullets_20s": "• La jornada estudiantil fortaleció el diálogo sobre biotecnología y su impacto en la sociedad costarricense.\n• Estudiantes presentaron sus investigaciones en áreas como biotecnología ambiental, salud y bioprocesos.\n• Caleb Barrantes destacó la importancia de la biotecnología como conversación actual para el futuro del país.\n• La actividad promovió el networking y colaboraciones entre estudiantes, investigadores y académicos.\n• Dr. Anthony Valverde ofreció una charla sobre biotecnología reproductiva y su relevancia en Costa Rica.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Jóvenes investigadores en biotecnología destacan en divulgación científica en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Jóvenes investigadores promueven biotecnología en el TEC con divulgación y colaboración.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -2731,5 +2757,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-28T11:30:45.842Z"
+  "generated_at": "2026-03-28T12:30:45.818Z"
 }
