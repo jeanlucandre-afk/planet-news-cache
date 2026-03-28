@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "petroleo-sigue-en-alza-ante-la-falta-de-acuerdo-sobre-iran",
+      "title": "Petróleo sigue en alza ante la falta de acuerdo sobre Irán",
+      "category": "Mundo",
+      "bullets_20s": "• El precio del petróleo ha experimentado un incremento constante en los últimos días.\n• La situación en Irán mantiene incertidumbre en el mercado de energía a nivel global.\n• Los analistas predicen fluctuaciones en el costo del crudo debido a tensiones políticas.\n• Los operadores están atentos a cualquier anuncio que pueda afectar el suministro energético.\n• La geopolítica sigue jugando un rol crucial en la economía del petróleo internacional.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/petroleo-sigue-en-alza-ante-la-falta-de-acuerdo/H6ZJZYPMZJAS3K77HUVBHB4AFY/story/",
+      "publish_date": "2026-03-27T23:45:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El petróleo sigue en alza debido a la inestabilidad en Irán y decisiones políticas.",
+      "image_url": "https://www.nacion.com/resizer/v2/P3665SWDGRFSDEBLBCSNQAC5XM.jpg?auth=10a0bffd35c347190b7f7ad7773035dc3333251c061095df3370a1b8278dd034&smart=true&width=4528&height=3019",
+      "description": "La decisión de Trump de aplazar diez días más su ultimátum para la reapertura del estrecho de Ormuz no bastó para calmar a operadores",
+      "featured": false
+    },
+    {
       "slug": "la-factura-invisible-del-co2-el-monto-astronomico-que-las-potencias-le-deben-al-mundo",
       "title": "La factura invisible del CO2: el monto astronómico que las potencias le deben al mundo",
       "category": "Mundo",
@@ -120,12 +133,12 @@
     {
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
-      "category": "Mundo",
-      "bullets_20s": "• El foro reunió a expertos en paz y entorno natural para un diálogo interdisciplinario.\n• Panelistas discutieron sobre desigualdad y su impacto en la construcción de paz.\n• La economía circular se presenta como solución hacia un desarrollo sostenible.\n• Un llamado a integrar saberes indígenas en la conservación del medio ambiente.\n• La ética se destacó como brújula en decisiones relacionadas con la naturaleza.\n• La necesidad de reconstruir la relación con nuestro entorno fue central en el foro.\n• La UNESCO reafirma su compromiso con la paz y bienestar humano en el medio ambiente.\n• La sesión busca el fortalecimiento de espacios de diálogo sobre sostenibilidad.\n• El TEC celebra su 55 aniversario con este importante conversatorio sobre paz.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El conversatorio en el TEC reunió a expertos en paz y sostenibilidad del ambiente en diálogo interdisciplinario.\n• La relación entre la construcción de paz y la naturaleza fue el eje central del foro organizado por UNESCO.\n• Panelistas debatieron sobre la importancia de la ética y la economía circular en el desarrollo sostenible.\n• Destacaron el valor de los saberes indígenas para la conservación y gestión ambiental en nuestros territorios.\n• Se reflexionó sobre la necesidad de romper estructuras sociales que limitan el desarrollo humano y ambiental.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: El foro del TEC aborda paz y medio ambiente desde una perspectiva ética y sostenible.",
+      "teaser": "Lo clave en 20 segundos: El foro del TEC une paz y medio ambiente en un diálogo esencial para el futuro.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -329,11 +342,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria es un pilar fundamental de la educación superior en Costa Rica.\n• El TEC celebrará la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• El Día de la Autonomía Universitaria se conmemora el 12 de abril en el país.\n• Jacqueline Herrera y Sebastian Vallecillos participarán en la conversación del evento.\n• El evento se transmitirá en vivo a través de las redes sociales del TEC.",
+      "bullets_20s": "• La autonomía universitaria es crucial para el desarrollo académico y la libertad de pensamiento.\n• El TEC celebrará la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• Conmemora el Día de la Autonomía Universitaria cada 12 de abril al año.\n• La docente Jacqueline Herrera Núñez y un estudiante participarán en la conversación.\n• La transmisión se realizará por redes sociales como Facebook y YouTube.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: La autonomía universitaria en el TEC se discute el 8 de abril.",
+      "teaser": "Lo clave en 20 segundos: Conversación sobre autonomía universitaria en el TEC y actividades conmemorativas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -887,12 +900,12 @@
     {
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
-      "category": "Ciencia",
-      "bullets_20s": "• El IV Encuentro Internacional promueve la conexión entre academia y tendencias globales en la industria.\n• Transformaciones en la ingeniería industrial marcan la necesidad de profesionales con visión integral.\n• Conferencias sobre robótica, inteligencia artificial y sostenibilidad enriquecen el evento académico.\n• La crisis de abastecimiento y el 'Internet Física' se discuten como tendencias emergentes en la logística.\n• La participación de mujeres en la ingeniería y el rol social del ingeniero industrial se abordaron en el encuentro.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El IV Encuentro fue vital para conectar la academia y las tendencias del sector industrial actual.\n• Se abordaron temas modernos como Ingeniería Industrial 5.0 y su implicación en la sostenibilidad.\n• El evento reunió a expertos y estudiantes de varios países de América Latina, destacando internacionalidad.\n• Charlas y conferencias promovieron el intercambio de ideas entre profesionales y académicos del área.\n• La importancia de la tecnología en la ingeniería fue un foco esencial, especialmente robótica e IA.\n• La participación activa de estudiantes mejoró su liderazgo y competencias profesionales en el evento.\n• Las problemáticas logísticas actuales se discutieron, especialmente la crisis en la cadena de suministro.\n• El evento también destacó la participación femenina en ingeniería y la evolución del perfil profesional.\n• La colaboración entre diferentes universidades enriqueció el conocimiento compartido en el encuentro.\n• El EIIPI se reafirma como un foro indispensable para innovaciones en la ingeniería industrial regional.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Impulso a la innovación y sostenibilidad en la ingeniería industrial busca transformar el sector.",
+      "teaser": "Lo clave en 20 segundos: Impulso a la sostenibilidad y tecnología en el IV Encuentro de Producción Industrial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -1603,11 +1616,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El Campus Tecnológico realizó la Jornada Estudiantil de Divulgación Científica 2026.\n• Estudiantes compartieron avances de sus investigaciones en biotecnología y salud.\n• La jornada incluyó presentaciones relámpago, destacándose la innovación joven en ciencia.\n• Un espacio de networking facilitó conexiones para futuras colaboraciones académicas.\n• Se promovió el fortalecimiento de la biotecnología en Costa Rica mediante el diálogo.",
+      "bullets_20s": "• El Campus Tecnológico Central Cartago fue el escenario de una jornada estudiantil significativa.\n• Se promovió la divulgación científica entre estudiantes e investigadores del área biotecnológica.\n• Los jóvenes investigadores presentaron avances en muchas áreas de la biotecnología.\n• La actividad permitió el intercambio de ideas y la creación de redes de colaboración.\n• La charla principal abordó temas sobre biotecnología reproductiva y su impacto social.\n• Se celebró una mesa redonda sobre la proyección de la biotecnología en Costa Rica.\n• El evento incluyó presentaciones relámpago sobre investigaciones innovadoras de estudiantes.\n• El Club de Divulgación Científica BIOTEC en Acción organizó la jornada educativa.\n• Se destacó la importancia de reducir la estigmatización de la biotecnología en la sociedad.\n• El TEC reafirma su compromiso con la formación y divulgación científica en el país.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Jóvenes investigadores en biotecnología transforman la divulgación científica en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Jóvenes investigadoras y su impacto en la biotecnología costarricense.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -2640,5 +2653,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-28T00:30:45.836Z"
+  "generated_at": "2026-03-28T01:30:45.953Z"
 }
