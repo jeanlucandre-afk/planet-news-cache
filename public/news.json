@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "encuentran-con-vida-a-nino-de-3-anos-desaparecido-en-dota",
+      "title": "Encuentran con vida a niño de 3 años desaparecido en Dota",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las autoridades realizaron una búsqueda intensiva en la zona montañosa de Dota.\n• La comunidad local se unió para ayudar en la búsqueda del niño desaparecido.\n• El niño fue encontrado sano y salvo, lo que trajo alivio a todos.\n• Se realizarán investigaciones para entender las circunstancias de su desaparición.\n• La familia del niño agradeció a los cuerpos de rescate por su inesperado hallazgo.",
+      "source_name": "Yucsiany Salazar Serrano",
+      "source_url": "https://www.nacion.com/sucesos/lo-ha-visto-cruz-roja-busca-a-nino-de-3-anos-con/BPSJPYR7R5ALTG5LINDZIZEGBY/story/",
+      "publish_date": "2026-03-28T21:24:39.000Z",
+      "teaser": "Lo clave en 20 segundos: niño desaparecido en Dota es encontrado con vida, generando gran alivio.",
+      "image_url": "https://www.nacion.com/resizer/v2/4NVSKMZ3WBGMDFHEDHHH2W5NRI.jpeg?auth=dd37f8ef3574e7f8e943fdc42693cb2c5e35a6d3704169a20be366e707162f8c&smart=true&width=1280&height=720",
+      "description": "Niño hallado con vida genera alivio en la comunidad y reacciones de agradecimiento.",
+      "featured": false
+    },
+    {
+      "slug": "los-cientificos-estan-logrando-avances-en-el-desarrollo-de-una-pildora-de-insulina-para-reemplazar-las-inyecciones",
+      "title": "Los científicos están logrando avances en el desarrollo de una píldora de insulina para reemplazar las inyecciones",
+      "category": "Ciencia",
+      "bullets_20s": "• La innovadora pastilla de insulina marca un posible cambio en el tratamiento de la diabetes.\n• Este avance podría facilitar la vida de millones de pacientes con diabetes en todo el mundo.\n• El enfoque de administración oral tiene el potencial de aumentar la adherencia al tratamiento.\n• Las pruebas se realizaron en animales, mostrando resultados prometedores en el control de glucosa.\n• Investigadores de Japón siguen perfeccionando esta tecnología para su uso clínico futuro.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/cientificos-logran-avance-clave-hacia-una-pastilla/BZQKL5KQQNETTMJQMWWVRD5GUQ/story/",
+      "publish_date": "2026-03-28T21:22:45.000Z",
+      "teaser": "Lo clave en 20 segundos: Avance en píldora de insulina podría transformar el tratamiento de la diabetes.",
+      "image_url": "https://www.nacion.com/resizer/v2/Z3ICFQJO2FFZPJZRLLNC33MUWM.png?auth=5443c991cedae59ee8a5b14ee88d8ad1512b0c8c7d7ee49c7da2c74e79827b76&smart=true&width=1680&height=945",
+      "description": "Investigadores de Japón desarrollan una pastilla de insulina que logra reducir la glucosa en pruebas con animales y podría sustituir las inyecciones en pacientes con diabetes.",
+      "featured": false
+    },
+    {
+      "slug": "el-papa-leon-xiv-denuncia-en-monaco-los-abismos-entre-pobres-y-ricos",
+      "title": "El papa León XIV denuncia en Mónaco los ‘abismos entre pobres y ricos’",
+      "category": "Mundo",
+      "bullets_20s": "• León XIV realizó una notable visita a Mónaco, marcando historia tras cinco siglos de ausencia papal.\n• Durante su discurso, el papa destacó la crítica a la creciente desigualdad social en el mundo actual.\n• Hizo un llamado a la redistribución de la riqueza para mitigar los impactos de la pobreza extrema.\n• El evento fue presenciado por el príncipe Alberto II, quien mostró interés en las palabras del papa.\n• El papa abordó los desafíos que enfrenta la sociedad moderna respecto a la justicia social y económica.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/el-papa-leon-xiv-denuncia-en-monaco-los-abismos/C3XUNXNGCZBWFEGQIL4WMBWXJU/story/",
+      "publish_date": "2026-03-28T21:02:56.000Z",
+      "teaser": "Lo clave en 20 segundos: León XIV hace un llamado a reducir la desigualdad en su visita a Mónaco.",
+      "image_url": "https://www.nacion.com/resizer/v2/QJ3DNXR4ZFFRRNTCU5N2A3J6P4.jpg?auth=01d888b91b4358eca5b42c28d6ad070cd9d8dafef6d4bd296cfa2f9492852950&smart=true&width=5237&height=3491",
+      "description": "En primera visita papal al principado en cinco siglos, León XIV pidió redistribuir riqueza y criticó “estructuras de pecado” ante príncipe Alberto II.",
+      "featured": false
+    },
+    {
       "slug": "serpentario-clandestino-es-descubierto-en-sotano-de-edificio-con-anacondas-de-5-metros-boas-y-caimanes-vea-el-video",
       "title": "Serpentario clandestino es descubierto en sótano de edificio con anacondas de 5 metros, boas y caimanes: vea el video",
       "category": "Mundo",
@@ -589,11 +628,11 @@
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El foro centró el diálogo en la relación entre la paz y el medio ambiente.\n• Panelistas incluyeron expertos en sostenibilidad y conservación de recursos naturales.\n• Se discutió la importancia de la ética en la toma de decisiones ambientales.\n• La economía circular fue presentada como solución a retos ambientales actuales.\n• El evento promovió la integración de saberes indígenas para la conservación.",
+      "bullets_20s": "• El foro reunió a académicos y especialistas para dialogar sobre paz y naturaleza.\n• Se destacó la importancia de la ciencia y la tecnología en la construcción de la paz.\n• Panelistas abordaron la relación entre bienestar humano y medio ambiente.\n• Se propuso la economía circular como clave para el desarrollo sostenible.\n• Los saberes indígenas fueron considerados fundamentales en la conservación ambiental.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Un foro en el TEC aborda paz y medio ambiente en conversación interdisciplinaria.",
+      "teaser": "Lo clave en 20 segundos: Foro UNESCO en el TEC aborda paz y desafíos ambientales.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -797,11 +836,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria es fundamental para el desarrollo académico en Costa Rica.\n• Las actividades de la Semana de la Autonomía se realizarán del 6 al 10 de abril.\n• Conversemos con el TEC se transmitirá en vivo por varias redes sociales.\n• Jacqueline Herrera Núñez y Sebastian Vallecillos participarán del evento de discusión.\n• El Día de la Autonomía Universitaria se conmemora el 12 de abril cada año.",
+      "bullets_20s": "• La autonomía universitaria en el TEC será discutida en un próximo evento virtual.\n• El evento se transmitirá por las redes sociales del Tecnológico de Costa Rica.\n• La Semana de la Autonomía Universitaria se celebrará del 6 al 10 de abril.\n• Jacqueline Herrera y Sebastian Vallecillos serán los participantes en la conversación.\n• Los interesados pueden enviar sus preguntas por correo electrónico al TEC.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Se presenta la autonomía universitaria en el TEC con actividades en línea.",
+      "teaser": "Lo clave en 20 segundos: un evento sobre la autonomía universitaria se avecina en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -1356,11 +1395,11 @@
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "category": "Costa Rica",
-      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería en Producción Industrial se lleva a cabo en San Carlos.\n• El evento destaca la importancia de conectar la academia con tendencias globales de la industria.\n• Temática incluye Ingeniería Industrial 5.0, robótica y ética en inteligencia artificial.\n• Se discute producción limpia, transición energética y rendimiento de sistemas solares.\n• Espacios de networking fomentan el intercambio académico entre estudiantes y profesionales.",
+      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería en Producción Industrial se realizó en marzo.\n• El evento reunió a estudiantes y especialistas de varios países de América Latina.\n• Se abordaron temas como la ingeniería industrial 5.0 y la robótica háptica.\n• La sostenibilidad fue un eje central del encuentro, destacando la producción limpia.\n• Los organizadores resaltaron la importancia de formar profesionales integrales y estratégicos.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Innovación y sostenibilidad en el Encuentro de Producción Industrial.",
+      "teaser": "Lo clave en 20 segundos: El encuentro impulsó la innovación y sostenibilidad en la producción industrial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -2019,11 +2058,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC fue escenario de la Jornada Estudiantil de Divulgación Científica 2026 en Cartago.\n• Estudiantes expusieron avances en biotecnología ambiental, salud y bioprocesos relevantes.\n• Se realizó una mesa redonda sobre trayectoria y proyección de la biotecnología en Costa Rica.\n• La actividad fomentó el intercambio de ideas y la formación de redes entre investigadores.\n• El Dr. Anthony Valverde Abarca brindó una charla magistral sobre biotecnología reproductiva.",
+      "bullets_20s": "• La jornada promovió el intercambio de conocimiento entre estudiantes y expertos en biotecnología.\n• Estudiantes presentaron investigaciones en áreas como biotecnología ambiental y salud pública.\n• La charla magistral del Dr. Anthony Valverde destacó el futuro de la biotecnología en Costa Rica.\n• Se fomentó la formación de redes de colaboración entre universidades y la industria biotecnológica.\n• Los participantes tuvieron la oportunidad de compartir ideas en espacios de diálogo académico.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: La jornada de jóvenes en biotecnología promueve el intercambio científico en el TEC.",
+      "teaser": "Lo clave en 20 segundos: jóvenes investigadores impulsan la biotecnología en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -3056,5 +3095,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-28T21:30:46.291Z"
+  "generated_at": "2026-03-28T22:30:46.264Z"
 }
