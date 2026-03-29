@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "lluvias-y-vientos-fuertes-marcaran-el-clima-este-lunes-en-costa-rica",
+      "title": "Lluvias y vientos fuertes marcarán el clima este lunes en Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• Este lunes se anticipan lluvias intensas en la región del Caribe kostarricense.\n• El Instituto Meteorológico Nacional alertó sobre vientos fuertes en varias zonas.\n• Se esperan temperaturas más altas en el Pacífico Norte del país.\n• El clima inestable podría afectar las actividades al aire libre en Costa Rica.\n• Se recomienda a la población estar atentos a los informes meteorológicos.\n• Las lluvias podrían traer alivio ante la sequía que afecta algunas regiones.\n• Es crucial tomar precauciones durante los fuertes vientos y lluvias.\n• El IMN advierte posibles inundaciones en zonas vulnerables con el clima actual.",
+      "source_name": "Damián Arroyo C.",
+      "source_url": "https://www.nacion.com/sucesos/lluvias-y-vientos-fuertes-marcaran-el-clima-este/6BGV3LTEMVHXXENWN6GUZPH37M/story/",
+      "publish_date": "2026-03-29T22:15:15.000Z",
+      "teaser": "Lo clave en 20 segundos: lluvias y vientos fuertes afectarán Costa Rica este lunes.",
+      "image_url": "https://www.nacion.com/resizer/v2/UKBSGX3L7VDNFL23H4EA7PSWDA.jpg?auth=f5e6c1861dffbc4d7756bf1e828d86e5183538545aee4eb15a1f0a0329c6e5c6&smart=true&width=3000&height=2000",
+      "description": "El clima en Costa Rica este lunes 30 de marzo tendrá vientos fuertes, lluvias en Caribe y zona norte, y altas temperaturas en el Pacífico Norte, según el IMN.",
+      "featured": false
+    },
+    {
       "slug": "meningitis-causo-mas-de-259000-muertes-en-2023-ninos-menores-de-cinco-anos-concentran-mas-de-un-tercio-de-los-casos",
       "title": "Meningitis causó más de 259.000 muertes en 2023: niños menores de cinco años concentran más de un tercio de los casos",
       "category": "Ciencia",
@@ -1343,11 +1356,11 @@
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El foro promovió la reflexión sobre la paz y el vínculo con la naturaleza en el TEC.\n• Participaron estudiantes y expertos en un diálogo interdisciplinario sobre sostenibilidad.\n• Se discutió la importancia de integrar saberes indígenas en la conservación ambiental.\n• La ética fue un tema clave en la toma de decisiones sobre el ambiente.\n• El conversatorio subrayó la necesidad de un enfoque integral hacia la paz y la naturaleza.",
+      "bullets_20s": "• El TEC realizó un foro sobre paz y medio ambiente, con participación de estudiantes y académicos.\n• Se discutió la relación entre construcción de paz y el respeto por la naturaleza.\n• El conversatorio incluyó la visión de saberes indígenas y ética ambiental como claves.\n• Los panelistas abordaron la importancia de la economía circular en el desarrollo sostenible.\n• El evento destacó la necesidad de romper estructuras sociales que limitan el desarrollo humano.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Un foro en el TEC aborda paz y medio ambiente.",
+      "teaser": "Lo clave en 20 segundos: un foro en el TEC aborda paz y medio ambiente con expertos en sostenibilidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -1551,11 +1564,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra la autonomía universitaria con actividades del 6 al 10 de abril.\n• La Semana de la Autonomía Universitaria busca generar conciencia sobre este tema.\n• Los ponentes incluyen a un docente y un estudiante del TEC.\n• El evento se transmitirá por Facebook y YouTube del Tecnológico.\n• El Día de la Autonomía Universitaria se conmemora cada 12 de abril en Costa Rica.",
+      "bullets_20s": "• La autonomía universitaria es clave para el desarrollo académico en las instituciones de educación superior.\n• El TEC conmemora el Día de la Autonomía Universitaria cada 12 de abril con diversas actividades.\n• La Semana de la Autonomía Universitaria se celebra del 6 al 10 de abril en el TEC.\n• Un espacio de diálogo para discutir la importancia de la autonomía en la educación es fundamental.\n• Se transmitirá un evento en vivo en las redes sociales del Tecnológico para fomentar la participación.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Conoce las actividades sobre autonomía universitaria en el TEC este abril.",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria se discute en un evento en el TEC este abril.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -2091,19 +2104,6 @@
       "teaser": "Lo clave en 20 segundos: la eutanasia de Noelia reaviva el debate en torno a la legalidad en España.",
       "image_url": "https://www.nacion.com/resizer/v2/KC66QC4VOBFRJDXIXBI6DNWXE4.jpg?auth=87021992cadec9cae679ea35169e07741bd2169ab415d419c14615d7bf84a571&smart=true&width=1200&height=675",
       "description": "La historia de Noelia Castillo Ramos reabre el debate sobre la eutanasia en España tras una intensa batalla legal con su padre que llegó hasta instancias europeas.",
-      "featured": false
-    },
-    {
-      "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
-      "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
-      "category": "Costa Rica",
-      "bullets_20s": "• El IV Encuentro se enfocó en la unión entre academia e industria para el desarrollo nacional.\n• Se discutieron temas como la Ingeniería Industrial 5.0 y la robótica háptica en el evento.\n• Los participantes compartieron experiencias que enriquecen la formación de futuros ingenieros.\n• El evento subraya la importancia de la sostenibilidad en el ámbito industrial moderno.\n• Los organizadores buscan formar profesionales con visión integral para enfrentar nuevos retos.",
-      "source_name": "tkguzman",
-      "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
-      "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Encuentro reúne a expertos en innovación y sostenibilidad en la industria.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
-      "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
     },
     {
@@ -2760,11 +2760,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra la Jornada Estudiantil de Divulgación Científica 2026, promoviendo el intercambio de conocimientos.\n• Adrián Alpízar presentó su proyecto sobre rescate genético de larvas durante el evento de divulgación científica.\n• La actividad reunió a estudiantes y especialistas para reflexionar sobre la biotecnología y su impacto social.\n• Se destacó la importancia de crear redes de colaboración en el ámbito de la biotecnología en el país.\n• Caleb Barrantes subrayó que la biotecnología debe ser un tema actual para forjar el futuro del país.",
+      "bullets_20s": "• La jornada estudiantil promovió el intercambio de conocimientos entre estudiantes y expertos en biotecnología.\n• Jóvenes investigadores presentaron proyectos innovadores en áreas como biotecnología ambiental y salud.\n• Expertos de la academia analizaron los desafíos actuales del sector biotecnológico en Costa Rica.\n• El Dr. Valverde compartió su experiencia sobre biotecnología reproductiva y su impacto en la sociedad.\n• El evento culminó con un espacio de networking que fomentó colaboraciones futuras entre los participantes.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: jóvenes investigadores impulsan la biotecnología en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Jóvenes investigadores presentan contribuciones en biotecnología en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -3795,7 +3795,20 @@
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/v-congreso-institucional_19-marzo-2.jpg.webp?itok=j-YOCl75",
       "description": "V Congreso Institucional cierra con 14 acuerdos",
       "featured": false
+    },
+    {
+      "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
+      "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
+      "category": "Costa Rica",
+      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería en Producción Industrial se celebró en el TEC.\n• Este evento reunió a expertos de varios países para hablar de ingeniería y sostenibilidad.\n• Se discutieron temas como la producción limpia y el rendimiento de sistemas solares.\n• La incorporación de estudiantes en la organización fomentó sus competencias y liderazgo.\n• El EIIPI se consolida como un referente en la Ingeniería en Producción Industrial.",
+      "source_name": "tkguzman",
+      "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
+      "publish_date": "",
+      "teaser": "Lo clave en 20 segundos: Encuentro impulsa innovación y sostenibilidad en producción industrial con expertos internacionales.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
+      "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
+      "featured": false
     }
   ],
-  "generated_at": "2026-03-29T22:30:46.469Z"
+  "generated_at": "2026-03-29T23:30:48.820Z"
 }
