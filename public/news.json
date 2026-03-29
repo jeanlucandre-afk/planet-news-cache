@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "papa-leon-xiv-llama-a-la-paz-en-domingo-de-ramos-dios-no-escucha-la-oracion-de-quienes-hacen-la-guerra",
+      "title": "Papa León XIV llama a la paz en Domingo de Ramos: ‘Dios no escucha la oración de quienes hacen la guerra’",
+      "category": "Mundo",
+      "bullets_20s": "• El papa León XIV hizo un llamado urgente a la paz durante su mensaje de Domingo de Ramos.\n• Reiteró que Dios no responde a aquellos que fomentan la guerra y el conflicto.\n• Se centró en las víctimas de conflictos, especialmente en Oriente Medio, pidiendo oraciones.\n• El mensaje destacó la importancia de la reconciliación entre naciones en conflicto.\n• El líder religioso espera que su llamado inspire a más personas a buscar la paz.",
+      "source_name": "AFP, Cristian Mora",
+      "source_url": "https://www.nacion.com/el-mundo/papa-leon-xiv-llama-a-la-paz-en-domingo-de-ramos/HC6CUBXRS5AJDATCVHVFYDMR4U/story/",
+      "publish_date": "2026-03-29T20:12:59.000Z",
+      "teaser": "Lo clave en 20 segundos: Papa León XIV pide paz y oración por víctimas de conflictos en su mensaje.",
+      "image_url": "https://www.nacion.com/resizer/v2/3KYDFIHVA5D2TBTRJY3EXPJPMA.jpg?auth=f15d06ab9a4da859f12709a78c8f6bb560720f93c06b3be9976c8a4bfe86cab6&smart=true&width=1200&height=801",
+      "description": "El papa León XIV advirtió a quienes promueven la guerra y pidió oraciones por las víctimas del conflicto en Oriente Medio, al tiempo que llamó a la reconciliación y la paz.",
+      "featured": false
+    },
+    {
+      "slug": "pakistan-reune-a-cancilleres-para-mediar-en-guerra-de-oriente-medio",
+      "title": "Pakistán reúne a cancilleres para mediar en guerra de Oriente Medio",
+      "category": "Mundo",
+      "bullets_20s": "• Pakistán busca mediar entre Irán y Estados Unidos en el conflicto en Oriente Medio.\n• La reunión incluye a cancilleres de cuatro países clave en la región.\n• El contexto geopolítico actual es complejo y muy delicado para la paz.\n• Se espera que las discusiones aborden varias iniciativas de paz y diálogo.\n• Aumentan las tensiones, y Pakistán juega un papel crucial como mediador.\n• La reunión se realiza en un momento de elevada inestabilidad regional.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/pakistan-reune-a-cancilleres-para-mediar-en-guerra/TCSKDMFRRZEPXPJQYKSNT2FHBQ/story/",
+      "publish_date": "2026-03-29T20:07:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Pakistán media entre Irán y EE.UU. en la guerra de Oriente Medio.",
+      "image_url": "https://www.nacion.com/resizer/v2/UQLGSHR2ZFG6LLHDFZ2VJDNSH4.jpg?auth=017fcf10a0b9817fa73dd2385637997ac42fa827532fabc5fd85f03c10a38e31&smart=true&width=3600&height=2399",
+      "description": "Cancilleres de Pakistán, Arabia Saudita, Egipto y Turquía se reúnen en Islamabad para analizar la guerra en Oriente Medio, mientras Pakistán actúa como mediador entre Irán y Estados Unidos.",
+      "featured": false
+    },
+    {
+      "slug": "jesus-entra-en-la-ciudad-santa-de-jerusalen-asi-se-vivio-el-domingo-de-ramos-en-costa-rica",
+      "title": "Jesús entra en la ciudad Santa de Jerusalén: Así se vivió el Domingo de Ramos en Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Domingo de Ramos marca el comienzo de la Semana Santa en Costa Rica con grandes celebraciones.\n• Las iglesias realizaron procesiones que atrajeron a miles de fieles en diferentes regiones del país.\n• La bendición de los ramos simboliza la entrada triunfal de Jesús a Jerusalén, un evento muy significativo.\n• Las comunidades se unieron para celebrar con fervor y devoción, llamando a la paz y la esperanza.\n• La participación de los jóvenes fue notable, integrándose en las tradiciones religiosas del país.\n• Los líderes religiosos hicieron énfasis en la importancia de la paz en tiempos difíciles.\n• Las tradiciones de Semana Santa son un reflejo de la riqueza cultural y espiritual de Costa Rica.\n• Las actividades incluyeron cantos, oraciones y obras teatrales representando la Pasión de Cristo.\n• Además de las procesiones, se llevaron a cabo actividades comunitarias en diferentes comunidades.\n• El Domingo de Ramos une a la comunidad en un acto de fe y festividad, destacando sus creencias.",
+      "source_name": "Cristian Mora, Vanessa Loaiza N.",
+      "source_url": "https://www.nacion.com/el-pais/jesus-entra-en-la-ciudad-santa-de-jerusalen-asi-se/B33O7FMRR5DMDPSGU6ZSK2TVPI/story/",
+      "publish_date": "2026-03-29T19:52:37.000Z",
+      "teaser": "Lo clave en 20 segundos: Celebraciones del Domingo de Ramos marcan el inicio de la Semana Santa en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/LLLJRVRECREMNKGA4HZLP7WRWM.JPG?auth=38ee9a032d50c5d075b2e2640c0eb02a444dfe92e970bff643849a75a55f86b2&smart=true&width=4000&height=2666",
+      "description": "La Iglesia dio inicio a la Semana Santa con procesiones, bendición de ramos y un llamado a la paz del papa.",
+      "featured": false
+    },
+    {
       "slug": "impulsa-cambio-que-podria-eliminar-el-auto-start-stop-en-autos-nuevos-esto-se-sabe",
       "title": "Impulsa cambio que podría eliminar el ‘auto start-stop’ en autos nuevos: esto se sabe",
       "category": "Tecnología",
@@ -1265,11 +1304,11 @@
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El foro UNESCO se centró en la integración de paz y desafíos ambientales en Costa Rica.\n• Académicos y especialistas debatieron sobre la importancia de la sostenibilidad ambiental.\n• Se destacó la ética como guía para decisiones sobre el entorno y la vida cotidiana.\n• La economía circular fue presentada como clave para el desarrollo sostenible en la región.\n• El conversatorio buscó transformar la relación entre humanos y naturaleza para mejorar la paz.",
+      "bullets_20s": "• El foro de UNESCO se centra en paz y entorno natural, promoviendo diálogo interdisciplinario.\n• Representantes de la academia y la sociedad civil discuten sostenibilidad y conservación ambiental.\n• La ética y el conocimiento son vistos como claves para lograr un futuro más sostenible.\n• Se explora la importancia de los saberes indígenas en la conservación de territorios.\n• Panelistas destacan la economía circular como vía hacia el desarrollo sostenible y responsable.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Reflexión sobre paz y naturaleza en foro del TEC de Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: el foro UNESCO en el TEC aborda paz y desafíos ambientales.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -1473,11 +1512,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• Exploraremos cómo se vive la autonomía universitaria en el TEC este 08 de abril.\n• La conmemoración del Día de la Autonomía Universitaria será el 12 de abril.\n• Se celebrará una Semana de la Autonomía Universitaria del 6 al 10 de abril en el TEC.\n• La docente Jacqueline Herrera y el estudiante Sebastian Vallecillos participarán en la charla.\n• La transmisión en vivo estará disponible en las redes sociales del Tecnológico.",
+      "bullets_20s": "• El TEC celebra la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• Se conmemorará el Día de la Autonomía Universitaria el 12 de abril en Costa Rica.\n• Conversemos con el TEC se transmitirá en Facebook y YouTube del TEC.\n• La docente Jacqueline Herrera Núñez participará en el conversatorio sobre autonomía.\n• Se invita a la audiencia a enviar preguntas al correo del evento.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Autonomía universitaria en el TEC estará en el foco este abril.",
+      "teaser": "Lo clave en 20 segundos: Semana de la Autonomía Universitaria se celebra en el TEC con actividades y conversatorio.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -2019,11 +2058,11 @@
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "category": "Costa Rica",
-      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería en Producción Industrial promueve la colaboración académica en la región.\n• Se abordaron temas como Ingeniería Industrial 5.0 y robótica háptica, relevantes para la industria actual.\n• Los asistentes pudieron participar en conferencias y espacios de networking para intercambio de ideas.\n• La sostenibilidad y la producción limpia fueron ejes centrales en las discusiones del evento.\n• El Encuentro reafirma la importancia de la cooperación internacional en la formación profesional.",
+      "bullets_20s": "• El IV Encuentro Internacional unió a académicos de varias naciones para discutir innovación industrial.\n• La agenda incluyó temas como robótica y sostenibilidad en la producción industrial moderna.\n• Expertos debatieron sobre la importancia del papel social de la ingeniería y su evolución.\n• El evento destacó la relevancia de conectar teoría académica con prácticas industriales actuales.\n• La participación estudiantil fue clave para enriquecer el intercambio de conocimientos internacional.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Innovación y sostenibilidad se unen en el IV Encuentro de Producción Industrial en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Encuentro internacional promueve innovación y sostenibilidad en la ingeniería industrial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -2682,11 +2721,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC organizó la Jornada Estudiantil de Divulgación Científica 2026 en Cartago.\n• Estudiantes presentaron avances en investigaciones de biotecnología ambiental y salud.\n• La mesa redonda abordó desafíos actuales en el sector biotecnológico en Costa Rica.\n• Dr. Anthony Valverde compartió su visión sobre biotecnología y desarrollo científico.\n• El evento facilitó el networking entre jóvenes investigadores y académicos.",
+      "bullets_20s": "• La Jornada Estudiantil de Divulgación Científica 2026 se llevó a cabo en el TEC de Cartago.\n• Se presentaron proyectos sobre biotecnología ambiental, salud y bioprocesos por estudiantes.\n• El lema de la jornada fue 'Fortaleciendo caminos: jóvenes investigadores y biotecnología'.\n• Se realizó una mesa redonda sobre desafíos en biotecnología en Costa Rica, con académicos.\n• El Dr. Anthony Valverde destacó la importancia de los experimentos en el futuro de la ciencia.\n• Participantes intercambiaron ideas y experiencias en espacios de diálogo académico durante la jornada.\n• Iniciativas como esta buscan unir academia e industria para potenciar el conocimiento biotecnológico.\n• Se promueve la creación de redes de colaboración en biotecnología a nivel nacional.\n• La jornada incluyó un espacio de networking para fomentar posibles colaboraciones futuras.\n• El TEC reafirma su compromiso con la divulgación científica y formación integral de profesionales.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: jóvenes investigadores promueven la biotecnología en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: jóvenes en biotecnología se unen para divulgar ciencia en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -3719,5 +3758,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-29T20:30:46.510Z"
+  "generated_at": "2026-03-29T21:30:46.587Z"
 }
