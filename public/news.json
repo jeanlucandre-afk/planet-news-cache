@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "cerro-de-la-muerte-y-varias-zonas-del-valle-central-lideran-lista-de-temperaturas-mas-bajas-de-costa-rica-este-domingo",
+      "title": "Cerro de la Muerte y varias zonas del Valle Central lideran lista de temperaturas más bajas de Costa Rica este domingo",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Cerro de la Muerte es conocido por tener las temperaturas más frías en Costa Rica.\n• Este 29 de marzo, se reportaron temperaturas inusualmente bajas en varias regiones.\n• El IMN proporciona datos precisos sobre el clima y su impacto en la población.\n• Varias localidades del Valle Central también experimentaron un descenso térmico significativo.\n• Las bajas temperaturas son comunes en esta época del año en la región montañosa.",
+      "source_name": "Damián Arroyo C.",
+      "source_url": "https://www.nacion.com/sucesos/cerro-de-la-muerte-y-varias-zonas-del-valle/ATHFKUNP7RD4JC4QOPUYKYDH6M/story/",
+      "publish_date": "2026-03-29T16:17:46.000Z",
+      "teaser": "Lo clave en 20 segundos: temperaturas más bajas en Cerro de la Muerte y Valle Central este domingo.",
+      "image_url": "https://www.nacion.com/resizer/v2/T5E53TA26BBS7O7H3FCM6QMKR4.JPG?auth=25575a1c7b90358db20273c00cac9a60b28d1df7760c303d7ba7e2c5c1cf1321&smart=true&width=4000&height=2250",
+      "description": "Cerro de la Muerte lideró las temperaturas más bajas en Costa Rica este 29 de marzo. Varias zonas del Valle Central figuran entre las más frías, según el IMN.",
+      "featured": false
+    },
+    {
+      "slug": "mejor-amiga-de-espanola-que-murio-por-eutanasia-intento-convencerla-de-cambiar-de-decision-poco-antes-del-procedimiento",
+      "title": "Mejor amiga de española que murió por eutanasia intentó convencerla de cambiar de decisión poco antes del procedimiento",
+      "category": "Mundo",
+      "bullets_20s": "• Un caso en España revive el debate sobre la eutanasia y la autonomía personal en decisiones médicas.\n• La amiga intentó convencer a Noelia de cambiar su decisión antes del procedimiento, generando una discusión intensa.\n• Las redes sociales han sido un campo caliente para el debate sobre la eutanasia y sus implicaciones éticas.\n• El tema de la eutanasia sigue siendo polémico, con opiniones diversas sobre el derecho a escoger.\n• Los testimonios de familiares y amigos a menudo influyen en decisiones difíciles como esta en la vida.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/el-mundo/amiga-intento-frenar-la-eutanasia-de-noelia/2J7PEGR5BZHI5GMRVM7SPZJT7E/story/",
+      "publish_date": "2026-03-29T16:06:08.000Z",
+      "teaser": "Lo clave en 20 segundos: Amiga intentó cambiar decisión sobre eutanasia, generando gran debate público.",
+      "image_url": "https://www.nacion.com/resizer/v2/KC66QC4VOBFRJDXIXBI6DNWXE4.jpg?auth=87021992cadec9cae679ea35169e07741bd2169ab415d419c14615d7bf84a571&smart=true&width=1200&height=675",
+      "description": "Amiga de joven que murió por eutanasia en España intentó detener el procedimiento minutos antes. El caso generó debate en redes y revive discusión sobre decisiones médicas.",
+      "featured": false
+    },
+    {
+      "slug": "el-dia-se-oscurecera-durante-6-minutos-como-y-donde-ver-el-eclipse-solar-mas-largo-del-siglo",
+      "title": "El día se oscurecerá durante 6 minutos: cómo y dónde ver el eclipse solar más largo del siglo",
+      "category": "Ciencia",
+      "bullets_20s": "• El eclipse solar más largo del siglo ocurrirá y cautivará a millones de personas.\n• Se prevé un período de oscuridad que durará seis minutos en puntos específicos.\n• El evento será visible en varias regiones, brindando una experiencia única.\n• Expertos estarán atentos al fenómeno para explicar sus implicaciones científicas.\n• Se recomienda seguir las instrucciones para ver el eclipse de manera segura.",
+      "source_name": "Damián Arroyo C.",
+      "source_url": "https://www.nacion.com/ciencia/el-eclipse-solar-mas-grande-del-siglo-oscurecera/PVIN5LDEUBDFPAN5IXR337NTYQ/story/",
+      "publish_date": "2026-03-29T16:05:44.000Z",
+      "teaser": "Lo clave en 20 segundos: eclipse solar impactante y prolongado que sorprenderá al mundo.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZGAWI7JKT5DTJKFDCGKXXQGB74.png?auth=e508dba3e46c189b9b17f49c4fefd3cee8829be1408f415a93fe7c1db01988fb&smart=true&width=1920&height=1080",
+      "description": "Un eclipse solar sorprenderá por su duración y por el inusual efecto que generará en pleno día en distintas partes del mundo.",
+      "featured": false
+    },
+    {
       "slug": "submarino-sovietico-libera-radiacion-en-el-mar-decadas-despues-de-su-hundimiento-y-desconcierta-a-cientificos-vea-el-vid",
       "title": "Submarino soviético libera radiación en el mar décadas después de su hundimiento y desconcierta a científicos: vea el video",
       "category": "Mundo",
@@ -716,19 +755,6 @@
       "featured": false
     },
     {
-      "slug": "el-eclipse-solar-mas-grande-del-siglo-oscurecera-el-dia-durante-6-minutos-conozca-la-fecha",
-      "title": "El eclipse solar más grande del siglo oscurecerá el día durante 6 minutos: conozca la fecha",
-      "category": "Ciencia",
-      "bullets_20s": "• Un eclipse solar de gran magnitud tendrá lugar pronto, sorprendiendo a miles de personas en diversas regiones.\n• Este evento astronómico oscuro tendrá una duración cercana a seis minutos, una experiencia única para observar.\n• Las rutas del eclipse permitirán que algunos afortunados disfruten del fenómeno en la mejor ubicación posible.\n• Se esperan cielos despejados en algunas regiones, lo que facilitará la observación del esperado evento.\n• Expertos aconsejan utilizar gafas especiales para proteger la vista durante el momento de mayor intensidad del eclipse.",
-      "source_name": "Damián Arroyo C.",
-      "source_url": "https://www.nacion.com/ciencia/el-eclipse-solar-mas-grande-del-siglo-oscurecera/PVIN5LDEUBDFPAN5IXR337NTYQ/story/",
-      "publish_date": "2026-03-28T14:05:43.000Z",
-      "teaser": "Lo clave en 20 segundos: Un eclipse solar impresionante se aproxima, no te lo puedes perder.",
-      "image_url": "https://www.nacion.com/resizer/v2/ZGAWI7JKT5DTJKFDCGKXXQGB74.png?auth=e508dba3e46c189b9b17f49c4fefd3cee8829be1408f415a93fe7c1db01988fb&smart=true&width=1920&height=1080",
-      "description": "Un eclipse solar sorprenderá por su duración y por el inusual efecto que generará en pleno día en distintas partes del mundo.",
-      "featured": false
-    },
-    {
       "slug": "alajuela-se-prepara-para-conmemorar-los-170-anos-de-la-batalla-de-rivas",
       "title": "Alajuela se prepara para conmemorar los 170 años de la Batalla de Rivas",
       "category": "Costa Rica",
@@ -1083,11 +1109,11 @@
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El foro busca reflexionar sobre la relación entre paz y medio ambiente en un contexto moderno.\n• Participaron académicos y expertos discutiendo la importancia de la educación en la construcción de paz.\n• Se abordó la integración de saberes indígenas como clave para conservar la naturaleza.\n• La economía circular se propuso como herramienta para un desarrollo sostenible y ético.\n• Los panelistas destacaron la necesidad de eliminar barreras sociales que afectan el bienestar humano.",
+      "bullets_20s": "• El conversatorio reunió a estudiantes y académicos para abordar la paz y la naturaleza.\n• Los panelistas reflexionaron sobre la importancia de una relación respetuosa con el entorno.\n• Se discutió la ética y la sostenibilidad en la construcción de paz social.\n• La economía circular fue presentada como clave para el desarrollo sostenible.\n• Se destacó la importancia de saberes indígenas en la conservación del medio ambiente.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Se discutieron los lazos entre la paz y el medio ambiente en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Un foro del TEC abordó cómo la paz se relaciona con los desafíos ambientales.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -1291,11 +1317,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria es un tema clave en la educación superior costarricense.\n• El TEC celebrará la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• El evento 'Conversemos con el TEC' se transmitirá en múltiples plataformas digitales.\n• Jacqueline Herrera y Sebastian Vallecillos participarán como oradores invitados.\n• Se invita a la comunidad a enviar preguntas previas para el evento.\n• El Día de la Autonomía Universitaria se conmemora el 12 de abril cada año.\n• La importancia de la autonomía será discutida en las actividades programadas.\n• Las redes sociales del TEC son el canal principal para esta conversación.\n• Este tipo de eventos fortalecen la participación estudiantil en temas relevantes.",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebra la autonomía universitaria con diversas actividades.\n• La Semana de la Autonomía Universitaria se llevará a cabo del 6 al 10 de abril.\n• Se conmemora cada 12 de abril el Día de la Autonomía Universitaria en el país.\n• Jacqueline Herrera Núñez y Sebastian Vallecillos serán los invitados para conversar.\n• La transmisión será en vivo a través de Facebook y YouTube del TEC.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Conoce la importancia de la autonomía universitaria en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Conversemos sobre la autonomía universitaria en el TEC este 8 de abril.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -1311,19 +1337,6 @@
       "teaser": "Lo clave en 20 segundos: Gustavo Petro habla de Trump y relaciones con EE.UU. en transmisión impactante.",
       "image_url": "https://www.nacion.com/resizer/v2/WEHZQARH6VF75LZE3HAMDCPHHY.png?auth=c8ac8728263bde8a650fb88371b53caa308380c52aee5536d7a517cdc05d8644&smart=true&width=1289&height=733",
       "description": "Gustavo Petro sorprende en transmisión con Westcol al mencionar a Donald Trump y hablar sobre la relación con Estados Unidos y los subsidios en Colombia.",
-      "featured": false
-    },
-    {
-      "slug": "amiga-intento-frenar-la-eutanasia-de-noelia-castillo-en-espana-y-desato-fuerte-polemica-en-redes",
-      "title": "Amiga intentó frenar la eutanasia de Noelia Castillo en España y desató fuerte polémica en redes",
-      "category": "Mundo",
-      "bullets_20s": "• La eutanasia es un tema controversial que involucra consideraciones éticas y médicas.\n• El caso de Noelia Castillo ha reavivado el debate sobre los derechos de los pacientes.\n• Las redes sociales han reaccionado de diversas formas ante la decisión tomada en este caso.\n• Es importante reflexionar sobre las implicaciones de la eutanasia en la sociedad actual.\n• Este incidente muestra las tensiones entre decisiones individuales y presiones externas en salud.",
-      "source_name": "O Globo",
-      "source_url": "https://www.nacion.com/el-mundo/amiga-intento-frenar-la-eutanasia-de-noelia/2J7PEGR5BZHI5GMRVM7SPZJT7E/story/",
-      "publish_date": "2026-03-27T15:14:31.000Z",
-      "teaser": "Lo clave en 20 segundos: la eutanasia de Noelia y su controversia desatan el debate médico y ético.",
-      "image_url": "https://www.nacion.com/resizer/v2/KC66QC4VOBFRJDXIXBI6DNWXE4.jpg?auth=87021992cadec9cae679ea35169e07741bd2169ab415d419c14615d7bf84a571&smart=true&width=1200&height=675",
-      "description": "Amiga de joven que murió por eutanasia en España intentó detener el procedimiento minutos antes. El caso generó debate en redes y revive discusión sobre decisiones médicas.",
       "featured": false
     },
     {
@@ -1850,11 +1863,11 @@
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "category": "Ciencia",
-      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería en Producción Industrial reunió a expertos y estudiantes de varios países.\n• Se discutió la importancia de la sostenibilidad y la innovación en la producción industrial moderna.\n• El evento contó con conferencias sobre robótica y la ética de la inteligencia artificial en la educación.\n• Se abordó el papel de las mujeres en la ingeniería industrial y su creciente participación en la disciplina.\n• Los organizadores destacaron la necesidad de formar profesionales con una visión integral en ingeniería.",
+      "bullets_20s": "• El IV Encuentro Internacional reunió a especialistas en Producción Industrial de varios países.\n• Se discutieron temas como la innovación tecnológica y la sostenibilidad en la industria actual.\n• Las jornadas incluyeron conferencias y networking para fomentar el intercambio académico.\n• La robótica háptica y la inteligencia artificial interpretable fueron temas destacados.\n• El encuentro buscó fortalecer la formación integral de profesionales en la ingeniería industrial.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: El IV Encuentro promueve la innovación y la sostenibilidad en la ingeniería en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El IV Encuentro de Producción Industrial promovió innovación y sostenibilidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -2513,11 +2526,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La jornada en el TEC promueve el intercambio de ideas sobre biotecnología entre investigadores y estudiantes.\n• Organizada por el Club BIOTEC en Acción, la jornada resaltó la importancia de la biotecnología en Costa Rica.\n• Estudiantes presentaron investigaciones sobre biotecnología ambiental, salud y bioprocesos durante la actividad.\n• Destacó la charla del Dr. Anthony Valverde sobre biotecnología reproductiva y desarrollo científico en el país.\n• El evento cerró con un espacio de networking, fortaleciendo redes de colaboración en el campo biotecnológico.",
+      "bullets_20s": "• La Jornada Estudiantil de Divulgación Científica se realizó en el Campus Tecnológico Central de Cartago.\n• Se destacó la importancia de la biotecnología en la conversación actual del país, especialmente entre jóvenes.\n• El evento incluyó presentaciones sobre biotecnología ambiental, salud y bioprocesos por parte de estudiantes.\n• Una mesa redonda analizó el futuro y desafíos de la biotecnología en Costa Rica con voces académicas.\n• La charla del Dr. Anthony Valverde giró en torno a biotecnología reproductiva y su impacto en la sociedad.\n• Se organizaron espacios de networking para fomentar colaboraciones entre jóvenes investigadores y académicos.\n• Este tipo de actividad busca reducir la estigmatización de la biotecnología en la opinión pública costarricense.\n• El TEC reafirma su compromiso con la formación profesional integral y la promoción de la ciencia.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: La jornada en el TEC impulsa la biotecnología y el intercambio entre investigadores.",
+      "teaser": "Lo clave en 20 segundos: jóvenes investigadores promueven la biotecnología en Costa Rica a través de la divulgación.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -3550,5 +3563,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-29T16:30:46.313Z"
+  "generated_at": "2026-03-29T17:30:46.589Z"
 }
