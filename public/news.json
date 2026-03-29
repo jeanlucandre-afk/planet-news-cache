@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "meningitis-causo-mas-de-259000-muertes-en-2023-ninos-menores-de-cinco-anos-concentran-mas-de-un-tercio-de-los-casos",
+      "title": "Meningitis causó más de 259.000 muertes en 2023: niños menores de cinco años concentran más de un tercio de los casos",
+      "category": "Ciencia",
+      "bullets_20s": "• La meningitis es una enfermedad grave que afecta el sistema nervioso central de las personas.\n• Los niños menores de cinco años son los más vulnerables a esta enfermedad infecciosa.\n• En 2023, más de 259.000 muertes fueron causas atribuidas a la meningitis en todo el mundo.\n• Se estima que la meningitis causó alrededor de 2,5 millones de infecciones anuales.\n• La vacunación es clave para prevenir la meningitis y proteger a los más pequeños.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/ciencia/salud/meningitis-causo-mas-de-259000-muertes-en-2023/OQ6VBQMRCRCOJHJCSSXYRFE6G4/story/",
+      "publish_date": "2026-03-29T21:19:54.000Z",
+      "teaser": "Lo clave en 20 segundos: La meningitis causa graves problemas de salud globalmente, afectando especialmente a niños.",
+      "image_url": "https://www.nacion.com/resizer/v2/BX4TKCZVHZHQXJW6H43HHFPA6E.png?auth=c6e16feba08931eb2a3742f66aaef9b288022c19454e61f6b9982c03c4f5a0ee&smart=true&width=1920&height=1080",
+      "description": "La meningitis causó 259.000 muertes en 2023 y 2,5 millones de infecciones. Niños menores de cinco años concentran más de un tercio de los fallecimientos, según estudio global.",
+      "featured": false
+    },
+    {
+      "slug": "victima-de-triple-homicidio-en-san-mateo-era-presidente-del-municipal-puntarenas",
+      "title": "Víctima de triple homicidio en San Mateo era presidente del Municipal Puntarenas",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Organismo de Investigación Judicial investiga un triple homicidio en San Mateo de Alajuela.\n• La víctima era presidente del Municipal Puntarenas, lo que ha generado gran atención pública.\n• El allanamiento en su casa busca evidencia relacionada con el crimen ocurrido recientemente.\n• La comunidad se encuentra consternada por la violencia en esta localidad costarricense.\n• Las autoridades invitan a la población a colaborar con información que ayude a resolver el caso.",
+      "source_name": "Christian Montero",
+      "source_url": "https://www.nacion.com/sucesos/oij-allano-casa-de-victima-de-triple-homicidio-en/ZD5C6P4PRNGKPKLHZBKGLGUQLE/story/",
+      "publish_date": "2026-03-29T21:16:28.000Z",
+      "teaser": "Lo clave en 20 segundos: un presidente de club está relacionado con un homicidio triple en San Mateo.",
+      "image_url": "https://www.nacion.com/resizer/v2/4KA4O5BBYZC5JHP5ACKNSHOMJY.jpeg?auth=8f78c458b135a5a78506d613d539229e5652a325f98c731dcda3ff26f4aed8df&smart=true&width=398&height=224",
+      "description": "Agentes del Organismo de Investigación Judicial (OIJ), allanaron la casa de una de las víctimas del triple homicidio ocurrido en San Mateo de Alajuela.",
+      "featured": false
+    },
+    {
+      "slug": "poder-generalisimo-para-el-registro-de-transparencia-conozca-los-nuevos-requisitos-y-riesgos",
+      "title": "Poder generalísimo para el Registro de Transparencia: Conozca los nuevos requisitos y riesgos",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Registro de Beneficiarios Finales establece nuevos requisitos para la presentación de documentos.\n• El nuevo poder generalísimo busca facilitar la transparencia en la gestión de recursos.\n• Es importante regularizar la firma digital para evitar complicaciones legales en el registro.\n• Los riesgos asociados a no cumplir con los nuevos requisitos pueden ser significativos.\n• La circular informativa busca educar a los usuarios sobre los cambios implementados.",
+      "source_name": "Ricardo González",
+      "source_url": "https://www.nacion.com/economia/poder-generalisimo-para-el-registro-de/5QCAGKUS6JDX5NL3N3FAOHARSY/story/",
+      "publish_date": "2026-03-29T21:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: nuevos requisitos y riesgos del Registro de Transparencia en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/VQT3IUBT65H6HHHY27DV7DSMTM.png?auth=3263f8add5343ff000bcb416620b5b5f351fe49e147d7b752b59ff2a519a5739&smart=true&width=963&height=663",
+      "description": "¿Tiene problemas para declarar ante el Registro de Beneficiarios Finales por falta de firma digital? Conozca la nueva circular y los riesgos del poder requerido.",
+      "featured": false
+    },
+    {
       "slug": "papa-leon-xiv-llama-a-la-paz-en-domingo-de-ramos-dios-no-escucha-la-oracion-de-quienes-hacen-la-guerra",
       "title": "Papa León XIV llama a la paz en Domingo de Ramos: ‘Dios no escucha la oración de quienes hacen la guerra’",
       "category": "Mundo",
@@ -1304,11 +1343,11 @@
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El foro de UNESCO se centra en paz y entorno natural, promoviendo diálogo interdisciplinario.\n• Representantes de la academia y la sociedad civil discuten sostenibilidad y conservación ambiental.\n• La ética y el conocimiento son vistos como claves para lograr un futuro más sostenible.\n• Se explora la importancia de los saberes indígenas en la conservación de territorios.\n• Panelistas destacan la economía circular como vía hacia el desarrollo sostenible y responsable.",
+      "bullets_20s": "• El foro promovió la reflexión sobre la paz y el vínculo con la naturaleza en el TEC.\n• Participaron estudiantes y expertos en un diálogo interdisciplinario sobre sostenibilidad.\n• Se discutió la importancia de integrar saberes indígenas en la conservación ambiental.\n• La ética fue un tema clave en la toma de decisiones sobre el ambiente.\n• El conversatorio subrayó la necesidad de un enfoque integral hacia la paz y la naturaleza.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: el foro UNESCO en el TEC aborda paz y desafíos ambientales.",
+      "teaser": "Lo clave en 20 segundos: Un foro en el TEC aborda paz y medio ambiente.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -1512,11 +1551,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• Se conmemorará el Día de la Autonomía Universitaria el 12 de abril en Costa Rica.\n• Conversemos con el TEC se transmitirá en Facebook y YouTube del TEC.\n• La docente Jacqueline Herrera Núñez participará en el conversatorio sobre autonomía.\n• Se invita a la audiencia a enviar preguntas al correo del evento.",
+      "bullets_20s": "• El TEC celebra la autonomía universitaria con actividades del 6 al 10 de abril.\n• La Semana de la Autonomía Universitaria busca generar conciencia sobre este tema.\n• Los ponentes incluyen a un docente y un estudiante del TEC.\n• El evento se transmitirá por Facebook y YouTube del Tecnológico.\n• El Día de la Autonomía Universitaria se conmemora cada 12 de abril en Costa Rica.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Semana de la Autonomía Universitaria se celebra en el TEC con actividades y conversatorio.",
+      "teaser": "Lo clave en 20 segundos: Conoce las actividades sobre autonomía universitaria en el TEC este abril.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -2058,11 +2097,11 @@
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "category": "Costa Rica",
-      "bullets_20s": "• El IV Encuentro Internacional unió a académicos de varias naciones para discutir innovación industrial.\n• La agenda incluyó temas como robótica y sostenibilidad en la producción industrial moderna.\n• Expertos debatieron sobre la importancia del papel social de la ingeniería y su evolución.\n• El evento destacó la relevancia de conectar teoría académica con prácticas industriales actuales.\n• La participación estudiantil fue clave para enriquecer el intercambio de conocimientos internacional.",
+      "bullets_20s": "• El IV Encuentro se enfocó en la unión entre academia e industria para el desarrollo nacional.\n• Se discutieron temas como la Ingeniería Industrial 5.0 y la robótica háptica en el evento.\n• Los participantes compartieron experiencias que enriquecen la formación de futuros ingenieros.\n• El evento subraya la importancia de la sostenibilidad en el ámbito industrial moderno.\n• Los organizadores buscan formar profesionales con visión integral para enfrentar nuevos retos.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Encuentro internacional promueve innovación y sostenibilidad en la ingeniería industrial.",
+      "teaser": "Lo clave en 20 segundos: Encuentro reúne a expertos en innovación y sostenibilidad en la industria.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -2721,11 +2760,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La Jornada Estudiantil de Divulgación Científica 2026 se llevó a cabo en el TEC de Cartago.\n• Se presentaron proyectos sobre biotecnología ambiental, salud y bioprocesos por estudiantes.\n• El lema de la jornada fue 'Fortaleciendo caminos: jóvenes investigadores y biotecnología'.\n• Se realizó una mesa redonda sobre desafíos en biotecnología en Costa Rica, con académicos.\n• El Dr. Anthony Valverde destacó la importancia de los experimentos en el futuro de la ciencia.\n• Participantes intercambiaron ideas y experiencias en espacios de diálogo académico durante la jornada.\n• Iniciativas como esta buscan unir academia e industria para potenciar el conocimiento biotecnológico.\n• Se promueve la creación de redes de colaboración en biotecnología a nivel nacional.\n• La jornada incluyó un espacio de networking para fomentar posibles colaboraciones futuras.\n• El TEC reafirma su compromiso con la divulgación científica y formación integral de profesionales.",
+      "bullets_20s": "• El TEC celebra la Jornada Estudiantil de Divulgación Científica 2026, promoviendo el intercambio de conocimientos.\n• Adrián Alpízar presentó su proyecto sobre rescate genético de larvas durante el evento de divulgación científica.\n• La actividad reunió a estudiantes y especialistas para reflexionar sobre la biotecnología y su impacto social.\n• Se destacó la importancia de crear redes de colaboración en el ámbito de la biotecnología en el país.\n• Caleb Barrantes subrayó que la biotecnología debe ser un tema actual para forjar el futuro del país.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: jóvenes en biotecnología se unen para divulgar ciencia en el TEC.",
+      "teaser": "Lo clave en 20 segundos: jóvenes investigadores impulsan la biotecnología en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -3758,5 +3797,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-29T21:30:46.587Z"
+  "generated_at": "2026-03-29T22:30:46.469Z"
 }
