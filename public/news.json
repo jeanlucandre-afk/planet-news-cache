@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "trump-proclama-un-cambio-de-regimen-en-iran-y-vaticina-el-fin-de-la-guerra",
+      "title": "Trump proclama un ‘cambio de régimen’ en Irán y vaticina el fin de la guerra",
+      "category": "Mundo",
+      "bullets_20s": "• Trump habla de un cambio significativo en la política de Irán y su liderazgo actual.\n• La muerte de jerarcas iraníes milita en la idea de un futuro nuevo para el país.\n• Se anticipa una posible reapertura del estratégico estrecho de Ormuz pronto.\n• Este anuncio impacta las relaciones internacionales y la estabilidad regional.\n• Los expertos analizan las repercusiones de este cambio en la geopolítica global.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/trump-proclama-un-cambio-de-regimen-en-iran-y/DVQ5SWR7DFEGXIW6G24YQPJOMM/story/",
+      "publish_date": "2026-03-30T03:20:24.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump prevé un nuevo liderazgo en Irán tras recientes eventos significativos.",
+      "image_url": "https://www.nacion.com/resizer/v2/OB37ZUZ2XVEWJP2WLG7Z5GKNEU.jpg?auth=e510384e4d3785b02c1ab69e631412621ad1c9272f4e5da5181b9875af20cb8a&smart=true&width=5318&height=3545",
+      "description": "Mandatario asegura que muerte de altos jerarcas iraníes es un relevo de mando y anticipa la reapertura del estrecho de Ormuz.",
+      "featured": false
+    },
+    {
+      "slug": "trump-cede-ante-llegada-de-petroleo-ruso-a-cuba-la-gente-necesita-calefaccion",
+      "title": "Trump cede ante llegada de petróleo ruso a Cuba: ‘La gente necesita calefacción’",
+      "category": "Mundo",
+      "bullets_20s": "• El mandatario estadounidense modifica su postura respecto al petróleo ruso para Cuba.\n• Cuba recibe un buque con crudo para afrontar una crisis energética prolongada.\n• La decisión busca garantizar calefacción a la población cubana ante el frío.\n• Este envío de petróleo ruso podría aliviar tensiones económicas en la isla.\n• La situación energética en Cuba ha sido crítica debido a sanciones y bloqueos.\n• Analistas destacan la importancia de esta decisión para la diplomacia internacional.\n• Las relaciones entre EE.UU. y Rusia se ven afectadas por este envío de petróleo.\n• Se prevé que la llegada del crudo tenga un impacto significativo en la población.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/trump-cede-ante-llegada-de-petroleo-ruso-a-cuba-la/PNCAQM75QFFPBA6QD5VQMTFW44/story/",
+      "publish_date": "2026-03-30T02:51:17.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump suaviza su postura sobre el petróleo ruso para ayudar a Cuba.",
+      "image_url": "https://www.nacion.com/resizer/v2/5SZPDCGZYZHHVHJPC66ZQ5RS54.jpg?auth=7ce13f3e7c93329c6554407b88095b5923f8c153b1e92fa239d30a4790f225de&smart=true&width=7280&height=4923",
+      "description": "Mandatario suaviza su postura y permite que buque atraque el martes en Matanzas con 730.000 barriles de crudo, un respiro para unos 12 días",
+      "featured": false
+    },
+    {
       "slug": "loteria-nacional-salio-el-mayor-de-este-29-de-marzo",
       "title": "Lotería Nacional: salió EL MAYOR de este 29 de marzo",
       "category": "Costa Rica",
-      "bullets_20s": "• El sorteo de Lotería Nacional tuvo lugar el pasado domingo en un evento muy esperado.\n• El premio mayor alcanzó los 175 millones de colones, generando gran expectativa.\n• La Junta de Protección Social organizó el sorteo para beneficiar a varios programas sociales.\n• Miles de ticos participaron en la compra de boletos, con la esperanza de ganar.\n• El evento estuvo acompañado de música y celebraciones, como es tradición en Costa Rica.",
+      "bullets_20s": "• El sorteo de la Lotería Nacional es un evento muy esperado en el país cada mes.\n• Este 29 de marzo, el premio mayor fue de ¢175 millones, una cantidad significativa.\n• La Junta de Protección Social organiza los sorteos de manera regular en Costa Rica.\n• Los ticos se emocionan ante la posibilidad de ganar grandes sumas de dinero.\n• La Lotería promueve la esperanza y la ilusión entre los participantes de todas las edades.",
       "source_name": "Juan Fernando Lara Salas",
       "source_url": "https://www.nacion.com/el-pais/loteria-nacional-salio-el-segundo-vea-el-ganador/Q4RAHM5PCJDHLKE3DK6PUVZ5GM/story/",
       "publish_date": "2026-03-30T02:05:47.000Z",
-      "teaser": "Lo clave en 20 segundos: El premio mayor de la Lotería Nacional fue de 175 millones de colones.",
+      "teaser": "Lo clave en 20 segundos: El premio mayor de la Lotería Nacional alcanzó ¢175 millones este 29 de marzo.",
       "image_url": "https://www.nacion.com/resizer/v2/MNAZ4LWGDBERDGQBOE34BC32A4.jpg?auth=b543caa190123977b0fad1a1ed276f83e8794c40a81a6c16a8237f55f4a7f8b9&smart=true&width=2546&height=1369",
       "description": "Junta de Protección Social celebró este domingo millonario sorteo de Lotería Nacional con premio mayor de ¢175 millones",
       "featured": false
@@ -1472,12 +1498,12 @@
     {
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
-      "category": "Ciencia",
-      "bullets_20s": "• El foro UNESCO se centró en la relación entre paz y naturaleza en el TEC.\n• Académicos y especialistas debatieron sobre sostenibilidad y construcción de paz.\n• Se abordaron problemas ambientales y sociales como retos para la paz.\n• Se resaltó la importancia de integrar saberes indígenas en la conservación.\n• El conversatorio promovió el diálogo interdisciplinario sobre ética y ambiente.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El foro UNESCO se realizó en el Tecnológico de Costa Rica para discutir la paz y el medio ambiente.\n• Estudiantes y académicos participaron en un diálogo interdisciplinario sobre sostenibilidad y ética.\n• Se abordó la integración de saberes indígenas como parte esencial en la conservación ambiental.\n• La economía circular se presentó como un modelo sostenible para el desarrollo en el conversatorio.\n• Se destacó la importancia de reconstruir la relación entre humanos y la naturaleza para la paz.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Conversatorio sobre construcción de paz y su relación con el medio ambiente.",
+      "teaser": "Lo clave en 20 segundos: Un foro UNESCO en el TEC reflexiona sobre la paz y los desafíos ambientales.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -1681,11 +1707,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra la autonomía universitaria con un evento en redes sociales el 8 de abril.\n• Se conmemora el Día de la Autonomía Universitaria el 12 de abril en Costa Rica.\n• Las actividades de la Semana de la Autonomía se realizarán del 6 al 10 de abril.\n• Jacqueline Herrera y Sebastian Vallecillos participarán en el evento para discutir la autonomía.\n• Los interesados pueden enviar preguntas al correo proporcionado antes del evento.",
+      "bullets_20s": "• La autonomía universitaria es un pilar fundamental en la educación costarricense.\n• El TEC celebrará una Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• Día de la Autonomía Universitaria se conmemora el 12 de abril en Costa Rica.\n• El evento se transmitirá en vivo por Facebook y YouTube del TEC.\n• Se contará con la participación de docentes y estudiantes en la discusión.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC celebrará la autonomía universitaria con un evento en redes sociales.",
+      "teaser": "Lo clave en 20 segundos: Conversemos sobre la importancia de la autonomía universitaria en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -2227,11 +2253,11 @@
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "category": "Costa Rica",
-      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería en Producción Industrial se celebra en San Carlos, Costa Rica.\n• Estudiantes y docentes de varios países se reúnen para discutir innovación y sostenibilidad.\n• Temas destacados incluyen robótica, inteligencia artificial y la transición energética.\n• El evento promueve el networking y el intercambio académico entre participantes internacionales.\n• Se busca formar profesionales capacitados para los desafíos actuales del sector industrial.",
+      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería se realizó en el Campus Tecnológico Local San Carlos.\n• Este evento reunió a estudiantes, docentes y especialistas de varios países de América Latina.\n• Se abordaron temas como la Ingeniería Industrial 5.0 y la producción limpia.\n• Conferencias y charlas fomentaron el intercambio académico entre diversas universidades.\n• La sostenibilidad y el uso ético de la inteligencia artificial fueron temas clave del encuentro.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Encuentro destaca la importancia de la innovación en la ingeniería industrial.",
+      "teaser": "Lo clave en 20 segundos: Encuentro impulsa innovación y sostenibilidad en la producción industrial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -2890,11 +2916,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica fomenta la interacción entre la academia y la industria biotecnológica.\n• Estudiantes presentaron sus proyectos en biotecnología ambiental, salud y bioprocesos.\n• La jornada promovió el intercambio de conocimientos y experiencias entre jóvenes investigadores.\n• El Dr. Anthony Valverde impartió una charla sobre biotecnología reproductiva en Costa Rica.\n• Se resaltó la importancia de la biotecnología en el futuro del desarrollo sostenible del país.",
+      "bullets_20s": "• La jornada en el TEC promueve el intercambio de conocimientos en biotecnología entre estudiantes e investigadores.\n• Estudiantes presentaron avances en biotecnología ambiental, salud, y bioprocesos durante la actividad.\n• El Dr. Anthony Valverde destacó la importancia de cada investigación en el futuro de la biotecnología en Costa Rica.\n• Los espacios generados permiten la construcción de redes de colaboración en biotecnología para el país.\n• Se abordaron los desafíos actuales del sector biotecnológico en una mesa redonda con voces académicas.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Jóvenes investigadores promueven la biotecnología en Costa Rica mediante una jornada interactiva.",
+      "teaser": "Lo clave en 20 segundos: Jóvenes investigadores impulsan la biotecnología en un evento del TEC para el futuro del país.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -3927,5 +3953,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-30T03:30:47.185Z"
+  "generated_at": "2026-03-30T04:30:46.951Z"
 }
