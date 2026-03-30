@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "ccss-descarta-una-medida-polemica-para-elevar-los-ingresos-del-seguro-de-salud",
+      "title": "CCSS descarta una medida polémica para elevar los ingresos del Seguro de Salud",
+      "category": "Costa Rica",
+      "bullets_20s": "• La CCSS ha decidido no aumentar las cotizaciones del Seguro de Salud en este momento.\n• Gustavo Picado, gerente financiero, detalló la situación actual de ingresos del SEM.\n• Se buscaban opciones para elevar los ingresos, pero no hay margen disponible para cambios.\n• La decisión busca garantizar la estabilidad del sistema de salud en el país.\n• La CCSS seguirá evaluando alternativas para mejorar sus ingresos en el futuro.",
+      "source_name": "Arianna  Villalobos Solís",
+      "source_url": "https://www.nacion.com/economia/ccss-descarta-una-medida-polemica-para-elevar-los/AC6WRBDFAZFRZN3XDIJLQ3TPRA/story/",
+      "publish_date": "2026-03-30T11:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La CCSS no elevará cotizaciones al Seguro de Salud por falta de margen financiero.",
+      "image_url": "https://www.nacion.com/resizer/v2/WJKTU4TBSZBFLBDSCTRF6F2BVY.JPG?auth=8274782772ccf3a0858bf872ac6c76124abd8c6860a9878403b655eeed058d85&smart=true&width=4000&height=2667",
+      "description": "Gerente financiero de la CCSS, Gustavo Picado, confirmó que no hay margen para subir cotizaciones al SEM",
+      "featured": false
+    },
+    {
+      "slug": "ccss-plantea-crear-impuesto-a-la-salud-o-elevar-el-iva-para-financiar-atencion-medica-en-costa-rica",
+      "title": "CCSS plantea crear impuesto a la salud o elevar el IVA para financiar atención médica en Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• La CCSS analiza la creación de un nuevo impuesto específico para la salud en el país.\n• La propuesta también incluye la posibilidad de elevar el IVA para financiar atención médica.\n• El objetivo es mantener la sostenibilidad del Seguro de Salud a largo plazo.\n• Se busca garantizar la atención médica a todos los costarricenses, independientemente de sus ingresos.\n• Expertos debaten sobre las implicaciones fiscales de estas nuevas propuestas de financiamiento.",
+      "source_name": "Arianna Villalobos Solís",
+      "source_url": "https://www.nacion.com/economia/ccss-plantea-crear-impuesto-a-la-salud-o-elevar-el/WYIGQ73QXZFG7NZVYMVQCZEIR4/story/",
+      "publish_date": "2026-03-30T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: CCSS propone nuevo impuesto o IVA más alto para asegurar servicios de salud.",
+      "image_url": "https://www.nacion.com/resizer/v2/D3GJKAT4BNFAZAVEWRQCUDSQCU.jpg?auth=423706bd847d29197a31f40d479185582becfd8adf6544aa6901d8a66e38481e&smart=true&width=1200&height=628",
+      "description": "CCSS busca nuevas opciones para sostener el Seguro de Salud. Conozca los alcances de la nueva política de sostenibilidad de la institución.",
+      "featured": false
+    },
+    {
       "slug": "hombre-muere-acribillado-dentro-de-vehiculo-en-finca-san-juan-de-pavas",
       "title": "Hombre muere acribillado dentro de vehículo en Finca San Juan de Pavas",
       "category": "Costa Rica",
-      "bullets_20s": "• Un hombre fue acribillado mientras se encontraba dentro de su vehículo en Pavas.\n• El ataque se registró cerca de la alameda El Tapón, una zona conocida.\n• El vehículo presentó varios impactos de bala en el parabrisas y otras partes.\n• La comunidad está consternada por este caso de violencia en la localidad.\n• Las autoridades investigan las circunstancias del ataque y su posible motivación.",
+      "bullets_20s": "• Un hombre fue asesinado dentro de su vehículo en Finca San Juan de Pavas, un hecho violento.\n• El ataque se produjo cerca de la alameda El Tapón, un lugar conocido por su actividad comercial.\n• El vehículo de la víctima presentaba múltiples orificios de bala, lo que indica un ataque directo.\n• La policía inició una investigación para determinar las circunstancias del ataque y los responsables.\n• Este incidente resalta la creciente preocupación por la violencia en áreas urbanas de Costa Rica.",
       "source_name": "Juan Fernando Lara Salas",
       "source_url": "https://www.nacion.com/sucesos/hombre-muere-acribillado-dentro-de-vehiculo-en/R4XRNBH6Q5B3ZEILT6LUCZ5WEM/story/",
       "publish_date": "2026-03-30T03:47:57.000Z",
-      "teaser": "Lo clave en 20 segundos: hombre asesinado a tiros dentro de su vehículo en Pavas.",
+      "teaser": "Lo clave en 20 segundos: Hombre asesinado dentro de vehículo en San Juan de Pavas en un ataque violento.",
       "image_url": "https://www.nacion.com/resizer/v2/WLHN5WLE5FFARD2UAER3RMD6AE.jpeg?auth=1c03ec470633f37a9d57452c9fec880b45e37f858e988f70ef0712062706d5d8&smart=true&width=1024&height=576",
       "description": "Ataque ocurrió cerca de la alameda El Tapón; vehículo de víctima tiene múltiples orificios de bala en el parabrisas",
       "featured": false
@@ -17,11 +43,11 @@
       "slug": "trump-proclama-un-cambio-de-regimen-en-iran-y-vaticina-el-fin-de-la-guerra",
       "title": "Trump proclama un ‘cambio de régimen’ en Irán y vaticina el fin de la guerra",
       "category": "Mundo",
-      "bullets_20s": "• Trump destaca un presunto cambio de liderazgo en Irán tras la muerte de figuras clave en el gobierno.\n• El presidente estadounidense menciona la posible estabilidad en la región tras los recientes eventos.\n• Se anticipa el fin de la guerra en la zona, promoviendo diálogos y negociaciones diplomáticas.\n• La reapertura del estrecho de Ormuz podría influir en el comercio internacional y la economía global.\n• El mandatario reafirma el compromiso de Estados Unidos con sus aliados en el medio oriente.",
+      "bullets_20s": "• Trump anuncia un nuevo paradigma para el futuro de Irán y su relación con Occidente.\n• La muerte de jerarcas iraníes marca un cambio significativo en la política del país.\n• El mandatario predice el fin de las hostilidades en la región a corto plazo.\n• Se espera que la reapertura del estrecho de Ormuz transforme la economía global.\n• La comunidad internacional observa con atención el desenlace de estas afirmaciones.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/el-mundo/trump-proclama-un-cambio-de-regimen-en-iran-y/DVQ5SWR7DFEGXIW6G24YQPJOMM/story/",
       "publish_date": "2026-03-30T03:20:24.000Z",
-      "teaser": "Lo clave en 20 segundos: Trump destaca un cambio en Irán y prevé el fin de la guerra.",
+      "teaser": "Lo clave en 20 segundos: Trump prevé un cambio de mando en Irán que podría cambiar la dinámica regional.",
       "image_url": "https://www.nacion.com/resizer/v2/OB37ZUZ2XVEWJP2WLG7Z5GKNEU.jpg?auth=e510384e4d3785b02c1ab69e631412621ad1c9272f4e5da5181b9875af20cb8a&smart=true&width=5318&height=3545",
       "description": "Mandatario asegura que muerte de altos jerarcas iraníes es un relevo de mando y anticipa la reapertura del estrecho de Ormuz",
       "featured": false
@@ -1511,12 +1537,12 @@
     {
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
-      "category": "Ciencia",
-      "bullets_20s": "• Estudiantes y académicos discutieron sobre la construcción de paz y su vínculo con la naturaleza en el foro.\n• El foro promovió una reflexión sobre la relación entre humanos y el entorno, abordando desafíos éticos y ambientales.\n• Expertos en sostenibilidad compartieron conocimientos sobre la importancia de los saberes indígenas en la conservación.\n• La ética y la economía circular fueron temas clave para el desarrollo de modelos sostenibles en la construcción de paz.\n• El conversatorio resaltó la importancia de un enfoque integral considerando el bienestar humano y el entorno natural.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El foro UNESCO se enfocó en la paz y su relación con los desafíos ambientales actuales.\n• Se realizó un espacio de diálogo interdisciplinario entre estudiantes y académicos destacados.\n• Panelistas discutieron la importancia de reconectar con nuestro entorno natural y cultura.\n• La economía circular se destacó como un modelo necesario para el desarrollo sostenible.\n• Se abordaron las barreras sociales que limitan el acceso a la paz y el desarrollo humano.\n• La ética ambiental fue considerada clave para la toma de decisiones en la vida cotidiana.\n• Se subrayó la relevancia de la inclusión de saberes indígenas en la conservación ambiental.\n• El TEC promueve un compromiso con la mejora de la calidad de vida de las comunidades.\n• El evento concluyó con un llamado a fortalecer el diálogo interdisciplinario en la academia.\n• El rol de la ciencia y la tecnología en la paz fue un tema central durante el conversatorio.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: El foro UNESCO en el TEC exploró la relación entre paz y medio ambiente mediante un diálogo interdisciplinario.",
+      "teaser": "Lo clave en 20 segundos: Un foro busca unir paz y medio ambiente en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -1719,12 +1745,12 @@
     {
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
-      "category": "Ciencia",
-      "bullets_20s": "• El Tecnológico de Costa Rica invita a reflexionar sobre la autonomía universitaria.\n• Con la celebración de la Semana de la Autonomía Universitaria se realizan diversas actividades.\n• El evento Conversemos con el TEC se transmitirá en redes sociales del Tecnológico.\n• La docente Jacqueline Herrera y el estudiante Sebastian Vallecillos abordarán el tema.\n• Este diálogo busca resaltar la importancia de la autonomía en la educación superior.",
+      "category": "Costa Rica",
+      "bullets_20s": "• La autonomía universitaria en el TEC es un tema central para su comunidad académica.\n• La Semana de la Autonomía se celebra del 6 al 10 de abril en el TEC.\n• El Día de la Autonomía Universitaria se conmemora cada 12 de abril en Costa Rica.\n• Estimados docentes y estudiantes participarán en las actividades programadas para la semana.\n• Conversemos con el TEC se transmitirá en vivo por sus redes sociales y canales oficiales.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Conversemos sobre la autonomía universitaria en el TEC este 8 de abril.",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria se celebra con un evento en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -2266,11 +2292,11 @@
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "category": "Costa Rica",
-      "bullets_20s": "• El IV Encuentro Internacional reunió a expertos de varios países latinoamericanos en un evento clave.\n• Se discutieron temas como la Ingeniería Industrial 5.0 y la robótica aplicadas a la industria.\n• El evento fomentó el intercambio académico y la conexión entre estudiantes y profesionales.\n• Se abordaron retos actuales en el ámbito de la sostenibilidad y producción limpia.\n• El EIIPI tiene impacto social y promueve la participación activa de las mujeres en ingeniería.",
+      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería se enfocó en conectar la academia con tendencias globales.\n• Se destacó la importancia de la sostenibilidad y la innovación en la producción industrial.\n• Expertos de América Latina compartieron conocimientos sobre ingeniería industrial y sostenibilidad.\n• Temas relevantes incluyeron robótica, inteligencia artificial y producción limpia en el evento.\n• Los organizadores enfatizaron la necesidad de formar profesionales con visión integral y estratégica.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Impulso a la innovación y sostenibilidad en el IV Encuentro de Producción Industrial.",
+      "teaser": "Lo clave en 20 segundos: Impulso a la innovación en la industria por medio del Encuentro Internacional de Ingeniería.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -2929,11 +2955,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La jornada en el TEC destacó avances en proyectos de biotecnología de jóvenes investigadores del país.\n• Adrián Alpízar presentó su trabajo sobre el rescate genético de larvas en el evento.\n• El lema fue 'Fortaleciendo caminos: jóvenes investigadores, biotecnología y sociedad'.\n• Estudiantes compartieron investigaciones en áreas como biotecnología ambiental y de salud.\n• Se celebró una mesa redonda para discutir los desafíos del sector biotecnológico actual.",
+      "bullets_20s": "• La jornada estudiantil promovió un intercambio valioso de conocimientos entre investigadores y estudiantes de biotecnología.\n• Los participantes presentaron avances en investigaciones en áreas como salud, bioprocesos y biotecnología ambiental.\n• Una mesa redonda analizó los desafíos de la biotecnología en Costa Rica y su vínculo con la industria.\n• El Dr. Anthony Valverde ofreció una charla sobre biotecnología reproductiva, resaltando su importancia en el país.\n• El evento finalizó con espacios de networking que fomentaron colaboraciones dentro del ecosistema biotecnológico.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Jóvenes investigan en biotecnología y promueven la ciencia en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Investigadores jóvenes fortalecen la biotecnología a través de la divulgación y el intercambio de ideas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -3966,5 +3992,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-30T11:30:47.390Z"
+  "generated_at": "2026-03-30T12:30:47.554Z"
 }
