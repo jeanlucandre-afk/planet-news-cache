@@ -1,16 +1,42 @@
 {
   "news": [
     {
+      "slug": "la-seleccion-de-costa-rica-ya-disputa-su-copa-del-mundo-que-le-falta-por-jugar",
+      "title": "La Selección de Costa Rica ya disputa su ‘Copa del Mundo’: ¿Qué le falta por jugar?",
+      "category": "Costa Rica",
+      "bullets_20s": "• Costa Rica se prepara para futuros compromisos importantes aunque no esté en el Mundial 2026.\n• Seleccionados enfrentan equipos clasificados para mejorar su rendimiento en el fútbol internacional.\n• La Copa del Mundo brinda oportunidades de aprender y crecer, incluso sin participar directamente.\n• El fogueo contra selecciones fuertes es clave para el desarrollo de nuevos talentos en Costa Rica.\n• Se espera que los encuentros ayuden a fortalecer la cohesión del equipo nacional.",
+      "source_name": "Esteban Valverde",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/la-seleccion-de-costa-rica-ya-disputa-su-copa-del/4VA2Q4XSQRCVTPGSCTS2KA3HPI/story/",
+      "publish_date": "2026-03-30T00:33:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Costa Rica se foguea con selecciones del Mundial 2026 para mejorar su equipo.",
+      "image_url": "https://www.nacion.com/resizer/v2/4LCO52X7URFLDJWD5CQTDEJA5Q.JPG?auth=b01e4204105dcac0b36d73c0b10b4d942a150851e6d76b9a57bcf606001776e2&smart=true&width=5000&height=3334",
+      "description": "La Selección de Costa Rica no va al Mundial 2026, pero aprovecha para foguearse contra selecciones clasificadas.",
+      "featured": false
+    },
+    {
+      "slug": "un-naufragio-del-imperio-romano-revela-en-suiza-un-cargamento-intacto-de-aceite-iberico-tras-dos-mil-anos",
+      "title": "Un naufragio del Imperio Romano revela en Suiza un cargamento intacto de aceite ibérico tras dos mil años",
+      "category": "Mundo",
+      "bullets_20s": "• Un naufragio revela objetos del Imperio Romano en perfectas condiciones, sorprendiendo a arqueólogos y científicos.\n• El hallazgo incluye ánforas de aceite ibérico, un producto muy valorado en la antigüedad.\n• Esta descubrimiento redefine las rutas comerciales romanas entre el siglo I a.C. y el siglo I d.C.\n• Investigadores analizan el impacto de este hallazgo en la comprensión de la economía antigua.\n• El cargamento intacto ofrece una ventana a las prácticas comerciales romanas de la época.",
+      "source_name": "El Tiempo  Colombia",
+      "source_url": "https://www.nacion.com/ciencia/hallazgo-en-suiza-revela-cargamento-intacto-de/QA3A3HP3QVD6RASZMBONYJUHRQ/story/",
+      "publish_date": "2026-03-30T00:33:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Descubren naufragio romano en Suiza con aceite ibérico y redefinen rutas comerciales.",
+      "image_url": "https://www.nacion.com/resizer/v2/XINSDC7C4ZANPFHGCIEIU72YEA.png?auth=95c348af6903307bcb52a1416ca782f109c2079a16313db21667e7572b979eeb&smart=true&width=880&height=586",
+      "description": "Un naufragio en Suiza revela ánforas con aceite ibérico y objetos militares romanos. El hallazgo redefine rutas comerciales entre 20 y 50 d. C.",
+      "featured": false
+    },
+    {
       "slug": "cruz-roja-reporta-ocho-fallecidos-en-primeras-horas-del-operativo-de-semana-mayor-2026",
       "title": "Cruz Roja reporta ocho fallecidos en primeras horas del operativo de Semana Mayor 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Cruz Roja informó sobre el inicio del operativo de Semana Mayor en el país.\n• Se reportaron un total de ocho fallecidos en las primeras horas del operativo.\n• Los accidentes de tránsito son la principal causa de las fatalidades reportadas.\n• Limón se ubica como la región con más atenciones durante este operativo.\n• Las autoridades instan a la población a tomar precauciones en las carreteras.",
+      "bullets_20s": "• La Cruz Roja destaca la gravedad de accidentes durante la Semana Mayor en el país.\n• El operativo busca reducir el número de incidentes en carreteras y espacios públicos.\n• Limón se posiciona como la región con mayor demanda de atención por accidentes.\n• Se han registrado varios incidentes viales que han dejado víctimas fatales en el inicio.\n• Se recomienda a los conductores extremar precauciones en esta temporada festiva.",
       "source_name": "Juan Fernando Lara Salas",
       "source_url": "https://www.nacion.com/sucesos/cruz-roja-reporta-ocho-fallecidos-en-primeras/ZDKBE3ZW55EQRJI7WVV3XQ2NKA/story/",
       "publish_date": "2026-03-30T00:07:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Ocho fallecidos reporta la Cruz Roja en Semana Santa, principalmente por accidentes de tránsito.",
+      "teaser": "Lo clave en 20 segundos: La Cruz Roja reporta ocho fallecidos en el inicio del operativo de Semana Santa.",
       "image_url": "https://www.nacion.com/resizer/v2/42JBQCDUMFGUHNH5MQDMOOI6W4.jpeg?auth=df12cc5562c39a4fed86898241564a46eef309572ec1037376c0f92ec2fe4fdd&smart=true&width=1280&height=960",
-      "description": "Accidentes de tránsito suman cinco víctimas fatales, mientras que Limón encabeza atenciones regionales; precisó entidad",
+      "description": "Accidentes de tránsito suman cinco víctimas fatales, mientras que Limón encabeza atenciones regionales; precisó entidad.",
       "featured": false
     },
     {
@@ -1407,12 +1433,12 @@
     {
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• El foro se centró en el vínculo entre la paz y el medio ambiente en la educación.\n• Se discutieron enfoques interdisciplinarios para mejorar el entendimiento de estas relaciones.\n• Panelistas abordaron la importancia de la ética y sostenibilidad en la paz.\n• La construcción de paz requiere transformar estructuras sociales que limitan a las personas.\n• Se destacó el papel de las comunidades indígenas en la conservación y sostenibilidad.",
+      "category": "Ciencia",
+      "bullets_20s": "• El foro UNESCO se enfocó en la construcción de paz y su relación con el medio ambiente.\n• Estudiantes y expertos debatieron sobre la necesidad de un vínculo respetuoso con la naturaleza.\n• Panelistas destacaron la importancia de la ética en decisiones relacionadas con el entorno natural.\n• La economía circular fue presentada como un modelo clave para el desarrollo sostenible.\n• Se abordaron las barreras culturales que afectan la paz y el desarrollo humano en sociedades.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: un foro sobre paz y medio ambiente en el TEC destaca la educación y ética.",
+      "teaser": "Lo clave en 20 segundos: El foro UNESCO en el TEC abordó paz y medio ambiente en un diálogo interdisciplinario.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -1616,11 +1642,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La Autonomía Universitaria se celebrará en el TEC con diversas actividades del 6 al 10 de abril.\n• La conmemoración del Día de la Autonomía Universitaria en Costa Rica es el 12 de abril cada año.\n• Se invita a la comunidad a participar en Conversemos con el TEC el 8 de abril a las 10:00 am.\n• El evento será transmitido en vivo por las redes sociales y el canal de YouTube del TEC.\n• Los interesados pueden enviar sus preguntas al correo conversemos@tec.ac.cr antes del evento.",
+      "bullets_20s": "• El TEC celebra la importancia de la autonomía universitaria con actividades del 6 al 10 de abril.\n• Se conmemora el Día de la Autonomía Universitaria en Costa Rica el 12 de abril de cada año.\n• Conversemos con el TEC se realizará en vivo por las redes sociales del Tecnológico de Costa Rica.\n• La docente Jacqueline Herrera y el estudiante Sebastian Vallecillos participarán en la conversación.\n• Se invita a la audiencia a enviar sus preguntas al correo conversemos@tec.ac.cr.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Autonomía Universitaria se celebra con actividades y un evento virtual en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Celebración de la autonomía universitaria y actividades en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -2161,14 +2187,14 @@
     {
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
-      "category": "Ciencia",
-      "bullets_20s": "• El IV Encuentro de Producción Industrial promovió la conexión entre la academia y la industria.\n• Se abordaron temas de innovación tecnológica y sostenibilidad en la producción industrial.\n• La agenda incluyó conferencias sobre inteligencia artificial y robótica háptica.\n• Los participantes discutieron la crisis en la cadena de abastecimiento global actual.\n• El evento fomentó el networking y el intercambio de conocimientos entre expertos.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El IV Encuentro Internacional reunió a expertos en producción industrial de varios países.\n• Se discutieron temas como la robótica háptica y la inteligencia artificial ética.\n• La sostenibilidad en la industria fue un enfoque clave en el evento.\n• Participación activa de estudiantes en la organización enriqueció la experiencia del encuentro.\n• El intercambio académico entre países promueve la innovación en la producción industrial.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Innovación y sostenibilidad impulsan la producción industrial en encuentro internacional.",
+      "teaser": "Lo clave en 20 segundos: Innovación y sostenibilidad fueron el enfoque central del IV Encuentro Internacional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
-      "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
+      "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial.",
       "featured": false
     },
     {
@@ -2825,11 +2851,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La jornada en el TEC reunió a estudiantes y especialistas en biotecnología para compartir conocimientos.\n• Se presentaron proyectos innovadores en áreas como biotecnología ambiental y salud.\n• El Dr. Anthony Valverde ofreció una charla sobre biotecnología reproductiva y su impacto social.\n• La actividad incluyó un espacio de networking para promover futuras colaboraciones académicas.\n• Los jóvenes investigadores buscan crear conciencia sobre la importancia de la biotecnología en el país.",
+      "bullets_20s": "• El TEC acogió la Jornada Estudiantil de Divulgación Científica, promoviendo la biotecnología en la academia.\n• Estudiantes presentaron avances en biotecnología ambiental, salud y otros temas relevantes para el país.\n• El evento incluyó una mesa redonda para discutir los desafíos de la biotecnología en Costa Rica.\n• La charla magistral del Dr. Valverde resaltó la importancia de la biotecnología para el futuro del país.\n• Se fomentó el networking para fortalecer colaboraciones entre estudiantes, investigadores y la industria.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Jóvenes investigadores en biotecnología fomentan la divulgación científica en el TEC.",
+      "teaser": "Lo clave en 20 segundos: jóvenes investigadores promueven la biotecnología en una jornada significativa en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -3862,5 +3888,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-30T01:30:46.718Z"
+  "generated_at": "2026-03-30T02:30:46.990Z"
 }
