@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "tirar-de-la-cadena-con-la-tapa-abierta-o-cerrada-descubra-por-que-eso-marca-diferencia",
+      "title": "¿Tirar de la cadena con la tapa abierta o cerrada? Descubra por qué eso marca diferencia",
+      "category": "Ciencia",
+      "bullets_20s": "• Los estudios científicos analizan la dispersión de bacterias en el aire al tirar de la cadena.\n• Cerrar la tapa del inodoro puede disminuir el riesgo de contaminación en el ambiente.\n• La investigación evalúa las mejores prácticas de higiene personal en el hogar.\n• Los científicos examinan cómo actúan las bacterias después de una descarga de inodoro.\n• Se discuten los posibles efectos en la salud de dejar la tapa abierta al tirar la cadena.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/salud/tirar-de-la-cadena-con-la-tapa-abierta-o-cerrada/TR23OJ4D2FCNDHC7QIK6OHPJHQ/story/",
+      "publish_date": "2026-03-31T20:13:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Cerrar la tapa del inodoro puede ayudar a reducir la dispersión de bacterias.",
+      "image_url": "https://www.nacion.com/resizer/v2/DSEAOQFNZNDIDNTWZHW6QNS4YU.png?auth=1453f68a894dd0b2afc30f0128ba68d7bd8daf3514a17892925750caf9a321e6&smart=true&width=1920&height=1080",
+      "description": "¿Es mejor tirar de la cadena con la tapa del inodoro abierta o cerrada? Estudios científicos analizan cómo se dispersan bacterias en el aire tras la descarga y si cerrar la tapa realmente disminuye el riesgo de contaminación.",
+      "featured": false
+    },
+    {
+      "slug": "estados-unidos-ordena-a-sus-embajadas-que-usen-x-para-contrarrestar-la-propaganda-antiestadounidense-revela-the-guardian",
+      "title": "Estados Unidos ordena a sus embajadas que usen X para ‘contrarrestar la propaganda antiestadounidense’, revela ‘The Guardian’",
+      "category": "Mundo",
+      "bullets_20s": "• Estados Unidos busca contrarrestar la propaganda antiestadounidense a través de sus embajadas.\n• El gobierno ha ordenado a sus embajadores implementar una estrategia comunicacional más fuerte.\n• Esta medida surge en el contexto de crecientes tensiones internacionales y desinformación.\n• Se menciona la colaboración con la unidad de operaciones psicológicas del Pentágono.\n• El cable que contiene estas instrucciones fue firmado por Marco Rubio.\n• La estrategia incluye abordar y mitigar la influencia de medios extranjeros.\n• Expertos advierten sobre el riesgo de propaganda estatal en la diplomacia internacional.\n• El uso de nuevas plataformas y tecnologías es fundamental para estas campañas.",
+      "source_name": "Roger Bolaños Vargas",
+      "source_url": "https://www.nacion.com/el-mundo/estados-unidos-ordena-a-sus-embajadas-que-usen-x/MIFN4UTHNZBIRI4UAB6LGUIEGE/story/",
+      "publish_date": "2026-03-31T20:06:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Estados Unidos contrarresta propaganda antiestadounidense usando embajadas.",
+      "image_url": "https://www.nacion.com/resizer/v2/SWA5UAM7YBGG7EYXVWP5G2NWRM.jpg?auth=5b186e496ce1f118ee6037c2d690a3d711bdccb939a3a1e23cef968c78ee0890&smart=true&width=8256&height=5504",
+      "description": "Un cable firmado por Marco Rubio sugiere al personal de embajadas trabajar con la unidad de operaciones psicológicas del Pentágono para potenciar la campaña contra la “propaganda extranjera”.",
+      "featured": false
+    },
+    {
+      "slug": "uscis-aplicara-cambios-a-partir-del-1-de-abril-formularios-que-dejaran-de-aceptarse-y-cambios-clave-en-tramites",
+      "title": "Uscis aplicará cambios a partir del 1 de abril: formularios que dejarán de aceptarse y cambios clave en trámites",
+      "category": "Mundo",
+      "bullets_20s": "• Uscis introducirá nuevas reglas que afectarán múltiples trámites de inmigración en abril de 2026.\n• Se espera que los cambios incluyan ajustes en tarifas de trámites y tipos de formularios aceptados.\n• Los formularios que no sean actualizados dejarán de ser aceptados de inmediato tras la fecha límite.\n• Los solicitantes de visas H-2B deberán estar atentos a los nuevos requisitos y procesos establecidos.\n• Es recomendable que los interesados revisen la documentación necesaria para evitar rechazos.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/el-mundo/uscis-aplicara-cambios-a-partir-del-1-de-abril/33Y44HIK2VBO3EQ4GX6W5BP23I/story/",
+      "publish_date": "2026-03-31T19:56:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Cambios en trámites de Uscis impactarán formularios y requisitos desde abril de 2026.",
+      "image_url": "https://www.nacion.com/resizer/v2/6TGKTGAO7NCC3LVLYRTP47BR6Q.png?auth=5997cb9d9c967086c5e39067df76c9f63729066d6f63d1518f8a5cc577b01021&smart=true&width=1920&height=1080",
+      "description": "Uscis implementa cambios desde abril que afectan formularios, tarifas y visas H-2B. Conozca qué documentos serán rechazados y nuevas reglas en 2026.",
+      "featured": false
+    },
+    {
       "slug": "iran-tiene-la-voluntad-de-terminar-con-la-guerra-pero-quiere-garantias-dice-su-presidente",
       "title": "Irán tiene la ‘voluntad’ de terminar con la guerra, pero quiere garantías, dice su presidente",
       "category": "Mundo",
@@ -2565,11 +2604,11 @@
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El foro UNESCO en el TEC reunió a expertos en paz y sostenibilidad en un diálogo interdisciplinario.\n• Se destacó la importancia de reconstruir el vínculo con la naturaleza en la construcción de paz.\n• Panelistas abordaron temáticas como ética ambiental y saberes indígenas para la conservación.\n• La economía circular fue presentada como un modelo viable para el desarrollo sostenible.\n• Panelistas coincidieron en que la paz requiere eliminar barreras sociales y culturales.",
+      "bullets_20s": "• El foro se centró en la construcción de paz y su relación con la naturaleza y el entorno.\n• Panelistas discutieron la integración de saberes indígenas para la conservación natural.\n• Se abordaron diversos enfoques sobre ética y sostenibilidad en la toma de decisiones.\n• Moderado por un especialista, el conversatorio reunió diferentes voces del ámbito educativo.\n• Participantes buscaron reflexionar sobre la conexión humana y el entorno natural.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: El foro del TEC abordó la construcción de paz desde el enfoque ambiental.",
+      "teaser": "Lo clave en 20 segundos: Discusiones sobre paz y medio ambiente se unen en el foro UNESCO del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -2773,11 +2812,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica organiza un evento sobre autonomía universitaria en sus redes sociales.\n• Este evento se llama 'Conversemos con el TEC' y se realizará el 8 de abril en vivo.\n• La Semana de la Autonomía Universitaria se celebrará del 6 al 10 de abril en el TEC.\n• Jacqueline Herrera Núñez y Sebastian Vallecillos participarán en la conversación sobre autonomía.\n• Las preguntas se pueden enviar al correo conversemos@tec.ac.cr antes del evento.",
+      "bullets_20s": "• El TEC celebra la autonomía universitaria con actividades del 6 al 10 de abril este año.\n• La docente Jacqueline Herrera y el estudiante Sebastian Vallecillos participarán en la conversación.\n• El Día de la Autonomía Universitaria se conmemora el 12 de abril en Costa Rica.\n• Las actividades se compartirán a través de redes sociales y plataformas digitales del TEC.\n• Invitan a la audiencia a enviar preguntas a través del correo habilitado para el evento.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Hablemos sobre autonomía universitaria en el TEC este 8 de abril.",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria en el TEC será discutida en un evento especial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -3319,11 +3358,11 @@
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "category": "Costa Rica",
-      "bullets_20s": "• El IV Encuentro de Ingeniería en Producción Industrial promovió la conexión con tendencias globales del sector.\n• Temas como robótica háptica y ética en inteligencia artificial fueron discutidos en el evento académico.\n• Oportunidades de networking facilitaron el intercambio de conocimientos entre estudiantes y expertos internacionales.\n• La sostenibilidad y producción limpia fueron puntos clave a lo largo del encuentro de innovación.\n• El impacto social de la ingeniería y la inclusión de mujeres se debatieron durante las conferencias.",
+      "bullets_20s": "• El IV Encuentro Internacional unió academia y tendencias globales en la industria.\n• El evento promovió la sostenibilidad y la innovación tecnológica en producción industrial.\n• Expertos discutieron sobre Ingeniería Industrial 5.0 y robótica háptica, entre otros temas.\n• Se abordaron crisis en la cadena de abastecimiento y conceptos de Internet Física.\n• La participación de estudiantes en la organización fomentó habilidades y liderazgo.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Encuentro internacional de Ingeniería resalta innovación y sostenibilidad en la industria.",
+      "teaser": "Lo clave en 20 segundos: Encuentro sobre innovación y sostenibilidad en producción industrial en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -3982,11 +4021,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La Jornada Estudiantil sobre biotecnología se llevó a cabo en el Auditorio D3 del TEC.\n• Estudiantes presentaron investigaciones en áreas como salud y biotecnología ambiental.\n• El evento promovió el intercambio de ideas y posibles colaboraciones académicas futuras.\n• Se analizó la trayectoria de la biotecnología en Costa Rica durante una mesa redonda.\n• La charla magistral del Dr. Valverde enfocó en biotecnología reproductiva y su impacto.",
+      "bullets_20s": "• La jornada reunió estudiantes para compartir investigaciones en biotecnología ambiental y salud.\n• El evento fomentó el intercambio de ideas entre jóvenes investigadores y expertos del sector.\n• Se llevó a cabo una mesa redonda sobre los desafíos actuales de la biotecnología en el país.\n• Los participantes destacaron la importancia de colaborar entre academia e industria biotecnológica.\n• El Dr. Anthony Valverde ofreció una charla sobre biotecnología reproductiva y su futuro en Costa Rica.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: jóvenes investigadores dinamizan la biotecnología en Costa Rica con una jornada enriquecedora.",
+      "teaser": "Lo clave en 20 segundos: Jóvenes investigadores comparten conocimientos en biotecnología en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -5019,5 +5058,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-31T20:30:47.975Z"
+  "generated_at": "2026-03-31T21:30:54.482Z"
 }
