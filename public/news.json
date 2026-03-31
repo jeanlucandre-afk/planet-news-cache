@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "un-hallazgo-unico-descubren-un-sistema-solar-en-formacion-con-dos-planetas-gigantes-y-senales-de-un-tercero",
+      "title": "Un hallazgo único: descubren un sistema solar en formación con dos planetas gigantes y señales de un tercero",
+      "category": "Ciencia",
+      "bullets_20s": "• La red de telescopios del Observatorio Europeo Austral ha hecho descubrimientos extraordinarios en la formación estelar.\n• Se han detectado dos planetas gigantes en formación alrededor de la estrella WISPIT 2 con señales intrigantes.\n• La posibilidad de un tercer planeta en desarrollo plantea preguntas sobre la generación de sistemas solares.\n• Este tipo de hallazgos ayuda a los astrónomos a comprender mejor la dinámica de los planetas en formación.\n• Los estudios continuarían para explorar las características y la composición de estos planetas recién descubiertos.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/ciencia/un-hallazgo-unico-descubren-un-sistema-solar-en/RDKQQ3GW35EHRO32KKH7OZ4LAE/story/",
+      "publish_date": "2026-03-31T21:22:00.000Z",
+      "teaser": "Lo clave en 20 segundos: descubren un sistema solar joven con dos planetas gigantes y signos de otro.",
+      "image_url": "https://www.nacion.com/resizer/v2/PDQYCTL7VVBRVEE4OPWNJ224RM.jpg?auth=0e77ccf07711f21c095c694260f8ff4b7ebf5a89db079d7a3fa4d95592f6865d&smart=true&width=1280&height=1277",
+      "description": "Un hallazgo astronómico sin precedentes revela la formación directa de dos planetas gigantes en la estrella WISPIT 2. Observaciones con telescopios del Observatorio Europeo Austral también sugieren la presencia de un tercer planeta en desarrollo, clave para entender cómo nacen los sistemas solares.",
+      "featured": false
+    },
+    {
+      "slug": "banco-central-alcanza-cifra-historica-en-reservas-pero-el-fmi-lanza-una-advertencia-que-pasara-con-el-tipo-de-cambio",
+      "title": "Banco Central alcanza cifra histórica en reservas, pero el FMI lanza una advertencia: ¿Qué pasará con el tipo de cambio?",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Banco Central de Costa Rica ha mostrado un aumento significativo en sus reservas internacionales.\n• Las reservas se acercan a una cifra histórica de alrededor de $20,000 millones.\n• El Fondo Monetario Internacional ha emitido una advertencia sobre el tipo de cambio.\n• Es crucial analizar las implicaciones de este aumento en las reservas para la economía.\n• El estado del tipo de cambio podría afectar a empresas y consumidores costarricenses.",
+      "source_name": "Mónica Cerdas Gómez, Óscar Rodríguez",
+      "source_url": "https://www.nacion.com/economia/banco-central-alcanza-cifra-historica-en-reservas/ID6DYTSQ6VEQNJ56VE6FX5ANH4/story/",
+      "publish_date": "2026-03-31T21:20:25.000Z",
+      "teaser": "Lo clave en 20 segundos: El Banco Central alcanza reservas históricas, el FMI advierte sobre el tipo de cambio.",
+      "image_url": "https://www.nacion.com/resizer/v2/WDFVH77RJFE33GRW2YGBD3TDA4.JPG?auth=aa8e9e1f51cf6ac5e8de31ead3590e2d52be94b0fb99e231ca594995c277f0fb&smart=true&width=2976&height=1984",
+      "description": "Según datos del Banco Central, el saldo de las reservas monetarias internacionales netas se aproxima a los $20.000 millones",
+      "featured": false
+    },
+    {
+      "slug": "si-le-retiran-placas-o-decomisan-vehiculo-esta-semana-santa-debera-esperar-hasta-el-lunes-6-de-abril-para-recuperarlas",
+      "title": "Si le retiran placas o decomisan vehículo esta Semana Santa deberá esperar hasta el lunes 6 de abril para recuperarlas",
+      "category": "Costa Rica",
+      "bullets_20s": "• Durante Semana Santa, algunas gestiones relacionadas a vehículos están restringidas por Cosevi.\n• Si se retiran placas, es importante gestionar la cita en línea para la recuperación.\n• Cosevi permanecerá cerrado hasta el lunes 6 de abril por motivos festivos.\n• Los ciudadanos deben estar preparados para retrasos en el proceso de entrega de documentos.\n• Se recomienda revisar las regulaciones locales sobre vehículos antes de las celebraciones.\n• Los usuarios pueden hacer trámites en línea para mayor agilidad en la gestión.\n• Las autoridades piden paciencia a los conductores ante la situación extraordinaria.",
+      "source_name": "Patricia Recio",
+      "source_url": "https://www.nacion.com/el-pais/si-le-retiran-placas-o-decomisan-vehiculo-esta/I4WYBPDXLZEMJNFCJWZOGFVUXY/story/",
+      "publish_date": "2026-03-31T21:12:49.000Z",
+      "teaser": "Lo clave en 20 segundos: restricciones en vehículos por cierre de Cosevi durante Semana Santa.",
+      "image_url": "https://www.nacion.com/resizer/v2/O5API6NO6RDSNNYKJ2K3BTYG5M.jpg?auth=84c8862ae4b97bcc6491bb3c50df876dd117fddc043659e1477a41fc57694e85&smart=true&width=1359&height=582",
+      "description": "Cosevi está cerrado desde el viernes anterior, pero citas se pueden ir gestionando en línea.",
+      "featured": false
+    },
+    {
       "slug": "tirar-de-la-cadena-con-la-tapa-abierta-o-cerrada-descubra-por-que-eso-marca-diferencia",
       "title": "¿Tirar de la cadena con la tapa abierta o cerrada? Descubra por qué eso marca diferencia",
       "category": "Ciencia",
@@ -2603,12 +2642,12 @@
     {
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• El foro se centró en la construcción de paz y su relación con la naturaleza y el entorno.\n• Panelistas discutieron la integración de saberes indígenas para la conservación natural.\n• Se abordaron diversos enfoques sobre ética y sostenibilidad en la toma de decisiones.\n• Moderado por un especialista, el conversatorio reunió diferentes voces del ámbito educativo.\n• Participantes buscaron reflexionar sobre la conexión humana y el entorno natural.",
+      "category": "Ciencia",
+      "bullets_20s": "• El foro UNESCO en el TEC pretende promover un diálogo sobre paz y medio ambiente.\n• Expertos en sostenibilidad participaron en la discusión sobre la construcción de paz.\n• Saberes indígenas y ética se abordaron como elementos clave en la conversación.\n• La economía circular se consideró esencial para el desarrollo sostenible en la región.\n• El conversatorio resaltó la importancia de estar en paz con el entorno natural.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Discusiones sobre paz y medio ambiente se unen en el foro UNESCO del TEC.",
+      "teaser": "Lo clave en 20 segundos: El foro UNESCO en el TEC abordó la paz y el entorno natural.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -2812,11 +2851,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra la autonomía universitaria con actividades del 6 al 10 de abril este año.\n• La docente Jacqueline Herrera y el estudiante Sebastian Vallecillos participarán en la conversación.\n• El Día de la Autonomía Universitaria se conmemora el 12 de abril en Costa Rica.\n• Las actividades se compartirán a través de redes sociales y plataformas digitales del TEC.\n• Invitan a la audiencia a enviar preguntas a través del correo habilitado para el evento.",
+      "bullets_20s": "• El 12 de abril se conmemora el Día de la Autonomía Universitaria en Costa Rica.\n• El TEC celebrará una Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• Jacqueline Herrera Núñez y Sebastian Vallecillos participarán en la conversación.\n• Se transmitirá en vivo por Facebook, YouTube y otras redes sociales del TEC.\n• Los interesados pueden enviar preguntas al correo conversemos@tec.ac.cr.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: La autonomía universitaria en el TEC será discutida en un evento especial.",
+      "teaser": "Lo clave en 20 segundos: Conversemos sobre la Autonomía Universitaria en el TEC este 8 de abril.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -3358,11 +3397,11 @@
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "category": "Costa Rica",
-      "bullets_20s": "• El IV Encuentro Internacional unió academia y tendencias globales en la industria.\n• El evento promovió la sostenibilidad y la innovación tecnológica en producción industrial.\n• Expertos discutieron sobre Ingeniería Industrial 5.0 y robótica háptica, entre otros temas.\n• Se abordaron crisis en la cadena de abastecimiento y conceptos de Internet Física.\n• La participación de estudiantes en la organización fomentó habilidades y liderazgo.",
+      "bullets_20s": "• El IV Encuentro reunió a estudiantes y expertos de varios países para discutir producción industrial.\n• Se abordaron temas de Ingeniería Industrial 5.0 y su vinculación con la sostenibilidad.\n• Las jornadas incluyeron conferencias y espacios para fomentar el networking académico.\n• El evento analizó la producción limpia y el rendimiento de sistemas solares fotovoltaicos.\n• Participación activa de estudiantes en la organización promovió liderazgo y competencias profesionales.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Encuentro sobre innovación y sostenibilidad en producción industrial en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Encuentro impulsa innovación y sostenibilidad en producción industrial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -4021,11 +4060,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La jornada reunió estudiantes para compartir investigaciones en biotecnología ambiental y salud.\n• El evento fomentó el intercambio de ideas entre jóvenes investigadores y expertos del sector.\n• Se llevó a cabo una mesa redonda sobre los desafíos actuales de la biotecnología en el país.\n• Los participantes destacaron la importancia de colaborar entre academia e industria biotecnológica.\n• El Dr. Anthony Valverde ofreció una charla sobre biotecnología reproductiva y su futuro en Costa Rica.",
+      "bullets_20s": "• El TEC organizó una jornada de divulgación científica para resaltar el trabajo juvenil en biotecnología.\n• Estudiantes presentaron avances en biotecnología ambiental, salud y bioprocesos durante la actividad.\n• La jornada incluyó una mesa redonda sobre la proyección de la biotecnología en Costa Rica.\n• Los participantes intercambiaron ideas y experiencias en dinámicas de diálogo e interacción profesional.\n• El evento busca reducir la estigmatización asociada a la biotecnología en la sociedad costarricense.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Jóvenes investigadores comparten conocimientos en biotecnología en el TEC.",
+      "teaser": "Lo clave en 20 segundos: jóvenes investigadores en biotecnología impulsan la divulgación científica en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -5058,5 +5097,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-31T21:30:54.482Z"
+  "generated_at": "2026-03-31T22:30:47.680Z"
 }
