@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "onu-alerta-de-nuevo-territorio-ocupado-en-libano-se-esta-gestando-un-ciclo-de-desplazamientos-forzados",
+      "title": "ONU alerta de nuevo ‘territorio ocupado’ en Líbano: ‘Se está gestando un ciclo de desplazamientos forzados’",
+      "category": "Mundo",
+      "bullets_20s": "• La ONU ha detectado desplazamientos forzados a gran escala en Líbano.\n• Más de un millón de personas han sido afectadas por la crisis actual.\n• La situación humanitaria se complica con un creciente número de refugiados.\n• Las tensiones en el Líbano han generado graves consecuencias sociales y económicas.\n• Los niños son los más vulnerables en este contexto de emergencia humanitaria.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/onu-alerta-de-nuevo-territorio-ocupado-en-libano/OGNJ5WPH45BZLMFONPY265VDIQ/story/",
+      "publish_date": "2026-03-31T16:10:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La ONU advierte sobre crisis de desplazamiento en Líbano.",
+      "image_url": "https://www.nacion.com/resizer/v2/KWQXZJREJFFUNLJFXHJIAAYEWQ.jpg?auth=643f20cf3fccb8340b002cd8d72f43d80003f770825e2ce8fdc61a53cb8762fb&smart=true&width=1200&height=799",
+      "description": "En Líbano, más de 1,1 millones de personas han sido desplazadas en las últimas cuatro semanas, incluyendo 370.000 niños.",
+      "featured": false
+    },
+    {
+      "slug": "como-convertirse-en-agente-de-viajes-las-reglas-de-los-boletos-grupales-de-avion-que-nadie-explica",
+      "title": "¿Cómo convertirse en agente de viajes? Las reglas de los boletos grupales de avión que nadie explica",
+      "category": "Mundo",
+      "bullets_20s": "• Los boletos grupales ofrecen precios ventajosos para quienes planean viajes con varias personas.\n• Es vital conocer las reglas de las aerolíneas para evitar sorpresas en la compra de boletos.\n• Una buena organización puede maximizar la experiencia del viajero y asegurar su satisfacción.\n• Considerar las fechas es crucial para aprovechar oportunidades a bajo costo en vuelos grupales.\n• Los agentes de viajes deben informarse sobre las políticas de cancelación y reembolso de las aerolíneas.",
+      "source_name": "Jairo Villegas S.",
+      "source_url": "https://www.nacion.com/blogs/de-viaje-con-jairo/como-convertirse-en-agente-de-viajes-las-reglas-de/UHN4SV7HIFBMHOM526VX2RIA5U/story/",
+      "publish_date": "2026-03-31T16:04:28.000Z",
+      "teaser": "Lo clave en 20 segundos: Descubre cómo ser agente de viajes organizando boletos grupales.",
+      "image_url": "https://www.nacion.com/resizer/v2/DOQCKLMIWRANLMHB7LXJ3Q2IAU.JPG?auth=b9aea5be7c7522b9c8942b82196392086b1a2fe6804ec511a44f730cd0c3f57d&smart=true&width=4000&height=2666",
+      "description": "Estas son las ventajas, desventajas y cuidados que debe tener al organizar un viaje al exterior con los tiquetes aéreos incluidos. Esto es clave para emprender como agente de viajes.",
+      "featured": false
+    },
+    {
+      "slug": "moltbook-la-red-social-donde-las-ia-hablan-entre-si-y-los-humanos-solo-observan",
+      "title": "Moltbook: la red social donde las IA hablan entre sí (y los humanos solo observan)",
+      "category": "Tecnología",
+      "bullets_20s": "• Moltbook permite que múltiples IA interactúen y generen contenido sin intervención humana.\n• La plataforma plantea importantes cuestiones éticas sobre la inteligencia artificial y su uso.\n• Los humanos solo observan las interacciones, lo que genera un debate sobre la relevancia del humano.\n• La creación de comunidades digitales por IA abre nuevas oportunidades y riesgos en Internet.\n• Se espera que esta plataforma impacte la forma en que entendemos la comunicación digital.",
+      "source_name": "Marvin Espinoza Selva",
+      "source_url": "https://www.nacion.com/opinion/foros/moltbook-la-red-social-donde-las-ia-hablan-entre/ESYS4EAYF5DSZNAU2ULRPQSBTQ/story/",
+      "publish_date": "2026-03-31T16:03:33.000Z",
+      "teaser": "Lo clave en 20 segundos: una red social donde las IA debaten sin humanos involucrados.",
+      "image_url": "https://www.nacion.com/resizer/v2/WUL2RY2IQRCULM7UX6QYI5KTBE.webp?auth=33c4996e96af2f2ee41a6d768775c713aeb1d09ff7ea512cce0ea52fb49dbc4b&smart=true&width=1280&height=853",
+      "description": "Una nueva plataforma digital reúne a millones de agentes de inteligencia artificial que generan contenido, debaten ideas y construyen comunidades sin intervención humana, lo que abre un debate ético sin precedentes.",
+      "featured": false
+    },
+    {
       "slug": "la-seleccion-de-costa-rica-dejo-una-pesima-imagen-ante-el-presidente-de-la-fifa-uno-a-uno-de-los-jugadores",
       "title": "La Selección de Costa Rica dejó una pésima imagen ante el presidente de la FIFA: Uno a uno de los jugadores",
       "category": "Costa Rica",
@@ -2369,12 +2408,12 @@
     {
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• El conversatorio abordó la relación entre la paz y el medio ambiente de forma interdisciplinaria.\n• Panelistas discutieron sobre cómo los saberes indígenas pueden apoyar la conservación ambiental.\n• Se presentó la ética como un componente fundamental en la toma de decisiones ambientales.\n• La economía circular fue explorada como método hacia un desarrollo más sostenible y equitativo.\n• Se enfatizó en la importancia de reconocer los servicios ecosistémicos en la construcción de paz.",
+      "category": "Ciencia",
+      "bullets_20s": "• El TEC realizó un conversatorio sobre paz y naturaleza con expertos y académicos en Cartago.\n• Destacan la importancia de la relación entre la paz y los desafíos ambientales en la actualidad.\n• El foro promovió la reflexión sobre el vínculo entre seres humanos y el medio ambiente.\n• Panelistas abordaron temas como la ética, sostenibilidad y saberes indígenas en la conservación.\n• Se realizó un llamado a fortalecer el diálogo interdisciplinario para construir paz integral.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Se realizó un foro sobre paz y medio ambiente en el TEC, abordando temas cruciales.",
+      "teaser": "Lo clave en 20 segundos: el TEC discute el vínculo entre paz y medio ambiente en foro de UNESCO.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -2578,11 +2617,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria es fundamental para el desarrollo académico en instituciones como el TEC.\n• El TEC celebrará la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• Se conmemora el Día de la Autonomía Universitaria cada 12 de abril en Costa Rica.\n• La docente Jacqueline Herrera y el estudiante Sebastian Vallecillos serán los invitados al evento.\n• Se invitan a los interesados a participar enviando sus preguntas al correo designado.",
+      "bullets_20s": "• Conversemos con el TEC discutirá la autonomía universitaria y sus implicaciones en la educación.\n• La actividad se llevará a cabo el miércoles 8 de abril a través de redes sociales del TEC.\n• Se conmemora el Día de la Autonomía Universitaria el 12 de abril en Costa Rica.\n• La Semana de la Autonomía Universitaria se celebrará del 6 al 10 de abril en el TEC.\n• Estarán presentes la docente Jacqueline Herrera y el estudiante Sebastian Vallecillos durante el evento.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Autonomía universitaria en el TEC, un tema fundamental que se discutirá en próxima transmisión.",
+      "teaser": "Lo clave en 20 segundos: Explora la autonomía universitaria en el TEC este 8 de abril.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -3124,11 +3163,11 @@
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "category": "Costa Rica",
-      "bullets_20s": "• El IV Encuentro destacó la conexión entre academia y tendencias globales en producción industrial.\n• Se llevó a cabo en el Campus Tecnológico de San Carlos, con participación internacional.\n• Temas de la agenda incluyeron robótica, inteligencia artificial y sostenibilidad energética.\n• Se discutieron la crisis de abastecimiento y tendencias emergentes en la gestión de operaciones.\n• El evento promovió el análisis del rol social de la ingeniería y la participación femenina.",
+      "bullets_20s": "• El IV Encuentro reunió a expertos de varios países para discutir innovación y sostenibilidad.\n• La ingeniería 5.0 y la robótica fueron temas centrales del encuentro académico.\n• Se abordó la importancia de la sostenibilidad en la producción industrial moderna.\n• Las conferencias permitieron a los asistentes conectar con las tendencias globales en la industria.\n• Se destacó el papel de la mujer en la ingeniería y su impacto en el sector.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Un encuentro que une academia e industria en innovación y sostenibilidad.",
+      "teaser": "Lo clave en 20 segundos: Innovación y sostenibilidad marcan el Encuentro de Producción Industrial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -3787,11 +3826,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC es un referente en biotecnología, apoyando a jóvenes talentos en el área.\n• La jornada reunió diversos investigadores para compartir sus avances y perspectivas.\n• Se promovió el diálogo sobre la importancia de la biotecnología en el presente.\n• Estudiantes presentaron proyectos innovadores en biotecnología ambiental y salud.\n• La charla magistral enfatizó el rol de los jóvenes en el futuro científico de Costa Rica.",
+      "bullets_20s": "• Los jóvenes investigadores en biotecnología presentan sus avances en divulgación científica en el TEC.\n• La jornada promueve el intercambio de conocimiento entre estudiantes y expertos en biotecnología.\n• Las presentaciones rápidas destacan investigaciones sobre biotecnología ambiental y salud.\n• El Dr. Anthony Valverde comparte su experiencia sobre biotecnología reproductiva en el evento.\n• Se fomentan posibles colaboraciones en el ecosistema biotecnológico nacional durante la actividad.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: La jornada estudantil del TEC impulsa la biotecnología entre jóvenes investigadores.",
+      "teaser": "Lo clave en 20 segundos: investigadores jóvenes de biotecnología promueven la ciencia en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -4824,5 +4863,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-31T16:30:47.596Z"
+  "generated_at": "2026-03-31T17:30:48.116Z"
 }
