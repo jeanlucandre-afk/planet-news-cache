@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "impostores-la-mentira-como-forma-de-vida",
+      "title": "Impostores: la mentira como forma de vida",
+      "category": "Mundo",
+      "bullets_20s": "• Un relato inquietante que cuestiona la realidad detrás de las vidas de algunos individuos.\n• Examinar la psicología de quienes viven en constante engaño puede ser revelador.\n• Historias de impostores han existido en diversas culturas a lo largo de la historia.\n• El caso de Romand es una tragedia que nos hace reflexionar sobre la verdad.\n• La mentira puede destronar la confianza y producir consecuencias devastadoras.",
+      "source_name": "Gustavo Román",
+      "source_url": "https://www.nacion.com/opinion/columnistas/vivio-20-anos-mintiendo-y-mato-para-no-ser/NMSMTQ3Y2ZAEVM5OTLE7IVMUQM/story/",
+      "publish_date": "2026-03-31T13:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: ¿Cuántas vidas se sostienen sobre una mentira? Reflexionamos sobre esto.",
+      "image_url": "https://www.nacion.com/resizer/v2/BG3N7KGS55GDDNQIU2PVMQJR5U.jpg?auth=e4acaf37ebe12fe56ea2ed300ac930593144ef734d3cd93c40241cafeefc261b&smart=true&width=5250&height=3500",
+      "description": "La historia de Jean Claude Romand, quien le destrozó el cráneo a su esposa con un rodillo de cocina y mató con un rifle a sus hijos de 7 y 5 años, obliga a una pregunta inquietante: ¿cuántas vidas se sostienen hoy sobre una mentira?",
+      "featured": false
+    },
+    {
+      "slug": "abogados-de-marulin-azofeifa-cuestionan-aparentes-intentos-de-diputados-de-dejar-impune-denuncia-a-fabricio-alvarado",
+      "title": "Abogados de Marulin Azofeifa cuestionan aparentes intentos de diputados de dejar impune denuncia a Fabricio Alvarado",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los abogados expresan su preocupación por la posible impunidad del caso en curso.\n• El plazo para el informe se convierte en un tema delicado dentro del proceso judicial.\n• Los diputados están bajo presión para actuar de manera ética y responsable.\n• Es crucial mantener la transparencia en las investigaciones legislativas actuales.\n• Se advierte sobre los efectos negativos de la falta de rendición de cuentas.",
+      "source_name": "Aarón Sequeira",
+      "source_url": "https://www.nacion.com/politica/abogados-de-marulin-azofeifa-cuestionan-aparentes/VYSM5T3AIZE4FGL2TYOY2Q7NEY/story/",
+      "publish_date": "2026-03-31T13:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Abogados cuestionan intentos de dejar impune denuncia contra Fabricio Alvarado.",
+      "image_url": "https://www.nacion.com/resizer/v2/QWO7U3DCE5GITFXGMFSJXW3YKI.jpeg?auth=75ac056dae5777f95fbd1ea1d0f8d3830a2d548de02c9e3b9c71b3a7e9f769a8&smart=true&width=1080&height=810",
+      "description": "Representantes legales aseguran que pedir una prórroga al plazo para rendir informe generaría impunidad, porque el diputado dejaría su cargo y no podría continuar el proceso.",
+      "featured": false
+    },
+    {
+      "slug": "video-muestra-como-ocurrio-el-doble-homicidio-en-gasolinera-en-el-coyol-oij-identifica-victimas",
+      "title": "Video muestra cómo ocurrió el doble homicidio en gasolinera en El Coyol: OIJ identifica víctimas",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un video grabado por cámaras de seguridad muestra un ataque en una gasolinera.\n• El incidente ocurrió en El Coyol, un área conocida en Alajuela, Costa Rica.\n• Dos personas perdieron la vida en este ataque, identificadas por OIJ.\n• Las autoridades trabajan en esclarecer los motivos del doble homicidio.\n• La comunidad local está afectada por la violencia creciente en la región.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/sucesos/crimenes/video-muestra-como-ocurrio-el-doble-homicidio-en/7A7SP5YIYFBIXCFI6GB45U3K3I/story/",
+      "publish_date": "2026-03-31T13:02:38.000Z",
+      "teaser": "Lo clave en 20 segundos: Un video revela un trágico ataque en una gasolinera de Alajuela.",
+      "image_url": "https://www.nacion.com/resizer/v2/4YEPAJRTU5FYVOSMWSU6RYOLBQ.jpg?auth=462756d41240388e698fcb6e41b8124f4b5cb1d6c68afb2bd6cb77d04d2b7d82&smart=true&width=797&height=587",
+      "description": "Cámaras grabaron el ataque en El Coyol de Alajuela donde murieron Jean Campos y un acompañante.",
+      "featured": false
+    },
+    {
+      "slug": "entra-a-regir-ley-que-exige-pruebas-de-saliva-para-detectar-a-conductores-drogados-norma-establece-multas-y-penas-de-car",
+      "title": "Entra a regir ley que exige pruebas de saliva para detectar a conductores drogados. Norma establece multas y penas de cárcel",
+      "category": "Costa Rica",
+      "bullets_20s": "• La nueva ley busca reducir accidentes por consumo de sustancias psicoactivas.\n• Las pruebas de saliva permitirán detectar drogas en conductores de manera efectiva.\n• Están establecidas sanciones severas, incluyendo multas y penas de cárcel.\n• Se modificarán normas en la Ley de Tránsito y Código Penal de Costa Rica.\n• La medida es parte de un esfuerzo por mejorar la seguridad vial en el país.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/politica/entra-a-regir-ley-que-exige-pruebas-de-saliva-para/TPYLIMVWTFF5HA7W3Q66RH42C4/story/",
+      "publish_date": "2026-03-31T13:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Nueva ley exige pruebas de saliva para detectores de drogas en conductores.",
+      "image_url": "https://www.nacion.com/resizer/v2/M7ZGK3F2PJDQLOBA2OX57A6FK4.JPG?auth=88e9128a9ae48efbeb242ffe706fb2894ebe5efe787dfb8ae65b21f4ca0df70b&smart=true&width=4128&height=2752",
+      "description": "Entró a regir una reforma que endurece los controles de alcohol y drogas en la conducción vehicular en Costa Rica. La ley introduce cambios tanto en la Ley de Tránsito como en el Código Penal, con el objetivo de mejorar la detección y sanción de conductores que manejen ebrios o drogados.",
+      "featured": false
+    },
+    {
       "slug": "costa-rica-vs-iran-hora-y-canales-para-ver-a-la-sele-en-horario-inusual",
       "title": "Costa Rica vs. Irán: Hora y canales para ver a la ‘Sele’ en horario inusual",
       "category": "Costa Rica",
@@ -2226,12 +2278,12 @@
     {
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• Foro de UNESCO en el TEC promovió la paz y la relación con la naturaleza este 27 de marzo.\n• Panelistas abordaron temas de sostenibilidad, ética y conexión con el medio ambiente durante el evento.\n• Discusiones incluyeron la importancia de saberes indígenas en la conservación de territorios en Costa Rica.\n• Panelistas destacaron la economía circular como parte integral de un desarrollo sostenible necesario.\n• El evento fomentó una visión holística para mejorar la relación entre los humanos y su entorno natural.",
+      "category": "Ciencia",
+      "bullets_20s": "• El foro de la UNESCO se realizó en el Tecnológico de Costa Rica, enfocándose en la paz y el medio ambiente.\n• Participaron estudiantes, académicos y representantes de la UNESCO en un diálogo interdisciplinario enriquecedor.\n• Se abordó la necesidad de reconstruir la conexión entre los humanos y la naturaleza para lograr la paz.\n• Expertos en sostenibilidad y conservación discutieron estrategias para mejorar nuestras interacciones con el entorno.\n• Las panelistas enfatizaron la importancia de la ética en la toma de decisiones respecto al medio ambiente.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: El foro UNESCO en el TEC discute paz y medio ambiente en un diálogo interdisciplinario.",
+      "teaser": "Lo clave en 20 segundos: El foro UNESCO en el TEC reflexionó sobre paz y medio ambiente.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -2435,11 +2487,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria es esencial para el desarrollo de las universidades en Costa Rica.\n• El TEC celebrará actividades del 6 al 10 de abril en conmemoración de la autonomía universitaria.\n• Jacqueline Herrera Núñez y Sebastian Vallecillos participarán en el evento en vivo del TEC.\n• Este evento se transmitirá en las redes sociales del Tecnológico de Costa Rica.\n• Los estudiantes pueden enviar sus preguntas al correo conversemos@tec.ac.cr antes del evento.",
+      "bullets_20s": "• La autonomía universitaria se celebra en Costa Rica el 12 de abril de cada año.\n• El TEC organiza la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• El evento Conversemos con el TEC se transmitirá por redes sociales y YouTube.\n• Jacqueline Herrera y Sebastian Vallecillos participarán en la discusión sobre la autonomía.\n• Se invita a los estudiantes a enviar preguntas al correo del evento para mayor interacción.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de la autonomía universitaria en el TEC con un evento en vivo.",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria del TEC será discutida en un evento especial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -2981,11 +3033,11 @@
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "category": "Costa Rica",
-      "bullets_20s": "• El Encuentro Internacional de Ingeniería en Producción Industrial busca innovar y promover la sostenibilidad.\n• Se celebró el IV Encuentro en el Campus Tecnológico Local San Carlos el 17 y 18 de marzo.\n• Participaron estudiantes y especialistas de varios países, fortaleciendo el intercambio académico.\n• Se abordaron temas como robótica háptica y sostenibilidad en la producción industrial.\n• La Ingeniería Industrial evoluciona hacia modelos que integran tecnología y sostenibilidad.\n• Hubo un enfoque en la participación de mujeres en ingeniería y el rol social del ingeniero.\n• El evento promueve la colaboración internacional entre instituciones educativas y empresas.\n• Se discutieron problemas logísticos actuales, incluyendo la crisis en la cadena de abastecimiento.\n• La jornada incluyó conferencias y espacios de networking para fortalecer conexiones profesionales.\n• Luis Eladio Rodríguez destacó la importancia de este encuentro para el desarrollo profesional.",
+      "bullets_20s": "• El IV Encuentro de Producción Industrial se llevó a cabo en San Carlos, Costa Rica, destacando su relevancia.\n• Estudiantes y académicos intercambiaron ideas sobre temas clave en la ingeniería industrial y la sostenibilidad.\n• Se discutieron innovaciones como la robótica háptica y la inteligencia artificial en el ámbito académico.\n• El evento fomentó la vinculación internacional entre instituciones de diferentes países de América Latina.\n• La crisis en la cadena de abastecimiento fue uno de los temas logísticos prioritarios durante el encuentro.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Innovación y sostenibilidad marcan el IV Encuentro Internacional de Ingeniería en Producción Industrial.",
+      "teaser": "Lo clave en 20 segundos: Encuentro impulsa la innovación y sostenibilidad en producción industrial en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -3644,11 +3696,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC fue sede de una jornada estudiantil centrada en la biotecnología y su divulgación.\n• Estudiantes presentaron investigaciones en áreas como biotecnología ambiental y salud.\n• El evento incluyó una mesa redonda sobre la proyección de la biotecnología en el país.\n• La charla magistral del Dr. Valverde destacó la importancia de las preguntas de investigación.\n• La jornada fomentó el networking y colaboraciones entre estudiantes y expertos del sector.",
+      "bullets_20s": "• La jornada comenzó con presentaciones sobre biotecnología ambiental y salud por jóvenes investigadores.\n• El evento se llevó a cabo en el Campus Tecnológico Central de Cartago, un espacio académico significativo.\n• Miembros del Club BIOTEC en Acción organizaron la actividad, buscando fortalecer la biotecnología en el país.\n• La mesa redonda invitó a especialistas a discutir la proyección de la biotecnología en Costa Rica.\n• El Dr. Anthony Valverde ofreció una charla sobre biotecnología reproductiva y desarrollo científico.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: jóvenes investigadores del TEC impulsan la biotecnología en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La jornada destaca el impacto de jóvenes investigadores en la biotecnología.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -4681,5 +4733,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-31T13:30:47.494Z"
+  "generated_at": "2026-03-31T14:30:47.621Z"
 }
