@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "un-joven-desaparece-en-el-mar-frente-al-hotel-fiesta-otro-logro-salir-con-vida",
+      "title": "Un joven desaparece en el mar frente al Hotel Fiesta; otro logró salir con vida",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un joven de 23 años desaparece en el mar en Puntarenas, generando gran preocupación entre sus familiares.\n• Bomberos y Guardacostas participan en la búsqueda del joven desaparecido en la zona costera.\n• Una segunda persona logró salir con vida, pero se desconoce su estado de salud actual.\n• La situación ha llamado la atención de la comunidad local y medios de comunicación nacionales.\n• Se están realizando esfuerzos coordinados para localizar al joven desaparecido en el océano.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/un-joven-desaparece-en-el-mar-frente-al-hotel/563Y25T7FJCCFMLC263KXVNF6Q/story/",
+      "publish_date": "2026-03-31T04:17:18.000Z",
+      "teaser": "Lo clave en 20 segundos: Joven desaparece en mar de Puntarenas mientras otro logra sobrevivir.",
+      "image_url": "https://www.nacion.com/resizer/v2/42JBQCDUMFGUHNH5MQDMOOI6W4.jpeg?auth=df12cc5562c39a4fed86898241564a46eef309572ec1037376c0f92ec2fe4fdd&smart=true&width=1280&height=960",
+      "description": "Bomberos y Guardacostas buscan a un joven de 23 años desaparecido en el mar frente al Hotel Fiesta, en Barranca de Puntarenas. Una segunda persona salió con vida.",
+      "featured": false
+    },
+    {
       "slug": "costa-rica-vs-iran-hora-y-canales-para-ver-a-la-sele-en-horario-inusual",
       "title": "Costa Rica vs. Irán: Hora y canales para ver a la ‘Sele’ en horario inusual",
       "category": "Costa Rica",
-      "bullets_20s": "• La Selección de Costa Rica jugará un partido amistoso contra Irán en Turquía muy pronto.\n• Este encuentro es parte de la preparación para futuras competencias internacionales de fútbol.\n• El horario del partido es inusual, por lo que se deben verificar los canales de transmisión.\n• El fútbol es una parte integral de la cultura costarricense y genera gran expectativa en la afición.\n• Se espera que los seguidores de la Selección se reúnan para apoyar a su equipo durante el partido.",
+      "bullets_20s": "• La Selección de Costa Rica se enfrenta a Irán en un partido amistoso en Europa.\n• El encuentro será transmitido por varios canales en Costa Rica para los aficionados.\n• Ambos equipos buscan prepararse para futuras competiciones internacionales importantes.\n• La hora del partido es inusual, lo que genera expectativas entre los seguidores.\n• Se espera una asistencia significativa para apoyar a la Sele en este amistoso.",
       "source_name": "Fanny Tayver Marín",
       "source_url": "https://www.nacion.com/puro-deporte/costa-rica-vs-iran-hora-y-canales-para-ver-a-la/4CQ4RQYZQ5ERNL42KKEPEODJFE/story/",
       "publish_date": "2026-03-31T03:20:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica se enfrenta a Irán en un amistoso, verifica el horario y canales.",
+      "teaser": "Lo clave en 20 segundos: Costa Rica se enfrenta a Irán en un partido amistoso en Turquía.",
       "image_url": "https://www.nacion.com/resizer/v2/JTCRQJFL6RADTEKT4OFXMUGPVE.jpeg?auth=5a7cd64ffe9d14b2ab0f9c19a87e253578dca00541024a6c961aeed2617d2d13&smart=true&width=5000&height=3333",
       "description": "La Selección de Costa Rica se despide de marzo con el partido amistoso contra Irán, en Turquía.",
       "featured": false
@@ -17,11 +30,11 @@
       "slug": "presidenta-de-mexico-claudia-sheinbaum-dona-dinero-de-su-cuenta-personal-a-cuba",
       "title": "Presidenta de México, Claudia Sheinbaum, dona dinero de su cuenta personal a Cuba",
       "category": "Mundo",
-      "bullets_20s": "• Claudia Sheinbaum apoya a Cuba en su crisis energética con donación personal.\n• La donación se da en medio de tensiones políticas entre México y Estados Unidos.\n• Sheinbaum destaca la solidaridad entre naciones en momentos difíciles.\n• Estados Unidos presiona a Cuba, complicando su situación económica actual.\n• La decisión de Sheinbaum ha generado reacciones variadas en redes sociales.",
+      "bullets_20s": "• La presidenta mexicana Claudia Sheinbaum se ha comprometido a apoyar a Cuba económicamente.\n• La donación se realiza en un contexto de crisis energética en la isla caribeña.\n• Se informa que la acción responde a las tensiones con el gobierno estadounidense.\n• Trump ha hecho amenazas que aumentan la presión sobre la economía cubana.\n• La ayuda humanitaria se considera crucial para la población cubana en estos momentos.",
       "source_name": "AFP, Sebastián Sánchez",
       "source_url": "https://www.nacion.com/el-mundo/presidenta-de-mexico-claudia-sheinbaum-dona-dinero/LD524GLIBJFFVOVX3NQAML5KNY/story/",
       "publish_date": "2026-03-31T03:06:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Claudia Sheinbaum apoya a Cuba con una donación personal en tiempos de crisis.",
+      "teaser": "Lo clave en 20 segundos: Sheinbaum apoya a Cuba con donaciones en un contexto complicado.",
       "image_url": "https://www.nacion.com/resizer/v2/IQ3CVT3G5NHCHMXOAC6B5532UY.jpg?auth=d13f12e11cc4ec23566808f97da3c6a51884d27bc1d803fada6c1aeec1eda23d&smart=true&width=2495&height=1663",
       "description": "Sheinbaum confirmó una donación personal para ayudar a Cuba en medio de la crisis energética, agravada por presiones y amenazas del presidente estadounidense Donald Trump.",
       "featured": false
@@ -2149,11 +2162,11 @@
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El foro UNESCO en el TEC reunió a académicos y estudiantes abordando temas ambientales.\n• Se discutió sobre la construcción de paz y el vínculo crítico con la naturaleza.\n• Panelistas compartieron su experiencia en sostenibilidad y conservación en el conversatorio.\n• La ética y la economía circular fueron temas centrales en la discusión sobre paz.\n• La construcción de paz requiere transformar estructuras sociales y culturales limitantes.",
+      "bullets_20s": "• El conversatorio reunió a académicos y especialistas para dialogar sobre paz y naturaleza.\n• Se discutieron enfoques sobre la construcción de paz y su relación con el medio ambiente.\n• Panelistas abordaron temas de sostenibilidad, bioética y economía circular en el evento.\n• La educación y el conocimiento son clave para construir una paz sostenible y responsable.\n• El foro concluyó con un llamado a fortalecer el diálogo interdisciplinario en la academia.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Un foro de UNESCO reflexiona sobre paz y naturaleza en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Un foro en el TEC busca fortalecer la relación entre paz y medio ambiente.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -2357,11 +2370,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria es un pilar fundamental en la educación superior de Costa Rica.\n• La celebración del Día de la Autonomía Universitaria ocurre cada 12 de abril en el país.\n• En el TEC se desarrollará una Semana de la Autonomía del 6 al 10 de abril.\n• Jacqueline Herrera Núñez y Sebastian Vallecillos serán parte de la conversación en el evento.\n• El evento se transmitirá en vivo a través de Facebook y YouTube del TEC.",
+      "bullets_20s": "• El TEC celebrará la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• La docente Jacqueline Herrera hablará sobre la importancia de la autonomía universitaria.\n• Sebastian Vallecillos representará a la Comisión Permanente sobre Autonomía en el evento.\n• El evento se transmitirá en vivo a través de redes sociales y YouTube.\n• Se invita a la audiencia a enviar preguntas al correo del evento.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: La autonomía universitaria será tema de una conversación el 8 de abril.",
+      "teaser": "Lo clave en 20 segundos: Conversación sobre autonomía universitaria en el TEC y su celebración.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -2902,12 +2915,12 @@
     {
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
-      "category": "Ciencia",
-      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería en Producción Industrial fue un espacio clave para el intercambio académico.\n• Se discutieron temas como Ingeniería Industrial 5.0, robótica háptica y ética en inteligencia artificial.\n• El evento promovió el debate sobre sostenibilidad en la producción y el rendimiento de sistemas solares.\n• Participantes de países como Argentina, Chile y Colombia compartieron innovaciones en la industria.\n• La vinculación de estudiantes e instituciones promueve cooperación internacional y desarrollo de competencias.",
+      "category": "Costa Rica",
+      "bullets_20s": "• Se realizó el IV Encuentro Internacional de Ingeniería en Producción Industrial en Costa Rica.\n• Conectaron la academia con las tendencias globales que transforman la industria actual.\n• Temas tratados incluyeron Ingeniería 5.0, robótica háptica y uso ético de IA.\n• Se evaluó la producción limpia y la importancia de la sostenibilidad.\n• Los organizadores destacan la necesidad de formar profesionales con visión integral.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Innovación y sostenibilidad marcan el IV Encuentro de Producción Industrial en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Innovación y sostenibilidad marcaron el IV Encuentro de Producción Industrial en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -3565,12 +3578,12 @@
     {
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• El TEC realizó la Jornada Estudiantil de Divulgación Científica centrada en biotecnología y su impacto social.\n• Estudiantes presentaron investigaciones en áreas como biotecnología ambiental, salud y bioprocesos.\n• La jornada fomentó el intercambio de ideas entre estudiantes e investigadores del sector biotecnológico.\n• Se llevó a cabo una mesa redonda sobre los desafíos de la biotecnología en Costa Rica y su futuro.\n• El Dr. Anthony Valverde ofreció una charla sobre biotecnología reproductiva y su relevancia en el país.",
+      "category": "Ciencia",
+      "bullets_20s": "• El Tecnológico de Costa Rica organiza la Jornada Estudiantil de Divulgación Científica 2026.\n• Jóvenes investigadores presentaron sus avances en biotecnología en una jornada dinámica y colaborativa.\n• La actividad reforzó la necesidad de unificar el mensaje de la biotecnología en el país.\n• Se realizó una mesa redonda sobre los desafíos actuales de la biotecnología en Costa Rica.\n• La jornada incluyó charlas magistrales y networking para fomentar colaboraciones futuras.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Jóvenes del TEC impulsan la biotecnología en jornada científica impresionante.",
+      "teaser": "Lo clave en 20 segundos: Investigadores jóvenes impactan la biotecnología en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -4603,5 +4616,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-31T04:30:47.238Z"
+  "generated_at": "2026-03-31T05:30:47.277Z"
 }
