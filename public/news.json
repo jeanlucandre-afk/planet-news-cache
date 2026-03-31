@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "ccss-perdio-mas-de-100000-millones-por-subsidiar-atencion-de-accidentes-de-transito-en-cinco-anos",
+      "title": "CCSS perdió más de ¢100.000 millones por subsidiar atención de accidentes de tránsito en cinco años",
+      "category": "Costa Rica",
+      "bullets_20s": "• La CCSS enfrenta pérdidas significativas debido a subsidios por accidentes de tránsito en los últimos años.\n• Propuesta de la CCSS incluye ajustar el tope del Seguro Obligatorio Automotor a largo plazo.\n• Impacto financiero indica una necesidad crítica de reestructuración de políticas de salud pública.\n• El subsidio ha representado un desafío para el sostenimiento del Seguro de Salud en Costa Rica.\n• El análisis financiero busca alternativas para garantizar la atención médica sin comprometer recursos.",
+      "source_name": "Arianna  Villalobos Solís",
+      "source_url": "https://www.nacion.com/economia/ccss-perdio-mas-de-100000-millones-por-subsidiar/53IQK3DAPFAAFAXQIAOHAVLYQM/story/",
+      "publish_date": "2026-03-31T11:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: CCSS plantea eliminar tope del seguro por pérdidas millonarias.",
+      "image_url": "https://www.nacion.com/resizer/v2/RCULYD4TRVCOZNOKINAJQRCNZQ.jpg?auth=19c86fa0764e701e5bdf901c04985bec7a3fb98bcb6293fd0c4822503109d62f&smart=true&width=1200&height=628",
+      "description": "Gerencia Financiera de la CCSS plantea eliminar tope del Seguro Obligatorio Automotor en su nueva política de sostenibilidad para el Seguro de Salud.",
+      "featured": false
+    },
+    {
+      "slug": "ccss-plantea-eliminar-tope-al-seguro-obligatorio-de-vehiculos-medida-subiria-costo-del-marchamo",
+      "title": "CCSS plantea eliminar tope al seguro obligatorio de vehículos: medida subiría costo del marchamo",
+      "category": "Costa Rica",
+      "bullets_20s": "• La CCSS propone un cambio significativo en el seguro obligatorio de vehículos en Costa Rica.\n• La medida eliminaría el límite actual del seguro obligatorio, lo que afectaría el costo del marchamo.\n• Se busca que el SOA cubra la totalidad de los gastos médicos en accidentes de tránsito.\n• Este cambio busca garantizar mejor atención a los lesionados en accidentes de vehículos.\n• La medida podría generar controversia entre aseguradoras y propietarios de vehículos.\n• Se prevé un incremento en los costos de los marchamos debido a la eliminación del tope.\n• El análisis de impacto económico de la propuesta aún está en discusión y evaluación.\n• Expertos debaten sobre las implicaciones de la medida en la economía familiar costarricense.\n• CCSS continuará realizando consultas para tomar decisiones informadas sobre este tema.",
+      "source_name": "Arianna  Villalobos Solís",
+      "source_url": "https://www.nacion.com/economia/ccss-plantea-eliminar-tope-al-seguro-obligatorio/W6OUKCKSU5BB3CYK2QEXDSSBDM/story/",
+      "publish_date": "2026-03-31T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: CCSS propone eliminar el tope del seguro vehicular, aumentando costos de marchamo.",
+      "image_url": "https://www.nacion.com/resizer/v2/M7LLHI6OBZBMXB6TI3F67HKMKI.jpeg?auth=b8e4ed5dbc93573cf391d793736b14872e46f8740b17470c1c38e1e8d91330cf&smart=true&width=3365&height=2243",
+      "description": "CCSS busca que el SOA cubra el 100% de gastos médicos por accidentes de tránsito. La medida eliminaría el tope actual de ¢6 millones.",
+      "featured": false
+    },
+    {
       "slug": "costa-rica-vs-iran-hora-y-canales-para-ver-a-la-sele-en-horario-inusual",
       "title": "Costa Rica vs. Irán: Hora y canales para ver a la ‘Sele’ en horario inusual",
       "category": "Costa Rica",
-      "bullets_20s": "• La Selección costarricense se enfrenta a Irán en un partido amistoso importante.\n• El encuentro se llevará a cabo en Turquía, un lugar estratégico para ambos equipos.\n• Los aficionados deben estar atentos a la hora y los canales de transmisión.\n• Este partido marca la despedida de Costa Rica de marzo en el fútbol internacional.\n• Ambos equipos buscan afinar su estrategia antes de los torneos importantes.",
+      "bullets_20s": "• La Selección de Costa Rica tiene un partido amistoso contra Irán en suelo turco.\n• Este encuentro será crucial para la preparación de la Sele para futuros torneos.\n• Los aficionados podrán seguir el partido a través de varios canales de televisión.\n• Se espera un buen desempeño del equipo en este partido amistoso internacional.\n• El horario del partido es inusual, lo que genera expectativa entre los seguidores.",
       "source_name": "Fanny Tayver Marín",
       "source_url": "https://www.nacion.com/puro-deporte/costa-rica-vs-iran-hora-y-canales-para-ver-a-la/4CQ4RQYZQ5ERNL42KKEPEODJFE/story/",
       "publish_date": "2026-03-31T04:51:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica se enfrenta a Irán en un amistoso en Turquía.",
+      "teaser": "Lo clave en 20 segundos: La Sele de Costa Rica se enfrenta a Irán en un amistoso en Turquía.",
       "image_url": "https://www.nacion.com/resizer/v2/JTCRQJFL6RADTEKT4OFXMUGPVE.jpeg?auth=5a7cd64ffe9d14b2ab0f9c19a87e253578dca00541024a6c961aeed2617d2d13&smart=true&width=5000&height=3333",
       "description": "La Selección de Costa Rica se despide de marzo con el partido amistoso contra Irán, en Turquía.",
       "featured": false
@@ -17,11 +43,11 @@
       "slug": "un-joven-desaparece-en-el-mar-frente-al-hotel-fiesta-otro-logro-salir-con-vida",
       "title": "Un joven desaparece en el mar frente al Hotel Fiesta; otro logró salir con vida",
       "category": "Costa Rica",
-      "bullets_20s": "• Un joven de 23 años ha desaparecido en el mar, lo que ha generado gran preocupación.\n• Los Bomberos y Guardacostas han iniciado búsquedas intensas para localizarlo.\n• Un segundo joven, que estuvo en la misma situación, logró salir con vida y fue rescatado.\n• Las autoridades continúan apelando a la población para que mantenga precaución en el mar.\n• Este tipo de incidentes resaltan la importancia de la seguridad en actividades acuáticas.",
+      "bullets_20s": "• Un joven de 23 años ha desaparecido en el mar cerca del Hotel Fiesta en Puntarenas.\n• Los bomberos y Guardacostas están realizando labores de búsqueda en la zona.\n• Un segundo joven logró salir con vida tras los hechos ocurridos en el mar.\n• Las condiciones del mar están siendo evaluadas para reanudar la búsqueda eficazmente.\n• La comunidad se encuentra consternada por la desaparición del joven en la costa.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/sucesos/un-joven-desaparece-en-el-mar-frente-al-hotel/563Y25T7FJCCFMLC263KXVNF6Q/story/",
       "publish_date": "2026-03-31T04:17:18.000Z",
-      "teaser": "Lo clave en 20 segundos: joven desaparece en el mar, mientras otro fue rescatado con vida.",
+      "teaser": "Lo clave en 20 segundos: un joven desaparecido en el mar y otro rescatado.",
       "image_url": "https://www.nacion.com/resizer/v2/42JBQCDUMFGUHNH5MQDMOOI6W4.jpeg?auth=df12cc5562c39a4fed86898241564a46eef309572ec1037376c0f92ec2fe4fdd&smart=true&width=1280&height=960",
       "description": "Bomberos y Guardacostas buscan a un joven de 23 años desaparecido en el mar frente al Hotel Fiesta, en Barranca de Puntarenas. Una segunda persona salió con vida.",
       "featured": false
@@ -2162,11 +2188,11 @@
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El foro en el TEC reunió a académicos y estudiantes para dialogar sobre paz y medio ambiente.\n• Se discutió cómo la construcción de paz está ligada a nuestras relaciones con la naturaleza.\n• La integración de saberes indígenas fue uno de los enfoques centrales del conversatorio.\n• Expertos destacaron la importancia de la ética en la sostenibilidad y la toma de decisiones.\n• Se abordó el papel de la economía circular en el desarrollo sostenible en el foro.",
+      "bullets_20s": "• El TEC realizó un foro sobre paz y medio ambiente, impulsando un diálogo interdisciplinario importante.\n• Expertos reflexionaron sobre cómo nuestra relación con la naturaleza impacta la construcción de paz.\n• El evento incluyó expertos en sostenibilidad, conservación, ética, y saberes indígenas para enriquecer las discusiones.\n• Se abordaron temas de economía circular como métodos para un desarrollo más sostenible y equitativo.\n• Las panelistas subrayaron la importancia de transformar estructuras culturales que limitan el desarrollo humano.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Exploran la paz ambiental en un foro del TEC con expertos y académicos.",
+      "teaser": "Lo clave en 20 segundos: El TEC aborda la intersección entre paz y entorno en un foro enriquecedor.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -2370,11 +2396,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria es fundamental para el desarrollo académico y la libertad de pensamiento.\n• El TEC celebrará la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• La conmemoración busca sensibilizar sobre la importancia de la autonomía en la educación.\n• Jacqueline Herrera Núñez y Sebastián Vallecillos serán los invitados a discutir sobre este tema.\n• El evento se transmitirá en vivo a través de las redes sociales del Tecnológico.",
+      "bullets_20s": "• La autonomía universitaria se conmemora en Costa Rica cada 12 de abril con diversas actividades.\n• El TEC celebrará la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• Invitados especiales abordarán la importancia de la autonomía en la educación superior.\n• El evento se transmitirá en vivo a través de las redes sociales del Tecnológico.\n• Se puede enviar preguntas al correo para facilitar la interacción en la conversación.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: La autonomía universitaria se discute en un evento en el TEC.",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria en el TEC se discutirá en un evento en vivo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -2915,12 +2941,12 @@
     {
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
-      "category": "Ciencia",
-      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería en Producción Industrial fue un evento clave para la cooperación académica.\n• Reunió a estudiantes y expertos de varios países, enfocándose en innovación y sostenibilidad en la industria.\n• Los participantes analizaron la importancia de la Ingeniería Industrial 5.0 y la robótica en el sector industrial.\n• Se discutieron temas sobre sostenibilidad, como la producción limpia y el rendimiento de sistemas solares fotovoltaicos.\n• El evento promovió el networking y el intercambio de ideas entre académicos y profesionales de diversas áreas.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería promovió la conexión entre academia e industria en Costa Rica.\n• Referentes internacionales discutieron la sotenibilidad y la innovación tecnológica en el campo industrial.\n• Las conferencias abordaron la robótica, la inteligencia artificial y sus usos éticos en la producción.\n• El evento facilitó el networking entre estudiantes y expertos de varios países de América Latina.\n• Temas como la crisis de abastecimiento y 'Internet Física' fueron debatidos en el encuentro clave.\n• El ingeniero industrial evolucionó, impactando la competitividad real de las organizaciones actuales.\n• El escenario se posiciona como plataforma de intercambio académico y profesional en la región.\n• Estudiantes participaron activamente, desarrollando competencias y abriendo oportunidades internacionales.\n• Las mujeres en ingeniería se abordaron, destacando su creciente participación en la disciplina.\n• Se enfatizó la importancia de formar profesionales con visión integral y estratégica en la industria.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Encuentro internacional promueve innovación y sostenibilidad en la ingeniería industrial.",
+      "teaser": "Lo clave en 20 segundos: Un encuentro que destaca innovación y sostenibilidad en la ingeniería.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -3579,11 +3605,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC organiza jornada de divulgación científica para investigadores jóvenes en biotecnología.\n• Un espacio para el intercambio de conocimiento entre estudiantes y expertos del sector biotecnológico.\n• Participantes comparten avances en investigaciones ambientales, de salud y bioprocesos.\n• La mesa redonda analiza desafíos y oportunidades para la biotecnología en Costa Rica.\n• Se fortalecen la colaboración y redes dentro del ecosistema biotecnológico nacional.",
+      "bullets_20s": "• La jornada estudiosa reunió a estudiantes y expertos en biotecnología para compartir conocimientos y experiencias.\n• Se abordaron temas de biotecnología ambiental y salud en diversas presentaciones de los estudiantes.\n• Las exposiciones fomentaron la retroalimentación entre participantes y expertos en el campo biotecnológico.\n• El Dr. Anthony Valverde destacó la importancia de la biotecnología para el futuro del país y la ciencia.\n• Se realizaron espacios de networking para impulsar colaboraciones y fortalecer la comunidad biotecnológica.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: jornada científica de jóvenes investigadores en biotecnología en el TEC.",
+      "teaser": "Lo clave en 20 segundos: jóvenes investigadores promueven la biotecnología en el Tecnológico de Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -4616,5 +4642,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-31T11:30:47.197Z"
+  "generated_at": "2026-03-31T12:30:47.513Z"
 }
