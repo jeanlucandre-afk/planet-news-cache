@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "policia-acorta-el-acceso-a-conchudita-gracias-a-un-chapulin-cerro-tendria-el-doble-de-oro-que-crucitas",
+      "title": "Policía acorta el acceso a Conchudita gracias a un chapulín: Cerro tendría el doble de oro que Crucitas",
+      "category": "Costa Rica",
+      "bullets_20s": "• La policía ha encontrado nuevas rutas que facilitan el acceso a Conchudita.\n• Este cambio reduce significativamente el tiempo de desplazamiento de las autoridades.\n• El cerro Conchudita podría contener una gran cantidad de recursos naturales.\n• Los esfuerzos de la policía mejoran la seguridad en la zona afectada.\n• La comunidad espera un impacto positivo por el acceso más fácil a recursos.",
+      "source_name": "Christian  Montero",
+      "source_url": "https://www.nacion.com/sucesos/policia-acorta-el-acceso-a-conchudita-gracias-a-un/6R6IWOHRDRBOZE3XPNXQVK3GUM/story/",
+      "publish_date": "2026-04-01T11:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: la policía facilita acceso a Conchudita, revelando potencial minero.",
+      "image_url": "https://www.nacion.com/resizer/v2/QEYUGQVZ7FHEHPFOD75ELPW7AM.jpeg?auth=1a68388906921a23de28d1c906696585eb023cccc95ce524827f80f29b1cbe9c&smart=true&width=1280&height=961",
+      "description": "Las largas horas de caminata para llegar al cerro Conchudita por terreno agreste, con lodo hasta las rodillas y que implicaba un fuerte desgaste físico para la policía, quedaron atrás, al menos por ahora.",
+      "featured": false
+    },
+    {
+      "slug": "ebais-sin-campo-el-plan-de-la-ccss-para-que-usted-elija-medico-privado",
+      "title": "¿Ebáis sin campo? El plan de la CCSS para que usted elija médico privado",
+      "category": "Costa Rica",
+      "bullets_20s": "• La CCSS tiene un nuevo plan para mejorar la atención médica en el país.\n• Los médicos privados podrán ser contratados por la CCSS bajo ciertas condiciones.\n• Se definirán tarifas y casos específicos para acceder a esta modalidad.\n• El objetivo es reducir las esperas en los ebais del país.\n• Este plan busca dar más opciones a los afiliados de la CCSS.\n• Los detalles sobre cómo funcionará están aún por esclarecerse completamente.\n• Se espera que la implementación sea a corto plazo.\n• Las reacciones sobre esta propuesta han sido variadas y diversas.",
+      "source_name": "Arianna  Villalobos Solís",
+      "source_url": "https://www.nacion.com/economia/ebais-sin-campo-el-plan-de-la-ccss-para-que-usted/KPISMGCBAJAO5MV5HURQDPPDXU/story/",
+      "publish_date": "2026-04-01T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La CCSS planea ofrecer médicos privados a afiliados ante falta de personal en ebais.",
+      "image_url": "https://www.nacion.com/resizer/v2/BAF5TP7UYVEI3GVWBUNW2BC52E.JPG?auth=1eba42e8cbd05ef5d1b1d8963735f45c51c2f5293f3fdc4d82be04f62d0c458a&smart=true&width=2976&height=1984",
+      "description": "CCSS asumiría el pago a médicos privados, bajo tarifas previamente definidas y tras delimitar los casos en que procedería esta modalidad de contratación.",
+      "featured": false
+    },
+    {
       "slug": "hombre-muere-tras-recibir-descarga-electrica-mientras-colocaba-un-techo",
       "title": "Hombre muere tras recibir descarga eléctrica mientras colocaba un techo",
       "category": "Costa Rica",
-      "bullets_20s": "• Un hombre perdió la vida tras recibir una descarga eléctrica en un accidente laboral.\n• El trágico incidente ocurrió mientras trabajaba en la colocación de un techo.\n• Los servicios de emergencias llegaron al lugar, pero no pudieron hacer nada.\n• Este tipo de accidentes laborales son cada vez más comunes en la región.\n• Las autoridades piden a los trabajadores tener cuidado al manipular instalaciones eléctricas.",
+      "bullets_20s": "• Un hombre falleció tras sufrir una descarga eléctrica en su lugar de trabajo.\n• El accidente ocurrió mientras el hombre colocaba un techo en su casa.\n• Socorristas llegaron rápidamente, pero no pudieron salvar su vida.\n• Se están investigando las circunstancias del trágico accidente laboral.\n• Este trágico suceso hace reflexionar sobre la seguridad en trabajos eléctricos.",
       "source_name": "Sebastián Sánchez, Edgar Chinchilla",
       "source_url": "https://www.nacion.com/sucesos/hombre-muere-tras-recibir-descarga-electrica/F4AM7XI4WZCGVBWWENJWZSR4V4/story/",
       "publish_date": "2026-04-01T04:04:19.000Z",
-      "teaser": "Lo clave en 20 segundos: un hombre falleció tras recibir una descarga eléctrica mientras trabajaba.",
+      "teaser": "Lo clave en 20 segundos: un hombre murió electrocutado mientras trabajaba en su techo.",
       "image_url": "https://www.nacion.com/resizer/v2/B6KJ322HNVGV3PFS52OBNABQUI.jpeg?auth=5c2a76d67c23de77a50223c710ee0864fee6e21370a1286bedc2995b0c436b72&smart=true&width=936&height=574",
       "description": "Hombre murió electrocutado mientras colocaba un techo en San Rafael de Guatuso. Socorristas no pudieron salvarlo.",
       "featured": false
@@ -2851,11 +2877,11 @@
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El foro UNESCO en el TEC destacó la relación entre paz y naturaleza en Costa Rica.\n• El conversatorio reunió a académicos, especialistas y estudiantes en un espacio de diálogo.\n• Se abordaron temas de sostenibilidad, ética, y saberes indígenas en la construcción de paz.\n• Las panelistas enfatizaron en la importancia de transformar estructuras sociales limitantes.\n• El TEC busca fortalecer el diálogo interdisciplinario en torno a la paz y el ambiente.",
+      "bullets_20s": "• El TEC organizó un foro sobre la paz y el ambiente el 27 de marzo de 2026.\n• Participaron estudiantes, académicos y expertos en un diálogo interdisciplinario sobre la paz.\n• Se abordó la conexión entre la construcción de paz y la naturaleza necesaria para su desarrollo.\n• Expertos discutieron la ética ambiental como crucial para la toma de decisiones en paz.\n• La economía circular se presentó como un camino hacia el desarrollo sostenible y equitativo.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: El foro del TEC explora la paz y los desafíos ambientales.",
+      "teaser": "Lo clave en 20 segundos: Conversatorio discute paz y medio ambiente con expertos en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -3059,11 +3085,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebrará la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• Este evento se enfocará en las actividades relacionadas con la autonomía universitaria.\n• La docente Jacqueline Herrera y el estudiante Sebastian Vallecillos participarán en la charla.\n• El evento se transmitirá en vivo por las redes sociales del Tecnológico.\n• Se conmemora el Día de la Autonomía Universitaria cada 12 de abril en Costa Rica.",
+      "bullets_20s": "• La autonomía universitaria es un tema fundamental en el desarrollo académico del TEC.\n• El próximo episodio de Conversemos con el TEC se emitirá el 8 de abril en redes sociales.\n• Actividades con motivo del Día de la Autonomía Universitaria se realizarán del 6 al 10 de abril.\n• Jacqueline Herrera y Sebastian Vallecillos serán los invitados para hablar sobre la autonomía.\n• Las preguntas sobre autonomía pueden enviarse al correo proporcionado por el TEC.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de la autonomía universitaria en el TEC con actividades y charla en vivo.",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria en el TEC se discutirá el 8 de abril.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -3604,12 +3630,12 @@
     {
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
-      "category": "Costa Rica",
-      "bullets_20s": "• El encuentro reunió a estudiantes y profesionales para discutir la sostenibilidad en la producción industrial.\n• Temas tratados incluyeron inteligencia artificial, robótica y sostenibilidad en la ingeniería industrial.\n• El evento promovió el networking y la colaboración entre académicos de diferentes países de América Latina.\n• La ingeniería industrial se enfoca en formar profesionales con visión integral y el uso de tecnología.\n• Las conferencias ayudaron a abordar la crisis de cadena de abastecimiento en la actualidad.",
+      "category": "Ciencia",
+      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería en Producción Industrial reunió a estudiantes y expertos de varios países.\n• La agenda incluyó temas como robótica, inteligencia artificial y sostenibilidad en la producción industrial.\n• La participación activa de estudiantes facilitó el desarrollo de competencias profesionales y de liderazgo.\n• Se discutieron conceptos como Internet Física y la crisis en la cadena de suministro global.\n• El evento promovió la colaboración entre instituciones académicas y el sector industrial de América Latina.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Innovación y sostenibilidad fueron los tópicos centrales del IV Encuentro de Producción Industrial.",
+      "teaser": "Lo clave en 20 segundos: Encuentro destaca innovación y sostenibilidad en la Ingeniería en Producción Industrial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -4267,12 +4293,12 @@
     {
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra la Jornada Estudiantil de Divulgación Científica 2026 con investigaciones innovadoras.\n• Estudiantes presentan avances en biotecnología ambiental, salud y bioprocesos durante la jornada.\n• Charlas magistrales enriquecen la discusión sobre biotecnología en Costa Rica y su futuro.\n• Espacios de networking facilitan el intercambio de ideas entre jóvenes investigadores y expertos.\n• La actividad busca reducir la estigmatización de la biotecnología a través de la divulgación.",
+      "category": "Ciencia",
+      "bullets_20s": "• El TEC organizó una jornada dinámica para compartir avances en biotecnología entre estudiantes.\n• Presentaciones sobre biotecnología ambiental, salud y bioprocesos resaltan el trabajo emergente.\n• Una mesa redonda analizó los desafíos actuales en el sector biotecnológico de Costa Rica.\n• El Dr. Anthony Valverde compartió su perspectiva sobre biotecnología reproductiva y desarrollo.\n• Espacios de networking fomentan colaboraciones futuras entre investigadores y estudiantes.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Jóvenes investigadores del TEC destacan en divulgación científica sobre biotecnología.",
+      "teaser": "Lo clave en 20 segundos: jóvenes investigadores promueven biotecnología en jornada del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -5305,5 +5331,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-01T11:30:48.069Z"
+  "generated_at": "2026-04-01T12:30:47.777Z"
 }
