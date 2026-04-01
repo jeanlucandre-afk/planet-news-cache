@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "un-nuevo-robot-podria-ayudar-a-encontrar-recursos-clave-en-la-luna",
+      "title": "Un nuevo robot podría ayudar a encontrar recursos clave en la Luna",
+      "category": "Ciencia",
+      "bullets_20s": "• Un innovador diseño de robot promete ser clave en la exploración de la Luna.\n• La tecnología permitirá identificar recursos con rapidez y autonomía, lo que es crucial.\n• Este avance podría transformar la forma en que realizamos investigaciones espaciales.\n• Los expertos creen que tendrá un impacto significativo en misiones futuras a la Luna.\n• El uso de robots mejorará el análisis científico y la recolección de datos.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/un-nuevo-robot-podria-ayudar-a-encontrar-recursos/ZRCQZ4VH5BCUPNZOU37QV5V4RY/story/",
+      "publish_date": "2026-03-31T22:58:37.000Z",
+      "teaser": "Lo clave en 20 segundos: un robot lunar que facilitará la búsqueda de recursos esenciales.",
+      "image_url": "https://www.nacion.com/resizer/v2/EPFFZS5LDRDBPCVLG6JOMZMO7M.png?auth=5db29c438fa6aa6c1d4f7105fbec3c83825db3579b53a6368de6e0892afb16b7&smart=true&width=1920&height=1080",
+      "description": "Un robot con patas logra identificar recursos en la Luna con mayor rapidez y autonomía. El avance promete transformar la exploración espacial y mejorar el análisis científico.",
+      "featured": false
+    },
+    {
+      "slug": "su-pantalla-no-se-conecta-a-internet-estas-son-las-formas-mas-efectivas-de-solucionarlo",
+      "title": "¿Su pantalla no se conecta a Internet? Estas son las formas más efectivas de solucionarlo",
+      "category": "Tecnología",
+      "bullets_20s": "• Verifique la conexión de su router y asegúrese de que esté funcionando correctamente.\n• Reinicie su televisor y el modem para ver si restablece la conexión.\n• Asegúrese de que el televisor esté conectado a la red Wi-Fi correcta.\n• Considere actualizar el firmware de su televisor para mejorar la conectividad.\n• Revise las configuraciones de red en el menú de su televisor para posibles ajustes.",
+      "source_name": "El  Universal",
+      "source_url": "https://www.nacion.com/tecnologia/su-pantalla-no-se-conecta-a-internet-estas-son-las/W4ECLYRHFNGOHLUCIY5SXUSGBE/story/",
+      "publish_date": "2026-03-31T22:55:28.000Z",
+      "teaser": "Lo clave en 20 segundos: Soluciones prácticas para reconectar su televisor a Internet.",
+      "image_url": "https://www.nacion.com/resizer/v2/2XK3HQIKZ5C7JHMN77ALIC4C4M.png?auth=425d5e4aca3e9520f096308c92640f0be0597e7f38d2d64bdc5730e82828a9a1&smart=true&width=1680&height=945",
+      "description": "Descubra las soluciones más prácticas para recuperar la conexión de su TV y las alternativas que permiten disfrutar contenido sin interrupciones desde cualquier dispositivo.",
+      "featured": false
+    },
+    {
+      "slug": "precio-del-petroleo-baja-ante-expectativas-de-desescalada-en-medio-oriente",
+      "title": "Precio del petróleo baja ante expectativas de desescalada en Medio Oriente",
+      "category": "Mundo",
+      "bullets_20s": "• El precio del petróleo ha mostrado una tendencia a la baja en el mercado internacional.\n• Expectativas de paz en Medio Oriente impactan directamente en los precios del crudo.\n• Las declaraciones de líderes en la región son clave para el comportamiento del petróleo.\n• El Brent y el WTI son dos de los índices más monitoreados en el comercio petrolero.\n• Analistas creen que la reducción en la tensión regional podría estabilizar el mercado.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/precio-del-petroleo-baja-ante-expectativas-de/QCR2JMFEINE4JKKKBBNJQSRYBA/story/",
+      "publish_date": "2026-03-31T22:42:10.000Z",
+      "teaser": "Lo clave en 20 segundos: el precio del petróleo baja por posibles desescaladas en Medio Oriente.",
+      "image_url": "https://www.nacion.com/resizer/v2/SBJOTPV4XJHVDPPS3KFYXAEV6Y.jpg?auth=76f922cafd72ad22dbc58de6d1e0b3dfc37a26121d33b08dcd59ea8bfc5b6bfb&smart=true&width=8256&height=5504",
+      "description": "El Brent y el WTI retroceden tras las declaraciones del presidente iraní y versiones sobre un posible freno a la campaña militar de Donald Trump.",
+      "featured": false
+    },
+    {
+      "slug": "zonas-del-pacifico-norte-lideran-las-temperaturas-mas-altas-del-pais-este-martes-vea-la-lista-completa",
+      "title": "Zonas del Pacífico Norte lideran las temperaturas más altas del país este martes: vea la lista completa",
+      "category": "Costa Rica",
+      "bullets_20s": "• Este martes, el Pacífico Norte destacó por registrar las temperaturas más altas del país.\n• El Instituto Meteorológico Nacional publicó datos sobre las temperaturas más elevadas hoy.\n• Las condiciones climáticas han favorecido un aumento en las temperaturas en la región.\n• Es importante estar atento a los reportes del IMN sobre cambios climáticos.\n• El monitoreo constante de temperaturas es crucial para prevenir eventos climáticos adversos.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/sucesos/zonas-del-pacifico-norte-lideran-las-temperaturas/CTGVF6M6YRA2RFGOA6H2JBM3IM/story/",
+      "publish_date": "2026-03-31T22:41:00.000Z",
+      "teaser": "Lo clave en 20 segundos: el Pacífico Norte tuvo las temperaturas más altas hoy según el IMN.",
+      "image_url": "https://www.nacion.com/resizer/v2/2N2WHBBED5GGNOMPINMJLFCIXI.jpeg?auth=057fd0267ece3fe889311eca8a72342e3c345524deeb04cc81a7a2421afe43fc&smart=true&width=736&height=414",
+      "description": "Descubra cuáles fueron las zonas más calientes del país y cómo se distribuyeron las temperaturas este 31 de marzo, según datos del IMN.",
+      "featured": false
+    },
+    {
       "slug": "juez-ordena-paralizar-obras-del-salon-de-baile-de-trump-en-la-casa-blanca",
       "title": "Juez ordena paralizar obras del salón de baile de Trump en la Casa Blanca",
       "category": "Mundo",
@@ -2681,12 +2733,12 @@
     {
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• Conversatorio en el TEC acerca de construcción de paz y su vínculo con la naturaleza.\n• Estudiantes y académicos participaron en discusión sobre el medio ambiente y paz.\n• La ética y la sostenibilidad son clave en la construcción de paz y bienestar.\n• Panelistas compartieron enfoques sobre cómo mejorar la relación humano-naturaleza.\n• El foro fomenta un diálogo interdisciplinario para enfrentar desafíos ambientales.",
+      "category": "Ciencia",
+      "bullets_20s": "• El foro promovió diálogo interdisciplinario sobre paz y su vínculo con la naturaleza.\n• Se discutió la ética y sostenibilidad como factores cruciales para construir paz.\n• Panelistas compartieron experiencias en sostenibilidad, conservación y bioética.\n• La economía circular se presentó como modelo para avanzar en el desarrollo sostenible.\n• La importancia de integrar saberes indígenas en la conservación fue un tema central.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Se discuten paz y medio ambiente en foro de UNESCO en el TEC.",
+      "teaser": "Lo clave en 20 segundos: foro UNESCO analizó construcción de paz y desafíos ambientales.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -2890,11 +2942,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• El 12 de abril se conmemora el Día de la Autonomía Universitaria en Costa Rica.\n• Conversemos con el TEC discutirá la importancia de la autonomía en las universidades.\n• La actividad contará con la participación de docentes y estudiantes del TEC.\n• Se realizarán transmisiones en vivo a través de redes sociales del TEC.\n• Los interesados pueden enviar preguntas al correo indicado por el TEC.\n• Este evento busca fomentar un diálogo sobre educación y autonomía universitaria.\n• La autonomía universitaria es fundamental para el desarrollo académico en el país.\n• Se invitan a todos los miembros de la comunidad a participar activamente.\n• Las actividades están orientadas a fortalecer la conciencia sobre el autogobierno.",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebra la importancia de la autonomía universitaria cada año.\n• Actividades especiales en el TEC se llevarán a cabo del 6 al 10 de abril.\n• La Semana de la Autonomía Universitaria incluye diversas conferencias y diálogos con expertos.\n• Jacqueline Herrera y Sebastian Vallecillos hablarán sobre la defensa de la autonomía universitaria.\n• La transmisión en vivo se realizará a través del perfil de Facebook y YouTube del TEC.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: La autonomía universitaria se celebra en el TEC con actividades del 6 al 10 de abril.",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria se celebra en el TEC con actividades y diálogo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -3436,11 +3488,11 @@
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "category": "Costa Rica",
-      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería en Producción Industrial promovió la vinculación academia-industria.\n• Se presentaron conferencias sobre temas vanguardistas como la robótica y la inteligencia artificial aplicada.\n• El evento se desarrolló en el Campus Tecnológico Local San Carlos del TEC, fortaleciendo la formación profesional.\n• Abordó importantes aspectos de sostenibilidad y transición energética en la producción industrial actual.\n• El encuentro facilitó el networking entre estudiantes, docentes y especialistas de varios países de América Latina.",
+      "bullets_20s": "• El IV Encuentro de Producción Industrial se centra en innovación y sostenibilidad en la academia.\n• Expertos de diferentes países analizan la transformación de la industria a nivel global.\n• Se abordan temas como Ingeniería Industrial 5.0 y robótica háptica en conferencias.\n• La sostenibilidad en producción limpia y transición energética también es clave en el evento.\n• Profesionales buscan formar expertos con visión integral para enfrentar retos industriales.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Conectar academia y tendencias globales en ingeniería industrial durante el IV Encuentro Internacional.",
+      "teaser": "Lo clave en 20 segundos: Encuentro internacional impulsa innovación y sostenibilidad en la producción industrial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -4099,11 +4151,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La Jornada Estudiantil de Divulgación Científica reunió a jóvenes investigadores y académicos del TEC.\n• El lema del evento fue 'Fortaleciendo caminos: jóvenes investigadores, biotecnología y sociedad'.\n• Se presentaron avances de investigaciones en biotecnología ambiental y salud por estudiantes.\n• El Dr. Anthony Valverde Abarca ofreció una charla magistral sobre biotecnología reproductiva.\n• La jornada incluyó un espacio de networking para fomentar futuras colaboraciones entre participantes.",
+      "bullets_20s": "• El Campus Tecnológico Central Cartago albergó la Jornada de Divulgación Científica 2026.\n• El lema del evento resaltó la importancia de la biotecnología para el desarrollo nacional.\n• Estudiantes presentaron sus investigaciones en biotecnología ambiental y de salud.\n• Se llevó a cabo una mesa redonda sobre la proyección de la biotecnología en el país.\n• La jornada promovió la interacción entre estudiantes y profesionales del sector biotecnológico.\n• Participantes discutieron sobre los desafíos en la formación de talento en biotecnología.\n• El Dr. Anthony Valverde Abarca impartió una charla magistral sobre biotecnología reproductiva.\n• Se facilitó un espacio de networking para futuras colaboraciones en el área de biotecnología.\n• El evento busca reducir la estigmatización que enfrenta la biotecnología en Costa Rica.\n• Los asistentes intercambiaron ideas en diálogos formales e informales durante la jornada.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: jóvenes investigadores del TEC impulsan la biotecnología en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La jornada en el TEC promueve la biotecnología entre jóvenes investigadores.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -5136,5 +5188,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-03-31T23:30:47.685Z"
+  "generated_at": "2026-04-01T00:30:48.148Z"
 }
