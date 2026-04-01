@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "usuarios-del-banco-nacional-reportan-caida-de-app-y-sitio-web-en-plena-semana-santa-esto-dice-la-entidad",
+      "title": "Usuarios del Banco Nacional reportan caída de app y sitio web en plena Semana Santa; esto dice la entidad",
+      "category": "Costa Rica",
+      "bullets_20s": "• Usuarios del Banco Nacional enfrentaron problemas con la app durante la Semana Santa.\n• La caída afectó el acceso al sitio web y a los cajeros automáticos.\n• Clientes manifestaron su preocupación ante la inaccesibilidad de sus cuentas.\n• La entidad emitió un comunicado reconociendo los inconvenientes reportados.\n• Se espera que el problema se solucione a la brevedad para los usuarios.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/economia/usuarios-del-banco-nacional-reportan-caida-de-app/WE2BKTCNGVELZNVELFZDNNFCPQ/story/",
+      "publish_date": "2026-04-01T18:47:13.000Z",
+      "teaser": "Lo clave en 20 segundos: Usuarios del Banco Nacional reportan problemas graves con sus servicios digitales.",
+      "image_url": "https://www.nacion.com/resizer/v2/MBKD2XYET5ELHAFLINL4OBXN7E.jpg?auth=8bb62dea1d3925524ae510d73fc9ab7bff0e29a9874c02674c321ce205481434&smart=true&width=3744&height=2674",
+      "description": "La mañana de este miércoles, clientes del Banco Nacional reportaron problemas para acceder a la app, el sitio web y cajeros automáticos.",
+      "featured": false
+    },
+    {
+      "slug": "ruta-27-tendra-ajuste-clave-en-semana-santa-para-regreso-a-san-jose",
+      "title": "Ruta 27 tendrá ajuste clave en Semana Santa para regreso a San José",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Ruta 27 realizará cambios para mejorar el flujo vehicular durante la Semana Santa.\n• Se implementarán nuevos horarios de operación para optimizar el regreso a San José.\n• Se espera que los usuarios respeten las recomendaciones para evitar congestiones.\n• Los cierres viales se comunicarán con anticipación a los viajeros para facilitar su planificación.\n• Es fundamental que los conductores estén atentos a las señalizaciones en la ruta.\n• El objetivo es minimizar los atrasos y ofrecer un viaje más fluido este domingo.\n• Se sugiere a los viajeros salir con tiempo suficiente para no enfrentar contratiempos.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-pais/ruta-27-tendra-ajuste-clave-en-semana-santa-para/QXGZA3ZCKVG3PHBORJGMWGTOXU/story/",
+      "publish_date": "2026-04-01T18:45:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Ajustes en Ruta 27 facilitarán el regreso a San José en Semana Santa.",
+      "image_url": "https://www.nacion.com/resizer/v2/PUDAHYH4XNGHFFWWP3HNMSKJJE.jpeg?auth=ec96a47c5f926bc2c76b20980fdc05bbb712a326b4913318fd1ad79e75c684cf&smart=true&width=4000&height=1868",
+      "description": "Ruta 27 aplicará cambios este domingo de Semana Santa para facilitar el regreso a San José. Conozca horarios, cierres y recomendaciones para evitar presas y atrasos.",
+      "featured": false
+    },
+    {
+      "slug": "no-es-caminar-ni-hacer-pesas-un-nuevo-estudio-senala-cual-es-el-mejor-ejercicio-para-dormir-bien",
+      "title": "No es caminar ni hacer pesas: un nuevo estudio señala cuál es el mejor ejercicio para dormir bien",
+      "category": "Ciencia",
+      "bullets_20s": "• El estudio destaca la efectividad del yoga de alta intensidad para mejorar la calidad del sueño.\n• Investigadores encontraron que los efectos positivos aparecen a partir de ocho semanas de práctica.\n• Comparado con caminar y levantar pesas, el yoga resulta más beneficioso para el descanso.\n• Un enfoque en la respiración y la meditación ha sido clave en el estudio realizado.\n• Los expertos recomiendan integrar el yoga en la rutina diaria para mejores resultados.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/ni-caminar-ni-levantar-pesas-estudio-revela-el/A5TANCOL7VFCXC37MMCG3WLG2A/story/",
+      "publish_date": "2026-04-01T18:34:00.000Z",
+      "teaser": "Lo clave en 20 segundos: el yoga de alta intensidad es el mejor ejercicio para dormir mejor.",
+      "image_url": "https://www.nacion.com/resizer/v2/SGMOSSEACBG4LICO3DAMUPBRX4.png?auth=8572151eb8d9feee7652f5b83d3f790be562fcdb19a54825b3b332929d372c69&smart=true&width=1920&height=1080",
+      "description": "Un estudio internacional revela que el yoga de alta intensidad mejora el sueño más que caminar o hacer pesas. La práctica muestra efectos desde ocho semanas.",
+      "featured": false
+    },
+    {
+      "slug": "guardacostas-intercepta-lancha-con-840-kilos-de-aparente-cocaina-en-el-pacifico-sur-hay-cuatro-tripulantes-detenidos",
+      "title": "Guardacostas intercepta lancha con 840 kilos de aparente cocaína en el Pacífico Sur: hay cuatro tripulantes detenidos",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Servicio Nacional de Guardacostas llevó a cabo una operación en el Pacífico Sur.\n• Interceptaron una lancha con una considerable cantidad de droga a bordo.\n• Fue un operativo iniciado en las costas de Golfito, Costa Rica.\n• Las autoridades informan que cuatro tripulantes fueron detenidos.\n• La lucha contra el narcotráfico sigue siendo una prioridad en el país.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/sucesos/guardacostas-intercepta-lancha-con-840-kilos-de/KC2GZNU5E5HU7OD5Z47VN2IU7A/story/",
+      "publish_date": "2026-04-01T18:30:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Guardacostas interceptan embarcación con droga en el Pacífico Sur.",
+      "image_url": "https://www.nacion.com/resizer/v2/64YDP2OOVFD2HJZE2TR42TUUJA.jpeg?auth=68c726a8cfa9f5e2dfb921d95085fd385be4aae850ef38f06ede630b6869b6a1&smart=true&width=1600&height=1200",
+      "description": "El Servicio Nacional de Guardacostas interceptó una lancha con unos 840 kilos de aparente cocaína en el Pacífico Sur. Cuatro personas fueron detenidas tras un operativo iniciado en Golfito.",
+      "featured": false
+    },
+    {
       "slug": "ultimas-entradas-para-el-mundial-2026-salen-a-la-venta-asi-puede-comprarlas",
       "title": "Últimas entradas para el Mundial 2026 salen a la venta: así puede comprarlas",
       "category": "Mundo",
@@ -303,11 +355,11 @@
       "slug": "trump-logro-un-cambio-de-regimen-pero-del-regimen-maritimo-iran-se-burla-del-presidente-de-eeuu-y-cobrara-peaje-en-el-es",
       "title": "Trump logró un cambio de régimen, pero del régimen marítimo: Irán se burla del presidente de EE.UU. y cobrará peaje en el estrecho de Ormuz",
       "category": "Mundo",
-      "bullets_20s": "• Irán anunció el cobro de peajes en el estrecho de Ormuz, una ruta comercial vital.\n• El presidente de EE.UU. enfrenta críticas tras el anuncio de Teherán sobre el peaje.\n• La medida se considera parte de las tensiones geopolíticas en la región del Medio Oriente.\n• Expertos advierten sobre el impacto que esto podría tener en el comercio global.\n• Irán insiste en que el estrecho se abrirá solo a quienes cumplan sus leyes nuevas.",
+      "bullets_20s": "• Trump enfrenta burlas de Irán por sus decisiones y gestión internacional reciente.\n• Irán establece nuevas leyes para el tránsito en el estrecho de Ormuz, clave para el comercio.\n• El estrecho de Ormuz es vital para el transporte de petróleo a nivel global, impactando a todos.\n• Las tensiones entre EE.UU. e Irán continúan en aumento, complicando las relaciones internacionales.\n• Expertos analizan las posibles repercusiones económicas de estas acciones sobre el mercado mundial.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c75k3er07q0o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-01T12:53:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Irán cobrará peaje en Ormuz, desafiando a EE.UU. y afectando el comercio global.",
+      "teaser": "Lo clave en 20 segundos: Irán cierra el estrecho de Ormuz, ponendo a prueba las relaciones con EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/a3ee/live/b2205bd0-2dbd-11f1-b297-95b0a0a8331e.jpg",
       "description": "Irán prometió mantener cerrado el estrecho de Ormuz y solo abrirlo \"para quienes cumplan con sus nuevas leyes\".",
       "featured": false
@@ -404,6 +456,19 @@
       "featured": false
     },
     {
+      "slug": "artemis-ii-quienes-son-los-4-astronautas-que-viajaran-a-la-luna-en-la-historica-mision-de-la-nasa-y-que-articulos-person",
+      "title": "Artemis II: quiénes son los 4 astronautas que viajarán a la Luna en la histórica misión de la NASA (y qué artículos personales llevarán con ellos)",
+      "category": "Mundo",
+      "bullets_20s": "• La misión Artemis II es histórica y marca el regreso a la exploración lunar por parte de la NASA.\n• La NASA ha seleccionado a cuatro astronautas altamente capacitados para esta importante misión lunar.\n• Los astronautas compartirán sus artículos personales, reflejando sus esperanzas y temores en el espacio.\n• Cada miembro de la tripulación tiene un papel fundamental en la misión y su éxito es crucial.\n• Esta misión inaugurará una nueva era de exploración espacial y podría abrir puertas para futuras colonizaciones.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cly9veeng09o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-01T11:27:09.000Z",
+      "teaser": "Lo clave en 20 segundos: Conoce a los astronautas de Artemis II y su misión histórica a la Luna.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d4da/live/9aa7fb10-26a7-11f1-9a4b-834c9ce445e3.jpg",
+      "description": "Los integrantes de la tripulación más observada en décadas ha revelado sus esperanzas, temores y sacrificios familiares.",
+      "featured": false
+    },
+    {
       "slug": "policia-acorta-el-acceso-a-conchudita-gracias-a-un-chapulin-cerro-tendria-el-doble-de-oro-que-crucitas",
       "title": "Policía acorta el acceso a Conchudita gracias a un chapulín: Cerro tendría el doble de oro que Crucitas",
       "category": "Costa Rica",
@@ -433,11 +498,11 @@
       "slug": "la-conmovedora-historia-de-la-madre-palestina-que-se-reencontro-con-su-hija-evacuada-de-gaza-despues-de-2-anos",
       "title": "La conmovedora historia de la madre palestina que se reencontró con su hija evacuada de Gaza después de 2 años",
       "category": "Mundo",
-      "bullets_20s": "• Una madre palestina logra reencontrarse con su hija después de dos años separadas.\n• La situación en Gaza ha creado múltiples historias de desarraigo y reencuentro.\n• Evacuaciones de prematuros se convirtieron en necesidad en medio del conflicto.\n• Vínculos familiares se han visto profundamente afectados por la guerra en la región.\n• Historias conmovedoras como esta reflejan el sufrimiento humano en conflictos.",
+      "bullets_20s": "• Una madre se reencuentra con su hija tras dos años de separación por la guerra en Gaza.\n• La situación de los recién nacidos evacuados es uno de los temas más preocupantes.\n• Gaza ha vivido intensos combates que afectan la vida de muchas familias.\n• El reencuentro simboliza la lucha y esperanza en medio del conflicto.\n• Historias como estas destacan el impacto humano de la guerra en la región.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c1krvj0zrrzo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-01T09:31:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Reencuentro emotivo de una madre con su hija tras dos años de separación por el conflicto.",
+      "teaser": "Lo clave en 20 segundos: Madre y hija se reencuentran tras una separación de dos años por la guerra en Gaza.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/fd01/live/b7950160-2c69-11f1-95ce-9bb916c6cb06.png",
       "description": "La niña es una de, al menos, ocho recién nacidos prematuros que tuvieron que ser evacuados durante los intensos combates en Gaza al comienzo de la guerra.",
       "featured": false
@@ -459,11 +524,11 @@
       "slug": "como-la-amenaza-de-rusia-impulsa-a-alemania-a-romper-un-tabu-tras-la-era-nazi-para-crear-la-fuerza-militar-mas-poderosa-",
       "title": "Cómo la amenaza de Rusia impulsa a Alemania a romper un tabú tras la era nazi para crear la fuerza militar más poderosa de Europa",
       "category": "Mundo",
-      "bullets_20s": "• Alemania está revisando su política de defensa debido a las crecientes amenazas rusas en Europa.\n• La militarización de Alemania provoca reacciones mixtas entre sus aliados y la comunidad europea.\n• Históricamente, Alemania tuvo un papel complicado en la seguridad del continente europeo.\n• La nueva fuerza militar alemana podría cambiar significativamente el equilibrio de poder en Europa.\n• Los aliados de Alemania observan con atención esta evolución en su postura militar.\n• La historia reciente influye en la percepción de Alemania como potencia militar en Europa.",
+      "bullets_20s": "• La militarización alemana está generando nuevos debates en el contexto geopolítico actual de Europa.\n• Los efectos del conflicto ruso-ucraniano han llevado a Alemania a reconsiderar su política de defensa.\n• Alemania busca crear una fuerza militar poderosa en respuesta a las amenazas externas del este.\n• Los aliados europeos ven con buenos ojos el impulso militar de Alemania en la actualidad.\n• La historia reciente de Alemania influye en cómo se percibe su nueva postura militar.\n• Los cambios en la seguridad europea obligan a Alemania a adaptarse y a actualizar su estrategia defensiva.\n• La cooperación entre naciones puede fortalecer la seguridad en el continente europeo.\n• Alemania busca encontrar un equilibrio entre su pasado y sus futuras responsabilidades de defensa.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c070190m338o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-01T03:29:36.000Z",
-      "teaser": "Lo clave en 20 segundos: Alemania reconsidera su rol militar en vista de las amenazas rusas.",
+      "teaser": "Lo clave en 20 segundos: Alemania transforma su política militar ante la nueva amenaza rusa en Europa.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8522/live/97d2f710-2d13-11f1-ba67-f7b8dbc6a466.jpg",
       "description": "En la primera mitad del siglo XX, Alemania aterrorizó a Europa, pero ahora sus vecinos europeos reciben con beneplácito la renaciente militarización alemana.",
       "featured": false
@@ -990,13 +1055,13 @@
     },
     {
       "slug": "metoo-colombia-la-creciente-ola-de-denuncias-de-acoso-sexual-a-mujeres-periodistas-que-sacude-a-los-grandes-medios",
-      "title": "\"MeToo Colombia\": la creciente ola de denuncias de acoso sexual a mujeres periodistas que sacude a los grandes medios",
+      "title": "MeToo Colombia: la creciente ola de denuncias de acoso sexual a mujeres periodistas que sacude a los grandes medios",
       "category": "Mundo",
-      "bullets_20s": "• La iniciativa #YoTeCreoColega ha permitido a muchas mujeres compartir sus experiencias de acoso.\n• Las denunciantes enfrentan un entorno complicado en un sector históricamente masculinizado y opresor.\n• Este movimiento se inscribe en una ola global de protestas contra el acoso y la violencia de género.\n• Las periodistas detrás de la iniciativa buscan crear un espacio más seguro en los medios de comunicación.\n• El análisis de los casos revela patrones preocupantes sobre la cultura de silencio en el periodismo.",
+      "bullets_20s": "• El movimiento #YoTeCreoColega surge como respuesta al acoso en el periodismo en Colombia.\n• Las denuncias abarcan desde acoso verbal hasta agresiones sexuales en el trabajo.\n• Periodistas unidas buscan visibilizar el problema y ofrecer un espacio seguro para contar historias.\n• La iniciativa pretende crear un cambio en la cultura laboral de los medios de comunicación.\n• Las redes sociales han sido fundamentales para la difusión de estas denuncias y experiencias.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cp38jenvxp4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-03-31T15:03:39.000Z",
-      "teaser": "Lo clave en 20 segundos: Un movimiento que empodera a periodistas en la lucha contra el acoso sexual.",
+      "teaser": "Lo clave en 20 segundos: Denuncias de acoso a periodistas en Colombia evidencian una problemática alarmante en los medios.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3c16/live/372f9140-2a5f-11f1-934f-036468834728.jpg",
       "description": "BBC Mundo habló con las periodistas detrás de la iniciativa #YoTeCreoColega, que ya ha recibido decenas de denuncias.",
       "featured": false
@@ -1363,19 +1428,6 @@
       "teaser": "Lo clave en 20 segundos: oportunidades de becas para semiconductores en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/ILRRRPGGKFGF7OORRO2XGH2R54.jpg?auth=89be2047b0b6ee3171e98710d1083e3fe6e4b85bb5cc57b18d73644941327e14&smart=true&width=1500&height=1000",
       "description": "Estudiantes y profesionales pueden acceder a capacitación clave en un sector con alta proyección internacional y creciente demanda.",
-      "featured": false
-    },
-    {
-      "slug": "ni-caminar-ni-levantar-pesas-estudio-revela-el-ejercicio-que-mejora-el-sueno-en-menos-tiempo",
-      "title": "Ni caminar ni levantar pesas: estudio revela el ejercicio que mejora el sueño en menos tiempo",
-      "category": "Ciencia",
-      "bullets_20s": "• Un estudio internacional analiza el impacto del ejercicio en la calidad del sueño.\n• El yoga de alta intensidad se destaca como una opción efectiva para mejorar el descanso.\n• Caminar y levantar pesas no generan los mismos beneficios que el yoga en este aspecto.\n• La práctica del yoga muestra resultados positivos en menos de ocho semanas.\n• Los resultados sugieren que el tipo de ejercicio influye en la salud del sueño.",
-      "source_name": "O Globo",
-      "source_url": "https://www.nacion.com/ciencia/ni-caminar-ni-levantar-pesas-estudio-revela-el/A5TANCOL7VFCXC37MMCG3WLG2A/story/",
-      "publish_date": "2026-03-30T21:01:30.000Z",
-      "teaser": "Lo clave en 20 segundos: el yoga de alta intensidad mejora el sueño más que otros ejercicios.",
-      "image_url": "https://www.nacion.com/resizer/v2/SGMOSSEACBG4LICO3DAMUPBRX4.png?auth=8572151eb8d9feee7652f5b83d3f790be562fcdb19a54825b3b332929d372c69&smart=true&width=1920&height=1080",
-      "description": "Un estudio internacional revela que el yoga de alta intensidad mejora el sueño más que caminar o hacer pesas. La práctica muestra efectos desde ocho semanas.",
       "featured": false
     },
     {
@@ -3241,11 +3293,11 @@
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El foro se centró en la construcción de paz y su relación con el medio ambiente.\n• Expertos discutieron la necesidad de reconstruir el vínculo con la naturaleza.\n• El evento promovió reflexiones sobre la sostenibilidad y ética en la ciencia.\n• Las panelistas incluyeron especialistas en gestión ambiental y derechos humanos.\n• Se abordó la importancia de la economía circular para un desarrollo sostenible.",
+      "bullets_20s": "• El foro reunió estudiantes y académicos para reflexionar sobre la paz y la naturaleza.\n• Se discutieron temas como la ética, sostenibilidad y la economía circular.\n• Expertos abordaron la relación entre paz y el vínculo con el ambiente.\n• Los saberes indígenas fueron vistos como fundamentales para la conservación.\n• El TEC sigue comprometido con la generación de conocimiento aplicado y ético.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Reflexiones sobre paz, ética y medio ambiente en foro del TEC.",
+      "teaser": "Lo clave en 20 segundos: El foro de UNESCO en el TEC abordó la paz y el entorno natural.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -3449,11 +3501,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria es fundamental para el desarrollo académico del Tecnológico de Costa Rica.\n• Se celebrará la Semana de la Autonomía Universitaria del 6 al 10 de abril en el TEC.\n• El Día de la Autonomía Universitaria se conmemora cada 12 de abril en Costa Rica.\n• Los estudiantes y docentes discutirán la importancia de la autonomía en una charla en vivo.\n• El evento se transmitirá por las redes sociales del TEC, incluyendo Facebook y YouTube.",
+      "bullets_20s": "• La autonomía universitaria es un pilar fundamental del sistema educativo en Costa Rica.\n• El TEC celebrará una semana dedicada a la autonomía universitaria del 6 al 10 de abril.\n• Jacqueline Herrera y Sebastian Vallecillos estarán en la charla sobre autonomía universitaria.\n• La transmisión en vivo se realizará el 8 de abril a través de diversas plataformas sociales.\n• Los interesados pueden enviar preguntas a conversemos@tec.ac.cr antes del evento.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre la autonomía universitaria en el TEC y sus actividades.",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria en el TEC se discutirá el 8 de abril.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -3995,11 +4047,11 @@
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "category": "Costa Rica",
-      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería en Producción Industrial reunió a expertos y estudiantes de varios países.\n• Temas de sostenibilidad y tecnologías emergentes fueron centrales en las conferencias y charlas del evento.\n• Los participantes discutieron sobre la importancia de la transición energética y la producción limpia.\n• El evento fomenta el intercambio académico entre instituciones de varios países de América Latina.\n• Se abordaron aspectos del rol social de la ingeniería y la participación de mujeres en la disciplina.",
+      "bullets_20s": "• El EIIPI reúne académicos y especialistas de varios países en un intercambio importante.\n• Las conferencias enfocan la Ingeniería Industrial 5.0 y la inteligencia artificial aplicable.\n• Se abordan temas de sostenibilidad, producción limpia y sistemas solares eficientes.\n• Los participantes analizan la crisis en la cadena de abastecimiento y nuevas tecnologías.\n• La participación estudiantil potencia competencias profesionales y oportunidades externas.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Encuentro en Costa Rica destaca innovación y sostenibilidad en ingeniería industrial.",
+      "teaser": "Lo clave en 20 segundos: Evento impulsa la innovación y la sostenibilidad en la producción industrial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -4658,13 +4710,13 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La Jornada Estudiantil de Divulgación Científica 2026 reunió a investigadores y estudiantes en el TEC.\n• Se presentaron avances de investigaciones en biotecnología ambiental, salud y bioprocesos.\n• El Dr. Anthony Valverde ofreció una charla sobre biotecnología reproductiva y su impacto.\n• Se promovieron el intercambio de conocimientos y la creación de redes de colaboración.\n• Los jóvenes investigadores son fundamentales para el futuro de la biotecnología en Costa Rica.",
+      "bullets_20s": "• La Jornada Estudiantil de Divulgación Científica reunió estudiantes y expertos en biotecnología.\n• Eventos como este promueven el intercambio de ideas y colaboraciones en ciencia y tecnología.\n• Se presentaron avances en proyectos sobre biotecnología ambiental, salud y bioprocesos.\n• Una mesa redonda analizó los desafíos y oportunidades del sector biotecnológico en el país.\n• La iniciativa refuerza la importancia de la biotecnología en la conversación del futuro costarricense.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Innovación y colaboración entre jóvenes investigadores en biotecnología en el TEC.",
+      "teaser": "Lo clave en 20 segundos: La biotecnología joven impulsa la ciencia en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
-      "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC.",
+      "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
     },
     {
@@ -5695,5 +5747,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-01T19:30:48.206Z"
+  "generated_at": "2026-04-01T20:30:48.040Z"
 }
