@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "los-santacrucenos-tienen-derecho-a-su-lagarteada",
+      "title": "Los santacruceños tienen derecho a su lagarteada",
+      "category": "Costa Rica",
+      "bullets_20s": "• La lagarteada es una tradición muy arraigada en la cultura santacruceña. Representa un vínculo con la comunidad.\n• Los ingenios en la zona generan preocupaciones ambientales por la deforestación y el uso de agroquímicos.\n• La mezcla de actividades productivas y tradiciones a veces causa tensiones en la comunidad al evaluar su impacto.\n• La extracción de recursos de manera sostenible es esencial para conservar la biodiversidad en la región.\n• Sacar un lagarto del río podría ser considerado poco dañino comparado con la agricultura intensiva.",
+      "source_name": "Redacción de La Nación",
+      "source_url": "https://www.nacion.com/opinion/cartas/los-santacrucenos-tienen-derecho-a-su-lagarteada/3PB7OUZLJJHU5OF7VSPGPYYS4Y/story/",
+      "publish_date": "2026-04-01T01:03:50.000Z",
+      "teaser": "Lo clave en 20 segundos: La lagarteada versus el impacto ambiental en Santa Cruz.",
+      "image_url": "https://www.nacion.com/resizer/v2/AQAG2RBYUBF4FKFZF7MC2LPD3E.jpg?auth=7e070df403192ab2ff6219a378c2c8eeaaf63c4483d632b9678c0bfdf91e459c&smart=true&width=1200&height=628",
+      "description": "En la zona de Ortega, en Santa Cruz, sigue habiendo grandes ingenios que convierten bosques en cañaverales, utilizan intensivamente las fuentes hídricas y aplican grandes cantidades de agroquímicos en sus plantaciones. Si se comparan las dos actividades, sacar un lagarto del río una vez al año parece una acción con poco impacto ambiental.",
+      "featured": false
+    },
+    {
+      "slug": "tribunal-de-texas-nombra-nuevo-abogado-a-celso-gamboa-habla-espanol-y-reemplaza-a-su-defensora",
+      "title": "Tribunal de Texas nombra nuevo abogado a Celso Gamboa: habla español y reemplaza a su defensora",
+      "category": "Mundo",
+      "bullets_20s": "• Un tribunal de Texas designa un nuevo abogado para Celso Gamboa, conocido caso legal en la actualidad.\n• El nuevo abogado es bilingüe, lo que facilitará la comunicación en el proceso judicial.\n• Esta decisión se tomó tras la retirada de la defensora anterior por un conflicto de intereses.\n• Se espera que este cambio impacte el avance del caso legal de Gamboa en Texas.\n• El contexto legal en Estados Unidos es complejo y requiere buenos defensores para avanzar.\n• El uso de un abogado que hable español es fundamental para el entendimiento del caso.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/tribunal-de-texas-nombra-nuevo-abogado-a-celso/TI44RAJ4FFFYJDEROPJGARSQSU/story/",
+      "publish_date": "2026-04-01T01:03:42.000Z",
+      "teaser": "Lo clave en 20 segundos: Tribunal de Texas designa nuevo abogado a Celso Gamboa, enfocado en la comunicación efectiva.",
+      "image_url": "https://www.nacion.com/resizer/v2/2CKTAI4GC5ALJCA4SSLKPGUCXI.jpg?auth=3208154ec5bd78b686528c7ab820724913cf6ce982d1e63969f930a38b8a0eb4&smart=true&width=3006&height=2000",
+      "description": "Tribunal de Texas cambia la defensa de Celso Gamboa y designa a un abogado bilingüe tras retirar a la defensora federal por conflicto de interés.",
+      "featured": false
+    },
+    {
       "slug": "concacaf-perdio-sus-dos-posibilidades-en-el-repechaje-hacia-el-mundial-2026",
       "title": "Concacaf perdió sus dos posibilidades en el repechaje hacia el Mundial 2026",
       "category": "Mundo",
-      "bullets_20s": "• Concacaf se queda sin representantes en el Mundial de 2026 tras el repechaje.\n• Jamaica luchó arduamente pero no pudo superar a su rival en tiempo extra.\n• El sueño de Mundial 2026 se desvanece para Jamaica y Concacaf.\n• Esta serie de partidos fue decisiva para los equipos participantes.\n• El fútbol de Concacaf busca nuevas formas de mejorar su competitividad.",
+      "bullets_20s": "• Concacaf tuvo un complicado camino hacia el Mundial 2026 con dos selecciones eliminadas.\n• Jamaica apareció como un candidato sorpresivo, pero no logró avanzar en el repechaje.\n• El partido se decidió en tiempo extra, lo que desató la frustración en el equipo jamaiquino.\n• La eliminación dejó un vacío en las aspiraciones de la región por más representantes.\n• Este resultado también impacta en la clasificación de otros equipos de la zona.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/puro-deporte/concacaf-perdio-sus-dos-posibilidades-en-el/42E5BCEYHBH77GX42LWZ5VEPD4/story/",
       "publish_date": "2026-04-01T00:16:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Jamaica dice adiós al Mundial 2026 tras perder en repechaje.",
+      "teaser": "Lo clave en 20 segundos: Jamaica queda fuera del Mundial 2026 tras un intenso repechaje.",
       "image_url": "https://www.nacion.com/resizer/v2/32XEIY2BLFDBFAZZEZPGWEPK3Y.jpg?auth=6ba646bb8b780487a6da7d4e444c9ad44e1f7f0d319f07b361d54301f866d8f4&smart=true&width=5844&height=4000",
       "description": "Jamaica sucumbió en tiempo extra del repechaje y dice adiós al sueño de estar en el Mundial 2026.",
       "featured": false
@@ -17,11 +43,11 @@
       "slug": "europa-completo-sus-clasificados-al-mundial-2026-mientras-italia-se-hunde",
       "title": "Europa completó sus clasificados al Mundial 2026 mientras Italia se hunde",
       "category": "Mundo",
-      "bullets_20s": "• Europa ha definido sus selecciones clasificadas para el Mundial de fútbol programado en 2026.\n• Italia, una de las selecciones históricas, se ha quedado fuera del torneo tras su derrota.\n• Las finales del repechaje europeo se mostraron muy reñidas y emocionantes, decididas en penales.\n• El Mundial de 2026 se celebrará en conjunto entre varias naciones anfitrionas.\n• Las sorpresas en las eliminatorias han desatado reacciones entre aficionados de diversos países.",
+      "bullets_20s": "• Europa finaliza la clasificación para el Mundial de Fútbol 2026 en un emocionante evento deportivo.\n• La derrota de Italia sorprendió a sus aficionados y dejó un vacío en el corazón del equipo.\n• Los partidos de repechaje se definieron en penales, llevando la emoción al límite.\n• Equipos europeos se preparan para representar al continente en el Mundial de Fútbol en 2026.\n• El torneo promete ser uno de los más competitivos de la historia futbolística europea.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/puro-deporte/europa-completo-sus-clasificados-al-mundial-2026/DLHCLHHA4RDBZMD5M24XBKVLP4/story/",
       "publish_date": "2026-03-31T23:59:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Europa confirma clasificados, Italia se queda fuera del Mundial 2026 tras un dramático repechaje.",
+      "teaser": "Lo clave en 20 segundos: Europa finaliza sus clasificados mientras Italia sufre una derrota sorprendente.",
       "image_url": "https://www.nacion.com/resizer/v2/QYBPZYCKKVEBVNB3SIZXCN5SDM.jpg?auth=316cac27445ec69b7df99972b66f3aac544336c294aeb2fa21fbf216626c7207&smart=true&width=8256&height=5504",
       "description": "Dos de las finales del repechaje europeo hacia el Mundial 2026 se definieron en penales, incluyendo la derrota de Italia.",
       "featured": false
@@ -2772,12 +2798,12 @@
     {
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• El foro realizó un conversatorio sobre paz y su relación con el entorno natural en Costa Rica.\n• Participaron académicos y estudiantes en diálogos sobre sostenibilidad y conservación ambiental.\n• La ética y el conocimiento son claves para una construcción de paz inclusiva y responsable.\n• El foro incluyó panelistas especialistas en cultura indígena y gestión ambiental.\n• Se debatió sobre la importancia de la economía circular como vía hacia el desarrollo sostenible.",
+      "category": "Ciencia",
+      "bullets_20s": "• El foro abordó cómo construir paz frente a los desafíos ambientales actuales y futuros.\n• Expertos discutieron la importancia del diálogo interdisciplinario en la construcción de paz.\n• La relación con la naturaleza es clave para lograr un entorno pacífico y sostenible.\n• La ética ambiental y la educación son pilares para un desarrollo armónico y equitativo.\n• Se promovieron saberes indígenas como fundamentales para la conservación y sostenibilidad.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Diálogo sobre paz y medio ambiente en foro de UNESCO en el TEC.",
+      "teaser": "Lo clave en 20 segundos: un foro de UNESCO discute paz y naturaleza en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -2981,11 +3007,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica abordará el tema de autonomía universitaria el 8 de abril.\n• Este evento se transmitirá por redes sociales y se invita a todos a participar.\n• Se celebrará la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• Contará con la participación de expertos en la temática de autonomía en la educación.\n• La conmemoración del Día de la Autonomía Universitaria se celebra anualmente el 12 de abril.",
+      "bullets_20s": "• La autonomía universitaria es clave para el desarrollo del pensamiento crítico en la educación superior.\n• El TEC celebrará actividades del 6 al 10 de abril para conmemorar esta importante fecha.\n• El Día de la Autonomía Universitaria se celebra cada año el 12 de abril en Costa Rica.\n• Se invita a la audiencia a participar durante la transmisión en vivo en redes sociales.\n• Docentes y estudiantes compartirán su perspectiva sobre la autonomía universitaria en torno a esta celebración.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: La autonomía universitaria del TEC se discutirá el 8 de abril en redes sociales.",
+      "teaser": "Lo clave en 20 segundos: Autonomía universitaria en el TEC y actividades programadas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -3527,11 +3553,11 @@
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "category": "Costa Rica",
-      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería en Producción Industrial fue un evento clave para el país.\n• Se unieron estudiantes, docentes y expertos de diversas naciones para discutir la innovación.\n• Las conferencias abordaron temas de relevancia como Ingeniería Industrial 5.0 e inteligencia artificial.\n• El enfoque en sostenibilidad incluyó producción limpia y rendimiento de sistemas solares fotovoltaicos.\n• El evento fomenta la colaboración entre instituciones educativas en América Latina para una innovación efectiva.",
+      "bullets_20s": "• El IV Encuentro reunió a expertos de varios países, fomentando el estudio de la ingeniería industrial.\n• Temas como la robótica y la inteligencia artificial fueron discutidos, promoviendo la tecnología sostenible.\n• Se enfatizó la importancia de la conexión entre academia y tendencias globales en la industria.\n• El evento promovió el intercambio académico y la cooperación internacional entre instituciones educativas.\n• Estudiantes participaron activamente en la organización, desarrollando competencias profesionales y liderazgo.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Se celebró el IV Encuentro de Producción Industrial, resaltando innovación y sostenibilidad.",
+      "teaser": "Lo clave en 20 segundos: El IV Encuentro fortalece la innovación y la sostenibilidad en la Ingeniería Industrial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -4189,12 +4215,12 @@
     {
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• El Campus Tecnológico Central fue escenario de la Jornada Estudiantil de Divulgación Científica 2026.\n• La actividad reunió a estudiantes e investigadores en un intercambio de conocimiento sobre biotecnología.\n• Con el lema “Fortaleciendo caminos”, se buscó unificar el mensaje de la biotecnología en el país.\n• Se presentaron investigaciones en biotecnología ambiental, salud y bioprocesos durante la jornada.\n• La jornada incluyó una mesa redonda sobre los desafíos y proyecciones de la biotecnología nacional.",
+      "category": "Ciencia",
+      "bullets_20s": "• La jornada estudiantil promueve el intercambio de ideas y divulgación entre investigadores y estudiantes.\n• Se enfocan en el desarrollo de biotecnología y sus aplicaciones en la sociedad costarricense.\n• Investigadores presentan proyectos sobre salud, medio ambiente y procesos biotecnológicos.\n• Se busca reducir la estigmatización de la biotecnología en la comunidad costarricense.\n• Los participantes generan redes de colaboración para mejorar el impacto de sus investigaciones.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: jóvenes investiga sobre biotecnología en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Jóvenes investigadores de biotecnología fomentan el diálogo y la colaboración en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -5227,5 +5253,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-01T01:30:47.904Z"
+  "generated_at": "2026-04-01T02:30:47.791Z"
 }
