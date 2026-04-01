@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "hombre-muere-tras-recibir-descarga-electrica-mientras-colocaba-un-techo",
+      "title": "Hombre muere tras recibir descarga eléctrica mientras colocaba un techo",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un hombre fue electrocutado mientras trabajaba en la colocación de un techo en su hogar.\n• Los socorristas llegaron rápidamente al lugar, pero no pudieron salvar su vida.\n• Este accidente resalta los peligros del trabajo en alturas y con electricidad.\n• Es fundamental tomar precauciones adecuadas al realizar labores de construcción.\n• La comunidad se encuentra conmovida por la trágica pérdida del joven trabajador.",
+      "source_name": "Sebastián Sánchez, Edgar Chinchilla",
+      "source_url": "https://www.nacion.com/sucesos/hombre-muere-tras-recibir-descarga-electrica/F4AM7XI4WZCGVBWWENJWZSR4V4/story/",
+      "publish_date": "2026-04-01T04:04:19.000Z",
+      "teaser": "Lo clave en 20 segundos: Un hombre murió electrocutado mientras trabajaba en un techo en Guatuso.",
+      "image_url": "https://www.nacion.com/resizer/v2/B6KJ322HNVGV3PFS52OBNABQUI.jpeg?auth=5c2a76d67c23de77a50223c710ee0864fee6e21370a1286bedc2995b0c436b72&smart=true&width=936&height=574",
+      "description": "Hombre murió electrocutado mientras colocaba un techo en San Rafael de Guatuso. Socorristas no pudieron salvarlo.",
+      "featured": false
+    },
+    {
       "slug": "huye-a-toda-velocidad-de-un-intento-de-bajonazo-pero-termina-con-su-vehiculo-destruido",
       "title": "Huye a toda velocidad de un intento de bajonazo, pero termina con su vehículo destruido",
       "category": "Costa Rica",
-      "bullets_20s": "• Un conductor en Costa Rica fue atacado en un intento de bajonazo lo que lo obligó a huir rápidamente.\n• La huida a alta velocidad llevó al conductor a perder el control del vehículo, resultando en un accidente.\n• El vehículo del conductor sufrió daños irreparables a causa de la colisión tras su intento de huida.\n• El incidente se produjo en Horquetas de Sarapiquí, una localidad en la provincia de Heredia.\n• La inseguridad en las carreteras costarricenses sigue siendo un problema para los conductores locales.",
+      "bullets_20s": "• Un conductor sufrió un intento de asalto en Horquetas de Sarapiquí, Heredia, mientras se trasladaba.\n• Ante la amenaza, decidió huir a alta velocidad tratando de escapar del delincuente.\n• Su vehículo, debido a la rapidez de la huida, terminó gravemente dañado y destruido.\n• Las autoridades buscan activar protocolos para mejorar la seguridad en esta zona del país.\n• Este hecho resalta los riesgos de inseguridad que viven algunas comunidades en Costa Rica.",
       "source_name": "Sebastián Sánchez, Reiner Montero",
       "source_url": "https://www.nacion.com/sucesos/accidentes/huye-a-toda-velocidad-de-un-intento-de-bajonazo/ES5CYMALTJDARMFSEEM4XPIBEY/story/",
       "publish_date": "2026-04-01T03:14:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Un conductor escapa de asalto pero termina con auto destruido en Sarapiquí.",
+      "teaser": "Lo clave en 20 segundos: un conductor huyó y acabó con su vehículo destruido tras un intento de asalto.",
       "image_url": "https://www.nacion.com/resizer/v2/TP3DRAAXYBBOFCNA47MRMOENZM.jpeg?auth=783cc8ac78e8b93c22a15b47c86e53050ce3ab1c143f90cf3c503545dc3e3ac4&smart=true&width=1157&height=1182",
       "description": "Un intento de asalto obligó a un conductor a huir a alta velocidad; su vehículo quedó destruido. Hechos ocurrieron en Horquetas de Sarapiquí, Heredia.",
       "featured": false
@@ -17,11 +30,11 @@
       "slug": "semana-santa-tiempo-de-perdon-catolicos-acuden-a-jornada-de-confesiones",
       "title": "Semana Santa, tiempo de perdón: católicos acuden a jornada de confesiones",
       "category": "Costa Rica",
-      "bullets_20s": "• La jornada de confesiones en la catedral metropolitana tiene gran relevancia para los católicos.\n• Los feligreses expresaron sus deseos de reconciliación y espiritualidad en tiempos difíciles.\n• Silencio y reflexión fueron los principales elementos de esta jornada de confesiones.\n• Las parroquias organizaron espacios para que los fieles pudieran confesar sus pecados.\n• La devoción de la comunidad católica destaca en esta Semana Santa en Costa Rica.",
+      "bullets_20s": "• La Semana Santa es un tiempo clave para los católicos en Costa Rica y el mundo.\n• Las jornadas de confesiones fomentan la reflexión y el perdón entre los fieles.\n• La catedral metropolitana se convierte en un lugar de encuentro espiritual importante.\n• Fieles esperan pacientemente su turno para confesarse y encontrar paz interior.\n• El Martes Santo es uno de los momentos más significativos de esta temporada religiosa.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/el-pais/semana-santa-tiempo-de-perdon-catolicos-acuden-a/X3RJXU5KF5G2PLQIGOY3K2JY54/story/",
       "publish_date": "2026-04-01T02:46:54.000Z",
-      "teaser": "Lo clave en 20 segundos: Decenas de fieles participan en la jornada de confesiones durante la Semana Santa.",
+      "teaser": "Lo clave en 20 segundos: Jornada de confesiones en la catedral, marcada por la reflexión y el perdón.",
       "image_url": "https://www.nacion.com/resizer/v2/6CO53IEIGVDOHKQE2NZDUB3LSI.JPG?auth=5e6a0c56a91be39b8d0b8801bd6b2dd162cbfa7c7f32fb89157f2b704d999b90&smart=true&width=4000&height=2667",
       "description": "La catedral metropolitana recibió a decenas de fieles durante una jornada de confesiones marcada por el silencio, la espera paciente y la reflexión propia del Martes Santo.",
       "featured": false
@@ -2838,11 +2851,11 @@
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC organizó un conversatorio centrado en la paz y la relación con la naturaleza.\n• Expertos discutieron la necesidad de un vínculo saludable entre los seres humanos y el entorno.\n• Se enfatizó el papel de la ética y la sostenibilidad en la construcción de paz.\n• La integración de saberes indígenas fue reconocida como esencial para la conservación.\n• El foro promovió un diálogo interdisciplinario sobre problemas ambientales y sociales.",
+      "bullets_20s": "• El foro UNESCO en el TEC reunió estudiantes y académicos para reflexionar sobre el entorno natural.\n• Panelistas expertos conversaron sobre cómo la paz se relaciona con la sostenibilidad ambiental.\n• Se abordaron saberes indígenas como elementos clave para la conservación del medio ambiente.\n• Una visión integral es fundamental para avanzar en la relación entre humanos y la naturaleza.\n• El evento promovió un uso ético y responsable del conocimiento y la tecnología.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Un foro sobre la paz y el medio ambiente se llevó a cabo en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Reflexión sobre paz y naturaleza en el foro UNESCO del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -3046,11 +3059,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC realizará un evento sobre autonomía universitaria el 8 de abril, enfocado en su importancia.\n• Jacqueline Herrera Núñez y Sebastian Vallecillos discutirán la autonomía y actividades relacionadas.\n• Se conmemora el Día de la Autonomía Universitaria el 12 de abril cada año en Costa Rica.\n• La Semana de la Autonomía Universitaria se celebrará del 6 al 10 de abril en el TEC.\n• Conversemos con el TEC se transmitirá en vivo por redes sociales, incluyendo Youtube y Facebook.",
+      "bullets_20s": "• El próximo Conversemos con el TEC se enfocará en la autonomía universitaria y su significado.\n• Jacqueline Herrera y Sebastian Vallecillos discutirán la importancia de la autonomía en el TEC.\n• La autonomía universitaria se conmemora en Costa Rica cada 12 de abril desde hace años.\n• Se celebrará la Semana de la Autonomía Universitaria del 6 al 10 de abril en el TEC.\n• La actividad se transmitirá en vivo por las redes sociales del Tecnológico.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC abordará la autonomía universitaria en un evento en línea el 8 de abril.",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria será el tema del próximo Conversemos en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -3592,11 +3605,11 @@
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "category": "Costa Rica",
-      "bullets_20s": "• El IV Encuentro Internacional reunió a estudiantes y especialistas de varios países en Costa Rica.\n• Se discutieron temas como la Ingeniería Industrial 5.0, robótica y sostenibilidad en la producción.\n• El evento busca conectar academia y tendencias globales que transforman la industria actual.\n• El fortalecimiento de competencias profesionales fue parte de la agenda del encuentro.\n• Se abordaron retos contemporáneos como la crisis de abastecimiento en el ámbito logístico.",
+      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería en Producción se realizó en el TEC de Costa Rica.\n• Estudiantes y docentes de varios países participaron en esta importante actividad académica.\n• La agenda abordó temas como robótica, inteligencia artificial y sostenibilidad en la industria.\n• Se discutieron retos actuales en la cadena de abastecimiento y nuevas tendencias operativas.\n• El encuentro propició el intercambio de conocimientos entre instituciones de América Latina.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: El IV Encuentro Internacional impulsó la innovación y sostenibilidad en la industria.",
+      "teaser": "Lo clave en 20 segundos: Encuentro potencia innovación y sostenibilidad en la ingeniería industrial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -4255,11 +4268,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La Jornada Estudiantil de Divulgación Científica 2026 reunió a jóvenes interesados en biotecnología.\n• Estudiantes presentaron avances en investigaciones sobre biotecnología ambiental y salud.\n• El evento promovió espacios de diálogo entre investigadores y estudiantes de biotecnología.\n• Se discutieron los desafíos actuales del sector biotecnológico en Costa Rica.\n• La actividad concluyó con un networking fomentando futuras colaboraciones en biotecnología.",
+      "bullets_20s": "• La Jornada Estudiantil de Divulgación Científica 2026 se celebró en el Campus Tecnológico Central.\n• Estudiantes compartieron avances en biotecnología ambiental, salud y bioprocesos en presentaciones relámpago.\n• Se realizó una mesa redonda sobre la trayectoria y proyección de la biotecnología en el país.\n• El Dr. Anthony Valverde ofreció una charla sobre biotecnología reproductiva y desarrollo científico.\n• El evento buscó unificar el mensaje de la biotecnología e involucrar a la sociedad costarricense.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: jóvenes investigadores comparten avances en biotecnología en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Jornada en el TEC reúne jóvenes investigadores para divulgar avances en biotecnología.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -5292,5 +5305,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-01T04:30:47.695Z"
+  "generated_at": "2026-04-01T05:30:47.782Z"
 }
