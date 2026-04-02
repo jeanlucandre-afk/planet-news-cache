@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "mas-de-40-paises-exigen-a-iran-reabrir-estrecho-de-ormuz-ante-impacto-global",
+      "title": "Más de 40 países exigen a Irán reabrir estrecho de Ormuz ante impacto global",
+      "category": "Mundo",
+      "bullets_20s": "• Más de 40 naciones están preocupadas por el impacto en el suministro de petróleo actualmente.\n• El estrecho de Ormuz es una vía crucial para el transporte marítimo de crudo.\n• Los países exigen a Irán actuar rápidamente para evitar más consecuencias económicas.\n• El cierre del estrecho ha generado incertidumbre en los mercados globales de energía.\n• Expertos advierten sobre un potencial aumento en los precios del petróleo si persiste el cierre.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/mas-de-40-paises-exigen-a-iran-reabrir-estrecho-de/JB7EY2IQPRH4PJWK6EWX3SY4PE/story/",
+      "publish_date": "2026-04-02T19:10:07.000Z",
+      "teaser": "Lo clave en 20 segundos: más de 40 países piden a Irán reabrir el estrecho de Ormuz por el impacto global.",
+      "image_url": "https://www.nacion.com/resizer/v2/EMXTWY3PIRGH7OADDP462XKZP4.jpg?auth=17da785c641364d1c1496759016700be0cc180bd9032b9d12d1fc60491aa1ee7&smart=true&width=6286&height=4192",
+      "description": "Naciones pidieron a Irán reabrir paso marítimo de buques ante el impacto global en el suministro de petróleo y la economía mundial.",
+      "featured": false
+    },
+    {
+      "slug": "es-como-aprender-a-andar-en-bicicleta-asi-explica-franklin-chang-diaz-por-que-la-luna-es-el-trampolin-inevitable-a-marte",
+      "title": "‘Es como aprender a andar en bicicleta’: así explica Franklin Chang-Díaz por qué la Luna es el trampolín inevitable a Marte",
+      "category": "Ciencia",
+      "bullets_20s": "• Franklin Chang-Díaz compartió sus experiencias sobre la importancia de la Luna en futuras exploraciones espaciales.\n• La misión Artemis II busca establecer una base lunar funcional para facilitar viajes a Marte.\n• Chang-Díaz compara la exploración lunar con aprender a andar en bicicleta, sugiriendo la necesidad de práctica.\n• Las bases lunares pueden servir como plataforma desde donde se podrían lanzar misiones a Marte.\n• La experiencia del astronauta costarricense es crucial para inspirar a nuevas generaciones en la ciencia espacial.",
+      "source_name": "Juan Fernando Lara Salas",
+      "source_url": "https://www.nacion.com/el-pais/es-como-aprender-a-andar-en-bicicleta-asi-explica/2JODDMK6FRGMRGWIT5UNJU5XHM/story/",
+      "publish_date": "2026-04-02T19:00:54.000Z",
+      "teaser": "Lo clave en 20 segundos: Franklin Chang-Díaz revela la Luna como paso previo crucial hacia Marte.",
+      "image_url": "https://www.nacion.com/resizer/v2/AEFLAPBIURHETIVC4GKM5JYM7M.jpg?auth=06e89e31e6fab4739b4a340483953decee334d7905f95984caac94b038226853&smart=true&width=3000&height=2000",
+      "description": "Costarricense, con siete viajes al espacio, explicó el significado de la misión Artemis II y la lógica detrás de una base lunar antes de viajar al planeta rojo.",
+      "featured": false
+    },
+    {
+      "slug": "jesus-de-nazaret-18-cosas-que-usted-no-sabia-de-la-serie-infaltable-de-semana-santa",
+      "title": "‘Jesús de Nazaret’: 18 cosas que usted no sabía de la serie infaltable de Semana Santa",
+      "category": "Mundo",
+      "bullets_20s": "• La serie ‘Jesús de Nazaret’ ha sido vista por millones de personas en todo el mundo.\n• Robert Powell, el actor principal, se convirtió en un icono por su papel en esta producción.\n• La serie fue emitida por primera vez en televisión en 1977, marcando un hito en la historia de la TV.\n• Algunos personajes de la serie fueron creados específicamente para la producción, generando controversia.\n• La narrativa incluye elementos que no están presentes en los evangelios canónicos tradicionales.\n• Varios actores de la serie han sido galardonados con Óscares a lo largo de sus carreras.\n• La serie ha sido objeto de análisis y estudios teológicos en diversas instituciones académicas.\n• Las locaciones de filmación fueron elegidas cuidadosamente para capturar la esencia del tiempo bíblico.\n• El impacto cultural de ‘Jesús de Nazaret’ se siente hasta el día de hoy en diversas producciones.\n• Su popularidad ha llevado a re-emisiones y discusiones sobre su legado en distintas plataformas.",
+      "source_name": "Yurguin Zúñiga Pineda",
+      "source_url": "https://www.nacion.com/teleguia/jesus-de-nazaret-18-cosas-que-usted-no-sabia-de-la/7ADTETHCWBC47L6YRATT7QG7YY/story/",
+      "publish_date": "2026-04-02T19:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Descubre datos curiosos sobre la emblemática serie ‘Jesús de Nazaret’.",
+      "image_url": "https://www.nacion.com/resizer/v2/5AMCURVLQVCD7NKDXAW4MGKOKM.jpg?auth=39b86865dbac87b50ba27533fe7c6d69b2e72446a4876fed5eebd20904ddd26c&smart=true&width=2340&height=1365",
+      "description": "La producción, emitida por primera vez en 1977, tiene un villano que no es parte de los evangelios, ocho actores ganadores del Óscar, y muchas historias de sufrimiento para Robert Powell.",
+      "featured": false
+    },
+    {
       "slug": "difunden-video-del-arresto-de-tiger-woods",
       "title": "Difunden video del arresto de Tiger Woods",
       "category": "Costa Rica",
@@ -17,13 +56,26 @@
       "slug": "el-rollo-biblico-mas-antiguo-jamas-encontrado-estaba-dividido-en-dos-partes-confirma-un-estudio",
       "title": "El rollo bíblico más antiguo jamás encontrado estaba dividido en dos partes, confirma un estudio",
       "category": "Ciencia",
-      "bullets_20s": "• El Gran Pergamino de Isaías es un manuscrito considerado uno de los más antiguos de la Biblia.\n• Estudios recientes revelan que este rollo estaba compuesto por dos partes distintas.\n• Las investigaciones detallan las diferencias materiales y cronológicas de los rollos involucrados.\n• El análisis proporciona una nueva perspectiva sobre la historia de los textos bíblicos.\n• Se espera que estos hallazgos generen más investigaciones sobre escritos religiosos antiguos.",
+      "bullets_20s": "• El Gran Pergamino de Isaías es un hallazgo importante en el estudio de la historia bíblica.\n• El estudio realizado en 2025 analizó la composición de los dos rollos que conforman el pergamino.\n• Este manuscrito es considerado el más antiguo y completo de la Biblia hasta la fecha.\n• Las diferencias materiales y temporales entre los rollos revelan información clave sobre su origen.\n• Investigadores continúan explorando el impacto de estos hallazgos en el contexto religioso actual.",
       "source_name": "O Globo",
       "source_url": "https://www.nacion.com/ciencia/el-rollo-biblico-mas-antiguo-jamas-encontrado/4ZGLTPI5JZFHRDOMW7XLDCNJXM/story/",
       "publish_date": "2026-04-02T18:24:00.000Z",
-      "teaser": "Lo clave en 20 segundos: El antiguo rollo bíblico revela su división en dos partes, transformando su historia.",
+      "teaser": "Lo clave en 20 segundos: Descubren que el manuscrito bíblico más antiguo se compone de dos rollos distintos.",
       "image_url": "https://www.nacion.com/resizer/v2/BCSC3FBTWZEEHAIVNVQAMIEMQA.webp?auth=e6ad7fb8e261c49b805ad7821ebbf28b4555ad0dce2462fb4a051dc79d04daca&smart=true&width=2048&height=1365",
       "description": "Un estudio del 2025 confirma que el Gran Pergamino de Isaías, el manuscrito bíblico más antiguo y completo, se formó a partir de dos rollos distintos con diferencias materiales y temporales.",
+      "featured": false
+    },
+    {
+      "slug": "trump-releva-a-pam-bondi-como-fiscal-general-de-eeuu",
+      "title": "Trump releva a Pam Bondi como fiscal general de EE.UU.",
+      "category": "Mundo",
+      "bullets_20s": "• El presidente de EE. UU. anunció cambios en su gabinete de manera sorpresiva.\n• Pam Bondi deja su cargo como fiscal general tras varios años de servicio.\n• Todd Blanche, su adjunto, asumirá la posición a partir de ahora.\n• Este cambio ocurre en un contexto político muy cargado y controvertido.\n• Se especula sobre las implicancias de esta decisión en la política actual.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cg40rrvvzlvo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-02T18:07:13.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump releva a Pam Bondi y elige a Todd Blanche como nuevo fiscal general.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e109/live/087b4190-2ec0-11f1-a79a-77e93010d956.jpg",
+      "description": "Bondi asumirá un \"nuevo cargo en el sector privado\" y será reemplazada por su adjunto, Todd Blanche, confirmó el presidente de EE.UU.",
       "featured": false
     },
     {
@@ -186,11 +238,11 @@
       "slug": "atenea-como-es-y-que-hara-el-microsatelite-desarrollado-por-argentina-que-participa-en-la-historica-mision-artemis-ii-a-",
       "title": "Atenea: cómo es y qué hará el microsatélite desarrollado por Argentina que participa en la histórica misión Artemis II a la Luna",
       "category": "Mundo",
-      "bullets_20s": "• La misión Artemis II busca establecer un camino sostenible para la exploración lunar.\n• Atenea es un equipo compacto que juega un papel esencial en esta misión histórica.\n• El microsatélite contribuirá al análisis y exploración del entorno lunar.\n• Científicos argentinos tienen un destacado papel en el desarrollo tecnológico de este satélite.\n• Esta colaboración internacional fortalece la ciencia espacial en la región y el mundo.",
+      "bullets_20s": "• Atenea es un microsatélite activo en la misión Artemis II, impulsando la exploración lunar.\n• Desarrollado por Argentina, combina esfuerzos de universidades y empresas del país sudamericano.\n• El satélite tiene un tamaño reducido y un peso de aproximadamente 15 kilogramos.\n• Forma parte de una colaboración internacional para regresar humanos a la Luna.\n• La misión Artemis II marcará un hito en la exploración espacial y científica.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c15dwqvx400o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-02T13:18:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Atenea, un microsatélite argentino, será clave para la misión lunar Artemis II.",
+      "teaser": "Lo clave en 20 segundos: Atenea, el microsatélite argentino, se une a la misión Artemis II a la Luna.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/86e5/live/f7f02420-2e8e-11f1-bf7c-65962cff9746.png",
       "description": "El dispositivo, de apenas unos centímetros de tamaño y alrededor de 15 kilos de peso, fue desarrollado por científicos e ingenieros de universidades públicas y empresas privadas del país sudamericano.",
       "featured": false
@@ -251,11 +303,11 @@
       "slug": "estoy-en-modo-supervivencia-por-que-tener-trabajo-en-argentina-no-evita-caer-en-la-pobreza",
       "title": "Estoy en modo supervivencia: por qué tener trabajo en Argentina no evita caer en la pobreza",
       "category": "Mundo",
-      "bullets_20s": "• La precariedad laboral afecta a muchos trabajadores en Argentina hoy en día.\n• Se han observado cambios en la economía que impactan a los empleados.\n• Estudios revelan que el empleo registrado ya no garantiza estabilidad.\n• Los salarios no cubren las necesidades básicas de la población.\n• Expertos alertan sobre la creciente desigualdad en el país.",
+      "bullets_20s": "• El trabajo registrado no garantiza la seguridad económica en Argentina actualmente.\n• La pobreza sigue afectando a trabajadoras y trabajadores a pesar de tener empleo.\n• Instituciones indican que el sistema laboral enfrenta grandes dificultades.\n• El costo de vida ha aumentado, haciendo difícil la subsistencia.\n• Las consecuencias económicas impactan a toda la población Argentina.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ckgrn2wewgvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-02T11:19:00.000Z",
-      "teaser": "Lo clave en 20 segundos: El empleo registrado ya no asegura protección contra la pobreza en Argentina.",
+      "teaser": "Lo clave en 20 segundos: La pobreza persiste a pesar de tener empleo en Argentina.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/be69/live/0404cf90-2d4a-11f1-8ac7-a101b1a2933c.jpg",
       "description": "Institutos públicos y consultoras privadas coinciden en que tener un empleo registrado ya no es un seguro contra la pobreza en Argentina.",
       "featured": false
@@ -264,11 +316,11 @@
       "slug": "pinin-brambilla-la-mujer-que-paso-mas-de-20-anos-restaurando-la-ultima-cena-y-enmendo-el-gran-error-de-leonardo-da-vinci",
       "title": "Pinin Brambilla, la mujer que pasó más de 20 años restaurando 'La última cena' y enmendó el 'gran error' de Leonardo da Vinci",
       "category": "Mundo",
-      "bullets_20s": "• Pinin Brambilla dedicó más de dos décadas al cuidado de la obra maestra de Da Vinci.\n• La restauración enfrentó numerosos desafíos debido al paso del tiempo y el deterioro.\n• El proceso involucró técnicas especializadas para recuperar el original de 'La última cena'.\n• Brambilla corrigió un error significativo que había pasado desapercibido durante años.\n• Su trabajo ha sido reconocido internacionalmente y ha influido en la restauración artística.",
+      "bullets_20s": "• Pinin Brambilla dedicó más de dos décadas a la restauración de la emblemática obra.\n• La última cena ha sufrido deterioros significativos desde su creación en el siglo XV.\n• Brambilla utilizó técnicas innovadoras para devolver la obra a su esplendor original.\n• El trabajo de restauración incluyó la corrección de errores de Da Vinci.\n• Expertos en arte han elogiado la dedicación y habilidad de la restauradora.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqx4w085yp7o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-02T10:36:57.000Z",
-      "teaser": "Lo clave en 20 segundos: Pinin Brambilla revivió 'La última cena' de Da Vinci tras años de deterioro.",
+      "teaser": "Lo clave en 20 segundos: Pinin Brambilla restauró 'La última cena', corrigiendo errores de Da Vinci en más de 20 años.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/84af/live/051ab970-10c3-11f0-8d69-dff4a207f5f1.jpg",
       "description": "La gran obra de Da Vinci comenzó a deteriorarse muy poco después de acabada. Muchos trataron de salvarla sin éxito hasta que llegó la talentosa restauradora Pinin Brambilla.",
       "featured": false
@@ -589,11 +641,11 @@
       "slug": "hoy-vuelve-a-casa-encuentran-restos-de-marco-antonio-hijo-de-la-presidenta-de-madres-buscadoras-de-sonora-y-de-mexico-ce",
       "title": "Hoy vuelve a casa: encuentran restos de Marco Antonio, hijo de la presidenta de Madres Buscadoras de Sonora y de México, Ceci Flores",
       "category": "Mundo",
-      "bullets_20s": "• El caso de Marco Antonio ha conmovido a muchos en México y el mundo durante años.\n• Ceci Flores ha liderado la lucha por la búsqueda de desaparecidos en su país.\n• Las Madres Buscadoras son un símbolo de la resistencia ante la violencia en México.\n• La desaparición de Marco Antonio refleja la problemática social de la violencia en el país.\n• Familiares han logrado visibilizar sus casos gracias a la labor del colectivo.\n• La identificación de restos humanos proporciona algo de cierre a las familias afectadas.\n• El dolor y la esperanza continúan vivos en las luchas por justicia en México.",
+      "bullets_20s": "• La desaparición de Marco Antonio ocurrió hace cerca de siete años en México.\n• Su madre, Ceci Flores, es fundadora de Madres Buscadoras de Sonora.\n• El colectivo busca a desaparecidos en México de manera incansable.\n• Este hallazgo genera esperanza y cierre para muchas familias afectadas.\n• Las Madres Buscadoras continúan su lucha por justicia y visibilidad.\n• El caso destaca la problemática de la desaparición forzada en el país.\n• Los esfuerzos de estas madres resaltan la importancia de la solidaridad.\n• La historia de Marco Antonio impacta a la sociedad mexicana y más allá.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cn89z93yd3ko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-01T19:05:16.000Z",
-      "teaser": "Lo clave en 20 segundos: Restos de Marco Antonio hallados tras casi 7 años de búsqueda por su madre y el colectivo.",
+      "teaser": "Lo clave en 20 segundos: Se encuentran restos de Marco Antonio, hijo de activista, tras casi siete años de búsqueda.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/f97a/live/8b9e0d50-2df3-11f1-8be1-d9efefde2f58.jpg",
       "description": "Hace casi 7 años desapareció el hijo de Flores y eso la impulsó a fundar el colectivo Madres Buscadoras de Sonora.",
       "featured": false
@@ -3890,12 +3942,12 @@
     {
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
-      "category": "Ciencia",
-      "bullets_20s": "• El foro promovió la reflexión sobre la relación entre paz y naturaleza, en un diálogo interdisciplinario.\n• Panelistas expertos en sostenibilidad, bioética y economía circular compartieron sus perspectivas.\n• La economía circular se abordó como un camino hacia un desarrollo sostenible y respetuoso con el ambiente.\n• La construcción de paz requiere integrar saberes indígenas y éticos en las decisiones sobre el entorno.\n• Se enfatizó la importancia de reconocer los servicios ecosistémicos en la gestión del conocimiento.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El conversatorio se enfocó en la relación entre paz y medio ambiente en el Tecnológico de Costa Rica.\n• Participaron académicos y especialistas en un diálogo interdisciplinario sobre sostenibilidad y ética.\n• El foro enfatizó la necesidad de construir un vínculo respetuoso con la naturaleza.\n• Los panelistas discutieron la importancia de integrar saberes indígenas en la gestión ambiental.\n• Se abordaron temas como la economía circular y su papel en el desarrollo sostenible.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: El foro UNESCO en el TEC reflexionó sobre paz y desafíos ambientales.",
+      "teaser": "Lo clave en 20 segundos: Constructores de paz y sostenibilidad se unen en el foro UNESCO del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -4099,11 +4151,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria es un pilar fundamental de la educación superior en Costa Rica.\n• El TEC celebra la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• Docentes y estudiantes discutirán el impacto de la autonomía en el Tecnológico.\n• La transmisión del evento será en vivo a través de redes sociales del TEC.\n• Se anima al público a enviar preguntas al correo oficial de Conversemos con el TEC.",
+      "bullets_20s": "• La autonomía universitaria es un tema clave en la educación superior costarricense.\n• El TEC celebrará la Semana de la Autonomía del 6 al 10 de abril de 2026.\n• La docente Jacqueline Herrera y el estudiante Sebastian Vallecillos estarán en el evento.\n• Se invitan preguntas al correo para enriquecer la conversación durante el evento.\n• La transmisión se realizará en Facebook y YouTube para mayor acceso público.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: discuten la importancia de la autonomía en el TEC.",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria será discutida en un evento en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -4645,13 +4697,13 @@
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "category": "Ciencia",
-      "bullets_20s": "• El IV Encuentro de Producción Industrial reunió a estudiantes y especialistas de varios países.\n• Se abordaron temas como la ingeniería 5.0 y la robótica háptica en la industria.\n• El evento busca conectar la academia con tendencias globales en producción industrial.\n• La sostenibilidad y la producción limpia fueron temas centrales en las charlas ofrecidas.\n• Participación activa de estudiantes en la organización favoreció el desarrollo de competencias.",
+      "bullets_20s": "• El IV Encuentro Internacional reunió a expertos en producción industrial de varios países.\n• La agenda incluye temas como robótica háptica e inteligencia artificial interpretable.\n• Se analizan los retos de sostenibilidad y producción limpia para el futuro.\n• Las conferencias fomentaron el intercambio académico entre estudiantes y docentes.\n• El evento promueve el papel social de la ingeniería en la comunidad.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Encuentro impulsa innovación y sostenibilidad en la industria en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Encuentro internacional de producción industrial impulsa innovación y sostenibilidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
-      "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
+      "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial tkguzman Jue, 26/03/2026 - 13:57",
       "featured": false
     },
     {
@@ -5308,11 +5360,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La Jornada Estudiantil de Divulgación Científica se realizó en el Campus Tecnológico Central Cartago.\n• Estudiantes de distintos niveles compartieron sus avances en biotecnología y medio ambiente.\n• El evento promovió el intercambio de ideas entre académicos, estudiantes e investigadores.\n• Se realizó una mesa redonda sobre la proyección de la biotecnología en Costa Rica.\n• El Dr. Anthony Valverde brindó una charla magistral sobre biotecnología reproductiva.",
+      "bullets_20s": "• La Jornada Estudiantil de Divulgación Científica 2026 tuvo lugar en el Campus Tecnológico Central.\n• Estudiantes compartieron avances en biotecnología ambiental, salud y bioprocesos durante la jornada.\n• La mesa redonda analizó los desafíos actuales del sector biotecnológico en Costa Rica.\n• El Dr. Anthony Valverde ofreció una charla magistral sobre biotecnología reproductiva y desarrollo científico.\n• Se promovieron espacios de networking para fomentar colaboraciones futuras entre investigadores.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: La divulgación científica en biotecnología avanza gracias a iniciativas estudiantiles.",
+      "teaser": "Lo clave en 20 segundos: jóvenes investigadores presentan avances en biotecnología en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -6358,5 +6410,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-02T19:30:49.313Z"
+  "generated_at": "2026-04-02T20:30:48.670Z"
 }
