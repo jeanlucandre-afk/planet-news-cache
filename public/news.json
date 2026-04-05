@@ -1,27 +1,53 @@
 {
   "news": [
     {
+      "slug": "iran-desafia-ultimatum-de-donald-trump-con-ataques-contra-israel-y-kuwait",
+      "title": "Irán desafía ultimátum de Donald Trump con ataques contra Israel y Kuwait",
+      "category": "Mundo",
+      "bullets_20s": "• Irán ha intensificado sus ataques en la región, desafiando al gobierno de Estados Unidos.\n• Trump impuso un ultimátum de 48 horas para un acuerdo sobre el estrecho de Ormuz.\n• Los recientes ataques han elevado las tensiones entre Irán y sus vecinos, como Kuwait.\n• Las acciones militares iranies generan preocupación en la comunidad internacional.\n• Se esperan repercusiones diplomáticas a nivel mundial tras estos incidentes.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/iran-desafia-ultimatum-de-donald-trump-con-ataques/XQHPDO27JVFG3PG24CAERZZQRA/story/",
+      "publish_date": "2026-04-05T03:08:19.000Z",
+      "teaser": "Lo clave en 20 segundos: Irán ignora ultimátum de Trump y aumenta la confrontación militar en la región.",
+      "image_url": "https://www.nacion.com/resizer/v2/RCK3GLXV2NGEPG52WLIPW3OAYU.jpg?auth=e6b152c715cfca1b030ad028ccbffe8ffcf0dbd65d4a9503e3d0ed8542029dd7&smart=true&width=1200&height=800",
+      "description": "El presidente estadounidense dio 48 horas a Teherán para un acuerdo sobre Ormuz, pero la república islámica intensificó sus ofensivas y elevó el tono de confrontación.",
+      "featured": false
+    },
+    {
+      "slug": "esta-fue-la-provincia-con-mas-pacientes-atendidos-por-emergencias-en-semana-santa",
+      "title": "Esta fue la provincia con más pacientes atendidos por emergencias en Semana Santa",
+      "category": "Costa Rica",
+      "bullets_20s": "• Durante la Semana Santa, hubo un incremento notable en las atenciones de emergencias en todo el país.\n• Las cifras revelaron qué provincias enfrentaron la mayor cantidad de incidentes de salud y accidentes.\n• Se registraron diferencias significativas entre todas las provincias del país en estas atenciones.\n• Las emergencias atendidas incluyeron accidentes de tránsito y problemas de salud súbitos.\n• Las autoridades de salud hicieron un llamado a la prevención y la atención responsable de los turistas.",
+      "source_name": "Lucía Astorga",
+      "source_url": "https://www.nacion.com/sucesos/esta-fue-la-provincia-con-mas-pacientes-atendidos/SZR5TRWFDFBSFLPLUHEWYOL3O4/story/",
+      "publish_date": "2026-04-05T02:34:33.000Z",
+      "teaser": "Lo clave en 20 segundos: Atención de emergencias en Costa Rica mostró diferencias significativas entre provincias.",
+      "image_url": "https://www.nacion.com/resizer/v2/WT3EDV5FE5FNVK3NZMP7GPGEIU.jpeg?auth=bf46b7d5b33e596e0edbf9f9edf893730950726537045395a5409e8f7ecfd959&smart=true&width=1280&height=960",
+      "description": "Las cifras del operativo evidencian diferencias entre provincias y los incidentes que más impacto tuvieron en la atención de emergencias.",
+      "featured": false
+    },
+    {
       "slug": "el-punto-de-la-tierra-mas-cercano-al-sol-no-es-el-everest-la-ciencia-revela-la-verdadera-respuesta",
       "title": "El punto de la Tierra más cercano al Sol no es el Everest: la ciencia revela la verdadera respuesta",
       "category": "Ciencia",
-      "bullets_20s": "• La ciencia redefine el concepto de altura y proximidad al Sol en nuestro planeta.\n• El Everest, aunque alto, no es el punto más cercano al Sol en la Tierra.\n• Datos precisos desafían nuestras nociones sobre los relieves terrestres y su importancia.\n• Los estudios geográficos muestran cómo las formas de la Tierra afectan estas mediciones.\n• Es fundamental entender estas diferencias para una mejor educación científica.",
+      "bullets_20s": "• Un estudio revela que el punto más cercano al Sol no es el Everest como se creía.\n• La altura no es el único factor que determina la cercanía al Sol en la Tierra.\n• Los datos científicos ofrecen una perspectiva renovada sobre la geografía terrestre.\n• La ciencia proporciona explicaciones detalladas que sorprenden a muchos investigadores.\n• Este descubrimiento podría cambiar nuestra comprensión de la geografía y altitud.\n• Investigar la relación entre altura y distancia del Sol es un campo fascinante.",
       "source_name": "La Nación / Argentina / GDA",
       "source_url": "https://www.nacion.com/ciencia/el-punto-de-la-tierra-mas-cercano-al-sol-no-es-el/XHJK2OHXWZCDDANPSEKID2PKO4/story/",
       "publish_date": "2026-04-05T02:08:11.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre el punto terrestre más cercano al Sol según la ciencia.",
+      "teaser": "Lo clave en 20 segundos: un punto cerca del Sol sorprende al desafiar nuestras creencias sobre alturas.",
       "image_url": "https://www.nacion.com/resizer/v2/IUSBSI5ALZHSLLBC63DIB5ORKI.png?auth=12c95a2d035961bdd9e95e8d81553e57c3d62afd3dc39d046839f273bc2f2093&smart=true&width=1680&height=945",
       "description": "Un punto de la Tierra desafía lo que usted imagina: no es el más alto, pero sí el más cercano al Sol. La ciencia explica esta diferencia con datos precisos que sorprenden.",
       "featured": false
     },
     {
       "slug": "no-dejemos-que-nos-paralicen-el-mensaje-del-papa-leon-xiv-ante-un-mundo-en-crisis",
-      "title": "No dejemos que nos paralicen: el mensaje del papa León XIV ante un mundo en crisis",
+      "title": "No dejemos que nos paralicen’: el mensaje del papa León XIV ante un mundo en crisis",
       "category": "Mundo",
-      "bullets_20s": "• El papa León XIV hace un llamado a la acción en un contexto de crisis global.\n• Su mensaje destaca la importancia de la paz y la unidad en tiempos difíciles.\n• La Vigilia Pascual fue el escenario para compartir su mensaje esperanzador.\n• El pontífice enfatiza la necesidad de superar divisiones que nos separan.\n• La comunidad católica recibe el mensaje con ánimo de reflexión y cambio.",
+      "bullets_20s": "• El papa León XIV habló sobre la crisis global y sus efectos en la humanidad.\n• Instó a no dejarse paralizar por el miedo y a buscar caminos de acción.\n• Promovió la paz y la unidad como valores esenciales en tiempos difíciles.\n• Recordó la importancia de enfrentar divisiones y construir puentes entre personas.\n• Su mensaje se centró en la esperanza y el compromiso de la comunidad global.",
       "source_name": "Lucía Astorga",
       "source_url": "https://www.nacion.com/el-mundo/no-dejemos-que-nos-paralicen-el-mensaje-del-papa/25ZYRBBLUNEIDJBYTAB3ED3AK4/story/",
       "publish_date": "2026-04-05T02:00:08.000Z",
-      "teaser": "Lo clave en 20 segundos: el papa llama a la unidad en tiempos de crisis global.",
+      "teaser": "Lo clave en 20 segundos: El papa llama a la unidad y a la acción ante la crisis mundial actual.",
       "image_url": "https://www.nacion.com/resizer/v2/HXXGPCZHLVASRONEN2LCKBQ5HM.jpg?auth=3dc8b0a17f5f5e0f50e18966d17513dbfcf6de7d15398cc4e2da786b65a827ca&smart=true&width=1200&height=800",
       "description": "En su homilía de la Vigilia Pascual, el papa instó a actuar frente a las divisiones y a promover la paz y la unidad.",
       "featured": false
@@ -30,11 +56,11 @@
       "slug": "la-temperatura-ideal-para-lavar-el-cabello-que-recomiendan-expertos-y-mejora-el-brillo",
       "title": "La temperatura ideal para lavar el cabello que recomiendan expertos y mejora el brillo",
       "category": "Ciencia",
-      "bullets_20s": "• La temperatura adecuada es esencial para mantener el cabello saludable y brillante.\n• Expertos recomiendan el uso de agua tibia durante el lavado del cabello.\n• Finalizar con agua fría puede mejorar el brillo del cabello notablemente.\n• El agua tibia ayuda a abrir las cutículas del cabello para una limpieza más profunda.\n• Un buen lavado reduce el frizz y prolonga la limpieza del cabello.",
+      "bullets_20s": "• La temperatura del agua juega un papel crucial en la salud del cabello y su apariencia.\n• Expertos sugieren usar agua tibia para lavar el cabello, promoviendo su limpieza efectiva.\n• Finalizar el lavado con agua fría ayuda a mejorar el brillo natural del cabello.\n• El uso de agua fría puede ayudar a reducir el frizz en el cabello tras el lavado.\n• Elegir la temperatura adecuada del agua puede prolongar el tiempo entre lavados.",
       "source_name": "La Nación / Argentina / GDA",
       "source_url": "https://www.nacion.com/ciencia/la-temperatura-ideal-para-lavar-el-cabello-que/DSPY3ZDXNVC55MVWIU3HQC5PPM/story/",
       "publish_date": "2026-04-05T01:49:34.000Z",
-      "teaser": "Lo clave en 20 segundos: La temperatura ideal para lavar el cabello mejora el brillo y reduce el frizz.",
+      "teaser": "Lo clave en 20 segundos: La temperatura del agua es crucial para la salud del cabello.",
       "image_url": "https://www.nacion.com/resizer/v2/T3PM7DBF5VEYDC3SX4HKD7CEDU.png?auth=93afd6978f1dc701fb941a399ce4fdd2d46a96a9edc163a22be4732d51075f8b&smart=true&width=1680&height=945",
       "description": "Expertos revelan la temperatura ideal para lavar el cabello. Usar agua tibia y finalizar con fría mejora el brillo, reduce el ‘frizz’ y prolonga la limpieza.",
       "featured": false
@@ -641,11 +667,11 @@
       "slug": "los-5-paises-mas-seguros-del-mundo-para-las-mujeres-que-viajan-solas-y-cuales-se-encuentran-en-america-latina",
       "title": "Los 5 países más seguros del mundo para las mujeres que viajan solas (y cuáles se encuentran en América Latina)",
       "category": "Mundo",
-      "bullets_20s": "• Conocer los países más seguros para mujeres que viajan solas es crucial para sus viajes.\n• Noruega se destaca por sus paisajes y la seguridad que ofrece a las viajeras.\n• El informe incluye opiniones y experiencias de mujeres viajeras de diversas nacionalidades.\n• Viajar sola permite a las mujeres explorar y conocer nuevas culturas de manera segura.\n• América Latina presenta opciones seguras, brindando tranquilidad a las viajeras.",
+      "bullets_20s": "• El artículo destaca cinco países donde las mujeres se sienten más seguras al viajar solas.\n• Incluye ejemplos de destinos en América Latina que son considerados seguros.\n• Se basa en opiniones y experiencias de viajeras de diversas partes del mundo.\n• Los datos revelan tendencias y percepciones sobre la seguridad femenina en los viajes.\n• Se habla de cómo los pueblos costeros y paisajes naturales influyen en la seguridad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cg54y7mmr9no?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-04T14:19:18.000Z",
-      "teaser": "Lo clave en 20 segundos: descubre los países más seguros para mujeres viajeras.",
+      "teaser": "Lo clave en 20 segundos: Descubre los destinos más seguros para mujeres viajeras en el mundo.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ca3d/live/b1430970-2902-11f1-8d7b-c7ea0e92917e.jpg",
       "description": "Desde los animados pueblos costeros frecuentados por surfistas hasta los remotos paisajes árticos de Noruega, nuevos datos y opiniones de viajeras revelan dónde se sienten más seguras las mujeres que viajan solas.",
       "featured": false
@@ -5256,11 +5282,11 @@
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El foro UNESCO en el TEC reunió expertos para discutir la paz y el medio ambiente de manera integral.\n• La integración de saberes indígenas se consideró vital para la conservación de la naturaleza y la paz.\n• Se abordaron la ética ambiental y la economía circular como claves para un desarrollo sostenible.\n• El panel destacó la importancia de transformar estructuras sociales que limitan el desarrollo humano.\n• La relación entre estrés humano y desconexión con la naturaleza fue tema central del conversatorio.",
+      "bullets_20s": "• El foro UNESCO en el TEC promueve la paz vinculada a los desafíos ambientales actuales.\n• Expertos académicos y de la comunidad se reúnen para discutir la relación con la naturaleza.\n• Los panelistas abordan la importancia de integrar saberes indígenas en la conservación ambiental.\n• La ética y la sostenibilidad son ejes centrales en la construcción de paz moderna.\n• El conversatorio destacó la necesidad de diálogos interdisciplinarios para la paz ambiental.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: expertos debatieron sobre la paz y medio ambiente en el foro UNESCO en el TEC.",
+      "teaser": "Lo clave en 20 segundos: El foro analiza la paz y la sostenibilidad en relación con la naturaleza.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -5464,11 +5490,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria es un principio fundamental en la educación superior en Costa Rica.\n• El TEC celebrará actividades del 6 al 10 de abril en conmemoración del Día de la Autonomía.\n• Se realizará un evento titulado 'Conversemos con el TEC', abierto a todo público en redes sociales.\n• La docente Jacqueline Herrera y el estudiante Sebastian Vallecillos formarán parte de la conversación.\n• Los interesados pueden enviar preguntas al correo proporcionado para ser respondidas en el evento.",
+      "bullets_20s": "• La autonomía universitaria del TEC permite una educación de calidad sin interferencias externas.\n• El Día de la Autonomía Universitaria se celebra cada 12 de abril en Costa Rica.\n• Se realizará la Semana de la Autonomía Universitaria del 6 al 10 de abril en el TEC.\n• Se invitará a la docente Jacqueline Herrera a hablar sobre la importancia de la autonomía.\n• Se espera la participación de estudiantes en la discusión sobre autogobierno en el TEC.\n• La transmisión del evento será en vivo por las redes sociales del TEC.\n• Los interesados pueden enviar preguntas al correo establecido para la actividad.\n• El evento busca generar un diálogo sobre la autonomía en la educación superior.\n• Las actividades están dirigidas a toda la comunidad educativa y público en general.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC celebra la autonomía universitaria con actividades y un evento en vivo.",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria en el TEC se debatirá en un conversatorio en vivo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -6009,12 +6035,12 @@
     {
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
-      "category": "Ciencia",
-      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería en Producción Industrial promovió la innovación y sostenibilidad.\n• Se discutieron tendencias globales que transforman la ingeniería industrial en el evento del TEC.\n• Asistieron estudiantes y expertos de varios países para compartir conocimientos y experiencias.\n• La agenda incluyó temas como robótica y el uso ético de la inteligencia artificial en la academia.\n• El Eiipi reafirma la cooperación internacional en la formación de profesionales en ingeniería industrial.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El encuentro reunió a expertos de varios países, fomentando el intercambio de conocimientos en ingeniería.\n• Se analizaron temas de sostenibilidad y nuevas tendencias tecnológicas que transforman la industria.\n• El evento fue un espacio para que estudiantes y docentes se conectaran con la industria global.\n• Conferencias sobre robótica y ética de la inteligencia artificial fueron parte de la agenda.\n• Participación activa de estudiantes en la organización promovió competencias de liderazgo y colaboración.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Innovación y sostenibilidad fueron centrales en el IV Encuentro Internacional de Ingeniería.",
+      "teaser": "Lo clave en 20 segundos: Un espacio de innovación y sostenibilidad en la ingeniería industrial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -6672,12 +6698,12 @@
     {
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• El Campus Tecnológico Central en Cartago fue sede de la jornada de divulgación científica 2026.\n• La jornada incluyó presentaciones sobre biotecnología ambiental, salud y bioprocesos por estudiantes.\n• Se generó un espacio para intercambio entre estudiantes, investigadores y profesionales del sector.\n• Caleb Barrantes destacó la importancia de reducir la estigmatización de la biotecnología en Costa Rica.\n• El Dr. Anthony Valverde expuso sobre biotecnología reproductiva y su relevancia para el país.",
+      "category": "Ciencia",
+      "bullets_20s": "• El campus del TEC fue sede de la Jornada Estudiantil de Divulgación Científica 2026.\n• Estudiantes presentaron sus avances en biotecnología ambiental, salud y bioprocesos.\n• Caleb Barrantes enfatizó la importancia de dialogar sobre biotecnología en el presente.\n• La jornada incluyó una charla del Dr. Anthony Valverde sobre biotecnología reproductiva.\n• Se establecieron redes de colaboración entre estudiantes y académicos en biotecnología.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: jóvenes investigadores impulsan la biotecnología en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La divulgación científica en biotecnología une a jóvenes investigadores en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -7736,5 +7762,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-05T03:30:49.594Z"
+  "generated_at": "2026-04-05T04:30:49.343Z"
 }
