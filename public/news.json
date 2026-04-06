@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "cuantos-gb-de-ram-debe-tener-una-computadora-portatil-para-ser-buena",
+      "title": "Cuántos GB de RAM debe tener una computadora portátil para ser buena",
+      "category": "Tecnología",
+      "bullets_20s": "• La cantidad de RAM depende del tipo de tareas que realices en la computadora portátil.\n• Para estudios o trabajos básicos, 8 GB de RAM pueden ser suficientes y eficientes.\n• El gaming o edición de video requieren al menos 16 GB para un rendimiento óptimo.\n• Las computadoras modernas permiten ampliar la RAM, lo que mejora su capacidad significativamente.\n• Investiga sobre los requerimientos específicos de cada programa que usarás regularmente.",
+      "source_name": "O Globo, Jailine González Gómez",
+      "source_url": "https://www.nacion.com/tecnologia/cuantos-gb-de-ram-debe-tener-una-computadora/DL6NE7MYEFERFFPYCKNNDAMOVE/story/",
+      "publish_date": "2026-04-06T15:24:50.000Z",
+      "teaser": "Lo clave en 20 segundos: la RAM ideal varía según el uso de tu portátil.",
+      "image_url": "https://www.nacion.com/resizer/v2/YQWN4FHXWRG3PD2Z24QK3T3XGM.png?auth=58446a731bf0c29c23706a94ec157dcdc044b71be9098ed5edf8838b9e7a34a7&smart=true&width=1920&height=1080",
+      "description": "Guía completa sobre cuánta RAM necesita una computadora portátil según su uso: trabajo, estudio, juegos o edición de video.",
+      "featured": false
+    },
+    {
+      "slug": "el-master-en-paciencia-de-maria-corina-machado",
+      "title": "El máster en paciencia de María Corina Machado",
+      "category": "Mundo",
+      "bullets_20s": "• María Corina Machado ha demostrado una notable capacidad de paciencia en su trayectoria política.\n• A pesar de las adversidades, su disciplina ha sido clave para enfrentar la crisis en Venezuela.\n• El posible retorno de Machado genera expectativas sobre el futuro del país y su política.\n• Su papel en la transición política en Venezuela muestra la complejidad de su situación actual.\n• Los límites y tensiones en el proceso político de Venezuela son evidentes y significativos.",
+      "source_name": "Gina Montaner",
+      "source_url": "https://www.nacion.com/opinion/columnistas/el-master-en-paciencia-de-maria-corina-machado/2WUUOSOQZFDF5CFPWE2V3EWZUM/story/",
+      "publish_date": "2026-04-06T15:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: María Corina Machado, paciencia y estrategia en la crisis venezolana.",
+      "image_url": "https://www.nacion.com/resizer/v2/EXB7KV3ICBEKRH5KFFUXJVRDWA.jpg?auth=ef05cda39a77a1697506f15519ea0fab0ee7384be259512ae58e2603a841dc7c&smart=true&width=1200&height=761",
+      "description": "Marginada del protagonismo en la transición de Venezuela tras la caída del dictador Nicolás Maduro, María Corina Machado ha apostado por una estrategia de paciencia y disciplina política. Su posible retorno al país concentra expectativas, pero también refleja los límites y tensiones de un proceso aún incierto.",
+      "featured": false
+    },
+    {
+      "slug": "secreto-bancario-en-auditorias-fiscales",
+      "title": "Secreto bancario en auditorías fiscales",
+      "category": "Costa Rica",
+      "bullets_20s": "• El secreto bancario ha sido un tema de debate en auditorías fiscales en Costa Rica.\n• Expertos sugieren que el Estado debe respetar los derechos de los ciudadanos al supervisar.\n• Las leyes actuales establecen normas específicas para el levantamiento del secreto bancario.\n• Algunos critican que es una invasión a la privacidad de los individuos y empresas.\n• La transparencia fiscal es esencial para combatir la evasión y fortalecer la economía.",
+      "source_name": "Fabio Salas",
+      "source_url": "https://www.nacion.com/economia/secreto-bancario-en-auditorias-fiscales/CAH4S6F5NBDQ3EEVHGB6LHZHUI/story/",
+      "publish_date": "2026-04-06T15:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El secreto bancario es debatido en auditorías fiscales y sus implicaciones legales.",
+      "image_url": "https://www.nacion.com/resizer/v2/V5CFCFPWB5GLZHVYF43LNUDYJU.jpg?auth=d6251730bb9f92e5492592320c62811d06a01c217c0d4a5972e358a99cceaeb4&smart=true&width=3000&height=1996",
+      "description": "El levantamiento del secreto bancario es una herramienta legítima del Estado, pero solo cuando se ejecuta bajo las reglas establecidas",
+      "featured": false
+    },
+    {
       "slug": "asalto-a-local-en-alajuela-agreden-a-propietario-y-huyen-con-50000-y-su-vehiculo",
       "title": "Asalto a local en Alajuela: agreden a propietario y huyen con ¢50.000 y su vehículo",
       "category": "Costa Rica",
@@ -186,11 +225,11 @@
       "slug": "artemis-ii-los-40-minutos-criticos-en-que-la-tripulacion-de-la-mision-a-la-luna-perdera-contacto-con-la-tierra-mientras-",
       "title": "Artemis II: los 40 minutos críticos en que la tripulación de la misión a la Luna perderá contacto con la Tierra mientras busca romper el récord de distancia",
       "category": "Mundo",
-      "bullets_20s": "• Artemis II se enfrenta a momentos críticos en su misión hacia la Luna y más allá.\n• Durante 40 minutos, los astronautas estarán desconectados de la Tierra por bloques naturales.\n• La misión busca romper récords de distancia y reafirmar el compromiso espacial estadounidense.\n• Se espera que la nave alcance la órbita lunar, marca clave en la exploración espacial.\n• Los científicos analizan datos cruciales mientras los astronautas enfrentan el vacío del espacio.",
+      "bullets_20s": "• La misión Artemis II busca explorar el satélite natural de la Tierra de manera innovadora.\n• Durante 40 minutos, los astronautas no podrán comunicarse con el control de la misión.\n• Este evento es crucial para probar la tecnología de exploración lunar futura.\n• El silencio espacial representará un desafío único para la tripulación en la misión.\n• El récord de distancia es un objetivo ambicioso para la NASA y la exploración espacial.\n• La ausencia de comunicación plantea riesgos y exige un protocolo sólido de seguridad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c9wqdv9wwkko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-06T11:14:26.000Z",
-      "teaser": "Lo clave en 20 segundos: Artemis II se enfrenta a un momento crítico durante su misión lunar.",
+      "teaser": "Lo clave en 20 segundos: La misión Artemis II enfrentará 40 minutos sin comunicación con la Tierra al orbitar la Luna.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/62f7/live/d3a93f70-2fb0-11f1-9885-91ba338bedfd.jpg",
       "description": "La nave ya llegó a la órbita de la Luna. Cuando los astronautas pasen por detrás del satélite natural, experimentarán un momento de silencio y soledad, ya que se bloqueará la comunicación con la Tierra.",
       "featured": false
@@ -212,11 +251,11 @@
       "slug": "como-el-suministro-de-alimentos-a-iran-se-ve-afectado-por-el-cierre-del-estrecho-de-ormuz",
       "title": "Cómo el suministro de alimentos a Irán se ve afectado por el cierre del estrecho de Ormuz",
       "category": "Mundo",
-      "bullets_20s": "• El cierre del estrecho de Ormuz afecta el comercio marítimo internacional de múltiples maneras.\n• Irán enfrenta desafíos significativos para importar alimentos debido a esta situación crítica.\n• El aumento del precio del crudo impacta la economía global y regional.\n• Los fertilizantes son cruciales para la producción agrícola en Irán y otros países.\n• El estrecho de Ormuz es una vía clave para el transporte de petróleo y mercancías.",
+      "bullets_20s": "• El estrecho de Ormuz es una vía crucial para el comercio global de petróleo y alimentos.\n• El cierre afecta la capacidad de Irán para acceder a productos esenciales, como alimentos.\n• Las tensiones geopolíticas han llevado a un aumento en los precios del crudo mundial.\n• Expertos consideran que la crisis podría empeorar la situación alimentaria en Irán.\n• Las restricciones en el comercio marítimo generan preocupación en otros países importadores.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpvxjrglprpo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-06T10:10:41.000Z",
-      "teaser": "Lo clave en 20 segundos: El cierre del estrecho de Ormuz repercute en el suministro de alimentos a Irán.",
+      "teaser": "Lo clave en 20 segundos: El cierre del estrecho de Ormuz complica el suministro de alimentos a Irán.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3abf/live/ea965cf0-2ebf-11f1-a79a-77e93010d956.jpg",
       "description": "La virtual paralización del comercio marítimo a través del estrecho de Ormuz no solamente repercute en el aumento global del precio del crudo, si no que también está afectando las posibilidades de Irán de importar alimentos y fertilizantes.",
       "featured": false
@@ -225,11 +264,11 @@
       "slug": "la-nadadora-de-95-anos-que-batio-decenas-de-records-y-sigue-sumando-mas",
       "title": "La nadadora de 95 años que batió decenas de récords y sigue sumando más",
       "category": "Mundo",
-      "bullets_20s": "• Jane Asher sigue estableciendo récords impresionantes en el deporte de la natación a sus 95 años.\n• Comenzó su carrera profesional en la natación a la edad de 50 años, demostrando gran determinación.\n• La inspiración detrás de su carrera fue la pérdida de su esposo, que la motivó a competir.\n• A lo largo de los años, ha batido múltiples récords mundiales en varias categorías de natación.\n• Su historia resalta la importancia de la actividad física y la longevidad en el deporte.",
+      "bullets_20s": "• Jane Asher es una nadadora de 95 años que ha logrado numerosos récords en su carrera.\n• Comenzó a competir a los 50 años, después de enfrentar la pérdida de su esposo.\n• Su historia inspira a muchas personas mayores a mantenerse activas y saludables.\n• La perseverancia y la dedicación son claves en su trayectoria como atleta.\n• A lo largo de los años, ha participado en competencias nacionales e internacionales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwyx62ve346o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-06T09:39:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Jane Asher rompe récords a los 95, comenzó a nadar a los 50 tras una pérdida personal.",
+      "teaser": "Lo clave en 20 segundos: La inspiradora historia de una nadadora de 95 años que sigue rompiendo récords.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9356/live/b80a4fc0-2dda-11f1-934f-036468834728.jpg",
       "description": "Jane Asher comenzó a competir profesionalmente cuando cumplió 50 años y tras la muerte de su esposo; desde entonces no ha parado.",
       "featured": false
@@ -440,19 +479,6 @@
       "teaser": "Lo clave en 20 segundos: Ruptura mediática de Derrikson Quirós tras un breve compromiso.",
       "image_url": "https://www.nacion.com/resizer/v2/77LRGWSAGREMTHWTIIPLHYLAJU.jpg?auth=8e89231c3b56227f62e91f26b9595ac7ab5c45fd77cf87d042cd490f774c9d05&smart=true&width=308&height=231",
       "description": "El futbolista costarricense Derrikson Quirós se refirió desde Guatemala a una vivencia personal difícil y que fue muy mediática hace unas semanas.",
-      "featured": false
-    },
-    {
-      "slug": "cuantos-gb-de-ram-debe-tener-una-computadora-portatil-para-ser-buena",
-      "title": "Cuántos GB de RAM debe tener una computadora portátil para ser buena",
-      "category": "Tecnología",
-      "bullets_20s": "• La cantidad de RAM adecuada depende del uso que se le dará a la computadora portátil.\n• Para trabajos básicos, 8 GB de RAM son suficientes para un rendimiento óptimo.\n• Los usuarios que juegan o editan video pueden necesitar 16 GB o más de RAM.\n• Cada tipo de tarea computacional tiene diferentes requisitos de memoria RAM.\n• La RAM impacta directamente en la velocidad y capacidad de respuesta del sistema.",
-      "source_name": "O Globo, Jailine González Gómez",
-      "source_url": "https://www.nacion.com/tecnologia/cuantos-gb-de-ram-debe-tener-una-computadora/DL6NE7MYEFERFFPYCKNNDAMOVE/story/",
-      "publish_date": "2026-04-05T20:15:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre cuánta RAM necesitas para tu computadora portátil según su uso.",
-      "image_url": "https://www.nacion.com/resizer/v2/YQWN4FHXWRG3PD2Z24QK3T3XGM.png?auth=58446a731bf0c29c23706a94ec157dcdc044b71be9098ed5edf8838b9e7a34a7&smart=true&width=1920&height=1080",
-      "description": "Guía completa sobre cuánta RAM necesita una computadora portátil según su uso: trabajo, estudio, juegos o edición de video.",
       "featured": false
     },
     {
@@ -6114,11 +6140,11 @@
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El foro se centró en la relación entre paz y medio ambiente como un reto actual.\n• Participaron académicos y especialistas en un diálogo sobre sostenibilidad y ética.\n• La conexión entre la naturaleza y la paz requiere un enfoque interdisciplinario.\n• Se enfatizó la importancia de integrar saberes indígenas en la conservación ambiental.\n• Los desafíos sociales y ambientales son claves para construir una paz duradera.",
+      "bullets_20s": "• El foro discutió la relación entre la paz y la naturaleza en un contexto ambiental.\n• Expertos reflexionaron sobre cómo construir paz en medio de desafíos ecológicos.\n• La UNESCO enfatizó la importancia de la ética en las decisiones ambientales.\n• Se abordó la integración de saberes indígenas en la conservación del entorno.\n• La economía circular fue presentada como un modelo de desarrollo sostenible.\n• Las panelistas señalaron la necesidad de eliminar barreras mentales para la paz.\n• El TEC promovió un diálogo interdisciplinario sobre paz y medio ambiente.\n• Las intervenciones resaltaron la urgencia de un vínculo respetuoso con la naturaleza.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: El foro UNESCO en el TEC aborda la paz y medio ambiente con expertos.",
+      "teaser": "Lo clave en 20 segundos: expertos discuten paz y medio ambiente en foro del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -6322,11 +6348,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria es un tema clave para el Tecnológico de Costa Rica.\n• Se conmemora el Día de la Autonomía Universitaria cada 12 de abril en el país.\n• El TEC celebrará la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• Habrá actividades diseñadas para resaltar la autonomía y el autogobierno del TEC.\n• La docente Jacqueline Herrera participará en la discusión sobre la autonomía universitaria.\n• El estudiante Sebastian Vallecillos también será parte de la conversación en el evento.\n• Se invita a la comunidad a enviar preguntas por correo para la discusión.\n• La transmisión se realizará en vivo a través de múltiples redes sociales.",
+      "bullets_20s": "• La Autonomía Universitaria se celebra el 12 de abril en Costa Rica con diversas actividades.\n• El TEC invita a la comunidad a unirse a la discusión mediante sus redes sociales.\n• Jacqueline Herrera Núñez y Sebastian Vallecillos participarán como invitados en el evento.\n• El evento busca resaltar la importancia de la autonomía en la educación superior.\n• Las actividades de la Semana de la Autonomía Universitaria serán del 6 al 10 de abril.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: La autonomía universitaria en el TEC será discutida este 8 de abril.",
+      "teaser": "Lo clave en 20 segundos: Autonomía Universitaria en el TEC y sus actividades del 6 al 10 de abril.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -6867,12 +6893,12 @@
     {
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
-      "category": "Costa Rica",
-      "bullets_20s": "• El IV Encuentro de Producción Industrial destacó por conectar academia con tendencias globales.\n• Se abordaron temas como ingeniería industrial 5.0 y robótica háptica entre otros.\n• Las jornadas incluyeron conferencias y espacios de networking para el intercambio académico.\n• Se resaltó la importancia de la sostenibilidad en la ingeniería y producción industrial.\n• El evento promovió la colaboración internacional y la innovación en la industria.",
+      "category": "Ciencia",
+      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería en Producción Industrial se centró en la sostenibilidad.\n• Expertos de Argentina, Chile, Colombia y Costa Rica discutieron innovaciones en ingeniería industrial.\n• Se abordaron temas como inteligencia artificial y sostenibilidad en el ámbito académico.\n• Las conferencias fomentaron el networking y el intercambio de ideas entre profesionales.\n• Los estudiantes participaron activamente, desarrollando competencias profesionales esenciales.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Encuentro destaca innovación y sostenibilidad en industria costarricense.",
+      "teaser": "Lo clave en 20 segundos: Innovación y sostenibilidad en el IV Encuentro de Producción Industrial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -7479,11 +7505,11 @@
       "slug": "feria-de-la-salud",
       "title": "Feria de la Salud",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC organizará una Feria de la Salud del 06 al 10 de abril para su comunidad.\n• Habrá charlas y talleres sobre diversas temáticas de salud y autocuidado.\n• Se ofrecerán stands informativos y actividades como clases de Zumba para todos.\n• Las inscripciones se realizan previamente para diferentes charlas y talleres.\n• Participan estudiantes, docentes y funcionarios del Tecnológico de Costa Rica.\n• La actividad busca promover hábitos saludables entre la comunidad del TEC.",
+      "bullets_20s": "• La Feria de la Salud se llevará a cabo del 06 al 10 de abril en el TEC.\n• Habrá charlas sobre diversos temas de salud y autocuidado para la comunidad.\n• Se ofrecerán talleres y stands informativos sobre salud y prevención.\n• La vacunación será parte fundamental de esta actividad en el Tecnológico.\n• El objetivo es promover hábitos saludables entre estudiantes y funcionarios.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/feria-salud-0",
       "publish_date": "2026-03-25T21:26:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Feria de la Salud del TEC se realiza del 06 al 10 de abril con diversas actividades.",
+      "teaser": "Lo clave en 20 segundos: Feria de la Salud en el TEC, con charlas y talleres del 06 al 10 de abril.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/image003.png",
       "description": "Feria de la Salud",
       "featured": false
@@ -8607,5 +8633,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-06T15:30:51.105Z"
+  "generated_at": "2026-04-06T16:30:50.672Z"
 }
