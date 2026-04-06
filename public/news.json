@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "van-a-vivir-en-el-infierno-trump-amenaza-de-nuevo-con-destruir-infraestructura-civil-si-iran-no-reabre-el-estrecho-de-or",
+      "title": "\"Van a vivir en el infierno\": Trump amenaza de nuevo con destruir infraestructura civil si Irán no reabre el estrecho de Ormuz en las próximas horas",
+      "category": "Mundo",
+      "bullets_20s": "• Trump ha emitido advertencias sobre el estrecho de Ormuz, vital para el transporte de petróleo.\n• La situación actual ha generado un gran número de buques varados en la zona.\n• Se estima que millones de barriles de petróleo son afectados por la crisis energética.\n• Las amenazas pueden escalar la tensión entre Estados Unidos e Irán.\n• El estrecho de Ormuz es una vía crucial para el comercio mundial de petróleo.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c9371qjzk0qo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-06T01:46:48.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump y sus advertencias sobre el estrecho de Ormuz pueden afectar al mundo entero.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3773/live/2d5fc420-3133-11f1-9a0e-3b485dfd6ce8.jpg",
+      "description": "Unos 20 millones de barriles diarios cruzaron la zona en 2025, según EE.UU. Hoy, alrededor de 2.000 buques se encuentran varados.",
+      "featured": false
+    },
+    {
       "slug": "salud-mental-en-costa-rica-como-actuar-ante-una-crisis-suicida",
       "title": "Salud mental en Costa Rica: ¿Cómo actuar ante una crisis suicida?",
       "category": "Costa Rica",
-      "bullets_20s": "• La salud mental es una prioridad que afecta a muchas personas en nuestro país.\n• Identificar señales de alerta es clave para intervenir en una crisis suicida.\n• Es fundamental saber cómo reaccionar ante un intento de suicidio para ayudar efectivamente.\n• Los profesionales de la salud mental ofrecen herramientas útiles para decisiones críticas.\n• El apoyo social y familiar es esencial para las personas en crisis emocional.",
+      "bullets_20s": "• Es crucial reconocer las señales de alarma en personas en crisis. La intuición puede salvar vidas.\n• Las estrategias de intervención inmediata pueden hacer una gran diferencia en la salud mental de alguien.\n• El apoyo emocional y la escucha activa son esenciales para ayudar a quienes están sufriendo.\n• Contactar a profesionales de salud mental ayuda a gestionar adecuadamente la crisis que se presenta.\n• Conocer recursos locales es fundamental para brindar asistencia efectiva y rápida ante la situación.",
       "source_name": "Yucsiany  Salazar Serrano",
       "source_url": "https://www.nacion.com/el-pais/salud-mental-en-costa-rica-como-actuar-ante-una/FMPAR2H2LNFYRG45CLQNF6MDKY/story/",
       "publish_date": "2026-04-06T00:39:18.000Z",
-      "teaser": "Lo clave en 20 segundos: Identifica señales de alerta y actúa ante una crisis suicida.",
+      "teaser": "Lo clave en 20 segundos: Cómo identificar y actuar ante una crisis suicida en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/OF3CF76UNJAARJCH6PR6TMCYGU.jpg?auth=67beafdf83bb6752fe7cb77a62a9b815db0ad7883872eca40031c01fb9e548e6&smart=true&width=6500&height=4241",
       "description": "La psicóloga Viviana García explica cómo identificar señales de alerta y qué hacer si presencia un intento de suicidio.",
       "featured": false
@@ -115,19 +128,6 @@
       "teaser": "Lo clave en 20 segundos: Harrick Mc Lean comparte una revelación que cambiaría su vida para siempre.",
       "image_url": "https://www.nacion.com/resizer/v2/T2EMZPDQ6NCT5LPOQWDMQKARDI.jpg?auth=dc96391a71d2b5163e38ee9c61c416cd8b4f3d99d5ea4d58b89d93e32d2ecf4b&smart=true&width=900&height=1600",
       "description": "Harrick Mc Lean afirma que el sábado 4 de abril de 2026 le cambió la vida por completo.",
-      "featured": false
-    },
-    {
-      "slug": "van-a-vivir-en-el-infierno-trump-amenaza-de-nuevo-con-destruir-infraestructura-civil-si-iran-no-reabre-el-estrecho-de-or",
-      "title": "\"Van a vivir en el infierno\": Trump amenaza de nuevo con destruir infraestructura civil si Irán no reabre el Estrecho de Ormuz",
-      "category": "Mundo",
-      "bullets_20s": "• Trump ha reiterado fuertes amenazas ante la situación en el Estrecho de Ormuz en Irán.\n• La región es crucial para el tránsito de petróleo y láminas comerciales a nivel global.\n• Más de 2.000 buques permanecen varados, afectando el comercio marítimo internacional.\n• El Estrecho de Ormuz tiene un impacto significativo en el mercado energético mundial.\n• Aumento de tensiones entre Estados Unidos e Irán podría desestabilizar la región.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/c9371qjzk0qo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-04-05T21:05:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Trump vuelve a amenazar a Irán sobre el Estrecho de Ormuz.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3773/live/2d5fc420-3133-11f1-9a0e-3b485dfd6ce8.jpg",
-      "description": "Unos 20 millones de barriles diarios cruzaron la zona en 2025, según EE.UU. Hoy, alrededor de 2.000 buques se encuentran varados.",
       "featured": false
     },
     {
@@ -446,11 +446,11 @@
       "slug": "visionario-o-estafador-dennis-hope-el-estadounidense-que-se-hizo-millonario-vendiendo-parcelas-de-la-luna-tras-reclamar-",
       "title": "¿Visionario o estafador? Dennis Hope, el estadounidense que se hizo millonario vendiendo parcelas de la Luna tras reclamar su propiedad en 1980",
       "category": "Mundo",
-      "bullets_20s": "• Dennis Hope comenzó su negocio vendiendo parcelas de la Luna a principios de los años 80.\n• La falta de regulación sobre la propiedad lunar le permitió reclamar derechos de venta.\n• Los compradores reciben títulos de propiedad, aunque legalmente carecen de reconocimiento oficial.\n• Hope asegura haber vendido miles de terrenos, atrayendo a soñadores y entusiastas del espacio.\n• El caso plantea interrogantes sobre la legalidad de la propiedad en el espacio exterior.",
+      "bullets_20s": "• Dennis Hope reclama ser propietario de la Luna desde 1980, generando controversia legal.\n• La falta de regulaciones claras sobre la propiedad lunar permite estos negocios inusuales.\n• Vender parcelas de la Luna ha captado la atención de muchos interesados en la astronomía.\n• Hope ha ganado notoriedad y beneficios económicos a través de su singular emprendimiento.\n• El fenómeno plantea interrogantes sobre los derechos de la humanidad sobre el espacio exterior.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c0q98xqn570o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-05T13:55:59.000Z",
-      "teaser": "Lo clave en 20 segundos: Dennis Hope vendió parcelas en la Luna y desató un debate legal fascinante.",
+      "teaser": "Lo clave en 20 segundos: Dennis Hope, un emprendedor que revolucionó la venta de parcelas lunares en 1980.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/5c36/live/483137e0-2f6a-11f1-b297-95b0a0a8331e.jpg",
       "description": "Un vacío legal, una falta de respuestas y mucha seguridad es lo que necesitó este exvenderdor de autos para hacer su negocio intergaláctico.",
       "featured": false
@@ -472,11 +472,11 @@
       "slug": "decenas-de-aviones-y-participacion-de-la-cia-como-fue-la-operacion-en-la-que-rescataron-al-tripulante-del-caza-f-15-de-e",
       "title": "Decenas de aviones y participación de la CIA: cómo fue la operación en la que rescataron al tripulante del caza F-15 de EE.UU. derribado por Irán",
       "category": "Mundo",
-      "bullets_20s": "• La operación de rescate implicó un despliegue masivo de recursos aéreos y terrestres en Irán.\n• Cientos de militares trabajaron en conjunto para garantizar el éxito de la misión de rescate.\n• El tripulante del F-15 había estado oculto en zonas montañosas, lo que complicó la operación.\n• El papel de la CIA fue crucial en la planificación y ejecución de la misión de rescate.\n• Se han reportado diversas tácticas empleadas para asegurar la seguridad del rescatado.",
+      "bullets_20s": "• Un caza F-15 de EE.UU. fue derribado en una operación en territorio iraní.\n• El tripulante se encontraba escondido en una grieta montañosa, esperando ser rescatado.\n• Cientos de militares, incluyendo participación de la CIA, participaron en el rescate.\n• El rescate requirió una compleja coordinación entre diversas fuerzas armadas.\n• La operación destaca la habilidad operativa y estrategia de los militares estadounidenses.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4gxz10yyz8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-05T13:22:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Rescate espectacular de tripulante de F-15 en Irán, implicó masivo despliegue militar.",
+      "teaser": "Lo clave en 20 segundos: cómo fue el rescate del tripulante del F-15 derribado en Irán.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b53c/live/b1b2b030-30ce-11f1-8eb1-c3991b038902.jpg",
       "description": "El tripulante del F-15 derribado estuvo, al parecer, escondido en una grieta de las montañas del sur de Irán y fue rescatado en un aoperación en la que participaron cientos de militares.",
       "featured": false
@@ -628,11 +628,11 @@
       "slug": "8-aportes-de-la-milenaria-cultura-persa-a-nuestra-vida-cotidiana",
       "title": "8 aportes de la milenaria cultura persa a nuestra vida cotidiana",
       "category": "Mundo",
-      "bullets_20s": "• La cultura persa ha influido en diversas áreas de la sociedad moderna en todo el mundo.\n• Aportes como la poesía persa han dejado una huella en la literatura global.\n• El sistema de caminos persa facilitó el comercio y la comunicación en épocas antiguas.\n• La arquitectura persa inspiró estilos que aún se pueden ver en construcciones actuales.\n• Innovaciones en agricultura de los persas mejoraron las técnicas utilizadas hoy día.",
-      "source_name": "BBC Mundo",
+      "bullets_20s": "• La cultura persa ha influido en diversas áreas, desde la arquitectura hasta la cocina moderna.\n• Conocidos por su sabiduría, los persas desarrollaron innovaciones en matemáticas y astronomía.\n• Sus contribuciones a la medicina fueron pioneras, sentando bases que aún se utilizan hoy.\n• La literatura persa ha inspirado a escritores de todo el mundo a lo largo de los siglos.\n• La tecnología del riego persa permitió el desarrollo de la agricultura en regiones áridas.",
+      "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/cvg4q0zngzno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-05T03:49:43.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre cómo la milenaria cultura persa impacta nuestra vida moderna.",
+      "teaser": "Lo clave en 20 segundos: Descubre cómo la milenaria cultura persa impacta nuestra vida cotidiana.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4635/live/e8f57f00-2c1e-11f1-bf24-3b8f64554ce8.jpg",
       "description": "Hubo un tiempo en el que los persas lideraron el imperio más grande que el mundo había conocido hasta entonces. Su cultura y sus asombrosos logros han tenido repercusiones en el mundo.",
       "featured": false
@@ -5841,11 +5841,11 @@
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC organizó un conversatorio sobre paz y medio ambiente con expertos y académicos en Cartago.\n• Panelistas discutieron la relación entre la paz y el entorno natural en un diálogo interdisciplinario.\n• El evento fue parte del ciclo 'Construyendo la Paz' que auspicia la UNESCO en la región.\n• Se abordó la importancia de la sostenibilidad y la conservación de la naturaleza en el foro.\n• Expertos enfatizaron la necesidad de integrar saberes indígenas en la gestión ecológica del país.",
+      "bullets_20s": "• El foro promovió la reflexión sobre el vínculo entre paz y medio ambiente en la comunidad.\n• Participaron académicos y especialistas en sostenibilidad y ética ambiental en el conversatorio.\n• Panelistas discutieron la importancia de integrar saberes indígenas en la conservación.\n• Se abordaron temas como economía circular y su relevancia para el desarrollo sostenible.\n• El TEC celebra su 55 aniversario con un enfoque en la conciencia social y ambiental.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Un foro del TEC sobre paz y medio ambiente reafirma su relación vital.",
+      "teaser": "Lo clave en 20 segundos: Reflexionan sobre paz y medio ambiente en el foro del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -6049,11 +6049,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebrará la Semana de la Autonomía Universitaria del 6 al 10 de abril.\n• Se conmemora el Día de la Autonomía Universitaria cada 12 de abril en Costa Rica.\n• La transmisión en vivo del evento será por Facebook y YouTube del TEC.\n• Docente y estudiante participantes discutiran la importancia de la autonomía.\n• Se espera la participación de la audiencia con preguntas por correo electrónico.",
+      "bullets_20s": "• La autonomía universitaria es un tema central en la educación superior en Costa Rica.\n• Se conmemora el Día de la Autonomía Universitaria cada 12 de abril en el país.\n• El Tecnológico de Costa Rica celebra una semana dedicada a la autonomía universitaria.\n• La docente Jacqueline Herrera Núñez será parte de la conversación sobre la autonomía.\n• Las redes sociales del TEC transmitirán el evento en vivo el 8 de abril.\n• El evento busca involucrar a la comunidad universitaria y responder preguntas.\n• Los estudiantes destacan la importancia de defender la autonomía universitaria en el TEC.\n• La autonomía es fundamental para el desarrollo académico y la investigación.\n• La protección de la autonomía universitaria permite una educación más libre y crítica.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de la autonomía universitaria en el TEC el 12 de abril.",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria se discutirá en un evento del TEC, el 8 de abril.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -6594,12 +6594,12 @@
     {
       "slug": "impulso-a-la-innovacion-y-la-sostenibilidad-en-el-iv-encuentro-de-produccion-industrial",
       "title": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
-      "category": "Ciencia",
-      "bullets_20s": "• El IV Encuentro Internacional de Ingeniería en Producción Industrial se realizó en el TEC de Costa Rica.\n• El evento destacó la importancia de la conexión entre academia y tendencias industriales globales.\n• Temas como la robótica y la inteligencia artificial fueron centrales durante las conferencias.\n• Asistieron expertos y estudiantes de varios países de América Latina para compartir conocimientos.\n• El encuentro promovió la innovación y la sostenibilidad en la formación de ingenieros industriales.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El IV Encuentro de Producción Industrial se enfocó en innovación y sostenibilidad en la industria moderna.\n• Reunió a expertos de varios países para discutir tendencias y desafíos en ingeniería industrial.\n• Las conferencias abordaron temas actuales como robótica y sostenibilidad en procesos industriales.\n• Incluso se debatió sobre la participación de mujeres en la ingeniería y su impacto en la profesión.\n• El evento fue clave para fomentar la colaboración internacional y el intercambio académico entre universidades.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/impulso-innovacion-sostenibilidad-iv-encuentro-produccion-industrial",
       "publish_date": "2026-03-26T19:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Encuentro destaca la innovación y sostenibilidad en la ingeniería industrial.",
+      "teaser": "Lo clave en 20 segundos: Encuentro internacional destacó la innovación y sostenibilidad en producción industrial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/congreso-produccion-sc-tec-1.jpg.webp?itok=ORW5enIa",
       "description": "Impulso a la innovación y la sostenibilidad en el IV Encuentro de Producción Industrial",
       "featured": false
@@ -7258,11 +7258,11 @@
       "slug": "jovenes-investigadores-en-biotecnologia-dinamizan-la-divulgacion-cientifica-en-el-tec",
       "title": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La Jornada Estudiantil de Divulgación Científica 2026 tuvo lugar en el Campus Tecnológico Central de Cartago.\n• Jóvenes investigadores presentaron sus avances en proyectos de biotecnología ambiental, salud y bioprocesos.\n• Se realizó una mesa redonda para analizar los desafíos actuales de la biotecnología en Costa Rica.\n• Los participantes tuvieron la oportunidad de hacer networking y explorar colaboraciones futuras entre ellos.\n• El Dr. Anthony Valverde ofreció una charla sobre biotecnología reproductiva y su impacto en la sociedad.",
+      "bullets_20s": "• La jornada presentó trabajos en biotecnología ambiental, salud y bioprocesos de investigadores jóvenes.\n• Estudiantes compartieron avances en sus proyectos de forma activa y colaborativa durante la jornada.\n• Se realizó una mesa redonda que analizó desafíos de la biotecnología en Costa Rica actualmente.\n• La charla magistral del Dr. Valverde destacó la importancia de la biotecnología para el futuro del país.\n• Se enfocó en crear redes de colaboración entre academia, industria y estudiantes en biotecnología.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/jovenes-investigadores-biotecnologia-dinamizan-divulgacion-cientifica-tec",
       "publish_date": "2026-03-25T20:56:53.000Z",
-      "teaser": "Lo clave en 20 segundos: jóvenes científicos promueven biotecnología en jornada educativa en el TEC.",
+      "teaser": "Lo clave en 20 segundos: jóvenes investigadores expanden la biotecnología en el Tecnológico de Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/04-fotograma-jornada-estudiantil-biotec.jpg.webp?itok=Di2lY2mH",
       "description": "Jóvenes investigadores en biotecnología dinamizan la divulgación científica en el TEC",
       "featured": false
@@ -8321,5 +8321,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-06T02:30:50.568Z"
+  "generated_at": "2026-04-06T03:30:50.486Z"
 }
