@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "mercado-laboral-en-costa-rica-retos-y-estrategias-ante-el-avance-de-la-ia-agentica",
+      "title": "Mercado laboral en Costa Rica: Retos y estrategias ante el avance de la IA agéntica",
+      "category": "Costa Rica",
+      "bullets_20s": "• El avance de la inteligencia artificial está transformando el mercado laboral en Costa Rica hoy.\n• Las empresas están buscando adaptar sus estrategias ante el impacto de la IA en el trabajo.\n• Es vital fomentar la capacitación de la fuerza laboral en nuevas tecnologías emergentes.\n• La reconversión del talento humano es necesaria para enfrentar los desafíos del futuro.\n• El gobierno y el sector privado deben colaborar para diseñar programas efectivos de formación.",
+      "source_name": "Gustavo Ortega Campos",
+      "source_url": "https://www.nacion.com/economia/negocios/mercado-laboral-en-costa-rica-retos-y-estrategias/JDFZP5M6RBEODEYUFZLFULXWPM/story/",
+      "publish_date": "2026-04-08T11:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: estrategias y retos del mercado laboral en la era de la IA.",
+      "image_url": "https://www.nacion.com/resizer/v2/HTTAHGRAIBCNFH5DHURT7SSLMA.jpg?auth=97fd2aa8ee6d79d67007686870c461cb7e8bf0d7f26c8eb93b27d6ce94cfee44&smart=true&width=8912&height=4046",
+      "description": "El avance de la IA ya impacta el mercado laboral y obliga a Costa Rica a impulsar estrategias de capacitación y reconversión del talento.",
+      "featured": false
+    },
+    {
+      "slug": "ia-en-costa-rica-sectores-de-servicios-los-mas-expuestos-a-cambios-laborales",
+      "title": "IA en Costa Rica: sectores de servicios, los más expuestos a cambios laborales",
+      "category": "Costa Rica",
+      "bullets_20s": "• La inteligencia artificial ofrece oportunidades y desafíos en diferentes sectores de la economía.\n• Los servicios expuestos incluyen call centers que pueden ser automatizados por IA.\n• El sector financiero también siente la presión por la aparición de nuevos sistemas.\n• Las empresas deben adaptar su talento humano a las nuevas tecnologías emergentes.\n• Costa Rica lidera en formación en inteligencia artificial, pero se enfrenta a retos importantes.",
+      "source_name": "Gustavo Ortega Campos",
+      "source_url": "https://www.nacion.com/economia/ia-en-costa-rica-sectores-de-servicios-los-mas/XK5OMMRY75HCBDFNX2EV3VDUC4/story/",
+      "publish_date": "2026-04-08T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La IA impacta sectores de servicios en Costa Rica, transformando el ámbito laboral.",
+      "image_url": "https://www.nacion.com/resizer/v2/XJ65F4IMDJGDBM4W27GWGS3THQ.png?auth=2f1b63696dcab38af9d1a782065ab88ee2fde44ef3fac3154c609df934497785&smart=true&width=1200&height=628",
+      "description": "Aunque Costa Rica destaca en el desarrollo de talento en inteligencia artificial, la adopción de esta tecnología impacta sectores clave como “call centers”, finanzas y servicios profesionales.",
+      "featured": false
+    },
+    {
       "slug": "hombre-muere-a-balazos-dentro-de-vehiculo-frente-a-reconocido-gimnasio-en-hatillo",
       "title": "Hombre muere a balazos dentro de vehículo frente a reconocido gimnasio en Hatillo",
       "category": "Costa Rica",
-      "bullets_20s": "• El incidente ocurrió en una zona concurrida de Hatillo, generando gran impacto entre los transeúntes.\n• Las autoridades están investigando las causas detrás del ataque a balazos en el lugar mencionado.\n• Se reportan testigos que escucharon múltiples disparos antes de que llegaran las autoridades al sitio.\n• El destino del hombre y las razones de la agresión permanecen sin confirmación oficial hasta ahora.\n• Se hace un llamado a la comunidad para aportar información sobre el lamentable suceso.",
+      "bullets_20s": "• Un hombre fue víctima de un ataque mortal en el vehículo frente a un gimnasio popular.\n• El incidente ocurrió en un área concurrida, generando preocupación en los residentes.\n• La policía investiga las circunstancias que llevaron al ataque y busca testigos.\n• El crimen se suma a una serie de incidentes violentos recientes en la región.\n• Expertos en seguridad analizan el aumento de la violencia en el país en la actualidad.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/sucesos/crimenes/hombre-muere-a-balazos-dentro-de-vehiculo-frente-a/PVBHQKMSOBETFB55OGRVPV6EI4/story/",
       "publish_date": "2026-04-08T03:55:26.000Z",
-      "teaser": "Lo clave en 20 segundos: hombre atacado a balazos frente a gimnasio en Hatillo, Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Un hombre fue asesinado a balazos frente a un gimnasio en Hatillo.",
       "image_url": "https://www.nacion.com/resizer/v2/4JYLBFAUZRBOBCKEGDTHYPESTQ.png?auth=4429ad068232e0465a3b6aa73b584c01ac0ffa7d7ec07f8932648bf07dde16e5&smart=true&width=385&height=305",
       "description": "Un hombre murió tras ser atacado a balazos dentro de un vehículo frente a un gimnasio en Hatillo.",
       "featured": false
@@ -17,11 +43,11 @@
       "slug": "israel-dice-que-alto-el-fuego-en-iran-no-incluye-libano-nuevo-ataque-deja-ocho-muertos",
       "title": "Israel dice que alto el fuego en Irán no incluye Líbano; nuevo ataque deja ocho muertos",
       "category": "Mundo",
-      "bullets_20s": "• Israel mantiene bombarderos activos en la frontera con Líbano, aumentando la tensión regional en el Medio Oriente.\n• Los vuelos de combate de Israel siguen en operación, intensificando las hostilidades en la zona fronteriza.\n• Las comunidades libanesas temen por su seguridad y sufren el impacto de un conflicto prolongado en la región.\n• Se reportan más de ocho muertos en nuevos ataques, creando un clima de incertidumbre y miedo.\n• El desplazamiento de un millón de personas por la guerra plantea serios desafíos para la comunidad internacional.",
+      "bullets_20s": "• Israel afirma que el alto el fuego en Irán no abarca a Líbano ni a Hezbolá.\n• Recientes ataques han dejado un saldo trágico de ocho muertos y muchas heridas.\n• Más de un millón de personas han sido desplazadas debido a la escalada del conflicto.\n• Israel continúa bombardeando posiciones de Hezbolá en respuesta a los ataques recibidos.\n• La situación humanitaria en Líbano se vuelve cada vez más crítica con estos ataques.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/el-mundo/israel-dice-que-alto-el-fuego-en-iran-no-incluye/II5ZHI6TTBBPPDD3N44GDM72YI/story/",
       "publish_date": "2026-04-08T03:46:32.000Z",
-      "teaser": "Lo clave en 20 segundos: Tensión en Medio Oriente, Israel ataca Líbano, alto el fuego no se aplica aquí.",
+      "teaser": "Lo clave en 20 segundos: Israel excluye a Líbano de alto el fuego en medio de nuevos ataques mortales.",
       "image_url": "https://www.nacion.com/resizer/v2/ISS666CSERCCLMQFZW4WXUDOPQ.jpg?auth=b58f2a6b6518906647ba9aa1ead84ccc9bb90c440eae009419b2ccb664c8eb01&smart=true&width=1200&height=900",
       "description": "Los bombardeos de Israel contra Hezbolá le han llevado a ocupar 10% del territorio libanés y a desplazar a más de un millón de personas.",
       "featured": false
@@ -30,11 +56,11 @@
       "slug": "disparan-a-5-personas-que-comian-frente-a-cruce-vial",
       "title": "Disparan a 5 personas que comían frente a cruce vial",
       "category": "Costa Rica",
-      "bullets_20s": "• Un ataque armado dejó cinco personas heridas y conmocionó a la comunidad local.\n• Los afectados estaban comiendo tranquilos cuando ocurrió el ataque violento.\n• La policía investiga las causas detrás de este ataque a plena luz del día.\n• Se alertó a los servicios de emergencia para atender a los heridos en el lugar.\n• La seguridad en la zona ha sido un tema de preocupación entre los vecinos.",
+      "bullets_20s": "• Un ataque armado se produjo en la noche en un cruce vial popular de la zona.\n• Cinco personas resultaron heridas por disparos mientras compartían una comida.\n• Los hechos generan preocupación sobre la seguridad en espacios públicos en el país.\n• Autoridades investigan para dar con los responsables del ataque violento.\n• Este suceso añade a la creciente preocupación sobre la violencia armada en Costa Rica.",
       "source_name": "Sebastián Sánchez, Reiner Montero",
       "source_url": "https://www.nacion.com/sucesos/disparan-a-5-personas-que-comian-frente-a-cruce/DTJOP2NBBBCFRNFANCH53A2DZ4/story/",
       "publish_date": "2026-04-08T03:42:14.000Z",
-      "teaser": "Lo clave en 20 segundos: cinco personas heridas en un ataque armado mientras comían.",
+      "teaser": "Lo clave en 20 segundos: un ataque armado deja cinco heridos en un cruce vial.",
       "image_url": "https://www.nacion.com/resizer/v2/5NV5FBSXQRCU3L5GUGM2MNVB6Q.jpeg?auth=cd68a7635dd164f82748e2e9f310789363bbec86c076b39825ef040d555ade0c&smart=true&width=1280&height=720",
       "description": "Un ataque armado ocurrido la noche de este martes dejó al menos cinco personas heridas por impactos de bala.",
       "featured": false
@@ -576,11 +602,11 @@
       "slug": "el-tec-hace-un-llamado-a-defender-la-autonomia-universitaria",
       "title": "El TEC hace un llamado a defender la autonomía universitaria",
       "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria es esencial para la educación pública en Costa Rica y América Latina.\n• Durante esta semana, la comunidad universitaria se motiva a dialogar y cuestionar su papel.\n• La reforma de Córdoba en 1918 marcó un hito en la defensa de la autonomía universitaria.\n• La responsabilidad de la autonomía implica el compromiso de toda la comunidad educativa.\n• Eventos culturales, como la obra del Grupo Expre, complementan las actividades de la semana.",
+      "bullets_20s": "• La autonomía universitaria es crucial para la educación pública en Costa Rica.\n• La defensa de la autonomía es responsabilidad de toda la comunidad educativa.\n• La Semana de la Autonomía Universitaria se realiza del 6 al 10 de abril.\n• El TEC promueve el diálogo y la reflexión sobre la educación como derecho.\n• La reforma de Córdoba en 1918 marcó un hito en la autonomía universitaria.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/tec-hace-llamado-defender-autonomia-universitaria",
       "publish_date": "2026-04-07T16:56:11.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC refuerza la importancia de la autonomía universitaria en su semana dedicada.",
+      "teaser": "Lo clave en 20 segundos: el TEC defiende la autonomía universitaria como pilar de la educación pública.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/semana-autonomia-universitaria_acto-inaugural_rgarita-5.jpg.webp?itok=Uj1yBgW6",
       "description": "El TEC hace un llamado a defender la autonomía universitaria",
       "featured": false
@@ -989,6 +1015,19 @@
       "featured": false
     },
     {
+      "slug": "estancamiento-del-fees-amenaza-cobertura-y-calidad-de-la-educacion-superior",
+      "title": "Estancamiento del FEES amenaza cobertura y calidad de la educación superior",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las universidades estatales enfrentan un posible estancamiento en el presupuesto del FEES para 2027.\n• El gobierno propone un aumento del 0% en el FEES, lo que preocupa a autoridades educativas.\n• Las universidades deben garantizar calidad y accesibilidad a pesar de limitaciones financieras.\n• La negociación del FEES refleja la importancia de la educación superior para el desarrollo nacional.\n• Los estudiantes más vulnerables podrían verse afectados por la falta de recursos en las universidades.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/estancamiento-fees-amenaza-cobertura-calidad-educacion-superior",
+      "publish_date": "2026-04-07T00:49:43.000Z",
+      "teaser": "Lo clave en 20 segundos: Aumento del FEES está en riesgo, afectando la educación superior en Costa Rica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees-tec-sesion2-2.jpg.webp?itok=O1k7UnEz",
+      "description": "Estancamiento del FEES amenaza cobertura y calidad de la educación superior",
+      "featured": false
+    },
+    {
       "slug": "nueva-carretera-a-cartago-estas-serian-las-tarifas-y-la-ubicacion-de-las-casetas-de-peaje",
       "title": "Nueva carretera a Cartago: estas serían las tarifas y la ubicación de las casetas de peaje",
       "category": "Costa Rica",
@@ -1025,19 +1064,6 @@
       "teaser": "Lo clave en 20 segundos: Aprende a recuperar el blanco original de tu ropa con métodos sencillos.",
       "image_url": "https://www.nacion.com/resizer/v2/MJ73B7YBS5ENPE4AESSZL67BZU.png?auth=868befa6adcda64a7b298727d86e27c20eb39403222ff9f7557974972e51ad41&smart=true&width=1680&height=945",
       "description": "Guía práctica para recuperar el blanco original de la ropa y eliminar el tono amarillento con métodos efectivos como blanqueador, vinagre y bicarbonato.",
-      "featured": false
-    },
-    {
-      "slug": "estancamiento-del-fees-amenaza-cobertura-y-calidad-de-la-educacion-superior",
-      "title": "Estancamiento del FEES amenaza cobertura y calidad de la educación superior",
-      "category": "Costa Rica",
-      "bullets_20s": "• El estancamiento del FEES afectará la calidad de la educación en las universidades públicas de Costa Rica.\n• La propuesta gubernamental de un 0% de aumento plantea serios desafíos para el sistema educativo.\n• Autoridades universitarias continúan las negociaciones para garantizar un mejor financiamiento educativo.\n• La necesidad de un aumento del FEES es crucial para mantener la cobertura y matrícula de estudiantes.\n• El contexto fiscal del país impacta directamente en la inversión educativa y la calidad de la enseñanza.",
-      "source_name": "johumana",
-      "source_url": "http://www.tec.ac.cr/estancamiento-fees-amenaza-cobertura-calidad-educacion-superior",
-      "publish_date": "2026-04-07T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: El estancamiento del FEES podría comprometer la calidad educativa en Costa Rica.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees-tec-sesion2-2.jpg.webp?itok=O1k7UnEz",
-      "description": "Estancamiento del FEES amenaza cobertura y calidad de la educación superior",
       "featured": false
     },
     {
@@ -1121,12 +1147,12 @@
     {
       "slug": "tec-reafirma-su-liderazgo-regional-al-volver-a-destacar-en-ranking-internacional",
       "title": "TEC reafirma su liderazgo regional al volver a destacar en ranking internacional",
-      "category": "Ciencia",
-      "bullets_20s": "• El Tecnológico de Costa Rica se posiciona como la segunda mejor universidad de Centroamérica.\n• El ranking QS incluye cerca de 500 universidades evaluadas en 26 países de la región.\n• La rectora del TEC destaca el esfuerzo de su comunidad académica para mantener la calidad.\n• La metodología evaluada se adapta al contexto latinoamericano, con diversos indicadores.\n• Costa Rica tiene las mejores universidades de Centroamérica, con un alto nivel académico.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Tecnológico de Costa Rica es la segunda mejor universidad en Centroamérica según ranking QS 2026.\n• Cerca de 500 universidades de 26 países fueron evaluadas en este reconocimiento internacional.\n• La metodología del ranking incluye indicadores como reputación académica y producción científica.\n• La UCR, TEC y UNA son las tres mejores universidades de Centroamérica en este ranking.\n• El TEC resalta por su compromiso con la calidad académica y la innovación en sus programas.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/tec-reafirma-su-liderazgo-regional-volver-destacar-ranking-internacional",
       "publish_date": "2026-04-06T22:09:39.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC destaca como segunda mejor universidad de Centroamérica en nuevo ranking.",
+      "teaser": "Lo clave en 20 segundos: El TEC se consolida como la segunda mejor universidad de Centroamérica en ranking QS.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/bienvenida-ciclo-lectivo-estudiantes-tec-cartago-2025_rgarita-12.jpg.webp?itok=1AB1O_72",
       "description": "TEC reafirma su liderazgo regional al volver a destacar en ranking internacional",
       "featured": false
@@ -7440,11 +7466,11 @@
       "slug": "construccion-de-la-paz-ante-los-desafios-ambientales-tema-del-foro-unesco-en-el-tec",
       "title": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "category": "Ciencia",
-      "bullets_20s": "• El foro tuvo un enfoque interdisciplinario sobre la construcción de paz y la naturaleza.\n• Participaron académicos y especialistas en un diálogo sobre sostenibilidad y ética.\n• Se destacó la importancia de los saberes indígenas en la conservación del ambiente.\n• El evento fue moderado por un especialista de UNESCO en Políticas de Ciencia.\n• Los panelistas reflexionaron sobre la relación entre ser humano y la naturaleza.",
+      "bullets_20s": "• El TEC realizó un conversatorio sobre la relación entre la paz y el medio ambiente.\n• El evento reunió a académicos y especialistas en un diálogo interdisciplinario.\n• Panelistas discutieron la integración de saberes indígenas para la conservación.\n• Se abordaron temas como ética ambiental y economía circular para el desarrollo.\n• La necesidad de transformar estructuras sociales fue un enfoque central del foro.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/construccion-paz-desafios-ambientales-tema-foro-unesco-tec",
       "publish_date": "2026-03-27T20:19:52.000Z",
-      "teaser": "Lo clave en 20 segundos: El foro UNESCO en el TEC aborda paz y desafíos ambientales.",
+      "teaser": "Lo clave en 20 segundos: El foro UNESCO en el TEC promueve la paz y el medio ambiente.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conversatorio-unesco_tec_medio-ambiente_55-aniversario-tec_rgarita-6.jpg.webp?itok=UixZICkS",
       "description": "Construcción de la paz ante los desafíos ambientales: tema del foro UNESCO en el TEC",
       "featured": false
@@ -7648,11 +7674,11 @@
       "slug": "autonomia-universitaria-en-el-tec-conversemos-con-el-tec",
       "title": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria es clave para el desarrollo académico en las instituciones de educación superior.\n• El TEC celebrará la Semana de la Autonomía Universitaria del 6 al 10 de abril este año.\n• Se abordará la importancia de la autonomía en un evento transmitido en vivo desde el TEC.\n• Asistirán especialistas y estudiantes a discutir el papel de la autonomía en la educación.\n• El Día de la Autonomía Universitaria se conmemora el 12 de abril en Costa Rica cada año.",
+      "bullets_20s": "• El TEC celebrará actividades del 6 al 10 de abril en conmemoración de la autonomía universitaria.\n• La docencia sobre la autonomía se abordará en un conversatorio el miércoles 8 de abril.\n• La docente Jacqueline Herrera Núñez compartirá su visión sobre la autonomía universitaria en el TEC.\n• Sebastián Vallecillos participará en la discusión desde la Comisión de Defensa de la Autonomía.\n• Se anima a la comunidad a enviar preguntas al correo proporcionado antes del evento.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-tec-conversemos-tec",
       "publish_date": "2026-03-27T15:43:51.000Z",
-      "teaser": "Lo clave en 20 segundos: La autonomía universitaria se discute en evento del TEC el 8 de abril.",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria se discutirá en el TEC, no te lo pierdas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/autonomia-2026-cctec.png",
       "description": "Autonomía Universitaria en el TEC, Conversemos con el TEC",
       "featured": false
@@ -9933,5 +9959,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-08T11:30:51.457Z"
+  "generated_at": "2026-04-08T12:30:51.349Z"
 }
