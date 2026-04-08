@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "descubren-en-la-amazonia-una-nueva-especie-diminuta-de-rana-con-un-inusual-metodo-reproductivo",
+      "title": "Descubren en la Amazonía una nueva especie diminuta de rana con un inusual método reproductivo",
+      "category": "Ciencia",
+      "bullets_20s": "• Se ha descubierto una nueva especie de rana en la Amazonía peruana que es sorprendentemente diminuta y única.\n• Este hallazgo es importante para la biología y evolución de las especies en ambientes tropicales.\n• El inusual método reproductivo incluye cargar los huevos en la espalda, lo que es fascinante.\n• Los científicos están entusiasmados por las implicaciones de este descubrimiento para la investigación.\n• Conocer más sobre este tipo de ranas puede ayudar a la conservación de la biodiversidad.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/descubren-en-la-amazonia-una-nueva-especie/2VGWH5CZS5GK3CSTJK5WTHQE7M/story/",
+      "publish_date": "2026-04-08T15:19:34.000Z",
+      "teaser": "Lo clave en 20 segundos: una nueva rana en la Amazonía desafía nuestra comprensión de la reproducción.",
+      "image_url": "https://www.nacion.com/resizer/v2/UM75BSP2PFHFLDV2LXHSNHY3XI.png?auth=05029d2b8fad821ab22e511cae757c28d798f118839784d72edda3d38a410956&smart=true&width=1680&height=945",
+      "description": "Una diminuta rana descubierta en la Amazonía peruana sorprende por su forma única de reproducirse: carga sus huevos en la espalda y podría dar a luz crías vivas. Conozca por qué este hallazgo intriga a la ciencia.",
+      "featured": false
+    },
+    {
+      "slug": "es-posible-convertir-la-basura-plastica-y-baterias-viejas-en-combustible-un-reactor-solar-tiene-la-respuesta",
+      "title": "¿Es posible convertir la basura plástica y baterías viejas en combustible? Un reactor solar tiene la respuesta",
+      "category": "Ciencia",
+      "bullets_20s": "• Investigadores de Cambridge desarrollan un reactor solar innovador para tratar residuos plásticos.\n• Este avance busca contribuir a la sostenibilidad y a reducir la crisis de residuos en el mundo.\n• El reactor utiliza ácido de baterías viejas, transformando desechos en combustible limpio.\n• El hidrógeno producido puede ser una alternativa energética sostenible y eficiente.\n• Este método podría cambiar la forma en que cuidamos el medio ambiente y gestionamos residuos.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/ciencia/cientificos-hallan-la-formula-para-convertir/XBUK6NPXDBFX3NESEVHAJ52G4E/story/",
+      "publish_date": "2026-04-08T15:17:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Un reactor solar transforma plástico y baterías viejas en hidrógeno limpio.",
+      "image_url": "https://www.nacion.com/resizer/v2/JUMF5K36HREJHCLKZICVZNONZY.png?auth=887b8d81c6dd9d60268e086302a10a160e692e6bf2667560603a0d36f480420d&smart=true&width=1920&height=1080",
+      "description": "Investigadores de Cambridge crean reactor solar que usa ácido de baterías viejas para transformar plástico difícil de reciclar en hidrógeno limpio. Un avance sostenible para la crisis de basura mundial.",
+      "featured": false
+    },
+    {
+      "slug": "trailer-quedo-atascado-en-linea-del-tren-en-heredia-y-obligo-trasbordo-de-pasajeros",
+      "title": "Tráiler quedó atascado en línea del tren en Heredia y obligó trasbordo de pasajeros",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un tráiler se atascó en la línea del tren en Heredia, causando un paro en el servicio.\n• Los pasajeros tuvieron que ser trasladados a otros medios de transporte durante el incidente.\n• La situación generó un retraso de aproximadamente 15 minutos en el servicio del tren.\n• Las autoridades están evaluando las causas detrás del accidente para evitar futuras situaciones.\n• El incidente destaca la necesidad de mejorar la infraestructura en las líneas de tren.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/sucesos/trailer-quedo-atascado-en-linea-del-tren-en/MZ7HZOSL5ZELZNFSD5MV4DZDHI/story/",
+      "publish_date": "2026-04-08T15:11:44.000Z",
+      "teaser": "Lo clave en 20 segundos: Tráiler atascado interrumpe el servicio de tren en Heredia, causando trasbordo.",
+      "image_url": "https://www.nacion.com/resizer/v2/VD5OCEV5EFH2PLOXT72WXDJ75A.jpeg?auth=0950d575ce8ae8c19fa52d42658c775d6d58cb9f19c7a90d91f6b3dc9e349459&smart=true&width=1600&height=1200",
+      "description": "Servicio del tren tuvo un retraso de 15 minutos tras el incidente",
+      "featured": false
+    },
+    {
       "slug": "impacto-de-la-inteligencia-artificial-en-el-empleo-en-costa-rica-estos-son-los-sectores-mas-vulnerables",
       "title": "Impacto de la inteligencia artificial en el empleo en Costa Rica: estos son los sectores más vulnerables",
       "category": "Costa Rica",
@@ -69,11 +108,11 @@
       "slug": "pe-ai-05-revision-y-actualizacion-del-universo-auditable",
       "title": "PE-AI-05 Revisión y actualización del universo auditable",
       "category": "Ciencia",
-      "bullets_20s": "• El procedimiento aborda la revisión del universo auditable en el contexto actual.\n• Se busca asegurar la calidad en la auditoría a lo largo del proceso.\n• Los manuales se actualizan para reflejar las mejores prácticas en auditoría.\n• Este procedimiento es esencial para la mejora continua en la gestión.\n• La última revisión se realizó en marzo de 2026, asegurando su relevancia.",
+      "bullets_20s": "• La revisión del universo auditable busca mejorar la transparencia en los procesos institucionales.\n• Este procedimiento es clave para la gestión efectiva dentro de las organizaciones.\n• Los manuales y procedimientos se actualizan periódicamente para mantener su relevancia.\n• El ambiente de auditoría se fortalece mediante procedimientos claros y bien documentados.\n• Se espera que la implementación de estas revisiones beneficie a todos los stakeholders.",
       "source_name": "malvarez",
       "source_url": "http://www.tec.ac.cr/pe-ai-05-revision-actualizacion-universo-auditable",
       "publish_date": "2026-04-08T13:21:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Se revisa el universo auditable para garantizar calidad en auditorías.",
+      "teaser": "Lo clave en 20 segundos: actualización de procedimientos para la auditoría en el ámbito institucional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "malvarez",
       "featured": false
@@ -81,12 +120,12 @@
     {
       "slug": "pe-ai-01-revision-y-actualizacion-del-modelo-de-gestion",
       "title": "PE-AI-01 Revisión y actualización del Modelo de Gestión",
-      "category": "Ciencia",
-      "bullets_20s": "• La revisión del Modelo de Gestión es clave para la mejora continua en procesos institucionales.\n• Se han creado manuales específicos para facilitar el entendimiento del Modelo de Gestión.\n• El procedimiento documenta los pasos para una eficaz actualización del modelo en cuestión.\n• La metodología incluye la participación de diversas áreas en la revisión del modelo.\n• Esta actualización busca asegurar la relevancia y eficacia del modelo en la gestión actual.",
+      "category": "Tecnología",
+      "bullets_20s": "• El Modelo de Gestión se revisa y actualiza para mejorar la eficiencia de la AI.\n• El procedimiento de actualización implica manuales y guías de gestión claros.\n• Los cambios en el modelo se realizaron en marzo y abril de 2026.\n• Las nuevas directrices buscan adaptarse a las necesidades actuales del sector.\n• La creación del modelo incluye participación de expertos en administración y tecnología.",
       "source_name": "malvarez",
       "source_url": "http://www.tec.ac.cr/pe-ai-01-revision-actualizacion-modelo-gestion",
       "publish_date": "2026-04-08T13:19:08.000Z",
-      "teaser": "Lo clave en 20 segundos: Actualización del Modelo de Gestión para optimizar procesos institucionales.",
+      "teaser": "Lo clave en 20 segundos: Actualización del Modelo de Gestión de la AI para mejorar su eficacia.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "malvarez",
       "featured": false
@@ -368,11 +407,11 @@
       "slug": "estancamiento-del-fees-amenaza-cobertura-y-calidad-de-la-educacion-superior",
       "title": "Estancamiento del FEES amenaza cobertura y calidad de la educación superior",
       "category": "Costa Rica",
-      "bullets_20s": "• Las Universidades Públicas enfrentan un posible estancamiento en la financiación del FEES.\n• Una propuesta del gobierno sugiere un 0% de aumento en el presupuesto educativo.\n• El rector de la UNA destacó que la calidad educativa se compromete sin más recursos.\n• El FEES es crucial para sostener la formación académica y la investigación en el país.\n• Las negociaciones buscan asegurar una inversión adecuada en educación superior pública.",
+      "bullets_20s": "• La propuesta gubernamental excluye aumento en el presupuesto educativo para el próximo año.\n• Autoridades universitarias expresan preocupación por impacto en educación superior en el país.\n• Las universidades han sostenido crecimiento en matrícula y programas de becas a pesar de limitaciones.\n• El FEES es clave para la operación de las universidades públicas y su desarrollo educativo.\n• El contexto internacional podría elevar costos en áreas críticas como tecnología y salud.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/estancamiento-fees-amenaza-cobertura-calidad-educacion-superior",
       "publish_date": "2026-04-08T00:49:43.000Z",
-      "teaser": "Lo clave en 20 segundos: El estancamiento del FEES podría afectar la calidad y cobertura educativa en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Propuesta del Gobierno amenaza educación superior en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees-tec-sesion2-2.jpg.webp?itok=O1k7UnEz",
       "description": "Estancamiento del FEES amenaza cobertura y calidad de la educación superior",
       "featured": false
@@ -783,12 +822,12 @@
     {
       "slug": "el-tec-hace-un-llamado-a-defender-la-autonomia-universitaria",
       "title": "El TEC hace un llamado a defender la autonomía universitaria",
-      "category": "Ciencia",
-      "bullets_20s": "• La Semana de la Autonomía Universitaria se realiza del 6 al 10 de abril de 2026.\n• Estudiantes reflexionan sobre el valor de la educación pública como una inversión social.\n• María José Zamora Vargas destaca la importancia de la autonomía universitaria en el contexto actual.\n• La normativa sobre autonomía se considera esencial para la educación y el desarrollo del país.\n• El diálogo y la participación son fundamentales para construir la comunidad universitaria.",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Semana de la Autonomía Universitaria se celebra del 6 al 10 de abril de 2026.\n• María José Zamora resalta el papel del estudiantado en la defensa de la autonomía.\n• La autonomía universitaria ha sido vital para garantizar el derecho a la educación.\n• El Consejo Institucional promueve el diálogo sobre el significado de la autonomía.\n• Se presenta la obra '¿Prohibido pensar?' como crítica social contemporánea.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/tec-hace-llamado-defender-autonomia-universitaria",
       "publish_date": "2026-04-07T16:56:11.000Z",
-      "teaser": "Lo clave en 20 segundos: La autonomía universitaria es vital en la educación pública y del país.",
+      "teaser": "Lo clave en 20 segundos: El TEC invita a defender la autonomía universitaria en su semana con actividades significativas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/semana-autonomia-universitaria_acto-inaugural_rgarita-5.jpg.webp?itok=Uj1yBgW6",
       "description": "El TEC hace un llamado a defender la autonomía universitaria",
       "featured": false
@@ -10128,5 +10167,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-08T15:30:51.765Z"
+  "generated_at": "2026-04-08T16:30:51.761Z"
 }
