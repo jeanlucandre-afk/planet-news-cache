@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "dos-pinos-realizara-feria-de-empleo-en-san-jose-vea-aqui-los-puestos-disponibles",
+      "title": "Dos Pinos realizará feria de empleo en San José: vea aquí los puestos disponibles",
+      "category": "Costa Rica",
+      "bullets_20s": "• La feria de empleo se llevará a cabo en la Antigua Aduana, un lugar emblemático de San José.\n• Los interesados podrán conocer diversas oportunidades laborales dentro de la empresa Dos Pinos.\n• Se ofrecerán capacitaciones sobre cómo aplicar a los diferentes puestos disponibles en la feria.\n• La compañía busca atraer talento joven para fortalecer su equipo y fomentar el empleo local.\n• Es una excelente oportunidad para quienes buscan empleo en el sector alimentario y lácteo.\n• Asistir a la feria requerirá inscripción previa para garantizar el control de asistencia.",
+      "source_name": "Fabiola Montoya Salas",
+      "source_url": "https://www.nacion.com/empleo-costa-rica/empleo-noticias/dos-pinos-realizara-feria-de-empleo-en-san-jose/JVZ5OCZTEFDPPDTT535AVJQWAY/story/",
+      "publish_date": "2026-04-09T04:11:52.000Z",
+      "teaser": "Lo clave en 20 segundos: Feria de empleo de Dos Pinos en San José con múltiples oportunidades.",
+      "image_url": "https://www.nacion.com/resizer/v2/Y4NPGDJDF5EKBI3HXZOH7GFLNI.jpg?auth=c6082769221888a431e59d646c44edcb079d546eb3b1c4bc9aac053f84c75725&smart=true&width=4000&height=1800",
+      "description": "Dos Pinos realizará una feria de empleo en la Antigua Aduana, en San José. Conozca los puestos disponibles y cómo prepararse para aplicar.",
+      "featured": false
+    },
+    {
+      "slug": "rebeca-grynspan-se-reune-con-el-canciller-ruso-en-plena-carrera-por-secretaria-general-de-la-onu",
+      "title": "Rebeca Grynspan se reúne con el canciller ruso en plena carrera por secretaría general de la ONU",
+      "category": "Mundo",
+      "bullets_20s": "• Rebeca Grynspan es candidata a la Secretaría General de la ONU en un proceso internacional.\n• El encuentro con Sergey Lavrov marca un paso importante en su candidatura a un alto cargo.\n• Se discuten temas clave de la política internacional durante la reunión entre ambos líderes.\n• Grynspan es una figura destacada en la política costarricense y regional actualmente.\n• La Secretaría General de la ONU es un puesto de gran relevancia en el ámbito global.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/politica/rebeca-grynspan-se-reune-con-el-canciller-ruso-en/YOXCUFQ4ABFAJNI4QXBLJLRH3I/story/",
+      "publish_date": "2026-04-09T03:53:44.000Z",
+      "teaser": "Lo clave en 20 segundos: Rebeca Grynspan se reúne con el canciller ruso en su candidatura a la ONU.",
+      "image_url": "https://www.nacion.com/resizer/v2/KQRNVFDY4VFCVMFEVD5SKQUAF4.jpg?auth=2a85c2eaf7f9bc05b48defea8c4828fa3e16c8f73879a96e8fa071064318c864&smart=true&width=960&height=640",
+      "description": "La costarricense Rebeca Grynspan se reunió con el canciller ruso, Sergey Lavrov, en el marco de su candidatura a la Secretaría General de la Organización de las Naciones Unidas.",
+      "featured": false
+    },
+    {
       "slug": "hezbola-afirma-que-lanzo-cohetes-contra-israel-por-su-violacion-del-alto-el-fuego",
       "title": "Hezbolá afirma que lanzó cohetes contra Israel por su ‘violación’ del alto el fuego",
       "category": "Mundo",
-      "bullets_20s": "• Hezbolá ha intensificado sus ataques en respuesta a las acciones de Israel en la región.\n• La situación en el Medio Oriente continúa siendo tensa y preocupante para la comunidad internacional.\n• El alto el fuego ha sido frágil, con frecuentes violaciones por ambas partes en conflicto.\n• Israel ha alegado que sus bombardeos son acciones preventivas ante amenazas de Hezbolá.\n• Los ataques han dejado un aumento en las víctimas y desplazados en Líbano.",
-      "source_name": "AFP",
+      "bullets_20s": "• Hezbolá llevó a cabo un ataque con cohetes a raíz de tensiones en la región.\n• Las acusaciones incluyen violaciones de un alto el fuego por parte de Israel.\n• El conflicto se intensifica con bombardeos israelíes en suelo libanés.\n• Se reportan decenas de víctimas tras estos enfrentamientos recientes.\n• La situación en Medio Oriente sigue siendo crítica y preocupante.",
+      "source_name": "AFP, Sebastián Sánchez",
       "source_url": "https://www.nacion.com/el-mundo/hezbola-afirma-que-lanzo-cohetes-contra-israel-por/6G4OKTMVPVCABB2XP4A2L3QKXI/story/",
       "publish_date": "2026-04-09T02:59:39.000Z",
-      "teaser": "Lo clave en 20 segundos: Hezbolá responde con cohetes tras acusaciones de violaciones al alto el fuego.",
+      "teaser": "Lo clave en 20 segundos: Hezbolá lanza cohetes tras alegaciones de violaciones al alto el fuego por Israel.",
       "image_url": "https://www.nacion.com/resizer/v2/E3MBMTEDVFGUXND2L5OKLIO77Y.jpg?auth=3c435f574e1416ed47385b8eec3e2e7baa0757ac90391b71faf55c4df186ffc6&smart=true&width=5300&height=3533",
       "description": "Hezbolá lanzó cohetes contra Israel tras acusarlo de violar el alto el fuego, luego de bombardeos israelíes en Líbano que dejaron decenas de víctimas.",
       "featured": false
@@ -238,11 +264,11 @@
       "slug": "universidades-ganan-recurso-ante-la-sala-constitucional-de-costa-rica-por-fees-2025",
       "title": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "category": "Costa Rica",
-      "bullets_20s": "• La Sala Constitucional de Costa Rica falló a favor del amparo relacionado con el FEES 2025.\n• Se ordenó al Ministerio de Hacienda girar el 2% del FEES para las universidades públicas.\n• El 20% del FEES adicional irá destinado al Tecnológico de Costa Rica, según el acuerdo.\n• El fallo advierte sobre sanciones penales si no se cumplen las órdenes dictadas.\n• Los magistrados votaron a favor y en contra, mostrando opiniones divididas sobre el caso.",
+      "bullets_20s": "• La Sala Constitucional declara con lugar un recurso de amparo por el FEES del 2025.\n• Se dirigió un fallo al Ministro de Hacienda sobre el giro del 2% del FEES.\n• Este 2% adicional del FEES fue aprobado por la Asamblea Legislativa de Costa Rica.\n• El Tecnológico de Costa Rica recibiría el 20% de este 2% del FEES en el futuro.\n• El fallo conlleva multas para quienes incumplan resoluciones de recursos de amparo.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/universidades-ganan-recurso-sala-constitucional-costa-rica-fees-2025",
       "publish_date": "2026-04-08T21:39:40.000Z",
-      "teaser": "Lo clave en 20 segundos: La Sala Constitucional falló a favor del FEES 2025 para universidades en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La Sala Constitucional falló a favor de universidades sobre el FEES 2025.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees_08_07_2025_paquesada-39.jpg.webp?itok=tdBGpgTP",
       "description": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "featured": false
@@ -368,11 +394,11 @@
       "slug": "la-sonda-cosmologica-de-las-islas-para-la-deteccion-de-hidrogeno-neutro",
       "title": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "category": "Ciencia",
-      "bullets_20s": "• El jueves 9 de abril se realizará el Jueves Astronómico #500 a las 5:00 p. m.\n• Se abordará el tema de hidrógeno neutro en la comprensión del universo y la astrofísica.\n• La charla será virtual con proyección en el auditorio del Edificio D3.\n• El Dr. Omar López Cruz expondrá sobre la evolución de las estrellas y las galaxias.\n• El evento tiene como objetivo acercar al público a la divulgación científica.",
+      "bullets_20s": "• La charla se realizará el 9 de abril a las 5:00 p.m. en modalidad virtual.\n• El Dr. Omar López Cruz participará como expositor sobre el hidrógeno neutro.\n• El evento busca acercar al público a la divulgación científica y astronomía.\n• Se explicará cómo las estrellas y galaxias evolucionan en el universo.\n• La actividad promovida se enmarca en los eventos de AstroTEC.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/sonda-cosmologica-islas-deteccion-hidrogeno-neutro",
       "publish_date": "2026-04-08T19:11:17.000Z",
-      "teaser": "Lo clave en 20 segundos: charla sobre hidrógeno neutro y su papel en el universo.",
+      "teaser": "Lo clave en 20 segundos: Charla virtual sobre hidrógeno neutro y su relevancia en astronomía.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dr-omar-lopez.jpg",
       "description": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "featured": false
@@ -692,12 +718,12 @@
     {
       "slug": "pe-ai-05-revision-y-actualizacion-del-universo-auditable",
       "title": "PE-AI-05 Revisión y actualización del universo auditable",
-      "category": "Ciencia",
-      "bullets_20s": "• Este procedimiento se centra en la revisión del universo auditable en las instituciones.\n• Se detalla el proceso de creación de manuales y procedimientos relacionados.\n• La última revisión de estos procedimientos fue realizada en marzo de 2026.\n• Se espera mejorar la auditoría con la actualización de este universo.\n• Se recalca la importancia de mantener documentos actualizados en las auditorías.",
+      "category": "Tecnología",
+      "bullets_20s": "• Se revisa el procedimiento para asegurar la calidad en auditorías dentro de Costa Rica.\n• La actualización del universo auditable es clave para la transparencia en procesos.\n• Se destacan los manuales y procedimientos necesarios para una mejor gestión.\n• La creación de este procedimiento se formalizó en marzo de 2026.\n• La última revisión y modificación del documento se realizó meses recientes.",
       "source_name": "malvarez",
       "source_url": "http://www.tec.ac.cr/pe-ai-05-revision-actualizacion-universo-auditable",
       "publish_date": "2026-04-08T13:21:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Procedimiento para actualización del universo auditable en auditorías.",
+      "teaser": "Lo clave en 20 segundos: Actualización crucial en auditoría en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "malvarez",
       "featured": false
@@ -10713,5 +10739,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-09T04:30:50.868Z"
+  "generated_at": "2026-04-09T05:30:51.340Z"
 }
