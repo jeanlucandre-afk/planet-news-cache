@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "puente-sobre-el-rio-tarcoles-volvera-a-tener-paso-regulado-durante-48-horas",
+      "title": "Puente sobre el río Tárcoles volverá a tener paso regulado durante 48 horas",
+      "category": "Costa Rica",
+      "bullets_20s": "• El puente sobre el río Tárcoles experimentará cambios en el flujo de tráfico.\n• Se aplicarán cierres programados para realizar trabajos de mantenimiento.\n• La colocación de carpeta asfáltica es vital para la seguridad vial.\n• Los trabajos buscarán mejorar la durabilidad de la infraestructura del puente.\n• Se espera que los cierres se mantengan por menos de dos días.",
+      "source_name": "Patricia Recio",
+      "source_url": "https://www.nacion.com/el-pais/puente-sobre-el-rio-tarcoles-volvera-a-tener-paso/CPPF6TF3BRC53H3YEGDRUYLUNM/story/",
+      "publish_date": "2026-04-10T16:23:52.000Z",
+      "teaser": "Lo clave en 20 segundos: El puente Tárcoles tendrá paso regulado por trabajos de mantenimiento.",
+      "image_url": "https://www.nacion.com/resizer/v2/TFDRK2KSDVHMFH5O3UM72QM7AM.jpeg?auth=e700a1db96a8cb70077b62330ab233bc82b2bbaae290db4cdb34d0d07d3b9b72&smart=true&width=2560&height=1920",
+      "description": "Cierres se aplicarán para colocar carpeta asfáltica e impermeabilizar losa",
+      "featured": false
+    },
+    {
+      "slug": "texas-endurece-reglas-para-food-trucks-ley-afectara-a-migrantes-desde-julio",
+      "title": "Texas endurece reglas para ‘food trucks’: ley afectará a migrantes desde julio",
+      "category": "Mundo",
+      "bullets_20s": "• Las nuevas regulaciones exigirán licencias y pruebas a los operadores de ‘food trucks’ en Texas.\n• Se estima que la ley impactará a una gran cantidad de migrantes que trabajan en esta industria.\n• Los cambios entrarán en vigencia a partir de julio del próximo año, causando incertidumbre.\n• Este tipo de legislación podría replicarse en otros estados de Estados Unidos en el futuro.\n• La situación laboral de muchos dependerá de su capacidad para cumplir con los nuevos requisitos.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/el-mundo/texas-endurece-reglas-para-food-trucks-ley/EWJDNA7FTND5HDDVG6PE747RP4/story/",
+      "publish_date": "2026-04-10T16:17:14.000Z",
+      "teaser": "Lo clave en 20 segundos: Nuevas reglas para ‘food trucks’ en Texas impactarán a migrantes desde julio.",
+      "image_url": "https://www.nacion.com/resizer/v2/4FPWL5TLH5B4VDEGTDHVWXEEMA.png?auth=d886f90e5a83b713a607cc84883a110b59131ec9285802f323ce029b3b818f0d&smart=true&width=1680&height=945",
+      "description": "Nuevos requisitos para operar ‘food trucks’ en Texas cambiarán el panorama laboral. La exigencia de licencias y pruebas legales impactará a miles de trabajadores.",
+      "featured": false
+    },
+    {
       "slug": "estos-son-los-12-pokemones-mas-escasos-se-convirtieron-en-leyendas-dentro-de-la-franquicia",
       "title": "Estos son los 12 pokémones más escasos: se convirtieron en leyendas dentro de la franquicia",
       "category": "Tecnología",
@@ -1252,11 +1278,11 @@
       "slug": "universidades-ganan-recurso-ante-la-sala-constitucional-de-costa-rica-por-fees-2025",
       "title": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "category": "Costa Rica",
-      "bullets_20s": "• La Sala Constitucional emitió un fallo a favor de universidades costarricenses sobre el FEES 2025.\n• Se espera que parte del FEES se utilice para fortalecer becas y matrícula estudiantil.\n• El 2% del FEES aprobado busca atender necesidades de educación superior en el país.\n• La resolución advierte sobre sanciones penales en caso de desacato por parte del Ministro de Hacienda.\n• El Tecnológico de Costa Rica recibirá el 20% de este 2% del FEES estipulado.",
+      "bullets_20s": "• La Sala Constitucional aprobó un recurso de amparo relacionado con el FEES del 2025 en Costa Rica.\n• El 2% del FEES destinado a universidades es crucial para sostener becas estudiantiles y matrícula.\n• Se destinará un 20% de este FEES al Tecnológico de Costa Rica, según CONARE.\n• La resolución ordena al Ministerio de Hacienda asegurar el cumplimiento de este giro de recursos.\n• El desacato a la resolución podría llevar a sanciones penales para los involucrados en el proceso.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/universidades-ganan-recurso-sala-constitucional-costa-rica-fees-2025",
       "publish_date": "2026-04-08T21:39:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Universidades logran amparo ante Sala Constitucional por el FEES 2025.",
+      "teaser": "Lo clave en 20 segundos: La Sala Constitucional asegura fondos del FEES para universidades en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees_08_07_2025_paquesada-39.jpg.webp?itok=tdBGpgTP",
       "description": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "featured": false
@@ -1382,13 +1408,13 @@
       "slug": "la-sonda-cosmologica-de-las-islas-para-la-deteccion-de-hidrogeno-neutro",
       "title": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "category": "Ciencia",
-      "bullets_20s": "• Se realizará el Jueves Astronómico #500 el 9 de abril a las 5:00 p.m.\n• La charla es sobre la detección de hidrógeno neutro en el universo.\n• El Dr. Omar López Cruz del INAOE presentará la charla virtual.\n• Se abordarán temas sobre la evolución de estrellas y galaxias.\n• La actividad promueve la divulgación científica en la comunidad.\n• Se espera aumentar el interés en astronomía y astrofísica.",
+      "bullets_20s": "• La charla se llevará a cabo el jueves 9 de abril a las 5:00 p.m.\n• Se desarrollará en modalidad virtual y proyección en un auditorio.\n• El Dr. Omar López Cruz será el encargado de la exposición principal.\n• Se abordará el papel del hidrógeno neutro en el universo y las estrellas.\n• La actividad busca promover el interés por la astronomía y astrofísica.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/sonda-cosmologica-islas-deteccion-hidrogeno-neutro",
       "publish_date": "2026-04-08T19:11:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Charla sobre hidrógeno neutro en el Jueves Astronómico #500.",
+      "teaser": "Lo clave en 20 segundos: Charla sobre hidrógeno neutro y su papel en el universo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dr-omar-lopez.jpg",
-      "description": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
+      "description": "La sonda cosmológica de las islas para la detección de hidrógeno neutro.",
       "featured": false
     },
     {
@@ -11636,5 +11662,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-10T16:30:54.202Z"
+  "generated_at": "2026-04-10T17:30:52.467Z"
 }
