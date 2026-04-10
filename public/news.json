@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "administracion-del-congreso-ubica-a-diputados-del-pueblo-soberano-lejos-de-la-prensa-pese-a-reglamento-que-define-distri",
+      "title": "Administración del Congreso ubica a diputados del Pueblo Soberano lejos de la prensa, pese a reglamento que define distribución de curules",
+      "category": "Costa Rica",
+      "bullets_20s": "• La nueva distribución del plenario ha generado controversia entre los diputados y la prensa.\n• El reglamento que regula la ubicación de los diputados no se está respetando en esta ocasión.\n• Históricamente, los diputados de gobierno se sientan de espaldas a los medios de comunicación.\n• La visibilidad de los legisladores es fundamental para la transparencia en la política.\n• Algunos ciudadanos expresan su descontento con la ubicación de los diputados en el plenario.",
+      "source_name": "Lucía Astorga, Aarón Sequeira",
+      "source_url": "https://www.nacion.com/politica/administracion-del-congreso-ubica-a-diputados-del/FMWNSTVFGRF75FU6VVAJFBAPFI/story/",
+      "publish_date": "2026-04-10T21:18:24.000Z",
+      "teaser": "Lo clave en 20 segundos: nueva ubicación de diputados genera controversia y descontento público.",
+      "image_url": "https://www.nacion.com/resizer/v2/YCNPCWUHENEZ5O3FTSHIF25KBI.jpeg?auth=c29af424a04729f86e5f696064458573efa30106ed75ae436c3446af34c143b4&smart=true&width=1600&height=1070",
+      "description": "El diseño tradicional del plenario de la Asamblea Legislativa siempre ha situado a la bancada de gobierno de espaldas a la prensa y de cara al pueblo.",
+      "featured": false
+    },
+    {
+      "slug": "proyecto-avanza-para-reactivar-aumentos-en-las-pensiones-tras-cinco-anos-sin-ajustes",
+      "title": "Proyecto avanza para reactivar aumentos en las pensiones tras cinco años sin ajustes",
+      "category": "Costa Rica",
+      "bullets_20s": "• El proyecto de ley busca implementar ajustes en las pensiones tras años de estancamiento.\n• Se beneficiarán aproximadamente 30.000 pensionados en Costa Rica con este nuevo ajuste.\n• Los aumentos están relacionados con la inflación y el costo de vida actual del país.\n• Se espera que este cambio brinde un alivio económico a los pensionados afectados.\n• El primer debate del proyecto de ley ha generado un intenso debate político en el país.",
+      "source_name": "Damián Arroyo C.",
+      "source_url": "https://www.nacion.com/el-pais/proyecto-avanza-para-reactivar-aumentos-en-las/XO3W2IA4LNCFZM6ICYEXNKJFEI/story/",
+      "publish_date": "2026-04-10T21:18:17.000Z",
+      "teaser": "Lo clave en 20 segundos: Proyecto busca reactivar aumentos en pensiones tras años sin ajustes.",
+      "image_url": "https://www.nacion.com/resizer/v2/XNQKWU3KNRBSXOLK3PNTNU5P24.jpg?auth=ba2c92a0d64ae5795902539ff9e01b4c0b5376fd78f99396b4178442bc4a6a76&smart=true&width=5624&height=3749",
+      "description": "Proyecto de ley avanza en primer debate para reactivar aumentos por costo de vida a 30.000 pensionados que acumulan más de cinco años sin ajustes.",
+      "featured": false
+    },
+    {
+      "slug": "artemis-ii-astronautas-clausuran-uso-de-inodoro-en-nave-orion-ya-viene-impulsada-a-la-tierra",
+      "title": "Artemis II: Astronautas clausuran uso de inodoro en nave Orion; ya viene impulsada a la Tierra",
+      "category": "Mundo",
+      "bullets_20s": "• Artemis II marca un importante hito en la exploración espacial y el regreso de astronautas a la Tierra.\n• La misión ha culminado con éxito tras realizar un sobrevuelo significativo de la Luna recientemente.\n• El astronauta a bordo ha señalado desafíos que enfrentaron durante el viaje en la nave Orion.\n• El uso de inodoro en la nave fue clausurado como parte de las protocolos de descenso.\n• Los siguientes pasos de la NASA se centran en la preparación para futuras misiones a la Luna.",
+      "source_name": "Sofía  Sánchez Ramírez",
+      "source_url": "https://www.nacion.com/el-mundo/artemis-ii-siga-aqui-el-esperado-regreso-de-los/HEI3OL4ISZG6ZAWYAHGQCZHYLE/story/",
+      "publish_date": "2026-04-10T21:17:15.000Z",
+      "teaser": "Lo clave en 20 segundos: Artemis II inicia su regreso a la Tierra después de una histórica misión lunar.",
+      "image_url": "https://www.nacion.com/resizer/v2/7PBPLAELPNHT3GBRFR25I5KDHQ.jpg?auth=00978c8d0c937b1eadd2e5ecdd97d4798d522230a7b544e4ce9008eeea47af22&smart=true&width=1080&height=720",
+      "description": "La misión Artemis II de la NASA regresa a la Tierra este viernes. Siga todos los detalles del descenso a la Tierra tras el histórico sobrevuelo a la Luna.",
+      "featured": false
+    },
+    {
       "slug": "misterio-bajo-el-mar-buscan-restos-de-un-naufragio-de-hace-225-anos-en-dinamarca",
       "title": "Misterio bajo el mar: buscan restos de un naufragio de hace 225 años en Dinamarca",
       "category": "Ciencia",
@@ -11,19 +50,6 @@
       "teaser": "Lo clave en 20 segundos: arqueólogos investigan un naufragio histórico en Dinamarca bajo difíciles condiciones.",
       "image_url": "https://www.nacion.com/resizer/v2/H4NWFSJA2JHJTGKWAER4QHYBVM.png?auth=4c86ebb2dcb476083130c2a6538999e3103910c4a033c8e77008bde2df53b427&smart=true&width=1680&height=945",
       "description": "Arqueólogos buscan restos del naufragio del Dannebroge en Dinamarca. La investigación enfrenta baja visibilidad y presión por obras en el puerto.",
-      "featured": false
-    },
-    {
-      "slug": "artemis-ii-siga-aqui-el-esperado-regreso-de-los-astronautas-tras-su-viaje-a-la-luna",
-      "title": "Artemis II: Siga aquí el esperado regreso de los astronautas tras su viaje a la Luna",
-      "category": "Mundo",
-      "bullets_20s": "• La misión Artemis II marca un nuevo hito en la exploración espacial de la NASA.\n• Los astronautas regresan tras un histórico sobrevuelo que emocionó al mundo entero.\n• El regreso a la Tierra implica una serie de maniobras complejas y precisas.\n• Siga minuto a minuto el avance del descenso y su llegada a la Tierra.\n• Este evento es clave para futuras misiones tripuladas a la Luna y más allá.",
-      "source_name": "Sofía  Sánchez Ramírez",
-      "source_url": "https://www.nacion.com/el-mundo/artemis-ii-siga-aqui-el-esperado-regreso-de-los/HEI3OL4ISZG6ZAWYAHGQCZHYLE/story/",
-      "publish_date": "2026-04-10T20:27:09.000Z",
-      "teaser": "Lo clave en 20 segundos: Artemis II regresa a la Tierra después de un histórico sobrevuelo lunar.",
-      "image_url": "https://www.nacion.com/resizer/v2/7PBPLAELPNHT3GBRFR25I5KDHQ.jpg?auth=00978c8d0c937b1eadd2e5ecdd97d4798d522230a7b544e4ce9008eeea47af22&smart=true&width=1080&height=720",
-      "description": "La misión Artemis II de la NASA regresa a la Tierra este viernes. Siga todos los detalles del descenso a la Tierra tras el histórico sobrevuelo a la Luna.",
       "featured": false
     },
     {
@@ -1473,11 +1499,11 @@
       "slug": "universidades-ganan-recurso-ante-la-sala-constitucional-de-costa-rica-por-fees-2025",
       "title": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "category": "Costa Rica",
-      "bullets_20s": "• El FEES es vital para sostener becas y atender el crecimiento de matrícula en universidades.\n• La Sala Constitucional emitió un fallo ordenando al Ministerio de Hacienda cumplir con el FEES.\n• El 20% del 2% del FEES del 2025 se destinará al Tecnológico de Costa Rica.\n• La sentencia también establece sanciones penales por incumplimiento de la resolución.\n• Los magistrados expresaron desacuerdo en la decisión, pero la mayoría votó a favor del recurso.",
+      "bullets_20s": "• La Sala Constitucional declaró con lugar el recurso de amparo por el FEES del 2025.\n• Se garantizará el giro del 2% del Fondo Especial para la Educación Superior a universidades.\n• El 20% de este monto será destinado al Tecnológico de Costa Rica según el acuerdo.\n• El fallo impone al Ministerio de Hacienda coordinar para evitar incumplimientos futuros.\n• Se advirtió que el desacato a la resolución podría acarrear sanciones penales.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/universidades-ganan-recurso-sala-constitucional-costa-rica-fees-2025",
       "publish_date": "2026-04-08T21:39:40.000Z",
-      "teaser": "Lo clave en 20 segundos: La Sala Constitucional respalda el FEES 2025 para universidades en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La Sala Constitucional favorece a universidades por el FEES 2025.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees_08_07_2025_paquesada-39.jpg.webp?itok=tdBGpgTP",
       "description": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "featured": false
@@ -1603,11 +1629,11 @@
       "slug": "la-sonda-cosmologica-de-las-islas-para-la-deteccion-de-hidrogeno-neutro",
       "title": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "category": "Ciencia",
-      "bullets_20s": "• Se realizará el Jueves Astronómico #500, un evento importante para la divulgación científica.\n• La charla se enfocará en la detección de hidrógeno neutro y su importancia para el universo.\n• El evento será conducido por un destacado investigador del Instituto Nacional de Astrofísica.\n• El objetivo es hacer accesibles temas complejos de astronomía al público general.\n• Las mediciones de hidrógeno neutro ayudan a comprender la evolución de estrellas y galaxias.\n• La actividad será virtual, permitiendo acceso amplio a interesados en astronomía.\n• Se espera promover el conocimiento sobre la física que rige el universo.\n• Las charlas están diseñadas para fomentar el interés en la astrofísica y ciencia.\n• La transmisión estará disponible para amplificar la participación ciudadana.",
+      "bullets_20s": "• Se llevará a cabo el Jueves Astronómico #500 el 9 de abril a las 5:00 p.m.\n• La charla será sobre el hidrógeno neutro y su papel en el universo.\n• El Dr. Omar López Cruz del INAOE será el encargado de la exposición.\n• La charla busca fomentar el interés en astronomía y astrofísica.\n• Se abordará la evolución de las estrellas y las galaxias en la exposición.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/sonda-cosmologica-islas-deteccion-hidrogeno-neutro",
       "publish_date": "2026-04-08T19:11:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre cómo se mide el hidrógeno neutro en el universo.",
+      "teaser": "Lo clave en 20 segundos: Charla sobre hidrógeno neutro en el Jueves Astronómico #500.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dr-omar-lopez.jpg",
       "description": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "featured": false
@@ -11857,5 +11883,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-10T21:30:52.850Z"
+  "generated_at": "2026-04-10T22:30:53.064Z"
 }
