@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "diputados-aprueban-medida-genetica-para-identificar-criminales-en-costa-rica",
+      "title": "Diputados aprueban medida genética para identificar criminales en Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Congreso de Costa Rica avanza con reformas en el ámbito de la justicia penal.\n• La primera reforma busca implementar datos biométricos para incentivos en prisión.\n• La segunda reforma se enfoca en control a condenados por delitos sexuales.\n• La medida busca mejorar la seguridad ciudadana y reducir la reincidencia.\n• El uso de datos genéticos genera debate en la sociedad costarricense sobre ética.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/politica/diputados-aprueban-medida-genetica-para/4UUEV2EWDFGIDE5AWVRQXQ54DU/story/",
+      "publish_date": "2026-04-10T04:13:59.000Z",
+      "teaser": "Lo clave en 20 segundos: Reformas en Costa Rica utilizan genética para identificar criminales y reforzar la seguridad.",
+      "image_url": "https://www.nacion.com/resizer/v2/VDW4PYXD7BGGXKYAMDDQDN5WDM.jpg?auth=5a32e8d5d8bccfb6c2db97f0894585b09d5a1ec0b64e6ddc4980083a1a6abf04&smart=true&width=5760&height=3840",
+      "description": "El Congreso impulsa dos reformas: una exige datos biométricos para beneficios carcelarios y otra vigila a condenados por delitos sexuales.",
+      "featured": false
+    },
+    {
+      "slug": "jeaustin-campos-explota-y-anuncia-a-la-prensa-que-se-va-del-real-espana-pero-directiva-no-acepta-renuncia",
+      "title": "Jeaustin Campos explota y anuncia a la prensa que se va del Real España, pero directiva no acepta renuncia",
+      "category": "Mundo",
+      "bullets_20s": "• Jeaustin Campos anunció su renuncia al Real España en una declaración impactante a los medios.\n• El entrenador expresó su descontento con la directiva del club y sus decisiones recientes.\n• A pesar de su renuncia, la directiva del Real España no aceptó su salida del equipo.\n• Campos ha sido un protagonista importante en el fútbol hondureño en años recientes.\n• Las reacciones a sus declaraciones han sido diversas en la comunidad futbolística.",
+      "source_name": "Juan Diego Villarreal",
+      "source_url": "https://www.nacion.com/puro-deporte/jeaustin-campos-explota-y-anuncia-a-la-prensa-que/KVDSYAKQFFAO5K2Y6FK4T2Q2EU/story/",
+      "publish_date": "2026-04-10T03:59:44.000Z",
+      "teaser": "Lo clave en 20 segundos: Campos renuncia, pero la directiva del club no acepta su decisión.",
+      "image_url": "https://www.nacion.com/resizer/v2/NQOP43KDUJCQ7IHSZ4RPPXL24Q.jpg?auth=663c4136493c566285ffd77c804026bd503348378b1ac530fe23e42cd220eaac&smart=true&width=1048&height=590",
+      "description": "El entrenador Jeaustin Campos dio fuertes declaraciones contra la organización de fútbol hondureño, tras renunciar al Real España",
+      "featured": false
+    },
+    {
       "slug": "ministro-de-seguridad-sugiere-que-decomiso-de-cocaina-en-nicaragua-a-camion-que-salio-de-costa-rica-podria-ser-un-montaj",
       "title": "Ministro de Seguridad sugiere que decomiso de cocaína en Nicaragua, a camión que salió de Costa Rica, podría ser un montaje",
       "category": "Costa Rica",
-      "bullets_20s": "• Mario Zamora, Ministro de Seguridad, cuestiona el reciente decomiso de cocaína en Nicaragua.\n• El camión involucrado había salido desde Costa Rica, creando un debate sobre la seguridad.\n• Las autoridades nicaragüenses afirman que el decomiso es legítimo y cuidadoso.\n• Zamora plantea la posibilidad de que esto sea un montaje orquestado por otros intereses.\n• La relación entre Costa Rica y Nicaragua se vuelve más compleja con este incidente.",
+      "bullets_20s": "• El Ministro de Seguridad, Mario Zamora, plantea teorías sobre el decomiso de Nicaragua.\n• Nicaragua confiscó cocaína de un camión que supuestamente salió de Costa Rica.\n• Zamora considera la posibilidad de un montaje en el operativo nicaragüense.\n• El caso genera preocupación en las autoridades costarricenses y la población.\n• Análisis forenses podrían confirmar o desmentir las afirmaciones del ministro.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/sucesos/ministro-de-seguridad-sugiere-que-decomiso-de/7OGGWZY2UNAFDARZCSQZWA56VQ/story/",
       "publish_date": "2026-04-10T03:06:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Ministro cuestiona la autenticidad del decomiso de drogas en Nicaragua.",
+      "teaser": "Lo clave en 20 segundos: Ministro cuestiona el decomiso de cocaína en Nicaragua como posible montaje.",
       "image_url": "https://www.nacion.com/resizer/v2/RUKU2IMRKZF2BI5QGHJHQBHENA.JPG?auth=81521807603a1d168293621e06f37a3b0c406422e512dafc352916a7a9a9bf7e&smart=true&width=3000&height=2000",
       "description": "Mario Zamora sugirió que el decomiso de cocaína realizado por Nicaragua a un camión que cruzó Costa Rica podría tratarse de un montaje.",
       "featured": false
@@ -1044,11 +1070,11 @@
       "slug": "universidades-ganan-recurso-ante-la-sala-constitucional-de-costa-rica-por-fees-2025",
       "title": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "category": "Costa Rica",
-      "bullets_20s": "• La Sala Constitucional decidió a favor de las universidades en el recurso por el FEES 2025.\n• El 2% del FEES destinado a educación se considera esencial para las becas estudiantiles.\n• El fallo ordena al Ministerio de Hacienda ejecutar los fondos para las universidades inmediatamente.\n• Se cumplen demandas de CONARE en relación al giro de los recursos para educación superior.\n• El tribunal mencionó posibles sanciones penales por el incumplimiento de la resolución emitida.",
+      "bullets_20s": "• La Sala Constitucional se pronunció sobre el giro del 2% del FEES del 2025.\n• Este recurso favorece a las universidades públicas en Costa Rica y sus becas.\n• El acuerdo señala que el Tecnológico de Costa Rica recibirá el 20% del FEES.\n• El fallo requiere que el Ministerio de Hacienda actúe para evitar incumplimientos.\n• Se establecen sanciones penales por desacato a la resolución emitida.\n• El tribunal también condenó al Estado a pagar costas y daños derivados.\n• Las resoluciones contaron con votos salvados de algunos magistrados.\n• El expediente del caso está disponible en el Sistema de Consulta de la Sala.\n• Es un avance importante para la educación superior y la matrícula estudiantil.\n• El CONARE reafirma la necesidad de recursos para el sistema educativo.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/universidades-ganan-recurso-sala-constitucional-costa-rica-fees-2025",
       "publish_date": "2026-04-08T21:39:40.000Z",
-      "teaser": "Lo clave en 20 segundos: La Sala Constitucional otorga recurso por FEES, vital para universidades.",
+      "teaser": "Lo clave en 20 segundos: La Sala Constitucional asegura el FEES 2025 para universidades en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees_08_07_2025_paquesada-39.jpg.webp?itok=tdBGpgTP",
       "description": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "featured": false
@@ -1174,11 +1200,11 @@
       "slug": "la-sonda-cosmologica-de-las-islas-para-la-deteccion-de-hidrogeno-neutro",
       "title": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "category": "Ciencia",
-      "bullets_20s": "• Descubre cómo se estudia el hidrógeno neutro en el universo y su importancia científica.\n• La charla está a cargo del Dr. Omar López Cruz, especialista en astrofísica.\n• El evento es virtual y se proyectará en el auditorio del Edificio D3.\n• Se celebrará el jueves 9 de abril a las 5:00 p.m., entrada gratuita.\n• Este evento busca acercar al público general a la astronomía y la astrofísica.",
+      "bullets_20s": "• Se presentará una charla virtual sobre astronomía el 9 de abril a las 5:00 p. m.\n• El Dr. Omar López Cruz hablará sobre el hidrógeno neutro y el universo.\n• La charla busca acercar al público a la divulgación científica en astronomía.\n• Se explorarán las leyes físicas detrás de la evolución de estrellas y galaxias.\n• La actividad es parte de un esfuerzo por fomentar el interés en la astrofísica.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/sonda-cosmologica-islas-deteccion-hidrogeno-neutro",
       "publish_date": "2026-04-08T19:11:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Entérate de la charla sobre la sonda que estudia el hidrógeno neutro en el universo.",
+      "teaser": "Lo clave en 20 segundos: descubre el papel del hidrógeno neutro en el universo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dr-omar-lopez.jpg",
       "description": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "featured": false
@@ -11441,5 +11467,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-10T04:30:52.837Z"
+  "generated_at": "2026-04-10T05:30:52.755Z"
 }
