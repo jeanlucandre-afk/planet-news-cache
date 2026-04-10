@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "vientos-fuertes-y-lluvias-este-viernes-en-costa-rica-asi-estara-el-clima-por-region",
+      "title": "Vientos fuertes y lluvias este viernes en Costa Rica: así estará el clima por región",
+      "category": "Costa Rica",
+      "bullets_20s": "• El IMN pronostica vientos fuertes que podrán afectar varias regiones del país.\n• Se espera un aumento significativo de nubosidad a lo largo del día viernes.\n• Las lluvias serán intensas en áreas específicas, trayendo posibles tormentas.\n• Se recomienda tomar precauciones al conducir por condiciones climáticas adversas.\n• El clima se verá influenciado por sistemas tropicales en el océano Pacífico.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/sucesos/vientos-fuertes-y-lluvias-este-viernes-en-costa/7DQL7727R5AFBFOEQ7E3ZN4JDI/story/",
+      "publish_date": "2026-04-10T12:27:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Este viernes, vientos y lluvias intensas afectarán varias regiones del país.",
+      "image_url": "https://www.nacion.com/resizer/v2/V4LEOYBWGRFHVDAKW27SMQGWCY.JPG?auth=9563a05dcc8d75cef7c13ee950b510d5155b575e33fb8d472ee68d8bc806c8f0&smart=true&width=4000&height=2666",
+      "description": "El IMN advierte sobre un viernes con ráfagas intensas, aumento de nubosidad y lluvias en varias regiones. Conozca cuáles zonas tendrán tormentas y cómo evolucionará el clima durante el día.",
+      "featured": false
+    },
+    {
+      "slug": "editorial-ampliacion-de-carretera-a-san-ramon-tres-decadas-despues-no-podemos-bajar-la-guardia",
+      "title": "Editorial: Ampliación de carretera a San Ramón: tres décadas después, no podemos bajar la guardia",
+      "category": "Costa Rica",
+      "bullets_20s": "• La ampliación de la carretera a San Ramón es un tema crucial para la infraestructura del país.\n• La exclusión de este proyecto de los controles de contratación genera preocupaciones sobre la fiscalización.\n• Es importante recordar que la evasión de leyes ha traído consecuencias negativas en el pasado.\n• La sociedad debe mantenerse alerta ante decisiones que afecten la transparencia en la gestión pública.\n• Este proyecto representa una oportunidad para mejorar la conexión y la calidad de vida de los ciudadanos.",
+      "source_name": "La Nación",
+      "source_url": "https://www.nacion.com/opinion/editorial/editorial-ampliacion-de-carretera-a-san-ramon-tres/XCPAZDHSDVHNHHTVLNBMWNA7XM/story/",
+      "publish_date": "2026-04-10T12:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La ampliación de carretera a San Ramón enfrenta controversias por falta de fiscalización.",
+      "image_url": "https://www.nacion.com/resizer/v2/K4CCIE7IJRFVFCZ4OOS35B7MAU.JPG?auth=70adbad6ae336dae48594afb0dc37623b11d46864a63254d4e242e5917a0a926&smart=true&width=6000&height=4000",
+      "description": "Este urgente proyecto vial fue excluido, sin justificación técnica, de los controles que ordena la Ley de Contratación Pública, lo que impedirá a la Contraloría ejercer fiscalización previa en los contratos. Y hay razones para la inquietud: evadir esa ley ya le pasó una factura cara al país en 2024.",
+      "featured": false
+    },
+    {
+      "slug": "cortes-de-luz-en-zona-de-heredia-esph-suspendera-servicio-este-viernes",
+      "title": "Cortes de luz en zona de Heredia: ESPH suspenderá servicio este viernes",
+      "category": "Costa Rica",
+      "bullets_20s": "• La empresa ESPH informa sobre cortes programados de luz en la zona de Heredia.\n• Se espera que los trabajos afecten diferentes horarios y localidades específicas.\n• Los usuarios deben estar alertas sobre su situación particular el viernes.\n• Puede verificar si su servicio está incluido en los cortes programados.\n• Es importante planificar su día al conocer las interrupciones eléctricas.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-en-zona-de-heredia-esph-suspendera/POUFXDHMS5APZCQPSCGKRO7NRA/story/",
+      "publish_date": "2026-04-10T12:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: cortes de luz programados en Heredia por trabajos de mantenimiento este viernes.",
+      "image_url": "https://www.nacion.com/resizer/v2/7CCJZOMFU5H2JMBNNW3LP6GGPE.JPG?auth=f115b96502c8c71ce1c5f5096a00a6b16126100605412266a924f918d30df9b3&smart=true&width=5184&height=3456",
+      "description": "Usuarios enfrentarán suspensión eléctrica este viernes por trabajos programados. Conozca horarios, zonas afectadas y cómo verificar si su servicio estará incluido.",
+      "featured": false
+    },
+    {
       "slug": "conozca-los-10-bienes-y-servicios-que-mas-subieron-y-bajaron-de-precio-en-marzo",
       "title": "Conozca los 10 bienes y servicios que más subieron y bajaron de precio en marzo",
       "category": "Costa Rica",
@@ -794,19 +833,6 @@
       "featured": false
     },
     {
-      "slug": "cortes-de-luz-en-zona-de-heredia-esph-suspendera-servicio-este-viernes",
-      "title": "Cortes de luz en zona de Heredia: ESPH suspenderá servicio este viernes",
-      "category": "Costa Rica",
-      "bullets_20s": "• Este viernes se realizarán trabajos programados que afectarán el suministro eléctrico.\n• Las zonas impactadas por los cortes de luz serán notificadas con anticipación.\n• Los usuarios pueden verificar sus servicios a través de la página oficial de ESPH.\n• Es importante estar atentos a los horarios de corte para evitar contratiempos.\n• La suspensión del servicio es parte de un mantenimiento necesario en la red eléctrica.",
-      "source_name": "Silvia Ureña Corrales",
-      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-en-zona-de-heredia-esph-suspendera/POUFXDHMS5APZCQPSCGKRO7NRA/story/",
-      "publish_date": "2026-04-09T12:20:00.000Z",
-      "teaser": "Lo clave en 20 segundos: cortes programados de luz en zonas de Heredia este viernes por trabajos de mantenimiento.",
-      "image_url": "https://www.nacion.com/resizer/v2/7CCJZOMFU5H2JMBNNW3LP6GGPE.JPG?auth=f115b96502c8c71ce1c5f5096a00a6b16126100605412266a924f918d30df9b3&smart=true&width=5184&height=3456",
-      "description": "Usuarios enfrentarán suspensión eléctrica este viernes por trabajos programados. Conozca horarios, zonas afectadas y cómo verificar si su servicio estará incluido.",
-      "featured": false
-    },
-    {
       "slug": "asi-llega-el-conflicto-en-iran-a-su-casa",
       "title": "Así llega el conflicto en Irán a su casa",
       "category": "Mundo",
@@ -1096,11 +1122,11 @@
       "slug": "universidades-ganan-recurso-ante-la-sala-constitucional-de-costa-rica-por-fees-2025",
       "title": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "category": "Costa Rica",
-      "bullets_20s": "• La Sala Constitucional de Costa Rica dio lugar al amparo por el giro del FEES 2025.\n• El fallo busca garantizar el cumplimiento del financiamiento a universidades públicas.\n• Un 20% del 2% aprobado será destinado al Tecnológico de Costa Rica.\n• El incumplimiento puede llevar a sanciones penales a funcionarios del gobierno.\n• El Estado deberá pagar costas y daños por la situación generada.",
+      "bullets_20s": "• La Sala Constitucional falló a favor de universidades sobre el giro del FEES de 2025.\n• El recurso de amparo busca garantizar fondos para becas y matrícula de estudiantes.\n• Se estableció que el 20% del 2% del FEES irá al Tecnológico de Costa Rica.\n• El incumplimiento de la resolución podría acarrear sanciones penales a funcionarios.\n• La rectora María Estrada Sánchez destaca la importancia del fallo para el sistema educativo.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/universidades-ganan-recurso-sala-constitucional-costa-rica-fees-2025",
       "publish_date": "2026-04-08T21:39:40.000Z",
-      "teaser": "Lo clave en 20 segundos: La Sala ordena el cumplimiento del FEES para universidades públicas en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Universidades logran un fallo favorable por el FEES 2025.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees_08_07_2025_paquesada-39.jpg.webp?itok=tdBGpgTP",
       "description": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "featured": false
@@ -1226,11 +1252,11 @@
       "slug": "la-sonda-cosmologica-de-las-islas-para-la-deteccion-de-hidrogeno-neutro",
       "title": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "category": "Ciencia",
-      "bullets_20s": "• La charla se llevará a cabo el 9 de abril a las 5:00 p.m., en modalidad virtual.\n• El evento celebra el Jueves Astronómico número 500, destacando la importancia de la astronomía.\n• El Dr. Omar López Cruz abordará las mediciones de hidrógeno neutro en el universo.\n• Se busca acercar al público temas de divulgación científica sobre estrellas y galaxias.\n• Es un esfuerzo por fomentar el interés en la astronomía y la astrofísica entre la población.",
+      "bullets_20s": "• El Jueves Astronómico #500 se llevará a cabo el 9 de abril a las 5:00 p.m.\n• La charla se transmitirá de manera virtual y en el auditorio del Edificio D3.\n• Dr. Omar López Cruz del INAOE será el encargado de la exposición astronómica.\n• La charla se centrará en las mediciones del hidrógeno neutro en el cosmos.\n• Se busca acercar al público a la divulgación científica de manera entretenida.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/sonda-cosmologica-islas-deteccion-hidrogeno-neutro",
       "publish_date": "2026-04-08T19:11:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Charla sobre sonda cosmológica y hidrógeno neutro este 9 de abril.",
+      "teaser": "Lo clave en 20 segundos: La charla explora la cosmología y el hidrógeno neutro.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dr-omar-lopez.jpg",
       "description": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "featured": false
@@ -11493,5 +11519,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-10T12:30:52.823Z"
+  "generated_at": "2026-04-10T13:30:57.052Z"
 }
