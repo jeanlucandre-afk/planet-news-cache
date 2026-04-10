@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "un-chamaco-de-16-anos-de-san-carlos-al-botafogo-los-toros-del-norte-ya-saben-como-le-fue-a-su-joya",
+      "title": "¿Un ‘chamaco’ de 16 años de San Carlos al Botafogo? Los ‘Toros del Norte’ ya saben cómo le fue a su joya",
+      "category": "Costa Rica",
+      "bullets_20s": "• El joven talento de San Carlos ha sido elogiado por su desempeño en su equipo.\n• Botafogo de Brasil está interesado por la habilidad y potencial de este jugador.\n• La cantera de San Carlos sigue destacando en el fútbol nacional e internacional.\n• Los Toros del Norte buscan apoyar el crecimiento de sus jóvenes promesas.\n• Este movimiento podría abrir puertas para más jóvenes futbolistas ticos.",
+      "source_name": "Esteban Valverde",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/un-chamaco-de-16-anos-de-san-carlos-al-botafogo/EFD23FLXXBG5LEWF3M5EGZB7TE/story/",
+      "publish_date": "2026-04-10T00:25:32.000Z",
+      "teaser": "Lo clave en 20 segundos: San Carlos envía a joven promesa al Botafogo para mostrar su talento.",
+      "image_url": "https://www.nacion.com/resizer/v2/N7TOY2JCWZB33MNRZOCZ5UJAOE.jpeg?auth=10ed1eb955beda15f2bff50dc67fdc33a87fc13c2137160b6445be2403b7f780&smart=true&width=3821&height=2882",
+      "description": "San Carlos envió al Botafogo de Brasil a una promesa de su cantera para que pudiera mostrarse.",
+      "featured": false
+    },
+    {
+      "slug": "la-inflacion-no-es-baja-porque-el-banco-central-quiere-que-sea-baja-dice-presidente-del-bccr",
+      "title": "La inflación no es baja porque el Banco Central quiere que sea baja, dice presidente del BCCR",
+      "category": "Costa Rica",
+      "bullets_20s": "• Róger Madrigal, presidente del BCCR, comparte sus análisis sobre la inflación en Costa Rica.\n• La inflación ha estado fuera de la meta del Banco Central durante 35 meses consecutivos.\n• Madrigal advierte sobre los riesgos que esto podría representar para la credibilidad económica.\n• Se realizan comparaciones con otras economías para entender la situación nacional.\n• El BCCR implementa medidas para intentar controlar la situación inflacionaria actual.\n• Es importante para el país mantener la confianza de los inversionistas locales e internacionales.\n• La población atraviesa un periodo de incertidumbre debido a la inflación persistente.\n• Las políticas monetarias juegan un papel crucial en la gestión de la inflación en Costa Rica.",
+      "source_name": "Arianna Villalobos Solís",
+      "source_url": "https://www.nacion.com/economia/la-inflacion-no-es-baja-porque-el-banco-central/2VQQAXGO7FA3DFVAZF5P3H33XA/story/",
+      "publish_date": "2026-04-09T23:45:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Inflación en Costa Rica supera la meta por 35 meses, advierte BCCR.",
+      "image_url": "https://www.nacion.com/resizer/v2/2IPXA7AEFZDP5DTTIAQDLKCSKM.jpeg?auth=0e2d50c5da97cdedda26bdc710783a102bb00ec86628a49e1eea492b54631b3d&smart=true&width=2976&height=1984",
+      "description": "El presidente del BCCR, Róger Madrigal, analiza por qué la inflación en Costa Rica lleva 35 meses fuera de la meta y advierte sobre riesgos en la credibilidad.",
+      "featured": false
+    },
+    {
+      "slug": "ecuador-elevara-a-100-aranceles-a-importaciones-desde-colombia-en-medio-de-crisis-diplomatica",
+      "title": "Ecuador elevará a 100% aranceles a importaciones desde Colombia en medio de crisis diplomática",
+      "category": "Mundo",
+      "bullets_20s": "• Ecuador ha decidido incrementar aranceles a productos provenientes de Colombia a un 100%.\n• Esta medida se da en medio de una creciente tensión diplomática entre los dos países.\n• La crisis de seguridad fronteriza ha complicado las relaciones entre Ecuador y Colombia.\n• El presidente colombiano ha hecho declaraciones que han generado más fricciones diplomáticas.\n• Los aranceles podrían afectar el comercio entre ambas naciones de manera significativa.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/ecuador-elevara-a-100-aranceles-a-importaciones/UIZOXD6LTZEE3KTJJFI5VFGUXE/story/",
+      "publish_date": "2026-04-09T23:43:10.000Z",
+      "teaser": "Lo clave en 20 segundos: Ecuador sube aranceles ante crisis con Colombia.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZSAVSK6KA5HNHOPKJR32MGBUF4.jpg?auth=24b166e6833e0a6ed6defd3203a220ed0a90cd578215fae9fff3a1696868928e&smart=true&width=1200&height=686",
+      "description": "El aumento de aranceles se suma a la crisis por seguridad fronteriza y declaraciones del presidente colombiano Gustavo Petro",
+      "featured": false
+    },
+    {
       "slug": "precio-del-petroleo-modera-su-alza-y-espera-que-continue-el-cese-el-fuego",
       "title": "Precio del petróleo modera su alza, y espera que continúe el cese el fuego",
       "category": "Mundo",
@@ -888,11 +927,11 @@
       "slug": "universidades-ganan-recurso-ante-la-sala-constitucional-de-costa-rica-por-fees-2025",
       "title": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "category": "Costa Rica",
-      "bullets_20s": "• La Sala Constitucional de Costa Rica falló a favor del FEES para el año 2025.\n• El giro del FEES es crucial para las becas y el crecimiento de la matrícula.\n• El 20% del FEES será destinado al Tecnológico de Costa Rica.\n• Se impone al Ministerio de Hacienda coordinar el giro de recursos necesarios.\n• El desacato a la orden judicial podría resultar en sanciones penales.",
+      "bullets_20s": "• La Sala Constitucional de Costa Rica aclara el giro pendiente del Fondo Especial para la Educación Superior.\n• Resolución beneficia a universidades públicas y asegura el mantenimiento de becas estudiantiles esenciales.\n• Un 20% del FEES correspondiente a 2025 será destinado al Tecnológico de Costa Rica.\n• El desacato a la resolución podría conducir a sanciones penales, según la Ley de la Jurisdicción Constitucional.\n• La rectoría del Tecnológico destaca la importancia de saldar deudas históricas con este financiamiento.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/universidades-ganan-recurso-sala-constitucional-costa-rica-fees-2025",
       "publish_date": "2026-04-08T21:39:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Universidades obtienen respaldo de la Sala Constitucional por el FEES 2025.",
+      "teaser": "Lo clave en 20 segundos: La Sala Constitucional asegura el FEES para universidades tras un recurso exitoso.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees_08_07_2025_paquesada-39.jpg.webp?itok=tdBGpgTP",
       "description": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "featured": false
@@ -1018,11 +1057,11 @@
       "slug": "la-sonda-cosmologica-de-las-islas-para-la-deteccion-de-hidrogeno-neutro",
       "title": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "category": "Ciencia",
-      "bullets_20s": "• El Jueves Astronómico #500 se realizará el 9 de abril a las 5:00 p.m. en modalidad virtual.\n• El Dr. Omar López Cruz del INAOE hablará sobre el hidrógeno neutro y su importancia.\n• La charla busca acercar al público a temas de evolución de estrellas y galaxias.\n• Se explicarán cómo funcionan y evolucionan las estrellas utilizando leyes de la física.\n• El evento promueve el interés en la astronomía y la astrofísica entre la población.",
+      "bullets_20s": "• El Jueves Astronómico #500 se celebrará el 9 de abril a las 5:00 p.m.\n• La charla será virtual y se transmitirá desde el auditorio D3.\n• El Dr. Omar López Cruz compartirá su experiencia en astrofísica.\n• Se abordará el hidrógeno neutro en la comprensión del universo.\n• La actividad busca fomentar el interés en la astronomía y astrofísica.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/sonda-cosmologica-islas-deteccion-hidrogeno-neutro",
       "publish_date": "2026-04-08T19:11:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Se analizará el hidrógeno neutro y su rol en la comprensión del universo.",
+      "teaser": "Lo clave en 20 segundos: Se presentará una charla sobre detección de hidrógeno neutro en las islas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dr-omar-lopez.jpg",
       "description": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "featured": false
@@ -11285,5 +11324,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-10T00:30:52.876Z"
+  "generated_at": "2026-04-10T01:30:52.763Z"
 }
