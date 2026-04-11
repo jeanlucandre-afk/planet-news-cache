@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "tabla-de-posiciones-del-torneo-clausura-2026-asi-marcha-el-futbol-en-costa-rica-en-la-jornada-15",
+      "title": "Tabla de posiciones del Torneo Clausura 2026: así marcha el fútbol en Costa Rica en la jornada 15",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Torneo Clausura 2026 ha alcanzado su jornada 15 con gran competitividad.\n• Equipos han mostrado un rendimiento variable durante las primeras semanas del torneo.\n• La afición espera con ansias resultados decisivos que determinen posiciones clave.\n• Las estadísticas hasta ahora reflejan el esfuerzo de cada equipo en la temporada.\n• Diversas tácticas han sido implementadas por los entrenadores en este torneo.",
+      "source_name": "Fanny Tayver Marín",
+      "source_url": "https://www.nacion.com/puro-deporte/tabla-de-posiciones-del-torneo-clausura-2026-asi/TE6EAM3NDVFRXHMC66M7P6CX3M/story/",
+      "publish_date": "2026-04-11T04:24:28.000Z",
+      "teaser": "Lo clave en 20 segundos: el fútbol costarricense se encuentra en su jornada 15 del Clausura 2026.",
+      "image_url": "https://www.nacion.com/resizer/v2/OZPE5WFWGNGOVGBJFZPQLSOY5M.jpg?auth=19711bc619420ddff9ab38221a26518f7a6ed6898010f978dfa72794a0733851&smart=true&width=3600&height=2400",
+      "description": "Vea cómo se encuentra la tabla de posiciones y la acumulada a esta altura en el Torneo de Clausura 2026.",
+      "featured": false
+    },
+    {
+      "slug": "defensoria-celebra-plan-de-diputados-para-descongelar-pensiones-del-magisterio-nacional",
+      "title": "Defensoría celebra plan de diputados para descongelar pensiones del Magisterio Nacional",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Defensoría reconoce avances en la ley para beneficiar a los docentes del país.\n• El plan busca desbloquear fondos destinados a pensiones del Magisterio Nacional.\n• La legislación podría mejorar la situación financiera de muchos educadores.\n• El Régimen Transitorio de Reparto es crítico para la sustentabilidad de las pensiones.\n• La celebración enfatiza la importancia de proteger los derechos de los trabajadores.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/politica/defensoria-celebra-plan-de-diputados-para/QHVSGQKQTVFX5LD7WI2LGXMKFE/story/",
+      "publish_date": "2026-04-11T03:41:41.000Z",
+      "teaser": "Lo clave en 20 segundos: Defensoría aplaude avance para descongelar pensiones docentes en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/XTY7JMCWTJH35BSCHO5IZPSL7Y.jpg?auth=3f8b38b8a1825f9b5223cf803fcb211e518b7ac00eaaecd3d25fd87d042750bd&smart=true&width=5128&height=3108",
+      "description": "La Defensoría de los Habitantes celebra el avance legislativo para descongelar pensiones del Régimen Transitorio de Reparto del Magisterio Nacional.",
+      "featured": false
+    },
+    {
       "slug": "seleccion-de-costa-rica-impone-record-con-goleada-mas-abultada-de-su-historia",
       "title": "Selección de Costa Rica impone récord con goleada más abultada de su historia",
       "category": "Costa Rica",
@@ -1457,19 +1483,6 @@
       "featured": false
     },
     {
-      "slug": "asamblea-legislativa-rinde-homenaje-al-tec-por-su-legado-y-proyeccion-internacional",
-      "title": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
-      "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebra su 55 aniversario con un homenaje en la Asamblea Legislativa.\n• Las autoridades resaltaron la importancia del TEC en el desarrollo del talento humano en el país.\n• El evento contó con la participación de representantes académicos y diplomáticos en un acto solemne.\n• Se entregó un reconocimiento oficial al TEC por su impacto en la educación y la tecnología.\n• La rectora del TEC afirmó que la institución es una promesa cumplida para el futuro del país.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/asamblea-legislativa-rinde-homenaje-tec-su-legado-proyeccion-internacional",
-      "publish_date": "2026-04-09T04:44:24.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC recibió un homenaje por su impacto en Costa Rica y el desarrollo humano.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/homenaje-asamblea-legislativa_tec-55-aniversario_rgarita-3-2.jpg.webp?itok=vf7tXJb_",
-      "description": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
-      "featured": false
-    },
-    {
       "slug": "dos-pinos-realizara-feria-de-empleo-en-san-jose-vea-aqui-los-puestos-disponibles",
       "title": "Dos Pinos realizará feria de empleo en San José: vea aquí los puestos disponibles",
       "category": "Costa Rica",
@@ -1613,6 +1626,19 @@
       "featured": false
     },
     {
+      "slug": "asamblea-legislativa-rinde-homenaje-al-tec-por-su-legado-y-proyeccion-internacional",
+      "title": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
+      "category": "Costa Rica",
+      "bullets_20s": "• Conmemoración del 55 aniversario del TEC destaca su impacto en el desarrollo del país.\n• Asamblea Legislativa reconoce el compromiso del TEC con equidad e inclusión en educación.\n• Autoridades destacan el papel del TEC en la formación de talento humano en Costa Rica.\n• Rectora del TEC reafirma el compromiso institucional con el desarrollo del país.\n• El TEC cuenta con una amplia oferta académica, incluyendo programas de grado y posgrados.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/asamblea-legislativa-rinde-homenaje-tec-su-legado-proyeccion-internacional",
+      "publish_date": "2026-04-09T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Reconocimiento al TEC por sus 55 años de impacto educativo y social.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/homenaje-asamblea-legislativa_tec-55-aniversario_rgarita-3-2.jpg.webp?itok=vf7tXJb_",
+      "description": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
+      "featured": false
+    },
+    {
       "slug": "adios-al-numero-de-telefono-en-whatsapp-la-app-permitira-chatear-sin-compartir-su-contacto-personal",
       "title": "Adiós al número de teléfono en WhatsApp: la app permitirá chatear sin compartir su contacto personal",
       "category": "Tecnología",
@@ -1720,11 +1746,11 @@
       "slug": "universidades-ganan-recurso-ante-la-sala-constitucional-de-costa-rica-por-fees-2025",
       "title": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "category": "Costa Rica",
-      "bullets_20s": "• El fallo de la Sala Constitucional a favor del FEES impacta la educación superior en Costa Rica.\n• Se garantiza el flujo de recursos necesarios para el crecimiento de la matrícula estudiantil.\n• El 20% del FEES 2025 está destinado al Tecnológico de Costa Rica, según el acuerdo establecido.\n• La resolución advierte sobre sanciones penales si no se cumplen ordenamientos dados por el tribunal.\n• El Estado deberá pagar costas y daños por los incumplimientos previos relacionados al FEES.",
+      "bullets_20s": "• La Sala Constitucional resolvió a favor de las universidades respecto al giro del FEES para 2025.\n• Este giro del FEES es crucial para mantener becas y atender el crecimiento de la matrícula.\n• El 2% del FEES de 2025 incluye un 20% para el Tecnológico de Costa Rica, según CONARE.\n• El fallo obliga al Ministerio de Hacienda a garantizar el cumplimiento de estos recursos.\n• Las sanciones pueden incluir penas de prisión y multas por desacato a la resolución.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/universidades-ganan-recurso-sala-constitucional-costa-rica-fees-2025",
       "publish_date": "2026-04-08T21:39:40.000Z",
-      "teaser": "Lo clave en 20 segundos: La Sala Constitucional falla a favor del financiamiento universitario en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La Sala Constitucional respalda a universidades por el giro del FEES 2025.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees_08_07_2025_paquesada-39.jpg.webp?itok=tdBGpgTP",
       "description": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "featured": false
@@ -1837,11 +1863,11 @@
       "slug": "estudiantes-del-tec-fortalecen-redes-de-apoyo-en-stem",
       "title": "Estudiantes del TEC fortalecen redes de apoyo en STEM",
       "category": "Costa Rica",
-      "bullets_20s": "• Mujeres estudiantes del TEC se reúnen para fortalecer la comunidad en áreas STEM.\n• Se buscó promover el desarrollo en carreras de Ciencia, Tecnología e Ingeniería.\n• El encuentro incluyó egresadas de Organizaciones No Gubernamentales sin fines de lucro.\n• Organizaciones como Mente en acción y Rocket Girls participaron en la iniciativa.\n• El evento se llevó a cabo el 7 de abril en el aula de PAMTEC.",
+      "bullets_20s": "• Estudiantes del TEC se unen para colaborar y generar apoyo en áreas STEM.\n• La actividad reunió a mujeres del TEC y egresadas de organizaciones enfocadas en STEM.\n• Buscan promover un sentido de comunidad entre mujeres en carreras técnicas.\n• Mente en acción ofrece becas y cursos en STEM a mujeres jóvenes en Costa Rica.\n• Rocket Girls contribuye a cerrar la brecha de género en ciencia y tecnología.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/estudiantes-tec-fortalecen-redes-apoyo-stem",
       "publish_date": "2026-04-08T19:37:01.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC crean redes para fortalecer la comunidad en STEM.",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC fortalecen lazos en STEM.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/encuentro-egresadas-mente-accion-rocket-girls-tec-cartago-2026_gcastillo-7.jpg.webp?itok=zKMdzjl_",
       "description": "Estudiantes del TEC fortalecen redes de apoyo en STEM",
       "featured": false
@@ -1863,11 +1889,11 @@
       "slug": "la-sonda-cosmologica-de-las-islas-para-la-deteccion-de-hidrogeno-neutro",
       "title": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "category": "Ciencia",
-      "bullets_20s": "• El Jueves Astronómico #500 se realizará el 9 de abril a las 5:00 p.m.\n• La charla será virtual y se podrá seguir desde el Auditorio del Edificio D3.\n• Dr. Omar López Cruz, del INAOE, presentará sobre hidrógeno neutro y el universo.\n• Se abordarán tema sobre la evolución de estrellas y galaxias en la charla.\n• El evento busca fomentar el interés en astronomía y astrofísica en la población.",
+      "bullets_20s": "• La charla se llevará a cabo el jueves 9 de abril a las 5:00 p. m.\n• Se presenta en modalidad virtual con proyección en el Edificio D3.\n• Dr. Omar López Cruz dirigirá la exposición sobre el hidrógeno neutro.\n• El foco está en la evolución de estrellas y galaxias en el universo.\n• Se busca acercar a la población a temas de divulgación científica.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/sonda-cosmologica-islas-deteccion-hidrogeno-neutro",
       "publish_date": "2026-04-08T19:11:17.000Z",
-      "teaser": "Lo clave en 20 segundos: descubre cómo el hidrógeno neutro nos ayuda a entender el universo.",
+      "teaser": "Lo clave en 20 segundos: Charla sobre la sonda cosmológica y el hidrógeno neutro.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dr-omar-lopez.jpg",
       "description": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "featured": false
@@ -12117,5 +12143,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-11T04:30:51.760Z"
+  "generated_at": "2026-04-11T05:30:51.623Z"
 }
