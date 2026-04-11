@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "sumergido-en-un-sueno-el-momento-que-franklin-chang-diaz-no-ha-podido-olvidar-de-sus-siete-misiones-al-espacio",
+      "title": "Sumergido en un sueño: el momento que Franklin Chang-Díaz no ha podido olvidar de sus siete misiones al espacio",
+      "category": "Costa Rica",
+      "bullets_20s": "• Franklin Chang-Díaz es un símbolo de la exploración espacial en Costa Rica. Su legado perdura con cada misión.\n• Las misiones de Chang-Díaz han contribuido a la ciencia espacial y a la investigación sobre el universo.\n• Recordar momentos del espacio genera una conexión profunda entre las experiencias humanas y tecnológicas.\n• La perseverancia de Franklin ha inspirado a generaciones de costarricenses a seguir sus sueños en ciencia.\n• El astronauta comparte anécdotas que muestran la belleza y los desafíos del espacio exterior para la humanidad.",
+      "source_name": "Juan Fernando Lara Salas",
+      "source_url": "https://www.nacion.com/el-pais/sumergido-en-un-sueno-el-momento-que-franklin/MHSHLIOURVE7RKEXQDPJ6BCALY/story/",
+      "publish_date": "2026-04-11T07:51:47.000Z",
+      "teaser": "Lo clave en 20 segundos: Franklin Chang-Díaz rememora un momento inolvidable de sus viajes espaciales.",
+      "image_url": "https://www.nacion.com/resizer/v2/CBZIVKHDRRFKXI5XBWOWFEBTB4.jpeg?auth=5727786ce525795e7cdc646226663b12270685d6bd3f28eca8e603cb714dee8d&smart=true&width=1041&height=688",
+      "description": "El astronauta costarricense Franklin Chang-Díaz guarda una imagen como la más profunda vivida a lo largo de todos sus viajes al espacio exterior.",
+      "featured": false
+    },
+    {
       "slug": "periodista-fabian-borbon-vivio-mucha-angustia-en-los-ultimos-dias-esto-paso",
       "title": "Periodista Fabián Borbón vivió mucha angustia en los últimos días: esto pasó",
       "category": "Mundo",
-      "bullets_20s": "• Fabián Borbón enfrenta una situación difícil y ha compartido su angustia con el público.\n• Su reciente experiencia lo llevó a momentos de profunda reflexión sobre la vida.\n• El periodista agradece el apoyo que ha recibido durante estos días complicados.\n• Esta situación ha resonado con muchos de sus seguidores y colegas en el medio.\n• Refleja cómo situaciones difíciles pueden llevar a momentos de gratitud y aprendizaje.",
+      "bullets_20s": "• Fabián Borbón compartió detalles sobre una experiencia complicada en su vida reciente.\n• El periodista realizó una profunda reflexión sobre la situación que vivió.\n• Agradeció a las personas que lo apoyaron durante estos momentos difíciles.\n• La angustia vivida le permitió reevaluar su perspectiva de vida y su carrera.\n• Borbon invitó a sus seguidores a valorar cada momento y sus relaciones personales.",
       "source_name": "Fanny Tayver Marín",
       "source_url": "https://www.nacion.com/puro-deporte/periodista-fabian-borbon-vivio-mucha-angustia-en/4HMK7VCGI5DMZOQLUYCPDFZGDE/story/",
       "publish_date": "2026-04-11T04:49:19.000Z",
-      "teaser": "Lo clave en 20 segundos: El periodista Fabián Borbón comparte su angustia y reflexiones tras una difícil experiencia.",
+      "teaser": "Lo clave en 20 segundos: Fabián Borbón reflexiona sobre su angustiosa experiencia reciente.",
       "image_url": "https://www.nacion.com/resizer/v2/ZG4XMMRMJRBYVDRC4UP4UB56HI.jpg?auth=49b3e52dfff0e0f7e4a3e21d80d25fbe0d9c68ed6ae8bab49bc5aff2f720a862&smart=true&width=1080&height=608",
       "description": "El propio Fabián Borbón dio a conocer una situación complicada que lo llevó a reflexionar y agradecer.",
       "featured": false
@@ -17,11 +30,11 @@
       "slug": "tabla-de-posiciones-del-torneo-clausura-2026-asi-marcha-el-futbol-en-costa-rica-en-la-jornada-15",
       "title": "Tabla de posiciones del Torneo Clausura 2026: así marcha el fútbol en Costa Rica en la jornada 15",
       "category": "Costa Rica",
-      "bullets_20s": "• La jornada 15 del Torneo Clausura 2026 está llena de emociones y sorpresas para los aficionados.\n• Los equipos luchan por posicionarse mejor en la tabla acumulada del campeonato nacional.\n• La competencia está reñida, con varios equipos en la búsqueda del primer lugar.\n• Los resultados de esta jornada podrían definir el futuro de muchos clubes en el torneo.\n• Los aficionados esperan con ansias las jornadas restantes del Clausura 2026.",
+      "bullets_20s": "• El Torneo Clausura 2026 ha estado lleno de sorpresas y emociones en cada jornada.\n• Los equipos luchan por posiciones clave en la tabla, vitales para la siguiente fase.\n• Los aficionados siguen de cerca las actuaciones de sus equipos favoritos semana a semana.\n• La competitividad entre clubes ha aumentado, elevando el nivel del fútbol costarricense.\n• Cada victoria y derrota impacta la estrategia de los entrenadores y jugadores.",
       "source_name": "Fanny Tayver Marín",
       "source_url": "https://www.nacion.com/puro-deporte/tabla-de-posiciones-del-torneo-clausura-2026-asi/TE6EAM3NDVFRXHMC66M7P6CX3M/story/",
       "publish_date": "2026-04-11T04:24:28.000Z",
-      "teaser": "Lo clave en 20 segundos: seguimiento de la jornada 15 en el Torneo Clausura 2026.",
+      "teaser": "Lo clave en 20 segundos: El fútbol costarricense avanza en la jornada 15 del Torneo Clausura 2026.",
       "image_url": "https://www.nacion.com/resizer/v2/OZPE5WFWGNGOVGBJFZPQLSOY5M.jpg?auth=19711bc619420ddff9ab38221a26518f7a6ed6898010f978dfa72794a0733851&smart=true&width=3600&height=2400",
       "description": "Vea cómo se encuentra la tabla de posiciones y la acumulada a esta altura en el Torneo de Clausura 2026.",
       "featured": false
@@ -115,19 +128,6 @@
       "teaser": "Lo clave en 20 segundos: Costa Rica casi obtiene su oro en el Centroamericano de Ciclismo juvenil.",
       "image_url": "https://www.nacion.com/resizer/v2/OUT7CQNU3NH3TH7CQ333BO2ZXU.JPG?auth=62e5b50a4edd64369a305d9ac566ccf6beac2d7d453e657cbc8f78fbf1efe3a4&smart=true&width=4000&height=2666",
       "description": "Las pruebas de fondo de la categoría juvenil masculino y femenino se disputaron este viernes en el Centroamericano de Ciclismo.",
-      "featured": false
-    },
-    {
-      "slug": "sumergido-en-un-sueno-el-momento-que-franklin-chang-diaz-no-ha-podido-olvidar-de-sus-siete-misiones-al-espacio",
-      "title": "Sumergido en un sueño: el momento que Franklin Chang-Díaz no ha podido olvidar de sus siete misiones al espacio",
-      "category": "Costa Rica",
-      "bullets_20s": "• Franklin Chang-Díaz es un destacado astronauta originario de Costa Rica y figura emblemática.\n• Sus misiones al espacio han dejado una huella poderosa en la ciencia y tecnología.\n• El momento más profundo de su experiencia espacial fue emocional y reflexivo.\n• Chang-Díaz ha compartido sus enseñanzas sobre exploración y perseverancia.\n• Su legado inspira a nuevas generaciones en la carrera espacial y en ciencia.",
-      "source_name": "Juan Fernando Lara Salas",
-      "source_url": "https://www.nacion.com/el-pais/sumergido-en-un-sueno-el-momento-que-franklin/MHSHLIOURVE7RKEXQDPJ6BCALY/story/",
-      "publish_date": "2026-04-11T00:24:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Franklin Chang-Díaz comparte el momento más significativo de sus misiones espaciales.",
-      "image_url": "https://www.nacion.com/resizer/v2/CBZIVKHDRRFKXI5XBWOWFEBTB4.jpeg?auth=5727786ce525795e7cdc646226663b12270685d6bd3f28eca8e603cb714dee8d&smart=true&width=1041&height=688",
-      "description": "El astronauta costarricense Franklin Chang-Díaz guarda una imagen como la más profunda vivida a lo largo de todos sus viajes al espacio exterior.",
       "featured": false
     },
     {
@@ -1499,11 +1499,11 @@
       "slug": "asamblea-legislativa-rinde-homenaje-al-tec-por-su-legado-y-proyeccion-internacional",
       "title": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Asamblea Legislativa reconoció el impacto del TEC en el desarrollo educativo y productivo del país.\n• El homenaje marcó el 55 aniversario de fundación del Tecnológico de Costa Rica.\n• Autoridades, diplomáticos y estudiantes resaltaron el papel clave del TEC en la educación superior.\n• La diputada Rosaura Méndez destacó la formación integral que ofrece el TEC a sus estudiantes.\n• La rectora María Estrada reafirmó el compromiso del TEC con el futuro de Costa Rica.\n• Se presentó la evolución académica del TEC, que ahora ofrece 23 programas de grado.\n• El evento incluyó actuaciones culturales de la agrupación folclórica del TEC.",
+      "bullets_20s": "• La Asamblea Legislativa celebró los 55 años del Tecnológico de Costa Rica en un evento solemne inolvidable.\n• La rectora del TEC reafirmó su compromiso con el desarrollo y la formación de profesionales amantes de la ciencia.\n• La ceremonia incluyó reconocimientos a la importante labor del TEC en la inclusión y el talento humano.\n• El TEC ha evolucionado de tres carreras a 23 programas de grado, destacándose en educación y tecnología.\n• La agrupación folclórica Tierra y Cosecha resaltó la cultura costarricense durante el homenaje institucional.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/asamblea-legislativa-rinde-homenaje-tec-su-legado-proyeccion-internacional",
       "publish_date": "2026-04-09T04:44:24.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC fue homenajeado en su 55 aniversario por su impacto en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La Asamblea Legislativa celebra el 55 aniversario del TEC reconociendo su impacto nacional e internacional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/homenaje-asamblea-legislativa_tec-55-aniversario_rgarita-3-2.jpg.webp?itok=vf7tXJb_",
       "description": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
       "featured": false
@@ -1759,11 +1759,11 @@
       "slug": "universidades-ganan-recurso-ante-la-sala-constitucional-de-costa-rica-por-fees-2025",
       "title": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "category": "Costa Rica",
-      "bullets_20s": "• La Sala Constitucional de Costa Rica falló a favor de un recurso de amparo por el FEES 2025.\n• El 2% adicional del FEES es clave para sostenimiento de becas y matrícula universitaria.\n• El fallo ordena al Ministerio de Hacienda garantizar la disposición de los fondos necesarios.\n• El Tecnológico de Costa Rica recibirá el 20% de este 2% del FEES según el acuerdo con CONARE.\n• La resolución también impone sanciones por desacato a las autoridades encargadas del cumplimiento.",
+      "bullets_20s": "• La Sala Constitucional de Costa Rica aprobó un recurso de amparo relacionado con el FEES 2025.\n• El fallo ordena al ministro de Hacienda garantizar el giro de fondos a universidades.\n• El FEES es crucial para mantener becas estudiantiles y el crecimiento en matrícula.\n• La decisión busca evitar incumplimientos futuros en el financiamiento de la educación.\n• Se advirtió sobre sanciones penales para quienes no cumplan con la resolución.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/universidades-ganan-recurso-sala-constitucional-costa-rica-fees-2025",
       "publish_date": "2026-04-08T21:39:40.000Z",
-      "teaser": "Lo clave en 20 segundos: La Sala Constitucional otorga amparo para asegurar fondos educativos en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Universidades obtienen fallo que garantiza recursos para la educación superior en 2025.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees_08_07_2025_paquesada-39.jpg.webp?itok=tdBGpgTP",
       "description": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "featured": false
@@ -1876,11 +1876,11 @@
       "slug": "estudiantes-del-tec-fortalecen-redes-de-apoyo-en-stem",
       "title": "Estudiantes del TEC fortalecen redes de apoyo en STEM",
       "category": "Costa Rica",
-      "bullets_20s": "• La actividad reunió a mujeres estudiantes y egresadas de programas STEM del TEC.\n• Se buscó fortalecer el sentido de comunidad y apoyo entre las participantes.\n• Mente en acción ofrece becas y formación en STEM para mujeres jóvenes.\n• Rocket Girls promueve la educación técnica y mentorías en STEAM.\n• Ambas organizaciones han impactado a miles de mujeres en Costa Rica.",
+      "bullets_20s": "• Mujeres del TEC se reúnen para fortalecer redes de apoyo en STEM.\n• Organizaciones como Mente en acción impulsan la educación STEM entre mujeres.\n• Se busca promover la permanencia de mujeres en carreras técnicas.\n• El encuentro fue parte de una iniciativa de la FEITEC.\n• Rocket Girls colabora ofreciendo mentorías a estudiantes de STEM.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/estudiantes-tec-fortalecen-redes-apoyo-stem",
       "publish_date": "2026-04-08T19:37:01.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC se unen para fortalecer redes de apoyo en STEM.",
+      "teaser": "Lo clave en 20 segundos: Mujeres del TEC crean redes de apoyo en STEM.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/encuentro-egresadas-mente-accion-rocket-girls-tec-cartago-2026_gcastillo-7.jpg.webp?itok=zKMdzjl_",
       "description": "Estudiantes del TEC fortalecen redes de apoyo en STEM",
       "featured": false
@@ -1902,11 +1902,11 @@
       "slug": "la-sonda-cosmologica-de-las-islas-para-la-deteccion-de-hidrogeno-neutro",
       "title": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "category": "Ciencia",
-      "bullets_20s": "• El Jueves Astronómico #500 se llevará a cabo el 9 de abril a las 5:00 p.m.\n• La charla tratará sobre la detección de hidrógeno neutro y su importancia en astrofísica.\n• El Dr. Omar López Cruz, investigador mexicano, será el ponente principal de la charla.\n• Se busca acercar al público a la divulgación científica sobre estrellas y galaxias.\n• Se explicará cómo funcionan y evolucionan las estrellas según leyes de la física.",
+      "bullets_20s": "• El Jueves Astronómico #500 se llevará a cabo virtualmente el 9 de abril.\n• La charla será impartida por el Dr. Omar López Cruz del INAOE de México.\n• Se abordará el papel del hidrógeno neutro en la comprensión del universo.\n• La actividad busca acercar al público a la divulgación científica en astrofísica.\n• Se explicará cómo funcionan y evolucionan las estrellas y las galaxias.\n• Es una iniciativa para fomentar el interés en astronomía entre la población.\n• Se podrá seguir la transmisión por el enlace proporcionado por AstroTEC.\n• Este evento es gratuito y accesible para todos los interesados.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/sonda-cosmologica-islas-deteccion-hidrogeno-neutro",
       "publish_date": "2026-04-08T19:11:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Charlas sobre el hidrógeno neutro y la evolución del universo.",
+      "teaser": "Lo clave en 20 segundos: Charla sobre hidrógeno neutro y su rol en la astrofísica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dr-omar-lopez.jpg",
       "description": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "featured": false
@@ -12156,5 +12156,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-11T08:30:51.369Z"
+  "generated_at": "2026-04-11T09:30:51.646Z"
 }
