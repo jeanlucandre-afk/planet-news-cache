@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "el-caos-epico-de-donald-trump",
+      "title": "El caos épico de Donald Trump",
+      "category": "Mundo",
+      "bullets_20s": "• Donald Trump, una figura controvertida en la política estadounidense, genera opiniones divididas.\n• Los comentarios de Trump a menudo llaman la atención, provocando reacciones fuertes en el público.\n• Su estilo de liderazgo se caracteriza por ser errático y emocional, generando caos político.\n• Las decisiones de Trump a menudo afectan tanto la política nacional como internacional.\n• El análisis sobre su retórica revela un estilo cómico y provocador que desconcierta.\n• Las relaciones que mantiene con asesores reflejan dinámicas complejas y tensas en su administración.\n• El impacto de sus acciones trasciende fronteras, afectando la imagen de Estados Unidos.\n• Reacciones internacionales varían desde el apoyo hasta la condena, creando tensiones diplomáticas.\n• Las prácticas de comunicación de Trump son un campo de estudio fascinante para analistas políticos.",
+      "source_name": "Gina Montaner",
+      "source_url": "https://www.nacion.com/opinion/columnistas/el-caos-epico-de-donald-trump/PROIEKFYE5GG7CLPMEEDU64JFA/story/",
+      "publish_date": "2026-04-11T01:21:19.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump genera caos político con su estilo errático y comentarios provocadores.",
+      "image_url": "https://www.nacion.com/resizer/v2/B36GLILGXRFH3EW3RKC7G2CD7Q.jpg?auth=0a38caa29babe0f6413e94a094975065d80edc4f1c8d2eccd0a080b2bc49640e&smart=true&width=4000&height=2668",
+      "description": "Trump oscila entre frases de cómic que prometen 'aniquilar a una civilización entera' y treguas definitivas que solo él imagina desde un Despacho Oval donde sus más allegados asienten o enmudecen frente a su errático líder.",
+      "featured": false
+    },
+    {
+      "slug": "fiscalia-revisara-15-celulares-por-el-caso-upad-incluido-lo-decomisado-a-carlos-alvarado",
+      "title": "Fiscalía revisará 15 celulares por el caso UPAD, incluido lo decomisado a Carlos Alvarado",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Fiscalía está llevando a cabo una revisión exhaustiva de 15 dispositivos móviles relacionados con el caso UPAD.\n• Uno de los teléfonos pertenecía al expresidente Carlos Alvarado, en medio de la investigación en curso.\n• El caso UPAD investiga supuestas violaciones de la privacidad de datos personales de ciudadanos.\n• Esta acción forma parte de un esfuerzo mayor por esclarecer las irregularidades en el manejo de datos.\n• Se espera que los resultados de la revisión aporten información crucial para la investigación judicial.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/fiscalia-revisara-15-celulares-por-el-caso-upad/PHDO73TBJVHPVMOMOGCZU7FESE/story/",
+      "publish_date": "2026-04-11T01:21:18.000Z",
+      "teaser": "Lo clave en 20 segundos: Fiscalía revisa celulares en caso de violación de datos privados del expresidente Alvarado.",
+      "image_url": "https://www.nacion.com/resizer/v2/KOIDE3FSTRBXTO5A3IQOYRGW6I.jpg?auth=f508c7c8062632c2a0b04cd260f9c9647593f6b807d154025a3b91241ce2b797&smart=true&width=4256&height=2832",
+      "description": "El Ministerio Público revisa 15 celulares en el caso UPAD, que investiga al expresidente Carlos Alvarado Quesada por una presunta violación de datos privados.",
+      "featured": false
+    },
+    {
+      "slug": "costa-rica-se-queda-a-las-puertas-de-su-quinta-presea-de-oro-en-el-centroamericano-de-ciclismo",
+      "title": "Costa Rica se queda a las puertas de su quinta presea de oro en el Centroamericano de Ciclismo",
+      "category": "Costa Rica",
+      "bullets_20s": "• Costa Rica estuvo cerca de obtener su quinta medalla de oro en el evento ciclístico centroamericano.\n• Las competencias se llevaron a cabo el viernes y mostraron el talento del ciclismo juvenil.\n• Los ciclistas nacionales compitieron en desafíos difíciles, poniendo a prueba su resistencia y habilidad.\n• Este evento es fundamental para el desarrollo del ciclismo en el país, especialmente en la juventud.\n• La participación en el Centroamericano fortalece la presencia del ciclismo costarricense en la región.",
+      "source_name": "Juan Diego Villarreal",
+      "source_url": "https://www.nacion.com/puro-deporte/costa-rica-se-queda-a-las-puertas-de-su-quinta/4RNAQWNLRVBJ5NIKKDOBHY2LT4/story/",
+      "publish_date": "2026-04-11T00:45:13.000Z",
+      "teaser": "Lo clave en 20 segundos: Costa Rica casi obtiene su oro en el Centroamericano de Ciclismo juvenil.",
+      "image_url": "https://www.nacion.com/resizer/v2/OUT7CQNU3NH3TH7CQ333BO2ZXU.JPG?auth=62e5b50a4edd64369a305d9ac566ccf6beac2d7d453e657cbc8f78fbf1efe3a4&smart=true&width=4000&height=2666",
+      "description": "Las pruebas de fondo de la categoría juvenil masculino y femenino se disputaron este viernes en el Centroamericano de Ciclismo.",
+      "featured": false
+    },
+    {
       "slug": "sumergido-en-un-sueno-el-momento-que-franklin-chang-diaz-no-ha-podido-olvidar-de-sus-siete-misiones-al-espacio",
       "title": "Sumergido en un sueño: el momento que Franklin Chang-Díaz no ha podido olvidar de sus siete misiones al espacio",
       "category": "Costa Rica",
@@ -24,6 +63,19 @@
       "teaser": "Lo clave en 20 segundos: Rodrigo Arias enfatiza unidad en bancada del PLN ante estrategia del oficialismo.",
       "image_url": "https://www.nacion.com/resizer/v2/S3YI2QL5CVEVLLLWO4KZBC25SU.jpeg?auth=35c4f18b6372f3458dfe090d886ec8174bef40d9d3fbc1f01f42b0e00bad10a8&smart=true&width=4032&height=3024",
       "description": "El presidente legislativo, Rodrigo Arias, reunió este viernes a la futura bancada del PLN y destacó su unidad ante los anuncios del oficialismo de buscar completar los 38 votos con diputados liberacionistas.",
+      "featured": false
+    },
+    {
+      "slug": "parecen-padres-de-los-marroquies-polemica-en-africa-por-la-apariencia-de-los-jugadores-sub-15-de-senegal",
+      "title": "Parecen padres de los marroquíes: polémica en África por la apariencia de los jugadores Sub-15 de Senegal",
+      "category": "Mundo",
+      "bullets_20s": "• La apariencia de los jugadores Sub-15 de Senegal ha generado una controversia notable en África.\n• Los expertos debaten si la madurez física afecta el desempeño en torneos infantiles.\n• A menudo, la genética y la nutrición juegan roles importantes en el crecimiento de los jóvenes.\n• Marruecos y Senegal buscan destacar en el ámbito futbolístico en la región africana.\n• Las redes sociales han sido escenario de diversas opiniones sobre el tema en cuestión.",
+      "source_name": "Juan Diego Villarreal",
+      "source_url": "https://www.nacion.com/puro-deporte/parecen-padres-de-los-marroquies-polemica-en/GJBXEY6DL5H3JJJ5KHQFFXMW4U/story/",
+      "publish_date": "2026-04-11T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La apariencia física de los jugadores de Senegal genera controversia y debate.",
+      "image_url": "https://www.nacion.com/resizer/v2/Z6KWMCT6PRHENA7TZ4F6OWQJUE.png?auth=44f25f80800b1ce2020677b120ad89b516f12cf7fa30581feb713ae495ac225d&smart=true&width=906&height=501",
+      "description": "A pesar de ser un torneo escolar, los jugadores de Senegal se observan mucho mayor que los de Marruecos.",
       "featured": false
     },
     {
@@ -1382,11 +1434,11 @@
       "slug": "asamblea-legislativa-rinde-homenaje-al-tec-por-su-legado-y-proyeccion-internacional",
       "title": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebra 55 años de contribuciones al desarrollo del país y la región.\n• El homenaje tuvo lugar en el Salón de Expresidentes de la Asamblea Legislativa de Costa Rica.\n• Se destacó el papel del TEC en la formación de talento humano crítico y ético.\n• Representantes de organismos internacionales y la comunidad académica estuvieron presentes en el evento.\n• La rectora del TEC reafirmó el compromiso de la institución con el país y su futuro.\n• Se presentó la evolución académica del TEC, incluyendo programas de grado y maestría.\n• La agrupación folclórica Tierra y Cosecha del TEC aportó un componente cultural al evento.\n• El TEC ha sido fundamental en iniciativas de desarrollo humano sostenible en Costa Rica.\n• Este reconocimiento destaca la importancia de la educación y tecnología en el progreso del país.",
+      "bullets_20s": "• La Asamblea Legislativa conmemora el 55 aniversario del Tecnológico de Costa Rica en un evento solemne.\n• Destacan el compromiso del TEC con equidad, inclusión y desarrollo del talento humano en el país.\n• El presidente del Congreso subraya la importancia de la educación y la ciencia para el progreso nacional.\n• La diputada Méndez resalta el carácter transformador y ético en la formación de profesionales del TEC.\n• La ceremonia incluye el reconocimiento del PNUD al papel estratégico del TEC en desarrollo humano.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/asamblea-legislativa-rinde-homenaje-tec-su-legado-proyeccion-internacional",
       "publish_date": "2026-04-09T04:44:24.000Z",
-      "teaser": "Lo clave en 20 segundos: Homenaje al TEC por su impacto en el desarrollo nacional y formación de talento.",
+      "teaser": "Lo clave en 20 segundos: La Asamblea celebra al TEC por su impacto en educación y desarrollo en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/homenaje-asamblea-legislativa_tec-55-aniversario_rgarita-3-2.jpg.webp?itok=vf7tXJb_",
       "description": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
       "featured": false
@@ -1642,11 +1694,11 @@
       "slug": "universidades-ganan-recurso-ante-la-sala-constitucional-de-costa-rica-por-fees-2025",
       "title": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "category": "Costa Rica",
-      "bullets_20s": "• La Sala Constitucional decidió a favor de las universidades en relación al FEES del 2025.\n• El 2% del fondo especial es crucial para becas y matrícula estudiantil en Costa Rica.\n• El fallo ordena al Ministerio de Hacienda asegurar el giro de recursos necesarios.\n• Se advierte sobre sanciones penales por incumplimiento de la resolución establecida.\n• Históricamente, el Tecnológico recibirá el 20% del 2% adicional del FEES aprobado.",
+      "bullets_20s": "• La Sala Constitucional declaró con lugar un recurso de amparo relacionado con el FEES 2025.\n• El fallo ordena al Ministerio de Hacienda coordinar acciones para el cumplimiento del FEES.\n• Un 20% del 2% del FEES 2025 será destinado al Tecnológico de Costa Rica.\n• El incumplimiento puede llevar a sanciones penales según la Ley de la Jurisdicción Constitucional.\n• La resolución incluye el pago de costas y daños ocasionados al Estado.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/universidades-ganan-recurso-sala-constitucional-costa-rica-fees-2025",
       "publish_date": "2026-04-08T21:39:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Universidades logran respaldo de la Sala Constitucional para fondos del FEES 2025.",
+      "teaser": "Lo clave en 20 segundos: La Sala Constitucional falló a favor de universidades por el FEES 2025.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees_08_07_2025_paquesada-39.jpg.webp?itok=tdBGpgTP",
       "description": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "featured": false
@@ -1758,12 +1810,12 @@
     {
       "slug": "estudiantes-del-tec-fortalecen-redes-de-apoyo-en-stem",
       "title": "Estudiantes del TEC fortalecen redes de apoyo en STEM",
-      "category": "Tecnología",
-      "bullets_20s": "• La actividad reunió a mujeres estudiantes y egresadas de programas STEM. La idea era fomentar la comunidad entre ellas.\n• Organizaciones como Mente en acción y Rocket Girls apoyan a jóvenes en su enfoque hacia carreras STEM.\n• Este encuentro se hizo en el aula de PAMTEC para promover la red de apoyo entre las estudiantes.\n• La iniciativa busca aumentar la permanencia de mujeres en carreras de Ciencia, Tecnología, Ingeniería y Matemáticas.\n• Desde el 2021, el programa Mente en acción ha graduado a más de 1400 mujeres enfocadas en STEM.\n• Rocket Girls ofrece educación técnica gratuita y mentorías para reducir la brecha de género en STEAM.\n• Ambas ONG buscan empoderar a mujeres en contextos vulnerables a través de educación y liderazgo.\n• El evento se dio el 7 de abril y fue impulsado por la Secretaría de Investigación y Extensión del TEC.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC organiza un encuentro para fomentar la comunidad entre mujeres en STEM.\n• Mujeres en STEM se unen para crear redes de apoyo y empoderamiento.\n• Se realizó el evento con el apoyo de Mente en acción y Rocket Girls.\n• Estas ONG ofrecen educación en STEM y becas para jóvenes estudiantes.\n• Más de 1.400 mujeres han sido graduadas en programas de liderazgo y STEM.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/estudiantes-tec-fortalecen-redes-apoyo-stem",
       "publish_date": "2026-04-08T19:37:01.000Z",
-      "teaser": "Lo clave en 20 segundos: mujeres del TEC fortalecen redes de apoyo en STEM para su desarrollo profesional.",
+      "teaser": "Lo clave en 20 segundos: estudiantes del TEC fomentan apoyo y comunidad entre mujeres en STEM.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/encuentro-egresadas-mente-accion-rocket-girls-tec-cartago-2026_gcastillo-7.jpg.webp?itok=zKMdzjl_",
       "description": "Estudiantes del TEC fortalecen redes de apoyo en STEM",
       "featured": false
@@ -1785,11 +1837,11 @@
       "slug": "la-sonda-cosmologica-de-las-islas-para-la-deteccion-de-hidrogeno-neutro",
       "title": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "category": "Ciencia",
-      "bullets_20s": "• La charla sobre la sonda cosmológica se llevará a cabo el jueves 9 de abril a las 5 p.m.\n• La actividad será virtual y se podrá seguir desde el auditorio del Edificio D3.\n• El Dr. Omar López Cruz, experto en astrofísica, será el encargado de la presentación.\n• Se abordarán las mediciones de hidrógeno neutro y su importancia en el universo.\n• El evento busca fomentar el interés por la astronomía entre el público general.",
+      "bullets_20s": "• El Jueves Astronómico #500 se llevará a cabo el 9 de abril a las 5:00 p.m.\n• La charla se desarrollará en modalidad virtual y en el auditorio del Edificio D3.\n• El Dr. Omar López Cruz será el encargado de la exposición sobre hidrógeno neutro.\n• Se abordará la importancia del hidrógeno neutro en la comprensión del universo.\n• La actividad busca acercar al público a temas de divulgación científica y astronomía.\n• Se ofrecerán explicaciones sobre la evolución de estrellas y galaxias.\n• El evento es gratuito y está destinado a diversos públicos interesados.\n• La transmisión se podrá seguir a través del enlace proporcionado.\n• Se fomenta el conocimiento científico y el interés en la astrofísica.\n• El evento busca atraer a estudiantes, docentes e investigadores.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/sonda-cosmologica-islas-deteccion-hidrogeno-neutro",
       "publish_date": "2026-04-08T19:11:17.000Z",
-      "teaser": "Lo clave en 20 segundos: charla sobre detección de hidrógeno neutro, Jueves Astronómico #500.",
+      "teaser": "Lo clave en 20 segundos: La sonda ayuda a entender el universo y el hidrógeno neutro.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dr-omar-lopez.jpg",
       "description": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "featured": false
@@ -12039,5 +12091,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-11T01:30:52.912Z"
+  "generated_at": "2026-04-11T02:30:52.741Z"
 }
