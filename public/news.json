@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "seleccion-de-costa-rica-impone-record-con-goleada-mas-abultada-de-su-historia",
+      "title": "Selección de Costa Rica impone récord con goleada más abultada de su historia",
+      "category": "Costa Rica",
+      "bullets_20s": "• La selección logró una goleada histórica en un partido reciente.\n• Se destacó la actuación del equipo en el Estadio Morera Soto.\n• Este resultado supera récords anteriores en la historia futbolística.\n• Los jugadores mostraron gran nivel de preparación y entrega en el juego.\n• El apoyo de la afición fue clave para alcanzar este nuevo logro.",
+      "source_name": "Fanny Tayver Marín",
+      "source_url": "https://www.nacion.com/puro-deporte/costa-rica-vs-islas-caiman-hora-y-canales-para-ver/7BYWTTFNZ5E4BMPGAC3NO26EI4/story/",
+      "publish_date": "2026-04-11T03:23:33.000Z",
+      "teaser": "Lo clave en 20 segundos: Costa Rica logra una goleada histórica en el fútbol.",
+      "image_url": "https://www.nacion.com/resizer/v2/6SWWFP4WDJEUNGOLVJZTVPT6XI.JPG?auth=970913401101aeedfb58ec66d7cbb5daeae23ab5eec06bc1fbcb7fac0b63b71d&smart=true&width=5000&height=3333",
+      "description": "La Selección de Costa Rica sacó el resultado que quería en el Estadio Alejandro Morera Soto.",
+      "featured": false
+    },
+    {
       "slug": "gatilleros-desde-auto-en-movimiento-matan-a-joven-que-caminaba-por-via-publica",
       "title": "Gatilleros desde auto en movimiento matan a joven que caminaba por vía pública",
       "category": "Costa Rica",
-      "bullets_20s": "• Un joven de 29 años fue víctima de un ataque armado en la vía pública.\n• El suceso ocurrió en la localidad de Colima, en San José.\n• Testigos reportan que los atacantes dispararon desde un vehículo en movimiento.\n• La violencia y criminalidad siguen siendo problemas graves en el país.\n• La policía investiga el incidente para dar con los responsables.",
+      "bullets_20s": "• El ataque ocurrió en la tarde, mientras la víctima caminaba por una vía pública.\n• Se estima que los disparos fueron realizados desde un vehículo en movimiento.\n• La violencia sigue siendo un problema creciente en la región de San José.\n• Las autoridades investigan para identificar a los posibles responsables del hecho.\n• Este incidente genera preocupación en la comunidad sobre la seguridad pública.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/sucesos/crimenes/gatilleros-desde-auto-en-movimiento-matan-a-joven/SITCWVKK55GMRD4PNKZ6H5BNFA/story/",
       "publish_date": "2026-04-11T02:25:59.000Z",
-      "teaser": "Lo clave en 20 segundos: Un joven fue asesinado en un ataque desde un auto en San José.",
+      "teaser": "Lo clave en 20 segundos: un joven fue asesinado en Tibás por atacantes en un auto.",
       "image_url": "https://www.nacion.com/resizer/v2/W5LXKATUARCMTARARSVQPXDZI4.jpg?auth=3995f0f53065cdc8372cd04d6637915445f2d3dfa5264053cc3077fcd6b7f23d&smart=true&width=1600&height=736",
       "description": "Un hombre de 29 años fue asesinado a balazos la tarde de este viernes en Colima de Tibás, San José.",
       "featured": false
@@ -349,19 +362,6 @@
       "teaser": "Lo clave en 20 segundos: Netanyahu critica a España y la excluye de un centro para Gaza.",
       "image_url": "https://www.nacion.com/resizer/v2/BIVQGYA7XNCIHEXWNNS43UME6M.jpg?auth=6136c80b5a4e4be1b9b25efb406869f214f3b67467615c2ce41f314093af4742&smart=true&width=1200&height=800",
       "description": "El primer ministro Benjamin Netanyahu acusó este viernes a España de librar “una guerra diplomática” y de “hostilidad” hacia Israel.",
-      "featured": false
-    },
-    {
-      "slug": "costa-rica-vs-islas-caiman-hora-y-canales-para-ver-a-la-sele-en-ruta-al-mundial-y-los-juegos-olimpicos",
-      "title": "Costa Rica vs. Islas Caimán: Hora y canales para ver a la ‘Sele’ en ruta al Mundial y los Juegos Olímpicos",
-      "category": "Costa Rica",
-      "bullets_20s": "• La Selección de Costa Rica tendrá un partido crucial para avanzar hacia el Mundial y otros torneos.\n• El encuentro se realizará en el Estadio Alejandro Morera Soto, un lugar emblemático del fútbol nacional.\n• Los aficionados están ansiosos por ver a su equipo en acción y apoyar con pasión desde las gradas.\n• Los canales de transmisión brindarán cobertura completa para que los fanáticos no se pierdan detalle alguno.\n• Este partido es parte del camino de Costa Rica hacia los Juegos Olímpicos y el mundial de fútbol.",
-      "source_name": "Fanny Tayver Marín",
-      "source_url": "https://www.nacion.com/puro-deporte/costa-rica-vs-islas-caiman-hora-y-canales-para-ver/7BYWTTFNZ5E4BMPGAC3NO26EI4/story/",
-      "publish_date": "2026-04-10T18:23:04.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica enfrenta a las Islas Caimán en un partido importante este abril.",
-      "image_url": "https://www.nacion.com/resizer/v2/5WQDHALJ6FCVDC7SKGW33DN4NA.jpeg?auth=c3522222b510face87df27b2359ad3ec0eac1591d3a33294a209b419dd161a2c&smart=true&width=5000&height=3333",
-      "description": "La Selección de Costa Rica jugará este viernes 10 de abril contra Islas Caimán en el Estadio Alejandro Morera Soto.",
       "featured": false
     },
     {
@@ -1460,11 +1460,11 @@
       "slug": "asamblea-legislativa-rinde-homenaje-al-tec-por-su-legado-y-proyeccion-internacional",
       "title": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
       "category": "Costa Rica",
-      "bullets_20s": "• Se conmemora el 55 aniversario del Tecnológico de Costa Rica con un homenaje significativo.\n• El evento destaca el compromiso del TEC con la educación y el desarrollo sostenible.\n• Autoridades del Congreso y la comunidad académica participaron en este reconocimiento histórico.\n• Se presentó un reconocimiento oficial firmado por importantes figuras del país.\n• El TEC es considerado un pilar fundamental en la formación de talento humano crítico.\n• La rectora del TEC reafirma su compromiso con el avance social y académico del país.\n• Durante el acto, se destacó la proyección internacional de la institución educativa.\n• La agrupación folclórica del TEC aportó un componente cultural al evento con danza tradicional.",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebra su 55 aniversario con un homenaje en la Asamblea Legislativa.\n• Las autoridades resaltaron la importancia del TEC en el desarrollo del talento humano en el país.\n• El evento contó con la participación de representantes académicos y diplomáticos en un acto solemne.\n• Se entregó un reconocimiento oficial al TEC por su impacto en la educación y la tecnología.\n• La rectora del TEC afirmó que la institución es una promesa cumplida para el futuro del país.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/asamblea-legislativa-rinde-homenaje-tec-su-legado-proyeccion-internacional",
       "publish_date": "2026-04-09T04:44:24.000Z",
-      "teaser": "Lo clave en 20 segundos: La Asamblea rinde homenaje al TEC, resaltando su impacto educativo y compromiso social.",
+      "teaser": "Lo clave en 20 segundos: El TEC recibió un homenaje por su impacto en Costa Rica y el desarrollo humano.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/homenaje-asamblea-legislativa_tec-55-aniversario_rgarita-3-2.jpg.webp?itok=vf7tXJb_",
       "description": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
       "featured": false
@@ -1720,11 +1720,11 @@
       "slug": "universidades-ganan-recurso-ante-la-sala-constitucional-de-costa-rica-por-fees-2025",
       "title": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "category": "Costa Rica",
-      "bullets_20s": "• La Sala Constitucional falló a favor de las universidades en relación al FEES del 2025.\n• El recurso de amparo buscaba garantizar el giro del 2% del FEES a las universidades.\n• Este fallo es crucial para la continuidad de becas y el crecimiento de la matrícula.\n• El acuerdo del CONARE asigna el 20% del FEES al Tecnológico de Costa Rica.\n• Se advierte que el desacato a la resolución podría tener penalizaciones graves.",
+      "bullets_20s": "• El fallo de la Sala Constitucional a favor del FEES impacta la educación superior en Costa Rica.\n• Se garantiza el flujo de recursos necesarios para el crecimiento de la matrícula estudiantil.\n• El 20% del FEES 2025 está destinado al Tecnológico de Costa Rica, según el acuerdo establecido.\n• La resolución advierte sobre sanciones penales si no se cumplen ordenamientos dados por el tribunal.\n• El Estado deberá pagar costas y daños por los incumplimientos previos relacionados al FEES.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/universidades-ganan-recurso-sala-constitucional-costa-rica-fees-2025",
       "publish_date": "2026-04-08T21:39:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Las universidades obtienen respaldo judicial para el FEES 2025 esencial para su funcionamiento.",
+      "teaser": "Lo clave en 20 segundos: La Sala Constitucional falla a favor del financiamiento universitario en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees_08_07_2025_paquesada-39.jpg.webp?itok=tdBGpgTP",
       "description": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "featured": false
@@ -1837,11 +1837,11 @@
       "slug": "estudiantes-del-tec-fortalecen-redes-de-apoyo-en-stem",
       "title": "Estudiantes del TEC fortalecen redes de apoyo en STEM",
       "category": "Costa Rica",
-      "bullets_20s": "• La actividad reunió a mujeres estudiantes del TEC enfocadas en áreas STEM.\n• Egresadas de organizaciones brindaron apoyo y mentoría a las estudiantes.\n• El encuentro promovió el sentido de comunidad entre las participantes.\n• Mente en acción y Rocket Girls fueron los organizadores del evento.\n• Se busca motivar a más mujeres a permanecer en carreras STEM.",
+      "bullets_20s": "• Mujeres estudiantes del TEC se reúnen para fortalecer la comunidad en áreas STEM.\n• Se buscó promover el desarrollo en carreras de Ciencia, Tecnología e Ingeniería.\n• El encuentro incluyó egresadas de Organizaciones No Gubernamentales sin fines de lucro.\n• Organizaciones como Mente en acción y Rocket Girls participaron en la iniciativa.\n• El evento se llevó a cabo el 7 de abril en el aula de PAMTEC.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/estudiantes-tec-fortalecen-redes-apoyo-stem",
       "publish_date": "2026-04-08T19:37:01.000Z",
-      "teaser": "Lo clave en 20 segundos: Mujeres del TEC se unen para fortalecer redes en STEM.",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC crean redes para fortalecer la comunidad en STEM.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/encuentro-egresadas-mente-accion-rocket-girls-tec-cartago-2026_gcastillo-7.jpg.webp?itok=zKMdzjl_",
       "description": "Estudiantes del TEC fortalecen redes de apoyo en STEM",
       "featured": false
@@ -1863,11 +1863,11 @@
       "slug": "la-sonda-cosmologica-de-las-islas-para-la-deteccion-de-hidrogeno-neutro",
       "title": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "category": "Ciencia",
-      "bullets_20s": "• El evento Jueves Astronómico #500 se llevará a cabo el 9 de abril a las 5:00 p.m.\n• La charla será virtual y proyectada en el auditorio del Edificio D3 del Tec.\n• Dr. Omar López Cruz abordará el hidrógeno neutro y su importancia en el universo.\n• La actividad busca acercar al público a la divulgación de la ciencia y astronomía.\n• Se explicará la evolución de estrellas y galaxias mediante leyes de la física.\n• La intervención busca fomentar el interés en astronomía y astrofísica en Costa Rica.\n• Se dará acceso a la transmisión en línea para todos los interesados.\n• El evento es gratuito y abierto a docentes, estudiantes e investigadores.\n• AstroTEC impulsa estas capacitaciones científicas en el país.\n• Se esperan múltiples participantes de diversas instituciones educativas.",
+      "bullets_20s": "• El Jueves Astronómico #500 se realizará el 9 de abril a las 5:00 p.m.\n• La charla será virtual y se podrá seguir desde el Auditorio del Edificio D3.\n• Dr. Omar López Cruz, del INAOE, presentará sobre hidrógeno neutro y el universo.\n• Se abordarán tema sobre la evolución de estrellas y galaxias en la charla.\n• El evento busca fomentar el interés en astronomía y astrofísica en la población.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/sonda-cosmologica-islas-deteccion-hidrogeno-neutro",
       "publish_date": "2026-04-08T19:11:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Charla sobre hidrógeno neutro y su impacto en la astronomía.",
+      "teaser": "Lo clave en 20 segundos: descubre cómo el hidrógeno neutro nos ayuda a entender el universo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dr-omar-lopez.jpg",
       "description": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "featured": false
@@ -12117,5 +12117,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-11T03:30:52.683Z"
+  "generated_at": "2026-04-11T04:30:51.760Z"
 }
