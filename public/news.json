@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "la-verdura-rica-en-calcio-y-vitamina-k-recomendada-para-mayores-de-60-anos",
+      "title": "La verdura rica en calcio y vitamina K recomendada para mayores de 60 años",
+      "category": "Ciencia",
+      "bullets_20s": "• El pak choi es una verdura rica en calcio, ideal para fortalecer huesos en adultos mayores.\n• La vitamina K presente en el pak choi beneficia la coagulación sanguínea y la salud ósea.\n• Contiene antioxidantes que ayudan a combatir el envejecimiento celular y mejorar la salud general.\n• Se recomienda su inclusión en la dieta diaria, especialmente para mayores de 60 años.\n• El pak choi se puede consumir en ensaladas, sopas o salteados, ofreciendo versatilidad en la cocina.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/ciencia/la-verdura-rica-en-calcio-y-vitamina-k-recomendada/B5RQNSNA4BDCPFQNDBXKMBTAYQ/story/",
+      "publish_date": "2026-04-11T21:27:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El pak choi es ideal para mayores de 60 por su alto contenido de calcio y vitamina K.",
+      "image_url": "https://www.nacion.com/resizer/v2/N5Z6JSK4O5ELTEBJXRM57TH22Y.png?auth=39a2fa44cf9cb339449997dd0b9c6c91c3f584f4cd72bb3eb171f559bfa243ab&smart=true&width=1680&height=945",
+      "description": "El pak choi gana popularidad por su aporte de calcio, vitamina K y antioxidantes. Conozca sus beneficios, propiedades nutricionales y formas de consumo.",
+      "featured": false
+    },
+    {
+      "slug": "fosil-de-250-millones-de-anos-revela-que-ancestros-de-los-mamiferos-ponian-huevos",
+      "title": "Fósil de 250 millones de años revela que ancestros de los mamíferos ponían huevos",
+      "category": "Ciencia",
+      "bullets_20s": "• El fósil data de hace 250 millones de años, aportando información sobre la evolución de los mamíferos.\n• Los hallazgos muestran que los ancestros de los mamíferos tenían características reproductivas únicas.\n• El embrión de 'Lystrosaurus' señala un aspecto fundamental en la supervivencia tras extinciones masivas.\n• Este descubrimiento es significativo en la historia de la paleontología moderna y el estudio de vertebrados.\n• Los investigadores utilizan tecnología avanzada para analizar fósiles y obtener estos resultados.\n• Los hallazgos podrían cambiar la comprensión actual sobre la reproducción de vertebrados antiguos.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/fosil-de-250-millones-de-años-revela-que-ancestros/NQSKMNN2NJBPXKQQZ5GPP2RJLQ/story/",
+      "publish_date": "2026-04-11T21:11:13.000Z",
+      "teaser": "Lo clave en 20 segundos: Un fósil revela cómo los ancestros de los mamíferos se reproducían ante extinciones.",
+      "image_url": "https://www.nacion.com/resizer/v2/N37A6FW6ZZFJJG3X5LMRUYIQNI.png?auth=3efdb6c0adb01087ded85890de8fdbc977f2660d47d2f659bb9dd3d60f77fac8&smart=true&width=1920&height=1080",
+      "description": "Un fósil de 250 millones de años confirma que los ancestros de los mamíferos ponían huevos. El hallazgo del embrión de 'Lystrosaurus' revela claves sobre su supervivencia tras una extinción masiva.",
+      "featured": false
+    },
+    {
       "slug": "netanyahu-afirma-que-israel-destruyo-el-programa-nuclear-de-iran-somos-nosotros-quienes-los-estrangulamos",
       "title": "Netanyahu afirma que Israel destruyó el programa nuclear de Irán: ‘Somos nosotros quienes los estrangulamos’",
       "category": "Mundo",
@@ -1912,19 +1938,6 @@
       "featured": false
     },
     {
-      "slug": "asamblea-legislativa-rinde-homenaje-al-tec-por-su-legado-y-proyeccion-internacional",
-      "title": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
-      "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica fue homenajeado por su impacto en el desarrollo del país y la región.\n• Autoridades, diplomáticos y comunidad académica destacaron la importancia del TEC en educación.\n• El evento celebró el 55 aniversario de la institución y su proyección internacional en educación.\n• La rectora María Estrada reafirmó el compromiso del TEC con el desarrollo social y humano.\n• Se presentaron los logros académicos del TEC en áreas de ciencia y tecnología a nivel global.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/asamblea-legislativa-rinde-homenaje-tec-su-legado-proyeccion-internacional",
-      "publish_date": "2026-04-09T04:44:24.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC recibió un homenaje en la Asamblea Legislativa por su legado institucional.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/homenaje-asamblea-legislativa_tec-55-aniversario_rgarita-3-2.jpg.webp?itok=vf7tXJb_",
-      "description": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
-      "featured": false
-    },
-    {
       "slug": "dos-pinos-realizara-feria-de-empleo-en-san-jose-vea-aqui-los-puestos-disponibles",
       "title": "Dos Pinos realizará feria de empleo en San José: vea aquí los puestos disponibles",
       "category": "Costa Rica",
@@ -2120,6 +2133,19 @@
       "featured": false
     },
     {
+      "slug": "asamblea-legislativa-rinde-homenaje-al-tec-por-su-legado-y-proyeccion-internacional",
+      "title": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Asamblea Legislativa conmemora el 55 aniversario del Tecnológico de Costa Rica (TEC).\n• Destacan el rol del TEC en el desarrollo humano y la innovación en el país.\n• Autoridades y comunidad educativa se unen en un acto solemne de reconocimiento.\n• El TEC ha evolucionado, ofreciendo más de 23 programas de grado en la actualidad.\n• La rectora del TEC reafirma su compromiso con la educación y el país.\n• La actividad incluyó presentaciones culturales, resaltando la identidad costarricense.\n• Representantes de organismos internacionales participaron en el evento de homenaje.\n• Se entrega un reconocimiento oficial por el impacto del TEC a nivel nacional.\n• El TEC continúa fortaleciéndose como motor de desarrollo social y económico.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/asamblea-legislativa-rinde-homenaje-tec-su-legado-proyeccion-internacional",
+      "publish_date": "2026-04-08T22:44:00.000Z",
+      "teaser": "Lo clave en 20 segundos: la Asamblea Legislativa rinde homenaje al TEC por su impacto y legado en el país.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/homenaje-asamblea-legislativa_tec-55-aniversario_rgarita-3-2.jpg.webp?itok=vf7tXJb_",
+      "description": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
+      "featured": false
+    },
+    {
       "slug": "un-gen-de-riesgo-para-el-alzheimer-altera-el-cerebro-decadas-antes-de-que-aparezcan-los-sintomas-segun-un-estudio",
       "title": "Un gen de riesgo para el Alzheimer altera el cerebro décadas antes de que aparezcan los síntomas, según un estudio",
       "category": "Ciencia",
@@ -2175,11 +2201,11 @@
       "slug": "universidades-ganan-recurso-ante-la-sala-constitucional-de-costa-rica-por-fees-2025",
       "title": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "category": "Costa Rica",
-      "bullets_20s": "• La Sala Constitucional declaró con lugar un recurso relacionado con el giro del FEES 2025.\n• Se ordena al Ministerio de Hacienda garantizar el giro sin más incumplimientos futuros.\n• El 2% del FEES corresponde fundamentalmente a becas y crecimiento de matrícula universitaria.\n• La rectoría del Tecnológico de Costa Rica resaltó la importancia histórica de este recurso.\n• El fallo incluye sanciones penales por desacato a lo ordenado por la Sala Constitucional.\n• También se condenó al Estado al pago de daños y costas por el incumplimiento.\n• El 20% del 2% del FEES será destinado al Tecnológico de Costa Rica según acuerdo inicial.\n• El recurso fue interpuesto bajo la presidencia de la rectora de CONARE en su momento.\n• El tribunal emitió la resolución con votos salvados de dos magistrados.\n• El expediente del caso se tramita bajo un número específico en el sistema judicial.",
+      "bullets_20s": "• La Sala Constitucional aprobó un recurso de amparo sobre el FEES y su giro pendiente para 2025.\n• Se ordena al Ministro de Hacienda garantizar el cumplimiento de las resoluciones de amparo pertinentes.\n• El 2% del FEES de 2025 ayudará a sostener becas y atender el crecimiento de matrícula estudiantil.\n• El CONARE ha defendido que este recurso es clave para el sistema de educación superior en el país.\n• El desacato a la resolución puede acarrear sanciones penales según la Ley de Jurisdicción Constitucional.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/universidades-ganan-recurso-sala-constitucional-costa-rica-fees-2025",
       "publish_date": "2026-04-08T21:39:40.000Z",
-      "teaser": "Lo clave en 20 segundos: La Sala Constitucional falla a favor de universidades por el FEES 2025.",
+      "teaser": "Lo clave en 20 segundos: La Sala Constitucional garantiza el giro del FEES para universidades en 2025.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees_08_07_2025_paquesada-39.jpg.webp?itok=tdBGpgTP",
       "description": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "featured": false
@@ -2292,11 +2318,11 @@
       "slug": "estudiantes-del-tec-fortalecen-redes-de-apoyo-en-stem",
       "title": "Estudiantes del TEC fortalecen redes de apoyo en STEM",
       "category": "Costa Rica",
-      "bullets_20s": "• El encuentro promovió comunidades para mujeres en ciencia y tecnología en el TEC.\n• Estudiantes se unieron a egresadas de Mente en acción y Rocket Girls.\n• Se busca mejorar la permanencia de las mujeres en carreras STEM en el TEC.\n• Las organizaciones comparten recursos educativos y oportunidades de formación.\n• El programa Mente en acción ha graduado a más de 1400 mujeres jóvenes.\n• Rocket Girls trabaja para reducir la brecha de género en STEAM en Costa Rica.\n• La actividad tuvo lugar en el aula de PAMTEC el 7 de abril.\n• Mujeres en contextos vulnerables reciben oportunidades de educación técnica gratuita.\n• Se pretende empoderar a jóvenes en liderazgo a través de estas iniciativas.",
+      "bullets_20s": "• La actividad buscó fortalecer la comunidad entre mujeres estudiantes del TEC, enfocándose en STEM.\n• Se realizó un encuentro con egresadas de las ONG Mente en acción y Rocket Girls en el TEC.\n• Mujeres del TEC promueven redes de apoyo para su permanencia y desarrollo en carreras STEM.\n• El programa Mente en acción ofrece becas y formación en liderazgo y empoderamiento de género.\n• Rocket Girls trabaja para reducir la brecha de género en STEAM a través de mentorías.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/estudiantes-tec-fortalecen-redes-apoyo-stem",
       "publish_date": "2026-04-08T19:37:01.000Z",
-      "teaser": "Lo clave en 20 segundos: Fortalecen redes de apoyo para mujeres en STEM en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Mujeres del TEC se unen para fortalecer redes en STEM.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/encuentro-egresadas-mente-accion-rocket-girls-tec-cartago-2026_gcastillo-7.jpg.webp?itok=zKMdzjl_",
       "description": "Estudiantes del TEC fortalecen redes de apoyo en STEM",
       "featured": false
@@ -2318,11 +2344,11 @@
       "slug": "la-sonda-cosmologica-de-las-islas-para-la-deteccion-de-hidrogeno-neutro",
       "title": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "category": "Ciencia",
-      "bullets_20s": "• La charla es parte del Jueves Astronómico #500 y aborda temas de astrofísica.\n• El evento será el 9 de abril a las 5:00 p. m. de manera virtual.\n• El expositor es el Dr. Omar López Cruz, experto en astrofísica desde México.\n• Se explorará el papel crucial del hidrógeno neutro en la evolución del universo.\n• El objetivo es fomentar el interés en la ciencia y la astronomía entre el público.",
+      "bullets_20s": "• El Jueves Astronómico #500 se llevará a cabo el 9 de abril a las 5:00 PM.\n• La charla será en modalidad virtual y proyectada en el Edificio D3 del instituto.\n• El Dr. Omar López Cruz será el ponente y abordará el hidrógeno neutro.\n• Se buscará explicar la evolución de estrellas y galaxias a través de la física.\n• El objetivo es fomentar el interés en astronomía y astrofísica en la comunidad.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/sonda-cosmologica-islas-deteccion-hidrogeno-neutro",
       "publish_date": "2026-04-08T19:11:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Charla sobre hidrógeno neutro y su papel en el universo.",
+      "teaser": "Lo clave en 20 segundos: Charla sobre detección de hidrógeno neutro y su importancia en astronomía.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dr-omar-lopez.jpg",
       "description": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "featured": false
@@ -12572,5 +12598,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-11T21:30:53.662Z"
+  "generated_at": "2026-04-11T22:30:56.225Z"
 }
