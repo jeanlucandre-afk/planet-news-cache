@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "pueblo-soberano-toma-el-control-de-la-asociacion-de-alcaldes",
+      "title": "Pueblo Soberano toma el control de la Asociación de Alcaldes",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Asociación Nacional de Alcaldías ahora está bajo el liderazgo de nuevos representantes del Pueblo Soberano.\n• Tres alcaldes y un intendente han sido nombrados en la cúpula de la ANAI recientemente.\n• Este movimiento político representa un cambio significativo en la gestión local en Costa Rica.\n• El oficialista Partido Pueblo Soberano ha logrado consolidar su influencia a nivel municipal con esta acción.\n• La nueva dirección podría afectar decisiones futuras en las políticas locales y regionales.",
+      "source_name": "Julián Navarrete Silva",
+      "source_url": "https://www.nacion.com/politica/pueblo-soberano-toma-el-control-de-la-asociacion/VZ3LPJDZXJDZPH2J4LRNAM6FNA/story/",
+      "publish_date": "2026-04-12T03:59:59.000Z",
+      "teaser": "Lo clave en 20 segundos: Pueblo Soberano asume control de alcaldías en un cambio significativo.",
+      "image_url": "https://www.nacion.com/resizer/v2/GVSE4I5PP5CHHAXBIKNNM5AB5I.jpeg?auth=5ea5af7893a989456f13197cbda060948d4ae9d87b4fa786919640b5234edaec&smart=true&width=1280&height=854",
+      "description": "La Asociación Nacional de Alcaldías e Intendencias (ANAI) colocó en su cúpula a tres alcaldes y un intendente municipal, que dieron su adhesión al oficialista Partido Pueblo Soberano (PPSO).",
+      "featured": false
+    },
+    {
       "slug": "lluvia-de-goles-y-media-hora-de-tiempo-anadido-puntarenas-y-perez-zeledon-igualan-en-extrano-partido",
       "title": "Lluvia de goles y media hora de tiempo añadido: Puntarenas y Pérez Zeledón igualan en extraño partido",
       "category": "Costa Rica",
-      "bullets_20s": "• El encuentro entre Puntarenas y Pérez Zeledón se volvió un espectáculo inesperado y peculiar.\n• Los seis goles durante el partido mostraron una intensa competencia entre los equipos involucrados.\n• Más de 30 minutos añadidos sorprendieron a los espectadores y jugadores en el estadio.\n• El partido tuvo momentos de alta tensión, reflejando la pasión del fútbol costarricense.\n• Un jugador fue expulsado, alterando el desarrollo del juego y estrategia de ambos equipos.",
+      "bullets_20s": "• El partido entre Pérez Zeledón y Puntarenas fue emocionante y lleno de sorpresas.\n• Ambos equipos demostraron un alto nivel de energía durante todo el encuentro.\n• El árbitro se vio obligado a añadir más de 30 minutos en total.\n• Hubo un jugador expulsado, lo que complicó el rendimiento de ambos equipos.\n• Se marcaron seis goles en total, haciendo vibrar a los aficionados presentes.",
       "source_name": "Isaac Vega",
       "source_url": "https://www.nacion.com/puro-deporte/lluvia-de-goles-y-media-hora-de-tiempo-anadido/YGRSORUZPREVTI3ECZVX2P45PE/story/",
       "publish_date": "2026-04-12T02:40:11.000Z",
-      "teaser": "Lo clave en 20 segundos: un partido lleno de goles y tiempo extra impactó el encuentro entre los equipos.",
+      "teaser": "Lo clave en 20 segundos: Un partido lleno de goles y emoción entre Pérez Zeledón y Puntarenas.",
       "image_url": "https://www.nacion.com/resizer/v2/AMVC7T7PZJCIRBUBNBPDF7ELEM.jpeg?auth=d8f2af12e88e106e91e3059a5c41e6ccbe308f50b488c59d630753dea4c792ed&smart=true&width=1092&height=819",
       "description": "Seis goles, un expulsado y más de 30 minutos añadidos ‘protagonizaron’ el encuentro de la jornada 15 entre Pérez Zeledón y Puntarenas.",
       "featured": false
@@ -2068,6 +2081,19 @@
       "featured": false
     },
     {
+      "slug": "asamblea-legislativa-rinde-homenaje-al-tec-por-su-legado-y-proyeccion-internacional",
+      "title": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Asamblea Legislativa celebró el 55 aniversario del Tecnológico de Costa Rica en un acto solemne.\n• Destacaron el compromiso del TEC con la equidad y el desarrollo del talento humano en Costa Rica.\n• Autoridades y diplomáticos asistieron para reconocer el impacto del TEC en el desarrollo nacional.\n• Rodrigo Arias subrayó el papel del TEC en la historia educativa y tecnológica del país.\n• Sandra Sosa del PNUD destacó la trayectoria del TEC como aliado en el desarrollo humano sostenible.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/asamblea-legislativa-rinde-homenaje-tec-su-legado-proyeccion-internacional",
+      "publish_date": "2026-04-09T04:44:24.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC fue homenajeado por su impacto en la educación y desarrollo nacional.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/homenaje-asamblea-legislativa_tec-55-aniversario_rgarita-3-2.jpg.webp?itok=vf7tXJb_",
+      "description": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
+      "featured": false
+    },
+    {
       "slug": "dos-pinos-realizara-feria-de-empleo-en-san-jose-vea-aqui-los-puestos-disponibles",
       "title": "Dos Pinos realizará feria de empleo en San José: vea aquí los puestos disponibles",
       "category": "Costa Rica",
@@ -2318,11 +2344,11 @@
       "slug": "universidades-ganan-recurso-ante-la-sala-constitucional-de-costa-rica-por-fees-2025",
       "title": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "category": "Costa Rica",
-      "bullets_20s": "• La Sala Constitucional de Costa Rica aprobó un recurso de amparo relacionado con el FEES 2025.\n• El fallo beneficia a las universidades públicas, garantizando el giro del 2% del FEES.\n• El Tecnológico de Costa Rica recibirá un 20% de ese 2% según lo acordado por el CONARE.\n• Se ordena al Ministerio de Hacienda ejecutar las acciones necesarias para cumplir la decisión.\n• El desacato a esta orden podría acarrear sanciones penales para los responsables del incumplimiento.",
+      "bullets_20s": "• La Sala Constitucional admitió un recurso de amparo sobre el FEES 2025, un tema crucial para las universidades.\n• El 2% adicional del FEES es vital para mantener becas y atender la creciente matrícula estudiantil.\n• Se ordena al Ministerio de Hacienda garantizar la transferencia de estos fondos a las universidades públicas.\n• La aprobación del 2% adicional estaba en disputa entre las universidades y el Poder Ejecutivo del país.\n• El incumplimiento en la transferencia de fondos podría acarrear sanciones penales para los responsables.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/universidades-ganan-recurso-sala-constitucional-costa-rica-fees-2025",
       "publish_date": "2026-04-08T21:39:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Universidades reciben fallo favorable sobre financiamiento del FEES 2025 por parte de la Sala Constitucional.",
+      "teaser": "Lo clave en 20 segundos: La Sala Constitucional asegura el FEES 2025 para universidades públicas en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees_08_07_2025_paquesada-39.jpg.webp?itok=tdBGpgTP",
       "description": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "featured": false
@@ -2435,11 +2461,11 @@
       "slug": "estudiantes-del-tec-fortalecen-redes-de-apoyo-en-stem",
       "title": "Estudiantes del TEC fortalecen redes de apoyo en STEM",
       "category": "Costa Rica",
-      "bullets_20s": "• Mujeres estudiantes del TEC fortalecen su comunidad enfocándose en STEM y la educación técnica.\n• El evento busca fomentar la presencia de mujeres en carreras de Ciencia, Tecnología, Ingeniería y Matemáticas.\n• Organizaciones como Mente en acción brindan apoyo y becas para mujeres jóvenes en estas áreas.\n• Rocket Girls también ofrece mentorías y educación técnica gratuita a mujeres en contextos vulnerables.\n• La actividad resalta la importancia de redes de apoyo para impulsar la carrera académica de las estudiantes.",
+      "bullets_20s": "• El TEC promueve redes de apoyo para mujeres en campos STEM a través de iniciativas educativas.\n• La actividad reunió a estudiantes del TEC y egresadas de Mente en acción y Rocket Girls.\n• Se busca fortalecer el sentido de comunidad y empoderamiento entre mujeres jóvenes.\n• Mente en acción ofrece becas de formación y empoderamiento en áreas STEM.\n• Rocket Girls contribuye a cerrar la brecha de género en educación técnica gratuita.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/estudiantes-tec-fortalecen-redes-apoyo-stem",
       "publish_date": "2026-04-08T19:37:01.000Z",
-      "teaser": "Lo clave en 20 segundos: Mujeres del TEC se unen para fortalecer su presencia en STEM.",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC crean redes de apoyo para mujeres en STEM.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/encuentro-egresadas-mente-accion-rocket-girls-tec-cartago-2026_gcastillo-7.jpg.webp?itok=zKMdzjl_",
       "description": "Estudiantes del TEC fortalecen redes de apoyo en STEM",
       "featured": false
@@ -2461,11 +2487,11 @@
       "slug": "la-sonda-cosmologica-de-las-islas-para-la-deteccion-de-hidrogeno-neutro",
       "title": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "category": "Ciencia",
-      "bullets_20s": "• El Jueves Astronómico #500 se realizará el 9 de abril a las 5:00 p.m.\n• La charla será virtual y se transmitirá desde el Edificio D3 del TEC.\n• El Dr. Omar López Cruz, experto en astrofísica, liderará la exposición.\n• Se explorará el papel del hidrógeno neutro en la comprensión del universo.\n• La actividad busca fomentar la divulgación científica en la población.\n• Se explicará cómo las estrellas y galaxias evolucionan según las leyes físicas.\n• El evento es parte de un esfuerzo por promover el interés en astronomía.\n• La charla está dirigida al público general y es gratuita para todos.\n• Se recomienda seguir la transmisión en el enlace proporcionado.\n• Los asistentes podrán interactuar y realizar preguntas durante la charla.",
+      "bullets_20s": "• El evento se realizará el 9 de abril a las 5:00 p. m. en modalidad virtual.\n• La charla se enfoca en el papel del hidrógeno neutro en el universo.\n• Dr. Omar López Cruz será el expositor, compartiendo su experiencia en astronomía.\n• El evento busca conectar al público con temas de evolución estelar y galaxias.\n• Se invita a la población a fomentar el interés por la ciencia y la astronomía.\n• La transmisión será accesible a través de un enlace proporcionado.\n• Se espera una gran participación del público en esta actividad educativa.\n• Es parte de los Jueves Astronómicos, celebrando el #500 con esta presentación.\n• El objetivo es difundir conocimientos sobre el universo de manera amena.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/sonda-cosmologica-islas-deteccion-hidrogeno-neutro",
       "publish_date": "2026-04-08T19:11:17.000Z",
-      "teaser": "Lo clave en 20 segundos: un evento astronómico para comprender el hidrógeno neutro.",
+      "teaser": "Lo clave en 20 segundos: charla sobre hidrógeno neutro y su papel en el universo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dr-omar-lopez.jpg",
       "description": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "featured": false
@@ -3092,19 +3118,6 @@
       "teaser": "Lo clave en 20 segundos: Huella biológica en menores expuestos al VIH altera defensas inmunitarias y responde a vacunas.",
       "image_url": "https://www.nacion.com/resizer/v2/GY5T25FOBRCSDAQUM4W65CCGXI.png?auth=07602961a6d1174de59932377acc27b96bc55b270b628446d4e511fb18cf2e0a&smart=true&width=1920&height=1080",
       "description": "Un estudio revela que la exposición al VIH en el embarazo altera las defensas de niños sanos hasta la adolescencia. Conozca cómo esta marca inmunológica afecta la respuesta a vacunas y el riesgo de infecciones en menores no infectados.",
-      "featured": false
-    },
-    {
-      "slug": "asamblea-legislativa-rinde-homenaje-al-tec-por-su-legado-y-proyeccion-internacional",
-      "title": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
-      "category": "Costa Rica",
-      "bullets_20s": "• El TEC fue homenajeado en su 55 aniversario en un evento en la Asamblea Legislativa.\n• El acto destacó el compromiso del TEC con la educación inclusiva y el desarrollo humano.\n• Autoridades y diplomáticos reconocieron el impacto del TEC en el país y la región.\n• La rectora del TEC enfatizó su papel en la formación de profesionales de alta calidad.\n• La celebración incluyó la actuación de la agrupación folclórica Tierra y Cosecha del TEC.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/asamblea-legislativa-rinde-homenaje-tec-su-legado-proyeccion-internacional",
-      "publish_date": "2026-04-08T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC celebrado por su contribución a la educación y el desarrollo en Costa Rica.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/homenaje-asamblea-legislativa_tec-55-aniversario_rgarita-3-2.jpg.webp?itok=vf7tXJb_",
-      "description": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
       "featured": false
     },
     {
@@ -12728,5 +12741,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-12T04:30:52.168Z"
+  "generated_at": "2026-04-12T05:30:52.441Z"
 }
