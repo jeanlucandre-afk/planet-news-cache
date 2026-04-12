@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "mision-juice-revela-detalles-ineditos-sobre-el-cometa-interestelar-3iatlas",
+      "title": "Misión Juice revela detalles inéditos sobre el cometa interestelar 3I/ATLAS",
+      "category": "Ciencia",
+      "bullets_20s": "• La misión Juice ha proporcionado información valiosa sobre el cometa 3I/ATLAS en la exploración espacial.\n• Se han detectado emisiones de agua que podrían revelar más sobre la historia del cometa.\n• La estructura del cometa 3I/ATLAS sugiere características únicas en su composición y formación.\n• Estos hallazgos abren nuevas preguntas sobre el origen de los cometas interestelares.\n• La Agencia Espacial Europea continúa su misión de explorar el espacio profundo y su evolución.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/ciencia/mision-juice-revela-detalles-ineditos-sobre-el/5PH6IWOTF5FNBEPF65VR4PQ25U/story/",
+      "publish_date": "2026-04-12T20:16:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Nuevos hallazgos de la misión Juice sobre el cometa 3I/ATLAS y su estructura.",
+      "image_url": "https://www.nacion.com/resizer/v2/WYYPJNJUMNGS7BJIZWKORJQ42Y.jpg?auth=d51c1dbf75b151eb60354bc7ddfa2d77ec90e7b3bf7470bdcb919b459efb24af&smart=true&width=2571&height=1920",
+      "description": "La Agencia Espacial Europea (ESA) divulgó nuevos hallazgos de la misión Juice sobre el cometa interestelar 3I/ATLAS: emisiones de agua, estructura y pistas sobre su origen.",
+      "featured": false
+    },
+    {
+      "slug": "estos-son-los-12-pokemones-mas-escasos-se-convirtieron-en-leyendas-dentro-de-la-franquicia",
+      "title": "Estos son los 12 pokémones más escasos: se convirtieron en leyendas dentro de la franquicia",
+      "category": "Tecnología",
+      "bullets_20s": "• Los pokémones escasos han capturado la imaginación de muchos jugadores a lo largo de los años.\n• La dificultad para obtener ciertos pokémon ha incrementado su valor dentro de la comunidad de jugadores.\n• Las estrategias para atrapar estos pokémon varían y generan un gran interés entre los fans.\n• Existen eventos especiales que permiten capturar criaturas que son difíciles de encontrar en el juego.\n• Los pokémon raros son tema de intercambio entre jugadores en diferentes plataformas de juego.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/tecnologia/estos-son-los-12-pokemones-mas-escasos-se/OSJJ4ETFZZEMFLC45AEXYXD2CA/story/",
+      "publish_date": "2026-04-12T20:12:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Los pokémon escasos son tesoros virtuales en la franquicia.",
+      "image_url": "https://www.nacion.com/resizer/v2/42IAXHGXNNHHHN7H2SH76XF4JE.jpeg?auth=839d49d7a257805b85597d920bc2123926ecbc3bd7f30a9246e8e34cbf1e05b7&smart=true&width=1200&height=675",
+      "description": "Algunas criaturas desaparecieron casi por completo de los juegos, y hoy son considerados tesoros virtuales por su dificultad de obtención.",
+      "featured": false
+    },
+    {
       "slug": "ni-gym-ni-running-el-metodo-que-activa-los-musculos-hasta-50-veces-por-segundo",
       "title": "Ni gym ni running: el método que activa los músculos hasta 50 veces por segundo",
       "category": "Ciencia",
@@ -1444,19 +1470,6 @@
       "featured": false
     },
     {
-      "slug": "estos-son-los-12-pokemones-mas-escasos-se-convirtieron-en-leyendas-dentro-de-la-franquicia",
-      "title": "Estos son los 12 pokémones más escasos: se convirtieron en leyendas dentro de la franquicia",
-      "category": "Tecnología",
-      "bullets_20s": "• La escasez de ciertos pokémon ha generado un gran misterio entre los aficionados a la franquicia.\n• Los jugadores han creado comunidades para compartir estrategias sobre cómo obtener estas criaturas.\n• Las leyendas en torno a pokémon escasos han aumentado el interés por el juego a lo largo de los años.\n• Varios pokémon fueron diseñados con características únicas, haciéndolos altamente deseados.\n• La dificultad de captura ha llevado a muchos a considerarlos verdaderos tesoros virtuales.",
-      "source_name": "O Globo",
-      "source_url": "https://www.nacion.com/tecnologia/estos-son-los-12-pokemones-mas-escasos-se/OSJJ4ETFZZEMFLC45AEXYXD2CA/story/",
-      "publish_date": "2026-04-10T15:24:19.000Z",
-      "teaser": "Lo clave en 20 segundos: descubre los pokémon más escasos y su impacto en la franquicia.",
-      "image_url": "https://www.nacion.com/resizer/v2/42IAXHGXNNHHHN7H2SH76XF4JE.jpeg?auth=839d49d7a257805b85597d920bc2123926ecbc3bd7f30a9246e8e34cbf1e05b7&smart=true&width=1200&height=675",
-      "description": "Algunas criaturas desaparecieron casi por completo de los juegos, y hoy son considerados tesoros virtuales por su dificultad de obtención.",
-      "featured": false
-    },
-    {
       "slug": "artemis-ii-este-es-el-salario-de-los-astronautas-de-la-nasa",
       "title": "Artemis II: este es el salario de los astronautas de la NASA",
       "category": "Ciencia",
@@ -2435,11 +2448,11 @@
       "slug": "asamblea-legislativa-rinde-homenaje-al-tec-por-su-legado-y-proyeccion-internacional",
       "title": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebró su 55 aniversario con un evento solemne en la Asamblea Legislativa.\n• La actividad reunió a autoridades legislativas y académicas, destacando la influencia del TEC en Costa Rica.\n• Se entregó un reconocimiento oficial por parte del presidente del Congreso y de una diputada de la República.\n• El TEC ha sido clave en la formación de talento humano y la transformación productiva del país.\n• Durante el evento, se presentaron los logros académicos y la proyección internacional del TEC.",
+      "bullets_20s": "• El Tecnológico de Costa Rica fue homenajeado en su 55 aniversario por su impacto en el desarrollo nacional.\n• La ceremonia incluyó la entrega de un reconocimiento oficial por el presidente del Congreso y una diputada.\n• Se destacó el papel del TEC en la formación de talento humano y la transformación del país.\n• El TEC ha evolucionado desde tres carreras hasta ofrecer 23 programas de grado en la actualidad.\n• La representación del PNUD también resaltó la trayectoria del TEC como aliado en desarrollo humano sostenible.\n• El evento cerró con una presentación cultural de la agrupación folclórica Tierra y Cosecha del TEC.\n• La rectora del TEC reafirmó el compromiso institucional con el país y la formación de profesionales.\n• Los asistentes incluyeron autoridades, diplomáticos y miembros de la comunidad académica y estudiantil.\n• Se subrayó la importancia de la ciencia y la tecnología como pilares del progreso en Costa Rica.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/asamblea-legislativa-rinde-homenaje-tec-su-legado-proyeccion-internacional",
       "publish_date": "2026-04-09T04:44:24.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC celebrado por su legado educativo y su influencia en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El TEC fue homenajeado en su 55 aniversario por su impacto y legado en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/homenaje-asamblea-legislativa_tec-55-aniversario_rgarita-3-2.jpg.webp?itok=vf7tXJb_",
       "description": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
       "featured": false
@@ -2695,11 +2708,11 @@
       "slug": "universidades-ganan-recurso-ante-la-sala-constitucional-de-costa-rica-por-fees-2025",
       "title": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "category": "Costa Rica",
-      "bullets_20s": "• La Sala Constitucional dictaminó a favor de las universidades sobre el FEES del 2025.\n• El 2% del FEES se destinará a becas y aumento de matrícula en educación superior.\n• El acuerdo del CONARE garantiza el 20% del 2% a Tecnológico de Costa Rica.\n• Se condenó al Estado a pagar costas y daños por incumplimiento en el giro.\n• El fallo advierte sobre sanciones penales por desacato a la resolución emitida.",
+      "bullets_20s": "• La Sala Constitucional de Costa Rica resolvió positivamente un recurso sobre el FEES 2025.\n• El fallo exige al Ministerio de Hacienda girar los fondos destinados a la educación superior.\n• El 20% del 2% del FEES será asignado al Tecnológico de Costa Rica, según acuerdos previos.\n• Este recurso busca garantizar las becas estudiantiles y el sostenimiento del sistema educativo.\n• Sanciones penales se aplicarán ante incumplimientos de la resolución dictada por la Sala.\n• El CONARE gestiona estos recursos para asegurar el crecimiento de la matrícula universitaria.\n• Se destacó que el Estado deberá pagar costas, daños y perjuicios ocasionados por el caso.\n• La resolución se emitió el 7 de abril de 2026, generando expectativas en el sector educativo.\n• Votaciones salvadas en el tribunal indican posturas diferentes sobre la admisibilidad del recurso.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/universidades-ganan-recurso-sala-constitucional-costa-rica-fees-2025",
       "publish_date": "2026-04-08T21:39:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Universidades logran fallo favorable sobre FEES 2025 en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La Sala Constitucional falló a favor de universidades por el FEES 2025.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees_08_07_2025_paquesada-39.jpg.webp?itok=tdBGpgTP",
       "description": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "featured": false
@@ -2812,11 +2825,11 @@
       "slug": "estudiantes-del-tec-fortalecen-redes-de-apoyo-en-stem",
       "title": "Estudiantes del TEC fortalecen redes de apoyo en STEM",
       "category": "Costa Rica",
-      "bullets_20s": "• Mujeres estudiantes del TEC se reunieron para fortalecer la comunidad en STEM.\n• La actividad fue organizada por la Secretaría de Investigación y Extensión.\n• Mente en acción y Rocket Girls participaron en el encuentro de apoyo.\n• El objetivo fue promover redes que ayuden a mantener el interés en STEM.\n• Se busca empoderar mujeres jóvenes en áreas científicas y tecnológicas.",
+      "bullets_20s": "• Mujeres estudiantes del TEC se reunieron para fortalecer su sentido de comunidad en STEM.\n• El encuentro incluyó egresadas de organizaciones como Mente en acción y Rocket Girls.\n• Estas ONG ofrecen programas y cursos en Ciencia, Tecnología, Ingeniería y Matemáticas.\n• La actividad buscó promover redes de apoyo para el desarrollo en carreras STEM.\n• Mente en acción brinda becas y formación en STEM a mujeres jóvenes en el país.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/estudiantes-tec-fortalecen-redes-apoyo-stem",
       "publish_date": "2026-04-08T19:37:01.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC fortalecen redes en STEM para empoderar a mujeres jóvenes.",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC promueven redes de apoyo en carreras STEM.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/encuentro-egresadas-mente-accion-rocket-girls-tec-cartago-2026_gcastillo-7.jpg.webp?itok=zKMdzjl_",
       "description": "Estudiantes del TEC fortalecen redes de apoyo en STEM",
       "featured": false
@@ -2838,13 +2851,13 @@
       "slug": "la-sonda-cosmologica-de-las-islas-para-la-deteccion-de-hidrogeno-neutro",
       "title": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "category": "Ciencia",
-      "bullets_20s": "• La charla se realizará el jueves 9 de abril a las 5:00 p. m. de forma virtual.\n• Estará a cargo del Dr. Omar López Cruz del Instituto Nacional de Astrofísica de México.\n• Se abordará el papel del hidrógeno neutro en la comprensión del universo.\n• El objetivo es acercar al público a la divulgación científica de las estrellas y galaxias.\n• Se utilizarán leyes de la física para explicar la evolución de astros en el cosmos.",
+      "bullets_20s": "• El Jueves Astronómico #500 se realizará el 9 de abril a las 5:00 p.m.\n• La charla se desarrollará en modalidad virtual y se proyectará en el auditorio.\n• Será dictada por el Dr. Omar López Cruz, un investigador mexicano.\n• Abordará el papel del hidrógeno neutro en el entendimiento del universo.\n• Se promoverá el conocimiento científico sobre la evolución de estrellas y galaxias.\n• La charla busca atraer el interés en astronomía y astrofísica en la población.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/sonda-cosmologica-islas-deteccion-hidrogeno-neutro",
       "publish_date": "2026-04-08T19:11:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Charla sobre hidrógeno neutro y su papel en astronómica.",
+      "teaser": "Lo clave en 20 segundos: Charla sobre hidrógeno neutro y su importancia en el universo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dr-omar-lopez.jpg",
-      "description": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
+      "description": "La sonda cosmológica de las islas para la detección de hidrógeno neutro.",
       "featured": false
     },
     {
@@ -13092,5 +13105,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-12T20:30:53.433Z"
+  "generated_at": "2026-04-12T21:30:53.524Z"
 }
