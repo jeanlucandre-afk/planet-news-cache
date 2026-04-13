@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "mas-de-1000-empleos-expo-san-carlos-impulsa-encadenamientos-productivos-en-la-zona-norte",
+      "title": "Más de 1.000 empleos: Expo San Carlos impulsa encadenamientos productivos en la zona norte",
+      "category": "Costa Rica",
+      "bullets_20s": "• Expo San Carlos genera un impulso significativo en la creación de empleo en la Zona Norte.\n• La actividad busca fomentar encadenamientos productivos en diferentes sectores económicos.\n• Se proyecta una atracción de inversores en diferentes áreas del agro y la industria.\n• La feria incluye actividades que benefician directamente a la comunidad local.\n• Impacto positivo en la economía regional y en la calidad de vida de los habitantes.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/economia/mas-de-1000-empleos-expo-san-carlos-impulsa/66QNFWUWZNBEJNBLDIOOOB7GYU/story/",
+      "publish_date": "2026-04-13T19:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Expo San Carlos crea más de 1.000 empleos en la Zona Norte.",
+      "image_url": "https://www.nacion.com/resizer/v2/GRM2YFASDFCAHHEY23U2WKSA4U.jpg?auth=58c38fb4735a46d884a2c7fba52ac0d74af4047fc681cc1a72c56cd31f105a20&smart=true&width=1550&height=872",
+      "description": "Expo San Carlos Internacional proyecta más de 1.000 empleos directos y dinamiza la economía de la Zona Norte con encadenamientos productivos y actividades agropecuarias.",
+      "featured": false
+    },
+    {
+      "slug": "laura-fernandez-agradece-al-pln-por-la-aprobacion-de-un-proyecto-de-ley-escuche-lo-que-dijo",
+      "title": "Laura Fernández agradece al PLN por la aprobación de un proyecto de ley: escuche lo que dijo",
+      "category": "Costa Rica",
+      "bullets_20s": "• Laura Fernández destacó la importancia de los proyectos aprobados por el PLN para el país.\n• El encuentro con los diputados busca fortalecer los lazos entre el nuevo gobierno y el PLN.\n• Fernández comentó sobre la relevancia de la colaboración entre partidos políticos.\n• Se espera que los proyectos continúen avanzando en beneficio de la ciudadanía.\n• La ministra reafirma su compromiso con la transparencia y la participación ciudadana.",
+      "source_name": "Aarón Sequeira",
+      "source_url": "https://www.nacion.com/politica/laura-fernandez-agradece-al-pln-por-la-aprobacion/KRWQ3Y6DYJB6LHB6HJD76BKW64/story/",
+      "publish_date": "2026-04-13T19:10:24.000Z",
+      "teaser": "Lo clave en 20 segundos: Laura Fernández celebra el apoyo del PLN en nuevos proyectos de ley.",
+      "image_url": "https://www.nacion.com/resizer/v2/5CNVHIHOSJGIDANSGWUHNMEIMI.JPG?auth=c29dfca2e1b7df18739aca06617542cb26c3cf09952c790e0368a8a539dc4edd&smart=true&width=4000&height=2667",
+      "description": "La ministra de la Presidencia y presidenta electa llegó este lunes para reunirse con los diputados salientes de Liberación Nacional",
+      "featured": false
+    },
+    {
       "slug": "sinac-detuvo-temporalmente-a-diputado-por-presunta-pesca-ilegal-en-canales-de-tortuguero-el-alega-malentendido",
       "title": "Sinac detuvo temporalmente a diputado por presunta pesca ilegal en canales de Tortuguero; él alega malentendido",
       "category": "Costa Rica",
@@ -3108,19 +3134,6 @@
       "featured": false
     },
     {
-      "slug": "asamblea-legislativa-rinde-homenaje-al-tec-por-su-legado-y-proyeccion-internacional",
-      "title": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
-      "category": "Costa Rica",
-      "bullets_20s": "• El homenaje celebró el 55 aniversario del Tecnológico de Costa Rica y su legado educativo.\n• El evento reunió a autoridades, diplomáticos y la comunidad académica en reconocimiento al TEC.\n• Se entregó un reconocimiento oficial, destacando el papel del TEC en la formación de talento humano.\n• La diputada Méndez destacó que el TEC forma profesionales y seres humanos comprometidos.\n• Presentaciones sobre la proyección internacional del TEC y su evolución académica fueron parte del evento.\n• El TEC actualmente ofrece 23 programas de grado y 22 de maestría, expandiendo su oferta educativa.\n• La agrupación folclórica Tierra y Cosecha presentó danzas tradicionales, rescatando la cultura costarricense.\n• El TEC se reafirma como motor de desarrollo y transformación social en el país.\n• El evento simboliza el compromiso del TEC con la educación, ciencia y tecnología.\n• El TEC busca atender las necesidades del país con profesionales altamente calificados.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/asamblea-legislativa-rinde-homenaje-tec-su-legado-proyeccion-internacional",
-      "publish_date": "2026-04-09T04:44:24.000Z",
-      "teaser": "Lo clave en 20 segundos: Homenaje al TEC por su impacto en educación y desarrollo en Costa Rica.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/homenaje-asamblea-legislativa_tec-55-aniversario_rgarita-3-2.jpg.webp?itok=vf7tXJb_",
-      "description": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
-      "featured": false
-    },
-    {
       "slug": "dos-pinos-realizara-feria-de-empleo-en-san-jose-vea-aqui-los-puestos-disponibles",
       "title": "Dos Pinos realizará feria de empleo en San José: vea aquí los puestos disponibles",
       "category": "Costa Rica",
@@ -3316,6 +3329,19 @@
       "featured": false
     },
     {
+      "slug": "asamblea-legislativa-rinde-homenaje-al-tec-por-su-legado-y-proyeccion-internacional",
+      "title": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Tecnológico de Costa Rica fue homenajeado en su 55 aniversario por su impacto nacional.\n• La ceremonia unió autoridades del Poder Legislativo y la comunidad académica del TEC.\n• Se destacó la importancia del TEC en la formación de profesionales y el desarrollo humano.\n• La diputada Rosaura Méndez elogió la educación transformadora del TEC en la sociedad.\n• La rectora María Estrada reafirmó el compromiso del TEC con el futuro del país.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/asamblea-legislativa-rinde-homenaje-tec-su-legado-proyeccion-internacional",
+      "publish_date": "2026-04-08T22:44:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC fue homenajeado por su impacto en el desarrollo nacional y su proyección internacional.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/homenaje-asamblea-legislativa_tec-55-aniversario_rgarita-3-2.jpg.webp?itok=vf7tXJb_",
+      "description": "Asamblea Legislativa rinde homenaje al TEC por su legado y proyección internacional",
+      "featured": false
+    },
+    {
       "slug": "un-gen-de-riesgo-para-el-alzheimer-altera-el-cerebro-decadas-antes-de-que-aparezcan-los-sintomas-segun-un-estudio",
       "title": "Un gen de riesgo para el Alzheimer altera el cerebro décadas antes de que aparezcan los síntomas, según un estudio",
       "category": "Ciencia",
@@ -3371,11 +3397,11 @@
       "slug": "universidades-ganan-recurso-ante-la-sala-constitucional-de-costa-rica-por-fees-2025",
       "title": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "category": "Costa Rica",
-      "bullets_20s": "• La Sala Constitucional ordena al Ministerio de Hacienda cumplir con el giro del FEES.\n• El 2% del FEES del 2025 se destinará en parte al Tecnológico de Costa Rica.\n• Este recurso es vital para las becas y el crecimiento de la matrícula universitaria.\n• Se recuerda el desacato podría acarrear sanciones penales para responsables.\n• El Estado deberá pagar costas y daños por el incumplimiento de este recurso.",
+      "bullets_20s": "• Las universidades públicas obtienen respaldo de la Sala Constitucional para el FEES 2025.\n• El FEES es vital para el financiamiento de becas y crecimiento estudiantil en Costa Rica.\n• El 2% del FEES 2025 estará destinado en un 20% al Tecnológico de Costa Rica.\n• La resolución exige al Ministerio de Hacienda cumplir con el giro de recursos pendientes.\n• Se establecen sanciones penales por desacato de la resolución de la Sala Constitucional.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/universidades-ganan-recurso-sala-constitucional-costa-rica-fees-2025",
       "publish_date": "2026-04-08T21:39:40.000Z",
-      "teaser": "Lo clave en 20 segundos: La Sala Constitucional respalda financiamiento de universidades en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Universidades aseguran recursos vitales para educación superior en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/fees_08_07_2025_paquesada-39.jpg.webp?itok=tdBGpgTP",
       "description": "Universidades ganan recurso ante la Sala Constitucional de Costa Rica por FEES 2025",
       "featured": false
@@ -3488,11 +3514,11 @@
       "slug": "estudiantes-del-tec-fortalecen-redes-de-apoyo-en-stem",
       "title": "Estudiantes del TEC fortalecen redes de apoyo en STEM",
       "category": "Costa Rica",
-      "bullets_20s": "• El encuentro se realizó el 7 de abril en el aula de PAMTEC.\n• Buscó fortalecer la comunidad entre mujeres interesadas en STEM.\n• Participaron egresadas de Mente en acción y Rocket Girls.\n• Estas organizaciones fomentan la educación en Ciencia y Tecnología.\n• Promueven redes de apoyo para mujeres en sus carreras STEM.",
+      "bullets_20s": "• El TEC fomenta el sentido de comunidad entre mujeres en carreras STEM.\n• Encuentro con egresadas de Mente en acción y Rocket Girls busca apoyo.\n• Programas STEM ofrecen becas, mentorías y empoderamiento de género.\n• Más de 1400 mujeres han sido graduadas en Mente en acción desde su inicio.\n• Rocket Girls ayuda a jóvenes en contextos vulnerables a acceder a educación.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/estudiantes-tec-fortalecen-redes-apoyo-stem",
       "publish_date": "2026-04-08T19:37:01.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC crean redes de apoyo para mujeres en STEM con iniciativas educativas.",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC fortalecen redes de apoyo para mujeres en STEM.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/encuentro-egresadas-mente-accion-rocket-girls-tec-cartago-2026_gcastillo-7.jpg.webp?itok=zKMdzjl_",
       "description": "Estudiantes del TEC fortalecen redes de apoyo en STEM",
       "featured": false
@@ -3514,11 +3540,11 @@
       "slug": "la-sonda-cosmologica-de-las-islas-para-la-deteccion-de-hidrogeno-neutro",
       "title": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "category": "Ciencia",
-      "bullets_20s": "• La sonda se presenta en un evento virtual titulado Jueves Astronómico #500.\n• La charla se centra en la detección de hidrógeno neutro en el universo.\n• El Dr. Omar López Cruz liderará la exposición desde México.\n• Se busca acercar temas de divulgación científica a la población.\n• El evento fomenta el interés en astronomía y astrofísica.\n• Se emplean leyes de la física para explicar la evolución estelar.\n• Se espera una amplia participación del público general.\n• Transmisión gratuita para que todos puedan acceder a la charla.\n• La actividad es parte de un esfuerzo por promover el conocimiento.\n• Invitan a sintonizar para aprender sobre el cosmos.",
+      "bullets_20s": "• La charla sobre el hidrógeno neutro será virtual y accesible para el público general.\n• El Dr. Omar López Cruz compartirá su investigación sobre el universo y las galaxias.\n• El evento busca fomentar el interés en astronomía y astrofísica entre los asistentes.\n• Se prevé una explicación sobre la evolución de estrellas y galaxias a partir de la física.\n• La actividad forma parte de los Jueves Astronómicos, un esfuerzo por divulgar ciencia.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/sonda-cosmologica-islas-deteccion-hidrogeno-neutro",
       "publish_date": "2026-04-08T19:11:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Conoce sobre hidrógeno neutro en el universo en evento astronómico.",
+      "teaser": "Lo clave en 20 segundos: charla sobre hidrógeno neutro y su papel en el universo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dr-omar-lopez.jpg",
       "description": "La sonda cosmológica de las islas para la detección de hidrógeno neutro",
       "featured": false
@@ -13768,5 +13794,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-13T19:30:54.422Z"
+  "generated_at": "2026-04-13T20:30:54.794Z"
 }
