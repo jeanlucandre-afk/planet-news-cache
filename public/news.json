@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "a-un-joven-le-pegaron-tanto-que-se-desmayo-como-la-policia-de-grecia-utiliza-migrantes-enmascarados-para-expulsar-a-otro",
+      "title": "A un joven le pegaron tanto que se desmayó: cómo la policía de Grecia utiliza migrantes enmascarados para expulsar a otros migrantes en su frontera con Turquía",
+      "category": "Mundo",
+      "bullets_20s": "• La policía griega recluta migrantes enmascarados para controlar la frontera con Turquía.\n• El uso de 'mercenarios' ha generado preocupación y debate internacional sobre derechos humanos.\n• Las devoluciones en caliente han sido denunciadas por diversas organizaciones no gubernamentales.\n• Las condiciones de estos migrantes enmascarados son difíciles y peligrosas.\n• Grecia enfrenta críticas por su trato a los migrantes en situaciones de desesperación.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cnv8839neq4o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-15T04:05:05.000Z",
+      "teaser": "Lo clave en 20 segundos: La policía griega usa migrantes para trabajar en expulsiones en la frontera turca.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1b7e/live/7eca0900-37c9-11f1-9d5c-8ba507d7dbde.jpg",
+      "description": "Se ha reclutado a 'mercenarios' para practicar devoluciones en caliente desde al menos desde 2020, según ha podido saber la BBC.",
+      "featured": false
+    },
+    {
+      "slug": "cae-joven-por-seguir-en-moto-a-mujer-y-abusar-de-ella",
+      "title": "Cae joven por seguir en moto a mujer y abusar de ella",
+      "category": "Costa Rica",
+      "bullets_20s": "• La detención se realizó por agentes del OIJ tras una denuncia de la víctima.\n• El joven, de 20 años, es sospechoso de un delito grave cometido recientemente.\n• Se recuerda la importancia de reportar casos de abuso para proteger a las víctimas.\n• Las autoridades han aumentado la vigilancia en áreas de riesgo para la seguridad.\n• Este caso ha causado revuelo en la comunidad, generando debate sobre protección.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/cae-joven-por-seguir-en-moto-a-mujer-y-abusar-de/IIOBKOAKEFB6DNN4FIR3OL5B7U/story/",
+      "publish_date": "2026-04-15T03:52:04.000Z",
+      "teaser": "Lo clave en 20 segundos: Un joven fue arrestado por presunto abuso sexual a una mujer.",
+      "image_url": "https://www.nacion.com/resizer/v2/4IMUWVX7ZFCRVNIYO5MOAF4H7Q.jpg?auth=fafe537a4e7c91ef97d490b27c276016d47c6912a9576a05c6ab85760b8d027e&smart=true&width=1200&height=945",
+      "description": "Agentes del OIJ detuvieron la tarde de este martes a un hombre de 20 años como sospechoso del delito de abuso sexual contra una persona mayor de edad.",
+      "featured": false
+    },
+    {
       "slug": "legislador-de-ee-uu-insta-a-fifa-a-pagar-el-transporte-publico-durante-el-mundial-2026",
       "title": "Legislador de EE. UU. insta a FIFA a pagar el transporte público durante el Mundial 2026",
       "category": "Mundo",
-      "bullets_20s": "• Un legislador de EE. UU. ha solicitado un cambio en la política de FIFA sobre el transporte.\n• La solicitud se da debido a preocupaciones por altos costos en el transporte público.\n• Se menciona una tarifa potencial de más de $100 para el tren al estadio.\n• El Mundial 2026 se celebrará en varias ciudades de Estados Unidos.\n• La solicitud busca mejorar el acceso al evento para los aficionados.\n• Se espera que FIFA reconsidere su política de transporte público para el evento.",
+      "bullets_20s": "• Un legislador estadounidense solicita a FIFA cubrir el costo del transporte público en el Mundial 2026.\n• La solicitud surge tras un plan para tarifas de tren que exceden los $100 hacia el estadio.\n• Los costos elevados de transporte han generado preocupaciones entre los aficionados al fútbol.\n• La propuesta busca garantizar accesibilidad para todos los fanáticos durante el evento.\n• Se esperan miles de visitantes a Nueva Jersey durante el Mundial de 2026.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/puro-deporte/legislador-de-ee-uu-insta-a-fifa-a-pagar-el/WSARKQAITFDV5J2G24CXUQCMIA/story/",
       "publish_date": "2026-04-15T02:50:16.000Z",
-      "teaser": "Lo clave en 20 segundos: legislador solicita a FIFA cubrir transporte público para el Mundial 2026.",
+      "teaser": "Lo clave en 20 segundos: un legislador pide a FIFA financiar el transporte público para el Mundial 2026.",
       "image_url": "https://www.nacion.com/resizer/v2/6MPSHX733ZCAZOTXTSPY6HWGPQ.jpg?auth=c028fb9307b821d9b794b451739591acdf20872c44298522b80bee6cbdb61691&smart=true&width=6615&height=4410",
       "description": "Solicitud de legislador para el Mundial 2026 se da tras un supuesto plan para cobrar más de $100 por el pasaje de tren al estadio en Nueva Jersey.",
       "featured": false
@@ -95,11 +121,11 @@
       "slug": "conare-ampliado-aprueba-principios-para-la-redistribucion-del-fees-2027-y-sus-incrementos",
       "title": "CONARE ampliado aprueba principios para la redistribución del FEES 2027 y sus incrementos",
       "category": "Costa Rica",
-      "bullets_20s": "• El CONARE ampliado consiste en las cinco universidades públicas del país y otros actores relevantes.\n• Se aprueban ocho principios rectores para la redistribución del FEES, buscando el fortalecimiento educativo.\n• La redistribución del FEES se orientará hacia el cierre de brechas en la asignación de recursos.\n• Se busca garantizar la estabilidad financiera del Sistema de Educación Superior Universitaria Estatal.\n• Las universidades con menor asignación histórica recibirán mayor atención en la redistribución.",
+      "bullets_20s": "• El CONARE ampliado incluye a las cinco universidades públicas y otros representantes estratégicos.\n• Se aprobaron ocho principios que buscan la redistribución del financiamiento en 2027.\n• Se busca una distribución equitativa y sostenible del Fondo Especial para la Educación Superior.\n• Los principios garantizan estabilidad financiera en la educación superior universitaria estatal.\n• Una de las metas es cerrar brechas en la asignación de recursos entre universidades.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/conare-ampliado-aprueba-principios-redistribucion-fees-2027-sus-incrementos",
       "publish_date": "2026-04-14T23:51:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Se aprueban principios para redistribuir el FEES 2027, mejorando la educación superior.",
+      "teaser": "Lo clave en 20 segundos: Se aprueban principios para redistribuir el FEES 2027, buscando equidad y sostenibilidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/conare-tec-1.jpg.webp?itok=emTRS8HY",
       "description": "CONARE ampliado aprueba principios para la redistribución del FEES 2027 y sus incrementos",
       "featured": false
@@ -446,11 +472,11 @@
       "slug": "mi-ninera-era-una-espia-de-la-kgb-y-descubri-que-enveneno-a-su-marido-en-el-sillon-donde-me-daba-la-leche",
       "title": "Mi niñera era una espía de la KGB y descubrí que envenenó a su marido en el sillón donde me daba la leche",
       "category": "Mundo",
-      "bullets_20s": "• Una historia impactante sobre una niñera con pasado en la KGB al servicio de la inteligencia soviética.\n• El esposo de la niñera fue encontrado muerto en circunstancias sospechosas que involucraron envenenamiento.\n• Ramos recuerda con nostalgia momentos de su infancia en la casa de la espía y el misterioso suceso.\n• El relato explora la dualidad de la vida familiar y el encubrimiento de secretos de estado.\n• Este caso resalta el vínculo de las relaciones personales con el espionaje internacional, inesperadamente.\n• La historia muestra cómo la vida cotidiana puede esconder secretos oscuros del pasado.\n• El envenenamiento generó controversia y especulaciones sobre las acciones de la KGB.\n• El descubrimiento del pasado de la niñera plantea preguntas sobre la lealtad y la traición en la familia.\n• Las revelaciones impactantes del autor ofrecen una visión fascinante del espionaje durante la Guerra Fría.\n• Este caso revela la complejidad de las relaciones entre la vida personal y la historia política.",
+      "bullets_20s": "• La historia se sitúa en un contexto de espionaje durante la Guerra Fría en Europa.\n• El testimonio revela detalles sorprendentes sobre la vida de una espía en la KGB.\n• La niñera fue una figura clave en la infancia del protagonista, revelando secretos ocultos.\n• El envenenamiento del esposo ha generado especulación sobre las motivaciones políticas.\n• Este relato mezcla la vida cotidiana con intrigas de espionaje internacional.\n• El descubrimiento se plantea como un dilema entre la lealtad y el secreto.\n• La historia se cuenta a través de recuerdos y entrevistas con familiares.\n• Impacto de la revelación en la vida del protagonista y su percepción del pasado.\n• Reflexiones sobre cómo las vidas normales pueden estar conectadas al espionaje.\n• El relato invita a pensar en las sombras del espionaje en la historia reciente.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cql72dq4qr7o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-14T18:47:41.000Z",
-      "teaser": "Lo clave en 20 segundos: Una niñera KGB revela un oscuro secreto familiar tras un envenenamiento.",
+      "teaser": "Lo clave en 20 segundos: una niñera KGB, un esposo envenenado y secretos de infancia revelados.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/dd22/live/2b1e0b40-2d32-11f1-8c7a-d7713554a96a.png",
       "description": "Fue su niñera cuando Ramos tenía y años. A ella y a su hermano los recogía de la escuela y los llevaba a su casa para darles la merienda. La misma casa donde el esposo italiano de la espía murió envenenado.",
       "featured": false
@@ -576,24 +602,24 @@
       "slug": "pg-sg-02-realizacion-de-eventos-masivos-en-el-campus-tecnologico-central-cartago",
       "title": "PG-SG-02 Realización de eventos masivos en el Campus Tecnológico Central Cartago",
       "category": "Tecnología",
-      "bullets_20s": "• El procedimiento está diseñado para facilitar la organización de eventos en el campus tecnológico.\n• Se establecen manuales claros para la realización de eventos masivos.\n• Este documento fue creado y revisado durante marzo de 2026.\n• Cambios importantes se introdujeron en la última modificación de abril de 2026.\n• El enfoque es mejorar la experiencia de los asistentes a los eventos.",
+      "bullets_20s": "• El Campus Tecnológico Central en Cartago se prepara para la realización de eventos masivos.\n• Se establecen manuales y procedimientos para asegurar la calidad de estos eventos.\n• La última modificación de los procedimientos fue en abril de 2026.\n• Los eventos masivos buscan promover la interacción y el aprendizaje entre asistentes.\n• Este proyecto se alinea con las tendencias modernas en organización de eventos.",
       "source_name": "malvarez",
       "source_url": "http://www.tec.ac.cr/pg-sg-02-realizacion-eventos-masivos-campus-tecnologico-central-cartago",
       "publish_date": "2026-04-14T16:21:07.000Z",
-      "teaser": "Lo clave en 20 segundos: Procedimiento claro para eventos en el Campus Tecnológico Central.",
+      "teaser": "Lo clave en 20 segundos: Eventos masivos se organizan en el Campus Tecnológico de Cartago.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "malvarez",
       "featured": false
     },
     {
       "slug": "pg-sg-03-ingreso-en-horas-no-habiles-en-el-campus-tecnologico-central-cartago",
-      "title": "PG-SG-03 Ingreso en horas no hábiles en el Campus Tecnológico Central Cartago",
+      "title": "PG-SG-03 Ingreso en horas no hábiles en el Campus Tecnológico Central Cartago",
       "category": "Tecnología",
-      "bullets_20s": "• Se presenta un nuevo procedimiento para el ingreso al CTCC en horarios no hábiles.\n• Este protocolo busca facilitar el acceso a las instalaciones del campus tecnológico.\n• Se establecen manuales y procedimientos que rigen la entrada en horas no convencionales.\n• La revisión y modificación de las normas se llevó a cabo en marzo y abril de 2026.\n• El nuevo procedimiento entrará en vigor para todos los usuarios del campus.",
+      "bullets_20s": "• El ingreso al campus en horas no hábiles requiere seguir un procedimiento específico.\n• Se han establecido manuales para guiar a los usuarios en este proceso.\n• La creación de este procedimiento se realizó en marzo de 2026.\n• Última revisión y modificación del documento ocurrieron en abril de 2026.\n• Es fundamental que todos los usuarios conozcan las normativas vigentes.",
       "source_name": "malvarez",
       "source_url": "http://www.tec.ac.cr/pg-sg-03-ingreso-horas-no-habiles-campus-tecnologico-central-cartago",
       "publish_date": "2026-04-14T16:19:01.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevo procedimiento para ingreso en horas no hábiles al CTCC.",
+      "teaser": "Lo clave en 20 segundos: Ingreso controlado en horas no hábiles en el CTCC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "malvarez",
       "featured": false
@@ -667,11 +693,11 @@
       "slug": "pg-sg-01-solicitud-de-uso-de-infraestructura-institucional-ctcc",
       "title": "PG-SG-01 Solicitud de uso de infraestructura institucional CTCC",
       "category": "Costa Rica",
-      "bullets_20s": "• El procedimiento establece las pautas para solicitar el uso de infraestructura del CTCC.\n• Se incluyen manuales que guían a los usuarios en el proceso de solicitud.\n• La revisión y modificación de los procedimientos se realizó en marzo y abril de 2026.\n• Los interesados deberán seguir las instrucciones detalladas en el manual correspondiente.\n• El CTCC busca optimizar el uso de su infraestructura institucional mediante procesos claros.",
+      "bullets_20s": "• La solicitud de uso de infraestructura en CTCC está diseñada para facilitar el acceso institucional.\n• Creación de manuales y procedimientos es clave para la gestión adecuada de los recursos.\n• El procedimiento asegura una revisión adecuada antes de la utilización de las instalaciones.\n• Se implementa un formato estándar para la presentación de solicitudes por parte de los interesados.\n• Las fechas de última revisión y modificación garantizan la actualización del procedimiento.",
       "source_name": "malvarez",
       "source_url": "http://www.tec.ac.cr/pg-sg-01-solicitud-uso-infraestructura-institucional-ctcc",
       "publish_date": "2026-04-14T14:57:55.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevos procedimientos para uso de infraestructura institucional en el CTCC.",
+      "teaser": "Lo clave en 20 segundos: Procedimiento para uso de infraestructura institucional en el CTCC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "malvarez",
       "featured": false
@@ -875,11 +901,11 @@
       "slug": "gaesa-el-imperio-empresarial-de-la-elite-secreta-de-cuba-que-maneja-miles-de-millones-de-dolares",
       "title": "Gaesa, el imperio empresarial de la élite secreta de Cuba que maneja miles de millones de dólares",
       "category": "Mundo",
-      "bullets_20s": "• Gaesa es un holding empresarial que controla grandes operaciones en Cuba y está vinculado al gobierno.\n• La élite cubana se beneficia de los recursos de Gaesa mientras el pueblo enfrenta dificultades económicas.\n• Este conglomerado acapara un porcentaje significativo del PIB cubano, alrededor del 40%.\n• Gaesa construye lujosos hoteles que contrastan con la escasez de productos básicos en el país.\n• Las Fuerzas Armadas tienen un papel clave en el control y la gestión de Gaesa.",
+      "bullets_20s": "• Gaesa, un holding empresarial, controla una parte significativa de la economía cubana.\n• La organización es parte de las Fuerzas Armadas y administra diversos recursos.\n• Construye modernos hoteles mientras la población enfrenta escasez de suministros.\n• Afirma manejar miles de millones de dólares en operaciones comerciales.\n• La desigualdad en Cuba se acentúa con el desarrollo de estos lujosos proyectos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cy91qw9dqj3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-14T11:14:18.000Z",
-      "teaser": "Lo clave en 20 segundos: Conoce el imperio Gaesa, su influencia en la economía cubana y su relación con el poder.",
+      "teaser": "Lo clave en 20 segundos: El holding Gaesa contrasta con la escasez cubana.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/0ad8/live/3a258860-28a1-11f1-ad4b-057060695e9a.jpg",
       "description": "Integrado en las Fuerzas Armadas, el holding Gaesa acapara aproximadamente el 40% del PIB y construye lujosos hoteles en Cuba, lo que contrasta con la extrema escasez y los apagones que sufre a diario la población.",
       "featured": false
@@ -5162,5 +5188,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-15T04:30:33.453Z"
+  "generated_at": "2026-04-15T05:30:33.401Z"
 }
