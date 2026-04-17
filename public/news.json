@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "japon-crea-nueva-categoria-para-alertar-sobre-calor-extremo-asi-define-estos-dias-calurosos",
+      "title": "Japón crea nueva categoría para alertar sobre calor extremo: así define estos días calurosos",
+      "category": "Mundo",
+      "bullets_20s": "• Japón implementa alertas para días con temperaturas excesivas, superando los 40 °C.\n• La nueva categoría se llama 'días cruelmente calurosos', buscando prevenir problemas de salud.\n• Las autoridades buscan reforzar la conciencia sobre riesgos del calor extremo en la población.\n• El cambio climático ha intensificado los fenómenos extremos, incluyendo olas de calor severas.\n• Este enfoque puede servir de modelo para otros países enfrentando altas temperaturas.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/ciencia/japon-crea-nueva-categoria-para-alertar-sobre/YCIOKHM3DBELLDHAMEHSUZWQIY/story/",
+      "publish_date": "2026-04-17T20:08:45.000Z",
+      "teaser": "Lo clave en 20 segundos: Japón define alertas para temperaturas extremas a más de 40 °C.",
+      "image_url": "https://www.nacion.com/resizer/v2/GVGV2DKCIRFM7MSSKYQAFI54SQ.png?auth=b12bda60958b7d5ea9a3c3ca0088e0eb2d60dc10652088039ee583e31fc75f87&smart=true&width=1680&height=945",
+      "description": "Japón define los días ‘cruelmente calurosos’ para temperaturas que superan los 40 °C y refuerza alertas ante el aumento del calor extremo en el país.",
+      "featured": false
+    },
+    {
+      "slug": "uruguay-inicia-ensayo-clinico-con-cannabis-medicinal-para-reducir-consumo-de-opioides-en-pacientes-con-dolor-cronico",
+      "title": "Uruguay inicia ensayo clínico con cannabis medicinal para reducir consumo de opioides en pacientes con dolor crónico",
+      "category": "Mundo",
+      "bullets_20s": "• El ensayo clínico busca evaluar la efectividad del cannabis en el tratamiento del dolor crónico.\n• Se enfoca en pacientes con afecciones osteoarticulares que requieren tratamiento para el dolor.\n• El objetivo es disminuir el uso de opioides, que tienen potencial adictivo y efectos secundarios.\n• La investigación incluye seguimiento a pacientes para analizar mejorías en su calidad de vida.\n• El uso de cannabis medicinal está ganando aceptación en varios países, incluyendo Uruguay.",
+      "source_name": "El País / GDA / Uruguay",
+      "source_url": "https://www.nacion.com/el-mundo/uruguay-inicia-ensayo-clinico-con-cannabis/4ZQMK37H3NFB3I5E5GNZ7YMA3I/story/",
+      "publish_date": "2026-04-17T20:02:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Uruguay inicia ensayo con cannabis medicinal para combatir el dolor crónico.",
+      "image_url": "https://www.nacion.com/resizer/v2/6TKVYF5KMRBI3LYHOSNHPNRVO4.png?auth=f670ec8f99c9fc74bdd5cc8d528fd75a8a7a6fc11e02efee4926934c14db6617&smart=true&width=1920&height=1080",
+      "description": "Uruguay inicia su primer ensayo clínico con cannabis medicinal para tratar dolor crónico y reducir el uso de opioides en pacientes osteoarticulares.",
+      "featured": false
+    },
+    {
+      "slug": "hijo-de-hombre-fallecido-tras-ataque-de-perro-me-quito-uno-de-mis-tesoros-mas-grandes",
+      "title": "Hijo de hombre fallecido tras ataque de perro: ‘Me quitó uno de mis tesoros más grandes’",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un hombre pierde la vida tras un ataque de un perro en circunstancias trágicas.\n• El hijo relata la difícil llamada que le otorgó la mala noticia sobre su padre.\n• Don Fernando Antonio Fernández Vargas era muy querido por su familia y amigos.\n• Este incidente resalta la importancia de la seguridad con mascotas.\n• Las autoridades investigan el ataque y su posible responsabilidad.\n• Las reacciones de la comunidad son de tristeza y condolencias hacia la familia.\n• El caso ha despertado un debate sobre la tenencia responsable de animales.\n• Familiares exigen justicia y mayores medidas de seguridad en el barrio.\n• El ataque ocurrió en una zona residencial que es normalmente tranquila.",
+      "source_name": "Christian  Montero, Yucsiany Salazar",
+      "source_url": "https://www.nacion.com/sucesos/hijo-de-hombre-fallecido-tras-ataque-de-perro-me/G4PKNUVBRFAFVNVYIMIF2W6UJM/story/",
+      "publish_date": "2026-04-17T19:58:34.000Z",
+      "teaser": "Lo clave en 20 segundos: un trágico ataque de perro causa luto familiar en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/VNZHAAXDJNDMDNLFDXLK7C4I3M.jpeg?auth=8c99d640520076acc6ffc26ac1801c15f02f864d31cf1e87a5d1561d186f7275&smart=true&width=1200&height=1600",
+      "description": "Leonard Fernando Fernández estaba en su trabajo cuando la llamada de uno de sus hermanos lo dejó frío.",
+      "featured": false
+    },
+    {
       "slug": "papa-leon-xiv-denuncia-uso-de-inteligencia-artificial-para-fomentar-conflictos-miedos-y-violencia",
       "title": "Papa León XIV denuncia uso de inteligencia artificial para fomentar ‘conflictos, miedos y violencia’",
       "category": "Mundo",
@@ -105,19 +144,6 @@
       "featured": false
     },
     {
-      "slug": "lo-que-aprendi-cuando-deje-de-consumir-azucar-durante-6-semanas",
-      "title": "Lo que aprendí cuando dejé de consumir azúcar durante 6 semanas",
-      "category": "Ciencia",
-      "bullets_20s": "• Reducir el consumo de azúcar puede mejorar la salud general de las personas.\n• El azúcar ha sido relacionado con enfermedades crónicas y condiciones de salud.\n• Dejar el azúcar puede tener efectos positivos en la energía diaria y el bienestar.\n• Algunas personas experimentan cambios en el estado de ánimo tras eliminar el azúcar.\n• Es importante considerar las alternativas naturales al azúcar en la alimentación.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/ce8lm1le4dvo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-04-17T17:27:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Aprende los efectos positivos de eliminar el azúcar de tu dieta.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/efae/live/f6076df0-3a76-11f1-9d5c-8ba507d7dbde.jpg",
-      "description": "Las dietas ricas en azúcar se han vinculado con la aparición de caries, inflamación, obesidad, diabetes, la enfermedad de Alzheimer y cáncer.",
-      "featured": false
-    },
-    {
       "slug": "eutanasia-a-hipopotamos-asi-sera-paso-a-paso-el-proceso-para-contener-a-esta-especie-invasora-y-el-costo-de-las-80-inter",
       "title": "Eutanasia a hipopótamos: así será, paso a paso, el proceso para contener a esta especie invasora y el costo de las 80 intervenciones que se harán en Colombia",
       "category": "Mundo",
@@ -167,32 +193,6 @@
       "teaser": "Lo clave en 20 segundos: Aumento tributario por venta privada impacta finanzas de Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/7FNQCRH4XJHW5EWKVK5R25JG7Y.JPG?auth=94113a5f5e69ca83cea0f1ee3e96103388b1622e569dc3ad4a3752adeacfd54f&smart=true&width=4000&height=2667",
       "description": "Los ingresos totales alcanzaron 2,2% del PIB y superaron los gastos primarios",
-      "featured": false
-    },
-    {
-      "slug": "iran-anuncia-la-reapertura-del-estrecho-de-ormuz-mientras-dure-el-alto-el-fuego-con-eeuu-e-israel",
-      "title": "Irán anuncia la reapertura del estrecho de Ormuz mientras dure el alto el fuego con EE.UU. e Israel",
-      "category": "Mundo",
-      "bullets_20s": "• Irán ha decidido reabrir el estrecho de Ormuz tras un acuerdo temporal de alto el fuego.\n• La reapertura ha impactado considerablemente en los precios del petróleo a nivel internacional.\n• El dólar mostró un descenso moderado en respuesta a la noticia de Irán sobre Ormuz.\n• Las bolsas de valores experimentaron subidas tras el anuncio de Irán sobre el estrecho.\n• El estrecho de Ormuz es crucial para el transporte del petróleo en el mundo.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/cj40gxeg0x8o?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-04-17T16:59:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Irán reabre el estrecho de Ormuz y el mundo reacciona en los mercados.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8d36/live/cd7e5d20-3a63-11f1-8f06-717b3fd5c907.jpg",
-      "description": "El anuncio provocó de inmediato una fuerte bajada en los precios del petróleo, un moderado descenso del dólar y subidas en las bolsas.",
-      "featured": false
-    },
-    {
-      "slug": "los-precios-del-petroleo-se-desploman-despues-de-que-iran-anunciara-la-reapertura-del-estrecho-de-ormuz",
-      "title": "Los precios del petróleo se desploman después de que Irán anunciara la reapertura del estrecho de Ormuz",
-      "category": "Mundo",
-      "bullets_20s": "• Irán ha reafirmado la apertura del estrecho de Ormuz para la navegación comercial.\n• Los precios del petróleo han caído considerablemente tras el anuncio de Irán.\n• El crudo Brent, en particular, ha sufrido una caída del 10%.\n• Este evento afecta a la economía global y a los mercados energéticos.\n• La seguridad en el estrecho es crucial para el flujo de petróleo mundial.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/cj40gd1w795o?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-04-17T16:53:12.000Z",
-      "teaser": "Lo clave en 20 segundos: Los precios del petróleo caen tras anuncio de Irán sobre el estrecho de Ormuz.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/0790/live/5a41eb90-3a6a-11f1-b0ed-870299e8b290.jpg",
-      "description": "El crudo Brent se desploma un 10% después de que Irán anunciara que la vía navegable permanece completamente abierta para los buques comerciales durante el alto el fuego.",
       "featured": false
     },
     {
@@ -404,19 +404,6 @@
       "featured": false
     },
     {
-      "slug": "en-video-bbc-mundo-visita-la-minipalestina-de-chile-una-de-las-mayores-comunidades-de-palestinos-fuera-del-mundo-arabe",
-      "title": "En video: BBC Mundo visita la 'minipalestina' de Chile, una de las mayores comunidades de palestinos fuera del mundo árabe",
-      "category": "Mundo",
-      "bullets_20s": "• La comunidad palestina en Chile es rica en historia y cultura, destacando su legado en Sudamérica.\n• El video muestra la vida cotidiana, tradiciones y desafíos que enfrenta esta población en el país.\n• A través del tiempo, han mantenido sus costumbres y lengua, creando una identidad única en Chile.\n• El reportaje investiga cómo llegaron a esta nación, a pesar de las grandes distancias geográficas.\n• Las dificultades y logros en la adaptación de los palestinos en un nuevo entorno son examinados.",
-      "source_name": "",
-      "source_url": "https://www.bbc.com/mundo/articles/c62len4w844o?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-04-17T12:33:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Conoce la comunidad palestina en Chile, su historia y tradiciones.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1034/live/6b98e520-3a46-11f1-8606-05fe34b06e1b.jpg",
-      "description": "Chile es el hogar de una de las colonias palestinas más grandes y antiguas del mundo fuera de Medio Oriente. En este video te mostramos quiénes son, cómo llegaron a un país que está a 13.000 kilómetros de distancia y cómo viven.",
-      "featured": false
-    },
-    {
       "slug": "que-significa-para-la-economia-de-venezuela-que-eeuu-haya-suavizado-las-sanciones-contra-los-bancos-estatales-del-pais",
       "title": "Qué significa para la economía de Venezuela que EE.UU. haya suavizado las sanciones contra los bancos estatales del país",
       "category": "Mundo",
@@ -550,11 +537,11 @@
       "slug": "autonomia-universitaria-sera-tema-de-discusion-en-la-catedra-elizabeth-odio-benito",
       "title": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria es fundamental para la educación superior pública en Costa Rica.\n• Expertos discutirán los desafíos que enfrenta la autonomía universitaria en la actualidad.\n• El conversatorio busca promover el diálogo sobre libertad académica y rendición de cuentas.\n• Participarán académicos y estudiantes con diferentes perspectivas sobre el tema.\n• La actividad se realizará en el auditorio de la Escuela de Arquitectura del TEC.",
+      "bullets_20s": "• La autonomía universitaria es fundamental para el funcionamiento de la educación pública superior.\n• Este conversatorio se llevará a cabo el 22 de abril a las 2:00 p.m. en el TEC.\n• Expertos académicos analizarán los retos de la autonomía en el contexto actual.\n• La actividad fomentará el diálogo sobre la libertad académica y la investigación.\n• El evento se enfoca en las demandas de rendición de cuentas del sistema educativo.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-sera-tema-discusion-catedra-elizabeth-odio-benito",
       "publish_date": "2026-04-17T04:51:15.000Z",
-      "teaser": "Lo clave en 20 segundos: la autonomía universitaria se debatirá en un conversatorio del TEC.",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria será discutida en un conversatorio del TEC el 22 de abril.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-conversatorio_san-jose.png",
       "description": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "featured": false
@@ -1148,11 +1135,11 @@
       "slug": "presentacion-del-libro-los-terremotos-de-1910",
       "title": "Presentación del libro Los terremotos de 1910",
       "category": "Costa Rica",
-      "bullets_20s": "• La presentación se llevará a cabo el 22 de abril a las 2 p.m. en Cartago.\n• El libro es escrito por Fraser Pirie y Franco Fernández Esquivel.\n• Se homenajeará a la familia Pirie durante el evento en la biblioteca.\n• Esta actividad forma parte del 55 Aniversario del TEC en Costa Rica.\n• Se celebra también en el contexto de la Semana del Libro en el país.",
+      "bullets_20s": "• El libro Los terremotos de 1910 se presentará el 22 de abril a las 2 p.m.\n• Fraser Pirie y Franco Fernández Esquivel son los autores de esta obra.\n• La presentación se llevará a cabo en la Biblioteca Figueres Ferrer de Cartago.\n• Habrá un homenaje especial a la familia Pirie durante el evento.\n• Este evento celebra el 55 Aniversario del TEC y la Semana del Libro.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-terremotos-1910",
       "publish_date": "2026-04-16T16:23:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Presentación del libro sobre históricos terremotos de 1910.",
+      "teaser": "Lo clave en 20 segundos: Presentación del libro sobre terremotos de 1910 en Cartago.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/terremotos-1910-tec-1.jpg",
       "description": "Presentación del libro Los terremotos de 1910",
       "featured": false
@@ -1706,12 +1693,12 @@
     {
       "slug": "semana-de-la-innovacion-tec-2026",
       "title": "Semana de la Innovación TEC 2026",
-      "category": "Tecnología",
-      "bullets_20s": "• El TEC Emprende Lab invita a la comunidad a participar y conectarse durante la semana de innovaciones.\n• Las actividades comienzan el 21 de abril, en el marco del Día Mundial de la Creatividad e Innovación.\n• Incluirá talleres, conversatorios y un mercado emprendedor que buscan destacar el talento local.\n• Se ofrecerán sesiones de inspiración y mentoría a cargo de expertos en diversas áreas y disciplinas.\n• Una variedad de eventos se desarrollarán, desde charlas hasta ferias, durante la semana.\n• Los interesados pueden registrarse previamente en la página oficial del TEC para participar.\n• Los encuentros buscan inspirar, visibilizar e impulsar el espíritu emprendedor de los estudiantes.\n• Se realizarán actividades en espacios físicos y virtuales, promoviendo la conexión y el aprendizaje.\n• El Demo Day mostrará proyectos de investigación del TEC que buscan soluciones creativas e innovadoras.\n• La feria Mercadito Emprendedor permitirá a los emprendimientos locales exhibir sus productos y talentos.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC Emprende Lab organiza la Semana de la Innovación para inspirar a la comunidad educativa.\n• Las actividades se centran en conectar talento y generar impacto a nivel institucional y global.\n• Eventos como ‘Talento sin fronteras’ invitan a expertos internacionales a compartir experiencias.\n• Se ofrecerán talleres prácticos sobre temas como mercados financieros y emprendimiento.\n• El Fracaso Fest y Open Mic fomentan un ambiente de conexión entre los participantes.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/semana-innovacion-tec-2026",
       "publish_date": "2026-04-15T21:38:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Actividades para emprendedores e innovadores en el TEC del 21 al 28 de abril.",
+      "teaser": "Lo clave en 20 segundos: Semana de Innovación TEC promueve creatividad y emprendimiento desde el 21 de abril.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tec-emprende.png",
       "description": "Semana de la Innovación TEC 2026",
       "featured": false
@@ -1772,11 +1759,11 @@
       "slug": "mas-humanos-que-nunca-el-reto-de-liderar-en-la-era-de-la-inteligencia-artificial",
       "title": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
       "category": "Ciencia",
-      "bullets_20s": "• Liderazgo empresarial debe regresar a lo esencialmente humano ante la inteligencia artificial.\n• Panel analizó el impacto de la inteligencia artificial en la administración moderna.\n• Moderado por Eric Guillén, reunió expertos del campo de la administración.\n• Enfoque actual ya no es solo operativo, sino en análisis y toma de decisiones.\n• Inteligencia artificial se debe usar con criterio, no como reemplazo humano.",
+      "bullets_20s": "• Los líderes empresariales enfrentan el desafío de humanizar su gestión en la era digital.\n• El panel enfatizó la relevancia de habilidades blandas en un entorno tecnológico.\n• Los especialistas coincidieron en la importancia de la educación frente a los cambios tecnológicos.\n• La inteligencia artificial se presenta como una herramienta, no un reemplazo del juicio humano.\n• Las decisiones deben estar basadas en análisis crítico y conocimiento de la tecnología.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/mas-humanos-nunca-reto-liderar-era-inteligencia-artificial",
       "publish_date": "2026-04-15T21:20:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Liderazgo y conciencia humana en la era de la inteligencia artificial.",
+      "teaser": "Lo clave en 20 segundos: El liderazgo empresarial debe ser más humano ante la inteligencia artificial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/charla-1_0.jpeg.webp?itok=tuYQWerU",
       "description": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
       "featured": false
@@ -7502,5 +7489,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-17T20:30:35.529Z"
+  "generated_at": "2026-04-17T21:30:35.399Z"
 }
