@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "el-pumas-de-keylor-navas-saca-valioso-triunfo-y-ya-es-segundo-en-la-liga-mx",
+      "title": "El Pumas de Keylor Navas saca valioso triunfo y ya es segundo en la Liga MX",
+      "category": "Mundo",
+      "bullets_20s": "• Keylor Navas sigue demostrando su gran habilidad como portero en la Liga MX.\n• El triunfo permite al Pumas escalar posiciones en la tabla de la liga mexicana.\n• Navas tuvo intervenciones clave para mantener el marcador a favor del Pumas.\n• El equipo muestra un rendimiento sólido en el inicio del torneo.\n• Este resultado refuerza la confianza del equipo y sus seguidores.",
+      "source_name": "Esteban Valverde",
+      "source_url": "https://www.nacion.com/puro-deporte/el-pumas-de-keylor-navas-saca-valioso-triunfo-y-ya/LPQBPERODRC4ZI63QKVIIA5KOY/story/",
+      "publish_date": "2026-04-18T03:53:54.000Z",
+      "teaser": "Lo clave en 20 segundos: Keylor Navas brilla en el triunfo del Pumas en la Liga MX.",
+      "image_url": "https://www.nacion.com/resizer/v2/G23PVZFHLNCW3MKEI3HZLHZ5OE.jpeg?auth=0679a83485a84ec77b2c3f0b4c40001749c69be56637e04774e3555851602beb&smart=true&width=1024&height=1280",
+      "description": "Con otra gran actuación de Keylor Navas, el equipo Pumas sacó un importante resultado como visitante en México.",
+      "featured": false
+    },
+    {
+      "slug": "analista-dice-que-el-arbitraje-esta-perjudicando-a-cartagines-ante-liberia",
+      "title": "Analista dice que el arbitraje está perjudicando a Cartaginés ante Liberia",
+      "category": "Costa Rica",
+      "bullets_20s": "• El análisis del exárbitro se centra en el penal sancionado al Cartaginés en un decisivo partido.\n• Greivin Porras comparte su perspectiva sobre la influencia del arbitraje en el rendimiento del equipo.\n• El duelo contra Liberia ha generado controversia por decisiones arbitrales claves del encuentro.\n• Porras destaca la importancia de una arbitraje justo para promover la competitividad en el fútbol.\n• La opinión del analista podría generar debate entre jugadores, entrenadores y aficionados del deporte.",
+      "source_name": "Juan Diego Villarreal",
+      "source_url": "https://www.nacion.com/puro-deporte/analista-dice-que-el-arbitraje-esta-perjudicando-a/TC47FXLIPRAMZF46BP67IVYJQM/story/",
+      "publish_date": "2026-04-18T03:43:07.000Z",
+      "teaser": "Lo clave en 20 segundos: Un exárbitro opina sobre cómo el arbitraje afecta al Cartaginés en un partido crucial.",
+      "image_url": "https://www.nacion.com/resizer/v2/4ZARPCQE6JAV3HZSLQ47HJS2C4.jpg?auth=bdae92d9879d15d7e778b01b082cc7803267439148f8c314c2b93b2a8e0565f6&smart=true&width=1040&height=694",
+      "description": "El exárbitro Greivin Porras dio su opinión sobre el penal sancionado contra el Cartaginés, en su duelo ante Liberia",
+      "featured": false
+    },
+    {
       "slug": "fallece-madre-de-cuatro-hijos-tras-atropello-causado-por-tapa-de-alcantarilla-robada",
       "title": "Fallece madre de cuatro hijos tras atropello causado por tapa de alcantarilla robada",
       "category": "Costa Rica",
-      "bullets_20s": "• Una madre de cuatro hijos falleció tras un grave accidente en Caballo Blanco, Cartago.\n• El hecho ocurrió debido a una tapa de alcantarilla robada en la carretera.\n• La víctima estuvo hospitalizada durante un día antes de su muerte.\n• El incidente ha generado preocupación por la seguridad en las vías del país.\n• Las autoridades investigan las circunstancias que rodearon este trágico accidente.",
+      "bullets_20s": "• Una madre de cuatro hijos sufrió un trágico accidente en Cartago, causado por una tapa de alcantarilla robada.\n• El atropello ocurrió en la zona de Caballo Blanco, lo que ha causado indignación en la comunidad local.\n• La noticia ha generado un llamado a las autoridades para mejorar la seguridad vial y la infraestructura.\n• El robo de tapas de alcantarilla es un problema recurrente que afecta a diversas comunidades en Costa Rica.\n• La familia de la víctima enfrenta un momento difícil y necesita apoyo tras esta tragedia.",
       "source_name": "Sebastián Sánchez, Keyna Calderón",
       "source_url": "https://www.nacion.com/sucesos/fallece-madre-de-cuatro-hijos-tras-atropello/MFH6CEKSTRGPFA6YOR4FLLVQ7E/story/",
       "publish_date": "2026-04-18T03:24:42.000Z",
-      "teaser": "Lo clave en 20 segundos: mujer muere tras ser atropellada por culpa de una tapa de alcantarilla robada.",
+      "teaser": "Lo clave en 20 segundos: Madre de cuatro hijos muere tras ser atropellada por una tapa de alcantarilla robada.",
       "image_url": "https://www.nacion.com/resizer/v2/VU6I5QUBQVGCJPLAJSVDXFW3XQ.jpeg?auth=d1996ebf91bc688e217efe2f728cf61ff2afec059076d66ff224cef521c8ccb3&smart=true&width=1600&height=900",
       "description": "Madre de cuatro hijos murió tras pasar un día hospitalizada por un atropello en Caballo Blanco de Cartago, provocado por una tapa de alcantarilla robada.",
       "featured": false
@@ -30,11 +56,11 @@
       "slug": "por-que-libano-es-clave-para-poner-fin-al-conflicto-entre-eeuu-e-iran",
       "title": "Por qué Líbano es clave para poner fin al conflicto entre EE.UU. e Irán",
       "category": "Mundo",
-      "bullets_20s": "• Líbano juega un papel crucial en la dinámica estratégica entre EE.UU. e Irán.\n• Las tensiones regionales en torno a este país han aumentado en tiempos recientes.\n• Israel y Líbano enfrentan conflictos que complican aún más la situación.\n• La influencia de Irán en Líbano se ha vuelto un tema de preocupación internacional.\n• El entendimiento entre las potencias podría ayudar a estabilizar la región.",
+      "bullets_20s": "• Líbano se convierte en un actor clave en la dinámica del conflicto entre EE.UU. e Irán.\n• Las tensiones en la región han aumentado significativamente desde el inicio del conflicto.\n• Israel ha intensificado sus ataques, buscando debilitar a sus adversarios en Líbano.\n• Las alianzas regionales están cambiando rápidamente, afectando el equilibrio de poder.\n• Los analistas discuten las posibles soluciones diplomáticas que podrían surgir en este contexto.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c30ry3qgn8jo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-18T01:55:05.000Z",
-      "teaser": "Lo clave en 20 segundos: Líbano, un punto estratégico en el conflicto entre grandes potencias.",
+      "teaser": "Lo clave en 20 segundos: Líbano juega un papel crucial en el conflicto entre EE.UU. e Irán.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ece7/live/4df03240-3a5e-11f1-8606-05fe34b06e1b.jpg",
       "description": "Israel lanzó su más reciente ofensiva contra Líbano a principios de marzo, pocos días después de que se iniciara la guerra contra Irán.",
       "featured": false
@@ -290,11 +316,11 @@
       "slug": "mythos-el-nuevo-modelo-de-ia-de-anthropic-que-preocupa-a-gobiernos-y-bancos-por-su-gran-potencia",
       "title": "Mythos, el nuevo modelo de IA de Anthropic que preocupa a gobiernos y bancos por su gran potencia",
       "category": "Tecnología",
-      "bullets_20s": "• Mythos es el nuevo modelo de inteligencia artificial desarrollado por Anthropic para diferentes aplicaciones industriales.\n• Gobiernos y bancos globales expresan su preocupación por las capacidades de este modelo de IA.\n• Se estima que Mythos puede superar a los humanos en tareas de piratería y ciberseguridad.\n• Este avance en IA plantea desafíos éticos y de seguridad en el mundo financiero actual.\n• Analistas advierten sobre el potencial de este modelo para cambiar el panorama de la ciberseguridad.",
+      "bullets_20s": "• Mythos es un modelo de inteligencia artificial desarrollado por la empresa Anthropic para varios usos.\n• Su capacidad para superar a humanos en ciberseguridad genera preocupación en diferentes sectores financieros.\n• Gobiernos de varios países ya están alertas ante el avance tecnológico que representa esta IA.\n• El creciente poder de la IA plantea nuevos desafíos y riesgos en la seguridad digital global.\n• Expertos debaten sobre las implicaciones éticas y de seguridad del uso de esta tecnología avanzada.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cr71x5vgr9go?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-17T19:58:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Mythos, el nuevo modelo de IA, plantea preocupaciones a gobiernos y bancos financieros.",
+      "teaser": "Lo clave en 20 segundos: Mythos, la IA que preocupa a gobiernos y bancos por su potencial avanzado.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1a8e/live/d2352310-3a92-11f1-8c60-37b411324010.jpg",
       "description": "La afirmación de la herramienta de IA puede superar a los humanos en algunas tareas de piratería informática y ciberseguridad ha desatado temores en el mundo financiero.",
       "featured": false
@@ -420,11 +446,11 @@
       "slug": "lo-que-aprendi-cuando-deje-de-consumir-azucar-durante-6-semanas",
       "title": "Lo que aprendí cuando dejé de consumir azúcar durante 6 semanas",
       "category": "Ciencia",
-      "bullets_20s": "• Eliminar el azúcar puede tener un impacto significativo en la salud general y el bienestar.\n• Se reportan cambios en los niveles de energía al reducir la ingesta de azúcar.\n• La reducción de azúcar puede beneficiar la salud dental y disminuir caries.\n• Las dietas sin azúcar frecuentemente ayudan a controlar el peso y combatir la obesidad.\n• Un menor consumo de azúcar puede influir en la prevención de algunas enfermedades crónicas.",
+      "bullets_20s": "• El consumo de azúcar ha sido relacionado con múltiples problemas de salud en diversas investigaciones.\n• Reducir azúcar puede llevar a un mejor estado de ánimo y niveles de energía más estables.\n• Algunas personas reportan cambios positivos en su piel al dejar el azúcar por completo.\n• Investigaciones sugieren que el azúcar puede influir en nuestra cognición y memoria.\n• Desaprender el gusto por lo dulce es un proceso que requiere tiempo y esfuerzo constante.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ce8lm1le4dvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-17T17:27:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Eliminar el azúcar puede mejorar la salud y el bienestar general.",
+      "teaser": "Lo clave en 20 segundos: El impacto del azúcar en la salud y los beneficios al abstenerse de él.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/efae/live/f6076df0-3a76-11f1-9d5c-8ba507d7dbde.jpg",
       "description": "Las dietas ricas en azúcar se han vinculado con la aparición de caries, inflamación, obesidad, diabetes, la enfermedad de Alzheimer y cáncer.",
       "featured": false
@@ -719,11 +745,11 @@
       "slug": "en-video-bbc-mundo-visita-la-minipalestina-de-chile-una-de-las-mayores-comunidades-de-palestinos-fuera-del-mundo-arabe",
       "title": "En video: BBC Mundo visita la 'minipalestina' de Chile, una de las mayores comunidades de palestinos fuera del mundo árabe",
       "category": "Mundo",
-      "bullets_20s": "• La comunidad palestina en Chile se ha mantenido activa desde hace varias generaciones.\n• El video destaca la historia de aquellos que migraron desde el Medio Oriente.\n• Se explora la vida cotidiana de los palestinos en esta colonia chilena.\n• La cultura y tradiciones palestinas están presentes en su vida diaria.\n• El documental ofrece una mirada profunda a sus desafíos y logros.",
-      "source_name": "BBC Mundo",
+      "bullets_20s": "• La comunidad palestina en Chile ha existido por más de un siglo.\n• Los descendientes mantienen vivas sus tradiciones culturales y lenguas.\n• Muchos migrantes llegaron a Chile tras conflictos en la región.\n• Se destacan por su gastronomía y festividades únicas.\n• La comunidad ha influido en la vida social y económica chilena.\n• Este video muestra una perspectiva íntima de sus vidas actuales.\n• La diversidad en Chile permite una convivencia multicultural rica.\n• Los lazos con Palestina son fuertes, a pesar de la distancia.\n• El video invita a reflexionar sobre la diáspora y sus historias.",
+      "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/c62len4w844o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-17T12:33:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Un vistazo a la comunidad palestina más grande en Chile.",
+      "teaser": "Lo clave en 20 segundos: Un vistazo a la vida de palestinos en Chile, una comunidad única fuera de su patria.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1034/live/6b98e520-3a46-11f1-8606-05fe34b06e1b.jpg",
       "description": "Chile es el hogar de una de las colonias palestinas más grandes y antiguas del mundo fuera de Medio Oriente. En este video te mostramos quiénes son, cómo llegaron a un país que está a 13.000 kilómetros de distancia y cómo viven.",
       "featured": false
@@ -862,11 +888,11 @@
       "slug": "autonomia-universitaria-sera-tema-de-discusion-en-la-catedra-elizabeth-odio-benito",
       "title": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria es un principio fundamental para la educación superior pública en Costa Rica.\n• Un conversatorio se llevará a cabo el miércoles 22 de abril a las 2:00 p.m. en San José.\n• Especialistas del ámbito académico discutirán los desafíos actuales de la autonomía universitaria.\n• La exrectora Yamileth González García será parte del panel, junto a otros académicos y estudiantes.\n• El diálogo buscará reflexionar sobre la relación entre autonomía universitaria y el Estado costarricense.",
+      "bullets_20s": "• El conversatorio analizará los retos de la autonomía universitaria en la educación superior pública.\n• Se abordará el impacto de las transformaciones sociales y tecnológicas en la autonomía universitaria.\n• Panelistas incluirán expertos de diferentes instituciones académicas del país y actores estudiantiles.\n• El evento fomenta el diálogo sobre la libertad académica y la toma de decisiones independientes.\n• Busca reflexionar sobre la relación entre la autonomía universitaria y el Estado costarricense.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-sera-tema-discusion-catedra-elizabeth-odio-benito",
       "publish_date": "2026-04-17T04:51:15.000Z",
-      "teaser": "Lo clave en 20 segundos: la autonomía universitaria será discutida en un importante conversatorio este 22 de abril.",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria se debatirá en la Cátedra Elizabeth Odio Benito.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-conversatorio_san-jose.png",
       "description": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "featured": false
@@ -1460,11 +1486,11 @@
       "slug": "presentacion-del-libro-los-terremotos-de-1910",
       "title": "Presentación del libro Los terremotos de 1910",
       "category": "Costa Rica",
-      "bullets_20s": "• La presentación del libro se llevará a cabo el miércoles 22 de abril a las 2 p.m.\n• El evento se realizará en la Biblioteca Figueres Ferrer en Cartago, Costa Rica.\n• Se ofrecerá un homenaje a la familia Pirie durante la presentación del libro.\n• La actividad es parte de las celebraciones del 55 aniversario del TEC.\n• Se celebrará en colaboración con la Casa de la Ciudad de Cartago.",
+      "bullets_20s": "• La presentación del libro será el 22 de abril a las 2 p.m. en el TEC.\n• El libro aborda los sismos ocurridos en Costa Rica en 1910 con gran detalle.\n• Se rendirá homenaje a la familia Pirie como parte del evento cultural.\n• El evento forma parte de las celebraciones del 55 aniversario del TEC.\n• La presentación se realizará en la Biblioteca Figueres Ferrer, en Cartago.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-terremotos-1910",
       "publish_date": "2026-04-16T16:23:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Presentación del libro sobre terremotos de 1910 en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Presentación del libro sobre terremotos de 1910, homenaje y cultura en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/terremotos-1910-tec-1.jpg",
       "description": "Presentación del libro Los terremotos de 1910",
       "featured": false
@@ -1821,6 +1847,19 @@
       "featured": false
     },
     {
+      "slug": "mas-humanos-que-nunca-el-reto-de-liderar-en-la-era-de-la-inteligencia-artificial",
+      "title": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
+      "category": "Tecnología",
+      "bullets_20s": "• Un panel discute el impacto de la inteligencia artificial en liderazgo empresarial actual.\n• Se enfatiza la necesidad de liderar con un enfoque humanizado en el trabajo.\n• Expertos resaltan que las habilidades blandas son clave en la nueva era digital.\n• Se plantea que la educación sigue siendo fundamental ante los avances tecnológicos.\n• La inteligencia artificial debe ser utilizada con criterio y no reemplazar la toma de decisiones.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/mas-humanos-nunca-reto-liderar-era-inteligencia-artificial",
+      "publish_date": "2026-04-16T03:20:18.000Z",
+      "teaser": "Lo clave en 20 segundos: El liderazgo debe enfocarse en lo humano frente a la inteligencia artificial.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/charla-1_0.jpeg.webp?itok=tuYQWerU",
+      "description": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
+      "featured": false
+    },
+    {
       "slug": "estudiante-de-la-ucr-denuncia-a-facultad-de-derecho-por-presuntas-inconsistencias-en-reportes-sobre-gastos-en-alimentaci",
       "title": "Estudiante de la UCR denuncia a Facultad de Derecho por presuntas inconsistencias en reportes sobre gastos en alimentación",
       "category": "Costa Rica",
@@ -2005,12 +2044,12 @@
     {
       "slug": "semana-de-la-innovacion-tec-2026",
       "title": "Semana de la Innovación TEC 2026",
-      "category": "Costa Rica",
-      "bullets_20s": "• La Semana de la Innovación busca inspirar y conectar a la comunidad institucional del TEC.\n• Actividades incluyen conversatorios, talleres y eventos para fomentar la creatividad.\n• Un taller de Trading se ofrecerá para capacitar sobre mercados financieros.\n• El Fracaso Fest es un evento donde se comparten aprendizajes desde el error.\n• Se exhibirán proyectos innovadores en el Demo Day del 28 de abril.",
+      "category": "Ciencia",
+      "bullets_20s": "• El TEC Emprende Lab organiza la Semana de la Innovación a partir del 21 de abril.\n• Los eventos buscan inspirar y visibilizar el talento universitario en el país.\n• Charlas y talleres están dirigidos a estudiantes y docentes del Instituto.\n• Se incluye un Demo Day para exhibir proyectos innovadores de la comunidad.\n• Actividades como el Fracaso Fest promueven un ambiente de aprendizaje relajado.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/semana-innovacion-tec-2026",
       "publish_date": "2026-04-15T21:38:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Semana de la Innovación del TEC comenzará el 21 de abril con múltiples actividades.",
+      "teaser": "Lo clave en 20 segundos: Tres categorías de actividades para inspirar la innovación en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tec-emprende.png",
       "description": "Semana de la Innovación TEC 2026",
       "featured": false
@@ -2065,19 +2104,6 @@
       "teaser": "Lo clave en 20 segundos: un joven talento de San Carlos atrae a grandes clubes.",
       "image_url": "https://www.nacion.com/resizer/v2/OOVYEXE235ABTOHABKXPAQIXQ4.jpeg?auth=ac1db5477fcea58c94689d3a060eded9b0952af5dc338562c2ea4cf46d692ea6&smart=true&width=1228&height=921",
       "description": "Joven de 16 años de San Carlos sigue en Sudamérica, pero ahora entrena con un histórico del fútbol mundial.",
-      "featured": false
-    },
-    {
-      "slug": "mas-humanos-que-nunca-el-reto-de-liderar-en-la-era-de-la-inteligencia-artificial",
-      "title": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
-      "category": "Ciencia",
-      "bullets_20s": "• El liderazgo empresarial enfrenta el desafío de ser más humano ante la inteligencia artificial.\n• Panelistas destacaron la importancia de habilidades blandas y pensamiento crítico en la gestión.\n• Los administradores deben adaptarse y tomar decisiones analíticas en entornos digitales.\n• La inteligencia artificial es una herramienta que complementa, pero no reemplaza, el criterio humano.\n• Se enfatizó la educación como clave para enfrentar los cambios en el entorno laboral.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/mas-humanos-nunca-reto-liderar-era-inteligencia-artificial",
-      "publish_date": "2026-04-15T21:20:00.000Z",
-      "teaser": "Lo clave en 20 segundos: la inteligencia artificial transforma el liderazgo, resaltando lo humano.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/charla-1_0.jpeg.webp?itok=tuYQWerU",
-      "description": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
       "featured": false
     },
     {
@@ -7801,5 +7827,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-18T04:30:35.744Z"
+  "generated_at": "2026-04-18T05:30:35.962Z"
 }
