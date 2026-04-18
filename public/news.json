@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "ferrari-presenta-su-nuevo-automovil-electrico-capaz-de-acelerar-de-0-a-100-kmh-en-25-segundos",
+      "title": "Ferrari presenta su nuevo automóvil eléctrico capaz de acelerar de 0 a 100 km/h en 2,5 segundos",
+      "category": "Tecnología",
+      "bullets_20s": "• El nuevo Ferrari Luce es un vehículo totalmente eléctrico que promete revolucionar la industria automotriz.\n• Este modelo destaca por su aceleración increíble de 0 a 100 km/h en solo 2,5 segundos.\n• El Luce combina tecnología avanzada y diseño clásico, característico de la marca Ferrari.\n• Posee un interior diseñado para ofrecer confort en el uso diario y la mejor experiencia de conducción.\n• Ferrari busca adaptarse a la tendencia global hacia vehículos eléctricos y sostenibles.\n• El automóvil incluye características innovadoras que mejoran la eficiencia energética y el rendimiento.\n• Se espera que este modelo atraiga a los entusiastas de la marca y a nuevos consumidores.\n• La presentación del Luce marca un hito en la historia de Ferrari y los automóviles deportivos.\n• Ferrari reafirma su compromiso con la innovación y la sostenibilidad en el sector automotriz.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/tecnologia/asi-es-el-nuevo-automovil-electrico-de-ferrari-que/ZDOYCPU3EFEMHEOO7HA6C4YCU4/story/",
+      "publish_date": "2026-04-18T21:24:45.000Z",
+      "teaser": "Lo clave en 20 segundos: Ferrari presenta su eléctrico Luce, con 0 a 100 km/h en 2.5 segundos.",
+      "image_url": "https://www.nacion.com/resizer/v2/66C4J3SRANDKNJBHCBD5MXAQZI.png?auth=a57b87a1edb4f6ad8d0d4cf966fce2b7e0fabbd3aa99fbda8c4c9c08d78c1562&smart=true&width=1680&height=945",
+      "description": "Ferrari apuesta por una nueva era con el Luce, un modelo eléctrico que combina potencia, confort y una experiencia sensorial diseñada para el uso diario sin sacrificar su esencia.",
+      "featured": false
+    },
+    {
+      "slug": "nasa-investiga-escudo-termico-de-la-nave-orion-tras-mision-artemis-ii-alrededor-de-la-luna",
+      "title": "NASA investiga escudo térmico de la nave Orion tras misión Artemis II alrededor de la Luna",
+      "category": "Ciencia",
+      "bullets_20s": "• La NASA evalúa daños en el escudo térmico de Orion tras la misión Artemis II.\n• Artemis II marcó un hito en las exploraciones espaciales, acercando la Luna nuevamente.\n• El escudo térmico protege naves del intenso calor durante el reingreso a la atmósfera.\n• La investigación busca garantizar seguridad en futuras misiones espaciales con Orion.\n• El defecto detectado en 2022 ha generado preocupación en la comunidad científica.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/ciencia/nasa-investiga-escudo-termico-de-la-nave-orion/C5EIMP7IINACDNUETGE6A7X6TU/story/",
+      "publish_date": "2026-04-18T21:18:57.000Z",
+      "teaser": "Lo clave en 20 segundos: La NASA analiza daños en el escudo térmico de Orion tras Artemis II.",
+      "image_url": "https://www.nacion.com/resizer/v2/DU4DMXYSHZDGTBNYAWS6W2DFPI.png?auth=ed78759dc8d02c5f836b0ce0e0a2c75cc9122086e880c76273290695120ef39e&smart=true&width=1920&height=1080",
+      "description": "La NASA inició la investigación del escudo térmico de la cápsula Orion tras Artemis II, luego de un reingreso con trayectoria modificada por un defecto detectado en 2022.",
+      "featured": false
+    },
+    {
+      "slug": "todo-buque-que-se-acerque-a-ormuz-sera-tomado-como-objetivo-advierten-guardianes-de-la-revolucion-iranies",
+      "title": "Todo buque que se acerque a Ormuz será ‘tomado como objetivo’, advierten Guardianes de la Revolución iraníes",
+      "category": "Mundo",
+      "bullets_20s": "• Las tensiones en el estrecho de Ormuz siguen creciendo debido a conflictos en la región.\n• Irán ha advertido sobre las consecuencias de acercarse a sus aguas estratégicas.\n• El estrecho de Ormuz es crucial para el transporte de petróleo y comercio global.\n• Un aumento en la vigilancia militar podría intensificar las confrontaciones en la zona.\n• Los buques comerciales deben estar atentos a posibles advertencias de las autoridades iraníes.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/todo-buque-que-se-acerque-a-ormuz-sera-tomado-como/3HZJL564SJAX5HEGE5SKUWY67Q/story/",
+      "publish_date": "2026-04-18T21:10:18.000Z",
+      "teaser": "Lo clave en 20 segundos: Irán advierte que buques acercándose a Ormuz serán considerados objetivos.",
+      "image_url": "https://www.nacion.com/resizer/v2/DE4GAOU2NJHAFBEPQ26QNDIYBI.jpg?auth=454973b7969ca26a0380cda3c256446da2f5e978479fd73792b9d96420e2c78a&smart=true&width=4737&height=3158",
+      "description": "Ejército ideológico de Irán advirtió que cualquier buque que intente acercarse al estratégico estrecho de Ormuz será considerado “en cooperación con el enemigo”.",
+      "featured": false
+    },
+    {
       "slug": "reid-wiseman-astronauta-de-artemis-ii-tras-su-regreso-a-la-tierra-es-muy-dificil-comprender-del-todo-lo-que-acabamos-de-",
       "title": "Reid Wiseman, astronauta de Artemis II, tras su regreso a la Tierra: ‘Es muy difícil comprender del todo lo que acabamos de vivir’",
       "category": "Ciencia",
@@ -43,11 +82,11 @@
       "slug": "iran-vuelve-a-cerrar-el-estrecho-de-ormuz-tras-acusar-a-eeuu-de-cometer-actos-de-pirateria-con-su-bloqueo-naval",
       "title": "Irán vuelve a cerrar el estrecho de Ormuz tras acusar a EE.UU. de cometer actos de \"piratería\" con su bloqueo naval",
       "category": "Mundo",
-      "bullets_20s": "• El estrecho de Ormuz es una ruta clave para el comercio global y el petróleo.\n• Irán acusa a Estados Unidos de piratería naval por su bloqueo en la región.\n• Varios barcos han decidido cambiar de rumbo por la situación tensa en el área.\n• Las imágenes satelitales han mostrado el desplazamiento de los buques en tiempo real.\n• Este cierre puede afectar significativamente el mercado energético mundial.",
+      "bullets_20s": "• Irán ha tomado medidas para cerrar el estrecho de Ormuz nuevamente en medio de tensiones con EE.UU.\n• Los barcos que intentaban atravesar la ruta estratégica han desviado su rumbo en el último momento.\n• Las imágenes satelitales han confirmado estos cambios en las rutas de los barcos en la región.\n• Este estrecho es vital para el transporte de petróleo y gas a nivel mundial, afectando la economía global.\n• Las tensiones han aumentado, y la situación en el Medio Oriente sigue siendo incierta.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c3v6yn213eno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-18T20:06:18.000Z",
-      "teaser": "Lo clave en 20 segundos: Irán cierra el estrecho de Ormuz tras acusaciones a EE.UU. por piratería naval.",
+      "teaser": "Lo clave en 20 segundos: Irán cierra el estrecho de Ormuz mientras acusa a EE.UU. de piratería naval.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d81d/live/a7b45e80-3b0f-11f1-a490-57726c006191.jpg",
       "description": "Varios barcos que se disponían a atravesar la estratégica ruta han cambiado de rumbo, según muestran las imágenes satelitales.",
       "featured": false
@@ -108,11 +147,11 @@
       "slug": "prisioneros-esposados-y-ejecutados-los-cargos-por-crimenes-de-guerra-contra-el-soldado-australiano-mas-condecorado",
       "title": "Prisioneros esposados y ejecutados: los cargos por crímenes de guerra contra el soldado australiano más condecorado",
       "category": "Mundo",
-      "bullets_20s": "• El soldado australiano ha sido condecorado en varias ocasiones por su valentía en combate.\n• Los documentos judiciales muestran detalles impactantes sobre su conducta en el frente.\n• Los cargos incluyen asesinatos de prisioneros de guerra en situaciones vulnerables.\n• La controversia ha generado un intenso debate sobre la ética en tiempos de guerra.\n• El caso destaca la importancia de la rendición de cuentas en conflictos armados.",
+      "bullets_20s": "• Se presentan nuevos documentos sobre los cargos contra el soldado australiano más condecorado.\n• El juicio revela detalles impactantes sobre crímenes de guerra presuntamente cometidos.\n• Los cargos incluyen asesinatos de prisioneros en el contexto de un conflicto armado.\n• La BBC accedió a información que podría influir en la percepción pública.\n• Este caso reabre debates sobre la conducta de los militares en tiempos de guerra.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c393yry81k9o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-18T18:41:30.000Z",
-      "teaser": "Lo clave en 20 segundos: Un soldado australiano enfrenta cargos por asesinatos en combate.",
+      "teaser": "Lo clave en 20 segundos: Cargos de guerra contra soldado australiano revelan detalles escalofriantes.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3e08/live/690aeea0-3a43-11f1-a743-c960ad2c2c95.jpg",
       "description": "Nuevos documentos judiciales, a los que tuvo acceso la BBC, revelan detalles de los cinco cargos de asesinato que se imputan al laureado militar.",
       "featured": false
@@ -329,11 +368,11 @@
       "slug": "gaby-munoz-la-mexicana-que-tras-estar-al-borde-de-la-muerte-creo-el-personaje-de-la-payasa-chula",
       "title": "Gaby Muñoz, la mexicana que tras estar al borde de la muerte creó el personaje de la payasa Chula",
       "category": "Mundo",
-      "bullets_20s": "• Gaby Muñoz es la creadora de la payasa Chula, un personaje que brinda alegría.\n• Chula ha visitado diversas comunidades, llevando risas a quienes más lo necesitan.\n• La historia de Gaby es de resiliencia, superando una experiencia cercana a la muerte.\n• Durante más de 15 años, Chula ha sido un símbolo de esperanza y compañía.\n• El viaje de Chula la ha llevado a diferentes lugares, impactando vidas con su arte.",
+      "bullets_20s": "• Gaby Muñoz ha transformado su dolor en alegría a través del arte de la clown.\n• El personaje Chula ha impactado a miles de personas en diferentes contextos.\n• Su historia muestra la fuerza del humano ante situaciones adversas y dolorosas.\n• La payasa ha llevado su mensaje a lugares inusuales, como hospitales y refugios.\n• La creación de Chula representa un viaje de sanación y resiliencia personal.\n• A través de su personaje, Gaby Muñoz promueve la risa como medicina curativa.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c24871z6j58o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-18T14:54:14.000Z",
-      "teaser": "Lo clave en 20 segundos: Gaby Muñoz creó a Chula tras superar una tragedia personal.",
+      "teaser": "Lo clave en 20 segundos: Gaby Muñoz, tras una tragedia, creó la payasa Chula, un símbolo de alegría y resiliencia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/fda8/live/e005eec0-29e9-11f1-81d4-f1e3c77fafb4.jpg",
       "description": "A lo largo de más de 15 años, Chula ha llevado sonrisas por todo el mundo, desde salas de ópera hasta campos de refugiados. Pero fue una tragedia personal lo que inspiró a su creadora.",
       "featured": false
@@ -537,11 +576,11 @@
       "slug": "que-hace-a-terence-tao-el-mejor-matematico-vivo-del-mundo",
       "title": "Qué hace a Terence Tao \"el mejor matemático vivo del mundo\"",
       "category": "Mundo",
-      "bullets_20s": "• Terence Tao es considerado uno de los más grandes matemáticos de la actualidad, conocido por sus contribuciones significativas.\n• Desde pequeño mostró habilidades extraordinarias en matemáticas, siendo un prodigio en el campo desde temprano.\n• Ha logrado reconocimiento mundial por su trabajo en diversas áreas de las matemáticas, incluyendo la teoría de números.\n• A lo largo de su carrera, ha recibido numerosos premios y distinciones, avalando su impacto en la comunidad científica.\n• Su enfoque colaborativo en la resolución de problemas contradice la imagen tradicional del genio solitario en matemáticas.",
+      "bullets_20s": "• Terence Tao es reconocido por su excepcional talento en matemáticas desde joven.\n• Su trabajo abarca áreas complejas, como teoría de números y análisis funcional.\n• Tao ha sido galardonado con importantes premios, destacando su influencia académica.\n• El matemático promueve la colaboración en lugar del individualismo en su campo.\n• Desde pequeño, mostró fascinación por las matemáticas y la resolución de problemas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2d8r3w3xeno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-18T09:04:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Terence Tao, un prodigio que redefine el concepto de matemático brillante.",
+      "teaser": "Lo clave en 20 segundos: Terence Tao es considerado el mejor matemático vivo por su talento y contribuciones.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/6ed5/live/20065a50-3291-11f1-a06d-efde436183e6.jpg",
       "description": "Fue un niño prodigio que amaba los números y le encantaba la tarea de aritmética. Ha ganado prestigiosos premios por sus aportes a las matemáticas y está muy lejos de la imagen del genio que resuelve problemas solo.",
       "featured": false
@@ -615,11 +654,11 @@
       "slug": "por-que-libano-es-clave-para-poner-fin-al-conflicto-entre-eeuu-e-iran",
       "title": "Por qué Líbano es clave para poner fin al conflicto entre EE.UU. e Irán",
       "category": "Mundo",
-      "bullets_20s": "• Líbano se encuentra en una posición geoestratégica crucial entre potencias regionales.\n• La tensión entre EE.UU. e Irán afecta la estabilidad en todo Medio Oriente.\n• La intervención de actores externos puede complicar aún más la situación en la región.\n• Analistas sugieren que un diálogo diplomático es necesario para evitar más conflictos.\n• La historia de Líbano con conflictos internos y externos lo convierte en un mediador potencial.",
+      "bullets_20s": "• Líbano se ha convertido en un punto central en el conflicto entre EE.UU. e Irán.\n• La historia de tensiones en la región impacta la política internacional actual.\n• Israel y sus acciones militares podrían influir en el desenlace del conflicto.\n• El papel de Líbano en la mediación entre los Estados Unidos e Irán es crucial.\n• Las implicaciones de la guerra son ampliamente debatidas en foros internacionales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c30ry3qgn8jo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-18T01:55:05.000Z",
-      "teaser": "Lo clave en 20 segundos: Líbano es esencial para resolver el conflicto entre EE.UU. e Irán.",
+      "teaser": "Lo clave en 20 segundos: Líbano es un actor crucial en el conflicto entre EE.UU. e Irán.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ece7/live/4df03240-3a5e-11f1-8606-05fe34b06e1b.jpg",
       "description": "Israel lanzó su más reciente ofensiva contra Líbano a principios de marzo, pocos días después de que se iniciara la guerra contra Irán.",
       "featured": false
@@ -1421,11 +1460,11 @@
       "slug": "autonomia-universitaria-sera-tema-de-discusion-en-la-catedra-elizabeth-odio-benito",
       "title": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "category": "Costa Rica",
-      "bullets_20s": "• El 22 de abril, se discutirá la autonomía universitaria en un conversatorio especial en Costa Rica.\n• Expertos académicos analizarán los desafíos de la autonomía universitaria en el contexto actual.\n• Se abordarán temas sobre financiamiento, gobernanza y transformaciones sociales en la educación superior.\n• La actividad busca fomentar el diálogo plural sobre la libertad académica y la investigación.\n• Participarán académicos y estudiantes, trayendo diversas perspectivas a la discusión.",
+      "bullets_20s": "• La Cátedra Elizabeth Odio Benito abordará la autonomía universitaria el 22 de abril.\n• Expertos de diversas áreas participarán en el conversatorio sobre autonomía.\n• Se discutirán retos, alcances y vigencia de la autonomía en la educación superior.\n• El conversatorio es parte de la misión de fomentar el pensamiento crítico.\n• La actividad se llevará a cabo en el Campus Tecnológico Local San José.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-sera-tema-discusion-catedra-elizabeth-odio-benito",
       "publish_date": "2026-04-17T04:51:15.000Z",
-      "teaser": "Lo clave en 20 segundos: El 22 de abril se discutirá la autonomía universitaria en un conversatorio en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Expertos discuten la autonomía universitaria en un próximo conversatorio.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-conversatorio_san-jose.png",
       "description": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "featured": false
@@ -1992,12 +2031,12 @@
     {
       "slug": "presentacion-del-libro-los-terremotos-de-1910",
       "title": "Presentación del libro Los terremotos de 1910",
-      "category": "Ciencia",
-      "bullets_20s": "• El libro aborda los eventos sísmicos ocurridos en 1910 en Costa Rica.\n• Fraser Pirie y Franco Fernández Esquivel son los autores de esta obra.\n• La presentación se celebra en la Biblioteca Figueres Ferrer de Cartago.\n• Este evento coincide con el 55 Aniversario del TEC.\n• Se realizará un homenaje a la familia Pirie durante la presentación.",
+      "category": "Costa Rica",
+      "bullets_20s": "• La presentación se llevará a cabo el 22 de abril en Cartago, a las 2 p.m.\n• Fraser Pirie y Franco Fernández Esquivel son los autores del libro.\n• Se realizará un homenaje a la familia Pirie en la presentación.\n• Este evento forma parte del 55 aniversario del TEC.\n• La actividad es parte de la Semana del Libro en el país.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-terremotos-1910",
       "publish_date": "2026-04-16T16:23:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Presentación del libro sobre terremotos históricos en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Presentación del libro sobre los terremotos de 1910 en Cartago.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/terremotos-1910-tec-1.jpg",
       "description": "Presentación del libro Los terremotos de 1910",
       "featured": false
@@ -2341,6 +2380,19 @@
       "featured": false
     },
     {
+      "slug": "mas-humanos-que-nunca-el-reto-de-liderar-en-la-era-de-la-inteligencia-artificial",
+      "title": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
+      "category": "Ciencia",
+      "bullets_20s": "• El panel reunió a expertos para discutir el impacto de la inteligencia artificial en la gestión.\n• Lectura y análisis son ahora más importantes que las tareas operativas en la administración.\n• Los especialistas destacan que la inteligencia artificial apoya, pero no reemplaza el juicio humano.\n• Se enfatiza la necesidad de desarrollar habilidades blandas en un entorno digital avanzado.\n• La educación sigue siendo esencial frente al avance tecnológico y los nuevos retos laborales.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/mas-humanos-nunca-reto-liderar-era-inteligencia-artificial",
+      "publish_date": "2026-04-16T03:20:18.000Z",
+      "teaser": "Lo clave en 20 segundos: el desafío de liderar en un mundo impulsado por la inteligencia artificial.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/charla-1_0.jpeg.webp?itok=tuYQWerU",
+      "description": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
+      "featured": false
+    },
+    {
       "slug": "estudiante-de-la-ucr-denuncia-a-facultad-de-derecho-por-presuntas-inconsistencias-en-reportes-sobre-gastos-en-alimentaci",
       "title": "Estudiante de la UCR denuncia a Facultad de Derecho por presuntas inconsistencias en reportes sobre gastos en alimentación",
       "category": "Costa Rica",
@@ -2526,11 +2578,11 @@
       "slug": "semana-de-la-innovacion-tec-2026",
       "title": "Semana de la Innovación TEC 2026",
       "category": "Ciencia",
-      "bullets_20s": "• La Semana de la Innovación busca inspirar y visibilizar el talento del TEC en Costa Rica.\n• Se llevarán a cabo actividades desde el 21 hasta el 28 de abril de 2026.\n• Las actividades incluyen conversatorios, talleres y ferias para la comunidad del TEC.\n• El conversatorio inicial será 'Talento sin fronteras' con invitados internacionales destacados.\n• Habrá un Mercadito Emprendedor donde se exhibirán productos de la comunidad.\n• Se realizará un Demo Day mostrando proyectos innovadores con impacto real y práctico.\n• Se invita a la comunidad a inscribirse en las actividades a través de plataformas en línea.\n• El enfoque de los talleres será en temas como finanzas y experiencias en STEAM.\n• El evento busca crear un entorno de aprendizaje, colaboración y creatividad.\n• Se promoverá la conexión entre emprendedores y profesionales en diversas disciplinas.",
+      "bullets_20s": "• El TEC organiza la Semana de la Innovación para inspirar a la comunidad institucional.\n• Día Mundial de la Creatividad y la Innovación se celebra con esta actividad especial.\n• Se realizarán varios talleres y conversatorios enfocando en el talento y la innovación.\n• El evento contará con actividades tanto virtuales como presenciales en el campus.\n• Invitados especiales como ingenieros de NASA compartirán su experiencia con los asistentes.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/semana-innovacion-tec-2026",
       "publish_date": "2026-04-15T21:38:15.000Z",
-      "teaser": "Lo clave en 20 segundos: La Semana de la Innovación TEC 2026 comenzará el 21 de abril.",
+      "teaser": "Lo clave en 20 segundos: Inspira y conecta talento en la Semana de la Innovación del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tec-emprende.png",
       "description": "Semana de la Innovación TEC 2026",
       "featured": false
@@ -2585,19 +2637,6 @@
       "teaser": "Lo clave en 20 segundos: un joven talento de San Carlos atrae a grandes clubes.",
       "image_url": "https://www.nacion.com/resizer/v2/OOVYEXE235ABTOHABKXPAQIXQ4.jpeg?auth=ac1db5477fcea58c94689d3a060eded9b0952af5dc338562c2ea4cf46d692ea6&smart=true&width=1228&height=921",
       "description": "Joven de 16 años de San Carlos sigue en Sudamérica, pero ahora entrena con un histórico del fútbol mundial.",
-      "featured": false
-    },
-    {
-      "slug": "mas-humanos-que-nunca-el-reto-de-liderar-en-la-era-de-la-inteligencia-artificial",
-      "title": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
-      "category": "Ciencia",
-      "bullets_20s": "• El panel reunió a expertos y académicos para discutir liderazgo en la era digital.\n• Enfatizó la importancia de volver a lo esencialmente humano en la administración.\n• Los administradores deben enfocarse en análisis y toma de decisiones más que en tareas operativas.\n• Se destacó que la tecnología ayuda, pero la decisión final siempre debe ser humana.\n• Las habilidades blandas son cruciales en un entorno empresarial cada vez más tecnológico.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/mas-humanos-nunca-reto-liderar-era-inteligencia-artificial",
-      "publish_date": "2026-04-15T21:20:00.000Z",
-      "teaser": "Lo clave en 20 segundos: un panel reflexiona sobre el liderazgo humano en la era de la inteligencia artificial.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/charla-1_0.jpeg.webp?itok=tuYQWerU",
-      "description": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
       "featured": false
     },
     {
@@ -8321,5 +8360,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-18T21:30:36.201Z"
+  "generated_at": "2026-04-18T22:30:36.849Z"
 }
