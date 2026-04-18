@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "incapacidades-de-mas-de-seis-meses-le-costaron-35000-millones-a-la-ccss-en-los-ultimos-cinco-anos",
+      "title": "Incapacidades de más de seis meses le costaron ¢35.000 millones a la CCSS en los últimos cinco años",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Caja Costarricense de Seguro Social ha enfrentado retos significativos relacionadas a las incapacidades.\n• Se registraron más de 6.600 personas beneficiadas por incapacidades extensas en el tiempo.\n• Los costos por estas incapacidades han ascendido a cifras alarmantes en los últimos años.\n• La CCSS ahora considera una revisión de sus políticas para mitigar fraudes posibles.\n• Es fundamental entender el impacto económico que tienen estas incapacidades en el sistema de salud.",
+      "source_name": "Fernanda Matarrita Chaves",
+      "source_url": "https://www.nacion.com/el-pais/incapacidades-de-mas-de-seis-meses-le-costaron/DB4QUQBNL5GDVHHBATCGYSPKGY/story/",
+      "publish_date": "2026-04-17T23:21:52.000Z",
+      "teaser": "Lo clave en 20 segundos: La CCSS analiza cambios tras pagar ¢35.000 millones en incapacidades largas.",
+      "image_url": "https://www.nacion.com/resizer/v2/FCJALT2XWBHZFI4BWRDVYXTXBI.jpg?auth=bfa7183602a79da8b58541c03b63946a69fe8a16811ad08fd2c4a687b1db7602&smart=true&width=1200&height=628",
+      "description": "En los últimos cinco años, la CCSS pagó ¢35.000 millones en incapacidades de más de seis meses a 6.618 personas. Ahora, analiza realizar cambios internos para evitar posibles fraudes. Entérese de qué se trata.",
+      "featured": false
+    },
+    {
+      "slug": "que-hacer-ante-el-ataque-de-un-perro-estas-son-las-recomendaciones-de-cruz-roja",
+      "title": "¿Qué hacer ante el ataque de un perro? Estas son las recomendaciones de Cruz Roja",
+      "category": "Costa Rica",
+      "bullets_20s": "• Conozca las recomendaciones de Cruz Roja para prevenir ataques de perros en espacios públicos.\n• La importancia de mantener la calma al enfrentar un perro agresivo para evitar una tragedia mayor.\n• Se han registrado varios casos de ataques caninos en Costa Rica en lo que va del año.\n• Recomendaciones incluyen evitar movimientos bruscos y hacer ruido para asustar al perro.\n• Es crucial conocer qué hacer en caso de un ataque para protegerse y ayudar a otros.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/que-hacer-ante-el-ataque-de-un-perro-estas-son-las/TPVDXDLLKFG25A3RCES4FPYWPA/story/",
+      "publish_date": "2026-04-17T23:07:07.000Z",
+      "teaser": "Lo clave en 20 segundos: Cruciales consejos de Cruz Roja ante ataques de perros en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/4HJMJT7C3JBH5MVJWVHLR2FJZI.jpg?auth=a32f49a535290a1fd0bdc0e9b936a6b8597aa6330b95b82ee7f9754d65a098c2&smart=true&width=1600&height=1200",
+      "description": "La Cruz Roja emitió recomendaciones tras la muerte de un hombre de 60 años atacado por un perro en Moravia. En 2026 ya se registran dos fallecidos y varios heridos graves por ataques caninos en Costa Rica.",
+      "featured": false
+    },
+    {
+      "slug": "opc-ccss-publica-lista-de-afiliados-fallecidos-con-dinero-acumulado-del-rop-y-fcl-asi-pueden-retirarlo-los-familiares",
+      "title": "OPC-CCSS publica lista de afiliados fallecidos con dinero acumulado del ROP y FCL: así pueden retirarlo los familiares",
+      "category": "Costa Rica",
+      "bullets_20s": "• La OPC-CCSS ha publicado un listado esencial para los familiares de afiliados fallecidos.\n• Ese listado permite identificar si hay fondos del ROP o FCL no retirados.\n• Los interesados deben seguir pasos claros para realizar el reclamo correspondiente.\n• La transparencia en el manejo de estos fondos es fundamental para la familia.\n• Se recomienda revisar detenidamente el listado oficial publicado por la institución.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-pais/opc-ccss-publica-lista-de-afiliados-fallecidos-con/2WNS67TYJRGRHAKI6LZUNIPUYY/story/",
+      "publish_date": "2026-04-17T23:02:26.000Z",
+      "teaser": "Lo clave en 20 segundos: lista de afiliados fallecidos y cómo reclamar fondos del ROP y FCL.",
+      "image_url": "https://www.nacion.com/resizer/v2/JQPAFS6P5BFN7HCNDYC566XLSI.JPG?auth=b8ac9254aa9d888aad532927abcffef71c209ec3c8fc5c310c63ecaffc05cefc&smart=true&width=3374&height=1898",
+      "description": "Revise el listado oficial de la OPC-CCSS y descubra si un familiar fallecido dejó fondos sin retirar. Conozca los pasos para reclamarlos.",
+      "featured": false
+    },
+    {
       "slug": "air-canada-suspende-vuelos-a-un-aeropuerto-de-nueva-york-por-alza-de-combustible",
       "title": "Air Canada suspende vuelos a un aeropuerto de Nueva York por alza de combustible",
       "category": "Mundo",
@@ -134,11 +173,11 @@
       "slug": "mythos-el-nuevo-modelo-de-ia-de-anthropic-que-preocupa-a-gobiernos-y-bancos-por-su-gran-potencia",
       "title": "Mythos, el nuevo modelo de IA de Anthropic que preocupa a gobiernos y bancos por su gran potencia",
       "category": "Mundo",
-      "bullets_20s": "• Mythos pertenece a Anthropic, una empresa emergente de inteligencia artificial reconocida a nivel global.\n• Los avances en IA están generando preocupaciones sobre la seguridad en sectores como el financiero.\n• Gobiernos de varios países están evaluando regulaciones para el uso de esta tecnología potente.\n• Este nuevo modelo promete mejorar las capacidades en ciberseguridad y espionaje digital.\n• Expertos advierten acerca del uso potencial de Mythos en actividades ilícitas e inseguras.",
+      "bullets_20s": "• El modelo de IA Mythos ha demostrado capacidades superiores en tareas de ciberseguridad y piratería informática.\n• Gobiernos y bancos están inquietos por el potencial de esta nueva herramienta en el ámbito financiero.\n• El desarrollo de IA sigue generando debates sobre ética y seguridad en la tecnología moderna.\n• La comunidad científica se pregunta sobre las implicaciones de una IA tan avanzada y su control.\n• Mythos podría cambiar radicalmente la forma en que se aborda la ciberseguridad a nivel global.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cr71x5vgr9go?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-17T19:58:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Una nueva IA genera temores en el sector financiero por su capacidad de superación.",
+      "teaser": "Lo clave en 20 segundos: Mythos, la IA que preocupa a gobiernos y bancos por su potencial en ciberseguridad.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1a8e/live/d2352310-3a92-11f1-8c60-37b411324010.jpg",
       "description": "La afirmación de la herramienta de IA puede superar a los humanos en algunas tareas de piratería informática y ciberseguridad ha desatado temores en el mundo financiero.",
       "featured": false
@@ -264,11 +303,11 @@
       "slug": "lo-que-aprendi-cuando-deje-de-consumir-azucar-durante-6-semanas",
       "title": "Lo que aprendí cuando dejé de consumir azúcar durante 6 semanas",
       "category": "Ciencia",
-      "bullets_20s": "• El azúcar puede causar múltiples problemas de salud, como caries y enfermedades crónicas.\n• Dejar de consumir azúcar puede llevar a cambios significativos en el bienestar físico y mental.\n• La inflamación y la obesidad son consecuencias comunes de una dieta alta en azúcares añadidos.\n• Una reducción del azúcar puede contribuir a una mejor salud cardiovascular y metabólica.\n• Investigaciones sugieren que el azúcar está relacionado con el desarrollo de enfermedades como la diabetes.",
+      "bullets_20s": "• La eliminación del azúcar puede mejorar considerablemente la salud general de una persona.\n• Se observan cambios positivos en los niveles de energía y estado de ánimo al dejar el azúcar.\n• La reducción de azúcar puede contribuir a la pérdida de peso de forma efectiva y saludable.\n• Los problemas dentales y otros efectos negativos disminuyen al evitar el azúcar.\n• Nutrientes esenciales pueden ser mejor asimilados con una dieta baja en azúcar.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ce8lm1le4dvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-17T17:27:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre cómo dejar el azúcar impactó mi salud y bienestar.",
+      "teaser": "Lo clave en 20 segundos: dejar el azúcar mejora salud, energía y bienestar general.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/efae/live/f6076df0-3a76-11f1-9d5c-8ba507d7dbde.jpg",
       "description": "Las dietas ricas en azúcar se han vinculado con la aparición de caries, inflamación, obesidad, diabetes, la enfermedad de Alzheimer y cáncer.",
       "featured": false
@@ -329,11 +368,11 @@
       "slug": "iran-anuncia-la-reapertura-del-estrecho-de-ormuz-mientras-dure-el-alto-el-fuego-con-eeuu-e-israel",
       "title": "Irán anuncia la reapertura del estrecho de Ormuz mientras dure el alto el fuego con EE.UU. e Israel",
       "category": "Mundo",
-      "bullets_20s": "• Irán ha decidido reabrir el estrecho de Ormuz, crucial para el transporte de petróleo.\n• El anuncio coincide con un alto el fuego temporal con Estados Unidos e Israel.\n• Este paso impacta en los mercados globales, especialmente en el petróleo y divisas.\n• La reanudación de actividades en Ormuz puede estabilizar precios y fomentar el comercio.\n• Expertos analizan las repercusiones geopolíticas de esta decisión en la región.",
+      "bullets_20s": "• Irán abre el estrecho de Ormuz buscando mantener la paz con Estados Unidos e Israel.\n• La decisión tiene un impacto inmediato en los precios del petróleo a nivel global.\n• Se observó una disminución en el valor del dólar luego del anuncio iraní público.\n• Las bolsas de valores en varias partes del mundo reaccionaron positivamente a la noticia.\n• El estrecho de Ormuz es crucial para el transporte de petróleo del Medio Oriente.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cj40gxeg0x8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-17T16:59:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Irán reabre el estrecho de Ormuz en un contexto de alto el fuego.",
+      "teaser": "Lo clave en 20 segundos: Irán reabre el estrecho de Ormuz mientras el alto el fuego se mantenga.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8d36/live/cd7e5d20-3a63-11f1-8f06-717b3fd5c907.jpg",
       "description": "El anuncio provocó de inmediato una fuerte bajada en los precios del petróleo, un moderado descenso del dólar y subidas en las bolsas.",
       "featured": false
@@ -561,13 +600,13 @@
     },
     {
       "slug": "en-video-bbc-mundo-visita-la-minipalestina-de-chile-una-de-las-mayores-comunidades-de-palestinos-fuera-del-mundo-arabe",
-      "title": "En video: BBC Mundo visita la \"minipalestina\" de Chile, una de las mayores comunidades de palestinos fuera del mundo árabe",
+      "title": "En video: BBC Mundo visita la 'minipalestina' de Chile, una de las mayores comunidades de palestinos fuera del mundo árabe",
       "category": "Mundo",
-      "bullets_20s": "• La comunidad palestina en Chile tiene una historia rica y compleja que ha perdurado por generaciones.\n• El video muestra la cultura, tradiciones y desafíos de esta comunidad fuera de su tierra natal.\n• Los palestinos en Chile han creado un espacio único que preserva su identidad cultural.\n• Descubre cómo la diáspora ha influido en las relaciones entre Chile y el mundo árabe.\n• Los testimonios de la comunidad revelan su lucha por mantener su legado y historia.",
+      "bullets_20s": "• BBC Mundo presenta una visita a la minipalestina ubicada en Chile, explorando su historia única.\n• La comunidad palestina en Chile es una de las más grandes fuera del mundo árabe.\n• Descubre cómo los palestinos llegaron a Chile y se establecieron a miles de kilómetros de casa.\n• El video muestra la vida cotidiana de la comunidad palestina en este país sudamericano.\n• Conoce los desafíos y las tradiciones que han mantenido vivas en el país chileno.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c62len4w844o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-17T12:33:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Explore la historia de una gran comunidad palestina en Chile.",
+      "teaser": "Lo clave en 20 segundos: Explora la vida de la comunidad palestina en Chile, lejos de su hogar.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1034/live/6b98e520-3a46-11f1-8606-05fe34b06e1b.jpg",
       "description": "Chile es el hogar de una de las colonias palestinas más grandes y antiguas del mundo fuera de Medio Oriente. En este video te mostramos quiénes son, cómo llegaron a un país que está a 13.000 kilómetros de distancia y cómo viven.",
       "featured": false
@@ -706,11 +745,11 @@
       "slug": "autonomia-universitaria-sera-tema-de-discusion-en-la-catedra-elizabeth-odio-benito",
       "title": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "category": "Costa Rica",
-      "bullets_20s": "• El conversatorio abordará la importancia de la autonomía universitaria en la educación superior pública.\n• Se reunirán especialistas para analizar desafíos y alcances de la autonomía universitaria contemporánea.\n• La actividad busca fomentar un diálogo plural sobre libertad académica y toma de decisiones.\n• Contará con la participación de académicos y estudiantes, ofreciendo diversas perspectivas sobre el tema.\n• Se realizará el 22 de abril en el Campus Tecnológico Local San José del TEC.",
+      "bullets_20s": "• El conversatorio se realizará el 22 de abril a las 2:00 p.m. en San José.\n• Analizará los desafíos contemporáneos de la autonomía universitaria en Costa Rica.\n• Contará con la presencia de académicos y especialistas en el tema.\n• El evento busca fomentar un diálogo plural sobre la libertad académica.\n• Se reconocerán las presiones en finances y gobernanza que enfrenta la educación.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-sera-tema-discusion-catedra-elizabeth-odio-benito",
       "publish_date": "2026-04-17T04:51:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Autonomía universitaria, su importancia y retos, se discuten en evento del TEC.",
+      "teaser": "Lo clave en 20 segundos: Conversatorio sobre autonomía universitaria se aproxima en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-conversatorio_san-jose.png",
       "description": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "featured": false
@@ -1304,11 +1343,11 @@
       "slug": "presentacion-del-libro-los-terremotos-de-1910",
       "title": "Presentación del libro Los terremotos de 1910",
       "category": "Ciencia",
-      "bullets_20s": "• Se presentará el libro Los terremotos de 1910 el 22 de abril a las 2 p.m.\n• El evento tendrá lugar en la Biblioteca Figueres Ferrer en Cartago.\n• Fraser Pirie y Franco Fernández Esquivel son los autores del libro.\n• Se realizará un homenaje a la familia Pirie durante la presentación.\n• La presentación es parte de las celebraciones del 55 aniversario del TEC.",
+      "bullets_20s": "• Se presentará el libro sobre los terremotos de 1910 este miércoles 22 de abril.\n• El evento tendrá lugar a las 2 p.m. en la Biblioteca Figueres Ferrer.\n• Fraser Pirie y Franco Fernández Esquivel son los autores del libro presentado.\n• Se rendirá homenaje a la familia Pirie durante la presentación del libro.\n• La actividad forma parte de las celebraciones del 55 Aniversario del TEC.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-terremotos-1910",
       "publish_date": "2026-04-16T16:23:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Presentación del libro sobre terremotos históricos en Cartago.",
+      "teaser": "Lo clave en 20 segundos: Se presenta el libro sobre los terremotos de 1910 en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/terremotos-1910-tec-1.jpg",
       "description": "Presentación del libro Los terremotos de 1910",
       "featured": false
@@ -1769,19 +1808,6 @@
       "featured": false
     },
     {
-      "slug": "opc-ccss-publica-lista-de-afiliados-fallecidos-con-dinero-acumulado-del-rop-y-fcl-asi-pueden-retirarlo-los-familiares",
-      "title": "OPC-CCSS publica lista de afiliados fallecidos con dinero acumulado del ROP y FCL: así pueden retirarlo los familiares",
-      "category": "Costa Rica",
-      "bullets_20s": "• La OPC-CCSS ha publicado una lista de afiliados fallecidos con dinero en el ROP y FCL.\n• Los familiares de los fallecidos pueden revisar si hay fondos acumulados sin retirar.\n• Es fundamental conocer el procedimiento para reclamar los fondos disponibles.\n• La transparencia en la información asegura que los derechos de los afiliados estén protegidos.\n• Se recomienda a los interesados consultar el listado oficial para verificar afiliaciones.",
-      "source_name": "Silvia Ureña Corrales",
-      "source_url": "https://www.nacion.com/el-pais/opc-ccss-publica-lista-de-afiliados-fallecidos-con/2WNS67TYJRGRHAKI6LZUNIPUYY/story/",
-      "publish_date": "2026-04-15T23:22:01.000Z",
-      "teaser": "Lo clave en 20 segundos: Conoce cómo retirar fondos de afiliados fallecidos en el ROP y FCL.",
-      "image_url": "https://www.nacion.com/resizer/v2/JQPAFS6P5BFN7HCNDYC566XLSI.JPG?auth=b8ac9254aa9d888aad532927abcffef71c209ec3c8fc5c310c63ecaffc05cefc&smart=true&width=3374&height=1898",
-      "description": "Revise el listado oficial de la OPC-CCSS y descubra si un familiar fallecido dejó fondos sin retirar. Conozca los pasos para reclamarlos.",
-      "featured": false
-    },
-    {
       "slug": "el-loro-mas-pesado-del-mundo-logra-record-de-nacimientos-y-revive-la-esperanza-de-su-especie",
       "title": "El loro más pesado del mundo logra récord de nacimientos y revive la esperanza de su especie",
       "category": "Ciencia",
@@ -1862,12 +1888,12 @@
     {
       "slug": "semana-de-la-innovacion-tec-2026",
       "title": "Semana de la Innovación TEC 2026",
-      "category": "Ciencia",
-      "bullets_20s": "• La Semana de la Innovación TEC 2026 busca inspirar y conectar a la comunidad institucional.\n• Las actividades comenzarán el 21 de abril y se desarrollarán de forma virtual y presencial.\n• Habrá conversatorios y talleres sobre resiliencia, trading y espacios para networking.\n• Se incluirá un evento abierto llamado Fracaso Fest para compartir aprendizajes y experiencias.\n• El Demo Day TEC exhibirá proyectos innovadores y proporciona visibilidad a emprendedores.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC Emprende Lab invita a toda la comunidad a participar en la Semana de la Innovación 2026.\n• Las actividades comenzarán el 21 de abril y buscarán inspirar y conectar talentos.\n• Uno de los eventos destacados es el conversatorio con la ingeniera de NASA, Sandra Cauffman.\n• El Fracaso Fest ofrecerá un espacio para compartir aprendizajes en un ambiente relajado.\n• Habrá un Demo Day TEC donde se mostrarán proyectos innovadores de investigación.\n• Además, se celebrará un mercadito emprendedor en Campus Cartago del 21 al 28 de abril.\n• Las inscripciones están abiertas a través de la página de eventos del TEC.\n• El Work Café Empresarial está diseñado para promover el diálogo en STEAM entre mujeres.\n• Un taller de Trading ofrecerá conocimientos de mercados financieros a los participantes.\n• Se espera una gran participación de estudiantes, docentes y la comunidad en general.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/semana-innovacion-tec-2026",
       "publish_date": "2026-04-15T21:38:15.000Z",
-      "teaser": "Lo clave en 20 segundos: La Semana de Innovación TEC 2026 promueve el talento y la creatividad institucional.",
+      "teaser": "Lo clave en 20 segundos: Semana de la Innovación TEC 2026 invita a explorar talentos y emprendimientos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tec-emprende.png",
       "description": "Semana de la Innovación TEC 2026",
       "featured": false
@@ -1922,19 +1948,6 @@
       "teaser": "Lo clave en 20 segundos: un joven talento de San Carlos atrae a grandes clubes.",
       "image_url": "https://www.nacion.com/resizer/v2/OOVYEXE235ABTOHABKXPAQIXQ4.jpeg?auth=ac1db5477fcea58c94689d3a060eded9b0952af5dc338562c2ea4cf46d692ea6&smart=true&width=1228&height=921",
       "description": "Joven de 16 años de San Carlos sigue en Sudamérica, pero ahora entrena con un histórico del fútbol mundial.",
-      "featured": false
-    },
-    {
-      "slug": "mas-humanos-que-nunca-el-reto-de-liderar-en-la-era-de-la-inteligencia-artificial",
-      "title": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
-      "category": "Ciencia",
-      "bullets_20s": "• El panel discutió el impacto de la inteligencia artificial en la administración moderna.\n• Profesionales y académicos reflexionaron sobre la humanización del liderazgo en empresas.\n• La tecnología debe complementarse con la toma de decisiones críticas humanas.\n• Habilidades como la adaptabilidad y el pensamiento crítico son esenciales hoy.\n• La educación sigue siendo crucial, aunque la tecnología avance rápidamente.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/mas-humanos-nunca-reto-liderar-era-inteligencia-artificial",
-      "publish_date": "2026-04-15T21:20:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Reflexiones sobre liderazgo humano en la era de la inteligencia artificial.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/charla-1_0.jpeg.webp?itok=tuYQWerU",
-      "description": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
       "featured": false
     },
     {
@@ -2676,6 +2689,19 @@
       "teaser": "Lo clave en 20 segundos: Ministro del MOPT actúa ante preocupantes hallazgos de seguridad vial en Taras-La Lima.",
       "image_url": "https://www.nacion.com/resizer/v2/EFNHOQO6WBECRD3O5JKI42B2YI.JPG?auth=22f0f8a5a6befc3ab5ecf08ff48fab61b1b72bb7a462fa4676f99f1abc1ed066&smart=true&width=4000&height=2667",
       "description": "El ministro de Obras Públicas, Efraím Zeledón, aseguró este martes que está preocupado por los riesgos de seguridad vial en el proyecto vial Taras-La Lima, en Cartago, los cuales fueron expuestos por un informe del Laboratorio Nacional de Materiales y Modelos Estructurales (Lanamme).",
+      "featured": false
+    },
+    {
+      "slug": "mas-humanos-que-nunca-el-reto-de-liderar-en-la-era-de-la-inteligencia-artificial",
+      "title": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
+      "category": "Ciencia",
+      "bullets_20s": "• El panel analizó el impacto de la inteligencia artificial en la administración moderna y el liderazgo empresarial.\n• Se destaca la transformación del rol de administradores hacia el análisis y la toma de decisiones crítica.\n• El uso de inteligencia artificial es relevante, pero no sustituye el criterio humano en las decisiones.\n• Habilidades como el pensamiento crítico y la comunicación son esenciales en un entorno tecnológico.\n• La educación sigue siendo una base fundamental para enfrentar los cambios en el entorno empresarial.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/mas-humanos-nunca-reto-liderar-era-inteligencia-artificial",
+      "publish_date": "2026-04-15T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Impacto de la inteligencia artificial en el liderazgo empresarial y habilidades necesarias.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/charla-1_0.jpeg.webp?itok=tuYQWerU",
+      "description": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
       "featured": false
     },
     {
@@ -7658,5 +7684,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-17T23:30:35.485Z"
+  "generated_at": "2026-04-18T00:30:36.194Z"
 }
