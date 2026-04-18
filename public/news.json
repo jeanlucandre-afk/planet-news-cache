@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "la-senora-de-purral-va-donde-el-psicologo",
+      "title": "La señora de Purral va donde el psicólogo",
+      "category": "Costa Rica",
+      "bullets_20s": "• La señora de Purral enfrenta un desorden inusual que la afecta psicológicamente.\n• El traspaso de poderes genera en ella una creciente ansiedad y confusión emocional.\n• Busca ayuda profesional para descifrar los sentimientos que la invaden actualmente.\n• Los problemas de identidad y estrés político pueden influir en su condición.\n• Refleja cómo la situación social impacta la salud mental de muchos en el país.",
+      "source_name": "Ronald Matute",
+      "source_url": "https://www.nacion.com/opinion/columnistas/la-senora-de-purral-va-donde-el-psicologo/NXPI2Z4CPFBDTL7UCJC3E7HC7Y/story/",
+      "publish_date": "2026-04-18T00:09:11.000Z",
+      "teaser": "Lo clave en 20 segundos: La señora de Purral busca entender sus emociones ante el cambio de poder.",
+      "image_url": "https://www.nacion.com/resizer/v2/OUVA6M76NZEFRJ4NX3OKHZT5JM.png?auth=6e21a2673363d64175b07b37b31e2e86e4042ec8737c2c7e1c4db74ff1a39860&smart=true&width=2297&height=1292",
+      "description": "La señora de Purral sufre un extraño desorden que se acentúa conforme se acerca el traspaso de poderes. Por ello, acudió al consultorio del psicólogo con la esperanza de entender qué le sucede.",
+      "featured": false
+    },
+    {
+      "slug": "costa-rica-recibe-un-segundo-grupo-de-30-deportados-desde-estados-unidos-22-extranjeros-y-ocho-costarricenses",
+      "title": "Costa Rica recibe un segundo grupo de 30 deportados desde Estados Unidos: 22 extranjeros y ocho costarricenses",
+      "category": "Costa Rica",
+      "bullets_20s": "• El acuerdo de deportación se firmó en marzo para facilitar la repatriación de personas.\n• Los deportados llegaron al aeropuerto Juan Santamaría en un vuelo específico para este fin.\n• De los 30 deportados, 22 son extranjeros y ocho son costarricenses repatriados.\n• Las autoridades revisan los casos de deportados para garantizar su adecuada recepción.\n• Este es el segundo grupo de deportados en el marco de este acuerdo bilateral.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/politica/costa-rica-recibio-un-segundo-grupo-de-30/FI3KN77ECZH4FHFEMZC2RB5U4E/story/",
+      "publish_date": "2026-04-17T23:57:23.000Z",
+      "teaser": "Lo clave en 20 segundos: Costa Rica recibe a 30 deportados en segundo grupo desde EE. UU.",
+      "image_url": "https://www.nacion.com/resizer/v2/LW3EMLEQ3RFANMCWVI6MOUIDHM.png?auth=1ffda9fa6c8ff5848d2a7379555ccfa7d14b9f876062ccfc84a68c547dda9c6b&smart=true&width=2350&height=1272",
+      "description": "Costa Rica recibió un segundo grupo de 30 deportados desde Estados Unidos: 22 extranjeros y ocho costarricenses, que arribaron al aeropuerto Juan Santamaría como parte del acuerdo firmado en marzo.",
+      "featured": false
+    },
+    {
       "slug": "incapacidades-de-mas-de-seis-meses-le-costaron-35000-millones-a-la-ccss-en-los-ultimos-cinco-anos",
       "title": "Incapacidades de más de seis meses le costaron ¢35.000 millones a la CCSS en los últimos cinco años",
       "category": "Costa Rica",
@@ -172,12 +198,12 @@
     {
       "slug": "mythos-el-nuevo-modelo-de-ia-de-anthropic-que-preocupa-a-gobiernos-y-bancos-por-su-gran-potencia",
       "title": "Mythos, el nuevo modelo de IA de Anthropic que preocupa a gobiernos y bancos por su gran potencia",
-      "category": "Mundo",
-      "bullets_20s": "• El modelo de IA Mythos ha demostrado capacidades superiores en tareas de ciberseguridad y piratería informática.\n• Gobiernos y bancos están inquietos por el potencial de esta nueva herramienta en el ámbito financiero.\n• El desarrollo de IA sigue generando debates sobre ética y seguridad en la tecnología moderna.\n• La comunidad científica se pregunta sobre las implicaciones de una IA tan avanzada y su control.\n• Mythos podría cambiar radicalmente la forma en que se aborda la ciberseguridad a nivel global.",
+      "category": "Tecnología",
+      "bullets_20s": "• Mythos es el nuevo modelo de inteligencia artificial desarrollado por la empresa Anthropic.\n• Gobiernos y bancos están preocupados por su capacidad en piratería informática y ciberseguridad.\n• La IA tiene el potencial de superar habilidades humanas en diversas tareas complejas.\n• Expertos analizan las implicaciones éticas y de seguridad que trae consigo este avance tecnológico.\n• El modelo ha generado un debate sobre su regulación y uso en sectores críticos.\n• Se requieren leyes más robustas para enfrentar los desafíos que plantea la inteligencia artificial.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cr71x5vgr9go?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-17T19:58:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Mythos, la IA que preocupa a gobiernos y bancos por su potencial en ciberseguridad.",
+      "teaser": "Lo clave en 20 segundos: el nuevo modelo de IA de Anthropic despierta temores en el mundo financiero.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1a8e/live/d2352310-3a92-11f1-8c60-37b411324010.jpg",
       "description": "La afirmación de la herramienta de IA puede superar a los humanos en algunas tareas de piratería informática y ciberseguridad ha desatado temores en el mundo financiero.",
       "featured": false
@@ -303,11 +329,11 @@
       "slug": "lo-que-aprendi-cuando-deje-de-consumir-azucar-durante-6-semanas",
       "title": "Lo que aprendí cuando dejé de consumir azúcar durante 6 semanas",
       "category": "Ciencia",
-      "bullets_20s": "• La eliminación del azúcar puede mejorar considerablemente la salud general de una persona.\n• Se observan cambios positivos en los niveles de energía y estado de ánimo al dejar el azúcar.\n• La reducción de azúcar puede contribuir a la pérdida de peso de forma efectiva y saludable.\n• Los problemas dentales y otros efectos negativos disminuyen al evitar el azúcar.\n• Nutrientes esenciales pueden ser mejor asimilados con una dieta baja en azúcar.",
+      "bullets_20s": "• Reducir el azúcar puede mejorar la salud general y aumentar la energía diaria.\n• Dejar el azúcar ayuda a disminuir la inflamación en el organismo y mejora la digestión.\n• Al eliminar el azúcar, se experimenta una mejora en la salud dental a largo plazo.\n• Una dieta baja en azúcar puede reducir el riesgo de enfermedades crónicas severas.\n• El cambio en los hábitos alimenticios requiere voluntad y compromiso constante.\n• Importancia de buscar alternativas saludables para satisfacer los antojos diarios.\n• Es fundamental educarse sobre el impacto del azúcar en el cuerpo humano.\n• Establecer metas realistas es clave para un cambio duradero en la alimentación.\n• La alimentación consciente puede traer beneficios significativos a la salud mental.\n• Cualquier proceso de cambio alimenticio debe ser gradual y sostenido en el tiempo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ce8lm1le4dvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-17T17:27:46.000Z",
-      "teaser": "Lo clave en 20 segundos: dejar el azúcar mejora salud, energía y bienestar general.",
+      "teaser": "Lo clave en 20 segundos: reducir el azúcar mejora la salud y aumenta la energía diaria.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/efae/live/f6076df0-3a76-11f1-9d5c-8ba507d7dbde.jpg",
       "description": "Las dietas ricas en azúcar se han vinculado con la aparición de caries, inflamación, obesidad, diabetes, la enfermedad de Alzheimer y cáncer.",
       "featured": false
@@ -368,12 +394,12 @@
       "slug": "iran-anuncia-la-reapertura-del-estrecho-de-ormuz-mientras-dure-el-alto-el-fuego-con-eeuu-e-israel",
       "title": "Irán anuncia la reapertura del estrecho de Ormuz mientras dure el alto el fuego con EE.UU. e Israel",
       "category": "Mundo",
-      "bullets_20s": "• Irán abre el estrecho de Ormuz buscando mantener la paz con Estados Unidos e Israel.\n• La decisión tiene un impacto inmediato en los precios del petróleo a nivel global.\n• Se observó una disminución en el valor del dólar luego del anuncio iraní público.\n• Las bolsas de valores en varias partes del mundo reaccionaron positivamente a la noticia.\n• El estrecho de Ormuz es crucial para el transporte de petróleo del Medio Oriente.",
+      "bullets_20s": "• La reapertura del estrecho genera reactivación en el comercio internacional en la región.\n• El alto el fuego podría abrir la puerta a negociaciones más amplias entre naciones.\n• Los mercados financieros reaccionan de forma positiva ante la noticia global.\n• Expertos prevén cambios en la dinámica del transporte marítimo en el área.\n• Analistas destacan la importancia del estrecho para el tráfico energético mundial.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cj40gxeg0x8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-17T16:59:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Irán reabre el estrecho de Ormuz mientras el alto el fuego se mantenga.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8d36/live/cd7e5d20-3a63-11f1-8f06-717b3fd5c907.jpg",
+      "teaser": "Lo clave en 20 segundos: Irán reabre el estrecho de Ormuz tras acuerdo de alto el fuego. Impacta mercados.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/43e7/live/c0d80770-3a94-11f1-8c60-37b411324010.jpg",
       "description": "El anuncio provocó de inmediato una fuerte bajada en los precios del petróleo, un moderado descenso del dólar y subidas en las bolsas.",
       "featured": false
     },
@@ -602,11 +628,11 @@
       "slug": "en-video-bbc-mundo-visita-la-minipalestina-de-chile-una-de-las-mayores-comunidades-de-palestinos-fuera-del-mundo-arabe",
       "title": "En video: BBC Mundo visita la 'minipalestina' de Chile, una de las mayores comunidades de palestinos fuera del mundo árabe",
       "category": "Mundo",
-      "bullets_20s": "• BBC Mundo presenta una visita a la minipalestina ubicada en Chile, explorando su historia única.\n• La comunidad palestina en Chile es una de las más grandes fuera del mundo árabe.\n• Descubre cómo los palestinos llegaron a Chile y se establecieron a miles de kilómetros de casa.\n• El video muestra la vida cotidiana de la comunidad palestina en este país sudamericano.\n• Conoce los desafíos y las tradiciones que han mantenido vivas en el país chileno.",
+      "bullets_20s": "• La comunidad palestina en Chile es una de las más grandes fuera del mundo árabe.\n• La historia de su llegada a Chile se remonta a finales del siglo XIX y principios del XX.\n• Los palestinos han mantenido sus tradiciones y cultura a pesar de la distancia.\n• La colonia refleja una mezcla de identidad local y la influencia de su herencia palestina.\n• El video muestra la vida cotidiana de este grupo cultural diverso y resistente.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c62len4w844o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-17T12:33:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Explora la vida de la comunidad palestina en Chile, lejos de su hogar.",
+      "teaser": "Lo clave en 20 segundos: Conoce la comunidad palestina en Chile y su fascinante historia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1034/live/6b98e520-3a46-11f1-8606-05fe34b06e1b.jpg",
       "description": "Chile es el hogar de una de las colonias palestinas más grandes y antiguas del mundo fuera de Medio Oriente. En este video te mostramos quiénes son, cómo llegaron a un país que está a 13.000 kilómetros de distancia y cómo viven.",
       "featured": false
@@ -745,11 +771,11 @@
       "slug": "autonomia-universitaria-sera-tema-de-discusion-en-la-catedra-elizabeth-odio-benito",
       "title": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "category": "Costa Rica",
-      "bullets_20s": "• El conversatorio se realizará el 22 de abril a las 2:00 p.m. en San José.\n• Analizará los desafíos contemporáneos de la autonomía universitaria en Costa Rica.\n• Contará con la presencia de académicos y especialistas en el tema.\n• El evento busca fomentar un diálogo plural sobre la libertad académica.\n• Se reconocerán las presiones en finances y gobernanza que enfrenta la educación.",
+      "bullets_20s": "• La Cátedra Elizabeth Odio Benito abordará la autonomía universitaria en un conversatorio.\n• El evento se celebrará el miércoles 22 de abril a las 2:00 p.m.\n• Se espera la participación de expertos académicos en el estudio de este tema fundamental.\n• Analizarán los retos de la autonomía universitaria en la educación pública actual.\n• El conversatorio busca generar un diálogo sobre libertad académica y rendición de cuentas.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-sera-tema-discusion-catedra-elizabeth-odio-benito",
       "publish_date": "2026-04-17T04:51:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Conversatorio sobre autonomía universitaria se aproxima en el TEC.",
+      "teaser": "Lo clave en 20 segundos: abordarán la autonomía universitaria en un conversatorio esencial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-conversatorio_san-jose.png",
       "description": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "featured": false
@@ -1342,12 +1368,12 @@
     {
       "slug": "presentacion-del-libro-los-terremotos-de-1910",
       "title": "Presentación del libro Los terremotos de 1910",
-      "category": "Ciencia",
-      "bullets_20s": "• Se presentará el libro sobre los terremotos de 1910 este miércoles 22 de abril.\n• El evento tendrá lugar a las 2 p.m. en la Biblioteca Figueres Ferrer.\n• Fraser Pirie y Franco Fernández Esquivel son los autores del libro presentado.\n• Se rendirá homenaje a la familia Pirie durante la presentación del libro.\n• La actividad forma parte de las celebraciones del 55 Aniversario del TEC.",
+      "category": "Costa Rica",
+      "bullets_20s": "• La presentación será el miércoles 22 de abril en el Campus Tecnológico Central de Cartago.\n• Se ofrecerá un homenaje a la familia Pirie por su contribución a la historia.\n• Los terremotos de 1910 son un evento clave en la historia costarricense.\n• El libro es escrito por Fraser Pirie y Franco Fernández Esquivel.\n• Este evento es parte de las celebraciones del 55 Aniversario del TEC.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-terremotos-1910",
       "publish_date": "2026-04-16T16:23:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Se presenta el libro sobre los terremotos de 1910 en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Presentan libro sobre los terremotos de 1910 en Cartago.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/terremotos-1910-tec-1.jpg",
       "description": "Presentación del libro Los terremotos de 1910",
       "featured": false
@@ -1889,11 +1915,11 @@
       "slug": "semana-de-la-innovacion-tec-2026",
       "title": "Semana de la Innovación TEC 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC Emprende Lab invita a toda la comunidad a participar en la Semana de la Innovación 2026.\n• Las actividades comenzarán el 21 de abril y buscarán inspirar y conectar talentos.\n• Uno de los eventos destacados es el conversatorio con la ingeniera de NASA, Sandra Cauffman.\n• El Fracaso Fest ofrecerá un espacio para compartir aprendizajes en un ambiente relajado.\n• Habrá un Demo Day TEC donde se mostrarán proyectos innovadores de investigación.\n• Además, se celebrará un mercadito emprendedor en Campus Cartago del 21 al 28 de abril.\n• Las inscripciones están abiertas a través de la página de eventos del TEC.\n• El Work Café Empresarial está diseñado para promover el diálogo en STEAM entre mujeres.\n• Un taller de Trading ofrecerá conocimientos de mercados financieros a los participantes.\n• Se espera una gran participación de estudiantes, docentes y la comunidad en general.",
+      "bullets_20s": "• La Semana de la Innovación TEC se celebra en paralelo al Día Mundial de la Creatividad y la Innovación.\n• El evento busca inspirar y visibilizar el talento y el impacto generados por la institución educativa.\n• Iniciar la semana con un conversatorio sobre resiliencia y proyección internacional con expertos destacados.\n• Ofrecer un taller de trading para brindar formación sobre análisis financiero y gestión de riesgos.\n• Realizar un evento que celebra aprendizajes desde el fracaso en un entorno amigable y participativo.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/semana-innovacion-tec-2026",
       "publish_date": "2026-04-15T21:38:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Semana de la Innovación TEC 2026 invita a explorar talentos y emprendimientos.",
+      "teaser": "Lo clave en 20 segundos: Innovación en el TEC con actividades inspiradoras y educativas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tec-emprende.png",
       "description": "Semana de la Innovación TEC 2026",
       "featured": false
@@ -1948,6 +1974,19 @@
       "teaser": "Lo clave en 20 segundos: un joven talento de San Carlos atrae a grandes clubes.",
       "image_url": "https://www.nacion.com/resizer/v2/OOVYEXE235ABTOHABKXPAQIXQ4.jpeg?auth=ac1db5477fcea58c94689d3a060eded9b0952af5dc338562c2ea4cf46d692ea6&smart=true&width=1228&height=921",
       "description": "Joven de 16 años de San Carlos sigue en Sudamérica, pero ahora entrena con un histórico del fútbol mundial.",
+      "featured": false
+    },
+    {
+      "slug": "mas-humanos-que-nunca-el-reto-de-liderar-en-la-era-de-la-inteligencia-artificial",
+      "title": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
+      "category": "Ciencia",
+      "bullets_20s": "• El liderazgo empresarial enfrenta un desafío en la era de la inteligencia artificial y la automatización.\n• Panel discute el papel de administradores en entornos cada vez más digitalizados y tecnológicos.\n• Se enfatiza la importancia de habilidades blandas como comunicación, adaptabilidad y pensamiento crítico.\n• Los especialistas advierten sobre el uso consciente de herramientas tecnológicas en la toma de decisiones.\n• La educación se destaca como un valor fundamental frente a los cambios tecnológicos constantes.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/mas-humanos-nunca-reto-liderar-era-inteligencia-artificial",
+      "publish_date": "2026-04-15T21:20:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El liderazgo humano se vuelve esencial en la era de la inteligencia artificial.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/charla-1_0.jpeg.webp?itok=tuYQWerU",
+      "description": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
       "featured": false
     },
     {
@@ -2689,19 +2728,6 @@
       "teaser": "Lo clave en 20 segundos: Ministro del MOPT actúa ante preocupantes hallazgos de seguridad vial en Taras-La Lima.",
       "image_url": "https://www.nacion.com/resizer/v2/EFNHOQO6WBECRD3O5JKI42B2YI.JPG?auth=22f0f8a5a6befc3ab5ecf08ff48fab61b1b72bb7a462fa4676f99f1abc1ed066&smart=true&width=4000&height=2667",
       "description": "El ministro de Obras Públicas, Efraím Zeledón, aseguró este martes que está preocupado por los riesgos de seguridad vial en el proyecto vial Taras-La Lima, en Cartago, los cuales fueron expuestos por un informe del Laboratorio Nacional de Materiales y Modelos Estructurales (Lanamme).",
-      "featured": false
-    },
-    {
-      "slug": "mas-humanos-que-nunca-el-reto-de-liderar-en-la-era-de-la-inteligencia-artificial",
-      "title": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
-      "category": "Ciencia",
-      "bullets_20s": "• El panel analizó el impacto de la inteligencia artificial en la administración moderna y el liderazgo empresarial.\n• Se destaca la transformación del rol de administradores hacia el análisis y la toma de decisiones crítica.\n• El uso de inteligencia artificial es relevante, pero no sustituye el criterio humano en las decisiones.\n• Habilidades como el pensamiento crítico y la comunicación son esenciales en un entorno tecnológico.\n• La educación sigue siendo una base fundamental para enfrentar los cambios en el entorno empresarial.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/mas-humanos-nunca-reto-liderar-era-inteligencia-artificial",
-      "publish_date": "2026-04-15T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Impacto de la inteligencia artificial en el liderazgo empresarial y habilidades necesarias.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/charla-1_0.jpeg.webp?itok=tuYQWerU",
-      "description": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
       "featured": false
     },
     {
@@ -7684,5 +7710,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-18T00:30:36.194Z"
+  "generated_at": "2026-04-18T01:30:35.926Z"
 }
