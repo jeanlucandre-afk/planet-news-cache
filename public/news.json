@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "abogado-de-jueza-agredida-ya-habia-manifestaciones-previas-de-este-sujeto-en-querer-acabar-con-la-vida-de-ella",
+      "title": "Abogado de jueza agredida: ‘Ya había manifestaciones previas de este sujeto en querer acabar con la vida de ella’",
+      "category": "Costa Rica",
+      "bullets_20s": "• El caso de la jueza ha generado gran atención por la violencia de género en el país.\n• Las amenazas del sujeto fueron documentadas antes del ataque físico sobre la jueza.\n• La seguridad judicial es un tema crucial en Costa Rica debido a este tipo de incidentes.\n• Este ataque resalta la importancia de proteger a los funcionarios judiciales en el país.\n• El uso de animales como armas ha sido discutido en el contexto de violencia doméstica.",
+      "source_name": "Christian  Montero",
+      "source_url": "https://www.nacion.com/sucesos/abogado-de-jueza-agredida-ya-habia-manifestaciones/GBAXQ5S6P5BKBM5ZMGSIPQKMIE/story/",
+      "publish_date": "2026-04-19T20:12:11.000Z",
+      "teaser": "Lo clave en 20 segundos: Un abogado revela amenazas previas contra una jueza agredida en Heredia.",
+      "image_url": "https://www.nacion.com/resizer/v2/V6UDRTJ24ZFRXPYPJPZDCKVUUA.jpg?auth=f527db0d29089c16f3231919d09c20ef0583e2963220b649e8c8b6dfeb91a7f7&smart=true&width=2736&height=1748",
+      "description": "El hombre que presuntamente azuzó a su perro para atacar a una jueza de ejecución de la pena en Heredia y luego la golpeó con los puños no solo la amenazaba a ella, sino que también vigilaba los movimientos de su hijo.",
+      "featured": false
+    },
+    {
+      "slug": "este-lunes-arrancan-obras-en-ruta-entre-aguas-zarcas-y-los-chiles-conductores-tendran-paso-regulado",
+      "title": "Este lunes arrancan obras en ruta entre Aguas Zarcas y Los Chiles: conductores tendrán paso regulado",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las obras comenzarán este lunes y afectarán el tránsito en la ruta mencionada.\n• Conductores tendrán que esperar el paso regulado debido a trabajos en carretera.\n• El proyecto incluye mejoras en drenajes pluviales para evitar inundaciones.\n• Se invertirán más de siete millones de dólares en la infraestructura vial.\n• Las autoridades esperan que las obras mejoren la seguridad en la ruta.",
+      "source_name": "Damián Arroyo C.",
+      "source_url": "https://www.nacion.com/el-pais/este-lunes-arrancan-obras-en-ruta-entre-aguas/7FROJY24HVFEPPVYCPX7MNHKLI/story/",
+      "publish_date": "2026-04-19T20:08:31.000Z",
+      "teaser": "Lo clave en 20 segundos: obras inician este lunes en ruta, afectando tránsito y mejorando infraestructura.",
+      "image_url": "https://www.nacion.com/resizer/v2/BDKAIEE23VB5PLR6V7LWAA3IZQ.jpeg?auth=9e9f0101a5a140285a4107259f2d10ad574f9aacfc97da73bd7365efeb645f95&smart=true&width=1280&height=960",
+      "description": "MOPT y Conavi iniciarán obras en La Caporal sobre la Ruta Nacional 250 con inversión de $7.376.095. Proyecto incluye carriles adicionales y mejoras pluviales.",
+      "featured": false
+    },
+    {
+      "slug": "un-estudio-de-harvard-indica-que-la-seleccion-natural-redujo-los-genes-relacionados-con-la-calvicie-masculina-en-los-ult",
+      "title": "Un estudio de Harvard indica que la selección natural redujo los genes relacionados con la calvicie masculina en los últimos 10.000 años",
+      "category": "Ciencia",
+      "bullets_20s": "• Investigación realizada en Harvard analiza genomas antiguos y recientes para estudiar cambios genéticos.\n• Se identificaron genes específicos cuya reducción se relaciona con la calvicie masculina a lo largo de milenios.\n• El estudio incluyó aproximadamente 16.000 genomas para mayor precisión en los resultados.\n• La selección natural contribuyó a la disminución de ciertos genes en la población masculina actual.\n• Este hallazgo ofrece una nueva perspectiva sobre la evolución humana y características físicas.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/harvard-detecta-caida-de-genes-ligados-a-la/PZVP5JCSNFHLBKTUDT5X4WYS54/story/",
+      "publish_date": "2026-04-19T19:59:05.000Z",
+      "teaser": "Lo clave en 20 segundos: Un estudio de Harvard revela cambios genéticos sobre la calvicie masculina a lo largo de 10.000 años.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZRWCXNNJ7RFWBLK7HOLO7OJCR4.png?auth=014e29db5c6813e267d9a738ea7a140dc1fb042b0cff61f1245a670736ab805c&smart=true&width=1920&height=1080",
+      "description": "Estudio de Harvard revela que la selección natural redujo genes ligados a la calvicie masculina en 10.000 años, según análisis de casi 16.000 genomas.",
+      "featured": false
+    },
+    {
       "slug": "tiroteo-cerca-de-universidad-en-estados-unidos-deja-tres-estudiantes-heridos",
       "title": "Tiroteo cerca de universidad en Estados Unidos deja tres estudiantes heridos",
       "category": "Mundo",
@@ -50,6 +89,19 @@
       "teaser": "Lo clave en 20 segundos: Bayern Múnich asegura su 35ª liga alemana y sigue en competencia.",
       "image_url": "https://www.nacion.com/resizer/v2/SYJKQGLAXJHH5KCVVZVUSJO2UA.jpg?auth=52dde692da93e86dfa2e3ccac91d7218f40984fd02fc81090cd2014bea134b14&smart=true&width=5773&height=3849",
       "description": "El Bayern Múnich amarró el primer lugar de la Bundesliga y todavía está con vida en la Champions y la Copa de Alemania.",
+      "featured": false
+    },
+    {
+      "slug": "ocho-ninos-mueren-en-varios-tiroteos-en-diferentes-casas-en-luisiana-eeuu",
+      "title": "Ocho niños mueren en varios tiroteos en diferentes casas en Luisiana, EE.UU.",
+      "category": "Mundo",
+      "bullets_20s": "• El tiroteo en Luisiana ha generado una ola de conmoción en la comunidad local y el país.\n• Las autoridades investigan el caso como un trágico incidente de violencia doméstica.\n• Los niños, lamentablemente, eran parte integral de las familias afectadas por esta violencia.\n• Los expertos en violencia advierten sobre el impacto del ambiente familiar en los menores.\n• Este evento resalta la necesidad de abordar la violencia en el hogar y sus consecuencias.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c4g5x4qq1l2o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-19T18:28:58.000Z",
+      "teaser": "Lo clave en 20 segundos: Ocho niños pierden la vida en trágicos tiroteos en Luisiana, EE. UU.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4d74/live/6ed8c7c0-3c10-11f1-879d-1b2f5c3919b8.png",
+      "description": "Las autoridades expresaron que el tiroteo fue un hecho de violencia doméstica y que algunas de las víctimas estaban relacionadas con el atacante.",
       "featured": false
     },
     {
@@ -365,6 +417,19 @@
       "featured": false
     },
     {
+      "slug": "8-de-los-mejores-destinos-de-playa-del-mundo-segun-la-bbc-uno-esta-en-america-latina",
+      "title": "8 de los mejores destinos de playa del mundo, según la BBC (uno está en América Latina)",
+      "category": "Mundo",
+      "bullets_20s": "• Las playas mencionadas ofrecen belleza natural y experiencias únicas para los viajeros.\n• Una de las playas resaltadas se encuentra en América Latina, subrayando su atractivo mundial.\n• Este reportaje destaca tanto playas famosas como joyas escondidas de diversas partes del mundo.\n• Se abordan características especiales de cada destino, incluyendo el paisaje y actividades disponibles.\n• Los destinos incluyen calas en Italia y playas de arena blanca en Tasmania, entre otros.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cr51v0g4vmdo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-19T12:42:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Top 8 playas del mundo según la BBC, incluyendo una joya en América Latina.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3cdc/live/173cb690-2f75-11f1-b297-95b0a0a8331e.jpg",
+      "description": "Desde calas apartadas en las costas volcánicas de Italia hasta paraísos de arena blanca en Tasmania, a los periodistas de la BBC les encantan estas playas únicas e inesperadas.",
+      "featured": false
+    },
+    {
       "slug": "plan-de-oij-basado-en-cuatro-pilares-explica-reduccion-de-homicidios-en-primer-trimestre",
       "title": "Plan de OIJ basado en cuatro pilares explica reducción de homicidios en primer trimestre",
       "category": "Costa Rica",
@@ -443,6 +508,19 @@
       "featured": false
     },
     {
+      "slug": "el-zoologico-de-moctezuma-que-asombro-a-los-espanoles-hace-500-anos-y-que-recien-ahora-empezamos-a-conocer",
+      "title": "El zoológico de Moctezuma que asombró a los españoles hace 500 años y que recién ahora empezamos a conocer",
+      "category": "Mundo",
+      "bullets_20s": "• El zoológico de Moctezuma fue un impresionante espacio que impactó a los españoles en su llegada.\n• Investigaciones recientes descubren la variedad de animales que existían en el antiguo zoológico.\n• Entre los animales estaban aves exóticas, serpientes y grandes felinos como jaguares y pumas.\n• El emperador mexica mostraba su poder y riqueza a través de este inusual zoológico.\n• Historiadores analizan la importancia cultural y ecológica de este zoológico en la historia de México.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c5y8jk14w9ko?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-19T11:02:08.000Z",
+      "teaser": "Lo clave en 20 segundos: Descubre el sorprendente zoológico de Moctezuma y su legado histórico.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/597a/live/46aeda70-3448-11f1-acfc-bb3dca3045bc.jpg",
+      "description": "Nuevas investigaciones revelan algunos detalles de los animales que tenía el emperador mexica Moctezuma II en la antigua ciudad de Tenochtitlan. Había desde aves y serpientes hasta jaguares, pumas y lobos.",
+      "featured": false
+    },
+    {
       "slug": "ofrecia-casas-y-carros-decia-tener-cancer-y-prometia-maestrias-en-chile-denunciantes-relatan-las-aparentes-estafas-por-l",
       "title": "Ofrecía casas y carros, decía tener cáncer y prometía maestrías en Chile: denunciantes relatan las aparentes estafas por las que entregaron millones a una trabajadora social de la CCSS",
       "category": "Costa Rica",
@@ -453,6 +531,19 @@
       "teaser": "Lo clave en 20 segundos: Seis personas denuncian estafas por parte de una trabajadora social de la CCSS.",
       "image_url": "https://www.nacion.com/resizer/v2/LGFJTRP65RCJPFGPU5QNKAUIUQ.jpg?auth=89c9c49d0ec388b4743330c9ecceaba3c3c889101651bd91c475d416170dbf07&smart=true&width=947&height=556",
       "description": "Seis denunciantes relatan la forma como una trabajadora social de la CCSS, que se presentaba como serena y amigable, los habría estafado con diversas modalidades entre el 2019 y el 2015. Entre los afectados hay funcionarios y pacientes, amigos, docentes y padres de familia.",
+      "featured": false
+    },
+    {
+      "slug": "se-fue-de-viaje-escolar-y-nunca-regreso-el-padre-que-10-anos-despues-aun-busca-resolver-el-misterio-de-la-muerte-de-su-h",
+      "title": "Se fue de viaje escolar y nunca regresó: el padre que 10 años después aún busca resolver el misterio de la muerte de su hija",
+      "category": "Mundo",
+      "bullets_20s": "• Un padre continúa su búsqueda de respuestas sobre la muerte no resuelta de su hija.\n• La historia de Victoria Natalini ha captado la atención en Brasil y más allá.\n• A diez años del trágico suceso, el dolor sigue presente en la familia.\n• El caso destaca la importancia de la investigación en desapariciones de adolescentes.\n• Los misterios sin resolver siguen marcando la vida de muchos familiares en situaciones similares.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cm2kxxyl978o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-19T09:54:31.000Z",
+      "teaser": "Lo clave en 20 segundos: la búsqueda de justicia de un padre tras la muerte de su hija sigue sin resolverse.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cd4e/live/a414b290-66f3-11ee-b34c-6dbde9fedf9a.jpg",
+      "description": "La misteriosa muerte de una adolescente brasileña, Victoria Natalini, ocurrida hace más de una década, aún no se ha resuelto, y su padre no se da por vencido.",
       "featured": false
     },
     {
@@ -505,6 +596,19 @@
       "teaser": "Lo clave en 20 segundos: Corea del Norte prueba nuevos misiles en medio de tensiones internacionales.",
       "image_url": "https://www.nacion.com/resizer/v2/7XHUTHWYJVC67OOO4BEEPAMM5I.jpg?auth=091bcb23c78cbfcc148a1db77a6ae75ee7866bd9fd536e0cebee594029357a1b&smart=true&width=4704&height=3311",
       "description": "Los misiles volaron aproximadamente 140 kilómetros",
+      "featured": false
+    },
+    {
+      "slug": "de-japon-a-cuba-que-tan-eficaces-fueron-historicamente-los-bloqueos-navales-como-el-de-ee-uu-a-iran",
+      "title": "De Japón a Cuba: qué tan eficaces fueron históricamente los bloqueos navales como el de EE. UU. a Irán",
+      "category": "Mundo",
+      "bullets_20s": "• Los bloqueos navales han sido utilizados como tácticas de guerra en distintos contextos históricos.\n• El impacto social de los bloqueos a menudo afecta a la población civil de los países involucrados.\n• A lo largo de la historia, los bloqueos han tenido diversas repercusiones económicas y humanitarias.\n• Se han documentado casos de bloqueos navales que llevaron a crisis alimentarias y de salud.\n• Las lecciones del pasado pueden ayudar a entender las actuales tensiones internacionales.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c2ev2m2nmkgo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-19T03:32:19.000Z",
+      "teaser": "Lo clave en 20 segundos: Los bloqueos navales moldean eventos históricos y afectan a civiles.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/2d08/live/0091fa90-38bc-11f1-9d5c-8ba507d7dbde.jpg",
+      "description": "Los diferentes bloqueos han producido diferentes efectos a lo largo de la historia, pero con frecuencia han tenido un gran impacto social o humanitario.",
       "featured": false
     },
     {
@@ -1600,19 +1704,6 @@
       "featured": false
     },
     {
-      "slug": "harvard-detecta-caida-de-genes-ligados-a-la-calvicie-masculina-en-los-ultimos-10000-anos",
-      "title": "Harvard detecta caída de genes ligados a la calvicie masculina en los últimos 10.000 años",
-      "category": "Ciencia",
-      "bullets_20s": "• Investigadores de Harvard analizan 16.000 genomas para estudiar calvicie masculina.\n• El estudio muestra una disminución notable de genes relacionados con la calvicie en la población.\n• La selección natural ha influido en la caída de estos genes en los últimos milenios.\n• Los hallazgos podrían tener implicaciones en el entendimiento de la genética humana.\n• Este trabajo se suma a investigaciones sobre la evolución de la apariencia humana.",
-      "source_name": "O Globo",
-      "source_url": "https://www.nacion.com/ciencia/harvard-detecta-caida-de-genes-ligados-a-la/PZVP5JCSNFHLBKTUDT5X4WYS54/story/",
-      "publish_date": "2026-04-17T18:59:50.000Z",
-      "teaser": "Lo clave en 20 segundos: Harvard analiza la genética masculina y la calvicie en 10.000 años.",
-      "image_url": "https://www.nacion.com/resizer/v2/ZRWCXNNJ7RFWBLK7HOLO7OJCR4.png?auth=014e29db5c6813e267d9a738ea7a140dc1fb042b0cff61f1245a670736ab805c&smart=true&width=1920&height=1080",
-      "description": "Estudio de Harvard revela que la selección natural redujo genes ligados a la calvicie masculina en 10.000 años, según análisis de casi 16.000 genomas.",
-      "featured": false
-    },
-    {
       "slug": "dyana-guillen-liderazgo-silencioso-detras-de-una-historia-de-familia-empresa-y-futbol",
       "title": "Dyana Guillén: liderazgo silencioso detrás de una historia de familia, empresa y fútbol",
       "category": "Costa Rica",
@@ -2097,11 +2188,11 @@
       "slug": "autonomia-universitaria-sera-tema-de-discusion-en-la-catedra-elizabeth-odio-benito",
       "title": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "category": "Costa Rica",
-      "bullets_20s": "• La Cátedra Elizabeth Odio Benito se centra en la autonomía universitaria este 22 de abril.\n• Expertos analizarán la importancia de la autonomía en la educación superior pública.\n• La actividad se llevará a cabo a las 2:00 p.m. en el TEC de Costa Rica.\n• Participarán destacados académicos y estudiantes con diversas perspectivas sobre el tema.\n• Se busca fomentar un diálogo plural sobre la libertad académica y su relevancia actual.",
+      "bullets_20s": "• La Cátedra Elizabeth Odio Benito abordará la autonomía universitaria en un conversatorio el 22 de abril.\n• La autonomía universitaria es fundamental para el funcionamiento de la educación superior pública en el país.\n• Expertos del ámbito académico debatirán sobre retos y vigencias de este principio crucial en la actualidad.\n• La actividad busca un diálogo plural sobre la libertad académica y la independencia universitaria.\n• Se analizarán las transformaciones sociales y tecnológicas que impactan la educación y su financiamiento.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-sera-tema-discusion-catedra-elizabeth-odio-benito",
       "publish_date": "2026-04-17T04:51:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Se discutirá la autonomía universitaria en un conversatorio del TEC.",
+      "teaser": "Lo clave en 20 segundos: se discutirá la autonomía universitaria en un conversatorio especializado el 22 de abril.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-conversatorio_san-jose.png",
       "description": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "featured": false
@@ -2669,11 +2760,11 @@
       "slug": "presentacion-del-libro-los-terremotos-de-1910",
       "title": "Presentación del libro Los terremotos de 1910",
       "category": "Costa Rica",
-      "bullets_20s": "• La presentación se llevará a cabo el miércoles 22 de abril a las 2 p.m.\n• Los autores del libro son Fraser Pirie y Franco Fernández Esquivel.\n• El evento se realizará en la Biblioteca Figueres Ferrer en Cartago.\n• Se rendirá homenaje a la familia Pirie durante la presentación del libro.\n• Este evento es parte de las celebraciones del 55 Aniversario del TEC.\n• La presentación es parte de la Semana del Libro en Costa Rica.\n• El evento está dirigido a una audiencia general interesada en la historia.\n• La biblioteca ofrece un espacio adecuado para este tipo de actividades.\n• El libro aborda la historia de los terremotos ocurridos en 1910.",
+      "bullets_20s": "• El libro Los terremotos de 1910 se presentará el miércoles 22 de abril a las 2 p.m.\n• Fraser Pirie y Franco Fernández Esquivel son los autores de esta importante obra.\n• La presentación se llevará a cabo en la Biblioteca Figueres Ferrer de Cartago.\n• Se rendirá un homenaje a la familia Pirie durante el evento cultural.\n• Este evento forma parte de las celebraciones del 55 Aniversario del TEC.\n• La presentación está vinculada a la Semana del Libro en el TEC.\n• El evento es abierto al público y promueve la cultura literaria en Costa Rica.\n• La colaboración con Casa de la Ciudad potencia este evento significativo.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-terremotos-1910",
       "publish_date": "2026-04-16T16:23:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Se presenta el libro sobre los terremotos de 1910 en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Se presenta el libro sobre terremotos de 1910 en TEC, Cartago.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/terremotos-1910-tec-1.jpg",
       "description": "Presentación del libro Los terremotos de 1910",
       "featured": false
@@ -3202,11 +3293,11 @@
       "slug": "semana-de-la-innovacion-tec-2026",
       "title": "Semana de la Innovación TEC 2026",
       "category": "Tecnología",
-      "bullets_20s": "• El TEC Emprende Lab invita a la comunidad institucional a participar en la Semana de la Innovación.\n• Actividades comenzarán el 21 de abril, en el marco del Día Mundial de la Creatividad.\n• Entre los eventos destacan el conversatorio 'Talento sin fronteras' con expertos internacionales.\n• Habrá un taller de Trading centrado en mercados financieros y oportunidades de inversión.\n• Se realizará un evento llamado Fracaso Fest para compartir aprendizajes en un entorno ameno.",
+      "bullets_20s": "• Inicia la Semana de la Innovación TEC 2026 con actividades para inspirar y visibilizar talento.\n• Conversatorios y talleres enfocados en resiliencia y finanzas forman parte de la agenda.\n• Eventos se llevarán a cabo del 21 al 28 de abril en varias modalidades y ubicaciones.\n• Encuentros incluyen diálogos sobre STEAM y la experiencia del fracaso en el emprendimiento.\n• El Demo Day mostrará proyectos innovadores con impacto real desarrollados por estudiantes.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/semana-innovacion-tec-2026",
       "publish_date": "2026-04-15T21:38:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Semana de la Innovación TEC 2026 inicia el 21 de abril con diversas actividades.",
+      "teaser": "Lo clave en 20 segundos: Semana de la Innovación TEC 2026 se realizará del 21 al 28 de abril con diversas actividades.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tec-emprende.png",
       "description": "Semana de la Innovación TEC 2026",
       "featured": false
@@ -3267,11 +3358,11 @@
       "slug": "mas-humanos-que-nunca-el-reto-de-liderar-en-la-era-de-la-inteligencia-artificial",
       "title": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
       "category": "Ciencia",
-      "bullets_20s": "• El panel reunió a expertos para discutir el impacto de la inteligencia artificial en el liderazgo.\n• La inteligencia artificial transforma la administración, enfocándose en el análisis y toma de decisiones.\n• Los expertos destacan que la tecnología debe complementar, no sustituir, el criterio humano de los líderes.\n• La educación continúa siendo fundamental en la formación de profesionales en un entorno digital.\n• Se enfatiza en el desarrollo de habilidades blandas como pensamiento crítico y adaptabilidad.",
+      "bullets_20s": "• El panel discutió el impacto de la inteligencia artificial en la administración y el liderazgo.\n• Los expertos coincidieron en que el enfoque ahora está en el análisis estratégico y crítico.\n• La inteligencia artificial no reemplaza el criterio humano, sino que lo complementa en decisiones.\n• El desarrollo de habilidades blandas es esencial en la gestión en un entorno tecnológico.\n• La educación sigue siendo fundamental ante los cambios patrocinados por la tecnología.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/mas-humanos-nunca-reto-liderar-era-inteligencia-artificial",
       "publish_date": "2026-04-15T21:20:00.000Z",
-      "teaser": "Lo clave en 20 segundos: La inteligencia artificial redefine el liderazgo humano en el entorno empresarial actual.",
+      "teaser": "Lo clave en 20 segundos: La inteligencia artificial transforma el liderazgo empresarial, sin reemplazar lo humano.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/charla-1_0.jpeg.webp?itok=tuYQWerU",
       "description": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
       "featured": false
@@ -8997,5 +9088,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-19T20:30:36.859Z"
+  "generated_at": "2026-04-19T21:30:37.004Z"
 }
