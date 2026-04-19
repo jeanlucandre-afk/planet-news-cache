@@ -1,16 +1,55 @@
 {
   "news": [
     {
-      "slug": "ocho-ninos-mueren-en-varios-tiroteos-en-diferentes-casas-en-luisiana-eeuu",
-      "title": "Ocho niños mueren en varios tiroteos en diferentes casas en Luisiana, EE.UU.",
+      "slug": "tiroteo-cerca-de-universidad-en-estados-unidos-deja-tres-estudiantes-heridos",
+      "title": "Tiroteo cerca de universidad en Estados Unidos deja tres estudiantes heridos",
       "category": "Mundo",
-      "bullets_20s": "• Un trágico evento ocurrió en Luisiana, donde varios tiroteos cobraron la vida de niños inocentes.\n• Las autoridades informaron que el ataque fue relacionado con problemas de violencia doméstica.\n• Se ha desatado un debate sobre la seguridad en la comunidad y la prevención de la violencia.\n• Los familiares de las víctimas están en estado de shock, buscando respuestas sobre este trágico suceso.\n• Este incidente resalta la importancia de abordar la violencia armada en los Estados Unidos.",
-      "source_name": "BBC",
-      "source_url": "https://www.bbc.com/mundo/articles/c4g5x4qq1l2o?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-04-19T18:28:58.000Z",
-      "teaser": "Lo clave en 20 segundos: una tragedia conmociona a Luisiana con la muerte de varios niños en tiroteos.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4d74/live/6ed8c7c0-3c10-11f1-879d-1b2f5c3919b8.png",
-      "description": "Las autoridades expresaron que el tiroteo fue un hecho de violencia doméstica y que algunos de las víctimas estaban relacionadas con el atacante.",
+      "bullets_20s": "• Un tiroteo ocurrió cerca de la Universidad de Iowa, impactando a tres estudiantes.\n• Las autoridades están investigando las circunstancias alrededor del incidente violento.\n• Este suceso se suma a una serie de tiroteos en campus universitarios en EE.UU.\n• Se han aumentado las medidas de seguridad en instituciones educativas por esta razón.\n• La comunidad universitaria expresa preocupación por la violencia en sus entornos.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/tiroteo-cerca-de-universidad-de-estados-unidos/5FBEELQ6NJD43AMORDRV7XZYHM/story/",
+      "publish_date": "2026-04-19T19:14:16.000Z",
+      "teaser": "Lo clave en 20 segundos: tiroteo cerca de universidad en Iowa deja varios heridos.",
+      "image_url": "https://www.nacion.com/resizer/v2/IUIQQY4JFJG3PFW3O6AL2G4HAQ.jpg?auth=533a636f0de0de643afbd71e7bff5eb8d16cc3743a27de80572a81aa1d10df9f&smart=true&width=600&height=473",
+      "description": "Tres estudiantes de la Universidad de Iowa, en el norte de Estados Unidos, resultaron heridos en un tiroteo fuera del campus este domingo.",
+      "featured": false
+    },
+    {
+      "slug": "el-manchester-city-domina-al-arsenal-y-promete-un-emocionante-cierre-de-la-premier",
+      "title": "El Manchester City domina al Arsenal y promete un emocionante cierre de la Premier",
+      "category": "Mundo",
+      "bullets_20s": "• El Manchester City se muestra fuerte en las últimas jornadas de la Premier League en Inglaterra.\n• El Arsenal pierde ventaja en la tabla tras el enfrentamiento contra el equipo de Manchester.\n• Ambos equipos luchan por el título en una competencia cada vez más intensa y emocionante.\n• Se anticipan partidos decisivos mientras la temporada se acerca a su fase final.\n• La estrategia de juego del City ha impactado en el rendimiento del equipo del Arsenal.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/puro-deporte/el-manchester-city-domina-al-arsenal-y-promete-un/SJXDPXWQAREWJI5NI4OPTLCPSE/story/",
+      "publish_date": "2026-04-19T19:06:47.000Z",
+      "teaser": "Lo clave en 20 segundos: Manchester City amenaza el liderazgo del Arsenal en la Premier League.",
+      "image_url": "https://www.nacion.com/resizer/v2/3KNGM7UHOFFXFIBKPAHW6WHXTA.jpg?auth=ab399823f29b4aeb1b9a90cba9bbf7955e33185be7be5aeaff24a1404c968fbe&smart=true&width=4723&height=3149",
+      "description": "El Arsenal compromete su liderato en Inglaterra ante un Manchester City que amenaza con arrebatarle el título.",
+      "featured": false
+    },
+    {
+      "slug": "activistas-exigen-a-cancilleria-pruebas-de-proteccion-plena-a-minorias-tras-salida-de-foro-de-la-oea-sobre-derechos-de-p",
+      "title": "Activistas exigen a Cancillería pruebas de ‘protección plena’ a minorías tras salida de foro de la OEA sobre derechos de población LGBTIQA+",
+      "category": "Costa Rica",
+      "bullets_20s": "• Activistas han solicitado claridad sobre la salida de Costa Rica del grupo LGBT de la OEA.\n• Los defensores de derechos humanos buscan transparencia en las decisiones del gobierno.\n• El canciller Arnoldo André debe explicar por qué se tomó esta decisión controversial.\n• La comunidad LGBTIQA+ exige garantías y protección plena de sus derechos en el país.\n• Este evento resalta la importancia de la representación de minorías en organismos internacionales.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/el-pais/activistas-exigen-a-cancilleria-pruebas-de/JTYPXK7WA5GW5FCWBSWTGASOVU/story/",
+      "publish_date": "2026-04-19T18:59:44.000Z",
+      "teaser": "Lo clave en 20 segundos: Activistas piden explicaciones sobre protección a minorías tras decisión gubernamental.",
+      "image_url": "https://www.nacion.com/resizer/v2/2WNOCN2OYRD63JV4AH7GGUAKLA.jpg?auth=492c181944ceca9141dc23d4cbdb1408ea3c2110d5cd0cd113e016feebae7e60&smart=true&width=7847&height=5234",
+      "description": "Defensores de derechos humanos presentaron una solicitud de información para que el canciller Arnoldo André sustente la salida de Costa Rica de grupo LGBT de la OEA.",
+      "featured": false
+    },
+    {
+      "slug": "bayern-munich-conquista-la-liga-alemana-por-35-ocasion-en-su-historia",
+      "title": "Bayern Múnich conquista la liga alemana por 35ª ocasión en su historia",
+      "category": "Mundo",
+      "bullets_20s": "• Bayern Múnich asegura su liderato en la Bundesliga con una actuación sobresaliente este año.\n• El equipo se mantiene en competición en la Champions League, buscando más gloria.\n• Además de la Bundesliga, el Bayern sigue sus pasos en la Copa de Alemania.\n• La historia del Bayern Múnich está marcada por múltiples campeonatos en Alemania.\n• Los aficionados celebran un nuevo logro en la carrera del equipo más exitoso del país.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/puro-deporte/bayern-munich-conquista-la-liga-alemana-por-35/7TWIWXKVJ5HQDGPKF7E5UA2YEA/story/",
+      "publish_date": "2026-04-19T18:48:26.000Z",
+      "teaser": "Lo clave en 20 segundos: Bayern Múnich asegura su 35ª liga alemana y sigue en competencia.",
+      "image_url": "https://www.nacion.com/resizer/v2/SYJKQGLAXJHH5KCVVZVUSJO2UA.jpg?auth=52dde692da93e86dfa2e3ccac91d7218f40984fd02fc81090cd2014bea134b14&smart=true&width=5773&height=3849",
+      "description": "El Bayern Múnich amarró el primer lugar de la Bundesliga y todavía está con vida en la Champions y la Copa de Alemania.",
       "featured": false
     },
     {
@@ -326,19 +365,6 @@
       "featured": false
     },
     {
-      "slug": "8-de-los-mejores-destinos-de-playa-del-mundo-segun-la-bbc-uno-esta-en-america-latina",
-      "title": "8 de los mejores destinos de playa del mundo, según la BBC (uno está en América Latina)",
-      "category": "Mundo",
-      "bullets_20s": "• Las playas del mundo ofrecen una variedad impresionante de paisajes y experiencias inolvidables.\n• Algunas playas son famosas por su belleza natural y aguas cristalinas que atraen a turistas.\n• El reportaje de la BBC destaca destinos menos conocidos que ofrecen tranquilidad y belleza.\n• Las costas volcánicas de Italia son un ejemplo de paisajes sorprendentes y espectaculares.\n• Tasmania también aparece como un paraíso para quienes buscan escapadas exóticas y hermosas.",
-      "source_name": "",
-      "source_url": "https://www.bbc.com/mundo/articles/cr51v0g4vmdo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-04-19T12:42:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Explora 8 playas únicas de todo el mundo, incluyendo un destino latinoamericano.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3cdc/live/173cb690-2f75-11f1-b297-95b0a0a8331e.jpg",
-      "description": "Desde calas apartadas en las costas volcánicas de Italia hasta paraísos de arena blanca en Tasmania, a los periodistas de la BBC les encantan estas playas únicas e inesperadas.",
-      "featured": false
-    },
-    {
       "slug": "plan-de-oij-basado-en-cuatro-pilares-explica-reduccion-de-homicidios-en-primer-trimestre",
       "title": "Plan de OIJ basado en cuatro pilares explica reducción de homicidios en primer trimestre",
       "category": "Costa Rica",
@@ -417,19 +443,6 @@
       "featured": false
     },
     {
-      "slug": "el-zoologico-de-moctezuma-que-asombro-a-los-espanoles-hace-500-anos-y-que-recien-ahora-empezamos-a-conocer",
-      "title": "El zoológico de Moctezuma que asombró a los españoles hace 500 años y que recién ahora empezamos a conocer",
-      "category": "Mundo",
-      "bullets_20s": "• Investigaciones recientes revelan la existencia de un zoológico en Tenochtitlan hace 500 años.\n• El emperador Moctezuma II tenía una vasta colección de animales exóticos en su zoológico.\n• El zoológico contenía aves, serpientes, jaguares, pumas y lobos entre otros animales.\n• Los españoles quedaron maravillados al conocer la diversidad de fauna del emperador mexica.\n• Cada animal tenía un significado especial, reflejando la cultura y creencias aztecas.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/c5y8jk14w9ko?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-04-19T11:02:08.000Z",
-      "teaser": "Lo clave en 20 segundos: El zoológico de Moctezuma sorprendía a los españoles con su variedad de animales exóticos.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/597a/live/46aeda70-3448-11f1-acfc-bb3dca3045bc.jpg",
-      "description": "Nuevas investigaciones revelan algunos detalles de los animales que tenía el emperador mexica Moctezuma II en la antigua ciudad de Tenochtitlan. Había desde aves y serpientes hasta jaguares, pumas y lobos.",
-      "featured": false
-    },
-    {
       "slug": "ofrecia-casas-y-carros-decia-tener-cancer-y-prometia-maestrias-en-chile-denunciantes-relatan-las-aparentes-estafas-por-l",
       "title": "Ofrecía casas y carros, decía tener cáncer y prometía maestrías en Chile: denunciantes relatan las aparentes estafas por las que entregaron millones a una trabajadora social de la CCSS",
       "category": "Costa Rica",
@@ -440,19 +453,6 @@
       "teaser": "Lo clave en 20 segundos: Seis personas denuncian estafas por parte de una trabajadora social de la CCSS.",
       "image_url": "https://www.nacion.com/resizer/v2/LGFJTRP65RCJPFGPU5QNKAUIUQ.jpg?auth=89c9c49d0ec388b4743330c9ecceaba3c3c889101651bd91c475d416170dbf07&smart=true&width=947&height=556",
       "description": "Seis denunciantes relatan la forma como una trabajadora social de la CCSS, que se presentaba como serena y amigable, los habría estafado con diversas modalidades entre el 2019 y el 2015. Entre los afectados hay funcionarios y pacientes, amigos, docentes y padres de familia.",
-      "featured": false
-    },
-    {
-      "slug": "se-fue-de-viaje-escolar-y-nunca-regreso-el-padre-que-10-anos-despues-aun-busca-resolver-el-misterio-de-la-muerte-de-su-h",
-      "title": "Se fue de viaje escolar y nunca regresó: el padre que 10 años después aún busca resolver el misterio de la muerte de su hija",
-      "category": "Mundo",
-      "bullets_20s": "• La búsqueda de respuestas sobre la muerte de Victoria Natalini sigue siendo un enigma inquietante.\n• Este caso ha captado la atención de medios de comunicación y activistas en Brasil y más allá.\n• El padre de Victoria ha estado luchando por justicia durante más de diez años.\n• Su historia resuena con muchas familias que han enfrentado tragedias similares en el país.\n• La falta de avances en el caso ha generado frustración y desesperanza en la comunidad.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/cm2kxxyl978o?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-04-19T09:54:31.000Z",
-      "teaser": "Lo clave en 20 segundos: El padre sigue buscando respuestas sobre la misteriosa muerte de su hija tras diez años.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cd4e/live/a414b290-66f3-11ee-b34c-6dbde9fedf9a.jpg",
-      "description": "La misteriosa muerte de una adolescente brasileña, Victoria Natalini, ocurrida hace más de una década, aún no se ha resuelto, y su padre no se da por vencido.",
       "featured": false
     },
     {
@@ -505,19 +505,6 @@
       "teaser": "Lo clave en 20 segundos: Corea del Norte prueba nuevos misiles en medio de tensiones internacionales.",
       "image_url": "https://www.nacion.com/resizer/v2/7XHUTHWYJVC67OOO4BEEPAMM5I.jpg?auth=091bcb23c78cbfcc148a1db77a6ae75ee7866bd9fd536e0cebee594029357a1b&smart=true&width=4704&height=3311",
       "description": "Los misiles volaron aproximadamente 140 kilómetros",
-      "featured": false
-    },
-    {
-      "slug": "de-japon-a-cuba-que-tan-eficaces-fueron-historicamente-los-bloqueos-navales-como-el-de-ee-uu-a-iran",
-      "title": "De Japón a Cuba: qué tan eficaces fueron históricamente los bloqueos navales como el de EE. UU. a Irán",
-      "category": "Mundo",
-      "bullets_20s": "• Los bloqueos navales han sido tácticas históricas en conflictos internacionales a lo largo del tiempo.\n• A menudo buscan afectar la economía de un país sin intervención militar directa.\n• Los efectos socioeconómicos de los bloqueos pueden ser devastadores para la población civil.\n• Cuba y Japón son ejemplos de países que experimentaron bloqueos significativos en su historia.\n• Las lecciones del pasado se analizan en el contexto actual del bloqueo a Irán.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/c2ev2m2nmkgo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-04-19T03:32:19.000Z",
-      "teaser": "Lo clave en 20 segundos: el impacto social de bloqueos navales a lo largo de la historia.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/2d08/live/0091fa90-38bc-11f1-9d5c-8ba507d7dbde.jpg",
-      "description": "Los diferentes bloqueos han producido diferentes efectos a lo largo de la historia, pero con frecuencia han tenido un gran impacto social o humanitario.",
       "featured": false
     },
     {
@@ -2110,11 +2097,11 @@
       "slug": "autonomia-universitaria-sera-tema-de-discusion-en-la-catedra-elizabeth-odio-benito",
       "title": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "category": "Costa Rica",
-      "bullets_20s": "• El miércoles 22 de abril se discutirá la autonomía universitaria en un conversatorio importante.\n• La actividad contará con la participación de expertos en el ámbito académico y estudiantil.\n• Este principio es fundamental para el funcionamiento de la educación superior pública en Costa Rica.\n• El conversatorio analizará los retos y vigencia de la autonomía universitaria en el contexto actual.\n• Se espera un diálogo plural sobre temas de libertad académica y rendición de cuentas.",
+      "bullets_20s": "• La Cátedra Elizabeth Odio Benito se centra en la autonomía universitaria este 22 de abril.\n• Expertos analizarán la importancia de la autonomía en la educación superior pública.\n• La actividad se llevará a cabo a las 2:00 p.m. en el TEC de Costa Rica.\n• Participarán destacados académicos y estudiantes con diversas perspectivas sobre el tema.\n• Se busca fomentar un diálogo plural sobre la libertad académica y su relevancia actual.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-sera-tema-discusion-catedra-elizabeth-odio-benito",
       "publish_date": "2026-04-17T04:51:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Autonomía universitaria se discutirá en conversatorio el 22 de abril.",
+      "teaser": "Lo clave en 20 segundos: Se discutirá la autonomía universitaria en un conversatorio del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-conversatorio_san-jose.png",
       "description": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "featured": false
@@ -2682,11 +2669,11 @@
       "slug": "presentacion-del-libro-los-terremotos-de-1910",
       "title": "Presentación del libro Los terremotos de 1910",
       "category": "Costa Rica",
-      "bullets_20s": "• La presentación del libro se realizará el miércoles 22 de abril en Cartago.\n• Los autores del libro son Fraser Pirie y Franco Fernández Esquivel.\n• El evento se desarrollará en la Biblioteca Figueres Ferrer del TEC.\n• Se rendirá homenaje a la familia Pirie durante la presentación.\n• Este evento forma parte de las actividades del 55 Aniversario del TEC.\n• La Semana del Libro también incluye este evento cultural significativo.\n• La audiencia general está invitada a asistir a la presentación.\n• El evento comenzará a las 2 p.m. y será gratuito para todos.\n• Los terremotos de 1910 son un tema relevante en la historia costarricense.",
+      "bullets_20s": "• La presentación se llevará a cabo el miércoles 22 de abril a las 2 p.m.\n• Los autores del libro son Fraser Pirie y Franco Fernández Esquivel.\n• El evento se realizará en la Biblioteca Figueres Ferrer en Cartago.\n• Se rendirá homenaje a la familia Pirie durante la presentación del libro.\n• Este evento es parte de las celebraciones del 55 Aniversario del TEC.\n• La presentación es parte de la Semana del Libro en Costa Rica.\n• El evento está dirigido a una audiencia general interesada en la historia.\n• La biblioteca ofrece un espacio adecuado para este tipo de actividades.\n• El libro aborda la historia de los terremotos ocurridos en 1910.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-terremotos-1910",
       "publish_date": "2026-04-16T16:23:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Presentación del libro sobre terremotos de 1910 en Cartago.",
+      "teaser": "Lo clave en 20 segundos: Se presenta el libro sobre los terremotos de 1910 en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/terremotos-1910-tec-1.jpg",
       "description": "Presentación del libro Los terremotos de 1910",
       "featured": false
@@ -3030,19 +3017,6 @@
       "featured": false
     },
     {
-      "slug": "mas-humanos-que-nunca-el-reto-de-liderar-en-la-era-de-la-inteligencia-artificial",
-      "title": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
-      "category": "Ciencia",
-      "bullets_20s": "• La inteligencia artificial reta a las y los líderes a enfocarse en lo humano en negocios.\n• El panel 'Administración 5.0' analizó el impacto de la tecnología en la gestión empresarial.\n• Las habilidades blandas son clave en un entorno dominado por la inteligencia artificial.\n• Los profesionales deben evaluar la información que proporciona la inteligencia artificial críticamente.\n• La educación sigue siendo esencial a pesar de los avances tecnológicos en el liderazgo.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/mas-humanos-nunca-reto-liderar-era-inteligencia-artificial",
-      "publish_date": "2026-04-16T03:20:18.000Z",
-      "teaser": "Lo clave en 20 segundos: El liderazgo humano es fundamental en la era de la inteligencia artificial.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/charla-1_0.jpeg.webp?itok=tuYQWerU",
-      "description": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
-      "featured": false
-    },
-    {
       "slug": "estudiante-de-la-ucr-denuncia-a-facultad-de-derecho-por-presuntas-inconsistencias-en-reportes-sobre-gastos-en-alimentaci",
       "title": "Estudiante de la UCR denuncia a Facultad de Derecho por presuntas inconsistencias en reportes sobre gastos en alimentación",
       "category": "Costa Rica",
@@ -3227,12 +3201,12 @@
     {
       "slug": "semana-de-la-innovacion-tec-2026",
       "title": "Semana de la Innovación TEC 2026",
-      "category": "Costa Rica",
-      "bullets_20s": "• La Semana de la Innovación busca inspirar a la comunidad educativa del Tecnológico de Costa Rica.\n• Convocan a eventos como talleres y charlas, impulsando el talento local y la creatividad.\n• Actividades están enfocadas en tecnología, emprendimiento y desarrollo personal.\n• Se contará con la participación de expertos como Sandra Cauffman de la NASA.\n• Se realizarán exposiciones de proyectos innovadores y oportunidades de networking.",
+      "category": "Tecnología",
+      "bullets_20s": "• El TEC Emprende Lab invita a la comunidad institucional a participar en la Semana de la Innovación.\n• Actividades comenzarán el 21 de abril, en el marco del Día Mundial de la Creatividad.\n• Entre los eventos destacan el conversatorio 'Talento sin fronteras' con expertos internacionales.\n• Habrá un taller de Trading centrado en mercados financieros y oportunidades de inversión.\n• Se realizará un evento llamado Fracaso Fest para compartir aprendizajes en un entorno ameno.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/semana-innovacion-tec-2026",
       "publish_date": "2026-04-15T21:38:15.000Z",
-      "teaser": "Lo clave en 20 segundos: La Semana de la Innovación se aproxima con talleres y charlas inspiradoras.",
+      "teaser": "Lo clave en 20 segundos: Semana de la Innovación TEC 2026 inicia el 21 de abril con diversas actividades.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tec-emprende.png",
       "description": "Semana de la Innovación TEC 2026",
       "featured": false
@@ -3287,6 +3261,19 @@
       "teaser": "Lo clave en 20 segundos: un joven talento de San Carlos atrae a grandes clubes.",
       "image_url": "https://www.nacion.com/resizer/v2/OOVYEXE235ABTOHABKXPAQIXQ4.jpeg?auth=ac1db5477fcea58c94689d3a060eded9b0952af5dc338562c2ea4cf46d692ea6&smart=true&width=1228&height=921",
       "description": "Joven de 16 años de San Carlos sigue en Sudamérica, pero ahora entrena con un histórico del fútbol mundial.",
+      "featured": false
+    },
+    {
+      "slug": "mas-humanos-que-nunca-el-reto-de-liderar-en-la-era-de-la-inteligencia-artificial",
+      "title": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
+      "category": "Ciencia",
+      "bullets_20s": "• El panel reunió a expertos para discutir el impacto de la inteligencia artificial en el liderazgo.\n• La inteligencia artificial transforma la administración, enfocándose en el análisis y toma de decisiones.\n• Los expertos destacan que la tecnología debe complementar, no sustituir, el criterio humano de los líderes.\n• La educación continúa siendo fundamental en la formación de profesionales en un entorno digital.\n• Se enfatiza en el desarrollo de habilidades blandas como pensamiento crítico y adaptabilidad.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/mas-humanos-nunca-reto-liderar-era-inteligencia-artificial",
+      "publish_date": "2026-04-15T21:20:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La inteligencia artificial redefine el liderazgo humano en el entorno empresarial actual.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/charla-1_0.jpeg.webp?itok=tuYQWerU",
+      "description": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
       "featured": false
     },
     {
@@ -9010,5 +8997,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-19T19:30:36.332Z"
+  "generated_at": "2026-04-19T20:30:36.859Z"
 }
