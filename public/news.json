@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "el-super-donde-el-precio-del-estante-casi-nunca-coincide-con-el-que-marcan-en-la-caja",
+      "title": "El súper donde el precio del estante casi nunca coincide con el que marcan en la caja",
+      "category": "Costa Rica",
+      "bullets_20s": "• El desajuste entre el precio del estante y el de la caja genera malestar entre los consumidores.\n• Los compradores esperan que el precio marcado en el estante sea respetado en la caja.\n• Las cadenas de supermercados deben garantizar transparencia y exactitud en los precios.\n• Es fundamental que los supermercados mantengan un control adecuado de sus etiquetas de precios.\n• La confianza del consumidor se ve afectada por errores en la facturación de precios.",
+      "source_name": "Redacción de La Nación",
+      "source_url": "https://www.nacion.com/opinion/cartas/el-super-donde-el-precio-del-estante-casi-nunca/MKJ5KAY6TNG6PP4M4FT5FVGZIQ/story/",
+      "publish_date": "2026-04-19T00:23:22.000Z",
+      "teaser": "Lo clave en 20 segundos: La desconexión entre precios en estantes y cajas provoca malestar en los consumidores.",
+      "image_url": "https://www.nacion.com/resizer/v2/AYVZ7FNNPRGJNLH72FV2JKDK6A.png?auth=62763a1df66045c83ad1c6c95ea1320ab9ee75d6cb2f49986ccc73cc7f2c429a&smart=true&width=1338&height=753",
+      "description": "Es inaceptable la falta de control en los precios en este supermercado. Intenté comprar dos queques que estaban claramente marcados con un precio, y al llegar a la caja, el monto marcado fue distinto.",
+      "featured": false
+    },
+    {
+      "slug": "el-poder-incomodo-de-un-abrazo-en-tiempos-de-desconfianza",
+      "title": "El poder incómodo de un abrazo en tiempos de desconfianza",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un abrazo puede ser un gesto poderoso, especialmente en contextos de desconfianza.\n• Las actividades grupales a menudo generan conexiones inesperadas entre los participantes.\n• La empatía se puede fortalecer a través del contacto físico, como un abrazo sincero.\n• Las situaciones tensas pueden suavizarse con gestos de cercanía y comprensión.\n• Algunas herramientas de convivencia pueden ser útiles para reconciliar diferencias.",
+      "source_name": "Rodolfo González Ulloa",
+      "source_url": "https://www.nacion.com/opinion/foros/manual-de-supervivencia-para-ticos-que-hacer-si/APGLI35WQRGMZDGYJNBAS7JJ3U/story/",
+      "publish_date": "2026-04-18T23:38:09.000Z",
+      "teaser": "Lo clave en 20 segundos: Un abrazo puede cambiar percepciones y crear lazos de confianza.",
+      "image_url": "https://www.nacion.com/resizer/v2/CHXVP7S2UZAFTHTLHFTWAOILQ4.jpg?auth=d4d9e7b671c1086ea6a308337e3e608d4c24623be9153007069559e57e1db344&smart=true&width=7360&height=4458",
+      "description": "Lo que empezó como una actividad colegial terminó siendo una lección inesperada sobre empatía, confianza y cercanía",
+      "featured": false
+    },
+    {
       "slug": "costa-rica-vs-guatemala-la-sele-tiene-una-baja-inesperada-recuerde-donde-ver-el-partido-que-empieza-en-pocos-minutos",
       "title": "Costa Rica vs. Guatemala: La ‘Sele’ tiene una baja inesperada; recuerde dónde ver el partido que empieza en pocos minutos",
       "category": "Costa Rica",
@@ -17,11 +43,11 @@
       "slug": "joven-de-19-anos-muere-ahogado-en-poza-de-barva-de-heredia",
       "title": "Joven de 19 años muere ahogado en poza de Barva de Heredia",
       "category": "Costa Rica",
-      "bullets_20s": "• El accidente ocurrió en la localidad de San Pablo de Barva, Heredia, en una poza.\n• Testigos reportaron que el joven fue arrastrado por la corriente del agua.\n• Los esfuerzos de rescate comenzaron de inmediato por parte de los vecinos.\n• Las autoridades locales están investigando las circunstancias del incidente.\n• Este trágico suceso resalta los peligros de nadar en aguas desconocidas.",
+      "bullets_20s": "• Un joven de 19 años falleció tras ahogarse en una poza en Barva de Heredia.\n• Los servicios de emergencia fueron alertados, pero al llegar ya era demasiado tarde.\n• El incidente ocurrió en una popular zona de recreo local, conocida por sus aguas.\n• La comunidad local ha expresado su tristeza y preocupación por la seguridad en la zona.\n• Se recomienda a los visitantes tener precaución al nadar en áreas no vigiladas.",
       "source_name": "Patricia Recio",
       "source_url": "https://www.nacion.com/sucesos/accidentes/joven-de-19-anos-muere-ahogado-en-poza-de-barva-de/RBC7QYW2RBHFTOH4OUBVRUSXX4/story/",
       "publish_date": "2026-04-18T23:00:54.000Z",
-      "teaser": "Lo clave en 20 segundos: un joven de 19 años falleció ahogado en Barva de Heredia.",
+      "teaser": "Lo clave en 20 segundos: Un joven muere ahogado en Barva de Heredia, generando preocupación en la comunidad.",
       "image_url": "https://www.nacion.com/resizer/v2/FJXRFXRARBDINBINGPQ3KOEGNI.jpeg?auth=59cd366db6e4410ceb5f07f0a139d8f0f1b3ad33101f9f0c36c610cfc93f013d&smart=true&width=1156&height=867",
       "description": "Joven de 19 años muere ahogado en poza en San Pablo de Barva, Heredia",
       "featured": false
@@ -225,11 +251,11 @@
       "slug": "prisioneros-esposados-y-ejecutados-los-cargos-por-crimenes-de-guerra-contra-el-soldado-australiano-mas-condecorado",
       "title": "Prisioneros esposados y ejecutados: los cargos por crímenes de guerra contra el soldado australiano más condecorado",
       "category": "Mundo",
-      "bullets_20s": "• Documentos judiciales revelan alegaciones graves contra un militar australiano condecorado.\n• Los cinco cargos de asesinato están relacionados con acciones en conflictos armados.\n• Las revelaciones generan debate sobre la conducta militar en situaciones de guerra.\n• El caso evidencia la importancia de la justicia en conflictos internacionales actuales.\n• Tanto Australia como la comunidad internacional están siguiendo de cerca el desarrollo.",
+      "bullets_20s": "• Se han revelado nuevos documentos judiciales sobre un militar australiano condecorado.\n• El soldado enfrenta cinco cargos de asesinato por crímenes de guerra.\n• Las acusaciones han generado fuertes reacciones a nivel internacional.\n• El caso plantea cuestiones éticas sobre el uso de la fuerza en conflictos.\n• Los detalles del juicio podrían influir en futuras investigaciones militares.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c393yry81k9o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-18T18:41:30.000Z",
-      "teaser": "Lo clave en 20 segundos: un soldado australiano enfrenta cargos de asesinato en conflictos bélicos.",
+      "teaser": "Lo clave en 20 segundos: revelan crímenes de guerra contra militar australiano condecorado.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3e08/live/690aeea0-3a43-11f1-a743-c960ad2c2c95.jpg",
       "description": "Nuevos documentos judiciales, a los que tuvo acceso la BBC, revelan detalles de los cinco cargos de asesinato que se imputan al laureado militar.",
       "featured": false
@@ -433,11 +459,11 @@
       "slug": "gaby-munoz-la-mexicana-que-tras-estar-al-borde-de-la-muerte-creo-el-personaje-de-la-payasa-chula",
       "title": "Gaby Muñoz, la mexicana que tras estar al borde de la muerte creó el personaje de la payasa Chula",
       "category": "Mundo",
-      "bullets_20s": "• Gaby Muñoz ha inspirado a miles con su personaje Chula en diferentes escenarios.\n• Chula es conocida por brindar alegría en lugares donde más se necesita.\n• La historia de Gaby resalta la importancia del arte en momentos difíciles.\n• A lo largo de 15 años ha realizado presentaciones en diversas partes del mundo.\n• Su creadora ha encontrado en Chula un medio para superar adversidades.",
+      "bullets_20s": "• Gaby Muñoz enfrentó una trágica experiencia que cambió el rumbo de su vida cotidiana.\n• La payasa Chula se ha presentado en diversos escenarios alrededor del mundo, llevando alegría.\n• Su historia refleja la importancia de la resiliencia y el arte en tiempos difíciles.\n• Chula ha estado en lugares inusuales, incluyendo campos de refugiados y hospitales.\n• El personaje ha sido un símbolo de esperanza y alegría en diferentes comunidades.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c24871z6j58o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-18T14:54:14.000Z",
-      "teaser": "Lo clave en 20 segundos: Gaby Muñoz transformó su tragedia personal en alegría mundial con Chula.",
+      "teaser": "Lo clave en 20 segundos: Gaby Muñoz superó una tragedia personal y creó a la payasa Chula.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/fda8/live/e005eec0-29e9-11f1-81d4-f1e3c77fafb4.jpg",
       "description": "A lo largo de más de 15 años, Chula ha llevado sonrisas por todo el mundo, desde salas de ópera hasta campos de refugiados. Pero fue una tragedia personal lo que inspiró a su creadora.",
       "featured": false
@@ -639,13 +665,13 @@
     },
     {
       "slug": "que-hace-a-terence-tao-el-mejor-matematico-vivo-del-mundo",
-      "title": "Qué hace a Terence Tao 'el mejor matemático vivo del mundo'",
+      "title": "Qué hace a Terence Tao \"el mejor matemático vivo del mundo\"",
       "category": "Mundo",
-      "bullets_20s": "• Terence Tao es considerado por muchos como el mejor matemático vivo en la actualidad.\n• Desde joven mostró un talento extraordinario para las matemáticas y la resolución de problemas.\n• Sus contribuciones a diversas ramas de las matemáticas han sido reconocidas mundialmente.\n• A pesar de su genialidad, Tao prefiere trabajar de manera colaborativa con otros matemáticos.\n• Es un ejemplo de cómo la pasión por los números puede llevar al éxito y reconocimiento.",
+      "bullets_20s": "• Terence Tao es un destacado matemático australiano, con numerosos premios en su campo.\n• Desde niño mostró un talento excepcional, con una profunda pasión por las matemáticas.\n• Tao ha trabajado en diversas áreas matemáticas, aportando significativamente al conocimiento.\n• Su enfoque colaborativo desmitifica la idea del genio solitario en las matemáticas modernas.\n• Es un defensor de la educación matemática inclusiva y el aprendizaje en equipo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2d8r3w3xeno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-18T09:04:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Terence Tao, un genio matemático, destaca por su colaboración y logros desde niño.",
+      "teaser": "Lo clave en 20 segundos: Conoce a Terence Tao, un genio colaborativo en el mundo de las matemáticas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/6ed5/live/20065a50-3291-11f1-a06d-efde436183e6.jpg",
       "description": "Fue un niño prodigio que amaba los números y le encantaba la tarea de aritmética. Ha ganado prestigiosos premios por sus aportes a las matemáticas y está muy lejos de la imagen del genio que resuelve problemas solo.",
       "featured": false
@@ -719,11 +745,11 @@
       "slug": "por-que-libano-es-clave-para-poner-fin-al-conflicto-entre-eeuu-e-iran",
       "title": "Por qué Líbano es clave para poner fin al conflicto entre EE.UU. e Irán",
       "category": "Mundo",
-      "bullets_20s": "• Líbano juega un papel crucial en las relaciones entre EE.UU. e Irán en la actualidad.\n• La intervención de Israel ha complicado aún más el conflicto en la región.\n• El análisis de expertos revela las dinámicas de poder en Medio Oriente.\n• Las decisiones políticas de Líbano impactan el balance estratégico de la zona.\n• Es fundamental entender la historia del conflicto para prever futuros escenarios.\n• Las tensiones en Líbano afectan a sus ciudadanos y a la estabilidad regional.\n• Un diálogo diplomático es necesario para evitar más escaladas de violencia.\n• Las alianzas internacionales complican el panorama del conflicto en curso.\n• La resolución de esta crisis es clave para la seguridad de muchos países cercanos.",
+      "bullets_20s": "• Líbano se ha convertido en un punto estratégico entre potencias del Medio Oriente.\n• El conflicto entre EE.UU. e Irán afecta la estabilidad regional en múltiples países.\n• Israel y Líbano tienen una historia de tensiones que complican el panorama actual.\n• Las acciones militares en la región generan repercusiones en la política mundial.\n• El papel de Líbano podría ser determinante para fomentar negociaciones pacíficas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c30ry3qgn8jo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-18T01:55:05.000Z",
-      "teaser": "Lo clave en 20 segundos: Líbano es crucial en la tensión entre EE.UU. e Irán, influyendo en la paz regional.",
+      "teaser": "Lo clave en 20 segundos: Líbano es crucial para la estabilidad entre EE.UU. e Irán.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ece7/live/4df03240-3a5e-11f1-8606-05fe34b06e1b.jpg",
       "description": "Israel lanzó su más reciente ofensiva contra Líbano a principios de marzo, pocos días después de que se iniciara la guerra contra Irán.",
       "featured": false
@@ -1525,11 +1551,11 @@
       "slug": "autonomia-universitaria-sera-tema-de-discusion-en-la-catedra-elizabeth-odio-benito",
       "title": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "category": "Costa Rica",
-      "bullets_20s": "• La Cátedra busca analizar la autonomía universitaria y su importancia en la educación pública.\n• Expertos del ámbito académico se reunirán para discutir los desafíos actuales de la autonomía.\n• Se abordarán los efectos de las transformaciones sociales y presiones en financiamiento.\n• El conversatorio promueve la libertad académica y la investigación independiente.\n• Se espera la participación de académicos y estudiantes en el panel de discusión.",
+      "bullets_20s": "• La Cátedra Elizabeth Odio Benito organiza un panel sobre autonomía universitaria en abril.\n• El conversatorio abordará los retos y vigencia de este principio educativo fundamental.\n• Participarán expertos y actores del ámbito académico en un diálogo plural.\n• Se analizará la relación entre la autonomía universitaria y las demandas actuales.\n• El evento se llevará a cabo en el Campus Tecnológico Local San José.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-sera-tema-discusion-catedra-elizabeth-odio-benito",
       "publish_date": "2026-04-17T04:51:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Se analizará la autonomía universitaria en un conversatorio el 22 de abril.",
+      "teaser": "Lo clave en 20 segundos: discusión sobre autonomía universitaria reunirá a expertos en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-conversatorio_san-jose.png",
       "description": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "featured": false
@@ -2096,12 +2122,12 @@
     {
       "slug": "presentacion-del-libro-los-terremotos-de-1910",
       "title": "Presentación del libro Los terremotos de 1910",
-      "category": "Ciencia",
-      "bullets_20s": "• La presentación del libro se llevará a cabo el miércoles 22 de abril a las 2 p.m.\n• El evento tiene lugar en la Biblioteca Figueres Ferrer en Cartago, un lugar emblemático.\n• Fraser Pirie y Franco Fernández Esquivel son los autores del libro presentado.\n• La celebración forma parte del 55 aniversario del Tecnológico de Costa Rica.\n• Habrá un homenaje a la familia Pirie durante el evento literario.\n• Este evento se enmarca dentro de la Semana del Libro, promoviendo la lectura.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El 22 de abril se presentará el libro Los terremotos de 1910 en Cartago.\n• El evento comenzará a las 2 p.m. en la Biblioteca Figueres Ferrer.\n• Fraser Pirie y Franco Fernández son los autores del libro presentado.\n• Se homenajeará a la familia Pirie durante la celebración.\n• La presentación es parte del 55 Aniversario del TEC.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-terremotos-1910",
       "publish_date": "2026-04-16T16:23:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Presentación del libro sobre terremotos de 1910 el 22 de abril en Cartago.",
+      "teaser": "Lo clave en 20 segundos: Presentación del libro sobre terremotos históricos en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/terremotos-1910-tec-1.jpg",
       "description": "Presentación del libro Los terremotos de 1910",
       "featured": false
@@ -2445,19 +2471,6 @@
       "featured": false
     },
     {
-      "slug": "mas-humanos-que-nunca-el-reto-de-liderar-en-la-era-de-la-inteligencia-artificial",
-      "title": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
-      "category": "Costa Rica",
-      "bullets_20s": "• El liderazgo empresarial debe centrarse en lo humano frente al avance de la inteligencia artificial.\n• Panelistas reflexionaron sobre el papel del administrador en un entorno cada vez más digital.\n• Se enfatizó la importancia de habilidades blandas en el uso de nuevas tecnologías.\n• Los actuales administradores deben tomar decisiones basadas en análisis y pensamiento crítico.\n• La educación sigue siendo fundamental a pesar de la rápida evolución tecnológica.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/mas-humanos-nunca-reto-liderar-era-inteligencia-artificial",
-      "publish_date": "2026-04-16T03:20:18.000Z",
-      "teaser": "Lo clave en 20 segundos: el liderazgo en la era digital exige un enfoque más humano.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/charla-1_0.jpeg.webp?itok=tuYQWerU",
-      "description": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
-      "featured": false
-    },
-    {
       "slug": "estudiante-de-la-ucr-denuncia-a-facultad-de-derecho-por-presuntas-inconsistencias-en-reportes-sobre-gastos-en-alimentaci",
       "title": "Estudiante de la UCR denuncia a Facultad de Derecho por presuntas inconsistencias en reportes sobre gastos en alimentación",
       "category": "Costa Rica",
@@ -2643,11 +2656,11 @@
       "slug": "semana-de-la-innovacion-tec-2026",
       "title": "Semana de la Innovación TEC 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Semana de la Innovación TEC 2026 inicia el 21 de abril, en celebración del Día Mundial de la Innovación.\n• El evento busca inspirar y conectar la comunidad del TEC, mostrando emprendimientos e innovación.\n• Habrá un conversatorio sobre talento y resiliencia con expertos de la NASA y educación superior.\n• Se impartirán talleres sobre trading y análisis de mercados financieros enfocados en jóvenes.\n• Un Work Café permitirá el diálogo entre mujeres en STEAM para compartir experiencias profesionales.\n• El Demo Day presentará proyectos de investigación y soluciones innovadoras del TEC al público.\n• El Mercadito Emprendedor exhibirá productos de la comunidad, impulsando el emprendimiento local.\n• Las actividades estarán disponibles de forma virtual y presencial, incluyendo inscripciones online.\n• Sigue las redes sociales del TEC Emprende Lab para estar al tanto de las actualizaciones.\n• Se fomentará la participación de la comunidad en un ambiente colaborativo y creativo.",
+      "bullets_20s": "• El TEC organiza actividades para celebrar el Día Mundial de la Creatividad y la Innovación este año.\n• Se realizarán talleres y conversatorios para inspirar a la comunidad del TEC y su impacto global.\n• Las actividades incluyen charlas de expertos y talleres de trading y emprendimiento.\n• Habrá espacios para el diálogo entre mujeres en STEAM en el Work Café Empresarial.\n• Se fomentará la conexión y el aprendizaje a través del Fracaso Fest + Open Mic en el evento.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/semana-innovacion-tec-2026",
       "publish_date": "2026-04-15T21:38:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Semana dedicada a la innovación y creatividad se inicia en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Seminarios y actividades para innovar e inspirar en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tec-emprende.png",
       "description": "Semana de la Innovación TEC 2026",
       "featured": false
@@ -2702,6 +2715,19 @@
       "teaser": "Lo clave en 20 segundos: un joven talento de San Carlos atrae a grandes clubes.",
       "image_url": "https://www.nacion.com/resizer/v2/OOVYEXE235ABTOHABKXPAQIXQ4.jpeg?auth=ac1db5477fcea58c94689d3a060eded9b0952af5dc338562c2ea4cf46d692ea6&smart=true&width=1228&height=921",
       "description": "Joven de 16 años de San Carlos sigue en Sudamérica, pero ahora entrena con un histórico del fútbol mundial.",
+      "featured": false
+    },
+    {
+      "slug": "mas-humanos-que-nunca-el-reto-de-liderar-en-la-era-de-la-inteligencia-artificial",
+      "title": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
+      "category": "Costa Rica",
+      "bullets_20s": "• El panel en el TEC analizó el impacto de la inteligencia artificial en la administración moderna.\n• Los administradores deben enfocarse en el análisis y la toma de decisiones críticas hoy en día.\n• La tecnología debe ser una herramienta que complemente la capacidad humana en el liderazgo.\n• Las habilidades blandas son esenciales para navegar un entorno empresarial digitalizado.\n• Se destacó la importancia de cuestionar la información que brinda la inteligencia artificial.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/mas-humanos-nunca-reto-liderar-era-inteligencia-artificial",
+      "publish_date": "2026-04-15T21:20:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Reflexiones sobre el papel humano en la era de la inteligencia artificial.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/charla-1_0.jpeg.webp?itok=tuYQWerU",
+      "description": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
       "featured": false
     },
     {
@@ -8425,5 +8451,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-19T00:30:36.486Z"
+  "generated_at": "2026-04-19T01:30:36.676Z"
 }
