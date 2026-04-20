@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "aerolinea-anuncia-nuevo-vuelo-directo-entre-costa-rica-y-canada",
+      "title": "Aerolínea anuncia nuevo vuelo directo entre Costa Rica y Canadá",
+      "category": "Costa Rica",
+      "bullets_20s": "• El nuevo vuelo de Air Transat comenzará en diciembre próximo para conectar ambos países.\n• Esta ruta directa beneficiará a turistas canadienses y costarricenses por igual.\n• Se espera un aumento en la llegada de visitantes a Costa Rica desde Canadá.\n• Fortalecerá los lazos económicos y culturales entre Costa Rica y Canadá.\n• La conectividad aérea es clave para el crecimiento del turismo en la región.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/economia/aerolinea-anuncia-nueva-ruta-directa-entre-canada/UHFAHPNCRVC3JPXJNM3WREFTUE/story/",
+      "publish_date": "2026-04-20T00:17:00.000Z",
+      "teaser": "Lo clave en 20 segundos: nuevo vuelo directo conecta Costa Rica y Canadá desde diciembre.",
+      "image_url": "https://www.nacion.com/resizer/v2/M6NKRIVCRRC6HJ377D7RYFVKF4.jpg?auth=49d558cc85f5c6bc3a087a309e3456c083514bc9255f03249b3fa400d7729de0&smart=true&width=1620&height=1080",
+      "description": "Air Transat anuncia vuelo directo entre Canadá y Costa Rica desde diciembre. La nueva ruta fortalece el turismo y eleva la conectividad.",
+      "featured": false
+    },
+    {
+      "slug": "estados-unidos-intercepta-un-barco-irani-que-intentaba-romper-su-bloqueo-en-el-golfo-de-oman-y-teheran-anuncia-represali",
+      "title": "Estados Unidos intercepta un barco iraní que intentaba romper su bloqueo en el golfo de Omán y Teherán anuncia represalias",
+      "category": "Mundo",
+      "bullets_20s": "• Estados Unidos lleva a cabo operaciones en el golfo de Omán para asegurar la navegación.\n• Irán ha respondido con amenazas de represalias tras la interceptación del barco.\n• La misión diplomática de Estados Unidos busca desescalar las tensiones en la región.\n• Los conflictos en el golfo de Omán han aumentado en los últimos años, afectando el comercio.\n• Este incidente refleja las complejas relaciones entre Estados Unidos e Irán.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cjr9v1dnz7vo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-20T00:15:28.000Z",
+      "teaser": "Lo clave en 20 segundos: EE.UU. intercepta barco iraní, tensiones aumentan y Irán promete represalias.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/5eb9/live/8191b2f0-3c47-11f1-9d5c-8ba507d7dbde.png",
+      "description": "La captura del buque llega poco después de que el presidente afirmará que enviará una misión a negociar con Irán",
+      "featured": false
+    },
+    {
+      "slug": "sospechoso-de-agredir-a-jueza-sabra-este-lunes-si-le-imponen-medidas-cautelares",
+      "title": "Sospechoso de agredir a jueza sabrá este lunes si le imponen medidas cautelares",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un hombre de 48 años es sospechoso en la agresión de una jueza de ejecución penal.\n• La jueza agredida es parte del tribunal de ejecución de la pena en Alajuela.\n• Se espera que este lunes se determine si se imponen medidas cautelares al sospechoso.\n• El incidente ha causado preocupación sobre la seguridad en el sistema judicial.\n• La agresión fue violenta, poniendo de relieve los riesgos para los jueces en funciones.",
+      "source_name": "Roger Bolaños Vargas",
+      "source_url": "https://www.nacion.com/sucesos/sospechoso-de-agredir-a-jueza-sabra-este-lunes-si/2IHSEMYBCFHGVNQZ2CTTQ2QWDE/story/",
+      "publish_date": "2026-04-20T00:06:55.000Z",
+      "teaser": "Lo clave en 20 segundos: la justicia costarricense enfrenta un desafío tras agresión a jueza.",
+      "image_url": "https://www.nacion.com/resizer/v2/2VX7P6S5IRCI7BEHG3B5UGNFYM.JPG?auth=aaa0c8fe0cd75c731cc5fb181d7a7d8d98e472c0254c6619d02b15757d03083f&smart=true&width=4000&height=2666",
+      "description": "Hombre de 48 años atacó a golpes juega de ejecución de la pena de Alajuela.",
+      "featured": false
+    },
+    {
       "slug": "boca-juniors-vence-a-river-plate-en-el-superclasico-del-futbol-argentino",
       "title": "Boca Juniors vence a River Plate en el Superclásico del fútbol argentino",
       "category": "Mundo",
@@ -24,19 +63,6 @@
       "teaser": "Lo clave en 20 segundos: La vitamina D puede influir positivamente en la microbiota intestinal.",
       "image_url": "https://www.nacion.com/resizer/v2/5DZTX3FLU5GDHLLU7QXG75PU6Q.png?auth=0e1b04aaf270aaa3a96cf44bb80e13c134de17eea0bcff528e4a25d243f10deb&smart=true&width=1920&height=1080",
       "description": "Estudio de Mayo Clinic revela que la vitamina D podría influir en la respuesta inmunitaria y el microbioma intestinal en pacientes con enfermedad inflamatoria intestinal.",
-      "featured": false
-    },
-    {
-      "slug": "estados-unidos-intercepta-un-barco-irani-que-intentaba-romper-su-bloqueo-en-el-golfo-de-oman-y-teheran-anuncia-represali",
-      "title": "Estados Unidos intercepta un barco iraní que intentaba romper su bloqueo en el golfo de Omán y Teherán anuncia represalias",
-      "category": "Mundo",
-      "bullets_20s": "• Estados Unidos realizó la interceptación en aguas del golfo de Omán durante un periodo de tensión.\n• El barco iraní intentaba desafiar el bloqueo establecido por Estados Unidos en la región.\n• Teherán reaccionó con la promesa de represalias tras la captura de su buque.\n• La situación en el golfo de Omán genera preocupación internacional por la seguridad marítima.\n• Expertos analizan las repercusiones geopolíticas de este incidente para la región.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/cjr9v1dnz7vo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-04-19T22:57:29.000Z",
-      "teaser": "Lo clave en 20 segundos: Estados Unidos intercepta barco iraní, generando tensiones con Teherán.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/39a9/live/42c30f20-3c3c-11f1-879d-1b2f5c3919b8.jpg",
-      "description": "La captura del buque llega poco después de que el presidente afirmará que enviará una misión a negociar con Irán.",
       "featured": false
     },
     {
@@ -576,11 +602,11 @@
       "slug": "el-zoologico-de-moctezuma-que-asombro-a-los-espanoles-hace-500-anos-y-que-recien-ahora-empezamos-a-conocer",
       "title": "El zoológico de Moctezuma que asombró a los españoles hace 500 años y que recién ahora empezamos a conocer",
       "category": "Mundo",
-      "bullets_20s": "• Las nuevas investigaciones desvelan detalles sobre el zoológico de Moctezuma II en la antigua Tenochtitlan.\n• Este zoológico albergaba diversas especies que cautivaron a los conquistadores españoles en su llegada.\n• Los animales incluían aves exóticas, serpientes, jaguares, pumas y lobos, entre otros fascinantes ejemplares.\n• El emperador utilizaba estos animales no solo para entretenimiento, sino también para simbolizar poder y riqueza.\n• Las investigaciones se basan en crónicas históricas y en estudios arqueológicos recientes realizados en la región.",
+      "bullets_20s": "• Las investigaciones recientes revelan la diversidad de la fauna en tiempos de Moctezuma II.\n• Se descubrieron especies como jaguares, pumas, aves y serpientes en el antiguo zoológico.\n• Este zoológico fue una demostración del poder y riqueza del imperio mexica en su apogeo.\n• La ciudad de Tenochtitlan albergaba una mezcla de especies nativas y exóticas en su zoológico.\n• Los españoles quedaron asombrados por la variedad de animales que allí se exhibían.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c5y8jk14w9ko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-19T11:02:08.000Z",
-      "teaser": "Lo clave en 20 segundos: Un fascinante zoológico de Moctezuma cobra vida a través de nuevas investigaciones históricas.",
+      "teaser": "Lo clave en 20 segundos: Un zoológico impresionante de Moctezuma revela la fauna de la antigua Tenochtitlan.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/597a/live/46aeda70-3448-11f1-acfc-bb3dca3045bc.jpg",
       "description": "Nuevas investigaciones revelan algunos detalles de los animales que tenía el emperador mexica Moctezuma II en la antigua ciudad de Tenochtitlan. Había desde aves y serpientes hasta jaguares, pumas y lobos.",
       "featured": false
@@ -602,11 +628,11 @@
       "slug": "se-fue-de-viaje-escolar-y-nunca-regreso-el-padre-que-10-anos-despues-aun-busca-resolver-el-misterio-de-la-muerte-de-su-h",
       "title": "Se fue de viaje escolar y nunca regresó: el padre que 10 años después aún busca resolver el misterio de la muerte de su hija",
       "category": "Mundo",
-      "bullets_20s": "• El caso de Victoria Natalini ha capturado la atención por su naturaleza misteriosa y trágica.\n• Su padre ha dedicado la última década a buscar respuestas sobre la muerte de su hija.\n• La adolescente desapareció durante un viaje escolar, lo que generó múltiples especulaciones.\n• Las autoridades han investigado, pero el caso sigue sin resolverse, despertando el interés público.\n• La historia pone en evidencia los desafíos de la justicia en casos de desapariciones.",
+      "bullets_20s": "• Un padre busca respuestas sobre la muerte de su hija tras un viaje escolar hace diez años.\n• Victoria Natalini desapareció durante un viaje escolar, dejando un misterio en su familia.\n• La búsqueda de justicia y verdad ha llevado a su padre por un camino difícil y doloroso.\n• El caso ha captado la atención de muchos en Brasil, evidenciando la problemática de desapariciones.\n• Los padres de adolescentes viajando deben ser conscientes de los riesgos asociados a estos eventos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cm2kxxyl978o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-19T09:54:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Un padre lucha por conocer la verdad detrás de la muerte de su hija tras años de incertidumbre.",
+      "teaser": "Lo clave en 20 segundos: Un padre sigue buscando respuestas tras la misteriosa muerte de su hija en un viaje escolar.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cd4e/live/a414b290-66f3-11ee-b34c-6dbde9fedf9a.jpg",
       "description": "La misteriosa muerte de una adolescente brasileña, Victoria Natalini, ocurrida hace más de una década, aún no se ha resuelto, y su padre no se da por vencido.",
       "featured": false
@@ -667,11 +693,11 @@
       "slug": "de-japon-a-cuba-que-tan-eficaces-fueron-historicamente-los-bloqueos-navales-como-el-de-ee-uu-a-iran",
       "title": "De Japón a Cuba: qué tan eficaces fueron históricamente los bloqueos navales como el de EE. UU. a Irán",
       "category": "Mundo",
-      "bullets_20s": "• Los bloqueos navales han sido utilizados a lo largo de la historia para presionar a naciones.\n• El artículo examina ejemplos históricos de bloqueos como el de EE. UU. a Irán.\n• Dichos bloqueos a menudo generan consecuencias humanitarias y sociales significativas.\n• Cuba y Japón son mencionados como ejemplos de estos bloqueos históricos.\n• El impacto de los bloqueos puede ser tanto militar como económicamente devastador.",
+      "bullets_20s": "• Los bloqueos navales han sido una herramienta de presión en conflictos internacionales a lo largo de la historia.\n• Cada bloqueo tiene consecuencias únicas y puede afectar diferentes sectores de la población.\n• Desde Japón hasta Cuba, estos bloqueos han generado debates sobre su eficacia y ética.\n• Efectos a corto y largo plazo en economías y sociedades son evidentes tras bloqueos navales.\n• El impacto humanitario de los bloqueos es una preocupación persistente en la comunidad internacional.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2ev2m2nmkgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-19T03:32:19.000Z",
-      "teaser": "Lo clave en 20 segundos: Los bloqueos navales han tenido impactos variados en la historia mundial.",
+      "teaser": "Lo clave en 20 segundos: Los bloqueos navales tienen impactos históricos y sociales significativos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/2d08/live/0091fa90-38bc-11f1-9d5c-8ba507d7dbde.jpg",
       "description": "Los diferentes bloqueos han producido diferentes efectos a lo largo de la historia, pero con frecuencia han tenido un gran impacto social o humanitario.",
       "featured": false
@@ -2253,11 +2279,11 @@
       "slug": "autonomia-universitaria-sera-tema-de-discusion-en-la-catedra-elizabeth-odio-benito",
       "title": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "category": "Costa Rica",
-      "bullets_20s": "• La Cátedra organiza un conversatorio sobre la autonomía universitaria el 22 de abril a las 2:00 p.m.\n• Especialistas del ámbito académico analizarán los retos de la autonomía en la educación superior pública.\n• La actividad busca fomentar el diálogo sobre el papel de la autonomía universitaria en la actualidad.\n• Participarán expertos y estudiantes que ofrecerán varias perspectivas sobre el tema.\n• Se explorarán las demandas de rendición de cuentas y su relación con el Estado.\n• El conversatorio se realizará en el auditorio de la Escuela de Arquitectura del TEC.",
+      "bullets_20s": "• Se discutirá la autonomía universitaria como principio fundamental de educación pública.\n• Participarán especialistas en un conversatorio programado para abril.\n• El debate girará en torno a los retos actuales de la autonomía universitaria.\n• La actividad busca fortalecer el diálogo entre universidad y sociedad.\n• Contará con la presencia de académicos y estudiantes relevantes en esta temática.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/autonomia-universitaria-sera-tema-discusion-catedra-elizabeth-odio-benito",
       "publish_date": "2026-04-17T04:51:15.000Z",
-      "teaser": "Lo clave en 20 segundos: La autonomía universitaria será debatida por expertos en un importante conversatorio.",
+      "teaser": "Lo clave en 20 segundos: Se abordará la autonomía universitaria en un importante conversatorio.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-conversatorio_san-jose.png",
       "description": "Autonomía universitaria será tema de discusión en la Cátedra Elizabeth Odio Benito",
       "featured": false
@@ -2825,11 +2851,11 @@
       "slug": "presentacion-del-libro-los-terremotos-de-1910",
       "title": "Presentación del libro Los terremotos de 1910",
       "category": "Costa Rica",
-      "bullets_20s": "• El libro Los terremotos de 1910 explora eventos sísmicos significativos en Costa Rica.\n• Fraser Pirie y Franco Fernández Esquivel son los autores del libro mencionado.\n• La presentación está programada para el 22 de abril a las 2 p.m.\n• Este evento se llevará a cabo en la Biblioteca Figueres Ferrer de Cartago.\n• Forma parte de las celebraciones del 55 Aniversario del TEC.",
+      "bullets_20s": "• El libro Los terremotos de 1910 se presentará el 22 de abril en Cartago.\n• Este evento se llevará a cabo en la Sala de Conferencias de la Biblioteca.\n• Se rendirá homenaje a la familia Pirie durante la presentación.\n• La actividad es parte del 55 Aniversario del TEC en Costa Rica.\n• El evento también forma parte de la Semana del Libro organizada por el TEC.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-terremotos-1910",
       "publish_date": "2026-04-16T16:23:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Presentación del libro sobre terremotos de 1910 en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Presentación del libro Los terremotos de 1910, un homenaje especial y un evento destacado.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/terremotos-1910-tec-1.jpg",
       "description": "Presentación del libro Los terremotos de 1910",
       "featured": false
@@ -3173,19 +3199,6 @@
       "featured": false
     },
     {
-      "slug": "mas-humanos-que-nunca-el-reto-de-liderar-en-la-era-de-la-inteligencia-artificial",
-      "title": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
-      "category": "Ciencia",
-      "bullets_20s": "• El liderazgo empresarial se enfrenta al desafío de priorizar lo humano ante las tecnologías.\n• Panel expertos en inteligencia artificial resaltó la necesidad de habilidades blandas en líderes.\n• Las profesiones en administración deben adaptarse a un entorno cada vez más digitalizado.\n• La inteligencia artificial no sustituye el criterio humano, le complementa en las decisiones.\n• La educación sigue siendo fundamental ante los cambios tecnológicos en la gestión empresarial.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/mas-humanos-nunca-reto-liderar-era-inteligencia-artificial",
-      "publish_date": "2026-04-16T03:20:18.000Z",
-      "teaser": "Lo clave en 20 segundos: el liderazgo humano es esencial en la era de la inteligencia artificial.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/charla-1_0.jpeg.webp?itok=tuYQWerU",
-      "description": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
-      "featured": false
-    },
-    {
       "slug": "estudiante-de-la-ucr-denuncia-a-facultad-de-derecho-por-presuntas-inconsistencias-en-reportes-sobre-gastos-en-alimentaci",
       "title": "Estudiante de la UCR denuncia a Facultad de Derecho por presuntas inconsistencias en reportes sobre gastos en alimentación",
       "category": "Costa Rica",
@@ -3370,12 +3383,12 @@
     {
       "slug": "semana-de-la-innovacion-tec-2026",
       "title": "Semana de la Innovación TEC 2026",
-      "category": "Ciencia",
-      "bullets_20s": "• Descubre la Semana de la Innovación TEC 2026, dedicada a la creatividad y el emprendimiento.\n• Actividades empiezan el 21 de abril, donde se busca inspirar y conectar talentos.\n• Conversatorio invita a profesionales de NASA y expertos en tecnología a compartir experiencias.\n• Habrá talleres sobre trading y un mercadito para apoyar emprendedores locales.\n• Eventos incluyen un Fracaso Fest y Demo Day para experiencias de aprendizaje y creación.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC invita a participar en la Semana de la Innovación 2026, diseñada para inspirar y conectar.\n• Actividades comenzarán el 21 de abril, en el marco del Día Mundial de la Creatividad e Innovación.\n• Conversatorio con expertos de la NASA y liderazgo internacional programado para el primer día.\n• Se ofrecerán talleres sobre mercados financieros y diálogos para mujeres en STEAM.\n• Un evento especial denominado 'Fracaso Fest' fomentará el aprendizaje a través del error.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/semana-innovacion-tec-2026",
       "publish_date": "2026-04-15T21:38:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Semana de la Innovación TEC 2026 comienza el 21 de abril con diversas actividades.",
+      "teaser": "Lo clave en 20 segundos: Semana de Innovación en el TEC impulsará la creatividad y la conexión comunitaria.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tec-emprende.png",
       "description": "Semana de la Innovación TEC 2026",
       "featured": false
@@ -3430,6 +3443,19 @@
       "teaser": "Lo clave en 20 segundos: un joven talento de San Carlos atrae a grandes clubes.",
       "image_url": "https://www.nacion.com/resizer/v2/OOVYEXE235ABTOHABKXPAQIXQ4.jpeg?auth=ac1db5477fcea58c94689d3a060eded9b0952af5dc338562c2ea4cf46d692ea6&smart=true&width=1228&height=921",
       "description": "Joven de 16 años de San Carlos sigue en Sudamérica, pero ahora entrena con un histórico del fútbol mundial.",
+      "featured": false
+    },
+    {
+      "slug": "mas-humanos-que-nunca-el-reto-de-liderar-en-la-era-de-la-inteligencia-artificial",
+      "title": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
+      "category": "Costa Rica",
+      "bullets_20s": "• El panel discutió el impacto de la inteligencia artificial en el liderazgo empresarial actual.\n• Los panelistas resaltaron la importancia del análisis y la toma de decisiones en la administración.\n• El evento fue moderado por el profesor Eric Guillén en el Tecnológico de Costa Rica.\n• Se enfatizó la necesidad de desarrollar habilidades blandas ante la automatización creciente.\n• Los especialistas coincidieron en que la tecnología debe complementar el criterio humano en las decisiones.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/mas-humanos-nunca-reto-liderar-era-inteligencia-artificial",
+      "publish_date": "2026-04-15T21:20:00.000Z",
+      "teaser": "Lo clave en 20 segundos: reflexiones sobre el liderazgo y la inteligencia artificial en la administración.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/charla-1_0.jpeg.webp?itok=tuYQWerU",
+      "description": "Más humanos que nunca: el reto de liderar en la era de la inteligencia artificial",
       "featured": false
     },
     {
@@ -9153,5 +9179,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-20T00:30:36.895Z"
+  "generated_at": "2026-04-20T01:30:37.041Z"
 }
