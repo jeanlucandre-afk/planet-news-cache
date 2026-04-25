@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "el-tormento-de-los-migrantes-en-estados-unidos-continua-luz-verde-a-polemico-centro-de-detencion-en-florida",
+      "title": "El tormento de los migrantes en Estados Unidos continúa: luz verde a polémico centro de detención en Florida",
+      "category": "Mundo",
+      "bullets_20s": "• El nuevo centro de detención en Florida ha generado amplias controversias por sus implicaciones legales.\n• Los derechos humanos de los inmigrantes están siendo cuestionados debido a las nuevas políticas migratorias.\n• Activistas critican la falta de transparencia en la administración del centro de detención propuesto.\n• El debate sobre la migración en Estados Unidos se intensifica con nuevos desarrollos políticos y legales.\n• La situación en la frontera estadounidense sigue siendo un tema central en la discusión nacional.\n• La protección ambiental puede verse comprometida por decisiones políticas relacionadas con la migración.\n• La comunidad internacional está atenta a los acontecimientos sobre este nuevo centro en Florida.",
+      "source_name": "Andrés Hernández Alende",
+      "source_url": "https://www.nacion.com/opinion/columnistas/luz-verde-a-polemico-centro-de-detencion-de/2WI44QEBPBCRVD7TH2EJXX327A/story/",
+      "publish_date": "2026-04-25T00:45:52.000Z",
+      "teaser": "Lo clave en 20 segundos: el nuevo centro de detención en Florida genera protestas y cuestionamientos.",
+      "image_url": "https://www.nacion.com/resizer/v2/EEWQVYEBYFERXLPYTB4RLHQ3ZY.jpg?auth=1934cedb23a7cf2cf1d30478898998231fa753fdcc266022c6d2950dd4a3fe36&smart=true&width=5713&height=3809",
+      "description": "¿Hasta dónde estamos dispuestos a aceptar que la protección del medio ambiente y los derechos de las personas, en este caso los derechos de los inmigrantes, estén en juego por arbitrariedades o conveniencias políticas?",
+      "featured": false
+    },
+    {
+      "slug": "la-mitad-de-los-libros-publicados-en-espana-no-vende-ni-un-ejemplar-al-ano",
+      "title": "La mitad de los libros publicados en España no vende ni un ejemplar al año",
+      "category": "Mundo",
+      "bullets_20s": "• El mercado editorial en España muestra una sobreoferta de libros en los últimos años.\n• Muchos escritores luchan por obtener visibilidad en un sector saturado de obras.\n• La competencia genera un fuerte impacto en las ventas anuales de los libros.\n• Las editoriales enfrentan retos ante la irrupción de la inteligencia artificial.\n• La creación literaria evoluciona ante nuevas tecnologías y desafíos contemporáneos.",
+      "source_name": "Gina Montaner",
+      "source_url": "https://www.nacion.com/opinion/columnistas/la-mitad-de-los-libros-publicados-en-espana-no/CJJUQKLK5BDVXKZUUIR3OAA5UU/story/",
+      "publish_date": "2026-04-25T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El mercado editorial enfrenta desafíos serios por la saturación y la IA.",
+      "image_url": "https://www.nacion.com/resizer/v2/MFL36RZMENHXXOU772FCPILVCQ.jpg?auth=c3762a4b28e36a37736a8e3fd7216f940df67f8f7d72cf56f9e40e31a09c35aa&smart=true&width=10216&height=6851",
+      "description": "El oficio de escribir enfrenta nuevos desafíos: saturación de obras, pocas ventas y la irrupción de la inteligencia artificial en la creación literaria",
+      "featured": false
+    },
+    {
       "slug": "estudiantes-de-la-ucr-y-una-marchan-hacia-a-la-fuente-de-la-hispanidad-en-defensa-del-fees-2027",
       "title": "Estudiantes de la UCR y UNA marchan hacia a la fuente de la Hispanidad en defensa del FEES 2027",
       "category": "Costa Rica",
@@ -16,12 +42,12 @@
     {
       "slug": "fifa-le-quema-una-exclusiva-a-fox-que-tiene-que-ver-directamente-con-costa-rica",
       "title": "FIFA le ‘quema’ una exclusiva a Fox que tiene que ver directamente con Costa Rica",
-      "category": "Mundo",
-      "bullets_20s": "• La FIFA ha tomado una decisión inesperada que afecta a medios de comunicación deportivos.\n• Fox Deportes planeaba una importante noticia relacionada con el futbol en Costa Rica.\n• Este anuncio revela la constante tensión entre derechos de medios y organizaciones deportivas.\n• Los fanáticos en Costa Rica están ansiosos por conocer más detalles sobre esta situación.\n• Este tipo de conflictos no son infrecuentes en el ámbito del deporte internacional.",
+      "category": "Costa Rica",
+      "bullets_20s": "• La FIFA anunció una primicia que afecta directamente a Fox y su programación.\n• El anuncio de Fox estaba programado para una fecha futura, pero se adelantó la FIFA.\n• Estos eventos atraerán la atención de los aficionados del fútbol en Costa Rica.\n• Costarricenses esperan con interés la reacción de Fox a la primicia de la FIFA.\n• Este suceso podría impactar la cobertura mediática del fútbol en el país.",
       "source_name": "Fanny Tayver Marín",
       "source_url": "https://www.nacion.com/puro-deporte/fifa-le-quema-una-exclusiva-a-fox-que-tiene-que/BMVEOPZG2ZAFLJ4C32ES6QBOUA/story/",
       "publish_date": "2026-04-24T23:24:00.000Z",
-      "teaser": "Lo clave en 20 segundos: FIFA sorprende a Fox con anuncio que impacta a medios en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: FIFA sorprende a Fox con un anuncio exclusivo relacionado con Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/GA7BIYKNIZHZVK2PVD7CEA7QAU.jpg?auth=d331e9820e5d45b4e62aac1afce6195fe3dc9c58b844031c29c83eb63281e52f&smart=true&width=1024&height=682",
       "description": "Fox se apresta a dar un anuncio importante, pero la FIFA se le adelantó.",
       "featured": false
@@ -238,13 +264,26 @@
       "slug": "petro-visita-a-delcy-rodriguez-en-caracas-que-rol-juega-colombia-en-la-transicion-en-venezuela",
       "title": "Petro visita a Delcy Rodríguez en Caracas: qué rol juega Colombia en la transición en Venezuela",
       "category": "Mundo",
-      "bullets_20s": "• La reunión entre Petro y Rodríguez se centra en la situación política de Venezuela.\n• Colombia busca un papel protagónico en la transición venezolana y sus consecuencias.\n• El diálogo entre ambos líderes podría influir en las relaciones bilaterales futuras.\n• La economía venezolana atraviesa una crisis, lo que atrae la atención de Colombia.\n• La política exterior de Colombia se redefine en el contexto de su vecino venezolano.",
+      "bullets_20s": "• La reunión entre Petro y Rodríguez refleja las tensiones políticas en América Latina.\n• Colombia busca influir en la transformación política y económica de Venezuela.\n• El papel de Colombia es crucial ante los cambios inminentes en su vecino.\n• Ambos países enfrentan desafíos económicos que pueden interrelacionarse.\n• La situación en Venezuela podría tener repercusiones para toda la región en general.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx2vzpn4ld5o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-24T19:49:19.000Z",
-      "teaser": "Lo clave en 20 segundos: el encuentro entre Petro y Rodríguez y su impacto en la región.",
+      "teaser": "Lo clave en 20 segundos: reunión entre Petro y Rodríguez define el futuro político en la región.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1bae/live/2d320d80-4012-11f1-81ff-fd2bf02bdc98.jpg",
       "description": "Colombia aspira a sacar rédito de una Venezuela que parece inmersa en un cambio de modelo político y económico. ¿Qué tan importante es la reunión entre los dos mandatarios para el futuro de sus países?",
+      "featured": false
+    },
+    {
+      "slug": "las-fascinantes-imagenes-que-muestran-como-esta-la-zona-de-exclusion-de-chernobil-40-anos-despues-del-accidente-nuclear",
+      "title": "Las fascinantes imágenes que muestran cómo está la zona de exclusión de Chernóbil 40 años después del accidente nuclear",
+      "category": "Mundo",
+      "bullets_20s": "• Chernóbil sigue siendo uno de los accidentes nucleares más impactantes de la historia moderna.\n• La zona de exclusión atrae a fotógrafos y turistas interesados en su historia trágica.\n• Las imágenes recientes muestran la transformación del paisaje después de cuatro décadas.\n• Las visitas a Chernóbil permiten conocer los efectos a largo plazo de la radiación.\n• A pesar del desastre, la naturaleza ha comenzado a reclamarse el territorio abandonado.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c77m2jye334o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-24T19:45:24.000Z",
+      "teaser": "Lo clave en 20 segundos: La zona de Chernóbil revela un paisaje transformado 40 años después del desastre nuclear.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/2d39/live/5ba46a10-4002-11f1-b55d-0f258dce1735.jpg",
+      "description": "El accidente nuclear de Chernóbil, ocurrido en abril de 1986, dejó una ciudad fantasma a la que visitantes y fotógrafos pueden acceder en visitas cortas.",
       "featured": false
     },
     {
@@ -368,11 +407,11 @@
       "slug": "escuela-de-administracion-de-empresas-del-tec-celebra-50-anos-de-aporte-academico-innovacion-y-desarrollo-nacional",
       "title": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Administración del TEC se fundó en 1975, marcando una era de educación innovadora en el país.\n• Desde su creación, la escuela ha evolucionado adaptándose a las necesidades del entorno económico y empresarial.\n• Para 2026, la escuela cuenta con una matrícula de más de 3000 estudiantes comprometidos con su formación.\n• Se han establecido múltiples programas de posgrado y especialidades a lo largo de su historia institucional.\n• La Escuela fue pionera en la creación de incubadoras de empresas, fomentando el emprendimiento en Costa Rica.\n• A lo largo de los años, la escuela ha logrado acreditaciones a nivel nacional e internacional por su calidad.\n• La celebración de su 50 aniversario representa un orguloso hito y una mirada hacia el futuro empresarial.\n• La comunidad educativa ha estado activa en proyectos de investigación que benefician a la sociedad costarricense.\n• La Escuela se enfoca en la innovación y sostenibilidad como pilares para la formación de futuros profesionales.",
+      "bullets_20s": "• La Escuela de Administración de Empresas del TEC cumple 50 años de trayectoria académica e innovación significativa.\n• Inició en 1975, en un periodo de transformación económica y tecnológica tanto a nivel nacional como mundial.\n• A lo largo de cinco décadas, ha formado profesionales en diferentes áreas del conocimiento empresarial.\n• Se han establecido múltiples posgrados y programas especializados para los estudiantes en diversas regiones.\n• La celebración de su aniversario resalta la importancia de adaptarse a los desafíos educativos actuales.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/escuela-administracion-empresas-tec-celebra-50-anos-aporte-academico-innovacion-desarrollo-nacional",
       "publish_date": "2026-04-24T17:32:23.000Z",
-      "teaser": "Lo clave en 20 segundos: la Escuela del TEC celebra su medio siglo de impacto académico y profesional en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La Escuela de Administración del TEC celebra 50 años de innovación y excelencia académica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/seminario-latinoamericano-incubacion-empresas-innovadoras_2.jpg.webp?itok=ZmZfWtnq",
       "description": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "featured": false
@@ -745,11 +784,11 @@
       "slug": "esta-en-riesgo-la-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
       "title": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
       "category": "Costa Rica",
-      "bullets_20s": "• La Cátedra Elizabeth Odio Benito busca analizar desafíos de la autonomía universitaria en contextos actuales.\n• Expertos destacan la necesidad de defender la autonomía universitaria como fundamental para la democracia.\n• La presión política y financiera entorpece la libertad de las instituciones educativas en su labor académica.\n• Representantes estudiantiles abogan por una participación activa de toda la comunidad universitaria en esta defensa.\n• Se abordaron temas de responsabilidad social vinculada a la autonomía de las universidades públicas.",
+      "bullets_20s": "• La Cátedra Elizabeth Odio Benito analiza la importancia de la autonomía universitaria en el contexto costarricense.\n• Expertos académicos y estudiantes discutieron sobre la independencia de las universidades públicas en el país.\n• Las presiones políticas y financieras ponen en riesgo la autonomía, un tema urgente en la actualidad.\n• La defensa de la autonomía requiere un compromiso claro hacia la responsabilidad social universitaria.\n• Se destacó la necesidad de un diálogo constante entre la academia y la sociedad para proteger la independencia.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/esta-riesgo-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
       "publish_date": "2026-04-24T03:41:21.000Z",
-      "teaser": "Lo clave en 20 segundos: La autonomía universitaria es esencial para el pensamiento crítico y la libertad académica.",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria es fundamental para la libertad académica y la democracia.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/catedra-5.jpeg.webp?itok=XkE4KYMv",
       "description": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
       "featured": false
@@ -1317,11 +1356,11 @@
       "slug": "tec-y-bac-exploran-alianza-estrategica-para-fortalecer-la-empleabilidad-en-costa-rica",
       "title": "TEC y BAC exploran alianza estratégica para fortalecer la empleabilidad en Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC y el BAC Credomatic analizan posibles colaboraciones en formación de talento humano.\n• Ambas instituciones buscan fortalecer la empleabilidad de estudiantes graduados del TEC.\n• La reunión se realizó en el Campus Tecnológico Central de Cartago el 13 de abril.\n• El 7% de empleados del BAC son graduados del TEC en diversas carreras.\n• Este acercamiento busca mejorar la vinculación entre universidades y el sector privado.",
+      "bullets_20s": "• El TEC y BAC buscan fortalecer la empleabilidad y el desarrollo de talento en el país.\n• La reunión se realizó en el Campus Tecnológico Central, en Cartago.\n• Ambas instituciones evaluaron posibles líneas de colaboración en varias áreas importantes.\n• La formación de talento y prácticas profesionales fueron temas destacados en el encuentro.\n• Se destacó la necesidad de vincular universidad y empresa para el desarrollo del país.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-bac-exploran-alianza-estrategica-fortalecer-empleabilidad-costa-rica",
       "publish_date": "2026-04-23T15:53:57.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC y BAC buscan unir esfuerzos para mejorar la empleabilidad de talento costarricense.",
+      "teaser": "Lo clave en 20 segundos: TEC y BAC colaboran para mejorar la empleabilidad en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/foto-horizontal-bac-tec-13.04.2026.jpeg.webp?itok=YktGZbtO",
       "description": "TEC y BAC exploran alianza estratégica para fortalecer la empleabilidad en Costa Rica",
       "featured": false
@@ -1746,11 +1785,11 @@
       "slug": "tec-forma-parte-del-pacto-del-agua-para-fortalecer-la-gestion-responsable-sostenible-y-solidaria-del-recurso-hidrico",
       "title": "TEC forma parte del Pacto del agua, para fortalecer la gestión responsable, sostenible y solidaria del recurso hídrico",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC participa en el Pacto del Agua para gestionar el recurso hídrico de forma responsable.\n• Diana Zambrano representa al TEC en la firma del Pacto promovido por el AyA.\n• El acuerdo incluye instituciones educativas y organizaciones civiles en su objetivo.\n• Se busca fortalecer el acceso al agua potable como derecho humano esencial.\n• La institución reafirma su compromiso con la salud y el desarrollo sostenible.",
+      "bullets_20s": "• El TEC se une al Pacto del Agua para promover una gestión sostenible del recurso hídrico.\n• La firmeza del pacto involucra instituciones reconocidas en el ámbito del agua y saneamiento.\n• El acuerdo resalta el acceso al agua como un derecho humano esencial para todos.\n• Se impulso iniciativas educativas y soluciones para mejorar los servicios de agua y saneamiento.\n• El TEC, mediante la investigación y programas académicos, contribuye a la seguridad hídrica.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-forma-parte-pacto-agua-fortalecer-gestion-responsable-sostenible-solidaria-recurso-hidrico",
       "publish_date": "2026-04-22T22:14:53.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC se une al Pacto del Agua para gestionar el recurso hídrico responsablemente.",
+      "teaser": "Lo clave en 20 segundos: El TEC se une al Pacto del Agua para impulsar la gestión sostenible en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/pacto-agua-tec-1.jpg.webp?itok=F0JZgm8h",
       "description": "TEC forma parte del Pacto del agua, para fortalecer la gestión responsable, sostenible y solidaria del recurso hídrico",
       "featured": false
@@ -1873,5 +1912,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-25T00:45:30.580Z"
+  "generated_at": "2026-04-25T01:45:29.563Z"
 }
