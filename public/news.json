@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "quien-esta-tomando-las-decisiones-en-iran",
+      "title": "¿Quién está tomando las decisiones en Irán?",
+      "category": "Mundo",
+      "bullets_20s": "• La política en Irán es compleja y la estructura de poder es poco clara.\n• Mojtaba Jamenei asumió el liderazgo, pero su influencia es cuestionada.\n• La toma de decisiones involucra múltiples actores y facciones.\n• Desafíos internos complican la gobernanza y el liderazgo en el país.\n• El papel de los religiosos y la Guardia Revolucionaria es crucial.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cvg42q23zqlo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-25T03:57:08.000Z",
+      "teaser": "Lo clave en 20 segundos: La política en Irán es más confusa de lo que se imagina.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b3bc/live/0b32ac80-3fef-11f1-bd52-e755d604ece4.jpg",
+      "description": "Se supone que el nuevo líder supremo, Mojtaba Jamenei, tiene la última palabra, pero en la práctica la situación es mucho más confusa.",
+      "featured": false
+    },
+    {
+      "slug": "prision-preventiva-para-cinco-sospechosos-del-homicidio-de-agustin-carvajal-estos-son-los-plazos",
+      "title": "Prisión preventiva para cinco sospechosos del homicidio de Agustín Carvajal: estos son los plazos",
+      "category": "Costa Rica",
+      "bullets_20s": "• El juez dictó prisión preventiva, lo que significa que los sospechosos no podrán salir en libertad.\n• Los plazos establecidos en la resolución son claves para el desarrollo del proceso judicial.\n• Agustín Carvajal era una figura conocida en su comunidad, su fallecimiento ha conmocionado a muchos.\n• Los sospechosos enfrentan cargos graves que podrían resultar en largas condenas si son encontrados culpables.\n• La investigación continúa abierta y se espera recolectar más pruebas en las próximas semanas.",
+      "source_name": "Sebastián Sánchez, Christian Montero",
+      "source_url": "https://www.nacion.com/sucesos/prision-preventiva-para-cinco-sospechosos-del/TDK7KNKQ2NHM3KA5W3RFVDOHU4/story/",
+      "publish_date": "2026-04-25T03:54:28.000Z",
+      "teaser": "Lo clave en 20 segundos: Juez ordena prisión preventiva para cinco sospechosos del homicidio de Agustín Carvajal.",
+      "image_url": "https://www.nacion.com/resizer/v2/GTORXH4MBNCCTNZUKDY2FT5OM4.jpeg?auth=2375b50b18aca5c94ff1cb62f35cda69304b2c55298ea3ea5aedd1998d5a6570&smart=true&width=1170&height=1452",
+      "description": "Un juez dictó prisión preventiva por el homicidio de Agustín Alonso Carvajal Benavides: estos son los plazos.",
+      "featured": false
+    },
+    {
       "slug": "exrector-de-la-ucr-pide-que-negociacion-del-fees-2027-sea-liderada-por-una-figura-con-legitimidad-plena",
       "title": "Exrector de la UCR pide que negociación del FEES 2027 sea liderada por una figura con ‘legitimidad plena’",
       "category": "Costa Rica",
-      "bullets_20s": "• La UCR es una de las instituciones más importantes del país, con gran influencia en la educación superior.\n• El FEES es el Fondo Especial de Educación Superior y su negociación es crucial para las universidades.\n• La legitimidad en la negociación podría influir en la percepción pública y el apoyo financiero.\n• El exrector destaca la necesidad de liderazgo en momentos conflictivos dentro de la universidad.\n• Las decisiones respecto al FEES impactan en miles de estudiantes y docentes a nivel nacional.",
+      "bullets_20s": "• El exrector destaca la importancia de la legitimidad en la negociación del FEES 2027.\n• Se busca un líder que represente los intereses de toda la comunidad educativa.\n• El FEES es clave para la financiación de la educación superior en Costa Rica.\n• Se presentan tensiones en la toma de decisiones sobre la financiación educativa.\n• La discusión del FEES afecta a estudiantes y docentes por igual.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/el-pais/exrector-de-la-ucr-pide-que-negociacion-del-fees/WCWXSMUTFFE5FFTKRCGTEETHBM/story/",
       "publish_date": "2026-04-25T03:09:46.000Z",
-      "teaser": "Lo clave en 20 segundos: El exrector de la UCR demanda un liderazgo legítimo para el FEES 2027.",
+      "teaser": "Lo clave en 20 segundos: Un exrector solicita liderar la negociación del FEES con legitimidad en crisis educativa.",
       "image_url": "https://www.nacion.com/resizer/v2/F6TJRF6KCFDTJDNDMKXGINJYZA.jpg?auth=434c4ba210cb00f768b0d909febeb82151bdbcea9c81afc78c96b151583dea32&smart=true&width=1920&height=1080",
       "description": "El exrector de la UCR pidió que la negociación del FEES 2027 sea liderada por una figura con legitimidad plena, en medio de la toma de Rectoría.",
       "featured": false
@@ -316,11 +342,11 @@
       "slug": "petro-visita-a-delcy-rodriguez-en-caracas-que-rol-juega-colombia-en-la-transicion-en-venezuela",
       "title": "Petro visita a Delcy Rodríguez en Caracas: qué rol juega Colombia en la transición en Venezuela",
       "category": "Mundo",
-      "bullets_20s": "• La visita de Petro a Rodríguez abre nuevas dinámicas políticas en la región latinoamericana.\n• Se discuten los futuros acuerdos entre Colombia y Venezuela en medio de la crisis actual.\n• Ambos líderes buscan consolidar sus políticas internas y externas durante este encuentro crucial.\n• El papel de Colombia es fundamental en la transición venezolana, tras años de tensión.\n• El contexto internacional influye en la estrategia colombiana hacia su vecino Venezuela.",
+      "bullets_20s": "• La reunión entre Petro y Rodríguez marca un momento clave en la política sudamericana actual.\n• Colombia busca estabilizar relaciones comerciales con un Venezuela en transformación.\n• El encuentro podría influir en la migración venezolana hacia Colombia en el futuro.\n• Ambos mandatarios discuten estrategias para enfrentar crisis política y económica.\n• Analistas consideran que el diálogo puede afectar las dinámicas regionales en América Latina.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx2vzpn4ld5o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-24T19:49:19.000Z",
-      "teaser": "Lo clave en 20 segundos: Una visita que podría redefinir la relación Colombia-Venezuela.",
+      "teaser": "Lo clave en 20 segundos: Reunión entre Petro y Rodríguez podría redefinir relaciones en América Latina.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1bae/live/2d320d80-4012-11f1-81ff-fd2bf02bdc98.jpg",
       "description": "Colombia aspira a sacar rédito de una Venezuela que parece inmersa en un cambio de modelo político y económico. ¿Qué tan importante es la reunión entre los dos mandatarios para el futuro de sus países?",
       "featured": false
@@ -329,11 +355,11 @@
       "slug": "las-fascinantes-imagenes-que-muestran-como-esta-la-zona-de-exclusion-de-chernobil-40-anos-despues-del-accidente-nuclear",
       "title": "Las fascinantes imágenes que muestran cómo está la zona de exclusión de Chernóbil 40 años después del accidente nuclear",
       "category": "Mundo",
-      "bullets_20s": "• Chernóbil se ha convertido en un lugar de interés para turistas y fotógrafos, mostrando su historia.\n• Las imágenes recientes revelan cómo la naturaleza ha reclamado la zona de exclusión de la planta.\n• Las visitas guiadas permiten a los curiosos conocer la historia del accidente nuclear de 1986.\n• La ciudad fantasma tiene un impacto cultural y social significativo en la memoria colectiva de Europa.\n• Los efectos del desastre nuclear aún son visibles en el medio ambiente de la región.",
+      "bullets_20s": "• Chernóbil es un lugar que atrae a fotógrafos y curiosos por su historia trágica.\n• Las imágenes revelan cómo la naturaleza ha reclamado el espacio tras el accidente.\n• El acceso a la zona de exclusión se realiza bajo estrictas medidas de seguridad.\n• La ciudad fantasma ofrece un vistazo vívido a las consecuencias del incidente nuclear.\n• Visitar Chernóbil permite reflexionar sobre el impacto de la energía nuclear en el mundo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c77m2jye334o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-24T19:45:24.000Z",
-      "teaser": "Lo clave en 20 segundos: Imágenes impactantes de Chernóbil 40 años después del accidente nuclear.",
+      "teaser": "Lo clave en 20 segundos: Las imágenes de Chernóbil 40 años después son impactantes y reveladoras.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/2d39/live/5ba46a10-4002-11f1-b55d-0f258dce1735.jpg",
       "description": "El accidente nuclear de Chernóbil, ocurrido en abril de 1986, dejó una ciudad fantasma a la que visitantes y fotógrafos pueden acceder en visitas cortas.",
       "featured": false
@@ -459,11 +485,11 @@
       "slug": "escuela-de-administracion-de-empresas-del-tec-celebra-50-anos-de-aporte-academico-innovacion-y-desarrollo-nacional",
       "title": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Administración de Empresas del TEC cumple 50 años de formación y desarrollo en Costa Rica.\n• Desde 1975, la escuela ha evolucionado con la sociedad y adaptado su currícula a las necesidades del mercado.\n• Cerca de tres mil estudiantes forman parte de esta comunidad educativa comprometida con la excelencia.\n• La creación de programas de posgrado ha potenciado el desarrollo profesional de los estudiantes.\n• El TEC promueve la cultura emprendedora a través de iniciativas como Tec Emprendelab y ferias de ideas.",
+      "bullets_20s": "• La Escuela de Administración de Empresas cumple 50 años de trayectoria académica y profesional en Costa Rica.\n• Desde su creación, ha influido en la formación de miles de estudiantes en el país.\n• Inició en 1975, en un contexto de cambios económicos y tecnológicos cruciales a nivel global.\n• Se ha expandido con diversas licencias y posgrados adaptándose a las necesidades del mercado.\n• Hoy, cuenta con más de 3 mil estudiantes y un compromiso firme con la calidad educativa.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/escuela-administracion-empresas-tec-celebra-50-anos-aporte-academico-innovacion-desarrollo-nacional",
       "publish_date": "2026-04-24T17:32:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebramos 50 años de innovación y educación de la Escuela de Administración del TEC.",
+      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de la Escuela de Administración de Empresas del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/seminario-latinoamericano-incubacion-empresas-innovadoras_2.jpg.webp?itok=ZmZfWtnq",
       "description": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "featured": false
@@ -836,11 +862,11 @@
       "slug": "esta-en-riesgo-la-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
       "title": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
       "category": "Costa Rica",
-      "bullets_20s": "• Panelistas analizan los desafíos actuales de la autonomía universitaria en Costa Rica.\n• La autonomía universitaria es vital para asegurar el desarrollo del pensamiento crítico.\n• El contexto político y financiero presiona la independencia de las instituciones educativas.\n• El equilibrio entre autonomía y responsabilidad social es indispensable en la educación.\n• La comunidad universitaria debe defender la autonomía como un derecho colectivo.",
+      "bullets_20s": "• Panelistas discuten sobre la importancia de la autonomía universitaria en un contexto complicado.\n• El TEC inauguró la Cátedra Elizabeth Odio para reflexionar sobre este principio fundamental.\n• Expertos coinciden en que la autonomía debe ser defendida como un pilar de la democracia.\n• Las universidades enfrentan presiones que amenazan su independencia y capacidad crítica.\n• Estudiantes y académicos se unen para hacer frente a los retos actuales de la educación.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/esta-riesgo-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
       "publish_date": "2026-04-24T03:41:21.000Z",
-      "teaser": "Lo clave en 20 segundos: La discusión sobre la autonomía universitaria se vuelve crucial en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: expertos analizan la defensa de la autonomía universitaria en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/catedra-5.jpeg.webp?itok=XkE4KYMv",
       "description": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
       "featured": false
@@ -1408,11 +1434,11 @@
       "slug": "tec-y-bac-exploran-alianza-estrategica-para-fortalecer-la-empleabilidad-en-costa-rica",
       "title": "TEC y BAC exploran alianza estratégica para fortalecer la empleabilidad en Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC y BAC Credomatic buscan fortalecer la empleabilidad en Costa Rica a través de una alianza estratégica.\n• La reunión se realizó en el Campus Tecnológico Central Cartago el 13 de abril de 2026.\n• Ambas instituciones dialogaron sobre formación de talento y prácticas profesionales en el país.\n• Este acercamiento busca articular la academia y el sector productivo para mejorar la empleabilidad.\n• El BAC ya emplea a un 7% de graduados del TEC, destacando la relación entre ambas entidades.",
+      "bullets_20s": "• El Tecnológico de Costa Rica se une al BAC para potenciar la empleabilidad en el país.\n• Ambas instituciones consideran formación integral clave para el desarrollo de talento.\n• Se abordaron temas como prácticas profesionales y vinculación universidad-empresa.\n• El TEC ha logrado una alta tasa de empleabilidad en sus graduados, alcanzando el 96.5%.\n• La colaboración busca fomentar oportunidades laborales y satisfacer la demanda del mercado.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-bac-exploran-alianza-estrategica-fortalecer-empleabilidad-costa-rica",
       "publish_date": "2026-04-23T15:53:57.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC y BAC colaboran para mejorar la empleabilidad en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: TEC y BAC forjan alianza para mejorar la empleabilidad en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/foto-horizontal-bac-tec-13.04.2026.jpeg.webp?itok=YktGZbtO",
       "description": "TEC y BAC exploran alianza estratégica para fortalecer la empleabilidad en Costa Rica",
       "featured": false
@@ -1837,11 +1863,11 @@
       "slug": "tec-forma-parte-del-pacto-del-agua-para-fortalecer-la-gestion-responsable-sostenible-y-solidaria-del-recurso-hidrico",
       "title": "TEC forma parte del Pacto del agua, para fortalecer la gestión responsable, sostenible y solidaria del recurso hídrico",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC ha impulsado acciones para garantizar la seguridad hídrica en Costa Rica a través de programas académicos.\n• La firma del Pacto del Agua incluye a instituciones públicas y organizaciones civiles para gestionar el recurso hídrico.\n• Diana Zambrano, representante del TEC, subraya su compromiso con el acceso y uso responsable del agua.\n• Acceso al agua potable es considerado un derecho humano esencial y clave para el desarrollo sostenible.\n• Este pacto busca promover la conservación de cuencas, ecosistemas y el uso eficiente del agua en el país.",
+      "bullets_20s": "• El TEC se une al Pacto del Agua para fortalecer la gestión del recurso hídrico en Costa Rica.\n• La Ing. Diana Zambrano representa al TEC en la firma del acuerdo nacional sobre el agua.\n• Este pacto busca garantizar el acceso al agua potable como un derecho humano fundamental.\n• La coordinación interinstitucional es clave para enfrentar los desafíos del cambio climático.\n• El TEC ha aportado en investigación y educación sobre gestión sostenible de recursos hídricos.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-forma-parte-pacto-agua-fortalecer-gestion-responsable-sostenible-solidaria-recurso-hidrico",
       "publish_date": "2026-04-22T22:14:53.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC se une al Pacto del Agua para garantizar la gestión sostenible del recurso hídrico.",
+      "teaser": "Lo clave en 20 segundos: El TEC firma el Pacto del Agua, reafirmando su compromiso con la gestión hídrica sostenible.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/pacto-agua-tec-1.jpg.webp?itok=F0JZgm8h",
       "description": "TEC forma parte del Pacto del agua, para fortalecer la gestión responsable, sostenible y solidaria del recurso hídrico",
       "featured": false
@@ -1863,11 +1889,11 @@
       "slug": "tec-abre-maestria-en-analitica-de-negocios-conozca-de-que-trata-y-cuando-inicia",
       "title": "TEC abre Maestría en Analítica de Negocios. Conozca de qué trata y cuándo inicia",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC inicia una nueva Maestría en Analítica de Negocios, comenzando en octubre de 2026.\n• El programa está diseñado para profesionales interesados en análisis de datos y tecnología.\n• Se ofrecen cursos nivelatorios en matemáticas y programación antes del inicio de clases.\n• La maestría busca combinar habilidades técnicas y visión estratégica para el mercado laboral.\n• El plan de estudios incluye catorce cursos y un Trabajo Final de Graduación.",
+      "bullets_20s": "• El Tecnológico de Costa Rica ofrece una nueva Maestría en Analítica de Negocios a partir de octubre de 2026.\n• El programa durará dos años y estará disponible en 14 cursos más un Trabajo Final de Graduación.\n• Las solicitudes de admisión están abiertas hasta el 17 de julio de 2026 para estudiantes interesados.\n• Se ofrecerán cursos nivelatorios en matemáticas y programación antes del inicio de la maestría.\n• El objetivo del programa es formar profesionales capaces de transformar datos en estrategias eficaces.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-abre-maestria-analitica-negocios-conozca-trata-cuando-inicia",
       "publish_date": "2026-04-22T20:07:57.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC lanza su nueva Maestría en Analítica de Negocios en octubre.",
+      "teaser": "Lo clave en 20 segundos: TEC lanza Maestría en Analítica de Negocios, solicita hasta julio de 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/analitica.jpg.webp?itok=LTn_wHYC",
       "description": "TEC abre Maestría en Analítica de Negocios. Conozca de qué trata y cuándo inicia",
       "featured": false
@@ -1964,5 +1990,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-25T03:45:30.923Z"
+  "generated_at": "2026-04-25T04:45:29.474Z"
 }
