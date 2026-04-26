@@ -1,6 +1,84 @@
 {
   "news": [
     {
+      "slug": "la-malaria-cambio-el-mapa-humano-en-africa-por-milenios-revela-estudio-cientifico",
+      "title": "La malaria cambió el mapa humano en África por milenios, revela estudio científico",
+      "category": "Ciencia",
+      "bullets_20s": "• El estudio revela la influencia de la malaria en la distribución humana a lo largo de la historia.\n• Investigadores analizan cómo la malaria afectó la migración y asentamientos en África.\n• La investigación proporciona nuevas perspectivas sobre la salud pública en regiones endémicas.\n• El hallazgo sugiere que la malaria moldeó la genética de las poblaciones humanas africanas.\n• El impacto de la malaria se refleja en la cultura y el desarrollo social de las comunidades.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/ciencia/cientificos-revelan-que-la-malaria-influyo-en/7CYKIW676NBBJKTAR3MKFUDTZ4/story/",
+      "publish_date": "2026-04-26T14:25:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La malaria ha influido en la evolución y ubicación de las poblaciones humanas en África.",
+      "image_url": "https://www.nacion.com/resizer/v2/XKZEN5KITRHEHMQOJJDTV7WGGU.jpg?auth=56ea744901a8128a3a85877b6fe8d591b2c7db339aa3f73f4fe19ca144b7958f&smart=true&width=5910&height=2979",
+      "description": "Investigación muestra que la malaria influyó en la ubicación y expansión de poblaciones humanas en África durante miles de años.",
+      "featured": false
+    },
+    {
+      "slug": "proyecto-de-ley-plantea-nuevo-impuesto-a-seguros-en-costa-rica-conozca-los-detalles-del-impacto",
+      "title": "Proyecto de ley plantea nuevo impuesto a seguros en Costa Rica: conozca los detalles del impacto",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un proyecto de ley en la Asamblea busca implementar un nuevo impuesto a los seguros.\n• Este impuesto afectaría la economía de los costarricenses de diferentes maneras importantes.\n• La medida podría impactar el acceso a créditos y otros servicios financieros.\n• Se estima que las primas de seguros aumenten con la implementación del impuesto.\n• La salud y protección financiera también se verían afectadas significativamente.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/economia/proyecto-de-ley-plantea-nuevo-impuesto-a-seguros/EE3J3SY7NJCL7K4ZU2W57WDJU4/story/",
+      "publish_date": "2026-04-26T14:18:12.000Z",
+      "teaser": "Lo clave en 20 segundos: Un nuevo impuesto a seguros avanza en la Asamblea Legislativa y afectará su economía.",
+      "image_url": "https://www.nacion.com/resizer/v2/AJBP6X7GARFPVP5R2Q6HTS42KY.png?auth=4dbf0c9212651e3a695fd4aa2760047879ef3ac08bd44087154b1ed15d43b1fc&smart=true&width=1680&height=945",
+      "description": "Un nuevo impuesto a las primas de seguros avanza en la Asamblea Legislativa y podría reflejarse en su bolsillo. Revise cómo impactaría créditos, salud y protección financiera en el país.",
+      "featured": false
+    },
+    {
+      "slug": "el-quinto-jinete-ya-esta-aqui-y-cabe-en-la-palma-de-la-mano",
+      "title": "El quinto jinete ya está aquí… y cabe en la palma de la mano",
+      "category": "Ciencia",
+      "bullets_20s": "• La tecnología personal se ha vuelto cada vez más accesible y omnipresente en nuestras vidas diarias.\n• La adicción digital es un fenómeno que afecta a personas de todas las edades en el mundo actual.\n• El impacto de las redes sociales en la salud mental es un tema que necesita más atención social.\n• Los dispositivos móviles ofrecen ventajas pero también generan preocupaciones sobre la dependencia tecnológica.\n• Es crítico fomentar una conciencia social sobre el uso responsable de la tecnología en la comunidad.",
+      "source_name": "Helena María Fonseca Ospina",
+      "source_url": "https://www.nacion.com/opinion/foros/el-quinto-jinete-ya-esta-aqui-y-cabe-en-la-palma/F4TVUEEGCBGPFIK5AW3ILEQRXM/story/",
+      "publish_date": "2026-04-26T14:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: la adicción digital se expande, afectando nuestra salud mental y social.",
+      "image_url": "https://www.nacion.com/resizer/v2/USH53XUR4BHDDEQDLQWPQ6SX5Q.jpg?auth=9684210bdac6730ae83cbbc77d6bf8eda86aa1dc8a4034a7bf3da04ee412dfb0&smart=true&width=5967&height=3970",
+      "description": "Lo llevamos en la mano, pero está moldeando el cerebro: la adicción digital avanza sin regulación ni conciencia social",
+      "featured": false
+    },
+    {
+      "slug": "como-saber-si-hay-alguien-conectado-a-mi-red-de-wifi-consejos-para-detectarlos",
+      "title": "¿Cómo saber si hay alguien conectado a mi red de wifi? Consejos para detectarlos",
+      "category": "Tecnología",
+      "bullets_20s": "• Detectar dispositivos en su red puede ayudar a mantener su conexión segura y privada.\n• Identificar accesos no autorizados es crucial para proteger su información personal.\n• Existen aplicaciones que permiten escanear y monitorear dispositivos conectados fácilmente.\n• Cambiar la contraseña de su red regularmente ayuda a evitar accesos no deseados.\n• Activar el filtrado de MAC es una buena práctica para limitar los dispositivos permitidos.",
+      "source_name": "El Tiempo  Colombia",
+      "source_url": "https://www.nacion.com/tecnologia/como-saber-si-hay-alguien-conectado-a-su-red-wifi/EHNM6JTR7REEXDX3H272YN2W3I/story/",
+      "publish_date": "2026-04-26T14:14:52.000Z",
+      "teaser": "Lo clave en 20 segundos: Descubre cómo proteger tu red WiFi de conexiones indeseadas.",
+      "image_url": "https://www.nacion.com/resizer/v2/RZYMJYNXIZD2PMNI4CGW3CRE7E.png?auth=b53c1ebd49acb4621eec4d5edb5ef04b017da3c3118111c5b6bb2ae2d4d54845&smart=true&width=1680&height=945",
+      "description": "Aprenda cómo detectar dispositivos conectados a su red WiFi, identificar accesos no autorizados y aplicar medidas para proteger su conexión doméstica.",
+      "featured": false
+    },
+    {
+      "slug": "lluvias-vespertinas-y-calor-marcaran-este-domingo-en-costa-rica-advierte-el-imn",
+      "title": "Lluvias vespertinas y calor marcarán este domingo en Costa Rica, advierte el IMN",
+      "category": "Costa Rica",
+      "bullets_20s": "• El IMN advierte sobre lluvias en la tarde y noche para diversas regiones del país.\n• Se esperan temperaturas altas, alcanzando hasta 36,7 °C en el Pacífico Norte.\n• La variabilidad climática afecta la previsión de condiciones del tiempo en Costa Rica.\n• Recomendaciones para la población son mantenerse hidratados ante el calor intenso.\n• Las lluvias podrían aliviar el calor, pero también causar inconvenientes en el tráfico.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/sucesos/lluvias-vespertinas-y-calor-marcaran-este-domingo/XCZVNYOHZZH2RFAN3T6ZOZFNHM/story/",
+      "publish_date": "2026-04-26T14:07:46.000Z",
+      "teaser": "Lo clave en 20 segundos: lluvias y calor dominarán el clima de Costa Rica este domingo.",
+      "image_url": "https://www.nacion.com/resizer/v2/AQHOSDENJBHR3KDQZIJXIPPLOU.jpg?auth=ce321491f0945c9a914ad96abf06df783d071a873f1298b286aaf4b4cbe92c8c&smart=true&width=4000&height=2667",
+      "description": "El IMN pronostica lluvias vespertinas y altas temperaturas este domingo 26 de abril en Costa Rica, con máximas de hasta 36,7 °C en el Pacífico Norte.",
+      "featured": false
+    },
+    {
+      "slug": "quien-es-el-sospechoso-del-tiroteo-en-la-cena-de-corresponsales-donde-estaba-trump",
+      "title": "Quién es el sospechoso del tiroteo en la cena de corresponsales donde estaba Trump",
+      "category": "Mundo",
+      "bullets_20s": "• Un tiroteo ocurrido en un evento de corresponsales genera preocupación en la seguridad nacional.\n• El presidente Trump estaba presente durante el incidente, lo que aumentó la atención mediática.\n• Autoridades han comenzado investigaciones para determinar los motivos del sospechoso.\n• La cena de corresponsales es un evento anual que atrae a muchos periodistas y líderes.\n• Cole Tomas Allen, oriundo de California, fue arrestado tras el tiroteo en el evento.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cg545d9gl24o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-26T13:43:49.000Z",
+      "teaser": "Lo clave en 20 segundos: un tiroteo en un evento donde estaba Trump despierta alarmas sobre la seguridad.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/71c9/live/741cba10-4143-11f1-9277-8d7f77643af6.jpg",
+      "description": "El hombre arrestado en el evento al que asistió el presidente Trump ha sido identificado por los medios estadounidenses como Cole Tomas Allen, originario de California.",
+      "featured": false
+    },
+    {
       "slug": "el-hermoso-secreto-para-atraer-mariposas-al-jardin-con-una-sola-planta",
       "title": "El hermoso secreto para atraer mariposas al jardín con una sola planta",
       "category": "Ciencia",
@@ -134,11 +212,11 @@
       "slug": "chernobil-como-la-union-sovietica-trato-de-ocultar-la-mayor-catastrofe-nuclear-de-la-historia-y-como-se-entero-el-mundo-",
       "title": "Chernóbil: cómo la Unión Soviética trató de ocultar la mayor catástrofe nuclear de la historia y cómo se enteró el mundo hace 40 años",
       "category": "Mundo",
-      "bullets_20s": "• El 26 de abril de 1986, la planta nuclear de Chernóbil sufrió una explosión devastadora.\n• Las autoridades soviéticas intentaron minimizar la magnitud de la catástrofe al mundo.\n• Desastre que tuvo graves consecuencias para la salud de miles de personas expuestas.\n• Chernóbil sigue siendo un símbolo del peligro de la energía nuclear mal gestionada.\n• El encubrimiento por parte del gobierno soviético complicó el manejo de la crisis.",
+      "bullets_20s": "• El 26 de abril de 1986, un reactor nuclear en Chernóbil experimentó una explosión devastadora.\n• Las autoridades soviéticas intentaron minimizar el impacto inicial del accidente nuclear.\n• A pesar del encubrimiento, la radiación afectó a cientos de miles de personas.\n• La catástrofe de Chernóbil tuvo un impacto ambiental duradero en Europa.\n• Con el tiempo, el mundo se enteró de la magnitud de la tragedia nuclear.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4glk32xvyko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-26T09:19:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Recordamos el encubrimiento del desastre de Chernóbil en su 40 aniversario.",
+      "teaser": "Lo clave en 20 segundos: A 40 años del desastre de Chernóbil, recordamos su impacto global.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/7d0c/live/51887fd0-3e72-11f1-8f78-2b3776d2d1d0.jpg",
       "description": "A 40 años del desastre nuclear, recordamos lo que ocurrió ese 26 de abril de 1986 y cómo las autoridades de la antigua URSS trataron de encubrir los hechos.",
       "featured": false
@@ -147,11 +225,11 @@
       "slug": "lo-que-se-sabe-sobre-el-tiroteo-ocurrido-en-la-cena-de-corresponsales-de-la-casa-blanca",
       "title": "Lo que se sabe sobre el tiroteo ocurrido en la cena de corresponsales de la Casa Blanca",
       "category": "Mundo",
-      "bullets_20s": "• Un tiroteo interrumpió la cena de corresponsales de la Casa Blanca, causando pánico en los asistentes.\n• Donald y Melania Trump fueron evacuados rápidamente tras escucharse los disparos en el lugar.\n• Las autoridades comenzaron una investigación para esclarecer las circunstancias del tiroteo.\n• Diversas reacciones se han generado en redes sociales sobre el suceso y su seguridad.\n• El evento anual de corresponsales es considerado un importante momento para la prensa estadounidense.",
+      "bullets_20s": "• El tiroteo ocurrió durante la cena anual de corresponsales de la Casa Blanca en Washington.\n• Las autoridades han iniciado una investigación sobre el incidente grave y sus circunstancias.\n• El evento es conocido por su tono ligero, pero este año se tornó caótico y peligroso.\n• Donald Trump y Melania fueron evacuados de inmediato tras oírse los disparos en el evento.\n• La seguridad en eventos políticos ha sido un tema de creciente preocupación en años recientes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g6gzq9e10o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-26T08:33:08.000Z",
-      "teaser": "Lo clave en 20 segundos: tiroteo en Casa Blanca interrumpe cena de corresponsales, evacuaciones y temor generalizado.",
+      "teaser": "Lo clave en 20 segundos: Un tiroteo interrumpe evento de la Casa Blanca y causa evacuación.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b596/live/fdc4dcb0-4112-11f1-b55d-0f258dce1735.jpg",
       "description": "El presidente estadounidense Donald Trump y la primera dama Melania Trump fueron evacuados rápidamente de un salón de baile tras escucharse disparos.",
       "featured": false
@@ -336,19 +414,6 @@
       "teaser": "Lo clave en 20 segundos: Vecinos encontraron un cuerpo en el río Tiribí, generando preocupación.",
       "image_url": "https://www.nacion.com/resizer/v2/4PVNR3GF5NFARDCCIM5BFRMORU.jpeg?auth=317c469ae5996d32687a59b97c3c9cba58c9da4c2ca2745800c33fe442f574e1&smart=true&width=2400&height=1600",
       "description": "Cadáver estaba en avanzado estado de descomposición",
-      "featured": false
-    },
-    {
-      "slug": "lluvias-vespertinas-y-calor-marcaran-este-domingo-en-costa-rica-advierte-el-imn",
-      "title": "Lluvias vespertinas y calor marcarán este domingo en Costa Rica, advierte el IMN",
-      "category": "Costa Rica",
-      "bullets_20s": "• El IMN advierte sobre condiciones climáticas específicas para este domingo en el país.\n• Altas temperaturas afectarán la experiencia del clima en muchas regiones costarricenses.\n• Se esperan lluvias vespertinas que podrían aliviar el calor de la tarde.\n• El Pacífico Norte será una de las regiones más afectadas por el calor intenso.\n• Es recomendable hidratarse y buscar sombra durante las horas más calurosas del día.",
-      "source_name": "Jailine González Gómez",
-      "source_url": "https://www.nacion.com/sucesos/lluvias-vespertinas-y-calor-marcaran-este-domingo/XCZVNYOHZZH2RFAN3T6ZOZFNHM/story/",
-      "publish_date": "2026-04-25T23:02:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Este domingo habrá calor y lluvias en Costa Rica según el IMN.",
-      "image_url": "https://www.nacion.com/resizer/v2/AQHOSDENJBHR3KDQZIJXIPPLOU.jpg?auth=ce321491f0945c9a914ad96abf06df783d071a873f1298b286aaf4b4cbe92c8c&smart=true&width=4000&height=2667",
-      "description": "El IMN pronostica lluvias vespertinas y altas temperaturas este domingo 26 de abril en Costa Rica, con máximas de hasta 36,7 °C en el Pacífico Norte.",
       "featured": false
     },
     {
@@ -1018,11 +1083,11 @@
       "slug": "quien-esta-tomando-las-decisiones-en-iran",
       "title": "¿Quién está tomando las decisiones en Irán?",
       "category": "Mundo",
-      "bullets_20s": "• Las decisiones en Irán son influenciadas por varios actores políticos, no solo por el líder supremo.\n• Mojtaba Jamenei asumió el liderazgo, generando interrogantes sobre su poder real en el país.\n• El sistema político iraní es complejo y está lleno de facciones en constante lucha de poder.\n• La figura del líder supremo es clave, pero su rol varía en la práctica con el tiempo.\n• Las decisiones estratégicas a menudo dependen de los líderes militares y de la Guardia Revolucionaria.",
+      "bullets_20s": "• Mojtaba Jamenei asumió el liderazgo supremo en Irán, generando muchas expectativas.\n• La estructura de poder en Irán parece ser más compleja de lo que se percibe.\n• Los procesos de toma de decisiones a menudo son poco transparentes en el país.\n• Existen múltiples actores que influyen en las decisiones políticas en Irán.\n• Análisis profundos son necesarios para entender la dinámica del poder en Irán.\n• Irán enfrenta desafíos internos y externos que complican su gobernabilidad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cvg42q23zqlo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-25T03:57:08.000Z",
-      "teaser": "Lo clave en 20 segundos: La confusión en las decisiones políticas de Irán tras el ascenso de Mojtaba Jamenei.",
+      "teaser": "Lo clave en 20 segundos: La confusión en torno al liderazgo supremo en Irán es significativa.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b3bc/live/0b32ac80-3fef-11f1-bd52-e755d604ece4.jpg",
       "description": "Se supone que el nuevo líder supremo, Mojtaba Jamenei, tiene la última palabra, pero en la práctica la situación es mucho más confusa.",
       "featured": false
@@ -1418,19 +1483,6 @@
       "featured": false
     },
     {
-      "slug": "como-saber-si-hay-alguien-conectado-a-mi-red-de-wifi-consejos-para-detectarlos",
-      "title": "¿Cómo saber si hay alguien conectado a mi red de wifi? Consejos para detectarlos",
-      "category": "Tecnología",
-      "bullets_20s": "• Identifique los dispositivos conectados a su red WiFi de manera simple y efectiva.\n• Aprenda a distinguir entre usuarios legítimos y potenciales intrusos en su red.\n• Use herramientas tecnológicas disponibles para auditar su red y detectar problemas.\n• Establezca contraseñas seguras para proteger su red de accesos no autorizados.\n• Aplique medidas preventivas que aseguren una conexión estable y sin riesgos.",
-      "source_name": "El Tiempo  Colombia",
-      "source_url": "https://www.nacion.com/tecnologia/como-saber-si-hay-alguien-conectado-a-su-red-wifi/EHNM6JTR7REEXDX3H272YN2W3I/story/",
-      "publish_date": "2026-04-24T18:27:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Aprenda a detectar dispositivos y proteger su red WiFi de intrusos.",
-      "image_url": "https://www.nacion.com/resizer/v2/RZYMJYNXIZD2PMNI4CGW3CRE7E.png?auth=b53c1ebd49acb4621eec4d5edb5ef04b017da3c3118111c5b6bb2ae2d4d54845&smart=true&width=1680&height=945",
-      "description": "Aprenda cómo detectar dispositivos conectados a su red WiFi, identificar accesos no autorizados y aplicar medidas para proteger su conexión doméstica.",
-      "featured": false
-    },
-    {
       "slug": "lo-que-cinco-minutos-de-juego-al-dia-pueden-cambiar-en-la-relacion-con-su-perro",
       "title": "Lo que cinco minutos de juego al día pueden cambiar en la relación con su perro",
       "category": "Ciencia",
@@ -1486,11 +1538,11 @@
       "slug": "escuela-de-administracion-de-empresas-del-tec-celebra-50-anos-de-aporte-academico-innovacion-y-desarrollo-nacional",
       "title": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Administración del TEC celebra su 50 aniversario en la formación académica nacional.\n• Desde 1975, la escuela ha sido un referente en educación y desarrollo profesional en Costa Rica.\n• Han creado programas de posgrado y maestrías en administración y dirección de empresas a lo largo de los años.\n• La innovación y el emprendimiento son pilares fundamentales en sus métodos de enseñanza y formación.\n• Más de 3 mil estudiantes y personal docente conforman la comunidad educativa en la actualidad.",
+      "bullets_20s": "• La Escuela de Administración de Empresas del TEC conmemora cinco décadas de formación profesional y desarrollo.\n• Fundada en 1975, la Escuela ha evolucionado con una visión estratégica enfocada en la calidad educativa.\n• Los programas de posgrado y la vinculación con el sector empresarial han sido clave en su trayectoria.\n• La creación de espacios para la incubación de empresas ha fortalecido el espíritu emprendedor en los estudiantes.\n• Se destaca por su compromiso con la investigación y la proyección internacional desde sus inicios.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/escuela-administracion-empresas-tec-celebra-50-anos-aporte-academico-innovacion-desarrollo-nacional",
       "publish_date": "2026-04-24T17:32:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de excelencia académica en el TEC.",
+      "teaser": "Lo clave en 20 segundos: La Escuela de Administración de Empresas del TEC celebra 50 años de liderazgo académico.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/seminario-latinoamericano-incubacion-empresas-innovadoras_2.jpg.webp?itok=ZmZfWtnq",
       "description": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "featured": false
@@ -1860,6 +1912,19 @@
       "featured": false
     },
     {
+      "slug": "esta-en-riesgo-la-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
+      "title": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
+      "category": "Costa Rica",
+      "bullets_20s": "• Panelistas académicos discuten retos actuales sobre autonomía universitaria en Costa Rica.\n• La exrectora de la UCR destacó la autonomía como esencial para el conocimiento crítico.\n• El TEC abre espacio para reflexionar sobre el futuro de la autonomía universitaria.\n• Se abordaron las tensiones entre financiamiento y la independencia universitaria.\n• Los representantes estudiantiles también enfatizaron la responsabilidad de la comunidad.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/esta-riesgo-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
+      "publish_date": "2026-04-24T03:41:21.000Z",
+      "teaser": "Lo clave en 20 segundos: Discusión sobre la importancia y desafíos de la autonomía universitaria en Costa Rica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/catedra-5.jpeg.webp?itok=XkE4KYMv",
+      "description": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
+      "featured": false
+    },
+    {
       "slug": "estudiantes-de-ucr-denuncian-que-rector-convoco-manifestacion-en-su-favor-y-llaman-a-contramarcha-rectoria-lo-niega",
       "title": "Estudiantes de UCR denuncian que rector convocó manifestación en su favor y llaman a contramarcha; Rectoría lo niega",
       "category": "Costa Rica",
@@ -1951,19 +2016,6 @@
       "featured": false
     },
     {
-      "slug": "esta-en-riesgo-la-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
-      "title": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
-      "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica inauguró la Cátedra de Realidad Nacional Elizabeth Odio Benito. Abordando temas fundamentales.\n• Panelistas del ámbito académico y estudiantil analizaron los desafíos de la autonomía universitaria en la actualidad.\n• La exrectora de la UCR destacó la importancia de la autonomía para asegurar el conocimiento libre y crítico.\n• Se debatió sobre la necesidad de un compromiso social en la defensa de la autonomía universitaria.\n• Los estudiantes resaltaron su papel activo en proteger la autonomía como responsabilidad compartida.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/esta-riesgo-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
-      "publish_date": "2026-04-24T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Discusión sobre la precariedad actual de la autonomía universitaria en Costa Rica.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/catedra-5.jpeg.webp?itok=XkE4KYMv",
-      "description": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
-      "featured": false
-    },
-    {
       "slug": "asi-estan-las-vias-de-san-pedro-y-ruta-27-este-jueves-el-trafico-es-muy-intenso-segun-plataforma-waze",
       "title": "Así están las vías de San Pedro y ruta 27 este jueves: el tráfico es ‘muy intenso’ según plataforma Waze",
       "category": "Costa Rica",
@@ -2000,19 +2052,6 @@
       "teaser": "Lo clave en 20 segundos: Costa Rica brilla por su modelo turístico sostenible en ferias internacionales.",
       "image_url": "https://www.nacion.com/resizer/v2/QOWTZIRRONE2LJSSRN3KPLVNQU.png?auth=65402a0a89521b826d397e3ad04ce6ce892240cf609858f6d13d207f1b50bd3d&smart=true&width=1680&height=945",
       "description": "Dos iniciativas costarricenses destacan en una de las ferias turísticas más importantes de la región, al evidenciar cómo la sostenibilidad y el trabajo con comunidades impulsan el desarrollo del país.",
-      "featured": false
-    },
-    {
-      "slug": "proyecto-de-ley-plantea-nuevo-impuesto-a-seguros-en-costa-rica-conozca-los-detalles-del-impacto",
-      "title": "Proyecto de ley plantea nuevo impuesto a seguros en Costa Rica: conozca los detalles del impacto",
-      "category": "Costa Rica",
-      "bullets_20s": "• Un nuevo impuesto a los seguros puede aumentar el costo de las primas en Costa Rica.\n• Este cambio legislativo se discute actualmente en la Asamblea Legislativa costarricense.\n• El impacto del impuesto podría afectar diferentes áreas, incluyendo salud y protección financiera.\n• Afectaría a los ciudadanos que dependen de seguros para créditos y otras obligaciones.\n• Es fundamental informarse sobre cómo este impuesto podría afectar el presupuesto familiar.",
-      "source_name": "Silvia Ureña Corrales",
-      "source_url": "https://www.nacion.com/economia/proyecto-de-ley-plantea-nuevo-impuesto-a-seguros/EE3J3SY7NJCL7K4ZU2W57WDJU4/story/",
-      "publish_date": "2026-04-23T22:13:39.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevo impuesto a seguros en discusión, afectará costos en salud y finanzas personales.",
-      "image_url": "https://www.nacion.com/resizer/v2/AJBP6X7GARFPVP5R2Q6HTS42KY.png?auth=4dbf0c9212651e3a695fd4aa2760047879ef3ac08bd44087154b1ed15d43b1fc&smart=true&width=1680&height=945",
-      "description": "Un nuevo impuesto a las primas de seguros avanza en la Asamblea Legislativa y podría reflejarse en su bolsillo. Revise cómo impactaría créditos, salud y protección financiera en el país.",
       "featured": false
     },
     {
@@ -2422,11 +2461,11 @@
       "slug": "tec-y-bac-exploran-alianza-estrategica-para-fortalecer-la-empleabilidad-en-costa-rica",
       "title": "TEC y BAC exploran alianza estratégica para fortalecer la empleabilidad en Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC y BAC están buscando promover una alianza para mejorar la empleabilidad en Costa Rica.\n• Ambas instituciones se reunieron en Cartago para discutir colaboraciones en formación de talento.\n• El TEC enfatiza la importancia de vincular la academia con el sector productivo del país.\n• Federico Odio del BAC menciona la necesidad de entender mejor la percepción de la institución.\n• El acercamiento se da en un contexto donde el talento del TEC tiene alta tasa de empleabilidad.",
+      "bullets_20s": "• El Tecnológico de Costa Rica y BAC Credomatic buscan fortalecer la empleabilidad en Costa Rica mediante una alianza.\n• Se llevó a cabo una reunión en el Campus Tecnológico Central en Cartago para discutir posibles colaboraciones.\n• Las áreas de enfoque incluyen formación de talento y vinculación entre universidades y empresas productivas.\n• El TEC tiene un compromiso con el sector productivo para mejorar las oportunidades de sus estudiantes.\n• La tasa de empleabilidad de graduados del TEC es del 96,5%, lo que resalta su alto nivel de inserción laboral.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-bac-exploran-alianza-estrategica-fortalecer-empleabilidad-costa-rica",
       "publish_date": "2026-04-23T15:53:57.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC y BAC buscan mejorar la empleabilidad en Costa Rica a través de una alianza estratégica.",
+      "teaser": "Lo clave en 20 segundos: Alianza entre TEC y BAC para potenciar la empleabilidad en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/foto-horizontal-bac-tec-13.04.2026.jpeg.webp?itok=YktGZbtO",
       "description": "TEC y BAC exploran alianza estratégica para fortalecer la empleabilidad en Costa Rica",
       "featured": false
@@ -2851,11 +2890,11 @@
       "slug": "tec-forma-parte-del-pacto-del-agua-para-fortalecer-la-gestion-responsable-sostenible-y-solidaria-del-recurso-hidrico",
       "title": "TEC forma parte del Pacto del agua, para fortalecer la gestión responsable, sostenible y solidaria del recurso hídrico",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC promueve la seguridad hídrica a través de la investigación y la docencia interdisciplinaria.\n• Diana Zambrano representa al TEC en la firma del Pacto del Agua, enfocándose en la gestión hídrica.\n• El pacto busca fortalecer la gestión responsable del agua como un derecho humano fundamental.\n• Instituciones como el AyA y el MEP también participan en el Pacto por el Agua en Costa Rica.\n• El acuerdo promueve la conservación y el uso responsable del recurso hídrico en el país.",
+      "bullets_20s": "• El Tecnológico de Costa Rica refuerza su compromiso con la gestión del agua y sostenibilidad.\n• Firmar este pacto permite un enfoque integral sobre el uso eficiente del recurso hídrico.\n• El TEC contribuye con su experiencia en diversas carreras relacionadas con el agua.\n• El acceso al agua es reconocido como un derecho humano fundamental en este acuerdo.\n• La colaboración interinstitucional es clave para lograr soluciones sostenibles y efectivas.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-forma-parte-pacto-agua-fortalecer-gestion-responsable-sostenible-solidaria-recurso-hidrico",
       "publish_date": "2026-04-22T22:14:53.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC se une al Pacto del Agua para gestionar responsablemente el recurso hídrico en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El TEC se une al Pacto del Agua para promover su gestión sostenible.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/pacto-agua-tec-1.jpg.webp?itok=F0JZgm8h",
       "description": "TEC forma parte del Pacto del agua, para fortalecer la gestión responsable, sostenible y solidaria del recurso hídrico",
       "featured": false
@@ -2877,11 +2916,11 @@
       "slug": "tec-abre-maestria-en-analitica-de-negocios-conozca-de-que-trata-y-cuando-inicia",
       "title": "TEC abre Maestría en Analítica de Negocios. Conozca de qué trata y cuándo inicia",
       "category": "Costa Rica",
-      "bullets_20s": "• La Maestría busca profesionales capaces de transformar datos en valor estratégico.\n• El programa es de 8 trimestres, equitativo entre teoría y práctica.\n• Los candidatos deben tener dominio del inglés y experiencia en análisis.\n• El TEC ofrecerá cursos nivelatorios para todos los estudiantes.\n• Los egresados podrán desempeñarse en el sector público y privado.",
+      "bullets_20s": "• El TEC inicia una nueva Maestría en Analítica de Negocios, respondiendo a la demanda de profesionales capacitados.\n• El programa tendrá una duración de 8 trimestres y se ofrecerá de manera anual a partir de octubre.\n• Las solicitudes están abiertas hasta el 17 de julio, dando tiempo para preparar aplicaciones.\n• Se ofrecerán cursos nivelatorios en matemáticas y programación antes del inicio de clases para todos los estudiantes.\n• Egresados podrán trabajar como analistas de datos o líderes en inteligencia de negocios en sectores públicos y privados.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-abre-maestria-analitica-negocios-conozca-trata-cuando-inicia",
       "publish_date": "2026-04-22T20:07:57.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC ofrece una nueva Maestría en Analítica de Negocios, inicia en octubre de 2026.",
+      "teaser": "Lo clave en 20 segundos: El TEC lanza una nueva Maestría en Analítica de Negocios para el 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/analitica.jpg.webp?itok=LTn_wHYC",
       "description": "TEC abre Maestría en Analítica de Negocios. Conozca de qué trata y cuándo inicia",
       "featured": false
@@ -2978,5 +3017,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-26T13:45:29.929Z"
+  "generated_at": "2026-04-26T14:45:30.567Z"
 }
