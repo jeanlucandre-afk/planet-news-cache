@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "asi-funciona-la-nueva-ia-de-meta-conozca-como-puede-ayudarle-en-el-uso-de-sus-apps-favoritas",
+      "title": "Así funciona la nueva IA de Meta: conozca cómo puede ayudarle en el uso de sus apps favoritas",
+      "category": "Tecnología",
+      "bullets_20s": "• La nueva IA de Meta promete mejorar la experiencia de usuario en diversas aplicaciones.\n• A través de Instagram, el usuario podrá interactuar de formas más inteligentes y rápidas.\n• WhatsApp contará con herramientas potentes para facilitar la gestión de mensajes y contactos.\n• La inteligencia artificial puede ayudar a planificar actividades desde la comodidad de su teléfono.\n• Se están explorando capacidades para analizar salud mediante imágenes enviadas desde el dispositivo.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/tecnologia/asi-funciona-la-nueva-ia-de-meta-conozca-como/N34RHOIQDJAPBDJVAYGXWXD4HQ/story/",
+      "publish_date": "2026-04-26T19:10:32.000Z",
+      "teaser": "Lo clave en 20 segundos: la IA de Meta transforma sus interacciones en Instagram y WhatsApp.",
+      "image_url": "https://www.nacion.com/resizer/v2/7CUAR4YBABEM5MU3XX6C3I4BLE.jpg?auth=14fc2808207eff679c95ed3c5e4203ccdeb9e71d275d8c1badcfe9bb739bde1f&smart=true&width=5606&height=3154",
+      "description": "Descubra cómo puede transformar la manera de interactuar con Instagram y WhatsApp. Desde planificar viajes con subagentes en paralelo hasta analizar su salud mediante fotos.",
+      "featured": false
+    },
+    {
+      "slug": "hasta-350-kmh-donde-se-construira-el-tren-bala-mas-rapido-de-latinoamerica-y-cuando-comenzara-a-funcionar",
+      "title": "Hasta 350 km/h: dónde se construirá el tren bala más rápido de Latinoamérica y cuándo comenzará a funcionar",
+      "category": "Mundo",
+      "bullets_20s": "• El tren bala más rápido de Latinoamérica comenzará a operar en Brasil con gran expectativa.\n• Superará la velocidad de 350 km/h, marcando un avance significativo en el transporte.\n• Perú también busca desarrollar su propio tren bala, siguiendo el ejemplo brasileño.\n• El proyecto incluye el uso de tecnología avanzada para garantizar la seguridad.\n• Se espera una mejora en la conectividad entre ciudades con la llegada del tren.",
+      "source_name": "El  Comercio",
+      "source_url": "https://www.nacion.com/el-mundo/hasta-350-kmh-donde-se-construira-el-tren-bala-mas/S2Q2HQC4ABGSXO3OQKSMPILDIY/story/",
+      "publish_date": "2026-04-26T18:55:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Brasil introducirá el tren bala más veloz de Latinoamérica este año.",
+      "image_url": "https://www.nacion.com/resizer/v2/VCHB63EVVZHM7GKVOMXQCNOGEM.png?auth=35c35aee8ea1571c0b01c917ae5f4d21526a536445c84411f0956c35ee334230&smart=true&width=1680&height=945",
+      "description": "El tren más veloz de Latinoamérica superará los 350 km/h y operará en Brasil. Además, Perú impulsa su propio tren bala con apoyo internacional.",
+      "featured": false
+    },
+    {
+      "slug": "cuando-son-las-semifinales-estas-son-las-fechas-confirmadas",
+      "title": "¿Cuándo son las semifinales? Estas son las fechas confirmadas",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las semifinales del Torneo de Clausura son un momento esperado por los aficionados.\n• Los equipos han luchado por llegar a esta etapa crucial del torneo local.\n• Es importante conocer las fechas exactas de los partidos para planear la asistencia.\n• La final también está programada, generando gran expectativa entre los seguidores.\n• Se mencionan posibles escenarios para una gran final en el futuro.",
+      "source_name": "Fanny Tayver Marín",
+      "source_url": "https://www.nacion.com/puro-deporte/cuando-son-las-semifinales-estas-son-las-fechas/5BHLISJBJ5DCVNMMAI55JAUY7Y/story/",
+      "publish_date": "2026-04-26T18:47:14.000Z",
+      "teaser": "Lo clave en 20 segundos: fechas confirmadas para las semifinales del Torneo de Clausura 2026.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZZTCCVKR5NGT3I5VNXADRWYEPM.jpg?auth=098491b1551c807c26bb5e36951ec1da6d503901ac463039bd0f77ab4ba1653f&smart=true&width=1200&height=628",
+      "description": "Así se jugarán las semifinales, la final y hasta una posible gran final del Torneo de Clausura 2026.",
+      "featured": false
+    },
+    {
       "slug": "atentado-guerrillero-con-bomba-en-colombia-deja-al-menos-20-muertos-a-un-mes-de-las-elecciones",
       "title": "Atentado guerrillero con bomba en Colombia deja al menos 20 muertos, a un mes de las elecciones",
       "category": "Mundo",
@@ -381,11 +420,11 @@
       "slug": "chernobil-como-la-union-sovietica-trato-de-ocultar-la-mayor-catastrofe-nuclear-de-la-historia-y-como-se-entero-el-mundo-",
       "title": "Chernóbil: cómo la Unión Soviética trató de ocultar la mayor catástrofe nuclear de la historia y cómo se enteró el mundo hace 40 años",
       "category": "Mundo",
-      "bullets_20s": "• Chernóbil fue un desastre nuclear que ocurrió en 1986, afectando gravemente a Ucrania y sus alrededores.\n• Las autoridades soviéticas intentaron ocultar los hechos, generando preocupaciones sobre la transparencia del gobierno.\n• El 26 de abril de 1986 es recordado como el día del accidente, con graves consecuencias ecológicas y humanitarias.\n• Las lecciones aprendidas han inspirado cambios en políticas de seguridad nuclear a nivel mundial.\n• Este evento marcó un antes y un después en la historia de la energía nuclear y su regulación.",
+      "bullets_20s": "• El desastre de Chernóbil fue un punto clave en la historia de la energía nuclear.\n• La Unión Soviética intentó ocultar la verdad sobre el accidente e minimizar su impacto.\n• El 26 de abril de 1986, un reactor nuclear explotó, liberando radionucleidos al ambiente.\n• La catástrofe reveló las fallas en el protocolo de seguridad en las plantas nucleares.\n• Sucesos posteriores llevaron a cambios en la política nuclear a nivel mundial.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4glk32xvyko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-26T09:19:44.000Z",
-      "teaser": "Lo clave en 20 segundos: ¿Cómo se ocultó la tragedia de Chernóbil y su impacto global?",
+      "teaser": "Lo clave en 20 segundos: 40 años del desastre nuclear de Chernóbil y su oculta verdad.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/7d0c/live/51887fd0-3e72-11f1-8f78-2b3776d2d1d0.jpg",
       "description": "A 40 años del desastre nuclear, recordamos lo que ocurrió ese 26 de abril de 1986 y cómo las autoridades de la antigua URSS trataron de encubrir los hechos.",
       "featured": false
@@ -1694,11 +1733,11 @@
       "slug": "escuela-de-administracion-de-empresas-del-tec-celebra-50-anos-de-aporte-academico-innovacion-y-desarrollo-nacional",
       "title": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Administración de Empresas del TEC cumple 50 años de trayectoria en Costa Rica.\n• Desde 1975, ha sido referente en formación de profesionales y generación de conocimiento.\n• El cambio global impulsó la creación de esta carrera en un momento clave para el país.\n• A lo largo de los años, la escuela ha crecido y se ha adaptado a nuevas realidades.\n• Iniciativas como Tec Emprendelab potencian proyectos innovadores con bases científicas.",
+      "bullets_20s": "• La Escuela de Administración del TEC ha formado profesionales durante 50 años en Costa Rica.\n• Se ha consolidado como un referente en la educación superior y la investigación en el país.\n• La creación de nuevos programas ha fortalecido el vínculo con el sector productivo nacional.\n• Iniciativas como Tec Emprendelab fomentan la cultura emprendedora entre los estudiantes.\n• A lo largo de cinco décadas, la escuela ha evolucionado y se ha adaptado a los cambios del entorno.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/escuela-administracion-empresas-tec-celebra-50-anos-aporte-academico-innovacion-desarrollo-nacional",
       "publish_date": "2026-04-24T17:32:23.000Z",
-      "teaser": "Lo clave en 20 segundos: La Escuela de Administración de Empresas del TEC celebra su medio siglo de logros en formación profesional.",
+      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de la Escuela de Administración de Empresas del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/seminario-latinoamericano-incubacion-empresas-innovadoras_2.jpg.webp?itok=ZmZfWtnq",
       "description": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "featured": false
@@ -2058,11 +2097,11 @@
       "slug": "esta-en-riesgo-la-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
       "title": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica inauguró una cátedra enfocada en el análisis de la autonomía universitaria.\n• Panelistas académicos debatieron los desafíos que enfrenta la autonomía en el contexto actual.\n• Se destacó la importancia de la responsabilidad social en la defensa de la autonomía universitaria.\n• Los expositores coincidieron en la necesidad de fortalecer este principio fundamental en la educación.\n• El encuentro abordó tensiones entre la autonomía y las demandas de rendición de cuentas en las universidades.",
+      "bullets_20s": "• Panelistas académicos debatieron sobre la autonomía universitaria y sus retos actuales en el TEC.\n• La Dra. Yamileth González enfatizó la autonomía como fundamental para el conocimiento libre.\n• Representantes del TEC abogaron por equilibrar autonomía y responsabilidad social de las universidades.\n• Se destacó la importancia de un compromiso activo de la comunidad universitaria en su defensa.\n• El enfoque regional mostró universidades enfrentando cuestionamientos y presiones sobre su independencia.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/esta-riesgo-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
       "publish_date": "2026-04-24T03:41:21.000Z",
-      "teaser": "Lo clave en 20 segundos: La autonomía universitaria enfrenta retos cruciales que requieren debate y reflexión.",
+      "teaser": "Lo clave en 20 segundos: Reflexión sobre la autonomía universitaria en medio de presiones actuales.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/catedra-5.jpeg.webp?itok=XkE4KYMv",
       "description": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
       "featured": false
@@ -2591,11 +2630,11 @@
       "slug": "tec-y-bac-exploran-alianza-estrategica-para-fortalecer-la-empleabilidad-en-costa-rica",
       "title": "TEC y BAC exploran alianza estratégica para fortalecer la empleabilidad en Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC y BAC se reúnen para discutir sobre empleabilidad en el país.\n• La alianza incluye áreas como formación y prácticas profesionales.\n• Ambos líderes destacan la importancia de la universidad-empresa.\n• El TEC cuenta con una tasa de empleabilidad del 96.5% entre graduados.\n• Se busca fortalecer la vinculación con el sector productivo en Costa Rica.",
+      "bullets_20s": "• El Tecnológico de Costa Rica y BAC Credomatic están buscando fortalecer la empleabilidad en el país.\n• Se realizó un encuentro entre líderes de ambas instituciones para discutir oportunidades de colaboración.\n• Ambas instituciones se enfocarán en formación de talento y prácticas profesionales de calidad.\n• El diálogo entre academia y sector productivo es clave para responder al mercado laboral actual.\n• El TEC ha demostrado un alto porcentaje de empleabilidad entre sus graduados, que alcanza el 96.5%.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-bac-exploran-alianza-estrategica-fortalecer-empleabilidad-costa-rica",
       "publish_date": "2026-04-23T15:53:57.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC y BAC buscan una alianza para mejorar la empleabilidad en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: TEC y BAC buscan fortalecer la empleabilidad mediante una alianza estratégica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/foto-horizontal-bac-tec-13.04.2026.jpeg.webp?itok=YktGZbtO",
       "description": "TEC y BAC exploran alianza estratégica para fortalecer la empleabilidad en Costa Rica",
       "featured": false
@@ -3020,11 +3059,11 @@
       "slug": "tec-forma-parte-del-pacto-del-agua-para-fortalecer-la-gestion-responsable-sostenible-y-solidaria-del-recurso-hidrico",
       "title": "TEC forma parte del Pacto del agua, para fortalecer la gestión responsable, sostenible y solidaria del recurso hídrico",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC colabora en el Pacto del Agua para mejorar la gestión del recurso hídrico en Costa Rica.\n• La firma es un compromiso con la seguridad hídrica y el acceso al agua potable como derecho humano.\n• Diana Zambrano, del TEC, representa a la institución en este importante acuerdo nacional.\n• El Pacto incluye la participación de entidades como el AyA y el Ministerio de Ambiente y Energía.\n• Se busca promover la conservación de cuencas y la gestión sostenible del agua en todo el país.",
+      "bullets_20s": "• El TEC colabora en la seguridad hídrica a través de programas académicos y de investigación.\n• Diana Zambrano representó al TEC en la firma del Pacto del Agua por su compromiso social.\n• Este pacto reconoce el acceso al agua potable como un derecho humano fundamental e innegable.\n• El acuerdo promueve la conservación y restauración de cuencas, acuíferos y ecosistemas vitales.\n• Se busca fomentar la coordinación interinstitucional para mejorar el servicio de agua y saneamiento.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-forma-parte-pacto-agua-fortalecer-gestion-responsable-sostenible-solidaria-recurso-hidrico",
       "publish_date": "2026-04-22T22:14:53.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC firma Pacto del Agua para fortalecer la gestión hídrica en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El TEC se une al Pacto del Agua para reafirmar su compromiso con la gestión hídrica en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/pacto-agua-tec-1.jpg.webp?itok=F0JZgm8h",
       "description": "TEC forma parte del Pacto del agua, para fortalecer la gestión responsable, sostenible y solidaria del recurso hídrico",
       "featured": false
@@ -3046,11 +3085,11 @@
       "slug": "tec-abre-maestria-en-analitica-de-negocios-conozca-de-que-trata-y-cuando-inicia",
       "title": "TEC abre Maestría en Analítica de Negocios. Conozca de qué trata y cuándo inicia",
       "category": "Costa Rica",
-      "bullets_20s": "• La Maestría en Analítica de Negocios inicia oficialmente en octubre de 2026.\n• Las solicitudes para el programa están abiertas hasta el 17 de julio de 2026.\n• El programa está diseñado para profesionales en Ciencias Económicas y otras áreas afines.\n• Ofrece competencias en análisis de datos, Big Data y modelos de inteligencia artificial.\n• El TEC proporcionará cursos nivelatorios en matemáticas y programación antes del inicio.\n• Los egresados podrán ocupar roles como Analista de Negocio y líder en Inteligencia de Negocios.\n• El plan de estudios incluye 14 cursos y un Trabajo Final de Graduación.\n• Se realizarán investigaciones prácticas aplicadas para resolver problemas reales de organizaciones.\n• La maestría tiene una orientación técnica y visión estratégica basada en datos.",
+      "bullets_20s": "• La nueva maestría en Analítica de Negocios busca capacitar a profesionales en la toma de decisiones.\n• Las solicitudes están abiertas hasta el 17 de julio de 2026, finalizando la etapa de admisión.\n• Las clases comenzarán el 5 de octubre y durará dos años en modalidad presencial.\n• El programa combina técnica y visión estratégica, facilitando el análisis de datos en diversas organizaciones.\n• Los egresados estarán preparados para roles especializados en el análisis de datos y la inteligencia de negocios.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-abre-maestria-analitica-negocios-conozca-trata-cuando-inicia",
       "publish_date": "2026-04-22T20:07:57.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC lanza Maestría en Analítica de Negocios con fecha de inicio en octubre de 2026.",
+      "teaser": "Lo clave en 20 segundos: TEC lanza maestría que capacita en analítica de negocios desde octubre de 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/analitica.jpg.webp?itok=LTn_wHYC",
       "description": "TEC abre Maestría en Analítica de Negocios. Conozca de qué trata y cuándo inicia",
       "featured": false
@@ -3145,7 +3184,20 @@
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/dc84/live/2611b0d0-3e52-11f1-9679-171672b01c6d.jpg",
       "description": "En la literatura científica se han reportado una veintena de casos en los que una mujer queda embarazada de dos hombres diferentes durante el mismo ciclo menstrual.",
       "featured": false
+    },
+    {
+      "slug": "esta-es-la-dieta-de-cristiano-ronaldo-el-secreto-de-sus-musculos-y-su-alimentacion",
+      "title": "Esta es la dieta de Cristiano Ronaldo: el secreto de sus músculos y su alimentación",
+      "category": "Mundo",
+      "bullets_20s": "• La dieta de un atleta profesional puede ser muy rigurosa y diseñada para maximizar el desempeño.\n• Incluye una variedad de alimentos frescos y nutritivos que apoyan su entrenamiento riguroso.\n• El control de porciones es clave para mantener una buena salud y condición física.\n• La hidratación adecuada es esencial para el rendimiento deportivo y la recuperación muscular.\n• Es interesante conocer los hábitos alimenticios de personas destacadas en el deporte mundial.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/puro-deporte/esta-es-la-dieta-de-cristiano-ronaldo-el-secreto/J3QACVVKQNER7OGCZSHK6HSMNQ/story/",
+      "publish_date": "",
+      "teaser": "Lo clave en 20 segundos: Descubre la dieta de un ícono del deporte y sus secretos.",
+      "image_url": "https://www.nacion.com/resizer/v2/MYY22HU5XJDCXM44NBQUCV5RTY.jpg?auth=4d5c85b08b9810b6721f7306e6740f61cc28bdfcabbf88e4351566400722c295&smart=true&width=4400&height=2932",
+      "description": "Conozca el estricto régimen de Cristiano Ronaldo revelado por su antiguo chef.",
+      "featured": false
     }
   ],
-  "generated_at": "2026-04-26T18:45:29.898Z"
+  "generated_at": "2026-04-26T19:45:29.859Z"
 }
