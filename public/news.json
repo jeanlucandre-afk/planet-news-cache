@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "la-nacion-desarrolla-herramienta-de-inteligencia-artificial-para-fortalecer-oferta-de-valor-para-suscriptores",
+      "title": "La Nación desarrolla herramienta de inteligencia artificial para fortalecer oferta de valor para suscriptores",
+      "category": "Tecnología",
+      "bullets_20s": "• La herramienta promete mejorar la experiencia de los suscriptores con contenido personalizado.\n• El uso de inteligencia artificial está revolucionando cómo se interactúa con los usuarios.\n• Medios de comunicación en Latinoamérica están adoptando esta tecnología de manera rápida.\n• La iniciativa busca reforzar el compromiso con suscriptores en un entorno competitivo.\n• Se espera que la IA genere análisis y recomendaciones acordes a las preferencias individuales.",
+      "source_name": "Kattia Bermúdez",
+      "source_url": "https://www.nacion.com/blogs/noticias-grupo-nacion/la-nacion-desarrolla-herramienta-de-inteligencia/GEAUYDWBD5DHRDDC62ZNOSSXYM/story/",
+      "publish_date": "2026-04-27T23:15:40.000Z",
+      "teaser": "Lo clave en 20 segundos: La Nación utiliza IA para mejorar su oferta de valor a suscriptores.",
+      "image_url": "https://www.nacion.com/resizer/v2/MILKV2Q6YNHJZKGGZMBIZGWIEI.jpg?auth=244a75f82cd6d0d77b5ed98b91bc8d6bd18102a5632ff1b4e36c63d90fa89cd8&smart=true&width=960&height=540",
+      "description": "La inteligencia artificial dejó de ser una promesa en los medios latinoamericanos y empezó a generar resultados tangibles a nivel de producto.",
+      "featured": false
+    },
+    {
+      "slug": "detienen-en-mexico-a-lider-narco-y-posible-sucesor-de-el-mencho",
+      "title": "Detienen en México a líder narco y posible sucesor de ‘El Mencho’",
+      "category": "Mundo",
+      "bullets_20s": "• Las autoridades mexicanas detienen a un importante líder del narcotráfico en el país.\n• El detenido es conocido por su cercanía con el exlíder de una poderosa organización criminal.\n• Esta captura podría afectar las dinámicas del crimen organizado en México.\n• La noticia es un reflejo de la continua actividad de las autoridades en la lucha contra el narcotráfico.\n• Se espera que se realicen más operativos para desmantelar redes vinculadas a este caso.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/detienen-en-mexico-a-lider-narco-y-posible-sucesor/BMCWQFQHBZF25NUJO2C4UGRII4/story/",
+      "publish_date": "2026-04-27T23:12:21.000Z",
+      "teaser": "Lo clave en 20 segundos: Detenido líder narco en México, posible sucesor de El Mencho.",
+      "image_url": "https://www.nacion.com/resizer/v2/SO5NMTFXONGEDH74L3Z2C4LCVI.jpg?auth=dc236b461334090f9b6915b6b715d0b409e91a9685e4a5618110e536b933317c&smart=true&width=960&height=1242",
+      "description": "Apodado ‘El Jardinero’, Audias Flores Silva habría sido ‘el brazo derecho’ de ‘El Mencho’ hasta su muerte.",
+      "featured": false
+    },
+    {
+      "slug": "arbitro-reporto-manotazo-de-mariano-torres-contra-comisario-de-la-unafut",
+      "title": "Árbitro reportó manotazo de Mariano Torres contra comisario de la Unafut",
+      "category": "Costa Rica",
+      "bullets_20s": "• El incidente ocurrió durante un partido de fútbol en Puntarenas, generando controversia.\n• Mariano Torres, jugador involucrado, reportó un malentendido con el comisario del juego.\n• El juego estaba en el minuto 34 cuando se produjo el altercado entre los implicados.\n• La Unafut ha abierto una investigación sobre el comportamiento de Torres en la cancha.\n• Las reacciones del público y medios han sido variadas respecto al altercado reportado.",
+      "source_name": "Milton Montenegro, Fanny Tayver Marín",
+      "source_url": "https://www.nacion.com/puro-deporte/arbitro-reporto-manotazo-de-mariano-torres-contra/N2N54QOA7NB2DD72UP65HLTLPQ/story/",
+      "publish_date": "2026-04-27T23:09:28.000Z",
+      "teaser": "Lo clave en 20 segundos: un incidente entre Mariano Torres y un comisario genera controversia en el fútbol.",
+      "image_url": "https://www.nacion.com/resizer/v2/77Q3F4MOGNFEFENOXEHR7VINSU.jpeg?smart=true&auth=dd75018058781dd21bd5b5f41abf5e3351d0900c1f3819ff1ff9abac182ff73d&width=1440",
+      "description": "Incidente de Mariano Torres con Erick Mora, comisario del juego en Puntarenas; se presentó al minuto 34 del partido.",
+      "featured": false
+    },
+    {
+      "slug": "salud-reporta-849-casos-de-dengue-conozca-las-zonas-que-concentran-mayor-impacto-de-la-enfermedad",
+      "title": "Salud reporta 849 casos de dengue: conozca las zonas que concentran mayor impacto de la enfermedad",
+      "category": "Costa Rica",
+      "bullets_20s": "• El dengue es una enfermedad transmitida por mosquitos que afecta a miles en Costa Rica.\n• Las autoridades de salud están evaluando las zonas más afectadas por los casos de dengue.\n• Es crucial que la población tome medidas preventivas para evitar la propagación del dengue.\n• El informe incluye tasas de incidencia por habitante en diferentes cantones del país.\n• Se recomienda eliminar criaderos de mosquitos en casas y áreas cercanas para frenar el dengue.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/ciencia/salud/salud-reporta-849-casos-de-dengue-conozca-las/IPJ5APGEPBD63KXQAZBGBM43CU/story/",
+      "publish_date": "2026-04-27T23:03:08.000Z",
+      "teaser": "Lo clave en 20 segundos: Salud reporta 849 casos de dengue y analiza las zonas más afectadas.",
+      "image_url": "https://www.nacion.com/resizer/v2/ABZG672KBRBVJFHDV4LBC6UPKQ.png?auth=148a99334e6cfd4f1a4889fef606d026e815598ced437fc2095a4c9f815eb9f3&smart=true&width=1920&height=1080",
+      "description": "El Ministerio de Salud reporta 849 casos de dengue en Costa Rica a la semana epidemiológica 14 del 2026. Conozca los cantones con mayor volumen de pacientes y las tasas de incidencia por habitante.",
+      "featured": false
+    },
+    {
       "slug": "calor-y-lluvias-en-camino-asi-cambiara-el-clima-en-costa-rica-esta-semana",
       "title": "Calor y lluvias en camino: así cambiará el clima en Costa Rica esta semana",
       "category": "Costa Rica",
@@ -341,12 +393,12 @@
     {
       "slug": "senales-de-que-estas-en-el-trabajo-equivocado-ingenieria-para-la-vida",
       "title": "Señales de que estás en el trabajo equivocado, Ingeniería para la Vida",
-      "category": "Mundo",
-      "bullets_20s": "• Identificar las señales silenciosas puede ser clave para encontrar satisfacción laboral.\n• El conflicto entre el dinero y el propósito puede generar insatisfacción a largo plazo.\n• La cultura de la empresa influye en cómo nos sentimos en nuestros trabajos.\n• Es importante reflexionar antes de tomar decisiones drásticas por la desconexión.\n• La presión que sentimos durante el fin de semana puede ser señal de descontento profesional.",
+      "category": "Ciencia",
+      "bullets_20s": "• Identificar las señales silenciosas de desconexión es clave para el bienestar laboral.\n• El conflicto entre lo monetario y el propósito personal puede generar estrés emocional.\n• Evaluar la cultura de la empresa puede ayudar a reconocer si es el entorno adecuado.\n• Antes de tomar decisiones drásticas, reflexiona sobre los pasos a seguir con calma.\n• Conversaciones sobre el estado laboral pueden ofrecer perspectivas valiosas para todos.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/senales-estas-trabajo-equivocado-ingenieria-vida",
       "publish_date": "2026-04-27T16:45:34.000Z",
-      "teaser": "Lo clave en 20 segundos: Reflexiona sobre tu satisfacción laboral y las señales de desconexión.",
+      "teaser": "Lo clave en 20 segundos: Reflexiona sobre si tu trabajo te satisface realmente.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/instagram-post-1.png",
       "description": "Señales de que estás en el trabajo equivocado, Ingeniería para la Vida",
       "featured": false
@@ -420,11 +472,11 @@
       "slug": "que-se-sabe-de-las-victimas-y-otras-3-preguntas-sobre-los-ataques-que-dejaron-al-menos-20-muertos-y-decenas-de-heridos-e",
       "title": "Qué se sabe de las víctimas y otras 3 preguntas sobre los ataques que dejaron al menos 20 muertos y decenas de heridos en el sur de Colombia",
       "category": "Mundo",
-      "bullets_20s": "• El ataque en Colombia ha sido uno de los más mortales en los últimos años.\n• Las disidencias de las FARC han sido identificadas como responsables de este ataque.\n• El suceso ha dejado un alto número de heridos y víctimas fatales en la región.\n• Se han realizado operativos de búsqueda para dar con los responsables del ataque.\n• La comunidad internacional observa con preocupación la escalada de la violencia.",
+      "bullets_20s": "• Un ataque mortal en Colombia ha generado preocupación por la seguridad en la región sur del país.\n• Las disidencias de las FARC son señaladas como responsables de este trágico evento reciente.\n• Las autoridades están investigando los detalles del ataque para brindar respuestas a la ciudadanía.\n• Se estima que hay decenas de heridos, lo que aumenta la complejidad de la situación actual.\n• El hecho ha reavivado el debate sobre el crimen organizado y la seguridad en Colombia.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpd5d76y7ypo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-27T16:02:25.000Z",
-      "teaser": "Lo clave en 20 segundos: ataques en Colombia causan múltiples muertes y heridos, responsables identificados.",
+      "teaser": "Lo clave en 20 segundos: ataques mortales en Colombia generan gran preocupación y respuestas necesarias.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/28ea/live/d0f55a00-423b-11f1-a88c-7b7ab23a59fc.jpg",
       "description": "Las autoridades han responsabilizado a las disidencias de las FARC del ataque más mortal, ocurrido el sábado.",
       "featured": false
@@ -498,11 +550,11 @@
       "slug": "como-pudo-el-atacante-llegar-tan-cerca-de-trump-y-otras-dudas-que-plantea-el-tiroteo-en-la-cena-corresponsales-en-washin",
       "title": "Cómo pudo el atacante llegar tan cerca de Trump y otras dudas que plantea el tiroteo en la cena corresponsales en Washington",
       "category": "Mundo",
-      "bullets_20s": "• El reciente tiroteo genera preguntas sobre la seguridad en eventos de alto perfil en EE.UU.\n• Incidentes de seguridad alrededor de Trump han aumentado en años recientes, creando preocupación.\n• La cena de corresponsales en Washington suele ser un evento polémico y mediático.\n• Expertos analizan la respuesta de las fuerzas de seguridad ante este nuevo incidente.\n• Surgieron críticas sobre los protocolos de seguridad en eventos con personalidades políticas.",
+      "bullets_20s": "• El tiroteo ha generado preocupación sobre la seguridad de figuras públicas en eventos grandes.\n• Trump ha sido objeto de incidentes de seguridad en tres ocasiones recientes.\n• Las preguntas sobre cómo pudo acceder el atacante son prioritarias para las autoridades.\n• La cena es un evento anual que reúne a políticos y periodistas de alto perfil.\n• La respuesta de seguridad fue rápida, pero deja interrogantes sobre el protocolo que se sigue.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c0lely5y9nno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-27T13:53:53.000Z",
-      "teaser": "Lo clave en 20 segundos: un tiroteo en un evento con Trump genera dudas sobre la seguridad.",
+      "teaser": "Lo clave en 20 segundos: Un ataque genera dudas sobre la seguridad de Trump y el evento periodístico.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/a40c/live/af54a080-4228-11f1-ac78-2112837ce2aa.jpg",
       "description": "Con el tiroteo del sábado en la Cena de Corresponsales, es la tercera vez en igual número de años que Trump se encuentra en el centro de un incidente de seguridad importante.",
       "featured": false
@@ -2760,11 +2812,11 @@
       "slug": "escuela-de-administracion-de-empresas-del-tec-celebra-50-anos-de-aporte-academico-innovacion-y-desarrollo-nacional",
       "title": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Administración del TEC cumple 50 años de trayectoria académica en Costa Rica.\n• Contribuyó al desarrollo profesional y la vinculación con el sector productivo del país.\n• Desde 1975, la escuela ha ido evolucionando en sus programas académicos y de posgrado.\n• Se han implementado programas de formación que responden a las necesidades del mercado.\n• El TEC fomenta un espíritu emprendedor y apoya la creación de empresas innovadoras.",
+      "bullets_20s": "• La Escuela de Administración del TEC fue creada en 1975 durante un período de transformación para Costa Rica y el mundo.\n• A lo largo de 50 años, se ha consolidado como un referente en formación de profesionales y generación de conocimiento.\n• La Escuela ha ampliado su oferta académica, incluyendo posgrados y programas técnicos, impulsando la investigación.\n• Ha fomentado una cultura emprendedora, apoyando iniciativas como Tec Emprendelab para procesos de incubación.\n• La Escuela cuenta hoy con más de 3 mil estudiantes y una comunidad comprometida con la calidad educativa.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/escuela-administracion-empresas-tec-celebra-50-anos-aporte-academico-innovacion-desarrollo-nacional",
       "publish_date": "2026-04-24T17:32:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebrando 50 años de formación y desarrollo en administración en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Celebración del medio siglo de la Escuela de Administración del TEC, un legado educativo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/seminario-latinoamericano-incubacion-empresas-innovadoras_2.jpg.webp?itok=ZmZfWtnq",
       "description": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "featured": false
@@ -3123,12 +3175,12 @@
     {
       "slug": "esta-en-riesgo-la-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
       "title": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
-      "category": "Costa Rica",
-      "bullets_20s": "• La autonomía universitaria enfrenta presiones políticas y sociales en la actualidad.\n• La Cátedra Elizabeth Odio explicó la importancia de este principio en la educación.\n• Especialistas consensuaron en la defensa de la autonomía como garantía de democracia.\n• La autonomía debe estar acompañada de responsabilidad hacia la sociedad y sus cambios.\n• El encuentro incluyó perspectivas de estudiantes sobre su rol en la defensa de la autonomía.",
+      "category": "Ciencia",
+      "bullets_20s": "• Panel de académicos discute la autonomía universitaria y sus retos en la actualidad política y social.\n• Se celebró la Cátedra de Realidad Nacional Elizabeth Odio Benito en el Tecnológico de Costa Rica.\n• Los panelistas enfatizaron la importancia de defender la autonomía como parte de la democracia.\n• La Dra. Yamileth González subrayó que este derecho es vital para un conocimiento crítico y libre.\n• Se discutió la relación entre autonomía universitaria y responsabilidad social de las instituciones.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/esta-riesgo-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
       "publish_date": "2026-04-24T03:41:21.000Z",
-      "teaser": "Lo clave en 20 segundos: La autonomía universitaria es vital para la democracia y el conocimiento crítico.",
+      "teaser": "Lo clave en 20 segundos: expertas reflexionan sobre la importancia de la autonomía universitaria en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/catedra-5.jpeg.webp?itok=XkE4KYMv",
       "description": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
       "featured": false
@@ -4213,5 +4265,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-27T22:45:29.736Z"
+  "generated_at": "2026-04-27T23:45:30.064Z"
 }
