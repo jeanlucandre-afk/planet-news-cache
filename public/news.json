@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "la-liga-de-ascenso-suma-tres-clasificados-a-semifinales-y-solo-queda-un-boleto-en-el-aire",
+      "title": "La Liga de Ascenso suma tres clasificados a semifinales y solo queda un boleto en el aire",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Liga de Ascenso ha mostrado un torneo emocionante con múltiples equipos compitiendo por el título.\n• Tres equipos ya han logrado asegurar su lugar en las semifinales del torneo Clausura.\n• El proceso de clasificación ha generado gran expectativa entre los aficionados del fútbol costarricense.\n• Este lunes se definirá quién será el último clasificado para las semifinales de la Liga.\n• Los partidos han estado llenos de sorpresas y goles, emocionando a los seguidores del fútbol local.",
+      "source_name": "Juan Diego Villarreal",
+      "source_url": "https://www.nacion.com/puro-deporte/la-liga-de-ascenso-suma-tres-clasificados-a/NR6G4JLPZZAJLNMVPL7WIIHDRA/story/",
+      "publish_date": "2026-04-27T03:24:32.000Z",
+      "teaser": "Lo clave en 20 segundos: La Liga de Ascenso tiene tres semifinalistas, solo falta un boleto por definir.",
+      "image_url": "https://www.nacion.com/resizer/v2/H64NBG42EZHYTGGBHE635KLEKA.jpg?auth=93327c01fcd4026052c954cd19c95cf6e386eb3b26fa9a6e81116da1ae4d2031&smart=true&width=1440&height=1152",
+      "description": "El Torneo Clausura de La Liga de Ascenso ya contabiliza a tres semifinalistas y este lunes se conocerá al último invitado.",
+      "featured": false
+    },
+    {
       "slug": "premio-mayor-estos-son-los-numeros-ganadores-de-la-loteria-nacional-del-domingo-26-de-abril",
       "title": "Premio MAYOR: Estos son los números ganadores de la Lotería Nacional del domingo 26 de abril",
       "category": "Costa Rica",
-      "bullets_20s": "• La Lotería Nacional celebró un millonario sorteo el pasado domingo 26 de abril.\n• El premio mayor alcanzó un total de ¢350 millones en dos emisiones.\n• La Junta de Protección Social organizó este evento de gran importancia económica.\n• Los números ganadores han generado gran expectativa entre los ticos.\n• Muchas personas esperan ansiosamente el anuncio de los premios y resultados.",
+      "bullets_20s": "• La Lotería Nacional es un juego popular en Costa Rica, celebrado semanalmente con gran expectativa.\n• Este sorteo del 26 de abril ofreció un premio mayor significativo para los participantes.\n• La comunidad espera ansiosamente los resultados de la Lotería Nacional cada semana.\n• La Junta de Protección Social organiza y supervisa todos los sorteos de lotería en el país.\n• Los números ganadores son anunciados públicamente para asegurar la transparencia del juego.",
       "source_name": "Libia Solano Meza",
       "source_url": "https://www.nacion.com/el-pais/premio-mayor-estos-son-los-numeros-ganadores-de-la/2LCVKHVHYFAIJPMNKTYCFUEYDM/story/",
       "publish_date": "2026-04-27T01:57:36.000Z",
-      "teaser": "Lo clave en 20 segundos: Lotería Nacional premia con grandes sumas en reciente sorteo.",
+      "teaser": "Lo clave en 20 segundos: La Lotería Nacional de Costa Rica celebró un gran sorteo el 26 de abril.",
       "image_url": "https://www.nacion.com/resizer/v2/DBWQ7CN7SNEQZI7HLVE2ZJMVF4.JPG?auth=3ad5511e931a85421301bddf170df1ea5725f77bfe328a35e96cf17933441533&smart=true&width=2082&height=1487",
       "description": "Junta de Protección Social celebró este domingo millonario sorteo de Lotería Nacional con premio mayor de ¢350 millones en dos emisiones.",
       "featured": false
@@ -115,6 +128,19 @@
       "teaser": "Lo clave en 20 segundos: Jugada táctica causa lesiones en un club internacional.",
       "image_url": "https://www.nacion.com/resizer/v2/BKP7TIE3X5ALTBSKLLC7D5FVE4.png?auth=6006519abd5b717285aae33299e85d355fb937acbe02691fa64702d8ec57e163&smart=true&width=739&height=484",
       "description": "La acción que debía ser de peligro para el rival terminó generando dos lesiones en un club internacional.",
+      "featured": false
+    },
+    {
+      "slug": "en-segundos-todos-estabamos-bajo-la-mesa-el-testimonio-del-periodista-de-la-bbc-que-asistia-a-la-cena-de-corresponsales-",
+      "title": "\"En segundos todos estábamos bajo la mesa\": el testimonio del periodista de la BBC que asistía a la cena de corresponsales con Trump cuando ocurrió el tiroteo",
+      "category": "Mundo",
+      "bullets_20s": "• Un periodista de la BBC relata su experiencia durante un tiroteo en un evento de prensa.\n• La cena de corresponsales con Trump se tornó caótica por disparos en Washington.\n• Gary O'Donoghue describe cómo se escondieron bajo la mesa inmediatamente.\n• La situación fue tensa y muchos se sintieron en peligro inminente.\n• Los detalles del incidente resaltan la violencia en eventos públicos.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cq8w8exzeyno?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-26T21:33:54.000Z",
+      "teaser": "Lo clave en 20 segundos: Un tiroteo interrumpe cena de corresponsales en Washington, experiencia de un periodista.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8e11/live/92ee8830-416e-11f1-b55d-0f258dce1735.jpg",
+      "description": "El corresponsal de la BBC en América del Norte, Gary O'Donoghue, cuenta lo que vivió cuando comenzaron a sonar disparos durante la ceremonia en el salón de eventos del Washington Hilton.",
       "featured": false
     },
     {
@@ -602,11 +628,11 @@
       "slug": "la-adolescente-que-creo-un-exitoso-negocio-luego-de-que-drogaran-a-una-amiga-con-una-bebida-en-un-bar",
       "title": "La adolescente que creó un exitoso negocio luego de que drogaran a una amiga con una bebida en un bar",
       "category": "Mundo",
-      "bullets_20s": "• Una adolescente transformó una experiencia negativa en una oportunidad de negocio significativa.\n• La creación de un producto innovador surgió a raíz de una situación preocupante en un bar.\n• Shirah Benarde ha logrado establecer una empresa con presencia a nivel global.\n• La historia resalta la resiliencia y creatividad de los jóvenes emprendedores actuales.\n• Su invención ha capturado la atención de mercados internacionales y posibles inversores.\n• Se habla de la importancia de la seguridad en los espacios públicos y cómo prevenir incidentes.",
+      "bullets_20s": "• Una adolescente transforma una experiencia negativa en una oportunidad empresarial innovadora y exitosa.\n• El caso de Shirah Benarde es un ejemplo inspirador de resiliencia y creatividad juvenil.\n• Su empresa, que nació de una experiencia desafortunada, ahora tiene ventas a nivel mundial.\n• El empoderamiento juvenil se manifiesta en la capacidad de crear soluciones a problemas reales.\n• La historia de Shirah destaca la importancia de la solidaridad y la prevención en situaciones peligrosas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c5yweekn0z7o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-26T11:06:01.000Z",
-      "teaser": "Lo clave en 20 segundos: Una joven convierte una experiencia negativa en un próspero negocio internacional.",
+      "teaser": "Lo clave en 20 segundos: Una joven convierte una crisis en una idea de negocio exitosa y global.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ab52/live/755e8d70-3f15-11f1-9aab-c976736c58b1.jpg",
       "description": "Una invención casera en su adolescencia, le permitió a Shirah Benarde impulsar una empresa millonaria con ventas a nivel global.",
       "featured": false
@@ -1928,11 +1954,11 @@
       "slug": "escuela-de-administracion-de-empresas-del-tec-celebra-50-anos-de-aporte-academico-innovacion-y-desarrollo-nacional",
       "title": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela celebra medio siglo de formación, innovación y desarrollo en el país y la región.\n• Desde 1975, ha sido un referente en la educación superior de administración y empresariales.\n• Su crecimiento ha sido guiado por líderes visionarios y un enfoque estratégico constante.\n• La época de los 90 marcó un periodo de expansión en programas académicos y técnicas nuevas.\n• Hoy cuentan con más de 3,000 estudiantes, novedades y vínculos con el sector productivo.",
+      "bullets_20s": "• La Escuela de Administración de Empresas del TEC fue creada en 1975 durante un periodo de transformación.\n• Desde su apertura, la escuela ha formado una comunidad de más de tres mil estudiantes en diversas áreas.\n• Su enfoque ha sido la docencia, investigación, e innovación en colaboración con sectores productivos.\n• Celebraron 50 años con un fuerte compromiso hacia la educación de calidad y el emprendimiento.\n• La escuela ha implementado programas de posgrado y ha fomentado el emprendimiento regionalmente.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/escuela-administracion-empresas-tec-celebra-50-anos-aporte-academico-innovacion-desarrollo-nacional",
       "publish_date": "2026-04-24T17:32:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de trayectoria de la Escuela de Administración de Empresas del TEC.",
+      "teaser": "Lo clave en 20 segundos: Celebran 50 años de innovación y desarrollo en la Escuela de Administración del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/seminario-latinoamericano-incubacion-empresas-innovadoras_2.jpg.webp?itok=ZmZfWtnq",
       "description": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "featured": false
@@ -2289,6 +2315,19 @@
       "featured": false
     },
     {
+      "slug": "esta-en-riesgo-la-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
+      "title": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Cátedra Elizabeth Odio abrió un espacio para reflexionar sobre la autonomía universitaria en Costa Rica.\n• Expertos coinciden en que la defensa de la autonomía es fundamental para el desarrollo democrático.\n• La exrectora de la UCR enfatizó que la autonomía es indispensable para el conocimiento crítico.\n• Los participantes abordaron los desafíos que enfrenta la autonomía ante presiones externas actuales.\n• Se destacó que la comunidad universitaria debe asumir un papel activo en la defensa de este derecho.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/esta-riesgo-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
+      "publish_date": "2026-04-24T03:41:21.000Z",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria es crucial para la democracia y el conocimiento crítico.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/catedra-5.jpeg.webp?itok=XkE4KYMv",
+      "description": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
+      "featured": false
+    },
+    {
       "slug": "estudiantes-de-ucr-denuncian-que-rector-convoco-manifestacion-en-su-favor-y-llaman-a-contramarcha-rectoria-lo-niega",
       "title": "Estudiantes de UCR denuncian que rector convocó manifestación en su favor y llaman a contramarcha; Rectoría lo niega",
       "category": "Costa Rica",
@@ -2442,19 +2481,6 @@
       "teaser": "Lo clave en 20 segundos: La cocaína en el agua altera el comportamiento del salmón en su hábitat natural.",
       "image_url": "https://www.nacion.com/resizer/v2/ZUTL5Y7PCFEHLMR3T5XGNFQ2RY.png?auth=998b59994b01a5c5c536367487fcd574eb73b99c231a74d461756283b0893fe4&smart=true&width=1138&height=758",
       "description": "Una investigación revela que contaminantes derivados de la cocaína cambian el movimiento y la distribución del salmón en ecosistemas naturales.",
-      "featured": false
-    },
-    {
-      "slug": "esta-en-riesgo-la-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
-      "title": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
-      "category": "Costa Rica",
-      "bullets_20s": "• Panelistas académicos y estudiantes reflexionan sobre la autonomía universitaria y sus desafíos actuales.\n• La cátedra busca analizar el impacto de presiones políticas en la educación superior en Costa Rica.\n• La exrectora Yamileth González destaca que la autonomía es clave para el desarrollo del pensamiento libre.\n• La integrante del TEC, Sofía García, subraya la relación entre autonomía y responsabilidad social universitaria.\n• Estudiantes enfatizan en la participación activa de la comunidad universitaria en la defensa de la autonomía.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/esta-riesgo-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
-      "publish_date": "2026-04-23T21:41:00.000Z",
-      "teaser": "Lo clave en 20 segundos: ¿La autonomía universitaria en riesgo? Aula debate sobre sus desafíos actuales.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/catedra-5.jpeg.webp?itok=XkE4KYMv",
-      "description": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
       "featured": false
     },
     {
@@ -2819,6 +2845,19 @@
       "teaser": "Lo clave en 20 segundos: Chile lidera lista de emisores de metano a nivel mundial.",
       "image_url": "https://www.nacion.com/resizer/v2/MIETW4RYAZCT3LFHODXY6PXEME.png?auth=760924295c765ad9fd65fba4eb7587221051a9983e2b50a1ab6c6ac3ab4b320c&smart=true&width=1920&height=1080",
       "description": "La ONU identifica los 50 sitios con más emisiones de metano. Un vertedero en Chile encabeza la lista mundial de contaminantes detectados por satélite según reporte oficial.",
+      "featured": false
+    },
+    {
+      "slug": "tec-y-bac-exploran-alianza-estrategica-para-fortalecer-la-empleabilidad-en-costa-rica",
+      "title": "TEC y BAC exploran alianza estratégica para fortalecer la empleabilidad en Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• Ambas instituciones dialogan sobre líneas de colaboración en formación de talento y prácticas profesionales.\n• Buscan articular academia y sector productivo para responder a las demandas del mercado laboral.\n• La rectora del TEC destaca la importancia de acercarse al sector productivo para ampliar oportunidades.\n• El presidente del BAC valora la iniciativa como una oportunidad de co-creación entre las dos organizaciones.\n• Se menciona que el 7% de colaboradores del BAC son graduados del TEC, lo que evidencia una relación consolidada.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/tec-bac-exploran-alianza-estrategica-fortalecer-empleabilidad-costa-rica",
+      "publish_date": "2026-04-23T15:53:57.000Z",
+      "teaser": "Lo clave en 20 segundos: TEC y BAC buscan fortalecer empleabilidad con nueva alianza en Costa Rica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/foto-horizontal-bac-tec-13.04.2026.jpeg.webp?itok=YktGZbtO",
+      "description": "TEC y BAC exploran alianza estratégica para fortalecer la empleabilidad en Costa Rica",
       "featured": false
     },
     {
@@ -3225,19 +3264,6 @@
       "featured": false
     },
     {
-      "slug": "tec-y-bac-exploran-alianza-estrategica-para-fortalecer-la-empleabilidad-en-costa-rica",
-      "title": "TEC y BAC exploran alianza estratégica para fortalecer la empleabilidad en Costa Rica",
-      "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica y BAC Credomatic buscan fortalecer la empleabilidad en el país.\n• La reunión se realizó en el Campus Tecnológico Central de Cartago el 13 de abril de 2026.\n• Ambas instituciones dialogaron sobre formación de talento y prácticas profesionales.\n• Se destacó la vinculación universidad-empresa como vital en el mercado laboral actual.\n• El TEC mantiene una alta tasa de empleabilidad con un 96,5% de graduados trabajando en el sector privado.",
-      "source_name": "sepacheco",
-      "source_url": "http://www.tec.ac.cr/tec-bac-exploran-alianza-estrategica-fortalecer-empleabilidad-costa-rica",
-      "publish_date": "2026-04-23T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC y BAC buscan fortalecer la empleabilidad a través de una alianza estratégica.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/foto-horizontal-bac-tec-13.04.2026.jpeg.webp?itok=YktGZbtO",
-      "description": "TEC y BAC exploran alianza estratégica para fortalecer la empleabilidad en Costa Rica",
-      "featured": false
-    },
-    {
       "slug": "la-sorprendente-razon-por-la-que-los-monos-de-gibraltar-comen-tierra",
       "title": "La sorprendente razón por la que los monos de Gibraltar comen tierra",
       "category": "Mundo",
@@ -3254,11 +3280,11 @@
       "slug": "tec-forma-parte-del-pacto-del-agua-para-fortalecer-la-gestion-responsable-sostenible-y-solidaria-del-recurso-hidrico",
       "title": "TEC forma parte del Pacto del agua, para fortalecer la gestión responsable, sostenible y solidaria del recurso hídrico",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica se une al Pacto del Agua para mejorar la gestión hídrica.\n• Este pacto busca fortalecer el acceso y saneamiento del agua como derecho humano.\n• Diana Zambrano representa al TEC en la firma, destacando su compromiso académico.\n• Se promueve la conservación de cuencas y ecosistemas que sustentan el agua.\n• Este acuerdo resalta la importancia de la coordinación interinstitucional en el país.",
+      "bullets_20s": "• El TEC ha impulsado acciones en seguridad hídrica a través de la docencia, investigación y extensión.\n• La firma del Pacto del Agua involucra a entidades públicas, académicas y organizaciones civiles de Costa Rica.\n• Diana Zambrano Piamba representó al TEC en esta firma, reafirmando su compromiso social.\n• El pacto reconoce el acceso al agua potable como un derecho humano fundamental en el país.\n• El TEC ha implementado programas académicos que aportan a la gestión sostenible del recurso hídrico.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-forma-parte-pacto-agua-fortalecer-gestion-responsable-sostenible-solidaria-recurso-hidrico",
       "publish_date": "2026-04-22T22:14:53.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC fortalece la gestión del agua al unirse al Pacto del Agua en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: TEC se une al Pacto del Agua para promover la gestión sostenible del recurso hídrico.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/pacto-agua-tec-1.jpg.webp?itok=F0JZgm8h",
       "description": "TEC forma parte del Pacto del agua, para fortalecer la gestión responsable, sostenible y solidaria del recurso hídrico",
       "featured": false
@@ -3280,11 +3306,11 @@
       "slug": "tec-abre-maestria-en-analitica-de-negocios-conozca-de-que-trata-y-cuando-inicia",
       "title": "TEC abre Maestría en Analítica de Negocios. Conozca de qué trata y cuándo inicia",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica inicia la Maestría en Analítica de Negocios en 2026.\n• Las solicitudes están abiertas hasta el 17 de julio de 2026 para interesados.\n• Las clases comenzarán el 5 de octubre de 2026, ofreciendo un formato presencial.\n• El programa está diseñado para capacitar en análisis de datos y Big Data.\n• El currículo incluye materias como programación y visualización de datos.",
+      "bullets_20s": "• La Maestría en Analítica de Negocios comienza en octubre de 2026 en el TEC.\n• Las solicitudes estarán abiertas hasta el 17 de julio de 2026 para interesados.\n• El programa dura dos años y ofrece formación en análisis de datos y Big Data.\n• Los cursos incluyen metodologías como Programación y Visualización de Datos.\n• Se ofrecerán cursos nivelatorios para preparar a los estudiantes con distintos perfiles.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-abre-maestria-analitica-negocios-conozca-trata-cuando-inicia",
       "publish_date": "2026-04-22T20:07:57.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC lanza nueva Maestría en Analítica de Negocios para 2026.",
+      "teaser": "Lo clave en 20 segundos: TEC lanza una nueva maestría en analítica de negocios para diversos perfiles profesionales.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/analitica.jpg.webp?itok=LTn_wHYC",
       "description": "TEC abre Maestría en Analítica de Negocios. Conozca de qué trata y cuándo inicia",
       "featured": false
@@ -3381,5 +3407,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-27T02:45:29.843Z"
+  "generated_at": "2026-04-27T03:45:36.403Z"
 }
