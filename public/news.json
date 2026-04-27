@@ -1,14 +1,66 @@
 {
   "news": [
     {
+      "slug": "carolina-jaikel-y-bryan-ruiz-piden-ayuda-con-el-corazon-en-la-mano",
+      "title": "Carolina Jaikel y Bryan Ruiz piden ayuda con el corazón en la mano",
+      "category": "Mundo",
+      "bullets_20s": "• Carolina Jaikel y Bryan Ruiz se unen para pedir apoyo en una causa noble.\n• Ambos buscan concienciar sobre la lucha contra el cáncer y su impacto.\n• Llaman a la comunidad para ayudar a personas que padecen esta enfermedad.\n• El mensaje busca generar empatía y acción entre los oyentes.\n• La importancia de unirse en estas causas trasciende fronteras.",
+      "source_name": "Fanny Tayver Marín, Juan Pablo Sanabria",
+      "source_url": "https://www.nacion.com/puro-deporte/carolina-jaikel-y-bryan-ruiz-piden-ayuda-con-el/4CSAWCD2ZRHZHMC3Q7E7F55K6Y/story/",
+      "publish_date": "2026-04-27T04:26:09.000Z",
+      "teaser": "Lo clave en 20 segundos: Jaikel y Ruiz requieren apoyo para ayudar a un ser querido con cáncer.",
+      "image_url": "https://www.nacion.com/resizer/v2/RAU7M7FR7JDCZDVOTKCCBBS3GY.jpg?auth=c222997a2f162bd96048c27d553ceb70914e412081f5d0b35a4b4dcc40b08ef6&smart=true&width=1179&height=1051",
+      "description": "Carolina Jaikel y Bryan Ruiz tienen un mensaje importante para quienes quieran unirse a la lucha contra el cáncer de alguien especial para ellos.",
+      "featured": false
+    },
+    {
+      "slug": "tres-muertos-en-ataque-de-estados-unidos-a-una-embarcacion-en-el-pacifico-balance-se-eleva-a-185-fallecidos",
+      "title": "Tres muertos en ataque de Estados Unidos a una embarcación en el Pacífico, balance se eleva a 185 fallecidos",
+      "category": "Mundo",
+      "bullets_20s": "• El ataque ocurrió en el Pacífico oriental y generó una gran controversia a nivel internacional.\n• Este incidente se suma a un total de 185 fallecidos en operaciones similares en la región.\n• Organizaciones de derechos humanos critican la falta de pruebas sobre actividades delictivas.\n• La comunidad internacional exige más transparencia en las operaciones militares de EE. UU.\n• Se cuestiona la efectividad de las estrategias implementadas contra el narcotráfico.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/tres-muertos-en-ataque-de-estados-unidos-a-una/QWGHB4NMZVBCJFIC7FWCHXC6DI/story/",
+      "publish_date": "2026-04-27T03:37:35.000Z",
+      "teaser": "Lo clave en 20 segundos: ataque de EE. UU. deja tres muertos, cuestionan efectividad y transparencia.",
+      "image_url": "https://www.nacion.com/resizer/v2/5XKKAIIET5HWRDNV3MX7V2XUOQ.jpg?auth=a9bb2a84bab103a0bed89acdab694fe2f655c285e72e27d310889f405fe829aa&smart=true&width=1024&height=678",
+      "description": "Tres personas murieron en un nuevo ataque de fuerzas estadounidenses contra una embarcación en el Pacífico oriental, una operación que intensifica la polémica por la falta de evidencias sobre narcotráfico y las denuncias de posibles ejecuciones extrajudiciales.",
+      "featured": false
+    },
+    {
+      "slug": "autoridad-electoral-anula-dos-partidos-de-la-oposicion-en-ecuador",
+      "title": "Autoridad electoral anula dos partidos de la oposición en Ecuador",
+      "category": "Mundo",
+      "bullets_20s": "• La anulación de los partidos genera un intenso debate sobre la democracia en Ecuador.\n• Acusaciones de fraude y persecución política rodean la decisión de la autoridad electoral.\n• La situación puede afectar el clima político previo a las elecciones en el país.\n• Organizaciones internacionales están alertando sobre los riesgos a la democracia ecuatoriana.\n• Los ciudadanos cuestionan la transparencia del proceso electoral en Ecuador.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/autoridad-electoral-anula-dos-partidos-de-la/JI2OEPSH6BF4PLJRZU3OSQBXLE/story/",
+      "publish_date": "2026-04-27T03:36:10.000Z",
+      "teaser": "Lo clave en 20 segundos: Anulación de partidos genera polémica y temor por elecciones en Ecuador.",
+      "image_url": "https://www.nacion.com/resizer/v2/YCV6ALCPOJAPRKR5AGCNIMVZN4.jpg?auth=1faaf8f72c50434d93e67061466c3a507823d7dcc3e29389861708733c29e0c4&smart=true&width=5898&height=3937",
+      "description": "El organismo electoral de Ecuador desató una fuerte polémica al eliminar a dos partidos opositores a pocos meses de las elecciones, en medio de acusaciones de persecución política y fraude.",
+      "featured": false
+    },
+    {
+      "slug": "como-la-cortina-de-hierro-digital-esta-creando-descontento-contra-el-gobierno-de-putin-en-rusia",
+      "title": "Cómo la 'cortina de hierro digital' está creando descontento contra el gobierno de Putin en Rusia",
+      "category": "Mundo",
+      "bullets_20s": "• La limitación de internet ha generado un fuerte descontento popular en Rusia.\n• Las autoridades argumentan que busca proteger la seguridad nacional del país.\n• Los ciudadanos expresan su frustración ante las restricciones impuestas.\n• El acceso a información veraz se ha vuelto cada vez más complicado.\n• Expertos analizan el impacto de estas restricciones en la sociedad rusa.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/czd7956pl63o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-27T03:33:00.000Z",
+      "teaser": "Lo clave en 20 segundos: descontento en Rusia por restricciones en internet bajo el gobierno de Putin.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/38f1/live/d8e57b10-3f1f-11f1-b55d-0f258dce1735.jpg",
+      "description": "En toda Rusia, el uso de internet se ha visto seriamente restringido. Las autoridades lo atribuyen a motivos de seguridad nacional. Sin embargo, entre los ciudadanos el descontento por estas limitaciones.",
+      "featured": false
+    },
+    {
       "slug": "la-liga-de-ascenso-suma-tres-clasificados-a-semifinales-y-solo-queda-un-boleto-en-el-aire",
       "title": "La Liga de Ascenso suma tres clasificados a semifinales y solo queda un boleto en el aire",
       "category": "Costa Rica",
-      "bullets_20s": "• La Liga de Ascenso ha mostrado un torneo emocionante con múltiples equipos compitiendo por el título.\n• Tres equipos ya han logrado asegurar su lugar en las semifinales del torneo Clausura.\n• El proceso de clasificación ha generado gran expectativa entre los aficionados del fútbol costarricense.\n• Este lunes se definirá quién será el último clasificado para las semifinales de la Liga.\n• Los partidos han estado llenos de sorpresas y goles, emocionando a los seguidores del fútbol local.",
+      "bullets_20s": "• Tres equipos han llegado ya a las semifinales del torneo de ascenso nacional.\n• El último clasificado será determinado en el transcurso de la semana.\n• El Torneo Clausura se ha mostrado emocionante desde sus inicios.\n• Los aficionados esperan con ansias el desenlace de la competencia.\n• Cada partido ha sido crucial para los equipos que buscan el ascenso.",
       "source_name": "Juan Diego Villarreal",
       "source_url": "https://www.nacion.com/puro-deporte/la-liga-de-ascenso-suma-tres-clasificados-a/NR6G4JLPZZAJLNMVPL7WIIHDRA/story/",
       "publish_date": "2026-04-27T03:24:32.000Z",
-      "teaser": "Lo clave en 20 segundos: La Liga de Ascenso tiene tres semifinalistas, solo falta un boleto por definir.",
+      "teaser": "Lo clave en 20 segundos: tres equipos clasificados a semifinales, un boleto en juego.",
       "image_url": "https://www.nacion.com/resizer/v2/H64NBG42EZHYTGGBHE635KLEKA.jpg?auth=93327c01fcd4026052c954cd19c95cf6e386eb3b26fa9a6e81116da1ae4d2031&smart=true&width=1440&height=1152",
       "description": "El Torneo Clausura de La Liga de Ascenso ya contabiliza a tres semifinalistas y este lunes se conocerá al último invitado.",
       "featured": false
@@ -628,11 +680,11 @@
       "slug": "la-adolescente-que-creo-un-exitoso-negocio-luego-de-que-drogaran-a-una-amiga-con-una-bebida-en-un-bar",
       "title": "La adolescente que creó un exitoso negocio luego de que drogaran a una amiga con una bebida en un bar",
       "category": "Mundo",
-      "bullets_20s": "• Una adolescente transforma una experiencia negativa en una oportunidad empresarial innovadora y exitosa.\n• El caso de Shirah Benarde es un ejemplo inspirador de resiliencia y creatividad juvenil.\n• Su empresa, que nació de una experiencia desafortunada, ahora tiene ventas a nivel mundial.\n• El empoderamiento juvenil se manifiesta en la capacidad de crear soluciones a problemas reales.\n• La historia de Shirah destaca la importancia de la solidaridad y la prevención en situaciones peligrosas.",
+      "bullets_20s": "• Shirah Benarde transformó una experiencia negativa en una oportunidad de negocio brillante.\n• Su invención casera ha generado un impacto significativo en el mercado global.\n• El negocio comenzó tras un incidente trágico en un bar con una amiga.\n• La historia refleja el poder de la innovación y la resiliencia juvenil.\n• Benarde ha logrado alcanzar un amplio reconocimiento con su empresa innovadora.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c5yweekn0z7o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-26T11:06:01.000Z",
-      "teaser": "Lo clave en 20 segundos: Una joven convierte una crisis en una idea de negocio exitosa y global.",
+      "teaser": "Lo clave en 20 segundos: una joven convierte un mal trago en un negocio millonario.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ab52/live/755e8d70-3f15-11f1-9aab-c976736c58b1.jpg",
       "description": "Una invención casera en su adolescencia, le permitió a Shirah Benarde impulsar una empresa millonaria con ventas a nivel global.",
       "featured": false
@@ -1954,11 +2006,11 @@
       "slug": "escuela-de-administracion-de-empresas-del-tec-celebra-50-anos-de-aporte-academico-innovacion-y-desarrollo-nacional",
       "title": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Administración de Empresas del TEC fue creada en 1975 durante un periodo de transformación.\n• Desde su apertura, la escuela ha formado una comunidad de más de tres mil estudiantes en diversas áreas.\n• Su enfoque ha sido la docencia, investigación, e innovación en colaboración con sectores productivos.\n• Celebraron 50 años con un fuerte compromiso hacia la educación de calidad y el emprendimiento.\n• La escuela ha implementado programas de posgrado y ha fomentado el emprendimiento regionalmente.",
+      "bullets_20s": "• La Escuela de Administración de Empresas fue fundada en 1975 en un contexto de cambio global.\n• Su trayectoria se ha caracterizado por la generación de conocimiento y vínculos con el sector productivo.\n• Han formado a más de 3 mil estudiantes a lo largo de cinco décadas de actividad académica.\n• Se han implementado programas de posgrado y especialidades que enriquecen la oferta educativa.\n• La Escuela se ha adaptado a los cambios del entorno y a las necesidades del mercado laboral.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/escuela-administracion-empresas-tec-celebra-50-anos-aporte-academico-innovacion-desarrollo-nacional",
       "publish_date": "2026-04-24T17:32:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebran 50 años de innovación y desarrollo en la Escuela de Administración del TEC.",
+      "teaser": "Lo clave en 20 segundos: La Escuela de Administración del TEC cumple 50 años, formando profesionales y promoviendo la innovación.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/seminario-latinoamericano-incubacion-empresas-innovadoras_2.jpg.webp?itok=ZmZfWtnq",
       "description": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "featured": false
@@ -2318,11 +2370,11 @@
       "slug": "esta-en-riesgo-la-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
       "title": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
       "category": "Costa Rica",
-      "bullets_20s": "• La Cátedra Elizabeth Odio abrió un espacio para reflexionar sobre la autonomía universitaria en Costa Rica.\n• Expertos coinciden en que la defensa de la autonomía es fundamental para el desarrollo democrático.\n• La exrectora de la UCR enfatizó que la autonomía es indispensable para el conocimiento crítico.\n• Los participantes abordaron los desafíos que enfrenta la autonomía ante presiones externas actuales.\n• Se destacó que la comunidad universitaria debe asumir un papel activo en la defensa de este derecho.",
+      "bullets_20s": "• La autonomía universitaria es vital para el desarrollo del pensamiento crítico y libre en las universidades.\n• Se celebró un panel de discusión sobre los desafíos de la autonomía en la educación superior.\n• Representantes académicos y estudiantiles reflexionaron sobre la importancia de defender esta autonomía.\n• El compromiso social de las universidades es esencial para mantener la autonomía universitaria.\n• Los panelistas coincidieron en la necesidad de equilibrar autonomía con responsabilidad institucional.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/esta-riesgo-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
       "publish_date": "2026-04-24T03:41:21.000Z",
-      "teaser": "Lo clave en 20 segundos: La autonomía universitaria es crucial para la democracia y el conocimiento crítico.",
+      "teaser": "Lo clave en 20 segundos: Reflexión sobre la autonomía universitaria en un contexto de exigencias sociales y financieras.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/catedra-5.jpeg.webp?itok=XkE4KYMv",
       "description": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
       "featured": false
@@ -2851,11 +2903,11 @@
       "slug": "tec-y-bac-exploran-alianza-estrategica-para-fortalecer-la-empleabilidad-en-costa-rica",
       "title": "TEC y BAC exploran alianza estratégica para fortalecer la empleabilidad en Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• Ambas instituciones dialogan sobre líneas de colaboración en formación de talento y prácticas profesionales.\n• Buscan articular academia y sector productivo para responder a las demandas del mercado laboral.\n• La rectora del TEC destaca la importancia de acercarse al sector productivo para ampliar oportunidades.\n• El presidente del BAC valora la iniciativa como una oportunidad de co-creación entre las dos organizaciones.\n• Se menciona que el 7% de colaboradores del BAC son graduados del TEC, lo que evidencia una relación consolidada.",
+      "bullets_20s": "• El TEC y BAC se unen para mejorar las oportunidades laborales en Costa Rica.\n• Ambas instituciones discuten oportunidades de formación y prácticas profesionales.\n• La alineación entre academia y sector privado es crucial para el desarrollo.\n• El TEC tiene un 96,5% de empleabilidad en sus graduados, destacando su éxito.\n• La colaboración puede potenciar la inserción laboral de estudiantes graduados.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-bac-exploran-alianza-estrategica-fortalecer-empleabilidad-costa-rica",
       "publish_date": "2026-04-23T15:53:57.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC y BAC buscan fortalecer empleabilidad con nueva alianza en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: TEC y BAC trabajan juntos para mejorar la empleabilidad en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/foto-horizontal-bac-tec-13.04.2026.jpeg.webp?itok=YktGZbtO",
       "description": "TEC y BAC exploran alianza estratégica para fortalecer la empleabilidad en Costa Rica",
       "featured": false
@@ -3280,11 +3332,11 @@
       "slug": "tec-forma-parte-del-pacto-del-agua-para-fortalecer-la-gestion-responsable-sostenible-y-solidaria-del-recurso-hidrico",
       "title": "TEC forma parte del Pacto del agua, para fortalecer la gestión responsable, sostenible y solidaria del recurso hídrico",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC ha impulsado acciones en seguridad hídrica a través de la docencia, investigación y extensión.\n• La firma del Pacto del Agua involucra a entidades públicas, académicas y organizaciones civiles de Costa Rica.\n• Diana Zambrano Piamba representó al TEC en esta firma, reafirmando su compromiso social.\n• El pacto reconoce el acceso al agua potable como un derecho humano fundamental en el país.\n• El TEC ha implementado programas académicos que aportan a la gestión sostenible del recurso hídrico.",
+      "bullets_20s": "• El TEC firma el Pacto del Agua junto a diversas instituciones para fortalecer la gestión del recurso hídrico.\n• Este Pacto busca promover el acceso al agua potable y saneamiento como derechos humanos fundamentales.\n• La ingeniera Diana Zambrano representa al TEC en este acuerdo nacional por la gestión del agua.\n• El compromiso incluye iniciativas de conservación de cuencas y educación sobre el uso responsable del agua.\n• Se destaca la importancia de la coordinación interinstitucional para enfrentar desafíos ambientales.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-forma-parte-pacto-agua-fortalecer-gestion-responsable-sostenible-solidaria-recurso-hidrico",
       "publish_date": "2026-04-22T22:14:53.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC se une al Pacto del Agua para promover la gestión sostenible del recurso hídrico.",
+      "teaser": "Lo clave en 20 segundos: El TEC se une al Pacto del Agua para promover la gestión responsable del agua en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/pacto-agua-tec-1.jpg.webp?itok=F0JZgm8h",
       "description": "TEC forma parte del Pacto del agua, para fortalecer la gestión responsable, sostenible y solidaria del recurso hídrico",
       "featured": false
@@ -3306,13 +3358,13 @@
       "slug": "tec-abre-maestria-en-analitica-de-negocios-conozca-de-que-trata-y-cuando-inicia",
       "title": "TEC abre Maestría en Analítica de Negocios. Conozca de qué trata y cuándo inicia",
       "category": "Costa Rica",
-      "bullets_20s": "• La Maestría en Analítica de Negocios comienza en octubre de 2026 en el TEC.\n• Las solicitudes estarán abiertas hasta el 17 de julio de 2026 para interesados.\n• El programa dura dos años y ofrece formación en análisis de datos y Big Data.\n• Los cursos incluyen metodologías como Programación y Visualización de Datos.\n• Se ofrecerán cursos nivelatorios para preparar a los estudiantes con distintos perfiles.",
+      "bullets_20s": "• La Maestría en Analítica de Negocios del TEC da inicio en octubre de 2026, con matriculas abiertas.\n• Diseñada para profesionales de diversas disciplinas, enfocándose en análisis de datos y Big Data.\n• El programa incluye cursos como Programación para Analítica y Visualización de Datos, entre otros.\n• Se ofrecerán cursos nivelatorios en matemáticas y programación antes del inicio del curso.\n• Las inscripciones están abiertas hasta el 17 de julio, con un proceso de admisión bien definido.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-abre-maestria-analitica-negocios-conozca-trata-cuando-inicia",
       "publish_date": "2026-04-22T20:07:57.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC lanza una nueva maestría en analítica de negocios para diversos perfiles profesionales.",
+      "teaser": "Lo clave en 20 segundos: TEC lanza nueva Maestría en Analítica de Negocios, inscripciones abiertas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/analitica.jpg.webp?itok=LTn_wHYC",
-      "description": "TEC abre Maestría en Analítica de Negocios. Conozca de qué trata y cuándo inicia",
+      "description": "El programa de Maestría en Analítica de Negocios del TEC inicia en octubre, dirigido a profesionales en varias áreas.",
       "featured": false
     },
     {
@@ -3407,5 +3459,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-27T03:45:36.403Z"
+  "generated_at": "2026-04-27T04:45:29.883Z"
 }
