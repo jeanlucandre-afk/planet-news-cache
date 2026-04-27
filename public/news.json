@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "que-beneficios-tiene-beber-agua-tibia-segun-la-medicina-tradicional-china-y-que-dice-la-ciencia-ante-la-renovada-moda",
+      "title": "Qué beneficios tiene beber agua tibia según la medicina tradicional china (y qué dice la ciencia ante la renovada moda)",
+      "category": "Ciencia",
+      "bullets_20s": "• La medicina tradicional china promueve el consumo de agua tibia para la salud digestiva y el bienestar.\n• Se considera que el agua caliente puede ayudar a mejorar la circulación y eliminar toxinas.\n• Aumenta la temperatura corporal, lo cual puede favorecer la digestión en la mañana.\n• La tendencia 'Chinamaxxing' ha popularizado el consumo de agua tibia entre varias personas.\n• Existen estudios que sugieren beneficios, pero se necesita más investigación científica al respecto.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/czx9q5pxz49o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-27T10:18:16.000Z",
+      "teaser": "Lo clave en 20 segundos: La tendencia de beber agua tibia para mejorar la salud se investiga desde la medicina tradicional.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b160/live/24c9c400-4222-11f1-b1fb-7beaa4094668.jpg",
+      "description": "Beber agua caliente por la mañana se ha vuelto viral en internet como parte de la tendencia 'Chinamaxxing', pero ¿puede este hábito centenario mejorar realmente la salud?",
+      "featured": false
+    },
+    {
       "slug": "como-las-teorias-conspirativas-que-rodean-la-muerte-o-desaparicion-de-10-cientificos-de-renombre-en-eeuu-estan-afectando",
       "title": "Cómo las teorías conspirativas que rodean la muerte o desaparición de 10 científicos de renombre en EE.UU. están afectando a sus familias",
-      "category": "Ciencia",
-      "bullets_20s": "• Investigaciones sensibles han llevado a la muerte o desaparición de varios científicos en EE. UU.\n• Las teorías conspirativas afectan las vidas de las familias de los científicos relacionados.\n• El impacto emocional en las familias es significativo y prolongado debido a estas teorías.\n• Las redes sociales han amplificado los rumores y especulaciones sobre estas muertes.\n• Los científicos a menudo trabajan en temas que generan controversia y misterio en la sociedad.",
+      "category": "Mundo",
+      "bullets_20s": "• Las teorías conspirativas a menudo generan desconfianza hacia las instituciones científicas y gubernamentales.\n• Los familiares de los científicos enfrentan un doble dolor por la pérdida y la desinformación.\n• Las redes sociales amplifican estas teorías, creando narrativas que desvirtúan la realidad.\n• La confusión genera un impacto emocional en los seres queridos de los científicos fallecidos.\n• La creencia en teorías conspirativas puede afectar la búsqueda de justicia por esas muertes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c0q9j0433e8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-27T09:26:39.000Z",
-      "teaser": "Lo clave en 20 segundos: Las teorías conspirativas inquietan a las familias de científicos desaparecidos en EE. UU.",
+      "teaser": "Lo clave en 20 segundos: Las teorías conspirativas afectan a familias de científicos fallecidos en EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/a27a/live/ec50a630-3fcd-11f1-ac78-2112837ce2aa.jpg",
       "description": "Las teorías conspirativas se han desatado en línea tras la muerte o desaparición de al menos 10 personas vinculadas a investigaciones sensibles de Estados Unidos.",
       "featured": false
@@ -17,11 +30,11 @@
       "slug": "sospechoso-de-disparar-en-gala-donde-estaba-donald-trump-comparece-ante-la-justicia-este-lunes",
       "title": "Sospechoso de disparar en gala donde estaba Donald Trump comparece ante la justicia este lunes",
       "category": "Mundo",
-      "bullets_20s": "• Un hombre armado intentó ingresar a una gala donde se encontraba el presidente Donald Trump.\n• Las autoridades han tomado medidas de seguridad extremas en eventos con dignatarios.\n• El individuo fue detenido antes de causar un daño mayor durante la gala.\n• La situación ha generado preocupación sobre la seguridad de eventos públicos importantes.\n• Se están realizando investigaciones sobre las intenciones detrás de la acción del sospechoso.",
+      "bullets_20s": "• Un sospechoso ha comparecido ante la justicia por un incidente en una gala reciente.\n• La gala en cuestión fue atendida por figuras de alto perfil, incluido Donald Trump.\n• La seguridad en eventos de alto perfil es un tema delicado y relevante en estos tiempos.\n• Este evento ha generado un gran interés mediático por las implicaciones de seguridad.\n• Los detalles de la situación han sido cubiertos extensamente por medios internacionales.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/el-mundo/sospechoso-de-disparar-en-gala-donde-estaba-donald/AJ43IEZRPVEOPAJYBGCJCKHCPM/story/",
       "publish_date": "2026-04-27T05:08:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Un sospechoso armado intentó acceder a una gala con Trump.",
+      "teaser": "Lo clave en 20 segundos: Un sospechoso en un incidente armado en una gala clave enfrenta a la justicia.",
       "image_url": "https://www.nacion.com/resizer/v2/5HJ5UBVZTBGCXGGRIE4NM5H5IE.jpg?auth=a3e2fbf0bdb5fdfa4a85d847a6ba3c19318557dff81529ff1e0df6e3729dd337&smart=true&width=1170&height=878",
       "description": "El hombre identificado por medios como Cole Tomas Allen, habría intentado acceder armado a una gala en la que participaban altos funcionarios y el propio presidente Trump.",
       "featured": false
@@ -30,24 +43,24 @@
       "slug": "tonelada-y-media-de-sedimento-minero-es-decomisada-tras-vuelco-de-vehiculo-conductor-sobrevive-y-queda-hospitalizado-en-",
       "title": "Tonelada y media de sedimento minero es decomisada tras vuelco de vehículo; conductor sobrevive y queda hospitalizado en Los Chiles",
       "category": "Costa Rica",
-      "bullets_20s": "• Un vuelco en la frontera norte reveló un transporte ilegal de sedimento minero en Costa Rica.\n• La Fuerza Pública decomisó tonelada y media de sedimento minero durante la operación.\n• El conductor del vehículo sufrió heridas y fue trasladado a un centro médico cercano.\n• El incidente ocurrió en las primeras horas de la madrugada en Los Chiles.\n• Las autoridades destacaron la importancia de combatir el transporte ilegal de minerales.",
+      "bullets_20s": "• Un vehículo volcó en la frontera norte de Costa Rica durante la madrugada.\n• La Fuerza Pública decomisó tonelada y media de sedimento minero del accidente.\n• El conductor quedó atrapado en el vehículo y sufrió heridas graves.\n• Se realizaron labores de rescate para trasladarlo a un centro médico.\n• Este incidente evidencia el problema del transporte ilegal de recursos minerales.",
       "source_name": "Libia Solano Meza",
       "source_url": "https://www.nacion.com/sucesos/tonelada-y-media-de-sedimento-minero-es-decomisada/NVWO3366AZGYBK7Z7JZOTAMIJM/story/",
       "publish_date": "2026-04-27T04:56:26.000Z",
-      "teaser": "Lo clave en 20 segundos: Un vuelco en Los Chiles revela sedimento minero ilegal y deja al conductor herido.",
+      "teaser": "Lo clave en 20 segundos: incidente revela transporte ilegal de sedimento minero en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/PL5ZG4XCTJBLXNWOHAPWBEU2OY.jpeg?auth=0dfeda2e0209b5e05e22e51fd3f6b55756e17d68d749b1e07633383368d54702&smart=true&width=1600&height=720",
-      "description": "Un aparatoso vuelco ocurrido en plena madrugada en la frontera norte dejó al descubierto el transporte ilegal de aproximadamente tonelada y media de sedimento minero, luego de que la Fuerza Pública decomisara el cargamento en el cantón de Los Chiles, donde el conductor del vehículo quedó prensado y tuvo que ser trasladado en condición delicada a un centro médico.",
+      "description": "Un aparatoso vuelco ocurrió en plena madrugada en la frontera norte dejando al descubierto el transporte ilegal de sedimento minero.",
       "featured": false
     },
     {
       "slug": "carolina-jaikel-y-bryan-ruiz-piden-ayuda-con-el-corazon-en-la-mano",
       "title": "Carolina Jaikel y Bryan Ruiz piden ayuda con el corazón en la mano",
       "category": "Costa Rica",
-      "bullets_20s": "• Carolina Jaikel y Bryan Ruiz promueven una campaña para ayudar en la lucha contra el cáncer.\n• Ambos deportistas hacen un llamado a la solidaridad en tiempos difíciles.\n• La campaña busca recaudar fondos y apoyo para quienes lo necesiten.\n• El mensaje enfatiza la importancia de la comunidad y el apoyo mutuo.\n• Se invitan a todos a participar en la lucha contra esta enfermedad devastadora.",
+      "bullets_20s": "• Carolina Jaikel y Bryan Ruiz lanzan un emotivo llamado a la comunidad para ayudar.\n• La pareja busca apoyo en su lucha contra el cáncer que afecta a un ser querido.\n• Es importante unir esfuerzos en la batalla contra esta enfermedad devastadora.\n• Los mensajes de esperanza y solidaridad son clave en la lucha contra el cáncer.\n• Jaikel y Ruiz han tocado el corazón de muchos con su petición sincera.",
       "source_name": "Fanny Tayver Marín, Juan Pablo Sanabria",
       "source_url": "https://www.nacion.com/puro-deporte/carolina-jaikel-y-bryan-ruiz-piden-ayuda-con-el/4CSAWCD2ZRHZHMC3Q7E7F55K6Y/story/",
       "publish_date": "2026-04-27T04:26:09.000Z",
-      "teaser": "Lo clave en 20 segundos: Carolina y Bryan unen fuerzas para apoyar la lucha contra el cáncer.",
+      "teaser": "Lo clave en 20 segundos: Carolina Jaikel y Bryan Ruiz piden apoyo en la lucha contra el cáncer.",
       "image_url": "https://www.nacion.com/resizer/v2/RAU7M7FR7JDCZDVOTKCCBBS3GY.jpg?auth=c222997a2f162bd96048c27d553ceb70914e412081f5d0b35a4b4dcc40b08ef6&smart=true&width=1179&height=1051",
       "description": "Carolina Jaikel y Bryan Ruiz tienen un mensaje importante para quienes quieran unirse a la lucha contra el cáncer de alguien especial para ellos.",
       "featured": false
@@ -56,37 +69,37 @@
       "slug": "tres-muertos-en-ataque-de-estados-unidos-a-una-embarcacion-en-el-pacifico-balance-se-eleva-a-185-fallecidos",
       "title": "Tres muertos en ataque de Estados Unidos a una embarcación en el Pacífico, balance se eleva a 185 fallecidos",
       "category": "Mundo",
-      "bullets_20s": "• El número de fallecidos en el ataque ha aumentado, generando preocupación en diversas comunidades.\n• La operación de fuerzas estadounidenses ha intensificado el debate sobre la eficacia de su estrategia.\n• Organizaciones de derechos humanos han denunciado posibles ejecuciones extrajudiciales en estos ataques.\n• La falta de evidencias sobre narcotráfico ha llevado a cuestionamientos sobre estos operativos militares.\n• El contexto político en la región influye en la percepción de estas acciones militares estadounidenses.",
+      "bullets_20s": "• Las fuerzas estadounidenses realizan operaciones en el Pacífico oriental desde hace varios años.\n• El ataque ha generado controversia por la falta de justificación adecuada.\n• Los críticos advierten sobre posibles violaciones de derechos humanos durante estas operaciones.\n• El número total de fallecidos en estos incidentes ha aumentado significativamente.\n• Se cuestiona la efectividad de estas acciones en la lucha contra el narcotráfico.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/el-mundo/tres-muertos-en-ataque-de-estados-unidos-a-una/QWGHB4NMZVBCJFIC7FWCHXC6DI/story/",
       "publish_date": "2026-04-27T03:37:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Un ataque estadounidense en el Pacífico deja tres muertos y crece la controversia.",
+      "teaser": "Lo clave en 20 segundos: tres muertos en ataque de EE. UU. en el Pacífico elevan las tensiones.",
       "image_url": "https://www.nacion.com/resizer/v2/5XKKAIIET5HWRDNV3MX7V2XUOQ.jpg?auth=a9bb2a84bab103a0bed89acdab694fe2f655c285e72e27d310889f405fe829aa&smart=true&width=1024&height=678",
-      "description": "Tres personas murieron en un nuevo ataque de fuerzas estadounidenses contra una embarcación en el Pacífico oriental.",
+      "description": "Tres personas murieron en un nuevo ataque de fuerzas estadounidenses contra una embarcación en el Pacífico oriental, una operación que intensifica la polémica por la falta de evidencias sobre narcotráfico y las denuncias de posibles ejecuciones extrajudiciales.",
       "featured": false
     },
     {
       "slug": "autoridad-electoral-anula-dos-partidos-de-la-oposicion-en-ecuador",
       "title": "Autoridad electoral anula dos partidos de la oposición en Ecuador",
       "category": "Mundo",
-      "bullets_20s": "• La anulación de partidos en Ecuador genera reacciones fuertes entre la ciudadanía y la oposición política.\n• Se teme que esta decisión afecte la democracia y el panorama electoral del país sudamericano.\n• Las acusaciones de fraude y persecución política han sido constantes en el entorno electoral ecuatoriano.\n• El contexto electoral se complica a pocos meses de las elecciones presidenciales y legislativas.\n• El organismo electoral se defiende, afirmando que actuó conforme a sus regulaciones internas y legales.\n• Observadores internacionales están atentos a cómo se desarrolla este incidente y sus consecuencias.",
+      "bullets_20s": "• Ecuador vive una creciente crisis política con decisiones impopulares que generan controversia entre la ciudadanía.\n• Los partidos anulados eran críticos del gobierno actual, lo que aumenta la percepción de autoritarismo en el país.\n• Acusaciones de fraude electoral acaparan la atención de líderes y analistas políticos en América Latina.\n• Las elecciones ecuatorianas están programadas para dentro de pocos meses, lo que intensifica la tensión política.\n• La comunidad internacional observa con preocupación la situación política y los derechos democráticos en Ecuador.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/el-mundo/autoridad-electoral-anula-dos-partidos-de-la/JI2OEPSH6BF4PLJRZU3OSQBXLE/story/",
       "publish_date": "2026-04-27T03:36:10.000Z",
-      "teaser": "Lo clave en 20 segundos: La anulación de partidos en Ecuador provoca polémica electoral y acusaciones de fraude.",
+      "teaser": "Lo clave en 20 segundos: Ecuador anula dos partidos opositores, desatando polémica a meses de elecciones.",
       "image_url": "https://www.nacion.com/resizer/v2/YCV6ALCPOJAPRKR5AGCNIMVZN4.jpg?auth=1faaf8f72c50434d93e67061466c3a507823d7dcc3e29389861708733c29e0c4&smart=true&width=5898&height=3937",
       "description": "El organismo electoral de Ecuador desató una fuerte polémica al eliminar a dos partidos opositores a pocos meses de las elecciones, en medio de acusaciones de persecución política y fraude.",
       "featured": false
     },
     {
       "slug": "como-la-cortina-de-hierro-digital-esta-creando-descontento-contra-el-gobierno-de-putin-en-rusia",
-      "title": "Cómo la \"cortina de hierro digital\" está creando descontento contra el gobierno de Putin en Rusia",
+      "title": "Cómo la 'cortina de hierro digital' está creando descontento contra el gobierno de Putin en Rusia",
       "category": "Mundo",
-      "bullets_20s": "• La restricción de internet en Rusia se asocia con motivos de seguridad nacional y control social.\n• Los ciudadanos rusos sienten un creciente descontento hacia las limitaciones impuestas por el gobierno.\n• La 'cortina de hierro digital' afecta el acceso a la información en línea de manera drástica.\n• Activistas y ciudadanos luchan por recuperar su libertad de acceso a Internet en el país.\n• El descontento social puede provocar protestas contra las políticas restrictivas del gobierno.",
+      "bullets_20s": "• La 'cortina de hierro digital' limita severamente el acceso a internet en Rusia.\n• Las autoridades rusas justifican estas restricciones en nombre de la seguridad nacional.\n• El descontento ciudadano ha ido en aumento debido a estas limitaciones en internet.\n• Activistas y organismos internacionales critican las políticas del gobierno ruso.\n• Existen protestas en múltiples ciudades en contra de estas restricciones.\n• La libertad de expresión se ve amenazada en el entorno digital en Rusia.\n• Los ciudadanos utilizan herramientas y VPNs para eludir censuras impuestas.\n• La desinformación se propaga más fácilmente en un entorno controlado digitalmente.\n• Se teme que estas acciones puedan extenderse a otros países del mundo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/czd7956pl63o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-27T03:33:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Internet restringido en Rusia genera descontento con el gobierno de Putin.",
+      "teaser": "Lo clave en 20 segundos: Restricciones digitales en Rusia generan descontento ciudadano y protestas masivas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/38f1/live/d8e57b10-3f1f-11f1-b55d-0f258dce1735.jpg",
       "description": "En toda Rusia, el uso de internet se ha visto seriamente restringido. Las autoridades lo atribuyen a motivos de seguridad nacional. Sin embargo, entre los ciudadanos el descontento por estas limitaciones.",
       "featured": false
@@ -2045,11 +2058,11 @@
       "slug": "escuela-de-administracion-de-empresas-del-tec-celebra-50-anos-de-aporte-academico-innovacion-y-desarrollo-nacional",
       "title": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Administración de Empresas del TEC ha formado profesionales durante cinco décadas de historia.\n• Desde su creación, ha evolucionado con el enfoque en la docencia y la investigación.\n• La expansión regional ha permitido el acceso a estudiantes en distintas partes del país.\n• Se han implementado programas de posgrado y educación continua para mayor capacitación.\n• La escuela se ha vinculado con el sector empresarial para fomentar la innovación y el emprendimiento.",
+      "bullets_20s": "• La Escuela de Administración de Empresas del TEC celebra 50 años de formación académica y profesional en Costa Rica.\n• Desde 1975, la escuela ha evolucionado con programas de licenciatura y posgrado adaptados a las necesidades del mercado.\n• Iniciativas como el Tec Emprendelab fomentan el emprendimiento y la innovación en la comunidad estudiantil.\n• Durante cinco décadas, se han establecido vínculos con el sector productivo para fortalecer la educación superior.\n• La escuela ha obtenido múltiples acreditaciones, destacando su compromiso con la calidad educativa y la excelencia.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/escuela-administracion-empresas-tec-celebra-50-anos-aporte-academico-innovacion-desarrollo-nacional",
       "publish_date": "2026-04-24T17:32:23.000Z",
-      "teaser": "Lo clave en 20 segundos: la Escuela del TEC celebra 50 años de formación y desarrollo nacional.",
+      "teaser": "Lo clave en 20 segundos: Celebramos 50 años de innovación y desarrollo en la Escuela de Administración del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/seminario-latinoamericano-incubacion-empresas-innovadoras_2.jpg.webp?itok=ZmZfWtnq",
       "description": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "featured": false
@@ -2406,19 +2419,6 @@
       "featured": false
     },
     {
-      "slug": "esta-en-riesgo-la-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
-      "title": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
-      "category": "Costa Rica",
-      "bullets_20s": "• La Cátedra Elizabeth Odio Benito busca analizar la autonomía universitaria en Costa Rica.\n• Panelistas de diversas áreas reflexionaron sobre la importancia de la autonomía universitaria.\n• Se resaltó que la autonomía es clave para el desarrollo del conocimiento sin presiones externas.\n• Expertos coinciden en que la autonomía universitaria debe ser defendida por la comunidad académica.\n• La relación entre las universidades y la sociedad requiere un equilibrio constante en la autonomía.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/esta-riesgo-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
-      "publish_date": "2026-04-24T03:41:21.000Z",
-      "teaser": "Lo clave en 20 segundos: La autonomía universitaria es esencial para el desarrollo del pensamiento crítico.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/catedra-5.jpeg.webp?itok=XkE4KYMv",
-      "description": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
-      "featured": false
-    },
-    {
       "slug": "estudiantes-de-ucr-denuncian-que-rector-convoco-manifestacion-en-su-favor-y-llaman-a-contramarcha-rectoria-lo-niega",
       "title": "Estudiantes de UCR denuncian que rector convocó manifestación en su favor y llaman a contramarcha; Rectoría lo niega",
       "category": "Costa Rica",
@@ -2572,6 +2572,19 @@
       "teaser": "Lo clave en 20 segundos: La cocaína en el agua altera el comportamiento del salmón en su hábitat natural.",
       "image_url": "https://www.nacion.com/resizer/v2/ZUTL5Y7PCFEHLMR3T5XGNFQ2RY.png?auth=998b59994b01a5c5c536367487fcd574eb73b99c231a74d461756283b0893fe4&smart=true&width=1138&height=758",
       "description": "Una investigación revela que contaminantes derivados de la cocaína cambian el movimiento y la distribución del salmón en ecosistemas naturales.",
+      "featured": false
+    },
+    {
+      "slug": "esta-en-riesgo-la-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
+      "title": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
+      "category": "Ciencia",
+      "bullets_20s": "• Panelistas del TEC analizaron la situación actual de la autonomía universitaria en contextos críticos.\n• La exrectora de UCR enfatizó que la autonomía es clave para el desarrollo del pensamiento crítico.\n• La jornada abrió un debate sobre las presiones que enfrentan las universidades en el país.\n• Desde el TEC, se destacó la necesidad de balances entre autonomía y responsabilidad social universitarias.\n• Todos los participantes coincidieron en la defensa de la autonomía como un tema esencial para la democracia.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/esta-riesgo-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
+      "publish_date": "2026-04-23T21:41:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Discusión sobre la importancia de la autonomía universitaria en Costa Rica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/catedra-5.jpeg.webp?itok=XkE4KYMv",
+      "description": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
       "featured": false
     },
     {
@@ -2942,13 +2955,13 @@
       "slug": "tec-y-bac-exploran-alianza-estrategica-para-fortalecer-la-empleabilidad-en-costa-rica",
       "title": "TEC y BAC exploran alianza estratégica para fortalecer la empleabilidad en Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC y BAC buscan crear oportunidades para transformar la educación en el país.\n• El encuentro se realizó en el Campus Tecnológico Central de Cartago.\n• Ambas instituciones dialogaron sobre fortalecer la formación de talento profesional.\n• Prácticas y empleabilidad serán dos ejes prioritarios de la colaboración.\n• El TEC tiene una tasa de empleabilidad de un 96.5% en sus graduados.\n• Ferias de empleabilidad impulsadas por el TEC promueven habilidades clave.\n• El BAC colabora con egresados de carreras como Ingeniería y Administración.\n• La alianza apunta a impulsar el desarrollo económico de Costa Rica.\n• La vinculación entre academia y sector productivo es esencial en este proceso.",
+      "bullets_20s": "• El TEC y BAC Credomatic se reunieron para discutir una alianza estratégica importante en Costa Rica.\n• El objetivo principal es fortalecer la empleabilidad del talento graduado del Tecnológico de Costa Rica.\n• La colaboración incluye formación de talento y prácticas profesionales en el sector productivo.\n• Se busca mejorar la articulación entre la academia y las empresas para enfrentar desafíos laborales.\n• El TEC posee una alta tasa de empleabilidad de sus graduados, cercana al 96,5%.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-bac-exploran-alianza-estrategica-fortalecer-empleabilidad-costa-rica",
       "publish_date": "2026-04-23T15:53:57.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC y BAC buscan una alianza para mejorar la empleabilidad en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: alianza entre TEC y BAC para potenciar empleabilidad en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/foto-horizontal-bac-tec-13.04.2026.jpeg.webp?itok=YktGZbtO",
-      "description": "TEC y BAC exploran alianza para fortalecer la empleabilidad en Costa Rica",
+      "description": "TEC y BAC exploran alianza estratégica para fortalecer la empleabilidad en Costa Rica",
       "featured": false
     },
     {
@@ -3371,13 +3384,13 @@
       "slug": "tec-forma-parte-del-pacto-del-agua-para-fortalecer-la-gestion-responsable-sostenible-y-solidaria-del-recurso-hidrico",
       "title": "TEC forma parte del Pacto del agua, para fortalecer la gestión responsable, sostenible y solidaria del recurso hídrico",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC se une al Pacto del Agua para mejorar la gestión hídrica en Costa Rica.\n• Diana Zambrano representa al TEC en la firma de este importante acuerdo nacional.\n• El pacto promueve la gestión sostenible del recurso hídrico y el acceso al agua.\n• El TEC ha trabajado en programas como Ingeniería Ambiental para abordar estos temas.\n• Este acuerdo busca coordinar acciones entre diversas entidades y la sociedad civil.",
+      "bullets_20s": "• El TEC fortalecerá la gestión y uso responsable del recurso hídrico en Costa Rica y más allá.\n• Este pacto busca garantizar el acceso al agua como un derecho humano fundamental y esencial.\n• Las instituciones firmantes trabajarán en conjunto para abordar desafíos relacionados con el agua.\n• Diana Zambrano, del TEC, representa a la institución en esta importante iniciativa nacional.\n• El Pacto del Agua incluye a diversas entidades del gobierno y organizaciones civiles en su compromiso.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-forma-parte-pacto-agua-fortalecer-gestion-responsable-sostenible-solidaria-recurso-hidrico",
       "publish_date": "2026-04-22T22:14:53.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC se une al Pacto del Agua para fortalecer la gestión hídrica en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El TEC se une al Pacto del Agua para promover la gestión sostenible del recurso hídrico.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/pacto-agua-tec-1.jpg.webp?itok=F0JZgm8h",
-      "description": "TEC forma parte del Pacto del agua, para fortalecer la gestión responsable, sostenible y solidaria del recurso hídrico.",
+      "description": "TEC forma parte del Pacto del agua, para fortalecer la gestión responsable, sostenible y solidaria del recurso hídrico",
       "featured": false
     },
     {
@@ -3396,12 +3409,12 @@
     {
       "slug": "tec-abre-maestria-en-analitica-de-negocios-conozca-de-que-trata-y-cuando-inicia",
       "title": "TEC abre Maestría en Analítica de Negocios. Conozca de qué trata y cuándo inicia",
-      "category": "Ciencia",
-      "bullets_20s": "• El TEC lanza una nueva Maestría en Analítica de Negocios para formar profesionales en análisis de datos.\n• Las solicitudes están abiertas hasta el 17 de julio; las clases comienzan el 5 de octubre de 2026.\n• El programa tiene una duración de 8 trimestres y está diseñado para diversas áreas profesionales.\n• Incluirá cursos nivelatorios en matemáticas y programación para asegurar una sólida base a los estudiantes.\n• Los egresados podrán laborar en roles de alta demanda en sectores tanto públicos como privados.\n• El currículo incluye 14 cursos, abarcando desde análisis exploratorio a inteligencia de negocios.\n• La metodología del programa se basa en un enfoque práctico, resolviendo problemas de la vida real.\n• La Maestría busca enriquecer el talento humano ante la creciente demanda del análisis de datos.\n• Los postulantes deben poseer un nivel B1 de inglés y preferiblemente experiencia previa en análisis.\n• La maestría se ofrece de manera presencial con opción a formatos híbridos según la demanda.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Tecnológico de Costa Rica lanza una nueva Maestría en Analítica de Negocios en respuesta a la demanda.\n• Las solicitudes están abiertas hasta el 17 de julio; las clases comienzan el 5 de octubre.\n• El programa tiene una duración de 8 trimestres y combina enfoques técnicos y estratégicos.\n• Los candidatos deben tener un grado en áreas afines y un nivel de inglés B1 como mínimo.\n• Se ofrecerán cursos nivelatorios en matemáticas y programación para facilitar la integración.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-abre-maestria-analitica-negocios-conozca-trata-cuando-inicia",
       "publish_date": "2026-04-22T20:07:57.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC inicia una Maestría en Analítica de Negocios en octubre de 2026.",
+      "teaser": "Lo clave en 20 segundos: TEC lanza Maestría en Analítica de Negocios con inicio en octubre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/analitica.jpg.webp?itok=LTn_wHYC",
       "description": "TEC abre Maestría en Analítica de Negocios. Conozca de qué trata y cuándo inicia",
       "featured": false
@@ -3498,5 +3511,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-27T09:45:44.931Z"
+  "generated_at": "2026-04-27T10:45:29.959Z"
 }
