@@ -1,16 +1,68 @@
 {
   "news": [
     {
+      "slug": "freddy-alvarez-y-su-esposa-volveran-a-ser-padres",
+      "title": "Freddy Álvarez y su esposa volverán a ser padres",
+      "category": "Costa Rica",
+      "bullets_20s": "• Freddy Álvarez y su esposa comparten la alegría de esperar otro hijo pronto.\n• La noticia llega tras un periodo difícil para la familia Álvarez.\n• El futbolista expresa gratitud por el apoyo recibido en momentos difíciles.\n• La comunidad futbolística reacciona positivamente ante la nueva noticia.\n• La llegada del nuevo bebé representa un nuevo comienzo para la familia.",
+      "source_name": "Esteban Valverde, Fanny Tayver Marín",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/freddy-alvarez-y-su-esposa-volveran-a-ser-padres/ZNKOYXMM5RBNVDF7TOX2W6AYXI/story/",
+      "publish_date": "2026-04-28T00:45:39.000Z",
+      "teaser": "Lo clave en 20 segundos: Freddy Álvarez y su esposa anuncian que serán padres nuevamente.",
+      "image_url": "https://www.nacion.com/resizer/v2/DBRWVDE7IVBYZK2VX2AXIYNPHU.jpg?auth=75a89bf2a9265bd709e281a08e49535dec0ce5b8aab692f299683b0a5e4c075e&smart=true&width=1440&height=1079",
+      "description": "Freddy Álvarez y su familia recibieron un anuncio que da alegría después de una tragedia.",
+      "featured": false
+    },
+    {
+      "slug": "banco-nacional-penalizara-a-clientes-por-tener-menos-de-25000-en-la-cuenta-vea-las-excepciones",
+      "title": "Banco Nacional penalizará a clientes por tener menos de ¢25.000 en la cuenta: vea las excepciones",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Banco Nacional implementará una nueva medida relacionada con el saldo mínimo en cuentas.\n• Clientes con menos de ¢25.000 sufrirán penalizaciones a partir del 1.º de mayo.\n• Se establecerán excepciones que podrían beneficiar a ciertos clientes de la entidad.\n• La penalización es parte de nuevas políticas para mejorar la gestión financiera.\n• Es importante que los clientes revisen sus saldos para evitar cargos adicionales.",
+      "source_name": "Luis Enrique Brenes",
+      "source_url": "https://www.nacion.com/economia/banco-nacional-penalizara-a-clientes-por-tener/3Y7NMXNW55FQXNAQ4CCTSLCAUA/story/",
+      "publish_date": "2026-04-28T00:33:50.000Z",
+      "teaser": "Lo clave en 20 segundos: El Banco Nacional penalizará a clientes con menos de ¢25.000 en cuentas.",
+      "image_url": "https://www.nacion.com/resizer/v2/3SST744MGRE4VFTTMCHPUWN3LY.jpg?auth=df098157d414e9a06f5d776a91d210e420de4e409a5ecc6022221a3914d009a7&smart=true&width=4000&height=2667",
+      "description": "El Banco Nacional indicó que la medida comenzará a aplicarse a partir de este viernes 1.º de mayo",
+      "featured": false
+    },
+    {
       "slug": "magistrado-fernando-cruz-acusa-a-rodrigo-chaves-de-buscar-jueces-y-fiscales-mas-comprensivos-y-menos-incomodos",
       "title": "Magistrado Fernando Cruz acusa a Rodrigo Chaves de buscar jueces y fiscales ‘más comprensivos y menos incómodos’",
       "category": "Costa Rica",
-      "bullets_20s": "• El magistrado Fernando Cruz realizó acusaciones serias contra el presidente Rodrigo Chaves.\n• Se menciona una reforma judicial que busca jueces más flexibles y complacientes.\n• Los comentarios de Chaves han generado un fuerte debate en el ámbito legal costarricense.\n• Cruz defendió la independencia del poder judicial ante los ataques del presidente.\n• La situación actual resalta la tensión entre el Ejecutivo y el Poder Judicial en Costa Rica.",
+      "bullets_20s": "• Fernando Cruz critica públicamente la postura del presidente Rodrigo Chaves sobre la reforma judicial en Costa Rica.\n• El magistrado menciona que se busca un cambio de jueces y fiscales que sean más tolerantes con el poder.\n• Los ataques verbales entre Chaves y Aguirre desencadenan un debate sobre la independencia judicial en el país.\n• Cruz advierte sobre las implicaciones de tener un sistema judicial menos riguroso y más complaciente.\n• La relación entre el poder ejecutivo y judicial podría verse afectada por esta controversia pública.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/politica/magistrado-fernando-cruz-acusa-a-rodrigo-chaves-de/ZVJBHH47NRDKTG6NDA6UVGYQI4/story/",
       "publish_date": "2026-04-28T00:23:39.000Z",
-      "teaser": "Lo clave en 20 segundos: Magistrado advierte sobre cambios en la postura judicial del país.",
+      "teaser": "Lo clave en 20 segundos: Fernando Cruz critica a Chaves por buscar jueces más complacientes en la reforma judicial.",
       "image_url": "https://www.nacion.com/resizer/v2/ZRHC54AYBNG4VP2Q6NVEXDKCPI.jpg?auth=f57fd60c7037ff361fed56bf673ff30caaed90ea90bf73a3de54445cabe79583&smart=true&width=3000&height=2000",
       "description": "Tras los ataques verbales de Rodrigo Chaves a Orlando Aguirre, el magistrado Fernando Cruz dijo que la reforma judicial busca jueces y fiscales 'más comprensivos y menos incómodos'.",
+      "featured": false
+    },
+    {
+      "slug": "nogui-acosta-adelanta-como-abordarian-el-tema-del-incremento-del-fees-2027-en-la-asamblea-legislativa",
+      "title": "Nogui Acosta adelanta cómo abordarían el tema del incremento del FEES 2027 en la Asamblea Legislativa",
+      "category": "Costa Rica",
+      "bullets_20s": "• Nogui Acosta propone cambios en el manejo del FEES para el 2027 en la Asamblea Legislativa.\n• El Fondo Especial para la Educación Superior afecta a diversas instituciones educativas del país.\n• La iniciativa busca fortalecer la educación superior a través de un aumento en la financiación.\n• Acosta se enfoca en el papel del Estado en la inversión educativa y sus responsabilidades.\n• Las discusiones se centrarán en cómo mejorar la calidad educativa con más recursos.",
+      "source_name": "Fernanda Matarrita Chaves, Lucía Astorga",
+      "source_url": "https://www.nacion.com/el-pais/nogui-acosta-adelanta-como-abordarian-el-tema-del/5IEVNMOJEBAMXNHX3R6BV2EYIM/story/",
+      "publish_date": "2026-04-28T00:16:35.000Z",
+      "teaser": "Lo clave en 20 segundos: Nogui Acosta aborda el futuro del FEES 2027 en la Asamblea Legislativa.",
+      "image_url": "https://www.nacion.com/resizer/v2/I2FDHNFFBZF2TFKPNFC6F2T4PM.JPG?auth=720de82a208c02491e48530c4acf7ca94c9355d8c21e8dd1b32fb69d1e8ae282&smart=true&width=3648&height=2432",
+      "description": "Diputado electo y exministro de Hacienda aspira a dirigir la comisión de Hacendarios, donde se decidiría el incremento del Fondo Especial para la Educación Superior.",
+      "featured": false
+    },
+    {
+      "slug": "quien-es-marlon-el-guerrillero-al-que-petro-atribuye-el-ataque-que-dejo-20-muertos-en-colombia-y-por-el-que-se-ofrecen-u",
+      "title": "Quién es \"Marlon\", el guerrillero al que Petro atribuye el ataque que dejó 20 muertos en Colombia y por el que se ofrecen US$1,4 millones de recompensa",
+      "category": "Mundo",
+      "bullets_20s": "• Marlon es un alias de un guerrillero disidente de las Farc, conocido por su actividad reciente.\n• Se le atribuyen acciones violentas que han generado un alto número de muertes en Colombia.\n• El gobierno ofrece una recompensa elevada por información que lleve a su captura.\n• La guerrilla y sus disidencias continúan generando preocupación en la región latinoamericana.\n• El conflicto armado en Colombia sigue afectando a diversas comunidades y poblaciones vulnerables.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cz676qly5yxo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-28T00:14:31.000Z",
+      "teaser": "Lo clave en 20 segundos: Marlon, guerrillero disidente, vinculado a ataque mortal en Colombia.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/72db/live/49d25da0-4256-11f1-a8e5-d31af761243a.jpg",
+      "description": "Alias Marlon es uno de los guerrilleros de las Farc que disintió de la paz firmada en 2016.",
       "featured": false
     },
     {
@@ -24,19 +76,6 @@
       "teaser": "Lo clave en 20 segundos: San Carlos ficha un nuevo seleccionado centroamericano para su plantilla.",
       "image_url": "https://www.nacion.com/resizer/v2/AWWHMNCTBFEOFLVYJKMEB2NVXA.png?auth=c9af0d3bc2b828a7dc8e1e581a6489b919ddc2511c898a1e128569ba6c360ef5&smart=true&width=775&height=548",
       "description": "San Carlos tiene dos seleccionados salvadoreños y ahora suma otro de una nación centroamericana.",
-      "featured": false
-    },
-    {
-      "slug": "nogui-acosta-adelanta-como-abordarian-el-tema-del-incremento-del-fees-2027-en-la-asamblea-legislativa",
-      "title": "Nogui Acosta adelanta cómo abordarían el tema del incremento del FEES 2027 en la Asamblea Legislativa",
-      "category": "Costa Rica",
-      "bullets_20s": "• Nogui Acosta se prepara para discutir el aumento del FEES en la Asamblea Legislativa.\n• El Fondo Especial para la Educación Superior es crucial para el desarrollo del país.\n• La dirección de la comisión de Hacendarios es un cargo muy importante y estratégico.\n• Se esperan grandes debates y análisis sobre los recursos destinados a educación.\n• Acosta busca soluciones viables y sostenibles para el financiamiento educativo.",
-      "source_name": "Fernanda Matarrita Chaves, Lucía Astorga",
-      "source_url": "https://www.nacion.com/el-pais/nogui-acosta-adelanta-como-abordarian-el-tema-del/5IEVNMOJEBAMXNHX3R6BV2EYIM/story/",
-      "publish_date": "2026-04-28T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Acosta anticipa discusiones sobre el FEES en la Asamblea Legislativa.",
-      "image_url": "https://www.nacion.com/resizer/v2/I2FDHNFFBZF2TFKPNFC6F2T4PM.JPG?auth=720de82a208c02491e48530c4acf7ca94c9355d8c21e8dd1b32fb69d1e8ae282&smart=true&width=3648&height=2432",
-      "description": "Diputado electo y exministro de Hacienda aspira a dirigir la comisión de Hacendarios, donde se decidiría el incremento del Fondo Especial para la Educación Superior",
       "featured": false
     },
     {
@@ -420,11 +459,11 @@
       "slug": "senales-de-que-estas-en-el-trabajo-equivocado-ingenieria-para-la-vida",
       "title": "Señales de que estás en el trabajo equivocado, Ingeniería para la Vida",
       "category": "Ciencia",
-      "bullets_20s": "• Identificar la presión que sientes al inicio de la semana puede ser clave para reflexionar.\n• El salario puede ofrecer seguridad, pero la insatisfacción laboral afecta tu bienestar.\n• La desconexión silenciosa es un fenómeno común en trabajos que no llenan expectativas.\n• Explorar el conflicto entre el propósito y el dinero es esencial para tomar decisiones.\n• La cultura empresarial puede influir más que el propio trabajo en tu satisfacción.",
+      "bullets_20s": "• Las señales de estar en un trabajo equivocado pueden ser sutiles y personales.\n• El salario puede ofrecer seguridad, pero la satisfacción personal es crucial.\n• Historias de personas que han encontrado su verdadero propósito laboral.\n• La cultura de la empresa puede afectar tu felicidad y motivación diaria.\n• Reflexiona si el dinero es el principal motivador en tu carrera profesional.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/senales-estas-trabajo-equivocado-ingenieria-vida",
       "publish_date": "2026-04-27T16:45:34.000Z",
-      "teaser": "Lo clave en 20 segundos: Identifica si estás en el trabajo equivocado y reflexiona sobre tu futuro.",
+      "teaser": "Lo clave en 20 segundos: Identifica si estás en el trabajo equivocado y reflexiona sobre tu propósito.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/instagram-post-1.png",
       "description": "Señales de que estás en el trabajo equivocado, Ingeniería para la Vida",
       "featured": false
@@ -498,11 +537,11 @@
       "slug": "que-se-sabe-de-las-victimas-y-otras-3-preguntas-sobre-los-ataques-que-dejaron-al-menos-20-muertos-y-decenas-de-heridos-e",
       "title": "Qué se sabe de las víctimas y otras 3 preguntas sobre los ataques que dejaron al menos 20 muertos y decenas de heridos en el sur de Colombia",
       "category": "Mundo",
-      "bullets_20s": "• Recientes ataques en Colombia han dejado más de 20 muertos y muchos heridos en el sur del país.\n• Las disidencias de las FARC han sido señaladas como responsables de estos actos violentos.\n• Los habitantes de la región están preocupados por el aumento de la violencia y la inseguridad.\n• Se esperan respuestas rápidas por parte del gobierno para abordar la situación crítica actual.\n• Este evento ha generado un debate sobre el proceso de paz y su efectividad en Colombia.",
+      "bullets_20s": "• El ataque dejó al menos 20 muertos y muchos heridos en una zona conflictiva del sur de Colombia.\n• Las disidencias de las FARC han sido señaladas como responsables del ataque más reciente.\n• Las autoridades están investigando la situación, buscando respuestas y justicia para las víctimas.\n• Este ataque ha generado preocupación sobre la seguridad y la paz en la región colombiana.\n• Se espera que más información sobre las víctimas y posibles detenidos sea revelada pronto.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpd5d76y7ypo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-27T16:02:25.000Z",
-      "teaser": "Lo clave en 20 segundos: Ataques en Colombia dejan múltiples víctimas y preocupaciones de seguridad en la región.",
+      "teaser": "Lo clave en 20 segundos: ataques en Colombia generan inquietud por la seguridad y el conflicto armado.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/28ea/live/d0f55a00-423b-11f1-a88c-7b7ab23a59fc.jpg",
       "description": "Las autoridades han responsabilizado a las disidencias de las FARC del ataque más mortal, ocurrido el sábado.",
       "featured": false
@@ -2835,19 +2874,6 @@
       "featured": false
     },
     {
-      "slug": "escuela-de-administracion-de-empresas-del-tec-celebra-50-anos-de-aporte-academico-innovacion-y-desarrollo-nacional",
-      "title": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
-      "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Administración de Empresas ha sido un referente en educación superior por cinco décadas.\n• Inició en 1975, en un momento crítico para Costa Rica y en medio de la Guerra Fría.\n• La escuela ha formado a miles de profesionales, contribuyendo al desarrollo del país.\n• Se han creado múltiples programas académicos adaptados a las necesidades del entorno empresarial.\n• La comunidad educativa se compone de más de 3,000 estudiantes y un personal comprometido.\n• La innovación y la investigación han sido pilares fundamentales de su crecimiento académico.\n• Han establecido vínculos con el sector productivo a través de proyectos e iniciativas de emprendimiento.\n• La acreditación nacional e internacional refuerza la calidad educativa de la institución.\n• Hoy en día, la escuela sigue adaptándose a los retos del entorno y potenciando el aprendizaje.",
-      "source_name": "sepacheco",
-      "source_url": "http://www.tec.ac.cr/escuela-administracion-empresas-tec-celebra-50-anos-aporte-academico-innovacion-desarrollo-nacional",
-      "publish_date": "2026-04-24T17:32:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de la Escuela de Administración del TEC en Costa Rica.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/seminario-latinoamericano-incubacion-empresas-innovadoras_2.jpg.webp?itok=ZmZfWtnq",
-      "description": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
-      "featured": false
-    },
-    {
       "slug": "nos-falta-el-poder-judicial-rodrigo-chaves-promete-ante-evangelicos-esfuerzos-para-tomar-control-de-ese-poder",
       "title": "Nos falta el Poder Judicial: Rodrigo Chaves promete ante evangélicos esfuerzos para tomar control de ese poder",
       "category": "Costa Rica",
@@ -3202,11 +3228,11 @@
       "slug": "esta-en-riesgo-la-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
       "title": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
       "category": "Costa Rica",
-      "bullets_20s": "• Panelistas reflexionaron sobre la autonomía universitaria en el contexto político actual.\n• La Dra. Yamileth González destacó la importancia de este principio para la democracia.\n• La actividad reunió a representantes de distintas instancias del ámbito educativo.\n• Se mencionaron tensiones entre la autonomía y nuevas exigencias sociales y financieras.\n• El Ing. Sofía Beatriz García destacó la responsabilidad social de las universidades.",
+      "bullets_20s": "• La Cátedra Elizabeth Odio se centra en discutir la autonomía universitaria en Costa Rica.\n• Panelistas académicos reflexionan sobre los retos actuales para la autonomía universitaria.\n• Las universidades públicas enfrentan crecientes presiones políticas y financieras, afectando su autonomía.\n• La Dra. Yamileth González destaca la autonomía como vital para la generación de conocimiento libre.\n• La sesión reunió a estudiantes y académicos que consensuaron sobre la defensa de este principio.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/esta-riesgo-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
       "publish_date": "2026-04-24T03:41:21.000Z",
-      "teaser": "Lo clave en 20 segundos: académicos analizan autonomía universitaria y sus desafíos actuales.",
+      "teaser": "Lo clave en 20 segundos: La Cátedra Elizabeth Odio debatió sobre la importancia de la autonomía universitaria.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/catedra-5.jpeg.webp?itok=XkE4KYMv",
       "description": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
       "featured": false
@@ -3300,6 +3326,19 @@
       "teaser": "Lo clave en 20 segundos: Jeremy Lin comparte su visión sobre entrenadores de baloncesto de élite.",
       "image_url": "https://www.nacion.com/resizer/v2/JD7NVFX4SNBMRFG7ZUZIUVWPIA.jpg?auth=e1407ac246e0b7cb619a8e6d8627ad31cae033dca3baa90377e178e846f899f0&smart=true&width=640&height=480",
       "description": "Jeremy Lin es recordado por su “Linsanity” en los New York Knicks y su anillo en 2019 con Toronto.",
+      "featured": false
+    },
+    {
+      "slug": "escuela-de-administracion-de-empresas-del-tec-celebra-50-anos-de-aporte-academico-innovacion-y-desarrollo-nacional",
+      "title": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Escuela de Administración del TEC celebra su 50 aniversario este mes de abril con un legado significativo.\n• Desde 1975, la Escuela ha formado profesionales y generado conocimiento en diversas áreas administrativas.\n• El liderazgo histórico ha permitido una evolución constante en la oferta educativa y programas de posgrado.\n• Con abrazos hacia la innovación, la escuela sigue vinculada al sector productivo del país y la región.\n• Han ampliado sus programas y actividades, consolidando el emprendimiento entre generaciones de estudiantes.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/escuela-administracion-empresas-tec-celebra-50-anos-aporte-academico-innovacion-desarrollo-nacional",
+      "publish_date": "2026-04-24T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Celebramos 50 años de innovación y formación en la Escuela de Administración del TEC.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/seminario-latinoamericano-incubacion-empresas-innovadoras_2.jpg.webp?itok=ZmZfWtnq",
+      "description": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "featured": false
     },
     {
@@ -4291,5 +4330,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-28T00:45:30.862Z"
+  "generated_at": "2026-04-28T01:45:30.257Z"
 }
