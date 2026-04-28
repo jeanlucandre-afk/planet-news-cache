@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "como-la-fabricacion-de-drones-convirtio-a-iran-en-un-actor-clave-de-la-industria-militar-global",
+      "title": "Cómo la fabricación de drones convirtió a Irán en un actor clave de la industria militar global",
+      "category": "Mundo",
+      "bullets_20s": "• Irán ha desarrollado una significativa capacidad en la fabricación de drones para usos militares.\n• La estrategia iraní se basa en la superación de sanciones económicas a través de tecnología local.\n• Los drones han permitido a Irán proyectar su poder militar más allá de sus fronteras.\n• La cooperación con otras naciones ha impulsado la innovación en la industria de drones de Irán.\n• El análisis revela cómo la industria militar se sostiene en condiciones adversas.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c5yw15kky9jo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-28T03:59:55.000Z",
+      "teaser": "Lo clave en 20 segundos: Irán ha emergido como un importante productor de drones militares.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/eee5/live/ff20d820-3c0d-11f1-891c-affae8f95aa5.jpg",
+      "description": "El Servicio árabe de la BBC analiza la estrategia que ha seguido Irán para convertirse en un actor relevante en la industria militar mundial, a pesar de las sanciones estadounidenses.",
+      "featured": false
+    },
+    {
+      "slug": "temblor-de-magnitud-50-sacude-costa-rica",
+      "title": "Temblor de magnitud 5.0 sacude Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Ovsicori informó sobre un temblor que ocurrió recientemente en Costa Rica.\n• El epicentro del sismo se localizó en la región de Acosta, cerca de la capital.\n• La magnitud del temblor fue registrada en 5.0, generando una alerta en la población.\n• Las autoridades han instado a la población a mantenerse alerta ante nuevos temblores.\n• No se reportaron daños significativos ni heridos tras el sismo ocurrido anoche.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/temblor-de-magnitud-50-sacude-costa-rica/3OWZYSGW3BA2ZPLQNSRNJA65BA/story/",
+      "publish_date": "2026-04-28T03:55:37.000Z",
+      "teaser": "Lo clave en 20 segundos: un temblor de magnitud 5.0 sacudió Costa Rica y se registró en Acosta.",
+      "image_url": "https://www.nacion.com/resizer/v2/RQ6X7NBCTBA4LDTUMDWQHVUKRQ.jpeg?auth=3b4ab5e2f332f285f8885412448e85f71024d1b964389cb67368888b8649457b&smart=true&width=1952&height=1098",
+      "description": "Un temblor de magnitud 5.0 se registró la noche de este lunes, según el Ovsicori de la Universidad Nacional (UNA). El epicentro se ubicó en Acosta.",
+      "featured": false
+    },
+    {
       "slug": "detienen-al-capo-narco-mexicano-audias-flores-silva-alias-el-jardinero",
       "title": "Detienen al capo narco mexicano Audias Flores Silva, alias \"El Jardinero\"",
       "category": "Mundo",
@@ -17,11 +43,11 @@
       "slug": "tres-homicidios-en-un-lapso-menor-a-dos-horas-se-registraron-la-tarde-de-este-lunes",
       "title": "Tres homicidios en un lapso menor a dos horas se registraron la tarde de este lunes",
       "category": "Costa Rica",
-      "bullets_20s": "• Tres homicidios ocurrieron en un periodo muy corto de tiempo, generando preocupación en la población.\n• Los hechos sucedieron en diferentes zonas del país, lo que aumenta la alarma social.\n• La Cruz Roja reportó los incidentes y la alerta de seguridad en las comunidades afectadas.\n• Las autoridades investigan las circunstancias de cada caso para dar con los responsables.\n• Este evento refleja una tendencia preocupante en la violencia en el país.\n• Los habitantes exigen medidas más efectivas para enfrentar la situación de seguridad.",
+      "bullets_20s": "• La violencia en Costa Rica continúa siendo un tema preocupante para la sociedad y las autoridades.\n• Los homicidios se produjeron en diferentes regiones del país, generando alarma entre los ciudadanos.\n• La Cruz Roja reportó los incidentes y brindó atención a las víctimas y sus familias.\n• Se desconoce si los homicidios están relacionados entre sí o si son incidentes aislados.\n• Las autoridades han hecho un llamado a la población para mantener la calma y reportar información.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/sucesos/crimenes/tres-homicidios-en-un-lapso-menor-a-dos-horas-se/VDPDM7QXAFHABP3G4LVM2PWMAU/story/",
       "publish_date": "2026-04-28T02:14:06.000Z",
-      "teaser": "Lo clave en 20 segundos: Tres homicidios impactan la seguridad en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: tres homicidios se registraron en menos de dos horas en distintas zonas del país.",
       "image_url": "https://www.nacion.com/resizer/v2/TGKDNUCI4JAPRKZAUWBVSTCLD4.jpeg?auth=6bbea30a1e7ff2ad67ce411ef9406d01240c4f6f5e5b9643345a9db793f4f0cf&smart=true&width=1280&height=720",
       "description": "Tres homicidios por arma de fuego se registraron la tarde de este lunes en distintas zonas del país, en un lapso menor a dos horas, según información de la Cruz Roja.",
       "featured": false
@@ -82,11 +108,11 @@
       "slug": "el-canciller-de-alemania-afirma-que-iran-esta-humillando-a-eeuu",
       "title": "El canciller de Alemania afirma que Irán está 'humillando' a EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• El canciller alemán señala la debilidad de la estrategia estadounidense frente a Irán.\n• Asegura que Teherán está jugando hábilmente sus cartas en las negociaciones actuales.\n• Critica el enfoque de Washington en Medio Oriente y sus consecuencias.\n• Se observa una creciente tensión en las relaciones entre EE.UU. e Irán.\n• Alemania llama a un diálogo más efectivo para resolver conflictos internacionales.",
+      "bullets_20s": "• El canciller alemán critica la estrategia de EE.UU. en el conflicto con Irán y su enfoque.\n• Afirma que Irán ha demostrado habilidad en las negociaciones internacionales actuales.\n• Resalta la necesidad de reevaluar las tácticas actuales implementadas por Washington.\n• El conflicto entre EE.UU. e Irán continúa generando tensiones en la política mundial.\n• Alemania busca un papel más activo en la mediación de conflictos internacionales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cq8p2vp5l22o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-28T00:45:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Canciller alemán critica estrategia de EE.UU. sobre Irán.",
+      "teaser": "Lo clave en 20 segundos: El canciller alemán critica la estrategia de EE.UU. frente a Irán y sus negociaciones.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/65aa/live/c2d74280-429a-11f1-bf83-bbb057f05fca.jpg",
       "description": "El mandatario alemán criticó la estrategia de Washington en el conflicto y aseguró que Irán está siendo muy hábil en las negociaciones.",
       "featured": false
@@ -132,13 +158,13 @@
     },
     {
       "slug": "quien-es-marlon-el-guerrillero-al-que-petro-atribuye-el-ataque-que-dejo-20-muertos-en-colombia-y-por-el-que-se-ofrecen-u",
-      "title": "Quién es 'Marlon', el guerrillero al que Petro atribuye el ataque que dejó 20 muertos en Colombia y por el que se ofrecen US$1,4 millones de recompensa",
+      "title": "Quién es \"Marlon\", el guerrillero al que Petro atribuye el ataque que dejó 20 muertos en Colombia y por el que se ofrecen US$1,4 millones de recompensa",
       "category": "Mundo",
-      "bullets_20s": "• Petro menciona a Marlon como responsable de un ataque mortal en Colombia.\n• Se ofrece una recompensa de US$1,4 millones por información sobre Marlon.\n• Marlon, un ex integrante de las Farc, se opone a los acuerdos de paz actuales.\n• Analistas advierten sobre el impacto en la seguridad en Colombia por este grupo.\n• La situación resalta la complejidad del conflicto colombiano y sus actores.",
+      "bullets_20s": "• Marlon es un guerrillero conocido por su disidencia tras el acuerdo de paz de 2016 en Colombia.\n• Su participación ha causado controversias y violencia en regiones del país sudamericano.\n• El gobierno de Petro ofrece una recompensa significativa por información sobre su paradero.\n• El contexto del conflicto armado en Colombia sigue siendo un tema caliente en la región.\n• Las Farc han experimentado divisiones que han llevado a la reactivación de la violencia.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cz676qly5yxo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-28T00:14:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Marlon, guerrillero disidente, es acusado de un ataque letal en Colombia.",
+      "teaser": "Lo clave en 20 segundos: Marlon, guerrillero disidente, es buscado por un ataque mortífero en Colombia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/72db/live/49d25da0-4256-11f1-a8e5-d31af761243a.jpg",
       "description": "Alias Marlon es uno de los guerrilleros de las Farc que disintió de la paz firmada en 2016.",
       "featured": false
@@ -537,11 +563,11 @@
       "slug": "senales-de-que-estas-en-el-trabajo-equivocado-ingenieria-para-la-vida",
       "title": "Señales de que estás en el trabajo equivocado, Ingeniería para la Vida",
       "category": "Ciencia",
-      "bullets_20s": "• Identificar si realmente amas tu trabajo puede ser un desafío importante en la vida profesional.\n• Analizar el impacto de la cultura empresarial en tu bienestar emocional y satisfacción laboral.\n• Las señales silenciosas de desconexión pueden afectar tu rendimiento y felicidad diariamente.\n• Reflexionar sobre el equilibrio entre el dinero y el propósito es esencial en la vida laboral.\n• Es importante evaluar si tu trabajo actual se alinea con tus valores y aspiraciones personales.",
+      "bullets_20s": "• Exploraremos cómo reconocer señales silenciosas que indican desconexión laboral.\n• Analizaremos el conflicto entre el dinero seguro y el propósito personal.\n• Reflexionamos sobre si el problema está en el trabajo o en la cultura empresarial.\n• Presentaremos pasos prácticos antes de decidir dejar un empleo insatisfactorio.\n• Conversemos juntos sobre la relación entre bienestar y trabajo adecuado.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/senales-estas-trabajo-equivocado-ingenieria-vida",
       "publish_date": "2026-04-27T16:45:34.000Z",
-      "teaser": "Lo clave en 20 segundos: Reflexiona si estás en el trabajo correcto y descubre señales de desconexión.",
+      "teaser": "Lo clave en 20 segundos: Reconoce si estás en el trabajo equivocado y cómo actuar.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/instagram-post-1.png",
       "description": "Señales de que estás en el trabajo equivocado, Ingeniería para la Vida",
       "featured": false
@@ -615,11 +641,11 @@
       "slug": "que-se-sabe-de-las-victimas-y-otras-3-preguntas-sobre-los-ataques-que-dejaron-al-menos-20-muertos-y-decenas-de-heridos-e",
       "title": "Qué se sabe de las víctimas y otras 3 preguntas sobre los ataques que dejaron al menos 20 muertos y decenas de heridos en el sur de Colombia",
       "category": "Mundo",
-      "bullets_20s": "• Los ataques recientes han dejado un saldo devastador de muertes y heridos en Colombia.\n• Las disidencias de las FARC son consideradas responsables por las autoridades colombianas.\n• El análisis de la situación sugiere un aumento en la violencia en ciertas regiones.\n• Investigaciones en curso buscan esclarecer los eventos y los motivos detrás de ellos.\n• La comunidad internacional observa de cerca la respuesta del gobierno colombiano.",
+      "bullets_20s": "• Los ataques en Colombia han generado una ola de preocupación y condena a nivel internacional.\n• Las disidencias de las FARC han sido acusadas de llevar a cabo este ataque mortal.\n• Las víctimas son muchas, y el impacto en la comunidad local es devastador y profundo.\n• La situación de seguridad en Colombia sigue siendo delicada y compleja en varias regiones.\n• Las autoridades están investigando para esclarecer todos los detalles de lo sucedido.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpd5d76y7ypo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-27T16:02:25.000Z",
-      "teaser": "Lo clave en 20 segundos: ataque mortal en Colombia, disidencias implicadas.",
+      "teaser": "Lo clave en 20 segundos: devastadores ataques en Colombia, numerosas víctimas y preocupación internacional.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/28ea/live/d0f55a00-423b-11f1-a88c-7b7ab23a59fc.jpg",
       "description": "Las autoridades han responsabilizado a las disidencias de las FARC del ataque más mortal, ocurrido el sábado.",
       "featured": false
@@ -2955,11 +2981,11 @@
       "slug": "escuela-de-administracion-de-empresas-del-tec-celebra-50-anos-de-aporte-academico-innovacion-y-desarrollo-nacional",
       "title": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Administración de Empresas del TEC cumple medio siglo de formación profesional en Costa Rica.\n• Desde 1975, ha sido un referente en la educación superior, innovando y desarrollando programas académicos.\n• El emprendimiento ha sido clave, fomentando la incubación de empresas y proyectos en el país.\n• Más de 3 mil estudiantes forman parte de una comunidad comprometida con la excelencia educativa.\n• El TEC celebra su trayectoria en la adaptación a cambios del entorno educativo y empresarial.",
+      "bullets_20s": "• La Escuela de Administración de Empresas del TEC cumple 50 años de trayectoria y compromiso educativo.\n• Desde su fundación en 1975, ha sido un referente en la formación de profesionales en el país.\n• Con 3000 estudiantes, la escuela promueve la innovación y el emprendimiento en Costa Rica.\n• La escuela ha expandido sus programas académicos y posgrados en respuesta a las necesidades del mercado.\n• Se celebra la adaptación de la carrera a los desafíos del entorno nacional e internacional.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/escuela-administracion-empresas-tec-celebra-50-anos-aporte-academico-innovacion-desarrollo-nacional",
       "publish_date": "2026-04-24T17:32:23.000Z",
-      "teaser": "Lo clave en 20 segundos: La Escuela de Administración de Empresas del TEC cumple 50 años de trayectoria e innovación.",
+      "teaser": "Lo clave en 20 segundos: Celebra 50 años de innovación y desarrollo en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/seminario-latinoamericano-incubacion-empresas-innovadoras_2.jpg.webp?itok=ZmZfWtnq",
       "description": "Escuela de Administración de Empresas del TEC celebra 50 años de aporte académico, innovación y desarrollo nacional",
       "featured": false
@@ -3316,19 +3342,6 @@
       "featured": false
     },
     {
-      "slug": "esta-en-riesgo-la-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
-      "title": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
-      "category": "Costa Rica",
-      "bullets_20s": "• Panelistas debaten sobre la realidad actual de la autonomía universitaria en Costa Rica.\n• La actividad se centró en los desafíos políticos y financieros que enfrenta la educación superior.\n• El Tecnológico de Costa Rica inauguró la Cátedra Elizabeth Odio para discutir estos temas.\n• Participantes consensuaron que la autonomía es vital para fomentar el pensamiento crítico.\n• Se destacó la responsabilidad social de las universidades en la defensa de su autonomía.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/esta-riesgo-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
-      "publish_date": "2026-04-24T03:41:21.000Z",
-      "teaser": "Lo clave en 20 segundos: La autonomía universitaria en discusión en un panel del TEC.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/catedra-5.jpeg.webp?itok=XkE4KYMv",
-      "description": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
-      "featured": false
-    },
-    {
       "slug": "estudiantes-de-ucr-denuncian-que-rector-convoco-manifestacion-en-su-favor-y-llaman-a-contramarcha-rectoria-lo-niega",
       "title": "Estudiantes de UCR denuncian que rector convocó manifestación en su favor y llaman a contramarcha; Rectoría lo niega",
       "category": "Costa Rica",
@@ -3482,6 +3495,19 @@
       "teaser": "Lo clave en 20 segundos: La cocaína en el agua altera el comportamiento del salmón en su hábitat natural.",
       "image_url": "https://www.nacion.com/resizer/v2/ZUTL5Y7PCFEHLMR3T5XGNFQ2RY.png?auth=998b59994b01a5c5c536367487fcd574eb73b99c231a74d461756283b0893fe4&smart=true&width=1138&height=758",
       "description": "Una investigación revela que contaminantes derivados de la cocaína cambian el movimiento y la distribución del salmón en ecosistemas naturales.",
+      "featured": false
+    },
+    {
+      "slug": "esta-en-riesgo-la-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
+      "title": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
+      "category": "Costa Rica",
+      "bullets_20s": "• La autonomía universitaria enfrenta crecientes presiones políticas y financieras en la actualidad.\n• La discusión se centra en la defensa de la independencia de las instituciones educativas.\n• Voces académicas destacan la importancia de este principio para una democracia saludable.\n• El evento reunió a representantes de diversos sectores del ámbito universitario costarricense.\n• La exrectora de la UCR enfatizó que la autonomía es clave para el pensamiento crítico.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/esta-riesgo-autonomia-universitaria-catedra-elizabeth-odio-abre-discusion",
+      "publish_date": "2026-04-23T21:41:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La autonomía universitaria es un tema crítico en discusión en Costa Rica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/styles/carousel/public/media/img/main/catedra-5.jpeg.webp?itok=XkE4KYMv",
+      "description": "¿Está en riesgo la autonomía universitaria?, Cátedra Elizabeth Odio abre discusión",
       "featured": false
     },
     {
@@ -4408,5 +4434,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-28T03:45:31.119Z"
+  "generated_at": "2026-04-28T04:45:29.912Z"
 }
