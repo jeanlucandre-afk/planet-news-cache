@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "detienen-a-menor-de-17-anos-por-homicidio-de-estudiante-de-ctp-de-guarari",
+      "title": "Detienen a menor de 17 años por homicidio de estudiante de CTP de Guararí",
+      "category": "Costa Rica",
+      "bullets_20s": "• El OIJ ha realizado la detención del menor tras una investigación sobre el caso.\n• Se sospecha que el menor es responsable del homicidio de un estudiante.\n• El hecho ha conmocionado a la comunidad educativa en Guararí.\n• Se conocen pocos detalles sobre el motivo del homicidio.\n• Las autoridades continúan investigando para esclarecer el caso.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/el-pais/detienen-a-menor-de-17-anos-por-homicidio-de/OE5Y43NTZZHSVHPEIIVPWJ3SEE/story/",
+      "publish_date": "2026-04-28T18:12:19.000Z",
+      "teaser": "Lo clave en 20 segundos: menor detenido por homicidio de estudiante en Guararí.",
+      "image_url": "https://www.nacion.com/resizer/v2/C75S5NP6L5BLZO5YGRHQ7PJDQQ.jpg?auth=ae6ee2acc9ea9467f2bed8d418cc980d7848149e56f12b7097c37e41baef0662&smart=true&width=1200&height=630",
+      "description": "Un menor de 17 años fue detenido por el OIJ como sospechoso de asesinar a un estudiante del CTP de Guararí en San Francisco de Heredia. OIJ revela detalles del caso.",
+      "featured": false
+    },
+    {
+      "slug": "avanza-con-exito-el-rescate-de-timmy-la-ballena-varada-en-aguas-alemanas",
+      "title": "Avanza con éxito el rescate de ‘Timmy’, la ballena varada en aguas alemanas",
+      "category": "Mundo",
+      "bullets_20s": "• El rescate de Timmy ha captado la atención internacional por su historia conmovedora.\n• Los esfuerzos de rescate incluyeron múltiples intentos y un alto nivel de compromiso.\n• Empresarios locales decidieron involucrarse, aportando recursos para continuar la operación.\n• Los equipos de rescate realizaron evaluaciones para garantizar el bienestar de la ballena.\n• La ballena varada representa un caso complejo debido a sus condiciones de salud específicas.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/avanza-con-exito-el-rescate-de-timmy-la-ballena/IGAAL5KCW5E77N7FRT5UW3TPVE/story/",
+      "publish_date": "2026-04-28T18:12:16.000Z",
+      "teaser": "Lo clave en 20 segundos: El rescate de la ballena Timmy avanza gracias a nuevos financiamientos.",
+      "image_url": "https://www.nacion.com/resizer/v2/J72LCOFK45A67NBLEVTAEZ4R6M.jpg?auth=a03f26ccb8c31ace73bca18f0b46d400ba1cbf71d9436fd24bacb0ef18d78814&smart=true&width=2251&height=1509",
+      "description": "Tras varios intentos iniciales fallidos, dos empresarios se ofrecieron a financiar una nueva operación de rescate",
+      "featured": false
+    },
+    {
+      "slug": "pueden-los-chatbots-de-inteligencia-artificial-volverse-adictivos-estudio-identifica-tres-tipos-de-dependencia",
+      "title": "¿Pueden los chatbots de inteligencia artificial volverse adictivos? Estudio identifica tres tipos de dependencia",
+      "category": "Tecnología",
+      "bullets_20s": "• El estudio examina la dependencia emocional en el uso de chatbots inteligentes y sus consecuencias.\n• Los investigadores identifican la evasión como un factor que contribuye a la adicción a la IA.\n• El uso compulsivo de chatbots puede afectar la vida diaria de los usuarios de manera significativa.\n• La investigación destaca la importancia de un uso equilibrado de la tecnología en nuestras vidas.\n• Se plantean medidas para mitigar la dependencia de estos sistemas de inteligencia artificial.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/tecnologia/pueden-los-chatbots-de-inteligencia-artificial/FOWXQTDGPZAJZHMMYVNYKURC2I/story/",
+      "publish_date": "2026-04-28T18:12:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Estudio revela los riesgos de adicción a chatbots inteligentes.",
+      "image_url": "https://www.nacion.com/resizer/v2/DPVYFLG3FRBLFLW5SSOV5L7FKA.png?auth=851e536b7bc2da38938d9a50a49b1da2309ef6dd2f63a86d9d2da7f4067288cc&smart=true&width=1920&height=1080",
+      "description": "Investigadores de la Universidad de Columbia Británica detectaron tres formas de adicción a chatbots de inteligencia artificial, marcadas por dependencia emocional, evasión y uso compulsivo.",
+      "featured": false
+    },
+    {
+      "slug": "lafc-vs-toluca-hora-y-donde-ver-en-vivo-la-semifinal-de-la-concachampions-2026",
+      "title": "LAFC vs. Toluca: hora y dónde ver en vivo la semifinal de la Concachampions 2026",
+      "category": "Mundo",
+      "bullets_20s": "• LAFC y Toluca se enfrentan en la semifinal de la Concachampions 2026, buscando un lugar en la final.\n• Ambos equipos han mostrado un rendimiento sólido en el torneo, lo que aumenta la expectativa.\n• El partido será transmitido en vivo y los aficionados podrán seguirlo a través de diferentes plataformas.\n• Se espera un encuentro lleno de emociones entre estos dos clubes de gran trayectoria en sus ligas.\n• La semifinal representa una oportunidad histórica para ambos equipos en el ámbito continental.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/puro-deporte/lafc-vs-toluca-hora-y-donde-ver-en-vivo-la/KL6VL7S3LFEJLONUZHOEGHHAV4/story/",
+      "publish_date": "2026-04-28T17:56:45.000Z",
+      "teaser": "Lo clave en 20 segundos: LAFC y Toluca juegan en semifinales de la Concachampions 2026 buscando la final.",
+      "image_url": "https://www.nacion.com/resizer/v2/OFQEHYII6FHRNMQYG24LSYBXJY.png?auth=582d1e311474b138c94804138b73074d8a0aea582ed797683afc53c535a4c10c&smart=true&width=1680&height=945",
+      "description": "El duelo entre LAFC y Toluca abre una serie inédita en la Concachampions 2026, con dos equipos que llegan en buen momento y buscan un cupo en la final del torneo.",
+      "featured": false
+    },
+    {
       "slug": "astronauta-de-artemis-ii-christina-koch-cuando-las-personas-viven-en-microgravedad-los-organos-vestibulares-no-funcionan",
       "title": "Astronauta de Artemis II, Christina Koch: ‘Cuando las personas viven en microgravedad, los órganos vestibulares no funcionan correctamente’",
       "category": "Ciencia",
@@ -24,6 +76,19 @@
       "teaser": "Lo clave en 20 segundos: ICE informa sobre cortes de luz en Guanacaste y Alajuela este jueves.",
       "image_url": "https://www.nacion.com/resizer/v2/GGXMMJ3PZVH43PGBP5YMFBHNDQ.jpg?auth=d439f9f42d7c6b33d9c799311cdbdab4e5205937fd52b65befdfb2378774f950&smart=true&width=2128&height=1197",
       "description": "El ICE anunció interrupciones eléctricas en varias comunidades de Guanacaste y Alajuela este jueves 30 de abril. Revise horarios, zonas específicas y tome previsiones para evitar contratiempos.",
+      "featured": false
+    },
+    {
+      "slug": "emiratos-arabes-unidos-abandona-el-poderoso-cartel-petrolero-de-la-opep",
+      "title": "Emiratos Árabes Unidos abandona el poderoso cartel petrolero de la OPEP",
+      "category": "Mundo",
+      "bullets_20s": "• Emiratos Árabes Unidos decide retirarse de la OPEP por razones estratégicas y económicas.\n• Expertos analizan las implicaciones de esta salida en el mercado energético global.\n• La OPEP enfrenta un nuevo desafío frente a la inestabilidad del precio del petróleo.\n• El Medio Oriente debe prepararse para un cambio en la dinámica del mercado petrolero.\n• Un futuro incierto se asoma para los productores de crudo en la región tras este anuncio.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c0r2w0pr8ejo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-28T16:39:26.000Z",
+      "teaser": "Lo clave en 20 segundos: Emiratos Árabes Unidos se retira de la OPEP, alterando la geopolítica del petróleo.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d25d/live/b07940f0-4305-11f1-bd52-e755d604ece4.jpg",
+      "description": "La salida del país de la alianza petrolera es considerada como un duro golpe a la organización que puede cambiar la geopolítica y los mercados de crudo de Medio Oriente.",
       "featured": false
     },
     {
@@ -186,11 +251,11 @@
       "slug": "astronomia-alrededor-del-mundo-mas-alla-de-la-ciencia",
       "title": "Astronomía alrededor del mundo, más allá de la Ciencia",
       "category": "Ciencia",
-      "bullets_20s": "• AstroTEC organiza Jueves Astronómicos con una nueva charla sobre astronomía.\n• Se enfocará en la importancia de la astronomía en la sociedad actual.\n• MSc. Fabián Chaverri será el invitado especial de la conferencia.\n• La charla se transmitirá por Zoom y Facebook para el público.\n• Se abordarán históricas y emergentes teorías de la astronomía.\n• La actividad es gratuita y abierta a toda la comunidad.\n• Se presentarán aspectos fundamentales y avances recientes en la astronomía.\n• La charla se ofrece desde el auditorio del Edificio D3.\n• Los temas incluyen cosmología y radioastronomía.\n• Este evento celebra la ciencia y su divulgación entre todos.",
+      "bullets_20s": "• El grupo AstroTEC organiza sus tradicionales Jueves Astronómicos cada semana.\n• La charla se realizará el 30 de abril y se transmitirá por Zoom.\n• Fabián Chaverri será el ponente invitado, experto en astronomía extragaláctica.\n• La actividad es gratuita y abierta al público en general.\n• Los temas incluye historia y el impacto de la astronomía en la sociedad.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/astronomia-alrededor-mundo-mas-alla-ciencia",
       "publish_date": "2026-04-28T13:44:34.000Z",
-      "teaser": "Lo clave en 20 segundos: Charla sobre impacto de la astronomía en nuestra vida diaria.",
+      "teaser": "Lo clave en 20 segundos: Jueves Astronómicos exploran la influencia de la astronomía en la sociedad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/material.png",
       "description": "Astronomía alrededor del mundo, más allá de la Ciencia",
       "featured": false
@@ -238,12 +303,12 @@
       "slug": "little-los-angeles-el-barrio-en-cdmx-donde-mexicanos-deportados-de-eeuu-comienzan-en-un-pais-que-apenas-conocen",
       "title": "Little Los Ángeles, el barrio en CDMX donde mexicanos deportados de EE.UU. comienzan en un país que apenas conocen",
       "category": "Mundo",
-      "bullets_20s": "• Little Los Ángeles es un barrio donde mexicanos deportados se reúnen y reconstruyen sus vidas.\n• La comunidad ofrece apoyo emocional y social a quienes han regresado a México de EE.UU.\n• El spanglish se habla con frecuencia, un reflejo de sus raíces en ambas culturas.\n• Los deportados comparten historias de resiliencia y adaptación en su nuevo entorno.\n• Este barrio se ha convertido en un símbolo de esperanza para muchos retornados.",
+      "bullets_20s": "• Little Los Ángeles se ha convertido en un hogar para mexicanos deportados en la Ciudad de México.\n• La comunidad ofrece un ambiente familiar y seguro, importante para los recién llegados.\n• Los deportados enfrentan desafíos al adaptarse a su país de origen después de años en EE.UU.\n• El spanglish se habla comúnmente, reflejando la cultura de sus habitantes.\n• Historias de vida marcan la experiencia de quienes recuperan sus identidades en este barrio.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/clyxrnxl5nko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-28T13:14:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Un barrio en CDMX donde deportados se sienten en casa y reconstruyen sus vidas.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1df6/live/7dde7bd0-3acf-11f1-a2e0-cd548a9bade3.jpg",
+      "teaser": "Lo clave en 20 segundos: Los deportados encuentran un hogar en un barrio que se siente familiar.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/2c12/live/df6995b0-3f48-11f1-b6d9-e5e121b5056a.jpg",
       "description": "Mexicanos retornados a su país han convertido esta zona en un lugar en el que se sienten seguros gracias a una comunidad que habla spanglish y que también pasó por la experiencia de ser expulsados de EE.UU. tras casi toda una vida en aquel país.",
       "featured": false
     },
@@ -329,11 +394,11 @@
       "slug": "por-que-las-notas-de-voz-son-tan-populares-en-paises-como-mexico-pero-odiadas-en-otros-como-reino-unido",
       "title": "Por qué las notas de voz son tan populares en países como México, pero odiadas en otros como Reino Unido",
       "category": "Mundo",
-      "bullets_20s": "• Las notas de voz han ganado popularidad en varios países gracias a su comodidad y facilidad de uso.\n• En México, la cultura de la comunicación oral impulsa el uso de estas herramientas en la vida cotidiana.\n• Expertos destacan que la diáspora influye en el uso de notas de voz, al mantener conexiones con familiares.\n• En el Reino Unido, muchos usuarios prefieren mensajes de texto, debido a problemas de comprensión y tiempo.\n• El contexto cultural y las preferencias personales juegan un papel vital en la adopción de esta tecnología.",
+      "bullets_20s": "• Las notas de voz se han vuelto un medio de comunicación muy usado en toda Latinoamérica.\n• En México, la cultura de la conversación influye en el uso de este formato en redes sociales.\n• En el Reino Unido, hay un desagrado general por la impersonalidad de las notas de voz.\n• Los expertos analizan la influencia de la diáspora en la aceptación de este formato.\n• La privacidad y la rapidez son aspectos que los usuarios valoran en notas de voz.\n• Cada país tiene una relación diferente con la tecnología de comunicación actual.\n• Las diferencias culturales impactan en la forma de comunicarse a través de mensajes de voz.\n• El uso de notas de voz puede facilitar interacciones en contextos familiares y amistosos.\n• Para algunos, las notas de voz son una extensión de la conversación cara a cara.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c3w3wy4njxpo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-28T11:28:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Las notas de voz son un fenómeno cultural con diferencias marcadas entre países.",
+      "teaser": "Lo clave en 20 segundos: Las notas de voz son amadas en México y rechazadas en Reino Unido por razones culturales.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c4e5/live/2dcac440-42f5-11f1-9516-81393c122a1a.jpg",
       "description": "La cultura y la diáspora son algunas de las razones que señalan los expertos para explicar por qué en algunos países esta herramienta tiene tantos seguidores, mientras que en otros los detractores son mayoría.",
       "featured": false
@@ -355,11 +420,11 @@
       "slug": "lo-que-aprendimos-sobre-el-amor-siendo-una-pareja-con-15-anos-de-diferencia",
       "title": "Lo que aprendimos sobre el amor siendo una pareja con 15 años de diferencia",
       "category": "Mundo",
-      "bullets_20s": "• Las diferencias de edad en las relaciones pueden generar prejuicios en la sociedad actual.\n• Es fundamental tener conversaciones abiertas sobre temas difíciles en la pareja.\n• Las parejas con diferencia de edad enfrentan desafíos únicos que requieren comprensión.\n• El amor puede florecer a pesar de las opiniones externas sobre la edad.\n• Las experiencias de vida diversas enriquecen la relación en distintas etapas.\n• Superar estigmas puede fortalecer los lazos entre los miembros de la pareja.\n• Las finanzas y el cuidado son aspectos cruciales en una relación de este tipo.\n• Las perspectivas sobre el amor evolucionan con el tiempo y la madurez emocional.\n• La aceptación social de relaciones con diferencia de edad está en cambio constante.",
+      "bullets_20s": "• Las relaciones con diferencia de edad enfrentan estigmas sociales que pueden dificultar la comunicación.\n• Lena y Kjetil discuten abiertamente sobre sus diferencias y lo que significa para ellos.\n• La gestión del dinero se convierte en un tema crucial en la relación a largo plazo.\n• El cuidado mutuo es fundamental para mantener la armonía y el respeto en la pareja.\n• Construir confianza ayuda a superar los desafíos que presenta la diferencia de edad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c05d54yjlv4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-28T10:19:49.000Z",
-      "teaser": "Lo clave en 20 segundos: las parejas con 15 años de diferencia enfrentan retos y estigmas.",
+      "teaser": "Lo clave en 20 segundos: parejas con diferencia de edad enfrentan retos únicos y hablan de sus experiencias.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/2297/live/81128ba0-424c-11f1-b724-137f53c2c97f.jpg",
       "description": "Lena y Kjetil han superado el estigma social en torno a las parejas con una gran diferencia de edad. Para hacerlo, sin embargo, han tenido que poner sobre la mesa temas difíciles como el dinero y el cuidado.",
       "featured": false
@@ -939,12 +1004,12 @@
     {
       "slug": "senales-de-que-estas-en-el-trabajo-equivocado-ingenieria-para-la-vida",
       "title": "Señales de que estás en el trabajo equivocado, Ingeniería para la Vida",
-      "category": "Costa Rica",
-      "bullets_20s": "• Identificar señales de desconexión es clave para mejorar la satisfacción laboral.\n• El conflicto entre dinero y propósito puede causar insatisfacción a largo plazo.\n• La cultura de la empresa influye en el bienestar de los empleados.\n• Es fundamental analizar las razones antes de tomar decisiones drásticas.\n• Explora alternativas para encontrar un camino profesional más satisfactorio.",
+      "category": "Ciencia",
+      "bullets_20s": "• Identificar señales silentes de desconexión puede cambiar tu perspectiva laboral.\n• El conflicto entre dinero y propósito afecta la satisfacción en el trabajo.\n• La cultura de la empresa juega un papel crucial en tu bienestar laboral.\n• Reflexiona antes de hacer cambios radicales en tu carrera profesional.\n• Sintonizaremos en LinkedIn y YouTube para discutir sobre estos temas.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/senales-estas-trabajo-equivocado-ingenieria-vida",
       "publish_date": "2026-04-27T16:45:34.000Z",
-      "teaser": "Lo clave en 20 segundos: Aprende a identificar si estás en el trabajo equivocado.",
+      "teaser": "Lo clave en 20 segundos: Reflexiona sobre si tu trabajo realmente te llena.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/instagram-post-1.png",
       "description": "Señales de que estás en el trabajo equivocado, Ingeniería para la Vida",
       "featured": false
@@ -960,19 +1025,6 @@
       "teaser": "Lo clave en 20 segundos: Un equipo destacado de Centroamérica queda afuera, dejando a sus seguidores decepcionados.",
       "image_url": "https://www.nacion.com/resizer/v2/WNEF7M3MBZGRPMIE4GQBUF2TF4.JPG?auth=d0c2cc8fedf2c316daae1ed309effe1a4780bd9e4ee36fc4bca2b9e83ca8d820&smart=true&width=3000&height=2000",
       "description": "El club mejor posicionado de la región sufrió una eliminación en el torneo local, un resultado que contrasta con su dominio reciente.",
-      "featured": false
-    },
-    {
-      "slug": "pueden-los-chatbots-de-inteligencia-artificial-volverse-adictivos-estudio-identifica-tres-tipos-de-dependencia",
-      "title": "¿Pueden los chatbots de inteligencia artificial volverse adictivos? Estudio identifica tres tipos de dependencia",
-      "category": "Tecnología",
-      "bullets_20s": "• Estudio identifica tres tipos de dependencia hacia chatbots de inteligencia artificial.\n• Dependencia emocional, evasión y uso compulsivo son las formas detectadas.\n• Investigación fue realizada por la Universidad de Columbia Británica.\n• Entender estos tipos de adicción es crucial para el uso responsable de tecnología.\n• Los chatbots están cada vez más presentes en nuestras interacciones diarias.",
-      "source_name": "Jailine González Gómez",
-      "source_url": "https://www.nacion.com/tecnologia/pueden-los-chatbots-de-inteligencia-artificial/FOWXQTDGPZAJZHMMYVNYKURC2I/story/",
-      "publish_date": "2026-04-27T16:17:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudio revela adicción a chatbots de IA con tres modalidades distintas de dependencia.",
-      "image_url": "https://www.nacion.com/resizer/v2/DPVYFLG3FRBLFLW5SSOV5L7FKA.png?auth=851e536b7bc2da38938d9a50a49b1da2309ef6dd2f63a86d9d2da7f4067288cc&smart=true&width=1920&height=1080",
-      "description": "Investigadores de la Universidad de Columbia Británica detectaron tres formas de adicción a chatbots de inteligencia artificial, marcadas por dependencia emocional, evasión y uso compulsivo.",
       "featured": false
     },
     {
@@ -4772,5 +4824,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-28T17:45:30.337Z"
+  "generated_at": "2026-04-28T18:45:31.832Z"
 }
