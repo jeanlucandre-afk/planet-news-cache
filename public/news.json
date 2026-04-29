@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "premio-centroamericano-de-la-literatura-infantil-premiara-historias-arraigadas-en-nuestro-contexto",
+      "title": "Premio Centroamericano de la Literatura Infantil premiará historias arraigadas en nuestro contexto",
+      "category": "Ciencia",
+      "bullets_20s": "• El Premio Centroamericano de Literatura Infantil celebra su quinta edición en 2026, destacando obras de autores locales.\n• Está dirigido a promover la literatura que refleje las realidades y culturas de Centroamérica, enriqueciendo el contexto literario.\n• Más de 12 organizaciones culturales se han unido al evento, resaltando la importancia de fomentar la lectura entre los jóvenes.\n• Los postulantes podrán enviar sus historias entre abril y agosto, contribuyendo a la diversidad de la literatura infantil.\n• Este premio busca incentivar la creatividad de escritores emergentes y visibilizar sus obras en el ámbito regional.",
+      "source_name": "Sebastián Araya Delgado",
+      "source_url": "https://www.nacion.com/ancora/premio-centroamericano-de-la-literatura-infantil/2OSVMOPMHNCMXIMH65LV5D5NLM/story/",
+      "publish_date": "2026-04-29T14:26:16.000Z",
+      "teaser": "Lo clave en 20 segundos: Se lanza el Premio Centroamericano de Literatura Infantil, promoviendo historias locales.",
+      "image_url": "https://www.nacion.com/resizer/v2/A4TBSP5M4NFALJ7FPBFWNQPZK4.jpg?auth=f2d181b403fa21a68ef8ee7020a43ab13148c5b6e2e2862f5f0ae78797b14c76&smart=true&width=1920&height=1080",
+      "description": "Se realizará la quinta edición de este premio regional entre abril y agosto, junto con más de 12 organizaciones de fomento cultural de Centroamérica.",
+      "featured": false
+    },
+    {
+      "slug": "alianza-global-vacuna-a-183-millones-de-ninos-tras-impacto-de-la-pandemia",
+      "title": "Alianza global vacuna a 18,3 millones de niños tras impacto de la pandemia",
+      "category": "Mundo",
+      "bullets_20s": "• La campaña Big Catch-Up busca vacunar a millones de niños afectados por la pandemia en todo el mundo.\n• OMS, Unicef y Gavi se unieron en una iniciativa para recuperar la atención primaria en salud infantil.\n• Más de 100 millones de dosis han sido administradas en diversos países para proteger a la niñez.\n• El programa se centra en África y Asia, donde el rezago en vacunación es más notable.\n• La alianza beneficia especialmente a las comunidades que más sufrieron durante la crisis sanitaria.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/ciencia/oms-unicef-y-gavi-protegen-a-183-millones-de/TFEZNKMLINBGLM3FQJM2KKSCIA/story/",
+      "publish_date": "2026-04-29T14:20:54.000Z",
+      "teaser": "Lo clave en 20 segundos: La campaña global protege a millones de niños vacunando tras la pandemia.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZIBYWXOMUNFVVJWKEQXZJXQ5XE.png?auth=0d13d0259d1d74c7cda1d968336fa3914f3016a71c0bff42baca6721d27df25d&smart=true&width=1920&height=1080",
+      "description": "La campaña Big Catch-Up de la OMS, Unicef y Gavi logra administrar más de 100 millones de dosis en 36 países para proteger a la niñez tras el rezago de la pandemia. Conozca el impacto en África y Asia.",
+      "featured": false
+    },
+    {
+      "slug": "el-polo-magnetico-de-la-tierra-se-desplazo-y-tendra-un-impacto-crucial-en-la-navegacion-global-y-en-la-tecnologia-de-los",
+      "title": "El polo magnético de la Tierra se desplazó y tendrá un impacto crucial en la navegación global y en la tecnología de los celulares",
+      "category": "Ciencia",
+      "bullets_20s": "• El polo magnético se ha desplazado, impactando la navegación global y la tecnología en general.\n• Se realizó una actualización del World Magnetic Model 2025 tras este desplazamiento reciente.\n• La aviación y el transporte marítimo se verán afectados por esta reciente actualización del modelo.\n• Esta situación tiene implicaciones importantes para dispositivos como celulares y tecnologías de comunicación.\n• Expertos enfatizan la necesidad de un monitoreo constante del polo magnético y su evolución.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/ciencia/el-polo-magnetico-de-la-tierra-se-desplazo-y/J2VF5GTJSVG3ROT3X6TB7Z4QQI/story/",
+      "publish_date": "2026-04-29T14:20:25.000Z",
+      "teaser": "Lo clave en 20 segundos: el polo magnético se desplaza, afectando navegación y tecnología mundial.",
+      "image_url": "https://www.nacion.com/resizer/v2/DIURFG2KPRGMTHW3GY2GCKFYK4.png?auth=ff6c1fefcca03d57c7ef15c586e134d7e282a643d1119d409f01417176769ab6&smart=true&width=1920&height=1080",
+      "description": "El desplazamiento del polo norte magnético obligó a actualizar el World Magnetic Model 2025, clave para navegación global, aviación, barcos y tecnología diaria.",
+      "featured": false
+    },
+    {
+      "slug": "migracion-a-la-inversa-por-que-cada-vez-mas-estadounidenses-se-mudan-a-irlanda",
+      "title": "Migración a la inversa: por qué cada vez más estadounidenses se mudan a Irlanda",
+      "category": "Mundo",
+      "bullets_20s": "• La migración inversa se ha vuelto un fenómeno interesante en el contexto global actual.\n• Cada vez más estadounidenses buscan nuevas oportunidades en países europeos como Irlanda.\n• Las condiciones laborales y la calidad de vida en Irlanda son atractivas para muchos inmigrantes.\n• Las cifras indican un cambio significativo en las dinámicas de migración entre EE.UU. e Irlanda.\n• Este incremento podría generar un impacto en la cultura y economía irlandesa significativamente.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c1l96jq8292o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-04-29T14:06:24.000Z",
+      "teaser": "Lo clave en 20 segundos: Aumento de estadounidenses que eligen Irlanda para vivir y trabajar.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/164d/live/793ec2c0-43d4-11f1-bf3e-3d07e81b01ce.jpg",
+      "description": "Los datos más recientes muestran que la cifra de estadounidenses que emigraron a Irlanda casi se duplicó, pasando de 4.900 a 9.600 entre 2024 y 2025. Esto supera al número de irlandeses que se dirigen en sentido contrario.",
+      "featured": false
+    },
+    {
       "slug": "el-problematico-silencio-del-pentagono-sobre-la-investigacion-del-ataque-contra-una-escuela-de-ninas-en-iran-en-el-que-m",
       "title": "El \"problématico\" silencio del Pentágono sobre la investigación del ataque contra una escuela de niñas en Irán en el que murieron 110 menores",
       "category": "Mundo",
@@ -184,13 +236,13 @@
     },
     {
       "slug": "las-raices-colombianas-de-jaafar-jackson-quien-interpreta-a-su-tio-en-la-exitosa-pelicula-michael",
-      "title": "Las raíces colombianas de Jaafar Jackson, quien interpreta a su tío en la exitosa película \"Michael\"",
+      "title": "Las raíces colombianas de Jaafar Jackson, quien interpreta a su tío en la exitosa película 'Michael'",
       "category": "Mundo",
-      "bullets_20s": "• Jaafar Jackson es parte de una familia musical icónica con profundas raíces colombianas.\n• Su padre, Jermaine, fue miembro de The Jackson 5, influyendo en la música pop mundial.\n• La carrera de Alejandra como diseñadora de modas destaca en Colombia y el extranjero.\n• La película \"Michael\" explora la vida del famoso cantante y su legado musical.\n• Jaafar ha tomado un camino artístico que sigue la tradición familiar de los Jackson.",
+      "bullets_20s": "• Jaafar Jackson es conocido por su papel en la película sobre su conocido tío Michael.\n• La película 'Michael' ha generado gran expectativa por su lanzamiento próximo.\n• Jaafar pertenece a la icónica familia Jackson, famosa en la música mundial.\n• Alejandra, su madre, es una destacada diseñadora de moda en Colombia.\n• La influencia cultural de su familia se refleja en su carrera artística.\n• Muchos esperan ver la interpretación de Jaafar en este emocionante proyecto.\n• Su padre, Jermaine, fue parte esencial de The Jackson 5 en su momento.\n• La conexión entre Colombia y la familia Jackson es muy significativa.\n• Jaafar busca dejar su propio legado en la industria del entretenimiento.\n• La película no solo trata sobre Michael, también explora su familia.",
       "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/cq8p2384490o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-29T09:46:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Jaafar Jackson, hijo de Jermaine, conecta con sus raíces colombianas en el cine.",
+      "teaser": "Lo clave en 20 segundos: Jaafar Jackson explora su herencia familiar en la película 'Michael'.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/385b/live/5dd67d50-4318-11f1-8d32-27ce5a537ca2.jpg",
       "description": "Jaafar es hijo de Jermaine, quien hizo parte de The Jackson 5 y luego tuvo una carrera musical en solitario, y Alejandra, una diseñadora de modas bogotana.",
       "featured": false
@@ -446,37 +498,37 @@
       "slug": "pe-viesa-03-procedimiento-solicitud-y-aprobacion-de-compras-de-la-federacion-de-estudiantes-del-instituto-tecnologico-de",
       "title": "PE-VIESA-03 Procedimiento Solicitud y Aprobación de Compras de la Federación de Estudiantes del Instituto Tecnológico de Costa",
       "category": "Costa Rica",
-      "bullets_20s": "• El documento establece directrices para la gestión eficiente de compras en el ITCR.\n• Busca agilizar procesos y garantizar el uso adecuado de los recursos estudiantiles.\n• Incluye pasos claros para la solicitud de productos y servicios necesarios.\n• Destaca la importancia de la transparencia en la administración de fondos.\n• Promueve la participación activa de los estudiantes en el proceso de compras.",
+      "bullets_20s": "• Nuevo procedimiento para la solicitud de compras en la Federación de Estudiantes del Instituto Tecnológico.\n• Este procedimiento busca mejorar la transparencia en procesos de adquisición en el Instituto.\n• Incluye directrices sobre la aprobación de compras para los estudiantes del tecnológico.\n• La última modificación del manual data de abril de 2026, incluyendo actualizaciones relevantes.\n• Este manual es esencial para la gestión adecuada de recursos estudiantiles y su uso.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-viesa-03-procedimiento-solicitud-aprobacion-compras-federacion-estudiantes-instituto-tecnologico",
       "publish_date": "2026-04-28T21:28:05.000Z",
-      "teaser": "Lo clave en 20 segundos: Proceso claro para compras en la Federación de Estudiantes del ITCR.",
+      "teaser": "Lo clave en 20 segundos: nuevo procedimiento de compras en la Federación de Estudiantes del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "Manual y procedimiento para la solicitud y aprobación de compras en la Federación de Estudiantes del ITCR.",
+      "description": "Manuales y Procedimientos relacionados a la compra en el Instituto Tecnológico de Costa Rica.",
       "featured": false
     },
     {
       "slug": "pe-viesa-02-procedimiento-modificacion-del-presupuesto-de-la-federacion-de-estudiantes-del-instituto-tecnologico-de-cost",
       "title": "PE-VIESA-02 Procedimiento Modificación del Presupuesto de la Federación de Estudiantes del Instituto Tecnológico de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• Manual de procedimiento para modificar el presupuesto estudiantil del Instituto Tecnológico de Costa Rica.\n• Guía para estudiantes sobre las regulaciones presupuestarias en la federación estudiantil.\n• Importancia de la gestión financiera en las actividades estudiantiles y su transparencia.\n• Pasos a seguir para la presentación de solicitudes de modificación de presupuesto.\n• Actualizaciones recientes en la normativa que rige el presupuesto estudiantil.",
+      "bullets_20s": "• Importancia de la correcta gestión del presupuesto en la educación superior.\n• Procedimiento estructurado para modificaciones en el presupuesto estudiantil.\n• La Federación de Estudiantes busca transparencia en sus movimientos.\n• Documentos y manuales relacionados estarán disponibles para consulta.\n• Fecha de la última modificación del procedimiento incluye abril de 2026.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-viesa-02-procedimiento-modificacion-presupuesto-federacion-estudiantes-instituto-tecnologico",
       "publish_date": "2026-04-28T21:27:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Procedimiento para la modificación del presupuesto estudiantil en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Nueva normativa para modificar el presupuesto estudiantil en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "evsolano",
+      "description": "evsolano\nMar, 28/04/2026 - 15:27\n\nManuales y Procedimientos\n\nPE-VIESA-02 Procedimiento Modificación del Presupuesto de la Federación de Estudiantes del Instituto Tecnológico de Costa Rica\n\nÚltima modificación\nFecha:\nAbril, 2026",
       "featured": false
     },
     {
       "slug": "pe-viesa-01-procedimiento-formulacion-y-reformulacion-del-plan-anual-de-trabajo-de-la-federacion-de-estudiantes-del-inst",
       "title": "PE-VIESA-01 Procedimiento Formulación y Reformulación del Plan Anual de Trabajo de la Federación de Estudiantes del Instituto Tecnológico de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El procedimiento busca optimizar la formulación del plan anual de trabajo estudiantil.\n• La Federación de Estudiantes del ITCR se enfoca en mejorar la participación y organización.\n• Manuales y procedimientos son clave para la gestión estudiantil efectiva en el ITCR.\n• Se pretende estandarizar las prácticas de planificación en el ámbito educativo.\n• La última modificación fue realizada en abril de 2026, reflejando actualizaciones necesarias.",
+      "bullets_20s": "• Manuales y procedimientos son esenciales para la organización de los estudiantes en el ITCR.\n• El pe-viesa-01 describe la formulación y reformulación de planes de trabajo anuales.\n• La Federación de Estudiantes busca mejorar su dinámica mediante este procedimiento.\n• Es fundamental seguir lineamientos claros para una gestión efectiva del trabajo estudiantil.\n• La actualización de estos procedimientos garantiza una mayor participación estudiantil.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-viesa-01-procedimiento-formulacion-reformulacion-plan-anual-trabajo-federacion-estudiantes",
       "publish_date": "2026-04-28T21:25:19.000Z",
-      "teaser": "Lo clave en 20 segundos: Procedimiento para mejorar la planificación estudiantil en el ITCR.",
+      "teaser": "Lo clave en 20 segundos: Procedimiento para la gestión del Plan Anual en el ITCR.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -544,19 +596,6 @@
       "teaser": "Lo clave en 20 segundos: Mariano Torres explica sus disculpas por polémicas en la cancha.",
       "image_url": "https://www.nacion.com/resizer/v2/W26EFNESCBHHLIWS242DP6RAJI.jpeg?auth=b6e454d13a1cbc8b8bf275e06fb9c0f2054adb484f90c4c4a143237a7f5ce890&smart=true&width=1280&height=720",
       "description": "Mariano Torres respondió sin rodeos si es malcriado dentro de la cancha.",
-      "featured": false
-    },
-    {
-      "slug": "el-polo-magnetico-de-la-tierra-se-desplazo-y-tendra-un-impacto-crucial-en-la-navegacion-global-y-en-la-tecnologia-de-los",
-      "title": "El polo magnético de la Tierra se desplazó y tendrá un impacto crucial en la navegación global y en la tecnología de los celulares",
-      "category": "Ciencia",
-      "bullets_20s": "• El polo magnético de la Tierra afecta la navegación de aeronaves y barcos en todo el mundo.\n• El World Magnetic Model 2025 se actualizará para adaptarse a este nuevo desplazamiento magnético.\n• Las aplicaciones de navegación en teléfonos móviles también dependen del modelo magnético actualizado.\n• La ciencia detrás del desplazamiento del polo magnético ha sido estudiada por décadas.\n• Este fenómeno puede afectar la actividad del clima espacial y otros sistemas tecnológicos.",
-      "source_name": "La Nación / Argentina / GDA",
-      "source_url": "https://www.nacion.com/ciencia/el-polo-magnetico-de-la-tierra-se-desplazo-y/J2VF5GTJSVG3ROT3X6TB7Z4QQI/story/",
-      "publish_date": "2026-04-28T20:23:32.000Z",
-      "teaser": "Lo clave en 20 segundos: El desplazamiento del polo magnético impacta navegación y tecnología celular.",
-      "image_url": "https://www.nacion.com/resizer/v2/DIURFG2KPRGMTHW3GY2GCKFYK4.png?auth=ff6c1fefcca03d57c7ef15c586e134d7e282a643d1119d409f01417176769ab6&smart=true&width=1920&height=1080",
-      "description": "El desplazamiento del polo norte magnético obligó a actualizar el World Magnetic Model 2025, clave para navegación global, aviación, barcos y tecnología diaria.",
       "featured": false
     },
     {
@@ -693,11 +732,11 @@
       "slug": "gecco-2026-conferencia-internacional-de-computacion-evolutiva-llega-a-costa-rica",
       "title": "GECCO 2026: conferencia internacional de computación evolutiva llega a Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• Costa Rica será sede de la conferencia internacional GECCO 2026 en julio del 2026.\n• El evento reúne expertos en computación evolutiva, inteligencia artificial y optimización.\n• Se desarrollará en formato híbrido, favoreciendo la participación global y local.\n• Especialistas internacionales compartirán sus conocimientos durante charlas magistrales.\n• El Tecnológico de Costa Rica organiza el evento, posicionando al país en innovación.",
+      "bullets_20s": "• GECCO 2026 se llevará a cabo en Costa Rica del 13 al 17 de julio próximo.\n• El evento es clave en computación evolutiva, inteligencia artificial y optimización.\n• Se desarrollará en un formato híbrido, uniendo participantes del mundo.\n• El Tecnológico de Costa Rica es la institución organizadora local del evento.\n• Expertos internacionales darán charlas magistrales durante la conferencia.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/gecco-2026-conferencia-internacional-computacion-evolutiva-llega-costa-rica",
       "publish_date": "2026-04-28T17:43:08.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica acogerá GECCO 2026, crucial para la computación evolutiva.",
+      "teaser": "Lo clave en 20 segundos: GECCO 2026 reunirá expertos en computación evolutiva e IA en julio.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-04-28-a-las-11.50.49-a-m.png",
       "description": "GECCO 2026: conferencia internacional de computación evolutiva llega a Costa Rica",
       "featured": false
@@ -5474,5 +5513,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-29T13:45:30.651Z"
+  "generated_at": "2026-04-29T14:45:30.362Z"
 }
