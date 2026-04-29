@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "pusc-expulsa-a-dos-diputados-que-salvaron-a-rodrigo-chaves-del-levantamiento-de-la-inmunidad",
+      "title": "PUSC expulsa a dos diputados que salvaron a Rodrigo Chaves del levantamiento de la inmunidad",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Tribunal de Ética del PUSC tomó una decisión controversial respecto a sus miembros.\n• Los diputados implicados habían jugado un papel clave en la defensa de Rodrigo Chaves.\n• Esta expulsión resalta las tensiones internas dentro del Partido Unidad Social Cristiana.\n• La medida genera un impacto significativo en la política actual del país.\n• Se espera que haya reacciones tanto dentro como fuera del partido tras esta decisión.",
+      "source_name": "Sebastián Sánchez, Aarón Sequeira",
+      "source_url": "https://www.nacion.com/politica/pusc-expulsa-a-dos-diputados-que-salvaron-a/AKRG3RJRXJCMZB64WXKC7KYO5A/story/",
+      "publish_date": "2026-04-29T03:28:38.000Z",
+      "teaser": "Lo clave en 20 segundos: expulsión de diputados en PUSC por proteger a Rodrigo Chaves.",
+      "image_url": "https://www.nacion.com/resizer/v2/YMR6ZYEY4JDF3JLSAKIENWYIYE.jpg?auth=5f9b8f1945c6a5dc5650ce65c0052da8b16bc9a0535c4d9ff2c23c35e89c9476&smart=true&width=3600&height=2400",
+      "description": "El Tribunal de Ética del Partido Unidad Social Cristiana expulsó a dos diputados que salvaron a Rodrigo Chaves.",
+      "featured": false
+    },
+    {
       "slug": "chances-de-la-jps-vea-los-numeros-ganadores-del-sorteo-de-este-martes-28-de-abril",
       "title": "Chances de la JPS: vea los números ganadores del sorteo de este martes 28 de abril",
       "category": "Costa Rica",
-      "bullets_20s": "• El sorteo de la JPS se llevó a cabo en cumplimiento de sus actividades regulares.\n• Este evento genera gran expectativa entre los participantes en Costa Rica.\n• Los números ganadores fueron anunciados tras realizar el sorteo correspondiente.\n• La JPS promueve la participación ciudadana a través de sus chances y loterías.\n• Cada sorteo es una oportunidad emocionante para los jugadores y la comunidad.",
+      "bullets_20s": "• La Junta de Protección Social llevó a cabo un nuevo sorteo de chances el 28 de abril.\n• Los números ganadores fueron anunciados por la JPS en la noche del sorteo.\n• Este sorteo es parte de la actividad regular de la Junta de Protección Social.\n• El interés por los chances sigue creciendo entre los habitantes de Costa Rica.\n• Se espera que los ganadores reclamen sus premios en la próxima semana.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/el-pais/chances-de-la-jps-vea-los-numeros-ganadores-del/GZ3FB2SARZGAJEVCQO3L4OXMNA/story/",
       "publish_date": "2026-04-29T01:54:43.000Z",
-      "teaser": "Lo clave en 20 segundos: Sorteo de la JPS generó emoción con números ganadores anunciados.",
+      "teaser": "Lo clave en 20 segundos: JPS realizó el sorteo de los chances este 28 de abril, conoce los números ganadores.",
       "image_url": "https://www.nacion.com/resizer/v2/NU7OEJE4VZADTJAAYMYCUPWBVI.jpg?auth=5ee9a47347fd572ae06b22ae59f0882d2df33371b311fcc6272a1a9accee88c6&smart=true&width=1029&height=611",
       "description": "La Junta de Protección Social (JPS) realizó, la noche de este martes 28 de abril el sorteo de los chances número 7.030.",
       "featured": false
@@ -43,11 +56,11 @@
       "slug": "el-multimillonario-indio-que-se-ofrece-a-salvar-a-los-80-hipopotamos-de-pablo-escobar-condenados-a-la-eutanasia-en-colom",
       "title": "El multimillonario indio que se ofrece a salvar a los 80 hipopótamos de Pablo Escobar condenados a la eutanasia en Colombia",
       "category": "Mundo",
-      "bullets_20s": "• Los hipopótamos fueron introducidos en Colombia por Pablo Escobar en los años 80.\n• El gobierno colombiano busca soluciones ante la sobrepoblación de estos animales.\n• Anant Ambani ha señalado su deseo de rehabilitar a los hipopótamos en un refugio.\n• Los hipopótamos representan un riesgo ecológico en el ecosistema colombiano actual.\n• La eutanasia ha sido considerada como una medida extrema por las autoridades.",
-      "source_name": "",
+      "bullets_20s": "• Los hipopótamos de Escobar son una especie invasora en Colombia y su población ha crecido.\n• Se discute la mejor manera de manejar la situación con estos animales en el país.\n• El ofrecimiento de Ambani llama la atención por su carácter altruista y mediático.\n• La eutanasia ha sido considerada por las autoridades como opción viable en el pasado.\n• Este caso resalta la interacción entre la economía, el bienestar animal y la conservación.",
+      "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c3d29md73g1o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-29T00:59:54.000Z",
-      "teaser": "Lo clave en 20 segundos: Un multimillonario indio propone salvar a hipopótamos en peligro en Colombia.",
+      "teaser": "Lo clave en 20 segundos: Un multimillonario busca salvar hipopótamos en Colombia de la eutanasia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/7ad0/live/45750e60-4350-11f1-8593-a7a1bab46055.jpg",
       "description": "Anant Ambani, hijo del multimillonario Mukesh Ambani, ha ofrecido al gobierno de Colombia una salvación para decenas de hipopótamos que están condenados a la eutanasia en el país sudamericano.",
       "featured": false
@@ -225,37 +238,37 @@
       "slug": "pe-viesa-03-procedimiento-solicitud-y-aprobacion-de-compras-de-la-federacion-de-estudiantes-del-instituto-tecnologico-de",
       "title": "PE-VIESA-03 Procedimiento Solicitud y Aprobación de Compras de la Federación de Estudiantes del Instituto Tecnológico de Costa",
       "category": "Costa Rica",
-      "bullets_20s": "• El procedimiento PE-VIESA-03 regula la adquisición de bienes y servicios en la federación estudiantil.\n• Se busca promover la transparencia y eficiencia en el manejo de los recursos estudiantiles.\n• Los estudiantes deben seguir normas específicas para la presentación de solicitudes de compra.\n• El manual incluye pasos claros para la aprobación de gastos en actividades estudiantiles.\n• Se garantiza que todos los procesos sigan un enfoque justo y equitativo para los estudiantes.",
+      "bullets_20s": "• Nuevas directrices para la compra de materiales en el Instituto Tecnológico de Costa Rica.\n• El procedimiento busca mejorar la transparencia en las adquisiciones estudiantiles.\n• Se implementarán controles para optimizar el uso de recursos financieros.\n• El manual incluye pasos claros para presentar solicitudes de compra de manera efectiva.\n• Se fomentará la participación activa de los estudiantes en el proceso de compra.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-viesa-03-procedimiento-solicitud-aprobacion-compras-federacion-estudiantes-instituto-tecnologico",
       "publish_date": "2026-04-28T21:28:05.000Z",
-      "teaser": "Lo clave en 20 segundos: Procedimiento sobre compras en la Federación de Estudiantes del TEC.",
+      "teaser": "Lo clave en 20 segundos: Nuevo procedimiento de compras en el Instituto Tecnológico de Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "Manuales y Procedimientos sobre la aprobación de compras en el Instituto Tecnológico de Costa Rica.",
+      "description": "evsolano",
       "featured": false
     },
     {
       "slug": "pe-viesa-02-procedimiento-modificacion-del-presupuesto-de-la-federacion-de-estudiantes-del-instituto-tecnologico-de-cost",
       "title": "PE-VIESA-02 Procedimiento Modificación del Presupuesto de la Federación de Estudiantes del Instituto Tecnológico de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• Este procedimiento es fundamental para la gestión financiera de la Federación de Estudiantes.\n• Se establece cómo se debe realizar la modificación del presupuesto anual.\n• Asegura la transparencia en el uso de recursos destinados a actividades estudiantiles.\n• Incluye los pasos a seguir para la presentación de solicitudes de modificación del presupuesto.\n• Fomenta la participación activa de los estudiantes en la toma de decisiones financieras.\n• Se espera que todos los miembros de la Federación estén informados sobre este proceso.\n• Es una guía para una gestión eficiente de los recursos disponibles para estudiantes.\n• La última modificación se realizó en abril de 2026, resaltando su actualización.\n• Promueve el conocimiento acerca del manejo financiero en instituciones educativas.",
+      "bullets_20s": "• El procedimiento PE-VIESA-02 detalla los pasos para modificar presupuestos estudiantiles.\n• Se busca mejorar la gestión financiera de la Federación de Estudiantes del TEC.\n• El documento establece criterios claros para las modificaciones de presupuesto.\n• Destaca la importancia de la transparencia y la rendición de cuentas.\n• Fechas y pasos específicos son cruciales para la correcta ejecución de cambios.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-viesa-02-procedimiento-modificacion-presupuesto-federacion-estudiantes-instituto-tecnologico",
       "publish_date": "2026-04-28T21:27:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Conozca el procedimiento de modificación del presupuesto estudiantil en el Tecnológico.",
+      "teaser": "Lo clave en 20 segundos: Detalles sobre la modificación del presupuesto estudiantil del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "Evsolano. Manuales y Procedimientos. PE-VIESA-02 Procedimiento Modificación del Presupuesto de la Federación de Estudiantes.",
+      "description": "evsolano Mar, 28/04/2026 - 15:27 Manuales y Procedimientos PE-VIESA-02 Procedimiento Modificación del Presupuesto de la Federación de Estudiantes del Instituto Tecnológico de Costa Rica Última modificación Fecha: Abril, 2026",
       "featured": false
     },
     {
       "slug": "pe-viesa-01-procedimiento-formulacion-y-reformulacion-del-plan-anual-de-trabajo-de-la-federacion-de-estudiantes-del-inst",
       "title": "PE-VIESA-01 Procedimiento Formulación y Reformulación del Plan Anual de Trabajo de la Federación de Estudiantes del Instituto Tecnológico de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El procedimiento detalla cómo se formula el plan anual de trabajo para estudiantes.\n• Establece lineamientos para la participación activa de los estudiantes en el ITCR.\n• Incluye la importancia de la cooperación entre diferentes organizaciones estudiantiles.\n• El manual busca optimizar el uso de recursos y tiempo en la planeación.\n• La reforma del plan asegura la adaptabilidad a nuevas realidades educativas.",
+      "bullets_20s": "• El procedimiento está diseñado para mejorar la gestión del plan de trabajo en el ITCR.\n• Se busca facilitar la formulación y reformulación del plan de trabajo anual.\n• Es importante que todos los estudiantes conozcan este procedimiento.\n• El manual incluye pasos detallados y requisitos necesarios para su implementación.\n• La actualización de este procedimiento se realizó en abril de 2026.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-viesa-01-procedimiento-formulacion-reformulacion-plan-anual-trabajo-federacion-estudiantes",
       "publish_date": "2026-04-28T21:25:19.000Z",
-      "teaser": "Lo clave en 20 segundos: Procedimiento para la formulación del plan anual de trabajo estudiantil.",
+      "teaser": "Lo clave en 20 segundos: Mejora en la gestión del plan anual de trabajo estudiantil.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -472,11 +485,11 @@
       "slug": "gecco-2026-conferencia-internacional-de-computacion-evolutiva-llega-a-costa-rica",
       "title": "GECCO 2026: conferencia internacional de computación evolutiva llega a Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• Costa Rica será sede de una conferencia internacional sobre computación evolutiva en julio de 2026.\n• El evento promoverá la inteligencia artificial y la optimización en un formato híbrido.\n• Se espera la participación de investigadores y estudiantes de todo el mundo en el congreso.\n• Las sesiones incluirán charlas magistrales de expertos en diversas áreas tecnológicas.\n• Se ofrecerán pases diarios asequibles para facilitar el acceso a la comunidad del TEC.",
+      "bullets_20s": "• Del 13 al 17 de julio, Costa Rica será sede de GECCO 2026, importante encuentro académico.\n• Este evento se centra en la computación evolutiva, inteligencia artificial y optimización.\n• Se practicará un formato híbrido para conectar a investigadores y académicos de todo el mundo.\n• Se celebrarán charlas magistrales con especialistas internacionales destacados en las áreas.\n• La participación está abierta para estudiantes y profesionales interesados en innovación tecnológica.",
       "source_name": "sepacheco",
-      "source_url": "http://www.tec.ac.cr/gecco-2026-conferencia-internacional-de-computacion-evolutiva-llega-costa-rica",
+      "source_url": "http://www.tec.ac.cr/gecco-2026-conferencia-internacional-computacion-evolutiva-llega-costa-rica",
       "publish_date": "2026-04-28T17:43:08.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica será sede de una importante conferencia de computación evolutiva en julio de 2026.",
+      "teaser": "Lo clave en 20 segundos: GECCO 2026 reunirá a expertos en computación evolutiva y AI en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-04-28-a-las-11.50.49-a-m.png",
       "description": "GECCO 2026: conferencia internacional de computación evolutiva llega a Costa Rica",
       "featured": false
@@ -745,11 +758,11 @@
       "slug": "little-los-angeles-el-barrio-en-cdmx-donde-mexicanos-deportados-de-eeuu-comienzan-en-un-pais-que-apenas-conocen",
       "title": "Little Los Ángeles, el barrio en CDMX donde mexicanos deportados de EE.UU. comienzan en un país que apenas conocen",
       "category": "Mundo",
-      "bullets_20s": "• Little Los Ángeles se ha convertido en un refugio para deportados en la Ciudad de México.\n• La comunidad fomenta la conexión entre aquellos que han pasado por experiencias similares.\n• El spanglish se habla comúnmente, creando un ambiente familiar y acogedor.\n• Los deportados enfrentan desafíos de readaptación y reintegración a la vida en México.\n• Su historia es un reflejo de la complejidad de la migración entre México y EE.UU.",
+      "bullets_20s": "• Little Los Ángeles es un barrio en la Ciudad de México con una historia interesante.\n• Los deportados encuentran un espacio que les brinda seguridad y apoyo a su llegada.\n• La comunidad se caracteriza por el uso del spanglish y costumbres compartidas.\n• El sentimiento de pertenencia es fundamental para los que regresan a México.\n• El barrio se convierte en un nuevo hogar para muchas familias afectadas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/clyxrnxl5nko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-04-28T13:14:27.000Z",
-      "teaser": "Lo clave en 20 segundos: un barrio en CDMX que acoge a mexicanos deportados de EE.UU.",
+      "teaser": "Lo clave en 20 segundos: Un barrio en CDMX que acoge a mexicanos deportados ofreciendo comunidad y seguridad.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/2c12/live/df6995b0-3f48-11f1-b6d9-e5e121b5056a.jpg",
       "description": "Mexicanos retornados a su país han convertido esta zona en un lugar en el que se sienten seguros gracias a una comunidad que habla spanglish y que también pasó por la experiencia de ser expulsados de EE.UU. tras casi toda una vida en aquel país.",
       "featured": false
@@ -5253,5 +5266,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-04-29T02:45:30.073Z"
+  "generated_at": "2026-04-29T03:45:29.922Z"
 }
