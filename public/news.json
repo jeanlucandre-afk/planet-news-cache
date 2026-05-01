@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "este-diputado-presento-el-primer-proyecto-de-ley-de-la-asamblea-legislativa-entrante",
+      "title": "Este diputado presentó el primer proyecto de ley de la Asamblea Legislativa entrante",
+      "category": "Costa Rica",
+      "bullets_20s": "• El diputado busca presentar un proyecto de ley para enfrentar la crisis de combustibles.\n• La iniciativa está relacionada con la situación actual en Oriente Medio y sus efectos.\n• Se espera que el proyecto mitigue el impacto económico en la población costarricense.\n• La Asamblea Legislativa tendrá la responsabilidad de debatir y aprobar la propuesta.\n• Este tipo de iniciativas son clave para proteger la economía nacional ante crisis externas.",
+      "source_name": "Roger Bolaños Vargas",
+      "source_url": "https://www.nacion.com/politica/este-diputado-presento-el-primer-proyecto-de-ley/CMSHHKACIVADTB4R3VRFDBBKSM/story/",
+      "publish_date": "2026-05-01T17:18:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Un diputado propone ley para paliar el impacto del aumento de combustibles.",
+      "image_url": "https://www.nacion.com/resizer/v2/52WM6DIIRZEOVLM4M7EH2YLRO4.jpeg?auth=e3a43b2539ebb9af74697395602a8775d556a37a78d60218d5da88b4941a231e&smart=true&width=3120&height=4160",
+      "description": "Iniciativa proponer reformas para amortiguar aumentos en los precios de los combustibles producto de la guerra en Oriente Medio.",
+      "featured": false
+    },
+    {
+      "slug": "pentagono-excluye-a-anthropic-y-sella-alianza-con-gigantes-tecnologicos-para-uso-de-inteligencia-artificial-militar",
+      "title": "Pentágono excluye a Anthropic y sella alianza con gigantes tecnológicos para uso de inteligencia artificial militar",
+      "category": "Mundo",
+      "bullets_20s": "• El Pentágono busca mejorar su infraestructura tecnológica para aplicaciones militares de inteligencia artificial.\n• Algunas empresas líderes de tecnología forman parte de esta nueva alianza para el desarrollo militar.\n• Anthropic, conocido por sus innovaciones en IA, no fue incluido en esta estrategia del Pentágono.\n• Se espera que esta decisión influya en la manera en que las fuerzas armadas operan con tecnología avanzada.\n• El impacto de esta estrategia se extiende a diversas áreas de defensa y seguridad nacional.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/pentagono-excluye-a-anthropic-y-sella-alianza-con/MLNYN3BSIJHCREBJ34KYBIOVMQ/story/",
+      "publish_date": "2026-05-01T17:08:05.000Z",
+      "teaser": "Lo clave en 20 segundos: Pentágono redefine su estrategia militar con nuevas alianzas en inteligencia artificial.",
+      "image_url": "https://www.nacion.com/resizer/v2/SNRGWUR5YNC4VLUU55IQSU4S2U.jpg?auth=256454b12e72ce7fdda88f82d0ec01dfdf91ca1f48d66e1ab58ac42acf69e9cf&smart=true&width=8256&height=5504",
+      "description": "El Pentágono redefine su estrategia tecnológica con alianzas clave en inteligencia artificial. Conozca qué empresas participan, por qué Anthropic quedó fuera y cómo impacta en el ámbito militar.",
+      "featured": false
+    },
+    {
       "slug": "imn-advierte-aguaceros-con-tormenta-electrica-en-costa-rica-este-viernes",
       "title": "IMN advierte aguaceros con tormenta eléctrica en Costa Rica este viernes",
       "category": "Costa Rica",
@@ -225,11 +251,11 @@
       "slug": "en-video-como-el-narco-usa-el-oro-para-lavar-dinero-especial-de-bbc-mundo",
       "title": "EN VIDEO: Cómo el narco usa el oro para lavar dinero | Especial de BBC Mundo",
       "category": "Mundo",
-      "bullets_20s": "• Los grupos criminales utilizan el oro como herramienta para limpiar dinero ilícito en la región.\n• La extracción de oro ilegal provoca serios problemas ambientales en los ecosistemas locales.\n• Ríos en América Latina sufren contaminación y degradación debido a la minería clandestina.\n• El oro, que antes era espiritual, ahora simboliza el lavado de dinero y el crimen.\n• Las comunidades afrodescendientes enfrentan grandes desafíos frente a la minería ilegal.",
+      "bullets_20s": "• El oro es un medio común utilizado por los narcos para ocultar dinero ilícito.\n• La extracción de oro ilegal está afectando los ecosistemas en América Latina.\n• Grupos criminales utilizan métodos destructivos que contaminan ríos y tierras.\n• Aumenta la preocupación sobre el futuro ambiental debido a esta actividad.\n• Estudios muestran que el oro ha perdido su valor espiritual por su uso criminal.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cvgzwl9ylwgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T11:55:35.000Z",
-      "teaser": "Lo clave en 20 segundos: El oro ahora es utilizado por narcotraficantes para el lavado de dinero, afectando al medio ambiente.",
+      "teaser": "Lo clave en 20 segundos: El narco convierte el oro en herramienta de lavado de dinero y destruye ecosistemas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c105/live/b49802f0-44b0-11f1-9caf-0fcd4fb68138.jpg",
       "description": "El oro, en el pasado un símbolo espiritual, ahora es usado por los grupos criminales para lavar dinero.  Y en América Latina su extracción ilegal se realiza a costa de la deforestación y la contaminación de nuestros ríos.",
       "featured": false
@@ -264,11 +290,11 @@
       "slug": "gaviotas-la-utopia-que-trata-de-reinventar-el-mundo-en-colombia-desde-hace-mas-de-medio-siglo-y-su-inesperada-relevancia",
       "title": "Gaviotas, la utopía que trata de reinventar el mundo en Colombia desde hace más de medio siglo (y su inesperada relevancia internacional)",
       "category": "Mundo",
-      "bullets_20s": "• Gaviotas es una aldea en Colombia con más de 50 años de historia y creatividad.\n• La comunidad utiliza tecnologías sostenibles para mejorar su calidad de vida diariamente.\n• Implementan calentadores solares de agua de bajo costo para eficiencia energética.\n• Desarrollan sistemas innovadores como un subibaja que también actúa como bomba de agua.\n• La jardinería forestal comestible es una práctica común para cultivar alimentos.\n• La experiencia de Gaviotas ofrece un modelo de desarrollo sostenible para el mundo.\n• La aldea ha atraído atención internacional por sus enfoques innovadores en ecología.\n• El uso de biocombustibles es fundamental en su autonomía energética.\n• Gaviotas muestra cómo la creatividad puede generar soluciones viables a problemas actuales.\n• Este proyecto se inspira en la necesidad de vivir en armonía con la naturaleza.",
+      "bullets_20s": "• Gaviotas es un modelo de comunidad sostenible en Colombia que ha existido por décadas.\n• Innovaciones como el uso de energía solar han mejorado la calidad de vida de sus habitantes.\n• Desarrollan tecnología amigable con el medio ambiente para satisfacer sus necesidades.\n• La jardinería forestal comestible es una de las prácticas más destacadas de la aldea.\n• La comunidad busca ser un ejemplo a seguir para otras regiones del mundo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2l2nwj0zdjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T11:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: Gaviotas es un modelo de desarrollo sostenible que inspira al mundo con creatividad.",
+      "teaser": "Lo clave en 20 segundos: Gaviotas es un modelo de sostenibilidad que inspira a nivel global.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ba9f/live/d1ec4f40-44cf-11f1-8de1-593a7bb5acaa.jpg",
       "description": "La aldea dependía de invenciones de elaboración propia para sobrevivir: desde calentadores de agua solares de bajo costo y un subibaja infantil que servía también como bomba de agua, hasta la jardinería forestal comestible y los biocombustibles.",
       "featured": false
@@ -290,11 +316,11 @@
       "slug": "que-aprendi-de-las-adolescentes-tras-hablar-con-150-chicas-de-entre-13-y-17-anos",
       "title": "Qué aprendí de las adolescentes tras hablar con 150 chicas de entre 13 y 17 años",
       "category": "Mundo",
-      "bullets_20s": "• El análisis revela la lucha interna de las jóvenes en la sociedad actual.\n• Las chicas expresan inquietudes profundas sobre su autoestima y valor personal.\n• Observan que el patriarcado sigue influyendo en sus percepciones.\n• El feminismo ha mejorado la visibilidad, pero las actitudes persisten.\n• Se discute la importancia de la educación en la transformación social.",
+      "bullets_20s": "• Un estudio revela percepciones de chicas en su adolescencia entre 13 y 17 años.\n• Las influences sociales afectan cómo las adolescentes se ven a sí mismas.\n• El contexto del feminismo contemporáneo sigue influyendo en estas jóvenes.\n• Muchachas hablan de presiones sociales y idealización en sus vidas diarias.\n• Se explora cómo los medios proyectan imágenes que afectan la autoestima.\n• El diálogo entre generaciones es clave para entender sus realidades.\n• Necesitan plataformas para expresar sus inquietudes y experiencias.\n• Las chicas buscan apoyo entre ellas para enfrentar estos desafíos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cn53gv53vg3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T10:08:39.000Z",
-      "teaser": "Lo clave en 20 segundos: Cómo las adolescentes enfrentan su identidad y las presiones sociales.",
+      "teaser": "Lo clave en 20 segundos: Las adolescentes hoy enfrentan viejos estigmas a pesar del avance feminista.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/a119/live/7ab2ff20-3792-11f1-b1d4-ff58a01bf8cd.png",
       "description": "A pesar de los avances del feminismo, ¿por qué las adolescentes siguen viéndose a sí mismas a través de la mirada de los muchachos?",
       "featured": false
@@ -303,11 +329,11 @@
       "slug": "anta-la-innovadora-compania-china-de-ropa-deportiva-que-desafia-a-nike-y-adidas",
       "title": "Anta, la innovadora compañía china de ropa deportiva que desafía a Nike y Adidas",
       "category": "Mundo",
-      "bullets_20s": "• Anta ha incrementado su presencia en el mercado deportivo de China significativamente en años recientes.\n• La compañía se ha centrado en innovaciones tecnológicas en sus productos deportivos.\n• Anta está diversificando su estrategia al enfocarse en el mercado occidental.\n• La competencia con gigantes como Nike y Adidas plantea desafíos y oportunidades.\n• El sector de la ropa deportiva está en constante evolución y cambio global.\n• Anta busca utilizar sostenibilidad como un punto clave en su expansión internacional.",
+      "bullets_20s": "• Anta está consolidando su presencia en el mercado global de ropa deportiva en la última década.\n• La compañía china intenta desafiar a marcas icónicas como Nike y Adidas en todo el mundo.\n• Con innovaciones y tecnología, Anta busca captar la atención de los consumidores occidentales.\n• El crecimiento de Anta puede alterar el panorama competitivo en la industria del deporte.\n• La expansión hacia Occidente representa una oportunidad estratégica para la marca Anta.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cgmem0vr24ro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T09:45:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Anta desafía a gigantes del mercado deportivo con nuevas estrategias y crecimiento.",
+      "teaser": "Lo clave en 20 segundos: Anta busca competir con Nike y Adidas en el mercado occidental.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c005/live/c39c8eb0-4555-11f1-a4b0-8306ec2ff5e9.jpg",
       "description": "Con una firme presencia en el mercado chino, Anta apunta ahora a conquistar Occidente y a competir con marcas globales como Nike y Adidas.",
       "featured": false
@@ -329,11 +355,11 @@
       "slug": "la-paradoja-de-noruega-el-pais-que-gana-miles-de-millones-con-la-subida-del-precio-del-petroleo-pero-cada-vez-lo-usa-men",
       "title": "La paradoja de Noruega, el país que gana miles de millones con la subida del precio del petróleo pero cada vez lo usa menos",
       "category": "Mundo",
-      "bullets_20s": "• Noruega se beneficia enormemente de la subida de precios del petróleo en los mercados internacionales.\n• El país ha logrado diversificar su economía, reduciendo la dependencia del petróleo.\n• A pesar de los ingresos, Noruega está invirtiendo en energías limpias y sostenibles.\n• El equilibrio entre la exportación y el uso interno del petróleo es un tema complejo.\n• La red energética noruega es reconocida por ser una de las más limpias del mundo.",
+      "bullets_20s": "• Noruega se beneficia económicamente de la exportación de petróleo en un contexto de precios altos.\n• A pesar de su riqueza petrolera, Noruega busca alternativas a los combustibles fósiles.\n• El país cuenta con una impresionante red energética que es prácticamente libre de contaminación.\n• La política energética de Noruega refleja un enfoque más sostenible y consciente del medio ambiente.\n• El dilema entre ganancias económicas y responsabilidad ambiental plantea preguntas cruciales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c98r144q49ro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T03:53:12.000Z",
-      "teaser": "Lo clave en 20 segundos: Noruega gana con el petróleo pero lo usa cada vez menos.",
+      "teaser": "Lo clave en 20 segundos: Noruega se enriquece con el petróleo, pero avanza hacia energías más limpias.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/47f3/live/7aab3940-44bf-11f1-813e-bf7166e1ca58.jpg",
       "description": "El próspero país nórdico tiene una de las redes energéticas menos contaminantes del mundo, pero también un gran negocio con la exportación de combustibles fósiles.",
       "featured": false
@@ -914,11 +940,11 @@
       "slug": "pe-ai-19-aseguramiento-de-la-calidad",
       "title": "PE-AI-19 Aseguramiento de la calidad",
       "category": "Tecnología",
-      "bullets_20s": "• El aseguramiento de la calidad es un proceso fundamental en diversos sectores.\n• Se utilizan manuales y procedimientos para garantizar la eficiencia en las labores.\n• La última modificación se registró en abril de 2026.\n• Es importante seguir las pautas establecidas para mantener estándares altos.\n• Los documentos son fundamentales para asegurar la coherencia en los procesos.",
+      "bullets_20s": "• El aseguramiento de la calidad es vital para la mejora continua en procesos educativos.\n• Manuales y procedimientos garantizan estándares altos en el ámbito académico y profesional.\n• La última modificación brinda actualizaciones necesarias para el cumplimiento de normas.\n• FE-AI-19 establece requisitos claros para el seguimiento de la calidad en proyectos.\n• La implementación eficaz impacta positivamente en la formación de estudiantes y personal.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ai-19-aseguramiento-calidad",
       "publish_date": "2026-04-30T15:55:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Aseguramiento de la calidad es crucial para diversos sectores.",
+      "teaser": "Lo clave en 20 segundos: Aseguramiento de la calidad fundamental en educación y procesos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -1590,11 +1616,11 @@
       "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
       "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica otorgó 23,323 becas en 2025, apoyando a 15,025 estudiantes en sus estudios.\n• Las becas socioeconómicas tuvieron un aumento significativo en sus montos, incentivando el acceso a la educación.\n• El TEC ha implementado varias estrategias para reducir la deserción y fortalecer la permanencia estudiantil.\n• Más de la mitad de los estudiantes beneficiados provienen de cantones con necesidades sociales relevantes.\n• El informe resalta la importancia de la investigación y extensión para el desarrollo regional y comunitario.",
+      "bullets_20s": "• Las becas socioeconómicas duplicaron sus montos para aumentar apoyo al estudiantado en 2025.\n• El TEC otorgó más de 23 mil becas, beneficiando a más de 15 mil estudiantes de grado.\n• El impacto de estas becas se refleja en la mejora de la permanencia y graduación estudiantil.\n• Se acordó destinar el 0,5% del aumento presupuestario a becas en la educación superior.\n• El 53,12% de la población estudiantil proviene de cantones con necesidad social alta.\n• Las acciones se complementan con programas de inducción e integración para nuevos estudiantes.\n• La rectoría resaltó el liderazgo femenino en la presidencia del CONARE en su gestión.\n• Se registraron 190 proyectos de investigación con participación estudiantil activa significativa.\n• El TEC avanzó en iniciativas que fortalecen el vínculo entre academia y necesidades del entorno.\n• El informe resalta el posicionamiento internacional del Tecnológico en rankings académicos.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
       "publish_date": "2026-04-29T17:20:04.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC benefició a miles de estudiantes con más de 23 mil becas en 2025.",
+      "teaser": "Lo clave en 20 segundos: TEC destacó por el aumento en becas estudiantiles y su impacto en educación.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
       "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "featured": false
@@ -7190,5 +7216,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-01T16:45:30.045Z"
+  "generated_at": "2026-05-01T17:45:30.730Z"
 }
