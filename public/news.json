@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "donald-trump-anuncia-alza-de-aranceles-al-25-para-carros-y-camiones-provenientes-de-la-union-europea",
+      "title": "Donald Trump anuncia alza de aranceles al 25% para carros y camiones provenientes de la Unión Europea",
+      "category": "Mundo",
+      "bullets_20s": "• Donald Trump incrementa aranceles a vehículos de la Unión Europea al 25%.\n• La medida busca fortalecer la industria automotriz estadounidense y proteger empleos.\n• Se espera que varios países europeos enfrenten mayores costos en exportaciones.\n• Analistas creen que la decisión podría tensionar aún más relaciones comerciales.\n• Trump menciona la competencia desleal como principal motivo de los aranceles.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/donald-trump-anuncia-alza-de-aranceles-al-25-para/PMDQLWT2LZD6NDNNCTV3MA3AEA/story/",
+      "publish_date": "2026-05-01T21:18:02.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump aumenta aranceles a autos de Europa para proteger industria estadounidense.",
+      "image_url": "https://www.nacion.com/resizer/v2/YKXSDYLHQRB6FOAJIZGHPK6D3U.jpg?auth=3163688a741f42f13eb7feb2e3977022448956a64ccc41f53c9b3fa2d884e26b&smart=true&width=1200&height=800",
+      "description": "Trump eleva la presión comercial sobre Europa con un anuncio que impacta a la industria automotriz. Conozca qué motivó la medida y cuáles países sentirán más sus efectos.",
+      "featured": false
+    },
+    {
+      "slug": "formula-1-en-miami-estos-son-los-horarios-y-donde-ver-la-carrera-este-fin-de-semana",
+      "title": "Fórmula 1 en Miami: estos son los horarios y dónde ver la carrera este fin de semana",
+      "category": "Mundo",
+      "bullets_20s": "• La carrera de Fórmula 1 en Miami se celebra este fin de semana con gran expectativa.\n• Los horarios varían según el país, así que es clave revisar la programación local.\n• Se ofrecen múltiples opciones de transmisión para los aficionados a la Fórmula 1.\n• La competencia marca un regreso importante tras un periodo de inactividad en el calendario.\n• Varios equipos se preparan para mostrar sus mejoras en este circuito urbano de Miami.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/puro-deporte/formula-1-en-miami-estos-son-los-horarios-y-donde/T3NJDKV2M5FUBP47PMQW2T4LD4/story/",
+      "publish_date": "2026-05-01T21:11:00.000Z",
+      "teaser": "Lo clave en 20 segundos: horarios y opciones de transmisión para la F1 en Miami.",
+      "image_url": "https://www.nacion.com/resizer/v2/AMDFO3WOKVBTBJONGZFFP74ZV4.jpg?auth=1807c32bd2e4c7df83c488b3a5f4d0eb2b775e8546b0e09af428ae24ebf6e3d6&smart=true&width=6960&height=4640",
+      "description": "Horarios por país, opciones de transmisión y detalles clave marcan el regreso de la Fórmula 1 en Miami, en una fecha que retoma el calendario tras varias semanas sin competencia.",
+      "featured": false
+    },
+    {
+      "slug": "donde-estaba-su-ciudad-cuando-existia-pangea-esta-herramienta-revela-la-ubicacion-de-fosiles-y-continentes-en-el-pasado",
+      "title": "¿Dónde estaba su ciudad cuando existía Pangea? Esta herramienta revela la ubicación de fósiles y continentes en el pasado",
+      "category": "Ciencia",
+      "bullets_20s": "• La herramienta actualizada permite calcular la ubicación de fósiles en épocas pasadas.\n• Los investigadores estudian cómo los climas han variado a lo largo de millones de años.\n• Conocer la paleolatitud ayuda a entender la biodiversidad de nuestros ancestros.\n• Los fósiles revelan información clave sobre la vida en Pangea y más allá.\n• Este avance tecnológico transforma nuestra comprensión de la historia geológica del planeta.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/ciencia/donde-estaba-su-ciudad-hace-320-millones-de-anos/BFBAAAFE6VFPJGINVFRXYYR62U/story/",
+      "publish_date": "2026-05-01T20:58:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Exploramos cómo una herramienta revela la ubicación de ciudades en la era de Pangea.",
+      "image_url": "https://www.nacion.com/resizer/v2/DS6KDRTT5VCGPPQZAH4UUVGNBE.png?auth=4ce230d782962e9b28b897283eb4003243497128d4e5eab1dcd05fe0dd90ee38&smart=true&width=1920&height=1080",
+      "description": "Investigadores actualizaron una herramienta que calcula la paleolatitud de fósiles y rocas para reconstruir climas antiguos y estudiar biodiversidad de hasta 320 millones de años.",
+      "featured": false
+    },
+    {
+      "slug": "el-pico-de-mayor-rendimiento-cerebral-se-produce-entre-los-55-y-60-anos-segun-un-estudio",
+      "title": "El pico de mayor rendimiento cerebral se produce entre los 55 y 60 años, según un estudio",
+      "category": "Ciencia",
+      "bullets_20s": "• El estudio destaca que el rendimiento cerebral varía a lo largo de la vida.\n• Las habilidades cognitivas tienden a mejorar hasta los 80 años.\n• Se identifican factores que contribuyen al aumento del rendimiento mental.\n• Interesante hallazgo sobre la longevidad y la capacidad cognitiva.\n• La investigación cambió la percepción sobre el envejecimiento y la mente.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/el-pico-de-mayor-rendimiento-cerebral-se-produce/DWCNDRGPN5BAFCOQIRJ4HAXR5Y/story/",
+      "publish_date": "2026-05-01T20:50:43.000Z",
+      "teaser": "Lo clave en 20 segundos: El rendimiento cerebral alcanza su pico entre los 55 y 60 años.",
+      "image_url": "https://www.nacion.com/resizer/v2/AJQGTIVZSZH77IBUCOPVACYBCI.jpg?auth=c5db03ef0c1c7cab0120acbf59ddab415a17e6d55a3dd05b400ef0f260b07606&smart=true&width=2828&height=2000",
+      "description": "Un estudio reveló que el rendimiento mental alcanza su punto máximo entre los 55 y 60 años, gracias a habilidades que siguen mejorando hasta los 80.",
+      "featured": false
+    },
+    {
       "slug": "el-papel-higienico-podria-ser-historia-ante-avance-de-inodoros-inteligentes-mas-eficientes-y-sostenibles",
       "title": "El papel higiénico podría ser historia ante avance de inodoros inteligentes más eficientes y sostenibles",
       "category": "Ciencia",
@@ -368,11 +420,11 @@
       "slug": "en-video-como-el-narco-usa-el-oro-para-lavar-dinero-especial-de-bbc-mundo",
       "title": "EN VIDEO: Cómo el narco usa el oro para lavar dinero | Especial de BBC Mundo",
       "category": "Mundo",
-      "bullets_20s": "• El oro se ha convertido en un instrumento de lavado de dinero por el narcotráfico.\n• Grupos criminales recurren a la extracción ilegal para obtener ganancias rápidas.\n• La deforestación es una consecuencia directa de la minería ilegal en la región.\n• Contaminación de ríos afecta la biodiversidad y comunidades locales.\n• El informe de BBC Mundo destaca el impacto ambiental significativo de esta actividad.",
+      "bullets_20s": "• El oro se ha convertido en una herramienta para el lavado de dinero en el narcotráfico.\n• Grupos criminales utilizan la minería ilegal para financiar sus actividades delictivas.\n• La extracción de oro está asociada a la deforestación y daños ambientales graves.\n• Ríos contaminados son una consecuencia directa de la minería ilegal del oro.\n• La situación requiere atención urgente de las autoridades y de la sociedad civil.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cvgzwl9ylwgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T11:55:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Cómo el oro se convierte en herramienta del narco para el lavado de dinero.",
+      "teaser": "Lo clave en 20 segundos: El narcotráfico usa el oro para lavar dinero, afectando el medio ambiente.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c105/live/b49802f0-44b0-11f1-9caf-0fcd4fb68138.jpg",
       "description": "El oro, en el pasado un símbolo espiritual, ahora es usado por los grupos criminales para lavar dinero.  Y en América Latina su extracción ilegal se realiza a costa de la deforestación y la contaminación de nuestros ríos.",
       "featured": false
@@ -407,11 +459,11 @@
       "slug": "gaviotas-la-utopia-que-trata-de-reinventar-el-mundo-en-colombia-desde-hace-mas-de-medio-siglo-y-su-inesperada-relevancia",
       "title": "Gaviotas, la utopía que trata de reinventar el mundo en Colombia desde hace más de medio siglo (y su inesperada relevancia internacional)",
       "category": "Mundo",
-      "bullets_20s": "• Gaviotas es un ejemplo de innovación social y ecológica en el corazón de Colombia.\n• La comunidad ha desarrollado tecnologías sostenibles que impactan positivamente en su entorno.\n• Sus proyectos incluyen sistemas de energía solar y biocombustibles accesibles para todos.\n• La jardinería forestal comestible promueve la autosuficiencia y diversidad alimentaria.\n• Gaviotas ha atraído atención internacional como modelo de desarrollo sostenible.\n• La aldea también experimenta con educación y prácticas agrícolas regenerativas.\n• Los inventos han sido cruciales para la supervivencia y bienestar de la comunidad.\n• Gaviotas enfrenta desafíos, pero su ejemplo inspira a otros en el mundo.\n• La historia de Gaviotas muestra la importancia de la colaboración en iniciativas comunitarias.\n• A través de sus inventos, Gaviotas busca un equilibrio con la naturaleza y la sociedad.",
+      "bullets_20s": "• Gaviotas es una aldea colombiana que busca soluciones creativas para el desarrollo sostenible.\n• La comunidad se centra en la innovación con tecnologías de bajo costo y eco-amigables.\n• Se han implementado calentadores solares que ayudan a reducir el consumo de energía.\n• La jardinería forestal comestible promueve la alimentación saludable y sostenible.\n• Biocombustibles se producen en la aldea, fomentando la autosuficiencia energética.\n• La experiencia de Gaviotas ha atraído la atención internacional por su relevancia.\n• Innovaciones locales han inspirado a otras comunidades en el mundo a replicar sus modelos.\n• El enfoque en soluciones concretas ha resonado en debates sobre el cambio climático.\n• Gaviotas se convierte en un ejemplo de resiliencia ante las crisis ambientales actuales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2l2nwj0zdjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T11:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: Gaviotas, una aldea innovadora en Colombia, es modelo de sostenibilidad internacional.",
+      "teaser": "Lo clave en 20 segundos: Gaviotas reinventa la sostenibilidad con innovaciones locales y atrae atención global.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ba9f/live/d1ec4f40-44cf-11f1-8de1-593a7bb5acaa.jpg",
       "description": "La aldea dependía de invenciones de elaboración propia para sobrevivir: desde calentadores de agua solares de bajo costo y un subibaja infantil que servía también como bomba de agua, hasta la jardinería forestal comestible y los biocombustibles.",
       "featured": false
@@ -433,11 +485,11 @@
       "slug": "que-aprendi-de-las-adolescentes-tras-hablar-con-150-chicas-de-entre-13-y-17-anos",
       "title": "Qué aprendí de las adolescentes tras hablar con 150 chicas de entre 13 y 17 años",
       "category": "Mundo",
-      "bullets_20s": "• Las adolescentes enfrentan presiones sociales que afectan su autopercepción y autoestima.\n• El papel del feminismo sigue siendo crucial para empoderar a las jóvenes en su desarrollo.\n• Los comentarios masculinos impactan significativamente en la manera en que las chicas se ven a sí mismas.\n• El diálogo con las adolescentes revela su lucha por ser aceptadas en la sociedad actual.\n• La comunicación abierta ayuda a entender mejor las inquietudes de las adolescentes sobre sí mismas.",
+      "bullets_20s": "• Las adolescentes enfrentan una presión constante por los estándares de belleza impuestos por la sociedad.\n• La influencia de las redes sociales afecta la autoestima y autopercepción de las jóvenes.\n• Se observa una lucha interna entre el empoderamiento y la necesidad de validación masculina.\n• Conversaciones con 150 chicas revelan inquietantes patrones de comportamiento y pensamiento.\n• El feminismo ha avanzado, pero muchas adolescentes aún sienten la mirada de los chicos sobre sí mismas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cn53gv53vg3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T10:08:39.000Z",
-      "teaser": "Lo clave en 20 segundos: Las adolescentes aún sienten la presión de la mirada masculina.",
+      "teaser": "Lo clave en 20 segundos: Las adolescentes buscan validación masculina a pesar de los avances feministas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/a119/live/7ab2ff20-3792-11f1-b1d4-ff58a01bf8cd.png",
       "description": "A pesar de los avances del feminismo, ¿por qué las adolescentes siguen viéndose a sí mismas a través de la mirada de los muchachos?",
       "featured": false
@@ -446,11 +498,11 @@
       "slug": "anta-la-innovadora-compania-china-de-ropa-deportiva-que-desafia-a-nike-y-adidas",
       "title": "Anta, la innovadora compañía china de ropa deportiva que desafía a Nike y Adidas",
       "category": "Mundo",
-      "bullets_20s": "• Anta, una marca china, se posiciona fuertemente en el sector de ropa deportiva moderna.\n• La compañía busca expandir su influencia más allá del mercado chino hacia Occidente.\n• Anta pretende competir directamente con gigantes como Nike y Adidas en su territorio.\n• La innovación es la clave de la estrategia de Anta para captar nuevos consumidores.\n• Las inversiones en tecnología y diseño son fundamentales en el crecimiento de Anta.",
+      "bullets_20s": "• Anta ha crecido significativamente en el mercado chino y busca expandirse a nivel global.\n• La empresa planea competir directamente con las gigantes del deporte Nike y Adidas.\n• Innovación y calidad son los pilares clave de la estrategia comercial de Anta.\n• La compañía ha invertido en tecnología para mejorar sus productos deportivos.\n• El enfoque en el diseño moderno atrae a una nueva generación de consumidores.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cgmem0vr24ro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T09:45:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Anta busca competir con las grandes marcas deportivas a nivel global.",
+      "teaser": "Lo clave en 20 segundos: Anta desafía a gigantes del deporte buscando conquistar el mercado occidental.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c005/live/c39c8eb0-4555-11f1-a4b0-8306ec2ff5e9.jpg",
       "description": "Con una firme presencia en el mercado chino, Anta apunta ahora a conquistar Occidente y a competir con marcas globales como Nike y Adidas.",
       "featured": false
@@ -472,11 +524,11 @@
       "slug": "la-paradoja-de-noruega-el-pais-que-gana-miles-de-millones-con-la-subida-del-precio-del-petroleo-pero-cada-vez-lo-usa-men",
       "title": "La paradoja de Noruega, el país que gana miles de millones con la subida del precio del petróleo pero cada vez lo usa menos",
       "category": "Mundo",
-      "bullets_20s": "• Noruega se beneficia económicamente de la alta demanda global de petróleo en el mercado internacional.\n• A pesar de su riqueza petrolera, Noruega está reduciendo gradualmente su consumo interno de combustibles fósiles.\n• El país cuenta con una de las redes energéticas más limpias y sostenibles a nivel mundial.\n• La paradoja radica en la coexistencia de un negocio exitoso y un compromiso con el medio ambiente.\n• Noruega lidera innovaciones en energías renovables, buscando un futuro menos dependiente de los hidrocarburos.",
+      "bullets_20s": "• Noruega ha logrado equilibrar su economía gracias a las exportaciones de petróleo en los últimos años.\n• El país nórdico se destaca por tener una red energética muy limpia y sostenible.\n• A pesar de su riqueza petrolera, Noruega promueve el uso de energías renovables y reduce su explotación.\n• La paradoja radica en generar grandes ingresos mientras se disminuye el consumo interno de petróleo.\n• Las políticas energéticas de Noruega podrían servir como modelo para otros países en transición energética.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c98r144q49ro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T03:53:12.000Z",
-      "teaser": "Lo clave en 20 segundos: Noruega produce mucho petróleo pero opta por usar energías limpias cada vez más.",
+      "teaser": "Lo clave en 20 segundos: Noruega gana millonadas con petróleo, pero lo usa cada vez menos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/47f3/live/7aab3940-44bf-11f1-813e-bf7166e1ca58.jpg",
       "description": "El próspero país nórdico tiene una de las redes energéticas menos contaminantes del mundo, pero también un gran negocio con la exportación de combustibles fósiles.",
       "featured": false
@@ -1056,12 +1108,12 @@
     {
       "slug": "pe-ai-19-aseguramiento-de-la-calidad",
       "title": "PE-AI-19 Aseguramiento de la calidad",
-      "category": "Ciencia",
-      "bullets_20s": "• El aseguramiento de la calidad se vuelve crucial en procesos académicos y tecnológicos.\n• Se busca estandarizar métodos y procedimientos para garantizar resultados óptimos.\n• El manual incluye lineamientos claros sobre las mejores prácticas a seguir.\n• La modificación de abril de 2026 actualiza procedimientos anteriores.\n• Esta normativa se aplica a diversas áreas de estudio y desarrollo tecnológico.",
+      "category": "Tecnología",
+      "bullets_20s": "• Aseguramiento de calidad es fundamental en procesos para mantener estándares óptimos.\n• El uso de manuales y procedimientos documenta acciones necesarias para la calidad.\n• La última modificación en abril de 2026 refleja el compromiso continuo por la mejora.\n• PE-AI-19 es una iniciativa que busca elevar la calidad en el contexto educativo.\n• La implementación efectiva impacta positivamente en los resultados de aprendizaje.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ai-19-aseguramiento-calidad",
       "publish_date": "2026-04-30T15:55:48.000Z",
-      "teaser": "Lo clave en 20 segundos: estandarización y mejoras en calidad académica.",
+      "teaser": "Lo clave en 20 segundos: Aseguramiento de calidad con procedimientos actualizados.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -1694,11 +1746,11 @@
       "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
       "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica otorgó más de 23 mil becas en 2025, un año destacable.\n• El monto de las becas socioeconómicas se duplicó, mejorando el acceso a la educación.\n• El 53,12% de estudiantes provienen de cantones con altos índices de vulnerabilidad social.\n• La rectora enfatiza que estas becas son clave para retener y graduar estudiantes.\n• Se implementaron 179 actividades para reducir la deserción estudiantil durante 2025.",
+      "bullets_20s": "• El Tecnológico de Costa Rica otorgó más de 23 mil becas para apoyar a estudiantes en su formación.\n• Las becas socioeconómicas duplicaron sus montos, aumentando la ayuda financiera a los alumnos.\n• Se logró beneficiar a más de 15 mil estudiantes en un año clave para la educación superior.\n• La rectora destacó el impacto positivo de las becas en la permanencia y graduación en 2024.\n• Se desarrollaron 179 actividades para reducir la deserción estudiantil y 152 iniciativas de repitencia.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
       "publish_date": "2026-04-29T17:20:04.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC incrementó becas y fortaleció el acceso a educación superior en 2025.",
+      "teaser": "Lo clave en 20 segundos: El TEC otorgó más de 23 mil becas en 2025 para ayudar a estudiantes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
       "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "featured": false
@@ -7294,5 +7346,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-01T20:45:29.966Z"
+  "generated_at": "2026-05-01T21:45:30.152Z"
 }
