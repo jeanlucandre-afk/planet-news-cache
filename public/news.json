@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "costarricense-dagoberto-campos-salas-es-el-nuevo-representante-del-vaticano-en-ecuador",
+      "title": "Costarricense Dagoberto Campos Salas, es el nuevo representante del Vaticano en Ecuador",
+      "category": "Costa Rica",
+      "bullets_20s": "• Dagoberto Campos Salas es un destacado arzobispo costarricense, conocido por su labor en la iglesia.\n• El nombramiento se produce en un contexto de cambio dentro de la jerarquía eclesiástica en Ecuador.\n• El Papa León XIV ha realizado diversos nombramientos en América Latina recientemente.\n• Este cargo implica una responsabilidad diplomática importante entre el Vaticano y Ecuador.\n• La comunidad costarricense celebra este reconocimiento internacional para su compatriota.",
+      "source_name": "Libia Solano Meza",
+      "source_url": "https://www.nacion.com/el-pais/costarricense-dagoberto-campos-salas-es-el-nuevo/NZMK6YMCTJDQ7C3K2IEZ56YURU/story/",
+      "publish_date": "2026-05-02T04:47:24.000Z",
+      "teaser": "Lo clave en 20 segundos: Nombran a Dagoberto Campos Salas como nuevo nuncio apostólico en Ecuador.",
+      "image_url": "https://www.nacion.com/resizer/v2/T3CLNNHTF5GBZFJU6U5KR2RV6Y.jpg?auth=2c8f98d2f993fceae4ea45a3b7d60c9a8a4f6aabfdaab33e24bd753b2ec4946c&smart=true&width=7620&height=5080",
+      "description": "El Vaticano anunció el nombramiento del arzobispo Dagoberto Campos Salas como nuevo nuncio apostólico en Ecuador, en una decisión del Papa León XIV.",
+      "featured": false
+    },
+    {
+      "slug": "una-mujer-murio-y-2-personas-mas-resultaron-heridas-tras-un-choque-en-alajuela",
+      "title": "Una mujer murió y 2 personas más resultaron heridas tras un choque en Alajuela",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un accidente de tránsito dejó a una mujer fallecida y dos personas heridas en Alajuela.\n• Las autoridades investigan las causas del choque que llevó a esta tragedia.\n• El impacto fue tan fuerte que se activaron los servicios de emergencia rápidamente.\n• Los heridos fueron llevados a un hospital cercano para recibir atención médica urgente.\n• Se recomienda a los conductores extremar precauciones en las vías de Alajuela.",
+      "source_name": "Libia Solano Meza",
+      "source_url": "https://www.nacion.com/sucesos/un-mujer-murio-y-2-personas-mas-resultaron-heridas/KSNBDBLZYRHJJG4VX2OHWXY5FU/story/",
+      "publish_date": "2026-05-02T04:35:05.000Z",
+      "teaser": "Lo clave en 20 segundos: Trágico accidente en Alajuela deja una mujer muerta y dos heridos.",
+      "image_url": "https://www.nacion.com/resizer/v2/7VPP6PGORFGMXHIVN6TBDQH5KY.jpeg?auth=994d2f74cc07ad6aa45cbd98275a2fc358377d22a0a9fe028400d2abffda0b73&smart=true&width=1599&height=899",
+      "description": "Una mujer murió y dos adultos fueron trasladados de emergencia tras un violento accidente ocurrido en Alajuela.",
+      "featured": false
+    },
+    {
       "slug": "autoridades-vuelven-a-intervenir-cuarteria-en-san-jose-y-decomisan-drogas-armas-blancas-y-cerca-de-800000-en-efectivo",
       "title": "Autoridades vuelven a intervenir cuartería en San José y decomisan drogas, armas blancas y cerca de ¢800.000 en efectivo",
       "category": "Costa Rica",
@@ -17,11 +43,11 @@
       "slug": "podemos-alcanzar-objetivos-a-2000-km-dentro-de-la-base-secreta-de-ucrania-que-lanza-drones-que-matan-a-miles-de-soldados",
       "title": "Podemos alcanzar objetivos a 2.000 km: dentro de la base secreta de Ucrania que lanza drones que matan a miles de soldados rusos cada mes",
       "category": "Mundo",
-      "bullets_20s": "• La unidad de drones de Ucrania ha revolucionado la forma de combatir en conflictos actuales.\n• Los drones son clave para alcanzar objetivos estratégicos sin poner en riesgo a las tropas.\n• Cada mes, miles de soldados rusos son afectados por los ataques aéreos precisos.\n• La tecnología de drones ha avanzado significativamente, permitiendo operaciones en profundidad.\n• Entrevistas con líderes militares revelan detalles de estrategias de combate modernas.",
+      "bullets_20s": "• La base secreta de Ucrania utiliza drones para atacar objetivos lejanos de manera efectiva y precisa.\n• El comandante Brovdi comparte detalles sobre la capacidad de su unidad en la lucha actual.\n• Se estima que miles de soldados rusos han sido impactados por los drones desde su implementación.\n• El uso de tecnología de drones en conflictos modernos marca un cambio en la guerra convencional.\n• Las tácticas de combate continúan evolucionando con la incorporación de inteligencia artificial en drones.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c7v93mz0p11o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T03:49:44.000Z",
-      "teaser": "Lo clave en 20 segundos: La estrategia de drones de Ucrania causa un impacto decisivo en el campo de batalla.",
+      "teaser": "Lo clave en 20 segundos: Ucrania usa drones eficaces para alcanzar objetivos a grandes distancias.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9638/live/a2f93d80-447d-11f1-88ff-575186ed76aa.jpg",
       "description": "En una inusual entrevista con la BBC, el comandante Robert Brovdi explicó que su unidad es responsable de un tercio de todos los objetivos destruidos en el campo de batalla.",
       "featured": false
@@ -30,11 +56,11 @@
       "slug": "china-asume-la-presidencia-del-consejo-de-seguridad-y-alerta-del-aumento-de-conflictos-y-tensiones-globales",
       "title": "China asume la presidencia del Consejo de Seguridad y alerta del aumento de conflictos y tensiones globales",
       "category": "Mundo",
-      "bullets_20s": "• China toma la presidencia del Consejo de Seguridad de Naciones Unidas, un papel crucial en tiempos de conflictos.\n• Se enfoca en debates sobre la Carta de Naciones Unidas, abordando temas relevantes para la comunidad global.\n• La situación en Oriente Próximo será una prioridad durante su mandato, generando atención internacional.\n• La protección de civiles en zonas de conflicto es un punto clave en la agenda de China.\n• Se anticipan debates sobre cómo manejar tensiones globales que afectan la paz y la seguridad.",
+      "bullets_20s": "• China ahora lidera el Consejo de Seguridad de la ONU y busca abordar tensiones globales actuales.\n• Se enfocará en debatir sobre la Carta de Naciones Unidas y su relevancia en conflictos modernos.\n• La agenda incluirá temas críticos del Oriente Próximo y la protección de civiles en conflictos.\n• China podría influir en políticas globales que buscan disminuir las tensiones internacionales.\n• Expertos opinan que este liderazgo puede cambiar el enfoque de la comunidad internacional.",
       "source_name": "Europa Press",
       "source_url": "https://www.nacion.com/el-mundo/china-asume-la-presidencia-del-consejo-de/Z24GXMMD3NEMLCAINCKKBGZWEY/story/",
       "publish_date": "2026-05-02T03:18:55.000Z",
-      "teaser": "Lo clave en 20 segundos: China lidera el Consejo de Seguridad, enfocándose en conflictos y protección de civiles.",
+      "teaser": "Lo clave en 20 segundos: China lidera el Consejo de Seguridad y alerta sobre conflictos en el mundo.",
       "image_url": "https://www.nacion.com/resizer/v2/LENCG6PYNRD77JDHNUQM6UZUEI.jpg?auth=cc1472910d33beb35fd9d0aeaeb3e7117e51f8dae79d8f28dab05b2e603edd3b&smart=true&width=8256&height=5504",
       "description": "Pekín impulsará un debate sobre la Carta de Naciones Unidas y centrará la agenda en Oriente Próximo y la protección de civiles.",
       "featured": false
@@ -121,11 +147,11 @@
       "slug": "eeuu-anuncia-que-retirara-a-5000-soldados-de-alemania-en-medio-de-la-disputa-publica-entre-trump-y-el-canciller-merz-por",
       "title": "EE.UU. anuncia que retirará a 5.000 soldados de Alemania en medio de la disputa pública entre Trump y el canciller Merz por Irán",
       "category": "Mundo",
-      "bullets_20s": "• El anuncio de la retirada de tropas genera diversas reacciones en el ámbito internacional.\n• Las tensiones entre Estados Unidos e Irán continúan afectando la política exterior de ambos países.\n• Alemania se enfrenta a nuevos desafíos en su relación con Estados Unidos tras esta decisión.\n• Las implicaciones para la seguridad en Europa son un tema de discusión entre analistas.\n• El Departamento de Defensa motiva el retiro citando razones estratégicas en la región.",
+      "bullets_20s": "• La retirada de soldados estadounidenses podría cambiar la dinámica de la seguridad en Europa.\n• La decisión ocurre en un contexto de tensiones entre EE.UU. e Irán que afectan a Alemania.\n• Trump y Merz han tenido diferencias significativas sobre políticas militares actuales.\n• El movimiento genera preocupación entre los aliados de la OTAN sobre el compromiso de EE.UU.\n• Analistas debaten el impacto que esto tendrá en la postura militar de EE.UU. en Europa.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cedp9v4jv49o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T00:15:33.000Z",
-      "teaser": "Lo clave en 20 segundos: EE.UU. retira soldados de Alemania en medio de tensiones internacionales.",
+      "teaser": "Lo clave en 20 segundos: EE.UU. retira soldados de Alemania en medio de tensiones políticas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ace7/live/b62bb1b0-45b5-11f1-9deb-9f280b02f266.jpg",
       "description": "El Departamento de Defensa de Estados Unidos planea retirar a 5.000 soldados de Alemania, en medio de una disputa entre el presidente estadounidense Donald Trump y el canciller alemán Friedrich Merz sobre la guerra con Irán.",
       "featured": false
@@ -706,11 +732,11 @@
       "slug": "gaviotas-la-utopia-que-trata-de-reinventar-el-mundo-en-colombia-desde-hace-mas-de-medio-siglo-y-su-inesperada-relevancia",
       "title": "Gaviotas, la utopía que trata de reinventar el mundo en Colombia desde hace más de medio siglo (y su inesperada relevancia internacional)",
       "category": "Mundo",
-      "bullets_20s": "• Gaviotas es una aldea modelo que ha enfocado sus esfuerzos en la sostenibilidad ambiental.\n• La comunidad ha creado tecnologías innovadoras para mejorar su calidad de vida.\n• Desde calentadores solares hasta biocombustibles, su ingenio destaca a nivel internacional.\n• La jardinería forestal comestible ofrece una solución alimentaria sostenible y local.\n• Gaviotas ha inspirado a otros proyectos en diferentes regiones del mundo.",
+      "bullets_20s": "• Gaviotas es una aldea colombiana que busca soluciones sostenibles desde hace más de cincuenta años.\n• Se destaca por su enfoque en tecnologías innovadoras y sustentables para el desarrollo comunitario.\n• Algunas invenciones incluyen calentadores solares de agua y biocombustibles de bajo costo.\n• La comunidad practica la jardinería forestal comestible para mejorar su alimentación y economía local.\n• El proyecto ha generado interés internacional por su modelo de desarrollo sostenible y resiliente.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2l2nwj0zdjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T11:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: Gaviotas, un modelo de sostenibilidad en Colombia, cautiva internacionalmente.",
+      "teaser": "Lo clave en 20 segundos: Gaviotas, un modelo de sostenibilidad en Colombia con relevancia global.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ba9f/live/d1ec4f40-44cf-11f1-8de1-593a7bb5acaa.jpg",
       "description": "La aldea dependía de invenciones de elaboración propia para sobrevivir: desde calentadores de agua solares de bajo costo y un subibaja infantil que servía también como bomba de agua, hasta la jardinería forestal comestible y los biocombustibles.",
       "featured": false
@@ -745,11 +771,11 @@
       "slug": "anta-la-innovadora-compania-china-de-ropa-deportiva-que-desafia-a-nike-y-adidas",
       "title": "Anta, la innovadora compañía china de ropa deportiva que desafía a Nike y Adidas",
       "category": "Mundo",
-      "bullets_20s": "• Anta crece en el mercado chino con un enfoque en calidad y tecnología de productos deportivos.\n• La compañía busca posicionarse fuertemente en Europa y América del Norte este año.\n• Compite directamente con gigantes como Nike y Adidas en el mercado internacional.\n• Anta tiene una estrategia de marketing centrada en atletas y eventos deportivos clave.\n• La empresa ha invertido en nuevas tecnologías para mejorar el rendimiento de sus productos.",
+      "bullets_20s": "• Anta se ha establecido como un competidor clave en la industria de la ropa deportiva.\n• La marca busca expandirse en mercados occidentales para aumentar su presencia global.\n• Nike y Adidas son consideradas las principales marcas para desafiar en este sector.\n• Las estrategias de marketing de Anta se centran en innovaciones tecnológicas y sostenibilidad.\n• El crecimiento en el mercado chino ha sido fundamental para el éxito de Anta hasta ahora.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cgmem0vr24ro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T09:45:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Anta desafía a Nike y Adidas en el mercado occidental con innovación.",
+      "teaser": "Lo clave en 20 segundos: Anta se expande y compite contra gigantes como Nike y Adidas en el mercado global.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ba7d/live/d3af3a50-4271-11f1-b15b-85aa1b6efd13.jpg",
       "description": "Con una firme presencia en el mercado chino, Anta apunta ahora a conquistar Occidente y a competir con marcas globales como Nike y Adidas.",
       "featured": false
@@ -771,11 +797,11 @@
       "slug": "la-paradoja-de-noruega-el-pais-que-gana-miles-de-millones-con-la-subida-del-precio-del-petroleo-pero-cada-vez-lo-usa-men",
       "title": "La paradoja de Noruega, el país que gana miles de millones con la subida del precio del petróleo pero cada vez lo usa menos",
       "category": "Mundo",
-      "bullets_20s": "• Noruega ha optado por reducir su consumo de petróleo a pesar de sus beneficios económicos.\n• El país cuenta con una de las redes energéticas más limpias y eficientes del mundo.\n• Aprovecha la subida de precios del petróleo para financiar diversas iniciativas sostenibles.\n• La paradoja refleja un compromiso con el medio ambiente y el futuro energético.\n• Las exportaciones de combustibles fósiles son cruciales para la economía noruega.",
+      "bullets_20s": "• Noruega ha logrado beneficiarse notablemente del alto precio del petróleo en el mercado internacional.\n• A pesar de sus ganancias, el país nórdico reduce su consumo de petróleo cada año.\n• Las energías renovables juegan un papel clave en la transformación energética de Noruega.\n• La exportación de combustibles fósiles sigue siendo un pilar fundamental de su economía.\n• Los noruegos disfrutan de una de las redes energéticas menos contaminantes del planeta.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c98r144q49ro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T03:53:12.000Z",
-      "teaser": "Lo clave en 20 segundos: Noruega gana mucho con el petróleo, pero elige usar menos para ser sostenible.",
+      "teaser": "Lo clave en 20 segundos: Noruega prospera con el petróleo pero disminuye su uso de este recurso energético.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/47f3/live/7aab3940-44bf-11f1-813e-bf7166e1ca58.jpg",
       "description": "El próspero país nórdico tiene una de las redes energéticas menos contaminantes del mundo, pero también un gran negocio con la exportación de combustibles fósiles.",
       "featured": false
@@ -1356,11 +1382,11 @@
       "slug": "pe-ai-19-aseguramiento-de-la-calidad",
       "title": "PE-AI-19 Aseguramiento de la calidad",
       "category": "Ciencia",
-      "bullets_20s": "• El aseguramiento de la calidad es crucial en los procesos educativos y de formación.\n• Se busca establecer procedimientos claros para garantizar la calidad en los cursos.\n• Manuales para el aseguramiento de la calidad son herramientas útiles en la educación.\n• La última modificación del documento se realizó en abril de 2026.\n• El método PE-AI-19 es un estándar a seguir en la educación costarricense.",
+      "bullets_20s": "• El PE-AI-19 aborda el aseguramiento de la calidad en procesos educativos.\n• Se busca establecer estándares para mejorar la enseñanza y el aprendizaje.\n• Iniciativas similares han sido implementadas en otras instituciones educativas.\n• La formación continua de docentes es clave para el éxito de este programa.\n• El documento incluye manuales y procedimientos para su aplicación efectiva.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ai-19-aseguramiento-calidad",
       "publish_date": "2026-04-30T15:55:48.000Z",
-      "teaser": "Lo clave en 20 segundos: el aseguramiento de calidad en educación es fundamental.",
+      "teaser": "Lo clave en 20 segundos: Este programa busca mejorar la calidad educativa en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -1980,11 +2006,11 @@
       "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
       "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica otorgó 23.323 becas en 2025, beneficiando a más de 15 mil estudiantes.\n• Las becas socioeconómicas duplicaron sus montos, ayudando a estudiantes en vulnerabilidad a continuar sus estudios.\n• Se realizó un fuerte incremento presupuestario para apoyar la educación superior en el país con más recursos.\n• El impacto de las becas se traduce en una alta tasa de graduación y permanencia estudiantil en 2024.\n• Se destacaron estrategias para reducir la deserción y mejorar la retención en el nivel universitario.",
+      "bullets_20s": "• El Tecnológico de Costa Rica otorgó 23.323 becas en 2025 a estudiantes de grado.\n• Las becas socioeconómicas duplicaron sus montos, mejorando el acceso educativo al estudiantado.\n• Se realizaron 179 actividades para reducir la deserción en estudiantes en 2025.\n• Más del 53% de la población estudiantil llegó de áreas con necesidades sociales elevadas.\n• El liderazgo femenino fue resaltado al presidir el Consejo Nacional de Rectores en 2025.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
       "publish_date": "2026-04-29T17:20:04.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC otorgó más de 23 mil becas a estudiantes en 2025, duplicando sus montos.",
+      "teaser": "Lo clave en 20 segundos: El TEC duplica becas beneficiando a miles de estudiantes en 2025.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
       "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "featured": false
@@ -7580,5 +7606,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-02T04:45:31.052Z"
+  "generated_at": "2026-05-02T05:45:29.815Z"
 }
