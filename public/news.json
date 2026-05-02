@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "slug": "barcelona-esta-cada-vez-mas-cerca-del-cetro-de-la-liga",
+      "title": "Barcelona está cada vez más cerca del cetro de La Liga",
+      "category": "Mundo",
+      "bullets_20s": "• El Barcelona ha demostrado un rendimiento sobresaliente en la presente temporada de La Liga.\n• Con este triunfo, se posiciona como favorito para llevarse el título de campeón.\n• Los jugadores mantienen una excelente química en el campo de juego, destacando su unión.\n• Los seguidores del club se muestran optimistas respecto a las posibilidades de ganar.\n• Los datos de la liga reflejan el esfuerzo colectivo del equipo en cada partido.",
+      "source_name": "Esteban Valverde, AFP",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/barcelona-esta-cada-vez-mas-cerca-del-cetro-de-la/O57UZHNBPJEENMNKPGCXL76POA/story/",
+      "publish_date": "2026-05-02T23:13:26.000Z",
+      "teaser": "Lo clave en 20 segundos: Barcelona está cerca de conquistar La Liga tras una victoria decisiva.",
+      "image_url": "https://www.nacion.com/resizer/v2/OF3QHCFMZ5B2HLMA3ODVZVT6G4.jpg?auth=c1681835bb065cfcc28223d9edf04f3bf92eecaa1fb93f11e7b9a30be808de4a&smart=true&width=1200&height=801",
+      "description": "El Barcelona sumó un triunfo que lo deja con una mano sobre el campeonato de España.",
+      "featured": false
+    },
+    {
+      "slug": "gemini-ya-permite-crear-archivos-de-excel-pdf-y-word-directamente-desde-el-chat",
+      "title": "Gemini ya permite crear archivos de Excel, PDF y Word directamente desde el chat",
+      "category": "Tecnología",
+      "bullets_20s": "• Gemini facilita la creación de documentos sin necesidad de copiar y pegar contenido manualmente.\n• Los usuarios pueden ahora generar archivos PDF y Word directamente desde la interfaz del chat.\n• Google continúa innovando en el ámbito de las herramientas de productividad y colaboración.\n• Este avance promete optimizar los procesos de trabajo y aumentar la eficiencia de los usuarios.\n• La nueva función está disponible para todos los usuarios de la inteligencia artificial de Google.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/tecnologia/gemini-ya-permite-crear-archivos-de-excel-pdf-y/YO23RNFRARD73EOVM35433YPO4/story/",
+      "publish_date": "2026-05-02T23:03:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Gemini permite crear archivos desde el chat, mejorando la productividad.",
+      "image_url": "https://www.nacion.com/resizer/v2/33DSXBCJ4RFDRFFBFMBR72S6VA.png?auth=323688ae3cb6c4c3a287bc4d89ebb7b83dd96f5cca84c7e86be775c704aa6d0f&smart=true&width=1680&height=945",
+      "description": "La inteligencia artificial de Google ahora permite crear archivos PDF, Word, Excel, Google Docs, Sheets y más directamente desde el chat, sin copiar ni reformatear contenido.",
+      "featured": false
+    },
+    {
+      "slug": "cuantas-formas-toma-el-deseo-esta-exposicion-lo-explora-y-lo-invita-a-sentirlo",
+      "title": "¿Cuántas formas toma el deseo? Esta exposición lo explora y lo invita a sentirlo",
+      "category": "Ciencia",
+      "bullets_20s": "• La exposición ‘Desiderium’ busca explorar diferentes facetas del deseo humano a través del arte.\n• Artflow Galería en Avenida Escazú es el lugar donde se lleva a cabo esta interesante muestra.\n• Diversos artistas de distintas disciplinas se unen para ofrecer una experiencia única al visitante.\n• La obra de cada artista ofrece una interpretación distinta y creativa sobre el deseo.\n• La exposición se presenta como una oportunidad para sentir y reflexionar sobre el deseo.",
+      "source_name": "Esteban Hidalgo",
+      "source_url": "https://www.nacion.com/ancora/cuantas-formas-toma-el-deseo-esta-exposicion-lo/OUKJX7ZFUNGEHAT4LXPZSMQ4WQ/story/",
+      "publish_date": "2026-05-02T23:03:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Explora las múltiples facetas del deseo en la exposición ‘Desiderium’ en Artflow.",
+      "image_url": "https://www.nacion.com/resizer/v2/H5CDLTZ6P5HMVEKBKPEWHMTURI.png?auth=e3b5dd154619c7402cdaa8cfcb2c49d88ee41660ff388fd63eac018f76e0da11&smart=true&width=596&height=397",
+      "description": "‘Desiderium’, en Artflow Galería (Avenida Escazú) recorre la obra de artistas muy distintos entre sí para explorar las múltiples facetas del deseo. Conozca la exposición.",
+      "featured": false
+    },
+    {
+      "slug": "aumento-de-lluvias-marcara-el-inicio-de-mayo-en-costa-rica-estas-son-las-regiones-mas-afectadas",
+      "title": "Aumento de lluvias marcará el inicio de mayo en Costa Rica: estas son las regiones más afectadas",
+      "category": "Costa Rica",
+      "bullets_20s": "• El inicio de mayo trae consigo un aumento significativo en las lluvias en el país.\n• Las regiones más afectadas incluyen áreas del Pacífico y el Valle Central.\n• Se anticipan lluvias intensas principalmente en horas de la tarde y noche.\n• Las condiciones climáticas están cambiando, lo que impacta las actividades diarias.\n• Es recomendable estar preparado y seguir las alertas meteorológicas locales.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/sucesos/aumento-de-lluvias-marcara-el-inicio-de-mayo-en/3KJXD5TNKRCCPNNTACKLXNSDAI/story/",
+      "publish_date": "2026-05-02T22:43:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Aumento de lluvias afectará varias regiones en Costa Rica durante mayo.",
+      "image_url": "https://www.nacion.com/resizer/v2/V7YVUCSP6ZG2PGVD7PXFTHHNCY.JPG?auth=25f170148989f17aaf5176956acc03bdd10504dad32a2afb35a1e2fd4ba56017&smart=true&width=4000&height=2667",
+      "description": "El país entra en una fase más lluviosa esta semana. Conozca qué zonas tendrán mayor impacto, en qué momentos del día lloverá y cómo cambiarán las condiciones del tiempo.",
+      "featured": false
+    },
+    {
+      "slug": "un-legionario-sancionado-otro-anoto-y-uno-palpita-el-ascenso-en-europa",
+      "title": "Un legionario sancionado, otro anotó y uno palpita el ascenso en Europa",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los jugadores ticos en Europa viven distintos momentos en sus respectivas ligas.\n• Un legionario recibió una sanción que afecta su continuidad en el equipo.\n• Otro jugador logró anotar, destacándose en una importante victoria del club.\n• El tercer legionario está cerca de alcanzar un ascenso en su liga actual.\n• Sus actuaciones reflejan el talento y esfuerzo del fútbol costarricense en el exterior.",
+      "source_name": "Esteban Valverde",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/un-legionario-sancionado-otro-anoto-y-uno-palpita/DHLPTMSYUBALFDJ53XJOR5PHME/story/",
+      "publish_date": "2026-05-02T22:39:34.000Z",
+      "teaser": "Lo clave en 20 segundos: Los legionarios de Costa Rica tienen desafíos diversos este fin de semana.",
+      "image_url": "https://www.nacion.com/resizer/v2/NCDLHJ24RJBRXCAQERSXILZTAU.jpg?auth=8a09718a635ebf16adcb25dd70b0ceeed7ca73f539a824b1b61a6ba7295633b5&smart=true&width=864&height=648",
+      "description": "Los legionarios de Costa Rica enfrentan diferentes retos en la jornada de fin de semana.",
+      "featured": false
+    },
+    {
       "slug": "atleta-nacida-en-haiti-y-que-compite-por-costa-rica-impone-record-centroamericano-y-clasifica-al-mundial-juvenil",
       "title": "Atleta nacida en Haití y que compite por Costa Rica impone récord centroamericano y clasifica al Mundial Juvenil",
       "category": "Costa Rica",
@@ -54,13 +119,13 @@
     },
     {
       "slug": "los-inquietantes-vehiculos-abandonados-en-la-zona-muerta-de-chernobil",
-      "title": "Los inquietantes vehículos abandonados en la \"zona muerta\" de Chernóbil",
+      "title": "Los inquietantes vehículos abandonados en la 'zona muerta' de Chernóbil",
       "category": "Mundo",
-      "bullets_20s": "• Los vehículos fueron utilizados para lidiar con los residuos radiactivos tras el desastre de Chernóbil.\n• Varios de estos autos permanecen en un estado lamentable debido al paso del tiempo.\n• La zona de exclusión ahora atrae la atención de curiosos y fotografos de todo el mundo.\n• La historia de estos vehículos es un recordatorio de la tragedia nuclear ocurrida hace décadas.\n• Se están realizando estudios para entender la contaminación en el área y su impacto ambiental.",
+      "bullets_20s": "• Los vehículos en Chernóbil son un símbolo del desastre nuclear de 1986.\n• Aún se pueden ver coches abandonados en un estado de deterioro extremo.\n• La limpieza inicial utilizó una gran cantidad de maquinaria pesada y vehículos.\n• Estos vehículos son recordatorios del impacto de la radiación en el medio ambiente.\n• La zona de exclusión de Chernóbil atrae a turistas e investigadores por igual.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c7754gm7yr6o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T21:21:51.000Z",
-      "teaser": "Lo clave en 20 segundos: vehículos abandonados en Chernóbil cuentan la historia de un desastre nuclear.",
+      "teaser": "Lo clave en 20 segundos: los vehículos de Chernóbil, un recordatorio del desastre nuclear en la zona muerta.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8da5/live/123935b0-463b-11f1-aa14-ad910202f501.jpg",
       "description": "Hace 40 años se utilizó una enorme flota de vehículos para limpiar los residuos radiactivos del desastre de Chernóbil. Muchos de ellos siguen abandonados y oxidados dentro de la zona de exclusión.",
       "featured": false
@@ -561,13 +626,13 @@
     },
     {
       "slug": "el-misterio-que-rodea-la-llorona-uno-de-los-himnos-de-mexico-que-chavela-vargas-hizo-suyo",
-      "title": "El misterio que rodea 'La Llorona', uno de los himnos de México que Chavela Vargas hizo suyo",
+      "title": "El misterio que rodea \"La Llorona\", uno de los himnos de México que Chavela Vargas hizo suyo",
       "category": "Mundo",
-      "bullets_20s": "• La Llorona es una canción icónica que ha trascendido fronteras culturales y temporales.\n• La historia de La Llorona se ha narrado de diversas formas en diferentes regiones.\n• Chavela Vargas interpretó esta canción y revolucionó su percepción en el mundo musical.\n• Cantautoras como Lila Downs y Ely Guerra han reimaginado esta obra emblemática.\n• La Llorona refleja el dolor y la añoranza presentes en muchas tradiciones populares.\n• Investigar el origen y significado de La Llorona es un viaje cultural fascinante.\n• La interpretación de cada cantante ofrece una nueva perspectiva sobre la narrativa.\n• La canción sigue siendo un símbolo de identidad en la música mexicana contemporánea.",
+      "bullets_20s": "• La Llorona es una canción con una rica historia llena de misterio y significado profundo.\n• Chavela Vargas reinterpretó la canción, llevándola a nuevas alturas en la música latinoamericana.\n• Lila Downs y Ely Guerra también han hecho su propia versión, añadiendo su estilo único.\n• La canción está arraigada en la tradición y la cultura popular mexicana desde hace generaciones.\n• El tema de La Llorona toca fibras sensibles relacionadas con la pérdida y el amor.",
       "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/c2lwqwvelvgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T11:24:12.000Z",
-      "teaser": "Lo clave en 20 segundos: La Llorona, un símbolo cultural, reimaginada por grandes voces de México.",
+      "teaser": "Lo clave en 20 segundos: La Llorona, un himno mexicano, revela historias de amor y pérdida a través de grandes artistas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e6b5/live/c46073e0-3ca2-11f1-8e26-931170ebc0de.png",
       "description": "Nos adentramos en la fascinante historia de “La Llorona” y en lo que esa canción representa para dos de las cantautoras más influyentes de México, Lila Downs y Ely Guerra.",
       "featured": false
@@ -589,13 +654,13 @@
       "slug": "los-dramas-familiares-que-se-esconden-detras-de-samsung-el-imperio-tecnologico-que-comenzo-como-una-tienda-de-comidas",
       "title": "Los dramas familiares que se esconden detrás de Samsung, el imperio tecnológico que comenzó como una tienda de comidas",
       "category": "Mundo",
-      "bullets_20s": "• Samsung comenzó como una tienda de alimentos antes de convertirse en un gigante tecnológico.\n• La familia detrás de Samsung ha enfrentado numerosos desafíos y rivalidades internas.\n• La ambición ha llevado a decisiones que han afectado tanto a la empresa como a su entorno.\n• A lo largo del tiempo, la historia familiar ha influenciado la cultura corporativa de Samsung.\n• El éxito de Samsung no solo se mide en dinero, sino en su legado familiar y cultural.",
+      "bullets_20s": "• Samsung inició su camino como una pequeña tienda de alimentos en Corea del Sur.\n• La empresa ha crecido enormemente hasta convertirse en un gigante tecnológico global.\n• Las rivalidades familiares han influido en las decisiones corporativas de Samsung.\n• Ambición y tradición han sido pilares fundamentales en su trayectoria empresarial.\n• El impacto de Samsung se extiende más allá de la tecnología hasta la economía surcoreana.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpqpz3lld27o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T10:43:42.000Z",
-      "teaser": "Lo clave en 20 segundos: dramáticas rivalidades y una rica herencia impulsan a Samsung.",
+      "teaser": "Lo clave en 20 segundos: Los dramas familiares y la ambición detrás del éxito de Samsung.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/36dc/live/df9236d0-44ef-11f1-9cfb-6b89a04a51af.jpg",
-      "description": "Detrás del éxito de Samsung se esconde una dinastía impulsada por la ambición, la riqueza, la tradición y las rivalidades, que moldearon tanto a la empresa como a la economía de Corea del Sur.",
+      "description": "Detrás del éxito de Samsung se esconde una dinastía impulsada por la ambición, la riqueza, la tradición y las rivalidades.",
       "featured": false
     },
     {
@@ -615,11 +680,11 @@
       "slug": "por-que-la-sal-tiene-un-efecto-tan-poderoso-en-nuestro-cerebro",
       "title": "Por qué la sal tiene un efecto tan poderoso en nuestro cerebro",
       "category": "Ciencia",
-      "bullets_20s": "• La sal no solo mejora los sabores, también impacta nuestra salud y bienestar emocional.\n• Investigaciones sugieren que el consumo de sal puede influir en el estado de ánimo.\n• Componentes de la sal intervienen en la transmisión de señales en el cerebro.\n• En la cocina, la sal es un saborizante esencial, usado en muchas culturas.\n• El equilibrio de sodio es crucial para funciones corporales como la hidratación.",
+      "bullets_20s": "• La sal es un mineral esencial que regula varias funciones en el organismo humano.\n• Su uso en la cocina data de miles de años por su capacidad para realzar sabores.\n• Los estudios demuestran que la sal influye en el placer y la satisfacción al comer.\n• El consumo excesivo de sal puede tener consecuencias negativas en la salud.\n• La investigación sobre la sal en el cerebro abre nuevas puertas en la neurociencia.\n• Las culturas alrededor del mundo utilizan la sal como símbolo de preservación y poder.\n• El impacto de la sal en la memoria y el aprendizaje es un área de interés científico.\n• La sal puede afectar el comportamiento y las emociones de diversas maneras.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cgqp2n71ld4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T10:10:50.000Z",
-      "teaser": "Lo clave en 20 segundos: La sal, esencial en la cocina, también afecta nuestro cerebro y estado emocional.",
+      "teaser": "Lo clave en 20 segundos: La sal beneficia nuestro cerebro, pero con precaución en su consumo.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/67a4/live/c320a710-43d8-11f1-a133-a9dbeae5d5f3.jpg",
       "description": "La sal se encuentra en casi todas las cocinas. Pero, ¿cómo este ingrediente aparentemente sencillo se convirtió en el potenciador de sabor favorito del mundo?",
       "featured": false
@@ -680,11 +745,11 @@
       "slug": "podemos-alcanzar-objetivos-a-2000-km-dentro-de-la-base-secreta-de-ucrania-que-lanza-drones-que-matan-a-miles-de-soldados",
       "title": "Podemos alcanzar objetivos a 2.000 km: dentro de la base secreta de Ucrania que lanza drones que matan a miles de soldados rusos cada mes",
       "category": "Mundo",
-      "bullets_20s": "• La base secreta en Ucrania lanza drones que tienen un alto impacto en el conflicto actual.\n• El comandante Brovdi destaca la eficiencia de su unidad en la destrucción de objetivos enemigos.\n• Se estima que miles de soldados rusos han sido afectados por estos ataques aéreos.\n• Los drones se han convertido en herramientas cruciales para la estrategia militar moderna.\n• Este conflicto resalta la importancia de la tecnología en las guerras contemporáneas.",
+      "bullets_20s": "• El comandante Brovdi revela que su unidad es clave en las operaciones con drones en Ucrania.\n• Se calcula que están logrando destruir miles de objetivos en el campo de batalla cada mes.\n• La base se mantiene en secreto para proteger las operaciones y personal involucrado.\n• Los drones son una herramienta crucial en las tácticas modernas de guerra en el conflicto.\n• Esta estrategia ha cambiado la dinámica del conflicto en el este de Europa notablemente.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c7v93mz0p11o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T03:49:44.000Z",
-      "teaser": "Lo clave en 20 segundos: drones en Ucrania están cambiando la dinámica del conflicto actual.",
+      "teaser": "Lo clave en 20 segundos: Ucrania utiliza drones en operaciones secretas que cambian el curso de la guerra.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9638/live/a2f93d80-447d-11f1-88ff-575186ed76aa.jpg",
       "description": "En una inusual entrevista con la BBC, el comandante Robert Brovdi explicó que su unidad es responsable de un tercio de todos los objetivos destruidos en el campo de batalla.",
       "featured": false
@@ -1993,11 +2058,11 @@
       "slug": "pe-ai-19-aseguramiento-de-la-calidad",
       "title": "PE-AI-19 Aseguramiento de la calidad",
       "category": "Tecnología",
-      "bullets_20s": "• Aseguramiento de la calidad es esencial en procesos tecnológicos y académicos.\n• Los manuales y procedimientos deben actualizarse regularmente para ser efectivos.\n• La calidad se mide a través de diversos indicadores y métricas.\n• La capacitación del personal es vital para mantener estándares de calidad.\n• El uso de tecnologías avanzadas facilita el monitoreo de calidad.",
+      "bullets_20s": "• El manual PE-AI-19 se centra en el aseguramiento de la calidad en procesos educativos.\n• Los procedimientos establecidos garantizan la mejora continua en la enseñanza.\n• Se busca la eficacia y eficiencia en todos los niveles educativos.\n• La calidad educativa es crucial para el desarrollo social y económico.\n• La implementación de este manual favorecerá a la comunidad estudiantil.\n• El seguimiento y evaluación son pasos clave en el proceso de calidad.\n• Involucra a todos los actores del ámbito educativo en su ejecución.\n• Promueve una cultura de calidad en la institución educativa.\n• La última modificación se realizó en abril de 2026, actualizando lineamientos.\n• Este tipo de manuales son fundamentales para la educación superior.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ai-19-aseguramiento-calidad",
       "publish_date": "2026-04-30T15:55:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Aseguramiento de la calidad en procesos académicos y tecnológicos.",
+      "teaser": "Lo clave en 20 segundos: Aseguramiento de la calidad en procesos educativos es esencial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -2617,11 +2682,11 @@
       "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
       "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC otorgó más de 23 mil becas, reflejando un fuerte compromiso estudiantil con la educación superior.\n• Las becas socioeconómicas duplicaron sus montos en 2025, favoreciendo a quienes más lo necesitan.\n• Un 65,2% de graduados costeó sus estudios con apoyo, destacando la importancia de estas becas.\n• El informe detalla el impacto directo en la permanencia y graduación de estudiantes en educación superior.\n• Se desarrollaron 179 actividades para aumentar la retención estudiantil, mostrando un esfuerzo por mejorar.\n• El TEC asumió la presidencia de CONARE, fortaleciendo la unidad del sistema universitario estatal.\n• La matrícula total alcanzó 13.076 estudiantes, con un crecimiento significativo en poblaciones vulnerables.\n• El informe destaca un aumento en proyectos de investigación y extensión con impacto a diversas comunidades.\n• La institucionalización de programas busca mejorar el acceso educativo y reducir la deserción estudiantil.\n• Se presentaron propuestas de reforma del Estatuto Orgánico para mejorar la gobernanza institucional.",
+      "bullets_20s": "• El Tecnológico de Costa Rica otorgó 23.323 becas en 2025, beneficiando a miles de estudiantes.\n• Las becas socioeconómicas duplicaron su monto con aumentos que se implementaron a lo largo del año.\n• El TEC se centró en garantizar la equidad y permanencia en la educación superior para todos.\n• La rectora informó sobre decisiones que vinculan el sistema de apoyos con las necesidades del país.\n• Se firmó un acuerdo para destinar un porcentaje del presupuesto a becas y apoyos estudiantiles.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
       "publish_date": "2026-04-29T17:20:04.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC otorgó más de 23 mil becas en 2025, destacando un fuerte compromiso educativo.",
+      "teaser": "Lo clave en 20 segundos: El TEC duplicó becas y benefició a más de 15 mil estudiantes en 2025.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
       "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "featured": false
@@ -8217,5 +8282,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-02T22:45:29.951Z"
+  "generated_at": "2026-05-02T23:45:30.097Z"
 }
