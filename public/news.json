@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "chances-de-la-jps-vea-los-numeros-ganadores-del-sorteo-de-este-viernes-01-de-mayo",
+      "title": "Chances de la JPS: vea los números ganadores del sorteo de este viernes 01 de mayo",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los sorteos de la JPS son eventos esperados por muchos en Costa Rica cada semana.\n• El premio mayor atrae a miles de personas que buscan cambiar su suerte.\n• Los números ganadores se publican rápidamente después de cada sorteo.\n• La JPS contribuye al desarrollo social y educativo en el país con sus fondos.\n• Cada sorteo genera gran expectativa entre los participantes y la población en general.",
+      "source_name": "Libia Solano Meza",
+      "source_url": "https://www.nacion.com/el-pais/chances-de-la-jps-vea-los-numeros-ganadores-del/O6L2XRIKVREJ7NP4ZNERMN3V6Q/story/",
+      "publish_date": "2026-05-02T01:47:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Números ganadores de la JPS y un premio mayor atractivo.",
+      "image_url": "https://www.nacion.com/resizer/v2/TLC43QCL2NDNFC4XGBAKWB2DEE.jpg?auth=6affd3774dd57a0a866089bff3ba5914b65f6bb0c6fda9065743640d077c3ae9&smart=true&width=1600&height=898",
+      "description": "El premio mayor es de ₡240 millones de colones en dos emisiones.",
+      "featured": false
+    },
+    {
       "slug": "corte-de-estados-unidos-detiene-temporalmente-envio-de-pildora-abortiva-por-correo",
       "title": "Corte de Estados Unidos detiene temporalmente envío de píldora abortiva por correo",
       "category": "Mundo",
-      "bullets_20s": "• La mifepristona es un medicamento clave en el proceso de aborto en Estados Unidos.\n• El envío de medicamentos por correo ha sido un tema controvertido en el país.\n• Esta decisión puede afectar el acceso a servicios de salud reproductiva.\n• El caso se enmarca en un debate jurídico sobre derechos reproductivos.\n• Los defensores del derecho al aborto critican la suspensión del envío de píldoras.",
+      "bullets_20s": "• Una corte de apelaciones en Estados Unidos ha tomado medidas sobre un tema muy controvertido.\n• El medicamento mifepristona es clave para la interrupción del embarazo en ese país.\n• Este fallo despierta reacciones diversas en el ámbito político y social.\n• La suspensión temporal impacta a muchas mujeres que dependen de este recurso.\n• Las implicaciones legales del fallo pueden afectar el acceso a la salud reproductiva.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/el-mundo/corte-de-estados-unidos-detiene-temporalmente/PZSKVWW2KVBZ5CREZVIHSLFMHE/story/",
       "publish_date": "2026-05-02T01:16:34.000Z",
-      "teaser": "Lo clave en 20 segundos: Corte estadounidense suspende envío de mifepristona por correo, impactando derechos reproductivos.",
+      "teaser": "Lo clave en 20 segundos: Corte estadounidense suspende envío de píldora abortiva por correo.",
       "image_url": "https://www.nacion.com/resizer/v2/FMIJTMPPURDY5BCBM7R5YIGVHE.jpeg?auth=fdcfb56f1459e1fcc8230e531900519300f488febc1a9939cc813aa220ec0ce4&smart=true&width=4002&height=2668",
       "description": "Una corte de apelaciones de Estados Unidos ordenó suspender temporalmente el envío por correo de la mifepristona, el medicamento más utilizado para la interrupción del embarazo en el país.",
       "featured": false
@@ -56,13 +69,13 @@
       "slug": "eeuu-anuncia-que-retirara-a-5000-soldados-de-alemania-en-medio-de-la-disputa-publica-entre-trump-y-el-canciller-merz-por",
       "title": "EE.UU. anuncia que retirará a 5.000 soldados de Alemania en medio de la disputa pública entre Trump y el canciller Merz por Irán",
       "category": "Mundo",
-      "bullets_20s": "• Estados Unidos reducirá su presencia militar en Alemania a través de este retiro significativo de soldados.\n• La decisión se produce en un contexto tenso entre Trump y el nuevo canciller alemán Merz.\n• Se generan dudas sobre la estrategia militar y la política exterior estadounidense hacia Irán.\n• El retiro planeado podría afectar la percepción de Estados Unidos en Europa y en el mundo.\n• Este movimiento se suma a otros cambios en la política de defensa de EE.UU. en los últimos años.",
+      "bullets_20s": "• La decisión de EE.UU. genera preocupaciones sobre la seguridad en Europa y el papel de la OTAN.\n• Trump y Merz han tenido desacuerdos significativos sobre la política en Oriente Medio y los recursos militares.\n• La retirada de tropas podría afectar la relación bilateral entre Estados Unidos y Alemania.\n• Analistas advierten que la decisión podría provocar reacciones en otros países europeos aliados.\n• El contexto geopolítico actual trae incertidumbres sobre conflictos en medio Oriente y Europa.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cedp9v4jv49o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T00:15:33.000Z",
-      "teaser": "Lo clave en 20 segundos: EE.UU. retira soldados en un contexto de tensiones políticas con Alemania.",
+      "teaser": "Lo clave en 20 segundos: Retiro de soldados de EE.UU. en Alemania en medio de tensiones diplomáticas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ace7/live/b62bb1b0-45b5-11f1-9deb-9f280b02f266.jpg",
-      "description": "El Departamento de Defensa de Estados Unidos planea retirar a 5.000 soldados de Alemania, en medio de una disputa entre el presidente estadounidense Donald Trump y el canciller alemán Friedrich Merz sobre la guerra con Irán.",
+      "description": "El Departamento de Defensa de Estados Unidos planea retirar a 5.000 soldados de Alemania, en medio de una disputa entre Trump y Merz.",
       "featured": false
     },
     {
@@ -602,11 +615,11 @@
       "slug": "en-video-como-el-narco-usa-el-oro-para-lavar-dinero-especial-de-bbc-mundo",
       "title": "EN VIDEO: Cómo el narco usa el oro para lavar dinero | Especial de BBC Mundo",
       "category": "Mundo",
-      "bullets_20s": "• El oro se ha transformado en un recurso clave para los carteles de drogas en América Latina.\n• Grupos criminales utilizan la minería ilegal para obtener ganancias significativas en el mercado negro.\n• La extracción de oro provoca serios daños ambientales en ríos y bosques de la región.\n• Los patrones de deforestación aumentan a medida que las operaciones mineras ilegales se expanden.\n• El lavado de dinero mediante el oro complica los esfuerzos de las autoridades para combatir el crimen.",
+      "bullets_20s": "• El oro es utilizado por el narcotráfico para blanquear dinero de actividades ilícitas.\n• La extracción ilegal de oro causa un gran daño ambiental en América Latina, especialmente en ríos.\n• Los grupos criminales encuentran en el oro una forma efectiva de ocultar sus ganancias.\n• La deforestación es una de las consecuencias más graves de la minería ilegal de oro.\n• Este fenómeno del oro se expande en diversas regiones afectadas por la violencia del narcotráfico.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cvgzwl9ylwgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T11:55:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Cómo el narco usa el oro para lavar dinero y sus efectos en el medio ambiente.",
+      "teaser": "Lo clave en 20 segundos: El oro sirve al narcotráfico para lavar dinero, impactando gravemente el medio ambiente.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c105/live/b49802f0-44b0-11f1-9caf-0fcd4fb68138.jpg",
       "description": "El oro, en el pasado un símbolo espiritual, ahora es usado por los grupos criminales para lavar dinero.  Y en América Latina su extracción ilegal se realiza a costa de la deforestación y la contaminación de nuestros ríos.",
       "featured": false
@@ -641,11 +654,11 @@
       "slug": "gaviotas-la-utopia-que-trata-de-reinventar-el-mundo-en-colombia-desde-hace-mas-de-medio-siglo-y-su-inesperada-relevancia",
       "title": "Gaviotas, la utopía que trata de reinventar el mundo en Colombia desde hace más de medio siglo (y su inesperada relevancia internacional)",
       "category": "Mundo",
-      "bullets_20s": "• Gaviotas es un modelo de desarrollo sostenible que busca alternativas viables a problemas globales.\n• La aldea utiliza tecnologías innovadoras para mejorar la calidad de vida de sus habitantes.\n• Proyectos como calefacción solar y biocombustibles son ejemplos del ingenio local.\n• La relevancia internacional de Gaviotas radica en su enfoque en la sostenibilidad ambiental.\n• Desde su creación, ha inspirado a comunidades alrededor del mundo a adoptar sus métodos.",
+      "bullets_20s": "• Gaviotas es una aldea que ha innovado durante más de cincuenta años en Colombia.\n• Su modelo se basa en tecnologías sostenibles y adaptación al entorno natural.\n• Las invenciones locales son clave para la supervivencia y el bienestar comunitario.\n• Se han desarrollado sistemas de energía renovable accesibles para todos.\n• El enfoque en jardinería comestible promueve la seguridad alimentaria y salud.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2l2nwj0zdjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T11:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: Gaviotas aplica innovación para un desarrollo sostenible y admiración global.",
+      "teaser": "Lo clave en 20 segundos: Gaviotas, una aldea innovadora en Colombia, ha revolucionado la autosuficiencia comunitaria.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ba9f/live/d1ec4f40-44cf-11f1-8de1-593a7bb5acaa.jpg",
       "description": "La aldea dependía de invenciones de elaboración propia para sobrevivir: desde calentadores de agua solares de bajo costo y un subibaja infantil que servía también como bomba de agua, hasta la jardinería forestal comestible y los biocombustibles.",
       "featured": false
@@ -680,11 +693,11 @@
       "slug": "anta-la-innovadora-compania-china-de-ropa-deportiva-que-desafia-a-nike-y-adidas",
       "title": "Anta, la innovadora compañía china de ropa deportiva que desafía a Nike y Adidas",
       "category": "Mundo",
-      "bullets_20s": "• Anta se ha establecido como un competidor significativo en el mercado global de ropa deportiva.\n• La compañía planea expandir su presencia en mercados occidentales para rivalizar con gigantes.\n• Innovation y estrategia son claves en su enfoque para desafiar a Nike y Adidas.\n• El mercado de ropa deportiva en crecimiento presenta oportunidades para Anta y otras marcas.\n• Se espera que su éxito en China impulse su reputación y ventas internacionales.",
+      "bullets_20s": "• Anta ha logrado una sólida presencia en el mercado chino de ropa deportiva desde sus inicios.\n• La compañía busca expandir su influencia hacia los mercados occidentales, incluyendo Estados Unidos.\n• Anta presenta innovaciones en el diseño y la tecnología de sus productos deportivos.\n• Compite directamente con gigantes como Nike y Adidas, conocidos mundialmente por su calidad.\n• La marca ha invertido en marketing y colaboraciones para incrementar su visibilidad global.\n• Analistas del mercado observan el crecimiento acelerado de Anta en los últimos años.\n• Las estrategias de expansión de Anta podrían cambiar la dinámica del mercado deportivo global.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cgmem0vr24ro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T09:45:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Anta busca competir con Nike y Adidas en el mercado deportivo global.",
+      "teaser": "Lo clave en 20 segundos: Anta busca desafiar aNike y Adidas en el mercado global de ropa deportiva.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ba7d/live/d3af3a50-4271-11f1-b15b-85aa1b6efd13.jpg",
       "description": "Con una firme presencia en el mercado chino, Anta apunta ahora a conquistar Occidente y a competir con marcas globales como Nike y Adidas.",
       "featured": false
@@ -706,11 +719,11 @@
       "slug": "la-paradoja-de-noruega-el-pais-que-gana-miles-de-millones-con-la-subida-del-precio-del-petroleo-pero-cada-vez-lo-usa-men",
       "title": "La paradoja de Noruega, el país que gana miles de millones con la subida del precio del petróleo pero cada vez lo usa menos",
       "category": "Mundo",
-      "bullets_20s": "• Noruega se beneficia económicamente de los altos precios del petróleo en el mercado global.\n• A pesar de su riqueza petrolera, Noruega reduce su consumo de combustibles fósiles cada año.\n• El país nórdico ha implementado políticas para promover energías renovables y sostenibles.\n• La exportación de petróleo y gas forma una parte importante de la economía noruega.\n• Noruega es conocido por tener una de las redes energéticas más limpias del planeta.\n• El equilibrio entre negocio y sostenibilidad es clave en la estrategia energética del país.\n• Los ciudadanos noruegos disfrutan de una alta calidad de vida impulsada por esta riqueza.\n• El futuro energético de Noruega enfrenta retos ante el cambio climático y la demanda global.",
+      "bullets_20s": "• Noruega ha logrado un equilibrio entre la exportación de petróleo y el uso de energías limpias.\n• El país invierte en investigación de tecnologías sostenibles para reducir la dependencia del petróleo.\n• Frente al cambio climático, Noruega se enfrenta a críticas por su negocio de combustibles fósiles.\n• Su red energética es reconocida como una de las más limpias, con un enfoque en energía hidroeléctrica.\n• El debate sobre el futuro del petróleo en Noruega genera interés en la comunidad internacional.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c98r144q49ro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T03:53:12.000Z",
-      "teaser": "Lo clave en 20 segundos: Noruega se enriquece con el petróleo, pero apuesta por energías limpias.",
+      "teaser": "Lo clave en 20 segundos: Noruega se beneficia del petróleo, mientras busca reducir su uso por el clima.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/47f3/live/7aab3940-44bf-11f1-813e-bf7166e1ca58.jpg",
       "description": "El próspero país nórdico tiene una de las redes energéticas menos contaminantes del mundo, pero también un gran negocio con la exportación de combustibles fósiles.",
       "featured": false
@@ -1290,12 +1303,12 @@
     {
       "slug": "pe-ai-19-aseguramiento-de-la-calidad",
       "title": "PE-AI-19 Aseguramiento de la calidad",
-      "category": "Tecnología",
-      "bullets_20s": "• El documento PE-AI-19 aborda protocolos de aseguramiento de calidad en diversas áreas.\n• En su contenido, se destacan las mejores prácticas para garantizar estándares altos.\n• Se espera que este manual se utilice en procesos educativos y tecnológicos.\n• Incluye procedimientos específicos para la evaluación y mejora continua.\n• El manual está diseñado para facilitar el trabajo a docentes y administradores.",
+      "category": "Ciencia",
+      "bullets_20s": "• El aseguramiento de calidad es clave para garantizar estándares en procesos educativos.\n• Se establecen manuales y procedimientos para asegurar la calidad en distintas áreas.\n• La última modificación del documento se realizó en abril de 2026.\n• Referencias a procesos específicos se encuentran en los manuales correspondientes.\n• Importante mantener la actualización de documentos para que sean relevantes y útiles.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ai-19-aseguramiento-calidad",
       "publish_date": "2026-04-30T15:55:48.000Z",
-      "teaser": "Lo clave en 20 segundos: auge del aseguramiento de la calidad en procesos educativos y tecnológicos.",
+      "teaser": "Lo clave en 20 segundos: Asegurando la calidad en procesos educativos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -1912,6 +1925,19 @@
       "featured": false
     },
     {
+      "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
+      "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las becas socioeconómicas duplicaron sus montos, garantizando un mejor acceso a la educación superior.\n• El TEC otorgó un total de 23.323 becas, apoyando a 15.025 estudiantes en su formación académica.\n• La rectora destacó la importancia de las becas para garantizar la permanencia y graduación estudiantil.\n• El informe resalta el aumento del presupuesto destinado al fondo de becas y apoyos estudiantiles.\n• Se implementaron múltiples actividades para reducir la deserción y la repitencia en los estudiantes.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
+      "publish_date": "2026-04-29T17:20:04.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC amplió su apoyo educativo mediante más de 23 mil becas en 2025.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
+      "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
+      "featured": false
+    },
+    {
       "slug": "colegio-de-periodistas-toma-decision-sobre-douglas-sanchez-tras-denuncia-por-supuestamente-sugerir-montarle-la-cama-al-d",
       "title": "Colegio de Periodistas toma decisión sobre Douglas Sánchez tras denuncia por supuestamente sugerir ‘montarle la cama’ al director del OIJ",
       "category": "Costa Rica",
@@ -2390,19 +2416,6 @@
       "teaser": "Lo clave en 20 segundos: Alcalde renuncia sin aclarar motivos, su salida impacta la política local.",
       "image_url": "https://www.nacion.com/resizer/v2/RTRAOHEEDFG4VAYSSOQAMAZZHU.jpg?auth=f157cf05bca763a7eb0f1ec8c05b34ffecec5a9e2d092dee75a099dcb86f2353&smart=true&width=4256&height=2832",
       "description": "El alcalde de Barva anunció su renuncia al cargo, efectiva el 7 de mayo. El jerarca, que había dado su adhesión a Laura Fernández, no detalló los motivos y no podía reelegirse.",
-      "featured": false
-    },
-    {
-      "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
-      "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
-      "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica otorgó más de 23 mil becas en 2025 para estudiantes de grado.\n• Las becas socioeconómicas duplicaron sus montos, aumentando el apoyo al estudiantado vulnerable.\n• Un 65,2% de las personas graduadas recibió algún tipo de apoyo financiero durante sus estudios.\n• El TEC desarrolló 179 actividades enfocadas en la retención estudiantil y 152 para reducir la repitencia.\n• Se trabajó en programas de acompañamiento e integración para facilitar la adaptación de nuevos estudiantes.",
-      "source_name": "m.molina",
-      "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
-      "publish_date": "2026-04-29T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Más de 23 mil becas otorgadas por el TEC para estudiantes en 2025.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
-      "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "featured": false
     },
     {
@@ -7515,5 +7528,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-02T01:45:29.846Z"
+  "generated_at": "2026-05-02T02:45:30.058Z"
 }
