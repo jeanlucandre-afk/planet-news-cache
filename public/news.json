@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "china-asume-la-presidencia-del-consejo-de-seguridad-y-alerta-del-aumento-de-conflictos-y-tensiones-globales",
+      "title": "China asume la presidencia del Consejo de Seguridad y alerta del aumento de conflictos y tensiones globales",
+      "category": "Mundo",
+      "bullets_20s": "• China asume un rol clave en el Consejo de Seguridad de la ONU durante su presidencia.\n• Se espera un aumento de conflictos y tensiones en el ámbito internacional de continuar la situación.\n• Pekín planea debatir aspectos importantes de la Carta de Naciones Unidas este mes.\n• La agenda se centrará en la situación en Oriente Próximo y otros conflictos regionales.\n• La protección de civiles será una prioridad en las discusiones durante su mandato.\n• Expertos advierten sobre las implicaciones de las decisiones chinas para la paz global.\n• La comunidad internacional observa con atención los pasos que dará China en este rol.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/el-mundo/china-asume-la-presidencia-del-consejo-de/Z24GXMMD3NEMLCAINCKKBGZWEY/story/",
+      "publish_date": "2026-05-02T03:18:55.000Z",
+      "teaser": "Lo clave en 20 segundos: China liderará el Consejo de Seguridad con un enfoque en tensiones globales.",
+      "image_url": "https://www.nacion.com/resizer/v2/LENCG6PYNRD77JDHNUQM6UZUEI.jpg?auth=cc1472910d33beb35fd9d0aeaeb3e7117e51f8dae79d8f28dab05b2e603edd3b&smart=true&width=8256&height=5504",
+      "description": "Pekín impulsará un debate sobre la Carta de Naciones Unidas y centrará la agenda en Oriente Próximo y la protección de civiles.",
+      "featured": false
+    },
+    {
+      "slug": "trump-endurece-sanciones-a-cuba-en-plena-marcha-del-1-de-mayo-en-la-habana",
+      "title": "Trump endurece sanciones a Cuba en plena marcha del 1.º de Mayo en La Habana",
+      "category": "Mundo",
+      "bullets_20s": "• Donald Trump ha tomado decisiones drásticas en su relación con Cuba.\n• Las nuevas sanciones buscan aumentar la presión sobre el gobierno cubano.\n• Este anuncio se realiza en un contexto político muy tenso.\n• Las tensiones entre Estados Unidos y Cuba han aumentado recientemente.\n• El 1.º de Mayo es una fecha emblemática para la clase trabajadora cubana.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/trump-endurece-sanciones-a-cuba-en-plena-marcha/BNKUGCBMS5ABBLGM5LF3XOS5TE/story/",
+      "publish_date": "2026-05-02T02:34:39.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump impone sanciones adicionales a Cuba en un clima de tensión política.",
+      "image_url": "https://www.nacion.com/resizer/v2/354GVEEIQNGNPJAUZTWDG2TICM.jpg?auth=7824c4133e29fc340d60c621fc16732473cd4b3c6689875a66ab7c9dc4181ef6&smart=true&width=1200&height=801",
+      "description": "El presidente de Estados Unidos, Donald Trump, ordenó nuevas sanciones contra Cuba en un intento por incrementar la presión sobre el gobierno de La Habana, en medio de crecientes tensiones políticas y diplomáticas entre ambos países.",
+      "featured": false
+    },
+    {
       "slug": "chances-de-la-jps-vea-los-numeros-ganadores-del-sorteo-de-este-viernes-01-de-mayo",
       "title": "Chances de la JPS: vea los números ganadores del sorteo de este viernes 01 de mayo",
       "category": "Costa Rica",
-      "bullets_20s": "• Los sorteos de la JPS son eventos esperados por muchos en Costa Rica cada semana.\n• El premio mayor atrae a miles de personas que buscan cambiar su suerte.\n• Los números ganadores se publican rápidamente después de cada sorteo.\n• La JPS contribuye al desarrollo social y educativo en el país con sus fondos.\n• Cada sorteo genera gran expectativa entre los participantes y la población en general.",
+      "bullets_20s": "• Se anunció el sorteo de la JPS, generando gran expectativa en la población costarricense.\n• El premio mayor ronda los ₡240 millones, atrayendo la atención de muchos jugadores.\n• La Junta de Protección Social organiza estos sorteos como parte de la recaudación de fondos.\n• Los números ganadores se publican después de cada sorteo para informar a los participantes.\n• Los aficionados a los juegos de azar siguen diferentes estrategias para elegir sus números.",
       "source_name": "Libia Solano Meza",
       "source_url": "https://www.nacion.com/el-pais/chances-de-la-jps-vea-los-numeros-ganadores-del/O6L2XRIKVREJ7NP4ZNERMN3V6Q/story/",
       "publish_date": "2026-05-02T01:47:30.000Z",
-      "teaser": "Lo clave en 20 segundos: Números ganadores de la JPS y un premio mayor atractivo.",
+      "teaser": "Lo clave en 20 segundos: Verifique los números ganadores del sorteo de la JPS del 1 de mayo.",
       "image_url": "https://www.nacion.com/resizer/v2/TLC43QCL2NDNFC4XGBAKWB2DEE.jpg?auth=6affd3774dd57a0a866089bff3ba5914b65f6bb0c6fda9065743640d077c3ae9&smart=true&width=1600&height=898",
       "description": "El premio mayor es de ₡240 millones de colones en dos emisiones.",
       "featured": false
@@ -69,13 +95,13 @@
       "slug": "eeuu-anuncia-que-retirara-a-5000-soldados-de-alemania-en-medio-de-la-disputa-publica-entre-trump-y-el-canciller-merz-por",
       "title": "EE.UU. anuncia que retirará a 5.000 soldados de Alemania en medio de la disputa pública entre Trump y el canciller Merz por Irán",
       "category": "Mundo",
-      "bullets_20s": "• La decisión de EE.UU. genera preocupaciones sobre la seguridad en Europa y el papel de la OTAN.\n• Trump y Merz han tenido desacuerdos significativos sobre la política en Oriente Medio y los recursos militares.\n• La retirada de tropas podría afectar la relación bilateral entre Estados Unidos y Alemania.\n• Analistas advierten que la decisión podría provocar reacciones en otros países europeos aliados.\n• El contexto geopolítico actual trae incertidumbres sobre conflictos en medio Oriente y Europa.",
+      "bullets_20s": "• Estados Unidos está planificando la salida de tropas como respuesta a tensiones políticas.\n• La decisión se produce en un contexto de disputa sobre la política hacia Irán.\n• El canciller alemán Merz y Trump han tenido desacuerdos visibles en el tema.\n• La retirada de tropas podría tener implicaciones geoestratégicas en Europa.\n• La opinión pública está dividida sobre el uso de tropas estadounidenses en el extranjero.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cedp9v4jv49o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T00:15:33.000Z",
-      "teaser": "Lo clave en 20 segundos: Retiro de soldados de EE.UU. en Alemania en medio de tensiones diplomáticas.",
+      "teaser": "Lo clave en 20 segundos: Estados Unidos retirará soldados de Alemania en medio de tensiones políticas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ace7/live/b62bb1b0-45b5-11f1-9deb-9f280b02f266.jpg",
-      "description": "El Departamento de Defensa de Estados Unidos planea retirar a 5.000 soldados de Alemania, en medio de una disputa entre Trump y Merz.",
+      "description": "El Departamento de Defensa de Estados Unidos planea retirar a 5.000 soldados de Alemania, en medio de una disputa entre el presidente estadounidense Donald Trump y el canciller alemán Friedrich Merz sobre la guerra con Irán.",
       "featured": false
     },
     {
@@ -615,11 +641,11 @@
       "slug": "en-video-como-el-narco-usa-el-oro-para-lavar-dinero-especial-de-bbc-mundo",
       "title": "EN VIDEO: Cómo el narco usa el oro para lavar dinero | Especial de BBC Mundo",
       "category": "Mundo",
-      "bullets_20s": "• El oro es utilizado por el narcotráfico para blanquear dinero de actividades ilícitas.\n• La extracción ilegal de oro causa un gran daño ambiental en América Latina, especialmente en ríos.\n• Los grupos criminales encuentran en el oro una forma efectiva de ocultar sus ganancias.\n• La deforestación es una de las consecuencias más graves de la minería ilegal de oro.\n• Este fenómeno del oro se expande en diversas regiones afectadas por la violencia del narcotráfico.",
+      "bullets_20s": "• El oro se ha convertido en una herramienta clave para los grupos criminales en América Latina.\n• La extracción ilegal de oro provoca serios daños ambientales y sociales en la región.\n• Los ríos se contaminan con mercurio y otros químicos durante el proceso de extracción.\n• El video de BBC Mundo revela los métodos utilizados para el lavado de dinero con oro.\n• Deforestación descontrolada es una consecuencia directa de la minería ilegal de oro.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cvgzwl9ylwgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T11:55:35.000Z",
-      "teaser": "Lo clave en 20 segundos: El oro sirve al narcotráfico para lavar dinero, impactando gravemente el medio ambiente.",
+      "teaser": "Lo clave en 20 segundos: Cómo el oro facilita el lavado de dinero en América Latina.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c105/live/b49802f0-44b0-11f1-9caf-0fcd4fb68138.jpg",
       "description": "El oro, en el pasado un símbolo espiritual, ahora es usado por los grupos criminales para lavar dinero.  Y en América Latina su extracción ilegal se realiza a costa de la deforestación y la contaminación de nuestros ríos.",
       "featured": false
@@ -654,11 +680,11 @@
       "slug": "gaviotas-la-utopia-que-trata-de-reinventar-el-mundo-en-colombia-desde-hace-mas-de-medio-siglo-y-su-inesperada-relevancia",
       "title": "Gaviotas, la utopía que trata de reinventar el mundo en Colombia desde hace más de medio siglo (y su inesperada relevancia internacional)",
       "category": "Mundo",
-      "bullets_20s": "• Gaviotas es una aldea que ha innovado durante más de cincuenta años en Colombia.\n• Su modelo se basa en tecnologías sostenibles y adaptación al entorno natural.\n• Las invenciones locales son clave para la supervivencia y el bienestar comunitario.\n• Se han desarrollado sistemas de energía renovable accesibles para todos.\n• El enfoque en jardinería comestible promueve la seguridad alimentaria y salud.",
+      "bullets_20s": "• Gaviotas es un proyecto innovador que busca un desarrollo sostenible en Colombia.\n• El proyecto se basa en la autosuficiencia y el uso de tecnología adecuada.\n• Iniciativas comunitarias han permitido crear productos y soluciones ecológicas.\n• Se han desarrollado calentadores solares de agua de bajo costo en la aldea.\n• Los biocombustibles formaron parte integral del enfoque de sostenibilidad local.\n• El modelo de Gaviotas se ha comenzado a replicar en otras comunidades.\n• La jardinería forestal comestible promueve seguridad alimentaria para los habitantes.\n• La relevancia internacional del proyecto ha atraído atención y apoyo externo.\n• La comunidad ha demostrado que los cambios son posibles con determinación.\n• Gaviotas resalta la importancia de la cooperación comunitaria en la innovación.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2l2nwj0zdjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T11:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: Gaviotas, una aldea innovadora en Colombia, ha revolucionado la autosuficiencia comunitaria.",
+      "teaser": "Lo clave en 20 segundos: Gaviotas es un ejemplo de innovación sostenible en comunidad.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ba9f/live/d1ec4f40-44cf-11f1-8de1-593a7bb5acaa.jpg",
       "description": "La aldea dependía de invenciones de elaboración propia para sobrevivir: desde calentadores de agua solares de bajo costo y un subibaja infantil que servía también como bomba de agua, hasta la jardinería forestal comestible y los biocombustibles.",
       "featured": false
@@ -693,11 +719,11 @@
       "slug": "anta-la-innovadora-compania-china-de-ropa-deportiva-que-desafia-a-nike-y-adidas",
       "title": "Anta, la innovadora compañía china de ropa deportiva que desafía a Nike y Adidas",
       "category": "Mundo",
-      "bullets_20s": "• Anta ha logrado una sólida presencia en el mercado chino de ropa deportiva desde sus inicios.\n• La compañía busca expandir su influencia hacia los mercados occidentales, incluyendo Estados Unidos.\n• Anta presenta innovaciones en el diseño y la tecnología de sus productos deportivos.\n• Compite directamente con gigantes como Nike y Adidas, conocidos mundialmente por su calidad.\n• La marca ha invertido en marketing y colaboraciones para incrementar su visibilidad global.\n• Analistas del mercado observan el crecimiento acelerado de Anta en los últimos años.\n• Las estrategias de expansión de Anta podrían cambiar la dinámica del mercado deportivo global.",
+      "bullets_20s": "• Anta se ha posicionado fuertemente en el mercado chino de ropa deportiva en los últimos años.\n• La empresa busca expandir su presencia en el mercado occidental, donde competirá directamente.\n• El enfoque de Anta se centra en innovaciones tecnológicas aplicadas a la ropa deportiva.\n• La compañía planea utilizar campañas de marketing para atraer a nuevos clientes en Occidente.\n• Anta se distingue por sus diseños y calidad, buscando rivalizar con gigantes de la industria.\n• La empresa tiene planes de abrir tiendas en diversas ciudades clave en Europa y América.\n• Anta se enfrenta a retos significativos al entrar en un mercado dominado por marcas establecidas.\n• La sostenibilidad y la ética en la producción son áreas de enfoque para la empresa.\n• Múltiples colaboraciones con atletas y eventos deportivos están en la agenda para aumentar la visibilidad.\n• Anta continúa invirtiendo en investigación y desarrollo para mejorar su propuesta de valor.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cgmem0vr24ro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T09:45:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Anta busca desafiar aNike y Adidas en el mercado global de ropa deportiva.",
+      "teaser": "Lo clave en 20 segundos: Anta desafía a Nike y Adidas con innovaciones y expansión global.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ba7d/live/d3af3a50-4271-11f1-b15b-85aa1b6efd13.jpg",
       "description": "Con una firme presencia en el mercado chino, Anta apunta ahora a conquistar Occidente y a competir con marcas globales como Nike y Adidas.",
       "featured": false
@@ -719,11 +745,11 @@
       "slug": "la-paradoja-de-noruega-el-pais-que-gana-miles-de-millones-con-la-subida-del-precio-del-petroleo-pero-cada-vez-lo-usa-men",
       "title": "La paradoja de Noruega, el país que gana miles de millones con la subida del precio del petróleo pero cada vez lo usa menos",
       "category": "Mundo",
-      "bullets_20s": "• Noruega ha logrado un equilibrio entre la exportación de petróleo y el uso de energías limpias.\n• El país invierte en investigación de tecnologías sostenibles para reducir la dependencia del petróleo.\n• Frente al cambio climático, Noruega se enfrenta a críticas por su negocio de combustibles fósiles.\n• Su red energética es reconocida como una de las más limpias, con un enfoque en energía hidroeléctrica.\n• El debate sobre el futuro del petróleo en Noruega genera interés en la comunidad internacional.",
+      "bullets_20s": "• Noruega se beneficia enormemente de los altos precios del petróleo en el mercado mundial.\n• A pesar de sus ganancias, el país busca reducir su dependencia de los combustibles fósiles.\n• La nación nórdica tiene una de las redes energéticas más limpias y sostenibles del mundo.\n• El enfoque de Noruega destaca cómo los países pueden equilibrar negocios y sostenibilidad.\n• La paradoja plantea preguntas sobre el futuro del uso del petróleo a nivel global.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c98r144q49ro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T03:53:12.000Z",
-      "teaser": "Lo clave en 20 segundos: Noruega se beneficia del petróleo, mientras busca reducir su uso por el clima.",
+      "teaser": "Lo clave en 20 segundos: Noruega gana mucho con el petróleo, pero lo usa cada vez menos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/47f3/live/7aab3940-44bf-11f1-813e-bf7166e1ca58.jpg",
       "description": "El próspero país nórdico tiene una de las redes energéticas menos contaminantes del mundo, pero también un gran negocio con la exportación de combustibles fósiles.",
       "featured": false
@@ -1303,12 +1329,12 @@
     {
       "slug": "pe-ai-19-aseguramiento-de-la-calidad",
       "title": "PE-AI-19 Aseguramiento de la calidad",
-      "category": "Ciencia",
-      "bullets_20s": "• El aseguramiento de calidad es clave para garantizar estándares en procesos educativos.\n• Se establecen manuales y procedimientos para asegurar la calidad en distintas áreas.\n• La última modificación del documento se realizó en abril de 2026.\n• Referencias a procesos específicos se encuentran en los manuales correspondientes.\n• Importante mantener la actualización de documentos para que sean relevantes y útiles.",
+      "category": "Tecnología",
+      "bullets_20s": "• Se presentan los manuales y procedimientos para el aseguramiento de la calidad.\n• El documento incluye directrices actualizadas sobre mejores prácticas.\n• Se enfocan en estándares de calidad relevantes para el sector tecnológico.\n• El aseguramiento de la calidad es esencial para procesos eficientes.\n• La última modificación se realizó en abril de 2026, reflejando cambios recientes.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ai-19-aseguramiento-calidad",
       "publish_date": "2026-04-30T15:55:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Asegurando la calidad en procesos educativos.",
+      "teaser": "Lo clave en 20 segundos: Nuevos manuales para asegurar la calidad en procesos tecnológicos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -1928,11 +1954,11 @@
       "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
       "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "category": "Costa Rica",
-      "bullets_20s": "• Las becas socioeconómicas duplicaron sus montos, garantizando un mejor acceso a la educación superior.\n• El TEC otorgó un total de 23.323 becas, apoyando a 15.025 estudiantes en su formación académica.\n• La rectora destacó la importancia de las becas para garantizar la permanencia y graduación estudiantil.\n• El informe resalta el aumento del presupuesto destinado al fondo de becas y apoyos estudiantiles.\n• Se implementaron múltiples actividades para reducir la deserción y la repitencia en los estudiantes.",
+      "bullets_20s": "• Las becas socioeconómicas se duplicaron en 2025, favoreciendo a más estudiantes en situación de vulnerabilidad.\n• El TEC logró aumentar los montos de las becas, permitiendo mayor acceso a educación superior para jóvenes.\n• La rectora destacó el papel crucial de estas becas en la movilidad social y continuidad educativa.\n• Se implementaron estrategias para reducir la deserción y repitencia, mejorando la retención estudiantil.\n• Un 53,12% de los estudiantes provienen de áreas sociales con mayores necesidades, mostrando equidad.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
       "publish_date": "2026-04-29T17:20:04.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC amplió su apoyo educativo mediante más de 23 mil becas en 2025.",
+      "teaser": "Lo clave en 20 segundos: TEC duplicó becas en 2025, beneficiando a miles de estudiantes en vulnerabilidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
       "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "featured": false
@@ -7528,5 +7554,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-02T02:45:30.058Z"
+  "generated_at": "2026-05-02T03:45:30.880Z"
 }
