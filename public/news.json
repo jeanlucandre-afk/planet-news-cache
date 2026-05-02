@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "slug": "los-inquietantes-vehiculos-abandonados-en-la-zona-muerta-de-chernobil",
+      "title": "Los inquietantes vehículos abandonados en la 'zona muerta' de Chernóbil",
+      "category": "Mundo",
+      "bullets_20s": "• La zona muerta de Chernóbil alberga vehículos abandonados de tiempos del desastre nuclear hace décadas.\n• Estos vehículos fueron utilizados para limpiar residuos radiactivos del trágico desastre de Chernóbil.\n• Las condiciones extremas han causado un rápido deterioro de estos vehículos en la zona de exclusión.\n• Cada vehículo cuenta una historia sobre la evacuación y la lucha contra la radiación en la región.\n• Visitar estos restos es un recordatorio escalofriante de las consecuencias de la energía nuclear.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c7754gm7yr6o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-02T21:21:51.000Z",
+      "teaser": "Lo clave en 20 segundos: Los vehículos de Chernóbil siguen abandonados, testigos de un desastre nuclear sin igual.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8da5/live/123935b0-463b-11f1-aa14-ad910202f501.jpg",
+      "description": "Hace 40 años se utilizó una enorme flota de vehículos para limpiar los residuos radiactivos del desastre de Chernóbil. Muchos de ellos siguen abandonados y oxidados dentro de la zona de exclusión.",
+      "featured": false
+    },
+    {
+      "slug": "modo-xbox-llega-a-windows-11-asi-puede-convertir-su-pc-en-una-consola-optimizada-para-jugar",
+      "title": "Modo Xbox llega a Windows 11: así puede convertir su PC en una consola optimizada para jugar",
+      "category": "Tecnología",
+      "bullets_20s": "• La nueva función de Microsoft está diseñada para optimizar la experiencia de juego en Windows 11.\n• El modo Xbox transforma la interfaz en una opción más amigable para los jugadores de consola.\n• Se espera que los usuarios disfruten de menos distracciones mientras juegan sus títulos favoritos.\n• La compatibilidad con mandos mejorará la interacción y la comodidad durante el juego.\n• Este lanzamiento es parte de la estrategia de Microsoft para atraer a más jugadores a su plataforma.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/tecnologia/modo-xbox-llega-a-windows-11-asi-puede-convertir/HAMVBBX5WRFE5NYDESGDZBU4BE/story/",
+      "publish_date": "2026-05-02T21:21:35.000Z",
+      "teaser": "Lo clave en 20 segundos: Microsoft lanza modo Xbox en Windows 11 para mejorar la experiencia de juego.",
+      "image_url": "https://www.nacion.com/resizer/v2/K3XAX3AIANHYPOYD2QJZOFTALY.png?auth=eddfaec95e67d41207acfa2d5cc73799af9ca44700303707e3ed74cec1d56f64&smart=true&width=1680&height=945",
+      "description": "Microsoft lanza el modo Xbox para PC con Windows 11. La función ofrece una experiencia similar a consola, con interfaz optimizada para mando y menos distracciones.",
+      "featured": false
+    },
+    {
+      "slug": "descubren-el-significado-de-un-mensaje-cifrado-hace-35-anos-en-sede-de-la-cia",
+      "title": "Descubren el significado de un mensaje cifrado hace 35 años en sede de la CIA",
+      "category": "Mundo",
+      "bullets_20s": "• El mensaje cifrado fue parte de la escultura Kryptos ubicada en la sede de la CIA desde 1990.\n• Los investigadores descubrieron el significado después de un hallazgo inesperado en el Smithsonian.\n• El código había permanecido sin resolver durante más de tres décadas, generando interés mundial.\n• Kryptos ha sido objeto de investigaciones por parte de criptógrafos y entusiastas del misterio.\n• El descubrimiento resalta la importancia de los archivos históricos en la resolución de enigmas.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/descubren-el-significado-de-un-mensaje-cifrado/Q2OHOOHJXBHP7KNPYFK2YRN5HA/story/",
+      "publish_date": "2026-05-02T21:15:48.000Z",
+      "teaser": "Lo clave en 20 segundos: Descubren significado de un mensaje cifrado en la CIA tras 35 años de misterio.",
+      "image_url": "https://www.nacion.com/resizer/v2/X6TJ2KDZPVCMRJQRPBQG6S72MI.png?auth=b7368875d6059acf55917d1eab8573a008c452caebcec63458cd7e107f21c1e1&smart=true&width=1680&height=945",
+      "description": "El código secreto de la escultura Kryptos en la CIA fue resuelto tras 35 años gracias a un hallazgo accidental en archivos del Smithsonian.",
+      "featured": false
+    },
+    {
+      "slug": "suspendido-partido-de-primera-division-tornado-deja-danos-en-estadio-vea-las-impactantes-imagenes",
+      "title": "Suspendido partido de Primera División: tornado deja daños en estadio, vea las impactantes imágenes",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un tornado afectó el estadio donde se iba a jugar el partido importante de Primera División.\n• La fuerza de la naturaleza obligó a suspender el esperado encuentro deportivo del día.\n• Imágenes impactantes muestran los daños causados por el tornado en la infraestructura del estadio.\n• Los organizadores están trabajando en la reprogramación del evento deportivo para una nueva fecha.\n• La seguridad de los espectadores y jugadores fue la prioridad al suspender el encuentro.",
+      "source_name": "Fanny Tayver Marín",
+      "source_url": "https://www.nacion.com/puro-deporte/suspendido-partido-de-primera-division-tornado/DCXQ4HQKXNHSRHUSUTXR4MBZYY/story/",
+      "publish_date": "2026-05-02T21:08:11.000Z",
+      "teaser": "Lo clave en 20 segundos: Un tornado suspende partido de Primera División, imágenes impactantes revelan los daños.",
+      "image_url": "https://www.nacion.com/resizer/v2/NJEHK3YEORGXTGNTLOIFHCSLD4.jpg?auth=18414be18f5e9053551c87cb2fc87697f2c6d866cdca367edcff0aa988ba478e&smart=true&width=664&height=842",
+      "description": "Un juego de Primera División que estaba previsto para este sábado tendrá que reprogramarse por la fuerza de la naturaleza.",
+      "featured": false
+    },
+    {
+      "slug": "porter-airlines-abrira-vuelos-directos-entre-toronto-y-san-jose-desde-diciembre-de-2026",
+      "title": "Porter Airlines abrirá vuelos directos entre Toronto y San José desde diciembre de 2026",
+      "category": "Costa Rica",
+      "bullets_20s": "• Porter Airlines comenzará vuelos directos a San José desde Toronto en diciembre del 2026.\n• Este nuevo servicio permitirá mayor conexión y turistas canadienses viajarán a Costa Rica.\n• La llegada de turistas favorecerá el sector turístico local y la economía del país.\n• Costa Rica se posiciona como un destino atractivo para los viajeros canadienses.\n• Se espera que los nuevos vuelos incrementen el turismo en la región central del país.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/economia/porter-airlines-abrira-vuelos-directos-entre/IKKGGAIVXJDFZEBWCWANAGQOTI/story/",
+      "publish_date": "2026-05-02T20:47:00.000Z",
+      "teaser": "Lo clave en 20 segundos: vuelos directos de Porter Airlines entre Toronto y San José comenzarán en diciembre de 2026.",
+      "image_url": "https://www.nacion.com/resizer/v2/5XX5AVFPJJHJHFIGTW6ULROUHE.jpeg?auth=ba3ae23d6856e169dd8c2996ff5a39743dec69a2540871331f7e1188e9b4697d&smart=true&width=1600&height=1067",
+      "description": "Porter Airlines ampliará las opciones de viaje hacia Costa Rica y facilitará la llegada de miles de turistas canadienses en los próximos meses.",
+      "featured": false
+    },
+    {
       "slug": "por-que-whatsapp-ocupa-tanto-espacio-en-su-celular-asi-puede-evitarlo",
       "title": "¿Por qué WhatsApp ocupa tanto espacio en su celular? Así puede evitarlo",
       "category": "Tecnología",
@@ -446,11 +511,11 @@
       "slug": "el-misterio-que-rodea-la-llorona-uno-de-los-himnos-de-mexico-que-chavela-vargas-hizo-suyo",
       "title": "El misterio que rodea \"La Llorona\", uno de los himnos de México que Chavela Vargas hizo suyo",
       "category": "Mundo",
-      "bullets_20s": "• La Llorona es un himno icónico de la música tradicional mexicana.\n• Chavela Vargas popularizó este tema, dándole una nueva dimensión emocional.\n• Lila Downs y Ely Guerra se destacan como representantes de la música folclórica.\n• Esta canción explora temas de amor, pérdida y conexión cultural en México.\n• La historia detrás de La Llorona se mezcla con mitos y leyendas populares.",
-      "source_name": "BBC Mundo",
+      "bullets_20s": "• La canción 'La Llorona' ha trascendido generaciones y cargada de simbolismo cultural en México.\n• Chavela Vargas es conocida por su interpretación poderosa y emotiva de esta emblemática canción.\n• Lila Downs y Ely Guerra han reinterpretado 'La Llorona', aportando sus propias visiones y emociones.\n• La música tradicional mexicana sigue siendo un pilar importante en la identidad cultural del país.\n• El misterio detrás de 'La Llorona' va más allá de una simple canción, es parte de la narrativa nacional.",
+      "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/c2lwqwvelvgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T11:24:12.000Z",
-      "teaser": "Lo clave en 20 segundos: La historia de La Llorona resuena con las voces de grandes cantautoras mexicanas.",
+      "teaser": "Lo clave en 20 segundos: La historia y el significado de 'La Llorona' en la música mexicana.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e6b5/live/c46073e0-3ca2-11f1-8e26-931170ebc0de.png",
       "description": "Nos adentramos en la fascinante historia de “La Llorona” y en lo que esa canción representa para dos de las cantautoras más influyentes de México, Lila Downs y Ely Guerra.",
       "featured": false
@@ -471,12 +536,12 @@
     {
       "slug": "los-dramas-familiares-que-se-esconden-detras-de-samsung-el-imperio-tecnologico-que-comenzo-como-una-tienda-de-comidas",
       "title": "Los dramas familiares que se esconden detrás de Samsung, el imperio tecnológico que comenzó como una tienda de comidas",
-      "category": "Tecnología",
-      "bullets_20s": "• Samsung comenzó como una simple tienda de alimentos en Corea del Sur hace décadas.\n• El crecimiento de Samsung refleja la evolución y el poder de la tecnología moderna.\n• Las rivalidades dentro de la familia fundadora han influido en la cultura corporativa.\n• Ambición y riqueza han sido motores para el ascenso de la corporación.\n• La historia de Samsung muestra la conexión entre familia y empresa en el éxito.",
+      "category": "Mundo",
+      "bullets_20s": "• Samsung comenzó como una tienda de alimentos en Corea del Sur, expandiéndose a múltiples industrias tecnológicas.\n• La familia detrás de Samsung ha enfrentado rivalidades que han influido en la dirección de la empresa.\n• La ambición familiar es un motor que ha impulsado el crecimiento de Samsung en el ámbito tecnológico.\n• La riqueza acumulada ha generado conflictos y tensiones dentro de la dinastía de Samsung a lo largo de los años.\n• La historia de Samsung refleja no solo su éxito, sino también las complejidades de las relaciones familiares.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpqpz3lld27o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T10:43:42.000Z",
-      "teaser": "Lo clave en 20 segundos: La compleja historia detrás del imperio tecnológico Samsung.",
+      "teaser": "Lo clave en 20 segundos: La ambición y rivalidades familiares detrás del gigante tecnológico Samsung.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/36dc/live/df9236d0-44ef-11f1-9cfb-6b89a04a51af.jpg",
       "description": "Detrás del éxito de Samsung se esconde una dinastía impulsada por la ambición, la riqueza, la tradición y las rivalidades, que moldearon tanto a la empresa como a la economía de Corea del Sur.",
       "featured": false
@@ -498,11 +563,11 @@
       "slug": "por-que-la-sal-tiene-un-efecto-tan-poderoso-en-nuestro-cerebro",
       "title": "Por qué la sal tiene un efecto tan poderoso en nuestro cerebro",
       "category": "Ciencia",
-      "bullets_20s": "• La sal afecta el cerebro a través de su influencia en las neurotransmisores.\n• Consumir sal puede mejorar la memoria y la concentración en ciertas circunstancias.\n• Este mineral esencial es vital para muchas funciones del organismo humano.\n• Desde la antigüedad, la sal ha sido valorada por sus propiedades conservantes.\n• Hoy en día, el equilibrio en el consumo de sal es crucial para la salud.",
+      "bullets_20s": "• La sal es esencial para muchas funciones biológicas en el organismo humano.\n• La relación entre la sal y el cerebro involucra respuestas químicas complejas.\n• Los investigadores estudian cómo la sal afecta la percepción del sabor.\n• El exceso de sal puede tener consecuencias negativas para la salud.\n• Entender el papel de la sal ayuda a mejorar la gastronomía mundial.\n• La sal ha influido en la cultura culinaria de diversas sociedades a lo largo del tiempo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cgqp2n71ld4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T10:10:50.000Z",
-      "teaser": "Lo clave en 20 segundos: La sal impacta nuestro cerebro, mejorando funciones vitales y la concentración.",
+      "teaser": "Lo clave en 20 segundos: La sal tiene un impacto sorprendente en nuestro cerebro y su percepción del sabor.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/67a4/live/c320a710-43d8-11f1-a133-a9dbeae5d5f3.jpg",
       "description": "La sal se encuentra en casi todas las cocinas. Pero, ¿cómo este ingrediente aparentemente sencillo se convirtió en el potenciador de sabor favorito del mundo?",
       "featured": false
@@ -1187,11 +1252,11 @@
       "slug": "en-video-como-el-narco-usa-el-oro-para-lavar-dinero-especial-de-bbc-mundo",
       "title": "EN VIDEO: Cómo el narco usa el oro para lavar dinero | Especial de BBC Mundo",
       "category": "Mundo",
-      "bullets_20s": "• El oro se ha convertido en una herramienta clave para los grupos criminales en América Latina.\n• La extracción ilegal de oro provoca serios daños ambientales y sociales en la región.\n• Los ríos se contaminan con mercurio y otros químicos durante el proceso de extracción.\n• El video de BBC Mundo revela los métodos utilizados para el lavado de dinero con oro.\n• Deforestación descontrolada es una consecuencia directa de la minería ilegal de oro.",
+      "bullets_20s": "• El oro tiene un uso histórico, pero su papel ha cambiado en la actualidad.\n• Grupos criminales se benefician enormemente de la extracción ilegal de oro.\n• La deforestación es una consecuencia grave de esta actividad ilegal en la región.\n• El narco utiliza el oro como una herramienta clave para el lavado de dinero.\n• Los ríos están contaminados debido a la minería ilegal de oro en América Latina.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cvgzwl9ylwgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T11:55:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Cómo el oro facilita el lavado de dinero en América Latina.",
+      "teaser": "Lo clave en 20 segundos: El oro es utilizado por narcos para lavar dinero, causando daños ambientales.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c105/live/b49802f0-44b0-11f1-9caf-0fcd4fb68138.jpg",
       "description": "El oro, en el pasado un símbolo espiritual, ahora es usado por los grupos criminales para lavar dinero.  Y en América Latina su extracción ilegal se realiza a costa de la deforestación y la contaminación de nuestros ríos.",
       "featured": false
@@ -1875,12 +1940,12 @@
     {
       "slug": "pe-ai-19-aseguramiento-de-la-calidad",
       "title": "PE-AI-19 Aseguramiento de la calidad",
-      "category": "Tecnología",
-      "bullets_20s": "• El documento PE-AI-19 establece normas para el aseguramiento de la calidad en proyectos.\n• Se incluye información sobre procedimientos para la gestión de calidad en diversas áreas.\n• Permite una mejor organización de procesos y manuales necesarios para la calidad.\n• Se enfoca en la mejora continua y el cumplimiento de estándares requeridos.\n• Facilita a las organizaciones asegurar un nivel de calidad en sus productos y servicios.",
+      "category": "Ciencia",
+      "bullets_20s": "• La calidad en los procesos es fundamental para el éxito de cualquier institución educativa.\n• Se implementan manuales y procedimientos para asegurar estándares de calidad efectivos.\n• La revisión constante de estos procesos es necesaria para la mejora continua.\n• El enfoque en la calidad beneficia tanto a estudiantes como a docentes en el aprendizaje.\n• Se recomienda la capacitación constante del personal sobre estos procedimientos.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ai-19-aseguramiento-calidad",
       "publish_date": "2026-04-30T15:55:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Normas para la calidad en proyectos según PE-AI-19.",
+      "teaser": "Lo clave en 20 segundos: Asegurando calidad en procesos educativos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -2500,11 +2565,11 @@
       "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
       "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica otorgó 23.323 becas en 2025, apoyando a más de 15.000 estudiantes.\n• Las becas socioeconómicas duplicaron sus montos, permitiendo mayor acceso a educación superior.\n• El informe destaca el fortalecimiento histórico del sistema de apoyos estudiantiles en el país.\n• Se desarrollaron actividades centradas en reducir la deserción y mejorar la permanencia estudiantil.\n• Más del 50% de los nuevos estudiantes provienen de zonas con altas necesidades sociales.",
+      "bullets_20s": "• El TEC otorgó más de 23 mil becas para estudiantes durante el 2025, expandiendo su apoyo significativo.\n• Las becas socioeconómicas aumentaron sus montos, mejorando las oportunidades para estudiantes vulnerables.\n• Se implementaron actividades para disminuir la deserción y mejorar la permanencia estudiantil en la educación superior.\n• El TEC asumió la presidencia del CONARE, enfocándose en la equidad en la asignación de recursos para universidades.\n• El informe resalta el impacto positivo de las becas en la graduación y movilidad social de los estudiantes.\n• Más del 53% de los estudiantes provienen de áreas con altos índices de necesidad social en el país.\n• La investigación en el TEC continuó creciendo, con un significativo número de proyectos y participación estudiantil.\n• Se logró un incremento en los fondos destinados a becas a través de la negociación del FEES 2026.\n• El informe dejó claro el compromiso del TEC con la educación inclusiva y el desarrollo comunitario.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
       "publish_date": "2026-04-29T17:20:04.000Z",
-      "teaser": "Lo clave en 20 segundos: el TEC otorgó más de 23 mil becas en 2025 para mejorar el acceso a la educación superior.",
+      "teaser": "Lo clave en 20 segundos: El TEC benefició a más de 15 mil estudiantes con becas en 2025.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
       "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "featured": false
@@ -8100,5 +8165,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-02T20:45:30.038Z"
+  "generated_at": "2026-05-02T21:45:29.880Z"
 }
