@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "autoridades-vuelven-a-intervenir-cuarteria-en-san-jose-y-decomisan-drogas-armas-blancas-y-cerca-de-800000-en-efectivo",
+      "title": "Autoridades vuelven a intervenir cuartería en San José y decomisan drogas, armas blancas y cerca de ¢800.000 en efectivo",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las autoridades realizaron un operativo exhaustivo en el distrito de Merced en San José.\n• Se decomisaron drogas, armas blancas y una cantidad significativa de dinero en efectivo.\n• Investigaciones apuntan a que hay una red de narcomenudeo en la cuartería intervenida.\n• Este tipo de operativos son comunes en áreas donde se sospecha tráfico de drogas.\n• La intervención busca reducir la actividad delictiva en el casco central de San José.",
+      "source_name": "Libia Solano Meza",
+      "source_url": "https://www.nacion.com/sucesos/autoridades-vuelven-a-intervenir-cuarteria-en-san/PXPTDRAS7ZHJNPQ6MCZ5CBIM3Q/story/",
+      "publish_date": "2026-05-02T04:09:51.000Z",
+      "teaser": "Lo clave en 20 segundos: Un operativo revela una posible red de narcomenudeo en San José.",
+      "image_url": "https://www.nacion.com/resizer/v2/GIJYPNPG4JDDBO7VCUEBJJB2S4.jpeg?auth=0fd54284c8e88c6629589e56deb07dd4eccb3a59bb58b68d0a1be014cbde4a54&smart=true&width=1600&height=719",
+      "description": "Un fuerte operativo policial en el distrito de Merced, en San José, dejó al descubierto un presunto centro de distribución de drogas en una cuartería del casco central, donde las autoridades decomisaron estupefacientes, armas y dinero en efectivo, además de evidenciar una posible red dedicada al narcomenudeo en la zona.",
+      "featured": false
+    },
+    {
+      "slug": "podemos-alcanzar-objetivos-a-2000-km-dentro-de-la-base-secreta-de-ucrania-que-lanza-drones-que-matan-a-miles-de-soldados",
+      "title": "Podemos alcanzar objetivos a 2.000 km: dentro de la base secreta de Ucrania que lanza drones que matan a miles de soldados rusos cada mes",
+      "category": "Mundo",
+      "bullets_20s": "• La unidad de drones de Ucrania ha revolucionado la forma de combatir en conflictos actuales.\n• Los drones son clave para alcanzar objetivos estratégicos sin poner en riesgo a las tropas.\n• Cada mes, miles de soldados rusos son afectados por los ataques aéreos precisos.\n• La tecnología de drones ha avanzado significativamente, permitiendo operaciones en profundidad.\n• Entrevistas con líderes militares revelan detalles de estrategias de combate modernas.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c7v93mz0p11o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-02T03:49:44.000Z",
+      "teaser": "Lo clave en 20 segundos: La estrategia de drones de Ucrania causa un impacto decisivo en el campo de batalla.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9638/live/a2f93d80-447d-11f1-88ff-575186ed76aa.jpg",
+      "description": "En una inusual entrevista con la BBC, el comandante Robert Brovdi explicó que su unidad es responsable de un tercio de todos los objetivos destruidos en el campo de batalla.",
+      "featured": false
+    },
+    {
       "slug": "china-asume-la-presidencia-del-consejo-de-seguridad-y-alerta-del-aumento-de-conflictos-y-tensiones-globales",
       "title": "China asume la presidencia del Consejo de Seguridad y alerta del aumento de conflictos y tensiones globales",
       "category": "Mundo",
-      "bullets_20s": "• China asume un rol clave en el Consejo de Seguridad de la ONU durante su presidencia.\n• Se espera un aumento de conflictos y tensiones en el ámbito internacional de continuar la situación.\n• Pekín planea debatir aspectos importantes de la Carta de Naciones Unidas este mes.\n• La agenda se centrará en la situación en Oriente Próximo y otros conflictos regionales.\n• La protección de civiles será una prioridad en las discusiones durante su mandato.\n• Expertos advierten sobre las implicaciones de las decisiones chinas para la paz global.\n• La comunidad internacional observa con atención los pasos que dará China en este rol.",
+      "bullets_20s": "• China toma la presidencia del Consejo de Seguridad de Naciones Unidas, un papel crucial en tiempos de conflictos.\n• Se enfoca en debates sobre la Carta de Naciones Unidas, abordando temas relevantes para la comunidad global.\n• La situación en Oriente Próximo será una prioridad durante su mandato, generando atención internacional.\n• La protección de civiles en zonas de conflicto es un punto clave en la agenda de China.\n• Se anticipan debates sobre cómo manejar tensiones globales que afectan la paz y la seguridad.",
       "source_name": "Europa Press",
       "source_url": "https://www.nacion.com/el-mundo/china-asume-la-presidencia-del-consejo-de/Z24GXMMD3NEMLCAINCKKBGZWEY/story/",
       "publish_date": "2026-05-02T03:18:55.000Z",
-      "teaser": "Lo clave en 20 segundos: China liderará el Consejo de Seguridad con un enfoque en tensiones globales.",
+      "teaser": "Lo clave en 20 segundos: China lidera el Consejo de Seguridad, enfocándose en conflictos y protección de civiles.",
       "image_url": "https://www.nacion.com/resizer/v2/LENCG6PYNRD77JDHNUQM6UZUEI.jpg?auth=cc1472910d33beb35fd9d0aeaeb3e7117e51f8dae79d8f28dab05b2e603edd3b&smart=true&width=8256&height=5504",
       "description": "Pekín impulsará un debate sobre la Carta de Naciones Unidas y centrará la agenda en Oriente Próximo y la protección de civiles.",
       "featured": false
@@ -17,11 +43,11 @@
       "slug": "trump-endurece-sanciones-a-cuba-en-plena-marcha-del-1-de-mayo-en-la-habana",
       "title": "Trump endurece sanciones a Cuba en plena marcha del 1.º de Mayo en La Habana",
       "category": "Mundo",
-      "bullets_20s": "• Donald Trump ha tomado decisiones drásticas en su relación con Cuba.\n• Las nuevas sanciones buscan aumentar la presión sobre el gobierno cubano.\n• Este anuncio se realiza en un contexto político muy tenso.\n• Las tensiones entre Estados Unidos y Cuba han aumentado recientemente.\n• El 1.º de Mayo es una fecha emblemática para la clase trabajadora cubana.",
+      "bullets_20s": "• Las nuevas sanciones están dirigidas a afectar la economía cubana de manera significativa.\n• Se intensifican las tensiones entre Estados Unidos y Cuba, afectando las relaciones bilaterales.\n• La marcha del 1.º de Mayo se ve marcada por el contexto de estos nuevos anuncios.\n• Existen preocupaciones sobre las consecuencias humanitarias de estas sanciones en Cuba.\n• La comunidad internacional observa atentamente la evolución de esta situación tensa.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/el-mundo/trump-endurece-sanciones-a-cuba-en-plena-marcha/BNKUGCBMS5ABBLGM5LF3XOS5TE/story/",
       "publish_date": "2026-05-02T02:34:39.000Z",
-      "teaser": "Lo clave en 20 segundos: Trump impone sanciones adicionales a Cuba en un clima de tensión política.",
+      "teaser": "Lo clave en 20 segundos: Nuevas sanciones de Trump a Cuba marcan tensiones políticas en medio de la marcha del 1.º de Mayo.",
       "image_url": "https://www.nacion.com/resizer/v2/354GVEEIQNGNPJAUZTWDG2TICM.jpg?auth=7824c4133e29fc340d60c621fc16732473cd4b3c6689875a66ab7c9dc4181ef6&smart=true&width=1200&height=801",
       "description": "El presidente de Estados Unidos, Donald Trump, ordenó nuevas sanciones contra Cuba en un intento por incrementar la presión sobre el gobierno de La Habana, en medio de crecientes tensiones políticas y diplomáticas entre ambos países.",
       "featured": false
@@ -30,11 +56,11 @@
       "slug": "chances-de-la-jps-vea-los-numeros-ganadores-del-sorteo-de-este-viernes-01-de-mayo",
       "title": "Chances de la JPS: vea los números ganadores del sorteo de este viernes 01 de mayo",
       "category": "Costa Rica",
-      "bullets_20s": "• Se anunció el sorteo de la JPS, generando gran expectativa en la población costarricense.\n• El premio mayor ronda los ₡240 millones, atrayendo la atención de muchos jugadores.\n• La Junta de Protección Social organiza estos sorteos como parte de la recaudación de fondos.\n• Los números ganadores se publican después de cada sorteo para informar a los participantes.\n• Los aficionados a los juegos de azar siguen diferentes estrategias para elegir sus números.",
+      "bullets_20s": "• La JPS realiza sorteos semanales que generan gran expectativa en los participantes.\n• El premio mayor de hoy es un atractivo para muchos ticos que juegan con esperanza.\n• Las probabilidades de ganar pueden ser bajas, pero la emoción es contagiosa.\n• Los números ganadores son revelados cada viernes, creando interés continuo.\n• Los juegos de azar son parte de la cultura popular en Costa Rica.",
       "source_name": "Libia Solano Meza",
       "source_url": "https://www.nacion.com/el-pais/chances-de-la-jps-vea-los-numeros-ganadores-del/O6L2XRIKVREJ7NP4ZNERMN3V6Q/story/",
       "publish_date": "2026-05-02T01:47:30.000Z",
-      "teaser": "Lo clave en 20 segundos: Verifique los números ganadores del sorteo de la JPS del 1 de mayo.",
+      "teaser": "Lo clave en 20 segundos: descubre los números ganadores del sorteo de la JPS este viernes.",
       "image_url": "https://www.nacion.com/resizer/v2/TLC43QCL2NDNFC4XGBAKWB2DEE.jpg?auth=6affd3774dd57a0a866089bff3ba5914b65f6bb0c6fda9065743640d077c3ae9&smart=true&width=1600&height=898",
       "description": "El premio mayor es de ₡240 millones de colones en dos emisiones.",
       "featured": false
@@ -95,11 +121,11 @@
       "slug": "eeuu-anuncia-que-retirara-a-5000-soldados-de-alemania-en-medio-de-la-disputa-publica-entre-trump-y-el-canciller-merz-por",
       "title": "EE.UU. anuncia que retirará a 5.000 soldados de Alemania en medio de la disputa pública entre Trump y el canciller Merz por Irán",
       "category": "Mundo",
-      "bullets_20s": "• Estados Unidos está planificando la salida de tropas como respuesta a tensiones políticas.\n• La decisión se produce en un contexto de disputa sobre la política hacia Irán.\n• El canciller alemán Merz y Trump han tenido desacuerdos visibles en el tema.\n• La retirada de tropas podría tener implicaciones geoestratégicas en Europa.\n• La opinión pública está dividida sobre el uso de tropas estadounidenses en el extranjero.",
+      "bullets_20s": "• El anuncio de la retirada de tropas genera diversas reacciones en el ámbito internacional.\n• Las tensiones entre Estados Unidos e Irán continúan afectando la política exterior de ambos países.\n• Alemania se enfrenta a nuevos desafíos en su relación con Estados Unidos tras esta decisión.\n• Las implicaciones para la seguridad en Europa son un tema de discusión entre analistas.\n• El Departamento de Defensa motiva el retiro citando razones estratégicas en la región.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cedp9v4jv49o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T00:15:33.000Z",
-      "teaser": "Lo clave en 20 segundos: Estados Unidos retirará soldados de Alemania en medio de tensiones políticas.",
+      "teaser": "Lo clave en 20 segundos: EE.UU. retira soldados de Alemania en medio de tensiones internacionales.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ace7/live/b62bb1b0-45b5-11f1-9deb-9f280b02f266.jpg",
       "description": "El Departamento de Defensa de Estados Unidos planea retirar a 5.000 soldados de Alemania, en medio de una disputa entre el presidente estadounidense Donald Trump y el canciller alemán Friedrich Merz sobre la guerra con Irán.",
       "featured": false
@@ -680,11 +706,11 @@
       "slug": "gaviotas-la-utopia-que-trata-de-reinventar-el-mundo-en-colombia-desde-hace-mas-de-medio-siglo-y-su-inesperada-relevancia",
       "title": "Gaviotas, la utopía que trata de reinventar el mundo en Colombia desde hace más de medio siglo (y su inesperada relevancia internacional)",
       "category": "Mundo",
-      "bullets_20s": "• Gaviotas es un proyecto innovador que busca un desarrollo sostenible en Colombia.\n• El proyecto se basa en la autosuficiencia y el uso de tecnología adecuada.\n• Iniciativas comunitarias han permitido crear productos y soluciones ecológicas.\n• Se han desarrollado calentadores solares de agua de bajo costo en la aldea.\n• Los biocombustibles formaron parte integral del enfoque de sostenibilidad local.\n• El modelo de Gaviotas se ha comenzado a replicar en otras comunidades.\n• La jardinería forestal comestible promueve seguridad alimentaria para los habitantes.\n• La relevancia internacional del proyecto ha atraído atención y apoyo externo.\n• La comunidad ha demostrado que los cambios son posibles con determinación.\n• Gaviotas resalta la importancia de la cooperación comunitaria en la innovación.",
+      "bullets_20s": "• Gaviotas es una aldea modelo que ha enfocado sus esfuerzos en la sostenibilidad ambiental.\n• La comunidad ha creado tecnologías innovadoras para mejorar su calidad de vida.\n• Desde calentadores solares hasta biocombustibles, su ingenio destaca a nivel internacional.\n• La jardinería forestal comestible ofrece una solución alimentaria sostenible y local.\n• Gaviotas ha inspirado a otros proyectos en diferentes regiones del mundo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2l2nwj0zdjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T11:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: Gaviotas es un ejemplo de innovación sostenible en comunidad.",
+      "teaser": "Lo clave en 20 segundos: Gaviotas, un modelo de sostenibilidad en Colombia, cautiva internacionalmente.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ba9f/live/d1ec4f40-44cf-11f1-8de1-593a7bb5acaa.jpg",
       "description": "La aldea dependía de invenciones de elaboración propia para sobrevivir: desde calentadores de agua solares de bajo costo y un subibaja infantil que servía también como bomba de agua, hasta la jardinería forestal comestible y los biocombustibles.",
       "featured": false
@@ -719,11 +745,11 @@
       "slug": "anta-la-innovadora-compania-china-de-ropa-deportiva-que-desafia-a-nike-y-adidas",
       "title": "Anta, la innovadora compañía china de ropa deportiva que desafía a Nike y Adidas",
       "category": "Mundo",
-      "bullets_20s": "• Anta se ha posicionado fuertemente en el mercado chino de ropa deportiva en los últimos años.\n• La empresa busca expandir su presencia en el mercado occidental, donde competirá directamente.\n• El enfoque de Anta se centra en innovaciones tecnológicas aplicadas a la ropa deportiva.\n• La compañía planea utilizar campañas de marketing para atraer a nuevos clientes en Occidente.\n• Anta se distingue por sus diseños y calidad, buscando rivalizar con gigantes de la industria.\n• La empresa tiene planes de abrir tiendas en diversas ciudades clave en Europa y América.\n• Anta se enfrenta a retos significativos al entrar en un mercado dominado por marcas establecidas.\n• La sostenibilidad y la ética en la producción son áreas de enfoque para la empresa.\n• Múltiples colaboraciones con atletas y eventos deportivos están en la agenda para aumentar la visibilidad.\n• Anta continúa invirtiendo en investigación y desarrollo para mejorar su propuesta de valor.",
+      "bullets_20s": "• Anta crece en el mercado chino con un enfoque en calidad y tecnología de productos deportivos.\n• La compañía busca posicionarse fuertemente en Europa y América del Norte este año.\n• Compite directamente con gigantes como Nike y Adidas en el mercado internacional.\n• Anta tiene una estrategia de marketing centrada en atletas y eventos deportivos clave.\n• La empresa ha invertido en nuevas tecnologías para mejorar el rendimiento de sus productos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cgmem0vr24ro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T09:45:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Anta desafía a Nike y Adidas con innovaciones y expansión global.",
+      "teaser": "Lo clave en 20 segundos: Anta desafía a Nike y Adidas en el mercado occidental con innovación.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ba7d/live/d3af3a50-4271-11f1-b15b-85aa1b6efd13.jpg",
       "description": "Con una firme presencia en el mercado chino, Anta apunta ahora a conquistar Occidente y a competir con marcas globales como Nike y Adidas.",
       "featured": false
@@ -745,11 +771,11 @@
       "slug": "la-paradoja-de-noruega-el-pais-que-gana-miles-de-millones-con-la-subida-del-precio-del-petroleo-pero-cada-vez-lo-usa-men",
       "title": "La paradoja de Noruega, el país que gana miles de millones con la subida del precio del petróleo pero cada vez lo usa menos",
       "category": "Mundo",
-      "bullets_20s": "• Noruega se beneficia enormemente de los altos precios del petróleo en el mercado mundial.\n• A pesar de sus ganancias, el país busca reducir su dependencia de los combustibles fósiles.\n• La nación nórdica tiene una de las redes energéticas más limpias y sostenibles del mundo.\n• El enfoque de Noruega destaca cómo los países pueden equilibrar negocios y sostenibilidad.\n• La paradoja plantea preguntas sobre el futuro del uso del petróleo a nivel global.",
+      "bullets_20s": "• Noruega ha optado por reducir su consumo de petróleo a pesar de sus beneficios económicos.\n• El país cuenta con una de las redes energéticas más limpias y eficientes del mundo.\n• Aprovecha la subida de precios del petróleo para financiar diversas iniciativas sostenibles.\n• La paradoja refleja un compromiso con el medio ambiente y el futuro energético.\n• Las exportaciones de combustibles fósiles son cruciales para la economía noruega.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c98r144q49ro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-01T03:53:12.000Z",
-      "teaser": "Lo clave en 20 segundos: Noruega gana mucho con el petróleo, pero lo usa cada vez menos.",
+      "teaser": "Lo clave en 20 segundos: Noruega gana mucho con el petróleo, pero elige usar menos para ser sostenible.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/47f3/live/7aab3940-44bf-11f1-813e-bf7166e1ca58.jpg",
       "description": "El próspero país nórdico tiene una de las redes energéticas menos contaminantes del mundo, pero también un gran negocio con la exportación de combustibles fósiles.",
       "featured": false
@@ -1329,12 +1355,12 @@
     {
       "slug": "pe-ai-19-aseguramiento-de-la-calidad",
       "title": "PE-AI-19 Aseguramiento de la calidad",
-      "category": "Tecnología",
-      "bullets_20s": "• Se presentan los manuales y procedimientos para el aseguramiento de la calidad.\n• El documento incluye directrices actualizadas sobre mejores prácticas.\n• Se enfocan en estándares de calidad relevantes para el sector tecnológico.\n• El aseguramiento de la calidad es esencial para procesos eficientes.\n• La última modificación se realizó en abril de 2026, reflejando cambios recientes.",
+      "category": "Ciencia",
+      "bullets_20s": "• El aseguramiento de la calidad es crucial en los procesos educativos y de formación.\n• Se busca establecer procedimientos claros para garantizar la calidad en los cursos.\n• Manuales para el aseguramiento de la calidad son herramientas útiles en la educación.\n• La última modificación del documento se realizó en abril de 2026.\n• El método PE-AI-19 es un estándar a seguir en la educación costarricense.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ai-19-aseguramiento-calidad",
       "publish_date": "2026-04-30T15:55:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevos manuales para asegurar la calidad en procesos tecnológicos.",
+      "teaser": "Lo clave en 20 segundos: el aseguramiento de calidad en educación es fundamental.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -1954,11 +1980,11 @@
       "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
       "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "category": "Costa Rica",
-      "bullets_20s": "• Las becas socioeconómicas se duplicaron en 2025, favoreciendo a más estudiantes en situación de vulnerabilidad.\n• El TEC logró aumentar los montos de las becas, permitiendo mayor acceso a educación superior para jóvenes.\n• La rectora destacó el papel crucial de estas becas en la movilidad social y continuidad educativa.\n• Se implementaron estrategias para reducir la deserción y repitencia, mejorando la retención estudiantil.\n• Un 53,12% de los estudiantes provienen de áreas sociales con mayores necesidades, mostrando equidad.",
+      "bullets_20s": "• El Tecnológico de Costa Rica otorgó 23.323 becas en 2025, beneficiando a más de 15 mil estudiantes.\n• Las becas socioeconómicas duplicaron sus montos, ayudando a estudiantes en vulnerabilidad a continuar sus estudios.\n• Se realizó un fuerte incremento presupuestario para apoyar la educación superior en el país con más recursos.\n• El impacto de las becas se traduce en una alta tasa de graduación y permanencia estudiantil en 2024.\n• Se destacaron estrategias para reducir la deserción y mejorar la retención en el nivel universitario.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
       "publish_date": "2026-04-29T17:20:04.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC duplicó becas en 2025, beneficiando a miles de estudiantes en vulnerabilidad.",
+      "teaser": "Lo clave en 20 segundos: TEC otorgó más de 23 mil becas a estudiantes en 2025, duplicando sus montos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
       "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "featured": false
@@ -7554,5 +7580,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-02T03:45:30.880Z"
+  "generated_at": "2026-05-02T04:45:31.052Z"
 }
