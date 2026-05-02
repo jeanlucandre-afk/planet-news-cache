@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "bombardeo-cerca-de-capital-de-sudan-deja-cinco-muertos",
+      "title": "Bombardeo cerca de capital de Sudán deja cinco muertos",
+      "category": "Mundo",
+      "bullets_20s": "• El bombardeo ocurrió en Jartum, la capital de Sudán, en un contexto de conflicto armado.\n• Testigos relatan escenas de caos y pánico tras el ataque aéreo en la ciudad.\n• Las fuerzas en conflicto continúan generando una crisis humanitaria severa en la región.\n• Organizaciones internacionales han expresado su preocupación por la violencia en Sudán.\n• Se teme que el número de víctimas futuras aumente con la intensificación del conflicto.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/bombardeo-cerca-de-capital-de-sudan-deja-cinco/C6CKA364OFE5ND66NSXDZ6MZJQ/story/",
+      "publish_date": "2026-05-02T18:05:07.000Z",
+      "teaser": "Lo clave en 20 segundos: Un ataque aéreo en Sudán dejó cinco muertos en medio del conflicto actual.",
+      "image_url": "https://www.nacion.com/resizer/v2/2LR522WK2BDCBGPYGS2N64NZJM.jpg?auth=8ce229ee495ea3e455089aee511f8fb6a0cc2143438ddd0b099457e713a57f80&smart=true&width=5184&height=3456",
+      "description": "Un ataque en la región de Jartum dejó al menos cinco civiles muertos en medio de la guerra en Sudán.",
+      "featured": false
+    },
+    {
+      "slug": "por-que-es-bueno-cenar-atun",
+      "title": "Por qué es bueno cenar atún",
+      "category": "Ciencia",
+      "bullets_20s": "• Incluir atún en la cena puede mejorar el descanso y la calidad del sueño general.\n• El atún es rico en omega-3, lo que beneficia la salud cardiovascular a largo plazo.\n• Consumir atún con frecuencia puede ayudar en el control del peso y la salud metabólica.\n• Es importante considerar el tipo de atún y su origen para evitar contaminantes.\n• Cenar atún puede ser una opción saludable en comparación con carnes rojas o procesadas.",
+      "source_name": "El  Universal",
+      "source_url": "https://www.nacion.com/ciencia/cenar-atun-los-efectos-en-su-cuerpo-que-pocos/IYLKPMEHJ5GGFOUVKB4H5FHDWI/story/",
+      "publish_date": "2026-05-02T18:01:00.000Z",
+      "teaser": "Lo clave en 20 segundos: atún, cena saludable y beneficios para el cuerpo.",
+      "image_url": "https://www.nacion.com/resizer/v2/7A4IYU65ARHTPKMRGGX4FZPYL4.png?auth=6570361ac746948ce128b44ce8eb1c37a1727ca6d3bd2a9e95dd082473b764ac&smart=true&width=1680&height=945",
+      "description": "Descubra cómo incluir atún en la cena puede influir en su cuerpo, desde el descanso hasta la salud cardiovascular, y qué aspectos debe tomar en cuenta antes de consumirlo con frecuencia.",
+      "featured": false
+    },
+    {
+      "slug": "ministro-de-transportes-defiende-cierre-del-acceso-a-circunvalacion-desde-pavas-son-mejoras-no-parches",
+      "title": "Ministro de Transportes defiende cierre del acceso a Circunvalación desde Pavas: ‘Son mejoras, no parches’",
+      "category": "Costa Rica",
+      "bullets_20s": "• El cierre busca mejorar el flujo vehicular y la seguridad en la zona afectada.\n• Efraím Zeledón menciona que las obras son parte de un plan mayor para la movilidad.\n• Algunos conductores han expresado su descontento debido a la falta de información.\n• El ministro asegura que el cambio traerá beneficios a largo plazo para todos.\n• El acceso a Circunvalación ha sido motivo de debate entre los usuarios y autoridades.",
+      "source_name": "Natalia Vargas",
+      "source_url": "https://www.nacion.com/sucesos/ministro-de-transportes-defiende-cierre-del-acceso/GADELAO4NBE7PHU7QRNHNGAOOI/story/",
+      "publish_date": "2026-05-02T17:45:44.000Z",
+      "teaser": "Lo clave en 20 segundos: Ministro defiende cierre de acceso, asegura mejoras en movilidad.",
+      "image_url": "https://www.nacion.com/resizer/v2/KCTGAMMJXNBILA4SIQA4EJVGC4.jpeg?auth=d802a7a0b858500846b144b672b3931b269485e09ca2ca9cccf1ef3e481ed4b4&smart=true&width=1600&height=1200",
+      "description": "El cierre del acceso a Circunvalación desde Pavas generó molestia entre conductores. El ministro del MOPT, Efraím Zeledón, explica por qué el cambio sería beneficios para la mayoría de conductores.",
+      "featured": false
+    },
+    {
+      "slug": "estos-errores-al-usar-su-computadora-portatil-podrian-afectar-su-salud-sin-que-lo-note",
+      "title": "Estos errores al usar su computadora portátil podrían afectar su salud sin que lo note",
+      "category": "Tecnología",
+      "bullets_20s": "• La posición incorrecta al usar la laptop puede causar tensión en el cuello y la espalda.\n• Pasar demasiado tiempo frente a la pantalla puede llevar a la fatiga ocular y visualizar problemas.\n• Descansar regularmente los ojos ayuda a prevenir el síndrome de visión por computadora.\n• Mantener una buena postura reduce el riesgo de desarrollar problemas musculares a largo plazo.\n• Usar una silla ergonómica mejora la comodidad y disminuye el riesgo de lesiones.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/tecnologia/estos-errores-al-usar-su-computadora-portatil/TWZAKGN6DNEO5GMI5NQ7INXDFQ/story/",
+      "publish_date": "2026-05-02T17:42:51.000Z",
+      "teaser": "Lo clave en 20 segundos: Evite hábitos que dañan su salud al usar la computadora portátil.",
+      "image_url": "https://www.nacion.com/resizer/v2/BCZDFFSFUBD4HPLJAAAFECMW6Y.png?auth=b5d3bfbde9662886b7ed503233c942323d5b6f9a9304c3947982ed588176d7fd&smart=true&width=1920&height=1080",
+      "description": "Estos cinco malos hábitos comunes al usar su laptop pueden provocar desde fatiga ocular hasta dolores musculares. Conozca cómo evitarlos según expertos.",
+      "featured": false
+    },
+    {
       "slug": "miguel-diaz-canel-denuncia-amenazas-militares-sin-precedentes-de-donald-trump-contra-cuba",
       "title": "Miguel Díaz-Canel denuncia amenazas militares ‘sin precedentes’ de Donald Trump contra Cuba",
       "category": "Mundo",
@@ -313,6 +365,19 @@
       "featured": false
     },
     {
+      "slug": "el-misterio-que-rodea-la-llorona-uno-de-los-himnos-de-mexico-que-chavela-vargas-hizo-suyo",
+      "title": "El misterio que rodea 'La Llorona', uno de los himnos de México que Chavela Vargas hizo suyo",
+      "category": "Mundo",
+      "bullets_20s": "• La Llorona es una canción con profundas raíces en la cultura popular mexicana.\n• Chavela Vargas convirtió La Llorona en un símbolo a través de su interpretación.\n• Lila Downs y Ely Guerra son voces contemporáneas que reinterpretan esta canción.\n• La canción refleja la historia y el sufrimiento de muchas mujeres en México.\n• La Llorona ha trascendido fronteras y se ha presentado internacionalmente.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c2lwqwvelvgo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-02T11:24:12.000Z",
+      "teaser": "Lo clave en 20 segundos: La historia detrás de 'La Llorona' y su impacto en la música mexicana.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e6b5/live/c46073e0-3ca2-11f1-8e26-931170ebc0de.png",
+      "description": "Nos adentramos en la fascinante historia de “La Llorona” y en lo que esa canción representa para dos de las cantautoras más influyentes de México, Lila Downs y Ely Guerra.",
+      "featured": false
+    },
+    {
       "slug": "oposicion-conforma-bloque-inedito-que-los-une-y-cuanto-aguantara",
       "title": "Oposición conforma bloque inédito: ¿qué los une y cuánto aguantará?",
       "category": "Costa Rica",
@@ -329,24 +394,24 @@
       "slug": "los-dramas-familiares-que-se-esconden-detras-de-samsung-el-imperio-tecnologico-que-comenzo-como-una-tienda-de-comidas",
       "title": "Los dramas familiares que se esconden detrás de Samsung, el imperio tecnológico que comenzó como una tienda de comidas",
       "category": "Mundo",
-      "bullets_20s": "• Samsung, conocido por su tecnología, nace de humildes comienzos como tienda de alimentos en Corea del Sur.\n• La historia de Samsung está marcada por conflictos familiares que han influenciado su dirección y éxito.\n• Las rivalidades dentro de la familia han llevado a decisiones empresariales que cambiaron la industria tecnológica.\n• A pesar de su éxito, la influencia de las dinámicas familiares sigue presente en la operación de Samsung.\n• Las ambiciones familiares han moldeado no solo a Samsung, sino también la economía surcoreana en su conjunto.",
+      "bullets_20s": "• Samsung comenzó como una tienda de comestibles en la década de 1930 en Corea del Sur.\n• La familia Lee ha tenido un papel crucial en la historia y desarrollo de Samsung.\n• Las rivalidades familiares han afectado decisiones importantes dentro de la compañía.\n• La rica historia de Samsung refleja las transformaciones económicas de Corea del Sur.\n• Ambición y tradición han moldeado el éxito actual de Samsung a nivel mundial.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpqpz3lld27o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T10:43:42.000Z",
-      "teaser": "Lo clave en 20 segundos: La historia oculta de Samsung está llena de dramas familiares y rivalidades.",
+      "teaser": "Lo clave en 20 segundos: los dramas familiares que rodean a Samsung han influido en su éxito.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/36dc/live/df9236d0-44ef-11f1-9cfb-6b89a04a51af.jpg",
-      "description": "Detrás del éxito de Samsung se esconde una dinastía impulsada por la ambición, la riqueza, la tradición y las rivalidades.",
+      "description": "Detrás del éxito de Samsung se esconde una dinastía impulsada por la ambición, la riqueza, la tradición y las rivalidades, que moldearon tanto a la empresa como a la economía de Corea del Sur.",
       "featured": false
     },
     {
       "slug": "eeuu-anuncia-que-retirara-a-5000-soldados-de-alemania-en-medio-de-la-disputa-publica-entre-trump-y-el-canciller-merz-por",
       "title": "EE.UU. anuncia que retirará a 5.000 soldados de Alemania en medio de la disputa pública entre Trump y el canciller Merz por Irán",
       "category": "Mundo",
-      "bullets_20s": "• El anuncio de EE.UU. se produce en medio de tensiones internacionales crecientes por la situación en Irán.\n• La retirada militar podría afectar la presencia estadounidense en Europa y su estrategia de defensa.\n• Donald Trump y Friedrich Merz tienen visiones distintas sobre cómo manejar la crisis en Irán.\n• Las decisiones militares de EE.UU. impactan relaciones internacionales clave, especialmente con Europa.\n• Analistas opinan que el retiro puede ser un movimiento estratégico o político en este contexto.",
+      "bullets_20s": "• La medida de EE.UU. podría afectar su presencia militar en Europa y sus aliados.\n• La disputa se centra en las políticas de Trump sobre Oriente Medio y la guerra con Irán.\n• Alemania ha sido un aliado clave de EE.UU. en las últimas décadas, especialmente en la OTAN.\n• Las decisiones militares de EE.UU. generan reacciones y preocupaciones en varias naciones europeas.\n• Esta retirada puede tener repercusiones en la seguridad y estabilidad regional en Europa.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cedp9v4jv49o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T10:15:21.000Z",
-      "teaser": "Lo clave en 20 segundos: EE.UU. retira tropas de Alemania en medio de tensiones sobre Irán.",
+      "teaser": "Lo clave en 20 segundos: Retiro de soldados de EE.UU. en Alemania por disputa entre Trump y Merz.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ace7/live/b62bb1b0-45b5-11f1-9deb-9f280b02f266.jpg",
       "description": "El Departamento de Defensa de Estados Unidos planea retirar a 5.000 soldados de Alemania, en medio de una disputa entre el presidente estadounidense Donald Trump y el canciller alemán Friedrich Merz sobre la guerra con Irán.",
       "featured": false
@@ -355,13 +420,13 @@
       "slug": "por-que-la-sal-tiene-un-efecto-tan-poderoso-en-nuestro-cerebro",
       "title": "Por qué la sal tiene un efecto tan poderoso en nuestro cerebro",
       "category": "Ciencia",
-      "bullets_20s": "• La sal ha sido un elemento esencial en la alimentación humana a lo largo de la historia.\n• Este mineral no solo mejora el sabor de los alimentos, también afecta nuestro estado de ánimo.\n• Investigaciones sugieren que la sal puede influir en la función cerebral de diversas maneras.\n• El consumo moderado de sal es crucial para el equilibrio de líquidos en el cuerpo humano.\n• Comprender el papel de la sal puede ayudarnos a tomar decisiones más informadas sobre nuestra dieta.",
+      "bullets_20s": "• La sal es esencial para la vida, regula funciones vitales en el cuerpo humano.\n• Históricamente, la sal ha sido un símbolo de riqueza y poder en diversas culturas.\n• El consumo de sal afecta la química cerebral y el bienestar emocional de las personas.\n• Investigaciones han demostrado que la sal influye en los sistemas de recompensa del cerebro.\n• El exceso de sal puede tener efectos negativos en la salud, como hipertensión.\n• La preferencia por la sal puede estar relacionada con la evolución y supervivencia humana.\n• La ciencia explora cómo la sal puede afectar la memoria y el aprendizaje.\n• Fuentes de sal incluyen alimentos procesados y aquellos que se consumen de forma natural.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cgqp2n71ld4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T10:10:50.000Z",
-      "teaser": "Lo clave en 20 segundos: La sal no solo sazona, también impacta en nuestro cerebro.",
+      "teaser": "Lo clave en 20 segundos: La sal, más que un sabor, una influencia poderosa en nuestro cerebro.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/67a4/live/c320a710-43d8-11f1-a133-a9dbeae5d5f3.jpg",
-      "description": "La sal se encuentra en casi todas las cocinas. Pero, ¿cómo este ingredient...",
+      "description": "La sal se encuentra en casi todas las cocinas. Pero, ¿cómo este ingrediente aparentemente sencillo se convirtió en el potenciador de sabor favorito del mundo?",
       "featured": false
     },
     {
@@ -420,11 +485,11 @@
       "slug": "podemos-alcanzar-objetivos-a-2000-km-dentro-de-la-base-secreta-de-ucrania-que-lanza-drones-que-matan-a-miles-de-soldados",
       "title": "Podemos alcanzar objetivos a 2.000 km: dentro de la base secreta de Ucrania que lanza drones que matan a miles de soldados rusos cada mes",
       "category": "Mundo",
-      "bullets_20s": "• Los drones están transformando la guerra moderna, reduciendo costos y riesgos para el personal militar.\n• Ucrania ha incrementado sus capacidades de ataque con tecnología avanzada y estrategias innovadoras.\n• Las operaciones aéreas fortalece los esfuerzos en el campo de batalla contra las fuerzas rusas.\n• La duración y eficacia de los drones a 2.000 km son factores clave en el conflicto actual.\n• Entrevistas con líderes militares ofrecen una perspectiva sobre nuevas tácticas de combate.",
+      "bullets_20s": "• La entrevista revela detalles sobre operaciones de drones en conflictos modernos y su impacto militar.\n• Los drones están cambiando la forma en que se libran las guerras convencionales y tecnológicamente avanzadas.\n• Los comandos de Ucrania están utilizando tecnología para aumentar su efectividad en el campo de batalla.\n• La estrategia incluye operaciones discretas y un enfoque en la destrucción de materiales enemigos.\n• Se discuten las consecuencias humanitarias de los ataques aéreos en las regiones de conflicto.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c7v93mz0p11o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T03:49:44.000Z",
-      "teaser": "Lo clave en 20 segundos: La tecnología de drones redefine el conflicto en Ucrania.",
+      "teaser": "Lo clave en 20 segundos: Drones ucranianos redefinen las guerras modernas desde bases secretas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9638/live/a2f93d80-447d-11f1-88ff-575186ed76aa.jpg",
       "description": "En una inusual entrevista con la BBC, el comandante Robert Brovdi explicó que su unidad es responsable de un tercio de todos los objetivos destruidos en el campo de batalla.",
       "featured": false
@@ -1733,11 +1798,11 @@
       "slug": "pe-ai-19-aseguramiento-de-la-calidad",
       "title": "PE-AI-19 Aseguramiento de la calidad",
       "category": "Ciencia",
-      "bullets_20s": "• El aseguramiento de la calidad es crucial para mantener estándares educativos en instituciones.\n• Los manuales y procedimientos garantizan la coherencia en los procesos académicos y administrativos.\n• La última modificación se realizó en abril de 2026, actualizando protocolos y normativas.\n• Este enfoque ayuda a mejorar la satisfacción de estudiantes y docentes en el sistema educativo.\n• La calidad educativa se mide a través de indicadores que reflejan el desempeño institucional.",
+      "bullets_20s": "• El aseguramiento de la calidad es fundamental en diversos sectores.\n• Los procedimientos ayudan a estandarizar métodos y procesos.\n• Las manuales son herramientas clave en la capacitación del personal.\n• El seguimiento de la calidad mejora el rendimiento organizacional.\n• El control de calidad se adapta a diferentes industrias y necesidades.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ai-19-aseguramiento-calidad",
       "publish_date": "2026-04-30T15:55:48.000Z",
-      "teaser": "Lo clave en 20 segundos: La importancia del aseguramiento de la calidad en la educación superior.",
+      "teaser": "Lo clave en 20 segundos: El aseguramiento de la calidad es esencial en variados sectores.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -2357,11 +2422,11 @@
       "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
       "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "category": "Costa Rica",
-      "bullets_20s": "• Las becas socioeconómicas del TEC incrementaron sus montos a lo largo de 2025 para fortalecer el apoyo estudiantil.\n• El aumento de becas permitió a más de 15 mil estudiantes acceder a la educación superior con mayor facilidad.\n• El aumento en el fondo de becas fue respaldado por un compromiso significativo de inversión pública y estatal.\n• Un alto porcentaje de los beneficiados proviene de comunidades con mayores necesidades sociales en todo el país.\n• Se implementaron estrategias de retención estudiantil con el objetivo de reducir la deserción y mejorar la graduación.",
+      "bullets_20s": "• El Tecnológico de Costa Rica otorgó 23.323 becas, beneficiando a más de 15.000 estudiantes en 2025.\n• Se duplicaron los montos de las becas socioeconómicas, ampliando el apoyo al estudiantado en 2025.\n• El impacto de las becas se ve en un 65,2% de graduados que costearon estudios con apoyo.\n• Destacan programas de acompañamiento para estudiantes de primer ingreso, facilitando su adaptación.\n• El TEC asumió la presidencia del Consejo Nacional de Rectores (CONARE) en 2025, logrando acuerdos cruciales.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
       "publish_date": "2026-04-29T17:20:04.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC otorgó más de 23 mil becas a estudiantes en un esfuerzo por equidad educativa.",
+      "teaser": "Lo clave en 20 segundos: El TEC otorgó más de 23 mil becas en 2025, beneficiando a una gran cantidad de estudiantes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
       "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "featured": false
@@ -7957,5 +8022,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-02T17:45:29.997Z"
+  "generated_at": "2026-05-02T18:45:30.318Z"
 }
