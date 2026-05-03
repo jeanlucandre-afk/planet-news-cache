@@ -1,16 +1,42 @@
 {
   "news": [
     {
+      "slug": "como-cargar-mas-rapido-su-celular-y-evitar-que-se-caliente",
+      "title": "Cómo cargar más rápido su celular y evitar que se caliente",
+      "category": "Tecnología",
+      "bullets_20s": "• Asegúrese de utilizar cables y cargadores originales para optimizar la carga de su dispositivo.\n• Cargar el celular en modo avión puede aumentar la velocidad de carga significativamente.\n• Evitar la exposición a temperaturas extremas ayuda a mantener el rendimiento de la batería.\n• Desactivar aplicaciones en segundo plano reduce el consumo energético durante la carga.\n• Revisar las conexiones del cargador y del teléfono asegura un contacto adecuado y carga eficiente.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/tecnologia/como-cargar-mas-rapido-su-celular-y-evitar-que-se/K447RISRURDCPKWQI5JX5LD43U/story/",
+      "publish_date": "2026-05-03T18:21:00.000Z",
+      "teaser": "Lo clave en 20 segundos: cargue su celular más rápido y evite el sobrecalentamiento.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZF3FABJWPZDOZMACIEDLPPCOVY.png?auth=c6ee1d88b118dceb6145a31283e525b48835d3130584471d17d0e1a42c5b640b&smart=true&width=1920&height=1080",
+      "description": "Consejos prácticos para que su celular cargue más rápido sin sobrecalentarse y evitar daños por temperatura alta o accesorios en mal estado.",
+      "featured": false
+    },
+    {
+      "slug": "pentagono-excluye-a-anthropic-y-sella-alianza-con-gigantes-tecnologicos-para-uso-de-inteligencia-artificial-militar",
+      "title": "Pentágono excluye a Anthropic y sella alianza con gigantes tecnológicos para uso de inteligencia artificial militar",
+      "category": "Mundo",
+      "bullets_20s": "• El Pentágono busca fortalecer su capacidad en inteligencia artificial para uso militar.\n• Varias empresas tecnológicas importantes están involucradas en esta nueva alianza estratégica.\n• Anthropic, una empresa emergente, ha sido excluida de este acuerdo significativo.\n• Las alianzas tecnológicas son clave para las operaciones de defensa y seguridad nacional.\n• Se espera que esta colaboración mejore la eficiencia y efectividad de las fuerzas armadas.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/pentagono-excluye-a-anthropic-y-sella-alianza-con/MLNYN3BSIJHCREBJ34KYBIOVMQ/story/",
+      "publish_date": "2026-05-03T17:56:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El Pentágono refuerza su estrategia militar con nuevas alianzas tecnológicas.",
+      "image_url": "https://www.nacion.com/resizer/v2/SNRGWUR5YNC4VLUU55IQSU4S2U.jpg?auth=256454b12e72ce7fdda88f82d0ec01dfdf91ca1f48d66e1ab58ac42acf69e9cf&smart=true&width=8256&height=5504",
+      "description": "El Pentágono redefine su estrategia tecnológica con alianzas clave en inteligencia artificial. Conozca qué empresas participan, por qué Anthropic quedó fuera y cómo impacta en el ámbito militar.",
+      "featured": false
+    },
+    {
       "slug": "la-red-clandestina-que-introduce-tecnologia-starlink-en-iran-para-sortear-el-bloqueo-de-internet",
       "title": "La red clandestina que introduce tecnología Starlink en Irán para sortear el bloqueo de internet",
       "category": "Mundo",
-      "bullets_20s": "• La tecnología Starlink está ayudando a eludir los bloqueos de internet en varios países.\n• Contrabando de terminales de internet satelital que permite acceso a información sin censura.\n• Sahand, un contrabandista, explica su motivación por mostrar la realidad a los iraníes.\n• El impacto de esta red clandestina en la sociedad iraní podría ser significativo a largo plazo.\n• La importancia de la libertad de expresión en el contexto de los bloqueos gubernamentales.",
+      "bullets_20s": "• La tecnología Starlink está siendo introducida clandestinamente en Irán para sortear el bloqueo de internet.\n• Contrabandistas envían terminales de internet satelital para garantizar conexión a información sin censura.\n• Sahand, un contrabandista, comparte detalles sobre cómo logra introducir la tecnología en el país.\n• Los usuarios pueden acceder a información que de otra manera se mantendría oculta debido a restricciones.\n• El movimiento es parte de un esfuerzo más grande por parte de activistas en Irán por la libertad de expresión.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cglp9xg8939o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T17:17:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Clandestinos contrabandean Starlink en Irán para sortear bloqueos de internet.",
+      "teaser": "Lo clave en 20 segundos: Activistas en Irán utilizan tecnología Starlink para combatir el bloqueo de internet.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8c14/live/20b8b580-44c8-11f1-ac78-2112837ce2aa.jpg",
-      "description": "Sahand, uno de los contrabandistas, asegura al Servicio Mundial de la BBC que envía terminales de Internet satelital dentro del país para ayudar a mostrar “la realidad tal y como es.”",
+      "description": "Sahand, uno de los contrabandistas, asegura al Servicio Mundial de la BBC que envía terminales de Internet satelital dentro del país para ayudar a mostrar “la realidad tal y como es”.",
       "featured": false
     },
     {
@@ -381,11 +407,11 @@
       "slug": "6-antiguas-tecnologias-que-desconcertaron-a-la-ciencia-moderna-y-aun-son-dificiles-de-replicar",
       "title": "6 antiguas tecnologías que desconcertaron a la ciencia moderna (y aún son difíciles de replicar)",
       "category": "Ciencia",
-      "bullets_20s": "• Las tecnologías antiguas desafiaron la comprensión de los avances científicos modernos.\n• Artesanos romanos, incas y mayas crearon obras impresionantes sin herramientas modernas.\n• Era un misterio cómo lograron resultados extraordinarios en sus construcciones.\n• Los métodos utilizados en esas épocas aún generan admiración y curiosidad.\n• La investigación sobre sus técnicas ofrece lecciones valiosas para actuales expertos.",
+      "bullets_20s": "• Las antiguas tecnologías muestran un ingenio sorprendente en civilizaciones antiguas.\n• Artesanos romanos usaron métodos avanzados sin herramientas modernas para obtener resultados.\n• Las técnicas de los incas en construcción reflejan gran habilidad y conocimiento.\n• Los etruscos destacaron por sus innovaciones en metalurgia y cerámica.\n• Civilizaciones mayas crearon calendarios y estructuras arquitectónicas asombrosas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c624n4e6q14o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T10:43:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Tecnologías antiguas que siguen desafiando a la ciencia moderna.",
+      "teaser": "Lo clave en 20 segundos: Tecnologías antiguas que deslumbran a la ciencia moderna y su difícil replicación.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d861/live/88b51ad0-378e-11f1-9d5c-8ba507d7dbde.jpg",
       "description": "Durante siglos no se supo explicar lo que artesanos romanos, incas, etruscos y mayas lograron sin microscopios ni espectrómetros. Entenderlo los hizo aún más admirables.",
       "featured": false
@@ -394,11 +420,11 @@
       "slug": "la-extraordinaria-historia-de-hercules-el-oso-al-que-una-pareja-adopto-y-crio-como-parte-de-su-familia",
       "title": "La extraordinaria historia de Hércules, el oso al que una pareja adoptó y crio como parte de su familia",
       "category": "Mundo",
-      "bullets_20s": "• La historia de Hércules es un relato emocional sobre la conexión con un oso.\n• Maggie y Andy Robin decidieron adoptar a Hércules cuando era muy joven.\n• La pareja creó un ambiente familiar y cariñoso para su inusual mascota.\n• El relato explora los desafíos y alegrías de criar a un oso como familia.\n• Hércules se convirtió en parte integral de la vida diaria de sus adoptantes.",
+      "bullets_20s": "• La historia de Hércules es un relato sobre la conexión entre seres humanos y animales.\n• Maggie y Andy Robin adoptaron a Hércules y lo criaron como si fuera un hijo.\n• El oso desarrolló un comportamiento amigable y juguetón en su hogar.\n• La relación entre humanos y animales puede ser hermosa y sorprendente.\n• Este relato resalta la importancia de cuidar y respetar a los animales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g4ke6z1zro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T10:16:44.000Z",
-      "teaser": "Lo clave en 20 segundos: La conmovedora historia de un oso adoptado por una pareja.",
+      "teaser": "Lo clave en 20 segundos: una pareja adoptó a Hércules, forjando un vínculo excepcional.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e2d0/live/853839b0-1e1f-11f1-bd56-df0cd723329e.jpg",
       "description": "Hércules llegó a la vida de Maggie y Andy Robin cuando era un cachorro de nueve meses. Durante los años que vivieron juntos desarrollaron una relación única. Te contamos su historia.",
       "featured": false
@@ -407,13 +433,13 @@
       "slug": "vestida-para-gobernar-que-muestran-la-ropa-y-el-peinado-de-la-hija-de-kim-jong-un-sobre-como-la-preparan-para-reemplazar",
       "title": "Vestida para gobernar: qué muestran la ropa y el peinado de la hija de Kim Jong-un sobre cómo la preparan para reemplazar al líder de Corea del Norte",
       "category": "Mundo",
-      "bullets_20s": "• Kim Ju Ae está siendo preparada para un papel importante en el liderazgo de Corea del Norte.\n• Su indumentaria incluye marcas de lujo prohibidas, generando interés en los analistas políticos.\n• Los expertos consideran que su vestimenta no es un acto de rebeldía, sino cuidadosa estrategia gubernamental.\n• La imagen pública de Kim Ju Ae puede influir en la percepción futura del régimen norcoreano.\n• Su creciente presencia en eventos podría indicar un cambio generacional dentro del liderazgo del país.",
+      "bullets_20s": "• La moda y el estilo de Kim Ju Ae están causando debate en el ámbito internacional y político.\n• Expertos analizan el significado de su presencia en actos públicos en Corea del Norte.\n• Las marcas de lujo que utiliza son un símbolo de cambio en la imagen del régimen.\n• La preparación de Kim Ju Ae para el liderazgo ha generado especulaciones globales.\n• Corea del Norte mantiene una política estricta sobre la vestimenta y estilo personal.",
       "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/ce9pzv54n4po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T04:03:28.000Z",
-      "teaser": "Lo clave en 20 segundos: La hija de Kim Jong-un adopta un estilo que impacta en su futuro liderazgo.",
+      "teaser": "Lo clave en 20 segundos: La hija de Kim Jong-un muestra un nuevo estilo que inquieta a expertos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/edaa/live/96003d80-4249-11f1-ac78-2112837ce2aa.jpg",
-      "description": "Kim Ju Ae aparece cada vez con más frecuencia en actos públicos, donde luce marcas de lujo occidentales.",
+      "description": "Kim Ju Ae aparece cada vez con más frecuencia en actos públicos, donde luce marcas de lujo occidentales prohibidas en Corea del Norte por considerarse reaccionarias y antisocialistas. Pero los expertos en el hermético país aseguran que esto no se trata de un gesto de rebeldía adolescente.",
       "featured": false
     },
     {
@@ -615,13 +641,13 @@
       "slug": "los-inquietantes-vehiculos-abandonados-en-la-zona-muerta-de-chernobil",
       "title": "Los inquietantes vehículos abandonados en la 'zona muerta' de Chernóbil",
       "category": "Mundo",
-      "bullets_20s": "• Los vehículos fueron usados en las labores de limpieza tras el desastre nuclear de Chernóbil.\n• Se estima que estos vehículos han permanecido abandonados por más de cuatro décadas.\n• La zona de exclusión de Chernóbil es un área altamente contaminada y deshabitada.\n• Estos automóviles reflejan la urgencia y riesgos de las misiones de descontaminación.\n• La corrosión visible en los vehículos resalta la falta de mantenimiento y atención.\n• Chernóbil se ha convertido en un lugar de interés para investigadores y turistas.\n• El incidente de Chernóbil es una lección sobre la seguridad nuclear global.\n• Las imágenes de estos vehículos son impactantes y evocan historias del pasado.\n• La zona sigue siendo vigilancia por la radiación y el impacto ambiental.\n• Los vehículos abandonados son un símbolo de la tragedia humana y tecnológica.",
+      "bullets_20s": "• Chernóbil es conocido por su tragedia nuclear y la zona de exclusión creada alrededor.\n• Años después del desastre, miles de vehículos quedaron abandonados y oxidados en el área.\n• Estos vehículos fueron parte de la operación de limpieza tras el accidente nuclear de 1986.\n• La zona muerta se ha convertido en un punto de interés para investigadores y curiosos.\n• La radiactividad y el tiempo han dejado huellas visibles en estos vehículos olvidados.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c7754gm7yr6o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T21:21:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Abandonados desde hace décadas, los vehículos en Chernóbil cuentan una historia de tragedia y abandono.",
+      "teaser": "Lo clave en 20 segundos: vehículos abandonados desde el desastre de Chernóbil siguen en la zona de exclusión.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8da5/live/123935b0-463b-11f1-aa14-ad910202f501.jpg",
-      "description": "Hace 40 años se utilizó una enorme flota de vehículos para limpiar los residuos radiactivos del desastre de Chernóbil. Muchos de ellos siguen abandonados y oxidados dentro de la zona de exclusión.",
+      "description": "Hace 40 años se utilizó una enorme flota de vehículos para limpiar los residuos radiactivos del desastre de Chernóbil.",
       "featured": false
     },
     {
@@ -1639,19 +1665,6 @@
       "featured": false
     },
     {
-      "slug": "pentagono-excluye-a-anthropic-y-sella-alianza-con-gigantes-tecnologicos-para-uso-de-inteligencia-artificial-militar",
-      "title": "Pentágono excluye a Anthropic y sella alianza con gigantes tecnológicos para uso de inteligencia artificial militar",
-      "category": "Mundo",
-      "bullets_20s": "• El Pentágono busca mejorar su infraestructura tecnológica para aplicaciones militares de inteligencia artificial.\n• Algunas empresas líderes de tecnología forman parte de esta nueva alianza para el desarrollo militar.\n• Anthropic, conocido por sus innovaciones en IA, no fue incluido en esta estrategia del Pentágono.\n• Se espera que esta decisión influya en la manera en que las fuerzas armadas operan con tecnología avanzada.\n• El impacto de esta estrategia se extiende a diversas áreas de defensa y seguridad nacional.",
-      "source_name": "AFP",
-      "source_url": "https://www.nacion.com/el-mundo/pentagono-excluye-a-anthropic-y-sella-alianza-con/MLNYN3BSIJHCREBJ34KYBIOVMQ/story/",
-      "publish_date": "2026-05-01T17:08:05.000Z",
-      "teaser": "Lo clave en 20 segundos: Pentágono redefine su estrategia militar con nuevas alianzas en inteligencia artificial.",
-      "image_url": "https://www.nacion.com/resizer/v2/SNRGWUR5YNC4VLUU55IQSU4S2U.jpg?auth=256454b12e72ce7fdda88f82d0ec01dfdf91ca1f48d66e1ab58ac42acf69e9cf&smart=true&width=8256&height=5504",
-      "description": "El Pentágono redefine su estrategia tecnológica con alianzas clave en inteligencia artificial. Conozca qué empresas participan, por qué Anthropic quedó fuera y cómo impacta en el ámbito militar.",
-      "featured": false
-    },
-    {
       "slug": "imn-advierte-aguaceros-con-tormenta-electrica-en-costa-rica-este-viernes",
       "title": "IMN advierte aguaceros con tormenta eléctrica en Costa Rica este viernes",
       "category": "Costa Rica",
@@ -2539,11 +2552,11 @@
       "slug": "pe-ai-19-aseguramiento-de-la-calidad",
       "title": "PE-AI-19 Aseguramiento de la calidad",
       "category": "Tecnología",
-      "bullets_20s": "• El documento PE-AI-19 aborda los procesos de aseguramiento de la calidad en la educación.\n• Se presentan manuales y procedimientos para mejorar la calidad educativa en el país.\n• La última modificación del documento fue realizada en abril de 2026.\n• Este tipo de contenido es esencial para las instituciones educativas en Costa Rica.\n• La calidad educativa es un tema clave para el desarrollo del país.",
+      "bullets_20s": "• El documento PE-AI-19 se centra en el aseguramiento de calidad en procesos.\n• Manuales y procedimientos son cruciales para mantener estándares de calidad.\n• La importancia del aseguramiento de calidad radica en la mejora continua.\n• Proyectos de calidad permiten optimizar recursos y resultados esperados.\n• El documento establece pautas claras para la evaluación de procesos.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ai-19-aseguramiento-calidad",
       "publish_date": "2026-04-30T15:55:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Aseguramiento de calidad educativo y su importancia.",
+      "teaser": "Lo clave en 20 segundos: Aseguramiento de calidad esencial en procesos tecnológicos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -3163,11 +3176,11 @@
       "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
       "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC otorgó 23,323 becas en 2025 para apoyar la educación de 15,025 estudiantes.\n• Las becas socioeconómicas se duplicaron en sus montos, impactando a más estudiantes vulnerables.\n• El informe destaca mejoras en la retención estudiantil con 179 actividades implementadas.\n• Se promovió la diversidad con un 45.48% de estudiantes de nuevo ingreso como primera generación.\n• El TEC asumió la presidencia del CONARE, fortaleciendo la educación superior estatal en el país.",
+      "bullets_20s": "• El Tecnológico de Costa Rica otorgó más de 23 mil becas en 2025 para estudiantes.\n• Las becas socioeconómicas duplicaron sus montos, mejorando el acceso a la educación.\n• El impacto de las becas se refleja en los altos índices de graduación y permanencia.\n• Más del 50% de los estudiantes provienen de comunidades con necesidades sociales.\n• La institución realizó 179 actividades para reducir la deserción estudiantil en 2025.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
       "publish_date": "2026-04-29T17:20:04.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC resalta el otorgamiento de becas y el enfoque en equidad educativa.",
+      "teaser": "Lo clave en 20 segundos: El TEC apoya a más de 15 mil estudiantes con becas ampliadas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
       "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "featured": false
@@ -8776,5 +8789,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-03T17:45:29.970Z"
+  "generated_at": "2026-05-03T18:45:31.519Z"
 }
