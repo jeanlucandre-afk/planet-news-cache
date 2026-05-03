@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "los-asesinatos-en-el-distrito-catedral-una-novela-futurista-sobre-la-condicion-humana",
+      "title": "Los asesinatos en el distrito Catedral: Una novela futurista sobre la condición humana",
+      "category": "Mundo",
+      "bullets_20s": "• La novela explora temas introspectivos sobre el ser humano y sus decisiones.\n• María Flórez -Estrada Pimentel propone un futuro distópico y crítico.\n• La trama se sitúa en un entorno complejo que refleja la actualidad.\n• Los personajes enfrentan dilemas morales en un mundo lleno de tecnología.\n• La obra invita a reflexionar sobre la ética y la realidad social.",
+      "source_name": "José Francisco Correa",
+      "source_url": "https://www.nacion.com/ancora/los-asesinatos-en-el-distrito-catedral-una-novela/PRBQQ4QS5JAJXLEZVBBVQIGXXM/story/",
+      "publish_date": "2026-05-03T23:03:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Un vistazo a la novela que invita a reflexionar sobre la condición humana.",
+      "image_url": "https://www.nacion.com/resizer/v2/KW3IYMPXENETPJBPSTRJJCWBQ4.jpg?auth=72eee21c067d2f6665d7ce663b57f21d6de43298538f2ca0e20e33c4e466754d&smart=true&width=3000&height=2000",
+      "description": "José Francisco Correa escribe sobre la primera novela de María Flórez -Estrada Pimentel. Conozca el libro.",
+      "featured": false
+    },
+    {
+      "slug": "cuantos-anos-tiene-realmente-un-nuevo-metodo-utiliza-la-sangre-para-diferenciar-la-edad-biologica-de-la-cronologica",
+      "title": "¿Cuántos años tiene realmente? Un nuevo método utiliza la sangre para diferenciar la edad biológica de la cronológica",
+      "category": "Ciencia",
+      "bullets_20s": "• Nuevos avances en medicina revelan información crucial sobre el envejecimiento humano.\n• La inteligencia artificial juega un papel clave en la estimación de la edad biológica.\n• Análisis de sangre permiten discernir entre edad biológica y cronológica de manera efectiva.\n• El modelo ofrece un alto porcentaje de precisión al predecir el envejecimiento.\n• Este método ayuda a prevenir enfermedades relacionadas con la edad.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/cuantos-anos-tiene-realmente-un-nuevo-metodo/K6YC4QDTRNCJRIZE4SQ65TMC5A/story/",
+      "publish_date": "2026-05-03T22:47:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Un método innovador usa sangre para revelar la verdadera edad biológica de las personas.",
+      "image_url": "https://www.nacion.com/resizer/v2/PP4GKMFAOVCAVLUV3MAEQGMUHQ.jpg?auth=b5816c4810b5310eaf06e8243d514196e6cd32ddad361a8514a317a81bc3e822&smart=true&width=4844&height=2725",
+      "description": "Un método con IA estima edad biológica con análisis de sangre. El modelo predice envejecimiento con 85% de precisión y ayuda a prevenir enfermedades.",
+      "featured": false
+    },
+    {
       "slug": "hubble-capta-galaxia-espiral-con-intensa-formacion-estelar-a-53-millones-de-anos-luz",
       "title": "Hubble capta galaxia espiral con intensa formación estelar a 53 millones de años luz",
       "category": "Ciencia",
@@ -76,6 +102,19 @@
       "teaser": "Lo clave en 20 segundos: tribunal sanciona empresa por no probar origen de préstamos.",
       "image_url": "https://www.nacion.com/resizer/v2/C46NPSXGSJELPBNBHCPN36G4ZQ.jpg?auth=b5f834ee024b4f0c6f759b6b7da3af456a931fcb0367e878f6410b0e41fb63f9&smart=true&width=4256&height=2832",
       "description": "¿Sabe cómo probar el origen de su dinero ante Hacienda? Un reciente fallo del Tribunal Fiscal revela por qué los estados financieros ya no son prueba suficiente.",
+      "featured": false
+    },
+    {
+      "slug": "3-muertos-en-un-posible-brote-de-hantavirus-dentro-un-crucero-que-zarpo-de-argentina",
+      "title": "3 muertos en un posible brote de hantavirus dentro un crucero que zarpó de Argentina",
+      "category": "Mundo",
+      "bullets_20s": "• La OMS está investigando un brote de hantavirus en un crucero argentino.\n• Tres personas han perdido la vida en este brote de hantavirus.\n• Se han confirmado varios casos sospechosos entre los pasajeros del crucero.\n• Las autoridades están implementando medidas de prevención y control.\n• El hantavirus puede ser transmitido por roedores, elevando la preocupación.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cdjpgrp2p3po?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-03T20:50:39.000Z",
+      "teaser": "Lo clave en 20 segundos: brote de hantavirus en crucero argentino deja tres muertos.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/eef5/live/0122f2c0-471c-11f1-973f-3fcb874893eb.jpg",
+      "description": "La OMS confrimó un caso de infección por hantavirus y están investigando otros 5 casos sospechosos.",
       "featured": false
     },
     {
@@ -199,11 +238,11 @@
       "slug": "la-red-clandestina-que-introduce-tecnologia-starlink-en-iran-para-sortear-el-bloqueo-de-internet",
       "title": "La red clandestina que introduce tecnología Starlink en Irán para sortear el bloqueo de internet",
       "category": "Mundo",
-      "bullets_20s": "• Irán enfrenta restricciones severas en el acceso a internet por parte del gobierno.\n• Starlink ofrece una solución alternativa a quienes buscan información libre.\n• Contrabando de terminales permite a los ciudadanos conectarse a la red satelital.\n• Sahand revela que su red ayuda a mostrar la verdad de la situación en Irán.\n• El uso de tecnología clandestina desafía las políticas restrictivas del gobierno.",
+      "bullets_20s": "• Las redes clandestinas han aumentado debido a los bloqueos de internet en Irán.\n• Starlink ofrece una solución innovadora para el acceso a información no censurada.\n• Sahand revela detalles sobre el contrabando de terminales de internet satelital.\n• La tecnología satelital ha cambiado la forma en que las personas se comunican en Irán.\n• El objetivo es mostrar la realidad del país a través del acceso a internet.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cglp9xg8939o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T17:17:51.000Z",
-      "teaser": "Lo clave en 20 segundos: El contrabando de Starlink en Irán combate el bloqueo de internet.",
+      "teaser": "Lo clave en 20 segundos: red clandestina usa Starlink para vencer bloqueo en Irán.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8c14/live/20b8b580-44c8-11f1-ac78-2112837ce2aa.jpg",
       "description": "Sahand, uno de los contrabandistas, asegura al Servicio Mundial de la BBC que envía terminales de Internet satelital dentro del país para ayudar a mostrar “la realidad tal y como es”.",
       "featured": false
@@ -576,11 +615,11 @@
       "slug": "6-antiguas-tecnologias-que-desconcertaron-a-la-ciencia-moderna-y-aun-son-dificiles-de-replicar",
       "title": "6 antiguas tecnologías que desconcertaron a la ciencia moderna (y aún son difíciles de replicar)",
       "category": "Ciencia",
-      "bullets_20s": "• Las tecnologías antiguas reflejan conocimientos avanzados de civilizaciones pasadas, sorprendiendo a los expertos actuales.\n• Los romanos, mayas y etruscos lograron avances impresionantes sin la tecnología moderna que poseemos hoy.\n• Algunas técnicas ancestrales todavía son difíciles de replicar, lo que resalta su ingenio.\n• Estudios recientes han intentado desentrañar secretos detrás de estas antiguas invenciones y sus aplicaciones.\n• La ciencia moderna aprecia las contribuciones de civilizaciones antiguas al progreso de la humanidad.",
+      "bullets_20s": "• Antiguas tecnologías sorprendieron a científicos modernos por su complejidad y eficiencia.\n• Artisanías de civilizaciones como los romanos exhiben saberes que aún desconciertan.\n• Estrategias de construcción inca son consideradas avances técnicos impresionantes.\n• El manejo de materiales por etruscos presenta conocimientos avanzados para su época.\n• La metalurgia maya reveló técnicas de producción que aún no se replican con exactitud.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c624n4e6q14o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T10:43:52.000Z",
-      "teaser": "Lo clave en 20 segundos: descubrimientos antiguos que asombran a la ciencia moderna y su legado perdurable.",
+      "teaser": "Lo clave en 20 segundos: viejas tecnologías sorprendieron por su ingenio y complejidad.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d861/live/88b51ad0-378e-11f1-9d5c-8ba507d7dbde.jpg",
       "description": "Durante siglos no se supo explicar lo que artesanos romanos, incas, etruscos y mayas lograron sin microscopios ni espectrómetros. Entenderlo los hizo aún más admirables.",
       "featured": false
@@ -589,11 +628,11 @@
       "slug": "la-extraordinaria-historia-de-hercules-el-oso-al-que-una-pareja-adopto-y-crio-como-parte-de-su-familia",
       "title": "La extraordinaria historia de Hércules, el oso al que una pareja adoptó y crio como parte de su familia",
       "category": "Mundo",
-      "bullets_20s": "• Hércules es un oso que fue adoptado por una pareja en una situación inusual.\n• La relación entre la pareja y el oso se tornó única y sorprendente.\n• Este relato destaca la conexión entre humanos y animales salvajes.\n• La historia de Hércules ha capturado la atención de muchas personas en el mundo.\n• La adopción de animales salvajes plantea preguntas sobre su bienestar y libertad.",
+      "bullets_20s": "• Hércules fue adoptado por una pareja que se convirtió en su familia desde cachorro.\n• La historia de Hércules muestra la conexión única entre los humanos y los animales.\n• Maggie y Andy Robin criaron a Hércules con amor y responsabilidad durante años.\n• Este oso se volvió una parte integral de la vida de sus adoptantes.\n• La relación entre ellos ha inspirado a muchas personas alrededor del mundo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g4ke6z1zro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T10:16:44.000Z",
-      "teaser": "Lo clave en 20 segundos: una pareja adoptó a un oso, creando un vínculo especial.",
+      "teaser": "Lo clave en 20 segundos: La conmovedora relación de una pareja con su oso adoptado, Hércules.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e2d0/live/853839b0-1e1f-11f1-bd56-df0cd723329e.jpg",
       "description": "Hércules llegó a la vida de Maggie y Andy Robin cuando era un cachorro de nueve meses. Durante los años que vivieron juntos desarrollaron una relación única. Te contamos su historia.",
       "featured": false
@@ -602,11 +641,11 @@
       "slug": "vestida-para-gobernar-que-muestran-la-ropa-y-el-peinado-de-la-hija-de-kim-jong-un-sobre-como-la-preparan-para-reemplazar",
       "title": "Vestida para gobernar: qué muestran la ropa y el peinado de la hija de Kim Jong-un sobre cómo la preparan para reemplazar al líder de Corea del Norte",
       "category": "Mundo",
-      "bullets_20s": "• La hija de Kim Jong-un se presenta con marcas de lujo en actos públicos internacionales.\n• Expertos destacan el significado detrás de su vestimenta en un contexto político complejo.\n• El uso de productos occidentales podría indicar cambios en la postura del régimen norcoreano.\n• Asistentes a eventos notan una creciente visibilidad de Kim Ju Ae en la esfera pública.\n• Las decisiones de vestimenta pueden reflejar un mensaje político más amplio en Corea del Norte.",
+      "bullets_20s": "• La hija de Kim Jong-un, Kim Ju Ae, se presenta en actos con un estilo particular.\n• Expertos analizan cómo su vestimenta refleja su posible futuro en el poder.\n• La ropa de lujo occidental en Corea del Norte es considerada prohibida y reaccionaria.\n• La aparición pública de Kim Ju Ae se vuelve cada vez más frecuente y notable.\n• Analistas sugieren que su estilo no es solo rebeldía, sino un mensaje político.",
       "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/ce9pzv54n4po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T04:03:28.000Z",
-      "teaser": "Lo clave en 20 segundos: La hija de Kim Jong-un muestra un estilo inusual para un futuro liderazgo.",
+      "teaser": "Lo clave en 20 segundos: la hija de Kim Jong-un se prepara para el liderazgo en Corea del Norte.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/edaa/live/96003d80-4249-11f1-ac78-2112837ce2aa.jpg",
       "description": "Kim Ju Ae aparece cada vez con más frecuencia en actos públicos, donde luce marcas de lujo occidentales prohibidas en Corea del Norte por considerarse reaccionarias y antisocialistas. Pero los expertos en el hermético país aseguran que esto no se trata de un gesto de rebeldía adolescente.",
       "featured": false
@@ -2707,12 +2746,12 @@
     {
       "slug": "pe-ai-19-aseguramiento-de-la-calidad",
       "title": "PE-AI-19 Aseguramiento de la calidad",
-      "category": "Mundo",
-      "bullets_20s": "• El aseguramiento de la calidad es fundamental en procesos educativos y tecnológicos.\n• Este procedimiento busca mantener estándares altos en la educación superior.\n• Las normas de calidad permiten evaluar el desempeño de instituciones educativas.\n• La transparencia en métodos mejora la confianza de estudiantes y stakeholders.\n• La innovación está ligada al aseguramiento de la calidad en tecnología y educación.",
+      "category": "Ciencia",
+      "bullets_20s": "• El documento PE-AI-19 aborda el aseguramiento de la calidad en diversas áreas.\n• Se detallan manuales y procedimientos necesarios para garantizar estándares.\n• La última modificación del documento ocurrió en abril del 2026.\n• Es esencial para instituciones que buscan mejorar su calidad educativa.\n• Promueve un enfoque sistemático para la mejora continua.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ai-19-aseguramiento-calidad",
       "publish_date": "2026-04-30T15:55:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Importancia del aseguramiento de calidad en educación.",
+      "teaser": "Lo clave en 20 segundos: Estrategias para asegurar calidad en instituciones educativas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -3332,11 +3371,11 @@
       "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
       "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC otorgó más de 23 mil becas en 2025, beneficiando a muchos estudiantes en el país.\n• Se duplicaron los montos de las becas socioeconómicas, ayudando a estudiantes en vulnerabilidad.\n• La matrícula total alcanzó 13.076 estudiantes, con un incremento en la inclusión social.\n• Un 45,48% de los nuevos estudiantes provienen de familias sin antecedentes universitarios.\n• Se desarrollaron 179 actividades para reducir la deserción estudiantil en el 2025.",
+      "bullets_20s": "• El Tecnológico de Costa Rica otorgó 23.323 becas en 2025 a miles de estudiantes en situación vulnerable.\n• Las becas socioeconómicas duplicaron su monto en 2025, facilitando el acceso a la educación superior.\n• El informe destaca un aumento del 0,5% en el FEES destinado a becas y apoyos estudiantiles.\n• Se desarrollaron 179 actividades para retener estudiantes y 152 iniciativas para reducir la deserción.\n• El 53,12% de los estudiantes provienen de cantones con niveles de desarrollo social medio y bajo.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
       "publish_date": "2026-04-29T17:20:04.000Z",
-      "teaser": "Lo clave en 20 segundos: Más de 23 mil becas del TEC mejoran acceso y permanencia estudiantil.",
+      "teaser": "Lo clave en 20 segundos: El Tecnológico de Costa Rica impulsó becas históricas para estudiantes en 2025.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
       "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "featured": false
@@ -8932,5 +8971,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-03T22:45:30.367Z"
+  "generated_at": "2026-05-03T23:45:29.954Z"
 }
