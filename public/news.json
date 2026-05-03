@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "lista-completa-magistrados-exdiputados-y-empresarios-de-costa-rica-a-quienes-estados-unidos-retiro-la-visa",
+      "title": "Lista completa: magistrados, exdiputados y empresarios de Costa Rica a quienes Estados Unidos retiró la visa",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Junta Directiva de ‘La Nación’ anunció una lista impactante de figuras afectadas.\n• Estados Unidos ha tomado medidas drásticas en relación a visas de importantes figuras en el país.\n• Las consecuencias de la revocación de visas pueden afectar relaciones internacionales.\n• Este hecho podría abrir debates sobre la corrupción y transparencia en Costa Rica.\n• La comunidad está a la expectativa de las reacciones de los implicados en la lista.",
+      "source_name": "Fernanda Matarrita Chaves",
+      "source_url": "https://www.nacion.com/el-pais/lista-completa-magistrados-exdiputados-y/IJZP6XI5R5C2JMQ6XNWAHNO74U/story/",
+      "publish_date": "2026-05-03T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: EE. UU. retira visas a magistrados y exdiputados en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/QPBTBKAVBRC63O6IDXB3QK2IOE.png?auth=80ffc29499e425e8a5f9a7cd44a6fb2442f9f69ec6407c43f5527894a8432b76&smart=true&width=1920&height=1080",
+      "description": "Este 2 de mayo, la Junta Directiva de ‘La Nación’ confirmó que el gobierno estadounidense le revocó la visa a varios de sus integrantes",
+      "featured": false
+    },
+    {
       "slug": "barcelona-esta-cada-vez-mas-cerca-del-cetro-de-la-liga",
       "title": "Barcelona está cada vez más cerca del cetro de La Liga",
       "category": "Mundo",
-      "bullets_20s": "• El Barcelona ha demostrado un rendimiento sobresaliente en la presente temporada de La Liga.\n• Con este triunfo, se posiciona como favorito para llevarse el título de campeón.\n• Los jugadores mantienen una excelente química en el campo de juego, destacando su unión.\n• Los seguidores del club se muestran optimistas respecto a las posibilidades de ganar.\n• Los datos de la liga reflejan el esfuerzo colectivo del equipo en cada partido.",
+      "bullets_20s": "• Barcelona logra una victoria crucial en su camino hacia el título de La Liga.\n• El triunfo se considera un gran paso en sus aspiraciones de campeonato.\n• Analistas destacan el desempeño del equipo en la reciente jornada.\n• La afición se muestra optimista ante la posibilidad de ganar el torneo.\n• Las estadísticas del equipo lo colocan en una posición favorable en la liga.",
       "source_name": "Esteban Valverde, AFP",
       "source_url": "https://www.nacion.com/puro-deporte/futbol/barcelona-esta-cada-vez-mas-cerca-del-cetro-de-la/O57UZHNBPJEENMNKPGCXL76POA/story/",
       "publish_date": "2026-05-02T23:13:26.000Z",
-      "teaser": "Lo clave en 20 segundos: Barcelona está cerca de conquistar La Liga tras una victoria decisiva.",
+      "teaser": "Lo clave en 20 segundos: Barcelona se acerca al título de La Liga tras una importante victoria.",
       "image_url": "https://www.nacion.com/resizer/v2/OF3QHCFMZ5B2HLMA3ODVZVT6G4.jpg?auth=c1681835bb065cfcc28223d9edf04f3bf92eecaa1fb93f11e7b9a30be808de4a&smart=true&width=1200&height=801",
       "description": "El Barcelona sumó un triunfo que lo deja con una mano sobre el campeonato de España.",
       "featured": false
@@ -119,13 +132,13 @@
     },
     {
       "slug": "los-inquietantes-vehiculos-abandonados-en-la-zona-muerta-de-chernobil",
-      "title": "Los inquietantes vehículos abandonados en la 'zona muerta' de Chernóbil",
+      "title": "Los inquietantes vehículos abandonados en la \"zona muerta\" de Chernóbil",
       "category": "Mundo",
-      "bullets_20s": "• Los vehículos en Chernóbil son un símbolo del desastre nuclear de 1986.\n• Aún se pueden ver coches abandonados en un estado de deterioro extremo.\n• La limpieza inicial utilizó una gran cantidad de maquinaria pesada y vehículos.\n• Estos vehículos son recordatorios del impacto de la radiación en el medio ambiente.\n• La zona de exclusión de Chernóbil atrae a turistas e investigadores por igual.",
+      "bullets_20s": "• Chernóbil, un lugar icónico conocido por el desastre nuclear de 1986, tiene una zona muerta.\n• La flota de vehículos utilizados en el desastre aún perdura en la zona de exclusión.\n• Estos vehículos fueron cruciales en la limpieza de residuos radiactivos tras la tragedia.\n• Las condiciones actuales en Chernóbil generan una atmósfera inquietante y nostálgica.\n• La historia de Chernóbil sigue fascinando a expertos en tecnología y medio ambiente.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c7754gm7yr6o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T21:21:51.000Z",
-      "teaser": "Lo clave en 20 segundos: los vehículos de Chernóbil, un recordatorio del desastre nuclear en la zona muerta.",
+      "teaser": "Lo clave en 20 segundos: La flota de vehículos de limpieza en Chernóbil continúa olvidada en la zona muerta.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8da5/live/123935b0-463b-11f1-aa14-ad910202f501.jpg",
       "description": "Hace 40 años se utilizó una enorme flota de vehículos para limpiar los residuos radiactivos del desastre de Chernóbil. Muchos de ellos siguen abandonados y oxidados dentro de la zona de exclusión.",
       "featured": false
@@ -626,13 +639,13 @@
     },
     {
       "slug": "el-misterio-que-rodea-la-llorona-uno-de-los-himnos-de-mexico-que-chavela-vargas-hizo-suyo",
-      "title": "El misterio que rodea \"La Llorona\", uno de los himnos de México que Chavela Vargas hizo suyo",
+      "title": "El misterio que rodea 'La Llorona', uno de los himnos de México que Chavela Vargas hizo suyo",
       "category": "Mundo",
-      "bullets_20s": "• La Llorona es una canción con una rica historia llena de misterio y significado profundo.\n• Chavela Vargas reinterpretó la canción, llevándola a nuevas alturas en la música latinoamericana.\n• Lila Downs y Ely Guerra también han hecho su propia versión, añadiendo su estilo único.\n• La canción está arraigada en la tradición y la cultura popular mexicana desde hace generaciones.\n• El tema de La Llorona toca fibras sensibles relacionadas con la pérdida y el amor.",
-      "source_name": "",
+      "bullets_20s": "• La Llorona es una canción tradicional que evoca profundas emociones en la cultura mexicana.\n• Chavela Vargas es conocida por su interpretación apasionada, que resuena con muchas generaciones.\n• Lila Downs y Ely Guerra han aportado su propio estilo a esta leyenda musical icónica.\n• La historia detrás de la canción incluye elementos de amor, pérdida y dolor humano.\n• Cada versión de La Llorona cuenta con un enfoque único y una narrativa personal.",
+      "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2lwqwvelvgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T11:24:12.000Z",
-      "teaser": "Lo clave en 20 segundos: La Llorona, un himno mexicano, revela historias de amor y pérdida a través de grandes artistas.",
+      "teaser": "Lo clave en 20 segundos: profundas raíces culturales y la evolución de 'La Llorona'.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e6b5/live/c46073e0-3ca2-11f1-8e26-931170ebc0de.png",
       "description": "Nos adentramos en la fascinante historia de “La Llorona” y en lo que esa canción representa para dos de las cantautoras más influyentes de México, Lila Downs y Ely Guerra.",
       "featured": false
@@ -654,13 +667,13 @@
       "slug": "los-dramas-familiares-que-se-esconden-detras-de-samsung-el-imperio-tecnologico-que-comenzo-como-una-tienda-de-comidas",
       "title": "Los dramas familiares que se esconden detrás de Samsung, el imperio tecnológico que comenzó como una tienda de comidas",
       "category": "Mundo",
-      "bullets_20s": "• Samsung inició su camino como una pequeña tienda de alimentos en Corea del Sur.\n• La empresa ha crecido enormemente hasta convertirse en un gigante tecnológico global.\n• Las rivalidades familiares han influido en las decisiones corporativas de Samsung.\n• Ambición y tradición han sido pilares fundamentales en su trayectoria empresarial.\n• El impacto de Samsung se extiende más allá de la tecnología hasta la economía surcoreana.",
+      "bullets_20s": "• Samsung comenzó como una tienda de comestibles en Corea del Sur en la década de 1930.\n• La familia Lee ha estado en el centro de las decisiones clave de la empresa desde sus inicios.\n• Las rivalidades internas han influido en la dirección estratégica de Samsung durante años.\n• La compañía ha crecido significativamente a través de inversiones en tecnología e innovación.\n• Samsung es un pilar fundamental de la economía surcoreana y del mercado global.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpqpz3lld27o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T10:43:42.000Z",
-      "teaser": "Lo clave en 20 segundos: Los dramas familiares y la ambición detrás del éxito de Samsung.",
+      "teaser": "Lo clave en 20 segundos: Los conflictos familiares detrás del gigante tecnológico Samsung.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/36dc/live/df9236d0-44ef-11f1-9cfb-6b89a04a51af.jpg",
-      "description": "Detrás del éxito de Samsung se esconde una dinastía impulsada por la ambición, la riqueza, la tradición y las rivalidades.",
+      "description": "Detrás del éxito de Samsung se esconde una dinastía impulsada por la ambición, la riqueza, la tradición y las rivalidades, que moldearon tanto a la empresa como a la economía de Corea del Sur.",
       "featured": false
     },
     {
@@ -680,11 +693,11 @@
       "slug": "por-que-la-sal-tiene-un-efecto-tan-poderoso-en-nuestro-cerebro",
       "title": "Por qué la sal tiene un efecto tan poderoso en nuestro cerebro",
       "category": "Ciencia",
-      "bullets_20s": "• La sal es un mineral esencial que regula varias funciones en el organismo humano.\n• Su uso en la cocina data de miles de años por su capacidad para realzar sabores.\n• Los estudios demuestran que la sal influye en el placer y la satisfacción al comer.\n• El consumo excesivo de sal puede tener consecuencias negativas en la salud.\n• La investigación sobre la sal en el cerebro abre nuevas puertas en la neurociencia.\n• Las culturas alrededor del mundo utilizan la sal como símbolo de preservación y poder.\n• El impacto de la sal en la memoria y el aprendizaje es un área de interés científico.\n• La sal puede afectar el comportamiento y las emociones de diversas maneras.",
+      "bullets_20s": "• La sal ha sido utilizada por milenios en la gastronomía de diversas culturas alrededor del mundo.\n• Su capacidad para mejorar el sabor de los alimentos hace que sea un ingrediente básico en la cocina.\n• La ciencia detrás de cómo la sal afecta nuestras papilas gustativas es fascinante y compleja.\n• Se ha demostrado que la sal puede influir en el estado de ánimo y el comportamiento humano.\n• Existen estudios que exploran los efectos neurológicos de la sal en el cerebro humano.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cgqp2n71ld4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T10:10:50.000Z",
-      "teaser": "Lo clave en 20 segundos: La sal beneficia nuestro cerebro, pero con precaución en su consumo.",
+      "teaser": "Lo clave en 20 segundos: Descubre el impacto de la sal en nuestro cerebro y su historia en la cocina.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/67a4/live/c320a710-43d8-11f1-a133-a9dbeae5d5f3.jpg",
       "description": "La sal se encuentra en casi todas las cocinas. Pero, ¿cómo este ingrediente aparentemente sencillo se convirtió en el potenciador de sabor favorito del mundo?",
       "featured": false
@@ -745,11 +758,11 @@
       "slug": "podemos-alcanzar-objetivos-a-2000-km-dentro-de-la-base-secreta-de-ucrania-que-lanza-drones-que-matan-a-miles-de-soldados",
       "title": "Podemos alcanzar objetivos a 2.000 km: dentro de la base secreta de Ucrania que lanza drones que matan a miles de soldados rusos cada mes",
       "category": "Mundo",
-      "bullets_20s": "• El comandante Brovdi revela que su unidad es clave en las operaciones con drones en Ucrania.\n• Se calcula que están logrando destruir miles de objetivos en el campo de batalla cada mes.\n• La base se mantiene en secreto para proteger las operaciones y personal involucrado.\n• Los drones son una herramienta crucial en las tácticas modernas de guerra en el conflicto.\n• Esta estrategia ha cambiado la dinámica del conflicto en el este de Europa notablemente.",
+      "bullets_20s": "• Los drones han transformado la guerra moderna, mostrando nuevas capacidades en el campo de batalla.\n• Ucrania ha desarrollado tecnologías avanzadas para mejorar la efectividad de sus operaciones militares.\n• La estrategia militar ha cambiado drásticamente gracias al uso de drones en operativos de combate.\n• Los soldados enfrentan riesgos complejos debido a la tecnología utilizada por las fuerzas ucranianas.\n• Este conflicto ha resaltado la importancia de la innovación tecnológica en la defensa nacional.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c7v93mz0p11o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T03:49:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Ucrania utiliza drones en operaciones secretas que cambian el curso de la guerra.",
+      "teaser": "Lo clave en 20 segundos: Ucrania utiliza drones avanzados para alcanzar objetivos lejanos y efectivos en el conflicto.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9638/live/a2f93d80-447d-11f1-88ff-575186ed76aa.jpg",
       "description": "En una inusual entrevista con la BBC, el comandante Robert Brovdi explicó que su unidad es responsable de un tercio de todos los objetivos destruidos en el campo de batalla.",
       "featured": false
@@ -2057,12 +2070,12 @@
     {
       "slug": "pe-ai-19-aseguramiento-de-la-calidad",
       "title": "PE-AI-19 Aseguramiento de la calidad",
-      "category": "Tecnología",
-      "bullets_20s": "• El manual PE-AI-19 se centra en el aseguramiento de la calidad en procesos educativos.\n• Los procedimientos establecidos garantizan la mejora continua en la enseñanza.\n• Se busca la eficacia y eficiencia en todos los niveles educativos.\n• La calidad educativa es crucial para el desarrollo social y económico.\n• La implementación de este manual favorecerá a la comunidad estudiantil.\n• El seguimiento y evaluación son pasos clave en el proceso de calidad.\n• Involucra a todos los actores del ámbito educativo en su ejecución.\n• Promueve una cultura de calidad en la institución educativa.\n• La última modificación se realizó en abril de 2026, actualizando lineamientos.\n• Este tipo de manuales son fundamentales para la educación superior.",
+      "category": "Ciencia",
+      "bullets_20s": "• El aseguramiento de la calidad es fundamental en los procesos educativos y tecnológicos.\n• Manuales y procedimientos son vitales para asegurar estándares en las organizaciones.\n• La última modificación del documento se realizó en abril de 2026.\n• El seguimiento de la calidad permite la mejora continua en todos los ámbitos.\n• Es crucial contar con protocolos claros para la evaluación y mejora de proyectos.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ai-19-aseguramiento-calidad",
       "publish_date": "2026-04-30T15:55:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Aseguramiento de la calidad en procesos educativos es esencial.",
+      "teaser": "Lo clave en 20 segundos: el aseguramiento de la calidad es esencial para la mejora continua.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -2682,11 +2695,11 @@
       "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
       "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica otorgó 23.323 becas en 2025, beneficiando a miles de estudiantes.\n• Las becas socioeconómicas duplicaron su monto con aumentos que se implementaron a lo largo del año.\n• El TEC se centró en garantizar la equidad y permanencia en la educación superior para todos.\n• La rectora informó sobre decisiones que vinculan el sistema de apoyos con las necesidades del país.\n• Se firmó un acuerdo para destinar un porcentaje del presupuesto a becas y apoyos estudiantiles.",
+      "bullets_20s": "• El TEC duplicó montos de becas en 2025, apoyando a muchos estudiantes vulnerables en su educación.\n• Más de 23 mil becas fueron otorgadas, beneficiando a 15 mil personas en el ámbito educativo.\n• Se implementaron 179 actividades para mejorar la retención estudiantil y reducir deserción en el TEC.\n• El informe destaca el liderazgo femenino en la presidencia del CONARE, después de un largo tiempo.\n• Las negociaciones del FEES 2026 se centra en un aumento del 0,5% para becas y apoyos estudiantiles.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
       "publish_date": "2026-04-29T17:20:04.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC duplicó becas y benefició a más de 15 mil estudiantes en 2025.",
+      "teaser": "Lo clave en 20 segundos: TEC otorgó más de 23 mil becas en 2025, beneficiando a estudiantes en condiciones vulnerables.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
       "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "featured": false
@@ -8282,5 +8295,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-02T23:45:30.097Z"
+  "generated_at": "2026-05-03T00:45:30.213Z"
 }
