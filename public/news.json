@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "slug": "infarto-a-los-33-anos-pense-que-era-un-ataque-de-ansiedad",
+      "title": "Infarto a los 33 años: ‘Pensé que era un ataque de ansiedad’",
+      "category": "Ciencia",
+      "bullets_20s": "• Una joven gerente experimentó un infarto a una edad inusual para estos casos médicos.\n• El episodio comenzó con síntomas confusos que fueron malinterpretados como un ataque de ansiedad.\n• La historia se centra en cómo el miedo impactó su vida personal y laboral.\n• Se abordan los tratamientos médicos y la importancia de la prevención de infartos.\n• El relato inspira a reevaluar la salud y los signos de alerta en jóvenes.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/salud/infarto-a-los-33-anos-pense-que-era-un-ataque-de/NVKFREEGR5CW3KNZ3ROJZM5BMY/story/",
+      "publish_date": "2026-05-03T15:20:00.000Z",
+      "teaser": "Lo clave en 20 segundos: una joven enfrenta un infarto a los 33 años, confundiendo los síntomas con ansiedad.",
+      "image_url": "https://www.nacion.com/resizer/v2/TB5X2TRCQNH7TKRZ55DBKZJ36A.png?auth=d3f2f2ed9a6bc8250f8d0ad596e107b1b1e4f9de3c688637b149030c71a973e9&smart=true&width=1920&height=1080",
+      "description": "Una joven gerente sufrió un infarto con solo 33 años. La historia revela síntomas, tratamiento, causas y cómo el miedo cambió su vida.",
+      "featured": false
+    },
+    {
+      "slug": "menor-de-17-anos-y-joven-de-19-anos-detenidos-por-homicidio-a-balazos-llegaron-heridos-a-hospital",
+      "title": "Menor de 17 años y joven de 19 años detenidos por homicidio a balazos; llegaron heridos a hospital",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las autoridades informaron sobre la detención de dos jóvenes involucrados en un homicidio reciente.\n• El incidente ocurrió en Jacó y ha generado preocupación en la comunidad local.\n• Ambos jóvenes llegaron heridos al hospital antes de ser detenidos por la policía.\n• La investigación continúa para esclarecer los detalles del crimen y su motivación.\n• Se espera que el caso tenga repercusiones legales importantes para los detenidos.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/menor-de-17-anos-y-joven-de-19-anos-detenidos-por/O6NQB2TMFJHOLGGK7D3SKXA3XU/story/",
+      "publish_date": "2026-05-03T15:15:47.000Z",
+      "teaser": "Lo clave en 20 segundos: Detienen a dos jóvenes por homicidio en Jacó, preocupante suceso para la comunidad.",
+      "image_url": "https://www.nacion.com/resizer/v2/QUUBGO4MV5FEFABKDN7DLN3WE4.jpg?auth=cfb738dc3a9ce2a4af01773fd664e3504e8acab137e7021bc85592ca8b7e4bdf&smart=true&width=6000&height=4000",
+      "description": "Un menor de 17 años y otro de 19 años fueron detenidos como sospechosos de un homicidio en Jacó.",
+      "featured": false
+    },
+    {
+      "slug": "la-vida-de-nicolas-maduro-en-la-carcel-lee-la-biblia-de-forma-obsesiva-y-pregunta-por-el-futbol",
+      "title": "La vida de Nicolás Maduro en la cárcel: lee la Biblia de forma ‘obsesiva’ y pregunta por el fútbol",
+      "category": "Mundo",
+      "bullets_20s": "• Las últimas horas de Maduro en el poder fueron tensas y marcadas por decisiones complejas en el gobierno.\n• Su hijo, Nicolás Maduro Guerra, relata la vida actual de su padre tras las rejas, revelando detalles íntimos.\n• Maduro se ha vuelto un lector ávido de la Biblia, buscando respuestas a su situación actual en prisión.\n• El ex presidente pregunta repetidamente sobre el fútbol, una de sus pasiones desde joven y parte de su identidad.\n• La vida en la cárcel ha cambiado radicalmente su forma de ver el mundo y su relación con la familia.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/la-vida-de-nicolas-maduro-en-la-carcel-lee-la/3KOQZGU6BJHRNLFHET77DWCJTQ/story/",
+      "publish_date": "2026-05-03T15:06:59.000Z",
+      "teaser": "Lo clave en 20 segundos: La vida de Maduro en prisión; sus lecturas y recuerdos del fútbol.",
+      "image_url": "https://www.nacion.com/resizer/v2/Q3HWVDENQFAJLGCGGTUAFPDBBU.jpg?auth=56fe4c7633f785a6fed154086e72d6583f5a0fb753444f1c16cadac431cca9de&smart=true&width=8256&height=5504",
+      "description": "Nicolás Maduro Guerra, su hijo, confiesa cómo fueron las últimas horas de su padre en el poder.",
+      "featured": false
+    },
+    {
+      "slug": "revelamos-5-secretos-de-la-isla-del-coco-conocia-alguno",
+      "title": "Revelamos 5 secretos de la isla del Coco. ¿Conocía alguno?",
+      "category": "Costa Rica",
+      "bullets_20s": "• La isla del Coco es un lugar lleno de leyendas y misterios, atrayendo la curiosidad de muchos exploradores.\n• Investigaciones recientes han puesto de manifiesto su rico patrimonio arqueológico, oculto por mucho tiempo.\n• Su biodiversidad es impresionante, siendo un refugio para diversas especies de fauna y flora únicas.\n• Este lugar ha sido declarado Patrimonio de la Humanidad por la UNESCO, resguardando su ecología excepcional.\n• Conocer estos secretos puede cambiar la perspectiva sobre la importancia de conservar la isla.",
+      "source_name": "Sofía  Sánchez Ramírez",
+      "source_url": "https://www.nacion.com/revista-dominical/revelamos-5-secretos-de-la-isla-del-coco-conocia/6C7DFRYBX5AVXMOGLHSH2LBEJQ/story/",
+      "publish_date": "2026-05-03T15:01:00.000Z",
+      "teaser": "Lo clave en 20 segundos: secretos y misterios de la isla del Coco desvelados en una investigación reciente.",
+      "image_url": "https://www.nacion.com/resizer/v2/AMZVMX2I4VF5NDDK2URRQ3GZTU.jpg?auth=15bd9c9b528d7789ce9db0c1b34229ed5f1799b4e45a94e900307b98a32c2cbe&smart=true&width=5472&height=3648",
+      "description": "Una investigación en la isla del Coco, objeto de misterios y leyendas por siglos, revela un patrimonio arqueológico que permaneció desatendido frente a su riqueza natural.",
+      "featured": false
+    },
+    {
+      "slug": "de-quien-es-el-mar-en-tamarindo",
+      "title": "¿De quién es el mar en Tamarindo?",
+      "category": "Costa Rica",
+      "bullets_20s": "• La discusión sobre la propiedad del mar en Tamarindo es un tema muy debatido en el país.\n• El crecimiento turístico en la zona ha generado conflictos entre distintos intereses locales.\n• Se plantea que el acceso y uso del mar debe ser para todos y no solo para unos pocos.\n• El tema está relacionado con la sostenibilidad y conservación de los recursos naturales.\n• La comunidad local juega un papel crucial en la defensa de sus derechos territoriales.\n• Existen diversas opiniones sobre la forma de manejar los recursos marítimos en la región.\n• Es fundamental generar un diálogo inclusivo que respete las voces afectadas por estas decisiones.",
+      "source_name": "Nayeli Zúñiga Zúñiga",
+      "source_url": "https://www.nacion.com/opinion/foros/de-quien-es-el-mar-en-tamarindo/CZJAU4J4QVB3TCBA4G2H6NY3MM/story/",
+      "publish_date": "2026-05-03T15:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Debate sobre la propiedad del mar en Tamarindo y el acceso local.",
+      "image_url": "https://www.nacion.com/resizer/v2/W4JSRKIRZRHXDABXUP7KRUUGEU.jpg?auth=50788674625cbd92bbec18449e6d18fe9794a91b38c9102ff551965a01106fd9&smart=true&width=3000&height=2000",
+      "description": "El territorio en playa Tamarindo no puede seguir tratándose como una mercancía al servicio de los más poderosos",
+      "featured": false
+    },
+    {
       "slug": "sin-cuorum-sin-justicia-y-sin-verguenza",
       "title": "Sin cuórum, sin justicia y sin vergüenza",
       "category": "Costa Rica",
@@ -63,6 +128,19 @@
       "teaser": "Lo clave en 20 segundos: Gobernador de Sinaloa se ausenta mientras lo investigan por posibles vínculos con criminales.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/13ce/live/c2e38050-46f4-11f1-9217-a5b6a670d3f7.jpg",
       "description": "Con su “licencia”, el gobernador perdió la inmunidad y, por lo tanto, puede ser detenido como cualquier ciudadano. Sin embargo, la Fiscalía mexicana no ha dado señales de que tenga previsto tomar una medida de ese tipo por ahora.",
+      "featured": false
+    },
+    {
+      "slug": "el-polemico-legado-de-craig-venter-el-cientifico-que-ayudo-a-descifrar-el-genoma-humano",
+      "title": "El polémico legado de Craig Venter, el científico que ayudó a descifrar el genoma humano",
+      "category": "Ciencia",
+      "bullets_20s": "• Craig Venter fue un pionero en la secuenciación del genoma humano y sus implicaciones.\n• Su trabajo generó controversia por la rapidez y competitividad en la investigación genética.\n• Venter fundó la empresa Celera Genomics en el siglo XXI para acelerar los descubrimientos.\n• El legado de Venter se analiza desde la ética en la ciencia y la biotecnología.\n• Su impacto en la medicina personalizada sigue siendo relevante en la actualidad.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cze23nj9pl5o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-03T13:36:39.000Z",
+      "teaser": "Lo clave en 20 segundos: el legado de Craig Venter transformó la ciencia genética, despertando polémica y admiración.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/553b/live/7076ef30-4557-11f1-9a22-0d95a530f5f0.jpg",
+      "description": "Analizamos el legado de Craig Venter, el científico fallecido este miércoles que trajo velocidad, competitividad y polémica a una de las ramas más importantes de la ciencia.",
       "featured": false
     },
     {
@@ -186,11 +264,11 @@
       "slug": "6-antiguas-tecnologias-que-desconcertaron-a-la-ciencia-moderna-y-aun-son-dificiles-de-replicar",
       "title": "6 antiguas tecnologías que desconcertaron a la ciencia moderna (y aún son difíciles de replicar)",
       "category": "Ciencia",
-      "bullets_20s": "• Las culturas antiguas sorprendieron con innovaciones tecnológicas impensables en su tiempo.\n• El estudio de sus técnicas desafía nuestra comprensión moderna de la ciencia.\n• Algunas de estas tecnologías siguen siendo un misterio para los investigadores actuales.\n• Los métodos de construcción utilizados son admirados y estudiados hoy en día.\n• Las civilizaciones prehispánicas crearon herramientas sin la tecnología moderna que conocemos.\n• Las pinturas y esculturas de antaño revelan un conocimiento avanzado en la materia.\n• Sus logros escultóricos aún son difíciles de replicar con la tecnología actual.\n• Cada descubrimiento nos invita a reflexionar sobre la historia y el ingenio humano.\n• La admiración por estas culturas antiguas crece gracias a nuevos hallazgos arqueológicos.",
+      "bullets_20s": "• Las tecnologías antiguas de civilizaciones como la romana y la inca asombran a la ciencia actual.\n• Muchas de estas técnicas se perdieron con el tiempo y aún son un misterio para los científicos.\n• Los antiguos lograron construcciones complejas sin herramientas avanzadas, sorprendiendo a los académicos actuales.\n• El uso de materiales locales en técnicas fue esencial para los logros de estas civilizaciones.\n• Algunas de estas tecnologías se estudiaron con microscopios y no fueron entendidas completamente.\n• Los saberes tradicionales de los antiguos muestran una profunda comprensión de su entorno y materiales.\n• Las antiguas civilizaciones desarrollaron formas de trabajo en equipo muy eficientes para sus proyectos.\n• Hoy se estudian estas tecnologías para inspirar innovaciones en sostenibilidad y construcción moderna.\n• El legado tecnológico de culturas pasadas invita a la reflexión sobre nuestra propia tecnología actual.\n• Algunos de estos descubrimientos están siendo replicados con tecnología moderna, aunque con dificultad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c624n4e6q14o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T10:43:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Las antiguas tecnologías sorprendieron a la ciencia moderna por su ingenio y complejidad.",
+      "teaser": "Lo clave en 20 segundos: antiguas tecnologías sorprendentes que aún desconciertan a los científicos modernos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d861/live/88b51ad0-378e-11f1-9d5c-8ba507d7dbde.jpg",
       "description": "Durante siglos no se supo explicar lo que artesanos romanos, incas, etruscos y mayas lograron sin microscopios ni espectrómetros. Entenderlo los hizo aún más admirables.",
       "featured": false
@@ -199,11 +277,11 @@
       "slug": "la-extraordinaria-historia-de-hercules-el-oso-al-que-una-pareja-adopto-y-crio-como-parte-de-su-familia",
       "title": "La extraordinaria historia de Hércules, el oso al que una pareja adoptó y crio como parte de su familia",
       "category": "Mundo",
-      "bullets_20s": "• La historia de Hércules resalta la conexión única entre humanos y animales.\n• Maggie y Andy Robin adoptaron a Hércules cuando era solo un cachorro.\n• El oso ha vivido diversas experiencias que forjaron la relación familiar.\n• La crianza de un oso conlleva retos y aprendizajes notables para la pareja.\n• La relación de Hércules con sus dueños evoluciona a lo largo de los años.",
+      "bullets_20s": "• La historia de Hércules destaca la conexión entre animales y humanos en la vida cotidiana.\n• Maggie y Andy Robin adoptaron a Hércules, un oso atrapado en un mundo diferente.\n• La vida de Hércules se convirtió en un ejemplo de amor y cuidado inesperado.\n• Los osos pueden establecer vínculos significativos con los humanos en circunstancias inusuales.\n• Relatos como el de Hércules desafían la percepción común de los animales salvajes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g4ke6z1zro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T10:16:44.000Z",
-      "teaser": "Lo clave en 20 segundos: La conmovedora historia de un oso adoptado por una pareja.",
+      "teaser": "Lo clave en 20 segundos: un oso adoptado que desafía la percepción del vínculo humano-animal.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e2d0/live/853839b0-1e1f-11f1-bd56-df0cd723329e.jpg",
       "description": "Hércules llegó a la vida de Maggie y Andy Robin cuando era un cachorro de nueve meses. Durante los años que vivieron juntos desarrollaron una relación única. Te contamos su historia.",
       "featured": false
@@ -212,11 +290,11 @@
       "slug": "vestida-para-gobernar-que-muestran-la-ropa-y-el-peinado-de-la-hija-de-kim-jong-un-sobre-como-la-preparan-para-reemplazar",
       "title": "Vestida para gobernar: qué muestran la ropa y el peinado de la hija de Kim Jong-un sobre cómo la preparan para reemplazar al líder de Corea del Norte",
       "category": "Mundo",
-      "bullets_20s": "• La ropa de Kim Ju Ae refleja una preparación para un posible liderazgo en el futuro.\n• Marcas de lujo occidentales son simbólicas en el contexto político de Corea del Norte.\n• Expertos analizan el significado de su estilo en actos públicos recientes.\n• La apariencia puede ser un indicativo de los cambios en Corea del Norte.\n• Los actos de Kim Ju Ae han atraído la atención internacional por sus implicaciones políticas.",
+      "bullets_20s": "• La hija de Kim Jong-un, Kim Ju Ae, se muestra en eventos oficiales más frecuentemente.\n• Su elección de ropa incluye marcas occidentales, controversiales en Corea del Norte.\n• Expertos sugieren que esta preparación no es casualidad, sino estrategia política.\n• La apariencia de Kim Ju Ae podría indicar un futuro en el liderazgo norcoreano.\n• Ropa lujosa en un país con restricciones refleja un cambio en las dinámicas de poder.",
       "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/ce9pzv54n4po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T04:03:28.000Z",
-      "teaser": "Lo clave en 20 segundos: la hija de Kim Jong-un, Kim Ju Ae, se prepara para el liderazgo con símbolos de poder.",
+      "teaser": "Lo clave en 20 segundos: La hija de Kim Jong-un se prepara para el liderazgo con decisiones de moda controvertidas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/edaa/live/96003d80-4249-11f1-ac78-2112837ce2aa.jpg",
       "description": "Kim Ju Ae aparece cada vez con más frecuencia en actos públicos, donde luce marcas de lujo occidentales prohibidas en Corea del Norte por considerarse reaccionarias y antisocialistas. Pero los expertos en el hermético país aseguran que esto no se trata de un gesto de rebeldía adolescente.",
       "featured": false
@@ -420,11 +498,11 @@
       "slug": "los-inquietantes-vehiculos-abandonados-en-la-zona-muerta-de-chernobil",
       "title": "Los inquietantes vehículos abandonados en la \"zona muerta\" de Chernóbil",
       "category": "Mundo",
-      "bullets_20s": "• Los vehículos se usaron en la limpieza del desastre de Chernóbil hace cuatro décadas.\n• Aún permanecen en la zona de exclusión, mostrando el paso del tiempo y la descomposición.\n• La flota incluye una variedad de modelos que fueron esenciales durante la crisis.\n• La oxidación y el desgaste han cubierto estos vehículos en un manto de historia.\n• Estos vehículos son un recordatorio de los peligros de la radiación y su legado.",
+      "bullets_20s": "• Los vehículos fueron usados para limpiar la radiactividad después del desastre de Chernóbil en 1986.\n• Se encuentran en un estado de abandono y oxidación dentro de la zona de exclusión.\n• Se estima que muchos de esos vehículos son un recordatorio de los horrores de la radiación.\n• La zona muerta sigue siendo un lugar de estudio para científicos interesados en radiación.\n• El impacto ambiental del desastre de Chernóbil sigue siendo objeto de investigaciones actuales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c7754gm7yr6o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-02T21:21:51.000Z",
-      "teaser": "Lo clave en 20 segundos: un vistazo a los vehículos olvidados en Chernóbil y su historia.",
+      "teaser": "Lo clave en 20 segundos: vehículos de la limpieza del desastre de Chernóbil permanecen abandonados y oxidados.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8da5/live/123935b0-463b-11f1-aa14-ad910202f501.jpg",
       "description": "Hace 40 años se utilizó una enorme flota de vehículos para limpiar los residuos radiactivos del desastre de Chernóbil. Muchos de ellos siguen abandonados y oxidados dentro de la zona de exclusión.",
       "featured": false
@@ -1496,19 +1574,6 @@
       "featured": false
     },
     {
-      "slug": "infarto-a-los-33-anos-pense-que-era-un-ataque-de-ansiedad",
-      "title": "Infarto a los 33 años: ‘Pensé que era un ataque de ansiedad’",
-      "category": "Ciencia",
-      "bullets_20s": "• Una joven de 33 años sufrió un infarto y confundió los síntomas con ansiedad.\n• Los infartos en personas jóvenes son menos comunes, pero pueden ocurrir.\n• Es fundamental reconocer los síntomas para recibir atención médica a tiempo.\n• La historia de esta joven puede ayudar a otros a entender mejor sus síntomas.\n• El tratamiento y seguimiento médico son cruciales tras un infarto.\n• La experiencia también aborda los miedos y cambios en la vida tras el evento.\n• Educación sobre salud cardiovascular es esencial para la prevención.\n• El estrés puede influir en la salud del corazón de personas jóvenes.",
-      "source_name": "O Globo",
-      "source_url": "https://www.nacion.com/ciencia/salud/infarto-a-los-33-anos-pense-que-era-un-ataque-de/NVKFREEGR5CW3KNZ3ROJZM5BMY/story/",
-      "publish_date": "2026-05-01T15:20:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Una joven gerente vivió un infarto a los 33 años, confundiendo síntomas con ansiedad.",
-      "image_url": "https://www.nacion.com/resizer/v2/TB5X2TRCQNH7TKRZ55DBKZJ36A.png?auth=d3f2f2ed9a6bc8250f8d0ad596e107b1b1e4f9de3c688637b149030c71a973e9&smart=true&width=1920&height=1080",
-      "description": "Una joven gerente sufrió un infarto con solo 33 años. La historia revela síntomas, tratamiento, causas y cómo el miedo cambió su vida.",
-      "featured": false
-    },
-    {
       "slug": "petroleo-de-estados-unidos-cae-cerca-de-5-tras-propuesta-de-iran-para-retomar-dialogo",
       "title": "Petróleo de Estados Unidos cae cerca de 5% tras propuesta de Irán para retomar diálogo",
       "category": "Mundo",
@@ -2356,12 +2421,12 @@
     {
       "slug": "pe-ai-19-aseguramiento-de-la-calidad",
       "title": "PE-AI-19 Aseguramiento de la calidad",
-      "category": "Ciencia",
-      "bullets_20s": "• El documento PE-AI-19 se centra en el aseguramiento de la calidad en procesos educativos.\n• Incluye manuales y procedimientos específicos para la implementación de estándares.\n• La última modificación data de abril de 2026, refleja actualizaciones recientes.\n• El objetivo principal es mejorar la efectividad de los procesos de enseñanza.\n• Proporciona directrices claras para docentes y administradores educativos.",
+      "category": "Tecnología",
+      "bullets_20s": "• El PE-AI-19 aborda las mejores prácticas en aseguramiento de la calidad.\n• Manuales y procedimientos son esenciales para mantener estándares efectivas.\n• La calidad en proyectos tecnológicos afecta directamente la satisfacción del cliente.\n• Actualizaciones periódicas garantizan la relevancia de los procedimientos de calidad.\n• Incorporar revisiones periódicas fortalece la estrategia de aseguramiento de calidad.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ai-19-aseguramiento-calidad",
       "publish_date": "2026-04-30T15:55:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Estrategias para el aseguramiento de la calidad educativa.",
+      "teaser": "Lo clave en 20 segundos: Estrategias para mejorar la calidad en proyectos tecnológicos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -2981,11 +3046,11 @@
       "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
       "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC duplicó los montos de las becas socioeconómicas en 2025, mejorando el apoyo estudiantil.\n• Se otorgaron más de 23.000 becas, beneficiando a más de 15.000 estudiantes de grado.\n• El apoyo se centra en la equidad y permanencia de estudiantes en situación vulnerable.\n• El presupuesto destinado a becas aumentó significativamente, favoreciendo más estudiantes.\n• Las estrategias de permanencia y retención se han intensificado en el Tecnológico.\n• Se realizaron 179 actividades para reducir la deserción y mejorar la graduación.\n• El informe destaca también el liderazgo femenino al frente de la educación superior.\n• Las negociaciones por el FEES 2026 garantizan mayor apoyo para la educación superior.\n• Las iniciativas de investigación y extensión impactan a comunidades vulnerables en el país.\n• El TEC se posiciona en rankings internacionales como una de las mejores universidades.",
+      "bullets_20s": "• El TEC otorgó más de 23 mil becas para estudiantes de grado durante el 2025 en Costa Rica.\n• Se duplicaron los montos de las becas socioeconómicas, ayudando a estudiantes vulnerables.\n• El 65% de graduados en 2024 utilizó algún tipo de beca para costear sus estudios.\n• La rectoría implementó estrategias para reducir la deserción y la repitencia en 2025.\n• Se promovieron 67 proyectos de extensión para comunidades vulnerables en todo el país.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
       "publish_date": "2026-04-29T17:20:04.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC duplicó becas en 2025, beneficiando a más de 15 mil estudiantes.",
+      "teaser": "Lo clave en 20 segundos: El TEC benefició a más de 15 mil estudiantes con becas en 2025.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
       "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "featured": false
@@ -8594,5 +8659,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-03T14:45:29.964Z"
+  "generated_at": "2026-05-03T15:45:29.853Z"
 }
