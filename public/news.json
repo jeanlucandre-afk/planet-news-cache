@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "ccss-propone-20-reformas-al-ivm-para-fortalecer-pensiones-en-costa-rica",
+      "title": "CCSS propone 20 reformas al IVM para fortalecer pensiones en Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• La CCSS busca reformas para mejorar la sostenibilidad del sistema de pensiones en el país.\n• Se presentaron 20 propuestas que impactarán directamente a los actuales pensionados y a futuros beneficiarios.\n• El gerente de Pensiones, Jaime Barrantes, explicó decididamente cada una de las reformas propuestas.\n• La reunión tuvo como objetivo informar a la población sobre los cambios necesarios en el IVM.\n• Se espera que estas reformas generen un debate amplio sobre el futuro del sistema de pensiones.",
+      "source_name": "Arianna  Villalobos Solís",
+      "source_url": "https://www.nacion.com/economia/ccss-presenta-20-propuestas-para-reformar-el-ivm/P7SHGQF3JRBVFKGWETFQJLRZ6U/story/",
+      "publish_date": "2026-05-04T20:24:41.000Z",
+      "teaser": "Lo clave en 20 segundos: CCSS propone reformas al IVM para fortalecer pensiones en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/RRFXVX7GJZD2DAMJAHPVJSIIA4.JPG?auth=ad8fbdeb8c78f074d4df5baabc4b569d9cc57b6b7e22901872a9e06e964bc832&smart=true&width=4000&height=2667",
+      "description": "El gerente de Pensiones, Jaime Barrantes, expuso 20 propuestas base para reformar y fortalecer el IVM. Vea cuáles son y cómo afectan a los actuales y futuros pensionados.",
+      "featured": false
+    },
+    {
+      "slug": "casos-de-meningitis-bajan-un-55-en-el-pais-menores-de-un-ano-son-el-grupo-mas-afectado",
+      "title": "Casos de meningitis bajan un 5,5% en el país: menores de un año son el grupo más afectado",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los casos de meningitis han mostrado una baja del 5.5% en el país este año.\n• Los bebés menores de un año son el grupo más afectado por la meningitis.\n• La cifra de casos sospechosos asciende a 51 en lo que va de 2026.\n• Las autoridades de salud instan a la población a conocer los síntomas de esta enfermedad.\n• Se han identificado zonas con mayores reportes de meningitis en el país.\n• La meningitis puede tener consecuencias graves si no se trata a tiempo.\n• La prevención y la vigilancia son cruciales para combatir este tipo de infecciones.\n• Se recomienda a los cuidadores estar atentos a cualquier signo de alerta en los bebés.\n• La educación sobre meningitis es esencial para reducir los casos en la población.\n• Se espera que las campañas de vacunación ayuden a disminuir estas cifras.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/ciencia/salud/casos-de-meningitis-bajan-un-55-en-el-pais-menores/7HLOQTWPFBG6VLBO2XDA6AQXJU/story/",
+      "publish_date": "2026-05-04T20:22:14.000Z",
+      "teaser": "Lo clave en 20 segundos: los casos de meningitis han bajado, pero los bebés son los más vulnerables.",
+      "image_url": "https://www.nacion.com/resizer/v2/SOG3PHQLQRGLTJIWWYPDA22G2U.png?auth=66c72ba1e478b8b351fb477b4e9286c61c5bd25a5ac859f8629801192341030e&smart=true&width=1920&height=1080",
+      "description": "Salud reporta 51 casos sospechosos de meningitis en Costa Rica durante 2026. Aunque las alertas bajaron un 5,5%, los bebés menores de un año son los más afectados. Conozca los síntomas y las zonas con más reportes en el país.",
+      "featured": false
+    },
+    {
+      "slug": "uscis-pausa-decisiones-migratorias-y-genera-incertidumbre-en-tramites-clave-como-green-card-y-permisos-temporales",
+      "title": "Uscis pausa decisiones migratorias y genera incertidumbre en trámites clave como green card y permisos temporales",
+      "category": "Mundo",
+      "bullets_20s": "• Los nuevos controles del Uscis están generando incertidumbre en los migrantes que esperan resoluciones.\n• Los trámites como la green card están siendo afectados por esta pausa en las decisiones migratorias.\n• Los solicitantes de permisos temporales sienten la presión de este cambio en la administración de Uscis.\n• Se prevé que esta situación cause retrasos significativos en los procesos migratorios actuales y futuros.\n• La medida ha suscitado preocupaciones sobre el destino de miles de solicitudes de migración en curso.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/el-mundo/uscis-pausa-decisiones-migratorias-y-genera/6NSGVVW5CFBCNAY6UECQAQF2KQ/story/",
+      "publish_date": "2026-05-04T20:00:45.000Z",
+      "teaser": "Lo clave en 20 segundos: Uscis introduce pausas en decisiones migratorias, impactando trámites importantes.",
+      "image_url": "https://www.nacion.com/resizer/v2/XNFGALMGANCRROGHJEYMYLI7KM.png?auth=2d0ad7067347d1aabac3f42786c8975f1ffeb89ee1575666e25e301e29279801&smart=true&width=1680&height=945",
+      "description": "Nuevos controles del Uscis provocan retrasos en trámites migratorios clave. Conozca a quiénes afecta la medida, qué procesos siguen activos y por qué crece la incertidumbre entre solicitantes.",
+      "featured": false
+    },
+    {
       "slug": "rusia-declara-tregua-de-dos-dias-y-amenaza-con-ataque-masivo-si-ucrania-la-rompe",
       "title": "Rusia declara tregua de dos días y amenaza con ‘ataque masivo’ si Ucrania la rompe",
       "category": "Mundo",
@@ -173,11 +212,11 @@
       "slug": "candidaturas-al-consejo-institucional-quedan-oficializadas",
       "title": "Candidaturas al Consejo Institucional quedan oficializadas",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tribunal Institucional Electoral entregó credenciales a los postulados al Consejo Institucional del TEC.\n• Se elegirán tres representantes del sector docente y uno del sector administrativo.\n• Las elecciones se llevarán a cabo el 28 de mayo mediante votación electrónica.\n• El período de campaña comenzó el 30 de abril y concluirá el 27 de mayo.\n• Los candidatos presentaron los colores que utilizarán durante su campaña electoral.",
+      "bullets_20s": "• Se oficializan las candidaturas al Consejo Institucional del TEC, vital para la comunidad educativa.\n• Cinco candidatos se postulan para representar distintos sectores del Instituto Tecnológico.\n• Las elecciones se realizarán el 28 de mayo mediante votación electrónica accesible a todos.\n• El Tribunal Institucional Electoral promueve la transparencia y la participación en las elecciones.\n• La campaña comenzó el 30 de abril, con eventos en todos los campus académicos del TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/candidaturas-consejo-institucional-quedan-oficializadas-0",
       "publish_date": "2026-05-04T17:08:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Se oficializan las candidaturas para el Consejo Institucional del TEC.",
+      "teaser": "Lo clave en 20 segundos: Se oficializan candidaturas al Consejo Institucional del TEC, elecciones se llevarán a cabo pronto.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/entrega-credenciales-eleccion-miembros-consejo-institucional-mayo-2026_rgarita-1.jpg",
       "description": "Candidaturas al Consejo Institucional quedan oficializadas",
       "featured": false
@@ -210,13 +249,13 @@
     },
     {
       "slug": "pe-dar-13-publicacion-de-edicto-para-el-tramite-de-reconocimiento-y-equiparacion-de-grados-y-titulos",
-      "title": "PE-DAR-13  Publicación de edicto para el trámite de Reconocimiento y Equiparación de Grados y Títulos",
+      "title": "PE-DAR-13 Publicación de edicto para el trámite de Reconocimiento y Equiparación de Grados y Títulos",
       "category": "Costa Rica",
-      "bullets_20s": "• Se publica un edicto para el reconocimiento de grados y títulos en Costa Rica.\n• El trámite es esencial para la validación de títulos académicos en el país.\n• Los detalles del horario y procedimientos se especificarán en el edicto.\n• Es importante estar atento a las fechas y requisitos del proceso.\n• La modificación de mayo refleja actualizaciones en la normativa vigente.",
+      "bullets_20s": "• El edicto busca facilitar el reconocimiento de grados y títulos en el país.\n• Se brinda información sobre los procedimientos necesarios para el trámite.\n• Los interesados deben cumplir con ciertos requisitos establecidos oficialmente.\n• El reconocimiento es crucial para la validación de estudios a nivel nacional.\n• Se espera que el proceso sea ágil y eficiente para los solicitantes.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-dar-13-publicacion-edicto-tramite-reconocimiento-equiparacion-grados-titulos",
       "publish_date": "2026-05-04T16:10:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Publicado edicto para reconocimiento de grados y títulos en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Edicto sobre Reconocimiento y Equiparación de Grados.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -236,13 +275,13 @@
     },
     {
       "slug": "pe-dar-12-recepcion-de-expediente-de-reconocimiento-y-equiparacion-de-grados-y-titulos",
-      "title": "PE-DAR-12 Recepción de expediente de Reconocimiento y Equiparación de Grados y Títulos",
+      "title": "PE-DAR-12  Recepción de expediente de Reconocimiento y Equiparación de Grados y Títulos",
       "category": "Costa Rica",
-      "bullets_20s": "• Se presenta el manual PE-DAR-12 para la recepción de expedientes académicos.\n• Este procedimiento es clave para el reconocimiento de grados y títulos en el país.\n• Los expedientes incluyen documentación necesaria para la evaluación de títulos.\n• Es importante seguir los lineamientos establecidos en el manual para la correcta recepción.\n• La fecha de última modificación del documento es mayo de 2026.",
+      "bullets_20s": "• La recepción del expediente es vital para el reconocimiento de grados y títulos académicos.\n• Este proceso busca garantizar la validez de la formación del personal académico.\n• Los estudiantes deben cumplir con ciertos requisitos para la presentación del expediente.\n• La modificación más reciente de este procedimiento se realizó en mayo de 2026.\n• El seguimiento adecuado del expediente puede facilitar futuras gestiones académicas.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-dar-12-recepcion-expediente-reconocimiento-equiparacion-grados-titulos",
       "publish_date": "2026-05-04T16:10:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Procedimiento para el reconocimiento de títulos académicos en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Proceso importante para el reconocimiento de grados académicos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -251,13 +290,13 @@
       "slug": "pe-dar-11-asignacion-de-los-espacios-fisicos-que-administra-el-departamento-de-admision-y-registro",
       "title": "PE-DAR-11 Asignación de los espacios físicos que administra el Departamento de Admisión y Registro",
       "category": "Costa Rica",
-      "bullets_20s": "• Se asignan espacios físicos para optimizar funciones administrativas y académicas del Departamento.\n• Los manuales y procedimientos son relevantes para la gestión de estos espacios en educación.\n• La actualización y ajuste de espacios responde a cambios en demandas educativas y operativas.\n• Esta medida busca mejorar la calidad en el servicio educativo que reciben los estudiantes.\n• El proceso de asignación se realiza bajo criterios de funcionalidad y accesibilidad.",
+      "bullets_20s": "• El Departamento de Admisión y Registro tiene procedimientos específicos para la asignación de espacios.\n• Se actualizarán manuales relacionados con la gestión de espacios físicos en el TEC.\n• La asignación adecuada de espacios es crucial para un funcionamiento eficiente institucional.\n• Los procedimientos buscan optimizar el uso de los recursos disponibles en la universidad.\n• Se espera una modificación continua en base a las necesidades del contexto educativo.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-dar-11-asignacion-espacios-fisicos-administra-departamento-admision-registro",
       "publish_date": "2026-05-04T16:09:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevo protocolo para la asignación de espacios en el Departamento de Admisión y Registro.",
+      "teaser": "Lo clave en 20 segundos: Nuevos procedimientos para la asignación de espacios en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "evsolano Lun, 04/05/2026 - 10:09 Manuales y Procedimientos PE-DAR-11 Asignación de los espacios físicos que administra el Departamento de Admisión y Registro Última modificación Fecha: Mayo, 2026",
+      "description": "evsolano",
       "featured": false
     },
     {
@@ -524,11 +563,11 @@
       "slug": "que-es-el-hantavirus-la-infeccion-sospechosa-de-causar-3-muertes-en-un-crucero-que-zarpo-de-ushuaia-y-cuan-extendido-est",
       "title": "Qué es el hantavirus, la infección sospechosa de causar 3 muertes en un crucero que zarpó de Ushuaia (y cuán extendido está en Argentina)",
       "category": "Mundo",
-      "bullets_20s": "• El hantavirus es una enfermedad viral transmitida por roedores y puede ser mortal en algunos casos.\n• Recientemente, se reportaron muertes sospechosas vinculadas a un crucero que salió de Ushuaia.\n• Las autoridades sanitarias argentinas han emitido alertas sobre el aumento de casos de hantavirus.\n• El aumento del 17% en los casos registrados preocupa a los funcionarios de salud pública en Argentina.\n• Es esencial que los viajeros estén informados sobre riesgos sanitarios en áreas endémicas.",
+      "bullets_20s": "• El hantavirus es un virus transmitido por roedores, que puede causar enfermedades graves en humanos.\n• Este virus está presente en varias regiones de América del Sur, incluyendo Argentina y Brasil.\n• El aumento de casos ha generado preocupación en las autoridades sanitarias de la región.\n• La infección puede transmitirse de persona a persona, aunque es raro que ocurra.\n• Se recomienda evitar el contacto con roedores y sus excrementos para prevenir infecciones.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cg7prkzd0nvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-04T11:29:50.000Z",
-      "teaser": "Lo clave en 20 segundos: Un crucero enfrenta sospechas de hantavirus tras muertes en Argentina.",
+      "teaser": "Lo clave en 20 segundos: Un aumento del hantavirus genera alerta en Argentina tras muertes en crucero.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8d2e/live/c11beb30-47ae-11f1-a815-8703cc282724.jpg",
       "description": "En 2025, el Ministerio de Salud argentino emitió una alerta por el aumento del 17% en los casos registrados en el país sudamericano.",
       "featured": false
@@ -537,11 +576,11 @@
       "slug": "como-los-ataques-de-eeuu-en-el-caribe-estan-cambiando-las-rutas-del-narcotrafico-en-la-region",
       "title": "Cómo los ataques de EE.UU. en el Caribe están cambiando las rutas del narcotráfico en la región",
       "category": "Mundo",
-      "bullets_20s": "• Los ataques de EE.UU. han incrementado el riesgo para narcotraficantes en el Caribe.\n• Expertos indican que el narcotráfico se adapta a nuevas rutas más peligrosas.\n• Las rutas navales desde Venezuela son ahora más complejas debido a los ataques.\n• El tráfico de cocaína no ha disminuido, solo se ha redistribuido.\n• Las fuerzas estadounidenses siguen intensificando sus operaciones en la región.",
+      "bullets_20s": "• Los ataques de EE.UU. han alterado las dinámicas del narcotráfico en el Caribe.\n• Expertos observan un cambio en las rutas de tráfico desde Venezuela hacia otras vías.\n• El narcotráfico está adoptando métodos más complejos para evadir la detección.\n• El riesgo de operar con lanchas se ha incrementado en la región caribeña.\n• A pesar de los desafíos, el tráfico de cocaína sigue siendo una gran preocupación.\n• Las estrategias de las organizaciones criminales están en constante evolución.\n• El monitoreo de estas rutas requiere cooperación internacional efectiva.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c242351611lo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-04T11:13:15.000Z",
-      "teaser": "Lo clave en 20 segundos: EE.UU. cambia las tácticas del narcotráfico en el Caribe.",
+      "teaser": "Lo clave en 20 segundos: Cambian las rutas del narcotráfico en el Caribe tras ataques de EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/efd9/live/b331fa20-47ac-11f1-bd52-e755d604ece4.jpg",
       "description": "Los ataques estadounidenses han elevado el riesgo de operar vía lanchas desde Venezuela, pero expertos afirman que el tráfico de cocaína no ha disminuido, sino que se está desplazando hacia otras rutas y métodos más difíciles de detectar.",
       "featured": false
@@ -576,11 +615,11 @@
       "slug": "david-da-vinci-el-nino-genio-mexicano-con-un-coeficiente-intelectual-superior-al-de-einstein",
       "title": "David da Vinci, el niño genio mexicano con un coeficiente intelectual superior al de Einstein",
       "category": "Mundo",
-      "bullets_20s": "• David Camacho es un niño prodigio que destaca por su elevado coeficiente intelectual.\n• Imparte conferencias en universidades y eventos internacionales desde corta edad.\n• Está trabajando en la publicación de un libro que refleja sus experiencias.\n• Ha desarrollado una aplicación para ayudar a combatir el bullying en las escuelas.\n• Su historia inspira a niños y adultos a perseguir sus sueños sin importar la edad.",
+      "bullets_20s": "• David Camacho es un niño prodigio con un IQ que supera al de Einstein.\n• A sus 10 años, imparte conferencias en prestigiosas universidades.\n• Desarrolló una app innovadora para combatir el bullying escolar.\n• Está próximo a publicar un libro que refleja su experiencia personal.\n• Su historia inspira a muchos jóvenes a desafiar las adversidades.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdrmenx6k2zo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-04T10:23:29.000Z",
-      "teaser": "Lo clave en 20 segundos: Un niño prodigio que lucha contra el bullying y comparte su conocimiento.",
+      "teaser": "Lo clave en 20 segundos: Un niño genio que desafía las normas y combate el bullying.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/79f6/live/2ebb4900-35b3-11f1-bfb7-dfacb91b9fa4.jpg",
       "description": "Con 10 años, David Camacho imparte conferencias en universidades y para organismos internacionales, está a punto de publicar un libro y ha creado una app para darle la vuelta al bullying que sufrió en la escuela.",
       "featured": false
@@ -615,11 +654,11 @@
       "slug": "que-son-las-refinerias-teteras-de-china-y-como-estan-amortiguando-la-crisis-petrolera-por-la-guerra-en-iran",
       "title": "Qué son las \"refinerías teteras\" de China y cómo están amortiguando la crisis petrolera por la guerra en Irán",
       "category": "Mundo",
-      "bullets_20s": "• Las refinerías teteras son instalaciones pequeñas e independientes en China.\n• Estas refinerías procesan crudo de países con sanciones económicas severas.\n• El crudo de Irán, Venezuela y Rusia es clave para su operación.\n• Ellas compran petróleo a precios reducidos, beneficiando a la economía china.\n• Son vitales en medio de la crisis petrolera generada por conflictos globales.",
+      "bullets_20s": "• Las refinerías teteras son instalaciones pequeñas e independientes en China.\n• Estos centros permiten procesar crudo de países bajo sanciones internacionales.\n• Su funcionamiento ayuda a mitigar la crisis petrolera afectada por conflictos globales.\n• China se convierte en un actor clave en el mercado de petróleo global.\n• El acceso a precios bajos de crudo beneficia la economía china y de otros países.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ce8lr0v0dqgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-04T03:53:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Las refinerías teteras de China están enfrentando la crisis petrolera con innovación y estrategia.",
+      "teaser": "Lo clave en 20 segundos: Las refinerías teteras chinas ayudan a sortear la crisis petrolera.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4517/live/0a347530-3fd5-11f1-aec8-9b10f844369d.jpg",
       "description": "Las refinerías pequeñas e independientes chinas procesan el crudo de países como Venezuela, Irán y Rusia, países que están bajo sanciones para evitar que lo vendan. Y lo compran a precios muy reducidos.",
       "featured": false
@@ -9699,5 +9738,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-04T19:45:30.221Z"
+  "generated_at": "2026-05-04T20:45:29.998Z"
 }
