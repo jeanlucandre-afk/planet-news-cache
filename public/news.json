@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "keylor-navas-y-pumas-hacen-un-partidazo-ante-el-america-el-halcon-salvo-el-resultado-con-un-paradon",
+      "title": "Keylor Navas y Pumas hacen un partidazo ante el América; el Halcón salvó el resultado con un paradón",
+      "category": "Mundo",
+      "bullets_20s": "• Keylor Navas tuvo una destacada actuación que salvó el partido para su equipo.\n• Los Pumas mostraron un gran esfuerzo defensivo durante el emocionante encuentro.\n• El partido se llevó a cabo en el icónico Estadio Azteca de México.\n• Navas hizo una parada crucial en el momento clave del juego.\n• La afición vivió una intensa jornada de fútbol llena de emociones.",
+      "source_name": "Esteban Valverde",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/keylor-navas-y-pumas-hacen-un-partidazo-ante-el/FTHJNWCNQFDZZNVNBG4SY7WVGE/story/",
+      "publish_date": "2026-05-04T01:27:54.000Z",
+      "teaser": "Lo clave en 20 segundos: Navas brilla en el partido entre Pumas y América con un paradón decisivo.",
+      "image_url": "https://www.nacion.com/resizer/v2/YIYQBAPPLVEG3C5JJVFTG7MZB4.jpeg?auth=5cae03a51bb735c31f44dc0de0aad1a4cb5716092cee7f6d9ea9b64f59d4ba68&smart=true&width=1000&height=750",
+      "description": "Keylor Navas y Pumas consiguen salir vivos del Estadio Azteca y ahora cerrarán en casa.",
+      "featured": false
+    },
+    {
+      "slug": "cruz-roja-busca-a-hombre-arrastrado-por-la-corriente-en-rio-costa-rica-en-pococi",
+      "title": "Cruz Roja busca a hombre arrastrado por la corriente en río Costa Rica, en Pococí",
+      "category": "Costa Rica",
+      "bullets_20s": "• Cruz Roja realiza un operativo para localizar a un hombre desaparecido en el río Costa Rica.\n• El accidente ocurrió en Pococí, un lugar conocido por sus corrientes fuertes y peligrosas.\n• Las autoridades han recibido reportes sobre la situación poco después de las 3 p. m.\n• Rescatistas están trabajando arduamente para encontrar al individuo arrastrado por el agua.\n• Se espera que el operativo continúe hasta que se logre ubicar al hombre desaparecido.",
+      "source_name": "Aarón Sequeira",
+      "source_url": "https://www.nacion.com/sucesos/cruz-roja-busca-a-hombre-arrastrado-por-la/HD4WZZAMEJCPZBWUUC7WZTEVX4/story/",
+      "publish_date": "2026-05-04T00:42:37.000Z",
+      "teaser": "Lo clave en 20 segundos: Cruz Roja busca a un hombre arrastrado por la corriente en un río.",
+      "image_url": "https://www.nacion.com/resizer/v2/HWCUS34ZZJDPRA6NV2IC5AOBC4.jpeg?auth=f207825de4bd4074e124059ab75d10d87ebb667ba54aece98cf41a38b13f8169&smart=true&width=1280&height=960",
+      "description": "Accidente acuático tuvo lugar poco después de las 3 p. m., en el río Costa Rica; rescatistas siguen al búsqueda",
+      "featured": false
+    },
+    {
       "slug": "oscar-arias-culpa-a-rodrigo-chaves-por-retiro-de-visas-a-directivos-de-la-nacion-es-una-profunda-herida-a-nuestra-libert",
       "title": "Óscar Arias culpa a Rodrigo Chaves por retiro de visas a directivos de ‘La Nación’: ‘Es una profunda herida a nuestra libertad de prensa’",
       "category": "Costa Rica",
@@ -134,13 +160,13 @@
       "slug": "3-muertos-en-un-posible-brote-de-hantavirus-dentro-un-crucero-que-zarpo-de-argentina",
       "title": "3 muertos en un posible brote de hantavirus dentro un crucero que zarpó de Argentina",
       "category": "Mundo",
-      "bullets_20s": "• Tres personas han fallecido por un posible brote de hantavirus en un crucero.\n• La infección se detectó en un barco que partió desde Argentina hacia otros destinos.\n• La Organización Mundial de la Salud está investigando varios casos sospechosos.\n• Este brote genera preocupación por la salud pública y la seguridad en viajes.\n• Se están implementando medidas para controlar la propagación del virus en el crucero.",
+      "bullets_20s": "• Un brote de hantavirus se ha registrado en un crucero que partió de Argentina recientemente.\n• Tres personas han fallecido y se están investigando otros cinco casos sospechosos de infección.\n• La OMS ha tomado medidas para investigar y controlar la situación en el crucero.\n• El hantavirus puede ser transmitido por roedores y causa enfermedades respiratorias graves.\n• Las autoridades están realizando seguimiento a los pasajeros que viajaron en el crucero.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdjpgrp2p3po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T20:50:39.000Z",
-      "teaser": "Lo clave en 20 segundos: tres fallecidos por hantavirus en crucero argentino, OMS investiga más casos.",
+      "teaser": "Lo clave en 20 segundos: brote de hantavirus deja 3 muertos en crucero argentino.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/eef5/live/0122f2c0-471c-11f1-973f-3fcb874893eb.jpg",
-      "description": "La OMS confirmó un caso de infección por hantavirus y están investigando otros 5 casos sospechosos.",
+      "description": "La OMS confirma un caso de infección por hantavirus y están investigando otros 5 casos sospechosos.",
       "featured": false
     },
     {
@@ -264,11 +290,11 @@
       "slug": "la-red-clandestina-que-introduce-tecnologia-starlink-en-iran-para-sortear-el-bloqueo-de-internet",
       "title": "La red clandestina que introduce tecnología Starlink en Irán para sortear el bloqueo de internet",
       "category": "Mundo",
-      "bullets_20s": "• Un contrabandista de Irán, Sahand, introduce tecnología Starlink para sortear bloqueos de internet.\n• Las terminales de Internet satelital facilitan acceso a información real y no censurada.\n• La red clandestina busca desafiar el control del gobierno sobre la comunicación.\n• El contrabando de tecnología se ha incrementado en medio de restricciones severas.\n• Starlink se convierte en herramienta crucial para la libertad de información en Irán.",
+      "bullets_20s": "• El acceso a Internet en Irán es restringido y controlado por el gobierno.\n• Starlink proporciona una alternativa de conectividad a través de satélites.\n• Sahand comenta sobre la importancia de la información libre en la actualidad.\n• Las redes clandestinas están aumentando en respuesta a la censura gubernamental.\n• El contrabando de tecnología se ha convertido en un desafío complicado.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cglp9xg8939o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T17:17:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Una red clandestina usa Starlink en Irán para eludir bloqueos de internet.",
+      "teaser": "Lo clave en 20 segundos: La tecnología de Starlink está desafiando el bloqueo de internet en Irán.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8c14/live/20b8b580-44c8-11f1-ac78-2112837ce2aa.jpg",
       "description": "Sahand, uno de los contrabandistas, asegura al Servicio Mundial de la BBC que envía terminales de Internet satelital dentro del país para ayudar a mostrar “la realidad tal y como es”.",
       "featured": false
@@ -641,11 +667,11 @@
       "slug": "6-antiguas-tecnologias-que-desconcertaron-a-la-ciencia-moderna-y-aun-son-dificiles-de-replicar",
       "title": "6 antiguas tecnologías que desconcertaron a la ciencia moderna (y aún son difíciles de replicar)",
       "category": "Ciencia",
-      "bullets_20s": "• Las antiguas civilizaciones tenían técnicas sorprendentes en arquitectura y ingeniería.\n• Los romanos construyeron acueductos que aún se estudian por su sofisticación.\n• Los mayas utilizaron calendarios astronómicos increíblemente precisos para su época.\n• La metalurgia inca mostraba una comprensión avanzada de aleaciones y forjas.\n• Los etruscos destacaron en la cerámica y la escultura sin herramientas modernas.",
+      "bullets_20s": "• Las civilizaciones antiguas lograron tecnologías avanzadas sin herramientas modernas de precisión.\n• Los romanos tenían métodos de construcción que han asombrado a ingenieros contemporáneos.\n• Los incas desarrollaron técnicas agrícolas únicas que maximizaban producción en terrenos difíciles.\n• Las etruscas fueron pioneras en metalurgia, creando aleaciones que resonaron en el tiempo.\n• La arquitectura maya reflejaba un profundo entendimiento de la astronomía y la ingeniería.\n• El legado de estas tecnologías antiguas inspira a científicos y arquitectos de hoy.\n• El estudio de estas innovaciones podría revelar nuevas direcciones para la tecnología moderna.\n• Comprender estas prácticas ancestrales nos acerca a los secretos de la humanidad.\n• La ciencia sigue intentando desentrañar la complejidad de estas antiguas creaciones.\n• Nuestra percepción de la historia se enriquece al explorar estas sorprendentes tecnologías.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c624n4e6q14o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T10:43:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Tecnologías antiguas que asombran aún hoy por su complejidad y precisión.",
+      "teaser": "Lo clave en 20 segundos: Tecnologías antiguas de civilizaciones desconcertantes aún inspiran a la ciencia moderna.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d861/live/88b51ad0-378e-11f1-9d5c-8ba507d7dbde.jpg",
       "description": "Durante siglos no se supo explicar lo que artesanos romanos, incas, etruscos y mayas lograron sin microscopios ni espectrómetros. Entenderlo los hizo aún más admirables.",
       "featured": false
@@ -654,11 +680,11 @@
       "slug": "la-extraordinaria-historia-de-hercules-el-oso-al-que-una-pareja-adopto-y-crio-como-parte-de-su-familia",
       "title": "La extraordinaria historia de Hércules, el oso al que una pareja adoptó y crio como parte de su familia",
       "category": "Mundo",
-      "bullets_20s": "• Hércules, un oso, fue adoptado por una pareja que lo crió como un miembro de su familia.\n• La historia explora el vínculo emocional único entre los humanos y los animales.\n• Los desafíos de tener un oso en casa, desde la alimentación hasta el cuidado diario.\n• Se destacan las risas y momentos entrañables que vivieron juntos durante los años.\n• Reflexiones sobre la responsabilidad de criar un animal salvaje en un entorno doméstico.",
+      "bullets_20s": "• Hércules, un oso, fue adoptado por una pareja cuando tenía solo nueve meses de edad.\n• La relación que desarrollaron juntos ha sido considerada única y especial por varios expertos.\n• Maggie y Andy Robin compartieron su vida cotidiana con el oso, creando un vínculo profundo.\n• La historia de Hércules ha captado la atención de personas en diferentes partes del mundo.\n• Este relato pone de relieve el vínculo entre humanos y animales salvajes en situaciones extraordinarias.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g4ke6z1zro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T10:16:44.000Z",
-      "teaser": "Lo clave en 20 segundos: La conmovedora relación entre una pareja y un oso llamado Hércules.",
+      "teaser": "Lo clave en 20 segundos: Un oso adoptado y su inusual vida con una familia humana.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e2d0/live/853839b0-1e1f-11f1-bd56-df0cd723329e.jpg",
       "description": "Hércules llegó a la vida de Maggie y Andy Robin cuando era un cachorro de nueve meses. Durante los años que vivieron juntos desarrollaron una relación única. Te contamos su historia.",
       "featured": false
@@ -667,11 +693,11 @@
       "slug": "vestida-para-gobernar-que-muestran-la-ropa-y-el-peinado-de-la-hija-de-kim-jong-un-sobre-como-la-preparan-para-reemplazar",
       "title": "Vestida para gobernar: qué muestran la ropa y el peinado de la hija de Kim Jong-un sobre cómo la preparan para reemplazar al líder de Corea del Norte",
       "category": "Mundo",
-      "bullets_20s": "• La aparición de Kim Ju Ae genera especulaciones sobre su futuro en el liderazgo norcoreano.\n• Los expertos analizan el simbolismo detrás de su vestimenta y peinado en actos oficiales.\n• Marcas de lujo occidentales en Corea del Norte son consideradas reacciones de la juventud.\n• Las decisiones de vestimenta pueden reflejar un cambio en la percepción del régimen.\n• El secretismo norcoreano hace difícil entender sus intenciones con Kim Ju Ae.",
-      "source_name": "BBC Mundo",
+      "bullets_20s": "• La aparición de Kim Ju Ae en la vida pública ha despertado gran interés internacional.\n• Su vestimenta incluye marcas de lujo occidentales, prohibidas en su país.\n• Expertos analizan el significado detrás de su estilo y presencia.\n• Corea del Norte mantiene un estricto control sobre su imagen pública.\n• Se plantea la posibilidad de que Kim Ju Ae sea preparada para un futuro liderazgo.",
+      "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/ce9pzv54n4po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T04:03:28.000Z",
-      "teaser": "Lo clave en 20 segundos: El estilo de Kim Ju Ae sugiere un futuro político en Corea del Norte.",
+      "teaser": "Lo clave en 20 segundos: Kim Ju Ae y su estilo sorprendente en Corea del Norte.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/edaa/live/96003d80-4249-11f1-ac78-2112837ce2aa.jpg",
       "description": "Kim Ju Ae aparece cada vez con más frecuencia en actos públicos, donde luce marcas de lujo occidentales prohibidas en Corea del Norte por considerarse reaccionarias y antisocialistas. Pero los expertos en el hermético país aseguran que esto no se trata de un gesto de rebeldía adolescente.",
       "featured": false
@@ -2772,12 +2798,12 @@
     {
       "slug": "pe-ai-19-aseguramiento-de-la-calidad",
       "title": "PE-AI-19 Aseguramiento de la calidad",
-      "category": "Tecnología",
-      "bullets_20s": "• El aseguramiento de la calidad es vital para garantizar estándares adecuados.\n• Los manuales y procedimientos facilitan la implementación de mejoras en la calidad.\n• El sistema PE-AI-19 busca optimizar procesos en diferentes áreas tecnológicas.\n• Las actualizaciones se realizan periódicamente para mantenerse al día con las normativas.\n• La calidad del servicio influye en la satisfacción del cliente y su fidelidad.\n• Los procedimientos establecidos son esenciales para la consistencia en los resultados.",
+      "category": "Ciencia",
+      "bullets_20s": "• El aseguramiento de la calidad es necesario para la mejora continua en cualquier proceso.\n• Incluye manuales y procedimientos que guían a las instituciones educativas.\n• Busca garantizar que los estándares de calidad sean cumplidos en los programas.\n• Involucra la capacitación del personal para mejorar la ejecución de procedimientos.\n• La revisión periódica de los manuales es esencial para mantener su vigencia.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ai-19-aseguramiento-calidad",
       "publish_date": "2026-04-30T15:55:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Importancia del aseguramiento de la calidad en procesos tecnológicos.",
+      "teaser": "Lo clave en 20 segundos: el aseguramiento de la calidad es crucial para la mejora educativa.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -3397,11 +3423,11 @@
       "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
       "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica otorgó 23,323 becas en 2025, impactando a miles de estudiantes.\n• Se duplicaron los montos de las becas socioeconómicas, facilitando el acceso a la educación superior.\n• El sistema de apoyos estudiantiles se ha fortalecido, enfocándose en la equidad y permanencia académica.\n• La presidenta del CONARE destacó los logros en la negociación del FEES 2026 para más recursos.\n• El 53.12% de los estudiantes provienen de cantones con necesidades sociales elevadas.\n• Se desarrollaron 179 actividades para mejorar la retención estudiantil y reducir la deserción.\n• El TEC realizó 67 proyectos de extensión, beneficiando a comunidades vulnerables en todo el país.\n• La investigación se mantiene como uno de los pilares con 190 proyectos activos en 2025.\n• La rectora fue reconocida por su liderazgo en el sector educación de Costa Rica.\n• El informe resalta el compromiso del TEC con la equidad en la educación superior.",
+      "bullets_20s": "• El TEC otorgó más de 23 mil becas en 2025, impactando a más de 15 mil estudiantes en total.\n• Las becas socioeconómicas duplicaron su monto máximo, mejorando el acceso a la educación superior.\n• Se desarrollaron múltiples actividades para reducir la deserción estudiantil y mejorar la permanencia.\n• La rectora destacó la importancia de estos apoyos en la movilidad social de los estudiantes.\n• El acuerdo del FEES 2026 incluirá un aumento especial para becas y apoyos estudiantiles.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
       "publish_date": "2026-04-29T17:20:04.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC otorgó más de 23 mil becas en 2025, impactando la educación superior.",
+      "teaser": "Lo clave en 20 segundos: El TEC otorgó más de 23 mil becas en 2025, beneficiando a miles de estudiantes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
       "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "featured": false
@@ -8997,5 +9023,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-04T00:45:30.794Z"
+  "generated_at": "2026-05-04T01:45:30.134Z"
 }
