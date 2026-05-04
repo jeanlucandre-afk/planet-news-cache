@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "loteria-nacional-estos-son-los-numeros-ganadores-de-este-domingo-3-de-mayo",
+      "title": "Lotería nacional: Estos son los números ganadores de este domingo 3 de mayo",
+      "category": "Costa Rica",
+      "bullets_20s": "• El sorteo se realizó el 3 de mayo para conmemorar el Día de la Persona Trabajadora.\n• Este evento de lotería genera expectativa y emoción entre los participantes año con año.\n• El número ganador se beneficia de un pozo considerable que atrae a muchos jugadores.\n• La lotería es una tradición muy arraigada en la cultura costarricense desde hace décadas.\n• Las ganancias de la lotería suelen utilizarse para obras de interés público en el país.",
+      "source_name": "Aarón Sequeira",
+      "source_url": "https://www.nacion.com/el-pais/loteria-nacional-estos-son-los-numeros-ganadores/B7IQDLLSJZFZNFI4WCQDMVDXAE/story/",
+      "publish_date": "2026-05-04T02:01:55.000Z",
+      "teaser": "Lo clave en 20 segundos: este domingo se realizó el sorteo de la Lotería Nacional, con grandes premios en juego.",
+      "image_url": "https://www.nacion.com/resizer/v2/REMLURN2HVCVFPPBOHN65N5SXU.jpg?auth=14d149f5b09d72db3a0ea8f8663665a1a386069bd865ea4703a4db70c0ecf9fd&smart=true&width=1920&height=1080",
+      "description": "El sorteo extraordinario del Día de la Persona Trabajadora, de este domingo 3 de mayo, favorece con ¢640 millones al número ganador, en dos emisiones.",
+      "featured": false
+    },
+    {
       "slug": "keylor-navas-y-pumas-hacen-un-partidazo-ante-el-america-el-halcon-salvo-el-resultado-con-un-paradon",
       "title": "Keylor Navas y Pumas hacen un partidazo ante el América; el Halcón salvó el resultado con un paradón",
-      "category": "Mundo",
-      "bullets_20s": "• Keylor Navas tuvo una destacada actuación que salvó el partido para su equipo.\n• Los Pumas mostraron un gran esfuerzo defensivo durante el emocionante encuentro.\n• El partido se llevó a cabo en el icónico Estadio Azteca de México.\n• Navas hizo una parada crucial en el momento clave del juego.\n• La afición vivió una intensa jornada de fútbol llena de emociones.",
+      "category": "Costa Rica",
+      "bullets_20s": "• Keylor Navas se destaca con una impresionante actuación en el partido contra el América.\n• El encuentro se jugó en el icónico Estadio Azteca, un lugar de gran historia.\n• Pumas logró un rendimiento sólido gracias a la defensa y al talento del equipo.\n• Navas realizó un paradón memorable que preservó el empate crucial para su equipo.\n• El partido dejó a los aficionados emocionados, destacando la competitividad entre ambos equipos.",
       "source_name": "Esteban Valverde",
       "source_url": "https://www.nacion.com/puro-deporte/futbol/keylor-navas-y-pumas-hacen-un-partidazo-ante-el/FTHJNWCNQFDZZNVNBG4SY7WVGE/story/",
       "publish_date": "2026-05-04T01:27:54.000Z",
-      "teaser": "Lo clave en 20 segundos: Navas brilla en el partido entre Pumas y América con un paradón decisivo.",
+      "teaser": "Lo clave en 20 segundos: Keylor Navas brilla en el partido clave contra el América.",
       "image_url": "https://www.nacion.com/resizer/v2/YIYQBAPPLVEG3C5JJVFTG7MZB4.jpeg?auth=5cae03a51bb735c31f44dc0de0aad1a4cb5716092cee7f6d9ea9b64f59d4ba68&smart=true&width=1000&height=750",
       "description": "Keylor Navas y Pumas consiguen salir vivos del Estadio Azteca y ahora cerrarán en casa.",
       "featured": false
@@ -160,13 +173,13 @@
       "slug": "3-muertos-en-un-posible-brote-de-hantavirus-dentro-un-crucero-que-zarpo-de-argentina",
       "title": "3 muertos en un posible brote de hantavirus dentro un crucero que zarpó de Argentina",
       "category": "Mundo",
-      "bullets_20s": "• Un brote de hantavirus se ha registrado en un crucero que partió de Argentina recientemente.\n• Tres personas han fallecido y se están investigando otros cinco casos sospechosos de infección.\n• La OMS ha tomado medidas para investigar y controlar la situación en el crucero.\n• El hantavirus puede ser transmitido por roedores y causa enfermedades respiratorias graves.\n• Las autoridades están realizando seguimiento a los pasajeros que viajaron en el crucero.",
+      "bullets_20s": "• El hantavirus es una enfermedad viral que puede ser mortal en algunas circunstancias.\n• Se han reportado tres muertes relacionadas con este posible brote en un crucero.\n• La Organización Mundial de la Salud está llevando a cabo investigaciones adicionales.\n• El crucero había zarpado desde Argentina antes de los recientes brotes de infección.\n• Las autoridades sanitarias están en alerta ante el brote y coordinan medidas de prevención.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdjpgrp2p3po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T20:50:39.000Z",
-      "teaser": "Lo clave en 20 segundos: brote de hantavirus deja 3 muertos en crucero argentino.",
+      "teaser": "Lo clave en 20 segundos: brote de hantavirus en crucero deja tres muertos, investigación en curso.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/eef5/live/0122f2c0-471c-11f1-973f-3fcb874893eb.jpg",
-      "description": "La OMS confirma un caso de infección por hantavirus y están investigando otros 5 casos sospechosos.",
+      "description": "La OMS confirmó un caso de infección por hantavirus y están investigando otros 5 casos sospechosos.",
       "featured": false
     },
     {
@@ -290,11 +303,11 @@
       "slug": "la-red-clandestina-que-introduce-tecnologia-starlink-en-iran-para-sortear-el-bloqueo-de-internet",
       "title": "La red clandestina que introduce tecnología Starlink en Irán para sortear el bloqueo de internet",
       "category": "Mundo",
-      "bullets_20s": "• El acceso a Internet en Irán es restringido y controlado por el gobierno.\n• Starlink proporciona una alternativa de conectividad a través de satélites.\n• Sahand comenta sobre la importancia de la información libre en la actualidad.\n• Las redes clandestinas están aumentando en respuesta a la censura gubernamental.\n• El contrabando de tecnología se ha convertido en un desafío complicado.",
+      "bullets_20s": "• Una red clandestina facilita el uso de tecnología de internet satelital en Irán.\n• Contrabandistas envían terminales de Starlink para evadir el bloqueo de internet.\n• Sahand, un contrabandista, se comunica con los medios para exponer su trabajo.\n• La tecnología ayuda a los iraníes a ver la realidad sin censura del gobierno.\n• Irán es conocido por sus restricciones severas sobre el acceso a internet.\n• El uso de Starlink podría transformar la conectividad en regiones aisladas.\n• Las redes clandestinas reflejan la lucha por la libertad de información en el país.\n• El contrabando de tecnología se vuelve un acto de resistencia civil.\n• Irán ha implementado medidas para limitar el acceso a información veraz.\n• Los avances tecnológicos continúan desafiando los regímenes autoritarios.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cglp9xg8939o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T17:17:51.000Z",
-      "teaser": "Lo clave en 20 segundos: La tecnología de Starlink está desafiando el bloqueo de internet en Irán.",
+      "teaser": "Lo clave en 20 segundos: Una red clandestina introduce Starlink en Irán para evadir el bloqueo de internet.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8c14/live/20b8b580-44c8-11f1-ac78-2112837ce2aa.jpg",
       "description": "Sahand, uno de los contrabandistas, asegura al Servicio Mundial de la BBC que envía terminales de Internet satelital dentro del país para ayudar a mostrar “la realidad tal y como es”.",
       "featured": false
@@ -667,11 +680,11 @@
       "slug": "6-antiguas-tecnologias-que-desconcertaron-a-la-ciencia-moderna-y-aun-son-dificiles-de-replicar",
       "title": "6 antiguas tecnologías que desconcertaron a la ciencia moderna (y aún son difíciles de replicar)",
       "category": "Ciencia",
-      "bullets_20s": "• Las civilizaciones antiguas lograron tecnologías avanzadas sin herramientas modernas de precisión.\n• Los romanos tenían métodos de construcción que han asombrado a ingenieros contemporáneos.\n• Los incas desarrollaron técnicas agrícolas únicas que maximizaban producción en terrenos difíciles.\n• Las etruscas fueron pioneras en metalurgia, creando aleaciones que resonaron en el tiempo.\n• La arquitectura maya reflejaba un profundo entendimiento de la astronomía y la ingeniería.\n• El legado de estas tecnologías antiguas inspira a científicos y arquitectos de hoy.\n• El estudio de estas innovaciones podría revelar nuevas direcciones para la tecnología moderna.\n• Comprender estas prácticas ancestrales nos acerca a los secretos de la humanidad.\n• La ciencia sigue intentando desentrañar la complejidad de estas antiguas creaciones.\n• Nuestra percepción de la historia se enriquece al explorar estas sorprendentes tecnologías.",
+      "bullets_20s": "• Las tecnologías antiguas desafían la comprensión actual de los desarrollos científicos modernos en la historia.\n• Civilizaciones como los romanos y mayas lograron avances impresionantes sin herramientas modernas de ciencia.\n• La capacidad de estos artesanos muestra un conocimiento profundo de sus materiales y procesos.\n• Algunas de estas tecnologías aún son difíciles de replicar, desafiando a los científicos contemporáneos.\n• Entender estas técnicas nos ofrece una mirada enriquecedora al ingenio humano a través de los siglos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c624n4e6q14o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T10:43:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Tecnologías antiguas de civilizaciones desconcertantes aún inspiran a la ciencia moderna.",
+      "teaser": "Lo clave en 20 segundos: Descubre tecnologías antiguas que todavía sorprenden a la ciencia moderna.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d861/live/88b51ad0-378e-11f1-9d5c-8ba507d7dbde.jpg",
       "description": "Durante siglos no se supo explicar lo que artesanos romanos, incas, etruscos y mayas lograron sin microscopios ni espectrómetros. Entenderlo los hizo aún más admirables.",
       "featured": false
@@ -680,11 +693,11 @@
       "slug": "la-extraordinaria-historia-de-hercules-el-oso-al-que-una-pareja-adopto-y-crio-como-parte-de-su-familia",
       "title": "La extraordinaria historia de Hércules, el oso al que una pareja adoptó y crio como parte de su familia",
       "category": "Mundo",
-      "bullets_20s": "• Hércules, un oso, fue adoptado por una pareja cuando tenía solo nueve meses de edad.\n• La relación que desarrollaron juntos ha sido considerada única y especial por varios expertos.\n• Maggie y Andy Robin compartieron su vida cotidiana con el oso, creando un vínculo profundo.\n• La historia de Hércules ha captado la atención de personas en diferentes partes del mundo.\n• Este relato pone de relieve el vínculo entre humanos y animales salvajes en situaciones extraordinarias.",
+      "bullets_20s": "• La historia de Hércules es una muestra del vínculo entre humanos y animales.\n• Maggie y Andy Robin adoptaron a Hércules cuando era solo un cachorro.\n• Desarrollaron una relación única y cercana con este oso especial.\n• La vida cotidiana con un oso no es común, pero fue inolvidable para ellos.\n• La adopción de animales salvajes plantea importantes preguntas éticas.\n• Se exploran las dinámicas entre humanos y fauna en esta historia conmovedora.\n• Hércules se convirtió en parte integral de la familia Robin durante su vida.\n• La historia ha capturado la atención de amantes de la naturaleza en todo el mundo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g4ke6z1zro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T10:16:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Un oso adoptado y su inusual vida con una familia humana.",
+      "teaser": "Lo clave en 20 segundos: La entrañable historia de un oso adoptado por una pareja en su hogar.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e2d0/live/853839b0-1e1f-11f1-bd56-df0cd723329e.jpg",
       "description": "Hércules llegó a la vida de Maggie y Andy Robin cuando era un cachorro de nueve meses. Durante los años que vivieron juntos desarrollaron una relación única. Te contamos su historia.",
       "featured": false
@@ -693,11 +706,11 @@
       "slug": "vestida-para-gobernar-que-muestran-la-ropa-y-el-peinado-de-la-hija-de-kim-jong-un-sobre-como-la-preparan-para-reemplazar",
       "title": "Vestida para gobernar: qué muestran la ropa y el peinado de la hija de Kim Jong-un sobre cómo la preparan para reemplazar al líder de Corea del Norte",
       "category": "Mundo",
-      "bullets_20s": "• La aparición de Kim Ju Ae en la vida pública ha despertado gran interés internacional.\n• Su vestimenta incluye marcas de lujo occidentales, prohibidas en su país.\n• Expertos analizan el significado detrás de su estilo y presencia.\n• Corea del Norte mantiene un estricto control sobre su imagen pública.\n• Se plantea la posibilidad de que Kim Ju Ae sea preparada para un futuro liderazgo.",
+      "bullets_20s": "• La hija de Kim Jong-un, Kim Ju Ae, está siendo visiblemente preparada para el liderazgo.\n• Su vestimenta y peinado reflejan una mezcla de lujo y control político.\n• Expertos analizan cómo puede influir esto en la percepción del régimen norcoreano.\n• Las marcas de lujo occidental son vistas como provocativas en el contexto norcoreano.\n• El estilo de Kim Ju Ae genera debate sobre los cambios en la política de Corea del Norte.",
       "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/ce9pzv54n4po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T04:03:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Kim Ju Ae y su estilo sorprendente en Corea del Norte.",
+      "teaser": "Lo clave en 20 segundos: Kim Ju Ae se presenta cada vez más como una posible sucesora en Corea del Norte.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/edaa/live/96003d80-4249-11f1-ac78-2112837ce2aa.jpg",
       "description": "Kim Ju Ae aparece cada vez con más frecuencia en actos públicos, donde luce marcas de lujo occidentales prohibidas en Corea del Norte por considerarse reaccionarias y antisocialistas. Pero los expertos en el hermético país aseguran que esto no se trata de un gesto de rebeldía adolescente.",
       "featured": false
@@ -2799,11 +2812,11 @@
       "slug": "pe-ai-19-aseguramiento-de-la-calidad",
       "title": "PE-AI-19 Aseguramiento de la calidad",
       "category": "Ciencia",
-      "bullets_20s": "• El aseguramiento de la calidad es necesario para la mejora continua en cualquier proceso.\n• Incluye manuales y procedimientos que guían a las instituciones educativas.\n• Busca garantizar que los estándares de calidad sean cumplidos en los programas.\n• Involucra la capacitación del personal para mejorar la ejecución de procedimientos.\n• La revisión periódica de los manuales es esencial para mantener su vigencia.",
+      "bullets_20s": "• El aseguramiento de la calidad es crucial para la mejora continua en instituciones educativas.\n• Los manuales y procedimientos guían la implementación de estándares de calidad específicos.\n• La última modificación se realizó en abril de 2026, reflejando su actualización constante.\n• La calidad en educación puede influir en la satisfacción y aprendizaje de los estudiantes.\n• El cumplimiento de estándares apoya la acreditación y la excelencia académica.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ai-19-aseguramiento-calidad",
       "publish_date": "2026-04-30T15:55:48.000Z",
-      "teaser": "Lo clave en 20 segundos: el aseguramiento de la calidad es crucial para la mejora educativa.",
+      "teaser": "Lo clave en 20 segundos: El aseguramiento de la calidad es esencial en la educación.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -3423,11 +3436,11 @@
       "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
       "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC otorgó más de 23 mil becas en 2025, impactando a más de 15 mil estudiantes en total.\n• Las becas socioeconómicas duplicaron su monto máximo, mejorando el acceso a la educación superior.\n• Se desarrollaron múltiples actividades para reducir la deserción estudiantil y mejorar la permanencia.\n• La rectora destacó la importancia de estos apoyos en la movilidad social de los estudiantes.\n• El acuerdo del FEES 2026 incluirá un aumento especial para becas y apoyos estudiantiles.",
+      "bullets_20s": "• El Tecnológico de Costa Rica brindó más de 23 mil becas a estudiantes en 2025, aumentando su alcance.\n• El monto de las becas socioeconómicas se duplicó, mejorando el apoyo a los estudiantes vulnerables.\n• Las acciones de permanencia del TEC buscan reducir la deserción y mejorar la graduación estudiantil.\n• En 2025, el 53,12% de los estudiantes eran de territorios con necesidades sociales elevadas.\n• Se registraron 190 proyectos de investigación activos, involucrando a numerosos estudiantes en su desarrollo.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
       "publish_date": "2026-04-29T17:20:04.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC otorgó más de 23 mil becas en 2025, beneficiando a miles de estudiantes.",
+      "teaser": "Lo clave en 20 segundos: El TEC otorgó más de 23 mil becas en 2025, beneficiando a estudiantes de condición vulnerable.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
       "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "featured": false
@@ -9023,5 +9036,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-04T01:45:30.134Z"
+  "generated_at": "2026-05-04T02:45:30.880Z"
 }
