@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "la-historia-detras-de-una-de-las-pocas-ciudades-que-quedaron-congeladas-en-el-tiempo-luce-igual-que-en-1960",
+      "title": "La historia detrás de una de las pocas ciudades que quedaron congeladas en el tiempo: luce igual que en 1960",
+      "category": "Mundo",
+      "bullets_20s": "• Una ciudad en California que parece haberse detenido en el tiempo desde 1960.\n• Conserva la arquitectura mid-century modern de manera impresionante y atractiva.\n• Ha mantenido su valor histórico, lo que atrae a turistas y curiosos.\n• El estilo de vida y la estética son reflejos de una época pasada.\n• Se exploran las razones que han permitido esta preservación única.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/el-mundo/la-historia-detras-de-una-de-las-pocas-ciudades/ESCBVBLGTBCZTGR7VPRKW6TJXU/story/",
+      "publish_date": "2026-05-04T21:13:56.000Z",
+      "teaser": "Lo clave en 20 segundos: descubre la ciudad que se detuvo en 1960 y su historia fascinante.",
+      "image_url": "https://www.nacion.com/resizer/v2/CZ2CW7QJ3BHARDTAL662AIQ3EQ.jpg?auth=3afa11acef2cb4de6eb8725b5c4a3573918aee5c84b356fa94e916e1294460b7&smart=true&width=1920&height=1280",
+      "description": "Esta ciudad en Estados Unidos conserva intacta la arquitectura de los años 1960. Conozca cómo esta ciudad de California mantiene su estilo mid-century modern y su valor histórico.",
+      "featured": false
+    },
+    {
+      "slug": "de-la-fuente-al-aprovechamiento-la-importancia-de-separar-nuestros-residuos",
+      "title": "De la fuente al aprovechamiento: la importancia de separar nuestros residuos",
+      "category": "Ciencia",
+      "bullets_20s": "• El evento busca informar sobre la correcta separación de residuos y su impacto positivo.\n• La sesión se realiza en modalidad virtual, facilitando la participación de diversas personas.\n• Se requiere registro previo para asistir al seminario ambiental gratuito.\n• Los participantes aprenderán prácticas sencillas y efectivas para cuidar el medio ambiente.\n• La actividad está organizada por la Unidad Institucional de Gestión Ambiental y Seguridad Laboral.",
+      "source_name": "anasolano",
+      "source_url": "http://www.tec.ac.cr/fuente-aprovechamiento-importancia-separar-nuestros-residuos",
+      "publish_date": "2026-05-04T21:12:06.000Z",
+      "teaser": "Lo clave en 20 segundos: Aprende sobre la separación de residuos en un seminario virtual gratuito.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/ede00d1d-00bc-4ee5-850c-8e08b29921e8.png",
+      "description": "De la fuente al aprovechamiento: la importancia de separar nuestros residuos",
+      "featured": false
+    },
+    {
+      "slug": "national-geographic-lanza-curso-gratuito-de-ingles-asi-funciona-el-programa",
+      "title": "National Geographic lanza curso gratuito de inglés: así funciona el programa",
+      "category": "Mundo",
+      "bullets_20s": "• National Geographic ofrece un curso de inglés gratuito dirigido a estudiantes de nivel intermedio.\n• Los usuarios pueden acceder a contenidos audiovisuales interactivos desde la comodidad de su hogar.\n• El curso busca mejorar las habilidades lingüísticas a través de diferentes métodos didácticos.\n• Inscribirse es sencillo y se puede realizar online desde cualquier dispositivo con internet.\n• El programa incluye recursos digitales que facilitan el aprendizaje y la práctica del idioma.",
+      "source_name": "El Tiempo  Colombia, Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-mundo/national-geographic-lanza-curso-gratuito-de-ingles/OWHUO4ZMLBDPRHRDOPCCYOMWOM/story/",
+      "publish_date": "2026-05-04T21:07:50.000Z",
+      "teaser": "Lo clave en 20 segundos: National Geographic ofrece un curso gratuito de inglés para mejorar habilidades lingüísticas.",
+      "image_url": "https://www.nacion.com/resizer/v2/7IL2J4QL7FH65G5XGF7KAPCZTU.jpg?auth=75075627be45fd4f06576cfae15957f40c8a6dd905dbc52695738b1937e8bf31&smart=true&width=6912&height=3888",
+      "description": "Curso gratuito de inglés de National Geographic para nivel intermedio. Vea cómo inscribirse y acceder a los contenidos audiovisuales interactivos desde casa.",
+      "featured": false
+    },
+    {
+      "slug": "equipo-de-primera-division-anuncia-una-limpia-en-su-planilla",
+      "title": "Equipo de Primera División anuncia una limpia en su planilla",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los clubes costarricenses se preparan para optimizar sus plantillas de jugadores.\n• Cambios en los planteles se anticipan para mejorar el rendimiento en la liga.\n• Se espera que esta limpia impacte en las decisiones de contratación.\n• La competencia en la Primera División genera presión sobre los equipos.\n• Los aficionados están atentos a los movimientos de sus equipos favoritos.",
+      "source_name": "Milton Montenegro",
+      "source_url": "https://www.nacion.com/puro-deporte/equipo-de-primera-division-anuncia-una-limpia-en/BUTLBZQLUFAILA3VFPLE66R2DU/story/",
+      "publish_date": "2026-05-04T21:05:19.000Z",
+      "teaser": "Lo clave en 20 segundos: Equipos de la Primera División renuevan sus plantillas ante el nuevo campeonato.",
+      "image_url": "https://www.nacion.com/resizer/v2/W7OIFTOPWNHNDO7T2GU7R4X4A4.jpeg?auth=09673aa1e774f25e3d8111592850574c7be79cc2c08e10f7c6edee057b070842&smart=true&width=4160&height=2773",
+      "description": "Los clubes empiezan a sacudir los planteles de cara al próximo campeonato.",
+      "featured": false
+    },
+    {
       "slug": "ccss-propone-20-reformas-al-ivm-para-fortalecer-pensiones-en-costa-rica",
       "title": "CCSS propone 20 reformas al IVM para fortalecer pensiones en Costa Rica",
       "category": "Costa Rica",
@@ -212,11 +264,11 @@
       "slug": "candidaturas-al-consejo-institucional-quedan-oficializadas",
       "title": "Candidaturas al Consejo Institucional quedan oficializadas",
       "category": "Costa Rica",
-      "bullets_20s": "• Se oficializan las candidaturas al Consejo Institucional del TEC, vital para la comunidad educativa.\n• Cinco candidatos se postulan para representar distintos sectores del Instituto Tecnológico.\n• Las elecciones se realizarán el 28 de mayo mediante votación electrónica accesible a todos.\n• El Tribunal Institucional Electoral promueve la transparencia y la participación en las elecciones.\n• La campaña comenzó el 30 de abril, con eventos en todos los campus académicos del TEC.",
+      "bullets_20s": "• El Tribunal Institucional Electoral entregó credenciales a los postulados al Consejo Institucional del TEC.\n• Las elecciones se realizarán mediante votación electrónica el 28 de mayo, facilitando la participación.\n• Candidatos del sector administrativo e integrantes del sector docente fueron oficialmente postulados para la elección.\n• Este proceso busca resaltar la importancia de la participación comunitaria en la toma de decisiones.\n• Se llevarán a cabo actividades de expresión del pensamiento en diversos campus del TEC entre mayo.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/candidaturas-consejo-institucional-quedan-oficializadas-0",
       "publish_date": "2026-05-04T17:08:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Se oficializan candidaturas al Consejo Institucional del TEC, elecciones se llevarán a cabo pronto.",
+      "teaser": "Lo clave en 20 segundos: Se oficializan candidaturas para el Consejo Institucional del TEC en un proceso democrático.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/entrega-credenciales-eleccion-miembros-consejo-institucional-mayo-2026_rgarita-1.jpg",
       "description": "Candidaturas al Consejo Institucional quedan oficializadas",
       "featured": false
@@ -225,11 +277,11 @@
       "slug": "que-sabemos-del-proyecto-libertad-con-el-que-trump-quiere-escoltar-a-los-barcos-en-el-estrecho-de-ormuz",
       "title": "Qué sabemos del Proyecto Libertad con el que Trump quiere escoltar a los barcos en el estrecho de Ormuz",
       "category": "Mundo",
-      "bullets_20s": "• El Proyecto Libertad busca aumentar la seguridad marítima en el estrecho de Ormuz.\n• Las fuerzas militares estadounidenses se preparan para escoltar barcos comerciales en la región.\n• Este plan podría intensificar tensiones ya existentes con Irán y otros actores regionales.\n• El estrecho de Ormuz es crucial para el comercio energético global y transporte de petróleo.\n• Analistas discuten las posibles repercusiones diplomáticas de la implementación del Proyecto Libertad.",
+      "bullets_20s": "• El Proyecto Libertad busca proteger la navegación en el estrecho de Ormuz.\n• Los buques escoltados por fuerzas militares buscan aumentar la seguridad en la región.\n• Este anuncio puede intensificar las tensiones entre EE.UU. e Irán.\n• El estrecho de Ormuz es crucial para el transporte de petróleo mundialmente.\n• Las acciones militares en esta zona han generado preocupación internacional.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c3d2xdr84gxo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-04T16:49:26.000Z",
-      "teaser": "Lo clave en 20 segundos: Trump propone escoltar barcos en un pasaje estratégico, aumentando las tensiones.",
+      "teaser": "Lo clave en 20 segundos: Estados Unidos escoltará barcos en el estrecho de Ormuz para aumentar la seguridad.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/50ed/live/c1487670-47cf-11f1-ac78-2112837ce2aa.jpg",
       "description": "El presidente Donald Trump anunció que las fuerzas militares de su país escoltarán a buques por el estrecho de Ormuz, algo que puede reavivar los ataques en el estratégico pasaje marítimo flanqueado por Irán.",
       "featured": false
@@ -249,13 +301,13 @@
     },
     {
       "slug": "pe-dar-13-publicacion-de-edicto-para-el-tramite-de-reconocimiento-y-equiparacion-de-grados-y-titulos",
-      "title": "PE-DAR-13 Publicación de edicto para el trámite de Reconocimiento y Equiparación de Grados y Títulos",
+      "title": "PE-DAR-13  Publicación de edicto para el trámite de Reconocimiento y Equiparación de Grados y Títulos",
       "category": "Costa Rica",
-      "bullets_20s": "• El edicto busca facilitar el reconocimiento de grados y títulos en el país.\n• Se brinda información sobre los procedimientos necesarios para el trámite.\n• Los interesados deben cumplir con ciertos requisitos establecidos oficialmente.\n• El reconocimiento es crucial para la validación de estudios a nivel nacional.\n• Se espera que el proceso sea ágil y eficiente para los solicitantes.",
+      "bullets_20s": "• La publicación del edicto es un paso importante para la validación de títulos académicos.\n• Los interesados en el trámite deben seguir las instrucciones del edicto cuidadosamente.\n• Este proceso busca reconocer y equiparar grados académicos en el país.\n• Se recomienda consultar la normativa vigente sobre reconocimiento de títulos.\n• El edicto proporciona detalles sobre fechas y requisitos del trámite.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-dar-13-publicacion-edicto-tramite-reconocimiento-equiparacion-grados-titulos",
       "publish_date": "2026-05-04T16:10:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Edicto sobre Reconocimiento y Equiparación de Grados.",
+      "teaser": "Lo clave en 20 segundos: Publicación del edicto para reconocimiento de títulos académicos en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -276,12 +328,12 @@
     {
       "slug": "pe-dar-12-recepcion-de-expediente-de-reconocimiento-y-equiparacion-de-grados-y-titulos",
       "title": "PE-DAR-12  Recepción de expediente de Reconocimiento y Equiparación de Grados y Títulos",
-      "category": "Costa Rica",
-      "bullets_20s": "• La recepción del expediente es vital para el reconocimiento de grados y títulos académicos.\n• Este proceso busca garantizar la validez de la formación del personal académico.\n• Los estudiantes deben cumplir con ciertos requisitos para la presentación del expediente.\n• La modificación más reciente de este procedimiento se realizó en mayo de 2026.\n• El seguimiento adecuado del expediente puede facilitar futuras gestiones académicas.",
+      "category": "Ciencia",
+      "bullets_20s": "• El documento PE-DAR-12 detalla la recepción de expedientes académicos en el TEC.\n• Se enfoca en el reconocimiento y equiparación de títulos y grados académicos.\n• Este proceso es clave para estudiantes que desean validar sus estudios previos.\n• La modificación más reciente se realizó en mayo de 2026.\n• Los manuales y procedimientos asociadas son fundamentales para la transparencia.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-dar-12-recepcion-expediente-reconocimiento-equiparacion-grados-titulos",
       "publish_date": "2026-05-04T16:10:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Proceso importante para el reconocimiento de grados académicos.",
+      "teaser": "Lo clave en 20 segundos: Proceso de reconocimiento de grados y títulos en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -290,11 +342,11 @@
       "slug": "pe-dar-11-asignacion-de-los-espacios-fisicos-que-administra-el-departamento-de-admision-y-registro",
       "title": "PE-DAR-11 Asignación de los espacios físicos que administra el Departamento de Admisión y Registro",
       "category": "Costa Rica",
-      "bullets_20s": "• El Departamento de Admisión y Registro tiene procedimientos específicos para la asignación de espacios.\n• Se actualizarán manuales relacionados con la gestión de espacios físicos en el TEC.\n• La asignación adecuada de espacios es crucial para un funcionamiento eficiente institucional.\n• Los procedimientos buscan optimizar el uso de los recursos disponibles en la universidad.\n• Se espera una modificación continua en base a las necesidades del contexto educativo.",
+      "bullets_20s": "• El Departamento de Admisión y Registro se encarga de la gestión de espacios físicos.\n• Se presentarán manuales y procedimientos relacionados a la asignación de espacios.\n• El documento PE-DAR-11 es esencial para la organización administrativa.\n• Se espera que la información sea actualizada periódicamente.\n• La asignación de espacios físicos impacta en la experiencia académica de los estudiantes.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-dar-11-asignacion-espacios-fisicos-administra-departamento-admision-registro",
       "publish_date": "2026-05-04T16:09:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevos procedimientos para la asignación de espacios en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Asignación de espacios en el Departamento de Admisión y Registro.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -563,11 +615,11 @@
       "slug": "que-es-el-hantavirus-la-infeccion-sospechosa-de-causar-3-muertes-en-un-crucero-que-zarpo-de-ushuaia-y-cuan-extendido-est",
       "title": "Qué es el hantavirus, la infección sospechosa de causar 3 muertes en un crucero que zarpó de Ushuaia (y cuán extendido está en Argentina)",
       "category": "Mundo",
-      "bullets_20s": "• El hantavirus es un virus transmitido por roedores, que puede causar enfermedades graves en humanos.\n• Este virus está presente en varias regiones de América del Sur, incluyendo Argentina y Brasil.\n• El aumento de casos ha generado preocupación en las autoridades sanitarias de la región.\n• La infección puede transmitirse de persona a persona, aunque es raro que ocurra.\n• Se recomienda evitar el contacto con roedores y sus excrementos para prevenir infecciones.",
+      "bullets_20s": "• El hantavirus es transmitido principalmente por roedores a través de sus excrementos y orina.\n• Los síntomas iniciales incluyen fiebre, dolores musculares y fatiga extrema en los afectados.\n• El brote reciente ha generado preocupación entre viajeros y autoridades sanitarias en Argentina.\n• La prevención implica medidas sanitarias para controlar roedores en áreas de riesgo.\n• El aumento de casos en 2025 llevó a emitir alertas y recomendaciones a la población.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cg7prkzd0nvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-04T11:29:50.000Z",
-      "teaser": "Lo clave en 20 segundos: Un aumento del hantavirus genera alerta en Argentina tras muertes en crucero.",
+      "teaser": "Lo clave en 20 segundos: Se investiga un brote de hantavirus relacionado con un crucero en Argentina.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8d2e/live/c11beb30-47ae-11f1-a815-8703cc282724.jpg",
       "description": "En 2025, el Ministerio de Salud argentino emitió una alerta por el aumento del 17% en los casos registrados en el país sudamericano.",
       "featured": false
@@ -576,11 +628,11 @@
       "slug": "como-los-ataques-de-eeuu-en-el-caribe-estan-cambiando-las-rutas-del-narcotrafico-en-la-region",
       "title": "Cómo los ataques de EE.UU. en el Caribe están cambiando las rutas del narcotráfico en la región",
       "category": "Mundo",
-      "bullets_20s": "• Los ataques de EE.UU. han alterado las dinámicas del narcotráfico en el Caribe.\n• Expertos observan un cambio en las rutas de tráfico desde Venezuela hacia otras vías.\n• El narcotráfico está adoptando métodos más complejos para evadir la detección.\n• El riesgo de operar con lanchas se ha incrementado en la región caribeña.\n• A pesar de los desafíos, el tráfico de cocaína sigue siendo una gran preocupación.\n• Las estrategias de las organizaciones criminales están en constante evolución.\n• El monitoreo de estas rutas requiere cooperación internacional efectiva.",
+      "bullets_20s": "• Los ataques de EE.UU. en el Caribe han alterado las dinámicas del narcotráfico regional.\n• Los narcotraficantes están adaptando sus estrategias ante el aumento de la presión estadounidense.\n• Se prevé que el tráfico de cocaína busque rutas más complicadas y menos visibles.\n• La intervención militar en el Caribe afecta tanto a Venezuela como a otras naciones cercanas.\n• Expertos indican que la respuesta del narcotráfico es ágil y se adapta rápidamente a los cambios.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c242351611lo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-04T11:13:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Cambian las rutas del narcotráfico en el Caribe tras ataques de EE.UU.",
+      "teaser": "Lo clave en 20 segundos: ataques de EE.UU. alteran el narcotráfico en el Caribe, buscan nuevas rutas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/efd9/live/b331fa20-47ac-11f1-bd52-e755d604ece4.jpg",
       "description": "Los ataques estadounidenses han elevado el riesgo de operar vía lanchas desde Venezuela, pero expertos afirman que el tráfico de cocaína no ha disminuido, sino que se está desplazando hacia otras rutas y métodos más difíciles de detectar.",
       "featured": false
@@ -615,11 +667,11 @@
       "slug": "david-da-vinci-el-nino-genio-mexicano-con-un-coeficiente-intelectual-superior-al-de-einstein",
       "title": "David da Vinci, el niño genio mexicano con un coeficiente intelectual superior al de Einstein",
       "category": "Mundo",
-      "bullets_20s": "• David Camacho es un niño prodigio con un IQ que supera al de Einstein.\n• A sus 10 años, imparte conferencias en prestigiosas universidades.\n• Desarrolló una app innovadora para combatir el bullying escolar.\n• Está próximo a publicar un libro que refleja su experiencia personal.\n• Su historia inspira a muchos jóvenes a desafiar las adversidades.",
+      "bullets_20s": "• David Camacho es un niño prodigio con múltiples habilidades intelectuales y creativas.\n• A los 10 años ya ha dado conferencias en diversas universidades a nivel internacional.\n• Está por lanzar un libro que narra sus experiencias y aprendizajes como niño genio.\n• Su app busca combatir el bullying, tema que ha afectado su propia vida escolar.\n• El artículo resalta la importancia de apoyar a los jóvenes talentos en la educación.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdrmenx6k2zo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-04T10:23:29.000Z",
-      "teaser": "Lo clave en 20 segundos: Un niño genio que desafía las normas y combate el bullying.",
+      "teaser": "Lo clave en 20 segundos: Un niño genio usa su talento para inspirar y ayudar a otros.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/79f6/live/2ebb4900-35b3-11f1-bfb7-dfacb91b9fa4.jpg",
       "description": "Con 10 años, David Camacho imparte conferencias en universidades y para organismos internacionales, está a punto de publicar un libro y ha creado una app para darle la vuelta al bullying que sufrió en la escuela.",
       "featured": false
@@ -9738,5 +9790,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-04T20:45:29.998Z"
+  "generated_at": "2026-05-04T21:45:29.976Z"
 }
