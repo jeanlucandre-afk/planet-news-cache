@@ -1,16 +1,55 @@
 {
   "news": [
     {
-      "slug": "david-da-vinci-el-nino-genio-mexicano-con-un-coeficiente-intelectual-superior-al-de-einstein",
-      "title": "David da Vinci', el niño genio mexicano con un coeficiente intelectual superior al de Einstein",
+      "slug": "como-los-ataques-de-eeuu-en-el-caribe-estan-cambiando-las-rutas-del-narcotrafico-en-la-region",
+      "title": "Cómo los ataques de EE.UU. en el Caribe están cambiando las rutas del narcotráfico en la región",
       "category": "Mundo",
-      "bullets_20s": "• David Camacho, conocido como 'David da Vinci', muestra un talento excepcional en múltiples disciplinas.\n• A tan solo 10 años, ofrece conferencias en universidades y a organismos internacionales relevantes.\n• El pequeño genio está a punto de publicar un libro que refleja su increíble capacidad intelectual.\n• David ha creado una aplicación para ayudar a superar el bullying que sufrió en la escuela.\n• Su coeficiente intelectual supera al de figuras históricas como Albert Einstein, lo que impresiona a muchos.",
+      "bullets_20s": "• Los ataques recientes de EE.UU. han alterado la dinámica del narcotráfico en el Caribe.\n• Expertos advierten que el tráfico de cocaína se está trasladando a nuevas rutas complejas.\n• Las lanchas desde Venezuela ahora enfrentan mayores riesgos debido a la vigilancia aérea.\n• Las organizaciones criminales buscan métodos más sofisticados y menos detectables.\n• El cambio en rutas puede tener repercusiones en la seguridad regional y local.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c242351611lo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-04T11:13:15.000Z",
+      "teaser": "Lo clave en 20 segundos: los ataques de EE.UU. alteran las rutas del narcotráfico en el Caribe.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9307/live/31205390-4484-11f1-b55d-0f258dce1735.jpg",
+      "description": "Los ataques estadounidenses han elevado el riesgo de operar vía lanchas desde Venezuela, pero expertos afirman que el tráfico de cocaína no ha disminuido, sino que se está desplazando hacia otras rutas y métodos más difíciles de detectar.",
+      "featured": false
+    },
+    {
+      "slug": "editorial-nuestra-posicion-sobre-el-ataque-externo-al-periodismo-libre",
+      "title": "Editorial: Nuestra posición sobre el ataque externo al periodismo libre",
+      "category": "Costa Rica",
+      "bullets_20s": "• El ataque externo al periodismo libre pone a prueba nuestros principios fundamentales.\n• La independencia del periodismo es clave para la democracia en cualquier sociedad.\n• A pesar de la presión, nuestro compromiso con la verdad permanece intacto.\n• La defensa del periodismo libre es esencial para el bienestar social y político.\n• La crítica constructiva fortalece nuestro papel como guardianes de la información.",
+      "source_name": "La Nación",
+      "source_url": "https://www.nacion.com/opinion/editorial/editorial-nuestra-posicion-sobre-el-ataque-externo/QUUL424AJRBLNLY5WIMHUJJ2BQ/story/",
+      "publish_date": "2026-05-04T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La defensa del periodismo libre es fundamental ante ataques externos.",
+      "image_url": "https://www.nacion.com/resizer/v2/BW7FJ27HTNAFJD2OJPDNIJJJLM.png?auth=bb13b69ec0d5d50e2d9aa9b71c579def7ba004d8b50e9509a5eb117015b038a8&smart=true&width=1920&height=1080",
+      "description": "El intento de que renunciemos a nuestra independencia y los principios que nos han guiado por casi ocho décadas no prosperará. Al contrario, nos da nuevos bríos para seguir adelante. Reiteramos, con firmeza y serenidad, que seguiremos fieles a nuestros valores y compromisos democráticos.",
+      "featured": false
+    },
+    {
+      "slug": "jubilacion-anticipada-en-el-oij-elevaria-deficit-en-pensiones-del-poder-judicial-segun-estudio",
+      "title": "Jubilación anticipada en el OIJ elevaría déficit en pensiones del Poder Judicial, según estudio",
+      "category": "Costa Rica",
+      "bullets_20s": "• El estudio indica un posible aumento en el déficit por jubilación anticipada en el OIJ.\n• El régimen de pensiones del Poder Judicial busca garantizar seguridad social efectiva.\n• Los funcionarios del OIJ podrían afectar el sistema de pensiones al retirarse antes.\n• Se analizan las implicaciones financieras a largo plazo para el Poder Judicial.\n• La sostenibilidad del sistema de pensiones se vuelve crítica con estas jubilaciones anticipadas.\n• El estudio resalta la importancia de revisar políticas internas de jubilación.\n• Se invita a un debate sobre ajustes en las normativas de pensiones actuales.",
+      "source_name": "Mónica Cerdas Gómez",
+      "source_url": "https://www.nacion.com/economia/jubilacion-anticipada-en-el-oij-elevaria-deficit/PCHMGEVPWBDXFIWBOEYITKMSCA/story/",
+      "publish_date": "2026-05-04T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Jubilaciones anticipadas en el OIJ podrían afectar pensiones del Poder Judicial.",
+      "image_url": "https://www.nacion.com/resizer/v2/4SY2OHR4ZZD3ZNOHRGKEM7CINE.JPG?auth=c4529dbd2dd12918b9ed9547f1c78bed2ac2be401d2c766898aee3d978214b3a&smart=true&width=5000&height=3333",
+      "description": "El Fondo de Jubilaciones y Pensiones del Poder Judicial es un régimen básico del primer pilar, que garantiza una cobertura de la seguridad social para los funcionarios del Poder Judicial",
+      "featured": false
+    },
+    {
+      "slug": "david-da-vinci-el-nino-genio-mexicano-con-un-coeficiente-intelectual-superior-al-de-einstein",
+      "title": "David da Vinci, el niño genio mexicano con un coeficiente intelectual superior al de Einstein",
+      "category": "Mundo",
+      "bullets_20s": "• David Camacho, un niño prodigio, destaca por su alto coeficiente intelectual y habilidades excepcionales.\n• A su corta edad, imparte conferencias en universidades sobre temas tecnológicos y de educación.\n• David se enfrenta al bullying y ha desarrollado una app para ayudar a otros niños en situaciones similares.\n• El joven talentoso está trabajando en la publicación de su primer libro, donde comparte su experiencia.\n• Con solo diez años, ha sido invitado a colaborar con organismos internacionales en proyectos educativos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdrmenx6k2zo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-04T10:23:29.000Z",
-      "teaser": "Lo clave en 20 segundos: un niño genio que transforma el bullying en conocimiento.",
+      "teaser": "Lo clave en 20 segundos: Un niño genio que desafía barreras y apoya a sus compañeros.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/79f6/live/2ebb4900-35b3-11f1-bfb7-dfacb91b9fa4.jpg",
-      "description": "Con 10 años, David Camacho imparte conferencias en universidades y para organismos internacionales.",
+      "description": "Con 10 años, David Camacho imparte conferencias en universidades y para organismos internacionales, está a punto de publicar un libro y ha creado una app para darle la vuelta al bullying que sufrió en la escuela.",
       "featured": false
     },
     {
@@ -43,11 +82,11 @@
       "slug": "que-son-las-refinerias-teteras-de-china-y-como-estan-amortiguando-la-crisis-petrolera-por-la-guerra-en-iran",
       "title": "Qué son las \"refinerías teteras\" de China y cómo están amortiguando la crisis petrolera por la guerra en Irán",
       "category": "Mundo",
-      "bullets_20s": "• Las refinerías teteras son instalaciones pequeñas e independientes en China.\n• Procesan crudo de países con sanciones, como Venezuela, Irán y Rusia.\n• Estas refinerías compran petróleo a precios reducidos y lo refinan.\n• Sirven como alternativa en la crisis del petróleo mundial actual.\n• La guerra en Irán ha intensificado la necesidad de fuentes alternativas.\n• La industria petrolera está cambiando con estas nuevas refinerías emergentes.\n• La creación de estas refinerías ha aumentado en los últimos años.",
+      "bullets_20s": "• Las refinerías teteras son plantas pequeñas e independientes en China, únicas en su tipo.\n• Estas refinerías permiten la compra de petróleo a precios muy reducidos de países sancionados.\n• Venezuela e Irán son dos de los principales proveedores de crudo a las refinerías chinas.\n• Aumenta la importancia de estas refinerías en medio de la crisis energética global actual.\n• Las teteras ayudan a mantener la estabilidad en el mercado energético a pesar de las restricciones.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ce8lr0v0dqgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-04T03:53:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Las refinerías teteras chinas son clave en la crisis petrolera global.",
+      "teaser": "Lo clave en 20 segundos: Las refinerías chinas están contrarrestando la crisis petrolera global con crudo barato.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4517/live/0a347530-3fd5-11f1-aec8-9b10f844369d.jpg",
       "description": "Las refinerías pequeñas e independientes chinas procesan el crudo de países como Venezuela, Irán y Rusia, países que están bajo sanciones para evitar que lo vendan. Y lo compran a precios muy reducidos.",
       "featured": false
@@ -56,11 +95,11 @@
       "slug": "centenaria-relojeria-de-san-jose-cierra-sus-puertas-no-es-una-quiebra-ni-hay-insolvencia",
       "title": "Centenaria relojería de San José cierra sus puertas: ‘No es una quiebra ni hay insolvencia’",
       "category": "Costa Rica",
-      "bullets_20s": "• La relojería cierra tras más de un siglo de ofrecer servicio en San José.\n• No se trata de una quiebra, sino de una decisión empresarial.\n• La tienda ofrece un 30% de descuento en todos sus productos antes del cierre.\n• Los empleados están informados y apoyan la decisión del cierre.\n• La comunidad lamenta la pérdida de un establecimiento icónico en la ciudad.",
+      "bullets_20s": "• La relojería fue un ícono en San José durante más de un siglo de operación exitosa.\n• A pesar del cierre, los dueños aclaran que no hay insolvencia ni problemas financieros.\n• Los productos están en liquidación con un atractivo 30% de descuento para los clientes.\n• Esta situación refleja los cambios en el comercio local y la adaptación a nuevas tendencias.\n• Los santacruceños sienten nostalgia al despedir a un negocio con tanta historia y legado.\n• Se espera que la comunidad reaccione ante este cierre, buscando un nuevo enfoque.\n• La relojería dejó una huella importante en generaciones de costarricenses y turistas.",
       "source_name": "Aarón Sequeira",
       "source_url": "https://www.nacion.com/el-pais/centenaria-relojeria-de-san-jose-cierra-sus/TQDFRTH3GJHBZAUY63EQXWQXAU/story/",
       "publish_date": "2026-05-04T03:31:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Una relojería centenaria cierra sin ser insolvente; venta de artículos con descuento.",
+      "teaser": "Lo clave en 20 segundos: La emblemática relojería cierra tras 121 años de historia, sin deudas ni problemas financieros.",
       "image_url": "https://www.nacion.com/resizer/v2/N257TZ5OZRAZLGQSCVMKSKHXXE.JPG?auth=d54d085dd3496104b731da34495910495850035912eaf234fd69105e7742e3d1&smart=true&width=4106&height=2733",
       "description": "El local cierra sus puertas luego de 121 años de labores; vende todo con 30% de descuento",
       "featured": false
@@ -69,11 +108,11 @@
       "slug": "fox-sorprende-y-ya-debuto-en-su-pantalla-a-historico-narrador-costarricense",
       "title": "Fox sorprende y ya debutó en su pantalla a histórico narrador costarricense",
       "category": "Costa Rica",
-      "bullets_20s": "• Fox incorpora un narrador costarricense en sus transmisiones deportivas, marcando una gran novedad.\n• La inclusión de voces locales busca conectar mejor con la audiencia costarricense.\n• Históricamente, narradores nacionales han influido en el deporte en Costa Rica.\n• Se espera que este cambio impacte positivamente en la aceptación de la cadena.\n• Los aficionados ya pueden disfrutar de su voz en los partidos transmitidos en vivo.\n• El evento destaca la importancia de la identidad cultural en los medios de comunicación.\n• Esta decisión podría abrir puertas a más talentos nacionales en la televisión.\n• El narrador costarricense cuenta con años de experiencia en el medio deportivo.\n• La tendencia de incluir voces locales se extiende a otras plataformas internacionalmente.\n• Fox busca diferenciarse en un mercado competitivo con este tipo de innovaciones.",
+      "bullets_20s": "• La narración costarricense llega a una plataforma internacional como FOX. Esto representa un gran logro.\n• Este narrador costarricense es conocido por su trayectoria en el mundo del fútbol. Su experiencia destaca.\n• La inclusión de narradores locales en medios internacionales amplía la representación del talento nacional.\n• Los fanáticos costarricenses ahora pueden escuchar a su narrador favorito en esta nueva plataforma.\n• Fox busca diversificar su programación al incluir voces de diferentes países en sus transmisiones deportivas.",
       "source_name": "Esteban Valverde, Fanny Tayver Marín",
       "source_url": "https://www.nacion.com/puro-deporte/futbol/fox-sorprende-y-ya-debuto-en-su-pantalla-a/CUD7EXL3MZAVBKVAZ4LJIN7LSM/story/",
       "publish_date": "2026-05-04T03:27:10.000Z",
-      "teaser": "Lo clave en 20 segundos: Fox presenta un narrador costarricense para sus eventos deportivos.",
+      "teaser": "Lo clave en 20 segundos: Fox incorpora un narrador costarricense a sus transmisiones deportivas.",
       "image_url": "https://www.nacion.com/resizer/v2/6MUFHMM5GZBRRDB6TKQ3F3IYNQ.jpg?auth=b4ee4ce71fc5fb057397e51d27a542d961fcb832212adb7249497cdad7560c9c&smart=true&width=1200&height=800",
       "description": "Fox ya tiene voz costarricense en sus transmisiones, acá puede escucharla.",
       "featured": false
@@ -82,11 +121,11 @@
       "slug": "reviva-el-momento-mas-tenso-de-la-semifinal-erick-cubo-torres-se-encara-con-el-gigante-de-concacaf",
       "title": "Reviva el momento más tenso de la semifinal: Erick ‘Cubo’ Torres se encara con el gigante de Concacaf",
       "category": "Costa Rica",
-      "bullets_20s": "• El encuentro entre Cuba y Waston generó gran expectativa entre los aficionados al fútbol.\n• Ambos jugadores son destacados en el contexto del fútbol costarricense e internacional.\n• Este tipo de tensiones es común en partidos decisivos de competencias importantes.\n• La rivalidad entre equipos de la Concacaf suele ser intensa y emocionante.\n• Los aficionados vivieron momentos de gran emoción y adrenalina durante el partido.",
+      "bullets_20s": "• Erick Torres y Kendall Waston protagonizan un momento polémico en semifinales.\n• Ambos jugadores de fútbol compiten al máximo nivel, generando tensión en el campo.\n• La rivalidad entre estos equipos aumenta la emoción de los aficionados.\n• Los encuentros entre jugadores claves a menudo definen los partidos importantes.\n• La semifinal es un escenario donde las emociones están a flor de piel.",
       "source_name": "Milton Montenegro",
       "source_url": "https://www.nacion.com/puro-deporte/reviva-el-momento-mas-tenso-de-la-semifinal-erick/2ODKYSVRHVDOTP7IU5TABB3LDA/story/",
       "publish_date": "2026-05-04T02:39:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Cubo Torres y Waston protagonizan un momento tenso en la semifinal.",
+      "teaser": "Lo clave en 20 segundos: enfrentamiento entre Erick Torres y Kendall Waston sorprende en semifinal.",
       "image_url": "https://www.nacion.com/resizer/v2/T4TEELRL2FC5FOJTZBCCQDYK5Y.jpeg?auth=95cfa28eecc0f084f2ad5d357d46a8bf5a53cd6111376f1237b440898768619d&smart=true&width=1080&height=608",
       "description": "Erick 'Cubo' Torres, delantero de Liberia, tuvo un encontronazo con Kendall Waston.",
       "featured": false
@@ -264,11 +303,11 @@
       "slug": "3-muertos-en-un-posible-brote-de-hantavirus-dentro-un-crucero-que-zarpo-de-argentina",
       "title": "3 muertos en un posible brote de hantavirus dentro un crucero que zarpó de Argentina",
       "category": "Mundo",
-      "bullets_20s": "• Un brote de hantavirus ha sido reportado en un crucero que salió de Argentina.\n• La OMS está investigando un caso confirmado y cinco sospechosos de hantavirus.\n• Tres personas han perdido la vida a causa de este brote en el crucero.\n• Los pasajeros están siendo monitoreados para prevenir más infecciones.\n• Se están tomando medidas de salud pública para contener el virus rápidamente.",
+      "bullets_20s": "• Un brote de hantavirus ha sido reportado en un crucero desde Argentina. Tres muertes confirmadas.\n• La Organización Mundial de la Salud está investigando los casos y ofreciendo asistencia a las autoridades.\n• Los síntomas del hantavirus incluyen fiebre, dolores musculares y problemas respiratorios graves.\n• El crucero había zarpado recientemente, y los pasajeros están siendo monitoreados.\n• Se recomienda precaución ante la posibilidad del contagio en ambientes cerrados como cruceros.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdjpgrp2p3po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T20:50:39.000Z",
-      "teaser": "Lo clave en 20 segundos: un brote de hantavirus causa tres muertes en un crucero argentino.",
+      "teaser": "Lo clave en 20 segundos: Un brote de hantavirus deja tres muertos en un crucero argentino.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/40c2/live/1b9c5be0-474a-11f1-bd52-e755d604ece4.jpg",
       "description": "La OMS confrimó un caso de infección por hantavirus y están investigando otros 5 casos sospechosos.",
       "featured": false
@@ -2902,12 +2941,12 @@
     {
       "slug": "pe-ai-19-aseguramiento-de-la-calidad",
       "title": "PE-AI-19 Aseguramiento de la calidad",
-      "category": "Ciencia",
-      "bullets_20s": "• Se presenta un enfoque sistemático para el aseguramiento de la calidad en procesos educativos.\n• Los manuales y procedimientos son esenciales para garantizar la consistencia y efectividad.\n• Se analiza la importancia de la retroalimentación en la mejora continua de la calidad.\n• Los estándares de calidad permiten una evaluación objetiva de las prácticas educativas.\n• El documento es un recurso valioso para instituciones enfocadas en la excelencia académica.",
+      "category": "Tecnología",
+      "bullets_20s": "• El PE-AI-19 se centra en la importancia del aseguramiento de la calidad en procesos.\n• Incluye manuales y procedimientos necesarios para implementar estándares de calidad.\n• El documento fue modificado por última vez en abril de 2026, reflejando actualizaciones.\n• Es fundamental para asegurar que los resultados cumplan con las expectativas establecidas.\n• La calidad es clave en sectores tecnológicos y de servicios para optimizar procesos.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ai-19-aseguramiento-calidad",
       "publish_date": "2026-04-30T15:55:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Aseguramiento de calidad en procesos educativos y su importancia.",
+      "teaser": "Lo clave en 20 segundos: aseguramiento de calidad en procesos y manuales actualizados.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -3527,11 +3566,11 @@
       "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
       "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC ha anunciado un ajuste significativo en el montos de las becas socioeconómicas.\n• Más de 15 mil estudiantes fueron beneficiados gracias a nuevas becas en 2025.\n• Las becas buscan mejorar el acceso a la educación superior en situaciones de vulnerabilidad.\n• Programas de acompañamiento ayudan a estudiantes de primer ingreso a adaptarse a la universidad.\n• El sistema universitario estatal celebra avances en inclusión y equidad en el acceso a la educación.",
+      "bullets_20s": "• El Tecnológico de Costa Rica otorgó más de 23 mil becas a estudiantes en 2025, fortaleciendo la educación superior.\n• Las becas socioeconómicas aumentaron significativamente, y el TEC logró beneficiar a más estudiantes este año.\n• Se implementaron estrategias variadas para reducir la deserción estudiantil y mejorar los índices de permanencia.\n• La institución reafirma su compromiso con la educación, apoyando a quienes más lo necesitan en el país.\n• El informe destaca el fortalecimiento del sistema educativo a través de la negociación del FEES 2026.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
       "publish_date": "2026-04-29T17:20:04.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC benefició a más de 15 mil estudiantes con nuevas becas en 2025.",
+      "teaser": "Lo clave en 20 segundos: El TEC otorgó más de 23 mil becas en 2025, beneficiando a más de 15 mil estudiantes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
       "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "featured": false
@@ -9127,5 +9166,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-04T10:45:30.300Z"
+  "generated_at": "2026-05-04T11:45:30.358Z"
 }
