@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "oscar-arias-culpa-a-rodrigo-chaves-por-retiro-de-visas-a-directivos-de-la-nacion-es-una-profunda-herida-a-nuestra-libert",
+      "title": "Óscar Arias culpa a Rodrigo Chaves por retiro de visas a directivos de ‘La Nación’: ‘Es una profunda herida a nuestra libertad de prensa’",
+      "category": "Costa Rica",
+      "bullets_20s": "• Óscar Arias expresa su desacuerdo con el retiro de visas a la prensa de 'La Nación'.\n• El expresidente sugiere que esto atenta contra la libertad de expresión en el país.\n• Arias hace un llamado a la defensa de la prensa independiente en Costa Rica.\n• Se menciona la creciente tensión entre la prensa y el gobierno actual.\n• El expresidente critica la falta de garantías para el ejercicio del periodismo.",
+      "source_name": "Aarón Sequeira",
+      "source_url": "https://www.nacion.com/politica/oscar-arias-culpa-a-rodrigo-chaves-por-retiro-de/H23DYD4PDJHX7L3BYBZU2BKHNA/story/",
+      "publish_date": "2026-05-03T23:50:45.000Z",
+      "teaser": "Lo clave en 20 segundos: Óscar Arias cuestiona acción del gobierno que afecta la libertad de prensa.",
+      "image_url": "https://www.nacion.com/resizer/v2/QXMM7O3X3NCRNF2SAIWQTJN7JE.JPG?auth=88ff59222d5c0dd7c9dc358d21f8824caa4ffb1ace6ff6e05ed95a515368f6fe&smart=true&width=3000&height=2000",
+      "description": "Óscar Arias, expresidente de la República, califica el retiro de la visa estadounidense a directivos de 'La Nación' como un intento de intimidación propio de regímenes autoritarios",
+      "featured": false
+    },
+    {
+      "slug": "el-real-madrid-retrasa-la-celebracion-del-barcelona-en-la-liga-espanola",
+      "title": "El Real Madrid retrasa la celebración del Barcelona en la Liga Española",
+      "category": "Mundo",
+      "bullets_20s": "• El Real Madrid logra un importante triunfo en la Liga Española en un partido muy reñido.\n• Vinicius destacando en el juego, mostrando habilidades excepcionales en la cancha.\n• La victoria retrasa la celebración del Barcelona, que aún apunta a ganar el campeonato.\n• Los aficionados del Madrid celebran con entusiasmo la victoria, a pesar de la adversidad.\n• La lucha por el título sigue tensionando la rivalidad entre los dos grandes del fútbol español.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/puro-deporte/el-real-madrid-retrasa-la-celebracion-del/D3Q2SMNGT5FBDLLB3KME2PZYT4/story/",
+      "publish_date": "2026-05-03T23:38:36.000Z",
+      "teaser": "Lo clave en 20 segundos: El Real Madrid sorprende y retrasa la celebración del Barcelona en la Liga Española.",
+      "image_url": "https://www.nacion.com/resizer/v2/TNH4UHPUCZAC7M2IDKHM4D5NXQ.jpg?auth=eb8a37723bfef9406a9eb29965138651b2f17297acbc6bc376e5559f31fdde82&smart=true&width=2316&height=1637",
+      "description": "Vinicius fue la figura del Real Madrid ante la ausencia de Mbappé, en una Liga Española casi decidida a favor del Barcelona.",
+      "featured": false
+    },
+    {
       "slug": "los-asesinatos-en-el-distrito-catedral-una-novela-futurista-sobre-la-condicion-humana",
       "title": "Los asesinatos en el distrito Catedral: Una novela futurista sobre la condición humana",
       "category": "Mundo",
@@ -108,13 +134,13 @@
       "slug": "3-muertos-en-un-posible-brote-de-hantavirus-dentro-un-crucero-que-zarpo-de-argentina",
       "title": "3 muertos en un posible brote de hantavirus dentro un crucero que zarpó de Argentina",
       "category": "Mundo",
-      "bullets_20s": "• La OMS está investigando un brote de hantavirus en un crucero argentino.\n• Tres personas han perdido la vida en este brote de hantavirus.\n• Se han confirmado varios casos sospechosos entre los pasajeros del crucero.\n• Las autoridades están implementando medidas de prevención y control.\n• El hantavirus puede ser transmitido por roedores, elevando la preocupación.",
+      "bullets_20s": "• Tres personas han fallecido por un posible brote de hantavirus en un crucero.\n• La infección se detectó en un barco que partió desde Argentina hacia otros destinos.\n• La Organización Mundial de la Salud está investigando varios casos sospechosos.\n• Este brote genera preocupación por la salud pública y la seguridad en viajes.\n• Se están implementando medidas para controlar la propagación del virus en el crucero.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdjpgrp2p3po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T20:50:39.000Z",
-      "teaser": "Lo clave en 20 segundos: brote de hantavirus en crucero argentino deja tres muertos.",
+      "teaser": "Lo clave en 20 segundos: tres fallecidos por hantavirus en crucero argentino, OMS investiga más casos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/eef5/live/0122f2c0-471c-11f1-973f-3fcb874893eb.jpg",
-      "description": "La OMS confrimó un caso de infección por hantavirus y están investigando otros 5 casos sospechosos.",
+      "description": "La OMS confirmó un caso de infección por hantavirus y están investigando otros 5 casos sospechosos.",
       "featured": false
     },
     {
@@ -238,11 +264,11 @@
       "slug": "la-red-clandestina-que-introduce-tecnologia-starlink-en-iran-para-sortear-el-bloqueo-de-internet",
       "title": "La red clandestina que introduce tecnología Starlink en Irán para sortear el bloqueo de internet",
       "category": "Mundo",
-      "bullets_20s": "• Las redes clandestinas han aumentado debido a los bloqueos de internet en Irán.\n• Starlink ofrece una solución innovadora para el acceso a información no censurada.\n• Sahand revela detalles sobre el contrabando de terminales de internet satelital.\n• La tecnología satelital ha cambiado la forma en que las personas se comunican en Irán.\n• El objetivo es mostrar la realidad del país a través del acceso a internet.",
+      "bullets_20s": "• Un contrabandista de Irán, Sahand, introduce tecnología Starlink para sortear bloqueos de internet.\n• Las terminales de Internet satelital facilitan acceso a información real y no censurada.\n• La red clandestina busca desafiar el control del gobierno sobre la comunicación.\n• El contrabando de tecnología se ha incrementado en medio de restricciones severas.\n• Starlink se convierte en herramienta crucial para la libertad de información en Irán.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cglp9xg8939o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T17:17:51.000Z",
-      "teaser": "Lo clave en 20 segundos: red clandestina usa Starlink para vencer bloqueo en Irán.",
+      "teaser": "Lo clave en 20 segundos: Una red clandestina usa Starlink en Irán para eludir bloqueos de internet.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8c14/live/20b8b580-44c8-11f1-ac78-2112837ce2aa.jpg",
       "description": "Sahand, uno de los contrabandistas, asegura al Servicio Mundial de la BBC que envía terminales de Internet satelital dentro del país para ayudar a mostrar “la realidad tal y como es”.",
       "featured": false
@@ -615,11 +641,11 @@
       "slug": "6-antiguas-tecnologias-que-desconcertaron-a-la-ciencia-moderna-y-aun-son-dificiles-de-replicar",
       "title": "6 antiguas tecnologías que desconcertaron a la ciencia moderna (y aún son difíciles de replicar)",
       "category": "Ciencia",
-      "bullets_20s": "• Antiguas tecnologías sorprendieron a científicos modernos por su complejidad y eficiencia.\n• Artisanías de civilizaciones como los romanos exhiben saberes que aún desconciertan.\n• Estrategias de construcción inca son consideradas avances técnicos impresionantes.\n• El manejo de materiales por etruscos presenta conocimientos avanzados para su época.\n• La metalurgia maya reveló técnicas de producción que aún no se replican con exactitud.",
+      "bullets_20s": "• Las antiguas civilizaciones tenían técnicas sorprendentes en arquitectura y ingeniería.\n• Los romanos construyeron acueductos que aún se estudian por su sofisticación.\n• Los mayas utilizaron calendarios astronómicos increíblemente precisos para su época.\n• La metalurgia inca mostraba una comprensión avanzada de aleaciones y forjas.\n• Los etruscos destacaron en la cerámica y la escultura sin herramientas modernas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c624n4e6q14o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T10:43:52.000Z",
-      "teaser": "Lo clave en 20 segundos: viejas tecnologías sorprendieron por su ingenio y complejidad.",
+      "teaser": "Lo clave en 20 segundos: Tecnologías antiguas que asombran aún hoy por su complejidad y precisión.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d861/live/88b51ad0-378e-11f1-9d5c-8ba507d7dbde.jpg",
       "description": "Durante siglos no se supo explicar lo que artesanos romanos, incas, etruscos y mayas lograron sin microscopios ni espectrómetros. Entenderlo los hizo aún más admirables.",
       "featured": false
@@ -628,11 +654,11 @@
       "slug": "la-extraordinaria-historia-de-hercules-el-oso-al-que-una-pareja-adopto-y-crio-como-parte-de-su-familia",
       "title": "La extraordinaria historia de Hércules, el oso al que una pareja adoptó y crio como parte de su familia",
       "category": "Mundo",
-      "bullets_20s": "• Hércules fue adoptado por una pareja que se convirtió en su familia desde cachorro.\n• La historia de Hércules muestra la conexión única entre los humanos y los animales.\n• Maggie y Andy Robin criaron a Hércules con amor y responsabilidad durante años.\n• Este oso se volvió una parte integral de la vida de sus adoptantes.\n• La relación entre ellos ha inspirado a muchas personas alrededor del mundo.",
+      "bullets_20s": "• Hércules, un oso, fue adoptado por una pareja que lo crió como un miembro de su familia.\n• La historia explora el vínculo emocional único entre los humanos y los animales.\n• Los desafíos de tener un oso en casa, desde la alimentación hasta el cuidado diario.\n• Se destacan las risas y momentos entrañables que vivieron juntos durante los años.\n• Reflexiones sobre la responsabilidad de criar un animal salvaje en un entorno doméstico.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g4ke6z1zro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T10:16:44.000Z",
-      "teaser": "Lo clave en 20 segundos: La conmovedora relación de una pareja con su oso adoptado, Hércules.",
+      "teaser": "Lo clave en 20 segundos: La conmovedora relación entre una pareja y un oso llamado Hércules.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e2d0/live/853839b0-1e1f-11f1-bd56-df0cd723329e.jpg",
       "description": "Hércules llegó a la vida de Maggie y Andy Robin cuando era un cachorro de nueve meses. Durante los años que vivieron juntos desarrollaron una relación única. Te contamos su historia.",
       "featured": false
@@ -641,11 +667,11 @@
       "slug": "vestida-para-gobernar-que-muestran-la-ropa-y-el-peinado-de-la-hija-de-kim-jong-un-sobre-como-la-preparan-para-reemplazar",
       "title": "Vestida para gobernar: qué muestran la ropa y el peinado de la hija de Kim Jong-un sobre cómo la preparan para reemplazar al líder de Corea del Norte",
       "category": "Mundo",
-      "bullets_20s": "• La hija de Kim Jong-un, Kim Ju Ae, se presenta en actos con un estilo particular.\n• Expertos analizan cómo su vestimenta refleja su posible futuro en el poder.\n• La ropa de lujo occidental en Corea del Norte es considerada prohibida y reaccionaria.\n• La aparición pública de Kim Ju Ae se vuelve cada vez más frecuente y notable.\n• Analistas sugieren que su estilo no es solo rebeldía, sino un mensaje político.",
-      "source_name": "",
+      "bullets_20s": "• La aparición de Kim Ju Ae genera especulaciones sobre su futuro en el liderazgo norcoreano.\n• Los expertos analizan el simbolismo detrás de su vestimenta y peinado en actos oficiales.\n• Marcas de lujo occidentales en Corea del Norte son consideradas reacciones de la juventud.\n• Las decisiones de vestimenta pueden reflejar un cambio en la percepción del régimen.\n• El secretismo norcoreano hace difícil entender sus intenciones con Kim Ju Ae.",
+      "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ce9pzv54n4po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-03T04:03:28.000Z",
-      "teaser": "Lo clave en 20 segundos: la hija de Kim Jong-un se prepara para el liderazgo en Corea del Norte.",
+      "teaser": "Lo clave en 20 segundos: El estilo de Kim Ju Ae sugiere un futuro político en Corea del Norte.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/edaa/live/96003d80-4249-11f1-ac78-2112837ce2aa.jpg",
       "description": "Kim Ju Ae aparece cada vez con más frecuencia en actos públicos, donde luce marcas de lujo occidentales prohibidas en Corea del Norte por considerarse reaccionarias y antisocialistas. Pero los expertos en el hermético país aseguran que esto no se trata de un gesto de rebeldía adolescente.",
       "featured": false
@@ -2746,12 +2772,12 @@
     {
       "slug": "pe-ai-19-aseguramiento-de-la-calidad",
       "title": "PE-AI-19 Aseguramiento de la calidad",
-      "category": "Ciencia",
-      "bullets_20s": "• El documento PE-AI-19 aborda el aseguramiento de la calidad en diversas áreas.\n• Se detallan manuales y procedimientos necesarios para garantizar estándares.\n• La última modificación del documento ocurrió en abril del 2026.\n• Es esencial para instituciones que buscan mejorar su calidad educativa.\n• Promueve un enfoque sistemático para la mejora continua.",
+      "category": "Tecnología",
+      "bullets_20s": "• El aseguramiento de la calidad es vital para garantizar estándares adecuados.\n• Los manuales y procedimientos facilitan la implementación de mejoras en la calidad.\n• El sistema PE-AI-19 busca optimizar procesos en diferentes áreas tecnológicas.\n• Las actualizaciones se realizan periódicamente para mantenerse al día con las normativas.\n• La calidad del servicio influye en la satisfacción del cliente y su fidelidad.\n• Los procedimientos establecidos son esenciales para la consistencia en los resultados.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ai-19-aseguramiento-calidad",
       "publish_date": "2026-04-30T15:55:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Estrategias para asegurar calidad en instituciones educativas.",
+      "teaser": "Lo clave en 20 segundos: Importancia del aseguramiento de la calidad en procesos tecnológicos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -3371,11 +3397,11 @@
       "slug": "informe-de-rectoria-2025-tec-otorgo-mas-de-23-mil-becas-y-beneficio-a-mas-de-15-mil-estudiantes",
       "title": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica otorgó 23.323 becas en 2025 a miles de estudiantes en situación vulnerable.\n• Las becas socioeconómicas duplicaron su monto en 2025, facilitando el acceso a la educación superior.\n• El informe destaca un aumento del 0,5% en el FEES destinado a becas y apoyos estudiantiles.\n• Se desarrollaron 179 actividades para retener estudiantes y 152 iniciativas para reducir la deserción.\n• El 53,12% de los estudiantes provienen de cantones con niveles de desarrollo social medio y bajo.",
+      "bullets_20s": "• El Tecnológico de Costa Rica otorgó 23,323 becas en 2025, impactando a miles de estudiantes.\n• Se duplicaron los montos de las becas socioeconómicas, facilitando el acceso a la educación superior.\n• El sistema de apoyos estudiantiles se ha fortalecido, enfocándose en la equidad y permanencia académica.\n• La presidenta del CONARE destacó los logros en la negociación del FEES 2026 para más recursos.\n• El 53.12% de los estudiantes provienen de cantones con necesidades sociales elevadas.\n• Se desarrollaron 179 actividades para mejorar la retención estudiantil y reducir la deserción.\n• El TEC realizó 67 proyectos de extensión, beneficiando a comunidades vulnerables en todo el país.\n• La investigación se mantiene como uno de los pilares con 190 proyectos activos en 2025.\n• La rectora fue reconocida por su liderazgo en el sector educación de Costa Rica.\n• El informe resalta el compromiso del TEC con la equidad en la educación superior.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/informe-rectoria-2025-tec-otorgo-mas-23-mil-becas-beneficio-mas-15-mil-estudiantes",
       "publish_date": "2026-04-29T17:20:04.000Z",
-      "teaser": "Lo clave en 20 segundos: El Tecnológico de Costa Rica impulsó becas históricas para estudiantes en 2025.",
+      "teaser": "Lo clave en 20 segundos: TEC otorgó más de 23 mil becas en 2025, impactando la educación superior.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/informeee.jpg",
       "description": "Informe de Rectoría 2025: TEC otorgó más de 23 mil becas y benefició a más de 15 mil estudiantes",
       "featured": false
@@ -8971,5 +8997,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-03T23:45:29.954Z"
+  "generated_at": "2026-05-04T00:45:30.794Z"
 }
