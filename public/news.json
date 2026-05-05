@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "cafe-impacta-intestino-y-cerebro-estudio-revela-efectos-en-humor-memoria-y-estres",
+      "title": "Café impacta intestino y cerebro: estudio revela efectos en humor, memoria y estrés",
+      "category": "Ciencia",
+      "bullets_20s": "• Investigadores analizan cómo el café modifica el microbioma intestinal de los consumidores.\n• El estudio destaca que el café puede tener efectos positivos en la memoria y atención.\n• Se descubrió que el café ayuda a reducir el estrés en las personas que lo consumen moderadamente.\n• Los efectos del café en el cerebro podrían influir en la regulación del estado de ánimo.\n• Consumir café podría ser un hábito saludable si se hace de manera equilibrada y consciente.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/ciencia/salud/cafe-impacta-intestino-y-cerebro-estudio-revela/C26V4DG3BJG4NHQX2EWKXBMMX4/story/",
+      "publish_date": "2026-05-05T19:20:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El café impacta el intestino y cerebro, afectando humor y memoria.",
+      "image_url": "https://www.nacion.com/resizer/v2/J23LKV4DSZAA5EOMX75XI6SZEY.png?auth=66d12fcd1240acc79b3be6fa0699f9698e7828de9a828fbdcf5315a1d4b1da98&smart=true&width=1920&height=1080",
+      "description": "Estudio revela cómo el café modifica el microbioma intestinal y afecta el cerebro. Hallazgos muestran impacto en humor, memoria, estrés y atención.",
+      "featured": false
+    },
+    {
+      "slug": "apelacion-obliga-a-suspender-campeonato-en-medio-de-semifinales-cuando-equipos-buscan-el-ascenso",
+      "title": "Apelación obliga a suspender campeonato en medio de semifinales cuando equipos buscan el ascenso",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los equipos estaban listos para la semifinal del campeonato nacional de fútbol.\n• Una apelación ha llevado a la suspensión del torneo en su etapa crucial.\n• Los aficionados esperan ansiosos una resolución para el futuro del campeonato.\n• El reglamento obliga a congelar el torneo ante la adversidad legal presentada.\n• La situación afecta tanto a los equipos como a sus seguidores en todo el país.",
+      "source_name": "Juan Diego Villarreal",
+      "source_url": "https://www.nacion.com/puro-deporte/apelacion-obliga-a-suspender-campeonato-en-medio/LJXFPNRP7VFPDKOR42L6YLEA4I/story/",
+      "publish_date": "2026-05-05T19:08:59.000Z",
+      "teaser": "Lo clave en 20 segundos: Apelación suspende el campeonato en semifinales, esperando resolución legal.",
+      "image_url": "https://www.nacion.com/resizer/v2/B23HYQ6V3RBYZMVKLK5XHGRKPU.jpg?auth=62eec6b55d5b3b50652087d7b63081ee456ad2404634ba9822c6a076b0b69d98&smart=true&width=1440&height=1152",
+      "description": "Equipos clasificados a las semifinales deben esperar a que se resuelva una apelación para continuar con el torneo.",
+      "featured": false
+    },
+    {
+      "slug": "como-ucrania-logro-volver-a-su-favor-el-tremendo-impacto-de-la-guerra-en-iran",
+      "title": "Cómo Ucrania logró volver a su favor el tremendo impacto de la guerra en Irán",
+      "category": "Mundo",
+      "bullets_20s": "• Ucrania ha estado enfrentando desafíos significativos por la guerra en Irán en el contexto actual.\n• El presidente Zelensky realizó visitas estratégicas a varios países del Golfo para fortalecer lazos.\n• Se busca mostrar la capacidad militar de Ucrania como un factor de disuasión en la región.\n• La diplomacia ha sido clave en la estrategia de Ucrania para manejar la crisis en curso.\n• Los líderes de la región están observando de cerca el desarrollo de estas relaciones bilaterales.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c232n8dr051o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-05T18:43:12.000Z",
+      "teaser": "Lo clave en 20 segundos: Ucrania ha intensificado la diplomacia para enfrentar la crisis de la guerra en Irán.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e40e/live/8c9eb970-4626-11f1-ac78-2112837ce2aa.jpg",
+      "description": "El presidente de Ucrania, Volodymyr Zelensky, visitó recientemente varios países del Golfo para demostrar la capacidad militar de su país.",
+      "featured": false
+    },
+    {
+      "slug": "por-que-alberta-la-provincia-mas-rica-de-canada-se-esta-rebelando-y-quiere-independizarse-del-pais",
+      "title": "Por qué Alberta, la provincia más rica de Canadá, se está rebelando y quiere independizarse del país",
+      "category": "Mundo",
+      "bullets_20s": "• Alberta es una de las provincias más ricas de Canadá, con gran producción económica.\n• El movimiento separatista Stay Free Alberta busca un referendo para la independencia.\n• Las tensiones entre Alberta y el gobierno federal han aumentado en los últimos años.\n• Los albertanos están divididos sobre la idea de formar un país independiente.\n• La historia de Alberta está marcada por su rica herencia cultural y económica.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c93xld9zv3xo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-05T18:35:47.000Z",
+      "teaser": "Lo clave en 20 segundos: Alberta considera la independencia por tensiones con el gobierno canadiense.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1687/live/38ff6930-48b1-11f1-90e6-350a323e11ac.jpg",
+      "description": "Los organizadores del movimiento separatista Stay Free Alberta presentaron una solicitud formal para un referendo independentista, pero queda por ver si los albertanos votarán por la secesión de Canadá.",
+      "featured": false
+    },
+    {
       "slug": "rodrigo-chaves-asumira-como-ministro-de-la-presidencia-y-hacienda-en-el-gobierno-de-laura-fernandez",
       "title": "Rodrigo Chaves asumirá como ministro de la Presidencia y Hacienda en el gobierno de Laura Fernández",
       "category": "Costa Rica",
@@ -303,11 +355,11 @@
       "slug": "la-drastica-caida-de-homicidios-que-convierte-a-zacatecas-en-un-ejemplo-para-mexico-y-las-dudas-de-su-poblacion",
       "title": "La drástica caída de homicidios que convierte a Zacatecas en un ejemplo para México (y las dudas de su población)",
       "category": "Mundo",
-      "bullets_20s": "• Zacatecas experimenta una notable reducción en la tasa de homicidios en el último año.\n• Las cifras de delincuencia están cambiando, generando dudas entre la población local.\n• Las autoridades analizan las medidas implementadas en la región para mantener la seguridad.\n• La caída de homicidios en Zacatecas se compara con otras áreas del país, mostrando mejores resultados.\n• Las opiniones de los ciudadanos son variadas, algunos sienten alivio mientras otros desconfían.",
+      "bullets_20s": "• Zacatecas ha experimentado una notable disminución de homicidios en comparación con otras regiones.\n• La presidenta Sheinbaum destaca que la caída en homicidios también se ve a nivel nacional.\n• El reportaje explora las estrategias implementadas en Zacatecas para lograr esta baja en cifras.\n• A pesar de la mejora, la población de Zacatecas tiene dudas sobre la sostenibilidad de la situación.\n• Los datos sobre homicidios en México muestran preocupaciones aún relevantes en otras zonas del país.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c759nn17x91o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-05T12:21:01.000Z",
-      "teaser": "Lo clave en 20 segundos: Zacatecas ve una caída drástica en homicidios, pero hay incertidumbre entre la población.",
+      "teaser": "Lo clave en 20 segundos: Homicidios en Zacatecas caen drásticamente, pero la población sigue con dudas sobre el futuro.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/041d/live/47a262a0-4274-11f1-b55d-0f258dce1735.jpg",
       "description": "Los homicidios en Zacatecas, México, bajaron más que en cualquier otra región de México. Pero en todo México, dice la presidenta Sheinbaum, también hay una caída relevante. ¿Qué están haciendo y cuán sostenible es? Reportaje.",
       "featured": false
@@ -433,11 +485,11 @@
       "slug": "en-que-medida-nuestra-personalidad-viene-determinada-desde-el-nacimiento",
       "title": "¿En qué medida nuestra personalidad viene determinada desde el nacimiento?",
       "category": "Ciencia",
-      "bullets_20s": "• Los genes juegan un papel importante en la formación de la personalidad desde el nacimiento.\n• Investigaciones recientes analizan cómo la naturaleza y la crianza influyen en lo que somos.\n• Los factores ambientales también son críticos para el desarrollo de nuestras características personales.\n• Las interacciones familiares y sociales moldean significativamente nuestras personalidades.\n• Comprender los orígenes de la personalidad puede ayudar en la terapia y el desarrollo personal.",
+      "bullets_20s": "• Investigaciones recientes sugieren que nuestra personalidad puede estar ligada a factores genéticos.\n• Los ambientes familiares y sociales también juegan un rol crucial en nuestro comportamiento.\n• La interacción entre genes y entorno es fundamental para entender la personalidad.\n• Las nuevas técnicas científicas están revelando detalles sobre la herencia de rasgos.\n• Se exploran cómo las experiencias de vida afectan nuestro desarrollo personal.\n• La psicología ha evolucionado para considerar tanto factores biológicos como sociales.\n• Estudios en gemelos brindan información valiosa sobre la herencia del comportamiento.\n• La comprensión de estos aspectos puede tener implicaciones en la educación y terapia.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx21413501lo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-05T09:49:58.000Z",
-      "teaser": "Lo clave en 20 segundos: Los genes y el entorno determinan la personalidad de manera compleja.",
+      "teaser": "Lo clave en 20 segundos: Cómo influyen genes y entorno en nuestra personalidad.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9930/live/762644b0-4630-11f1-91f6-f741affb2314.jpg",
       "description": "Laurie Clarke profundiza en las fuerzas diabólicamente complejas que moldean nuestras personalidades, y en las nuevas investigaciones que revelan cada vez más datos sobre cómo nuestros genes influyen —y cómo no— en lo que somos.",
       "featured": false
@@ -719,11 +771,11 @@
       "slug": "de-la-fuente-al-aprovechamiento-la-importancia-de-separar-nuestros-residuos",
       "title": "De la fuente al aprovechamiento: la importancia de separar nuestros residuos",
       "category": "Ciencia",
-      "bullets_20s": "• El seminario se enfoca en la correcta separación de residuos en nuestra comunidad.\n• Se realizará el lunes 11 de mayo, de 11:00 a.m. a 12:00 p.m.\n• Es un evento virtual que requiere registro previo para participar.\n• Explorará el impacto ambiental positivo de separar residuos adecuadamente.\n• Pretende enseñar prácticas sencillas para mejorar el reciclaje local.",
+      "bullets_20s": "• Un seminario virtual sobre la separación de residuos se llevará a cabo el 11 de mayo.\n• El evento es organizado por la Unidad Institucional de Gestión Ambiental y Seguridad Laboral.\n• Se abordará el impacto positivo de la correcta gestión de residuos en el medio ambiente.\n• Se enseñarán prácticas sencillas para mejorar la separación de residuos en casa.\n• El registro para el seminario es gratuito y se realiza a través del enlace proporcionado.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/fuente-aprovechamiento-importancia-separar-nuestros-residuos",
       "publish_date": "2026-05-04T21:12:06.000Z",
-      "teaser": "Lo clave en 20 segundos: el seminario virtual enseñará a separar residuos y cuidar el medio ambiente.",
+      "teaser": "Lo clave en 20 segundos: seminario sobre separación de residuos, el 11 de mayo, registro gratuito.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/ede00d1d-00bc-4ee5-850c-8e08b29921e8.png",
       "description": "De la fuente al aprovechamiento: la importancia de separar nuestros residuos",
       "featured": false
@@ -953,11 +1005,11 @@
       "slug": "candidaturas-al-consejo-institucional-quedan-oficializadas",
       "title": "Candidaturas al Consejo Institucional quedan oficializadas",
       "category": "Costa Rica",
-      "bullets_20s": "• Se oficializan las candidaturas para el Consejo Institucional del TEC en un acto significativo.\n• Cinco postulantes compiten por posiciones en este importante órgano institucional y académico.\n• La votación electrónica está programada para el 28 de mayo, facilitando la participación global.\n• El Tribunal Institucional Electoral garantiza transparencia en el proceso electoral, esencial para la democracia.\n• El período de campaña comenzó el 30 de abril y culminará el 27 de mayo con actividades informativas.",
+      "bullets_20s": "• El Tribunal Institucional Electoral ha oficializado las candidaturas al Consejo Institucional del TEC.\n• Cinco personas fueron oficializadas para representaciones en el Consejo Institucional del TEC.\n• La elección se llevará a cabo el 28 de mayo mediante votación electrónica para todos los electores.\n• Se brindarán actividades de expresión del pensamiento en cada campus del TEC antes de la elección.\n• La presidenta interina del TIE destacó la importancia de la participación en estos procesos democráticos.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/candidaturas-consejo-institucional-quedan-oficializadas-0",
       "publish_date": "2026-05-04T17:08:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Se oficializan candidaturas para el Consejo Institucional del TEC con votación electrónica.",
+      "teaser": "Lo clave en 20 segundos: Se oficializan las candidaturas para el Consejo Institucional del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/entrega-credenciales-eleccion-miembros-consejo-institucional-mayo-2026_rgarita-1.jpg",
       "description": "Candidaturas al Consejo Institucional quedan oficializadas",
       "featured": false
@@ -990,13 +1042,13 @@
     },
     {
       "slug": "pe-dar-13-publicacion-de-edicto-para-el-tramite-de-reconocimiento-y-equiparacion-de-grados-y-titulos",
-      "title": "PE-DAR-13 Publicación de edicto para el trámite de Reconocimiento y Equiparación de Grados y Títulos",
+      "title": "PE-DAR-13  Publicación de edicto para el trámite de Reconocimiento y Equiparación de Grados y Títulos",
       "category": "Costa Rica",
-      "bullets_20s": "• La publicación del edicto es crucial para el reconocimiento de grados y títulos en el país.\n• Se espera que el trámite beneficie a muchos estudiantes con estudios en el extranjero.\n• Es necesario seguir los manuales y procedimientos indicados para completar el proceso.\n• La fecha de última modificación del edicto es en mayo de 2026, un detalle importante.\n• Las instituciones educativas deben estar al tanto de estos nuevos protocolos y actualizaciones.",
+      "bullets_20s": "• El edicto se publica para facilitar el reconocimiento de grados académicos en Costa Rica.\n• Este proceso es crucial para garantizar la validez de los títulos obtenidos en el extranjero.\n• La universidad pública busca promover la transparencia en el reconocimiento de titulaciones.\n• Se espera que más estudiantes accedan a oportunidades laborales con este proceso.\n• El edicto marca un paso importante en la gestión educativa del país.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-dar-13-publicacion-edicto-tramite-reconocimiento-equiparacion-grados-titulos",
       "publish_date": "2026-05-04T16:10:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Publicación de edicto para reconocimiento de grados en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Edicto para el reconocimiento de grados académicos en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -1018,24 +1070,24 @@
       "slug": "pe-dar-12-recepcion-de-expediente-de-reconocimiento-y-equiparacion-de-grados-y-titulos",
       "title": "PE-DAR-12  Recepción de expediente de Reconocimiento y Equiparación de Grados y Títulos",
       "category": "Costa Rica",
-      "bullets_20s": "• Proceso para la recepción de expedientes académicos en Costa Rica.\n• Equiparación de grados y títulos es fundamental en la educación superior.\n• El reconocimiento de títulos impulsa la movilidad profesional del país.\n• Ganadores de una educación más accesible por el proceso de reconocimiento.\n• La mejora continua en la gestión educativa es prioridad en el TEC.",
+      "bullets_20s": "• Proceso para la recepción de expedientes académicos en instituciones educativas de Costa Rica.\n• Importancia del reconocimiento y equiparación de grados y títulos en el país.\n• Normativas y requisitos establecidos en el manual PE-DAR-12 para la gestión.\n• Los estudiantes pueden acceder a información actualizada sobre su proceso educativo.\n• Se busca facilitar la integración de titulados en el mercado laboral.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-dar-12-recepcion-expediente-reconocimiento-equiparacion-grados-titulos",
       "publish_date": "2026-05-04T16:10:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Anuncio sobre el proceso de reconocimiento de grados en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Reconocimiento de grados y títulos en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
     },
     {
       "slug": "pe-dar-11-asignacion-de-los-espacios-fisicos-que-administra-el-departamento-de-admision-y-registro",
-      "title": "PE-DAR-11 Asignación de los espacios físicos que administra el Departamento de Admisión y Registro",
+      "title": "PE-DAR-11 Asignación de los espacios físicos que administra el Departamento de Admisión y Registro",
       "category": "Costa Rica",
-      "bullets_20s": "• El Departamento de Admisión y Registro organiza los espacios físicos para su correcto funcionamiento.\n• Los manuales y procedimientos facilitan la gestión eficiente de los espacios destinados.\n• La asignación de estos espacios es clave para el desarrollo de las funciones administrativas.\n• Se busca optimizar la utilización de los recursos físicos en la institución.\n• Este proceso se revisa y actualiza regularmente para garantizar su efectividad.",
+      "bullets_20s": "• Asigna espacios físicos para el adecuado funcionamiento del departamento de admisión y registro.\n• El proceso busca optimizar la utilización de los recursos en la institución educativa.\n• Se incluyen manuales y procedimientos para una mejor gestión administrativa.\n• La última modificación se registró en mayo de 2026 para mayor precisión.\n• La transparencia en la asignación de espacios es crucial para todos los usuarios.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-dar-11-asignacion-espacios-fisicos-administra-departamento-admision-registro",
       "publish_date": "2026-05-04T16:09:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Asignación de espacios físicos en el Departamento de Admisión y Registro.",
+      "teaser": "Lo clave en 20 segundos: Asignación de espacios para optimizar gestión en admisión y registro.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -10479,5 +10531,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-05T18:45:30.328Z"
+  "generated_at": "2026-05-05T19:45:30.425Z"
 }
