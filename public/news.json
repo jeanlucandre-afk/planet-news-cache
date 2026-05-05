@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "mopt-anuncia-malas-noticias-para-los-usuarios-de-la-ruta-32",
+      "title": "MOPT anuncia malas noticias para los usuarios de la ruta 32",
+      "category": "Costa Rica",
+      "bullets_20s": "• El MOPT ha notificado problemas en la ruta 32 que afectan a muchos usuarios.\n• Un árbol caído bloquea la circulación en la ruta 126 cerca de Vara Blanca.\n• Se instan a los conductores a extremar precauciones en la zona afectada.\n• Las autoridades trabajan para despejar la carretera lo más pronto posible.\n• Se recomienda tomar rutas alternas mientras se resuelve la situación actual.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/mopt-anuncia-malas-noticias-para-los-usuarios-de/5FIG7HMQGRHGHLEQ5I6BKCY6CU/story/",
+      "publish_date": "2026-05-05T03:24:04.000Z",
+      "teaser": "Lo clave en 20 segundos: El MOPT reporta problemas en la ruta 32 debido a un árbol caído.",
+      "image_url": "https://www.nacion.com/resizer/v2/OKNYNVPKLRCRBMSFGYVYN3JMR4.jpeg?auth=5defda54f82bc738836398808f233999850fa93f5b599a6b060ee6fc9d0e5491&smart=true&width=1280&height=960",
+      "description": "MOPT anuncia malas noticias para los usuarios de la ruta 32. En Vara Blanca un árbol obstruye la ruta 126.",
+      "featured": false
+    },
+    {
+      "slug": "the-new-york-times-informa-sobre-la-revocatoria-de-visas-a-directivos-de-la-nacion-y-resalta-su-rol-como-principal-perio",
+      "title": "‘The New York Times’ informa sobre la revocatoria de visas a directivos de ‘La Nación’ y resalta su rol como ‘principal periódico fiscalizador de Costa Rica’",
+      "category": "Costa Rica",
+      "bullets_20s": "• La revocatoria de visas afecta a directivos claves en el manejo de La Nación.\n• The New York Times destaca la importancia de la prensa en la democracia costarricense.\n• Este episodio genera preocupación sobre la libertad de expresión en el país.\n• La Nación ha sido un vigilante de la política y corrupción en Costa Rica.\n• Las acciones de revocatoria han suscitado reacciones a nivel nacional e internacional.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/politica/the-new-york-times-informa-sobre-la-revocatoria-de/A4CV346DHJF6RL2LWXPNKYONVY/story/",
+      "publish_date": "2026-05-05T03:17:37.000Z",
+      "teaser": "Lo clave en 20 segundos: Revocatoria de visas a directivos de La Nación, resalta cuestionamientos sobre libertad de prensa.",
+      "image_url": "https://www.nacion.com/resizer/v2/UVIVBPVVEBDWTCCLPARYWF7RVM.JPG?auth=6425f364cf5d173c6e287df7d18a9708707a4a8ab922d5c236db628d6c3a0a7e&smart=true&width=4000&height=2667",
+      "description": "El medio estadounidense The New York Times replicó la revocatoria de visas a directivos de La Nación y destacó su papel como 'principal periódico fiscalizador de Costa Rica', en medio de cuestionamientos por libertad de prensa.",
+      "featured": false
+    },
+    {
+      "slug": "orlando-aguirre-presidente-de-la-corte-suprema-que-haya-magistrados-de-un-partido-u-otro-es-inaceptable",
+      "title": "Orlando Aguirre, presidente de la Corte Suprema: ‘Que haya magistrados de un partido u otro es inaceptable’",
+      "category": "Costa Rica",
+      "bullets_20s": "• El presidente de la Corte Suprema, Orlando Aguirre, expresó su preocupación por la política actual.\n• Aguirre rechazó la idea de que los magistrados estén alineados a partidos políticos específicos.\n• La independencia judicial es fundamental para una democracia sólida y funcional en Costa Rica.\n• El comentario surge en contexto de promesas políticas que podrían afectar al Poder Judicial.\n• La respuesta de Aguirre destaca la importancia de la imparcialidad en el sistema judicial.",
+      "source_name": "Lucía Astorga, Aarón Sequeira",
+      "source_url": "https://www.nacion.com/politica/orlando-aguirre-presidente-de-la-corte-suprema-que/EOHYP5TEJJEVTA3HVSU7KPAOP4/story/",
+      "publish_date": "2026-05-05T03:03:28.000Z",
+      "teaser": "Lo clave en 20 segundos: Aguirre defiende la independencia judicial ante promesas del presidente Chaves.",
+      "image_url": "https://www.nacion.com/resizer/v2/4G2BK3TEAVAL7LXOX3FWLL2IKM.JPG?auth=2939c3d165f15301865603ecd7c667bbd379e470590e23ced564fb06c4bc8ef0&smart=true&width=4000&height=2667",
+      "description": "El líder de la cúpula de la Corte Suprema respondió a la promesa del mandatario Rodrigo Chaves a los evangélicos de tomar el control del Poder Judicial.",
+      "featured": false
+    },
+    {
       "slug": "muere-adulta-mayor-tras-violento-choque-entre-camion-y-vehiculo-en-el-cerro-de-la-muerte",
       "title": "Muere adulta mayor tras violento choque entre camión y vehículo en el cerro de la Muerte",
       "category": "Costa Rica",
@@ -225,11 +264,11 @@
       "slug": "de-la-fuente-al-aprovechamiento-la-importancia-de-separar-nuestros-residuos",
       "title": "De la fuente al aprovechamiento: la importancia de separar nuestros residuos",
       "category": "Ciencia",
-      "bullets_20s": "• El seminario se enfocará en la separación de residuos para el cuidado ambiental.\n• Se hará el lunes 11 de mayo en modalidad virtual, se requiere registro.\n• El evento es organizado por la Unidad Institucional de Gestión Ambiental.\n• Se enseñarán prácticas sencillas que generan un gran impacto positivo.\n• Es gratuito y dirigido a docentes, estudiantes e interesados en el tema.",
+      "bullets_20s": "• El seminario se llevará a cabo el lunes 11 de mayo de forma virtual.\n• Es organizado por la Unidad Institucional de Gestión Ambiental y Seguridad Laboral.\n• Se explorará la correcta separación de residuos para cuidar el medio ambiente.\n• Los participantes aprenderán prácticas sencillas con gran impacto positivo.\n• El registro previo es obligatorio para participar en la sesión.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/fuente-aprovechamiento-importancia-separar-nuestros-residuos",
       "publish_date": "2026-05-04T21:12:06.000Z",
-      "teaser": "Lo clave en 20 segundos: Aprender a separar residuos para un mejor aprovechamiento ambiental.",
+      "teaser": "Lo clave en 20 segundos: Aprende sobre la separación de residuos y su impacto ambiental en un seminario virtual.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/ede00d1d-00bc-4ee5-850c-8e08b29921e8.png",
       "description": "De la fuente al aprovechamiento: la importancia de separar nuestros residuos",
       "featured": false
@@ -485,11 +524,11 @@
       "slug": "que-sabemos-del-proyecto-libertad-con-el-que-trump-quiere-escoltar-a-los-barcos-en-el-estrecho-de-ormuz",
       "title": "Qué sabemos del Proyecto Libertad con el que Trump quiere escoltar a los barcos en el estrecho de Ormuz",
       "category": "Mundo",
-      "bullets_20s": "• El presidente Donald Trump propone una escolta militar para buques en Ormuz.\n• Esta decisión puede aumentar las tensiones en el Estrecho de Ormuz crucial.\n• El Estrecho es un pasaje estratégico que conecta el Golfo Pérsico con el mundo.\n• Numerosos ataques han ocurrido en esta área en los últimos años.\n• El proyecto Libertad busca garantizar la seguridad marítima en esa región.",
+      "bullets_20s": "• El Proyecto Libertad busca aumentar la seguridad en el estrecho de Ormuz, una ruta marítima crucial.\n• La decisión de Trump puede provocar tensiones adicionales en la región de Oriente Medio.\n• Irán ha manifestado su oposición a la presencia militar estadounidense en sus aguas territoriales.\n• Los expertos advierten sobre el riesgo de incidentes militares en un área ya volátil.\n• El estrecho de Ormuz es vital para el transporte de petróleo a nivel global.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c3d2xdr84gxo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-04T16:49:26.000Z",
-      "teaser": "Lo clave en 20 segundos: Trump planea escoltas navales para asegurar Ormuz, aumentando tensiones.",
+      "teaser": "Lo clave en 20 segundos: El Proyecto Libertad podría intensificar tensiones en el estrecho de Ormuz.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/50ed/live/c1487670-47cf-11f1-ac78-2112837ce2aa.jpg",
       "description": "El presidente Donald Trump anunció que las fuerzas militares de su país escoltarán a buques por el estrecho de Ormuz, algo que puede reavivar los ataques en el estratégico pasaje marítimo flanqueado por Irán.",
       "featured": false
@@ -509,13 +548,13 @@
     },
     {
       "slug": "pe-dar-13-publicacion-de-edicto-para-el-tramite-de-reconocimiento-y-equiparacion-de-grados-y-titulos",
-      "title": "PE-DAR-13 Publicación de edicto para el trámite de Reconocimiento y Equiparación de Grados y Títulos",
+      "title": "PE-DAR-13  Publicación de edicto para el trámite de Reconocimiento y Equiparación de Grados y Títulos",
       "category": "Costa Rica",
-      "bullets_20s": "• La publicación del edicto es parte del proceso académico para la validación de estudios.\n• Este trámite es fundamental para aquellos que buscan reconocer títulos obtenidos en el extranjero.\n• El edicto incluye información detallada sobre requisitos y procedimientos específicos.\n• Se espera que más estudiantes aprovechen esta oportunidad de reconocimiento.\n• Las instituciones educativas están involucradas en la difusión de esta información clave.",
+      "bullets_20s": "• El edicto publicado es parte de un procedimiento administrativo importante.\n• Reconocimiento de grados y títulos es un proceso fundamental para la educación.\n• La educación superior en Costa Rica requiere formalidades específicas para grados.\n• Este edicto facilitará el acceso a programas de equivalencia de títulos.\n• Los interesados deben seguir procesos claros y establecidos para su gestión.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-dar-13-publicacion-edicto-tramite-reconocimiento-equiparacion-grados-titulos",
       "publish_date": "2026-05-04T16:10:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Publican edicto para reconocimiento de grados y títulos en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Se da a conocer un edicto para reconocimiento de grados en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -535,26 +574,26 @@
     },
     {
       "slug": "pe-dar-12-recepcion-de-expediente-de-reconocimiento-y-equiparacion-de-grados-y-titulos",
-      "title": "PE-DAR-12  Recepción de expediente de Reconocimiento y Equiparación de Grados y Títulos",
+      "title": "PE-DAR-12  Recepción de expediente de Reconocimiento y Equiparación de Grados y Títulos",
       "category": "Costa Rica",
-      "bullets_20s": "• El procedimiento se relaciona con la recepción de expedientes académicos en Costa Rica.\n• Busca establecer criterios claros para el reconocimiento de títulos y grados educativos.\n• Se implementan manuales y procedimientos para garantizar un proceso eficiente.\n• Se espera aumentar la transparencia y la validez de las titulaciones en el país.\n• La última modificación del documento fue en mayo de 2026.",
+      "bullets_20s": "• El documento PE-DAR-12 establece procedimientos claros para la recepción de expedientes.\n• Informa sobre la importancia del reconocimiento de títulos en el contexto académico.\n• Proporciona lineamientos para la equiparación de grados de distintas instituciones.\n• Destaca el impacto en el avance profesional de los graduados y su relevancia.</\n• Mayo de 2026 marca la última modificación del manual correspondiente a este procedimiento.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-dar-12-recepcion-expediente-reconocimiento-equiparacion-grados-titulos",
       "publish_date": "2026-05-04T16:10:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Reconocimiento y equiparación de grados y títulos en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Procedimiento para el reconocimiento y equiparación de títulos en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
     },
     {
       "slug": "pe-dar-11-asignacion-de-los-espacios-fisicos-que-administra-el-departamento-de-admision-y-registro",
-      "title": "PE-DAR-11 Asignación de los espacios físicos que administra el Departamento de Admisión y Registro",
+      "title": "PE-DAR-11 Asignación de los espacios físicos que administra el Departamento de Admisión y Registro",
       "category": "Costa Rica",
-      "bullets_20s": "• Nuevo procedimiento para la asignación de espacios físicos en instituciones.\n• Importancia de la gestión adecuada de recursos físicos en educación.\n• Detalles sobre manuales y procedimientos actualizados por el TEC.\n• Mejoras en la eficiencia administrativa del Departamento de Admisión.\n• Impacto esperado en la organización de espacios educativos.",
+      "bullets_20s": "• La asignación de espacios físicos es crucial para el funcionamiento del Departamento de Admisión.\n• Manuales y procedimientos aseguran que se sigan las normas en la asignación de espacios.\n• Es importante maximizar el uso de los espacios disponibles para el beneficio de los estudiantes.\n• El proceso de asignación garantiza que se optimicen los recursos universitarios de forma adecuada.\n• Se busca que todos los departamentos tengan un acceso justo a los espacios físicos asignados.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-dar-11-asignacion-espacios-fisicos-administra-departamento-admision-registro",
       "publish_date": "2026-05-04T16:09:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevas directrices para la gestión de espacios en educación en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: la asignación de espacios físicos es fundamental para el desarrollo institucional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -875,13 +914,13 @@
       "slug": "david-da-vinci-el-nino-genio-mexicano-con-un-coeficiente-intelectual-superior-al-de-einstein",
       "title": "David da Vinci, el niño genio mexicano con un coeficiente intelectual superior al de Einstein",
       "category": "Mundo",
-      "bullets_20s": "• David Camacho, un niño de 10 años, impresiona con su elevado coeficiente intelectual.\n• Es considerado un niño prodigio, comparable a Albert Einstein en inteligencia.\n• David imparte conferencias en universidades, mostrando su capacidad comunicativa.\n• Desarrolló una aplicación para combatir el bullying que sufrió en la escuela.\n• Está a punto de publicar un libro que refleja su experiencia y aprendizaje.",
+      "bullets_20s": "• David Camacho es conocido como un niño prodigio y brillante desde una edad temprana.\n• A sus 10 años, ha dado conferencias a importantes organizaciones y universidades.\n• Está próximo a lanzar un libro que reflejará su experiencia y conocimientos.\n• Ha diseñado una app innovadora para combatir el bullying en los jóvenes.\n• Su historia inspira a otros niños y resalta la importancia de la educación.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdrmenx6k2zo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-04T10:23:29.000Z",
-      "teaser": "Lo clave en 20 segundos: David es un niño genio que combate el bullying y comparte su historia.",
+      "teaser": "Lo clave en 20 segundos: Un niño prodigio mexicano destaca por su inteligencia y labor social.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/79f6/live/2ebb4900-35b3-11f1-bfb7-dfacb91b9fa4.jpg",
-      "description": "Con 10 años, David Camacho imparte conferencias en universidades y para organismos internacionales, ha creado una app para combatir el bullying.",
+      "description": "Con 10 años, David Camacho imparte conferencias en universidades y para organismos internacionales, está a punto de publicar un libro y ha creado una app para darle la vuelta al bullying que sufrió en la escuela.",
       "featured": false
     },
     {
@@ -9998,5 +10037,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-05T02:45:30.277Z"
+  "generated_at": "2026-05-05T03:45:30.218Z"
 }
