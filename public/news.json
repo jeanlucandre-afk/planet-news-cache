@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "trump-amenaza-con-atacar-carteles-en-mexico-si-ellos-no-hacen-el-trabajo-nosotros-lo-haremos",
+      "title": "Trump amenaza con atacar carteles en México: ‘Si ellos no hacen el trabajo, nosotros lo haremos’",
+      "category": "Mundo",
+      "bullets_20s": "• Trump ha manifestado su intención de tomar medidas drásticas contra carteles en México.\n• La presidenta de México, Claudia Sheinbaum, defiende su estrategia contra el narcotráfico.\n• Las amenazas de Trump generan preocupación por una posible intervención militar en México.\n• Las relaciones entre Estados Unidos y México son vitales en la lucha contra el narcotráfico.\n• Analistas sugieren que este tipo de amenazas puede afectar la diplomacia entre los países.",
+      "source_name": "Fernando Chaves Espinach, AFP",
+      "source_url": "https://www.nacion.com/el-mundo/trump-amenaza-con-atacar-carteles-en-mexico-si/2D4I7V2S6VHQDCN2FG7ZZDPMSY/story/",
+      "publish_date": "2026-05-06T20:16:46.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump podría atacar carteles en México si el gobierno no actúa.",
+      "image_url": "https://www.nacion.com/resizer/v2/LHTFIU5E4RFRFBTCTX5F4JHJS4.jpg?auth=cca96808b81e027511d5517cf35edd97b160a611140709aac8148b6c5c98b10c&smart=true&width=1200&height=800",
+      "description": "Claudia Sheinbaum ha rechazado reiteradamente acusaciones de poco trabajo contra narcotráfico, así como posibles intervenciones militares. Lea lo ocurrido.",
+      "featured": false
+    },
+    {
+      "slug": "es-saludable-madrugar-a-las-5-las-consecuencias-de-ignorar-el-reloj-biologico",
+      "title": "¿Es saludable madrugar a las 5? Las consecuencias de ignorar el reloj biológico",
+      "category": "Ciencia",
+      "bullets_20s": "• Los expertos advierten sobre los peligros de levantarse muy temprano diariamente.\n• La falta de sueño puede llevar a problemas de salud significativos en el futuro.\n• Respetar el reloj biológico es crucial para un bienestar general y un óptimo funcionamiento.\n• El cronotipo biológico de cada persona afecta cómo se siente a lo largo del día.\n• El déficit de sueño puede impactar negativamente en la salud mental y física.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/ciencia/es-saludable-madrugar-a-las-5-las-consecuencias-de/6LUBJRUPW5BARLAQTUU5MWYKR4/story/",
+      "publish_date": "2026-05-06T20:07:47.000Z",
+      "teaser": "Lo clave en 20 segundos: Madrugar puede ser dañino para la salud según expertos.",
+      "image_url": "https://www.nacion.com/resizer/v2/CU45JI54KVB2BKUVG45PH4YHVM.png?auth=725c8b60e8121d77c13dd4082410d5fe6cd4713477369ad39138f2a10b870b95&smart=true&width=1920&height=1080",
+      "description": "Descubra por qué levantarse a las 5 a. m. puede ser perjudicial para su salud. Expertos explican los riesgos del déficit de sueño y la importancia de respetar su cronotipo biológico para evitar enfermedades.",
+      "featured": false
+    },
+    {
+      "slug": "asi-respondio-hernan-medford-sobre-jorkaeff-azofeifa-y-su-polemica-celebracion",
+      "title": "Así respondió Hernán Medford sobre Jorkaeff Azofeifa y su polémica celebración",
+      "category": "Costa Rica",
+      "bullets_20s": "• Hernán Medford, reconocido exfutbolista, abordó la controversia generada por una celebración.\n• La situación implicó a Jorkaeff Azofeifa, quien fue protagonista del incidente mencionado.\n• Las semifinales de la liga han suscitado debate entre aficionados y analistas deportivos.\n• Medford comparte su perspectiva como entrenador y figura clave en el fútbol costarricense.\n• La celebración ha generado reacciones encontradas de la afición y medios deportivos locales.",
+      "source_name": "Esteban Valverde",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/asi-respondio-hernan-medford-sobre-jorkaeff/F7IOTLD6KNCA7IIJ33YSB5A5SA/story/",
+      "publish_date": "2026-05-06T19:58:36.000Z",
+      "teaser": "Lo clave en 20 segundos: Hernán Medford explica polémica de Jorkaeff Azofeifa en semifinales.",
+      "image_url": "https://www.nacion.com/resizer/v2/ORDHJYMKP5DO5BH54UFYUCLQ34.jpeg?auth=14e5e7527bde2d052262610a8dfd54dd3e4e82d4578df30f663ca5ce6615a8ec&smart=true&width=1280&height=720",
+      "description": "Hernán Medford explicó su evaluación sobre la polémica con Jorkaeff Azofeifa en la ida de las semifinales.",
+      "featured": false
+    },
+    {
       "slug": "futuro-ministro-de-justicia-perdio-las-placas-de-su-carro-por-presunto-altercado-con-policias-en-san-jose-fiscalia-anali",
       "title": "Futuro ministro de Justicia perdió las placas de su carro por presunto altercado con policías en San José, Fiscalía analiza abrir investigación",
       "category": "Costa Rica",
@@ -147,11 +186,11 @@
       "slug": "sinaes-reacreditara-a-licenciaturas-de-ingenieria-ambiental-y-a-administracion-de-tecnologias-de-informacion",
       "title": "SINAES reacreditará a licenciaturas de Ingeniería Ambiental y a Administración de Tecnologías de Información",
       "category": "Costa Rica",
-      "bullets_20s": "• El SINAES reafirma la calidad educativa del Tecnológico de Costa Rica con nuevas acreditaciones.\n• Ingeniería Ambiental recibe su reacreditación por tercera vez, vigente hasta 2029.\n• La licenciatura en Administración de Tecnologías de Información obtiene su tercera acreditación.\n• La primera acreditación de ATI fue en 2015, destacando su progreso constante desde entonces.\n• La entrega de certificaciones se llevará a cabo el 13 de mayo en el TEC.",
+      "bullets_20s": "• La reacreditación es importante para garantizar la calidad educativa en Costa Rica y a nivel internacional.\n• El TEC reafirma su compromiso con la acreditación de sus programas en Ingeniería y Tecnología.\n• La licenciatura en Ingeniería Ambiental recibe su reacreditación por tercera vez hasta el año 2029.\n• La licenciatura en Administración de Tecnologías de Información se acredita desde el 2015 hasta el 2030.\n• La ceremonia de entrega de certificaciones se llevará a cabo en el auditorio del TEC el 13 de mayo.\n• SINAES asegura un estándar de calidad para las carreras en las instituciones de educación superior.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/sinaes-reacreditara-licenciaturas-ingenieria-ambiental-administracion-tecnologias-informacion",
       "publish_date": "2026-05-06T16:30:15.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC reacredita dos carreras importantes para reafirmar su calidad educativa.",
+      "teaser": "Lo clave en 20 segundos: SINAES reacredita importantes carreras del TEC que garantizan calidad educativa.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/reacreditacion-ati-y-ambi-evento-1.png",
       "description": "SINAES reacreditará a licenciaturas de Ingeniería Ambiental y a Administración de Tecnologías de Información",
       "featured": false
@@ -355,11 +394,11 @@
       "slug": "identifican-cepa-andina-de-hantavirus-que-se-transmite-entre-humanos-en-el-brote-mortal-del-crucero-que-zarpo-de-argenti",
       "title": "Identifican cepa andina de hantavirus que se transmite entre humanos en el brote mortal del crucero que zarpó de Argentina",
       "category": "Mundo",
-      "bullets_20s": "• La cepa andina del hantavirus se ha identificado en casos humanos recientes relacionados con un crucero.\n• El brote mortal está vinculado a un viaje de un crucero que partió de Argentina.\n• Las autoridades de salud están alertando sobre los riesgos de este virus transmisible entre personas.\n• Se han implementado medidas de control para prevenir la propagación del virus en Sudáfrica.\n• El hantavirus es conocido por ser letal y requiere atención médica inmediata tras la exposición.",
+      "bullets_20s": "• Un reciente brote de hantavirus ha generado preocupación a nivel internacional por su transmisión.\n• La cepa andina del hantavirus se identificó en un crucero que partió desde Argentina.\n• Dos casos confirmados en Sudáfrica están relacionados con esta nueva variante del virus.\n• Las autoridades sanitarias están investigando la transmisión entre humanos y sus implicaciones.\n• El Ministerio de Salud exhorta a la población a estar alerta y seguir recomendaciones sanitarias.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c9wepjzl887o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-06T12:21:09.000Z",
-      "teaser": "Lo clave en 20 segundos: se identifica un nuevo hantavirus transmisible entre humanos en Sudáfrica.",
+      "teaser": "Lo clave en 20 segundos: preocupación por cepa andina de hantavirus en brote vinculado a crucero.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/63b3/live/a8dd51c0-493f-11f1-bd52-e755d604ece4.jpg",
       "description": "El Ministerio de Salud de Sudáfrica informó que la cepa andina del virus se encontró en dos casos confirmados vinculados al brote.",
       "featured": false
@@ -446,11 +485,11 @@
       "slug": "crisis-de-solteros-mujeres-sobrantes-e-impuesto-al-condon-por-que-la-apuesta-de-china-para-que-nazcan-mas-bebes-salio-ma",
       "title": "Crisis de solteros, \"mujeres sobrantes\" e impuesto al condón: por qué la apuesta de China para que nazcan más bebés salió mal",
       "category": "Mundo",
-      "bullets_20s": "• La eliminación de la política del hijo único no trajo el aumento esperado en nacimientos.\n• Autoridades chinas temen el envejecimiento de la población y sus consecuencias económicas.\n• Se habla de un desequilibrio en la población entre hombres y mujeres en el país.\n• Las tasas de natalidad continúan siendo inferiores a las proyecciones iniciales del gobierno.\n• Diversas políticas han sido implementadas para incentivar el crecimiento poblacional.",
-      "source_name": "BBC Mundo",
+      "bullets_20s": "• Las políticas demográficas de China han tenido un impacto significativo en la tasa de natalidad reciente.\n• Se esperaba que la eliminación de la política del hijo único aumentara la población rápidamente.\n• El envejecimiento de la población es ahora una preocupación creciente para el gobierno chino.\n• El impuesto al condón es una medida controvertida para fomentar más nacimientos en el país.\n• Las 'mujeres sobrantes' se han convertido en un tema de discusión social y económico en China.\n• Las autoridades enfrentan desafíos para incentivar a las parejas a tener más hijos.\n• El contexto cultural en China influye fuertemente en las decisiones sobre la procreación.\n• La falta de apoyo económico para las familias complica la decisión de tener más hijos.\n• Las políticas deben evolucionar para adaptarse a la nueva realidad demográfica del país.",
+      "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/cy9gnwnn2d4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-06T10:39:36.000Z",
-      "teaser": "Lo clave en 20 segundos: China enfrenta una crisis poblacional a pesar de cambios en políticas de natalidad.",
+      "teaser": "Lo clave en 20 segundos: La estrategia de China para aumentar la natalidad no ha tenido éxito como se esperaba.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/de86/live/01d8f650-0f37-11f1-9977-e990726ff5e1.jpg",
       "description": "Las autoridades en China asumieron que la tasa de natalidad se recuperaría rápidamente cuando eliminaran la política del hijo único. Pero se equivocaron y ahora la gran preocupación es el envejecimiento de la población.",
       "featured": false
@@ -459,11 +498,11 @@
       "slug": "mi-adiccion-a-las-compras-se-apodero-de-mi-vida-y-ahora-me-doy-cuenta-de-que-la-causo",
       "title": "Mi adicción a las compras se apoderó de mi vida y ahora me doy cuenta de qué la causó",
       "category": "Mundo",
-      "bullets_20s": "• Sally Gardner revela su lucha contra la adicción a las compras en un podcast revelador.\n• La literatura infantil puede reflejar las luchas personales de sus autores e ilustradores.\n• La investigación psicológica muestra el impacto del consumismo en la salud mental.\n• Escuchar experiencias ajenas puede ayudar a entender problemas como la adicción.\n• La historia de Gardner resuena con muchas personas que enfrentan problemas similares.",
+      "bullets_20s": "• La autora comparte su experiencia con la adicción a las compras en un reciente artículo.\n• Explora cómo un podcast le ayudó a entender sus comportamientos compulsivos.\n• La reflexión personal de Gardner ofrece perspectivas sobre la psicología del consumo.\n• Comparte los desafíos que enfrentó debido a su relación con las compras.\n• Sugiere que las adicciones pueden tener raíces más profundas de lo que pensamos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2e272jzv87o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-06T09:37:55.000Z",
-      "teaser": "Lo clave en 20 segundos: La escritora comparte su viaje personal frente a la adicción al consumo.",
+      "teaser": "Lo clave en 20 segundos: Sally Gardner reflexiona sobre su adicción a las compras.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/6da9/live/913ab820-4618-11f1-b0bc-1f5a59b5b6a6.jpg",
       "description": "La escritora de literatura infantil Sally Gardner finalmente encontró una explicación para sus derrochadoras salidas de compras después de escuchar un podcast.",
       "featured": false
@@ -1524,12 +1563,12 @@
     {
       "slug": "de-la-fuente-al-aprovechamiento-la-importancia-de-separar-nuestros-residuos",
       "title": "De la fuente al aprovechamiento: la importancia de separar nuestros residuos",
-      "category": "Costa Rica",
-      "bullets_20s": "• El seminario virtual se llevará a cabo el 11 de mayo de 2026, de 11:00 a.m. a 12:00 p.m.\n• Este evento es organizado por la Unidad Institucional de Gestión Ambiental y Seguridad Laboral (GASEL).\n• Requiere registro previo, asegurando una mayor participación e intercambio de opiniones.\n• Explorará la correcta separación de residuos y su impacto en el medio ambiente.\n• Se compartirán prácticas sencillas que generan un gran impacto positivo en la comunidad.",
+      "category": "Ciencia",
+      "bullets_20s": "• El seminario virtual explorará la correcta separación de residuos durante una hora el 11 de mayo.\n• La Unidad Institucional de Gestión Ambiental y Seguridad Laboral organiza el evento para promover buenas prácticas.\n• El registro previo es necesario para participar en esta sesión educativa sobre el medio ambiente.\n• Se compartirán estrategias prácticas que permiten cuidar el medio ambiente y aprovechar mejor los recursos.\n• Este seminario está dirigido a docentes, colaboradores, estudiantes e investigadores interesados en el tema.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/fuente-aprovechamiento-importancia-separar-nuestros-residuos",
       "publish_date": "2026-05-04T21:12:06.000Z",
-      "teaser": "Lo clave en 20 segundos: seminario virtual sobre la separación de residuos y su impacto ambiental.",
+      "teaser": "Lo clave en 20 segundos: Aprende sobre la separación de residuos y su impacto ambiental en un seminario virtual.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/ede00d1d-00bc-4ee5-850c-8e08b29921e8.png",
       "description": "De la fuente al aprovechamiento: la importancia de separar nuestros residuos",
       "featured": false
@@ -1564,11 +1603,11 @@
       "slug": "medir-el-universo-de-los-grandes-paradigmas-a-las-cientificas-que-cambiaron-nuestra-escala-cosmica",
       "title": "Medir el Universo: de los grandes paradigmas a las científicas que cambiaron nuestra escala cósmica",
       "category": "Ciencia",
-      "bullets_20s": "• La charla explora cómo medir el universo ha evolucionado a lo largo de la historia.\n• Se enfocará en las figuras científicas que hicieron contribuciones significativas.\n• El evento se llevará a cabo el 7 de mayo a las 5:00 p.m. en el Auditorio D3.\n• También se transmitirá en vivo por Facebook y Zoom para mayor accesibilidad.\n• Es una oportunidad para el público general de involucrarse en la astronomía.",
+      "bullets_20s": "• El grupo AstroTEC presentará una charla sobre la medición del universo y ajustes de paradigmas.\n• La charla se llevará a cabo el 7 de mayo a las 5:00 p. m. en el auditorio de Edificio D3.\n• La presentación se transmitirá en vivo por Facebook y Zoom para quienes no puedan asistir.\n• Se espera la participación del Lic. Dennis Campos, experto en astronomía y su relación con la sociedad.\n• Este evento es gratuito y está abierto al público en general, incluyendo a estudiantes y docentes.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/medir-universo-grandes-paradigmas-cientificas-cambiaron-nuestra-escala-cosmica",
       "publish_date": "2026-05-04T20:41:57.000Z",
-      "teaser": "Lo clave en 20 segundos: Aprende sobre los paradigmas de la medición del universo y sus científicas.",
+      "teaser": "Lo clave en 20 segundos: Charla sobre la medición del universo y contribuciones científicas el 7 de mayo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/astro.jpg",
       "description": "Medir el Universo: de los grandes paradigmas a las científicas que cambiaron nuestra escala cósmica",
       "featured": false
@@ -1759,11 +1798,11 @@
       "slug": "candidaturas-al-consejo-institucional-quedan-oficializadas",
       "title": "Candidaturas al Consejo Institucional quedan oficializadas",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tribunal Institucional Electoral entregó las credenciales a las personas postuladas para el Consejo Institucional.\n• Cinco personas fueron oficiales como candidatas tras cumplir requisitos establecidos por el Estatuto Orgánico.\n• Las elecciones se llevarán a cabo el 28 de mayo mediante un sistema de votación electrónica.\n• Un simulacro de la elección se programó para el 19 de mayo, invitando a la participación de los electores.\n• La campaña electoral comenzó el 30 de abril y finalizará el 27 de mayo, fomentando la participación activa.",
+      "bullets_20s": "• Las elecciones para el Consejo Institucional del TEC se realizarán el 28 de mayo próximo.\n• Cinco personas han sido oficializadas como candidatas para el Consejo Institucional del TEC.\n• Se votará por un representante del sector docente y uno del sector administrativo en el TEC.\n• El Tribunal Institucional Electoral garantizó un proceso transparente para estas elecciones.\n• La participación de la comunidad es clave en el proceso de toma de decisiones del TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/candidaturas-consejo-institucional-quedan-oficializadas-0",
       "publish_date": "2026-05-04T17:08:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Se oficializan candidaturas al Consejo Institucional del TEC con elecciones proximas.",
+      "teaser": "Lo clave en 20 segundos: Se oficializan candidaturas para el Consejo Institucional del TEC en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/entrega-credenciales-eleccion-miembros-consejo-institucional-mayo-2026_rgarita-1.jpg",
       "description": "Candidaturas al Consejo Institucional quedan oficializadas",
       "featured": false
@@ -1798,11 +1837,11 @@
       "slug": "pe-dar-13-publicacion-de-edicto-para-el-tramite-de-reconocimiento-y-equiparacion-de-grados-y-titulos",
       "title": "PE-DAR-13 Publicación de edicto para el trámite de Reconocimiento y Equiparación de Grados y Títulos",
       "category": "Costa Rica",
-      "bullets_20s": "• El edicto se centra en el reconocimiento de grados académicos en el país.\n• Es un proceso esencial para la validación de estudios en el extranjero.\n• Se espera una gran participación de solicitantes en el proceso.\n• Las instituciones deberán cumplir con los nuevos lineamientos establecidos.\n• La publicación es parte de un esfuerzo por mejorar la educación superior.\n• El trámite está dirigido a personas con títulos de diferentes disciplinas.\n• Se recomienda revisar los requisitos antes de aplicar al reconocimiento.\n• Este edicto impactará a múltiples profesionales buscando validar su educación.",
+      "bullets_20s": "• El edicto detalla procesos para el reconocimiento de títulos académicos en Costa Rica.\n• La publicación es esencial para estudiantes y profesionales que buscan homologar sus grados.\n• Incluye información sobre requisitos y procedimientos para realizar el trámite.\n• Se recomienda a los interesados revisar la guía para facilitar el proceso.\n• El documento fue actualizado en mayo de 2026, reflejando cambios recientes.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-dar-13-publicacion-edicto-tramite-reconocimiento-equiparacion-grados-titulos",
       "publish_date": "2026-05-04T16:10:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Publicación de edicto para el reconocimiento de grados y títulos en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Edicto sobre reconocimiento de títulos en Costa Rica, proceso necesario para estudiantes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -11272,5 +11311,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-06T19:45:30.760Z"
+  "generated_at": "2026-05-06T20:45:30.743Z"
 }
