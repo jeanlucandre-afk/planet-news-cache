@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "emergencia-por-nube-de-cloro-en-heredia-habia-quimicos-enterrados-a-tres-metros",
+      "title": "Emergencia por nube de cloro en Heredia: había químicos enterrados a tres metros",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un incidente grave ha ocurrido en Heredia, relacionado con un escape de cloro.\n• Las autoridades están trabajando arduamente para resolver la situación actual.\n• Una persona ha sido afectada y trasladada al hospital por problemas respiratorios.\n• Los bomberos están ubicando los recipientes químicos que están enterrados en el área.\n• Se urge a la comunidad seguir las instrucciones de seguridad proporcionadas.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/sucesos/emergencia-por-nube-de-cloro-en-heredia-habia/M3CLF576EFCUDIVMBV4CJXCKSE/story/",
+      "publish_date": "2026-05-06T15:21:54.000Z",
+      "teaser": "Lo clave en 20 segundos: Emergencia en Heredia por escape de cloro y una persona afectada.",
+      "image_url": "https://www.nacion.com/resizer/v2/UH7GC7ZGI5CVXGPLKYJUVZC7MQ.png?auth=929ea35073bf761221058c4fa990dc3aab046d955ea79c339b120ca5e3da3ae1&smart=true&width=902&height=497",
+      "description": "Bomberos trabaja en la escena para ubicar los recipientes enterrados. Una persona fue trasladada por afectación respiratoria.",
+      "featured": false
+    },
+    {
+      "slug": "preocupacion-por-el-estado-de-la-gramilla-de-un-importante-estadio-de-centroamerica",
+      "title": "Preocupación por el estado de la gramilla de un importante estadio de Centroamérica",
+      "category": "Mundo",
+      "bullets_20s": "• El Estadio Francisco Morazán es un punto importante para eventos deportivos en la región.\n• La gramilla del estadio ha sufrido daños significativos en los últimos eventos realizados.\n• Expertos destacan la necesidad de un mantenimiento adecuado para preservar la calidad del campo.\n• Los aficionados expresan preocupación por el estado de la cancha y su impacto en los partidos.\n• Un adecuado manejo de la superficie del estadio es vital para el fútbol en Centroamérica.",
+      "source_name": "Steven Torres",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/preocupacion-por-el-estado-de-la-gramilla-de-un/JE5M4JU4QFBIXLX5ZEIYAVVFHQ/story/",
+      "publish_date": "2026-05-06T15:20:16.000Z",
+      "teaser": "Lo clave en 20 segundos: El estadio sufre daños en su superficie tras un reciente concierto.",
+      "image_url": "https://www.nacion.com/resizer/v2/3M5WMIPF5NC53M22YQNX67ONL4.jpeg?auth=628f76009877adc4a0e08072a4ac210c013a70a717bedfb41117f12adf55a443&smart=true&width=1125&height=555",
+      "description": "El Estadio Francisco Morazán sufrió severos daños en su cancha tras un concierto de Eddie Herrera.",
+      "featured": false
+    },
+    {
       "slug": "exfuncionario-de-la-ccss-condenado-por-recibir-168000-en-cobros-de-tramites-de-seguros",
       "title": "Exfuncionario de la CCSS condenado por recibir ¢168.000 en cobros de trámites de seguros",
       "category": "Costa Rica",
@@ -121,11 +147,11 @@
       "slug": "identifican-cepa-andina-de-hantavirus-que-se-transmite-entre-humanos-en-el-brote-mortal-del-crucero-que-zarpo-de-argenti",
       "title": "Identifican cepa andina de hantavirus que se transmite entre humanos en el brote mortal del crucero que zarpó de Argentina",
       "category": "Mundo",
-      "bullets_20s": "• La nueva cepa de hantavirus ha generado preocupación entre las autoridades sanitarias.\n• Dos casos de transmisión entre humanos han sido confirmados en un crucero.\n• El brote está vinculado a un crucero que zarpó de Argentina recientemente.\n• La cepa andina del virus es conocida por sus efectos graves en la salud.\n• El Ministerio de Salud de Sudáfrica investiga el origen del brote actual.",
+      "bullets_20s": "• La cepa andina del hantavirus se ha detectado en humanos, generando preocupación entre las autoridades.\n• Dos casos confirmados están relacionados con un brote en un crucero que zarpó de Argentina.\n• El Ministerios de Salud de Sudáfrica investiga el origen y la propagación del virus.\n• Las medidas de prevención son esenciales para contener el avance del hantavirus en la región.\n• Este tipo de brotes resalta la importancia de la vigilancia epidemiológica en viajes marítimos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c9wepjzl887o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-06T12:21:09.000Z",
-      "teaser": "Lo clave en 20 segundos: se identifica una nueva cepa de hantavirus en un crucero argentino.",
+      "teaser": "Lo clave en 20 segundos: cepa andina de hantavirus se transmite entre humanos en brote de crucero.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/6cdc/live/63d64150-4916-11f1-bd52-e755d604ece4.jpg",
       "description": "El Ministerio de Salud de Sudáfrica informó que la cepa andina del virus se encontró en dos casos confirmados vinculados al brote.",
       "featured": false
@@ -173,11 +199,11 @@
       "slug": "como-guyana-se-convirtio-en-uno-de-los-grandes-beneficiarios-de-la-guerra-en-iran",
       "title": "Cómo Guyana se convirtió en uno de los grandes beneficiarios de la guerra en Irán",
       "category": "Mundo",
-      "bullets_20s": "• Guyana ha experimentado un crecimiento económico significativo en medio de la crisis internacional.\n• El cierre del estrecho de Ormuz ha cambiado las dinámicas del comercio y la energía.\n• Aumenta la atención internacional hacia los recursos naturales de Guyana.\n• Desarrollo de infraestructura y proyectos energéticos en la nación suramericana.\n• Impacto de la guerra en Irán influye en el mercado global de petróleo.",
+      "bullets_20s": "• Guyana ha experimentado un incremento significativo en sus ingresos últimamente, según informes recientes.\n• El cierre del estrecho de Ormuz ha impactado de manera directa en su economía, generando oportunidades.\n• La guerra en Irán ha alterado el equilibrio energético y comercial en la región de Sudamérica.\n• Se prevé que la tendencia de crecimiento económico en Guyana continúe en el futuro cercano.\n• Expertos analizan las implicaciones geopolíticas del conflicto en la economía de naciones pequeñas como Guyana.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ce3pl23l7xqo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-06T11:31:16.000Z",
-      "teaser": "Lo clave en 20 segundos: Guyana se beneficia económicamente en medio de la crisis asiática.",
+      "teaser": "Lo clave en 20 segundos: Guyana ha prosperado económicamente tras el conflicto en Irán por el cierre del estrecho de Ormuz.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/0226/live/cd26e950-4940-11f1-9efe-4f4806f4977a.jpg",
       "description": "La pequeña nación sudamericana ha visto un notable aumento en sus ingresos como consecuencia del cierre del estrecho de Ormuz.",
       "featured": false
@@ -212,11 +238,11 @@
       "slug": "crisis-de-solteros-mujeres-sobrantes-e-impuesto-al-condon-por-que-la-apuesta-de-china-para-que-nazcan-mas-bebes-salio-ma",
       "title": "Crisis de solteros, \"mujeres sobrantes\" e impuesto al condón: por qué la apuesta de China para que nazcan más bebés salió mal",
       "category": "Mundo",
-      "bullets_20s": "• China enfrenta una crisis demográfica por la baja tasa de natalidad en los últimos años.\n• Las políticas previas limitaron el crecimiento de la población, afectando su estructura.\n• El envejecimiento de la población representa un gran desafío para la economía futura.\n• La eliminación de la política del hijo único no ha logrado revertir las tendencias.\n• El fenómeno de \"mujeres sobrantes\" genera tensiones sociales y familiares en el país.\n• Se implementan incentivos como subsidios para fomentar los nacimientos que no funcionan.\n• La percepción social sobre la crianza de los hijos está condicionando las decisiones familiares.\n• La presión económica y laboral afecta las decisiones de formar familias entre jóvenes.\n• Una disminución de la mano de obra activa podría frenar el crecimiento económico en años venideros.",
+      "bullets_20s": "• China enfrenta una crisis demográfica con tasas de natalidad en descenso desde hace años.\n• Las políticas implementadas no lograron el incremento esperado en el número de nacimientos.\n• El envejecimiento de la población genera preocupaciones sobre el futuro económico del país.\n• Se habla de \"mujeres sobrantes\" debido a un desequilibrio en la proporción de géneros.\n• La eliminación de la política del hijo único provocó efectos inesperados en la sociedad china.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cy9gnwnn2d4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-06T10:39:36.000Z",
-      "teaser": "Lo clave en 20 segundos: China enfrenta una crisis demográfica inesperada tras eliminar su política de hijo único.",
+      "teaser": "Lo clave en 20 segundos: China lucha contra la baja natalidad y el envejecimiento poblacional.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/de86/live/01d8f650-0f37-11f1-9977-e990726ff5e1.jpg",
       "description": "Las autoridades en China asumieron que la tasa de natalidad se recuperaría rápidamente cuando eliminaran la política del hijo único. Pero se equivocaron y ahora la gran preocupación es el envejecimiento de la población.",
       "featured": false
@@ -224,12 +250,12 @@
     {
       "slug": "mi-adiccion-a-las-compras-se-apodero-de-mi-vida-y-ahora-me-doy-cuenta-de-que-la-causo",
       "title": "Mi adicción a las compras se apoderó de mi vida y ahora me doy cuenta de qué la causó",
-      "category": "Ciencia",
-      "bullets_20s": "• Sally Gardner, escritora de literatura infantil, comparte su experiencia con la adicción a las compras.\n• La autora descubrió la causa de su conducta tras escuchar un revelador podcast.\n• Reflexiona sobre cómo los hábitos de consumo afectan la vida personal y emocional.\n• La adicción a las compras es un tema que afecta a muchas personas en el mundo.\n• Explorar las raíces de la adicción puede ayudar a mejorar el bienestar mental.",
+      "category": "Mundo",
+      "bullets_20s": "• La escritora identificó su adicción a las compras tras reflexionar sobre su vida personal.\n• Escuchar un podcast le dio nueva perspectiva sobre sus compulsivas compras.\n• Gardner comparte su experiencia para ayudar a otros con problemas similares.\n• La influencia del entorno y la publicidad son factores agravantes comunes.\n• Reflexionar sobre las emociones puede servir para reconocer comportamientos compulsivos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2e272jzv87o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-06T09:37:55.000Z",
-      "teaser": "Lo clave en 20 segundos: Sally Gardner revela su lucha y hallazgos sobre la adicción a las compras.",
+      "teaser": "Lo clave en 20 segundos: La autora explora las raíces de su adicción a las compras tras un revelador podcast.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/6da9/live/913ab820-4618-11f1-b0bc-1f5a59b5b6a6.jpg",
       "description": "La escritora de literatura infantil Sally Gardner finalmente encontró una explicación para sus derrochadoras salidas de compras después de escuchar un podcast.",
       "featured": false
@@ -1291,11 +1317,11 @@
       "slug": "de-la-fuente-al-aprovechamiento-la-importancia-de-separar-nuestros-residuos",
       "title": "De la fuente al aprovechamiento: la importancia de separar nuestros residuos",
       "category": "Ciencia",
-      "bullets_20s": "• El seminario virtual se enfocará en la separación de residuos para un mejor aprovechamiento.\n• Se realizará el 11 de mayo, promoviendo el cuidado ambiental y la sostenibilidad.\n• Los asistentes aprenderán prácticas sencillas para impactar positivamente en su comunidad.\n• Este evento es organizado por la Unidad Institucional de Gestión Ambiental de la institución.\n• Se requiere registro previo para participar en esta importante capacitación ambiental.",
+      "bullets_20s": "• El seminario virtual se centrará en la correcta separación de residuos, vital para el medio ambiente.\n• La correcta separación de residuos ayuda a optimizar el uso de recursos en nuestra comunidad.\n• La sesión es organizada por la Unidad Institucional de Gestión Ambiental y Seguridad Laboral.\n• Se requiere registro previo para participar en el seminario programado para el 11 de mayo.\n• El evento durará una hora y ofrecerá conocimientos prácticos y sencillos sobre el tema.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/fuente-aprovechamiento-importancia-separar-nuestros-residuos",
       "publish_date": "2026-05-04T21:12:06.000Z",
-      "teaser": "Lo clave en 20 segundos: Aprende a separar residuos y cuida el medio ambiente en un seminario virtual.",
+      "teaser": "Lo clave en 20 segundos: Aprenda a separar residuos y su impacto positivo en el medio ambiente.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/ede00d1d-00bc-4ee5-850c-8e08b29921e8.png",
       "description": "De la fuente al aprovechamiento: la importancia de separar nuestros residuos",
       "featured": false
@@ -1525,11 +1551,11 @@
       "slug": "candidaturas-al-consejo-institucional-quedan-oficializadas",
       "title": "Candidaturas al Consejo Institucional quedan oficializadas",
       "category": "Costa Rica",
-      "bullets_20s": "• Se oficializan las candidaturas para el Consejo Institucional del TEC en Costa Rica.\n• Las elecciones tendrán lugar el próximo 28 de mayo, mediante votación electrónica.\n• Tres puestos de representación son para el sector administrativo y dos docentes.\n• La presidenta interina del TIE enfatiza la importancia de la participación democrática.\n• La comunidad del TEC celebra la participación en este proceso electoral.",
+      "bullets_20s": "• Las elecciones del Consejo Institucional del TEC se realizarán el 28 de mayo de 2026.\n• Se votará por representantes de los sectores docente y administrativo del TEC.\n• Candidatos han sido oficializados por el Tribunal Institucional Electoral (TIE).\n• Se ejecutará una votación electrónica accesible desde cualquier lugar del mundo.\n• Actividades de expresión del pensamiento se llevarán a cabo en diversos campus.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/candidaturas-consejo-institucional-quedan-oficializadas-0",
       "publish_date": "2026-05-04T17:08:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Se oficializan candidaturas para el Consejo Institucional del TEC en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Se oficializan las candidaturas para el Consejo Institucional del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/entrega-credenciales-eleccion-miembros-consejo-institucional-mayo-2026_rgarita-1.jpg",
       "description": "Candidaturas al Consejo Institucional quedan oficializadas",
       "featured": false
@@ -1562,13 +1588,13 @@
     },
     {
       "slug": "pe-dar-13-publicacion-de-edicto-para-el-tramite-de-reconocimiento-y-equiparacion-de-grados-y-titulos",
-      "title": "PE-DAR-13  Publicación de edicto para el trámite de Reconocimiento y Equiparación de Grados y Títulos",
+      "title": "PE-DAR-13 Publicación de edicto para el trámite de Reconocimiento y Equiparación de Grados y Títulos",
       "category": "Costa Rica",
-      "bullets_20s": "• La publicación de edictos es un procedimiento importante en el ámbito educativo.\n• Reconocimiento de grados asegura la validez de títulos en el país y en el extranjero.\n• Los interesados deben seguir ciertos trámites específicos para la equiparación de grados.\n• Este proceso contribuye a la movilidad profesional de los graduados en Costa Rica.\n• Es esencial estar informado sobre los requisitos para evitar contratiempos en el trámite.",
+      "bullets_20s": "• El edicto busca formalizar el reconocimiento de grados académicos en el país.\n• Importante para profesionales que desean trabajar en campos específicos.\n• Proceso mejora las oportunidades laborales para muchos costarricenses.\n• Se ofrecen lineamientos claros sobre el trámite y sus requisitos.\n• La publicación estará vigente hasta nuevo aviso para interesados.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-dar-13-publicacion-edicto-tramite-reconocimiento-equiparacion-grados-titulos",
       "publish_date": "2026-05-04T16:10:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Proceso para el reconocimiento y equiparación de grados en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: nuevo edicto para el reconocimiento de grados académicos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -1590,24 +1616,24 @@
       "slug": "pe-dar-12-recepcion-de-expediente-de-reconocimiento-y-equiparacion-de-grados-y-titulos",
       "title": "PE-DAR-12  Recepción de expediente de Reconocimiento y Equiparación de Grados y Títulos",
       "category": "Costa Rica",
-      "bullets_20s": "• La recepción de expediente es un proceso clave en la educación superior de Costa Rica.\n• Permite el reconocimiento de títulos obtenidos en el extranjero y su equiparación.\n• Facilita a los graduados acceder a nuevas oportunidades laborales en el país.\n• El proceso está regulado para asegurar la calidad y validez de los títulos.\n• Se actualizan frecuentemente los procedimientos para brindar un mejor servicio.",
+      "bullets_20s": "• Este procedimiento es crucial para el reconocimiento de títulos y grados en educación superior.\n• Los interesados deben seguir los pasos establecidos para asegurar la correcta recepción del expediente.\n• Los manuales explican los requisitos y documentación necesaria para completar el proceso.\n• Este sistema garantiza que los títulos sean validados conforme a las normativas nacionales.\n• El expediente debe ser presentado dentro de los plazos establecidos por la institución.\n• Se busca agilizar el proceso de equiparación y facilitar a los colombianos en el país.\n• La recepción del expediente incluye un análisis previo por parte de un comité especializado.\n• Los estudiantes deben estar alertas sobre cualquier actualización en los procedimientos administrativos.\n• Es fundamental conocer los criterios de calidad aplicados a los títulos extranjeros.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-dar-12-recepcion-expediente-reconocimiento-equiparacion-grados-titulos",
       "publish_date": "2026-05-04T16:10:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Proceso de reconocimiento de grados y títulos en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Importante proceso para el reconocimiento de grados en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
     },
     {
       "slug": "pe-dar-11-asignacion-de-los-espacios-fisicos-que-administra-el-departamento-de-admision-y-registro",
-      "title": "PE-DAR-11 Asignación de los espacios físicos que administra el Departamento de Admisión y Registro",
+      "title": "PE-DAR-11 Asignación de los espacios físicos que administra el Departamento de Admisión y Registro",
       "category": "Costa Rica",
-      "bullets_20s": "• Asignación de espacios físicos es clave para las instituciones educativas y su operatividad.\n• El Departamento de Admisión y Registro organiza y gestiona estos espacios para optimizar recursos.\n• Se busca mejorar la eficiencia en el uso de las instalaciones educativas en Costa Rica.\n• Manuales y procedimientos son esenciales para garantizar la correcta asignación de espacios.\n• La última modificación en mayo de 2026 refleja adaptaciones a nuevas necesidades académicas.",
+      "bullets_20s": "• El Departamento de Admisión y Registro gestiona espacios físicos esenciales para los estudiantes.\n• La asignación de espacios es crucial para la organización de eventos académicos y administrativos.\n• Este procedimiento está en continuo desarrollo para asegurar un mejor aprovechamiento.\n• Manual disponible para consulta de los cambios y normativas sobre el uso de espacios.\n• Se espera que la gestión de espacios facilite un mejor servicio a la comunidad educativa.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-dar-11-asignacion-espacios-fisicos-administra-departamento-admision-registro",
       "publish_date": "2026-05-04T16:09:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Asignación eficiente de espacios físicos es crucial para educación superior.",
+      "teaser": "Lo clave en 20 segundos: actualización sobre gestión de espacios en institución educativa.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -11038,5 +11064,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-06T14:45:31.524Z"
+  "generated_at": "2026-05-06T15:45:30.244Z"
 }
