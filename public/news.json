@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "mariano-torres-habla-por-primera-vez-del-incidente-que-le-provoco-la-sancion-con-bronca",
+      "title": "Mariano Torres habla por primera vez del incidente que le provocó la sanción: ‘Con bronca’",
+      "category": "Costa Rica",
+      "bullets_20s": "• Mariano Torres, figura del fútbol costarricense, expresa su frustración tras la sanción impuesta.\n• El incidente en Puntarenas generó reacciones diversas entre aficionados y analistas deportivos.\n• La suspensión de tres partidos impactó tanto su carrera como el rendimiento del equipo.\n• En su intervención, Torres detalla las circunstancias que rodearon el incidente problemático.\n• La prensa ha seguido de cerca el desenvolvimiento de este caso en el fútbol nacional.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/puro-deporte/saprissa/mariano-torres-habla-por-primera-vez-del-incidente/AXSRZWZMUJEQXK5SIDDNNYYB3E/story/",
+      "publish_date": "2026-05-07T02:22:08.000Z",
+      "teaser": "Lo clave en 20 segundos: Mariano Torres habla sobre el incidente que llevó a su suspensión.",
+      "image_url": "https://www.nacion.com/resizer/v2/W26EFNESCBHHLIWS242DP6RAJI.jpeg?auth=b6e454d13a1cbc8b8bf275e06fb9c0f2054adb484f90c4c4a143237a7f5ce890&smart=true&width=1280&height=720",
+      "description": "Tras ser suspendido tres partidos por el incidente en Puntarenas, Mariano Torres explica por primera vez qué ocurrió aquella tarde.",
+      "featured": false
+    },
+    {
+      "slug": "rodrigo-chaves-veta-ley-sobre-perfiles-de-adn-de-condenados",
+      "title": "Rodrigo Chaves veta ley sobre perfiles de ADN de condenados",
+      "category": "Costa Rica",
+      "bullets_20s": "• Rodrigo Chaves tomó la decisión de vetar dos proyectos de ley propuestos en Costa Rica.\n• Una de las leyes vetadas se enfocaba en la recolección de datos de ADN de condenados.\n• El veto genera un debate sobre la privacidad y seguridad en el país.\n• La Asamblea Legislativa había apoyado inicialmente ambas iniciativas de ley.\n• La reacción del público ante esta decisión se espera intensa y dividida.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/politica/rodrigo-chaves-veta-ley-que-exigia-recolectar/XSQBAGCE5ZH4HJ2MU26OPQGY3I/story/",
+      "publish_date": "2026-05-07T01:46:27.000Z",
+      "teaser": "Lo clave en 20 segundos: Rodrigo Chaves veta ley para recolectar ADN de condenados.",
+      "image_url": "https://www.nacion.com/resizer/v2/CHKAQERWMREZHEEBZ7GCD33OEY.JPG?auth=cfeff5350924b5d31d7553aeeae79306b178f140ded0abd51deabe01055d1b45&smart=true&width=3000&height=2000",
+      "description": "El presidente de la República, Rodrigo Chaves, vetó dos proyectos de ley aprobados por la Asamblea Legislativa. El primero habría permitido a las autoridades recolectar los perfiles de ADN de personas condenadas.",
+      "featured": false
+    },
+    {
+      "slug": "diputada-del-pusc-pide-un-minuto-de-silencio-por-victimas-de-femicidios-y-violencia-dos-oficialistas-rechazan-levantarse",
+      "title": "Diputada del PUSC pide un minuto de silencio por víctimas de femicidios y violencia: dos oficialistas rechazan levantarse",
+      "category": "Costa Rica",
+      "bullets_20s": "• La diputada Abril Gordienko solicitó un minuto de silencio en la Asamblea Legislativa.\n• El pedido reconoce las víctimas de femicidio y violencia en el país.\n• Dos miembros del oficialismo se opusieron a levantarse durante el tributo.\n• El informe de Rodrigo Chaves ha generado debate en la política nacional.\n• Gordienko enfatiza la importancia de visibilizar estos casos perjudiciales.",
+      "source_name": "Aarón Sequeira",
+      "source_url": "https://www.nacion.com/politica/diputada-del-pusc-pide-un-minuto-de-silencio-por/OXXBMTLZF5HEREQ6VAGLA6GH5Q/story/",
+      "publish_date": "2026-05-07T01:37:03.000Z",
+      "teaser": "Lo clave en 20 segundos: Diputada solicita silencio por víctimas de femicidio, mientras otros se niegan a participar.",
+      "image_url": "https://www.nacion.com/resizer/v2/SNOW7NWGD5DMPBOJIYLD7I2WVA.jpeg?auth=9fb224774facbf817ba16efb78d3be841f4cfd19cde421c08eec516238f2607d&smart=true&width=1280&height=960",
+      "description": "En su análisis del informe de Rodrigo Chaves, Abril Gordienko pidió un minuto para recordar las 160 víctimas de femicidio, 163 menores asesinados y 248 víctimas colaterales.",
+      "featured": false
+    },
+    {
       "slug": "encuesta-ciep-sin-el-apoyo-de-rodrigo-chaves-70-de-votantes-de-laura-fernandez-habria-mantenido-su-decision",
       "title": "Encuesta CIEP: sin el apoyo de Rodrigo Chaves, 70% de votantes de Laura Fernández habría mantenido su decisión",
       "category": "Costa Rica",
@@ -108,11 +147,11 @@
       "slug": "que-origino-el-megatsunami-en-alaska-del-ano-pasado-que-acaba-de-ser-registrado-como-el-segundo-mas-grande-de-la-histori",
       "title": "Qué originó el megatsunami en Alaska del año pasado que acaba de ser registrado como el segundo más grande de la historia",
       "category": "Mundo",
-      "bullets_20s": "• El megatsunami de Alaska es ahora el segundo más grande registrado en la historia.\n• Investigaciones recientes revelan la conexión entre terremotos y deslizamientos de tierra.\n• Este fenómeno ha generado gran interés en la comunidad científica internacional.\n• Los eventos naturales extremos como estos tienen efectos devastadores en el medio ambiente.\n• Analizar estos sucesos ayuda a mejorar los sistemas de alerta temprana en regiones vulnerables.",
+      "bullets_20s": "• El megatsunami en Alaska ocurrió como resultado de una serie de terremotos pequeños.\n• Este fenómeno natural ha sido registrado como el segundo más grande de la historia.\n• Investigaciones muestran que un deslizamiento de tierra masivo fue el desencadenante del tsunami.\n• Los científicos continúan analizando las causas y efectos de este impresionante evento.\n• El megatsunami tuvo implicaciones significativas para la región y sus habitantes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c1j2pg8nn28o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-06T21:29:29.000Z",
-      "teaser": "Lo clave en 20 segundos: Un análisis revela causas del megatsunami en Alaska de 2025.",
+      "teaser": "Lo clave en 20 segundos: pequeñas temblores causaron un megatsunami en Alaska, un evento impactante.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3642/live/5902acb0-487f-11f1-b133-d51692f10715.jpg",
       "description": "Un nuevo análisis científico del evento muestra que pequeños terremotos desencadenaron un deslizamiento de tierra masivo.",
       "featured": false
@@ -147,13 +186,13 @@
       "slug": "semana-de-la-diversidad-2026",
       "title": "Semana de la Diversidad 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La semana incluye actividades como conversatorios y ferias para promover la diversidad.\n• Se realizarán cine foros y eventos culturales enfocados en la inclusión y equidad.\n• El evento busca sensibilizar a la comunidad sobre temas de diversidad sexual y de género.\n• Las actividades están destinadas a estudiantes, colaboradores y la audiencia general.\n• Organizadores incluyen la Oficina de Equidad de Género y el Grupo Diversidad TEC.",
+      "bullets_20s": "• La Semana de la Diversidad 2026 busca promover la inclusión en la comunidad educativa de Costa Rica.\n• Se realizan conversatorios y charlas para sensibilizar sobre diversidad sexual y de género.\n• Actividades culturales incluyen cine foros y expresiones artísticas que fomentan la equidad.\n• La oficina de Equidad de Género coordina esfuerzos para combatir la discriminación en el TEC.\n• La comunidad estudiantil participa activamente en el Grupo Diversidad TEC, buscando visibilidad.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/semana-diversidad-2026",
       "publish_date": "2026-05-06T20:45:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de la diversidad y actividades para promover inclusión.",
+      "teaser": "Lo clave en 20 segundos: Celebración y reflexión sobre la diversidad sexual y de género en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/semana-diversidad.png",
-      "description": "La Semana de la Diversidad 2026 es un espacio de encuentro, reflexión y celebración que promueve la inclusión y el respeto hacia la diversidad sexual y de género.",
+      "description": "Semana de la Diversidad 2026 es un espacio de encuentro, reflexión y celebración que promueve la inclusión y el respeto hacia la diversidad.",
       "featured": false
     },
     {
@@ -342,11 +381,11 @@
       "slug": "sinaes-reacreditara-a-licenciaturas-de-ingenieria-ambiental-y-a-administracion-de-tecnologias-de-informacion",
       "title": "SINAES reacreditará a licenciaturas de Ingeniería Ambiental y a Administración de Tecnologías de Información",
       "category": "Costa Rica",
-      "bullets_20s": "• La reacreditación es un indicador de calidad en la educación superior para las carreras acreditadas.\n• El TEC reafirma su compromiso con la educación a través de estas licencias en ingeniería.\n• La primera acreditación de Administración de Tecnologías de Información fue en 2015, destacando su importancia.\n• El programa de Ingeniería Ambiental ha sido reacreditado por tercera vez, garantizando su calidad.\n• Los estudiantes y docentes se benefician directamente de estas acreditaciones reconocidas a nivel nacional.",
+      "bullets_20s": "• La reacreditación asegura la calidad de las carreras del Tecnológico de Costa Rica.\n• SINAES reafirma su compromiso con la educación superior en el país.\n• Ingeniería Ambiental y Administración de Tecnologías de Información obtienen reacreditación.\n• Los programas evaluados contribuyen al desarrollo sostenible y tecnológico en Costa Rica.\n• El evento de entrega de certificados se realizará el 13 de mayo a las 2 p.m.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/sinaes-reacreditara-licenciaturas-ingenieria-ambiental-administracion-tecnologias-informacion",
       "publish_date": "2026-05-06T16:30:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Reacreditación de programas de ingeniería en Costa Rica garantiza calidad educativa.",
+      "teaser": "Lo clave en 20 segundos: SINAES reacredita programas académicos clave en tecnología y medio ambiente.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/reacreditacion-ati-y-ambi-evento-1.png",
       "description": "SINAES reacreditará a licenciaturas de Ingeniería Ambiental y a Administración de Tecnologías de Información",
       "featured": false
@@ -563,11 +602,11 @@
       "slug": "identifican-cepa-andina-de-hantavirus-que-se-transmite-entre-humanos-en-el-brote-mortal-del-crucero-que-zarpo-de-argenti",
       "title": "Identifican cepa andina de hantavirus que se transmite entre humanos en el brote mortal del crucero que zarpó de Argentina",
       "category": "Mundo",
-      "bullets_20s": "• El hantavirus puede ser mortal y se transmite entre humanos en ciertos contextos.\n• La cepa andina ha sido identificada en un reciente brote en un crucero.\n• Las autoridades de salud están investigando el origen y la propagación del virus.\n• Se han confirmado dos casos en Sudáfrica relacionados con el brote del crucero.\n• El seguimiento de contactos es crucial para prevenir más contagios entre personas.",
+      "bullets_20s": "• La cepa andina del hantavirus ha sido identificada en un nuevo brote preocupante.\n• Este brote se originó en un crucero que partió desde Argentina hacia otros destinos.\n• Los casos confirmados se relacionan con la transmisión entre humanos, lo notable del evento.\n• Las autoridades de salud están tomando medidas preventivas para controlar la situación.\n• Los síntomas del hantavirus pueden ser severos y requieren atención médica inmediata.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c9wepjzl887o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-06T12:21:09.000Z",
-      "teaser": "Lo clave en 20 segundos: se detectó una cepa de hantavirus mortal en humanos en un crucero.",
+      "teaser": "Lo clave en 20 segundos: Nueva cepa de hantavirus se transmite entre humanos en brote de crucero.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/5e17/live/5e9b7250-496b-11f1-8708-4f6b126b8cbf.jpg",
       "description": "El Ministerio de Salud de Sudáfrica informó que la cepa andina del virus se encontró en dos casos confirmados vinculados al brote.",
       "featured": false
@@ -654,11 +693,11 @@
       "slug": "crisis-de-solteros-mujeres-sobrantes-e-impuesto-al-condon-por-que-la-apuesta-de-china-para-que-nazcan-mas-bebes-salio-ma",
       "title": "Crisis de solteros, \"mujeres sobrantes\" e impuesto al condón: por qué la apuesta de China para que nazcan más bebés salió mal",
       "category": "Mundo",
-      "bullets_20s": "• China enfrentó una crisis de natalidad que preocupa por las consecuencias demográficas.\n• La eliminación de la política del hijo único no tuvo el efecto esperado sobre el nacimiento.\n• El envejecimiento poblacional se convierte en un desafío crucial para el país.\n• Los expertos analizan las causas detrás de la negativa a tener más hijos.\n• Las políticas para impulsar la natalidad aún están en debate y evaluación.",
+      "bullets_20s": "• China enfrenta una crisis de natalidad a pesar de eliminar la política del hijo único.\n• Las autoridades pensaron que la tasa de nacimientos se incrementaría rápidamente.\n• El envejecimiento de la población se ha convertido en un problema crítico para China.\n• Surgen términos como \"mujeres sobrantes\" para describir la situación actual.\n• Un impuesto al condón podría ser una estrategia para fomentar el crecimiento demográfico.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cy9gnwnn2d4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-06T10:39:36.000Z",
-      "teaser": "Lo clave en 20 segundos: China enfrenta una crisis de natalidad a pesar de eliminar la política del hijo único.",
+      "teaser": "Lo clave en 20 segundos: Crisis de natalidad en China sorprende a las autoridades y plantea grandes desafíos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/de86/live/01d8f650-0f37-11f1-9977-e990726ff5e1.jpg",
       "description": "Las autoridades en China asumieron que la tasa de natalidad se recuperaría rápidamente cuando eliminaran la política del hijo único. Pero se equivocaron y ahora la gran preocupación es el envejecimiento de la población.",
       "featured": false
@@ -693,11 +732,11 @@
       "slug": "charla-el-entorno-geopolitico-y-sus-repercusiones-en-costa-rica",
       "title": "Charla: El entorno geopolítico y sus repercusiones en Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC organiza una charla sobre el contexto geopolítico actual y sus implicaciones en Costa Rica.\n• La actividad se realiza en el marco del Día de la Persona Estudiante y Trabajadora 2026.\n• Eduardo Ulibarri Bilbao será el orador, analizando la coyuntura geopolítica del momento.\n• El evento busca fomentar la reflexión crítica en la comunidad académica y general.\n• La charla se desarrollará de forma virtual mediante Zoom y transmisión en Facebook Live.",
+      "bullets_20s": "• Análisis del entorno geopolítico actual y sus implicaciones para Costa Rica.\n• Se realiza en el marco del Día de la Persona Estudiante y Trabajadora 2026.\n• Participará el periodista y exembajador Eduardo Ulibarri Bilbao.\n• Evento virtual a realizarse el 13 de mayo de 2026 en horario nocturno.\n• Transmisión a través de Facebook Live desde Casa Cultural Amón.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/charla-entorno-geopolitico-sus-repercusiones-costa-rica",
       "publish_date": "2026-05-06T02:24:54.000Z",
-      "teaser": "Lo clave en 20 segundos: Charla sobre el entorno geopolítico y sus efectos en Costa Rica el 13 de mayo.",
+      "teaser": "Lo clave en 20 segundos: Charla sobre geopolítica y sus impactos en Costa Rica, participando expertos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/evento.png",
       "description": "Charla: El entorno geopolítico y sus repercusiones en Costa Rica",
       "featured": false
@@ -875,11 +914,11 @@
       "slug": "nuevo-libro-del-tec-narra-el-descubrimiento-del-volcan-arenal",
       "title": "Nuevo libro del TEC narra el “descubrimiento” del volcán Arenal",
       "category": "Costa Rica",
-      "bullets_20s": "• El libro presenta la historia de la primera exploración al volcán Arenal en 1937.\n• Relatos inéditos destacan las dificultades que enfrentaron los exploradores en su travesía.\n• Arenal es conocido por su erupción catastrófica en 1968 que alteró la región.\n• La obra nace de la colaboración entre María Isabel Quesada y Luko Hilje Quirós.\n• Se incluye información relevante sobre escaladas posteriores y su impacto en Costa Rica.",
+      "bullets_20s": "• El libro describe la primera exploración documentada del volcán Arenal en 1937.\n• Se compilan relatos y documentos inéditos sobre las travesías hacia el volcán.\n• La obra es accesible para un público variado, desde estudiantes a profesionales.\n• Kenneth Mora destaca la importancia del volcán como sitio turístico en Costa Rica.\n• Los autores resaltan la relevancia de la información encontrada en archivos familiares.",
       "source_name": "kmora",
       "source_url": "http://www.tec.ac.cr/nuevo-libro-tec-narra-descubrimiento-volcan-arenal",
       "publish_date": "2026-05-05T21:18:08.000Z",
-      "teaser": "Lo clave en 20 segundos: Un nuevo libro explora la historia del volcán Arenal y su descubrimiento.",
+      "teaser": "Lo clave en 20 segundos: Conoce el libro que narra el descubrimiento del volcán Arenal en 1937.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dos-hombres-volcan-arenal.jpg",
       "description": "Nuevo libro del TEC narra el “descubrimiento” del volcán Arenal",
       "featured": false
@@ -1758,12 +1797,12 @@
     {
       "slug": "de-la-fuente-al-aprovechamiento-la-importancia-de-separar-nuestros-residuos",
       "title": "De la fuente al aprovechamiento: la importancia de separar nuestros residuos",
-      "category": "Costa Rica",
-      "bullets_20s": "• El seminario virtual se llevará a cabo el lunes 11 de mayo de 2026.\n• Explorará cómo la correcta separación de residuos beneficia al medio ambiente.\n• Es una oportunidad para aprender prácticas sencillas con gran impacto.\n• El evento es organizado por la Unidad Institucional de Gestión Ambiental.\n• Requiere registro previo para participar en el seminario virtual.",
+      "category": "Ciencia",
+      "bullets_20s": "• El seminario ambiental virtual se enfoca en la correcta separación de residuos.\n• Dicha actividad es organizada por la Unidad Institucional de Gestión Ambiental.\n• Se explorará la relación entre la basura y el cuidado medioambiental.\n• Se presentarán prácticas sencillas para mejorar el manejo de residuos.\n• La actividad es gratuita y abierta a diversos públicos interesados.\n• El evento se llevará a cabo el 11 de mayo en modalidad virtual.\n• Los interesados deben registrarse previamente para asistir al seminario.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/fuente-aprovechamiento-importancia-separar-nuestros-residuos",
       "publish_date": "2026-05-04T21:12:06.000Z",
-      "teaser": "Lo clave en 20 segundos: Seminario virtual sobre separación de residuos el 11 de mayo.",
+      "teaser": "Lo clave en 20 segundos: Un seminario virtual sobre la separación de residuos se aproxima.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/22-1.png",
       "description": "De la fuente al aprovechamiento: la importancia de separar nuestros residuos",
       "featured": false
@@ -11506,5 +11545,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-07T01:45:30.295Z"
+  "generated_at": "2026-05-07T02:45:31.003Z"
 }
