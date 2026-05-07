@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "menor-muere-a-balazos-en-puntarenas-y-su-tio-queda-gravemente-herido",
+      "title": "Menor muere a balazos en Puntarenas y su tío queda gravemente herido",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un menor de edad ha sido la víctima de un tiroteo en Puntarenas, generando consternación en la comunidad.\n• El ataque armado también dejó a un adulto gravemente herido, que es familiar del menor fallecido.\n• Las autoridades están investigando las circunstancias que rodean este trágico incidente en Puntarenas.\n• Este suceso plantea preocupaciones sobre la seguridad y el aumento de la violencia en la región.\n• Se espera que la policía aumente la vigilancia en el área tras este violento ataque.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/menor-muere-a-balazos-en-puntarenas-y-su-tio-queda/ZD2RIWMJZVCCXHEL2T532DSQF4/story/",
+      "publish_date": "2026-05-07T04:20:19.000Z",
+      "teaser": "Lo clave en 20 segundos: menor muerto y tío herido en ataque a balazos en Puntarenas.",
+      "image_url": "https://www.nacion.com/resizer/v2/JBCM3JIXLFGDFIWSXXOFNUXDIA.png?auth=5822336423106a72249cb112a35ebc30465e89f77e6c0a9d94336c32d3be5efb&smart=true&width=1920&height=1080",
+      "description": "Un menor de edad falleció y otro hombre resultó herido la noche de este lunes tras ser atacados a balazos Puntarenas.",
+      "featured": false
+    },
+    {
+      "slug": "17-diputados-del-pln-firman-compromiso-para-renunciar-a-su-curul-si-abandonan-la-fraccion",
+      "title": "17 diputados del PLN firman compromiso para renunciar a su curul si abandonan la fracción",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los diputados del PLN buscan mantener la cohesión interna en su partido político a través de este compromiso.\n• El pacto se firmó tras preocupaciones sobre posibles deserciones que afectarían la estabilidad legislativa.\n• Rodrigo Chaves, presidente, sugirió sumar liberacionistas para alcanzar mayorías en el parlamento.\n• El acuerdo incluye condiciones claras para renunciar a su cargo en caso de abandonar la fracción.\n• Este tipo de acuerdos son comunes en la política costarricense para evitar la fuga de diputados.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/politica/17-diputados-del-pln-firman-compromiso-para/SF523LZEEJCKNJSE7DZMC44VL4/story/",
+      "publish_date": "2026-05-07T04:07:54.000Z",
+      "teaser": "Lo clave en 20 segundos: Diputados del PLN firman pacto antitránsfugas tras preocupaciones en su fracción.",
+      "image_url": "https://www.nacion.com/resizer/v2/23XIFZMWHJBLXAWBEDYFF7B6VI.jpg?auth=e6dd21e6cb18d8f297aa7a1a45655d9a5ed7d961a4b03db4cd64e91865b84c33&smart=true&width=4464&height=2976",
+      "description": "Los 17 diputados electos del PLN firmaron un pacto “antitránsfugas” tras declaraciones de Rodrigo Chaves sobre sumar liberacionistas para lograr 38 votos.",
+      "featured": false
+    },
+    {
       "slug": "mas-de-100-bombas-en-10-minutos-la-bbc-reconstruye-el-ataque-mas-mortifero-de-israel-al-libano",
       "title": "Más de 100 bombas en 10 minutos: la BBC reconstruye el ataque más mortífero de Israel al Líbano",
       "category": "Mundo",
-      "bullets_20s": "• El conflicto en el Líbano ha tenido repercusiones importantes en la región y el mundo.\n• El uso de bombas y armamento pesado ha generado un alto número de víctimas civiles.\n• El análisis de la BBC ofrece una perspectiva detallada del atentado y sus consecuencias.\n• Los ataques aéreos han afectado la infraestructura y la vida cotidiana de la población libanesa.\n• La comunidad internacional sigue atentamente los acontecimientos en Medio Oriente.",
+      "bullets_20s": "• El ataque ha marcado un nuevo nivel de intensidad en el conflicto en la región del Líbano.\n• Las imágenes muestran la devastación que dejó este ataque en múltiples localidades libanesas.\n• La comunidad internacional ha condenado la violencia y hace un llamado a la paz en el área.\n• Analistas sugieren que este atentado puede escalar aún más la tensión entre Israel y sus vecinos.\n• El impacto humanitario es devastador, con familias enteras desplazadas a causa del ataque.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c9wepk4dgyzo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-07T02:50:33.000Z",
-      "teaser": "Lo clave en 20 segundos: un ataque devastador impacta al Líbano con más de 100 bombardeos.",
+      "teaser": "Lo clave en 20 segundos: un ataque aéreo intensivo de Israel genera caos en el Líbano.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d19c/live/d2e8e220-48c9-11f1-b55d-0f258dce1735.jpg",
       "description": "Las bombas empezaron a caer a partir de las 14:15, una detrás de la otra, causando caos y destrucción por todo Líbano.",
       "featured": false
@@ -160,11 +186,11 @@
       "slug": "que-origino-el-megatsunami-en-alaska-del-ano-pasado-que-acaba-de-ser-registrado-como-el-segundo-mas-grande-de-la-histori",
       "title": "Qué originó el megatsunami en Alaska del año pasado que acaba de ser registrado como el segundo más grande de la historia",
       "category": "Mundo",
-      "bullets_20s": "• El megatsunami en Alaska fue un evento impactante que afectó a la región con gran fuerza.\n• El análisis revela que pequeños terremotos jugaron un papel crucial en el desastre.\n• Un deslizamiento de tierra masivo fue la causa principal del megatsunami registrado.\n• Este acontecimiento ha sido considerado el segundo más grande de la historia reciente.\n• Científicos están estudiando las implicaciones y causas de estos fenómenos naturales.",
+      "bullets_20s": "• Un metanálisis revela que el megatsunami en Alaska tuvo causas relacionadas con pequeños temblores.\n• Los científicos siguen investigando los efectos a largo plazo del megatsunami en el ecosistema local.\n• Los deslizamientos de tierra son fenómenos comunes, pero su magnitud fue sorprendente en este caso.\n• La alerta temprana para tsunamis se está revisando en base a estos nuevos hallazgos científicos.\n• Este tsunami se posiciona como uno de los eventos naturales más impactantes de la última década.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c1j2pg8nn28o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-06T21:29:29.000Z",
-      "teaser": "Lo clave en 20 segundos: Un análisis revela pequeñas terremotos como causantes del megatsunami en Alaska.",
+      "teaser": "Lo clave en 20 segundos: Un análisis revela que pequeños terremotos causaron un megatsunami en Alaska.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3642/live/5902acb0-487f-11f1-b133-d51692f10715.jpg",
       "description": "Un nuevo análisis científico del evento muestra que pequeños terremotos desencadenaron un deslizamiento de tierra masivo.",
       "featured": false
@@ -199,13 +225,13 @@
       "slug": "semana-de-la-diversidad-2026",
       "title": "Semana de la Diversidad 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Semana de la Diversidad se dedica a la inclusión y el respeto a la diversidad sexual y de género.\n• Durante la semana hay diversas actividades culturales, charlas y cine foros para sensibilizar a la comunidad.\n• Los campus y centros del TEC serán los escenarios para todas las actividades programadas del evento.\n• La Oficina de Equidad de Género se involucra en la organización y promoción de la Semana de la Diversidad.\n• Este evento busca fortalecer una cultura más equitativa e inclusiva en toda la comunidad universitaria.",
+      "bullets_20s": "• La actividad promueve la inclusión y el respeto hacia la diversidad sexual y de género.\n• Se ofrecen conversatorios y charlas para sensibilizar a la comunidad sobre diversidad.\n• Se desarrollan ferias, pruebas de salud y eventos culturales durante la semana.\n• Actividades artísticas y cine foros también forman parte de la programación.\n• El objetivo es fortalecer una cultura más equitativa e inclusiva en la sociedad.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/semana-diversidad-2026",
       "publish_date": "2026-05-06T20:45:35.000Z",
-      "teaser": "Lo clave en 20 segundos: La Semana de la Diversidad 2026 promueve inclusión y respeto en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Semana de la Diversidad 2026 promueve el respeto y la inclusión en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/semana-diversidad.png",
-      "description": "La Semana de la Diversidad 2026 es un espacio de encuentro, reflexión y celebración que promueve la inclusión y el respeto hacia la diversidad sexual y de género.",
+      "description": "La Semana de la Diversidad 2026 es un espacio de encuentro, reflexión y celebración que promueve la inclusión.",
       "featured": false
     },
     {
@@ -394,11 +420,11 @@
       "slug": "sinaes-reacreditara-a-licenciaturas-de-ingenieria-ambiental-y-a-administracion-de-tecnologias-de-informacion",
       "title": "SINAES reacreditará a licenciaturas de Ingeniería Ambiental y a Administración de Tecnologías de Información",
       "category": "Costa Rica",
-      "bullets_20s": "• SINAES confirma la reacreditación de dos importantes licenciaturas en el Tecnológico de Costa Rica.\n• La reacreditación de Ingeniería Ambiental es exitosa por tercera vez, asegurando su calidad educativa.\n• La última acreditación garantizada hasta el año 2029, resaltando el compromiso del TEC.\n• La licenciatura en Administración de Tecnologías de Información también obtiene una nueva acreditación.\n• La calidad de la educación en tecnología y medioambiente es vital para el desarrollo nacional.",
+      "bullets_20s": "• SINAES respalda la calidad educativa a través de la reacreditación de programas académicos relevantes.\n• La reacreditación mejora la confianza en las carreras del Tecnológico de Costa Rica (TEC) a nivel nacional.\n• La licenciatura en Ingeniería Ambiental se reacredita por tercera vez, asegurando su calidad continua.\n• Administración de Tecnologías de Información también obtiene reacreditación, fortaleciendo su prestigio educativo.\n• La entrega de certificaciones se llevará a cabo en el auditorio del Centro de las Artes del TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/sinaes-reacreditara-licenciaturas-ingenieria-ambiental-administracion-tecnologias-informacion",
       "publish_date": "2026-05-06T16:30:15.000Z",
-      "teaser": "Lo clave en 20 segundos: SINAES reacredita dos licenciaturas del TEC, garantizando calidad educativa para el futuro.",
+      "teaser": "Lo clave en 20 segundos: SINAES reacredita carreras del TEC, ¿qué significa para la educación en Costa Rica?",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/reacreditacion-ati-y-ambi-evento-1.png",
       "description": "SINAES reacreditará a licenciaturas de Ingeniería Ambiental y a Administración de Tecnologías de Información",
       "featured": false
@@ -615,11 +641,11 @@
       "slug": "identifican-cepa-andina-de-hantavirus-que-se-transmite-entre-humanos-en-el-brote-mortal-del-crucero-que-zarpo-de-argenti",
       "title": "Identifican cepa andina de hantavirus que se transmite entre humanos en el brote mortal del crucero que zarpó de Argentina",
       "category": "Mundo",
-      "bullets_20s": "• El hantavirus puede transmitirse de humano a humano, lo que aumenta su preocupación.\n• Se han confirmado dos casos de la cepa andina en Sudáfrica actualmente.\n• La cepa andina del virus es parte de un brote severo en un crucero turístico.\n• Los síntomas del hantavirus pueden ser graves y requieren atención médica inmediata.\n• Las autoridades están investigando los orígenes de este brote para controlarlo eficazmente.",
+      "bullets_20s": "• Recientemente se identificó una nueva cepa de hantavirus en Sudáfrica, lo que genera preocupación.\n• La cepa andina del hantavirus se ha vinculado con un brote mortal en un crucero argentino.\n• Dos personas han sido confirmadas con esta cepa, según informes del Ministerio de Salud sudafricano.\n• Esta situación resalta la importancia de control de enfermedades en cruceros y transporte internacional.\n• Se recomienda a los pasajeros de cruceros estar alerta y seguir las instrucciones de salud pública.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c9wepjzl887o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-06T12:21:09.000Z",
-      "teaser": "Lo clave en 20 segundos: Cepa andina de hantavirus se transmite entre humanos en brote en crucero.",
+      "teaser": "Lo clave en 20 segundos: nueva cepa de hantavirus vinculada a un brote en un crucero argentino alerta a la salud pública.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/5e17/live/5e9b7250-496b-11f1-8708-4f6b126b8cbf.jpg",
       "description": "El Ministerio de Salud de Sudáfrica informó que la cepa andina del virus se encontró en dos casos confirmados vinculados al brote.",
       "featured": false
@@ -706,13 +732,13 @@
       "slug": "crisis-de-solteros-mujeres-sobrantes-e-impuesto-al-condon-por-que-la-apuesta-de-china-para-que-nazcan-mas-bebes-salio-ma",
       "title": "Crisis de solteros, \"mujeres sobrantes\" e impuesto al condón: por qué la apuesta de China para que nazcan más bebés salió mal",
       "category": "Mundo",
-      "bullets_20s": "• La política del hijo único en China causó graves desequilibrios demográficos en años recientes.\n• El gobierno esperaba un aumento significativo de la natalidad después de cambiar la política.\n• Sorpresivamente, las tasas de natalidad continuaron en descenso tras las reformas.\n• La sociedad china enfrenta un aumento en la cantidad de solteros y 'mujeres sobrantes'.\n• El envejecimiento de la población se convierte en un problema crítico para el futuro del país.",
-      "source_name": "",
+      "bullets_20s": "• China enfrenta una crisis de natalidad pese a eliminar la política del hijo único.\n• El envejecimiento de la población se ha convertido en un problema alarmante.\n• Las proyecciones de nacimiento no se han cumplido como se esperaba en el país.\n• Las mujeres solteras y 'sobrantes' son una realidad compleja en la sociedad china.\n• El impuesto al condón es una medida poco convencional para incentivar nacimientos.",
+      "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cy9gnwnn2d4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-06T10:39:36.000Z",
-      "teaser": "Lo clave en 20 segundos: China lucha por aumentar su tasa de natalidad tras la política del hijo único.",
+      "teaser": "Lo clave en 20 segundos: crisis de natalidad y envejecimiento en China tras políticas fallidas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/de86/live/01d8f650-0f37-11f1-9977-e990726ff5e1.jpg",
-      "description": "Las autoridades en China asumieron que la tasa de natalidad se recuperaría rápidamente cuando eliminaran la política del hijo único. Pero se equivocaron y ahora la gran preocupación es el envejecimiento de la población.",
+      "description": "Las autoridades en China asumieron que la tasa de natalidad se recuperaría rápidamente cuando eliminaron la política del hijo único. Pero se equivocaron y ahora la gran preocupación es el envejecimiento de la población.",
       "featured": false
     },
     {
@@ -745,11 +771,11 @@
       "slug": "charla-el-entorno-geopolitico-y-sus-repercusiones-en-costa-rica",
       "title": "Charla: El entorno geopolítico y sus repercusiones en Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC realizará una actividad académica sobre geopolítica en Costa Rica el 13 de mayo.\n• La charla busca reflexionar sobre implicaciones geopolíticas para el país en tiempos actuales.\n• Eduardo Ulibarri será el ponente que aportará su análisis sobre la coyuntura actual.\n• La actividad es parte del Día de la Persona Estudiante y Trabajadora 2026.\n• Se ofrecerá a través de Zoom y Facebook Live, permitiendo amplia participación.",
+      "bullets_20s": "• El TEC organiza una charla sobre geopolítica en Costa Rica el 13 de mayo, 2026.\n• La actividad busca promover la reflexión sobre el entorno geopolítico actual y sus efectos.\n• Participará el exembajador Eduardo Ulibarri, quien analizará la coyuntura actual.\n• La charla se realizará de forma virtual, accesible por Zoom y Facebook Live.\n• Este evento forma parte de una tradición que supera los 30 años en el TEC.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/charla-entorno-geopolitico-sus-repercusiones-costa-rica",
       "publish_date": "2026-05-06T02:24:54.000Z",
-      "teaser": "Lo clave en 20 segundos: el TEC analizará el entorno geopolítico y sus efectos en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Una charla sobre geopolítica y su impacto en Costa Rica se aproxima.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/evento.png",
       "description": "Charla: El entorno geopolítico y sus repercusiones en Costa Rica",
       "featured": false
@@ -927,11 +953,11 @@
       "slug": "nuevo-libro-del-tec-narra-el-descubrimiento-del-volcan-arenal",
       "title": "Nuevo libro del TEC narra el “descubrimiento” del volcán Arenal",
       "category": "Costa Rica",
-      "bullets_20s": "• El libro detalla la primera exploración documentada del volcán Arenal en 1937.\n• Fue realizado por Alberto Quesada y su primo Luis Castro, quienes exploraron el volcán.\n• La obra recopila relatos familiares y documentos inéditos sobre el ascenso al volcán.\n• Dirigido a un público amplio, con rigor en la precisión de nombres y fechas.\n• Se incluyen fotografías y relatos de quienes escalaron el volcán entre 1937 y 1968.",
+      "bullets_20s": "• La obra relata la primera exploración documentada del volcán Arenal, realizada en 1937.\n• El libro incluye relatos inéditos y documentos sobre la historia del volcán Arenal.\n• Los autores destacan las travesías difíciles realizadas para llegar a la cima del Arenal.\n• María Isabel Quesada y Luko Hilje compilaron la historia de los exploradores del volcán.\n• El formato y lenguaje del libro buscan llegar a un público amplio y diverso.",
       "source_name": "kmora",
       "source_url": "http://www.tec.ac.cr/nuevo-libro-tec-narra-descubrimiento-volcan-arenal",
       "publish_date": "2026-05-05T21:18:08.000Z",
-      "teaser": "Lo clave en 20 segundos: Un nuevo libro relata la historia del volcán Arenal y sus exploraciones iniciales.",
+      "teaser": "Lo clave en 20 segundos: Un nuevo libro descubre historias fascinantes del volcán Arenal en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dos-hombres-volcan-arenal.jpg",
       "description": "Nuevo libro del TEC narra el “descubrimiento” del volcán Arenal",
       "featured": false
@@ -1811,11 +1837,11 @@
       "slug": "de-la-fuente-al-aprovechamiento-la-importancia-de-separar-nuestros-residuos",
       "title": "De la fuente al aprovechamiento: la importancia de separar nuestros residuos",
       "category": "Ciencia",
-      "bullets_20s": "• Participa en el seminario virtual sobre separación de residuos el 11 de mayo a las 11:00 a.m.\n• El seminario es organizado por la Unidad Institucional de Gestión Ambiental de TEC.\n• Explora cómo la separación de residuos mejora el medio ambiente y el aprovechamiento de recursos.\n• Aprende prácticas sencillas para impactar positivamente en tu comunidad y entorno.\n• El registro es gratuito, no te pierdas esta oportunidad de capacitarte.",
+      "bullets_20s": "• El seminario virtual abordará la separación de residuos como práctica ambiental crucial.\n• La Unidad Institucional de Gestión Ambiental organiza el evento el 11 de mayo.\n• El enfoque será en cómo contribuir al medio ambiente mediante la correcta separación.\n• Se ofrecerán prácticas sencillas para generar un impacto positivo en la comunidad.\n• El registro para el seminario es gratuito y requiere inscripción previa.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/fuente-aprovechamiento-importancia-separar-nuestros-residuos",
       "publish_date": "2026-05-04T21:12:06.000Z",
-      "teaser": "Lo clave en 20 segundos: aprende sobre la separación de residuos en un seminario virtual gratuito.",
+      "teaser": "Lo clave en 20 segundos: La separación de residuos es esencial para el cuidado del medio ambiente.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/22-1.png",
       "description": "De la fuente al aprovechamiento: la importancia de separar nuestros residuos",
       "featured": false
@@ -11558,5 +11584,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-07T03:45:30.085Z"
+  "generated_at": "2026-05-07T04:45:30.152Z"
 }
