@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "circo-musica-y-cuentos-festejan-en-cartago-conozca-el-festival-contorno-escenico",
+      "title": "Circo, música y cuentos festejan en Cartago: Conozca el Festival Contorno Escénico",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Festival Contorno Escénico traerá una variedad de actividades artísticas para la comunidad.\n• Artistas de diversas disciplinas participarán en este evento cultural en Cartago.\n• La cita es el próximo 10 de mayo, así que la entrada será gratuita para todos.\n• Habrá actuaciones de circo, música en vivo y cuentacuentos para disfrutar en familia.\n• Este festival busca promover la cultura y fortalecer la convivencia en la comunidad.",
+      "source_name": "Fernando Chaves Espinach",
+      "source_url": "https://www.nacion.com/ancora/circo-musica-y-cuentos-festejan-en-cartago-conozca/MHH3HRN4KFF5BNM6Y2AZXLOZXE/story/",
+      "publish_date": "2026-05-08T15:13:35.000Z",
+      "teaser": "Lo clave en 20 segundos: Un festival cultural en Cartago reunirá a artistas y la comunidad este 10 de mayo.",
+      "image_url": "https://www.nacion.com/resizer/v2/ILUVOL274ZBSZM6LTPR5CRCK2U.jpg?auth=59377aa671358e64bf62c31092a7bb5e1a3dd838c4104d3061311411064361a3&smart=true&width=1599&height=899",
+      "description": "El Festival Contorno Escénico reunirá el próximo 10 de mayo en Cartago a artistas de distintas disciplinas en una jornada cultural abierta para toda la comunidad.",
+      "featured": false
+    },
+    {
+      "slug": "estados-unidos-publica-archivos-de-fenomenos-aereos-no-identificados-en-acto-tildado-de-distraccion-por-criticos-de-trum",
+      "title": "Estados Unidos publica archivos de fenómenos aéreos no identificados en acto tildado de ‘distracción’ por críticos de Trump",
+      "category": "Mundo",
+      "bullets_20s": "• El gobierno de EE.UU. ha revelado nuevos documentos sobre fenómenos aéreos no identificados.\n• Críticos del presidente Trump alegan que la publicación busca distraer de otros problemas.\n• Los documentos incluyen videos que muestran encuentros con estos fenómenos inexplicables.\n• La comunidad científica responde con interés a este nuevo material liberado públicamente.\n• Este acto podría influir en futuras investigaciones sobre fenómenos aéreos no explicados.",
+      "source_name": "Juan Fernando Lara Salas",
+      "source_url": "https://www.nacion.com/el-mundo/estados-unidos-publica-archivos-de-fenomenos/JSTBFHRJ25DALF6X3MWG5H7KK4/story/",
+      "publish_date": "2026-05-08T15:06:35.000Z",
+      "teaser": "Lo clave en 20 segundos: Revelan archivos de fenómenos aéreos no identificados en EE.UU.",
+      "image_url": "https://www.nacion.com/resizer/v2/QUABLVTHKVEPFMZTSDUX52R5UY.jpg?auth=14bd172025545f7512b43cfa98a162d289ef46d66d24ef28c9d3e88dda58fd63&smart=true&width=1296&height=864",
+      "description": "Gobierno divulgó documentos y videos inéditos de Fenómenos Aéreos No Identificados (FANI, o UAP por sus siglas en inglés). Conozca lo que se publicó.",
+      "featured": false
+    },
+    {
       "slug": "solo-una-universidad-de-centroamerica-figura-entre-las-mejores-del-mundo-para-estudiar-medicina-en-2026",
       "title": "Solo una universidad de Centroamérica figura entre las mejores del mundo para estudiar medicina en 2026",
       "category": "Ciencia",
@@ -76,6 +102,19 @@
       "teaser": "Lo clave en 20 segundos: un partido antiinmigración gana elecciones municipales, desafiando al primer ministro.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ae07/live/a2e48ed0-4ae5-11f1-b8d1-0fcd60d6dd09.jpg",
       "description": "Los resultados de las elecciones locales en Reino Unido pusieron de manifiesto el profundo descontento de los votantes con el gobierno del actual Primer Ministro.",
+      "featured": false
+    },
+    {
+      "slug": "david-attenborough-cumple-100-anos-como-se-hizo-la-vida-en-la-tierra-el-documental-que-transformo-nuestra-manera-de-ver-",
+      "title": "David Attenborough cumple 100 años: cómo se hizo \"La vida en la Tierra\", el documental que transformó nuestra manera de ver la naturaleza",
+      "category": "Ciencia",
+      "bullets_20s": "• David Attenborough revolucionó la forma en que conocemos la vida silvestre a través del cine.\n• El documental 'La vida en la Tierra' marcó un hito en la historia de la televisión educativa.\n• El trabajo de Attenborough ha influido en generaciones de naturalistas y científicos.\n• La producción de este documental exigió innovaciones tecnológicas en la filmación de la naturaleza.\n• Estableció un nuevo enfoque en la narración de historias sobre la biodiversidad y la conservación.\n• Su legado continúa inspirando conciencia sobre la protección del medio ambiente y la fauna.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c86dppv2w72o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-08T13:35:16.000Z",
+      "teaser": "Lo clave en 20 segundos: El legado de Attenborough y su impacto en la naturaleza y la ciencia.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9b0e/live/706e57e0-4ae2-11f1-8c8d-458160734f59.jpg",
+      "description": "Fue la aventura más grande del naturalista británico, pues con ella cambió el rumbo de su vida y, de paso, el de cómo se documenta el mundo natural.",
       "featured": false
     },
     {
@@ -170,27 +209,27 @@
       "featured": false
     },
     {
-      "slug": "david-attenborough-cumple-100-anos-como-se-hizo-la-vida-en-la-tierra-el-documental-que-transformo-nuestra-manera-de-ver-",
-      "title": "David Attenborough cumple 100 años: cómo se hizo 'La vida en la Tierra', el documental que transformó nuestra manera de ver la naturaleza",
+      "slug": "nunca-vi-a-dominicana-con-tanto-dolor-la-lucha-de-las-familias-por-que-se-haga-justicia-un-ano-despues-de-la-tragedia-de",
+      "title": "Nunca vi a Dominicana con tanto dolor: la lucha de las familias por que se haga justicia un año después de la tragedia del Jet Set Club que dejó 236 muertos",
       "category": "Mundo",
-      "bullets_20s": "• David Attenborough ha sido un ícono en la narración de la vida silvestre y la naturaleza.\n• El documental 'La vida en la Tierra' revolucionó la forma de mostrar la biodiversidad.\n• Su estilo narrativo ha inspirado a generaciones de naturalistas y cineastas.\n• A través de sus documentales, ha promovido la conservación del medio ambiente.\n• Attenborough continúa siendo una voz influyente en temas ecológicos y de conservación.",
+      "bullets_20s": "• La tragedia del Jet Set Club marcó un hito difícil en la historia reciente de Dominicana.\n• Las familias de las víctimas luchan por justicia y reconocimiento en medio del dolor.\n• Una investigación revela detalles sobre la tragedia y sus consecuencias en la sociedad.\n• El impacto emocional en las familias sigue presente un año después del suceso.\n• La búsqueda de justicia plantea interrogantes sobre la responsabilidad de las autoridades.",
       "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/c86dppv2w72o?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-05-08T10:40:54.000Z",
-      "teaser": "Lo clave en 20 segundos: David Attenborough celebra un siglo de vida y su impacto en los documentales de naturaleza.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1080/live/bb7871e0-4acd-11f1-9a78-91accbab2de0.jpg",
-      "description": "Fue la aventura más grande del naturalista británico, pues con ella cambió el rumbo de su vida y, de paso, el de cómo se documenta el mundo natural.",
+      "source_url": "https://www.bbc.com/mundo/articles/cdrpxxv2mpdo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-08T09:50:11.000Z",
+      "teaser": "Lo clave en 20 segundos: Familias luchan por justicia un año tras tragedia en Jet Set Club.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/0031/live/7644acc0-4a4f-11f1-b55d-0f258dce1735.jpg",
+      "description": "BBC Mundo viajó a Santo Domingo para conocer cómo sucedió la mayor tragedia humana de este siglo en el país caribeño y la lucha de los familiares de las víctimas para obtener justicia.",
       "featured": false
     },
     {
       "slug": "por-que-la-ausencia-de-tanques-en-el-gran-desfile-de-la-victoria-de-rusia-es-una-senal-de-que-la-guerra-con-ucrania-no-v",
       "title": "Por qué la ausencia de tanques en el gran Desfile de la Victoria de Rusia es una señal de que la guerra con Ucrania no va bien",
       "category": "Mundo",
-      "bullets_20s": "• La guerra entre Rusia y Ucrania ha generado un clima tenso en la región en tiempos actuales.\n• La decisión de no incluir tanques podría reflejar la situación militar menos favorable de Rusia.\n• Expertos indican que este cambio en el desfile es un mensaje implícito de debilidad.\n• El desfile de la Victoria es un evento simbólico importante en la historia rusa.\n• La ausencia de equipo militar puede influir en la percepción pública sobre la guerra.",
+      "bullets_20s": "• El desfile de la Victoria es un evento importante en Rusia, que conmemora la victoria sobre la Alemania nazi.\n• La ausencia de tanques puede reflejar tensiones en el contexto de la guerra en Ucrania.\n• Este cambio ha llamado la atención de analistas internacionales sobre la situación militar de Rusia.\n• Los desfiles habitualmente exhiben potencia militar, lo que acentúa la importancia de esta omisión.\n• La presencia de soldados sugiere un cambio de enfoque en la estrategia de exhibición militar.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c99ln8e7xelo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-08T07:34:21.000Z",
-      "teaser": "Lo clave en 20 segundos: La falta de tanques en el desfile es una señal alarmante para Rusia y Ucrania.",
+      "teaser": "Lo clave en 20 segundos: La falta de tanques en el desfile de Rusia podría indicar problemas en la guerra con Ucrania.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3d24/live/e41cc1c0-4ab2-11f1-abbe-696bdf3a3d1b.jpg",
       "description": "Por primera vez en casi dos décadas, no habrá equipamiento militar, solo soldados, en el desfile del sábado en Moscú.",
       "featured": false
@@ -381,13 +420,13 @@
       "slug": "que-se-sabe-del-viaje-por-argentina-chile-y-uruguay-de-los-turistas-que-presentaron-los-primeros-sintomas-de-hantavirus-",
       "title": "Qué se sabe del viaje por Argentina, Chile y Uruguay de los turistas que presentaron los primeros síntomas de hantavirus en el crucero y luego murieron",
       "category": "Mundo",
-      "bullets_20s": "• Investigadores analizan el itinerario de turistas que mostraron síntomas de hantavirus.\n• El crucero MV Hondius fue el escenario de este incidente de salud pública.\n• Las autoridades buscan comprender la propagación del hantavirus en estas regiones.\n• Se han implementado protocolos de seguridad para futuros cruceros en zonas endémicas.\n• Este caso resalta la importancia de la vigilancia sanitaria en viajes internacionales.",
+      "bullets_20s": "• Los turistas afectados presentaron síntomas de hantavirus tras un crucero en Sudamérica.\n• El itinerario incluye visitas a Argentina, Chile y Uruguay durante su viaje.\n• Investigaciones están en curso para entender la propagación del hantavirus.\n• Las autoridades sanitarias están alertas y han emitido recomendaciones a otros viajeros.\n• Se han tomado muestras del ambiente del crucero para análisis laboratoriales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/czx2n12xj7jo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-07T23:07:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Investigan el viaje de turistas afectados por hantavirus en crucero.",
+      "teaser": "Lo clave en 20 segundos: turistas presentan hantavirus en crucero por Sudamérica.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/5e17/live/5e9b7250-496b-11f1-8708-4f6b126b8cbf.jpg",
-      "description": "Llamados el 'caso índice', se ha vuelto clave reconstruir el itinerario de la pareja de ciudadanos neerlandeses que mostraron los primeros síntomas a bordo del MV Hondius.",
+      "description": "Llamados el \"caso índice\", se ha vuelto clave reconstruir el itinerario de la pareja de ciudadanos neerlandeses que mostraron los primeros síntomas a bordo del MV Hondius.",
       "featured": false
     },
     {
@@ -459,11 +498,11 @@
       "slug": "por-un-debate-publico-responsable-sobre-el-fees-y-la-defensa-del-sistema-universitario-estatal",
       "title": "Por un debate público responsable sobre el FEES y la defensa del sistema universitario estatal",
       "category": "Costa Rica",
-      "bullets_20s": "• Las universidades costarricenses llaman a un debate centrado en datos sobre el FEES.\n• Se rechazan los ataques personales hacia autoridades universitarias y la desinformación.\n• El modelo de educación superior estatal es fundamental para el desarrollo nacional.\n• Se condena la violencia política y de género en el contexto universitario.\n• Las universidades enfatizan la importancia de la unidad y articulación entre ellas.\n• El respeto a la autonomía universitaria es crucial para la educación pública.\n• Se destaca la participación de la ciudadanía en la defensa de las universidades públicas.\n• La protesta estudiantil es reconocida como un derecho legítimo por los estudiantes.\n• Se busca un diálogo constructivo para abordar los desafíos educativos del país.\n• La educación superior pública es considerada un derecho humano y un bien nacional.",
+      "bullets_20s": "• Universidades públicas de Costa Rica abogan por un debate informado sobre el FEES y su futuro.\n• Se rechazan ataques personales que dañan la reputación de líderes universitarios en el país.\n• El CONARE defiende la unidad y articulación interuniversitaria ante posibles divisiones.\n• Un enfoque en datos y desempeño es vital para el futuro del sistema educativo estatal.\n• Las universidades públicas luchan por la educación como un derecho humano esencial en Costa Rica.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/debate-publico-responsable-fees-defensa-sistema-universitario-estatal",
       "publish_date": "2026-05-07T21:36:18.000Z",
-      "teaser": "Lo clave en 20 segundos: Universidades públicas reiteran la importancia del FEES y condenan ataques personales.",
+      "teaser": "Lo clave en 20 segundos: Universidades piden un debate informado y rechazan ataques personales sobre el FEES.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/conare-universidades-1-cuadrado_1.png",
       "description": "Por un debate público responsable sobre el FEES y la defensa del sistema universitario estatal",
       "featured": false
@@ -1174,13 +1213,13 @@
       "slug": "semana-de-la-diversidad-2026",
       "title": "Semana de la Diversidad 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Semana de la Diversidad busca promover el respeto hacia la diversidad sexual y de género.\n• Se llevarán a cabo diversas actividades culturales que sensibilizan a la comunidad estudiantil.\n• Las actividades incluirán conversaciones, charlas y ferias para fomentar la inclusión social.\n• Cine foros y expresiones artísticas serán parte integral de este evento educativo y cultural.\n• La presencia de la Oficina de Equidad de Género será clave para las actividades programadas.\n• Se buscará fortalecer una cultura más equitativa e inclusiva dentro de la comunidad académica.\n• Grupo Diversidad TEC organizará eventos encaminados a impulsar el diálogo sobre inclusión.",
+      "bullets_20s": "• La Semana de la Diversidad fomenta la inclusión y el respeto en la comunidad estudiantil y más allá.\n• Se realizarán conversatorios y charlas para promover el entendimiento y la aceptación de la diversidad.\n• Las actividades incluirán ferias y pruebas de salud para apoyar a quienes participan activamente.\n• Expresiones artísticas y cine foros se llevarán a cabo para enriquecer la experiencia cultural.\n• El evento busca fortalecer una cultura equitativa e inclusiva para todos los sectores.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/semana-diversidad-2026",
       "publish_date": "2026-05-06T20:45:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Semana de la Diversidad 2026 promueve la inclusión y el respeto hacia la diversidad.",
+      "teaser": "Lo clave en 20 segundos: La Semana de la Diversidad 2026 celebra la inclusión y el respeto hacia la diversidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/semana-diversidad.png",
-      "description": "Semana de la Diversidad 2026 es un espacio de encuentro, reflexión y celebración.",
+      "description": "Semana de la Diversidad 2026",
       "featured": false
     },
     {
@@ -1356,11 +1395,11 @@
       "slug": "sinaes-reacreditara-a-licenciaturas-de-ingenieria-ambiental-y-a-administracion-de-tecnologias-de-informacion",
       "title": "SINAES reacreditará a licenciaturas de Ingeniería Ambiental y a Administración de Tecnologías de Información",
       "category": "Costa Rica",
-      "bullets_20s": "• SINAES acreditará nuevamente las licenciaturas del Tecnológico de Costa Rica, asegurando su calidad educativa.\n• La Ingeniería Ambiental será reacreditada por tercera vez, con vigencia hasta el 2029.\n• El programa de Administración de Tecnologías de Información también finaliza su proceso de reacreditación.\n• Se busca brindar fe pública sobre la calidad académica a nivel nacional e internacional.\n• Ceremonia de entrega de certificaciones se llevará a cabo en el Centro de las Artes del TEC.",
+      "bullets_20s": "• SINAES asegurará la calidad educativa en las licenciaturas de dos importantes carreras del TEC.\n• La reacreditación de Ingeniería Ambiental es la tercera en su historia, validando su trayectoria.\n• La licenciatura en Administración de Tecnologías de Información obtendrá nueva reacreditación hasta 2030.\n• El TEC se fortalece con estas acreditaciones, beneficiando a estudiantes y empresas futuras.\n• La ceremonia de entrega de certificaciones se celebrará el 13 de mayo en el TEC.\n• La acreditación es crucial para mantener estándares de calidad en educación superior.\n• Se busca siempre el compromiso con la mejora continua en las carreras ofrecidas.\n• Ambas carreras están alineadas con las necesidades del mercado y la sostenibilidad.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/sinaes-reacreditara-licenciaturas-ingenieria-ambiental-administracion-tecnologias-informacion",
       "publish_date": "2026-05-06T16:30:15.000Z",
-      "teaser": "Lo clave en 20 segundos: SINAES reactualiza acreditaciones de dos importantes carreras en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: SINAES reacredita carreras en el TEC, destacando calidad educativa en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/reacreditacion-ati-y-ambi-evento-1.png",
       "description": "SINAES reacreditará a licenciaturas de Ingeniería Ambiental y a Administración de Tecnologías de Información",
       "featured": false
@@ -1707,11 +1746,11 @@
       "slug": "charla-el-entorno-geopolitico-y-sus-repercusiones-en-costa-rica",
       "title": "Charla: El entorno geopolítico y sus repercusiones en Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC organiza una charla sobre el entorno geopolítico y su impacto en Costa Rica.\n• La actividad se enmarca en el Día de la Persona Estudiante y Trabajadora 2026.\n• El evento se realizará de manera virtual el 13 de mayo de 2026 a las 6:00 p.m.\n• El exembajador Eduardo Ulibarri Bilbao analizará la coyuntura geopolítica actual.\n• La charla busca fomentar la reflexión crítica sobre temas de interés nacional.",
+      "bullets_20s": "• La charla se centrará en el análisis del entorno geopolítico actual y sus efectos en Costa Rica.\n• Se llevará a cabo el 13 de mayo, en el marco del Día de la Persona Estudiante y Trabajadora.\n• Contará con la participación del periodista y exembajador Eduardo Ulibarri Bilbao.\n• La actividad se desarrollará de 6:00 p.m. a 7:00 p.m. en modalidad virtual.\n• El público podrá acceder a la transmisión en Facebook Live desde Casa Cultural Amón.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/charla-entorno-geopolitico-sus-repercusiones-costa-rica",
       "publish_date": "2026-05-06T02:24:54.000Z",
-      "teaser": "Lo clave en 20 segundos: Charla sobre geopolitíca y sus repercusiones en Costa Rica el 13 de mayo.",
+      "teaser": "Lo clave en 20 segundos: Analiza el entorno geopolítico y su impacto en Costa Rica el 13 de mayo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/evento.png",
       "description": "Charla: El entorno geopolítico y sus repercusiones en Costa Rica",
       "featured": false
@@ -1889,11 +1928,11 @@
       "slug": "nuevo-libro-del-tec-narra-el-descubrimiento-del-volcan-arenal",
       "title": "Nuevo libro del TEC narra el “descubrimiento” del volcán Arenal",
       "category": "Costa Rica",
-      "bullets_20s": "• El volcán Arenal, conocido por su erupción en 1968, fue antes considerado como un cerro.\n• La obra 'Dos hombres y un volcán' reúne relatos inéditos sobre la primera exploración en 1937.\n• María Isabel Quesada y Luko Hilje han recopilado historias familiares y documentos sobre el volcán.\n• El libro presenta información accesible para científicos, estudiantes y el público en general.\n• Incluye relatos, fotografías y una bitácora de ascensos entre 1937 y 1968.\n• Está disponible en formato impreso y electrónico por un precio accesible para los interesados.",
+      "bullets_20s": "• El libro 'Dos hombres y un volcán' relata la primera exploración al volcán Arenal en 1937.\n• La obra incluye relatos e información inexplorada sobre la historia del volcán Arenal.\n• Los autores son María Isabel Quesada Rojas y Luko Hilje Quirós, destacados en su campo.\n• El volcán Arenal es famoso por su erupción catastrófica en julio de 1968.\n• La narración está dirigida a un público amplio y accesible a diversos lectores.",
       "source_name": "kmora",
       "source_url": "http://www.tec.ac.cr/nuevo-libro-tec-narra-descubrimiento-volcan-arenal",
       "publish_date": "2026-05-05T21:18:08.000Z",
-      "teaser": "Lo clave en 20 segundos: Un nuevo libro detalla la historia del volcán Arenal y su exploración.",
+      "teaser": "Lo clave en 20 segundos: Un nuevo libro revela la historia del volcán Arenal y su exploración.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dos-hombres-volcan-arenal.jpg",
       "description": "Nuevo libro del TEC narra el “descubrimiento” del volcán Arenal",
       "featured": false
@@ -12520,5 +12559,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-08T14:45:31.314Z"
+  "generated_at": "2026-05-08T15:45:30.944Z"
 }
