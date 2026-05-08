@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "los-tres-tecnicos-costarricenses-que-buscan-quedar-campeones-en-centroamerica",
+      "title": "Los tres técnicos costarricenses que buscan quedar campeones en Centroamérica",
+      "category": "Costa Rica",
+      "bullets_20s": "• Tres técnicos costarricenses están preparados para competir en la escena centroamericana.\n• La meta es conquistar un título y dejar huella en el fútbol regional.\n• Costa Rica ha sido cuna de grandes talentos en el fútbol internacional.\n• Los entrenadores tienen experiencia y están listos para enfrentar retos difíciles.\n• La competencia en Centroamérica es muy fuerte y llena de sorpresas constantemente.",
+      "source_name": "Esteban Valverde",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/los-tres-tecnicos-costarricenses-que-buscan-quedar/NFA3NFPJV5EKRK5ATW6LIZRQWI/story/",
+      "publish_date": "2026-05-08T01:25:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Tres técnicos ticos buscan dejar huella en el fútbol centroamericano.",
+      "image_url": "https://www.nacion.com/resizer/v2/UBOSP4HS5VFADH2EQZ3P4R6D5I.png?auth=f68594a94f9e8a85a2ce351eece52e584972bbd595e2b3a99bbfd09e4468e0b1&smart=true&width=1200&height=628",
+      "description": "Tres entrenadores ticos buscan la gloria fuera de Costa Rica para marcar historia a nivel centroamericano.",
+      "featured": false
+    },
+    {
+      "slug": "ucr-se-declara-en-paro-activo-hasta-julio-por-choque-con-el-gobierno-sobre-el-fees-2027-que-implica",
+      "title": "UCR se declara en ‘paro activo’ hasta julio por choque con el gobierno sobre el FEES 2027: ¿qué implica?",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Universidad de Costa Rica ha decidido entrar en un paro activo debido a diferencias con el gobierno.\n• El conflicto se centra en el financiamiento del FEES 2027 y sus condiciones generales.\n• El paro se extenderá hasta julio, afectando actividades académicas y administrativas de la UCR.\n• Estudiantes y docentes participarán activamente en el movimiento organizándose para hacer sentir su voz.\n• El choque con el gobierno podría tener repercusiones en el financiamiento de otras universidades públicas.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/politica/ucr-se-declara-en-paro-activo-hasta-julio-por/CBB54PQWHRAVPD7G3ADWJCK6DY/story/",
+      "publish_date": "2026-05-08T00:45:13.000Z",
+      "teaser": "Lo clave en 20 segundos: UCR en paro activo por desacuerdo con el gobierno sobre financiamiento educativo.",
+      "image_url": "https://www.nacion.com/resizer/v2/K6KDEDCNENDJZFK3F7BS7JIHNA.JPG?auth=884b7189098def59b884e46eaf1993e291ff546ad71e308e295446d673bc21fd&smart=true&width=3000&height=2000",
+      "description": "La Universidad de Costa Rica anunció un paro activo hasta julio tras el choque con el Gobierno por el FEES 2027. Estas son sus implicaciones.",
+      "featured": false
+    },
+    {
       "slug": "video-asi-fue-la-captura-del-extraditable-19-en-el-centro-de-san-ramon",
       "title": "(Video) Así fue la captura del extraditable 19 en el centro de San Ramón",
       "category": "Costa Rica",
@@ -56,11 +82,11 @@
       "slug": "eeuu-dice-que-bombardeo-instalaciones-militares-en-iran-tras-interceptar-ataques-contra-sus-barcos-en-ormuz",
       "title": "EE.UU. dice que bombardeó instalaciones militares en Irán tras interceptar ataques contra sus barcos en Ormuz",
       "category": "Mundo",
-      "bullets_20s": "• Estados Unidos bombardeó instalaciones militares en Irán en respuesta a ataques recientes.\n• Teherán afirma haber lanzado misiles tras el ataque a un buque petrolero iraní.\n• La situación en el estrecho de Ormuz continúa siendo tensa y conflictiva.\n• EE.UU. mantiene su postura de no buscar una escalada en el conflicto actual.\n• El bombardeo se produce en medio de crecientes tensiones en el Oriente Medio.",
+      "bullets_20s": "• El conflicto entre EE.UU. e Irán ha escalado en semanas recientes. Tensión militar en la región se incrementa constantemente.\n• EE.UU. asegura que está preparado para responder a cualquier ataque adicional. Mantiene presencia militar en el área.\n• Teherán ha señalado que sus misiles son una respuesta a provocaciones. Defiende su derecho a proteger su soberanía.\n• Barcos comerciales siguen transitando por el estrecho de Ormuz, vital para el comercio global. La seguridad marítima es primordial.\n• La comunidad internacional observa de cerca la evolución del conflicto. Preocupa un posible conflicto armado a gran escala.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c5yx0nypy14o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-07T23:17:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Estados Unidos responde a Irán tras ataques a barcos en el estrecho de Ormuz.",
+      "teaser": "Lo clave en 20 segundos: EE.UU. bombardea Irán tras ataques en el estratégico estrecho de Ormuz.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/2132/live/1b600300-4a67-11f1-bd52-e755d604ece4.jpg",
       "description": "Teherán afirma que lanzó los misiles porque previamente fue atacado un buque petrolero iraní. EE.UU. asegura que \"no busca una escalada, pero permanece posicionado y listo\" en el estrecho.",
       "featured": false
@@ -69,13 +95,13 @@
       "slug": "que-se-sabe-del-viaje-por-argentina-chile-y-uruguay-de-los-turistas-que-presentaron-los-primeros-sintomas-de-hantavirus-",
       "title": "Qué se sabe del viaje por Argentina, Chile y Uruguay de los turistas que presentaron los primeros síntomas de hantavirus en el crucero y luego murieron",
       "category": "Mundo",
-      "bullets_20s": "• Investigadores siguen el rastro del viaje de los turistas en Sudamérica antes de desarrollar síntomas de hantavirus.\n• El MV Hondius ha sido clave en el análisis de los posibles contagios a bordo del crucero.\n• La pareja fue identificada como ciudadanos neerlandeses, lo que añade una dimensión internacional al caso.\n• Los síntomas comenzaron a mostrarse tras visitar varios destinos en Argentina, Chile y Uruguay.\n• Se están analizando las condiciones de higiene y salud en el crucero para futuras investigaciones.",
+      "bullets_20s": "• Los turistas neerlandeses presentaron síntomas de hantavirus durante su crucero en Sudamérica.\n• El MV Hondius ha sido el centro de atención tras estos eventos trágicos en alta mar.\n• Las autoridades investigan el itinerario del crucero para determinar posibles brotes de hantavirus.\n• La pareja fue considerada el \"caso índice\" en la investigación sobre esta enfermedad grave.\n• Expertos enfatizan la importancia de rastrear contactos y antecedentes de los enfermos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/czx2n12xj7jo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-07T23:07:47.000Z",
-      "teaser": "Lo clave en 20 segundos: el análisis del viaje de los turistas afectados por hantavirus en Sudamérica.",
+      "teaser": "Lo clave en 20 segundos: turistas neerlandeses con hantavirus tras crucero en Sudamérica. ¿Qué sucedió?",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/5e17/live/5e9b7250-496b-11f1-8708-4f6b126b8cbf.jpg",
-      "description": "Llamados el 'caso índice', se ha vuelto clave reconstruir el itinerario de la pareja de ciudadanos neerlandeses que mostraron los primeros síntomas a bordo del MV Hondius.",
+      "description": "Llamados el \"caso índice\", se ha vuelto clave reconstruir el itinerario de la pareja de ciudadanos neerlandeses que mostraron los primeros síntomas a bordo del MV Hondius.",
       "featured": false
     },
     {
@@ -147,11 +173,11 @@
       "slug": "por-un-debate-publico-responsable-sobre-el-fees-y-la-defensa-del-sistema-universitario-estatal",
       "title": "Por un debate público responsable sobre el FEES y la defensa del sistema universitario estatal",
       "category": "Costa Rica",
-      "bullets_20s": "• El CONARE hace un llamado a retomar el debate sobre el FEES y su importancia específica para la educación superior.\n• Se busca frenar la desinformación y ataques personales que afectan la reputación de las universidades públicas de Costa Rica.\n• La defensa del sistema universitario estatal involucra la educación accesible, la transparencia y el respeto a la autonomía.\n• Es esencial una discusión centrada en datos y no en ataques personales o descalificaciones a instituciones educativas.\n• Las universidades deben mantenerse unidas frente a narrativas que intentan dividir y enfrentar a sus programas y autoridades.",
+      "bullets_20s": "• Las universidades públicas de Costa Rica abogan por un debate constructivo sobre el FEES.\n• Se destaca la necesidad de defender la educación pública de calidad ante ataques infundados.\n• El CONARE enfatiza la importancia de evitar la violencia política y de género en la discusión.\n• Rechazan cualquier idea de desmantelar las universidades públicas, defendiendo su integridad.\n• Hacen un llamado a un diálogo basado en datos y necesidades reales del país.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/debate-publico-responsable-fees-defensa-sistema-universitario-estatal",
       "publish_date": "2026-05-07T21:36:18.000Z",
-      "teaser": "Lo clave en 20 segundos: Se demanda un debate centrado en la educación pública y el FEES en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: se enfatiza un debate responsable sobre el FEES y la educación pública.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/conare-universidades-1-cuadrado_1.png",
       "description": "Por un debate público responsable sobre el FEES y la defensa del sistema universitario estatal",
       "featured": false
@@ -290,11 +316,11 @@
       "slug": "los-efectos-para-el-cuerpo-de-pasar-muchas-horas-sentado-y-como-puedes-combatirlos",
       "title": "Los efectos para el cuerpo de pasar muchas horas sentado y cómo puedes combatirlos",
       "category": "Ciencia",
-      "bullets_20s": "• Pasar muchas horas sentado puede provocar problemas de salud a largo plazo en el cuerpo.\n• El flujo sanguíneo se reduce, afectando la oxigenación y el metabolismo general.\n• La concentración y la energía disminuyen, lo que impacta la productividad diaria.\n• Existen estrategias como pausas activas para mitigar los efectos negativos del sedentarismo.\n• Incorporar ejercicio regular es fundamental para mantener una buena salud física.",
+      "bullets_20s": "• El sedentarismo puede causar problemas circulatorios y afectar tu salud a largo plazo.\n• Pasar mucho tiempo sentado disminuye la concentración y aumenta la fatiga diaria.\n• Combatir los efectos de estar sentado requiere pequeños cambios en tu rutina diaria.\n• Levántate y muévete cada hora para mejorar la circulación sanguínea en tu cuerpo.\n• Realiza ejercicios simples que puedan hacerse en casa o en la oficina para ayudar.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c9v3y03x3rmo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-07T18:17:55.000Z",
-      "teaser": "Lo clave en 20 segundos: Pasar mucho tiempo sentado afecta la salud, pero se pueden tomar medidas para combatirlo.",
+      "teaser": "Lo clave en 20 segundos: Descubre cómo el sedentarismo afecta tu salud y acciones para combatirlo.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/5515/live/17361af0-4a10-11f1-a5ee-8d3af4522d8c.jpg",
       "description": "Permanecer sentado durante muchas horas puede afectar gravemente la salud. Se reduce el flujo sanguíneo y altera el metabolismo, además de disminuir la concentración y la energía. Pero hay formas sencillas de reducir los daños.",
       "featured": false
@@ -576,11 +602,11 @@
       "slug": "por-que-es-tan-cara-la-ropa-en-argentina-y-hasta-el-gobierno-promueve-comprarla-en-el-extranjero",
       "title": "Por qué es tan cara la ropa en Argentina y hasta el gobierno promueve comprarla en el extranjero",
       "category": "Mundo",
-      "bullets_20s": "• La industria textil en Argentina atraviesa una crisis que afecta su viabilidad y sostenibilidad económica.\n• Los costos de producción se han incrementado, lo que eleva el precio final de las prendas en el mercado.\n• La apertura a las importaciones ha generado competencia, impactando a los productores locales y las ventas.\n• El gobierno argentino sugiere a los ciudadanos comprar ropa en el extranjero por precios más accesibles.\n• La situación plantea desafíos económicos y sociales que podrían afectar a los trabajadores del sector textil.",
+      "bullets_20s": "• Las altas tarifas importadas incrementan los costos de producción local, afectando a la industria textil.\n• La devaluación del peso ha encarecido los productos, desincentivando compras dentro del país.\n• Las marcas argentinas luchan por competir con precios más bajos del mercado internacional.\n• La crisis económica hace que muchos argentinos busquen opciones más asequibles en el extranjero.\n• La apertura de importaciones ha llevado a un aumento en la llegada de ropa a bajo costo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c62djz45j11o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-07T11:09:31.000Z",
-      "teaser": "Lo clave en 20 segundos: La crisis de la industria textil argentina y sus implicaciones en la economía local.",
+      "teaser": "Lo clave en 20 segundos: La crisis textil argentina y el auge de las compras en el extranjero.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d529/live/5ef99f00-4a07-11f1-9595-b54f38a93bc1.jpg",
       "description": "La industria textil argentina enfrenta una crisis marcada por la caída de las ventas, el aumento de los costos de producción y la apertura a las importaciones.",
       "featured": false
@@ -849,13 +875,13 @@
       "slug": "semana-de-la-diversidad-2026",
       "title": "Semana de la Diversidad 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Semana de la Diversidad celebra la inclusión y el respeto hacia la diversidad sexual y de género.\n• Actividades incluyen conversatorios, charlas, ferias y pruebas de salud para sensibilizar a la comunidad.\n• Se organizan eventos culturales y expresiones artísticas para fortalecer una cultura equitativa.\n• El evento involucra a la Oficina de Equidad de Género y diversos grupos del TEC.\n• Otras organizaciones apoyan la misión de promover la diversidad y combatir la discriminación.",
+      "bullets_20s": "• La Semana de la Diversidad 2026 promueve la inclusión en nuestra sociedad a través de diversas actividades.\n• Se desarrollarán conversatorios que abordarán temas actuales sobre diversidad sexual y de género.\n• La inclusión y el respeto son centrales en las actividades de esta semana tan significativa.\n• Los eventos culturales destacan la importancia de la diversidad en la cultura costarricense actual.\n• Las pruebas de salud ofrecerán recursos importantes a la comunidad universitaria durante esta semana.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/semana-diversidad-2026",
       "publish_date": "2026-05-06T20:45:35.000Z",
-      "teaser": "Lo clave en 20 segundos: La Semana de la Diversidad 2026 promueve inclusión y respeto hacia la diversidad.",
+      "teaser": "Lo clave en 20 segundos: Celebración e inclusión marcan la Semana de la Diversidad 2026 en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/semana-diversidad.png",
-      "description": "Semana de la Diversidad 2026 es un espacio de encuentro, reflexión y celebración que promueve la inclusión.",
+      "description": "Semana de la Diversidad 2026 es un espacio de encuentro y reflexión sobre la diversidad sexual y de género.",
       "featured": false
     },
     {
@@ -1031,11 +1057,11 @@
       "slug": "sinaes-reacreditara-a-licenciaturas-de-ingenieria-ambiental-y-a-administracion-de-tecnologias-de-informacion",
       "title": "SINAES reacreditará a licenciaturas de Ingeniería Ambiental y a Administración de Tecnologías de Información",
       "category": "Costa Rica",
-      "bullets_20s": "• SINAES confirma reacreditación para Ingeniería Ambiental y Tecnologías de Información del TEC.\n• Estas acreditaciones garantizan la calidad educativa de estas carreras en Costa Rica.\n• La Ingeniería Ambiental recibe reacreditación por tercera vez, válida hasta el 2029.\n• La carrera de Administración de Tecnologías de Información será acreditada hasta el 2030.\n• La ceremonia de certificación se llevará a cabo el 13 de mayo en el TEC.",
+      "bullets_20s": "• El SINAES asegura la calidad educativa de las carreras acreditadas en Costa Rica.\n• La reacreditación de Ingeniería Ambiental es por tercera vez y es hasta 2029.\n• La licenciatura en Administración de Tecnologías de Información obtendrá su tercera acreditación.\n• La primera acreditación de ATI se dio en 2015, seguida en 2021 y ahora en 2026.\n• La entrega de certificaciones se realizará en el Centro de las Artes del TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/sinaes-reacreditara-licenciaturas-ingenieria-ambiental-administracion-tecnologias-informacion",
       "publish_date": "2026-05-06T16:30:15.000Z",
-      "teaser": "Lo clave en 20 segundos: La reacreditación de carreras del TEC reafirma su compromiso con la educación.",
+      "teaser": "Lo clave en 20 segundos: La reacreditación de dos licenciaturas del TEC asegura su calidad educativa.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/reacreditacion-ati-y-ambi-evento-1.png",
       "description": "SINAES reacreditará a licenciaturas de Ingeniería Ambiental y a Administración de Tecnologías de Información",
       "featured": false
@@ -1382,13 +1408,13 @@
       "slug": "charla-el-entorno-geopolitico-y-sus-repercusiones-en-costa-rica",
       "title": "Charla: El entorno geopolítico y sus repercusiones en Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica realizará una charla sobre geopolítica el 13 de mayo.\n• La actividad será virtual y se transmitirá en Facebook Live y Zoom.\n• Evaluarán las repercusiones del entorno geopolítico en la realidad costarricense.\n• Participará el periodista y exembajador Eduardo Ulibarri Bilbao como ponente.\n• La charla busca promover la reflexión entre estudiantes y la comunidad en general.",
+      "bullets_20s": "• El TEC organiza una charla sobre geopolítica el 13 de mayo, destacando su impacto en Costa Rica.\n• La actividad se centra en el análisis crítico del entorno geopolítico actual y sus implicaciones.\n• Eduardo Ulibarri, exembajador, será el ponente principal, compartiendo su análisis del contexto actual.\n• La charla busca promover la reflexión entre estudiantes y trabajadores sobre temas relevantes.\n• Este evento es parte de una tradición institucional de más de 30 años en el TEC.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/charla-entorno-geopolitico-sus-repercusiones-costa-rica",
       "publish_date": "2026-05-06T02:24:54.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudio sobre geopolítica en Costa Rica, con enfoque en la comunidad estudiantil.",
+      "teaser": "Lo clave en 20 segundos: Charla sobre el entorno geopolítico y su impacto en Costa Rica el 13 de mayo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/evento.png",
-      "description": "Charla: El entorno geopolítico y sus repercusiones en Costa Rica",
+      "description": "Charla: El entorno geopolítico y sus repercusiones en Costa Rica.",
       "featured": false
     },
     {
@@ -1564,11 +1590,11 @@
       "slug": "nuevo-libro-del-tec-narra-el-descubrimiento-del-volcan-arenal",
       "title": "Nuevo libro del TEC narra el “descubrimiento” del volcán Arenal",
       "category": "Costa Rica",
-      "bullets_20s": "• El libro detalla la primera exploración documentada del volcán Arenal en 1937.\n• Se basa en relatos y documentos inéditos del explorador Alberto Quesada Rodríguez.\n• Incluye la experiencia de expediciones y desafíos enfrentados por los exploradores.\n• La obra busca rescatar la historia de personajes clave en la exploración.\n• Publicada por la Editorial Tecnológica de Costa Rica, es accesible a diversos públicos.",
+      "bullets_20s": "• El libro detalla la primera exploración documentada del volcán Arenal en 1937, mostrando su historia.\n• Escrito por María Isabel Quesada y Luko Hilje, el libro combina relatos y documentos inéditos sobre el volcán.\n• La obra incluye una narración accesible para un público diverso, cuidando la precisión de los hechos.\n• El volcán Arenal ha sido un sitio de interés geológico y turístico tras su erupción de 1968.\n• La publicación resalta las travesías de quienes enfrentaron desafíos para comprobar la naturaleza del Arenal.",
       "source_name": "kmora",
       "source_url": "http://www.tec.ac.cr/nuevo-libro-tec-narra-descubrimiento-volcan-arenal",
       "publish_date": "2026-05-05T21:18:08.000Z",
-      "teaser": "Lo clave en 20 segundos: Un nuevo libro revela la historia de la exploración del volcán Arenal.",
+      "teaser": "Lo clave en 20 segundos: Nuevo libro del TEC narra la historia del volcán Arenal y sus exploraciones.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dos-hombres-volcan-arenal.jpg",
       "description": "Nuevo libro del TEC narra el “descubrimiento” del volcán Arenal",
       "featured": false
@@ -12208,5 +12234,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-08T00:45:31.230Z"
+  "generated_at": "2026-05-08T01:45:30.184Z"
 }
