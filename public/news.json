@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "como-se-preparan-los-medicos-de-tenerife-para-la-llegada-del-crucero-afectado-por-el-hantavirus",
+      "title": "Cómo se preparan los médicos de Tenerife para la llegada del crucero afectado por el hantavirus",
+      "category": "Mundo",
+      "bullets_20s": "• El MV Hondius, un crucero, llega tras un brote de hantavirus que preocupa a las autoridades.\n• Médicos y personal de salud se preparan para contener cualquier posible contagio en el puerto.\n• El hantavirus es un virus transmitido por roedores que puede causar enfermedades severas.\n• El incidente llama la atención sobre la importancia de la salud pública en cruceros turísticos.\n• Las autoridades sanitarias enfatizan la necesidad de protocolos de emergencia adecuados.",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.com/mundo/articles/ce9pv05x7v9o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-10T04:05:33.000Z",
+      "teaser": "Lo clave en 20 segundos: Preparativos médicos ante la llegada del crucero afectado por hantavirus.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/32af/live/5301da10-4bff-11f1-96df-11e294cb5416.jpg",
+      "description": "La periodista de la BBC Sarah Rainsford informa desde el puerto de Tenerife, donde el MV Hondius atracará tras un brote mortal de hantavirus.",
+      "featured": false
+    },
+    {
+      "slug": "con-el-corazon-destrozado-exdiputado-anuncia-la-muerte-de-su-madre-con-emotivo-mensaje",
+      "title": "Con el corazón destrozado: exdiputado anuncia la muerte de su madre con emotivo mensaje",
+      "category": "Costa Rica",
+      "bullets_20s": "• El exdiputado expresó su dolor por la pérdida de su madre en un mensaje emotivo.\n• Luz María Rodríguez Rojas fue madre de Luis Diego Vargas, conocido en la política.\n• La noticia ha conmocionado a seguidores y amigos del exdiputado y su familia.\n• El legado de Luz María será recordado por quienes la conocieron y la amaron.\n• El exdiputado compartió anécdotas significativas sobre su madre en redes sociales.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/el-pais/con-el-corazon-destrozado-exdiputado-anuncia-la/C2KJ6MDUTNFCTGCGUFTQRYVK4Y/story/",
+      "publish_date": "2026-05-10T03:32:15.000Z",
+      "teaser": "Lo clave en 20 segundos: el exdiputado lamenta la pérdida de su madre, generando conmoción.",
+      "image_url": "https://www.nacion.com/resizer/v2/HBUNNJEDQVCY7JFZKJREZ2YQ7M.png?auth=eed03c2822ba2d3b501bb9ff4d472334025b1ddba2c2ab52f32a72314067d058&smart=true&width=1920&height=1080",
+      "description": "Luz María Rodríguez Rojas, madre del exdiputado Luis Diego Vargas, falleció a los 81 años.",
+      "featured": false
+    },
+    {
       "slug": "asesinan-a-periodista-mientras-cubria-combates-en-colombia-disidencias-de-las-farc-niegan-haber-dado-la-orden",
       "title": "Asesinan a periodista mientras cubría combates en Colombia; disidencias de las FARC niegan haber dado la orden",
       "category": "Mundo",
-      "bullets_20s": "• El caso del periodista asesinado ha levantado preocupaciones sobre la seguridad de los reporteros en Colombia.\n• Mateo Pérez Rueda cubría conflictos armados, una tarea peligrosa en la actual situación del país.\n• Las disidencias de las FARC han negado su implicación en el asesinato del joven periodista.\n• Este crimen ocurre en un contexto de creciente violencia en diversas regiones de Colombia.\n• Organizaciones internacionales han condenado el ataque y demandado justicia por el periodista asesinado.",
+      "bullets_20s": "• Un periodista fue asesinado en Colombia mientras cubría enfrentamientos armados en la región.\n• Su desaparición generó inquietud sobre la seguridad de los reporteros en zonas de conflicto.\n• Disidencias de las FARC han negado cualquier implicación en el asesinato del joven periodista.\n• Los ataques a periodistas han aumentado en países con violencia armada en América Latina.\n• Este caso evidencia los riesgos que enfrentan los comunicadores en su labor de informar.",
       "source_name": "Europa Press, El Tiempo  Colombia",
       "source_url": "https://www.nacion.com/el-mundo/asesinan-a-periodista-mientras-cubria-combates-en/PQTQGCN4OFERTI7BS2TFMN7O6M/story/",
       "publish_date": "2026-05-10T02:53:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Un periodista colombiano es asesinado mientras cubría conflictos armados en su país.",
+      "teaser": "Lo clave en 20 segundos: Asesinan a un periodista colombiano cubriendo combates, aumentando el riesgo en la zona.",
       "image_url": "https://www.nacion.com/resizer/v2/RBL4CYGNZVB63KKUATARYMWBAU.jpg?auth=d01153b3d453912690a5cad1b018a91fc6ca68279df220446215e23891ddb3d0&smart=true&width=1920&height=1230",
       "description": "El periodista colombiano Mateo Pérez Rueda, de 23 años, fue asesinado tras desaparecer mientras realizaba reportajes sobre combates armados.",
       "featured": false
@@ -43,11 +69,11 @@
       "slug": "putin-dice-que-cree-que-la-guerra-de-rusia-con-ucrania-esta-llegando-a-su-fin",
       "title": "Putin dice que cree que la guerra de Rusia con Ucrania está \"llegando a su fin\"",
       "category": "Mundo",
-      "bullets_20s": "• El presidente ruso Vladimir Putin se pronunció sobre el conflicto con Ucrania y su posible resolución.\n• Putin destacó el interés por avanzar en negociaciones para poner fin al conflicto actual.\n• El líder condenó el apoyo de Occidente a Ucrania y mencionó su impacto en las conversaciones.\n• Se espera una reevaluación de las posiciones de ambas partes en el futuro cercano.\n• Las declaraciones de Putin generan diversas reacciones a nivel internacional sobre el conflicto.",
+      "bullets_20s": "• Vladimir Putin expresa su confianza en que la guerra en Ucrania podría finalizar pronto.\n• El líder ruso hace un llamado a las negociaciones, buscando un acuerdo pacífico.\n• Putin critica el apoyo militar de Occidente a Ucrania en su discurso reciente.\n• Las tensiones entre Rusia y Ucrania continúan afectando a la comunidad internacional.\n• El futuro del conflicto sigue siendo incierto, a pesar de las declaraciones optimistas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqxpe8zpexvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-10T02:07:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Putin sugiere que la guerra con Ucrania podría estar acercándose a su final.",
+      "teaser": "Lo clave en 20 segundos: Putin confía en que la guerra en Ucrania concluye pronto, pero critica a Occidente.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/6e2d/live/f5e369c0-4c12-11f1-910d-bd753c12bf97.jpg",
       "description": "El líder ruso ve potencial para las negociaciones sobre Ucrania, pero condena el respaldo de Occidente a Zelensky.",
       "featured": false
@@ -823,13 +849,13 @@
       "slug": "la-mujer-que-tuvo-quintillizos-despues-de-intentar-quedarse-embarazada-durante-12-anos",
       "title": "La mujer que tuvo quintillizos después de intentar quedarse embarazada durante 12 años",
       "category": "Mundo",
-      "bullets_20s": "• Una historia inspiradora sobre la obstinada búsqueda de un embarazo exitoso.\n• Bedriya Adem comparte su experiencia luego de 12 años de intentos fallidos.\n• El papel de la fe en el viaje personal de Adem hacia la maternidad.\n• Los desafíos que enfrentó antes de recibir la bendición de quintillizos.\n• Cómo la comunidad y la familia han apoyado a Bedriya en su nueva vida.",
+      "bullets_20s": "• Bedriya Adem luchó durante más de una década para quedar embarazada y finalmente tuvo quintillizos.\n• La mujer comparte su alegría y gratitud por ser madre de cinco bebés al mismo tiempo.\n• Su historia destaca la esperanza y la fe en momentos de dificultad y espera prolongada.\n• El proceso para concebir fue difícil, pero Alá le otorgó más de lo que esperaba.\n• Las experiencias de mujeres que luchan con la fertilidad pueden inspirar y brindar fe a muchas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cn5px91glevo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-09T10:21:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Una mujer celebra la llegada de quintillizos tras años de intentos por concebir.",
+      "teaser": "Lo clave en 20 segundos: La emocionante historia de una madre que espera 12 años y recibe quintillizos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/901d/live/9a4ff710-4a35-11f1-a70d-c72ff4101914.jpg",
-      "description": "Recé por un hijo y Alá me dio cinco. Bedriya Adem, de 35 años, habla de lo que sintió durante su 'larga espera' y expresa su alegría por haber sido 'bendecida con cinco bebés a la vez'.",
+      "description": "Recé por un hijo y Alá me dio cinco. Bedriya Adem, de 35 años, habla sobre su alegría por la llegada de sus quintillizos.",
       "featured": false
     },
     {
@@ -849,11 +875,11 @@
       "slug": "la-revolucion-tecnologica-del-food-valley-como-paises-bajos-logro-ser-el-tercer-exportador-mundial-de-alimentos-con-un-t",
       "title": "La revolución tecnológica del \"food valley\": cómo Países Bajos logró ser el tercer exportador mundial de alimentos con un territorio tan pequeño",
       "category": "Mundo",
-      "bullets_20s": "• Países Bajos ha desarrollado tecnologías avanzadas en agricultura y producción alimentaria.\n• El concepto de 'food valley' integra innovación y sostenibilidad en la producción de alimentos.\n• Las técnicas agrícolas holandesas maximizan el uso de recursos limitados como el agua.\n• Este ecosistema promueve la colaboración entre empresas, investigación y educación.\n• El modelo neerlandés se vuelve un referente global para otras naciones en agricultura.\n• La inversión en tecnología ha impulsado la competitividad del sector agroalimentario.\n• Las soluciones innovadoras ayudan a enfrentar desafíos como el cambio climático.\n• El país exporta una variedad de productos alimenticios a mercados internacionales.\n• Se utilizan invernaderos inteligentes, sensores y drones en el proceso de cultivo.\n• Este éxito representa un reto para la sostenibilidad alimentaria mundial.",
+      "bullets_20s": "• Países Bajos ha implementado tecnología avanzada en la agricultura para maximizar la producción de alimentos.\n• El uso de invernaderos y sistemas de riego automatizados ha revolucionado la producción agrícola.\n• Este modelo agrícola se considera un ejemplo para otros países en desarrollo y emergentes.\n• La innovación en biotecnología ha permitido cultivar más alimentos utilizando menos recursos naturales.\n• El ecosistema de investigación y desarrollo en el 'food valley' es clave para su éxito agrícola.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cq8pvvngln0o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-09T02:15:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Países Bajos innovó en producción alimentaria y se convirtió en un líder mundial.",
+      "teaser": "Lo clave en 20 segundos: Innovación en agricultura hace a Países Bajos líder mundial en producción alimentaria.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/46f5/live/f136fcc0-4b22-11f1-be9e-ad2f8d891a76.jpg",
       "description": "Todo un ecosistema de innovación ha permitido al país europeo ser un líder en la producción de alimentos, a pesar de tener una superficie más de 70 veces menor que la de Argentina.",
       "featured": false
@@ -1681,11 +1707,11 @@
       "slug": "por-un-debate-publico-responsable-sobre-el-fees-y-la-defensa-del-sistema-universitario-estatal",
       "title": "Por un debate público responsable sobre el FEES y la defensa del sistema universitario estatal",
       "category": "Costa Rica",
-      "bullets_20s": "• Las universidades públicas de Costa Rica defienden sus recursos ante la sociedad, más allá de solo dinero.\n• El diálogo y la unidad son clave para enfrentar los desafíos del sistema universitario estatal en su conjunto.\n• Se rechaza la violencia política de género y ataques a las autoridades universitarias por parte de algunos sectores.\n• Es importante centrarse en datos y desempeño, no en ataques personales durante el debate del FEES.\n• El sistema universitario simboliza la educación pública como un derecho humano y bien nacional que debe protegerse.",
+      "bullets_20s": "• El Consejo Nacional de Rectores expresa su preocupación por el debate sobre el FEES en Costa Rica.\n• Reiteran la importancia del sistema universitario estatal para el desarrollo nacional y la movilidad social.\n• La desinformación afecta la reputación de las instituciones y la confianza en la educación pública.\n• Rechazan la violencia política, especialmente la de género, contra líderes universitarios como María Estrada.\n• Abogan por un debate centrado en datos y necesidades reales, no en ataques personales o desinformación.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/debate-publico-responsable-fees-defensa-sistema-universitario-estatal",
       "publish_date": "2026-05-07T21:36:18.000Z",
-      "teaser": "Lo clave en 20 segundos: El debate sobre el FEES debe centrarse en datos y no en desinformación.",
+      "teaser": "Lo clave en 20 segundos: Debate constructivo para garantizar la calidad del sistema educativo en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/conare-universidades-1-cuadrado_1.png",
       "description": "Por un debate público responsable sobre el FEES y la defensa del sistema universitario estatal",
       "featured": false
@@ -2383,13 +2409,13 @@
       "slug": "semana-de-la-diversidad-2026",
       "title": "Semana de la Diversidad 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Semana de la Diversidad se llevará a cabo del 11 al 15 de mayo de 2026 en todos los campus.\n• Actividades incluyen conversatorios, ferias y expresiones artísticas para sensibilizar la comunidad.\n• Se promueve un espacio equitativo e inclusivo a través de diferentes eventos culturales y educativos.\n• La Oficina de Equidad de Género y otros grupos colaboran en esta importante semana de actividades.\n• La participación de estudiantes y colaboradores es esencial para el éxito del evento y su impacto.",
+      "bullets_20s": "• La Semana de la Diversidad promueve la inclusión y el respeto hacia la diversidad sexual y de género.\n• Se desarrollan actividades de reflexión, como conversatorios y charlas, para sensibilizar a la comunidad.\n• Las ferias de salud y eventos culturales son parte de la programación para fomentar la diversidad.\n• El evento se lleva a cabo en todos los campus y centros del TEC, del 11 al 15 de mayo de 2026.\n• Organizado por la Oficina de Equidad de Género y el Grupo Diversidad TEC, entre otros.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/semana-diversidad-2026",
       "publish_date": "2026-05-06T20:45:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de la inclusión y el respeto hacia la diversidad en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Celebración de la diversidad sexual y de género en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/semana-diversidad.png",
-      "description": "Semana de la Diversidad 2026 es un espacio de encuentro, reflexión y celebración que promueve la inclusión y el respeto hacia la diversidad sexual y de género.",
+      "description": "Semana de la Diversidad 2026",
       "featured": false
     },
     {
@@ -2565,11 +2591,11 @@
       "slug": "sinaes-reacreditara-a-licenciaturas-de-ingenieria-ambiental-y-a-administracion-de-tecnologias-de-informacion",
       "title": "SINAES reacreditará a licenciaturas de Ingeniería Ambiental y a Administración de Tecnologías de Información",
       "category": "Costa Rica",
-      "bullets_20s": "• El Sistema de Acreditación de la Educación Superior valida la calidad educativa de las instituciones.\n• La reacreditación de Ingeniería Ambiental es un reconocimiento a la excelencia en su formación.\n• La licenciatura en Administración de Tecnologías de Información se reacredita por tercera vez.\n• SINAES asegura la credibilidad de los programas académicos a nivel nacional e internacional.\n• La ceremonia de entrega de certificaciones se llevará a cabo el 13 de mayo.",
+      "bullets_20s": "• El SINAES está comprometido con la calidad de la educación superior en Costa Rica.\n• La reacreditación asegura estándares de calidad para la formación en ingeniería ambiental.\n• La Administración de Tecnologías de Información también recibe una nueva acreditación.\n• El TEC continúa su labor en pro de la educación superior de calidad en el país.\n• Las ceremonias de entrega de certificaciones son eventos importantes para la institución.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/sinaes-reacreditara-licenciaturas-ingenieria-ambiental-administracion-tecnologias-informacion",
       "publish_date": "2026-05-06T16:30:15.000Z",
-      "teaser": "Lo clave en 20 segundos: SINAES reacredita dos importantes licenciaturas del Tecnológico de Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: SINAES reacreditará importantes licenciaturas en el TEC de Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/reacreditacion-ati-y-ambi-evento-1.png",
       "description": "SINAES reacreditará a licenciaturas de Ingeniería Ambiental y a Administración de Tecnologías de Información",
       "featured": false
@@ -2916,11 +2942,11 @@
       "slug": "charla-el-entorno-geopolitico-y-sus-repercusiones-en-costa-rica",
       "title": "Charla: El entorno geopolítico y sus repercusiones en Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• La charla se centrará en el análisis del entorno geopolítico actual y sus implicaciones en Costa Rica.\n• Se realizará el miércoles 13 de mayo, en el marco del Día de la Persona Estudiante y Trabajadora 2026.\n• La actividad es organizada por el Tecnológico de Costa Rica y otras instituciones académicas.\n• El exembajador Eduardo Ulibarri compartirá su análisis sobre la coyuntura geopolítica actual.\n• La actividad será virtual, accesible a través de Zoom y Facebook Live para el público.",
+      "bullets_20s": "• El TEC organiza una charla sobre el entorno geopolítico y su impacto en Costa Rica.\n• La actividad busca generar reflexión crítica en estudiantes y miembros de la comunidad.\n• El evento contará con Eduardo Ulibarri, reconocido periodista y exembajador.\n• Se llevará a cabo el 13 de mayo a las 6:00 p.m. en modalidad virtual.\n• El público podrá acceder a la charla a través de Facebook Live.\n• Esta iniciativa forma parte de un evento con más de 30 años de historia en el TEC.\n• Se espera una participación activa de estudiantes y la comunidad académica.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/charla-entorno-geopolitico-sus-repercusiones-costa-rica",
       "publish_date": "2026-05-06T02:24:54.000Z",
-      "teaser": "Lo clave en 20 segundos: Charla sobre geopolítica y su impacto en Costa Rica este 13 de mayo.",
+      "teaser": "Lo clave en 20 segundos: Charla sobre geopolítica en Costa Rica el 13 de mayo a las 6:00 p.m.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/evento.png",
       "description": "Charla: El entorno geopolítico y sus repercusiones en Costa Rica",
       "featured": false
@@ -3098,11 +3124,11 @@
       "slug": "nuevo-libro-del-tec-narra-el-descubrimiento-del-volcan-arenal",
       "title": "Nuevo libro del TEC narra el “descubrimiento” del volcán Arenal",
       "category": "Costa Rica",
-      "bullets_20s": "• El libro detalla la primera exploración documentada al volcán Arenal, en 1937 y su historia.\n• La obra se basa en relatos y documentos inéditos de aquellos que escalaron el volcán.\n• Los autores destacan la amena narrativa y la precisión en nombres y fechas relevantes.\n• Se incluye información sobre visitas posteriores de diversos exploradores y turistas.\n• El libro es accesible para un público variado, desde científicos hasta personas sin formación.",
+      "bullets_20s": "• El libro detalla la primera exploración documentada del volcán Arenal en 1937.\n• Se basa en relatos y documentos inéditos de exploradores y sus aventuras.\n• Las erupciones del Arenal lo han convertido en un destino turístico notable.\n• María Isabel Quesada y Luko Hilje son los autores del libro.\n• Incluye información sobre visitas nacionales e internacionales posteriores al volcán.",
       "source_name": "kmora",
       "source_url": "http://www.tec.ac.cr/nuevo-libro-tec-narra-descubrimiento-volcan-arenal",
       "publish_date": "2026-05-05T21:18:08.000Z",
-      "teaser": "Lo clave en 20 segundos: Un nuevo libro revela la historia del volcán Arenal desde 1937.",
+      "teaser": "Lo clave en 20 segundos: Un nuevo libro revela la historia del volcán Arenal y sus primeras exploraciones.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dos-hombres-volcan-arenal.jpg",
       "description": "Nuevo libro del TEC narra el “descubrimiento” del volcán Arenal",
       "featured": false
@@ -13729,5 +13755,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-10T03:45:30.682Z"
+  "generated_at": "2026-05-10T04:45:30.144Z"
 }
