@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "ruta-entre-alajuelita-y-escazu-cerrara-ocho-meses-a-partir-de-este-lunes-11-de-mayo",
+      "title": "Ruta entre Alajuelita y Escazú cerrará ocho meses a partir de este lunes 11 de mayo",
+      "category": "Costa Rica",
+      "bullets_20s": "• El cierre de la ruta impactará la circulación vehicular en la zona.\n• MOPT ha planeado este cierre para realizar obras viales necesarias.\n• Se espera que el cierre dure aproximadamente ocho meses.\n• Habrá desvíos obligatorios para asegurar el flujo de tránsito.\n• Los conductores deben estar atentos a las señalizaciones y avisos.",
+      "source_name": "Juan Fernando Lara Salas",
+      "source_url": "https://www.nacion.com/el-pais/ruta-entre-alajuelita-y-escazu-cerrara-ocho-meses/IYODEFQMBBEVJCPA6GCT7O3MJI/story/",
+      "publish_date": "2026-05-11T00:01:11.000Z",
+      "teaser": "Lo clave en 20 segundos: Cierre de ruta impactará tráfico por ocho meses.",
+      "image_url": "https://www.nacion.com/resizer/v2/IBX2HJTCIVEVZA36JNRV6RNLYU.JPG?auth=cdf5a033c04f1c9a87f0c82d67a330f5cbcba0bdb8875d25d80c29ff4653a71c&smart=true&width=3648&height=2432",
+      "description": "MOPT detalló tres puntos principales de cierre y regulación vial.",
+      "featured": false
+    },
+    {
       "slug": "warren-madrigal-tuvo-noche-de-ensueno-en-la-mls-video",
       "title": "Warren Madrigal tuvo noche de ensueño en la MLS (Video)",
       "category": "Costa Rica",
@@ -251,11 +264,11 @@
       "slug": "la-carta-que-escribi-a-mi-hija-muerta-despues-de-perdonar-al-hombre-que-la-mato",
       "title": "La carta que escribí a mi hija muerta después de perdonar al hombre que la mató",
       "category": "Mundo",
-      "bullets_20s": "• La madre comparte su proceso de duelo tras la muerte de su hija y el dolor que sintió.\n• Reflexiona sobre el concepto de justicia restaurativa como una alternativa al castigo tradicional.\n• El perdón juega un papel central en su decisión de escribir la carta tan emocional.\n• Aboga por el entendimiento y la reconciliación ante el acto violento que ocasionó su pérdida.\n• Su mensaje busca generar conciencia sobre la violencia y el impacto en las familias afectadas.",
+      "bullets_20s": "• La carta está inspirada en la experiencia dolorosa de perder a un hijo.\n• La madre reflexiona sobre el poder del perdón en situaciones extremas.\n• La justicia restaurativa busca sanar en lugar de castigar.\n• El caso invita a una conversación sobre la violencia y sus consecuencias.\n• Proceso de duelo y reconciliación en medio del sufrimiento.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwywq30zl1po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-10T14:45:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Una madre reflexiona sobre el perdón tras la pérdida de su hija.",
+      "teaser": "Lo clave en 20 segundos: El perdón a través de una conmovedora carta de una madre.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e40b/live/909c5b70-1eeb-11f1-801d-ed3cff6bf876.jpg",
       "description": "La madre de Ann Grosmaire, de 19 años, a la que su novio mató a tiros, explica por qué eligió la justicia restaurativa.",
       "featured": false
@@ -264,11 +277,11 @@
       "slug": "en-imagenes-la-evacuacion-de-los-pasajeros-del-crucero-afectado-por-el-hantavirus-en-espana",
       "title": "En imágenes: la evacuación de los pasajeros del crucero afectado por el hantavirus en España",
       "category": "Mundo",
-      "bullets_20s": "• Un crucero en aguas españolas reportó un brote de hantavirus entre los pasajeros.\n• Los pasajeros fueron evacuados de manera segura por las autoridades competentes.\n• Imágenes muestran el operativo de rescate mientras el barco está anclado.\n• Se continúan investigando las causas del brote en la embarcación afectada.\n• El hantavirus es conocido por su transmisión asociada a roedores en diversas regiones.",
+      "bullets_20s": "• La evacuación se realizó de manera controlada y coordinada por las autoridades marítimas.\n• Los pasajeros fueron trasladados a tierra firme para recibir atención médica adecuada.\n• El crucero había reportado infecciones por hantavirus entre sus ocupantes.\n• Equipos de rescate trabajaron en condiciones adversas para garantizar la seguridad de todos.\n• La comunidad local se ofreció a ayudar durante el proceso de evacuación.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c8jvgpn1rjno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-10T14:37:24.000Z",
-      "teaser": "Lo clave en 20 segundos: se evacuaron pasajeros de un crucero en España por hantavirus.",
+      "teaser": "Lo clave en 20 segundos: La evacuación de un crucero afectado por hantavirus generó preocupación en España.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8a41/live/900b15d0-4c7b-11f1-8898-83029ebf7f92.jpg",
       "description": "La nave fondeó aguas españolas la madrugada de este domingo.",
       "featured": false
@@ -2175,13 +2188,13 @@
       "slug": "por-un-debate-publico-responsable-sobre-el-fees-y-la-defensa-del-sistema-universitario-estatal",
       "title": "Por un debate público responsable sobre el FEES y la defensa del sistema universitario estatal",
       "category": "Costa Rica",
-      "bullets_20s": "• Las universidades públicas de Costa Rica abogan por un FEES que garantice la educación estatal.\n• El CONARE condena ataques a la reputación de autoridades universitarias en la discusión actual.\n• Se rechazan violencia política y las narrativas que separan a las universidades del país.\n• Se destaca la importancia de una educación pública como bien nacional y derecho humano.\n• Universidades invitan a centrar el debate en datos y necesidades reales del sistema educativo.",
+      "bullets_20s": "• Las universidades públicas defienden un debate centrado en datos y no en desinformación.\n• El CONARE rechaza la violencia política y los ataques a la rectora del TEC.\n• Se debe evitar la división y enfrentar a las universidades públicas entre sí.\n• El enfoque separatista perjudica al sistema universitario como un todo en Costa Rica.\n• Se reafirma el compromiso con la educación superior pública como un bien esencial.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/debate-publico-responsable-fees-defensa-sistema-universitario-estatal",
       "publish_date": "2026-05-07T21:36:18.000Z",
-      "teaser": "Lo clave en 20 segundos: Educación pública y FEES, un debate que trasciende los ataques personales.",
+      "teaser": "Lo clave en 20 segundos: El CONARE aboga por un debate honesto sobre el FEES y defiende la educación pública.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/conare-universidades-1-cuadrado_1.png",
-      "description": "Por un debate público responsable sobre el FEES y la defensa del sistema universitario estatal.",
+      "description": "Por un debate público responsable sobre el FEES y la defensa del sistema universitario estatal",
       "featured": false
     },
     {
@@ -2877,13 +2890,13 @@
       "slug": "semana-de-la-diversidad-2026",
       "title": "Semana de la Diversidad 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Semana de la Diversidad 2026 fomenta el respeto por la diversidad sexual y de género en Costa Rica.\n• Se realizarán actividades como conversatorios, ferias y cine foros para involucrar a la comunidad.\n• El evento busca sensibilizar sobre la importancia de una cultura más inclusiva y equitativa.\n• Participarán estudiantes, docentes y colaboradores en la programación de esta importante semana.\n• Actividades culturales y artísticas se llevarán a cabo para celebrar la diversidad en el campus.",
+      "bullets_20s": "• La Semana de la Diversidad es un evento anual que celebra la inclusión social entre diversos grupos.\n• Se llevarán a cabo actividades como charlas y conversatorios para educar sobre la diversidad.\n• Se promoverán ferias de salud para brindar pruebas y servicios al público asistente.\n• Las expresiones artísticas tendrán un papel importante en la sensibilización de la comunidad.\n• El evento busca fortalecer una cultura equitativa, abarcando diferentes perspectivas e identidades.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/semana-diversidad-2026",
       "publish_date": "2026-05-06T20:45:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Semana de inclusión y respeto hacia la diversidad sexual y de género.",
+      "teaser": "Lo clave en 20 segundos: La Semana de la Diversidad 2026 promueve inclusión y respeto hacia la diversidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/semana-diversidad.png",
-      "description": "Semana de la Diversidad 2026 es un espacio de encuentro, reflexión y celebración que promueve la inclusión y el respeto hacia la diversidad sexual y de género.",
+      "description": "La Semana de la Diversidad 2026 es un espacio de encuentro, reflexión y celebración que promueve la inclusión y el respeto hacia la diversidad sexual y de género.",
       "featured": false
     },
     {
@@ -3059,11 +3072,11 @@
       "slug": "sinaes-reacreditara-a-licenciaturas-de-ingenieria-ambiental-y-a-administracion-de-tecnologias-de-informacion",
       "title": "SINAES reacreditará a licenciaturas de Ingeniería Ambiental y a Administración de Tecnologías de Información",
       "category": "Costa Rica",
-      "bullets_20s": "• El SINAES reacredita programas académicos en Costa Rica para garantizar su calidad educativa.\n• La reacreditación de Ingeniería Ambiental se da por tercera vez, válida hasta el 2029.\n• La carrera de Administración de Tecnologías de Información logró su tercera reacreditación ahora.\n• La ceremonia de entrega de certificaciones se realizará en el Centro de las Artes del TEC.\n• La primera acreditación de ATI fue en 2015, seguida por 2021 y ahora 2026-2030.",
+      "bullets_20s": "• El SINAES proporciona confianza en la calidad educativa de las carreras acreditadas.\n• La reacreditación en Ingeniería Ambiental reafirma el compromiso del TEC con la excelencia.\n• La licenciatura en Administración de Tecnologías de Información recibe su tercera acreditación.\n• La ceremonia de entrega de certificaciones será en el Centro de las Artes del TEC.\n• Este proceso asegura estándares de calidad y buenas prácticas en la educación superior.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/sinaes-reacreditara-licenciaturas-ingenieria-ambiental-administracion-tecnologias-informacion",
       "publish_date": "2026-05-06T16:30:15.000Z",
-      "teaser": "Lo clave en 20 segundos: SINAES reacredita licenciaturas vitales en Costa Rica para asegurar calidad educativa.",
+      "teaser": "Lo clave en 20 segundos: SINAES reacredita carreras de Ingeniería Ambiental y ATI en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/reacreditacion-ati-y-ambi-evento-1.png",
       "description": "SINAES reacreditará a licenciaturas de Ingeniería Ambiental y a Administración de Tecnologías de Información",
       "featured": false
@@ -3410,11 +3423,11 @@
       "slug": "charla-el-entorno-geopolitico-y-sus-repercusiones-en-costa-rica",
       "title": "Charla: El entorno geopolítico y sus repercusiones en Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC organiza una charla sobre el entorno geopolítico y su impacto en Costa Rica.\n• Se realizará el 13 de mayo, en el marco del Día de la Persona Estudiante y Trabajadora.\n• El evento incluye la participación de Eduardo Ulibarri, periodista y exembajador.\n• La actividad se llevará a cabo de manera virtual a través de Zoom y Facebook Live.\n• Se busca promover la reflexión crítica sobre temas de interés nacional e internacional.",
+      "bullets_20s": "• El TEC organiza una charla sobre la geopolítica y su impacto en Costa Rica el 13 de mayo.\n• La actividad busca analizar el entorno geopolítico actual y sus implicaciones para el país.\n• Esta charla forma parte de una tradición de más de 30 años en el Tecnológico de Costa Rica.\n• El evento se realizará de forma virtual, permitiendo la participación de la comunidad académica.\n• El exembajador Eduardo Ulibarri será el ponente y compartirá su análisis sobre la coyuntura.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/charla-entorno-geopolitico-sus-repercusiones-costa-rica",
       "publish_date": "2026-05-06T02:24:54.000Z",
-      "teaser": "Lo clave en 20 segundos: charla del TEC sobre geopolítica y su impacto en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Charla sobre geopolítica en Costa Rica el 13 de mayo en modalidad virtual.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/evento.png",
       "description": "Charla: El entorno geopolítico y sus repercusiones en Costa Rica",
       "featured": false
@@ -3592,11 +3605,11 @@
       "slug": "nuevo-libro-del-tec-narra-el-descubrimiento-del-volcan-arenal",
       "title": "Nuevo libro del TEC narra el “descubrimiento” del volcán Arenal",
       "category": "Costa Rica",
-      "bullets_20s": "• El libro detalla la primera exploración documentada del volcán Arenal, realizada en 1937.\n• Escrito por María Isabel Quesada y Luko Hilje, incluye relatos y documentos inéditos.\n• El volcán Arenal es famoso por su erupción catastrófica en 1968 que destruyó pueblos.\n• La narración está pensada para un público amplio sin sacrificar el rigor científico.\n• Incluye información sobre ascensos realizados por naturalistas costarricenses y extranjeros.",
+      "bullets_20s": "• El libro relata la primera exploración documentada del volcán Arenal en 1937.\n• Articulado por relatos y documentos inéditos, la obra ofrece un enfoque riguroso.\n• Los autores destacan las travesías enfrentadas para alcanzar la cima del volcán.\n• La erupción de 1968 reveló el potencial del volcán como atractivo turístico.\n• Publicada por la Editorial TEC, la obra es accesible a un público diverso.",
       "source_name": "kmora",
       "source_url": "http://www.tec.ac.cr/nuevo-libro-tec-narra-descubrimiento-volcan-arenal",
       "publish_date": "2026-05-05T21:18:08.000Z",
-      "teaser": "Lo clave en 20 segundos: Un nuevo libro revela la historia del descubrimiento del volcán Arenal.",
+      "teaser": "Lo clave en 20 segundos: Nuevo libro narra la historia del volcán Arenal y su exploración inicial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dos-hombres-volcan-arenal.jpg",
       "description": "Nuevo libro del TEC narra el “descubrimiento” del volcán Arenal",
       "featured": false
@@ -14223,5 +14236,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-10T23:45:30.703Z"
+  "generated_at": "2026-05-11T00:45:31.559Z"
 }
