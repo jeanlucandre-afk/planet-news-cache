@@ -1,6 +1,84 @@
 {
   "news": [
     {
+      "slug": "elecciones-consejo-institucional-del-tec",
+      "title": "Elecciones Consejo Institucional del TEC",
+      "category": "Costa Rica",
+      "bullets_20s": "• El 28 de mayo se realizará la elección del Consejo Institucional del TEC.\n• Se elegirán representantes del sector docente y administrativo del TEC.\n• La votación será electrónica, permitiendo votar desde cualquier lugar.\n• El TIE organiza actividades para expresar el pensamiento de los votantes.\n• Un simulacro de elección se llevará a cabo el 19 de mayo.\n• Las elecciones representan un periodo de cuatro años en el consejo.\n• Se realizarán actividades en todos los campus para motivar la participación.\n• Los electos iniciarán su período el 1 de julio de 2026.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/elecciones-consejo-institucional-tec",
+      "publish_date": "2026-05-11T21:22:23.000Z",
+      "teaser": "Lo clave en 20 segundos: Elecciones del Consejo Institucional del TEC se acercan con votación electrónica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/boletin-7mayo-4.jpg",
+      "description": "Elecciones Consejo Institucional del TEC",
+      "featured": false
+    },
+    {
+      "slug": "adios-al-check-in-y-las-tarjetas-de-embarque-el-cambio-disruptivo-que-habra-en-los-aeropuertos-el-dtc",
+      "title": "Adiós al check-in y las tarjetas de embarque: el cambio disruptivo que habrá en los aeropuertos, el DTC",
+      "category": "Tecnología",
+      "bullets_20s": "• La OACI ha impulsado un cambio significativo en el proceso de embarque en aeropuertos.\n• Se implementarán credenciales digitales que eliminarán la necesidad de tarjetas físicas.\n• El reconocimiento facial será clave para la identificación de los pasajeros.\n• Este cambio promete hacer más eficiente y rápido el proceso de check-in.\n• Las aerolíneas deberán adaptarse a esta nueva tecnología en los próximos años.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/tecnologia/viene-un-cambio-historico-esta-es-la-tecnologia/5LCU7XCGMNCBHP3ZGCVPDEDIR4/story/",
+      "publish_date": "2026-05-11T21:20:37.000Z",
+      "teaser": "Lo clave en 20 segundos: cambios disruptivos en el embarque de aeropuertos con credenciales digitales y reconocimiento facial.",
+      "image_url": "https://www.nacion.com/resizer/v2/N6EGTNVFFRBEFAAECF7X5OC27U.png?auth=2e59c9681e232c7b715c17123c1ecf2dedba7651699ac5f3be9691cf2277151d&smart=true&width=1536&height=1024",
+      "description": "La OACI impulsa el uso de credenciales digitales que eliminarán el check-in y las tarjetas de embarque, con reconocimiento facial en aeropuertos.",
+      "featured": false
+    },
+    {
+      "slug": "5-plantas-que-pueden-cultivarse-en-agua-a-partir-de-una-sola-hoja",
+      "title": "5 plantas que pueden cultivarse en agua a partir de una sola hoja",
+      "category": "Ciencia",
+      "bullets_20s": "• La técnica de cultivar plantas en agua puede ser muy efectiva y fácil para los jardineros.\n• Algunas plantas como la pothos y la menta son ideales para este método de cultivo.\n• Requiere cuidados específicos para asegurar el crecimiento adecuado de las raíces.\n• Las plantas cultivadas en agua pueden mejorar la estética de los espacios interiores.\n• Es importante cambiar el agua regularmente para evitar la acumulación de bacterias.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/5-plantas-que-puede-reproducir-en-agua-con-una/AZKZUOYKENEBHE2O4C45IDALBY/story/",
+      "publish_date": "2026-05-11T21:17:47.000Z",
+      "teaser": "Lo clave en 20 segundos: Cultiva plantas en agua y descubre cuáles son las más fáciles de cuidar.",
+      "image_url": "https://www.nacion.com/resizer/v2/VRLPKQD7LNEK3BJSFQNC4NHBFE.png?auth=dabd597458ed5ad7812eddb219c195880c8ae82d2ccffe69e9650dc4135dceb1&smart=true&width=1672&height=941",
+      "description": "Descubra cuáles plantas pueden reproducirse en agua con una sola hoja y conozca los cuidados clave para lograr raíces sanas en casa sin usar tierra.",
+      "featured": false
+    },
+    {
+      "slug": "un-planeta-errante-devora-mas-de-6000-millones-de-toneladas-de-gas-por-segundo-y-despierta-la-curiosidad-de-los-astronom",
+      "title": "Un planeta errante devora más de 6.000 millones de toneladas de gas por segundo y despierta la curiosidad de los astrónomos",
+      "category": "Ciencia",
+      "bullets_20s": "• Un planeta errante en el espacio consume enormes cantidades de gas constantemente.\n• Los astrónomos están intrigados por el comportamiento inusual de este planeta.\n• Este fenómeno podría cambiar nuestra comprensión sobre los planetas fuera de órbita.\n• Investigadores analizan datos para entender este misterioso objeto celeste.\n• La observación de planetas errantes ofrece una nueva perspectiva del universo.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/un-planeta-errante-devora-mas-de-6000-millones-de/LD6QZ5SMP5GKFL72LO4RFCPMII/story/",
+      "publish_date": "2026-05-11T21:15:37.000Z",
+      "teaser": "Lo clave en 20 segundos: un planeta errante despierta la curiosidad científica por su comportamiento extraño.",
+      "image_url": "https://www.nacion.com/resizer/v2/3MC5NAQ6WRES5B7GYYMUT6AUHU.png?auth=83f55b94d4f04265359c5a4399ae57f4a0edb410ed5e77a33f12c9f7ca075709&smart=true&width=1680&height=945",
+      "description": "Un planeta errante fuera de órbita muestra un comportamiento inesperado que desconcierta a científicos y abre nuevas preguntas sobre el Universo.",
+      "featured": false
+    },
+    {
+      "slug": "veterinarios-explican-que-las-personas-que-duermen-con-sus-mascotas-no-siempre-descansan-mejor-y-pueden-exponerse-a-mas-",
+      "title": "Veterinarios explican que las personas que duermen con sus mascotas no siempre descansan mejor y pueden exponerse a más riesgos de salud",
+      "category": "Ciencia",
+      "bullets_20s": "• Dormir con animales puede afectar la calidad del descanso de las personas, según diversos expertos.\n• Los parásitos y bacterias presentes en mascotas pueden trasladarse a los humanos, generando riesgos.\n• Las alergias pueden agravarse si se comparte la cama con perros o gatos, según especialistas.\n• Enfermedades zoonóticas son un riesgo al dormir con animales, como ciertas infecciones transmitidas.\n• Hay que evaluar el bienestar de cada mascota y su comportamiento al dormir en la cama.",
+      "source_name": "El  Comercio",
+      "source_url": "https://www.nacion.com/ciencia/salud/duerme-con-su-mascota-expertos-alertan-sobre/LZG7B25RKFGARJSJTF3EN3OFFU/story/",
+      "publish_date": "2026-05-11T21:11:17.000Z",
+      "teaser": "Lo clave en 20 segundos: Riesgos de dormir con mascotas pueden afectar la salud y el descanso.",
+      "image_url": "https://www.nacion.com/resizer/v2/WP2WE3O6XRE5DB3NMR6EV3RGEA.png?auth=ce5b723236efc199dc71996ed56d364cf5f4f5af80bcf363f9af83ec5ba79df2&smart=true&width=1672&height=941",
+      "description": "Especialistas advierten sobre los riesgos de dormir con perros y gatos. Parásitos, bacterias, alergias y enfermedades zoonóticas figuran entre las principales amenazas para la salud.",
+      "featured": false
+    },
+    {
+      "slug": "amenaza-de-tiroteo-en-ctp-de-merdeces-norte-no-se-suspenden-lecciones",
+      "title": "Amenaza de tiroteo en CTP de Merdeces Norte: no se suspenden lecciones",
+      "category": "Costa Rica",
+      "bullets_20s": "• Una amenaza de tiroteo generó preocupación en el CTP de Merdeces Norte, en Heredia.\n• Las autoridades educativas decidieron no suspender las lecciones a pesar del incidente.\n• El colegio ha reforzado las medidas de seguridad tras la advertencia recibida.\n• La comunidad educativa está al tanto y en alerta sobre la situación actual.\n• La policía está investigando el origen de la amenaza para garantizar la seguridad.",
+      "source_name": "Fernanda Matarrita Chaves",
+      "source_url": "https://www.nacion.com/el-pais/amenaza-de-tiroteo-en-centro-educativo-de-heredia/MIQMW3G64BAGZLE4LGH4DHKP2M/story/",
+      "publish_date": "2026-05-11T21:10:05.000Z",
+      "teaser": "Lo clave en 20 segundos: Alerta de tiroteo en CTP de Merdeces Norte, se mantienen las lecciones.",
+      "image_url": "https://www.nacion.com/resizer/v2/AV2WBZOLLRARHIW3HSLAVV22GY.jpg?auth=a68ff0043b7e979c1770766c864a9eb786f59a970c7b6d48d8273832e71d38a0&smart=true&width=960&height=657",
+      "description": "Una nueva amenaza de tiroteo alteró la tranquilidad de un centro educativo este 11 de mayo. Esta vez, la advertencia llegó al Colegio Técnico Profesional (CTP) de Merdeces Norte, en Heredia.",
+      "featured": false
+    },
+    {
       "slug": "politologo-daniel-calvo-en-el-ejecutivo-son-conscientes-de-que-su-fraccion-es-muy-vulnerable",
       "title": "Politólogo Daniel Calvo: ‘En el Ejecutivo son conscientes de que su fracción es muy vulnerable’",
       "category": "Costa Rica",
@@ -199,11 +277,11 @@
       "slug": "encuentran-una-pintura-robada-por-los-nazis-en-la-casa-de-los-descendientes-de-un-lider-holandes-de-las-ss",
       "title": "Encuentran una pintura robada por los nazis en la casa de los descendientes de un líder holandés de las SS",
       "category": "Mundo",
-      "bullets_20s": "• Un importante hallazgo de arte ha ocurrido en un hogar histórico de Europa.\n• La pintura estaba oculta en la casa de descendientes de un líder nazi.\n• Hermann Göring fue uno de los líderes nazis más notorios de la Segunda Guerra Mundial.\n• Este descubrimiento reaviva el interés por las obras de arte robadas por los nazis.\n• Estudios y restauraciones continuarán para verificar la autenticidad de la obra.",
+      "bullets_20s": "• La pintura fue robada durante la Segunda Guerra Mundial por las fuerzas nazis en Europa.\n• Descendientes de un líder de las SS encontraron el cuadro en su hogar familiar.\n• Expertos están investigando la autenticidad y el valor artístico de la pintura recuperada.\n• Este hallazgo resalta el legado de arte perdido a causa de conflictos bélicos históricos.\n• El rescate de obras de arte robadas sigue siendo un tema importante en la actualidad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cvgz851693mo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-11T17:17:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubren pintura saqueada por los nazis en hogar de descendientes de líder SS.",
+      "teaser": "Lo clave en 20 segundos: hallan obra robada por nazis en casa de descendientes.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/7448/live/f477e270-4d3c-11f1-b55d-0f258dce1735.jpg",
       "description": "Se cree que el cuadro fue saqueado por el alto mando nazi Hermann Göring durante la Segunda Guerra Mundial.",
       "featured": false
@@ -238,11 +316,11 @@
       "slug": "quien-es-roberto-sanchez-el-candidato-de-las-regiones-que-se-perfila-para-disputar-con-keiko-fujimori-la-presidencia-de-",
       "title": "Quién es Roberto Sánchez, el candidato \"de las regiones\" que se perfila para disputar con Keiko Fujimori la presidencia de Perú",
       "category": "Mundo",
-      "bullets_20s": "• Roberto Sánchez ha emergido como un candidato clave en las elecciones peruanas de 2026.\n• La fragmentación política en Perú ha llevado a una segunda vuelta reñida entre los candidatos.\n• La seguridad ciudadana es uno de los desafíos más grandes que enfrenta la presidencia.\n• Las elecciones en Perú reflejan años de inestabilidad institucional y desencanto popular.\n• Keiko Fujimori, figura histórica, también se perfila como candidata para la segunda vuelta.",
+      "bullets_20s": "• Roberto Sánchez es un candidato emergente en las elecciones presidenciales de Perú con enfoque regional.\n• El país enfrenta retos significativos como la fragilidad institucional y la seguridad ciudadana.\n• Las elecciones en Perú han estado marcadas por la fragmentación política y la polarización.\n• Sánchez busca representar a sectores regionales que se sienten desatendidos por el centralismo.\n• Keiko Fujimori es una figura política histórica en Perú, lo que añade relevancia a la competencia.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/czjw1znejw4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-11T16:57:46.000Z",
-      "teaser": "Lo clave en 20 segundos: La carrera presidencial en Perú se intensifica entre Roberto Sánchez y Keiko Fujimori.",
+      "teaser": "Lo clave en 20 segundos: Roberto Sánchez, un nuevo candidato regional, desafía a Keiko Fujimori en Perú.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/86d5/live/4368b3d0-3a61-11f1-9d5c-8ba507d7dbde.png",
       "description": "Keiko Fujimori y Roberto Sánchez pasarían a la segunda vuelta de las presidenciales en Perú, un país marcado por la fragmentación política, años de inestabilidad institucional y la seguridad ciudadana como uno de los principales retos.",
       "featured": false
@@ -459,11 +537,11 @@
       "slug": "confirman-nuevos-casos-de-hantavirus-en-una-francesa-y-un-estadounidense-que-viajaban-en-el-crucero-afectado-y-regresaro",
       "title": "Confirman nuevos casos de hantavirus en una francesa y un estadounidense que viajaban en el crucero afectado y regresaron a sus países",
       "category": "Mundo",
-      "bullets_20s": "• Recientes casos de hantavirus se han reportado en dos pasajeros de un crucero.\n• Ios afectados incluyen un ciudadano estadounidense y una francesa que regresa a su país.\n• El pasajero estadounidense ha sido evaluado clínicamente tras su llegada a Nebraska.\n• La mujer francesa permanece en aislamiento mientras se monitorean sus síntomas.\n• Las autoridades sanitarias están al tanto de la situación y toman medidas pertinentes.",
+      "bullets_20s": "• Recientes informes confirman nuevas infecciones por hantavirus en el crucero afectado.\n• Una ciudadana francesa y un estadounidense fueron diagnosticados con esta enfermedad viral.\n• Las autoridades sanitarias están monitoreando casos en múltiples países tras el brote.\n• El estadounidense llegó a Nebraska y está bajo evaluación médica en el estado.\n• La mujer francesa se encuentra en aislamiento para evitar la propagación del virus.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c936l3014ywo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-11T13:13:19.000Z",
-      "teaser": "Lo clave en 20 segundos: nuevos casos de hantavirus en pasajeros de un crucero, uno en aislamiento.",
+      "teaser": "Lo clave en 20 segundos: nuevos casos de hantavirus reportados tras un crucero.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9372/live/acf73260-4d06-11f1-ac78-2112837ce2aa.jpg",
       "description": "El ciudadano estadounidense es uno de 17 connacionales que arribaron en Nebraska y están siendo evaluados clínicamente, mientras que la francesa está en aislamiento.",
       "featured": false
@@ -524,11 +602,11 @@
       "slug": "las-imagenes-de-satelite-que-muestran-el-nuevo-puente-que-une-corea-del-norte-con-rusia-y-por-que-lo-consideran-estrateg",
       "title": "Las imágenes de satélite que muestran el nuevo puente que une Corea del Norte con Rusia (y por qué lo consideran estratégico)",
       "category": "Mundo",
-      "bullets_20s": "• Un nuevo puente conecta Corea del Norte y Rusia, marcando una relación política significativa.\n• Imágenes de satélite revelan el progreso de la construcción del puente fronterizo.\n• Analistas consideran el nuevo puente como un símbolo del acercamiento entre ambos países.\n• Las relaciones entre Pyongyang y Moscú se han fortalecido en años recientes.\n• El puente también puede influir en las dinámicas económicas de la región.",
+      "bullets_20s": "• Las imágenes de satélite proporcionan detalles sobre el nuevo puente entre Corea del Norte y Rusia.\n• Este puente es considerado estratégico en el contexto de las relaciones bilaterales actuales.\n• Analistas destacan la importancia de este enlace para el comercio y la diplomacia en la región.\n• La construcción de infraestructuras llevará a un cambio en las dinámicas geopolíticas de Asia.\n• Corea del Norte busca estrechar lazos con Rusia por diversas razones económicas y políticas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpwpzd7ek15o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-11T12:06:57.000Z",
-      "teaser": "Lo clave en 20 segundos: Un puente une Corea del Norte y Rusia, redefiniendo relaciones estratégicas.",
+      "teaser": "Lo clave en 20 segundos: Un nuevo puente entre Corea del Norte y Rusia impacta las relaciones bilaterales.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/45ca/live/45843350-4ad4-11f1-ac78-2112837ce2aa.jpg",
       "description": "El nuevo puente fronterizo es la última muestra del estrechamiento de las relaciones entre Pyongyang y Moscú.",
       "featured": false
@@ -973,19 +1051,6 @@
       "teaser": "Lo clave en 20 segundos: EE. UU. descarta cuarentena; Francia aísla cruceristas por hantavirus en el MV Hondius.",
       "image_url": "https://www.nacion.com/resizer/v2/MPVB45AZ65F3NKDEI62G7EWF2U.jpg?auth=3920ce7f7e70c87e0628a48acfeddf9b2e2b7b57ac6baacf779551534fef3717&smart=true&width=1742&height=1161",
       "description": "Estados Unidos y Francia activaron protocolos sanitarios tras el brote de hantavirus en el crucero MV Hondius. Un francés presenta síntomas.",
-      "featured": false
-    },
-    {
-      "slug": "5-plantas-que-pueden-cultivarse-en-agua-a-partir-de-una-sola-hoja",
-      "title": "5 plantas que pueden cultivarse en agua a partir de una sola hoja",
-      "category": "Ciencia",
-      "bullets_20s": "• Las plantas acuáticas son populares por su facilidad de reproducción y cuidado.\n• Algunas especies pueden crecer perfectamente sin necesidad de sustrato terrestre.\n• El agua es fundamental para el desarrollo de raíces sanas en la planta.\n• La luz natural juega un papel importante en el crecimiento de estas plantas.\n• Revisar el agua frecuentemente garantiza una buena salud para la planta.\n• Existen diversas variedades que pueden reproducirse de este modo con éxito.\n• Cultivar en agua es una excelente opción para espacios reducidos.\n• Se necesita realizar cambios regulares de agua para evitar acumulación de bacterias.\n• Utilizar envases transparentes ayuda a observar el crecimiento de raíces.\n• Es recomendable fertilizar levemente para potenciar el crecimiento de las plantas.",
-      "source_name": "O Globo",
-      "source_url": "https://www.nacion.com/ciencia/5-plantas-que-puede-reproducir-en-agua-con-una/AZKZUOYKENEBHE2O4C45IDALBY/story/",
-      "publish_date": "2026-05-10T17:04:33.000Z",
-      "teaser": "Lo clave en 20 segundos: Cultivar plantas en agua es fácil y práctico, aprende cómo hacerlo correctamente.",
-      "image_url": "https://www.nacion.com/resizer/v2/VRLPKQD7LNEK3BJSFQNC4NHBFE.png?auth=dabd597458ed5ad7812eddb219c195880c8ae82d2ccffe69e9650dc4135dceb1&smart=true&width=1672&height=941",
-      "description": "Descubra cuáles plantas pueden reproducirse en agua con una sola hoja y conozca los cuidados clave para lograr raíces sanas en casa sin usar tierra.",
       "featured": false
     },
     {
@@ -14977,5 +15042,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-11T20:45:58.930Z"
+  "generated_at": "2026-05-11T21:45:59.641Z"
 }
