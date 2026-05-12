@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "3-formas-entretenidas-de-retrasar-el-envejecimiento-de-nuestro-cerebro",
+      "title": "3 formas entretenidas de retrasar el envejecimiento de nuestro cerebro",
+      "category": "Ciencia",
+      "bullets_20s": "• Integrar juegos de estrategia en la rutina diaria puede ser beneficioso para la mente.\n• Practicar la meditación podría mejorar la concentración y la memoria en las personas mayores.\n• La socialización frecuente puede ayudar a mantener el cerebro activo y enérgico.\n• Leer libros y aprender nuevas habilidades son actividades que estimulan el cerebro.\n• Seguir una dieta equilibrada también tiene un impacto positivo en la salud cerebral.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cvgznd98y0lo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-12T09:41:31.000Z",
+      "teaser": "Lo clave en 20 segundos: Descubre cómo estimular tu cerebro de forma entretenida.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/2144/live/66febd00-4da1-11f1-9c32-0531633d20ba.jpg",
+      "description": "Los pasos que recomiendan los expertos para mejorar las capacidades de nuestros cerebros en la vejez no siempre tienen que ser arduas tareas.",
+      "featured": false
+    },
+    {
       "slug": "robots-contra-robots-lo-que-una-operacion-en-ucrania-revela-sobre-como-seran-las-guerras-en-el-futuro-cercano",
       "title": "Robots contra robots: lo que una operación en Ucrania revela sobre cómo serán las guerras en el futuro cercano",
       "category": "Mundo",
-      "bullets_20s": "• Los robots y drones están cambiando la manera en que se libran las guerras modernas.\n• Las operaciones militares hoy en día pueden realizarse sin intervención humana directa.\n• El uso de tecnología avanzada promete aumentar la eficacia en conflictos bélicos futuros.\n• Las decisiones estratégicas podrían depender de algoritmos y no de comandos humanos.\n• Los conflictos futuros podrían traer un cambio fundamental en la ética de la guerra.",
+      "bullets_20s": "• Las guerras del futuro podrían depender de la tecnología robótica más que de tropas humanas.\n• El uso de drones y robots ya está cambiando la dinámica de los conflictos armados.\n• La capacidad de automatizar operaciones militares puede reducir el riesgo para los soldados.\n• Los expertos debaten sobre las implicaciones éticas de las guerras no tripuladas.\n• Las inversiones en tecnología militar están aumentando a nivel global, impulsando innovaciones.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cvgz1j4gmy6o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-12T03:03:33.000Z",
-      "teaser": "Lo clave en 20 segundos: La guerra no tripulada podría estar más cerca de lo que imaginamos.",
+      "teaser": "Lo clave en 20 segundos: La tecnología podría redefinir la guerra moderna con robots y drones.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ab9e/live/ba2baae0-493e-11f1-861c-270dbba6d6ae.png",
       "description": "Después de que el presidente de Ucrania, Volodymyr Zelensky, afirmara que su país conquistó territorio utilizando únicamente robots y drones, ¿cuál es el futuro de la guerra no tripulada?",
       "featured": false
@@ -17,11 +30,11 @@
       "slug": "tras-polemica-por-intento-de-freno-diputados-dan-aprobacion-definitiva-a-credito-para-tren-electrico",
       "title": "Tras polémica por intento de freno, diputados dan aprobación definitiva a crédito para tren eléctrico",
       "category": "Costa Rica",
-      "bullets_20s": "• Los diputados lograron aprobar un crédito para el tren eléctrico tras debates intensos.\n• El préstamo fue respaldado por todas las fracciones parlamentarias de la Asamblea.\n• Se espera que el tren eléctrico mejore la movilidad y reduzca congestión en las ciudades.\n• Este proyecto es clave para la modernización del sistema de transporte en Costa Rica.\n• La aprobación del crédito representa un avance en infraestructura regional y nacional.",
+      "bullets_20s": "• Los diputados aprobaron el financiamiento para avanzar en el proyecto del tren eléctrico en el país.\n• El crédito fue respaldado por unanimidad por las cinco fracciones en la Asamblea Legislativa.\n• Este préstamo es parte de un esfuerzo mayor para mejorar el transporte público en Costa Rica.\n• El proceso enfrentó críticas, pero finalmente se llegó a un consenso para su aprobación.\n• El tren eléctrico se considera crucial para reducir la congestión en las principales ciudades.",
       "source_name": "Aarón Sequeira",
       "source_url": "https://www.nacion.com/politica/tras-polemica-por-intento-de-freno-diputados-dan/IAAYIFW2X5ES7ITRCFG23CWZOI/story/",
       "publish_date": "2026-05-12T02:56:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Aprobado crédito para el tren eléctrico tras apoyo unánime de diputados.",
+      "teaser": "Lo clave en 20 segundos: diputados aprueban crédito para el tren eléctrico tras polémica.",
       "image_url": "https://www.nacion.com/resizer/v2/DUBSKKQ52FHQXHPDSO5VQJTNAY.jpg?auth=f9f8aa56d007e48c0f36f950c04cd77a477d753a3aa2a957e1e58162d38fddb5&smart=true&width=6000&height=4000",
       "description": "Préstamo con el BCIE tuvo aval unánime de las cinco fracciones parlamentarias",
       "featured": false
@@ -186,11 +199,11 @@
       "slug": "elecciones-consejo-institucional-del-tec",
       "title": "Elecciones Consejo Institucional del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El próximo 28 de mayo se realizará la elección del Consejo Institucional del TEC.\n• La votación será electrónica y abierta a toda la comunidad del TEC.\n• Período de campaña comenzó el 30 de abril y finaliza el 27 de mayo.\n• Actividades de expresión del pensamiento se realizarán en diferentes campus.\n• El simulacro de elección se llevará a cabo el 19 de mayo.",
+      "bullets_20s": "• Las elecciones del Consejo Institucional del TEC se realizarán el 28 de mayo de forma electrónica.\n• El período de campaña comenzó el 30 de abril y termina el 27 de mayo, con actividades diversas.\n• Habrá un simulacro de votación el 19 de mayo para preparar a los votantes en el proceso.\n• Los votos se podrán emitir desde cualquier lugar del mundo gracias a la modalidad electrónica.\n• Se elegirán representantes de docentes y del sector administrativo en esta elección crucial.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/elecciones-consejo-institucional-tec",
       "publish_date": "2026-05-11T21:22:23.000Z",
-      "teaser": "Lo clave en 20 segundos: elecciones electrónicas para el Consejo Institucional del TEC el 28 de mayo.",
+      "teaser": "Lo clave en 20 segundos: Votación electrónica para elegir representantes del TEC el 28 de mayo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/boletin-7mayo-4.jpg",
       "description": "Elecciones Consejo Institucional del TEC",
       "featured": false
@@ -784,11 +797,11 @@
       "slug": "las-imagenes-de-satelite-que-muestran-el-nuevo-puente-que-une-corea-del-norte-con-rusia-y-por-que-lo-consideran-estrateg",
       "title": "Las imágenes de satélite que muestran el nuevo puente que une Corea del Norte con Rusia (y por qué lo consideran estratégico)",
       "category": "Mundo",
-      "bullets_20s": "• Las imágenes de satélite revelan un nuevo puente entre Corea del Norte y Rusia.\n• Este puente se considera estratégico para las relaciones entre ambos países.\n• El desarrollo del puente es parte del acercamiento entre Pyongyang y Moscú.\n• Se espera que el puente facilite el paso de bienes y personas entre naciones.\n• El puente podría tener un impacto significativo en la política regional.\n• Las relaciones internacionales se ven influidas por este tipo de infraestructuras.",
+      "bullets_20s": "• Corea del Norte y Rusia fortalecen lazos a través de un nuevo puente fronterizo.\n• Imágenes satelitales destacan la construcción del puente en la región fronteriza.\n• El puente simboliza el crecimiento de la colaboración entre ambos países.\n• Analistas subrayan la importancia estratégica del nuevo paso fronterizo.\n• La infraestructura puede impactar el comercio entre Corea del Norte y Rusia.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpwpzd7ek15o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-11T12:06:57.000Z",
-      "teaser": "Lo clave en 20 segundos: Imágenes del nuevo puente entre Corea del Norte y Rusia destacan nuevas relaciones.",
+      "teaser": "Lo clave en 20 segundos: El nuevo puente entre Corea del Norte y Rusia, un hito en sus relaciones.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/45ca/live/45843350-4ad4-11f1-ac78-2112837ce2aa.jpg",
       "description": "El nuevo puente fronterizo es la última muestra del estrechamiento de las relaciones entre Pyongyang y Moscú.",
       "featured": false
@@ -15224,5 +15237,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-12T09:45:58.309Z"
+  "generated_at": "2026-05-12T10:45:58.616Z"
 }
