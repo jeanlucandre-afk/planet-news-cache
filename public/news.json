@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "indigencia-e-indiferencia-en-san-ramon",
+      "title": "Indigencia e indiferencia en San Ramón",
+      "category": "Costa Rica",
+      "bullets_20s": "• La preocupación por la indigencia en San Ramón ha crecido entre los ciudadanos y autoridades locales.\n• La indiferencia hacia las necesidades de las personas vulnerables se ha vuelto un tema crítico en la comunidad.\n• Las quejas sobre el trato en farmacias reflejan una falta de empatía por parte de instituciones comerciales.\n• La narrativa excluyente afecta gravemente a diversos grupos, incluidas las comunidades LGBTI en el país.\n• Los logros de líderes internacionales son analizados, generando opiniones divididas en la población.",
+      "source_name": "Redacción de La Nación",
+      "source_url": "https://www.nacion.com/opinion/cartas/indigencia-e-indiferencia-en-san-ramon/V3VAPMFHJRB5ZBL5ECEOXN4OE4/story/",
+      "publish_date": "2026-05-12T14:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La indigencia y la indiferencia social son temas candentes en San Ramón.",
+      "image_url": "https://www.nacion.com/resizer/v2/AYVZ7FNNPRGJNLH72FV2JKDK6A.png?auth=62763a1df66045c83ad1c6c95ea1320ab9ee75d6cb2f49986ccc73cc7f2c429a&smart=true&width=1338&height=753",
+      "description": "Una usuaria se queja por la falta de consideración sufrida en la farmacia de una cadena de supermercados; un lector lamenta la validación gubernamental de una narrativa excluyente contra la población LGBTI y otro más sale en defensa de los logros del presidente Nayib Bukele en El Salvador.",
+      "featured": false
+    },
+    {
+      "slug": "fiscalia-toma-indagatoria-a-fabricio-alvarado-por-presunto-abuso-sexual-a-exdiputada",
+      "title": "Fiscalía toma indagatoria a Fabricio Alvarado por presunto abuso sexual a exdiputada",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Fiscalía está investigando denuncias serias contra el exdiputado Fabricio Alvarado.\n• Al menos dos mujeres han presentado denuncias en el mismo expediente judicial.\n• Este caso ha generado una gran atención mediática en Costa Rica.\n• Alvarado, conocido por sus posturas evangélicas, enfrenta graves acusaciones.\n• La situación revela temas de abuso y violencia en la política local.",
+      "source_name": "Aarón Sequeira",
+      "source_url": "https://www.nacion.com/politica/fiscalia-toma-indagatoria-a-fabricio-alvarado-por/6W4IMOEQWBHV5KLTEIQDGKNREI/story/",
+      "publish_date": "2026-05-12T13:47:13.000Z",
+      "teaser": "Lo clave en 20 segundos: Fiscalía investiga a Fabricio Alvarado por serias acusaciones de abuso.",
+      "image_url": "https://www.nacion.com/resizer/v2/52EY7PHI6JFCFGVBYVZAZKH2MQ.JPG?auth=aa899b2105a4d6a611f4ed91a01af027c91218d79c9f18ee38262fee51630468&smart=true&width=4464&height=2976",
+      "description": "En el mismo expediente se estudian denuncias de al menos dos mujeres contra el exdiputado evangélico",
+      "featured": false
+    },
+    {
+      "slug": "hace-50-anos-zoologico-simon-bolivar-produce-200000-al-ano",
+      "title": "Hace 50 años: Zoológico Simón Bolívar produce ¢200.000 al año",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Zoológico Simón Bolívar ha sido parte de la cultura costarricense por décadas.\n• Cada fin de semana, aproximadamente 2.000 visitantes disfrutan de sus instalaciones.\n• La producción anual de ¢200.000 refleja su importancia económica local.\n• Su relevancia va más allá del entretenimiento, también educa sobre la fauna.\n• Las instalaciones han evolucionado para cumplir con estándares de bienestar animal.",
+      "source_name": "Yeryis Salas",
+      "source_url": "https://www.nacion.com/el-pais/hace-50-anos-zoologico-simon-bolivar-produce/G6YTNPADLZDT5BC5N57NNGX2SU/story/",
+      "publish_date": "2026-05-12T13:30:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El Zoológico Simón Bolívar cumple 50 años con un notable impacto local.",
+      "image_url": "https://www.nacion.com/resizer/v2/QMCLP3RJNVH5JJKNHK3CRLYMIE.png?auth=dfefe3fddade2349359309211875c6165726c5c41a84dfb4939026ea0237463c&smart=true&width=1849&height=2834",
+      "description": "El zoológico es visitado por cerca de 2.000 personas cada fin de semana.",
+      "featured": false
+    },
+    {
       "slug": "la-ley-que-cambio-para-siempre-la-justicia-penal-juvenil-en-costa-rica",
       "title": "La ley que cambió para siempre la justicia penal juvenil en Costa Rica",
       "category": "Costa Rica",
@@ -108,11 +147,11 @@
       "slug": "por-que-tantos-colombianos-se-siguen-marchando-del-pais-pese-a-la-mejora-de-la-economia",
       "title": "Por qué tantos colombianos se siguen marchando del país pese a la mejora de la economía",
       "category": "Mundo",
-      "bullets_20s": "• Colombia enfrenta un fenómeno migratorio considerable por diversas razones sociales y económicas.\n• A pesar de mejorar su economía, muchos buscan mejores oportunidades en el exterior.\n• Las redes familiares en otros países facilitan el proceso de migración para colombianos.\n• Factores como la educación y el empleo son cruciales para la decisión de emigrar.\n• El contexto político también influye en el deseo de dejar el país por la incertidumbre.",
+      "bullets_20s": "• Las condiciones económicas han mejorado en Colombia en los últimos años notablemente.\n• Sin embargo, muchos colombianos continúan buscando oportunidades en el extranjero.\n• Las redes familiares desempeñan un papel crucial en la migración de los colombianos.\n• La búsqueda de mejores trabajos y educación impulsa la salida del país.\n• Las políticas locales no siempre satisfacen las necesidades de la población colombiana.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g07xe7pr1o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-12T11:33:42.000Z",
-      "teaser": "Lo clave en 20 segundos: La emigración colombiana sigue a pesar de mejoras en la economía.",
+      "teaser": "Lo clave en 20 segundos: Las razones de la migración colombiana persisten a pesar de la mejora económica.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9cad/live/52aace60-4d89-11f1-93b8-bb0be0df822d.jpg",
       "description": "Más de un millón de colombianos ha salido en los últimos tres años de Colombia. Nuevas redes familiares y mejores oportunidades están entre las razones.",
       "featured": false
@@ -160,12 +199,12 @@
       "slug": "3-formas-entretenidas-de-retrasar-el-envejecimiento-de-nuestro-cerebro",
       "title": "3 formas entretenidas de retrasar el envejecimiento de nuestro cerebro",
       "category": "Ciencia",
-      "bullets_20s": "• Los expertos sugieren actividades lúdicas para mantener la mente activa a lo largo de los años.\n• La socialización frecuente puede hacer maravillas en la salud cognitiva de las personas mayores.\n• El aprendizaje continuo es clave para mejorar las capacidades mentales y retrasar el envejecimiento.\n• Existen ejercicios simples que se pueden realizar diariamente para estimular el cerebro eficazmente.\n• Los beneficios del ejercicio físico regular también afectan positivamente el cerebro y sus funciones.",
+      "bullets_20s": "• Los expertos sugieren actividades simples que ayudan a mantener nuestro cerebro activo y saludable.\n• Entre las recomendaciones se incluyen juegos, ejercicios mentales y aprendizaje constante.\n• Practicar actividades cognitivas puede resultar entretenido mientras se estimula nuestra mente.\n• La socialización activa también contribuye a mantener las capacidades cerebrales a medida que envejecemos.\n• El ejercicio físico tiene un impacto positivo en la salud cerebral y la vitalidad mental.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cvgznd98y0lo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-12T09:41:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Actividades lúdicas y sociales pueden mantener el cerebro joven.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/2144/live/66febd00-4da1-11f1-9c32-0531633d20ba.jpg",
+      "teaser": "Lo clave en 20 segundos: Actividades divertidas que ayudan a mantener el cerebro joven y activo.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d2bf/live/7efde350-4d4b-11f1-b55d-0f258dce1735.jpg",
       "description": "Los pasos que recomiendan los expertos para mejorar las capacidades de nuestros cerebros en la vejez no siempre tienen que ser arduas tareas.",
       "featured": false
     },
@@ -173,11 +212,11 @@
       "slug": "robots-contra-robots-lo-que-una-operacion-en-ucrania-revela-sobre-como-seran-las-guerras-en-el-futuro-cercano",
       "title": "Robots contra robots: lo que una operación en Ucrania revela sobre cómo serán las guerras en el futuro cercano",
       "category": "Mundo",
-      "bullets_20s": "• El uso de robots en conflictos marca un cambio radical en el campo de batalla moderno.\n• Las guerras del futuro podrían reducir la necesidad de tropas humanas en combate directo.\n• Drones autónomos están siendo utilizados para ataques estratégicos en conflictos actuales.\n• El desarrollo tecnológico plantea preguntas éticas sobre la guerra sin intervención humana.\n• Ucrania demuestra cómo la automatización puede alterar tácticas militares tradicionales.",
+      "bullets_20s": "• Las guerras del futuro podrían involucrar un uso extensivo de robots autónomos en el campo de batalla.\n• Se están desarrollando tecnologías que le permiten a los drones operar sin intervención humana significativa.\n• El presidente de Ucrania destacó la importancia de la tecnología avanzada en conflictos actuales.\n• El uso de inteligencia artificial en decisiones bélicas podría cambiar la naturaleza del combate.\n• Se plantea un debate ético sobre el uso de máquinas en decisiones que afectan vidas humanas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cvgz1j4gmy6o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-12T03:03:33.000Z",
-      "teaser": "Lo clave en 20 segundos: Robots son el futuro de la guerra, transformando tácticas militares actuales.",
+      "teaser": "Lo clave en 20 segundos: El futuro de la guerra podría estar dominado por robots y drones autónomos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ab9e/live/ba2baae0-493e-11f1-861c-270dbba6d6ae.png",
       "description": "Después de que el presidente de Ucrania, Volodymyr Zelensky, afirmara que su país conquistó territorio utilizando únicamente robots y drones, ¿cuál es el futuro de la guerra no tripulada?",
       "featured": false
@@ -355,11 +394,11 @@
       "slug": "elecciones-consejo-institucional-del-tec",
       "title": "Elecciones Consejo Institucional del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• Se elige un representante del sector docente del Campus Tecnológico Central Cartago.\n• El proceso se llevará a cabo el 28 de mayo de 8 a.m. a 3 p.m.\n• La votación será electrónica, permitiendo votar desde cualquier lugar del mundo.\n• El TIE organizará actividades de expresión del pensamiento en todos los campus.\n• Las elecciones son para el período del 1 de julio de 2026 al 30 de junio de 2030.",
+      "bullets_20s": "• El próximo jueves 28 de mayo, se efectuarán elecciones por medio de voto electrónico.\n• En estas elecciones se elegirán representantes para el Consejo Institucional del TEC.\n• Las votaciones serán de 8 a.m. a 3 p.m. permitiendo participar desde cualquier lugar.\n• El período de campaña ya comenzó y concluirá un día antes de la elección.\n• Se realizarán simulacros y actividades para expresar pensamientos en cada campus.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/elecciones-consejo-institucional-tec",
       "publish_date": "2026-05-11T21:22:23.000Z",
-      "teaser": "Lo clave en 20 segundos: elecciones del Consejo Institucional del TEC se realizarán pronto.",
+      "teaser": "Lo clave en 20 segundos: El TEC prepara elecciones del Consejo Institucional para el 28 de mayo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/boletin-7mayo-4.jpg",
       "description": "Elecciones Consejo Institucional del TEC",
       "featured": false
@@ -15393,5 +15432,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-12T13:45:58.380Z"
+  "generated_at": "2026-05-12T14:45:58.455Z"
 }
