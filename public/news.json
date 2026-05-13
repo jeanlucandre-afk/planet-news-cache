@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "estudiante-de-16-anos-apunalado-en-cindea-de-guanacaste-esto-dice-el-mep",
+      "title": "Estudiante de 16 años apuñalado en CINDEA de Guanacaste: esto dice el MEP",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un adolescente de 16 años fue víctima de un ataque en el CINDEA de Guanacaste.\n• La condición del estudiante es crítica tras el incidente violento ocurrido en su escuela.\n• El MEP ha emitido un comunicado respecto a la situación del estudiante agredido.\n• La comunidad educativa está consternada por el ataque en el CINDEA de Belén.\n• Se están investigando las circunstancias del apuñalamiento en el centro educativo.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/sucesos/estudiante-de-16-anos-apunalado-en-cindea-de/VAFHGMDEUVFMBCSRRNUVIENGJY/story/",
+      "publish_date": "2026-05-13T19:08:02.000Z",
+      "teaser": "Lo clave en 20 segundos: un estudiante fue apuñalado en Guanacaste y su situación es crítica.",
+      "image_url": "https://www.nacion.com/resizer/v2/ULSOIG6PTBAFJJ4CNZINM6KYXY.png?auth=db91be1aff5a39491a6bbf7df6c7e4c72a3eb40a3f182d344d13b5aadc43e980&smart=true&width=960&height=520",
+      "description": "Un estudiante de 16 años fue trasladado en condición crítica tras ser agredido en el CINDEA de Belén de Carrillo. Esto es lo que se sabe sobre el ataque.",
+      "featured": false
+    },
+    {
+      "slug": "la-psicologia-senala-que-quienes-olvidan-nombres-con-facilidad-no-son-distraidos-sino-que-su-memoria-funciona-diferente",
+      "title": "La psicología señala que quienes olvidan nombres con facilidad no son distraídos, sino que su memoria funciona diferente",
+      "category": "Ciencia",
+      "bullets_20s": "• Olvidar nombres puede ser más común de lo que se piensa entre las personas.\n• La memoria humana funciona de maneras diversas, relacionadas con la atención.\n• Expertos destacan que este fenómeno no es signo de distracción habitual.\n• Estudios han analizado cómo se procesa la información en nuestra mente.\n• Identificar la causa del olvido puede ayudar a superar este problema.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/tendencias/la-psicologia-senala-que-quienes-olvidan-nombres/TKI46UTSAZDE5EBKORBO5V5O5M/story/",
+      "publish_date": "2026-05-13T18:53:48.000Z",
+      "teaser": "Lo clave en 20 segundos: la memoria puede funcionar diferente al olvidar nombres.",
+      "image_url": "https://www.nacion.com/resizer/v2/NU2GWSUNTFDFPLWLLCK3AVK5FA.png?auth=03244d1b2ecb49be30630a2ed79d2cbb761004b9957da8fec60697f6babba1fb&smart=true&width=1536&height=1024",
+      "description": "Olvidar el nombre de alguien tiene una explicación psicológica. Expertos detallan qué ocurre en el cerebro y cómo evitarlo.",
+      "featured": false
+    },
+    {
+      "slug": "eleccion-de-magistrados-suplentes-esta-en-el-limbo-seis-claves-para-entender-como-funciona-el-proceso",
+      "title": "Elección de magistrados suplentes está en el limbo: seis claves para entender cómo funciona el proceso",
+      "category": "Costa Rica",
+      "bullets_20s": "• La elección de magistrados suplentes es crucial para el sistema judicial del país.\n• Las reglas del proceso han generado debate entre distintos sectores políticos.\n• La falta de consenso puede llevar a un vacío en la administración de justicia.\n• Es fundamental entender cómo se eligen los candidatos para evitar confusiones.\n• El Poder Judicial tiene un rol importante en la presentación de candidatos.\n• La Asamblea Legislativa debe ratificar las elecciones sugeridas por el Poder Judicial.\n• El proceso actual enfrenta desafíos que podrían cambiar su operatividad.\n• La posición de los partidos políticos afecta el resultado de estas elecciones.\n• Las magistraturas suplentes son esenciales para el funcionamiento del sistema judicial.\n• Los ciudadanos deben mantenerse informados sobre el proceso electoral.",
+      "source_name": "Lucía Astorga",
+      "source_url": "https://www.nacion.com/politica/eleccion-de-magistrados-suplentes-esta-en-el-limbo/6WTJYBLNLJGF5MIGAL5Y73GCYU/story/",
+      "publish_date": "2026-05-13T18:50:15.000Z",
+      "teaser": "Lo clave en 20 segundos: El proceso de elección de magistrados suplentes enfrenta desafíos y tensiones políticas.",
+      "image_url": "https://www.nacion.com/resizer/v2/JU7WFTKJ7FALJCQFZRYLIBOKLM.JPG?auth=8dcb5fd3db9161c969537bd64b1f41d734c954c7047faf3498ce3e9f9f3139ec&smart=true&width=3984&height=2656",
+      "description": "La disputa para designar las magistraturas suplentes no es por nombres, sino por las reglas del proceso de elección de los candidatos que el Poder Judicial envía a la Asamblea Legislativa.",
+      "featured": false
+    },
+    {
       "slug": "cual-fue-la-primera-cancion-que-usted-escucho-en-spotify-asi-puede-averiguarlo",
       "title": "¿Cuál fue la primera canción que usted escuchó en Spotify? Así puede averiguarlo",
       "category": "Tecnología",
@@ -121,24 +160,37 @@
       "slug": "refugiosconstructos-visuales-exposicion-del-artista-nacional-gustavo-herrera-urena",
       "title": "REFUGIOS_constructos visuales: Exposición del artista nacional Gustavo Herrera Ureña",
       "category": "Costa Rica",
-      "bullets_20s": "• La exposición reúne 25 obras de pintura, collage y textil del artista costarricense.\n• Invita a la reflexión sobre espacios de resguardo y contemplación humanos.\n• Gustavo Herrera Ureña es un artista autodidacta con formación en arquitectura.\n• Su obra busca evocar arquitecturas imaginarias y paisajes interiores sensibles.\n• La muestra está en el marco de la celebración del 55 aniversario del TEC.",
+      "bullets_20s": "• La exposición reúne 25 obras en diferentes técnicas como pintura, collage y textil.\n• Promueve la reflexión sobre la construcción de espacios de resguardo e imaginación.\n• Gustavo Herrera Ureña es un artista autodidacta con antecedentes en arquitectura.\n• Su obra se adentra en la abstracción contemporánea y la experiencia emocional.\n• La muestra es parte del 55 aniversario del Tecnológico de Costa Rica.\n• La comunidad y el público pueden visitar la exposición durante mayo y junio.\n• La propuesta busca un encuentro entre arte, emoción y contemplación visual.\n• La apertura está dirigida a toda la comunidad universitaria y el público en general.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/refugiosconstructos-visuales-exposicion-artista-nacional-gustavo-herrera-urena",
       "publish_date": "2026-05-13T17:14:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Exposición de Gustavo Herrera Ureña invita a explorar la abstracción contemporánea.",
+      "teaser": "Lo clave en 20 segundos: Una exposición del artista costarricense Gustavo Herrera invita a explorar el arte visual.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/f8e73cac-e564-4752-bdb9-a08f14af03bf.png",
       "description": "REFUGIOS_constructos visuales: Exposición del artista nacional Gustavo Herrera Ureña",
+      "featured": false
+    },
+    {
+      "slug": "mi-madre-me-tuvo-secuestrado-durante-6-anos-pero-ahora-estoy-listo-para-volver-a-verla",
+      "title": "Mi madre me tuvo secuestrado durante 6 años, pero ahora estoy listo para volver a verla",
+      "category": "Mundo",
+      "bullets_20s": "• El documental narra la experiencia traumática de Alex Batty durante su secuestro prolongado.\n• Alex comparte su historia y cómo logró sobrevivir en circunstancias difíciles y peligrosas.\n• El reportaje examina el impacto emocional en las víctimas de secuestro y su reintegración.\n• Un análisis profundo sobre la relación entre Alex y su madre después de años separados.\n• Expertos discuten sobre el tratamiento y apoyo para víctimas de traumas similares.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c3w2nedv4lxo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-13T16:58:06.000Z",
+      "teaser": "Lo clave en 20 segundos: Un impactante relato de secuestro y sobrevivencia es revelado en el nuevo documental.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/09df/live/858de680-4ec1-11f1-bd52-e755d604ece4.jpg",
+      "description": "En un nuevo documental de la BBC, Alex Batty revela los detalles de su secuestro y su vida huyendo.",
       "featured": false
     },
     {
       "slug": "los-lentes-inteligentes-de-meta-preocupan-porque-son-una-invasion-de-la-privacidad-aunque-se-estan-vendiendo-mas-que-nun",
       "title": "Los lentes inteligentes de Meta preocupan porque son \"una invasión de la privacidad\", aunque se están vendiendo más que nunca",
       "category": "Mundo",
-      "bullets_20s": "• Los lentes inteligentes de Meta han generado un gran debate en cuanto a la privacidad de los usuarios.\n• Cada vez más personas adquieren estos dispositivos a pesar de los riesgos asociados a su uso.\n• Las funciones de grabación y reconocimiento facial plantean dilemas éticos en la sociedad moderna.\n• Activistas por la privacidad advierten sobre la vigilancia constante que implican estos productos.\n• Aunque las ventas aumentan, hay un creciente escepticismo hacia las intenciones de las empresas tecnológicas.",
+      "bullets_20s": "• Los lentes inteligentes de Meta han aumentado su popularidad en el mercado global reciente.\n• A pesar de su éxito en ventas, las preocupaciones sobre la privacidad continúan creciendo.\n• Expertos advierten sobre la capacidad de estos dispositivos para grabar sin consentimiento.\n• El debate sobre la privacidad digital se intensifica con la llegada de nuevas tecnologías.\n• Los usuarios deben considerar los riesgos antes de adoptar tecnologías que graban su entorno.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cp8pzv14300o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-13T16:46:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Crece la preocupación por la privacidad en el uso de lentes inteligentes de Meta.",
+      "teaser": "Lo clave en 20 segundos: Crece preocupación por la privacidad con lentes de Meta a la venta.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c1d2/live/52785130-4e90-11f1-bd52-e755d604ece4.jpg",
       "description": "Se están vendiendo millones de pares de lentes inteligentes, a pesar de las crecientes preocupaciones sobre la privacidad.",
       "featured": false
@@ -251,13 +303,13 @@
       "slug": "de-cot-de-oreamuno-a-atlanta-estados-unidos-daniel-fernandez-lleva-al-tec-al-acs-leadership-institute-2026",
       "title": "De Cot de Oreamuno a Atlanta, Estados Unidos: Daniel Fernández lleva al TEC al ACS Leadership Institute 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Daniel Fernández, estudiante del TEC, fue seleccionado para el ACS Leadership Institute 2026 en Atlanta, EE.UU.\n• Este evento reunió a destacados líderes estudiantiles de diferentes países y culturas para compartir experiencias.\n• El enfoque del Instituto fue el liderazgo científico, con sesiones personalizadas para cada estudiante.\n• Daniel aprendió sobre liderazgo empático y la importancia de crear un ambiente seguro para todos.\n• El intercambio con profesionales y estudiantes fue clave para su desarrollo personal y académico.",
+      "bullets_20s": "• Daniel Fernández, estudiante de Ingeniería Física, representó al TEC en un importante evento internacional.\n• El ACS Leadership Institute se celebró en Atlanta, donde líderes estudiantiles de todo el mundo se reunieron.\n• Daniel aprendió sobre liderazgo y trabajo en equipo en un entorno diverso y enriquecedor.\n• La experiencia incluyó sesiones de aprendizaje práctico con profesionales de la ciencia y la industria.\n• Ahora, busca compartir su conocimiento y experiencia con sus compañeros en Costa Rica.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/cot-oreamuno-atlanta-estados-unidos-daniel-fernandez-lleva-tec-acs-leadership-institute-2026",
       "publish_date": "2026-05-13T14:25:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Un estudiante del TEC destaca en el ACS Leadership Institute 2026 en Atlanta.",
+      "teaser": "Lo clave en 20 segundos: Daniel Fernández del TEC participa en evento internacional sobre liderazgo científico.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/rigoberto-y-daniel-leadership-institute.jpg",
-      "description": "Estudiante de Ingeniería Física del TEC fue seleccionado entre los mejores líderes estudiantiles del mundo para participar en este evento de tres días.",
+      "description": "De Cot de Oreamuno a Atlanta, Estados Unidos: Daniel Fernández lleva al TEC al ACS Leadership Institute 2026",
       "featured": false
     },
     {
@@ -290,11 +342,11 @@
       "slug": "un-hotel-con-su-nombre-un-campo-de-golf-que-negocios-contemplo-trump-en-cuba-antes-de-presidir-eeuu-y-presionar-a-la-isl",
       "title": "¿Un hotel con su nombre? ¿Un campo de golf? Qué negocios contempló Trump en Cuba antes de presidir EE.UU. y presionar a la isla",
       "category": "Mundo",
-      "bullets_20s": "• Donald Trump mostró interés en invertir en Cuba antes de su presidencia.\n• La exploración de negocios incluía hoteles y campos de golf exclusivos.\n• A pesar de sus críticas al acuerdo de Obama, buscó oportunidades económicas.\n• Cuba representa un mercado potencial para inversiones de gran escala.\n• Su marca fue registrada en la isla como parte de sus planes de expansión.",
+      "bullets_20s": "• Donald Trump contempló varias inversiones en Cuba antes de su mandato presidencial en EE.UU.\n• Los negocios incluían un hotel con su nombre y un campo de golf de prestigio.\n• A pesar de su retórica contra Cuba, mostró interés como empresario en la isla.\n• Registros indican que Trump exploró el potencial turístico y de inversiones en Cuba.\n• El acuerdo de Obama influyó en las decisiones empresariales que Trump planeaba evaluar.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4gv344rp0zo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-13T14:10:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Trump consideró inversiones en Cuba antes de ser presidente.",
+      "teaser": "Lo clave en 20 segundos: Trump exploró inversiones en Cuba antes de su presidencia a pesar de sus críticas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b9e0/live/b4b13010-4e4f-11f1-b711-bf037364a779.jpg",
       "description": "Pese a sus críticas al acuerdo de Obama con La Habana, Trump exploraba en secreto como empresario el potencial de inversión en Cuba, donde registró su marca.",
       "featured": false
@@ -992,11 +1044,11 @@
       "slug": "tec-alcanza-nivel-avanzado-en-capacidad-de-gestion-financiera-segun-la-contraloria",
       "title": "TEC alcanza nivel avanzado en capacidad de gestión financiera, según la Contraloría",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC pasó a ser la única universidad pública con calificación 'Avanzado' en gestión financiera.\n• La evaluación se realizó entre el 1 de enero y el 31 de diciembre de 2024, por la Contraloría.\n• El Índice ICGF mide rendimiento en presupuestos, contabilidad, deuda y tesorería de instituciones.\n• El resultado resalta la importancia de la transparencia y la rendición de cuentas en finanzas.\n• Watson destaca la mejora continua del TEC en comparación con otras instituciones públicas.",
+      "bullets_20s": "• El Tecnológico de Costa Rica es la única universidad pública con nivel Avanzado de gestión financiera en el país.\n• La mejora en la gestión financiera se basa en una trayectoria continua desde el año 2022 hasta la fecha.\n• El índice de gestión financiera evalúa la administración de recursos en instituciones públicas.\n• El TEC superó el promedio nacional que permanece en nivel Básico, a pesar de sus esfuerzos coordinados.\n• La transparencia y la rendición de cuentas son aspectos clave en la gestión del TEC.\n• Este reconocimiento por la CGR motiva al TEC a seguir mejorando y optimizando su gestión.\n• La Contraloría evalúa los procesos relacionados con presupuesto, contabilidad y tesorería.\n• Este estudio incluyó 302 instituciones durante el año 2024 y solo 25 alcanzaron el nivel Avanzado.\n• La vicerrectora destacó el compromiso del TEC con la eficiencia en el uso de recursos públicos.\n• La gestión pública eficiente es un objetivo que el TEC se esfuerza por alcanzar continuamente.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-alcanza-nivel-avanzado-capacidad-gestion-financiera-segun-contraloria",
       "publish_date": "2026-05-12T16:58:21.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC es la única universidad pública con un nivel avanzado en finanzas.",
+      "teaser": "Lo clave en 20 segundos: El TEC logra nivel avanzado en gestión financiera, destacándose entre 302 instituciones evaluadas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/indice-contraloria.png",
       "description": "TEC alcanza nivel avanzado en capacidad de gestión financiera, según la Contraloría",
       "featured": false
@@ -16446,5 +16498,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-13T18:45:58.196Z"
+  "generated_at": "2026-05-13T19:45:58.150Z"
 }
