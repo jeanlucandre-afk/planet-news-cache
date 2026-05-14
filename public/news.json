@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "el-mercado-de-petroleo-se-mantiene-estable-pendiente-de-la-reunion-entre-estados-unidos-y-china",
+      "title": "El mercado de petróleo se mantiene estable pendiente de la reunión entre Estados Unidos y China",
+      "category": "Mundo",
+      "bullets_20s": "• El mercado de petróleo muestra estabilidad ante la incertidumbre política global.\n• Las relaciones entre Estados Unidos y China pueden afectar los precios del petróleo.\n• Los inversores están atentos a cualquier declaración de los líderes involucrados.\n• Expertos analizan el impacto de este encuentro en la economía mundial.\n• La visita de Trump a China genera expectativa en el comercio internacional.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/el-mercado-de-petroleo-se-mantiene-estable/RZA6AJESWZGB7D6GNHPVVJTEHE/story/",
+      "publish_date": "2026-05-14T23:25:57.000Z",
+      "teaser": "Lo clave en 20 segundos: el mercado petrolero espera la reunión entre Trump y China.",
+      "image_url": "https://www.nacion.com/resizer/v2/7UX4PLMIHRARBMCMANV6AL4I5A.jpg?auth=95f4aff61b55dfab7378c76216d3cefc97e5b0df3b0d106b4c93492046537139&smart=true&width=1152&height=648",
+      "description": "La atención del mercado está centrada en la visita de Donald Trump a China, prevista hasta el viernes",
+      "featured": false
+    },
+    {
+      "slug": "google-prepara-un-cambio-para-sus-contrasenas-en-android",
+      "title": "Google prepara un cambio para sus contraseñas en Android",
+      "category": "Tecnología",
+      "bullets_20s": "• Los usuarios de Android podrán transferir sus contraseñas de manera más segura.\n• La nueva funcionalidad busca facilitar la migración de claves entre plataformas.\n• Se espera que esta medida incremente la seguridad en el manejo de contraseñas.\n• Google colabora con Samsung y Apple para implementar esta función.\n• La transferencia de passkeys será accesible desde los gestores de contraseñas.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/tecnologia/google-prepara-un-cambio-para-sus-contrasenas-en/IN74RWEMMFD23AZIGORTP2V7VU/story/",
+      "publish_date": "2026-05-14T23:12:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Google facilitará la migración de contraseñas en Android.",
+      "image_url": "https://www.nacion.com/resizer/v2/SGTLFK7UTJDYHHNGNJBQZKJNQA.jpg?auth=c4fc1ef0fd3adad0896ae05d31ad65aa9fff0cafced86d28b7fb2aec0b70b335&smart=true&width=893&height=493",
+      "description": "Google implementará en Android la transferencia de passkeys entre gestores de contraseñas. Descubra cómo podrá migrar sus claves de acceso entre Google, Samsung y Apple de forma segura y sencilla en su dispositivo móvil.",
+      "featured": false
+    },
+    {
+      "slug": "cual-consola-portatil-vale-la-pena-en-2026-cinco-opciones-que-dominan-el-mercado",
+      "title": "¿Cuál consola portátil vale la pena en 2026? Cinco opciones que dominan el mercado",
+      "category": "Tecnología",
+      "bullets_20s": "• Las consolas portátiles han evolucionado significativamente en los últimos años para ofrecer mejor rendimiento.\n• Nintendo Switch 2 lidera el mercado con su conocida jugabilidad y variedad de títulos disponibles.\n• Steam Deck ofrece una experiencia de juego similar a una PC en la palma de su mano.\n• La duración de batería se ha convertido en un factor crucial para los jugadores hoy en día.\n• La compatibilidad con juegos de generaciones anteriores es un gran atractivo para muchos usuarios.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/tecnologia/cual-consola-portatil-vale-la-pena-en-2026-cinco/IWZ7J4L3PVBFBFQU4GHT4XKQWQ/story/",
+      "publish_date": "2026-05-14T23:05:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Las mejores consolas portátiles que dominarán el mercado en 2026.",
+      "image_url": "https://www.nacion.com/resizer/v2/KXIJ6IUH5ZFNPF3CHUU6HI6AOM.png?auth=8c153bdc430fd3a90ea9e5741103e738db9a35970345e8ed69f3d00867da97db&smart=true&width=1920&height=1080",
+      "description": "Conozca las mejores consolas portátiles de 2026. Nintendo Switch 2, Steam Deck y otras opciones destacan por potencia, batería y compatibilidad.",
+      "featured": false
+    },
+    {
+      "slug": "exministro-de-agricultura-sera-viceministro-de-hacienda-luego-de-un-paso-de-24-dias-por-banca-para-el-desarrollo",
+      "title": "Exministro de Agricultura será viceministro de Hacienda luego de un paso de 24 días por Banca para el Desarrollo",
+      "category": "Costa Rica",
+      "bullets_20s": "• Víctor Julio Carvajal Porras ha tenido un rol destacado en el ámbito agrícola costarricense.\n• Su nombramiento es parte de un ajuste en el gabinete de la presidenta Laura Fernández.\n• El Sistema de Banca para el Desarrollo tiene un papel crucial en el apoyo a pequeños productores.\n• La economía costarricense enfrenta retos y ajustes en la administración pública.\n• Se espera que Carvajal aporte su experiencia en su nuevo cargo en Hacienda.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/politica/exministro-de-agricultura-sera-viceministro-de/DUSYI6ILU5CLXGMIHTC5E37CV4/story/",
+      "publish_date": "2026-05-14T22:55:59.000Z",
+      "teaser": "Lo clave en 20 segundos: Nombramiento del exministro de Agricultura como viceministro de Hacienda en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/CIMQS43QPRBGZFKHGTK3VK4FSM.jpg?auth=5f64741a0f04e5d72ea5d6e1c7efb81ff1ea0b4f2a3cd2cb7cd9f70213b57975&smart=true&width=5617&height=3745",
+      "description": "La presidenta de la República, Laura Fernández, nombró al exministro de Agricultura Víctor Julio Carvajal Porras como viceministro de Ingresos, en la cartera de Hacienda, luego de su paso de 24 días como director interino del Sistema de Banca para el Desarrollo (SBD).",
+      "featured": false
+    },
+    {
       "slug": "yara-jimenez-sepulta-proceso-sobre-presunto-abuso-sexual-de-fabricio-alvarado-y-lo-salva-de-sancion-etica",
       "title": "Yara Jiménez sepulta proceso sobre presunto abuso sexual de Fabricio Alvarado y lo salva de sanción ética",
       "category": "Costa Rica",
@@ -160,24 +212,24 @@
       "slug": "pg-opi-27-reformulacion-del-plan-tactico-institucional",
       "title": "PG-OPI-27 Reformulación del Plan Táctico Institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• La reformulación del Plan Táctico tiene como objetivo actualizar estrategias institucionales.\n• Se busca mejorar la alineación de acciones con los objetivos del TEC.\n• Los manuales y procedimientos son fundamentales en este proceso de reformulación.\n• El proyecto se enmarca dentro de una visión de crecimiento institucional sostenible.\n• Se espera involucrar a diferentes actores en el desarrollo de este plan.",
+      "bullets_20s": "• La reformulación del plan se centra en eficientizar los procesos internos de la institución.\n• Se busca alineación con las nuevas tendencias educativas y tecnológicas actuales.\n• Se prevé un impacto positivo en la gestión administrativa y en la calidad educativa.\n• El nuevo plan incluirá procedimientos actualizados adaptados a necesidades cambiantes.\n• Se hará seguimiento continuo para evaluar el éxito de la implementación del plan.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pg-opi-27-reformulacion-plan-tactico-institucional",
       "publish_date": "2026-05-14T19:26:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Reformulaciones estratégicas para fortalecer el futuro institucional.",
+      "teaser": "Lo clave en 20 segundos: Reforma para optimizar procesos organizacionales en educación.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "evsolano",
+      "description": "Reformulación del Plan Táctico Institucional para mejorar procesos organizacionales.",
       "featured": false
     },
     {
       "slug": "pg-opi-26-evaluacion-del-plan-tactico-institucional",
       "title": "PG-OPI-26 Evaluación del Plan Táctico Institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• El Plan Táctico Institucional busca mejorar la eficiencia en los procesos organizacionales.\n• La evaluación periódica permite identificar áreas de mejora y ajustar estrategias.\n• Es fundamental la participación de todos los actores para un análisis efectivo.\n• Los manuales de procedimientos están diseñados para guiar la implementación.\n• Se busca optimizar recursos y maximizar el rendimiento institucional.",
+      "bullets_20s": "• El Plan Táctico Institucional busca mejorar procesos en la institución educativa.\n• Se enfoca en la evaluación continua para optimizar resultados y metas.\n• Se espera que el plan sea implementado a partir de mayo de 2026.\n• El énfasis está en la mejora de manuales y procedimientos existentes.\n• Se involucra a toda la comunidad educativa en este proceso de evaluación.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pg-opi-26-evaluacion-plan-tactico-institucional",
       "publish_date": "2026-05-14T19:26:08.000Z",
-      "teaser": "Lo clave en 20 segundos: Evaluación del Plan Táctico Institucional para mejorar procesos.",
+      "teaser": "Lo clave en 20 segundos: Plan Táctico busca evaluar y mejorar procesos educativos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -185,12 +237,12 @@
     {
       "slug": "pg-opi-25-aprobacion-del-plan-tactico-institucional",
       "title": "PG-OPI-25 Aprobación del Plan Táctico Institucional",
-      "category": "Ciencia",
-      "bullets_20s": "• El Plan Táctico Institucional busca mejorar la gestión de la institución educativa.\n• Se implementarán manuales y procedimientos claros para su ejecución y seguimiento.\n• La aprobación formal se espera aumentar la transparencia en la administración.\n• Contará con indicadores para medir su efectividad a lo largo del tiempo.\n• Se fomentará la participación activa de todos los sectores de la institución.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Plan Táctico Institucional busca optimizar la gestión en diversas áreas.\n• La aprobación es parte de un proceso de mejora continua en la institución.\n• Se implementarán manuales y procedimientos para su adecuada ejecución.\n• El cambio se enfoca en la transparencia y eficacia en la administración.\n• A largo plazo, se espera un impacto positivo en la comunidad educativa.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pg-opi-25-aprobacion-plan-tactico-institucional",
       "publish_date": "2026-05-14T19:25:26.000Z",
-      "teaser": "Lo clave en 20 segundos: Aprobación del Plan Táctico Institucional para mejorar la gestión educativa.",
+      "teaser": "Lo clave en 20 segundos: Optimización de la gestión institucional será prioritaria.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -198,12 +250,12 @@
     {
       "slug": "pg-opi-24-formulacion-del-plan-tactico-institucional",
       "title": "PG-OPI-24 Formulación del Plan Táctico Institucional",
-      "category": "Tecnología",
-      "bullets_20s": "• El Plan Táctico Institucional busca optimizar procesos dentro de la organización.\n• Se enfoca en manuales y procedimientos que guían las acciones del personal.\n• Aumenta la eficiencia y efectividad en la ejecución de tareas del personal.\n• La formulación integra la participación de diferentes áreas del conocimiento.\n• Busca alinearse con los objetivos estratégicos de la institución.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El PG-OPI-24 es un documento clave para la planificación institucional.\n• Se centra en la formulación de estrategias y objetivos claros.\n• Permite una mejor organización de los recursos y procesos internos.\n• Fomenta la participación de diversas áreas dentro de la institución.\n• La implementación efectiva se evaluará periódicamente para su mejora.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pg-opi-24-formulacion-plan-tactico-institucional",
       "publish_date": "2026-05-14T19:24:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Estrategias para mejorar procesos en la institución con el nuevo plan táctico.",
+      "teaser": "Lo clave en 20 segundos: Planificación estratégica para instituciones educativas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -329,11 +381,11 @@
       "slug": "por-que-el-gobierno-de-india-pidio-a-sus-ciudadanos-que-no-compren-oro-durante-un-ano",
       "title": "Por qué el gobierno de India pidió a sus ciudadanos que no compren oro durante un año",
       "category": "Mundo",
-      "bullets_20s": "• El gobierno indio ha emitido una recomendación para el no consumo de oro durante un año.\n• India es el segundo mayor consumidor de oro en el mundo, detrás de China.\n• La medida busca estabilizar la economía y reducir la dependencia de las importaciones.\n• En el último año, India importó una cantidad significativa de oro, impactando su comercio.\n• El sector de la joyería enfrenta un desafío ante esta nueva política gubernamental.",
+      "bullets_20s": "• El gobierno indio ha solicitado a sus ciudadanos restringir la compra de oro durante un año.\n• Esta medida busca mitigar el impacto económico negativo relacionado con la importación de oro.\n• India es el segundo mayor consumidor de oro, influyendo en precios globales y mercados.\n• Durante el último año fiscal, India importó alrededor de US$72.000 millones en oro.\n• La decisión podría impactar tanto a la inversión en joyería como a las finanzas del país.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cn5penxq03yo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-14T17:26:16.000Z",
-      "teaser": "Lo clave en 20 segundos: El gobierno de India aconseja no comprar oro para estabilizar la economía.",
+      "teaser": "Lo clave en 20 segundos: India pide a sus ciudadanos no comprar oro para frenar la importación excesiva.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/a01f/live/dd0ffe30-4e02-11f1-b55d-0f258dce1735.jpg",
       "description": "Es una medida difícil de aceptar para el segundo mercado de oro más grande del mundo, tanto en joyería como en inversión.",
       "featured": false
@@ -459,11 +511,11 @@
       "slug": "3-lugares-simbolicos-que-el-gobierno-de-xi-jinping-ha-escogido-para-sorprender-a-trump-en-su-visita-a-china",
       "title": "3 lugares simbólicos que el gobierno de Xi Jinping ha escogido para sorprender a Trump en su visita a China",
       "category": "Mundo",
-      "bullets_20s": "• El presidente Xi Jinping muestra la diversidad cultural y política de China a su invitado.\n• Los lugares elegidos reflejan la herencia histórica y el avance tecnológico del país.\n• La visita busca fortalecer los lazos entre Estados Unidos y China en épocas complejas.\n• Las sorpresas incluyen sitios históricos junto a innovaciones modernas en China.\n• Xi Jinping pretende impresionar con monumentos que simbolizan la resiliencia de la nación.",
+      "bullets_20s": "• La visita de Trump a China incluye tres lugares emblemáticos con rica historia cultural.\n• Xi Jinping busca mostrar la grandeza y tradición de China a su visitante estadounidense.\n• Cada lugar tiene un significado profundo que representa la identidad china ante el mundo.\n• Se espera que la visita genere un impacto en las relaciones bilaterales entre ambos países.\n• Los lugares seleccionados son reconocidos a nivel mundial por su relevancia histórica.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cn4p7n7d1lgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-14T15:38:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Xi Jinping sorprende a Trump con lugares simbólicos en su visita a China.",
+      "teaser": "Lo clave en 20 segundos: Xi Jinping sorprende a Trump con sitios icónicos de la historia china.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/fd76/live/4d701590-4f82-11f1-ab27-43506702cb42.jpg",
       "description": "El presidente Xi está llevando a su homólogo estadounidense a algunos lugares significativos que exhiben la vasta historia de China.",
       "featured": false
@@ -758,11 +810,11 @@
       "slug": "la-carrera-por-encontrar-los-elementos-119-y-120-y-por-que-la-tabla-periodica-puede-no-completarse-nunca",
       "title": "La carrera por encontrar los elementos 119 y 120 y por qué la tabla periódica puede no completarse nunca",
       "category": "Ciencia",
-      "bullets_20s": "• La tabla periódica es fundamental para entender la química y la materia.\n• La búsqueda de nuevos elementos implica grandes inversiones en investigación.\n• Elementos como el 119 y 120 podrían tener propiedades desconocidas para la ciencia.\n• Investigadores enfrentan desafíos técnicos y teóricos en la creación de nuevos elementos.\n• El estudio de elementos pesados ayuda a comprender la estructura del universo.\n• La falta de nuevos descubrimientos plantea preguntas sobre los límites de la química.",
+      "bullets_20s": "• La búsqueda de nuevos elementos en la tabla periódica es un desafío científico persistente.\n• Los elementos 119 y 120 han sido objeto de estudios intensivos en laboratorios alrededor del mundo.\n• La creación de nuevos elementos requiere aceleradores de partículas y condiciones extremas.\n• Descubrir nuevos elementos podría revolucionar nuestra comprensión de la química y la física.\n• Investigaciones sugieren que la tabla periódica podría no completarse debido a limitaciones técnicas.\n• Las propiedades de los elementos superpesados son difíciles de predecir y estudiar a nivel práctico.\n• Las colaboraciones internacionales son cruciales para avanzar en la búsqueda de nuevos elementos.\n• La teoría detrás de los elementos superpesados es aún un campo de estudio abierto y fascinante.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g72z5e5x1o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-14T10:46:07.000Z",
-      "teaser": "Lo clave en 20 segundos: La búsqueda de nuevos elementos y los desafíos de completar la tabla periódica.",
+      "teaser": "Lo clave en 20 segundos: La búsqueda de nuevos elementos en la tabla periódica enfrenta grandes desafíos científicos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/a683/live/24301cc0-0671-11f1-a360-89dc08e51674.jpg",
       "description": "Desde hace una década que no se agregan nuevos elementos a la tabla periódica. ¿Qué haría falta para descubrir uno nuevo?",
       "featured": false
@@ -771,11 +823,11 @@
       "slug": "3-propiedades-que-hacen-de-las-sardinas-un-superalimento-barato-ideal-para-tu-salud",
       "title": "3 propiedades que hacen de las sardinas un superalimento barato ideal para tu salud",
       "category": "Ciencia",
-      "bullets_20s": "• Las sardinas son ricas en omega-3, que son esenciales para la salud cardiovascular y cerebral.\n• Son una fuente excelente de proteínas, que son cruciales para la reparación del tejido muscular.\n• Contienen importantes vitaminas y minerales, como la vitamina D y el calcio, beneficiosos para los huesos.\n• Su bajo costo las convierte en un superalimento accesible para una alimentación equilibrada.\n• Incluir sardinas en la dieta contribuye a una mejor salud general y longevidad.",
+      "bullets_20s": "• Las sardinas son ricas en ácidos grasos omega-3, esenciales para el cuerpo humano.\n• Este pescado enlatado es una fuente económica de proteínas y nutrientes variados.\n• Incluir sardinas en la dieta puede ayudar a mejorar la salud del corazón significativamente.\n• Su consumo está relacionado con una mayor longevidad y bienestar general en los adultos.\n• Las propiedades antiinflamatorias de las sardinas benefician a varios sistemas del cuerpo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/crkpxj15v3ko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-14T09:35:11.000Z",
-      "teaser": "Lo clave en 20 segundos: Las sardinas son un superalimento barato lleno de beneficios para la salud.",
+      "teaser": "Lo clave en 20 segundos: Las sardinas son un superalimento saludable y económico.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/05cc/live/0f2269b0-4b26-11f1-8d37-918e27988f86.jpg",
       "description": "Sumar unas cuantas latas de sardinas a tu dieta semanal podría tener inmensos beneficios para tu salud y longevidad.",
       "featured": false
@@ -17590,5 +17642,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-14T22:45:19.807Z"
+  "generated_at": "2026-05-14T23:45:19.616Z"
 }
