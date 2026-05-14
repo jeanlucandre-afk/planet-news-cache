@@ -1,14 +1,79 @@
 {
   "news": [
     {
+      "slug": "el-pais-de-las-dos-burbujas",
+      "title": "El país de las dos burbujas",
+      "category": "Costa Rica",
+      "bullets_20s": "• El descontento social en Costa Rica ha crecido debido a problemas políticos persistentes.\n• A pesar del enojo, también se pueden identificar logros importantes en el país.\n• Hay que reconocer tanto las fallas como los éxitos en la política nacional.\n• Los ciudadanos deben cultivar una visión equilibrada sobre la gestión pública.\n• La política no solo produce problemas, sino también soluciones valiosas para la sociedad.",
+      "source_name": "Leonardo Garnier",
+      "source_url": "https://www.nacion.com/opinion/columnistas/el-pais-de-las-dos-burbujas/LHGDG6AU4NF2ZPL5EKAQWWQ75E/story/",
+      "publish_date": "2026-05-14T13:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Un análisis de las luces y sombras en la política costarricense.",
+      "image_url": "https://www.nacion.com/resizer/v2/UBBKMKWUOVFVDKB2V4GMOA7GHM.png?smart=true&auth=a3c127db0fde3077e3fd437f3e2c010f7377b2f9e0b82b23d9ea32aff71dc350&width=1440",
+      "description": "Sin duda, hay cosas que, desde hace rato, han estado mal en Costa Rica y que justifican el enojo con la política. Pero lo cierto es que muchas cosas han estado bastante bien, y eso también ha sido fruto de esa tan mal vista política. Ver lo malo no nos prohíbe ver lo bueno.",
+      "featured": false
+    },
+    {
+      "slug": "doble-homicidio-en-sardinal-victimas-recibieron-disparos-en-la-cabeza-y-un-brazo",
+      "title": "Doble homicidio en Sardinal: víctimas recibieron disparos en la cabeza y un brazo",
+      "category": "Costa Rica",
+      "bullets_20s": "• La violencia sigue afectando a comunidades en Costa Rica como Sardinal en Guanacaste.\n• Las autoridades están investigando el ataque y buscando pistas sobre los agresores.\n• El suceso ocurrió la noche del miércoles, generando tensión en la zona.\n• Este tipo de eventos son preocupantes dentro del contexto de seguridad del país.\n• Sardinal es una comunidad que hasta ahora había mantenido índices bajos de criminalidad.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/sucesos/crimenes/doble-homicidio-en-sardinal-victimas-recibieron/Y3KAJX7SURHJLPFMBKT6QGFSRA/story/",
+      "publish_date": "2026-05-14T12:52:00.000Z",
+      "teaser": "Lo clave en 20 segundos: un ataque en Sardinal dejó dos víctimas fatales en un contexto de creciente violencia.",
+      "image_url": "https://www.nacion.com/resizer/v2/XR3KVTG55JBG5O2Y6KE54W7DMA.jpeg?auth=bba0f15f10713328af158208377322dfe3d1b5c9ea0699a19fdea4afca4ae076&smart=true&width=564&height=410",
+      "description": "Un ataque a balazos dejó a dos personas sin vida la noche de este miércoles 13 de mayo en Sardinal de Carrillo, Guanacaste.",
+      "featured": false
+    },
+    {
+      "slug": "una-nina-de-12-anos-muere-en-incendio-de-vivienda-en-los-chiles",
+      "title": "Una niña de 12 años muere en incendio de vivienda en Los Chiles",
+      "category": "Costa Rica",
+      "bullets_20s": "• Una niña de 12 años perdió la vida tras un incendio en su vivienda en Los Chiles.\n• El siniestro dejó a otras cuatro personas con quemaduras que requirieron atención médica.\n• Las autoridades están investigando las causas del incendio en la comunidad.\n• Los vecinos se mostraron sorprendidos y consternados ante la tragedia ocurrida.\n• Este incidente resalta la importancia de la prevención de incendios en el hogar.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/sucesos/una-nina-de-12-anos-muere-en-incendio-de-vivienda/U2DLL5EKINAJJNP3CETDR3FTN4/story/",
+      "publish_date": "2026-05-14T12:34:28.000Z",
+      "teaser": "Lo clave en 20 segundos: Tragedia en Los Chiles, una niña muere en incendio doméstico.",
+      "image_url": "https://www.nacion.com/resizer/v2/75AC6JVCPFAHZOEUCBQQ56APLA.jpeg?auth=ff75e1a8c49f6474ba7eec2f5dd57eb5f53163cb0cadf994d89f82ddc4765819&smart=true&width=1600&height=1142",
+      "description": "Otras cuatro personas fueron trasladadas al hospital de Los Chiles con quemaduras.",
+      "featured": false
+    },
+    {
+      "slug": "cortes-de-luz-del-ice-afectaran-cartago-guanacaste-alajuela-puntarenas-y-perez-zeledon-este-jueves",
+      "title": "Cortes de luz del ICE afectarán Cartago, Guanacaste, Alajuela, Puntarenas y Pérez Zeledón este jueves",
+      "category": "Costa Rica",
+      "bullets_20s": "• El ICE ha programado cortes de luz en varias regiones del país este jueves.\n• Las interrupciones eléctricas afectarán a comunidades en Cartago, Guanacaste y más.\n• Se recomienda que los usuarios verifiquen si su zona estará afectada por los cortes.\n• Los trabajos son necesarios para el mantenimiento de la infraestructura eléctrica.\n• Los usuarios deben estar atentos a las horas específicas de los cortes programados.\n• Las afectaciones podrían generar inconvenientes en la rutina diaria de los ciudadanos.\n• Se espera que los cortes sean breves y se realicen en horarios específicos.\n• El ICE comunicará cualquier actualización sobre las interrupciones a los usuarios.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-del-ice-afectaran-cartago-guanacaste/55NHM4FS2RAODJITH7QBQOAVG4/story/",
+      "publish_date": "2026-05-14T12:31:00.000Z",
+      "teaser": "Lo clave en 20 segundos: cortes de luz programados por el ICE en varias regiones del país este jueves.",
+      "image_url": "https://www.nacion.com/resizer/v2/PUZMMV264RFKLLTDU376GOUIHI.jpg?auth=8acdc05ee05f22b28cb7cafe78833657d618c84e58cc6befeb734d9cfae68d93&smart=true&width=2400&height=1350",
+      "description": "Miles de usuarios tendrán interrupciones eléctricas este jueves en distintas comunidades del país. Revise aquí si su zona figura entre las afectadas por los trabajos del ICE.",
+      "featured": false
+    },
+    {
+      "slug": "indignacion-selectiva",
+      "title": "Indignación selectiva",
+      "category": "Mundo",
+      "bullets_20s": "• La indignación selectiva resalta diferencias en cómo se condenan diversas situaciones alrededor del mundo.\n• Se observa un énfasis en ciertos conflictos, generando reacciones desiguales entre diferentes naciones.\n• Las opiniones públicas pueden variar drásticamente dependiendo del contexto político y social.\n• Se hace necesario analizar la forma en que media la información en situaciones de conflicto.\n• La percepción mediática juega un rol fundamental en la configuración de la indignación colectiva.",
+      "source_name": "Abraham Stern F.",
+      "source_url": "https://www.nacion.com/opinion/foros/indignacion-selectiva/HKKOQOPHMBBFBJ6Y5OXVTZPTTQ/story/",
+      "publish_date": "2026-05-14T12:30:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La indignación global varía según el contexto y los actores involucrados.",
+      "image_url": "https://www.nacion.com/resizer/v2/JZJQ5BDJ6ZEL5KGKIRUQI4PBRA.jpg?auth=fdbb346ce876d9687d6135f9e5b27ba2361a4b4e2c1873d3b8be8e4a6695d2b1&smart=true&width=6000&height=4000",
+      "description": "La indignación mundial pareciera operar bajo reglas distintas dependiendo de quién ocupa el banquillo de los acusados. Por ejemplo, cada 'error' de Israel produce condenas globales inmediatas, protestas universitarias y grandes titulares.",
+      "featured": false
+    },
+    {
       "slug": "cuanto-ha-aumentado-el-trafico-en-el-canal-de-panama-por-la-crisis-en-el-estrecho-de-ormuz-y-el-dinero-que-esta-ganando-",
       "title": "Cuánto ha aumentado el tráfico en el Canal de Panamá por la crisis en el estrecho de Ormuz (y el dinero que está ganando la nación centroamericana con ello)",
       "category": "Mundo",
-      "bullets_20s": "• El Canal de Panamá ha visto un incremento en el tráfico marítimo por la crisis en Irán.\n• Navegantes buscan rutas alternativas debido a la inestabilidad en el estrecho de Ormuz.\n• La situación ha aumentado los ingresos de Panamá significativamente en el comercio internacional.\n• El comercio global depende de vías seguras para el transporte de mercancías y energía.\n• Expertos analizan el impacto económico del Canal de Panamá en la región.",
+      "bullets_20s": "• El Canal de Panamá ha visto un aumento significativo en el tráfico marítimo en tiempos recientes.\n• La crisis en el estrecho de Ormuz ha generado cambios en las rutas comerciales globales.\n• Este incremento en el tráfico marítimo se traduce en mayores ingresos para Panamá.\n• Las empresas están utilizando esta ruta para satisfacer la creciente demanda energética asiática.\n• Las tensiones en Oriente Medio han impactado el comercio mundial de manera notable.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx21384n4dyo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-14T12:20:29.000Z",
-      "teaser": "Lo clave en 20 segundos: El Canal de Panamá se ha beneficiado del aumento de tráfico debido a la crisis en Irán.",
+      "teaser": "Lo clave en 20 segundos: El Canal de Panamá se beneficia del aumento del tráfico por la crisis en Ormuz.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d9d3/live/8cf16e30-4ef6-11f1-85df-7fe19d922bf1.jpg",
       "description": "Con la guerra en Irán, la vía marítima se ha erigido como una ruta alternativa para el comercio global y para satisfacer la demanda energética asiática.",
       "featured": false
@@ -95,11 +160,11 @@
       "slug": "la-carrera-por-encontrar-los-elementos-119-y-120-y-por-que-la-tabla-periodica-puede-no-completarse-nunca",
       "title": "La carrera por encontrar los elementos 119 y 120 y por qué la tabla periódica puede no completarse nunca",
       "category": "Ciencia",
-      "bullets_20s": "• La búsqueda de nuevos elementos en la tabla periódica ha sido un desafío constante para los científicos.\n• Investigaciones recientes sugieren posibles métodos para identificar elementos aún no descubiertos.\n• Las condiciones extremas necesarias para crear nuevos elementos presentan importantes dificultades técnicas.\n• El descubrimiento de elementos pesados podría cambiar nuestra comprensión de la química y la física.\n• El estancamiento en la tabla periódica invita a reflexionar sobre sus límites y futuras exploraciones.",
+      "bullets_20s": "• La tabla periódica ha permanecido sin nuevos elementos desde hace diez años, creando incertidumbre científica.\n• Los elementos 119 y 120 son objetivo de investigación, pero su descubrimiento es extremadamente complicado.\n• Los científicos debaten sobre los límites de la tabla periódica y la posibilidad de nuevos elementos.\n• La falta de avances en la tabla periódica genera preguntas sobre la estabilidad de elementos pesados.\n• Descubrir nuevos elementos requiere tecnología avanzada y condiciones únicas en laboratorios especializados.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g72z5e5x1o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-14T10:46:07.000Z",
-      "teaser": "Lo clave en 20 segundos: La búsqueda de nuevos elementos de la tabla periódica sigue siendo un gran reto para la ciencia.",
+      "teaser": "Lo clave en 20 segundos: La búsqueda de nuevos elementos en la tabla periódica enfrenta grandes retos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/a683/live/24301cc0-0671-11f1-a360-89dc08e51674.jpg",
       "description": "Desde hace una década que no se agregan nuevos elementos a la tabla periódica. ¿Qué haría falta para descubrir uno nuevo?",
       "featured": false
@@ -107,12 +172,12 @@
     {
       "slug": "3-propiedades-que-hacen-de-las-sardinas-un-superalimento-barato-ideal-para-tu-salud",
       "title": "3 propiedades que hacen de las sardinas un superalimento barato ideal para tu salud",
-      "category": "Mundo",
-      "bullets_20s": "• Las sardinas son ricas en ácidos grasos omega-3, beneficiosos para el corazón y el cerebro.\n• Este pescado aporta una buena cantidad de proteínas, esenciales para el mantenimiento muscular.\n• Las sardinas son una excelente fuente de calcio, importante para la salud ósea y dental.\n• Son económicas y accesibles, lo que las convierte en una opción ideal para las familias.\n• Contienen antioxidantes que ayudan a combatir la inflamación y protegen el organismo.",
+      "category": "Ciencia",
+      "bullets_20s": "• Las sardinas son ricas en omega-3, que benefician la salud cardiovascular de manera notable.\n• Este pescado también aporta una gran cantidad de proteínas, ideales para mantener la energía.\n• Las sardinas contienen vitaminas y minerales esenciales que fortalecen el sistema inmunológico.\n• Incluir sardinas en la dieta puede ayudar a mantener la salud ósea por su contenido de calcio.\n• Son un alimento accesible y económico, perfecto para mejorar la alimentación sin gastar mucho.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/crkpxj15v3ko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-14T09:35:11.000Z",
-      "teaser": "Lo clave en 20 segundos: Las sardinas son un superalimento económico y rico en nutrientes esenciales.",
+      "teaser": "Lo clave en 20 segundos: las sardinas son un superalimento accesible y muy beneficioso para la salud.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/05cc/live/0f2269b0-4b26-11f1-8d37-918e27988f86.jpg",
       "description": "Sumar unas cuantas latas de sardinas a tu dieta semanal podría tener inmensos beneficios para tu salud y longevidad.",
       "featured": false
@@ -407,11 +472,11 @@
       "slug": "resultados-el-impacto-del-agrupamiento-en-la-innovacion-y-la-competitividad-del-cluster-de-dispositivos-medicos-de-costa",
       "title": "Resultados: El impacto del agrupamiento en la innovación y la competitividad del clúster de dispositivos médicos de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El 2 de junio se presentarán los resultados de la investigación sobre dispositivos médicos.\n• El evento se llevará a cabo en el recinto del TEC en Zapote a las 6 p.m.\n• La investigación fue desarrollada por la Escuela de Administración de Empresas del TEC.\n• Expositores incluyen destacados académicos del Tecnológico de Costa Rica.\n• La entrada es gratuita, pero los cupos son limitados, confirme su asistencia.",
+      "bullets_20s": "• El 2 de junio se presentarán los resultados del proyecto de investigación sobre dispositivos médicos.\n• Este proyecto fue desarrollado por la Escuela de Administración de Empresas del TEC en Costa Rica.\n• El evento tendrá lugar en el recinto del TEC en Zapote a las 6 p.m.\n• La entrada es gratuita, pero los espacios son limitados, por lo que se recomienda registrarse.\n• Expositores incluirán a expertos en administración e ingeniería del TEC.\n• Se abordará el impacto del agrupamiento en la innovación en la industria médica costarricense.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/resultados-impacto-agrupamiento-innovacion-competitividad-cluster-dispositivos-medicos-costa-rica",
       "publish_date": "2026-05-13T21:20:06.000Z",
-      "teaser": "Lo clave en 20 segundos: Presentación sobre innovación en dispositivos médicos en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Presentación sobre innovación y competitividad del clúster médico en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dispositivos-medicos.png",
       "description": "Resultados: El impacto del agrupamiento en la innovación y la competitividad del clúster de dispositivos médicos de Costa Rica",
       "featured": false
@@ -654,13 +719,13 @@
       "slug": "refugiosconstructos-visuales-exposicion-del-artista-nacional-gustavo-herrera-urena",
       "title": "REFUGIOS_constructos visuales: Exposición del artista nacional Gustavo Herrera Ureña",
       "category": "Costa Rica",
-      "bullets_20s": "• La exposición incluye 25 obras en pintura, collage y textil del artista Gustavo Herrera Ureña.\n• Se invita a la comunidad al Centro de las Artes para apreciar el arte contemporáneo costarricense.\n• La muestra reflexiona sobre la construcción de espacios de resguardo y contemplación en el ser humano.\n• Herrera Ureña es un artista autodidacta con formación en Arquitectura en la Universidad de Costa Rica.\n• La exposición forma parte de las actividades culturales del 55 aniversario del Tecnológico de Costa Rica.",
+      "bullets_20s": "• La exposición reúne 25 obras que combinan pintura, collage y textil, explorando la abstracción contemporánea.\n• Gustavo Herrera Ureña es un artista visual autodidacta, con formación en Arquitectura en la UCR.\n• Las obras buscan promover espacios de resguardo e imaginación a través de la experiencia emocional.\n• La muestra es parte de las actividades conmemorativas del 55 aniversario del Tecnológico de Costa Rica.\n• La comunidad está invitada a visitar la exposición hasta finales de junio en el Centro de las Artes.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/refugiosconstructos-visuales-exposicion-artista-nacional-gustavo-herrera-urena",
       "publish_date": "2026-05-13T17:14:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Disfruta de la exposición REFUGIOS en el Tecnológico de Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La exposición de Gustavo Herrera Ureña invita a reflexionar sobre el arte y la contemplación.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/f8e73cac-e564-4752-bdb9-a08f14af03bf.png",
-      "description": "REFUGIOS_constructos visuales: Exposición del artista nacional Gustavo Herrera Ureña",
+      "description": "La Escuela de Cultura y Deporte del Tecnológico de Costa Rica presenta una exposición de Gustavo Herrera Ureña.",
       "featured": false
     },
     {
@@ -797,11 +862,11 @@
       "slug": "de-cot-de-oreamuno-a-atlanta-estados-unidos-daniel-fernandez-lleva-al-tec-al-acs-leadership-institute-2026",
       "title": "De Cot de Oreamuno a Atlanta, Estados Unidos: Daniel Fernández lleva al TEC al ACS Leadership Institute 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Daniel Fernández, estudiante del TEC, participó en el ACS Leadership Institute en Atlanta, USA.\n• Fue seleccionado entre los mejores líderes estudiantiles de su área a nivel mundial este año.\n• El programa fomenta la conexión entre estudiantes y líderes científicos de diversos países.\n• Fernández destaca la importancia de la empatía en el liderazgo durante el evento.\n• El evento reunió a jóvenes de varios países, mostrando la diversidad y el intercambio cultural.",
+      "bullets_20s": "• Daniel Fernández, estudiante del TEC, representó a Costa Rica en un importante evento internacional en Estados Unidos.\n• La experiencia le permitió interactuar con líderes de la ciencia y la industria de varios países.\n• El ACS Leadership Institute fomenta el desarrollo de habilidades de liderazgo en jóvenes científicos.\n• El evento se realizó en Atlanta, un centro comercial clave en el sureste de Estados Unidos.\n• Fernández disfrutó de una inmersión educativa que superó el aprendizaje tradicional de los libros.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/cot-oreamuno-atlanta-estados-unidos-daniel-fernandez-lleva-tec-acs-leadership-institute-2026",
       "publish_date": "2026-05-13T14:25:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Daniel Fernández representa al TEC en el Instituto de Liderazgo ACS en Atlanta.",
+      "teaser": "Lo clave en 20 segundos: Daniel Fernández del TEC brilla en evento internacional de liderazgo científico.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/rigoberto-y-daniel-leadership-institute.jpg",
       "description": "De Cot de Oreamuno a Atlanta, Estados Unidos: Daniel Fernández lleva al TEC al ACS Leadership Institute 2026",
       "featured": false
@@ -908,19 +973,6 @@
       "teaser": "Lo clave en 20 segundos: Disfruta de Shakespeare en San José con 'Mucho ruido y pocas nueces' este mes.",
       "image_url": "https://www.nacion.com/resizer/v2/4PAIB32A6BGYNKQ653MVAREAYE.jpg?auth=9729862a12c6bfcc93920ea989c35ad2545982a54322dfe4f058e718a912ffaa&smart=true&width=3000&height=2000",
       "description": "Tras gira por Costa Rica, el TNT Theatre Britain presenta dos funciones en el Auditorio Nacional, en el Museo de los Niños. Conozca la obra.",
-      "featured": false
-    },
-    {
-      "slug": "cortes-de-luz-del-ice-afectaran-cartago-guanacaste-alajuela-puntarenas-y-perez-zeledon-este-jueves",
-      "title": "Cortes de luz del ICE afectarán Cartago, Guanacaste, Alajuela, Puntarenas y Pérez Zeledón este jueves",
-      "category": "Costa Rica",
-      "bullets_20s": "• El Instituto Costarricense de Electricidad (ICE) realizará cortes de luz programados en varias regiones.\n• Las interrupciones eléctricas estarán concentradas en Cartago, Guanacaste, Alajuela y Puntarenas.\n• Usuarios en Pérez Zeledón también experimentarán cortes temporales en su suministro eléctrico.\n• Se recomienda a los ciudadanos revisar los horarios y zonas afectadas antes del jueves.\n• Los cortes se deben a trabajos de mantenimiento y mejoras en la infraestructura eléctrica.",
-      "source_name": "Silvia Ureña Corrales",
-      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-del-ice-afectaran-cartago-guanacaste/55NHM4FS2RAODJITH7QBQOAVG4/story/",
-      "publish_date": "2026-05-13T13:04:00.000Z",
-      "teaser": "Lo clave en 20 segundos: cortes de luz afectarán cinco regiones este jueves para trabajos del ICE.",
-      "image_url": "https://www.nacion.com/resizer/v2/PUZMMV264RFKLLTDU376GOUIHI.jpg?auth=8acdc05ee05f22b28cb7cafe78833657d618c84e58cc6befeb734d9cfae68d93&smart=true&width=2400&height=1350",
-      "description": "Miles de usuarios tendrán interrupciones eléctricas este jueves en distintas comunidades del país. Revise aquí si su zona figura entre las afectadas por los trabajos del ICE.",
       "featured": false
     },
     {
@@ -1525,11 +1577,11 @@
       "slug": "tec-alcanza-nivel-avanzado-en-capacidad-de-gestion-financiera-segun-la-contraloria",
       "title": "TEC alcanza nivel avanzado en capacidad de gestión financiera, según la Contraloría",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC fue la única universidad pública que alcanzó la categoría 'Avanzado' en la evaluación.\n• El Índice de Capacidad de Gestión Financiera mide el desempeño en administración de recursos.\n• El TEC ha mostrado una trayectoria de mejora continua en su gestión financiera.\n• El estudio analizó 302 instituciones públicas durante el 2024, enfocándose en varios aspectos.\n• La Contraloría destaca que los resultados reflejan el compromiso del TEC con la transparencia.",
+      "bullets_20s": "• El TEC es la única universidad pública que alcanzó la categoría 'Avanzado' en evaluación financiera.\n• Pasó de un nivel Intermedio en 2022 a Avanzado en 2025, mostrando mejora continua.\n• La evaluación se centró en procesos financieros como presupuesto y rendición de cuentas.\n• El TEC busca fortalecer la transparencia y optimizar la planificación financiera futura.\n• Solo 25 instituciones alcanzaron el nivel 'Avanzado' entre las 302 evaluadas por Contraloría.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-alcanza-nivel-avanzado-capacidad-gestion-financiera-segun-contraloria",
       "publish_date": "2026-05-12T16:58:21.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC logra una gestión financiera avanzada, destacándose entre 302 instituciones evaluadas.",
+      "teaser": "Lo clave en 20 segundos: El TEC logra reconocimiento por su gestión financiera avanzada en evaluación oficial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/indice-contraloria.png",
       "description": "TEC alcanza nivel avanzado en capacidad de gestión financiera, según la Contraloría",
       "featured": false
@@ -16953,5 +17005,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-14T12:45:19.372Z"
+  "generated_at": "2026-05-14T13:45:20.054Z"
 }
