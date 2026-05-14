@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "temblor-de-poca-profundidad-se-registra-la-noche-de-este-miercoles-cerca-de-garabito",
+      "title": "Temblor de poca profundidad se registra la noche de este miércoles cerca de Garabito",
+      "category": "Costa Rica",
+      "bullets_20s": "• Se reporta un temblor de baja magnitud cerca de Garabito, en la provincia de Puntarenas.\n• El evento sísmico ocurrió la noche del miércoles 13 de mayo a las 10:30 PM.\n• Las autoridades locales activaron protocolos de monitoreo tras el temblor registrado.\n• Hasta el momento, no se han reportado daños materiales ni heridos por el incidente.\n• Los habitantes de la zona sintieron una ligera sacudida en sus hogares durante el temblor.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/temblor-de-poca-profundidad-se-registra-la-noche/4IOR6UNYAVCPVN3Q6CM43MO5LM/story/",
+      "publish_date": "2026-05-14T03:58:58.000Z",
+      "teaser": "Lo clave en 20 segundos: Temblor leve en Garabito causa alarma sin reportes de daños hasta el momento.",
+      "image_url": "https://www.nacion.com/resizer/v2/ORPZLEQOFNEVLK23EWPSTRLN4A.jpeg?auth=3a54a59526f4a86db569e353cfb35d678eaad3e143c20bd898f124caaca83cf0&smart=true&width=1170&height=1105",
+      "description": "Un temblor se registró la noche de este miércoles 13 de mayo al sureste de Garabito, en Puntarenas.",
+      "featured": false
+    },
+    {
+      "slug": "no-me-disparen-soy-musulman-el-rebrote-de-la-pirateria-maritima-en-el-contexto-de-la-guerra-en-iran",
+      "title": "No me disparen, soy musulmán: el rebrote de la piratería marítima en el contexto de la guerra en Irán",
+      "category": "Mundo",
+      "bullets_20s": "• El rebrote de la piratería marítima afecta el comercio y la navegación en regiones clave.\n• La guerra en Irán genera tensiones que impactan directamente en la seguridad marítima.\n• Expertos advierten sobre la necesidad de una mayor vigilancia en las aguas internacionales.\n• La falta de estabilidad en regiones conflictivas empeora la situación de la piratería.\n• Los actores no estatales aprovechan la confusión para llevar a cabo ataques en el mar.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c2e2nzy8lkvo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-14T03:55:43.000Z",
+      "teaser": "Lo clave en 20 segundos: el resurgimiento de la piratería marítima relacionada con conflictos en Irán.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/6c4c/live/eddba6c0-4d25-11f1-b55d-0f258dce1735.jpg",
+      "description": "La piratería frente a las costas de Somalia ha resurgido, a medida que la guerra en Irán aviva la inestabilidad en la región.",
+      "featured": false
+    },
+    {
       "slug": "las-10-peliculas-de-1926-que-transformaron-el-cine-para-siempre",
       "title": "Las 10 películas de 1926 que transformaron el cine para siempre",
       "category": "Mundo",
@@ -158,13 +184,13 @@
     },
     {
       "slug": "condenan-en-eeuu-a-la-mexicana-ofelia-hernandez-salas-dona-lupe-por-encabezar-una-prolifica-red-de-trafico-de-migrantes",
-      "title": "Condenan en EE.UU. a la mexicana Ofelia Hernández Salas, \"Doña Lupe\", por encabezar una \"prolífica\" red de tráfico de migrantes",
+      "title": "Condenan en EE.UU. a la mexicana Ofelia Hernández Salas, 'Doña Lupe', por encabezar una 'prolífica' red de tráfico de migrantes",
       "category": "Mundo",
-      "bullets_20s": "• Una mujer de 64 años fue condenada en EE.UU. por tráfico de migrantes. Los hechos son alarmantes.\n• La red liderada por Ofelia Hernández Salas operaba en múltiples estados realizando actividades ilegales.\n• Las autoridades han intensificado la lucha contra el tráfico de personas en los últimos años.\n• Este caso refleja la creciente preocupación por el tráfico de migrantes en América del Norte.\n• Las políticas migratorias en EE.UU. están siendo debatidas a raíz de este tipo de incidentes.",
+      "bullets_20s": "• Ofelia Hernández Salas, conocida como 'Doña Lupe', fue convicta por tráfico de migrantes.\n• La sentencia fue impuesta en un tribunal de EE.UU. tras una larga investigación.\n• La red de tráfico que lideraba era considerada una de las más prolíficas en el país.\n• Los fiscales argumentaron que la mujer facilitaba el paso de migrantes indocumentados.\n• El caso resalta el grave problema del tráfico de personas en la región.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cn9p2y19r5yo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-13T22:19:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Condenan a mujer por encabezar red de tráfico de migrantes en EE.UU.",
+      "teaser": "Lo clave en 20 segundos: Condena a 'Doña Lupe' por dirigir red de tráfico migrante en EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/a50d/live/ae39ea00-4f13-11f1-ac78-2112837ce2aa.png",
       "description": "Un tribunal de EE.UU. sentenció este miércoles a la mujer de 64 años a 11 años de prisión.",
       "featured": false
@@ -225,11 +251,11 @@
       "slug": "la-flota-mosquito-de-iran-como-enjambres-de-pequenas-lanchas-desafian-a-eeuu-en-el-estrecho-de-ormuz",
       "title": "La 'flota mosquito' de Irán: cómo enjambres de pequeñas lanchas desafían a EE.UU. en el estrecho de Ormuz",
       "category": "Mundo",
-      "bullets_20s": "• La flota mosquito representa una estrategia innovadora de guerra asimétrica en el agua.\n• Estas lanchas rápidas son difíciles de detectar y pueden realizar ataques coordinados.\n• Irán busca contrarrestar la supremacía naval estadounidense con tácticas no convencionales.\n• Los expertos advierten sobre el potencial conflicto en el estrecho de Ormuz.\n• La estrategia de Irán podría alterar el equilibrio de poder marítimo en la región.",
+      "bullets_20s": "• La flota mosquito representa una nueva estrategia militar en la región del estrecho de Ormuz.\n• Las pequeñas lanchas son ágiles y difíciles de detectar por la tecnología convencional.\n• Expertos advierten que estos enjambres pueden alterar el equilibrio de poder marítimo.\n• Irán busca contrarrestar la supremacía naval de Estados Unidos con estas tácticas innovadoras.\n• El estrecho de Ormuz es un punto crítico para el transporte de petróleo mundial.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c1m2pnnx9mzo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-13T21:38:33.000Z",
-      "teaser": "Lo clave en 20 segundos: una nueva táctica naval de Irán desafía a EE.UU. en aguas estratégicas.",
+      "teaser": "Lo clave en 20 segundos: La flota mosquito de Irán desafía a Estados Unidos con pequeñas embarcaciones.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/34dc/live/8586db70-4ede-11f1-88a2-2b60a3feece0.jpg",
       "description": "Estas embarcaciones forman parte de una doctrina de guerra diseñada para contrarrestar la fuerza de potencias navales superiores como Estados Unidos, según dicen los expertos.",
       "featured": false
@@ -238,11 +264,11 @@
       "slug": "resultados-el-impacto-del-agrupamiento-en-la-innovacion-y-la-competitividad-del-cluster-de-dispositivos-medicos-de-costa",
       "title": "Resultados: El impacto del agrupamiento en la innovación y la competitividad del clúster de dispositivos médicos de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El 2 de junio se presentarán resultados de un estudio sobre dispositivos médicos.\n• El evento se llevará a cabo en el TEC, recinto Zapote a las 6 p.m.\n• Investigación se centra en competitividad e innovación del clúster médico.\n• Entrada gratuita, pero la asistencia debe confirmarse antes del 19 de mayo.\n• Participarán expertos destacados en el área de administración e ingeniería.",
+      "bullets_20s": "• El 2 de junio se presentará un estudio sobre el clúster de dispositivos médicos en Costa Rica.\n• El evento se llevará a cabo en el recinto del TEC en Zapote y es gratuito.\n• Los resultados abordan la innovación y competitividad del sector médico en el país.\n• Expositores destacados participarán en la presentación, incluyendo académicos del TEC.\n• La entrada es limitada y se requiere confirmación antes del 19 de mayo.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/resultados-impacto-agrupamiento-innovacion-competitividad-cluster-dispositivos-medicos-costa-rica",
       "publish_date": "2026-05-13T21:20:06.000Z",
-      "teaser": "Lo clave en 20 segundos: Se presentan resultados sobre innovación en el clúster de dispositivos médicos.",
+      "teaser": "Lo clave en 20 segundos: Un estudio sobre la innovación en el clúster médico se presentará el 2 de junio.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dispositivos-medicos.png",
       "description": "Resultados: El impacto del agrupamiento en la innovación y la competitividad del clúster de dispositivos médicos de Costa Rica",
       "featured": false
@@ -485,11 +511,11 @@
       "slug": "refugiosconstructos-visuales-exposicion-del-artista-nacional-gustavo-herrera-urena",
       "title": "REFUGIOS_constructos visuales: Exposición del artista nacional Gustavo Herrera Ureña",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Cultura y Deporte invita a visitar la exposición de Gustavo Herrera Ureña en el TEC.\n• Se presentan 25 obras en pintura, collage y textil, basadas en la imaginación y la contemplación.\n• La muestra destaca la necesidad de crear espacios simbólicos para el resguardo emocional.\n• Gustavo Herrera Ureña es un artista autodidacta con formación en Arquitectura en Costa Rica.\n• La exposición forma parte de las actividades culturales del 55 aniversario del TEC de Costa Rica.",
+      "bullets_20s": "• La exposición presenta 25 obras en pintura, collage y textil del artista costarricense.\n• Herrera Ureña reflexiona sobre la necesidad de construir espacios de imaginación y contemplación.\n• Sus composiciones abstractas llenas de color y formas invitan a la experiencia visual y emocional.\n• Gustavo Herrera Ureña es un artista emergente que se dedica a las artes visuales desde 2021.\n• La muestra forma parte del 55 aniversario del Tecnológico de Costa Rica, destacando el arte nacional.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/refugiosconstructos-visuales-exposicion-artista-nacional-gustavo-herrera-urena",
       "publish_date": "2026-05-13T17:14:28.000Z",
-      "teaser": "Lo clave en 20 segundos: La exposición de Gustavo Herrera Ureña invita a la reflexión visual.",
+      "teaser": "Lo clave en 20 segundos: La exposición de Gustavo Herrera Ureña invita a explorar espacios imaginativos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/f8e73cac-e564-4752-bdb9-a08f14af03bf.png",
       "description": "REFUGIOS_constructos visuales: Exposición del artista nacional Gustavo Herrera Ureña",
       "featured": false
@@ -498,11 +524,11 @@
       "slug": "mi-madre-me-tuvo-secuestrado-durante-6-anos-pero-ahora-estoy-listo-para-volver-a-verla",
       "title": "Mi madre me tuvo secuestrado durante 6 años, pero ahora estoy listo para volver a verla",
       "category": "Mundo",
-      "bullets_20s": "• Un impactante documental revela la historia de Alex Batty y su experiencia de secuestro.\n• Durante seis años, Alex vivió en situaciones extremas y de constante huida.\n• El documental destaca la lucha de Alex por recuperarse emocionalmente de su pasado.\n• Acción, drama y superación son parte fundamental de la narrativa presentada.\n• Alex comparte su expectativa sobre el reencuentro con su madre tras tantos años.",
-      "source_name": "BBC Mundo",
+      "bullets_20s": "• El documental narra la increíble historia de un joven que fue secuestrado por su madre.\n• Alex Batty comparte su experiencia de vivir en la oscuridad y el miedo constante.\n• La historia aborda temas de trauma familiar y la búsqueda de la libertad personal.\n• Se exploran las repercusiones emocionales del secuestro en la vida del protagonista.\n• El documental también destaca la importancia de la salud mental en estas situaciones.",
+      "source_name": "BBC",
       "source_url": "https://www.bbc.com/mundo/articles/c3w2nedv4lxo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-13T16:58:06.000Z",
-      "teaser": "Lo clave en 20 segundos: Un impactante relato sobre un secuestro y la búsqueda de la verdad.",
+      "teaser": "Lo clave en 20 segundos: Un joven cuenta su impactante experiencia de un secuestro por su madre.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/09df/live/858de680-4ec1-11f1-bd52-e755d604ece4.jpg",
       "description": "En un nuevo documental de la BBC, Alex Batty revela los detalles de su secuestro y su vida huyendo.",
       "featured": false
@@ -628,11 +654,11 @@
       "slug": "de-cot-de-oreamuno-a-atlanta-estados-unidos-daniel-fernandez-lleva-al-tec-al-acs-leadership-institute-2026",
       "title": "De Cot de Oreamuno a Atlanta, Estados Unidos: Daniel Fernández lleva al TEC al ACS Leadership Institute 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Daniel Fernández fue seleccionado entre los mejores líderes estudiantiles globales para el ACS Leadership Institute.\n• El evento tuvo lugar en Atlanta, un importante centro comercial y académico de Estados Unidos.\n• Los participantes aprendieron sobre liderazgo, conexión y crecimiento personal en un ambiente inclusivo.\n• Fernández destacó la importancia de la comunidad en el Chapter estudiantil del TEC.\n• Este congreso preparó a los estudiantes para sus futuros académicos y laborales en ciencias.\n• El evento reunió jóvenes líderes de varios países, promoviendo la diversidad y el intercambio cultural.\n• Daniel obtuvo una visión más amplia sobre la ciencia y el rol del liderazgo en su carrera.\n• El Instituto es conocido por facilitar la conexión entre estudiantes y profesionales de la ciencia.\n• Fernández agradeció a sus mentores y compañeros por su apoyo y trabajo en equipo.",
+      "bullets_20s": "• Daniel Fernández, estudiante del TEC, representa a Costa Rica en un notable evento internacional de liderazgo.\n• El ACS Leadership Institute se celebra en Atlanta, involucrando a estudiantes de diversas partes del mundo.\n• Fernández se sumó a líderes estudiantiles de varias naciones en un entorno de aprendizaje único.\n• El evento promueve conexiones significativas entre jóvenes científicos y profesionales del sector.\n• Aprendizaje práctico sobre liderazgo inclusivo y empatía en la educación científica.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/cot-oreamuno-atlanta-estados-unidos-daniel-fernandez-lleva-tec-acs-leadership-institute-2026",
       "publish_date": "2026-05-13T14:25:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Daniel Fernández del TEC participa en el ACS Leadership Institute en Atlanta.",
+      "teaser": "Lo clave en 20 segundos: Daniel Fernández, del TEC, destaca en el ACS Leadership Institute 2026 en Atlanta.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/rigoberto-y-daniel-leadership-institute.jpg",
       "description": "De Cot de Oreamuno a Atlanta, Estados Unidos: Daniel Fernández lleva al TEC al ACS Leadership Institute 2026",
       "featured": false
@@ -1369,11 +1395,11 @@
       "slug": "tec-alcanza-nivel-avanzado-en-capacidad-de-gestion-financiera-segun-la-contraloria",
       "title": "TEC alcanza nivel avanzado en capacidad de gestión financiera, según la Contraloría",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC fue la única universidad pública con categoría avanzada entre las 302 evaluadas.\n• La institución mejoró de nivel intermedio a avanzado en gestión financiera en pocos años.\n• El estudio abarcó el desempeño de las instituciones desde enero a diciembre 2024.\n• La evaluación incluye procesos de presupuesto, contabilidad y rendición de cuentas.\n• El TEC busca seguir avanzando en su gestión financiera hacia un nivel optimizado.",
+      "bullets_20s": "• El TEC fue la única universidad pública en alcanzar la categoría 'Avanzado' en la evaluación de la Contraloría.\n• La universidad mejoró de un nivel Intermedio en 2022 a avanzado en 2025, mostrando progreso significativo.\n• El estudio evaluó la capacidad de gestión financiera entre 302 instituciones del país durante todo 2024.\n• La Contraloría utiliza el Índice de Capacidad de Gestión Financiera para evaluar el desempeño institucional.\n• El reconocimiento motiva al TEC a seguir mejorando en gestión financiera y transparencia en el uso de recursos.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-alcanza-nivel-avanzado-capacidad-gestion-financiera-segun-contraloria",
       "publish_date": "2026-05-12T16:58:21.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC se destaca por su gestión financiera avanzada según la Contraloría.",
+      "teaser": "Lo clave en 20 segundos: El TEC se destaca en gestión financiera, logrando un nivel 'Avanzado' en evaluación reciente.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/indice-contraloria.png",
       "description": "TEC alcanza nivel avanzado en capacidad de gestión financiera, según la Contraloría",
       "featured": false
@@ -16797,5 +16823,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-14T03:45:19.530Z"
+  "generated_at": "2026-05-14T04:45:18.970Z"
 }
