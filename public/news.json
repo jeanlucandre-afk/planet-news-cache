@@ -1,14 +1,66 @@
 {
   "news": [
     {
+      "slug": "trump-asegura-que-no-hablo-de-aranceles-con-el-presidente-de-china",
+      "title": "Trump asegura que no habló de aranceles con el presidente de China",
+      "category": "Mundo",
+      "bullets_20s": "• Trump visitó Pekín para negociar acuerdos en agricultura y tecnología.\n• Se centró en la cooperación en aviación y desarrollo tecnológico.\n• Las relaciones entre EE. UU. y China son cruciales para ambos países.\n• No se discutieron medidas arancelarias en esta visita específica.\n• Ambos países buscan minimizar tensiones comerciales y políticas.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/trump-asegura-que-no-hablo-de-aranceles-con-el/URSL6X5G7JBU3N6TRADEX5NCRU/story/",
+      "publish_date": "2026-05-15T16:14:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump en Pekín para negociaciones sin tocar aranceles.",
+      "image_url": "https://www.nacion.com/resizer/v2/YCHIVE2ATZDO5N3IJ46U63AJCI.jpg?auth=b62fcf4796360e624097fbe650ae8dc0c5b93da24359b44ebfc5bc5f7cf2c270&smart=true&width=5382&height=3588",
+      "description": "Trump viajó a Pekín con el objetivo de cerrar acuerdos en sectores como la agricultura, la aviación y la inteligencia artificial",
+      "featured": false
+    },
+    {
+      "slug": "sabe-cuales-son-los-beneficios-de-este-metodo-para-el-desarrollo-de-bebes-prematuros",
+      "title": "¿Sabe cuáles son los beneficios de este método para el desarrollo de bebés prematuros?",
+      "category": "Ciencia",
+      "bullets_20s": "• El método mencionado puede proporcionar un apoyo emocional crucial para los padres de bebés prematuros.\n• Investigaciones sugieren que este enfoque mejora el desarrollo a largo plazo de los neonatos.\n• Las intervenciones tempranas pueden ofrecer beneficios significativos en el crecimiento saludable del bebé.\n• La técnica contribuye a un entorno más estable para los recién nacidos en unidades de cuidados intensivos.\n• Expertos destacan la importancia de implementar métodos basados en evidencia para los más vulnerables.",
+      "source_name": "Redacción Brandvoice",
+      "source_url": "https://www.nacion.com/brandvoice/sabe-cuales-son-los-beneficios-de-este-metodo-para/J3GFNVD4G5GJHNHXVKPQDPLN3Q/story/",
+      "publish_date": "2026-05-15T16:12:22.000Z",
+      "teaser": "Lo clave en 20 segundos: Los bebés prematuros pueden beneficiarse de un método que reduce la mortalidad neonatal.",
+      "image_url": "https://www.nacion.com/resizer/v2/FPVPC67DUFE4LFLQJKMXZMRWLA.jpg?auth=f1b1d56d631293e238d17b2dc691f538dc132a440041265c51936a02505678b4",
+      "description": "Datos de la Organización Mundial de la Salud (OMS), revelan que esta técnica reduce en 32% la mortalidad neonatal.",
+      "featured": false
+    },
+    {
+      "slug": "la-tragica-muerte-de-5-buceadores-italianos-mientras-exploraban-unas-cuevas-en-maldivas",
+      "title": "La trágica muerte de 5 buceadores italianos mientras exploraban unas cuevas en Maldivas",
+      "category": "Mundo",
+      "bullets_20s": "• Cinco buceadores de nacionalidad italiana fallecieron en un trágico accidente en Maldivas.\n• El incidente ocurrió mientras exploraban cuevas submarinas en la región.\n• Expertos indican que podría tratarse del peor accidente de buceo en el país.\n• Las autoridades locales están investigando las circunstancias del trágico evento.\n• El buceo en cuevas es considerado una actividad de alto riesgo por diversas razones.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cx21n9xgdedo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-15T15:54:13.000Z",
+      "teaser": "Lo clave en 20 segundos: cinco buceadores italianos pierden la vida en Maldivas durante una inmersión.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ec8a/live/e46b9940-503d-11f1-b682-cf91850925ea.jpg",
+      "description": "Se cree que es el peor accidente de buceo registrado en el país.",
+      "featured": false
+    },
+    {
+      "slug": "la-justicia-de-eeuu-prepara-una-acusacion-contra-el-exdirigente-cubano-raul-castro-por-el-derribo-de-dos-avionetas-en-19",
+      "title": "La justicia de EE.UU. prepara una acusación contra el exdirigente cubano Raúl Castro por el derribo de dos avionetas en 1996, según medios estadounidenses",
+      "category": "Mundo",
+      "bullets_20s": "• La acusación se está preparando por el derribo de avionetas en 1996 en el mar Caribe.\n• Este incidente causó tensiones significativas entre Estados Unidos y Cuba en los años 90.\n• Raúl Castro fue un líder clave en Cuba durante muchos años y figura histórica.\n• La comunidad internacional sigue muy de cerca estas acciones legales en EE.UU.\n• El caso podría tener repercusiones en las relaciones diplomáticas entre ambos países.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cy02vw4zjrro?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-15T15:43:30.000Z",
+      "teaser": "Lo clave en 20 segundos: EE.UU. podría acusar a Raúl Castro por el derribo de avionetas en 1996.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9926/live/9610f5e0-506c-11f1-b25f-935f2b5ef09e.jpg",
+      "description": "El caso se remonta al derribo de dos aeronaves de un grupo de exiliados cubanos en 1996, un incidente que provocó una crisis entre EE.UU. y Cuba.",
+      "featured": false
+    },
+    {
       "slug": "pe-eico-01-levantamiento-de-requisitos",
       "title": "PE-EICO-01 Levantamiento de Requisitos",
       "category": "Tecnología",
-      "bullets_20s": "• El levantamiento de requisitos es un proceso fundamental en el desarrollo de software.\n• Este procedimiento ayuda a entender las necesidades del cliente y del sistema.\n• Los manuales y procedimientos son cruciales para guiar el proceso de levantamiento.\n• Una adecuada recolección de requisitos puede evitar problemas futuros en el proyecto.\n• La comunicación entre las partes interesadas es esencial para el éxito del proceso.",
+      "bullets_20s": "• El levantamiento de requisitos es crucial para el desarrollo de proyectos tecnológicos.\n• Este proceso garantiza que el producto final cumpla con las expectativas de los usuarios.\n• Se deben usar técnicas de recolección de información adecuadas y efectivas.\n• El trabajo en equipo es fundamental para asegurar una comunicación fluida durante este proceso.\n• La documentación clara y concisa es esencial para evitar malentendidos futuros.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-eico-01-levantamiento-requisitos",
       "publish_date": "2026-05-15T15:22:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Conoce el proceso de levantamiento de requisitos en tecnología.",
+      "teaser": "Lo clave en 20 segundos: Levantamiento de requisitos para tecnología y proyectos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -132,15 +184,15 @@
     },
     {
       "slug": "como-operaba-desde-mexico-la-red-de-trafico-de-migrantes-de-dona-lupe-condenada-en-eeuu-a-11-anos-de-carcel",
-      "title": "Cómo operaba desde México la red de tráfico de migrantes de \"Doña Lupe\", condenada en EE.UU. a 11 años de cárcel",
+      "title": "Cómo operaba desde México la red de tráfico de migrantes de 'Doña Lupe', condenada en EE.UU. a 11 años de cárcel",
       "category": "Mundo",
-      "bullets_20s": "• La red de tráfico operaba en la frontera entre México y Estados Unidos, facilitando el cruce de migrantes.\n• Ofelia Hernández Salas fue identificada como la líder de la organización criminal desde 2023.\n• Las autoridades comenzaron la investigación ante el aumento de migrantes en zonas fronterizas.\n• La sentencia de 11 años en EE.UU. marca un avance en la lucha contra el tráfico de personas.\n• La extradición de Hernández Salas resalta la cooperación entre los gobiernos de México y EE.UU.",
+      "bullets_20s": "• Ofelia Hernández Salas, conocida como 'Doña Lupe', fue clave en el tráfico de migrantes.\n• La organización operaba principalmente en la frontera entre México y Estados Unidos.\n• Detenida en 2023 y extraditada, enfrenta ahora una larga condena en EE.UU.\n• El tráfico de migrantes es un problema que afecta a muchas regiones del mundo.\n• Las autoridades continúan luchando contra redes de tráfico humano en diversas fronteras.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwy21yzl07po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T14:03:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Una red de tráfico de migrantes fue desmantelada y su líder sentenciada.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/070b/live/16ce8960-500c-11f1-bf7f-9d54ff84b9bb.jpg",
-      "description": "Detenida en México 2023 y extraditada a EE.UU., Ofelia Hernández Salas fue sentenciada por liderar un \"prolífica\" organización que operó en la zona fronteriza durante años.",
+      "teaser": "Lo clave en 20 segundos: Doña Lupe lideraba una red de tráfico de migrantes detenida y condenada en EE.UU.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9b55/live/5013fed0-5066-11f1-b5fd-657572a40ad0.jpg",
+      "description": "Detenida en México 2023 y extraditada a EE.UU., Ofelia Hernández Salas fue sentenciada por liderar un 'prolífica' organización que operó en la zona fronteriza durante años.",
       "featured": false
     },
     {
@@ -303,11 +355,11 @@
       "slug": "las-hermanas-adolescentes-de-gaza-que-ganaron-un-premio-por-convertir-escombros-de-la-guerra-en-ladrillos",
       "title": "Las hermanas adolescentes de Gaza que ganaron un premio por convertir escombros de la guerra en ladrillos",
       "category": "Mundo",
-      "bullets_20s": "• Farah y Tala, adolescentes de Gaza, han enfrentado múltiples desplazamientos por la guerra.\n• Las hermanas decidieron convertir escombros de guerra en ladrillos, transformando destrucción en utilidad.\n• Su proyecto ha sido premiado, destacando la innovación y la resiliencia en tiempos difíciles.\n• El trabajo de estas jóvenes resalta el potencial creativo en situaciones de crisis humanitaria.\n• Este logro inspira a otros jóvenes a ver el lado positivo incluso en las circunstancias más adversas.",
+      "bullets_20s": "• Las hermanas Farah y Tala han sido desplazadas por la guerra en Gaza en múltiples ocasiones.\n• Con su ingenio, transforman escombros en ladrillos útiles para reconstrucción.\n• Su proyecto busca mostrar que la destrucción puede ser convertida en esperanza.\n• Ambas hermanas recibieron un premio por su innovadora iniciativa social.\n• El enfoque en la sostenibilidad es clave en la labor de estas jóvenes emprendedoras.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c8r8y88l80zo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T10:31:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Hermanas de Gaza ganan un premio por transformar escombros en ladrillos útiles.",
+      "teaser": "Lo clave en 20 segundos: Las hermanas de Gaza ganan un premio por convertir escombros en ladrillos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/34c9/live/493b3f30-4eb6-11f1-bd52-e755d604ece4.png",
       "description": "Farah y Tala, dos adolescentes desplazadas múltiples veces de su hogar, querían 'transformar la destrucción en algo útil'.",
       "featured": false
@@ -329,11 +381,11 @@
       "slug": "que-es-la-trampa-de-tucidides-y-por-que-xi-cree-que-define-la-relacion-de-eeuu-con-china",
       "title": "Qué es la trampa de Tucídides y por qué Xi cree que define la relación de EE.UU. con China",
       "category": "Mundo",
-      "bullets_20s": "• La trampa de Tucídides describe cómo una potencia emergente puede entrar en conflicto con una potencia establecida.\n• Xi Jinping utiliza este concepto para relacionar las tensiones entre China y EE.UU. en la actualidad.\n• Históricamente, la trampa de Tucídides ha sido relevante en diversas relaciones internacionales.\n• Comprender estas dinámicas es clave para prever posibles conflictos globales y regionales.\n• La idea invita a reflexionar sobre cómo evitar guerras entre las grandes potencias del mundo.",
+      "bullets_20s": "• La trampa de Tucídides describe el conflicto inevitable entre potencias emergentes y dominantes.\n• Xi Jinping menciona esta teoría para ilustrar sus preocupaciones sobre EE.UU. y China.\n• La antigua Grecia aporta ideas relevantes para el análisis político contemporáneo.\n• Históricos casos de conflicto son referenciados para entender dinámicas actuales.\n• La teoría anticipa guerras cuando una potencia desafía el orden establecido.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cjdpy7xv4mdo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-05-15T04:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: La trampa de Tucídides, un concepto antiguo, refleja tensiones actuales entre China y EE.UU.",
+      "publish_date": "2026-05-15T04:00:44.000Z",
+      "teaser": "Lo clave en 20 segundos: La trampa de Tucídides refleja tensiones entre China y EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1ed4/live/12b28fc0-4fd0-11f1-8bad-4389c2128e5b.jpg",
       "description": "Una idea nacida en la antigua Grecia que Xi Jinping mencionó frente a Donald Trump expresa los temores a una posible guerra entre la potencia emergente, China, y la hegemónica, Estados Unidos.",
       "featured": false
@@ -692,12 +744,12 @@
     {
       "slug": "pg-opi-27-reformulacion-del-plan-tactico-institucional",
       "title": "PG-OPI-27 Reformulación del Plan Táctico Institucional",
-      "category": "Costa Rica",
-      "bullets_20s": "• La reformulación del Plan Táctico busca mejorar la eficiencia institucional.\n• Este plan se centra en la optimización de recursos y procesos internos.\n• Se espera que la implementación tenga un impacto positivo a mediano plazo.\n• Los manuales y procedimientos son clave para la ejecución del plan.\n• Se realizarán capacitaciones para asegurar la correcta adopción de cambios.",
+      "category": "Tecnología",
+      "bullets_20s": "• Reformulación del Plan Táctico Institucional es crucial para mejorar la gestión académica en las instituciones.\n• El manual busca actualizar procedimientos para optimizar recursos y procesos internos educativos.\n• El enfoque se centra en la mejora continua en la calidad de la educación y la innovación.\n• La participación de académicos y administrativos es esencial en este proceso de reformulación.\n• Se espera que esta iniciativa influya positivamente en el rendimiento institucional y académico.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pg-opi-27-reformulacion-plan-tactico-institucional",
       "publish_date": "2026-05-14T19:26:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Reformulación del Plan Táctico Institucional en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Nueva reformulación para optimizar el Plan Táctico Institucional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -706,11 +758,11 @@
       "slug": "pg-opi-26-evaluacion-del-plan-tactico-institucional",
       "title": "PG-OPI-26 Evaluación del Plan Táctico Institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• Se lleva a cabo la evaluación del Plan Táctico Institucional en el TEC.\n• La evaluación es parte del proceso de mejora continua del instituto.\n• El manual incluye procedimientos específicos para esta evaluación.\n• Se busca optimizar los recursos y esfuerzos de la institución.\n• Los resultados influirán en las decisiones estratégicas futuras.",
+      "bullets_20s": "• La evaluación del plan táctico busca mejorar los procesos internos de la institución.\n• Se realizan ajustes periódicos para mantener la eficiencia y efectividad del plan.\n• La comunicación entre departamentos es fundamental para el éxito del plan.\n• Se utilizan indicadores de rendimiento para medir el progreso de las actividades.\n• La identificación de áreas de mejora es clave en esta evaluación continua.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pg-opi-26-evaluacion-plan-tactico-institucional",
       "publish_date": "2026-05-14T19:26:08.000Z",
-      "teaser": "Lo clave en 20 segundos: evaluación del Plan Táctico Institucional en el TEC para mejorar procesos.",
+      "teaser": "Lo clave en 20 segundos: Evaluación institucional que busca mejorar procesos internos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -719,11 +771,11 @@
       "slug": "pg-opi-25-aprobacion-del-plan-tactico-institucional",
       "title": "PG-OPI-25 Aprobación del Plan Táctico Institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• La aprobación del Plan Táctico Institucional es crucial para el TEC en la gestión administrativa.\n• Este plan busca mejorar la calidad de los procesos dentro de la institución educativa.\n• Incluirá estrategias de modernización y adaptabilidad a los retos actuales.\n• Se fomentará la participación de la comunidad educativa en su implementación.\n• La comunicación efectiva será clave para el éxito de este plan institucional.",
+      "bullets_20s": "• El PG-OPI-25 establece un enfoque estratégico para la gestión institucional.\n• Se busca mejorar la eficiencia de los procesos administrativos y operativos.\n• La aprobación del plan es un paso importante para el desarrollo de la institución.\n• Este plan incluye manuales y procedimientos específicos para su implementación.\n• La ejecución del PG-OPI-25 podría beneficiar a toda la comunidad educativa.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pg-opi-25-aprobacion-plan-tactico-institucional",
       "publish_date": "2026-05-14T19:25:26.000Z",
-      "teaser": "Lo clave en 20 segundos: Se aprueba un plan táctico para mejorar la gestión del TEC.",
+      "teaser": "Lo clave en 20 segundos: Aprobación de un plan táctico para mejorar la gestión institucional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -1012,19 +1064,6 @@
       "teaser": "Lo clave en 20 segundos: La arepa avanza como patrimonio nacional en Colombia.",
       "image_url": "https://www.nacion.com/resizer/v2/5OMHFIO7PJFLDGC5QZRGO42LCE.png?auth=f19d9b4aa4aa98984034217c49e62e13be05a7ff32801384149a5012c9bf992e&smart=true&width=1672&height=941",
       "description": "La arepa quedó más cerca de convertirse en patrimonio nacional de Colombia tras avanzar un proyecto de ley.",
-      "featured": false
-    },
-    {
-      "slug": "sabe-cuales-son-los-beneficios-de-este-metodo-para-el-desarrollo-de-bebes-prematuros",
-      "title": "¿Sabe cuáles son los beneficios de este método para el desarrollo de bebés prematuros?",
-      "category": "Ciencia",
-      "bullets_20s": "• El método ha mostrado mejoras significativas en el desarrollo de bebés prematuros en varios estudios.\n• Investigaciones indican que la técnica podría ser un cambio de juego en neonatal cuidados.\n• La reducción de la mortalidad neonatal es crucial para familias en situaciones críticas de prematuridad.\n• Existen diversas técnicas innovadoras que están revolucionando la forma en que se cuida a los bebes.\n• La OMS respalda esta técnica, resaltando su impacto positivo en la salud infantil a nivel global.",
-      "source_name": "Redacción Brandvoice",
-      "source_url": "https://www.nacion.com/revista-perfil/sabe-cuales-son-los-beneficios-de-este-metodo-para/JPAOE6NKTZGAFC63A573TCT74E/story/",
-      "publish_date": "2026-05-14T15:15:09.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre los beneficios de un nuevo método para bebés prematuros respaldado por la OMS.",
-      "image_url": "https://www.nacion.com/resizer/v2/FPVPC67DUFE4LFLQJKMXZMRWLA.jpg?auth=f1b1d56d631293e238d17b2dc691f538dc132a440041265c51936a02505678b4",
-      "description": "Datos de la Organización Mundial de la Salud (OMS), revelan que esta técnica reduce en 32% la mortalidad neonatal.",
       "featured": false
     },
     {
@@ -18110,5 +18149,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-15T15:45:19.393Z"
+  "generated_at": "2026-05-15T16:45:19.552Z"
 }
