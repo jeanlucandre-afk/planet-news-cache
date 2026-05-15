@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "se-enoja-por-todo-la-ira-constante-puede-ser-una-senal-de-agotamiento-emocional",
+      "title": "¿Se enoja por todo? La ira constante puede ser una señal de agotamiento emocional",
+      "category": "Ciencia",
+      "bullets_20s": "• La ira constante puede ser un síntoma de agotamiento emocional no atendido.\n• Conflictos en la vida diaria pueden intensificar las reacciones de enojo.\n• La falta de manejo emocional puede impactar relaciones personales significativas.\n• Es importante buscar apoyo profesional si la ira se torna incontrolable.\n• El autocuidado y la introspección ayudan a reducir la irritabilidad.",
+      "source_name": "Libia Solano Meza",
+      "source_url": "https://www.nacion.com/mi-bienestar/se-enoja-por-todo-la-ira-constante-puede-ser-una/SHF5DSVN75AFNGJKU2QGL6QQRQ/story/",
+      "publish_date": "2026-05-15T21:24:27.000Z",
+      "teaser": "Lo clave en 20 segundos: La ira puede ser señal de un desgaste emocional profundo que requiere atención.",
+      "image_url": "https://www.nacion.com/resizer/v2/FLQKL2SZ7FBYTD3T5CAEFFB2I4.png?auth=4540a032a62d061762f2362cae5b6fb4c6f250f6a8c07591c06d63a4080b646e&smart=true&width=1920&height=1080",
+      "description": "La ira que estalla en el tráfico, en una discusión familiar o en un comentario en redes sociales no siempre nace del momento, muchas veces es la salida de un cansancio emocional acumulado que no ha sido atendido. Una psicóloga advierte que la ira puede ser mucho más que una reacción momentánea.",
+      "featured": false
+    },
+    {
+      "slug": "nino-de-8-anos-murio-tras-golpearse-la-rodilla-en-partido-de-futbol-y-contraer-bacteria-agresiva",
+      "title": "Niño de 8 años murió tras golpearse la rodilla en partido de fútbol y contraer bacteria agresiva",
+      "category": "Ciencia",
+      "bullets_20s": "• Un niño de 8 años fallece tras una infección grave en la rodilla debido a una caída.\n• El golpe sufrió durante un partido de fútbol llevó a complicaciones inesperadas.\n• La bacteria Staphylococcus aureus es conocida por causar infecciones severas.\n• Los expertos advierten sobre la importancia de atender heridas rápidamente.\n• Este caso resalta la necesidad de educación sobre infecciones en deportes.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/salud/nino-de-8-anos-murio-tras-golpearse-la-rodilla-en/LYEHL6UVZVG2RPENIZ6RCZU7V4/story/",
+      "publish_date": "2026-05-15T21:17:39.000Z",
+      "teaser": "Lo clave en 20 segundos: Un niño falleció tras infección en la rodilla tras un partido de fútbol.",
+      "image_url": "https://www.nacion.com/resizer/v2/QRWEMWLUQREJFNYZWJFCDBEGSI.png?auth=c696aea89857072eda4ad29e3ef47844d21e61cb75e75f3caa65790e2d02f872&smart=true&width=1920&height=1080",
+      "description": "Niño de 8 años murió tras contraer la bacteria Staphylococcus aureus luego de golpearse la rodilla en un partido de fútbol. El caso alertó sobre síntomas y riesgos de infecciones graves.",
+      "featured": false
+    },
+    {
+      "slug": "un-hotel-de-latinoamerica-entra-en-la-lista-de-los-mas-bellos-del-mundo-en-2026",
+      "title": "Un hotel de Latinoamérica entra en la lista de los más bellos del mundo en 2026",
+      "category": "Mundo",
+      "bullets_20s": "• Un nuevo hotel en Latinoamérica ha sido reconocido por su impresionante diseño y arquitectura.\n• El establecimiento enfatiza la sostenibilidad y el respeto al medio ambiente en su construcción.\n• El entorno natural del hotel ha sido cuidadosamente integrado en su diseño paisajístico.\n• Este premio posiciona a Latinoamérica como un destino turístico de primer nivel.\n• Se espera que la inclusión en la lista aumente el interés turístico en la región.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/economia/un-hotel-de-latinoamerica-entra-en-la-lista-de-los/QRM3ZGBN5BBAVOALY3JY6JVCQA/story/",
+      "publish_date": "2026-05-15T21:12:28.000Z",
+      "teaser": "Lo clave en 20 segundos: un hotel latinoamericano destaca por su diseño y sostenibilidad en 2026.",
+      "image_url": "https://www.nacion.com/resizer/v2/NUZYKQ5BFNDSPGQ3PRPJMNBTUM.png?auth=b44b49e59ba5cd6ef3922da41e5320804ba90063b18bde2b5b55f41eb8000a91&smart=true&width=1680&height=945",
+      "description": "Latinoamérica entra en la lista de los hoteles más bellos del mundo en 2026 con un proyecto que destacó por su diseño, sostenibilidad y conexión con el entorno natural.",
+      "featured": false
+    },
+    {
       "slug": "estados-unidos-arresta-a-comandante-de-milicia-apoyada-por-iran-que-planeo-ataques-contra-entidades-judias",
       "title": "Estados Unidos arresta a comandante de milicia apoyada por Irán que planeó ataques contra entidades judías",
       "category": "Mundo",
@@ -56,13 +95,13 @@
       "slug": "guia-para-el-diseno-implementacion-y-evaluacion-de-credenciales-alternativas",
       "title": "Guía para el diseño, implementación y evaluación de credenciales alternativas",
       "category": "Ciencia",
-      "bullets_20s": "• Las credenciales alternativas ofrecen nuevas formas de validación educativa y profesional.\n• Este enfoque moderno apoya a los estudiantes en su proceso de aprendizaje continuo.\n• Las instituciones educativas pueden adoptar guías para una mejor implementación.\n• La evaluación de credenciales ayuda a los empleadores a identificar talento.\n• Se busca crear un sistema educativo más inclusivo y accesible.",
+      "bullets_20s": "• Se presenta una guía para la creación de credenciales educativas alternativas.\n• La guía abarca etapas desde el diseño hasta la evaluación final.\n• Incluye recomendaciones prácticas para implementar credenciales efectivas.\n• Los manuales generan un enfoque innovador en la educación moderna.\n• Resalta la importancia de la evaluación continua en estos programas.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/guia-diseno-implementacion-evaluacion-credenciales-alternativas",
       "publish_date": "2026-05-15T19:57:36.000Z",
-      "teaser": "Lo clave en 20 segundos: nuevas formas de validación educativa y profesional.",
+      "teaser": "Lo clave en 20 segundos: Guía completa para crear y evaluar credenciales educativas alternativas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "Guía para el diseño, implementación y evaluación de credenciales alternativas.",
+      "description": "evsolano",
       "featured": false
     },
     {
@@ -225,13 +264,26 @@
       "slug": "la-tragica-muerte-de-5-buceadores-italianos-mientras-exploraban-unas-cuevas-en-maldivas",
       "title": "La trágica muerte de 5 buceadores italianos mientras exploraban unas cuevas en Maldivas",
       "category": "Mundo",
-      "bullets_20s": "• Cinco buceadores italianos perdieron la vida en un trágico accidente en Maldivas.\n• El accidente ocurrió mientras los buceadores exploraban cuevas submarinas en la región.\n• Este evento se considera el peor accidente de buceo en la historia del país.\n• Las autoridades locales están investigando las circunstancias que llevaron a la tragedia.\n• El buceo en cuevas presenta riesgos que deben ser cuidadosamente gestionados por los expertos.",
+      "bullets_20s": "• Cinco buceadores italianos perdieron la vida trágicamente en Maldivas mientras exploraban cuevas submarinas.\n• Este incidente se considera el más grave en la historia del buceo maldivo hasta la fecha.\n• Los servicios de rescate locales están investigando las circunstancias que llevaron a este fatal accidente.\n• La comunidad internacional de buceo está en estado de shock por la noticia del accidente mortal.\n• El buceo en cuevas presenta riesgos significativos que deben ser considerados por los exploradores.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx21n9xgdedo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T16:48:43.000Z",
-      "teaser": "Lo clave en 20 segundos: tragedia en Maldivas con la muerte de cinco buceadores italianos.",
+      "teaser": "Lo clave en 20 segundos: cinco buceadores italianos fallecen en un accidente trágico en Maldivas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ec8a/live/e46b9940-503d-11f1-b682-cf91850925ea.jpg",
       "description": "Se cree que es el peor accidente de buceo registrado en el país.",
+      "featured": false
+    },
+    {
+      "slug": "un-verdadero-milagro-rescatan-a-11-personas-con-vida-despues-de-que-su-avion-se-estrellara-en-el-atlantico",
+      "title": "Un verdadero milagro: rescatan a 11 personas con vida después de que su avión se estrellara en el Atlántico",
+      "category": "Mundo",
+      "bullets_20s": "• Un avión se estrelló en el Atlántico y 11 personas lograron sobrevivir después del incidente.\n• Los sobrevivientes permanecieron en una balsa salvavidas durante cinco horas antes de ser rescatados.\n• La Fuerza Aérea de los Estados Unidos participó en las labores de rescate en la costa de Florida.\n• Este suceso resalta la importancia de los equipos de búsqueda y rescate en el mar.\n• Aunque el accidente fue grave, contar con una balsa hizo posible la sobrevivencia de las víctimas.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cn7p6dyd660o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-15T16:21:28.000Z",
+      "teaser": "Lo clave en 20 segundos: 11 personas sobreviven a un accidente aéreo en el Atlántico y son rescatadas.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/a590/live/83121030-4fb5-11f1-89a3-d1f559421220.jpg",
+      "description": "Los sobrevivientes pasaron cinco horas en una balsa salvavidas antes de ser rescatados por la Fuerza Aérea de los Estados Unidos frente a la costa de Florida.",
       "featured": false
     },
     {
@@ -261,6 +313,19 @@
       "featured": false
     },
     {
+      "slug": "eeuu-europa-y-china-el-tablero-geopolitico-que-redefine-a-costa-rica",
+      "title": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
+      "category": "Mundo",
+      "bullets_20s": "• El TEC abrió un debate sobre desafíos geopolíticos que enfrenta Costa Rica en la actualidad.\n• Más de 200 estudiantes se unieron al conversatorio sobre impactos globales en la nación.\n• El análisis incluyó tensiones internacionales, conflictos armados y cambios tecnológicos destacados.\n• Eduardo Ulibarri destacó que el cambio climático es uno de los principales retos actuales.\n• Las relaciones con Estados Unidos son vitales, pero también deben diversificarse hacia Europa.\n• La participación activa de estudiantes enriqueció el análisis de las preguntas globales actuales.\n• Ulibarri advirtió sobre el debilitamiento de alianzas internacionales que afectan a Costa Rica.\n• El aumento de poder de corporaciones tecnológicas plantea nuevos desafíos para la regulación.\n• Las autoridades resaltaron la importancia de generar espacios para el pensamiento crítico.\n• La conmemoración del Día de la Persona Estudiante y Trabajadora se celebró con este evento.",
+      "source_name": "nchinchilla",
+      "source_url": "http://www.tec.ac.cr/eeuu-europa-china-tablero-geopolitico-redefine-costa-rica",
+      "publish_date": "2026-05-15T16:09:20.000Z",
+      "teaser": "Lo clave en 20 segundos: un análisis profundo sobre la geopolítica y su impacto en Costa Rica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/costa-rica.jpeg",
+      "description": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
+      "featured": false
+    },
+    {
       "slug": "la-justicia-de-eeuu-prepara-una-acusacion-contra-el-exdirigente-cubano-raul-castro-por-el-derribo-de-dos-avionetas-en-19",
       "title": "La justicia de EE.UU. prepara una acusación contra el exdirigente cubano Raúl Castro por el derribo de dos avionetas en 1996, según medios estadounidenses",
       "category": "Mundo",
@@ -276,12 +341,12 @@
     {
       "slug": "pe-eico-01-levantamiento-de-requisitos",
       "title": "PE-EICO-01 Levantamiento de Requisitos",
-      "category": "Ciencia",
-      "bullets_20s": "• El levantamiento de requisitos es fundamental para el desarrollo de proyectos efectivos.\n• Este proceso asegura que las necesidades del cliente se comprendan adecuadamente.\n• Los manuales y procedimientos ofrecen una guía fundamental para este levantamiento.\n• Permite a los equipos de trabajo tener una visión clara de los objetivos del proyecto.\n• Facilita la comunicación entre los diferentes interesados en el proyecto.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El levantamiento de requisitos es fundamental para proyectos exitosos en tecnología y gestión.\n• Se documentan necesidades de los usuarios para desarrollar soluciones eficientes y efectivas.\n• El proceso incluye entrevistas, encuestas y análisis de proceso preexistente.\n• La identificación clara de requisitos evita sobrecostos y retrabajos innecesarios.\n• Este manual proporciona directrices para realizar levantamientos de requisitos óptimos.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-eico-01-levantamiento-requisitos",
       "publish_date": "2026-05-15T15:22:22.000Z",
-      "teaser": "Lo clave en 20 segundos: El levantamiento de requisitos es esencial para proyectos exitosos.",
+      "teaser": "Lo clave en 20 segundos: Importancia del levantamiento de requisitos en proyectos tecnológicos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -407,11 +472,11 @@
       "slug": "como-operaba-desde-mexico-la-red-de-trafico-de-migrantes-de-dona-lupe-condenada-en-eeuu-a-11-anos-de-carcel",
       "title": "Cómo operaba desde México la red de tráfico de migrantes de \"Doña Lupe\", condenada en EE.UU. a 11 años de cárcel",
       "category": "Mundo",
-      "bullets_20s": "• Ofelia Hernández Salas, conocida como \"Doña Lupe\", lideraba una red de tráfico de migrantes.\n• La organización operaba en la zona fronteriza entre México y Estados Unidos por años.\n• Fue detenida en México en el año 2023 y posteriormente extraditada a Estados Unidos.\n• La corte en EE.UU. la condenó a 11 años de prisión por sus actividades ilegales.\n• El tráfico de migrantes es un problema creciente en muchas regiones fronterizas.",
+      "bullets_20s": "• Una líder de tráfico de migrantes operaba en la frontera entre México y Estados Unidos.\n• Ofelia Hernández Salas fue arrestada y extraditada a EE.UU. en 2023.\n• La organización se caracterizaba por su amplia red de contactos y operaciones clandestinas.\n• La sentencia de 11 años refleja la severidad del crimen y sus consecuencias.\n• La historia destaca la creciente migración y el tráfico ilegal en la región.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwy21yzl07po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T14:03:44.000Z",
-      "teaser": "Lo clave en 20 segundos: La red de tráfico de migrantes de \"Doña Lupe\" fue desmantelada y liderada con poder.",
+      "teaser": "Lo clave en 20 segundos: se revela red de tráfico de migrantes liderada por 'Doña Lupe'.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9b55/live/5013fed0-5066-11f1-b5fd-657572a40ad0.jpg",
       "description": "Detenida en México 2023 y extraditada a EE.UU., Ofelia Hernández Salas fue sentenciada por liderar un \"prolífica\" organización que operó en la zona fronteriza durante años.",
       "featured": false
@@ -576,11 +641,11 @@
       "slug": "las-hermanas-adolescentes-de-gaza-que-ganaron-un-premio-por-convertir-escombros-de-la-guerra-en-ladrillos",
       "title": "Las hermanas adolescentes de Gaza que ganaron un premio por convertir escombros de la guerra en ladrillos",
       "category": "Mundo",
-      "bullets_20s": "• Las jóvenes crearon una solución innovadora utilizando materiales de la devastación de su entorno en Gaza.\n• A pesar de los desafíos, su perseverancia y creatividad les permitieron desarrollar un nuevo tipo de ladrillo.\n• Su proyecto busca no solo reciclar, sino también dar esperanza a su comunidad en tiempos difíciles.\n• El premio obtenido resalta la importancia de la resiliencia y la ingeniería en contextos de conflicto.\n• Este caso inspira a otros jóvenes a encontrar formas creativas de enfrentar adversidades en sus vidas.",
+      "bullets_20s": "• Farah y Tala han enfrentado múltiples desplazamientos por la guerra en Gaza.\n• Decidieron convertir escombros de la guerra en ladrillos útiles para su comunidad.\n• Su proyecto busca transformar la destrucción en oportunidades de reconstrucción.\n• El premió destaca la innovación y creatividad de los jóvenes en situaciones difíciles.\n• Este tipo de iniciativas inspiran esperanza en contextos de conflicto y adversidad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c8r8y88l80zo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T10:31:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Hermanas de Gaza convierten escombros en ladrillos, ganando un premio por su ingenio.",
+      "teaser": "Lo clave en 20 segundos: hermanas de Gaza convierten escombros en ladrillos, ganan un premio por su iniciativa.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/34c9/live/493b3f30-4eb6-11f1-bd52-e755d604ece4.png",
       "description": "Farah y Tala, dos adolescentes desplazadas múltiples veces de su hogar, querían 'transformar la destrucción en algo útil'.",
       "featured": false
@@ -602,11 +667,11 @@
       "slug": "que-es-la-trampa-de-tucidides-y-por-que-xi-cree-que-define-la-relacion-de-eeuu-con-china",
       "title": "Qué es la trampa de Tucídides y por qué Xi cree que define la relación de EE.UU. con China",
       "category": "Mundo",
-      "bullets_20s": "• La trampa de Tucídides describe el dilema entre potencias en ascenso y establecidas.\n• Xi Jinping la utiliza para ilustrar la tensión con Estados Unidos en la actualidad.\n• El concepto proviene de una guerra histórica entre Atenas y Esparta en Grecia.\n• Se teme un conflicto debido a las crecientes rivalidades entre ambas naciones.\n• El análisis de Tucídides sigue siendo relevante en la política internacional contemporánea.\n• Las decisiones de los líderes influyen en el camino hacia la confrontación o la paz.\n• La trampa sugiere que el cambio de poder inevitable puede causar enfrentamientos.\n• Comprender esta teoría puede ayudar a prevenir futuros conflictos armados.\n• Las alianzas estratégicas son cruciales en el contexto actual de rivalidades geopolíticas.\n• El conflicto entre China y EE.UU. tiene repercusiones a nivel global.",
+      "bullets_20s": "• La trampa de Tucídides explica el conflicto entre una potencia emergente y otra hegemónica.\n• Xi Jinping la menciona para ilustrar sus preocupaciones sobre EE.UU. y China.\n• Este concepto proviene de la historia antigua y se aplica a las relaciones modernas.\n• Se teme que las tensiones entre China y EE.UU. puedan provocar un conflicto armado.\n• El diálogo entre líderes es crucial para evitar malentendidos entre países.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cjdpy7xv4mdo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T04:00:44.000Z",
-      "teaser": "Lo clave en 20 segundos: La trampa de Tucídides describe las tensiones actuales entre China y EE.UU.",
+      "teaser": "Lo clave en 20 segundos: La trampa de Tucídides y su relevancia en la tensión EE.UU.-China.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1ed4/live/12b28fc0-4fd0-11f1-8bad-4389c2128e5b.jpg",
       "description": "Una idea nacida en la antigua Grecia que Xi Jinping mencionó frente a Donald Trump expresa los temores a una posible guerra entre la potencia emergente, China, y la hegemónica, Estados Unidos.",
       "featured": false
@@ -908,6 +973,19 @@
       "teaser": "Lo clave en 20 segundos: La Sala IV exige reglamentar acceso a información pública en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/A3EBNDLR2RFDLNAQ2QCL3OD6EE.jpg?auth=52556f7029608a4cf3f6aa5b6a7d4543683657b113edaa243d818df3522357bf&smart=true&width=4000&height=2666",
       "description": "La Sala IV ordenó al Ministerio de la Presidencia, cargo que ahora ocupa Rodrigo Chaves, emitir el reglamento de la Ley de Acceso a la Información tras declarar con lugar un amparo.",
+      "featured": false
+    },
+    {
+      "slug": "licenciatura-en-ingenieria-ambiental-y-administracion-de-tecnologias-de-informacion-se-acreditan-una-vez-mas-con-el-sina",
+      "title": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
+      "category": "Costa Rica",
+      "bullets_20s": "• La acreditación demuestra el compromiso del TEC con la calidad educativa en Ingeniería Ambiental.\n• Ambas carreras cuentan con acreditaciones que aseguran excelencia académica y profesional.\n• La Ingeniería Ambiental fue acreditada por primera vez en 2016 y mantiene el sello hasta el 2029.\n• La carrera de Administración de Tecnologías de Información se ha reacreditado hasta el 2030.\n• Las acreditaciones respaldan la formación de profesionales en un entorno cambiante y tecnológico.",
+      "source_name": "nchinchilla",
+      "source_url": "http://www.tec.ac.cr/licenciatura-ingenieria-ambiental-administracion-tecnologias-informacion-se-acreditan-vez-mas",
+      "publish_date": "2026-05-14T20:30:51.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC reafirma su compromiso educativo con acreditaciones por parte del SINAES.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/acreditacion.jpeg",
+      "description": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
       "featured": false
     },
     {
@@ -18357,5 +18435,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-15T20:45:20.039Z"
+  "generated_at": "2026-05-15T21:45:20.611Z"
 }
