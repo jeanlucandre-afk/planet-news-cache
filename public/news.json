@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "slug": "pe-eico-01-levantamiento-de-requisitos",
+      "title": "PE-EICO-01 Levantamiento de Requisitos",
+      "category": "Tecnología",
+      "bullets_20s": "• El levantamiento de requisitos es un proceso fundamental en el desarrollo de software.\n• Este procedimiento ayuda a entender las necesidades del cliente y del sistema.\n• Los manuales y procedimientos son cruciales para guiar el proceso de levantamiento.\n• Una adecuada recolección de requisitos puede evitar problemas futuros en el proyecto.\n• La comunicación entre las partes interesadas es esencial para el éxito del proceso.",
+      "source_name": "evsolano",
+      "source_url": "http://www.tec.ac.cr/pe-eico-01-levantamiento-requisitos",
+      "publish_date": "2026-05-15T15:22:22.000Z",
+      "teaser": "Lo clave en 20 segundos: Conoce el proceso de levantamiento de requisitos en tecnología.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
+      "description": "evsolano",
+      "featured": false
+    },
+    {
+      "slug": "como-eliminar-el-frizz-sin-gastar-cinco-remedios-caseros-con-ingredientes-que-ya-tiene-en-su-cocina",
+      "title": "¿Cómo eliminar el frizz sin gastar? Cinco remedios caseros con ingredientes que ya tiene en su cocina",
+      "category": "Ciencia",
+      "bullets_20s": "• Usar aguacate como mascarilla puede hidratar el cabello y reducir el frizz notablemente.\n• La miel tiene propiedades humectantes que ayudan a controlar el encrespamiento del cabello.\n• La maicena puede ser mezclada con agua para hacer un tratamiento anti-frizz casero eficaz.\n• Aceites naturales como el de coco son excelentes para nutrir e hidratar el cabello seco.\n• Estos remedios son económicos y fáciles de preparar con ingredientes disponibles en casa.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/ciencia/como-eliminar-el-frizz-sin-gastar-cinco-remedios/IIA2HWNYFBEJXFKVKFDXVV4O6I/story/",
+      "publish_date": "2026-05-15T15:18:33.000Z",
+      "teaser": "Lo clave en 20 segundos: Soluciona el frizz con remedios caseros accesibles y efectivos.",
+      "image_url": "https://www.nacion.com/resizer/v2/2FYDIXIQUFFC7N4BZJK6CTQHDA.png?auth=27757674b846bf7ca7c6eaeb845d49d8af4ab06d522c4900b479620c22fbffae&smart=true&width=1680&height=945",
+      "description": "Cinco remedios caseros ayudan a reducir el frizz sin gastar de más. Aguacate, miel, maicena y aceites naturales mejoran la hidratación y controlan el encrespamiento.",
+      "featured": false
+    },
+    {
+      "slug": "la-comunidad-de-bribri-da-el-ultimo-adios-al-policia-gerson-rosales-en-talamanca",
+      "title": "La comunidad de Bribrí da el último adiós al policía Gerson Rosales en Talamanca",
+      "category": "Costa Rica",
+      "bullets_20s": "• La comunidad de Bribrí se unió para rendir homenaje a su policía caído.\n• Gerson Rosales fue recordado por su valentía y dedicación al servicio público.\n• Vecinos expresaron su dolor y apoyo a la familia de Gerson Rosales.\n• Diversas actividades se organizaron para conmemorar su vida y sacrificio.\n• El crimen de Rosales ha generado reflexión sobre la seguridad en la región.",
+      "source_name": "Natalia Vargas",
+      "source_url": "https://www.nacion.com/sucesos/la-comunidad-de-bribri-da-el-ultimo-adios-al/DV4SVVPHIVHKDKS2J7ZNA7GJYI/story/",
+      "publish_date": "2026-05-15T15:17:08.000Z",
+      "teaser": "Lo clave en 20 segundos: La comunidad de Bribrí despide con dolor a su policía Gerson Rosales tras su asesinato.",
+      "image_url": "https://www.nacion.com/resizer/v2/OOMI524ZMRHSZMEYRGMGW4CKYE.jpeg?auth=3c2a7c3f59255a07e5bf17079b3bc78b109c70559bfaff350c3ab3c7d023d45a&smart=true&width=1280&height=960",
+      "description": "Vecinos de Bribri, en Talamanca, se volcaron en las calles para despedir a Gerson Rosales, policía asesinado el miércoles por delincuentes de Batán.",
+      "featured": false
+    },
+    {
+      "slug": "el-uscis-actualizo-el-i-765-que-cambio-en-el-formulario-del-permiso-de-trabajo-y-quienes-deben-usarlo",
+      "title": "El Uscis actualizó el I-765: qué cambió en el formulario del permiso de trabajo y quiénes deben usarlo",
+      "category": "Mundo",
+      "bullets_20s": "• El formulario I-765 es esencial para los permisos de trabajo en Estados Unidos.\n• La reciente actualización del formulario busca simplificar el proceso para migrantes.\n• Se han eliminado algunos requisitos complicados en el proceso de solicitud.\n• Es crucial que los solicitantes revisen los nuevos requisitos antes de aplicar.\n• Los cambios afectan a diferentes grupos de migrantes que necesitan permisos laborales.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/el-mundo/uscis-actualiza-el-formulario-i-765-cambios-en-el/VBA7M7YOFJDENNM3KFM6JHLUVU/story/",
+      "publish_date": "2026-05-15T15:12:20.000Z",
+      "teaser": "Lo clave en 20 segundos: Cambios importantes en el formulario I-765 para permisos de trabajo en EE.UU.",
+      "image_url": "https://www.nacion.com/resizer/v2/HB5JIO4PUJA6HE3LFUX3YSSG6I.png?auth=06343c6bac9c7606eb7a4dc3794cdf9ed4673618279efb2648031fd47fc08c5c&smart=true&width=1920&height=1080",
+      "description": "Uscis implementó cambios en el Formulario I-765 para permisos de trabajo en Estados Unidos. La nueva versión elimina la solicitud del Seguro Social y modifica requisitos para algunos migrantes.",
+      "featured": false
+    },
+    {
+      "slug": "la-psicologia-dice-que-los-ninos-de-los-anos-60-y-70-no-se-volvieron-fuertes-gracias-a-una-mejor-crianza-sino-que-aprend",
+      "title": "La psicología dice que los niños de los años 60 y 70 no se volvieron fuertes gracias a una mejor crianza, sino que aprendieron a gestionar sus propias emociones",
+      "category": "Ciencia",
+      "bullets_20s": "• La crianza en los años 60 y 70 fomentó una mayor autonomía en los niños para enfrentar adversidades.\n• La resiliencia emocional se vuelve clave en el desarrollo personal y profesional de los individuos.\n• Los niños aprendían a gestionar sus emociones sin depender de la sobreprotección adulta.\n• Estudios muestran que esta generación enfrenta problemas con más herramientas emocionales.\n• La libertad y la responsabilidad en la infancia contribuyen a una mejor salud mental a largo plazo.",
+      "source_name": "El Tiempo  Colombia",
+      "source_url": "https://www.nacion.com/ciencia/la-psicologia-dice-que-los-ninos-de-los-anos-60-y/4Z3LODV7JJCXND7PBS7DFBS4HA/story/",
+      "publish_date": "2026-05-15T15:11:32.000Z",
+      "teaser": "Lo clave en 20 segundos: La crianza libre de sobreprotección fomenta la resiliencia emocional en niños.",
+      "image_url": "https://www.nacion.com/resizer/v2/5GLVC3GP55AGFM6VITDNOESH6E.png?auth=321cf92be0ccb3daabd13cc046e0210141dd3f4a9fbea1bb647f344db7856703&smart=true&width=1672&height=941",
+      "description": "La psicología relaciona la crianza de los años 60 y 70 con una mayor resiliencia emocional y capacidad para enfrentar problemas sin ayuda.",
+      "featured": false
+    },
+    {
       "slug": "abogado-del-pani-pide-dejar-de-compartir-el-video-del-bebe-agredido-en-nicoya-por-respeto-al-menor",
       "title": "Abogado del PANI pide dejar de compartir el video del bebé agredido en Nicoya por respeto al menor",
       "category": "Costa Rica",
@@ -69,11 +134,11 @@
       "slug": "como-operaba-desde-mexico-la-red-de-trafico-de-migrantes-de-dona-lupe-condenada-en-eeuu-a-11-anos-de-carcel",
       "title": "Cómo operaba desde México la red de tráfico de migrantes de \"Doña Lupe\", condenada en EE.UU. a 11 años de cárcel",
       "category": "Mundo",
-      "bullets_20s": "• Ofelia Hernández Salas conocida como 'Doña Lupe' lideraba una extensa red de tráfico de migrantes.\n• La organización fue desmantelada tras una investigación conjunta entre México y EE.UU.\n• Se estima que la red operó durante años en la frontera entre México y Estados Unidos.\n• Hernández fue detenida en 2023 y posteriormente extraditada a Estados Unidos para su juicio.\n• El caso destaca la problemática del tráfico de personas en la región fronteriza.",
+      "bullets_20s": "• La red de tráfico operaba en la frontera entre México y Estados Unidos, facilitando el cruce de migrantes.\n• Ofelia Hernández Salas fue identificada como la líder de la organización criminal desde 2023.\n• Las autoridades comenzaron la investigación ante el aumento de migrantes en zonas fronterizas.\n• La sentencia de 11 años en EE.UU. marca un avance en la lucha contra el tráfico de personas.\n• La extradición de Hernández Salas resalta la cooperación entre los gobiernos de México y EE.UU.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwy21yzl07po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T14:03:44.000Z",
-      "teaser": "Lo clave en 20 segundos: la red de tráfico de migrantes de Doña Lupe desmantelada tras años de operaciones.",
+      "teaser": "Lo clave en 20 segundos: Una red de tráfico de migrantes fue desmantelada y su líder sentenciada.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/070b/live/16ce8960-500c-11f1-bf7f-9d54ff84b9bb.jpg",
       "description": "Detenida en México 2023 y extraditada a EE.UU., Ofelia Hernández Salas fue sentenciada por liderar un \"prolífica\" organización que operó en la zona fronteriza durante años.",
       "featured": false
@@ -238,13 +303,13 @@
       "slug": "las-hermanas-adolescentes-de-gaza-que-ganaron-un-premio-por-convertir-escombros-de-la-guerra-en-ladrillos",
       "title": "Las hermanas adolescentes de Gaza que ganaron un premio por convertir escombros de la guerra en ladrillos",
       "category": "Mundo",
-      "bullets_20s": "• Las hermanas Farah y Tala han vivido múltiples desplazamientos debido a conflictos en Gaza.\n• Decidieron transformar los escombros de la guerra en ladrillos útiles y sostenibles.\n• El enfoque creativo de las hermanas ha sido reconocido con un premio importante internacionalmente.\n• Este proyecto busca darle un nuevo propósito a la destrucción causada por la guerra.\n• Su historia inspira a otros a reinventar y reconstruir en medio de las adversidades.",
+      "bullets_20s": "• Farah y Tala, adolescentes de Gaza, han enfrentado múltiples desplazamientos por la guerra.\n• Las hermanas decidieron convertir escombros de guerra en ladrillos, transformando destrucción en utilidad.\n• Su proyecto ha sido premiado, destacando la innovación y la resiliencia en tiempos difíciles.\n• El trabajo de estas jóvenes resalta el potencial creativo en situaciones de crisis humanitaria.\n• Este logro inspira a otros jóvenes a ver el lado positivo incluso en las circunstancias más adversas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c8r8y88l80zo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T10:31:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Dos adolescentes en Gaza transforman escombros en ladrillos con un enfoque innovador.",
+      "teaser": "Lo clave en 20 segundos: Hermanas de Gaza ganan un premio por transformar escombros en ladrillos útiles.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/34c9/live/493b3f30-4eb6-11f1-bd52-e755d604ece4.png",
-      "description": "Farah y Tala, dos adolescentes desplazadas múltiples veces de su hogar, querían \"transformar la destrucción en algo útil\".",
+      "description": "Farah y Tala, dos adolescentes desplazadas múltiples veces de su hogar, querían 'transformar la destrucción en algo útil'.",
       "featured": false
     },
     {
@@ -264,11 +329,11 @@
       "slug": "que-es-la-trampa-de-tucidides-y-por-que-xi-cree-que-define-la-relacion-de-eeuu-con-china",
       "title": "Qué es la trampa de Tucídides y por qué Xi cree que define la relación de EE.UU. con China",
       "category": "Mundo",
-      "bullets_20s": "• La trampa de Tucídides describe cómo una potencia en ascenso puede desafiar a una potencia establecida.\n• Xi Jinping ha mencionado esta teoría para expresar los temores sobre el conflicto entre China y EE.UU.\n• Históricamente, muchas guerras han surgido debido a tensiones entre potencias en diferentes etapas de desarrollo.\n• Analistas creen que la relación entre EE.UU. y China podría verse afectada por esta teoría antigua.\n• Los líderes mundiales deben considerar el contexto histórico para evitar conflictos en el futuro.",
+      "bullets_20s": "• La trampa de Tucídides describe cómo una potencia emergente puede entrar en conflicto con una potencia establecida.\n• Xi Jinping utiliza este concepto para relacionar las tensiones entre China y EE.UU. en la actualidad.\n• Históricamente, la trampa de Tucídides ha sido relevante en diversas relaciones internacionales.\n• Comprender estas dinámicas es clave para prever posibles conflictos globales y regionales.\n• La idea invita a reflexionar sobre cómo evitar guerras entre las grandes potencias del mundo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cjdpy7xv4mdo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-05-15T04:00:44.000Z",
-      "teaser": "Lo clave en 20 segundos: La trampa de Tucídides explica tensiones entre potencias a través de la historia.",
+      "publish_date": "2026-05-15T04:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La trampa de Tucídides, un concepto antiguo, refleja tensiones actuales entre China y EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1ed4/live/12b28fc0-4fd0-11f1-8bad-4389c2128e5b.jpg",
       "description": "Una idea nacida en la antigua Grecia que Xi Jinping mencionó frente a Donald Trump expresa los temores a una posible guerra entre la potencia emergente, China, y la hegemónica, Estados Unidos.",
       "featured": false
@@ -446,11 +511,11 @@
       "slug": "el-director-de-la-cia-visita-cuba-para-una-reunion-con-las-autoridades-de-la-isla-en-la-habana",
       "title": "El director de la CIA visita Cuba para una reunión con las autoridades de la isla en La Habana",
       "category": "Mundo",
-      "bullets_20s": "• El director de la CIA, John Ratcliffe, fue a La Habana para discutir temas de seguridad.\n• La reunión se da en un contexto de relaciones tensas entre EE. UU. y Cuba.\n• El viaje busca mejorar la comunicación entre ambos países, según analistas.\n• El gobierno cubano confirmó el encuentro en un comunicado oficial.\n• Temas de espionaje y cooperación en seguridad son parte de la agenda.",
+      "bullets_20s": "• El director de la CIA tuvo un encuentro clave con líderes cubanos en La Habana.\n• La reunión se enmarca en un contexto de tensiones entre Estados Unidos y Cuba.\n• Autoridades cubanas confirmaron la visita de John Ratcliffe a la capital.\n• Se espera que se aborden temas de seguridad y cooperación bilateral.\n• La relación entre ambos países ha pasado por diferentes altibajos en los años.\n• Este diálogo se considera importante para la política internacional moderna.\n• Informes indican que temas de migración también podrían ser parte de la agenda.\n• La visita fue recibida con interés tanto a nivel local como global.\n• Analistas debaten sobre el impacto de esta reunión en la relación bilateral.\n• Cuba continúa buscando maneras de mejorar la comunicación con Estados Unidos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cp8p98z3rj8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-14T23:00:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El director de la CIA se reunión con líderes cubanos en La Habana.",
+      "teaser": "Lo clave en 20 segundos: El director de la CIA se reunió con autoridades cubanas en La Habana.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1be9/live/d28de820-4fe0-11f1-bd27-951b24fa75ab.jpg",
       "description": "John Ratcliffe estuvo este jueves en la capital cubana, según confirmó el gobierno de Díaz-Canel.",
       "featured": false
@@ -627,12 +692,12 @@
     {
       "slug": "pg-opi-27-reformulacion-del-plan-tactico-institucional",
       "title": "PG-OPI-27 Reformulación del Plan Táctico Institucional",
-      "category": "Tecnología",
-      "bullets_20s": "• El PG-OPI-27 se enfoca en la mejora institucional estratégica en diversas áreas.\n• Se espera que esta reformulación impulse un enfoque más efectivo en la administración.\n• Iniciativas recientes han resaltado la importancia de la planificación táctica en instituciones.\n• Revisar manuales y procedimientos es fundamental para la implementación de cambios.\n• Los avances en la tecnología también son parte integral del plan reformulado.",
+      "category": "Costa Rica",
+      "bullets_20s": "• La reformulación del Plan Táctico busca mejorar la eficiencia institucional.\n• Este plan se centra en la optimización de recursos y procesos internos.\n• Se espera que la implementación tenga un impacto positivo a mediano plazo.\n• Los manuales y procedimientos son clave para la ejecución del plan.\n• Se realizarán capacitaciones para asegurar la correcta adopción de cambios.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pg-opi-27-reformulacion-plan-tactico-institucional",
       "publish_date": "2026-05-14T19:26:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Impulso a la estrategia institucional con nueva planificación táctica.",
+      "teaser": "Lo clave en 20 segundos: Reformulación del Plan Táctico Institucional en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -641,11 +706,11 @@
       "slug": "pg-opi-26-evaluacion-del-plan-tactico-institucional",
       "title": "PG-OPI-26 Evaluación del Plan Táctico Institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• La evaluación del Plan Táctico es esencial para el desarrollo institucional en Costa Rica.\n• Este plan busca mejorar la implementación de estrategias en el ámbito educativo.\n• La metodología se basa en el análisis de resultados y la medición de indicadores.\n• Se espera que los resultados aporten a la toma de decisiones estratégicas.\n• Los manuales de procedimientos son fundamentales para guiar este proceso evaluativo.",
+      "bullets_20s": "• Se lleva a cabo la evaluación del Plan Táctico Institucional en el TEC.\n• La evaluación es parte del proceso de mejora continua del instituto.\n• El manual incluye procedimientos específicos para esta evaluación.\n• Se busca optimizar los recursos y esfuerzos de la institución.\n• Los resultados influirán en las decisiones estratégicas futuras.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pg-opi-26-evaluacion-plan-tactico-institucional",
       "publish_date": "2026-05-14T19:26:08.000Z",
-      "teaser": "Lo clave en 20 segundos: Evaluación esencial para el desarrollo institucional en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: evaluación del Plan Táctico Institucional en el TEC para mejorar procesos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -654,11 +719,11 @@
       "slug": "pg-opi-25-aprobacion-del-plan-tactico-institucional",
       "title": "PG-OPI-25 Aprobación del Plan Táctico Institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• El Plan Táctico Institucional busca mejorar la eficiencia administrativa.\n• Se enfoca en una gestión estratégica dentro de la institución.\n• Los manuales y procedimientos serán actualizados para su implementación.\n• Se espera una evaluación continua del proceso administrativo.\n• El objetivo es alinear los recursos con las metas institucionales.",
+      "bullets_20s": "• La aprobación del Plan Táctico Institucional es crucial para el TEC en la gestión administrativa.\n• Este plan busca mejorar la calidad de los procesos dentro de la institución educativa.\n• Incluirá estrategias de modernización y adaptabilidad a los retos actuales.\n• Se fomentará la participación de la comunidad educativa en su implementación.\n• La comunicación efectiva será clave para el éxito de este plan institucional.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pg-opi-25-aprobacion-plan-tactico-institucional",
       "publish_date": "2026-05-14T19:25:26.000Z",
-      "teaser": "Lo clave en 20 segundos: Mejora de la eficiencia administrativa con el nuevo plan táctico.",
+      "teaser": "Lo clave en 20 segundos: Se aprueba un plan táctico para mejorar la gestión del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -18045,5 +18110,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-15T14:45:19.384Z"
+  "generated_at": "2026-05-15T15:45:19.393Z"
 }
