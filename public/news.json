@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "cuando-la-inclusion-en-las-aulas-tiene-buenas-intenciones-pero-no-funciona-madre-de-trillizos-con-autismo-narra-su-histo",
+      "title": "Cuando la inclusión en las aulas tiene buenas intenciones pero no funciona: Madre de trillizos con autismo narra su historia",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un testimonio conmovedor sobre la realidad de la inclusión en las aulas en Costa Rica.\n• Se discuten las intenciones y las dificultades que enfrentan estudiantes con autismo.\n• El Ministro de Educación enfatiza la necesidad de crear condiciones adecuadas.\n• Expertos resaltan la importancia de la actitud positiva en la inclusión escolar.\n• Docentes comparten complicaciones que surgen al implementar la inclusión en su práctica.",
+      "source_name": "Fernanda Matarrita Chaves",
+      "source_url": "https://www.nacion.com/el-pais/cuando-la-inclusion-en-las-aulas-tiene-buenas/QEF67AANG5EURGJ3AP3JKT3BRU/story/",
+      "publish_date": "2026-05-16T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La lucha por la inclusión escolar y sus desafíos.",
+      "image_url": "https://www.nacion.com/resizer/v2/PZCQGCWDYBGT5FVJ25TUFBABF4.JPG?auth=2e665b55a9504334a4a3a5712a9ad131ec01e48c9344dbb5186d8a4499d33d8a&smart=true&width=4000&height=2666",
+      "description": "Ministro de Educación afirma que transición de alumnos con condición de discapacidad a aulas regulares debe hacerse pero con las condiciones idóneas, experta en educación especial sostiene que lo necesario es buena actitud, mientras que testimonios de una madre y docentes describen complejidad",
+      "featured": false
+    },
+    {
+      "slug": "editorial-costa-rica-convirtio-el-recurso-de-amparo-en-requisito-para-sobrevivir",
+      "title": "Editorial: Costa Rica convirtió el recurso de amparo en requisito para sobrevivir",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Sala IV ha visto un aumento notable en los amparos por pensiones y otros temas sociales.\n• Los amparos deben ser un recurso excepcional, no la norma para gestionar situaciones administrativas.\n• El abuso del recurso de amparo podría llevar a una crisis en el sistema judicial costarricense.\n• Es crucial abordar las causas estructurales de las listas de espera en programas sociales.\n• La falta de financiamiento adecuado afecta a las pensiones y servicios públicos esenciales.",
+      "source_name": "La Nación",
+      "source_url": "https://www.nacion.com/opinion/editorial/editorial-costa-rica-convirtio-el-recurso-de/OCV3GZNK7VH4RIYDZFDC5QZUVM/story/",
+      "publish_date": "2026-05-16T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El uso excesivo de amparos plantea serios problemas al sistema judicial en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/MVBVK2GNKNBL5BERDVPYKP42KQ.JPG?auth=f65ffd48355b008c42d4d1f58b963cbdbf1f103d11788e0762d1a9f32cc7527a&smart=true&width=4000&height=2667",
+      "description": "En 2025, la Sala IV resolvió 1.276 amparos por pensiones del Régimen No Contributivo, la cifra más alta de los últimos cinco años. Pero estos recursos no pueden convertirse en el mecanismo ordinario para gestionar listas de espera, priorizar casos o corregir la insuficiencia presupuestaria de programas sociales básicos.",
+      "featured": false
+    },
+    {
       "slug": "violento-ataque-deja-un-joven-fallecido-perdio-el-control-de-su-vehiculo-tras-ser-baleado",
       "title": "Violento ataque deja un joven fallecido: perdió el control de su vehículo tras ser baleado",
       "category": "Costa Rica",
@@ -43,11 +69,11 @@
       "slug": "por-que-italia-se-esta-convirtiendo-en-un-refugio-para-los-ultrarricos",
       "title": "Por qué Italia se está convirtiendo en un refugio para los ultrarricos",
       "category": "Mundo",
-      "bullets_20s": "• Italia ha implementado ventajas fiscales que atraen a personas con alto poder adquisitivo.\n• El clima, la cultura y la historia son factores atractivos para los ultrarricos.\n• Se han observado aumentos en la compra de propiedades de lujo por extranjeros.\n• El estilo de vida en Italia ofrece exclusividad y lujos para sus residentes.\n• Las políticas gubernamentales facilitan la adquisición de residencias a los ricos.\n• La tendencia se está intensificando, generando preocupaciones por la gentrificación.",
+      "bullets_20s": "• Italia se vuelve atractivo para ultrarricos por sus beneficios fiscales y calidad de vida.\n• El clima, la cultura y la gastronomía son factores que atraen a los millonarios.\n• Las políticas fiscales facilitan la reubicación de adinerados de diferentes nacionalidades.\n• Ciudades italianas se posicionan como centros de residencia para personas ricas.\n• El efecto de la pandemia ha intensificado la búsqueda de destinos seguros y agradables.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c3exl8qevw8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-16T03:38:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Italia se convierte en un destino favorito para los ultrarricos por sus beneficios fiscales.",
+      "teaser": "Lo clave en 20 segundos: Italia atrae a ultrarricos por sus ventajas fiscales y estilo de vida.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/7497/live/7dc156a0-4ef6-11f1-85df-7fe19d922bf1.jpg",
       "description": "Las ventajas fiscales italianas están haciendo que muchos adinerados extranjeros se instalen allí.",
       "featured": false
@@ -173,11 +199,11 @@
       "slug": "trump-advierte-a-taiwan-en-contra-de-declarar-su-independencia-horas-despues-de-reunirse-con-xi-jinping-en-pekin",
       "title": "Trump advierte a Taiwán en contra de declarar su independencia horas después de reunirse con Xi Jinping en Pekín",
       "category": "Mundo",
-      "bullets_20s": "• El presidente de EE.UU. se reúne con el líder chino Xi Jinping en Pekín para discutir temas importantes.\n• Taiwán es un tema delicado en las relaciones entre Estados Unidos y China que genera mucha tensión.\n• Trump insta a ambas partes a evitar movimientos que puedan incrementar los conflictos en la región.\n• Las advertencias de Trump buscan mantener la estabilidad en un área clave del comercio internacional.\n• La situación en Taiwán es fundamental para la política exterior de EE.UU. en Asia-Pacífico.",
+      "bullets_20s": "• Trump instó a Taiwán a no declarar independencia tras su reunión con Xi Jinping.\n• La tensión entre Pekín y Taipéi se ha intensificado en los últimos años.\n• Estados Unidos busca establecer un diálogo más efectivo entre ambas partes.\n• Expertos advierten sobre los riesgos de un conflicto en la región.\n• El papel de Estados Unidos en la política de Asia sigue siendo crucial.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ckgp3ke0lpeo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T22:39:25.000Z",
-      "teaser": "Lo clave en 20 segundos: Trump advierte a Taiwán sobre la independencia tras reunión con Xi Jinping.",
+      "teaser": "Lo clave en 20 segundos: Trump llama a la calma entre Taiwán y Pekín tras su reciente reunión.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/fc97/live/44d90680-5077-11f1-8b8c-6d33e1d5abb6.jpg",
       "description": "El presidente de Estados Unidos afirma que quiere que Pekín y Taipéi \"calmen\" las tensiones en torno a la isla autónoma.",
       "featured": false
@@ -328,14 +354,14 @@
     {
       "slug": "guia-para-el-diseno-implementacion-y-evaluacion-de-credenciales-alternativas",
       "title": "Guía para el diseño, implementación y evaluación de credenciales alternativas",
-      "category": "Costa Rica",
-      "bullets_20s": "• Explora el concepto de credenciales alternativas en la educación actual y su importancia.\n• Incluye legislación y estándares clave que rigen la implementación de estas credenciales.\n• Presenta un marco metodológico para el diseño y evaluación de credenciales alternativas.\n• Proporciona ejemplos de buenas prácticas en diversas instituciones educativas del país.\n• Ofrece recomendaciones para fortalecer la transparencia y credibilidad de las credenciales.",
+      "category": "Ciencia",
+      "bullets_20s": "• La guía aborda la importancia de las credenciales alternativas en los procesos educativos actuales.\n• Incluye metodologías efectivas para el diseño de programas educativos innovadores y accesibles.\n• Ofrece pasos claros para implementar evaluaciones que midan habilidades y competencias.\n• Resalta la necesidad de adaptar los procesos educativos a las nuevas realidades del mundo laboral.\n• Promueve la inclusión y diversidad en la educación a través de credenciales alternativas.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/guia-diseno-implementacion-evaluacion-credenciales-alternativas",
       "publish_date": "2026-05-15T19:57:36.000Z",
-      "teaser": "Lo clave en 20 segundos: guía para credenciales alternativas en educación.",
+      "teaser": "Lo clave en 20 segundos: Guía para implementar credenciales educativas alternativas exitosas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "Guía completa para el diseño y evaluación de credenciales en entornos educativos alternativos.",
+      "description": "evsolano",
       "featured": false
     },
     {
@@ -498,11 +524,11 @@
       "slug": "la-tragica-muerte-de-5-buceadores-italianos-mientras-exploraban-unas-cuevas-en-maldivas",
       "title": "La trágica muerte de 5 buceadores italianos mientras exploraban unas cuevas en Maldivas",
       "category": "Mundo",
-      "bullets_20s": "• Cinco buceadores italianos perdieron la vida en un trágico accidente en Maldivas.\n• El incidente ocurrió mientras exploraban cuevas submarinas en la región.\n• Los rescatistas están trabajando para comprender las circunstancias del accidente.\n• Se considera que este es uno de los peores accidentes de buceo registrados.\n• Este trágico evento ha generado atención internacional sobre la seguridad en el buceo.",
-      "source_name": "BBC Mundo",
+      "bullets_20s": "• Cinco buceadores italianos perdieron la vida en un accidente trágico en Maldivas.\n• El incidente fue reportado en una cueva popular entre los amantes del buceo.\n• Las autoridades están investigando las causas del accidente fatal.\n• Este trágico evento marca uno de los peores accidentes de buceo en Maldivas.\n• Los buceadores eran experimentados y habían explorado cuevas antes.",
+      "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/cx21n9xgdedo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T16:48:43.000Z",
-      "teaser": "Lo clave en 20 segundos: Trágico accidente de buceadores italianos en Maldivas conmueve al mundo.",
+      "teaser": "Lo clave en 20 segundos: Cinco buceadores italianos murieron explorando cuevas en Maldivas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ec8a/live/e46b9940-503d-11f1-b682-cf91850925ea.jpg",
       "description": "Se cree que es el peor accidente de buceo registrado en el país.",
       "featured": false
@@ -550,11 +576,11 @@
       "slug": "eeuu-europa-y-china-el-tablero-geopolitico-que-redefine-a-costa-rica",
       "title": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC abrió un debate sobre desafíos geopolíticos en Costa Rica en el marco de un evento académico.\n• Analistas discuten el impacto de EE.UU y China en la economía y política costarricense.\n• Se destacó la necesidad de diversificar relaciones internacionales más allá de EE.UU.\n• Los estudiantes participaron activamente planteando preguntas sobre la situación global actual.\n• El cambio climático y la inteligencia artificial son desafíos relevantes mencionados por el ponente.",
+      "bullets_20s": "• El TEC organizó un debate sobre desafíos geopolíticos, atrayendo más de 200 estudiantes.\n• El analista Eduardo Ulibarri discutió el impacto de potencias como EE.UU. y China.\n• Se abordó la alta dependencia económica de Costa Rica hacia Estados Unidos.\n• Cambios globales afectan la política exterior y la economía costarricense directamente.\n• La participación estudiantil fue clave, planteando preguntas sobre conflictos actuales.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/eeuu-europa-china-tablero-geopolitico-redefine-costa-rica",
       "publish_date": "2026-05-15T16:09:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Un debate sobre los retos geopolíticos que enfrenta Costa Rica hoy.",
+      "teaser": "Lo clave en 20 segundos: Debate sobre geopolítica y su impacto en Costa Rica liderado por Eduardo Ulibarri.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/costa-rica.jpeg",
       "description": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "featured": false
@@ -576,11 +602,11 @@
       "slug": "pe-eico-01-levantamiento-de-requisitos",
       "title": "PE-EICO-01 Levantamiento de Requisitos",
       "category": "Tecnología",
-      "bullets_20s": "• El levantamiento de requisitos es crucial en la planificación de proyectos tecnológicos.\n• Se enfoca en recopilar información esencial para el desarrollo de un sistema.\n• Involucra a usuarios, desarrolladores y partes interesadas en el proceso.\n• La comunicación efectiva es clave para obtener requisitos claros y precisos.\n• Un mal levantamiento puede generar costos adicionales y retrasos en la entrega.",
+      "bullets_20s": "• Levantamiento de requisitos es un proceso vital en el desarrollo de proyectos tecnológicos.\n• Se busca entender las necesidades del cliente para garantizar el éxito del proyecto.\n• La documentación adecuada es crucial para la comunicación entre el equipo y el cliente.\n• Es importante realizar entrevistas y encuestas para recopilar información precisa.\n• Las reuniones periódicas ayudan a aclarar dudas y ajustar los requisitos según avance.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-eico-01-levantamiento-requisitos",
       "publish_date": "2026-05-15T15:22:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Importancia del levantamiento de requisitos en proyectos tecnológicos.",
+      "teaser": "Lo clave en 20 segundos: Levantamiento de requisitos es fundamental en proyectos tecnológicos exitosos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -1213,11 +1239,11 @@
       "slug": "licenciatura-en-ingenieria-ambiental-y-administracion-de-tecnologias-de-informacion-se-acreditan-una-vez-mas-con-el-sina",
       "title": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
       "category": "Costa Rica",
-      "bullets_20s": "• La reacreditación de Ingeniería Ambiental es efectiva hasta el año 2029, manteniendo estándares de calidad.\n• La licenciatura en Administración de Tecnologías se acredita hasta el 2030, consolidando su reputación en el sector.\n• Ambas carreras aplican un enfoque multidisciplinario, priorizando la ética y la calidad en la educación superior.\n• El TEC reafirma su compromiso con la formación integral de estudiantes en tecnologías e ingeniería ambiental.\n• Estudiantes tienen acceso a un plan de estudios actualizado que favorece la investigación y la innovación.",
+      "bullets_20s": "• La licenciatura en Ingeniería Ambiental recibe acreditación del SINAES hasta el año 2029.\n• La Administración de Tecnologías de Información obtiene acreditación hasta el 2030 después de varias reacreditaciones.\n• El TEC busca asegurar la calidad educativa mediante acreditaciones en sus programas académicos.\n• Las acreditaciones reflejan el compromiso del TEC con la formación integral y calidad educativa.\n• La ceremonia de entrega de certificaciones se realizó en el Centro de las Artes del TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/licenciatura-ingenieria-ambiental-administracion-tecnologias-informacion-se-acreditan-vez-mas",
       "publish_date": "2026-05-14T20:30:51.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC reafirma su compromiso educativo con nuevas acreditaciones en Ingeniería y Tecnología.",
+      "teaser": "Lo clave en 20 segundos: TEC revalida sus programas de Ingeniería Ambiental y ATI con SINAES.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/acreditacion.jpeg",
       "description": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
       "featured": false
@@ -18669,5 +18695,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-16T10:45:21.048Z"
+  "generated_at": "2026-05-16T11:45:19.561Z"
 }
