@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "violento-ataque-deja-un-joven-fallecido-perdio-el-control-de-su-vehiculo-tras-ser-baleado",
+      "title": "Violento ataque deja un joven fallecido: perdió el control de su vehículo tras ser baleado",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un joven de 20 años falleció tras un ataque armado en Guácimo de Limón.\n• El incidente ocurrió durante la noche del viernes en una vía pública.\n• Se reportan múltiples disparos, lo que generó una gran alarma entre vecinos.\n• Las autoridades investigan la motivación detrás de este violento ataque.\n• La policía solicita información que ayude a esclarecer los hechos.",
+      "source_name": "Sebastián Sánchez, Reiner Montero",
+      "source_url": "https://www.nacion.com/sucesos/crimenes/violento-ataque-deja-un-joven-fallecido-perdio-el/Q2TZUI2NGFDYXCTCLLUP7QCUPU/story/",
+      "publish_date": "2026-05-16T04:33:10.000Z",
+      "teaser": "Lo clave en 20 segundos: un joven falleció tras un ataque armado en Limón.",
+      "image_url": "https://www.nacion.com/resizer/v2/R5VPM5JKRRC2NLQ2ZGID77TJUI.jpeg?auth=e4871f1da4ba3367bdbd20961cb2dffb9fa0664cc5ab55a0c7c988df9588e96f&smart=true&width=1280&height=853",
+      "description": "Un joven de aproximadamente 20 años falleció la noche de este viernes luego de ser atacado a balazos en Guácimo de Limón.",
+      "featured": false
+    },
+    {
       "slug": "estudiantes-entregaron-edificio-de-rectoria-en-la-ucr-tras-la-toma-estudiantil-fotos-y-video",
       "title": "Estudiantes entregaron edificio de Rectoría en la UCR tras la toma estudiantil (fotos y video)",
       "category": "Costa Rica",
@@ -30,11 +43,11 @@
       "slug": "por-que-italia-se-esta-convirtiendo-en-un-refugio-para-los-ultrarricos",
       "title": "Por qué Italia se está convirtiendo en un refugio para los ultrarricos",
       "category": "Mundo",
-      "bullets_20s": "• Italia se ha convertido en un destino preferido para los ultrarricos en busca de ventajas fiscales.\n• Las políticas fiscales italianas atraen a adinerados extranjeros deseosos de establecerse allí.\n• El país ofrece incentivos económicos que benefician a los inversores extranjeros.\n• La calidad de vida en Italia es un factor importante para estos nuevos residentes.\n• El arte, la cultura y la gastronomía son atractivos complementarios para los ultrarricos.",
+      "bullets_20s": "• Italia ofrece incentivos fiscales atractivos a extranjeros adinerados que buscan una nueva residencia.\n• El clima, la cultura y la seguridad son factores que atraen a los ultrarricos a Italia.\n• Las grandes ciudades italianas están viendo un aumento en la llegada de millonarios.\n• Las inversiones inmobiliarias en Italia se están disparando gracias a estos nuevos residentes.\n• El gobierno italiano busca fomentar la economía local a través de estas nuevas inversiones.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c3exl8qevw8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-16T03:38:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Italia atrae a ultrarricos por incentivos fiscales y calidad de vida.",
+      "teaser": "Lo clave en 20 segundos: Italia atrae a ultrarricos por ventajas fiscales y calidad de vida superior.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/7497/live/7dc156a0-4ef6-11f1-85df-7fe19d922bf1.jpg",
       "description": "Las ventajas fiscales italianas están haciendo que muchos adinerados extranjeros se instalen allí.",
       "featured": false
@@ -302,14 +315,14 @@
     {
       "slug": "guia-para-el-diseno-implementacion-y-evaluacion-de-credenciales-alternativas",
       "title": "Guía para el diseño, implementación y evaluación de credenciales alternativas",
-      "category": "Ciencia",
-      "bullets_20s": "• La guía aborda aspectos cruciales en el diseño de credenciales educativas alternativas.\n• Se analizan diferentes métodos de implementación para estas credenciales en entornos educativos.\n• Evalúa la efectividad de las credenciales a través de métricas y análisis de resultados.\n• Brinda recomendaciones prácticas para instituciones que buscan innovar en su oferta educativa.\n• Incluye ejemplos de éxito y mejores prácticas en el uso de credenciales alternativas.",
+      "category": "Tecnología",
+      "bullets_20s": "• La guía ofrece un esquema claro para aplicar credenciales alternativas en educación.\n• Las credenciales alternativas respaldan el aprendizaje práctico y diversificado en los estudiantes.\n• Iniciativas educativas pueden mejorar su calidad mediante estas nuevas credenciales.\n• La evaluación de estas credenciales es esencial para asegurar su efectividad en la educación.\n• Se busca fomentar nuevas metodologías de enseñanza con credenciales alternativas.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/guia-diseno-implementacion-evaluacion-credenciales-alternativas",
       "publish_date": "2026-05-15T19:57:36.000Z",
-      "teaser": "Lo clave en 20 segundos: Una guía completa para implementar credenciales educativas alternativas.",
+      "teaser": "Lo clave en 20 segundos: guía sobre credenciales alternativas en el ámbito educativo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "evsolano",
+      "description": "Guía para el diseño de credenciales alternativas, orientada a instituciones educativas y de formación.",
       "featured": false
     },
     {
@@ -472,11 +485,11 @@
       "slug": "la-tragica-muerte-de-5-buceadores-italianos-mientras-exploraban-unas-cuevas-en-maldivas",
       "title": "La trágica muerte de 5 buceadores italianos mientras exploraban unas cuevas en Maldivas",
       "category": "Mundo",
-      "bullets_20s": "• Cinco buceadores italianos perdieron la vida en un accidente en Maldivas.\n• El suceso ocurrió mientras exploraban cuevas submarinas en la región.\n• Este incidente se considera el peor accidente de buceo en la historia del país.\n• Las autoridades investigan las causas del trágico accidente ocurrido recientemente.\n• El buceo en cuevas es una actividad de riesgo que requiere formación avanzada.",
+      "bullets_20s": "• Cinco buceadores italianos han perdido la vida en un accidente en Maldivas.\n• El incidente ocurrió mientras los buceadores exploraban unas cuevas submarinas.\n• Este trágico evento es considerado el peor accidente de buceo en el país.\n• Las autoridades locales están investigando las circunstancias del accidente.\n• Se han intensificado las medidas de seguridad para los buceadores en la región.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx21n9xgdedo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T16:48:43.000Z",
-      "teaser": "Lo clave en 20 segundos: un accidente trágico durante una exploración en Maldivas dejó cinco buceadores fallecidos.",
+      "teaser": "Lo clave en 20 segundos: cinco buceadores italianos mueren en trágico accidente durante exploración.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ec8a/live/e46b9940-503d-11f1-b682-cf91850925ea.jpg",
       "description": "Se cree que es el peor accidente de buceo registrado en el país.",
       "featured": false
@@ -523,12 +536,12 @@
     {
       "slug": "eeuu-europa-y-china-el-tablero-geopolitico-que-redefine-a-costa-rica",
       "title": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
-      "category": "Costa Rica",
-      "bullets_20s": "• El evento del TEC abordó los desafíos geopolíticos que enfrenta Costa Rica en el contexto actual.\n• Más de 200 estudiantes participaron en el debate sobre la política global y su impacto local.\n• El analista Eduardo Ulibarri destacó la incertidumbre provocada por conflictos internacionales.\n• Se discutió la dependencia económica de Costa Rica respecto a Estados Unidos y sus efectos.\n• Ulibarri enfatizó la necesidad de diversificar relaciones con potencias como Europa y Canadá.\n• El cambio climático y la inteligencia artificial son tendencias que afectan a la sociedad costarricense.\n• El foro buscó generar pensamiento crítico sobre la situación geopolítica actual.\n• Se resaltó la importancia de espacios académicos para promover el análisis y debate.",
+      "category": "Mundo",
+      "bullets_20s": "• El TEC organizó un debate sobre la geopolítica contemporánea y su impacto en Costa Rica.\n• Más de 200 estudiantes participaron en un conversatorio sobre desafíos globales actuales.\n• Se discutieron las tensiones entre potencias mundiales y sus repercusiones locales.\n• El analista Eduardo Ulibarri abordó la dependencia económica de Costa Rica hacia EE.UU.\n• La actividad resaltó la importancia de fortalecer relaciones con Europa y otras naciones.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/eeuu-europa-china-tablero-geopolitico-redefine-costa-rica",
       "publish_date": "2026-05-15T16:09:20.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC revela desafíos geopolíticos que enfrenta Costa Rica en un mundo cambiante.",
+      "teaser": "Lo clave en 20 segundos: Un análisis de los retos geopolíticos para Costa Rica en un mundo cambiante.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/costa-rica.jpeg",
       "description": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "featured": false
@@ -550,13 +563,13 @@
       "slug": "pe-eico-01-levantamiento-de-requisitos",
       "title": "PE-EICO-01 Levantamiento de Requisitos",
       "category": "Tecnología",
-      "bullets_20s": "• Se centra en el proceso de levantamiento de requisitos para proyectos tecnológicos.\n• Importancia de la documentación adecuada en proyectos de desarrollo de software.\n• Involucra metodologías específicas para obtener requisitos claros y precisos.\n• Relevancia de la comunicación efectiva entre las partes interesadas y el equipo.\n• Énfasis en la validación de requisitos para asegurar el éxito del proyecto.",
+      "bullets_20s": "• El levantamiento de requisitos es fundamental en el desarrollo de proyectos académicos.\n• Este proceso asegura que las necesidades del proyecto se entiendan y documenten correctamente.\n• El manual incluye técnicas para recopilar y validar requisitos de manera efectiva.\n• La última modificación de este documento se realizó en mayo, 2026.\n• Los manuales y procedimientos son recursos valiosos para los estudiantes y profesores.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-eico-01-levantamiento-requisitos",
       "publish_date": "2026-05-15T15:22:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Levantamiento de requisitos es esencial en proyectos tecnológicos.",
+      "teaser": "Lo clave en 20 segundos: El levantamiento de requisitos es crucial para proyectos académicos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "evsolano",
+      "description": "Manual sobre el proceso de levantamiento de requisitos en el contexto académico.",
       "featured": false
     },
     {
@@ -680,11 +693,11 @@
       "slug": "como-operaba-desde-mexico-la-red-de-trafico-de-migrantes-de-dona-lupe-condenada-en-eeuu-a-11-anos-de-carcel",
       "title": "Cómo operaba desde México la red de tráfico de migrantes de \"Doña Lupe\", condenada en EE.UU. a 11 años de cárcel",
       "category": "Mundo",
-      "bullets_20s": "• Las redes de tráfico de migrantes son problemáticas en toda la frontera entre México y Estados Unidos.\n• Ofelia Hernández estuvo al frente de una operación compleja y muy bien organizada en su actividad ilícita.\n• La condena de Doña Lupe marca un paso importante en la lucha contra este tipo de crimen.\n• La colaboración entre México y Estados Unidos es esencial para desmantelar estas organizaciones criminales.\n• Se han intensificado las medidas de seguridad en la frontera para prevenir el tráfico humano.",
+      "bullets_20s": "• Ofelia Hernández Salas, conocida como Doña Lupe, operaba un grupo de tráfico de migrantes en México.\n• La red fue responsable de facilitar la migración ilegal entre México y Estados Unidos durante años.\n• Fue detenida en 2023 en México y posteriormente extraditada a EE.UU. para enfrentar cargos.\n• En EE.UU., recibió una condena de 11 años por su papel en la organización delictiva.\n• Los detalles de la operación han sido revelados a través de la investigación de las autoridades.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwy21yzl07po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T14:03:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Red de tráfico de migrantes liderada por Doña Lupe condenada en EE.UU.",
+      "teaser": "Lo clave en 20 segundos: Una red de tráfico de migrantes liderada por Doña Lupe fue desmantelada en México.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9b55/live/5013fed0-5066-11f1-b5fd-657572a40ad0.jpg",
       "description": "Detenida en México 2023 y extraditada a EE.UU., Ofelia Hernández Salas fue sentenciada por liderar una \"prolífica\" organización que operó en la zona fronteriza durante años.",
       "featured": false
@@ -849,13 +862,13 @@
       "slug": "las-hermanas-adolescentes-de-gaza-que-ganaron-un-premio-por-convertir-escombros-de-la-guerra-en-ladrillos",
       "title": "Las hermanas adolescentes de Gaza que ganaron un premio por convertir escombros de la guerra en ladrillos",
       "category": "Mundo",
-      "bullets_20s": "• Farah y Tala han transformado los escombros de Gaza en ladrillos innovadores y útiles.\n• Las jóvenes creen en hacer algo positivo a partir de la devastación de su entorno.\n• El premio que recibieron reconoce su esfuerzo y creatividad en medio de la guerra.\n• Juntas, han logrado demostrar que la reconstrucción es posible con ingenio y dedicación.\n• Su historia inspira a otros en conflictos similares a buscar soluciones creativas.",
+      "bullets_20s": "• Farah y Tala se han convertido en un símbolo de esperanza en medio del conflicto. Su creatividad les ha ganado reconocimiento.\n• Estas jóvenes han utilizado su talento para convertir escombros en ladrillos útiles. Un trabajo que se volvió esencial.\n• La historia de las hermanas muestra cómo la adversidad puede ser transformada en oportunidades. Su innovación es admirable.\n• A pesar de las condiciones difíciles, han encontrado maneras de hacer del mundo un lugar mejor con esfuerzos creativos.\n• El proyecto de las hermanas ganó un premio que reconoce su capacidad de resiliencia y su impacto positivo en la comunidad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c8r8y88l80zo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T10:31:44.000Z",
-      "teaser": "Lo clave en 20 segundos: dos jóvenes transforman destrucción en ladrillos, ganando un premio por su ingenio.",
+      "teaser": "Lo clave en 20 segundos: Las hermanas de Gaza transforman escombros en ladrillos y ganan un premio innovador.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/34c9/live/493b3f30-4eb6-11f1-bd52-e755d604ece4.png",
-      "description": "Farah y Tala, dos adolescentes desplazadas múltiples veces de su hogar, querían \"transformar la destrucción en algo útil\".",
+      "description": "Farah y Tala, dos adolescentes desplazadas múltiples veces de su hogar, querían 'transformar la destrucción en algo útil'.",
       "featured": false
     },
     {
@@ -875,11 +888,11 @@
       "slug": "que-es-la-trampa-de-tucidides-y-por-que-xi-cree-que-define-la-relacion-de-eeuu-con-china",
       "title": "Qué es la trampa de Tucídides y por qué Xi cree que define la relación de EE.UU. con China",
       "category": "Mundo",
-      "bullets_20s": "• La trampa de Tucídides describe el conflicto entre una potencia emergente y una hegemónica.\n• Xi Jinping citó este concepto al hablar de la relación entre EE.UU. y China.\n• Históricamente, este concepto se observa en diversas rivalidades globales.\n• La tensión actual entre las potencias puede llevar a conflictos mayores en el futuro.\n• Este tema refleja preocupaciones sobre guerras económicas y militares.",
+      "bullets_20s": "• La trampa de Tucídides describe el conflicto inevitable entre potencias emergentes y establecidas.\n• Xi Jinping ha señalado que esta teoría refleja la tensión con Estados Unidos.\n• El concepto se originó en la antigua Grecia y se aplica a la política moderna.\n• Históricamente, varias potencias han enfrentado este tipo de dinámica conflictiva.\n• La relación entre China y EE.UU. es crucial para el equilibrio global actual.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cjdpy7xv4mdo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T04:00:44.000Z",
-      "teaser": "Lo clave en 20 segundos: La trampa de Tucídides explica tensiones entre EE.UU. y China.",
+      "teaser": "Lo clave en 20 segundos: La trampa de Tucídides explica la tensión entre EE.UU. y China.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1ed4/live/12b28fc0-4fd0-11f1-8bad-4389c2128e5b.jpg",
       "description": "Una idea nacida en la antigua Grecia que Xi Jinping mencionó frente a Donald Trump expresa los temores a una posible guerra entre la potencia emergente, China, y la hegemónica, Estados Unidos.",
       "featured": false
@@ -1187,13 +1200,13 @@
       "slug": "licenciatura-en-ingenieria-ambiental-y-administracion-de-tecnologias-de-informacion-se-acreditan-una-vez-mas-con-el-sina",
       "title": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
       "category": "Costa Rica",
-      "bullets_20s": "• La acreditación reafirma el compromiso del TEC con la calidad educativa y la formación integral.\n• Ambas licenciaturas se han acreditado por un período extendido, destacando su excelencia académica.\n• La ceremonia de acreditación se celebró en el auditorio del Centro de las Artes del TEC.\n• Estas acreditaciones son reflejo de un trabajo continuo y la visión de avance del TEC.\n• El TEC celebra su papel importante en la educación superior costarricense tras 55 años de trayectoria.\n• El programa de Ingeniería Ambiental es el único en Costa Rica con acreditación constante desde 2016.\n• La carrera de Administración de Tecnologías de Información ha respondido a la demanda empresarial actual.\n• La acreditación refuerza la confianza en la formación de profesionales aptos para el mercado laboral.\n• Ambas carreras buscan innovar y adaptarse a las necesidades cambiantes del entorno tecnológico.\n• El respaldo del SINAES reafirma los estándares académicos y la misión educativa del TEC.",
+      "bullets_20s": "• El Tecnológico de Costa Rica reafirma su compromiso con la calidad educativa mediante estas acreditaciones.\n• Ambos programas son reconocidos a nivel nacional e internacional por su excelencia académica.\n• La acreditación de Ingeniería Ambiental estará vigente hasta el año 2029 para su promoción.\n• Los estudiantes desarrollan competencias técnicas y humanas para enfrentar problemas ambientales complejos.\n• La carrera de ATI busca formar profesionales en gestión de tecnologías de información de alta calidad.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/licenciatura-ingenieria-ambiental-administracion-tecnologias-informacion-se-acreditan-vez-mas",
       "publish_date": "2026-05-14T20:30:51.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC celebra nuevas acreditaciones en Ingeniería Ambiental y Administración de TI.",
+      "teaser": "Lo clave en 20 segundos: La licenciatura en Ingeniería Ambiental y ATI vuelven a ser acreditadas por el SINAES.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/acreditacion.jpeg",
-      "description": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
+      "description": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES.",
       "featured": false
     },
     {
@@ -18643,5 +18656,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-16T04:45:19.299Z"
+  "generated_at": "2026-05-16T05:45:19.839Z"
 }
