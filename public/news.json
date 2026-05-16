@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "historico-ciclista-y-triple-campeon-del-mundo-competira-en-un-evento-en-costa-rica",
+      "title": "Histórico ciclista y triple campeón del mundo competirá en un evento en Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un ciclista histórico, reconocido por su talento y logros en el ciclismo internacional.\n• Este ciclista ha triunfado en varias ediciones del Campeonato Mundial de Ciclismo.\n• El evento en Costa Rica promete atraer a muchos aficionados del ciclismo local.\n• Su carrera incluye destacar en el famoso Tour de Francia, una de las competencias más duras.\n• Los fanáticos esperarán con entusiasmo su participación en esta competencia nacional.",
+      "source_name": "Juan Diego Villarreal",
+      "source_url": "https://www.nacion.com/puro-deporte/historico-ciclista-y-triple-campeon-del-mundo/7KYYKLCPPZEPZFJBFV3EJDLFFI/story/",
+      "publish_date": "2026-05-16T01:05:41.000Z",
+      "teaser": "Lo clave en 20 segundos: Un campeón mundial de ciclismo llega a competir en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/MZ6IIUWWWZCYZDMQGCQMZJMPA4.jpg?auth=6233dafbe6bc6c3a6f45c8741c17f8e4dd542d9277a9dc476222f4b53ac8a2f6&smart=true&width=3414&height=2276",
+      "description": "Tras coronarse triple campeón del mundo de ciclismo y ganar etapas en el Tour de Francia, correrá en Costa Rica.",
+      "featured": false
+    },
+    {
       "slug": "costa-rica-recibe-nuevo-grupo-de-deportados-de-estados-unidos-con-personas-de-5-nacionalidades",
       "title": "Costa Rica recibe nuevo grupo de deportados de Estados Unidos con personas de 5 nacionalidades",
       "category": "Costa Rica",
@@ -225,13 +238,13 @@
       "slug": "guia-para-el-diseno-implementacion-y-evaluacion-de-credenciales-alternativas",
       "title": "Guía para el diseño, implementación y evaluación de credenciales alternativas",
       "category": "Ciencia",
-      "bullets_20s": "• Las credenciales alternativas son una respuesta a las necesidades educativas actuales.\n• La guía incluye estrategias para implementar estas nuevas credenciales efectivamente.\n• Evalúa cómo las credenciales alternativas pueden impactar el aprendizaje del estudiante.\n• Promueve la innovación en el diseño curricular a través de estas credenciales.\n• Ayuda a instituciones a adaptarse a un mundo laboral en constante cambio.",
+      "bullets_20s": "• Se presenta una guía completa sobre credenciales alternativas de aprendizaje en educación.\n• La guía incluye diseño, implementación y evaluación para mejorar la educación superior.\n• Se enfoca en ofrecer herramientas prácticas y metodologías para educadores.\n• Fomenta la innovación en la educación y la personalización del aprendizaje.\n• Destaca la importancia de la evaluación continua en el proceso educativo.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/guia-diseno-implementacion-evaluacion-credenciales-alternativas",
       "publish_date": "2026-05-15T19:57:36.000Z",
-      "teaser": "Lo clave en 20 segundos: una guía para innovar en credenciales educativas.",
+      "teaser": "Lo clave en 20 segundos: guía sobre credenciales alternativas para la educación superior.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "Guía enfocada en el desarrollo de credenciales alternativas en el ámbito educativo.",
+      "description": "evsolano",
       "featured": false
     },
     {
@@ -394,11 +407,11 @@
       "slug": "la-tragica-muerte-de-5-buceadores-italianos-mientras-exploraban-unas-cuevas-en-maldivas",
       "title": "La trágica muerte de 5 buceadores italianos mientras exploraban unas cuevas en Maldivas",
       "category": "Mundo",
-      "bullets_20s": "• Cinco buceadores italianos perdieron la vida en un trágico accidente en Maldivas.\n• Los buceadores estaban explorando cuevas cuando ocurrió el accidente fatal.\n• Se reporta que es una de las peores tragedias de buceo en la historia del país.\n• Las autoridades locales están llevando a cabo una investigación sobre los hechos.\n• Los amigos y familiares de las víctimas están devastados por la noticia.",
-      "source_name": "",
+      "bullets_20s": "• Cinco buceadores italianos perdieron la vida en un accidente en las Maldivas.\n• El accidente ocurrió mientras exploraban unas cuevas en la región.\n• Este evento marca una tragedia en la historia del buceo maldivo.\n• Se llevan a cabo investigaciones para esclarecer las causas de la tragedia.\n• Las Maldivas son populares por sus actividades de buceo y snorkel.",
+      "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx21n9xgdedo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T16:48:43.000Z",
-      "teaser": "Lo clave en 20 segundos: cinco buceadores italianos fallecen en accidente en Maldivas.",
+      "teaser": "Lo clave en 20 segundos: Cinco buceadores italianos fallecen en Maldivas durante exploración submarina.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ec8a/live/e46b9940-503d-11f1-b682-cf91850925ea.jpg",
       "description": "Se cree que es el peor accidente de buceo registrado en el país.",
       "featured": false
@@ -446,11 +459,11 @@
       "slug": "eeuu-europa-y-china-el-tablero-geopolitico-que-redefine-a-costa-rica",
       "title": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC abrió un debate sobre desafíos geopolíticos en Costa Rica en el Día de la Persona Estudiante.\n• Más de 200 estudiantes asistieron al conversatorio sobre el entorno geopolítico nacional e internacional.\n• El analista Eduardo Ulibarri destacó la dependencia económica de Costa Rica con Estados Unidos.\n• Se plantearon preguntas sobre la guerra en Ucrania y el impacto de China en la economía global.\n• Ulibarri advirtió del debilitamiento de organismos multilaterales y alianzas tradicionales a nivel global.",
+      "bullets_20s": "• Más de 200 estudiantes participaron en el debate sobre desafíos geopolíticos en Costa Rica.\n• El evento fue organizado por el Tecnológico de Costa Rica y reunió a diversas autoridades académicas.\n• Se discutieron temas como el impacto de China en la economía global y la guerra en Ucrania.\n• Eduardo Ulibarri, exembajador, habló sobre la incertidumbre y desafíos internacionales actuales.\n• El cambio climático y la inteligencia artificial fueron destacados como problemas globales urgentes.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/eeuu-europa-china-tablero-geopolitico-redefine-costa-rica",
       "publish_date": "2026-05-15T16:09:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Debate sobre geopolítica y su impacto en Costa Rica, centrándose en EE.UU, Europa y China.",
+      "teaser": "Lo clave en 20 segundos: el TEC debate el impacto geopolítico de potencias en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/costa-rica.jpeg",
       "description": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "featured": false
@@ -472,11 +485,11 @@
       "slug": "pe-eico-01-levantamiento-de-requisitos",
       "title": "PE-EICO-01 Levantamiento de Requisitos",
       "category": "Tecnología",
-      "bullets_20s": "• El levantamiento de requisitos es crucial en el desarrollo de proyectos tecnológicos.\n• Se busca identificar necesidades y expectativas de los usuarios finales.\n• Documentar requisitos ayuda a prevenir errores y malentendidos en el proyecto.\n• Este documento será una guía para todo el proceso de desarrollo.\n• Implica colaboración entre diferentes áreas para un resultado óptimo.",
+      "bullets_20s": "• El levantamiento de requisitos es fundamental en el desarrollo de proyectos tecnológicos.\n• Manuales y procedimientos establecen las pautas para la recolección de información.\n• Este proceso asegura que las necesidades del cliente sean correctamente interpretadas.\n• La documentación adecuada es clave para el éxito de un proyecto tecnológico.\n• Se busca alineación entre los stakeholders y el equipo de desarrollo de software.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-eico-01-levantamiento-requisitos",
       "publish_date": "2026-05-15T15:22:22.000Z",
-      "teaser": "Lo clave en 20 segundos: El levantamiento de requisitos es esencial en proyectos tecnológicos.",
+      "teaser": "Lo clave en 20 segundos: Levantamiento de requisitos es crucial para proyectos tecnológicos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -602,13 +615,13 @@
       "slug": "como-operaba-desde-mexico-la-red-de-trafico-de-migrantes-de-dona-lupe-condenada-en-eeuu-a-11-anos-de-carcel",
       "title": "Cómo operaba desde México la red de tráfico de migrantes de \"Doña Lupe\", condenada en EE.UU. a 11 años de cárcel",
       "category": "Mundo",
-      "bullets_20s": "• La red de tráfico de migrantes fue liderada por Ofelia Hernández Salas durante varios años.\n• Operaban principalmente en la zona fronteriza entre México y Estados Unidos.\n• La organización fue declarada 'prolífica' debido a su alcance y efectividad.\n• Ofelia fue detenida en México en 2023 antes de ser extraditada a EE.UU.\n• Recibió una sentencia de 11 años de cárcel por sus actividades delictivas.",
+      "bullets_20s": "• La red de Doña Lupe facilitaba el tráfico de migrantes entre México y EE.UU. durante años.\n• Ofelia Hernández Salas fue detenida en México y extraditada a Estados Unidos en 2023.\n• La organización fue considerada 'prolífica' debido a su amplio alcance en la frontera.\n• Las autoridades descubrieron métodos ingeniosos utilizados en la operación del tráfico.\n• La condena de 11 años resalta la gravedad del crimen organizado en la región.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwy21yzl07po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T14:03:44.000Z",
-      "teaser": "Lo clave en 20 segundos: La red de Doña Lupe fue desmantelada tras años operando en la frontera.",
+      "teaser": "Lo clave en 20 segundos: La red de tráfico de migrantes liderada por Doña Lupe fue desmantelada y condenada en EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9b55/live/5013fed0-5066-11f1-b5fd-657572a40ad0.jpg",
-      "description": "Detenida en México 2023 y extraditada a EE.UU., Ofelia Hernández Salas fue sentenciada por liderar una 'prolífica' organización que operó en la zona fronteriza durante años.",
+      "description": "Detenida en México 2023 y extraditada a EE.UU., Ofelia Hernández Salas fue sentenciada por liderar una \"prolífica\" organización que operó en la zona fronteriza durante años.",
       "featured": false
     },
     {
@@ -771,11 +784,11 @@
       "slug": "las-hermanas-adolescentes-de-gaza-que-ganaron-un-premio-por-convertir-escombros-de-la-guerra-en-ladrillos",
       "title": "Las hermanas adolescentes de Gaza que ganaron un premio por convertir escombros de la guerra en ladrillos",
       "category": "Mundo",
-      "bullets_20s": "• Las adolescentes Farah y Tala han creado un innovador proyecto en Gaza.\n• Su iniciativa convierte escombros de la guerra en ladrillos reutilizables.\n• Estas jóvenes buscan contribuir al desarrollo de su comunidad afectada.\n• El proyecto ha sido reconocido internacionalmente por su creatividad.\n• Gaza enfrenta desafíos constantes, pero estas hermanas encuentran esperanza.",
+      "bullets_20s": "• Las hermanas Farah y Tala han enfrentado múltiples desplazamientos por la guerra en Gaza.\n• Su proyecto busca convertir escombros en ladrillos, promoviendo la reconstrucción.\n• Ambas adolescentes han recibido un premio por su innovadora idea en tiempos de crisis.\n• Este esfuerzo representa esperanza y creatividad en medio de la destrucción constante.\n• La iniciativa inspira a jóvenes en situaciones similares, promoviendo la resiliencia.\n• El reconocimiento resalta la importancia de soluciones sostenibles en conflictos.\n• Su historia evidencia la capacidad de las nuevas generaciones para innovar.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c8r8y88l80zo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T10:31:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Dos hermanas transforman la destrucción en ladrillos útiles en Gaza.",
+      "teaser": "Lo clave en 20 segundos: Adolescentes transforman escombros en ladrillos y ganan reconocimiento internacional.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/34c9/live/493b3f30-4eb6-11f1-bd52-e755d604ece4.png",
       "description": "Farah y Tala, dos adolescentes desplazadas múltiples veces de su hogar, querían 'transformar la destrucción en algo útil'.",
       "featured": false
@@ -797,11 +810,11 @@
       "slug": "que-es-la-trampa-de-tucidides-y-por-que-xi-cree-que-define-la-relacion-de-eeuu-con-china",
       "title": "Qué es la trampa de Tucídides y por qué Xi cree que define la relación de EE.UU. con China",
       "category": "Mundo",
-      "bullets_20s": "• La trampa de Tucídides describe el conflicto entre una potencia emergente y una establecida.\n• Xi Jinping ha mencionado esta teoría para abordar la relación con EE.UU.\n• La antigua Grecia es el origen de esta idea que resuena en la actualidad.\n• Expertos analizan cómo esto puede predecir conflictos futuros entre potencias.\n• Las tensiones entre China y EE.UU. continúan en diversos ámbitos e intereses.",
+      "bullets_20s": "• La trampa de Tucídides describe cómo una potencia emergente puede desafiar a una potencia establecida.\n• Xi Jinping menciona esta teoría para expresar temores sobre las relaciones EE.UU.-China.\n• La historia muestra que tales tensiones pueden llevar a conflictos bélicos significativos.\n• Expertos analizan cómo las acciones de ambas potencias influencian su relación actual.\n• Entender este concepto es clave para interpretar la política internacional contemporánea.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cjdpy7xv4mdo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-15T04:00:44.000Z",
-      "teaser": "Lo clave en 20 segundos: La teoría de Tucídides resuena en la actual relación China-EE.UU.",
+      "teaser": "Lo clave en 20 segundos: La trampa de Tucídides refleja temores de guerra entre potencias.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1ed4/live/12b28fc0-4fd0-11f1-8bad-4389c2128e5b.jpg",
       "description": "Una idea nacida en la antigua Grecia que Xi Jinping mencionó frente a Donald Trump expresa los temores a una posible guerra entre la potencia emergente, China, y la hegemónica, Estados Unidos.",
       "featured": false
@@ -1109,13 +1122,13 @@
       "slug": "licenciatura-en-ingenieria-ambiental-y-administracion-de-tecnologias-de-informacion-se-acreditan-una-vez-mas-con-el-sina",
       "title": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
       "category": "Costa Rica",
-      "bullets_20s": "• La acreditación reafirma la calidad académica de las carreras en el Tecnológico de Costa Rica.\n• Ingeniería Ambiental se acredita por tercera vez, manteniendo estándares desde 2016.\n• Administración de Tecnologías de Información presenta su tercer ciclo de acreditación hasta el 2030.\n• Ambas carreras fortalecen su compromiso con la educación superior en el país.\n• El TEC enfatiza su misión de preparar a estudiantes para los desafíos actuales y futuros.",
+      "bullets_20s": "• La Licenciatura en Ingeniería Ambiental se acredita por tercera vez, vigente hasta el 2029.\n• La Administración de Tecnologías de Información también es reacreditada hasta el 2030 en esta ocasión.\n• El TEC reafirma su compromiso con la calidad educativa y formación integral de sus estudiantes.\n• Las acreditaciones fueron entregadas en una ceremonia en el auditorio del Centro de las Artes.\n• La ingeniería ambiental fomenta soluciones científicas y tecnológicas ante problemas ambientales.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/licenciatura-ingenieria-ambiental-administracion-tecnologias-informacion-se-acreditan-vez-mas",
       "publish_date": "2026-05-14T20:30:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevas acreditaciones para Ingeniería Ambiental y Administración de Tecnologías en el TEC.",
+      "teaser": "Lo clave en 20 segundos: La reacreditación reafirma el compromiso del TEC con la calidad educativa.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/acreditacion.jpeg",
-      "description": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES.",
+      "description": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
       "featured": false
     },
     {
@@ -18565,5 +18578,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-16T00:45:19.543Z"
+  "generated_at": "2026-05-16T01:45:19.593Z"
 }
