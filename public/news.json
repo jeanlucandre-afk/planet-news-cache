@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "el-cazador-de-dictadores-siempre-me-agrada-ver-a-un-dictador-esposado-pero-no-a-cualquier-costo",
+      "title": "El \"cazador de dictadores\": \"Siempre me agrada ver a un dictador esposado, pero no a cualquier costo\"",
+      "category": "Mundo",
+      "bullets_20s": "• Reed Brody ha dedicado su carrera a la lucha contra la impunidad de dictadores en el mundo.\n• En la entrevista se discuten los desafíos en la búsqueda de justicia internacional.\n• Brody enfatiza la importancia de ver a los dictadores responsables por sus crímenes.\n• La conversación revela momentos clave en la trayectoria del abogado activista.\n• La justicia frente a regímenes autoritarios es un tema crucial en el panorama actual.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c2e2n3rg2wno?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-17T11:15:06.000Z",
+      "teaser": "Lo clave en 20 segundos: Reed Brody habla sobre la lucha contra la impunidad de dictadores.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8832/live/37f28fd0-5082-11f1-b65e-7792809e12cc.jpg",
+      "description": "El abogado y autor Reed Brody, conocido como el “cazador de dictadores”, habló con BBC Mundo sobre su trayectoria y los desafíos de romper la impunidad y lograr justicia frente a regímenes autoritarios.",
+      "featured": false
+    },
+    {
+      "slug": "editorial-el-contundente-mensaje-de-la-union-europea-sobre-el-tse-y-la-democracia-costarricense",
+      "title": "Editorial: El contundente mensaje de la Unión Europea sobre el TSE y la democracia costarricense",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Unión Europea emitió un informe sobre el funcionamiento del Tribunal Supremo de Elecciones.\n• El informe destaca la importancia de la integridad del TSE en la democracia costarricense.\n• Se mencionan ataques orquestados contra el TSE y medios independientes en el país.\n• La misión de expertos evalúa positivamente la legitimidad del proceso electoral en Costa Rica.\n• La defensa de la democracia es clave para mantener la confianza en las instituciones.",
+      "source_name": "La Nación",
+      "source_url": "https://www.nacion.com/opinion/editorial/editorial-la-union-europea-puso-la-lupa-sobre-las/DZETPV3R4JDGTOLKCX5NZEO4PE/story/",
+      "publish_date": "2026-05-17T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Un informe de la UE alaba al TSE y critica los ataques a la democracia costarricense.",
+      "image_url": "https://www.nacion.com/resizer/v2/JGSTK2Q5HZGRZJCBI2KCV2L75U.JPG?auth=dc94e6ec522bb3fe3a7cd600b26b5cd788443a108272d7a8a2e8dee44a3ad756&smart=true&width=3892&height=2487",
+      "description": "Un exhaustivo y revelador informe elaborado por la Misión de Expertos Electorales de la Unión Europea y presentado el pasado 29 de abril reconoce la integridad y el rigor del Tribunal Supremo de Elecciones, al tiempo que lamenta los orquestados ataques contra esta institución y los medios de comunicación independientes",
+      "featured": false
+    },
+    {
+      "slug": "bloque-opositor-o-alianza-legislativa-asi-explican-el-acuerdo-los-partidos",
+      "title": "¿Bloque opositor o alianza legislativa? Así explican el acuerdo los partidos",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los partidos PLN, Frente Amplio, PUSC y CAC se unieron en la Asamblea Legislativa.\n• El bloque busca enfrentar la mayoría oficialista del PPSO en el parlamento.\n• La agenda común está enfocada solo en legislaciones, aseguran los partidos.\n• Surgen dudas sobre posibles alianzas políticas a futuro entre estas agrupaciones.\n• La situación legislativa podría influir en las elecciones del 2028 en Costa Rica.",
+      "source_name": "Cristian Mora",
+      "source_url": "https://www.nacion.com/politica/bloque-opositor-o-alianza-legislativa-asi-explican/IXIAQFX5P5EAPHHZQHMDSJ2AFQ/story/",
+      "publish_date": "2026-05-17T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Oposición unida enfrenta oficialismo en la Asamblea, pero hay dudas sobre futuras alianzas.",
+      "image_url": "https://www.nacion.com/resizer/v2/TOWPMPQ2TVHSJGJR2HVUQ5JEQY.jpeg?auth=643e61c8487fac9ee1e1efe35b71f48a0bcfa3e62e27a6b1cbeee4c84ca0b979&smart=true&width=2976&height=1984",
+      "description": "PLN, Frente Amplio, PUSC y CAC conformaron un bloque opositor en la Asamblea Legislativa para enfrentar la mayoría oficialista del PPSO.",
+      "featured": false
+    },
+    {
       "slug": "aparecio-un-mundo-de-ensueno-la-historia-del-quimico-suizo-que-experimento-el-primer-viaje-con-lsd-montado-en-una-bicicl",
       "title": "Apareció un mundo de ensueño: la historia del químico suizo que experimentó el primer viaje con LSD montado en una bicicleta",
       "category": "Mundo",
@@ -43,13 +82,13 @@
       "slug": "que-fue-la-revolucion-cultural-de-mao-zedong-y-como-marco-la-historia-de-china-hace-60-anos",
       "title": "Qué fue la Revolución Cultural de Mao Zedong y cómo marcó la historia de China hace 60 años",
       "category": "Mundo",
-      "bullets_20s": "• La Revolución Cultural se inició en 1966 y buscaba eliminar la influencia capitalista.\n• Mao Zedong promovió la participación juvenil en un esfuerzo por consolidar su poder.\n• Las 'Guardias Rojas' desempeñaron un papel clave en la movilización de los jóvenes.\n• Se destruyeron símbolos culturales y se persiguió a académicos y opositores.\n• El periodo dejó huellas profundas en la sociedad y la política china actual.",
+      "bullets_20s": "• La Revolución Cultural inició en 1966 y tuvo un impacto profundo en la sociedad china.\n• Mao Zedong buscaba redefinir la cultura y eliminar conceptos tradicionales antiguos.\n• Los jóvenes fueron movilizados en unos 'Guardias Rojos' para llevar a cabo la purga.\n• La campaña se caracterizó por violencia y ataques a intelectuales y figuras públicas.\n• Transformó la educación y el arte en China, llevándolos a enfoques más radicales.\n• Las cicatrices políticas y sociales persisten hasta hoy, afectando generaciones.\n• Fue un periodo de gran agitación que dejó marcado al pueblo chino.\n• Los resultados de la Revolución Cultural aún generan debate entre historiadores.\n• China se reconstruyó después, pero el legado cultural fue alterado significativamente.\n• El impacto de este evento se analiza en el contexto histórico global.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c042rd5kvpqo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-17T02:50:15.000Z",
-      "teaser": "Lo clave en 20 segundos: La Revolución Cultural de Mao transformó China y su historia.",
+      "teaser": "Lo clave en 20 segundos: La Revolución Cultural transformó China con purgas y violencia bajo Mao Zedong.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/6a24/live/8cef05c0-4f0d-11f1-bbd7-4dd9e7da3820.jpg",
-      "description": "Millones de jóvenes fueron movilizados en China para atacar las “viejas ideas”, en una campaña de purgas, violencia y culto a la personalidad.",
+      "description": "Millones de jóvenes fueron movilizados en China para atacar las “viejas ideas”, en una campaña de purgas, violencia y culto a la personalidad impulsada por Mao Zedong que transformó el país y dejó profundas cicatrices políticas y sociales.",
       "featured": false
     },
     {
@@ -108,13 +147,13 @@
       "slug": "el-gobierno-de-venezuela-extradita-a-eeuu-al-empresario-colombiano-alex-saab-aliado-y-supuesto-testaferro-de-nicolas-mad",
       "title": "El gobierno de Venezuela extradita a EE.UU. al empresario colombiano Alex Saab, aliado y supuesto testaferro de Nicolás Maduro",
       "category": "Mundo",
-      "bullets_20s": "• La extradición de Alex Saab marca un importante evento en las relaciones entre Venezuela y EE.UU.\n• Saab ha sido una figura clave en el círculo cercano de Nicolás Maduro durante años.\n• Estados Unidos lo acusa de participar en una extensa red de corrupción y lavado de dinero.\n• La situación política en Venezuela sigue siendo tensa y complicada a nivel internacional.\n• Este caso podría tener repercusiones significativas en la política de la región.\n• Saab fue nombrado ministro de Industria en Venezuela, lo que ha levantado sospechas.\n• Se habla de un posible cambio de postura en la relación entre ambas naciones con esta extradición.\n• La comunidad internacional está atenta a la evolución de este acontecimiento jurídico.\n• Este caso podría afectar la imagen del gobierno venezolano en foros internacionales.",
+      "bullets_20s": "• Alex Saab ha sido un personaje clave en el gobierno de Nicolás Maduro en Venezuela.\n• La extradición a EE.UU. despierta controversia en el ámbito político internacional.\n• EE.UU. acusa a Saab de lavado de dinero relacionado con el gobierno venezolano.\n• Esta extradición podría tener implicaciones diplomáticas entre Venezuela y EE.UU.\n• Se espera que el caso de Saab genere un intenso debate sobre la corrupción estatal.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4gvnw3gv4vo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-16T23:30:51.000Z",
-      "teaser": "Lo clave en 20 segundos: La extradición de Alex Saab a EE.UU. evidencia tensiones políticas entre naciones.",
+      "teaser": "Lo clave en 20 segundos: La extradición de Saab podría cambiar el panorama político en Venezuela.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/049c/live/8a2182a0-0205-11f1-b311-a93d45a0b96f.jpg",
-      "description": "El empresario colombiano, a quien Maduro nombró ministro de Industria, ha sido acusado por EE.UU. de lavado de dinero.",
+      "description": "El empresario colombiano, a quien Maduro nombró ministro de Industria, ha sido acusado por EE.UU. de haber lavado hasta US$350 millones supuestamente defraudados a través del sistema de control cambiario en Venezuela.",
       "featured": false
     },
     {
@@ -1070,11 +1109,11 @@
       "slug": "guia-para-el-diseno-implementacion-y-evaluacion-de-credenciales-alternativas",
       "title": "Guía para el diseño, implementación y evaluación de credenciales alternativas",
       "category": "Ciencia",
-      "bullets_20s": "• La guía ofrece un enfoque integral sobre credenciales alternativas en educación.\n• Incorpora metodologías para un diseño eficaz y adaptado a diversas necesidades.\n• Fair evaluaciones que garantizan la validez y reconocimiento de las credenciales.\n• Consejos prácticos para la implementación en contextos educativos variados.\n• Promueve la innovación en la formación y desarrollo de competencias.\n• Facilita la colaboración entre instituciones para fortalecer la educación.\n• Argumentos sobre la importancia de las credenciales en el mercado laboral actual.\n• Refuerza la evaluación continua como clave para la mejora educativa.\n• Impulsa nuevas tendencias en educación basada en resultados y habilidades.",
+      "bullets_20s": "• La guía ofrece un enfoque integral para el diseño de credenciales alternativas.\n• Se enfoca en la implementación efectiva y evaluación de credenciales.\n• Aporta estrategias prácticas para instituciones educativas en el país.\n• Incluye ejemplos de mejores prácticas en el contexto moderno.\n• Promueve la innovación en la educación a través de credenciales alternativas.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/guia-diseno-implementacion-evaluacion-credenciales-alternativas",
       "publish_date": "2026-05-15T19:57:36.000Z",
-      "teaser": "Lo clave en 20 segundos: Una guía sobre credenciales alternativas en educación.",
+      "teaser": "Lo clave en 20 segundos: una guía integral para credenciales educativas alternativas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -1277,12 +1316,12 @@
     {
       "slug": "eeuu-europa-y-china-el-tablero-geopolitico-que-redefine-a-costa-rica",
       "title": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
-      "category": "Costa Rica",
-      "bullets_20s": "• Los desafíos geopolíticos actuales afectan el rol de Costa Rica en el escenario internacional.\n• Participaron más de 200 estudiantes en análisis sobre la política exterior y economía del país.\n• El analista Eduardo Ulibarri expuso sobre las tensiones entre potencias globales y su impacto.\n• Costa Rica enfrenta dependencia económica significativa de Estados Unidos, un factor de vulnerabilidad.\n• El evento también abordó la necesidad de fortalecer relaciones con Europa y otras potencias.",
+      "category": "Mundo",
+      "bullets_20s": "• El TEC organizó un debate sobre desafíos geopolíticos en Costa Rica, reuniendo a estudiantes y expertos.\n• Se abordaron temas como la guerra en Ucrania y el impacto económico de China en la región.\n• Analista Eduardo Ulibarri expuso sobre la creciente incertidumbre en el entorno internacional actual.\n• Costa Rica enfrenta una dependencia económica significativa de Estados Unidos, lo que genera vulnerabilidad.\n• El evento fomentó el pensamiento crítico y el análisis entre estudiantes sobre relaciones internacionales.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/eeuu-europa-china-tablero-geopolitico-redefine-costa-rica",
       "publish_date": "2026-05-15T16:09:20.000Z",
-      "teaser": "Lo clave en 20 segundos: el futuro geopolítico de Costa Rica en un mundo incierto y cambiante.",
+      "teaser": "Lo clave en 20 segundos: Debate sobre geopolítica y desafíos que enfrenta Costa Rica en el contexto global.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/costa-rica.jpeg",
       "description": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "featured": false
@@ -1304,11 +1343,11 @@
       "slug": "pe-eico-01-levantamiento-de-requisitos",
       "title": "PE-EICO-01 Levantamiento de Requisitos",
       "category": "Tecnología",
-      "bullets_20s": "• Nuevo procedimiento de levantamiento de requisitos para proyectos tecnológicos.\n• Se busca optimizar la recopilación de información en el desarrollo de sistemas.\n• Iniciativa del TEC para mejorar la calidad de proyectos tecnológicos.\n• Fomentar la eficiencia en la documentación de requisitos en procesos.\n• Considera las mejores prácticas del sector para su implementación.",
+      "bullets_20s": "• El levantamiento de requisitos es crucial para el desarrollo de proyectos tecnológicos.\n• Los manuales y procedimientos son esenciales para garantizar la calidad en los proyectos.\n• Es importante identificar las necesidades de los usuarios desde el inicio del proceso.\n• El enfoque en requisitos mejora la comunicación entre los equipos de trabajo.\n• Actualizaciones y modificaciones regulares son necesarias para adaptarse a cambios.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-eico-01-levantamiento-requisitos",
       "publish_date": "2026-05-15T15:22:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevo procedimiento para mejorar la gestión de requisitos en proyectos tecnológicos.",
+      "teaser": "Lo clave en 20 segundos: La importancia del levantamiento de requisitos en proyectos tecnológicos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -1928,11 +1967,11 @@
       "slug": "licenciatura-en-ingenieria-ambiental-y-administracion-de-tecnologias-de-informacion-se-acreditan-una-vez-mas-con-el-sina",
       "title": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC reafirma su compromiso con la calidad educativa a través de nuevas acreditaciones.\n• La carrera de Ingeniería Ambiental se acredita por tercera vez y es única en el país.\n• La carrera de Administración de Tecnologías de Información ha sido acreditada ininterrumpidamente desde 2015.\n• Ambas carreras resaltan la importancia de la transparencia y excelencia educativa en el TEC.\n• La acreditación garantiza que los programas cumplen con altos estándares de calidad.\n• Las carreras impulsan la formación de profesionales competentes en un contexto global.\n• La comunidad educativa celebra estos logros como un reflejo de esfuerzo y superación continua.\n• Las acreditaciones permiten a los estudiantes enfrentar nuevos retos en sus respectivas áreas.\n• El TEC mantiene su compromiso con la mejora continua en programas académicos.\n• Las carreras acreditadas contribuyen al desarrollo sostenible del país mediante educación de calidad.",
+      "bullets_20s": "• La acreditación asegura la calidad educativa de los programas en Ingeniería y Administración de TI.\n• Ingeniería Ambiental ha sido acreditada continuamente desde 2016, reflejando su calidad.\n• La carrera de Administración de TI se acredita hasta 2030, reafirmando su compromiso educativo.\n• La ceremonia de acreditación se realizó el 13 de mayo en el auditorio del TEC.\n• Las carreras forman profesionales capaces de enfrentar retos tecnológicos y ambientales.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/licenciatura-ingenieria-ambiental-administracion-tecnologias-informacion-se-acreditan-vez-mas",
       "publish_date": "2026-05-14T20:30:51.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC reacredita sus programas de Ingeniería y Administración con SINAES, reafirmando su compromiso educativo.",
+      "teaser": "Lo clave en 20 segundos: Acreditaciones de carreras del TEC refuerzan su calidad educativa y compromiso con la excelencia.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/acreditacion.jpeg",
       "description": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
       "featured": false
@@ -19319,5 +19358,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-17T10:45:19.427Z"
+  "generated_at": "2026-05-17T11:45:19.500Z"
 }
