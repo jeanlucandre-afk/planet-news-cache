@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "el-proximo-boom-bursatil-spacex-openai-y-anthropic-afinan-debut-en-wall-street",
+      "title": "El próximo ‘boom’ bursátil: SpaceX, OpenAI y Anthropic afinan debut en Wall Street",
+      "category": "Mundo",
+      "bullets_20s": "• Las empresas tecnológicas están listas para ofrecer sus acciones en Wall Street próximamente.\n• SpaceX ha revolucionado la industria espacial con avances significativos en sus misiones.\n• OpenAI se posiciona como líder en inteligencia artificial y sus aplicaciones comerciales.\n• Anthropic, una nueva empresa emergente, busca competir en el ámbito de IA en el mercado.\n• Los analistas prevén un gran interés de inversionistas en estas empresas innovadoras.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/el-proximo-boom-bursatil-spacex-openai-y-anthropic/WY62ZAUZKBG4FLY6M6YHV2A47Y/story/",
+      "publish_date": "2026-05-17T15:21:35.000Z",
+      "teaser": "Lo clave en 20 segundos: SpaceX, OpenAI y Anthropic se preparan para debutar en Wall Street.",
+      "image_url": "https://www.nacion.com/resizer/v2/WTC5V2XW5VEQPFKCRJGIXRLCEM.jpg?auth=4167e60e0418ef278f07ad95d714ae15321ba732475eb4fe5c37c981cecd419b&smart=true&width=1200&height=800",
+      "description": "Wall Street se prepara para recibir a SpaceX, OpenAI y Anthropic con valuaciones récord.",
+      "featured": false
+    },
+    {
+      "slug": "hallan-muerta-a-timmy-la-ballena-jorobada-rescatada-semanas-atras-en-alemania",
+      "title": "Hallan muerta a ‘Timmy’, la ballena jorobada rescatada semanas atrás en Alemania",
+      "category": "Ciencia",
+      "bullets_20s": "• La ballena jorobada, conocida como 'Timmy', había sido rescatada recientemente en Alemania.\n• El asombroso esfuerzo de rescate incluyó la colaboración de diversos expertos y biólogos marinos.\n• La muerte de Timmy generó gran tristeza y preocupación entre los ecologistas y la población.\n• Las autoridades de Dinamarca confirmaron que era el mismo ejemplar encontrado en Alemania.\n• Se espera que se realicen estudios para determinar la causa exacta de su muerte.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/ciencia/hallan-muerta-a-timmy-la-ballena-jorobada/IQ6ZEQ2JWZB2DM73SUYERS6HAE/story/",
+      "publish_date": "2026-05-17T15:17:58.000Z",
+      "teaser": "Lo clave en 20 segundos: La ballena jorobada Timmy fue hallada muerta tras ser rescatada en Alemania.",
+      "image_url": "https://www.nacion.com/resizer/v2/ULJXHPELNZAOZGNLCTAZM3VT4E.jpg?auth=ee64f2f6a69a7a6790684b9e84e45b43c28bd877658e3daab67881fdf12b978d&smart=true&width=6347&height=4231",
+      "description": "La muerte de ‘Timmy’ sorprendió semanas después de un complejo rescate en Alemania. Así confirmaron las autoridades que la ballena hallada en Dinamarca era el mismo ejemplar.",
+      "featured": false
+    },
+    {
+      "slug": "cortes-de-luz-de-la-cnfl-dejaran-sin-electricidad-sectores-de-san-jose-y-escazu-este-lunes",
+      "title": "Cortes de luz de la CNFL dejarán sin electricidad sectores de San José y Escazú este lunes",
+      "category": "Costa Rica",
+      "bullets_20s": "• La CNFL realizará trabajos de mantenimiento que afectarán el suministro eléctrico en ciertas áreas.\n• Las interrupciones de luz están programadas para este lunes en San José y Escazú.\n• Se recomienda a los vecinos estar preparados para estos cortes de energía eléctrica.\n• Los trabajos buscan mejorar la infraestructura eléctrica en la región afectada.\n• Es importante verificar los horarios de los cortes para planificar actividades.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-de-la-cnfl-dejaran-sin-electricidad/HTQWPW633JCD7LG3UNMWI5QSUI/story/",
+      "publish_date": "2026-05-17T15:09:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Cortes programados de luz afectarán a San José y Escazú por mantenimiento de la CNFL.",
+      "image_url": "https://www.nacion.com/resizer/v2/PV54HJ65CFGEROPHVKOQXXB7TQ.JPG?auth=751f25122dad68379df4a0315461c2b158a8d267ec70755a16d647878375021b&smart=true&width=4000&height=2250",
+      "description": "Vecinos de dos zonas de San José deberán prepararse para interrupciones eléctricas programadas este lunes por trabajos de la CNFL.",
+      "featured": false
+    },
+    {
       "slug": "cientificos-registran-por-primera-vez-la-apertura-de-una-placa-tectonica-en-la-costa-de-canada",
       "title": "Científicos registran por primera vez la apertura de una placa tectónica en la costa de Canadá",
       "category": "Ciencia",
@@ -121,11 +160,11 @@
       "slug": "por-que-la-torre-de-pisa-y-otras-edificaciones-se-inclinan-pero-no-se-caen",
       "title": "Por qué la Torre de Pisa y otras edificaciones se inclinan pero no se caen",
       "category": "Ciencia",
-      "bullets_20s": "• La Torre de Pisa es un símbolo de arquitectura desafiante en el tiempo y contra la gravedad.\n• La inclinación de los edificios puede ser causada por varios factores geológicos y de ingeniería.\n• Existen técnicas modernas para estabilizar estructuras inclinadas y preservar su integridad.\n• Muchos monumentos históricos enfrentan el reto de la inclinación debido a su antigüedad.\n• El estudio de la arquitectura incluyente ayuda a comprender mejor los esfuerzos de conservación.",
+      "bullets_20s": "• Edificaciones como la Torre de Pisa tienen un ángulo inusual y sorprendente.\n• La inclinación puede ser resultado de fallos en el terreno o en la construcción.\n• Algunas estructuras han sido estabilizadas con técnicas modernas de ingeniería.\n• Las causas de inclinación son diversas, incluyendo inestabilidad del suelo.\n• El mantenimiento adecuado puede prolongar la vida de edificios inclinados.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g80pz0pxyo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-17T12:55:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre cómo edificios como la Torre de Pisa se mantienen en pie a pesar de su inclinación.",
+      "teaser": "Lo clave en 20 segundos: Comprende por qué se inclinan edificios famosos y cómo se estabilizan.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3479/live/2466dee0-49f6-11f1-a9e7-0f8f590f205b.jpg",
       "description": "La Torre de Pisa es famosa por su inclinación, pero no es el único monumento que se tambalea. ¿Por qué se inclinan algunos edificios y qué se puede hacer para arreglarlos?",
       "featured": false
@@ -210,13 +249,13 @@
     },
     {
       "slug": "el-cazador-de-dictadores-siempre-me-agrada-ver-a-un-dictador-esposado-pero-no-a-cualquier-costo",
-      "title": "El \"cazador de dictadores\": \"Siempre me agrada ver a un dictador esposado, pero no a cualquier costo\"",
+      "title": "El 'cazador de dictadores': 'Siempre me agrada ver a un dictador esposado, pero no a cualquier costo'",
       "category": "Mundo",
-      "bullets_20s": "• Reed Brody ha dedicado su vida a la defensa de derechos humanos a nivel internacional.\n• Su trabajo ha sido crucial para procesar a dictadores en diversas partes del mundo.\n• Habla sobre los retos al buscar justicia en regímenes opresivos y autoritarios.\n• Brody destaca la importancia de la presión internacional en casos de impunidad.\n• La lucha por los derechos humanos sigue siendo una batalla constante y necesaria.",
+      "bullets_20s": "• Reed Brody es reconocido por su lucha contra la impunidad de los dictadores y regímenes autoritarios.\n• El abogado destaca la importancia de llevar ante la justicia a aquellos que han violado derechos humanos.\n• La trayectoria de Brody está marcada por su trabajo legal en diversas regiones del mundo.\n• El desafío principal es conseguir justicia en contextos donde predomina la impunidad.\n• La conversación resalta la necesidad de apoyo internacional en la lucha contra regímenes autoritarios.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2e2n3rg2wno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-17T11:15:06.000Z",
-      "teaser": "Lo clave en 20 segundos: Reed Brody reflexiona sobre su trabajo contra la impunidad en regímenes dictatoriales.",
+      "teaser": "Lo clave en 20 segundos: Reed Brody habla sobre su lucha contra los dictadores y la impunidad que los protege.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8832/live/37f28fd0-5082-11f1-b65e-7792809e12cc.jpg",
       "description": "El abogado y autor Reed Brody, conocido como el “cazador de dictadores”, habló con BBC Mundo sobre su trayectoria y los desafíos para romper la impunidad y lograr justicia frente a regímenes autoritarios.",
       "featured": false
@@ -251,12 +290,12 @@
       "slug": "aparecio-un-mundo-de-ensueno-la-historia-del-quimico-suizo-que-experimento-el-primer-viaje-con-lsd-montado-en-una-bicicl",
       "title": "Apareció un mundo de ensueño: la historia del químico suizo que experimentó el primer viaje con LSD montado en una bicicleta",
       "category": "Mundo",
-      "bullets_20s": "• Albert Hofmann fue el primero en experimentar los efectos del LSD en 1943 tras un accidente.\n• Su famosa bicicleta quedó marcada por su icónica travesía bajo los efectos de la sustancia.\n• El descubrimiento accidental del LSD tuvo un impacto profundo en la psicología y cultura moderna.\n• En 1986, Hofmann reflexionó sobre sus experiencias y el desarrollo del LSD a lo largo de los años.\n• El viaje fue una mezcla de curiosidad científica y exploración de la conciencia humana.",
+      "bullets_20s": "• Albert Hofmann fue un químico suizo conocido por su descubrimiento del LSD en 1943.\n• Hofmann experimentó un viaje con LSD que transformó su perspectiva sobre la conciencia.\n• El primer viaje se realizó montado en una bicicleta, lo que lo hizo memorable.\n• El descubrimiento del LSD tuvo un gran impacto en la cultura de los años 60.\n• Los efectos del LSD han sido estudiados durante décadas en medicina y psicología.\n• El interés por la psicodelia ha resurgido en años recientes entre investigadores.\n• La historia de Hofmann resalta el potencial de la química en la comprensión de la mente.\n• Su narrativa ha influido en la percepción y legalización de sustancias psicotrópicas.\n• Hofmann sigue siendo una figura emblemática en la historia de la psicoterapia.\n• La historia de su descubrimiento es un viaje fascinante en la ciencia moderna.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c0e1qzp8xw5o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-17T09:51:39.000Z",
-      "teaser": "Lo clave en 20 segundos: un viaje alucinógeno marcó la historia de la ciencia y la cultura en 1943.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/daa0/live/44a8c760-507a-11f1-8b8c-6d33e1d5abb6.jpg",
+      "teaser": "Lo clave en 20 segundos: El descubrimiento del LSD y su viaje en bicicleta por Hofmann.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4a72/live/68fa01f0-51ed-11f1-89a3-d1f559421220.jpg",
       "description": "El doctor Albert Hofmann descubrió accidentalmente los efectos alucinógenos del LSD en 1943. En 1986, le contó a la BBC lo que ocurrió.",
       "featured": false
     },
@@ -290,11 +329,11 @@
       "slug": "que-fue-la-revolucion-cultural-de-mao-zedong-y-como-marco-la-historia-de-china-hace-60-anos",
       "title": "Qué fue la Revolución Cultural de Mao Zedong y cómo marcó la historia de China hace 60 años",
       "category": "Mundo",
-      "bullets_20s": "• La Revolución Cultural fue un movimiento político impulsado por Mao Zedong en 1966.\n• Buscaba consolidar el comunismo atacando la cultura y las tradiciones antiguas.\n• Millones de jóvenes participaron en esta campaña de movilización masiva.\n• Las purgas políticas causaron estragos y un ambiente de violencia generalizada.\n• El culto a la personalidad de Mao generó diferencias entre las generaciones.\n• Este evento dejó profundas heridas en la sociedad china por años.\n• Se promovió un cambio radical en la educación y las religiones tradicionales.\n• La Revolución Cultural cambió la estructura de poder en China de manera drástica.\n• Aún hoy, sus efectos son objeto de estudio e investigación histórica.",
+      "bullets_20s": "• La Revolución Cultural fue un movimiento iniciado por Mao Zedong en 1966 en China.\n• Este movimiento buscaba purgar las viejas ideas y consolidar el comunismo en el país.\n• Millones de jóvenes fueron movilizados para atacar a intelectuales y antiguos líderes.\n• Las redadas y la violencia marcaron este periodo, causando gran sufrimiento social.\n• La Revolución dejó profundas cicatrices políticas y sociales en la historia china.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c042rd5kvpqo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-17T02:50:15.000Z",
-      "teaser": "Lo clave en 20 segundos: La Revolución Cultural transformó China y dejó cicatrices duraderas.",
+      "teaser": "Lo clave en 20 segundos: La Revolución Cultural impactó significativamente la historia y la sociedad china.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/6a24/live/8cef05c0-4f0d-11f1-bbd7-4dd9e7da3820.jpg",
       "description": "Millones de jóvenes fueron movilizados en China para atacar las “viejas ideas”, en una campaña de purgas, violencia y culto a la personalidad impulsada por Mao Zedong que transformó el país y dejó profundas cicatrices políticas y sociales.",
       "featured": false
@@ -739,19 +778,6 @@
       "teaser": "Lo clave en 20 segundos: La psicología revela cómo funciona la memoria y por qué olvidamos nombres.",
       "image_url": "https://www.nacion.com/resizer/v2/KWVHYLFIZBBJRBM6Y4VO77QRGU.png?auth=76b09c91d29e8e14bcc27c65c4f578e6e10d20183af86f96d23747304ecc7927&smart=true&width=1536&height=1024",
       "description": "Olvidar nombres es más común de lo que parece. La psicología explica por qué ocurre este fenómeno y qué técnicas ayudan a mejorar la memoria.",
-      "featured": false
-    },
-    {
-      "slug": "cortes-de-luz-de-la-cnfl-dejaran-sin-electricidad-sectores-de-san-jose-y-escazu-este-lunes",
-      "title": "Cortes de luz de la CNFL dejarán sin electricidad sectores de San José y Escazú este lunes",
-      "category": "Costa Rica",
-      "bullets_20s": "• La CNFL programará cortes de luz en sectores específicos de San José y Escazú.\n• Los vecinos deberán estar preparados para interrupciones de suministro eléctrico este lunes.\n• Los cortes están relacionados con trabajos de mantenimiento e infraestructura eléctrica.\n• Es importante que los afectados planifiquen sus actividades sin electricidad.\n• Se recomienda tener fuentes alternativas de energía o linternas a la mano.",
-      "source_name": "Silvia Ureña Corrales",
-      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-de-la-cnfl-dejaran-sin-electricidad/HTQWPW633JCD7LG3UNMWI5QSUI/story/",
-      "publish_date": "2026-05-16T16:18:58.000Z",
-      "teaser": "Lo clave en 20 segundos: cortes de luz programados en San José y Escazú por la CNFL este lunes.",
-      "image_url": "https://www.nacion.com/resizer/v2/PV54HJ65CFGEROPHVKOQXXB7TQ.JPG?auth=751f25122dad68379df4a0315461c2b158a8d267ec70755a16d647878375021b&smart=true&width=4000&height=2250",
-      "description": "Vecinos de dos zonas de San José deberán prepararse para interrupciones eléctricas programadas este lunes por trabajos de la CNFL.",
       "featured": false
     },
     {
@@ -1277,14 +1303,14 @@
     {
       "slug": "guia-para-el-diseno-implementacion-y-evaluacion-de-credenciales-alternativas",
       "title": "Guía para el diseño, implementación y evaluación de credenciales alternativas",
-      "category": "Ciencia",
-      "bullets_20s": "• La guía proporciona un marco para diseñar credenciales educativas alternativas efectivas.\n• Incluir procedimientos claros para la implementación es vital para su éxito.\n• La evaluación de credenciales ayudará a asegurar su validez y reconocimiento.\n• Optimizar la experiencia de los estudiantes es un enfoque central en la guía.\n• Se considera la colaboración entre instituciones educativas para mejorar procesos.",
+      "category": "Tecnología",
+      "bullets_20s": "• La guía busca ofrecer recomendaciones para nuevas evaluaciones educativas.\n• Se enfoca en credenciales alternativas, diferenciándose del sistema tradicional.\n• Incluye pasos para el diseño de programas de evaluación innovadores.\n• Proporciona pautas sobre cómo implementar estas evaluaciones de manera efectiva.\n• Busca mejorar la calidad y validez de evaluaciones en contextos educacionales.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/guia-diseno-implementacion-evaluacion-credenciales-alternativas",
       "publish_date": "2026-05-15T19:57:36.000Z",
-      "teaser": "Lo clave en 20 segundos: Una guía integral para credenciales alternativas en educación.",
+      "teaser": "Lo clave en 20 segundos: innovaciones en evaluación de credenciales académicas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "evsolano",
+      "description": "Guía sobre métodos alternativos para evaluar credenciales académicas y profesionales.",
       "featured": false
     },
     {
@@ -1486,11 +1512,11 @@
       "slug": "eeuu-europa-y-china-el-tablero-geopolitico-que-redefine-a-costa-rica",
       "title": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC organizó un debate sobre desafíos geopolíticos que enfrenta Costa Rica en el contexto actual.\n• Más de 200 estudiantes participaron activamente en la discusión de temas geopolíticos cruciales.\n• La exposición del analista Eduardo Ulibarri abordó el impacto de Estados Unidos y China en la economía.\n• Se discutió la creciente incertidumbre internacional y la erosión de organismos multilaterales.\n• El cambio climático y la inteligencia artificial fueron identificados como retos significativos para Costa Rica.",
+      "bullets_20s": "• Con el Día de la Persona Estudiante y Trabajadora, se llevó a cabo un importante debate académico sobre geopolítica.\n• El evento reunió a más de 200 estudiantes interesados en los desafíos internacionales que enfrenta Costa Rica hoy.\n• Eduardo Ulibarri, experto en análisis internacional, expuso sobre el impacto de la economía global en el país.\n• Los conflictos en Ucrania y el ascenso de China preocupan a especialistas respecto al futuro de Costa Rica.\n• La alta dependencia económica de EE.UU. puede hacer a Costa Rica vulnerable ante cambios en esa nación.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/eeuu-europa-china-tablero-geopolitico-redefine-costa-rica",
       "publish_date": "2026-05-15T16:09:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Debate sobre geopolítica y su impacto en Costa Rica en el TEC.",
+      "teaser": "Lo clave en 20 segundos: El debate sobre la geopolítica internacional y su efecto en Costa Rica fue revelador.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/costa-rica.jpeg",
       "description": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "featured": false
@@ -1512,11 +1538,11 @@
       "slug": "pe-eico-01-levantamiento-de-requisitos",
       "title": "PE-EICO-01 Levantamiento de Requisitos",
       "category": "Tecnología",
-      "bullets_20s": "• El levantamiento de requisitos es esencial para el desarrollo de proyectos tecnológicos.\n• Se busca asegurar que los objetivos del proyecto se alineen con las necesidades del cliente.\n• El proceso implica entrevistas, encuestas y análisis de documentos existentes.\n• Los requisitos pueden ser funcionales y no funcionales, ambos igualmente importantes.\n• Una buena recolección de requisitos reduce riesgos y costos en el desarrollo posterior.",
+      "bullets_20s": "• La importancia del levantamiento de requisitos en proyectos tecnológicos es crucial para su éxito.\n• Los manuales de procedimientos sirven como guía para el desarrollo efectivo de proyectos.\n• Una buena recolección de requisitos evita malentendidos y errores costosos en las etapas posteriores.\n• Es fundamental involucrar a todas las partes interesadas en el levantamiento de requisitos.\n• La falta de requisitos claros puede llevar a problemas en la implementación de tecnologías.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-eico-01-levantamiento-requisitos",
       "publish_date": "2026-05-15T15:22:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Levantamiento de requisitos, esencial para el éxito de proyectos tecnológicos.",
+      "teaser": "Lo clave en 20 segundos: la recolección de requisitos es esencial para el éxito de proyectos tecnológicos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -2136,13 +2162,13 @@
       "slug": "licenciatura-en-ingenieria-ambiental-y-administracion-de-tecnologias-de-informacion-se-acreditan-una-vez-mas-con-el-sina",
       "title": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
       "category": "Costa Rica",
-      "bullets_20s": "• La acreditación reafirma el compromiso del TEC con la calidad educativa y la excelencia académica.\n• Ambas carreras están acreditadas hasta el 2029 y 2030, marcando un hito en su calidad.\n• El TEC celebra 55 años de historia proporcionando educación de alta calidad y formando profesionales.\n• Las acreditaciones son un símbolo de esfuerzo y visión de futuro para la educación superior del país.\n• Se destaca que la Ingeniería Ambiental es la única acreditada en Costa Rica desde 2016.",
+      "bullets_20s": "• La acreditación reafirma el compromiso del TEC con la calidad educativa en sus programas académicos.\n• Ingeniería Ambiental se acredita por tercera vez, con validez hasta el 2029, destacando su excelencia.\n• La Administración de Tecnologías de Información obtiene su tercera acreditación, válida hasta el 2030.\n• El SINAES garantiza la calidad educativa de estas licenciaturas en un entorno académico exigente.\n• María Estrada, rectora del TEC, resalta el impacto positivo de estas acreditaciones en la sociedad.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/licenciatura-ingenieria-ambiental-administracion-tecnologias-informacion-se-acreditan-vez-mas",
       "publish_date": "2026-05-14T20:30:51.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC reafirma su calidad con nuevas acreditaciones para sus programas académicos.",
+      "teaser": "Lo clave en 20 segundos: Las licenciaturas del TEC obtienen acreditaciones que aseguran su calidad educativa.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/acreditacion.jpeg",
-      "description": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
+      "description": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES.",
       "featured": false
     },
     {
@@ -19527,5 +19553,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-17T14:45:19.380Z"
+  "generated_at": "2026-05-17T15:45:19.195Z"
 }
