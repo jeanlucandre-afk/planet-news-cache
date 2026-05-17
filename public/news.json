@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "europa-y-japon-unen-fuerzas-para-estudiar-asteroide-que-pasara-cerca-de-la-tierra",
+      "title": "Europa y Japón unen fuerzas para estudiar asteroide que pasará cerca de la Tierra",
+      "category": "Ciencia",
+      "bullets_20s": "• La ESA y JAXA colaborarán en una misión para estudiar el asteroide Apophis en detalle.\n• El asteroide Apophis pasará cerca de la Tierra, generando interés científico y estratégico.\n• Ambas agencias buscan fortalecer la defensa planetaria ante posibles amenazas de asteroides.\n• Este acuerdo marca un avance significativo en la cooperación internacional en el espacio.\n• Se espera que la misión aporte datos valiosos sobre la composición del asteroide.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/ciencia/agencias-espaciales-de-europa-y-japon-preparan/SR6CK5LN4VHANNZP5QTEJXSTRU/story/",
+      "publish_date": "2026-05-17T23:22:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Europa y Japón se unen para estudiar el asteroide Apophis y proteger la Tierra.",
+      "image_url": "https://www.nacion.com/resizer/v2/U3IPREUL45BYVNCGETFZUEKTTI.jpg?auth=466500ac729241862ea4d1a6dacdc8c482759e5d5d042cb38f385644782ca91f&smart=true&width=1920&height=1080",
+      "description": "ESA y JAXA firmaron acuerdos de cooperación para desarrollar una misión conjunta sobre el asteroide Apophis y fortalecer los esfuerzos internacionales de defensa planetaria.",
+      "featured": false
+    },
+    {
+      "slug": "para-que-sirve-la-franja-de-las-toallas-de-bano-la-razon-no-es-estetica",
+      "title": "Para qué sirve la franja de las toallas de baño: la razón no es estética",
+      "category": "Ciencia",
+      "bullets_20s": "• Las franjas en las toallas de baño tienen una utilidad que va más allá del aspecto estético.\n• Este detalle, a menudo ignorado, juega un papel importante en el uso cotidiano de las toallas.\n• Conocer las funciones ocultas de los objetos cotidianos puede ser sorprendente y educativo.\n• La ciencia detrás de los productos que usamos a diario es fascinante y enriquecedora.\n• Muchos accesorios del hogar tienen funciones que no son evidentes a simple vista.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/ciencia/para-que-sirve-la-franja-de-las-toallas-de-bano-la/ZV5JYO4EUJAJ7PCF7TBVCZZGUQ/story/",
+      "publish_date": "2026-05-17T22:59:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Descubre la sorprendente función de las franjas en las toallas de baño.",
+      "image_url": "https://www.nacion.com/resizer/v2/JLXXXZVOPVDEVJZO424GJHBD2E.png?auth=9252e62669ddca054d7e4b5ee2c9d390fe9a126e5c8699ec3d6dc7b27ecb77cb&smart=true&width=1672&height=941",
+      "description": "Ese detalle que aparece en muchas toallas de baño tiene una función que casi nadie conoce. Su utilidad va más allá de lo decorativo y sorprende a muchos.",
+      "featured": false
+    },
+    {
+      "slug": "consensos-en-lo-tecnico-choques-en-lo-politico-asi-fue-el-arranque-de-la-nueva-asamblea-legislativa",
+      "title": "Consensos en lo técnico, choques en lo político: así fue el arranque de la nueva Asamblea Legislativa",
+      "category": "Costa Rica",
+      "bullets_20s": "• La nueva Asamblea Legislativa arranca con una combinación de acuerdos y tensiones notables entre sus miembros.\n• Se realizaron votaciones unánimes en ciertos temas, aunque otros generaron grandes controversias en la sala.\n• El ambiente político refleja una convivencia frágil entre los diferentes partidos y sus expectativas de trabajo.\n• Expertos analizan cómo afectarán estos choques políticos el avance de nuevas leyes en este cuatrienio.\n• Los ciudadanos observan de cerca cómo se manejarán los principales temas de interés nacional en la Asamblea.",
+      "source_name": "Lucía Astorga",
+      "source_url": "https://www.nacion.com/politica/consensos-en-lo-tecnico-choques-en-lo-politico-asi/H6DRKC6TIVGXZBP5DWCAPG37GY/story/",
+      "publish_date": "2026-05-17T22:48:28.000Z",
+      "teaser": "Lo clave en 20 segundos: Choques políticos marcan el inicio del nuevo cuatrienio en la Asamblea Legislativa.",
+      "image_url": "https://www.nacion.com/resizer/v2/HNSA57BI2BAC3MPAPQBMVDBLLI.jpeg?auth=1abb7006067ce53582582a32947b6ce6b1dc9bb85428615713a5698c7894b59b&smart=true&width=1280&height=960",
+      "description": "Entre votaciones unánimes y decisiones que desataron polémica, el Congreso inicia el nuevo cuatrienio con una convivencia frágil.",
+      "featured": false
+    },
+    {
       "slug": "como-limpiar-su-nevera-de-forma-correcta-y-cada-cuanto-hacerlo-para-ahorrar-energia-y-conservar-mejor-los-alimentos",
       "title": "¿Cómo limpiar su nevera de forma correcta y cada cuánto hacerlo para ahorrar energía y conservar mejor los alimentos?",
       "category": "Tecnología",
@@ -446,11 +485,11 @@
       "slug": "por-que-la-torre-de-pisa-y-otras-edificaciones-se-inclinan-pero-no-se-caen",
       "title": "Por qué la Torre de Pisa y otras edificaciones se inclinan pero no se caen",
       "category": "Ciencia",
-      "bullets_20s": "• La inclinación de edificios puede ser causada por un mal diseño o problemas en el terreno.\n• La Torre de Pisa ha resistido gracias a técnicas de ingeniería y reparaciones constantes.\n• Obras maestras arquitectónicas muestran diferentes formas de equilibrar la estructura.\n• Algunas edificaciones son rehabilitadas para prevenir colapsos o inclinaciones peligrosas.\n• Analizar el suelo es vital para evitar futuros problemas en construcciones.",
+      "bullets_20s": "• La inclinación de la Torre de Pisa es un fenómeno arquitectónico intrigante que ha fascinado a generaciones.\n• Muchos edificios en el mundo presentan inclinaciones, aunque no todos corren peligro de colapso inmediato.\n• Factores como el tipo de suelo, la estructura del edificio y el diseño influyen en su estabilidad.\n• Existen técnicas de ingeniería para estabilizar edificios inclinados sin comprometer su integridad histórica.\n• Investigaciones sobre la Torre de Pisa continúan para asegurar su preservación a largo plazo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g80pz0pxyo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-17T12:55:53.000Z",
-      "teaser": "Lo clave en 20 segundos: La Torre de Pisa y cómo otros edificios sobreviven a la inclinación.",
+      "teaser": "Lo clave en 20 segundos: La inclinación de edificios y cómo se mantienen estables.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3479/live/2466dee0-49f6-11f1-a9e7-0f8f590f205b.jpg",
       "description": "La Torre de Pisa es famosa por su inclinación, pero no es el único monumento que se tambalea. ¿Por qué se inclinan algunos edificios y qué se puede hacer para arreglarlos?",
       "featured": false
@@ -537,11 +576,11 @@
       "slug": "el-cazador-de-dictadores-siempre-me-agrada-ver-a-un-dictador-esposado-pero-no-a-cualquier-costo",
       "title": "El \"cazador de dictadores\": \"Siempre me agrada ver a un dictador esposado, pero no a cualquier costo\"",
       "category": "Mundo",
-      "bullets_20s": "• Reed Brody se ha destacado por su lucha contra la impunidad en regímenes autoritarios.\n• Su enfoque se centra en llevar a dictadores a juicio por crímenes de lesa humanidad.\n• La conversación abarca el impacto de su trabajo en la justicia internacional.\n• Brody reflexiona sobre los dilemas éticos que enfrenta en su carrera.\n• El diálogo incluye ejemplos de dictadores que han sido procesados con éxito.",
+      "bullets_20s": "• Reed Brody, destacado abogado, lucha contra la impunidad de dictadores en todo el mundo.\n• Su conocida frase refleja un profundo deseo de justicia en regímenes autoritarios.\n• Brody comparte su experiencia en la búsqueda de justicia para afectados por dictadores.\n• El ‘cazador de dictadores’ aborda los retos de la justicia internacional hoy en día.\n• La lucha contra dictadores a menudo se enfrenta a consecuencias políticas y personales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2e2n3rg2wno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-17T11:15:06.000Z",
-      "teaser": "Lo clave en 20 segundos: Reed Brody habla sobre su lucha contra dictadores y la búsqueda de justicia.",
+      "teaser": "Lo clave en 20 segundos: Reed Brody reflexiona sobre su trabajo en la justicia frente a la dictadura.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8832/live/37f28fd0-5082-11f1-b65e-7792809e12cc.jpg",
       "description": "El abogado y autor Reed Brody, conocido como el “cazador de dictadores”, habló con BBC Mundo sobre su trayectoria y los desafíos para romper la impunidad y lograr justicia frente a regímenes autoritarios.",
       "featured": false
@@ -576,11 +615,11 @@
       "slug": "aparecio-un-mundo-de-ensueno-la-historia-del-quimico-suizo-que-experimento-el-primer-viaje-con-lsd-montado-en-una-bicicl",
       "title": "Apareció un mundo de ensueño: la historia del químico suizo que experimentó el primer viaje con LSD montado en una bicicleta",
       "category": "Mundo",
-      "bullets_20s": "• El LSD fue descubierto accidentalmente por Albert Hofmann en la década de 1940 en Suiza.\n• Hofmann experimentó un viaje alucinógeno montado en su bicicleta después de ingerir la sustancia.\n• La historia del LSD marcó un hito en la investigación sobre las sustancias psicotrópicas.\n• En 1986, Hofmann compartió su experiencia con la BBC, revelando sus reflexiones sobre el viaje.\n• El descubrimiento del LSD ha influido en la cultura, el arte y la medicina hasta la actualidad.",
+      "bullets_20s": "• Albert Hofmann fue pionero en la investigación sobre los efectos del LSD.\n• Su descubrimiento accidental ocurrió en 1943 durante experimentos químicos.\n• La experiencia con LSD le permitió vislumbrar un universo alternativo.\n• Hofmann relató su travesía sobre dos ruedas con gran detalle.\n• El impacto del LSD en la cultura y ciencia ha sido profundo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c0e1qzp8xw5o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-17T09:51:39.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre la fascinante historia del LSD y su inventor, Albert Hofmann.",
+      "teaser": "Lo clave en 20 segundos: La fascinante historia del primer viaje con LSD en bicicleta.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4a72/live/68fa01f0-51ed-11f1-89a3-d1f559421220.jpg",
       "description": "El doctor Albert Hofmann descubrió accidentalmente los efectos alucinógenos del LSD en 1943. En 1986, le contó a la BBC lo que ocurrió.",
       "featured": false
@@ -615,11 +654,11 @@
       "slug": "que-fue-la-revolucion-cultural-de-mao-zedong-y-como-marco-la-historia-de-china-hace-60-anos",
       "title": "Qué fue la Revolución Cultural de Mao Zedong y cómo marcó la historia de China hace 60 años",
       "category": "Mundo",
-      "bullets_20s": "• La Revolución Cultural fue un movimiento sociopolítico en China bajo Mao Zedong.\n• El objetivo era eliminar las viejas ideas y costumbres que consideraban obsoletas.\n• Millones de jóvenes participaron activamente en campañas de propaganda y purgas.\n• El movimiento generó violencia y tensiones sociales en diversas comunidades.\n• Esta revolución dejó huellas profundas en la política y la sociedad china.",
+      "bullets_20s": "• La Revolución Cultural comenzó en 1966 y duró hasta 1976, marcando un periodo de gran agitación social.\n• Miles de jóvenes, conocidos como Guardias Rojos, participaron en campañas para deshacerse de elementos considerados burgueses.\n• Se buscaba eliminar las antiguas costumbres, cultura y hábitos, resultando en un impacto social significativo.\n• La campaña lleva el nombre de Mao Zedong, líder comunista y fundador de la República Popular de China.\n• Las purgas políticas y el culto a la personalidad de Mao afectaron tanto a líderes como a ciudadanos comunes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c042rd5kvpqo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-17T02:50:15.000Z",
-      "teaser": "Lo clave en 20 segundos: La Revolución Cultural transformó China, marcando su historia con violencia y cambios significativos.",
+      "teaser": "Lo clave en 20 segundos: La Revolución Cultural de Mao transformó China y dejó profundas huellas sociales.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/6a24/live/8cef05c0-4f0d-11f1-bbd7-4dd9e7da3820.jpg",
       "description": "Millones de jóvenes fueron movilizados en China para atacar las “viejas ideas”, en una campaña de purgas, violencia y culto a la personalidad impulsada por Mao Zedong que transformó el país y dejó profundas cicatrices políticas y sociales.",
       "featured": false
@@ -1444,19 +1483,6 @@
       "featured": false
     },
     {
-      "slug": "para-que-sirve-la-franja-de-las-toallas-de-bano-la-razon-no-es-estetica",
-      "title": "Para qué sirve la franja de las toallas de baño: la razón no es estética",
-      "category": "Ciencia",
-      "bullets_20s": "• La franja en las toallas de baño tiene una función que la mayoría desconoce.\n• Este detalle va más allá de lo estético y puede sorprender a muchos usuarios.\n• Se revela cómo este diseño contribuye a la funcionalidad de las toallas.\n• Es un ejemplo de cómo los objetos cotidianos tienen secretos interesantes.\n• Conocer la razón detrás de la franja puede cambiar la forma de usarlas.",
-      "source_name": "Europa Press",
-      "source_url": "https://www.nacion.com/ciencia/para-que-sirve-la-franja-de-las-toallas-de-bano-la/ZV5JYO4EUJAJ7PCF7TBVCZZGUQ/story/",
-      "publish_date": "2026-05-15T22:25:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre la sorprendente función de la franja en las toallas de baño.",
-      "image_url": "https://www.nacion.com/resizer/v2/JLXXXZVOPVDEVJZO424GJHBD2E.png?auth=9252e62669ddca054d7e4b5ee2c9d390fe9a126e5c8699ec3d6dc7b27ecb77cb&smart=true&width=1672&height=941",
-      "description": "Ese detalle que aparece en muchas toallas de baño tiene una función que casi nadie conoce. Su utilidad va más allá de lo decorativo y sorprende a muchos.",
-      "featured": false
-    },
-    {
       "slug": "ataque-de-perro-deja-gravemente-herido-a-nino-de-6-anos",
       "title": "Ataque de perro deja gravemente herido a niño de 6 años",
       "category": "Costa Rica",
@@ -1563,12 +1589,12 @@
     {
       "slug": "guia-para-el-diseno-implementacion-y-evaluacion-de-credenciales-alternativas",
       "title": "Guía para el diseño, implementación y evaluación de credenciales alternativas",
-      "category": "Tecnología",
-      "bullets_20s": "• La guía ofrece un enfoque sistemático para diseñar credenciales alternativas efectivas.\n• Se incluyen procedimientos para la implementación de estas credenciales en diversos contextos.\n• Evalúa la efectividad de las credenciales mediante métricas accesibles y comprensibles.\n• Proporciona ejemplos prácticos de credenciales alternativas utilizadas en la educación.\n• Fomenta la innovación en el diseño curricular mediante nuevas credenciales.\n• Promueve la colaboración entre educadores para compartir buenas prácticas.\n• Incorpora tecnologías emergentes que facilitan la implementación de credenciales.\n• Aborda los desafíos comunes en la evaluación de credenciales alternativas.\n• Destaca la relevancia de la comunidad en el proceso de desarrollo educativo.\n• Ofrece recursos adicionales para profundizar en el tema y su aplicación.",
+      "category": "Ciencia",
+      "bullets_20s": "• La guía ofrece un enfoque estructurado para credenciales alternativas en educación.\n• Se enfoca en el diseño de programas educativos flexibles y accesibles.\n• Proporciona procedimientos para implementar credenciales que valoren habilidades diversas.\n• Incluye métodos de evaluación efectivos para medir aprendizajes significativos.\n• Contribuye a la transformación educativa y laboral mediante la innovación.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/guia-diseno-implementacion-evaluacion-credenciales-alternativas",
       "publish_date": "2026-05-15T19:57:36.000Z",
-      "teaser": "Lo clave en 20 segundos: una guía completa sobre credenciales alternativas en educación.",
+      "teaser": "Lo clave en 20 segundos: guía sobre credenciales alternativas en educación.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -1772,11 +1798,11 @@
       "slug": "eeuu-europa-y-china-el-tablero-geopolitico-que-redefine-a-costa-rica",
       "title": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC organizó un debate sobre desafíos geopolíticos que enfrenta Costa Rica en la actualidad.\n• Más de 200 estudiantes participaron en la discusión sobre el impacto de Estados Unidos y China.\n• Se abordaron conflictos internacionales y la incertidumbre que afecta la política y economía del país.\n• El exembajador Eduardo Ulibarri analizó la dependencia económica de Costa Rica con EE. UU.\n• Los estudiantes plantearon inquietudes sobre la guerra entre Rusia y Ucrania y sus repercusiones.",
+      "bullets_20s": "• El TEC organiza un debate sobre desafíos geopolíticos que enfrenta Costa Rica en su contexto internacional.\n• Más de 200 estudiantes participaron en el evento disertando sobre el impacto de potencias como EE.UU. y China.\n• Se discute la dependencia económica de Costa Rica respecto a Estados Unidos y sus implicaciones.\n• El analista Eduardo Ulibarri expone sobre conflictos geopolíticos y sus repercusiones en la política costarricense.\n• La importancia de fortalecer vínculos con Europa y otras potencias es clave para reducir riesgos geopolíticos.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/eeuu-europa-china-tablero-geopolitico-redefine-costa-rica",
       "publish_date": "2026-05-15T16:09:20.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC aborda el nuevo tablero geopolítico y sus efectos en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Costa Rica enfrenta desafíos geopolíticos que redefinen su futuro en un mundo incierto.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/costa-rica.jpeg",
       "description": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "featured": false
@@ -1798,11 +1824,11 @@
       "slug": "pe-eico-01-levantamiento-de-requisitos",
       "title": "PE-EICO-01 Levantamiento de Requisitos",
       "category": "Tecnología",
-      "bullets_20s": "• El levantamiento de requisitos es crucial para el desarrollo efectivo de proyectos tecnológicos.\n• Este procedimiento sirve para definir las necesidades de los usuarios y stakeholders.\n• Los manuales brindan guías precisas sobre cómo llevar a cabo el levantamiento de requisitos.\n• Una buena recopilación de requisitos minimiza riesgos en el desarrollo de software.\n• La comunicación clara entre los equipos es vital para el éxito del levantamiento de requisitos.",
+      "bullets_20s": "• El levantamiento de requisitos es clave para el desarrollo de proyectos tecnológicos.\n• Los manuales y procedimientos ayudan a estandarizar el proceso de recolección.\n• Un buen levantamiento de requisitos mejora la calidad del producto final.\n• Es necesario involucrar a todas las partes interesadas en el proceso.\n• La documentación adecuada garantiza un mejor entendimiento entre equipos.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-eico-01-levantamiento-requisitos",
       "publish_date": "2026-05-15T15:22:22.000Z",
-      "teaser": "Lo clave en 20 segundos: El levantamiento de requisitos es crucial para proyectos tecnológicos efectivos.",
+      "teaser": "Lo clave en 20 segundos: Importancia del levantamiento de requisitos en proyectos tecnológicos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -2409,11 +2435,11 @@
       "slug": "licenciatura-en-ingenieria-ambiental-y-administracion-de-tecnologias-de-informacion-se-acreditan-una-vez-mas-con-el-sina",
       "title": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
       "category": "Costa Rica",
-      "bullets_20s": "• La licenciatura en Ingeniería Ambiental recibe la reacreditación hasta el 2029 por SINAES, reafirmando su calidad.\n• La carrera de Administración de Tecnologías de Información se acredita hasta el 2030, continuando su compromiso educativo.\n• Ambos programas destacan la importancia de la formación integral y el vínculo con la sociedad costarricense.\n• El TEC celebra estos logros como símbolo de excelencia académica y esfuerzo en la mejora continua.\n• Las acreditaciones evalúan la calidad de la educación y su impacto en los egresados y futuros estudiantes.",
+      "bullets_20s": "• El TEC reafirma su compromiso con la calidad educativa a través de la reacreditación.\n• La acreditación de Ingeniería Ambiental se extiende hasta 2029, administrando calidad académica.\n• ATI de TEC se acredita por tercera vez, reflejando un proceso de mejora continua.\n• Las reacreditaciones simbolizan excelencia académica y compromiso institucional con calidad.\n• La ceremonia de entrega de certificaciones se llevó a cabo el 13 de mayo en el TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/licenciatura-ingenieria-ambiental-administracion-tecnologias-informacion-se-acreditan-vez-mas",
       "publish_date": "2026-05-14T20:30:51.000Z",
-      "teaser": "Lo clave en 20 segundos: La reacreditación de carreras en el TEC reafirma su compromiso con la calidad educativa.",
+      "teaser": "Lo clave en 20 segundos: Se ratifica la calidad educativa en Ingeniería Ambiental y ATI del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/acreditacion.jpeg",
       "description": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
       "featured": false
@@ -19813,5 +19839,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-17T22:45:19.500Z"
+  "generated_at": "2026-05-17T23:45:19.354Z"
 }
