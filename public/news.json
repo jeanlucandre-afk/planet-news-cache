@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "christina-koch-astronauta-de-artemis-ii-cada-vez-que-me-despertaba-creia-que-estaba-flotando",
+      "title": "Christina Koch, astronauta de Artemis II: 'Cada vez que me despertaba creía que estaba flotando'",
+      "category": "Ciencia",
+      "bullets_20s": "• Christina Koch fue parte de la misión Artemis II, un importante proyecto espacial de la NASA.\n• Regresó a la Tierra y experimentó sensaciones curiosas tras vivir en microgravedad durante meses.\n• Un estudio ha analizado el impacto de la microgravedad en el cerebro y el cuerpo humano.\n• Los ajustes fisiológicos post-misión son cruciales para futuros vuelos espaciales y la salud astronauta.\n• La experiencia de Koch destaca los desafíos de los viajes espaciales de larga duración.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/ciencia/christina-koch-astronauta-de-artemis-ii-cada-vez/KC6GZGDMG5ESNDFEH6JNWBC3TM/story/",
+      "publish_date": "2026-05-17T20:21:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Christina Koch comparte su asombroso regreso de la microgravedad.",
+      "image_url": "https://www.nacion.com/resizer/v2/DM3HYTIDQBAFTHO5WYUEGOIOWE.jpg?auth=8f5445d8357049af00193b0b99c17225592b7ce8467eaf8bd001dca9dfaa01d6&smart=true&width=1920&height=1280",
+      "description": "Christina Koch, astronauta de Artemis II, relató que tras regresar a la Tierra despertaba creyendo que seguía flotando. Un estudio científico analizó cómo el cerebro y el cuerpo se reajustan después de vivir en microgravedad.",
+      "featured": false
+    },
+    {
+      "slug": "accidente-en-ciudad-colon-dos-trabajadores-cayeron-a-un-guindo-durante-movimiento-de-tierra",
+      "title": "Accidente en Ciudad Colón: dos trabajadores cayeron a un guindo durante movimiento de tierra",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un accidente laboral se registró en Ciudad Colón donde dos trabajadores resultaron heridos.\n• Los trabajadores estaban realizando movimiento de tierra en el momento del accidente.\n• Se están investigando las causas que llevaron a la caída de los dos individuos.\n• Los heridos fueron trasladados a un centro médico para recibir atención adecuada.\n• Es importante seguir protocolos de seguridad en trabajos de construcción y excavación.",
+      "source_name": "Libia Solano Meza",
+      "source_url": "https://www.nacion.com/sucesos/accidente-en-ciudad-colon-dos-trabajadores-cayeron/2XX5B2USBNGZHDVKBODXQOKJYI/story/",
+      "publish_date": "2026-05-17T20:10:03.000Z",
+      "teaser": "Lo clave en 20 segundos: dos trabajadores se hieren en accidente laboral en Ciudad Colón.",
+      "image_url": "https://www.nacion.com/resizer/v2/BZJEAHU2ABA6NH4XO7O4WT6SSY.jpg?auth=723bb6981d903ab1532b59cdedd5a81fbaea6996bf27ed537e4dc8c6d9549c18&smart=true&width=3000&height=2000",
+      "description": "Dos adultos heridos durante labores de movimiento de tierra en Ciudad Colón.",
+      "featured": false
+    },
+    {
       "slug": "esta-es-la-nueva-moneda-coleccionable-de-25-del-teatro-nacional-asi-puede-obtenerla",
       "title": "Esta es la nueva moneda coleccionable de ¢25 del Teatro Nacional: así puede obtenerla",
       "category": "Costa Rica",
@@ -342,13 +368,13 @@
       "slug": "por-que-la-torre-de-pisa-y-otras-edificaciones-se-inclinan-pero-no-se-caen",
       "title": "Por qué la Torre de Pisa y otras edificaciones se inclinan pero no se caen",
       "category": "Ciencia",
-      "bullets_20s": "• La inclinación de los edificios puede deberse a factores geológicos y estructurales en su base.\n• Existen técnicas para estabilizar edificaciones inclinadas y evitar su colapso completo.\n• La Torre de Pisa ha sido objeto de numerosas investigaciones para comprender su inclinación.\n• Monumentos inclinados también pueden ser restaurados, aunque esto requiere un gran esfuerzo técnico.\n• El estudio de estas estructuras ayuda a mejorar la ingeniería civil en futuras construcciones.",
+      "bullets_20s": "• La inclinación de ciertos edificios se debe a la calidad del terreno en el que fueron construidos.\n• Las estructuras inclinadas pueden ser estabilizadas mediante técnicas de ingeniería avanzadas.\n• Síntomas de inestabilidad en edificaciones pueden incluir grietas visibles y movimientos anormales.\n• Existen ejemplos en el mundo donde la inclinación ha sido corregida con éxito y creatividad.\n• La Torre de Pisa ha sido objeto de numerosos estudios por su singular inclinación histórica.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g80pz0pxyo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-17T12:55:53.000Z",
-      "teaser": "Lo clave en 20 segundos: La Torre de Pisa no es la única que se inclina, aquí te contamos por qué.",
+      "teaser": "Lo clave en 20 segundos: Descubre por qué algunos edificios se inclinan y siguen en pie.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3479/live/2466dee0-49f6-11f1-a9e7-0f8f590f205b.jpg",
-      "description": "La Torre de Pisa es famosa por su inclinación, pero no es el único monumento que se tambalea.",
+      "description": "La Torre de Pisa es famosa por su inclinación, pero no es el único monumento que se tambalea. ¿Por qué se inclinan algunos edificios y qué se puede hacer para arreglarlos?",
       "featured": false
     },
     {
@@ -433,11 +459,11 @@
       "slug": "el-cazador-de-dictadores-siempre-me-agrada-ver-a-un-dictador-esposado-pero-no-a-cualquier-costo",
       "title": "El \"cazador de dictadores\": \"Siempre me agrada ver a un dictador esposado, pero no a cualquier costo\"",
       "category": "Mundo",
-      "bullets_20s": "• Reed Brody ha dedicado su vida a perseguir dictadores y buscar justicia internacional.\n• En su trayectoria, ha enfrentado grandes retos para desmantelar la impunidad.\n• Su trabajo implica navegar por sistemas judiciales complejos y arreglos políticos.\n• Brody destaca la importancia de la justicia en sociedades que sufrieron dictaduras.\n• Con sus esfuerzos, se espera crear un precedente para futuros casos de injusticia.",
+      "bullets_20s": "• Reed Brody ha dedicado su carrera a la lucha contra la impunidad de dictadores.\n• La justicia internacional enfrenta grandes retos en la persecución de crímenes de lesa humanidad.\n• Los dictadores evitan castigos mediante estrategias legales y políticas complejas.\n• Brody discute la importancia de visibilizar las atrocidades cometidas en dictaduras.\n• La cobertura mediática es fundamental para mantener la presión sobre regímenes autoritarios.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2e2n3rg2wno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-17T11:15:06.000Z",
-      "teaser": "Lo clave en 20 segundos: Reed Brody comparte su experiencia en la lucha contra la impunidad.",
+      "teaser": "Lo clave en 20 segundos: Reed Brody analiza las luchas por justicia frente a dictadores.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8832/live/37f28fd0-5082-11f1-b65e-7792809e12cc.jpg",
       "description": "El abogado y autor Reed Brody, conocido como el “cazador de dictadores”, habló con BBC Mundo sobre su trayectoria y los desafíos para romper la impunidad y lograr justicia frente a regímenes autoritarios.",
       "featured": false
@@ -472,11 +498,11 @@
       "slug": "aparecio-un-mundo-de-ensueno-la-historia-del-quimico-suizo-que-experimento-el-primer-viaje-con-lsd-montado-en-una-bicicl",
       "title": "Apareció un mundo de ensueño: la historia del químico suizo que experimentó el primer viaje con LSD montado en una bicicleta",
       "category": "Mundo",
-      "bullets_20s": "• Albert Hofmann experimentó un viaje memorable tras ingerir LSD en 1943 montado en su bicicleta.\n• El descubrimiento del LSD se dio por accidente, transformando el mundo de la psicología y la medicina.\n• Hofmann relató su experiencia alucinógena, que marcó un hito en la investigación de sustancias psicotrópicas.\n• La historia de Hofmann nos ofrece una mirada única sobre los orígenes del interés en las drogas alucinógenas.\n• Su trabajo influyó en estudios posteriores y en la percepción social sobre el uso de estas sustancias.",
+      "bullets_20s": "• El LSD fue descubierto accidentalmente por Albert Hofmann en la década de 1940 en Suiza.\n• Hofmann experimentó un viaje alucinógeno montado en su bicicleta después de ingerir la sustancia.\n• La historia del LSD marcó un hito en la investigación sobre las sustancias psicotrópicas.\n• En 1986, Hofmann compartió su experiencia con la BBC, revelando sus reflexiones sobre el viaje.\n• El descubrimiento del LSD ha influido en la cultura, el arte y la medicina hasta la actualidad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c0e1qzp8xw5o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-17T09:51:39.000Z",
-      "teaser": "Lo clave en 20 segundos: El viaje psicodélico que cambió la percepción del LSD y su historia.",
+      "teaser": "Lo clave en 20 segundos: Descubre la fascinante historia del LSD y su inventor, Albert Hofmann.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4a72/live/68fa01f0-51ed-11f1-89a3-d1f559421220.jpg",
       "description": "El doctor Albert Hofmann descubrió accidentalmente los efectos alucinógenos del LSD en 1943. En 1986, le contó a la BBC lo que ocurrió.",
       "featured": false
@@ -511,11 +537,11 @@
       "slug": "que-fue-la-revolucion-cultural-de-mao-zedong-y-como-marco-la-historia-de-china-hace-60-anos",
       "title": "Qué fue la Revolución Cultural de Mao Zedong y cómo marcó la historia de China hace 60 años",
       "category": "Mundo",
-      "bullets_20s": "• La Revolución Cultural fue un movimiento político en China impulsado por Mao Zedong en 1966.\n• El objetivo era eliminar las 'viejas ideas' y promover el pensamiento comunista entre la población.\n• Millones de jóvenes se unieron a los Guardias Rojos para atacar a académicos y figuras culturales.\n• Las purgas políticas generaron un clima de violencia y miedo en toda la nación durante años.\n• La campaña dejó profundas cicatrices políticas y sociales que aún perduran en la sociedad china.",
+      "bullets_20s": "• La Revolución Cultural fue un movimiento que comenzó en 1966 y transformó a China.\n• Mao Zedong buscó eliminar viejas ideologías y pensamientos en la sociedad china.\n• Fue un periodo de purgas políticas y sociales que afectó a millones de personas.\n• Jóvenes militantes conocidos como Guardia Roja jugaron un papel clave en la revolución.\n• Las críticas y puntos de vista diferentes fueron severamente reprimidos durante esta época.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c042rd5kvpqo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-17T02:50:15.000Z",
-      "teaser": "Lo clave en 20 segundos: La Revolución Cultural transformó a China y dejó huellas duraderas en su historia.",
+      "teaser": "Lo clave en 20 segundos: La Revolución Cultural de Mao Zedong transformó a China en 1966.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/6a24/live/8cef05c0-4f0d-11f1-bbd7-4dd9e7da3820.jpg",
       "description": "Millones de jóvenes fueron movilizados en China para atacar las “viejas ideas”, en una campaña de purgas, violencia y culto a la personalidad impulsada por Mao Zedong que transformó el país y dejó profundas cicatrices políticas y sociales.",
       "featured": false
@@ -1483,6 +1509,19 @@
       "featured": false
     },
     {
+      "slug": "guia-para-el-diseno-implementacion-y-evaluacion-de-credenciales-alternativas",
+      "title": "Guía para el diseño, implementación y evaluación de credenciales alternativas",
+      "category": "Tecnología",
+      "bullets_20s": "• La guía aborda métodos para diseñar credenciales en el contexto educativo moderno.\n• Incorpora técnicas para evaluar la efectividad de las credenciales alternativas.\n• El documento es un recurso útil para educadores y administradores educativos.\n• El objetivo es modernizar la forma en que se certifican las competencias.\n• Promueve un enfoque más inclusivo en la educación mediante credenciales alternativas.",
+      "source_name": "evsolano",
+      "source_url": "http://www.tec.ac.cr/guia-diseno-implementacion-evaluacion-credenciales-alternativas",
+      "publish_date": "2026-05-15T19:57:36.000Z",
+      "teaser": "Lo clave en 20 segundos: diseño y evaluación de credenciales educativas novedosas.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
+      "description": "Guía para el diseño, implementación y evaluación de credenciales alternativas.",
+      "featured": false
+    },
+    {
       "slug": "tres-adolescentes-son-los-sospechosos-de-encanonar-a-taxistas-piratas-para-robarles-en-limon",
       "title": "Tres adolescentes son los sospechosos de encañonar a taxistas piratas para robarles en Limón",
       "category": "Costa Rica",
@@ -1681,11 +1720,11 @@
       "slug": "eeuu-europa-y-china-el-tablero-geopolitico-que-redefine-a-costa-rica",
       "title": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC abrió un debate sobre los retos geopolíticos que enfrenta Costa Rica en la actualidad.\n• Más de 200 estudiantes participaron en un conversatorio sobre la dirección política de Estados Unidos.\n• Se discutieron las tensiones globales y los efectos de la guerra entre Rusia y Ucrania en la región.\n• El analista Eduardo Ulibarri enfatizó el impacto de China en la economía mundial y en Costa Rica.\n• La dependencia económica de Costa Rica hacia EE.UU. fue uno de los principales temas abordados.",
+      "bullets_20s": "• El TEC realizó un debate sobre desafíos geopolíticos en el marco del Día de la Persona Estudiante.\n• Más de 200 estudiantes participaron activamente en la discusión sobre el futuro del país.\n• El analista Eduardo Ulibarri analizó los impactos de la guerra entre Rusia y Ucrania.\n• Se discutió la alta dependencia económica de Costa Rica respecto a Estados Unidos.\n• Ulibarri destacó la importancia de diversificar relaciones con Europa y otras naciones.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/eeuu-europa-china-tablero-geopolitico-redefine-costa-rica",
       "publish_date": "2026-05-15T16:09:20.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC analiza cómo el tablero geopolítico impacta a Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Un análisis sobre cambios geopolíticos que afectan a Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/costa-rica.jpeg",
       "description": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "featured": false
@@ -1707,11 +1746,11 @@
       "slug": "pe-eico-01-levantamiento-de-requisitos",
       "title": "PE-EICO-01 Levantamiento de Requisitos",
       "category": "Tecnología",
-      "bullets_20s": "• Descripción sobre el levantamiento de requisitos en proyectos tecnológicos clave.\n• Importancia de tener claridad en los requerimientos para el éxito del proyecto.\n• Se detallan manuales y procedimientos necesarios para esta etapa.\n• Última modificación de este documento se realizó en mayo de 2026.\n• El proceso de levantamiento de requisitos es crucial para el desarrollo ágil.",
+      "bullets_20s": "• Se aborda el proceso de levantamiento de requisitos de manera estructurada y eficiente.\n• Los manuales y procedimientos son esenciales para la correcta implementación de proyectos.\n• El levantamiento adecuado de requisitos minimiza el riesgo de fallos en el desarrollo.\n• Se espera que el proceso mejore la comunicación entre el equipo y los stakeholders.\n• La capacitación en levantamiento de requisitos es clave para los profesionales del área.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-eico-01-levantamiento-requisitos",
       "publish_date": "2026-05-15T15:22:22.000Z",
-      "teaser": "Lo clave en 20 segundos: El levantamiento de requisitos es esencial para proyectos tecnológicos.",
+      "teaser": "Lo clave en 20 segundos: Importancia del levantamiento de requisitos bien estructurado.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -2107,19 +2146,6 @@
       "featured": false
     },
     {
-      "slug": "guia-para-el-diseno-implementacion-y-evaluacion-de-credenciales-alternativas",
-      "title": "Guía para el diseño, implementación y evaluación de credenciales alternativas",
-      "category": "Tecnología",
-      "bullets_20s": "• Esta guía propone un enfoque nuevo para el diseño educativo contemporáneo en credenciales alternativas.\n• Se enfoca en la implementación práctica de sistemas de evaluación más accesibles y efectivos.\n• Los credenciales alternativas pueden ofrecer oportunidades a estudiantes y profesionales en el mercado laboral.\n• Proporciona una serie de pasos a seguir en la ejecución de estas credenciales alternativas.\n• Esta metodología puede potenciar el aprendizaje a través de experiencias más personalizadas y relevantes.",
-      "source_name": "evsolano",
-      "source_url": "http://www.tec.ac.cr/guia-diseno-implementacion-evaluacion-credenciales-alternativas",
-      "publish_date": "2026-05-15T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: innovadora guía sobre credenciales alternativas para la educación y el aprendizaje.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "evsolano",
-      "featured": false
-    },
-    {
       "slug": "una-vez-mas-el-estado-le-falla-abogados-de-marulin-azofeifa-cuestionan-a-yara-jimenez-por-archivar-caso-de-fabricio-alva",
       "title": "‘Una vez más, el Estado le falla’: abogados de Marulin Azofeifa cuestionan a Yara Jiménez por archivar caso de Fabricio Alvarado",
       "category": "Costa Rica",
@@ -2331,13 +2357,13 @@
       "slug": "licenciatura-en-ingenieria-ambiental-y-administracion-de-tecnologias-de-informacion-se-acreditan-una-vez-mas-con-el-sina",
       "title": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
       "category": "Costa Rica",
-      "bullets_20s": "• El programa de Ingeniería Ambiental obtiene su reacreditación hasta el 2029, reafirmando su calidad.\n• Administración de Tecnologías de Información recibe su acreditación que será válida hasta el 2030.\n• La ceremonia de entrega de certificaciones se realizó el 13 de mayo en el TEC.\n• La rectora del TEC resalta la importancia de la calidad educativa como un símbolo de excelencia.\n• Las acreditaciones fortalecen el compromiso de la institución con la formación integral de estudiantes.",
+      "bullets_20s": "• Las carreras de Ingeniería Ambiental y ATI reafirmaron su calidad con nueva acreditación del SINAES.\n• La acreditación del programa ambiental se extiende hasta el 2029, garantizando su calidad educativa.\n• La licenciatura en Administración de Tecnologías de Información es acreditada hasta el 2030 por SINAES.\n• El TEC celebra 55 años de su existencia, destacándose en la educación superior costarricense.\n• La reacreditación refleja el compromiso del TEC con la excelencia académica y la mejora continua.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/licenciatura-ingenieria-ambiental-administracion-tecnologias-informacion-se-acreditan-vez-mas",
       "publish_date": "2026-05-14T20:30:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Ingeniería Ambiental y ATI del TEC reciben nueva acreditación por su calidad académica.",
+      "teaser": "Lo clave en 20 segundos: Acreditaciones refuerzan la calidad de Ingeniería Ambiental y ATI en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/acreditacion.jpeg",
-      "description": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
+      "description": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES.",
       "featured": false
     },
     {
@@ -19735,5 +19761,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-17T19:45:19.372Z"
+  "generated_at": "2026-05-17T20:45:19.431Z"
 }
