@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "temporada-de-ciclones-tropicales-2026-tendra-mas-actividad-en-el-pacifico",
+      "title": "Temporada de ciclones tropicales 2026 tendrá más actividad en el Pacífico",
+      "category": "Mundo",
+      "bullets_20s": "• La temporada de ciclones se anticipa activa, según pronósticos de meteorólogos especializados en el tema.\n• Se prevé la formación de sistemas que podrían llegar a convertirse en huracanes importantes.\n• La región del Pacífico será especialmente afectada por el incremento de actividad ciclónica.\n• Los especialistas alertan sobre la necesidad de preparativos anticipados para minimizar daños.\n• Históricamente, el aumento de la actividad ciclónica está correlacionado con ciertos patrones climáticos.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/sucesos/temporada-de-ciclones-tropicales-2026-tendra-mas/5Z2B4OKLIBHBNEODKCZOL6SCVA/story/",
+      "publish_date": "2026-05-17T21:20:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Se espera una temporada ciclónica intensa en el Pacífico para 2026.",
+      "image_url": "https://www.nacion.com/resizer/v2/R2TBF7C6RBAWNKHHMTZCJGZPW4.jpg?auth=c1ad9ea0d5a34d7001711b7e0b884f8a11d7e59c169129b9e70b0f45bc9a2124&smart=true&width=2400&height=1485",
+      "description": "Especialistas prevén una temporada más intensa de lo habitual en el Pacífico, con varios sistemas que podrían alcanzar categoría de huracán mayor durante los próximos meses.",
+      "featured": false
+    },
+    {
+      "slug": "pumas-vs-pachuca-a-que-hora-y-donde-ver-a-keylor-navas-en-busca-de-la-remontada",
+      "title": "Pumas vs. Pachuca: ¿A qué hora y dónde ver a Keylor Navas en busca de la remontada?",
+      "category": "Costa Rica",
+      "bullets_20s": "• Keylor Navas busca llevar a Pumas a la final de la Liga MX tras un inicio complicado.\n• El partido contra Pachuca será una oportunidad clave para demostrar su valor.\n• El encuentro se disputará en el estadio Universitario, conocido por su gran ambiente.\n• Los seguidores esperan un gran espectáculo y un partido muy reñido.\n• Este duelo puede definir el futuro de Navas en el equipo y su carrera.",
+      "source_name": "Steven Torres",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/pumas-vs-pachuca-a-que-hora-y-donde-ver-a-keylor/JF5EFJCHEZFOFNEOF2QNYS4DOA/story/",
+      "publish_date": "2026-05-17T21:10:24.000Z",
+      "teaser": "Lo clave en 20 segundos: Keylor Navas busca remontar para llegar a la final de la Liga MX.",
+      "image_url": "https://www.nacion.com/resizer/v2/LOHFGH2A6VHNRODWZH4CTFRBNQ.jpg?auth=ba0f4884d29ea91e80005a5e28c848a1502956478df26fc940193b074ab3de45&smart=true&width=1200&height=800",
+      "description": "El guardameta Keylor Navas y Pumas reciben a Pachuca con la obligación de revertir el marcador para citarse con Cruz Azul en la final de la Liga MX.",
+      "featured": false
+    },
+    {
+      "slug": "peso-de-nueve-elefantes-cientificos-identifican-nueva-especie-de-dinosaurio-gigante-en-tailandia-el-mayor-del-sudeste-as",
+      "title": "Peso de nueve elefantes: científicos identifican nueva especie de dinosaurio gigante en Tailandia, el mayor del sudeste asiático",
+      "category": "Ciencia",
+      "bullets_20s": "• Un grupo de científicos revela el descubrimiento de un nuevo dinosaurio en Tailandia.\n• El nuevo dinosaurio sería el más grande encontrado en el sudeste asiático hasta hoy.\n• Este dinosaurio, de aproximadamente 27 toneladas, sorprende por su tamaño y características.\n• Los investigadores continuarán sus estudios para entender mejor la especie descubierta.\n• Este hallazgo resalta la importancia de la paleontología en la región asiática.\n• El dinosaurio ofrece nuevas oportunidades para aprender sobre la vida prehistórica.",
+      "source_name": "O Globo, AFP",
+      "source_url": "https://www.nacion.com/ciencia/cientificos-identifican-nueva-especie-de/V2BG57YP4BDN5CCM36PKFB7GSA/story/",
+      "publish_date": "2026-05-17T20:55:59.000Z",
+      "teaser": "Lo clave en 20 segundos: un nuevo gigante de Tailandia revoluciona el estudio de los dinosaurios.",
+      "image_url": "https://www.nacion.com/resizer/v2/RGZ2UKAT5VBMPG42JV6WRVXWMQ.jpg?auth=fdf6017ae9bb4b4bd09df3c5201c5f59da60332cb1c81c7fbf075511b195285f&smart=true&width=8148&height=5432",
+      "description": "Científicos descubrieron en Tailandia una nueva especie de dinosaurio gigante de 27 toneladas. El animal sería el mayor hallado en el sudeste asiático.",
+      "featured": false
+    },
+    {
       "slug": "christina-koch-astronauta-de-artemis-ii-cada-vez-que-me-despertaba-creia-que-estaba-flotando",
       "title": "Christina Koch, astronauta de Artemis II: 'Cada vez que me despertaba creía que estaba flotando'",
       "category": "Ciencia",
@@ -368,11 +407,11 @@
       "slug": "por-que-la-torre-de-pisa-y-otras-edificaciones-se-inclinan-pero-no-se-caen",
       "title": "Por qué la Torre de Pisa y otras edificaciones se inclinan pero no se caen",
       "category": "Ciencia",
-      "bullets_20s": "• La inclinación de ciertos edificios se debe a la calidad del terreno en el que fueron construidos.\n• Las estructuras inclinadas pueden ser estabilizadas mediante técnicas de ingeniería avanzadas.\n• Síntomas de inestabilidad en edificaciones pueden incluir grietas visibles y movimientos anormales.\n• Existen ejemplos en el mundo donde la inclinación ha sido corregida con éxito y creatividad.\n• La Torre de Pisa ha sido objeto de numerosos estudios por su singular inclinación histórica.",
+      "bullets_20s": "• La inclinación de la Torre de Pisa es un fenómeno arquitectónico fascinante y estudiado durante siglos.\n• Existen diversos factores que provocan que esta y otras edificaciones se inclinen ligeramente.\n• Los suelos inestables son la principal causa de la inclinación en muchas estructuras famosas del mundo.\n• Las técnicas de ingeniería modernas permiten estabilizar edificaciones inclinadas antes de que sea demasiado tarde.\n• La historia de la Torre de Pisa nos enseña sobre los desafíos de la arquitectura en terrenos inadecuados.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g80pz0pxyo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-17T12:55:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre por qué algunos edificios se inclinan y siguen en pie.",
+      "teaser": "Lo clave en 20 segundos: La inclinación de edificios es un fenómeno interesante que se puede solucionar con ingeniería.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3479/live/2466dee0-49f6-11f1-a9e7-0f8f590f205b.jpg",
       "description": "La Torre de Pisa es famosa por su inclinación, pero no es el único monumento que se tambalea. ¿Por qué se inclinan algunos edificios y qué se puede hacer para arreglarlos?",
       "featured": false
@@ -459,11 +498,11 @@
       "slug": "el-cazador-de-dictadores-siempre-me-agrada-ver-a-un-dictador-esposado-pero-no-a-cualquier-costo",
       "title": "El \"cazador de dictadores\": \"Siempre me agrada ver a un dictador esposado, pero no a cualquier costo\"",
       "category": "Mundo",
-      "bullets_20s": "• Reed Brody ha dedicado su carrera a la lucha contra la impunidad de dictadores.\n• La justicia internacional enfrenta grandes retos en la persecución de crímenes de lesa humanidad.\n• Los dictadores evitan castigos mediante estrategias legales y políticas complejas.\n• Brody discute la importancia de visibilizar las atrocidades cometidas en dictaduras.\n• La cobertura mediática es fundamental para mantener la presión sobre regímenes autoritarios.",
+      "bullets_20s": "• Reed Brody, abogado conocido, se dedica a enfrentar a dictadores en el ámbito legal e internacional.\n• Su trayectoria incluye casos relevantes que buscan justicia por violaciones de derechos humanos.\n• Habla sobre la necesidad de romper la impunidad que rodea a regímenes autoritarios en el mundo.\n• Reflexiona acerca de la importancia de castigar a quienes abusan del poder y generan sufrimiento.\n• Sus esfuerzos han llevado a que varios líderes sean demandados y enfrentados legalmente.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2e2n3rg2wno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-17T11:15:06.000Z",
-      "teaser": "Lo clave en 20 segundos: Reed Brody analiza las luchas por justicia frente a dictadores.",
+      "teaser": "Lo clave en 20 segundos: Reed Brody y su lucha por la justicia contra dictaduras en el mundo.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8832/live/37f28fd0-5082-11f1-b65e-7792809e12cc.jpg",
       "description": "El abogado y autor Reed Brody, conocido como el “cazador de dictadores”, habló con BBC Mundo sobre su trayectoria y los desafíos para romper la impunidad y lograr justicia frente a regímenes autoritarios.",
       "featured": false
@@ -537,11 +576,11 @@
       "slug": "que-fue-la-revolucion-cultural-de-mao-zedong-y-como-marco-la-historia-de-china-hace-60-anos",
       "title": "Qué fue la Revolución Cultural de Mao Zedong y cómo marcó la historia de China hace 60 años",
       "category": "Mundo",
-      "bullets_20s": "• La Revolución Cultural fue un movimiento que comenzó en 1966 y transformó a China.\n• Mao Zedong buscó eliminar viejas ideologías y pensamientos en la sociedad china.\n• Fue un periodo de purgas políticas y sociales que afectó a millones de personas.\n• Jóvenes militantes conocidos como Guardia Roja jugaron un papel clave en la revolución.\n• Las críticas y puntos de vista diferentes fueron severamente reprimidos durante esta época.",
+      "bullets_20s": "• La Revolución Cultural comenzó en 1966, liderada por Mao Zedong en busca de revitalizar el comunismo.\n• El movimiento movilizó a millones de jóvenes que formaron los guardias rojos para atacar lo establecido.\n• Se promovió un clima de violencia, purgas y represión que afectó a intelectuales y disidentes.\n• El culto a la personalidad de Mao se intensificó, creando un ambiente de fervor y fanatismo.\n• Las consecuencias de esta revolución han dejado profundas cicatrices en la historia de China.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c042rd5kvpqo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-17T02:50:15.000Z",
-      "teaser": "Lo clave en 20 segundos: La Revolución Cultural de Mao Zedong transformó a China en 1966.",
+      "teaser": "Lo clave en 20 segundos: La Revolución Cultural movilizó jóvenes en China para transformar la sociedad y su historia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/6a24/live/8cef05c0-4f0d-11f1-bbd7-4dd9e7da3820.jpg",
       "description": "Millones de jóvenes fueron movilizados en China para atacar las “viejas ideas”, en una campaña de purgas, violencia y culto a la personalidad impulsada por Mao Zedong que transformó el país y dejó profundas cicatrices políticas y sociales.",
       "featured": false
@@ -1511,14 +1550,14 @@
     {
       "slug": "guia-para-el-diseno-implementacion-y-evaluacion-de-credenciales-alternativas",
       "title": "Guía para el diseño, implementación y evaluación de credenciales alternativas",
-      "category": "Tecnología",
-      "bullets_20s": "• La guía aborda métodos para diseñar credenciales en el contexto educativo moderno.\n• Incorpora técnicas para evaluar la efectividad de las credenciales alternativas.\n• El documento es un recurso útil para educadores y administradores educativos.\n• El objetivo es modernizar la forma en que se certifican las competencias.\n• Promueve un enfoque más inclusivo en la educación mediante credenciales alternativas.",
+      "category": "Ciencia",
+      "bullets_20s": "• La guía proporciona un enfoque integral sobre credenciales educativas alternativas.\n• Se exploran métodos para su diseño y evaluación efectiva en distintos contextos.\n• El texto está destinado a educadores y administradores interesados en innovar.\n• Incluye ejemplos prácticos y recomendaciones basadas en la investigación actual.\n• Busca fomentar la inclusión educativa y el aprendizaje significativo.\n• Las credenciales alternativas pueden ayudar a validar diferentes habilidades.\n• También se destaca la importancia de la evaluación continua en educación.\n• La implementación adecuada puede transformar procesos educativos tradicionales.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/guia-diseno-implementacion-evaluacion-credenciales-alternativas",
       "publish_date": "2026-05-15T19:57:36.000Z",
-      "teaser": "Lo clave en 20 segundos: diseño y evaluación de credenciales educativas novedosas.",
+      "teaser": "Lo clave en 20 segundos: guía sobre credenciales educativas alternativas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "Guía para el diseño, implementación y evaluación de credenciales alternativas.",
+      "description": "Manual sobre credenciales alternativas en educación.",
       "featured": false
     },
     {
@@ -1720,11 +1759,11 @@
       "slug": "eeuu-europa-y-china-el-tablero-geopolitico-que-redefine-a-costa-rica",
       "title": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC realizó un debate sobre desafíos geopolíticos en el marco del Día de la Persona Estudiante.\n• Más de 200 estudiantes participaron activamente en la discusión sobre el futuro del país.\n• El analista Eduardo Ulibarri analizó los impactos de la guerra entre Rusia y Ucrania.\n• Se discutió la alta dependencia económica de Costa Rica respecto a Estados Unidos.\n• Ulibarri destacó la importancia de diversificar relaciones con Europa y otras naciones.",
+      "bullets_20s": "• El TEC abrió un debate crucial sobre geopolítica en el Día de la Persona Estudiante y Trabajadora.\n• Más de 200 estudiantes participaron para discutir el futuro geopolítico de Costa Rica y el mundo.\n• Ulibarri analiza la creciente incertidumbre en las relaciones internacionales y su impacto en el país.\n• Se destacó la dependencia económica de Costa Rica de Estados Unidos y sus riesgos asociados.\n• El experto subrayó la necesidad de diversificar relaciones con Europa y otras potencias.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/eeuu-europa-china-tablero-geopolitico-redefine-costa-rica",
       "publish_date": "2026-05-15T16:09:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Un análisis sobre cambios geopolíticos que afectan a Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Un importante debate geopolítico en Costa Rica entre EE.UU, Europa y China.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/costa-rica.jpeg",
       "description": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "featured": false
@@ -1746,11 +1785,11 @@
       "slug": "pe-eico-01-levantamiento-de-requisitos",
       "title": "PE-EICO-01 Levantamiento de Requisitos",
       "category": "Tecnología",
-      "bullets_20s": "• Se aborda el proceso de levantamiento de requisitos de manera estructurada y eficiente.\n• Los manuales y procedimientos son esenciales para la correcta implementación de proyectos.\n• El levantamiento adecuado de requisitos minimiza el riesgo de fallos en el desarrollo.\n• Se espera que el proceso mejore la comunicación entre el equipo y los stakeholders.\n• La capacitación en levantamiento de requisitos es clave para los profesionales del área.",
+      "bullets_20s": "• Este documento aborda el levantamiento de requisitos para proyectos tecnológicos específicos.\n• Incluye manuales y procedimientos relevantes para facilitar la implementación correcta.\n• La metodología utilizada se enfoca en la recopilación y análisis de necesidades.\n• Se espera que el levantamiento de requisitos sea exhaustivo y minucioso.\n• La última modificación del documento fue en mayo de 2026, asegurando su actualización.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-eico-01-levantamiento-requisitos",
       "publish_date": "2026-05-15T15:22:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Importancia del levantamiento de requisitos bien estructurado.",
+      "teaser": "Lo clave en 20 segundos: documento sobre levantamiento de requisitos para proyectos tecnológicos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -2357,13 +2396,13 @@
       "slug": "licenciatura-en-ingenieria-ambiental-y-administracion-de-tecnologias-de-informacion-se-acreditan-una-vez-mas-con-el-sina",
       "title": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
       "category": "Costa Rica",
-      "bullets_20s": "• Las carreras de Ingeniería Ambiental y ATI reafirmaron su calidad con nueva acreditación del SINAES.\n• La acreditación del programa ambiental se extiende hasta el 2029, garantizando su calidad educativa.\n• La licenciatura en Administración de Tecnologías de Información es acreditada hasta el 2030 por SINAES.\n• El TEC celebra 55 años de su existencia, destacándose en la educación superior costarricense.\n• La reacreditación refleja el compromiso del TEC con la excelencia académica y la mejora continua.",
+      "bullets_20s": "• La acreditación reafirma el compromiso del TEC con la calidad educativa en Costa Rica.\n• El programa de Ingeniería Ambiental obtiene reacreditación por tercera vez, hasta 2029.\n• La Administración de Tecnologías de Información se acredita para el periodo 2026-2030.\n• La ceremonia de entrega de acreditaciones se realizó el 13 de mayo en el TEC.\n• María Estrada, rectora del TEC, celebra la importancia de la calidad educativa en sus carreras.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/licenciatura-ingenieria-ambiental-administracion-tecnologias-informacion-se-acreditan-vez-mas",
       "publish_date": "2026-05-14T20:30:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Acreditaciones refuerzan la calidad de Ingeniería Ambiental y ATI en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Las acreditaciones reafirmaron el compromiso del TEC con la calidad educativa.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/acreditacion.jpeg",
-      "description": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES.",
+      "description": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
       "featured": false
     },
     {
@@ -19761,5 +19800,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-17T20:45:19.431Z"
+  "generated_at": "2026-05-17T21:45:19.392Z"
 }
