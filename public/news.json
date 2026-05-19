@@ -1,14 +1,79 @@
 {
   "news": [
     {
+      "slug": "cortes-de-luz-de-la-esph-afectaran-esta-zona-de-heredia-el-martes",
+      "title": "Cortes de luz de la ESPH afectarán esta zona de Heredia el martes",
+      "category": "Costa Rica",
+      "bullets_20s": "• La ESPH realizará mantenimiento en su red eléctrica el martes en Heredia.\n• Los cortes de luz afectarán a San Rafael y alrededores por varias horas.\n• Se recomienda a los vecinos tomar precauciones durante este tiempo.\n• Información sobre horarios específicos se puede encontrar en la fuente.\n• Este tipo de trabajos son comunes para mantener la infraestructura eléctrica.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-de-la-esph-afectaran-esta-zona-de/YCUOEW6WUVAW5M2NA4HVCUVNTE/story/",
+      "publish_date": "2026-05-19T12:26:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Cortes de luz programados en Heredia por trabajos de mantenimiento.",
+      "image_url": "https://www.nacion.com/resizer/v2/YLSIGCZ6FJDCJAP3JXCLKMFP3Y.png?auth=e72e0cfa560351129deb2a65d6830533c51eafdaec8938220f5e9925b2bdd2f0&smart=true&width=1680&height=945",
+      "description": "La ESPH interrumpirá el servicio eléctrico durante varias horas en sectores de San Rafael de Heredia por trabajos en la red.",
+      "featured": false
+    },
+    {
+      "slug": "580-contenedores-robados-en-cinco-anos-la-seguridad-logistica-si-importa",
+      "title": "580 contenedores robados en cinco años: la seguridad logística sí importa",
+      "category": "Costa Rica",
+      "bullets_20s": "• La seguridad logística es vital para el comercio en Costa Rica y el impacto nacional es significativo.\n• En cinco años se han robado 580 contenedores, afectando la economía del país y la confianza comercial.\n• Es urgente abordar la problemática de la seguridad en el transporte de mercancías en el país.\n• La eficiencia portuaria no puede ser el único enfoque sin considerar la seguridad en la logística.\n• Las medidas de seguridad deben ser parte integral de la competitividad en el comercio exterior.",
+      "source_name": "Rodney Salazar",
+      "source_url": "https://www.nacion.com/opinion/foros/580-contenedores-robados-en-cinco-anos-la/27V3VYLJ3NEXLKFS7CMFTY7Q5Q/story/",
+      "publish_date": "2026-05-19T12:05:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La seguridad logística se vuelve esencial para el comercio exterior en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/7QAXXF5GYRBTZPFYFUAH6W7N6Q.jpg?auth=747bffa4de32b97e4c88ea34fe53b7d1550299be89ca6a5234b150c1e72a6c8c&smart=true&width=3000&height=2000",
+      "description": "Hablar de comercio exterior ya no puede limitarse a eficiencia portuaria, tiempos de despacho o apertura de mercados. La seguridad logística se ha convertido en un factor central de competitividad",
+      "featured": false
+    },
+    {
+      "slug": "carmen-navas-la-madre-venezolana-que-murio-tras-buscar-a-su-hijo-durante-mas-de-16-meses-y-saber-que-el-estado-ya-lo-hab",
+      "title": "Carmen Navas, la madre venezolana que murió tras buscar a su hijo durante más de 16 meses y saber que el Estado ya lo había enterrado",
+      "category": "Mundo",
+      "bullets_20s": "• Carmen Navas dedicó más de 16 meses a la búsqueda de su hijo desaparecido en Venezuela.\n• Su historia resalta las dificultades que enfrentan las familias en situaciones similares.\n• El Estado venezolano ha sido criticado por su manejo de desapariciones forzadas.\n• Delcy Rodríguez anunció una investigación sobre la muerte de Carmen Navas.\n• La situación en Venezuela continúa siendo un tema de preocupación internacional.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/ce8pqerlnmzo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-19T12:02:31.000Z",
+      "teaser": "Lo clave en 20 segundos: Carmen Navas buscó a su hijo por 16 meses y murió al conocer la verdad.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/90eb/live/1b15e480-52d4-11f1-b007-610198cfc259.jpg",
+      "description": "La presidenta encargada de Venezuela, Delcy Rodríguez, aseguró que ordenó una investigación alrededor de este caso.",
+      "featured": false
+    },
+    {
+      "slug": "quienes-defienden-derechos-humanos-tambien-necesitan-ser-defendidos",
+      "title": "Quienes defienden derechos humanos también necesitan ser defendidos",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los defensores de derechos humanos enfrentan constantes amenazas y ataques en su labor diaria.\n• El odio digital se ha convertido en una herramienta de desprestigio contra los activistas.\n• Es fundamental alzar la voz por la democracia y la justicia en Costa Rica y el mundo.\n• Las campañas de desprestigio impactan la credibilidad y seguridad de los defensores.\n• La protección de los derechos humanos es un tema crucial en el contexto actual nacional.",
+      "source_name": "Mia Fink Uleth",
+      "source_url": "https://www.nacion.com/opinion/columnistas/quienes-defienden-derechos-humanos-tambien/7KUXFNHNZJDVVIJ4ZXYRG6TNKA/story/",
+      "publish_date": "2026-05-19T12:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La defensa de los derechos humanos es esencial y en peligro.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZVBUYAEL4NED5BSDNTKICIBLQI.jpg?auth=94b9b92dc764c5069707a91ed8d437012514aae2db133cdd9ace4d77c85b69b6&smart=true&width=5910&height=3940",
+      "description": "A pesar de las amenazas, el odio digital y las campañas de desprestigio de que somos objeto muchos activistas por los derechos humanos, sigo alzando la voz por la democracia, la justicia y los derechos humanos en Costa Rica.",
+      "featured": false
+    },
+    {
+      "slug": "vea-cuanto-variara-la-poblacion-en-su-distrito-de-aqui-al-2050",
+      "title": "Vea cuánto variará la población en su distrito de aquí al 2050",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las proyecciones del INEC brindan claves importantes sobre el crecimiento poblacional en Costa Rica.\n• Se advierte de un aumento significativo en algunos distritos del país para el año 2050.\n• Es fundamental analizar los datos para planificar el desarrollo urbano y social en el futuro.\n• Estos cambios poblacionales pueden influir en la infraestructura y servicios que se requieren.\n• Las distintas regiones presentan variaciones en sus proyecciones de crecimiento poblacional.",
+      "source_name": "Yeryis Salas",
+      "source_url": "https://www.nacion.com/el-pais/vea-cuanto-variara-la-poblacion-en-su-distrito-de/64F2UYTAHFAT7NTOZWZQVFYLSQ/story/",
+      "publish_date": "2026-05-19T12:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Proyecciones del INEC muestran cambios en la población de Costa Rica hacia 2050.",
+      "image_url": "https://www.nacion.com/resizer/v2/TSD7FMRH5FAMXFHLY4X62HT4YI.JPG?auth=65451f78829d167a7f98d0a48bb096c0c5c910f03d187a1be01d4461141a3ab0&smart=true&width=4000&height=2667",
+      "description": "Según las proyecciones del INEC.",
+      "featured": false
+    },
+    {
       "slug": "que-cambia-en-la-nueva-estrategia-contra-las-drogas-del-gobierno-de-trump-y-como-impacta-en-mexico-y-colombia",
       "title": "Qué cambia en la nueva estrategia contra las drogas del gobierno de Trump y cómo impacta en México y Colombia",
       "category": "Mundo",
-      "bullets_20s": "• La nueva estrategia de drogas busca un enfoque más agresivo hacia el narcotráfico en la región.\n• México y Colombia son identificados como focos clave en la producción de drogas peligrosas.\n• Se espera un aumento en la cooperación internacional para combatir el tráfico de drogas.\n• La estrategia incluye medidas para la prevención y reducción de la demanda de sustancias.\n• Es esencial que los gobiernos locales se alineen con los nuevos objetivos propuestos.",
+      "bullets_20s": "• La nueva estrategia se centra en la reducción de la oferta de drogas y su tráfico.\n• México y Colombia son considerados puntos críticos en la producción de narcóticos.\n• Se implementarán nuevas medidas en cooperación con estos países aliados.\n• La administración busca cambios significativos en su enfoque hacia las drogas.\n• Existirá mayor énfasis en la erradicación de cultivos de coca y amapola.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g82mvkpm4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-19T11:18:16.000Z",
-      "teaser": "Lo clave en 20 segundos: nueva estrategia de Trump contra drogas afecta a México y Colombia.",
+      "teaser": "Lo clave en 20 segundos: Nueva estrategia de Trump para combatir el tráfico de drogas en México y Colombia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3694/live/af482890-507a-11f1-b637-39d6d94b351f.jpg",
       "description": "Washington presentó su Estrategia Nacional para el Control de Drogas, que pone en la mira a México y Colombia como países de producción y tráfico de drogas. ¿Qué plantea?",
       "featured": false
@@ -43,11 +108,11 @@
       "slug": "como-5-minutos-de-ejercicio-al-dia-pueden-mejorar-y-alargar-nuestras-vidas",
       "title": "Cómo 5 minutos de ejercicio al día pueden mejorar y alargar nuestras vidas",
       "category": "Ciencia",
-      "bullets_20s": "• Realizar episodios cortos de ejercicio mejora la salud física y mental en cualquier persona.\n• Cinco minutos al día pueden resultar más beneficiosos de lo que se pensaba inicialmente.\n• Se ha demostrado que el ejercicio regular reduce el riesgo de enfermedades crónicas.\n• La actividad física mejora la función cognitiva y la memoria en todas las edades.\n• Incorporar ejercicios cortos puede ser más accesible para quienes tienen un horario apretado.",
+      "bullets_20s": "• Realizar solo cinco minutos de ejercicio diario puede tener beneficios significativos en la salud.\n• Estudios sugieren que el ejercicio mejora la memoria y la salud del cerebro con poco tiempo invertido.\n• Aunque breves, estas rutinas de actividad pueden contribuir a una vida más larga y saludable.\n• La actividad física regular impacta positivamente en el bienestar general y la calidad de vida.\n• No es necesario dedicar horas a entrenar para experimentar mejoras en la salud física y mental.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/crmpd3l082xo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-19T10:17:39.000Z",
-      "teaser": "Lo clave en 20 segundos: cinco minutos de ejercicio diario pueden transformar tu salud y bienestar.",
+      "teaser": "Lo clave en 20 segundos: El ejercicio breve puede ser muy beneficioso para la salud.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8aec/live/f992d870-52fd-11f1-a419-39ffd2a6cbf1.jpg",
       "description": "El ejercicio tiene efectos positivos en el cuerpo, el cerebro, la memoria y el bienestar general. Y no hace falta que sean largos entrenamientos para tener impacto.",
       "featured": false
@@ -56,13 +121,13 @@
       "slug": "la-distancia-de-un-padre-con-un-hijo-es-querer-hablar-y-sentir-que-el-otro-esta-a-300-kilometros-aunque-estes-cara-a-car",
       "title": "La distancia de un padre con un hijo es querer hablar y sentir que el otro está a 300 kilómetros aunque estés cara a cara",
       "category": "Mundo",
-      "bullets_20s": "• La novela aborda la complejidad de las relaciones familiares y la distancia emocional.\n• Se centra en la amistad de tres jóvenes explorando sus sueños y miedos.\n• El autor destaca cómo las generaciones se distancian a pesar de la cercanía física.\n• La obra refleja la búsqueda de conexión en un mundo cada vez más aislante.\n• Los personajes enfrentan dilemas que resonan con muchos jóvenes en la actualidad.",
+      "bullets_20s": "• La novela trata sobre la complejidad de las relaciones humanas y la amistad entre jóvenes.\n• El autor explora la distancia emocional que puede existir incluso en la cercanía física.\n• Se plantea cómo la comunicación puede fallar, generando malentendidos entre familiares.\n• Los personajes enfrentan retos que reflejan problemas comunes de la juventud actual.\n• El escritor invita a reflexionar sobre la conexión entre padres e hijos en la modernidad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpwjg8n42lvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-19T09:40:33.000Z",
-      "teaser": "Lo clave en 20 segundos: La novela explora la complejidad de las relaciones familiares y la amistad juvenil.",
+      "teaser": "Lo clave en 20 segundos: La amistad y la distancia emocional según un escritor argentino.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/55f8/live/6e09edc0-3e7b-11f1-9c42-b7262844482d.jpg",
-      "description": "El escritor argentino habla sobre su última novela, 'Los nuevos', la historia de tres jóvenes de 19 años unidos por una amistad.",
+      "description": "El escritor argentino habla sobre su última novela, \"Los nuevos\", la historia de tres jóvenes de 19 años unidos por una amistad.",
       "featured": false
     },
     {
@@ -95,11 +160,11 @@
       "slug": "se-esta-volviendo-ingobernable-reino-unido",
       "title": "¿Se está volviendo ingobernable Reino Unido?",
       "category": "Mundo",
-      "bullets_20s": "• El descontento social en Reino Unido está creciendo y afecta la gobernabilidad.\n• Crisis política pone en duda la estabilidad del actual gobierno británico.\n• Analistas discuten las razones del creciente descontento entre los ciudadanos.\n• La situación podría repercutir en la política internacional y en Europa.\n• Se cuestiona la capacidad de la clase política para resolver problemas urgentes.",
+      "bullets_20s": "• El descontento político en Reino Unido está en aumento, con preocupaciones generalizadas entre la población.\n• La actual crisis de gobernabilidad está afectando la gestión del gobierno y de sus políticas.\n• Los ciudadanos cuestionan a sus líderes, buscando respuestas sobre el futuro del país.\n• Comparaciones con otros países reflejan un descontento global con la política actual.\n• Analistas discuten las posibles repercusiones a largo plazo de esta crisis en la sociedad británica.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cy02kpj7e5lo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-19T03:58:35.000Z",
-      "teaser": "Lo clave en 20 segundos: El descontento en Reino Unido crece, cuestionando la gobernabilidad.",
+      "teaser": "Lo clave en 20 segundos: El descontento en el Reino Unido crece y plantea serias preguntas sobre la gobernabilidad.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/74c9/live/60daf020-5331-11f1-9710-3571817504a5.jpg",
       "description": "Como ocurre en otros países, el descontento con la clase política en Reino Unido es mayor que nunca, algo que se ve en la crisis que afronta el actual gobierno. ¿A qué se debe y qué significa para el rumbo de la nación?",
       "featured": false
@@ -544,19 +609,6 @@
       "teaser": "Lo clave en 20 segundos: Un análisis de la estrategia de Hernán Medford en el fútbol costarricense.",
       "image_url": "https://www.nacion.com/resizer/v2/RUDJSTZYBNEOZKLQAJRECQF6CY.JPG?auth=60f105e6b28b35684aed522861f2978cc181d116198c603162c9e26e29ef2cfa&smart=true&width=4000&height=2667",
       "description": "Columna de opinión: En media final, Hernán Medford alardeó de que ningún periodista le había podido descifrar su táctica. Como si eso importara...",
-      "featured": false
-    },
-    {
-      "slug": "cortes-de-luz-de-la-esph-afectaran-esta-zona-de-heredia-el-martes",
-      "title": "Cortes de luz de la ESPH afectarán esta zona de Heredia el martes",
-      "category": "Costa Rica",
-      "bullets_20s": "• La Empresa de Servicios Públicos de Heredia realizará cortes de luz programados en varias zonas.\n• Se interrumpirá el servicio eléctrico por trabajos necesarios en la red de distribución.\n• Los sectores más afectados incluyen varias comunidades en San Rafael de Heredia.\n• Los cortes se llevarán a cabo durante horas específicas, según lo anunciado.\n• Se sugiere a los usuarios tomar precauciones y planificar sus actividades diarias.",
-      "source_name": "Silvia Ureña Corrales",
-      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-de-la-esph-afectaran-esta-zona-de/YCUOEW6WUVAW5M2NA4HVCUVNTE/story/",
-      "publish_date": "2026-05-18T17:19:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Cortes de luz programados en San Rafael de Heredia afectarán a varios sectores locales.",
-      "image_url": "https://www.nacion.com/resizer/v2/YLSIGCZ6FJDCJAP3JXCLKMFP3Y.png?auth=e72e0cfa560351129deb2a65d6830533c51eafdaec8938220f5e9925b2bdd2f0&smart=true&width=1680&height=945",
-      "description": "La ESPH interrumpirá el servicio eléctrico durante varias horas en sectores de San Rafael de Heredia por trabajos en la red. Consulte aquí las zonas afectadas y el horario completo.",
       "featured": false
     },
     {
@@ -2616,14 +2668,14 @@
     {
       "slug": "guia-para-el-diseno-implementacion-y-evaluacion-de-credenciales-alternativas",
       "title": "Guía para el diseño, implementación y evaluación de credenciales alternativas",
-      "category": "Tecnología",
-      "bullets_20s": "• Esta guía aborda el diseño de credenciales alternativas en el ámbito educativo moderno.\n• Incluye estrategias para la implementación efectiva de estas credenciales en cualquier institución.\n• Proporciona herramientas para la evaluación de credenciales e identifica mejores prácticas.\n• Se enfoca en la personalización del aprendizaje y validación de competencias adquiridas.\n• Ofrece ejemplos de credenciales alternativas ya utilizadas en diversos contextos educativos.",
+      "category": "Ciencia",
+      "bullets_20s": "• La guía ofrece un marco para diseñar credenciales alternativas educativas y laborales.\n• La implementación de estas credenciales busca innovar en la educación y formar competencias.\n• Se sugiere evaluar el impacto de las credenciales en el desarrollo profesional de los estudiantes.\n• Se presentan procedimientos y manuales para una correcta implementación de los sistemas.\n• Esta iniciativa es parte de un enfoque educativo más adaptable y flexible.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/guia-diseno-implementacion-evaluacion-credenciales-alternativas",
       "publish_date": "2026-05-15T19:57:36.000Z",
-      "teaser": "Lo clave en 20 segundos: Guía para diseñar y evaluar credenciales alternativas en educación.",
+      "teaser": "Lo clave en 20 segundos: Innovación en credenciales educativas y evaluación de su impacto.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "Guía completa sobre cómo diseñar, implementar y evaluar credenciales alternativas en educación.",
+      "description": "evsolano",
       "featured": false
     },
     {
@@ -2825,11 +2877,11 @@
       "slug": "eeuu-europa-y-china-el-tablero-geopolitico-que-redefine-a-costa-rica",
       "title": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El Día de la Persona Estudiante y Trabajadora creó un espacio de discusión en el TEC sobre geopolítica.\n• Más de 200 estudiantes participaron en el debate sobre el rol de Costa Rica en el mundo actual.\n• Se abordaron los efectos de la guerra entre Rusia y Ucrania en la estabilidad regional y global.\n• El analista Eduardo Ulibarri expuso sobre la dependencia económica de Costa Rica de Estados Unidos.\n• Se discuten los retos de la inteligencia artificial y el cambio climático en el contexto nacional.",
+      "bullets_20s": "• El TEC organizó un debate sobre los desafíos geopolíticos actual en la realidad de Costa Rica.\n• Más de 200 estudiantes participaron en el análisis del entorno internacional actual del país.\n• Las tensiones entre potencias mundiales marcan el nuevo papel de Costa Rica en el escenario global.\n• Se abordaron temas como el cambio climático, la inteligencia artificial y la erosión democrática.\n• El analista Eduardo Ulibarri destacó la alta dependencia económica de Costa Rica de Estados Unidos.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/eeuu-europa-china-tablero-geopolitico-redefine-costa-rica",
       "publish_date": "2026-05-15T16:09:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Un diálogo sobre el impacto geopolítico en Costa Rica y los nuevos desafíos globales.",
+      "teaser": "Lo clave en 20 segundos: Un análisis sobre el impacto geopolítico de grandes potencias en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/costa-rica.jpeg",
       "description": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "featured": false
@@ -2850,12 +2902,12 @@
     {
       "slug": "pe-eico-01-levantamiento-de-requisitos",
       "title": "PE-EICO-01 Levantamiento de Requisitos",
-      "category": "Costa Rica",
-      "bullets_20s": "• El levantamiento de requisitos es un proceso crucial para el desarrollo de proyectos.\n• Se busca recopilar la información necesaria para asegurar el éxito del proyecto.\n• Los manuales y procedimientos son esenciales para guiar este proceso.\n• La participación de todos los interesados es fundamental para obtener resultados acertados.\n• Este documento se actualizará periódicamente para reflejar mejoras y cambios.",
+      "category": "Tecnología",
+      "bullets_20s": "• El levantamiento de requisitos es fundamental para el desarrollo de proyectos tecnológicos.\n• Los manuales y procedimientos guían el proceso de recolección de información precisa.\n• La última modificación del documento se realizó en mayo de 2026.\n• Se espera que este documento mejore la calidad de los proyectos futuros.\n• Los requisitos deben ser claros y comprensibles para todo el equipo.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-eico-01-levantamiento-requisitos",
       "publish_date": "2026-05-15T15:22:22.000Z",
-      "teaser": "Lo clave en 20 segundos: El levantamiento de requisitos es fundamental para proyectos exitosos.",
+      "teaser": "Lo clave en 20 segundos: Relevancia del levantamiento de requisitos en proyectos tecnológicos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -3449,13 +3501,13 @@
       "slug": "licenciatura-en-ingenieria-ambiental-y-administracion-de-tecnologias-de-informacion-se-acreditan-una-vez-mas-con-el-sina",
       "title": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
       "category": "Costa Rica",
-      "bullets_20s": "• Las carreras de Ingeniería Ambiental y ATI han recibido reacreditación por parte del SINAES.\n• El programa de Ingeniería Ambiental se ha acreditado por tercera vez y tiene vigencia hasta 2029.\n• La carrera de Administración de Tecnologías de Información se acredita ahora hasta el año 2030.\n• La reacreditación representa un esfuerzo conjunto por mantener altos estándares educativos.\n• El TEC reafirma su compromiso con la calidad educativa y la formación integral de estudiantes.",
+      "bullets_20s": "• El Tecnológico de Costa Rica reafirma su compromiso con la calidad educativa mediante acreditaciones.\n• Ambas carreras cuentan con acreditación del SINAES, asegurando calidad en su formación académica.\n• La reacreditación es un respaldo para estudiantes actuales y futuros en su desarrollo profesional.\n• Los programas fomentan la investigación, innovación continua y desarrollo tecnológico en sus egresados.\n• La ceremonia de entrega de acreditaciones se llevó a cabo en el Centro de las Artes del TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/licenciatura-ingenieria-ambiental-administracion-tecnologias-informacion-se-acreditan-vez-mas",
       "publish_date": "2026-05-14T20:30:51.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC revalida sus programas de Ingeniería Ambiental y ATI por el SINAES.",
+      "teaser": "Lo clave en 20 segundos: El TEC revalida su compromiso con la calidad educativa en Ingeniería Ambiental y Administración de TI.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/acreditacion.jpeg",
-      "description": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES.",
+      "description": "Licenciatura en Ingeniería Ambiental y Administración de Tecnologías de Información se acreditan una vez más con el SINAES",
       "featured": false
     },
     {
@@ -20853,5 +20905,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-19T11:45:20.062Z"
+  "generated_at": "2026-05-19T12:45:20.333Z"
 }
