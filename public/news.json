@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "wakesurfing-con-olas-infinitas-la-nueva-aventura-acuatica-en-lago-del-arenal",
+      "title": "‘Wakesurfing’ con olas infinitas: la nueva aventura acuática en lago del Arenal",
+      "category": "Costa Rica",
+      "bullets_20s": "• El lago Arenal se convierte en un destino clave para los amantes del wakesurfing en Costa Rica.\n• Este nuevo deporte demanda habilidades de surf y una embarcación diseñada para crear olas.\n• Las olas infinitas permiten practicar el wakesurfing en cualquier momento del día.\n• Surfear sin cables brinda mayor libertad y adrenalina durante la experiencia acuática.\n• El paisaje del volcán de Arenal añade un atractivo visual espectacular al deporte.",
+      "source_name": "Luis Jara Cubillo",
+      "source_url": "https://www.nacion.com/ancora/wakesurfing-con-olas-infinitas-la-nueva-aventura/MQL2CXMH7RHIBPAC7HDOCKL43A/story/",
+      "publish_date": "2026-05-19T21:15:46.000Z",
+      "teaser": "Lo clave en 20 segundos: Wakesurfing en el lago Arenal, una aventura acuática sin igual.",
+      "image_url": "https://www.nacion.com/resizer/v2/MIUPKARRGFD2XD2GTCNFWSW6PU.jpg?auth=a1c8422ca8d2382a4e428b65476c62d9690791e4795183ef7edc736749f3e736&smart=true&width=5472&height=3648",
+      "description": "Lago Arenal es uno de los mejores del mundo para practicar ‘wakesurfing’, nuevo deporte que combina una moderna embarcación que produce un oleaje permanente, con la adrenalina de surfear sin cables con el volcán de fondo.",
+      "featured": false
+    },
+    {
+      "slug": "estudio-vinculo-trastornos-premenstruales-con-el-doble-de-riesgo-de-sufrir-problemas-psiquiatricos",
+      "title": "Estudio vinculó trastornos premenstruales con el doble de riesgo de sufrir problemas psiquiátricos",
+      "category": "Ciencia",
+      "bullets_20s": "• Un estudio en Suecia encontró una relación entre trastornos premenstruales y problemas psiquiátricos.\n• Las mujeres con trastornos premenstruales tienen el doble de riesgo de sufrir problemas mentales.\n• Investigaciones previas se centraron en el impacto físico de los trastornos menstruales.\n• El estudio destaca la importancia de la salud mental en el ciclo menstrual femenino.\n• Se requiere más investigación sobre los efectos psicológicos de los trastornos premenstruales.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/ciencia/estudio-vinculo-trastornos-premenstruales-con-el/FA64DYW6YZAXBHXTNN72I3KVWI/story/",
+      "publish_date": "2026-05-19T21:14:46.000Z",
+      "teaser": "Lo clave en 20 segundos: Un estudio muestra el riesgo psiquiátrico elevado por trastornos premenstruales.",
+      "image_url": "https://www.nacion.com/resizer/v2/4J2QWCZMGBGUNBGOA7J6J3JKDM.png?auth=30fb0e29ed97aee3b59dd1fd7e44e1a1423ed43f69f919be32d7ba45a64d6527&smart=true&width=1920&height=1080",
+      "description": "Estudio científico sueco revela el riesgo duplicado de trastornos psiquiátricos en mujeres con afectaciones premenstruales.",
+      "featured": false
+    },
+    {
       "slug": "encuentro-entre-el-frente-amplio-y-laura-fernandez-termina-con-mas-coincidencias-que-diferencias",
       "title": "Encuentro entre el Frente Amplio y Laura Fernández termina con más coincidencias que diferencias",
       "category": "Costa Rica",
@@ -147,26 +173,26 @@
       "slug": "que-tan-preocupante-es-el-brote-de-ebola-que-ya-causo-130-muertes-y-se-esta-propagando-mas-rapido-de-lo-que-se-pensaba-s",
       "title": "Qué tan preocupante es el brote de ébola que ya causó 130 muertes y se está propagando más rápido de lo que se pensaba, según la OMS",
       "category": "Mundo",
-      "bullets_20s": "• La Organización Mundial de la Salud emitió alertas sobre el nuevo brote de ébola y su rápida propagación.\n• Se han registrado 130 muertes confirmadas, aumentando la preocupación entre las comunidades sanitarias mundiales.\n• Esta cepa de ébola es poco conocida y no hay tratamientos conocidos, lo que agrava la situación.\n• Los expertos advierten sobre la necesidad de un monitoreo constante y respuestas rápidas en el terreno.\n• Las medidas de prevención y control son esenciales para evitar un mayor aumento de contagios a nivel global.",
+      "bullets_20s": "• El brote de ébola se ha propagado rápidamente con múltiples casos confirmados y muchas muertes.\n• La OMS está monitoreando de cerca la situación para contener el virus y proteger a la población.\n• Expertos señalan que la cepa actual del virus es poco conocida y no tiene tratamiento efectivo.\n• Las medidas de prevención incluyen la identificación inmediata de casos y seguimiento de contactos.\n• El conocimiento sobre el ébola sigue evolucionando a medida que se presentan nuevos brotes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c62xvx744x9o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-19T17:41:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Un brote de ébola se propaga rápidamente y ya ha causado 130 muertes.",
+      "teaser": "Lo clave en 20 segundos: El brote de ébola avanza rápido y la OMS alerta sobre su gravedad.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/98d6/live/b6f22eb0-539a-11f1-960b-071e01d068d2.jpg",
       "description": "Una cepa poco conocida y para la que no hay tratamiento es la responsable del brote actual de ébola.",
       "featured": false
     },
     {
       "slug": "campana-de-recoleccion-de-residuos-concientizados-edicion-mayo-2026",
-      "title": "Campaña de recolección de residuos 'Concientizados', Edición mayo 2026",
+      "title": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Unidad de Gestión Ambiental del TEC invita a participar en la campaña de recolección de residuos.\n• La actividad se llevará a cabo el martes 26 de mayo de 2026 en Cartago.\n• Se recibirán botellas plásticas, aluminio, papel y cartón, entre otros materiales reciclables.\n• Se recibirá aceite de cocina usado en recipiente limpio y seco durante esta edición especial.\n• La campaña busca promover prácticas sostenibles en la comunidad interna y externa del TEC.",
+      "bullets_20s": "• Se invita a la comunidad a participar en la campaña sin costo alguno.\n• La actividad se llevará a cabo el martes 26 de mayo de 2026.\n• Se realizará en el parqueo del Centro de las Artes en Cartago.\n• Es una iniciativa de la Unidad de Gestión Ambiental del TEC.\n• Se recibirán materiales limpios y debidamente separados para el reciclaje.\n• Se recibirán llantas especialmente en esta edición de la campaña.\n• Los participantes deben revisar qué residuos son aceptables antes de llegar.\n• La campaña promueve prácticas sostenibles y educación ambiental.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/campana-recoleccion-residuos-concientizados-edicion-mayo-2026",
       "publish_date": "2026-05-19T17:35:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Participa en la campaña de recolección de residuos en Cartago este mayo.",
+      "teaser": "Lo clave en 20 segundos: Participa en la campaña de recolección de residuos el 26 de mayo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-campana-concientizados_0.jpg",
-      "description": "Campaña de recolección de residuos 'Concientizados', Edición mayo 2026",
+      "description": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
       "featured": false
     },
     {
@@ -498,11 +524,11 @@
       "slug": "que-cambia-en-la-nueva-estrategia-contra-las-drogas-del-gobierno-de-trump-y-como-impacta-en-mexico-y-colombia",
       "title": "Qué cambia en la nueva estrategia contra las drogas del gobierno de Trump y cómo impacta en México y Colombia",
       "category": "Mundo",
-      "bullets_20s": "• La nueva estrategia de Trump busca un enfoque más agresivo en la lucha contra las drogas.\n• México y Colombia son considerados puntos clave en la producción y tráfico de sustancias.\n• Se espera que esta estrategia impacte las relaciones diplomáticas entre Estados Unidos y Latinoamérica.\n• La administración propone aumentar la cooperación con fuerzas armadas en los países afectados.\n• Expertos advierten sobre posibles consecuencias sociales y económicas en la región.",
+      "bullets_20s": "• La nueva estrategia incluye un enfoque renovado sobre el control de drogas en América Latina.\n• Se destaca la cooperación entre EE.UU., México y Colombia para combatir el narcotráfico.\n• La administración Trump busca abordar el problema de producción y tráfico de drogas de manera integral.\n• Los cambios propuestos pueden afectar las políticas de seguridad en la región.\n• Se esperan reacciones tanto positivas como negativas ante esta nueva estrategia.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g82mvkpm4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-19T11:18:16.000Z",
-      "teaser": "Lo clave en 20 segundos: La nueva estrategia de Trump pone el foco en México y Colombia.",
+      "teaser": "Lo clave en 20 segundos: Washington redefine su estrategia contra drogas y su impacto en la región.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/0e73/live/59d5f0d0-5378-11f1-ba02-4b5b8fc65c30.jpg",
       "description": "Washington presentó su Estrategia Nacional para el Control de Drogas, que pone en la mira a México y Colombia como países de producción y tráfico de drogas. ¿Qué plantea?",
       "featured": false
@@ -537,11 +563,11 @@
       "slug": "como-5-minutos-de-ejercicio-al-dia-pueden-mejorar-y-alargar-nuestras-vidas",
       "title": "Cómo 5 minutos de ejercicio al día pueden mejorar y alargar nuestras vidas",
       "category": "Ciencia",
-      "bullets_20s": "• El ejercicio diariamente puede ayudar a mejorar la salud general y el bienestar personal.\n• Incluso cortos períodos de actividad pueden tener un gran impacto en la vida diaria.\n• Se ha demostrado que el ejercicio mejora la memoria y la función cognitiva.\n• Una rutina corta puede ser más fácil de mantener a largo plazo para muchas personas.\n• Incorporar ejercicio en la vida diaria puede fomentar hábitos saludables y duraderos.",
+      "bullets_20s": "• El ejercicio diario, aunque sea breve, puede tener grandes beneficios para la salud. Mejor salud física.\n• Incrementa la memoria y agilidad mental. Actividades sencillas son efectivas para mantener la mente activa.\n• El bienestar emocional mejora significativamente. El ejercicio provoca la liberación de endorfinas y reduce el estrés.\n• Resultados positivos incluso en personas mayores. El ejercicio ayuda a mantener la independencia y movilidad.\n• Iniciar con 5 minutos es accesible. Un estilo de vida activo comienza con pasos pequeños y simples.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/crmpd3l082xo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-19T10:17:39.000Z",
-      "teaser": "Lo clave en 20 segundos: 5 minutos de ejercicio diario pueden transformar tu salud.",
+      "teaser": "Lo clave en 20 segundos: 5 minutos de ejercicio diario pueden transformar tu salud y bienestar.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8aec/live/f992d870-52fd-11f1-a419-39ffd2a6cbf1.jpg",
       "description": "El ejercicio tiene efectos positivos en el cuerpo, el cerebro, la memoria y el bienestar general. Y no hace falta que sean largos entrenamientos para tener impacto.",
       "featured": false
@@ -3072,13 +3098,13 @@
       "slug": "guia-para-el-diseno-implementacion-y-evaluacion-de-credenciales-alternativas",
       "title": "Guía para el diseño, implementación y evaluación de credenciales alternativas",
       "category": "Ciencia",
-      "bullets_20s": "• La guía propone un enfoque sistemático para el diseño de credenciales alternativas.\n• Se incluyen estrategias de implementación adaptables a diversas instituciones educativas.\n• La evaluación de estas credenciales es crucial para reconocer su validez.\n• Toma en cuenta las necesidades del mercado laboral y de los estudiantes.\n• Fomenta la transparencia y la accesibilidad en los procesos educativos.",
+      "bullets_20s": "• La guía ofrece un marco claro para diseñar credenciales alternativas efectivas.\n• Implementación efectiva de credenciales requiere colaboración entre diferentes sectores.\n• La evaluación de credenciales permite medir su impacto en el aprendizaje.\n• Importancia de adaptar las credenciales a las necesidades del mercado laboral.\n• Participación de expertos es esencial en cada etapa del proceso de desarrollo.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/guia-diseno-implementacion-evaluacion-credenciales-alternativas",
       "publish_date": "2026-05-15T19:57:36.000Z",
-      "teaser": "Lo clave en 20 segundos: Guía sobre credenciales alternativas en educación y su evaluación.",
+      "teaser": "Lo clave en 20 segundos: Diseña y evalúa credenciales educativas alternativas efectivas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "Manuales y Procedimientos para la evaluación de credenciales alternativas.",
+      "description": "Guía para el diseño y evaluación de nuevas credenciales educativas alternativas en diversos contextos.",
       "featured": false
     },
     {
@@ -3279,12 +3305,12 @@
     {
       "slug": "eeuu-europa-y-china-el-tablero-geopolitico-que-redefine-a-costa-rica",
       "title": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
-      "category": "Costa Rica",
-      "bullets_20s": "• El evento del TEC reunió más de 200 estudiantes para debatir sobre geopolítica.\n• Eduardo Ulibarri expuso sobre los desafíos geopolíticos que enfrenta el país.\n• Se analizó el impacto de la economía de Estados Unidos en Costa Rica.\n• El cambio climático y la inteligencia artificial fueron temas relevantes en la discusión.\n• Estudiantes participaron activamente planteando preguntas sobre relaciones internacionales.",
+      "category": "Mundo",
+      "bullets_20s": "• Un debate reciente en el TEC abordó los desafíos geopolíticos que enfrenta Costa Rica.\n• Más de 200 estudiantes participaron en la discusión sobre el futuro del país en el contexto mundial.\n• El analista Eduardo Ulibarri expuso las repercusiones de la guerra entre Rusia y Ucrania.\n• Las tensiones entre potencias mundiales marcan el actual escenario internacional y afectan a Costa Rica.\n• La dependencia económica de Costa Rica en Estados Unidos aumenta su vulnerabilidad ante cambios políticos.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/eeuu-europa-china-tablero-geopolitico-redefine-costa-rica",
       "publish_date": "2026-05-15T16:09:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Debaten sobre el futuro geopolítico de Costa Rica y el impacto global.",
+      "teaser": "Lo clave en 20 segundos: un debate aborda la influencia de potencias globales en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/costa-rica.jpeg",
       "description": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "featured": false
@@ -3306,11 +3332,11 @@
       "slug": "pe-eico-01-levantamiento-de-requisitos",
       "title": "PE-EICO-01 Levantamiento de Requisitos",
       "category": "Tecnología",
-      "bullets_20s": "• El levantamiento de requisitos es crucial en el desarrollo de proyectos tecnológicos.\n• Los manuales y procedimientos ayudan a estructurar el trabajo de manera eficiente.\n• Una buena recolección de requisitos garantiza el éxito del proyecto.\n• Los cambios en los requisitos pueden afectar la planificación original del proyecto.\n• Es importante documentar todos los requisitos para futuras referencias y auditorías.",
+      "bullets_20s": "• El levantamiento de requisitos es una fase clave en el desarrollo de proyectos tecnológicos.\n• Se deben definir claramente las necesidades del usuario para garantizar el éxito del proyecto.\n• El proceso implica realizar entrevistas, encuestas y análisis de documentos existentes.\n• Los expertos en la materia juegan un papel crítico en la identificación de requisitos.\n• Este enfoque ayuda a minimizar riesgos y asegura una mejor satisfacción del cliente.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-eico-01-levantamiento-requisitos",
       "publish_date": "2026-05-15T15:22:22.000Z",
-      "teaser": "Lo clave en 20 segundos: La importancia del levantamiento de requisitos en proyectos tecnológicos.",
+      "teaser": "Lo clave en 20 segundos: Importancia del levantamiento de requisitos en proyectos tecnológicos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
       "description": "evsolano",
       "featured": false
@@ -21308,5 +21334,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-19T20:45:19.542Z"
+  "generated_at": "2026-05-19T21:45:19.932Z"
 }
