@@ -1,16 +1,42 @@
 {
   "news": [
     {
+      "slug": "el-tiburon-fantasma-la-esponja-carnivora-y-otras-1100-especies-marinas-descubiertas-en-solo-un-ano",
+      "title": "El tiburón fantasma, la esponja carnívora y otras 1.100 especies marinas descubiertas en solo un año",
+      "category": "Mundo",
+      "bullets_20s": "• Investigadores han catalogado 1.100 nuevas especies marinas en un solo año, sorprendiendo a la comunidad científica.\n• El tiburón fantasma es uno de los sorprendentes hallazgos en las profundidades del océano.\n• La esponja carnívora es otra de las especies destacadas descubiertas recientemente por los científicos.\n• El océano sigue siendo un vasto territorio inexplorado, con un alto porcentaje de especies por descubrir.\n• Los científicos subrayan la importancia de la conservación marina para proteger estas nuevas especies.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cvgz8k0xzp6o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-20T10:16:46.000Z",
+      "teaser": "Lo clave en 20 segundos: descubrimientos marinos recientes revelan nuevas especies fascinantes y su importancia ecológica.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/5403/live/b17f2870-52cd-11f1-b4b8-8bc40cabb834.jpg",
+      "description": "Se estima que alrededor del 90% de las especies oceánicas aún están por descubrir. En este sentido, 'estos descubrimientos son solo una gota en el océano', declaró un científico.",
+      "featured": false
+    },
+    {
+      "slug": "quien-es-nadia-marcinko-la-novia-de-epstein-senalada-como-complice-de-abusos-sexuales-que-alego-ser-victima-y-goza-de-in",
+      "title": "Quién es Nadia Marcinko, la novia de Epstein señalada como cómplice de abusos sexuales que alegó ser víctima y goza de inmunidad",
+      "category": "Mundo",
+      "bullets_20s": "• Nadia Marcinko ha estado en el centro de un escándalo de abusos que involucra a Epstein.\n• Su conexión con Epstein plantea interrogantes sobre su papel en los delitos graves.\n• Se alega que Marcinko podría testificar ante el Congreso de los Estados Unidos.\n• La historia de Marcinko es un ejemplo de las complicaciones en casos de abuso.\n• La reacción pública a su inmunidad ha sido intensa y problemática en el contexto actual.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c2028ye9zgjo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-20T09:43:21.000Z",
+      "teaser": "Lo clave en 20 segundos: Nadia Marcinko, novia de Epstein, se enfrenta a un futuro incierto ante la justicia.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8c54/live/d2dd8380-5369-11f1-89a3-d1f559421220.jpg",
+      "description": "Nadia Marcinko es relativamente desconocida, pero pronto podría ser citada para testificar ante legisladores estadounidenses.",
+      "featured": false
+    },
+    {
       "slug": "la-tristeza-tiene-incontables-lecciones-que-ensenarnos-y-una-muy-importante-es-que-es-transitoria",
       "title": "La tristeza tiene incontables lecciones que enseñarnos y una muy importante es que es transitoria",
       "category": "Mundo",
-      "bullets_20s": "• La tristeza es una emoción humana que puede ofrecer enseñanzas valiosas en momentos difíciles.\n• Cada experiencia de tristeza puede servir para reflexionar sobre nuestras vidas y decisiones.\n• El neuropsiquiatra destaca el impacto de las nostalgias en nuestra formación personal.\n• Es importante reconocer que la tristeza es un estado transitorio en el proceso emocional.\n• Las lecciones de tristeza pueden abrir puertas hacia la sanación y la resiliencia.",
+      "bullets_20s": "• La tristeza puede enseñarnos valiosas lecciones sobre la vida y nuestras emociones.\n• En ocasiones, es un llamado a la reflexión interna y el autoconocimiento profundo.\n• La experiencia de la tristeza es común entre todos los seres humanos en algún momento.\n• El autor enfatiza que la melancolía es una parte natural de nuestra existencia.\n• Explorar nuestros anhelos y nostalgias puede ayudarnos a sanarnos emocionalmente.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/clyp1g6lmj3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-20T09:25:41.000Z",
-      "teaser": "Lo clave en 20 segundos: La tristeza puede enseñarnos lecciones valiosas sobre nuestra vida y emociones.",
+      "teaser": "Lo clave en 20 segundos: La tristeza nos enseña lecciones valiosas y es parte de la vida.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4a8c/live/870cecc0-4ebe-11f1-b55d-0f258dce1735.jpg",
-      "description": "El neuropsiquiatra y escritor mexicano Jesús Ramírez Bermúdez afirma que 'somos el lienzo de la melancolía: en buena parte devenimos el resultado de nuestras nostalgias y anhelos'.",
+      "description": "El neuropsiquiatra y escritor mexicano Jesús Ramírez Bermúdez afirma que \"somos el lienzo de la melancolía: en buena parte devenimos el resultado de nuestras nostalgias y anhelos\".",
       "featured": false
     },
     {
@@ -63,19 +89,6 @@
       "teaser": "Lo clave en 20 segundos: exdiputado oficialista asume liderazgo en Dinadeco.",
       "image_url": "https://www.nacion.com/resizer/v2/FNGKBJNHHBFXFBTJ5BZV7LI3QA.jpg?auth=571aefdc8360e10f45da14751412d61c5b2a90cd6285b2d67cf70ef04d8954c8&smart=true&width=1280&height=853",
       "description": "El exdiputado fue nombrado como nuevo jerarca de Dinadeco, tras ser una de las principales figuras legislativas del oficialismo.",
-      "featured": false
-    },
-    {
-      "slug": "quien-es-nadia-marcinko-la-novia-de-epstein-senalada-como-complice-de-abusos-sexuales-que-alego-ser-victima-y-goza-de-in",
-      "title": "Quién es Nadia Marcinko, la novia de Epstein señalada como cómplice de abusos sexuales que alegó ser víctima y goza de inmunidad",
-      "category": "Mundo",
-      "bullets_20s": "• Nadia Marcinko ha estado en el centro de un caso que atrajo la atención internacional.\n• Los problemas legales en torno a Marcinko también han generado debates sobre la inmunidad.\n• Se espera que testifique sobre su relación con Epstein y posibles complicidades.\n• El caso de Epstein sigue teniendo repercusiones importantes en la sociedad estadounidense.\n• Las alegaciones de abuso sexual han levantado un gran interés mediático y público.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/c2028ye9zgjo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-05-20T01:12:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Nadia Marcinko podría testificar sobre Epstein y sus alegaciones de abuso.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8c54/live/d2dd8380-5369-11f1-89a3-d1f559421220.jpg",
-      "description": "Nadia Marcinko es relativamente desconocida, pero pronto podría ser citada para testificar ante legisladores estadounidenses.",
       "featured": false
     },
     {
@@ -431,15 +444,15 @@
     },
     {
       "slug": "campana-de-recoleccion-de-residuos-concientizados-edicion-mayo-2026",
-      "title": "Campaña de recolección de residuos 'Concientizados', Edición mayo 2026",
+      "title": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La campaña se llevará a cabo el martes 26 de mayo de 2026, en Cartago.\n• Es una actividad abierta a toda la ciudadanía sin costo alguno.\n• Se recibirán residuos reciclables, electrónicos y medicamentos vencidos.\n• La actividad promueve prácticas sostenibles y cuidado del medio ambiente.\n• Se recomienda revisar los tipos de residuos aceptados antes de asistir.",
+      "bullets_20s": "• La campaña estará abierta a la ciudadanía sin costo alguno el 26 de mayo de 2026.\n• El evento se llevará a cabo en el parqueo del Centro de las Artes de Cartago.\n• Los asistentes deben llevar residuos limpios y debidamente separados para su reciclaje.\n• Se recibirán llantas, una novedad en esta edición de la campaña 'Concientizados'.\n• Las baterías y medicamentos también se recibirán, bajo condiciones específicas.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/campana-recoleccion-residuos-concientizados-edicion-mayo-2026",
       "publish_date": "2026-05-19T17:35:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Recolección de residuos en mayo, abierto a todos en Cartago.",
+      "teaser": "Lo clave en 20 segundos: Participa en la campaña de recolección de residuos el 26 de mayo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-campana-concientizados_0.jpg",
-      "description": "Campaña de recolección de residuos 'Concientizados', Edición mayo 2026.",
+      "description": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
       "featured": false
     },
     {
@@ -1226,11 +1239,11 @@
       "slug": "ingenieria-agricola-celebra-50-anos-de-compromiso-con-el-campo-costarricense",
       "title": "Ingeniería Agrícola celebra 50 años de compromiso con el campo costarricense",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Ingeniería Agrícola del TEC cumple 50 años promoviendo tecnología en el agro costarricense.\n• Desde 1975, se han graduado más de 500 ingenieros agrícolas que fortalecen el sector agropecuario.\n• Su enfoque incluye la vinculación con productores, desarrollando proyectos relevantes para el campo.\n• La carrera ha integrado nuevas tecnologías como sistemas de riego y agricultura digital en su formación.\n• El 50 aniversario reunió a autoridades y exalumnos para conmemorar el impacto en la agricultura.",
+      "bullets_20s": "• La Escuela de Ingeniería Agrícola del TEC ha formado 576 profesionales en su trayectoria.\n• La Ingeniería Agrícola se ha vinculado al desarrollo tecnológico del sector agropecuario nacional.\n• El sector agrícola enfrenta retos como el cambio climático y la modernización en producción.\n• La carrera ha implementado proyectos de investigación orientados a innovar en agricultura.\n• Incorporan tecnologías como drones e inteligencia artificial en sus prácticas agrícolas.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/ingenieria-agricola-celebra-50-anos-compromiso-campo-costarricense",
       "publish_date": "2026-05-18T19:08:10.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebramos medio siglo de avances y compromiso en Ingeniería Agrícola.",
+      "teaser": "Lo clave en 20 segundos: Celebramos medio siglo de Ingeniería Agrícola, innovando en el campo costarricense.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/50-aniversario-esc-ing-agricola_18_05_2026_paquesada-29.jpg",
       "description": "Ingeniería Agrícola celebra 50 años de compromiso con el campo costarricense",
       "featured": false
@@ -3344,14 +3357,14 @@
     {
       "slug": "guia-para-el-diseno-implementacion-y-evaluacion-de-credenciales-alternativas",
       "title": "Guía para el diseño, implementación y evaluación de credenciales alternativas",
-      "category": "Tecnología",
-      "bullets_20s": "• La guía proporciona un enfoque estructurado para diseñar credenciales alternativas efectivas.\n• Permite una evaluación rigurosa de las credenciales alternativas en diferentes contextos educativos.\n• Incluye recomendaciones para la implementación de programas de credenciales alternativas.\n• Fomenta la innovación en el ámbito educativo a través de nuevas alternativas de certificación.\n• Destaca la importancia de la evaluación continua en el desarrollo de credenciales.",
+      "category": "Ciencia",
+      "bullets_20s": "• Presenta métodos innovadores para diseñar credenciales alternativas en diversos contextos educativos.\n• Explica la importancia de evaluar las credenciales en función de competencias reales de los estudiantes.\n• Incluye ejemplos prácticos para implementar credenciales alternativas de manera efectiva.\n• Ofrece una perspectiva sobre la evolución de la educación y su adaptación a nuevas tecnologías.\n• Proporciona recursos que pueden ser utilizados por educadores y administradores en instituciones.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/guia-diseno-implementacion-evaluacion-credenciales-alternativas",
       "publish_date": "2026-05-15T19:57:36.000Z",
-      "teaser": "Lo clave en 20 segundos: La guía para credenciales alternativas busca una evaluación eficaz y diseño innovador.",
+      "teaser": "Lo clave en 20 segundos: Diseño y evaluación de credenciales alternativas en educación presentada en esta guía.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "evsolano",
+      "description": "Guía enfocada en la creación y evaluación de credenciales alternativas en educación.",
       "featured": false
     },
     {
@@ -3552,12 +3565,12 @@
     {
       "slug": "eeuu-europa-y-china-el-tablero-geopolitico-que-redefine-a-costa-rica",
       "title": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
-      "category": "Costa Rica",
-      "bullets_20s": "• El TEC abrió un debate sobre retos geopolíticos en el contexto actual.\n• Más de 200 estudiantes participaron en esta discusión sobre el futuro del país.\n• Se discutieron tensiones internacionales y su impacto en la economía de Costa Rica.\n• Eduardo Ulibarri destacó la alta dependencia económica de Estados Unidos.\n• Se abordaron los efectos del cambio climático y la inteligencia artificial en la sociedad.",
+      "category": "Mundo",
+      "bullets_20s": "• El TEC abrió el debate sobre los desafíos geopolíticos que enfrenta Costa Rica en su futuro.\n• Más de 200 estudiantes participaron en un conversatorio sobre el entorno geopolítico actual.\n• Eduardo Ulibarri destacó la incertidumbre internacional debido a conflictos y tensiones entre potencias.\n• Costa Rica es vulnerable a cambios políticos en Estados Unidos por su dependencia económica.\n• El evento permitió a estudiantes plantear preguntas sobre temas globales relevantes para el país.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/eeuu-europa-china-tablero-geopolitico-redefine-costa-rica",
       "publish_date": "2026-05-15T16:09:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Un análisis sobre el impacto geopolítico en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: análisis del papel de Costa Rica en el nuevo contexto geopolítico global.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/costa-rica.jpeg",
       "description": "EE.UU, Europa y China: el tablero geopolítico que redefine a Costa Rica",
       "featured": false
@@ -21581,5 +21594,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-20T09:45:21.760Z"
+  "generated_at": "2026-05-20T10:45:19.806Z"
 }
