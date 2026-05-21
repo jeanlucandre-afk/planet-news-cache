@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "la-brutal-redada-en-la-fiesta-de-cumpleanos-de-una-mujer-que-revela-el-auge-de-un-grupo-ultranacionalista-en-rusia",
+      "title": "La brutal redada en la fiesta de cumpleaños de una mujer que revela el auge de un grupo ultranacionalista en Rusia",
+      "category": "Mundo",
+      "bullets_20s": "• Russkaya Obshina ha intensificado sus acciones en festividades y eventos sociales en Rusia.\n• Las redadas buscan imponer un control sobre lo que consideran valores tradicionales rusos.\n• Este grupo ultranacionalista utiliza tácticas intimidatorias para alcanzar sus objetivos.\n• Las fiestas de cumpleaños se han convertido en un nuevo blanco para sus actividades.\n• El crecimiento de estos movimientos extremistas inquieta a la sociedad civil en el país.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c70716dg68lo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-21T02:59:35.000Z",
+      "teaser": "Lo clave en 20 segundos: ultranacionalistas rusos realizan redadas en fiestas de cumpleaños.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8cc7/live/e25b3560-4e04-11f1-ac78-2112837ce2aa.jpg",
+      "description": "El grupo Russkaya Obshina organiza redadas en busca de actividades que consideran contravienen los \"valores tradicionales rusos\".",
+      "featured": false
+    },
+    {
       "slug": "fernando-batista-pidio-al-medico-argentino-que-hoy-esta-en-el-centro-de-la-polemica-en-la-seleccion-de-costa-rica",
       "title": "Fernando Batista pidió al médico argentino que hoy está en el centro de la polémica en la Selección de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• Fernando Batista ha generado diversas reacciones por la inclusión de José Artese en su equipo.\n• Artese es un traumatólogo que ha trabajado con varias selecciones en el pasado reciente.\n• La polémica surge debido a la percepción del desempeño de su trabajo en la selección.\n• Se espera que la decisión afecte las dinámicas del equipo durante el torneo.\n• Las expectativas son altas para el cuerpo técnico, especialmente en momentos críticos.",
+      "bullets_20s": "• Fernando Batista busca fortalecer su equipo con cambios en el cuerpo técnico.\n• La elección de José Artese genera opiniones divididas entre los aficionados.\n• La polémica surge por la experiencia del nuevo médico en selecciones nacionales.\n• Costa Rica se prepara para enfrentar desafíos en competiciones internacionales.\n• Se espera que la decisión afecte la preparación del equipo nacional.",
       "source_name": "Milton Montenegro",
       "source_url": "https://www.nacion.com/puro-deporte/fernando-batista-pidio-al-medico-argentino-que-hoy/DASJS6ZWGRDFNODMPFZ6SLR3UI/story/",
       "publish_date": "2026-05-21T02:08:12.000Z",
-      "teaser": "Lo clave en 20 segundos: inclusión de médico argentino genera polémica en la Selección de Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Batista solicita cambios en su equipo ante la polémica elección de su nuevo médico.",
       "image_url": "https://www.nacion.com/resizer/v2/VNOBO6EJBBADPJ7XYZ7LADPW3Q.JPG?auth=88ca22ca273ae55b07955d57b6fc34a44bf4e4cdca1522ccb3d922917d79b16e&smart=true&width=3274&height=2182",
       "description": "José Artese es traumatólogo y forma parte del cuerpo técnico del argentino Fernando Batista.",
       "featured": false
@@ -17,11 +30,11 @@
       "slug": "sala-constitucional-deja-intacto-veto-de-rodrigo-chaves-sobre-pension-anticipada-del-oij-al-declarar-inadmisible-reclamo",
       "title": "Sala Constitucional deja intacto veto de Rodrigo Chaves sobre pensión anticipada del OIJ al declarar inadmisible reclamo legislativo",
       "category": "Costa Rica",
-      "bullets_20s": "• La Sala Constitucional resolvió el caso sobre el veto presidencial de Rodrigo Chaves.\n• Este veto se refiere a la pensión anticipada para el Organismo de Investigación Judicial.\n• El reclamo legislativo fue declarado inadmisible por parte de la Sala Constitucional.\n• La decisión afecta a los empleados del OIJ que buscaban acceso a pensiones anticipadas.\n• Se esperan reacciones tanto de legisladores como de funcionarios del OIJ ante esta resolución.",
+      "bullets_20s": "• La Sala Constitucional resuelve sobre el veto de Rodrigo Chaves al OIJ.\n• OIJ buscaba una pensión anticipada que fue objeto de veto presidencial.\n• El reclamo legislativo fue declarado inadmisible por la Sala Constitucional.\n• Rodrigo Chaves continúa su postura respecto a reformas en pensiones.\n• El caso genera debate sobre los derechos de los trabajadores del OIJ.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/politica/sala-constitucional-deja-intacto-veto-de-rodrigo/Y7L2KVTDHJEVVNTC7CUP4DQ3JI/story/",
       "publish_date": "2026-05-21T01:10:28.000Z",
-      "teaser": "Lo clave en 20 segundos: La Sala Constitucional mantuvo el veto de Chaves sobre pensión del OIJ.",
+      "teaser": "Lo clave en 20 segundos: La Sala Constitucional confirma el veto del presidente Chaves sobre las pensiones del OIJ.",
       "image_url": "https://www.nacion.com/resizer/v2/N3HM7LIGY5C6JOGHZXJPMFALOM.jpg?auth=1ed1ae909ea510509380b4f053d23b8515eb4fb57e2ca0dce89232d12985b514&smart=true&width=4555&height=3037",
       "description": "La Sala Constitucional declaró inadmisible el diferendo por el veto de Rodrigo Chaves al proyecto de pensión anticipada para el OIJ.",
       "featured": false
@@ -56,11 +69,11 @@
       "slug": "raul-castro-el-ultimo-gran-simbolo-de-la-revolucion-cubana-en-el-punto-de-mira-de-estados-unidos",
       "title": "Raúl Castro, el último gran símbolo de la Revolución cubana en el punto de mira de Estados Unidos",
       "category": "Mundo",
-      "bullets_20s": "• Raúl Castro ha sido un símbolo de la Revolución cubana desde su inicio en la década de 1950.\n• Su liderazgo en Cuba ha marcado una era de cambios políticos y económicos significativos.\n• Las relaciones entre Cuba y Estados Unidos han fluctuado, especialmente con el deshielo con Obama.\n• Castro ha enfrentado numerosos desafíos internos y externos durante su mandato y sucesión.\n• Los cargos en EE.UU. contra Castro tienen repercusiones en la política internacional actual.",
+      "bullets_20s": "• Raúl Castro fue una figura clave en la Revolución cubana y sucesor de Fidel Castro.\n• El dirigente cubano ha enfrentado una serie de cargos por Estados Unidos en su trayectoria.\n• Su liderazgo marcó el inicio de un deshielo en las relaciones con EE.UU. previamente tensas.\n• La figura de Castro es vista como un símbolo contradictorio en la política cubana actual.\n• Estados Unidos ha puesto su atención en figuras clave de la revolución cubana recientemente.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdrpe566evno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T00:51:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Raúl Castro, figura emblemática, enfrenta nuevos cargos en EE.UU. que marcan su legado.",
+      "teaser": "Lo clave en 20 segundos: Raúl Castro, figura histórica de Cuba, enfrenta nuevos desafíos políticos en EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b381/live/79a64bb0-547e-11f1-9e5e-41ceb78553de.jpg",
       "description": "Combatiente revolucionario, jefe militar, sucesor de Fidel y protagonista del deshielo con Obama: así fue la trayectoria del dirigente cubano que ahora enfrenta cargos en EE.UU.",
       "featured": false
@@ -134,11 +147,11 @@
       "slug": "la-indignacion-por-las-burlas-de-un-ministro-israeli-de-ultraderecha-contra-activistas-de-la-flotilla-de-gaza-que-estaba",
       "title": "La indignación por las burlas de un ministro israelí de ultraderecha contra activistas de la flotilla de Gaza que estaban esposados",
       "category": "Mundo",
-      "bullets_20s": "• Un ministro israelí provoca la indignación internacional al burlarse de activistas en Gaza.\n• Las críticas provienen de varios países europeos como España, Francia e Italia.\n• Itamar Ben Gvir se mofa de personas detenidas, generando un profundo descontento.\n• La situación en Gaza sigue siendo un tema delicado e importante en la política internacional.\n• Las reacciones a las burlas del ministro continúan generando debate en múltiples foros.",
+      "bullets_20s": "• La burla de un ministro provoca respuestas internacionales sobre derechos humanos.\n• Activistas de Gaza fueron detenidos y esposados en un puerto israelí.\n• Reacciones de líderes europeos muestran preocupación por la situación en Gaza.\n• Los comentarios del ministro generan un debate sobre la libertad de expresión.\n• Las relaciones internacionales se ven afectadas por el incidente y su cobertura.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx21y9885yvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-20T23:20:54.000Z",
-      "teaser": "Lo clave en 20 segundos: Un ministro israelí genera controversia por burlas a activistas detenidos.",
+      "teaser": "Lo clave en 20 segundos: Las burlas de un ministro reviven la indignación sobre Gaza.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c3ee/live/74d107a0-5457-11f1-8b8c-6d33e1d5abb6.jpg",
       "description": "España, Francia e Italia, entre otros, cuestionaron a Itamar Ben Gvir por mofarse de decenas de activistas detenidos en un puerto israelí.",
       "featured": false
@@ -641,11 +654,11 @@
       "slug": "isak-andic-quien-era-el-fundador-de-mango-y-como-se-produjo-su-muerte-de-la-que-acusan-a-su-hijo",
       "title": "Isak Andic: quién era el fundador de Mango y cómo se produjo su muerte, de la que acusan a su hijo",
       "category": "Mundo",
-      "bullets_20s": "• Isak Andic fue el fundador de la reconocida marca de moda Mango en España.\n• Su muerte ha generado especulaciones y controversias en los medios internacionales.\n• La jueza ha ordenado prisión provisional para su hijo bajo ciertas acusaciones.\n• Se presentan múltiples indicios que podrían vincular al hijo con el suceso.\n• La familia de Andic ha mantenido un perfil bajo tras el incidente.",
+      "bullets_20s": "• Isak Andic fue el fundador de la famosa marca de moda Mango, conocida mundialmente.\n• Su reciente fallecimiento ha generado controversia y acusaciones hacia su hijo Jonathan.\n• La jueza ha ordenado la prisión provisional del hijo bajo fianza por sospechas de implicación.\n• El caso ha captado la atención mediática y debate sobre la relación familiar.\n• Investigaciones continúan mientras se analizan las circunstancias de la muerte de Andic.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c62d0g4lqqjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-20T14:43:38.000Z",
-      "teaser": "Lo clave en 20 segundos: Isak Andic, fundador de Mango, falleció y su hijo es acusado de su muerte.",
+      "teaser": "Lo clave en 20 segundos: el fundador de Mango fallece y su hijo enfrenta acusaciones graves.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cbe7/live/9ceaaf70-5457-11f1-bc99-1d37de959855.jpg",
       "description": "El auto de la jueza que ordenó la prisión provisional bajo fianza del hijo recoge numerosas indicios que podrían implicar a Jonathan Andic en la muerte de su padre.",
       "featured": false
@@ -1301,19 +1314,6 @@
       "featured": false
     },
     {
-      "slug": "campana-de-recoleccion-de-residuos-concientizados-edicion-mayo-2026",
-      "title": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
-      "category": "Costa Rica",
-      "bullets_20s": "• La próxima edición se llevará a cabo el martes 26 de mayo de 2026 en Cartago.\n• Los ciudadanos podrán participar sin costo alguno en la recolección de residuos.\n• Se recibirán llantas como novedad este mes junto con otros reciclables.\n• Se recomienda revisar la lista de residuos que se aceptan y no se aceptan.\n• La campaña tiene como objetivo fomentar prácticas sostenibles y educación ambiental.",
-      "source_name": "sepacheco",
-      "source_url": "http://www.tec.ac.cr/campana-recoleccion-residuos-concientizados-edicion-mayo-2026",
-      "publish_date": "2026-05-19T17:35:37.000Z",
-      "teaser": "Lo clave en 20 segundos: se recolectarán residuos el 26 de mayo en Cartago sin costo alguno.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-campana-concientizados_0.jpg",
-      "description": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
-      "featured": false
-    },
-    {
       "slug": "los-paises-no-tienen-mas-opcion-que-colaborar-contra-la-financiacion-del-terrorismo-dice-organismo-especializado",
       "title": "Los países no tienen más opción que colaborar contra la financiación del terrorismo, dice organismo especializado",
       "category": "Mundo",
@@ -1395,11 +1395,11 @@
       "slug": "espinores-que-son-y-cuales-son-sus-aplicaciones",
       "title": "Espinores: ¿qué son y cuáles son sus aplicaciones?",
       "category": "Ciencia",
-      "bullets_20s": "• El próximo jueves habrá una charla sobre espinores en el auditorio del Edificio D3.\n• AstroTEC realizará esta actividad como parte del Jueves Astronómico en Costa Rica.\n• La charla explorará conceptos complejos como el espín cuántico y la relatividad.\n• El MSc. Carlos Adrián Jiménez Carballo será el ponente invitado a esta sesión.\n• La actividad es gratuita y abierta al público, fomentando la divulgación científica.",
+      "bullets_20s": "• La charla será el 21 de mayo a las 5:00 p.m. en el TEC.\n• AstroTEC organizará un evento sobre espinores y sus aplicaciones.\n• El evento es gratuito y abierto a todo público interesado en física.\n• El MSc. Carlos Adrián Jiménez Carballo será el expositor invitado.\n• Se abordarán temas de espín cuántico, partículas y relatividad.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/espinores-son-cuales-son-sus-aplicaciones",
       "publish_date": "2026-05-19T15:54:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Charla sobre espinores y sus aplicaciones en física moderna este jueves.",
+      "teaser": "Lo clave en 20 segundos: Charla sobre espinores y sus aplicaciones en la física moderna.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/506-jueves-astronomico.jpg",
       "description": "Espinores: ¿qué son y cuáles son sus aplicaciones?",
       "featured": false
@@ -2097,11 +2097,11 @@
       "slug": "ingenieria-agricola-celebra-50-anos-de-compromiso-con-el-campo-costarricense",
       "title": "Ingeniería Agrícola celebra 50 años de compromiso con el campo costarricense",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Ingeniería Agrícola del TEC conmemora cinco décadas de formación profesional en el sector agro.\n• Ha graduado a más de 576 ingenieros agrícolas que han impulsado el desarrollo tecnológico del país.\n• La vinculación constante con el sector productivo es un pilar fundamental en su enseñanza y crecimiento.\n• Se han realizado más de 60 proyectos de investigación que benefician la producción agrícola y el medio ambiente.\n• La carrera incluye un enfoque en tecnologías digitales para optimizar la agricultura y la sostenibilidad.",
+      "bullets_20s": "• La carrera de Ingeniería Agrícola ha impulsado el desarrollo agrícola en Costa Rica durante 50 años.\n• Han graduado 576 profesionales en Ingeniería Agrícola, fortaleciendo el sector agropecuario nacional.\n• La vinculación con el sector productivo ha sido clave en la formación de estos profesionales.\n• Los egresados son capaces de aplicar tecnología para mejorar la producción agrícola en el país.\n• La escuela ha desarrollado más de 60 proyectos de investigación desde 2014 en este campo.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/ingenieria-agricola-celebra-50-anos-compromiso-campo-costarricense",
       "publish_date": "2026-05-18T19:08:10.000Z",
-      "teaser": "Lo clave en 20 segundos: 50 años de Ingeniería Agrícola transformando Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Celebramos los 50 años de Ingeniería Agrícola en Costa Rica y sus aportes al sector.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/50-aniversario-esc-ing-agricola_18_05_2026_paquesada-29.jpg",
       "description": "Ingeniería Agrícola celebra 50 años de compromiso con el campo costarricense",
       "featured": false
@@ -22452,5 +22452,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-21T02:45:19.430Z"
+  "generated_at": "2026-05-21T03:45:19.447Z"
 }
