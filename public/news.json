@@ -1,6 +1,84 @@
 {
   "news": [
     {
+      "slug": "el-nino-amenaza-con-reducir-lluvias-hasta-en-un-30-y-aumento-de-temperaturas-en-costa-rica",
+      "title": "El Niño amenaza con reducir lluvias hasta en un 30% y aumento de temperaturas en Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• El fenómeno de El Niño podría afectar las lluvias en el país en el año 2026.\n• Se anticipa una reducción de lluvias de hasta un 30% en varias regiones.\n• El aumento de temperaturas podría impactar la agricultura local significativamente.\n• Expertos advierten sobre riesgos en el abastecimiento de agua potable.\n• Los efectos de El Niño pueden agravar la sequía en zonas vulnerables.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/sucesos/el-nino-amenaza-con-reducir-lluvias-hasta-en-un-30/STZKCKP3RVASXF6G4IM3P4VBAM/story/",
+      "publish_date": "2026-05-21T17:24:26.000Z",
+      "teaser": "Lo clave en 20 segundos: El Niño podría reducir lluvias y aumentar temperaturas en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/OQYMOE267RA6XM7OS6T6DDNYOA.JPG?auth=499e0c1cb164e29ce418b2a016342d6b440fde4782987da2699861323e7fc74b&smart=true&width=4000&height=2667",
+      "description": "La UNED advirtió sobre posibles efectos de El Niño en Costa Rica durante 2026, con menos lluvias, más calor y riesgos para agricultura y abastecimiento de agua.",
+      "featured": false
+    },
+    {
+      "slug": "panama-frena-venta-de-energia-a-costa-rica-por-criticas-de-laura-fernandez",
+      "title": "Panamá frena venta de energía a Costa Rica por críticas de Laura Fernández",
+      "category": "Costa Rica",
+      "bullets_20s": "• Panamá detiene la venta de energía a Costa Rica debido a declaraciones de su presidenta.\n• El presidente panameño comenta sobre un conflicto comercial en el sector agropecuario.\n• Las relaciones comerciales entre ambos países se intensifican por la situación actual.\n• Laura Fernández, mandataria costarricense, genera críticas que impactan negociaciones energéticas.\n• Ambos países continúan en la búsqueda de acuerdos en medio de tensiones comerciales.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-pais/panama-frena-venta-de-energia-a-costa-rica-por/WBVWES7KVFA5ND2IGWTTTCFVYA/story/",
+      "publish_date": "2026-05-21T17:20:08.000Z",
+      "teaser": "Lo clave en 20 segundos: Panamá detiene venta de energía a Costa Rica tras críticas.",
+      "image_url": "https://www.nacion.com/resizer/v2/CSDWF3ZQ6JBJHCKLDQ5L5SJGFM.png?auth=68668c2a993ab2ff573036c7893dd66603f137e5a848dbbccbf3a190be5aef08&smart=true&width=1920&height=1080",
+      "description": "El presidente de Panamá, José Raúl Mulino, anunció que su país frenó un plan para vender energía a Costa Rica por las críticas de su mandataria, Laura Fernández, en medio de un conflicto comercial por productos agropecuarios. 'No hay venta, así de sencillo', dijo.",
+      "featured": false
+    },
+    {
+      "slug": "miles-de-inmigrantes-con-green-card-en-riesgo-de-deportacion-el-pedido-de-trump-sobre-datos-de-medicaid",
+      "title": "¿Miles de inmigrantes con green card en riesgo de deportación? El pedido de Trump sobre datos de Medicaid",
+      "category": "Mundo",
+      "bullets_20s": "• El gobierno de EE. UU. está endureciendo los controles sobre el Medicaid ahora mismo.\n• Esta medida genera gran preocupación entre inmigrantes con green card en el país.\n• Se prevé que miles de familias se vean afectadas por estos nuevos requisitos.\n• Los cambios pueden impactar la atención médica que reciben los inmigrantes legales.\n• La situación se desarrolla en varios estados y se avecinan más cambios legales.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/el-mundo/miles-de-inmigrantes-con-green-card-podrian/MZGVP5O5HBGC3DZPT225C4EXBE/story/",
+      "publish_date": "2026-05-21T17:19:36.000Z",
+      "teaser": "Lo clave en 20 segundos: Cambios en Medicaid afectan a inmigrantes en EE. UU.",
+      "image_url": "https://www.nacion.com/resizer/v2/IM3Z7XWPLRDXVEFWTUVHKXDWQQ.png?auth=ff2a5bf11decef40f21bde6518ec6b8a9108a1a0fc9f252df7a6ed5e29fc7aae&smart=true&width=1680&height=945",
+      "description": "El endurecimiento de controles sobre Medicaid abrió un nuevo foco de preocupación entre inmigrantes legales en Estados Unidos. Las medidas ya avanzan en varios estados y podrían cambiar la forma en que miles de familias buscan atención médica.",
+      "featured": false
+    },
+    {
+      "slug": "carl-jung-la-soledad-no-proviene-de-no-tener-gente-alrededor-sino-de-ser-incapaz-de-comunicar-cosas",
+      "title": "Carl Jung: ‘La soledad no proviene de no tener gente alrededor, sino de ser incapaz de comunicar cosas’",
+      "category": "Ciencia",
+      "bullets_20s": "• Carl Jung propone que la soledad está ligada a la incapacidad de comunicarse efectivamente.\n• La dificultad para expresar emociones puede llevar a un sentimiento de soledad profunda.\n• La comunicación efectiva es fundamental para evitar la sensación de aislamiento emocional.\n• La teoría de Jung resalta la importancia de compartir pensamientos significativos con los demás.\n• Entender la soledad desde esta perspectiva puede cambiar cómo la enfrentamos diariamente.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/ciencia/carl-jung-redefinio-la-soledad-no-es-falta-de/SGNZ2SETKVHEFBH3SVODOCEVUA/story/",
+      "publish_date": "2026-05-21T17:18:56.000Z",
+      "teaser": "Lo clave en 20 segundos: La soledad se relaciona más con la comunicación que con la ausencia de personas.",
+      "image_url": "https://www.nacion.com/resizer/v2/WXTSVLTZUNCGZFO6GIZSYHS7CY.png?auth=c4e6e7e909f6e8d0975d42c89df8125a09c5f82b7f04ea2153d3603ef3944dfb&smart=true&width=1536&height=1024",
+      "description": "La visión de Carl Jung sobre la soledad revela que no depende de estar solo, sino de la dificultad para comunicar pensamientos y emociones importantes.",
+      "featured": false
+    },
+    {
+      "slug": "cientificos-estudian-la-corteza-terrestre-y-descubren-que-la-peninsula-iberica-podria-girar-en-sentido-horario",
+      "title": "Científicos estudian la corteza terrestre y descubren que la península ibérica podría girar en sentido horario",
+      "category": "Ciencia",
+      "bullets_20s": "• Científicos analizan las tensiones tectónicas en la corteza terrestre de la península ibérica.\n• La investigación sugiere que la península podría experimentar un giro en su posición.\n• Las tensiones se originan por la interacción entre las placas de África y Eurasia.\n• Los hallazgos podrían tener implicaciones en la geología de la región.\n• Se estudian los efectos de este giro en el ecosistema local y global.\n• El estudio destaca la importancia de la investigación tectónica en la ciencia moderna.\n• Se prevé que los resultados se discutan en conferencias internacionales de geología.\n• Los científicos continúan monitoreando actividades tectónicas en tiempo real.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/ciencia/cientificos-estudian-la-corteza-terrestre-y/WXMMBRZS5ZBFJGTHWKOQQSVF64/story/",
+      "publish_date": "2026-05-21T17:15:45.000Z",
+      "teaser": "Lo clave en 20 segundos: La península ibérica podría girar lentamente por tensiones tectónicas.",
+      "image_url": "https://www.nacion.com/resizer/v2/QFTSRIBU5JBJXMFBJYDDST4NLI.jpg?auth=739f47efe09441a891b3234f4994cffb284e7db1f3aa47bac5fa62bc46a34ed6&smart=true&width=1440&height=960",
+      "description": "Un estudio encontró señales de que la península ibérica podría rotar lentamente por las tensiones tectónicas entre África y Eurasia.",
+      "featured": false
+    },
+    {
+      "slug": "steam-fortaleciendo-lo-publico-abre-convocatoria-para-40-becas-completas-dirigidas-a-estudiantes-universitarios",
+      "title": "STEAM Fortaleciendo lo Público abre convocatoria para 40 becas completas dirigidas a estudiantes universitarios",
+      "category": "Costa Rica",
+      "bullets_20s": "• La iniciativa busca seleccionar a 40 estudiantes universitarios en Costa Rica para participar.\n• El bootcamp se enfocará en innovación pública y transformación social desde áreas STEAM.\n• Se realizarán talleres interactivos, clases magistrales y dinámicas colaborativas para los seleccionados.\n• Las becas cubrirán transporte, hospedaje, alimentación y materiales necesarios para el programa.\n• Los participantes formarán parte de una red latinoamericana de jóvenes líderes en STEAM.\n• La convocatoria está abierta del 19 de mayo al 19 de junio de 2026 para postulaciones.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/steam-fortaleciendo-lo-publico-abre-convocatoria-40-becas-completas-dirigidas-estudiantes",
+      "publish_date": "2026-05-21T16:28:05.000Z",
+      "teaser": "Lo clave en 20 segundos: Convocatoria para 40 becas STEAM, en Costa Rica del 24 al 26 de julio de 2026.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/steam-cr-beca-total.jpg",
+      "description": "STEAM Fortaleciendo lo Público abre convocatoria para 40 becas completas dirigidas a estudiantes universitarios.",
+      "featured": false
+    },
+    {
       "slug": "cientificos-de-la-nasa-detectaron-en-marte-un-efecto-que-ayuda-a-desviar-el-viento-solar",
       "title": "Científicos de la NASA detectaron en Marte un efecto que ayuda a desviar el viento solar",
       "category": "Ciencia",
@@ -134,11 +212,11 @@
       "slug": "air-france-y-airbus-son-declaradas-culpables-de-homicidio-involuntario-por-el-accidente-aereo-mas-letal-de-francia-ocurr",
       "title": "Air France y Airbus son declaradas culpables de homicidio involuntario por el accidente aéreo más letal de Francia ocurrido en 2009",
       "category": "Mundo",
-      "bullets_20s": "• El tribunal determinó responsabilidad de las empresas en el accidente de 2009 en el vuelo AF447.\n• Air France y Airbus deberán enfrentar sanciones por homicidio involuntario por su negligencia.\n• Este caso reabrió la conversación sobre la seguridad aérea y las responsabilidades empresariales.\n• Desde el accidente, se han realizado múltiples mejoras en tecnología de aviación y seguridad.\n• La tragedia del vuelo AF447 es recordada por la misteriosa desaparición que llevó años investigar.\n• Las víctimas del accidente fueron homenajeadas por sus familias y grupos de defensa de derechos.\n• Se espera que este veredicto influya en futuros casos legales sobre seguridad aérea.\n• Experiencias previas de otros accidentes también se han considerado en este juicio histórico.\n• El fallo se produce tras más de una década de investigaciones y juicios complejos.\n• La industria aérea debe reevaluar sus protocolos de seguridad y capacitación del personal.",
+      "bullets_20s": "• Un tribunal en Francia ha encontrado culpables a Air France y Airbus por homicidio involuntario.\n• El accidente aéreo ocurrió en 2009 y fue el más letal en la historia de Francia.\n• Un total de 228 personas perdieron la vida en este trágico evento aéreo del pasado.\n• Las implicaciones legales de este juicio podrían cambiar la industria aeronáutica significativamente.\n• Es un caso que resalta la importancia de la responsabilidad en la aviación comercial.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cvgzdyv4kzgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T13:50:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Air France y Airbus culpables de homicidio involuntario en trágico accidente aéreo.",
+      "teaser": "Lo clave en 20 segundos: Air France y Airbus culpables por el trágico accidente aéreo de 2009.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d5b5/live/0f7f6c10-5511-11f1-9e5e-fb37d8c40e64.jpg",
       "description": "Un tribunal francés declaró culpables a las empresas por un desastre aéreo en el que murieron 228 personas.",
       "featured": false
@@ -212,11 +290,11 @@
       "slug": "por-que-mexico-importa-mas-del-50-de-la-gasolina-que-consume-pese-a-ser-uno-de-los-mayores-productores-de-petroleo-de-am",
       "title": "Por qué México importa más del 50% de la gasolina que consume, pese a ser uno de los mayores productores de petróleo de América Latina",
       "category": "Mundo",
-      "bullets_20s": "• México, a pesar de ser un gran productor de petróleo, enfrenta problemas de capacidad en sus refinerías.\n• Las refinerías en México han sufrido falta de inversión y mantenimiento durante años.\n• Importar gasolina se ha vuelto una necesidad para satisfacer la demanda interna del país.\n• El gobierno mexicano busca modernizar las refinerías para reducir la dependencia externa.\n• La industria petrolera mexicana enfrenta retos significativos debido a la obsolescencia de sus instalaciones.",
+      "bullets_20s": "• México es un importante productor de petróleo en América Latina, pero enfrenta serias dificultades.\n• Las refinerías en México cuentan con tecnología obsoleta, limitando su capacidad de producción.\n• El país importa más del 50% de la gasolina que consume, afectando su economía.\n• El precio de la gasolina en México se ve influenciado por el mercado internacional del petróleo.\n• Las políticas energéticas han generado un debate sobre la producción y la importación de combustibles.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdxdldjenpvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T12:31:11.000Z",
-      "teaser": "Lo clave en 20 segundos: México importa más de la mitad de su gasolina a pesar de ser productor de petróleo.",
+      "teaser": "Lo clave en 20 segundos: México importa gasolina a pesar de ser uno de los mayores productores de petróleo.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9a01/live/19203760-2463-11f1-a2c1-39d16ad974aa.jpg",
       "description": "El país lucha desde hace años con unas refinerías obsoletas que obliga al país a importar del extranjero el 50% de su consumo de gasolina.",
       "featured": false
@@ -277,13 +355,13 @@
       "slug": "que-significa-que-rusia-haya-desplegado-sus-fuerzas-nucleares-estrategicas-en-sus-mayores-ejercicios-militares-hasta-la-",
       "title": "¿Qué significa que Rusia haya desplegado sus fuerzas nucleares estratégicas en sus mayores ejercicios militares hasta la fecha?",
       "category": "Mundo",
-      "bullets_20s": "• Rusia lleva a cabo ejercicios estratégicos nucleares para demostrar su capacidad de respuesta.\n• Los ejercicios incluyen la movilización de fuerzas nucleares en un entorno de alta tensión.\n• El Ministerio de Defensa ruso advirtió sobre amenazas agresivas en el entorno internacional.\n• Estos ejercicios son parte de una estrategia más amplia de seguridad nacional para Rusia.\n• La comunidad internacional observa atentamente el despliegue de estas fuerzas en ejercicios.",
+      "bullets_20s": "• Rusia realiza ejercicios nucleares estratégicos masivos, lo que genera preocupaciones internacionales por la escalada de tensiones.\n• El Ministerio de Defensa de Rusia afirma que es una preparación ante amenazas percibidas de agresión externa.\n• Estos ejercicios son considerados los más grandes de la historia reciente del país, marcando un hito en la estrategia militar.\n• Los ejercicios incluyen pruebas de sistemas de lanzamiento y maniobras de fuerzas en condiciones extremas de combate.\n• Las reacciones mundiales sugieren que este despliegue podría alterar el equilibrio de poder en la región y más allá.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c242g9qd744o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T11:39:19.000Z",
-      "teaser": "Lo clave en 20 segundos: Rusia demuestra su poder militar en grandes ejercicios nucleares ante amenazas externas.",
+      "teaser": "Lo clave en 20 segundos: Rusia intensifica sus ejercicios nucleares en un contexto de creciente tensión global.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/71f5/live/873cfa10-5377-11f1-ba02-4b5b8fc65c30.jpg",
-      "description": "Rusia realizó ejercicios estratégicos nucleares a gran escala \"para prepararse y emplear fuerzas nucleares ante una amenaza agresiva\", dijo el Ministerio de Defensa ruso.",
+      "description": "Rusia realizó ejercicios estratégicos nucleares a gran escala 'para prepararse y emplear fuerzas nucleares ante una amenaza agresiva', dijo el Ministerio de Defensa ruso.",
       "featured": false
     },
     {
@@ -316,11 +394,11 @@
       "slug": "eeuu-se-beneficia-de-la-estabilidad-en-america-latina-que-se-produce-mediante-el-desarrollo-y-las-clases-medias-deberia-",
       "title": "EE.UU. se beneficia de la estabilidad en América Latina, que se produce mediante el desarrollo y las clases medias. Debería promover eso en lugar de intervenciones",
       "category": "Mundo",
-      "bullets_20s": "• La estabilidad en América Latina puede ser impulsada por el desarrollo de clases medias.\n• Intervenciones en la región por parte de EE.UU. han tenido consecuencias negativas históricas.\n• El desarrollo económico beneficia no solo a América Latina, sino también a EE.UU.\n• Promover el desarrollo sostenible es vital para la seguridad en la región.\n• Kinzer plantea un enfoque diferente a las relaciones entre EE.UU. y América Latina.",
+      "bullets_20s": "• El desarrollo de las clases medias es fundamental para la estabilidad en la región latinoamericana.\n• Los Estados Unidos han intervenido en diversas ocasiones en América Latina con consecuencias complejas.\n• Stephen Kinzer ofrece una reflexión sobre la historia de estas intervenciones y sus efectos.\n• La promoción de la estabilidad económica podría ser más efectiva que las intervenciones militares.\n• Un enfoque en el desarrollo podría beneficiar tanto a América Latina como a la política estadounidense.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c93x5k9l4xzo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T10:59:58.000Z",
-      "teaser": "Lo clave en 20 segundos: EE.UU. debería apoyar el desarrollo latinoamericano en lugar de intervenir.",
+      "teaser": "Lo clave en 20 segundos: Stephen Kinzer analiza las intervenciones de EE.UU. en América Latina y sus efectos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/6d6f/live/2bb35900-4963-11f1-8cde-350b393d70a2.jpg",
       "description": "El periodista y escritor estadounidense, Stephen Kinzer, repasa las veces que Estados Unidos intervino en países de América Latina y cuáles fueron las consecuencias",
       "featured": false
@@ -381,13 +459,13 @@
       "slug": "la-brutal-redada-en-la-fiesta-de-cumpleanos-de-una-mujer-que-revela-el-auge-de-un-grupo-ultranacionalista-en-rusia",
       "title": "La brutal redada en la fiesta de cumpleaños de una mujer que revela el auge de un grupo ultranacionalista en Rusia",
       "category": "Mundo",
-      "bullets_20s": "• La redada tuvo lugar en una fiesta de cumpleaños con un ambiente festivo y sorpresas.\n• El grupo ultranacionalista intensifica sus acciones en distintas celebraciones sociales en Rusia.\n• Estas redadas se justifican bajo la premisa de proteger los valores tradicionales rusos.\n• Los participantes enfrentan sanciones por brechas percibidas en la moralidad según el grupo.\n• La acción ha generado preocupaciones sobre la libertad de expresión y reunión en Rusia.",
+      "bullets_20s": "• Un grupo ultranacionalista ruso lleva a cabo operaciones en diversas fiestas y reuniones sociales.\n• Las redadas buscan proteger lo que consideran los valores tradicionales de la sociedad rusa.\n• La acción de estos grupos genera preocupación entre defensores de los derechos humanos en Rusia.\n• La fiesta de cumpleaños se convirtió en un blanco para la intervención de este grupo radical.\n• Las autoridades han sido criticadas por su inacción frente a las actividades de estos grupos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c70716dg68lo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T02:59:35.000Z",
-      "teaser": "Lo clave en 20 segundos: una fiesta de cumpleaños se convierte en blanco de un grupo ultranacionalista en Rusia.",
+      "teaser": "Lo clave en 20 segundos: Un grupo ultranacionalista en Rusia organiza redadas en fiestas de cumpleaños.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8cc7/live/e25b3560-4e04-11f1-ac78-2112837ce2aa.jpg",
-      "description": "El grupo Russkaya Obshina organiza redadas en busca de actividades que consideran contravienen los \"valores tradicionales rusos\".",
+      "description": "El grupo Russkaya Obshina organiza redadas en busca de actividades que consideran contravienen los 'valores tradicionales rusos'.",
       "featured": false
     },
     {
@@ -1692,15 +1770,15 @@
     },
     {
       "slug": "campana-de-recoleccion-de-residuos-concientizados-edicion-mayo-2026",
-      "title": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
+      "title": "Campaña de recolección de residuos 'Concientizados', Edición mayo 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Unidad de Gestión Ambiental del TEC invita a participar en la campaña de recolección de residuos.\n• El evento se llevará a cabo el 26 de mayo, de 7:30 a. m. a 2:00 p. m.\n• Abierto a toda la comunidad, con recepción de llantas como novedad en esta edición.\n• Se recomienda revisar la lista de residuos aceptados para participar de manera efectiva.\n• Los residuos deben estar limpios y separados adecuadamente antes de llegar al evento.",
+      "bullets_20s": "• La campaña de recolección se realizará el 26 de mayo en Cartago, de 7:30 a.m. a 2:00 p.m.\n• Se aceptarán residuos reciclables como botellas, papel, cartón, y electrodomésticos pequeños.\n• Se recomienda separar adecuadamente los residuos y revisarlos antes de asistir.\n• Nuevas inclusiones permiten la recolección de llantas, apoyando el cuidado ambiental.\n• GASEL impulsa prácticas sostenibles y busca educar a la comunidad sobre gestión de residuos.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/campana-recoleccion-residuos-concientizados-edicion-mayo-2026",
       "publish_date": "2026-05-19T17:35:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Participa en la campaña de recolección 'Concientizados' del TEC.",
+      "teaser": "Lo clave en 20 segundos: Participa en la campaña mensual de recolección de residuos en Cartago.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-campana-concientizados_0.jpg",
-      "description": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
+      "description": "Campaña de recolección de residuos 'Concientizados', Edición mayo 2026",
       "featured": false
     },
     {
@@ -1785,11 +1863,11 @@
       "slug": "espinores-que-son-y-cuales-son-sus-aplicaciones",
       "title": "Espinores: ¿qué son y cuáles son sus aplicaciones?",
       "category": "Ciencia",
-      "bullets_20s": "• La charla explora el concepto de espinores y su importancia en la física moderna.\n• Se abordará la relación entre espinores y el espín cuántico en la charla.\n• Carlos Adrián Jiménez Carballo, experto en física teórica, será el ponente principal.\n• La actividad se transmitirá en línea a través de Facebook y Zoom para todos los interesados.\n• La charla está enfocada en aplicaciones de espinores en astrofísica y relatividad.",
+      "bullets_20s": "• La charla se enfocará en la introducción de los espinores en física moderna.\n• Tendrá lugar el 21 de mayo a las 5:00 p. m. en el Edificio D3.\n• AstroTEC transmitirá la charla por Zoom y Facebook para todo público.\n• El MSc. Carlos Adrián Jiménez será el invitado especial y ponente.\n• Los espinores están relacionados con el espín cuántico y sus aplicaciones.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/espinores-son-cuales-son-sus-aplicaciones",
       "publish_date": "2026-05-19T15:54:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre qué son los espinores y sus aplicaciones en física moderna.",
+      "teaser": "Lo clave en 20 segundos: Explora los espinores y sus aplicaciones en la charla del AstroTEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/506-jueves-astronomico.jpg",
       "description": "Espinores: ¿qué son y cuáles son sus aplicaciones?",
       "featured": false
@@ -22829,5 +22907,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-21T16:45:19.534Z"
+  "generated_at": "2026-05-21T17:45:19.581Z"
 }
