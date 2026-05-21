@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "como-masticar-bien-los-alimentos-puede-mejorar-la-actividad-cerebral",
+      "title": "Cómo masticar bien los alimentos puede mejorar la actividad cerebral",
+      "category": "Ciencia",
+      "bullets_20s": "• La masticación adecuada no solo optimiza la digestión, sino que también activa ciertas áreas del cerebro.\n• Estudios recientes sugieren una conexión entre la masticación y la prevención de enfermedades neurodegenerativas.\n• Los hábitos alimenticios pueden influir en la salud mental y cognitiva a largo plazo.\n• La estimulación de las funciones cerebrales está vinculada a la forma en que procesamos nuestros alimentos.\n• Masticar despacio permite una mejor absorción de nutrientes esenciales para el cerebro.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c4gv5l2jm5qo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-21T10:27:04.000Z",
+      "teaser": "Lo clave en 20 segundos: La masticación adecuada puede potenciar la salud cerebral y prevenir enfermedades.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4ca3/live/1baf6990-52cd-11f1-b4b8-8bc40cabb834.jpg",
+      "description": "Aunque se sabe que masticar mucho los alimentos mejora la digestión, las investigaciones sugieren que también puede estimular nuestro cerebro e incluso ayudar a prevenir el Alzheimer.",
+      "featured": false
+    },
+    {
       "slug": "escape-de-la-machosfera-y-otros-hombres-tambien-pueden-hacerlo",
       "title": "Escapé de la machosfera y otros hombres también pueden hacerlo",
       "category": "Mundo",
-      "bullets_20s": "• Will Adolphy, un exmiembro de la machosfera, comparte su experiencia personal sobre el machismo tóxico.\n• La machosfera es un fenómeno que afecta a muchos adolescentes y hombres jóvenes en su desarrollo.\n• Adolphy ahora trabaja ayudando a otros a escapar de la influencia negativa del machismo.\n• El testimonio de Will enfatiza la importancia de la conciencia y la educación emocional.\n• La historia invita a reflexionar sobre los estereotipos de género en la sociedad actual.",
+      "bullets_20s": "• Will Adolphy comparte su experiencia sobre el machismo tóxico que conoció en su juventud.\n• Explica cómo la toma de conciencia puede cambiar vidas y relaciones con el entorno.\n• Adolphy se dedica a aconsejar a otros sobre la importancia de escapar de estigmas sociales.\n• El artículo aborda la relevancia de la salud emocional y mental en estos procesos de cambio.\n• Destaca historias de otros hombres que también han decidido salir de la machosfera.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c62dqg7l7gjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T09:28:02.000Z",
-      "teaser": "Lo clave en 20 segundos: La experiencia de un hombre que rompió con el machismo y ayuda a otros a hacerlo.",
+      "teaser": "Lo clave en 20 segundos: Will Adolphy comparte su experiencia para ayudar a escapar del machismo.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/4e1f/live/49065a20-5043-11f1-acce-79302838e29f.jpg",
       "description": "De adolescente, Will Adolphy estuvo envuelto en una red de machismo tóxico hasta que tomó consciencia y ahora aconseja a jóvenes y chicos para eludir ese mundo.",
       "featured": false
@@ -17,11 +30,11 @@
       "slug": "pesquero-con-droga-oculta-entre-hielo-cae-en-el-pacifico-esto-dijo-el-departamento-de-estado-de-ee-uu",
       "title": "Pesquero con droga oculta entre hielo cae en el Pacífico: esto dijo el Departamento de Estado de EE. UU.",
       "category": "Costa Rica",
-      "bullets_20s": "• Una embarcación fue interceptada en el océano Pacífico por las autoridades costarricenses.\n• Dentro de la nave se encontraron paquetes de cocaína escondidos entre hielo.\n• El decomiso resultó en la detención de tres individuos aparentemente involucrados.\n• El Departamento de Estado de EE. UU. comentó sobre este incidente de seguridad.\n• Las operaciones contra el narcotráfico son prioritarias en la región centroamericana.",
+      "bullets_20s": "• Un pesquero fue interceptado en el Pacífico con droga oculta entre hielo, lo que llamó la atención.\n• Tres personas fueron detenidas por la posesión de cocaína, una situación que preocupa a las autoridades.\n• El Departamento de Estado de EE. UU. emitió un pronunciamiento al respecto, reforzando la cooperación internacional.\n• Este tipo de operativos son comunes en la región, pero continúan sorprendiendo por la creatividad de los delincuentes.\n• Las autoridades de Costa Rica trabajan en conjunto con organismos internacionales para combatir el narcotráfico.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/sucesos/pesquero-con-droga-oculta-entre-hielo-cae-en-el/5WTK5K7X3JBJDHTG5342FSW7R4/story/",
       "publish_date": "2026-05-21T04:08:46.000Z",
-      "teaser": "Lo clave en 20 segundos: interceptan pesquero con droga oculta en el Pacífico, tres detenidos.",
+      "teaser": "Lo clave en 20 segundos: Pesquero interceptado con droga en el Pacífico genera pronunciamiento de EE. UU.",
       "image_url": "https://www.nacion.com/resizer/v2/ABLPB2R4IZAPXOBYBY6OZEZR54.jpg?auth=f90b7ca2f5e6528d5c038630e1de30d630c575051e2631b3a90f6648397eb1db&smart=true&width=1920&height=1080",
       "description": "Una embarcación pesquera fue interceptada con cocaína oculta entre hielo en el Pacífico. El decomiso dejó tres detenidos y motivó un pronunciamiento de EE. UU.",
       "featured": false
@@ -30,11 +43,11 @@
       "slug": "en-imagenes-el-drama-que-dejaron-las-lluvias-rescates-rios-crecidos-y-comunidades-bajo-el-agua",
       "title": "En imágenes, el drama que dejaron las lluvias: rescates, ríos crecidos y comunidades bajo el agua",
       "category": "Costa Rica",
-      "bullets_20s": "• Las lluvias en el Caribe costarricense causaron severos daños en varias comunidades locales.\n• Rescates heroicos se llevaron a cabo por los Bomberos y la Cruz Roja en diversas áreas.\n• Ríos crecieron rápidamente, inundando caminos y bloqueando vías de acceso esenciales.\n• Las imágenes muestran la devastación provocada por las intensas precipitaciones en familias.\n• Se han generado llamados a la solidaridad para apoyar a las afectadas por este desastre.",
+      "bullets_20s": "• Las lluvias intensas causaron estragos en diversas comunidades del Caribe de Costa Rica.\n• Imagenes impactantes muestran rescates debido al desbordamiento de ríos en la región.\n• Las comunidades afectadas se enfrentan a la pérdida de bienes y recursos esenciales.\n• Rescatistas trabajan arduamente para ayudar a quienes se encuentran en zonas inundadas.\n• El gobierno evalúa los daños para brindar asistencia a los damnificados por las lluvias.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/sucesos/en-imagenes-el-drama-que-dejaron-las-lluvias/FAJDXQYW2ZFPRNPBZZ4ZYAWHUU/story/",
       "publish_date": "2026-05-21T03:37:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Las lluvias en el Caribe causaron rescates y comunidades inundadas.",
+      "teaser": "Lo clave en 20 segundos: Impacto de las lluvias en el Caribe, rescates y comunidades inundadas.",
       "image_url": "https://www.nacion.com/resizer/v2/YF2QWRHKSBE7RGIG6T5TKUABPQ.jpeg?auth=a78df1776b576b312fb8c2441f80e64531b677948e97efb819235c96c52feaf0&smart=true&width=1280&height=720",
       "description": "Las lluvias golpearon el Caribe y dejaron escenas de rescates, ríos desbordados y comunidades bajo el agua. Estas imágenes retratan el drama vivido.",
       "featured": false
@@ -43,11 +56,11 @@
       "slug": "la-brutal-redada-en-la-fiesta-de-cumpleanos-de-una-mujer-que-revela-el-auge-de-un-grupo-ultranacionalista-en-rusia",
       "title": "La brutal redada en la fiesta de cumpleaños de una mujer que revela el auge de un grupo ultranacionalista en Rusia",
       "category": "Mundo",
-      "bullets_20s": "• En Rusia, los ultranacionalistas intensifican sus acciones en eventos sociales y privados como fiestas y reuniones.\n• Las redadas buscan imponer una visión rígida de los 'valores tradicionales' rusos en la sociedad actual.\n• El auge de este grupo ha sido alarmante y genera preocupación en sectores democráticos y liberales.\n• Las autoridades rusas a menudo cierran los ojos ante estas acciones que limitan la libertad individual.\n• La comunidad internacional observa con cautela el crecimiento del ultranacionalismo en Rusia.\n• Las víctimas de estas redadas exponen el clima de miedo que producen estos grupos radicales.\n• La estrategia del grupo incluye intimidación y censura contra aquellos que desafían sus creencias.\n• Este fenómeno no es nuevo, pero su reciente visibilidad incrementa la necesidad de una respuesta.\n• Este tipo de incidentes son un reflejo de tensiones sociales más amplias en el país.\n• Los derechos humanos corren peligro bajo la influencia de ideologías extremistas en la región.",
+      "bullets_20s": "• Un grupo ultranacionalista en Rusia está realizando redadas en fiestas y reuniones sociales.\n• La redada en una fiesta de cumpleaños generó preocupación sobre la libertad personal en el país.\n• Russkaya Obshina busca mantener lo que consideran valores tradicionales rusos en la sociedad.\n• Las acciones del grupo han sido criticadas por organizaciones de derechos humanos en todo el mundo.\n• La situación refleja un contexto político tenso y creciente en Rusia en los últimos años.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c70716dg68lo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T02:59:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Redadas ultranacionalistas en Rusia evidencian el aumento del extremismo social.",
+      "teaser": "Lo clave en 20 segundos: Un grupo ultranacionalista en Rusia provoca miedo con sus redadas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8cc7/live/e25b3560-4e04-11f1-ac78-2112837ce2aa.jpg",
       "description": "El grupo Russkaya Obshina organiza redadas en busca de actividades que consideran contravienen los 'valores tradicionales rusos'.",
       "featured": false
@@ -108,11 +121,11 @@
       "slug": "raul-castro-el-ultimo-gran-simbolo-de-la-revolucion-cubana-en-el-punto-de-mira-de-estados-unidos",
       "title": "Raúl Castro, el último gran símbolo de la Revolución cubana en el punto de mira de Estados Unidos",
       "category": "Mundo",
-      "bullets_20s": "• Raúl Castro es un símbolo histórico de la Revolución cubana y su legado sigue vigente.\n• Conocido por su papel militar, Castro fue un actor vital en la política cubana.\n• Enfrenta cargos en Estados Unidos que han reavivado el interés por su figura.\n• Su relación con Obama fue significativa para el acercamiento entre Estados Unidos y Cuba.\n• Raúl fue el sucesor de Fidel Castro, continuando su legado y políticas.\n• La imagen de Castro ha cambiado en el contexto internacional y local con el tiempo.\n• Las tensiones políticas en Cuba siguen influyendo en la percepción sobre su liderazgo.\n• Las políticas de Castro han tenido un impacto duradero en la sociedad cubana.\n• Su salida del poder marcó un nuevo capítulo en la historia de la isla.\n• El futuro de su legado será tema de análisis y debates durante años.",
+      "bullets_20s": "• Raúl Castro fue un importante líder en la Revolución cubana que transformó el país.\n• Su papel fue crucial en la relación entre Cuba y Estados Unidos durante los últimos años.\n• Castro tuvo un papel destacado en la política militar y estratégica de Cuba.\n• Durante su mandato, se realizó un deshielo histórico con el gobierno de Obama.\n• Enfrenta actualmente problemas legales en Estados Unidos que afectan su legado.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdrpe566evno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T00:51:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Raúl Castro enfrenta cargos en EE.UU., resaltando su papel histórico en Cuba.",
+      "teaser": "Lo clave en 20 segundos: Raúl Castro, emblemático líder cubano, enfrenta cargos en EE. UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b381/live/79a64bb0-547e-11f1-9e5e-41ceb78553de.jpg",
       "description": "Combatiente revolucionario, jefe militar, sucesor de Fidel y protagonista del deshielo con Obama: así fue la trayectoria del dirigente cubano que ahora enfrenta cargos en EE.UU.",
       "featured": false
@@ -693,11 +706,11 @@
       "slug": "isak-andic-quien-era-el-fundador-de-mango-y-como-se-produjo-su-muerte-de-la-que-acusan-a-su-hijo",
       "title": "Isak Andic: quién era el fundador de Mango y cómo se produjo su muerte, de la que acusan a su hijo",
       "category": "Mundo",
-      "bullets_20s": "• Isak Andic fue un destacado empresario español, fundador de la famosa marca de moda Mango.\n• Jonathan Andic, hijo de Isak, enfrenta acusaciones relacionadas con la muerte de su padre.\n• Se ha ordenado prisión provisional bajo fianza para Jonathan, mientras avanza la investigación.\n• El caso ha suscitado gran interés mediático a nivel internacional por su naturaleza familiar.\n• La muerte de Andic ha dejado a la industria de la moda conmocionada y en proceso de reflexión.",
+      "bullets_20s": "• Isak Andic fue el famoso fundador de la marca de moda Mango en España.\n• Su muerte ha desencadenado una serie de especulaciones y acusaciones complicadas.\n• Las autoridades están investigando las circunstancias que rodearon su fallecimiento.\n• Su hijo, Jonathan Andic, enfrenta duras acusaciones relacionadas con la muerte de Isak.\n• El caso ha atraído atención mediática internacional debido a la reputación de la familia.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c62d0g4lqqjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-20T14:43:38.000Z",
-      "teaser": "Lo clave en 20 segundos: una muerte rodeada de acusaciones familiares resuena en el mundo de la moda.",
+      "teaser": "Lo clave en 20 segundos: Isak Andic fundador de Mango fallece y su hijo es acusado.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cbe7/live/9ceaaf70-5457-11f1-bc99-1d37de959855.jpg",
       "description": "El auto de la jueza que ordenó la prisión provisional bajo fianza del hijo recoge numerosas indicios que podrían implicar a Jonathan Andic en la muerte de su padre.",
       "featured": false
@@ -1356,11 +1369,11 @@
       "slug": "campana-de-recoleccion-de-residuos-concientizados-edicion-mayo-2026",
       "title": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La campaña 'Concientizados' se llevará a cabo el 26 de mayo de 2026, en Cartago.\n• Se recibirán diversos materiales reciclables, incluyendo botellas, aluminio y papel.\n• Nuevamente se incluye la recepción de llantas, en colaboración con el Ministerio de Salud.\n• Los residuos deben estar limpios y separados según las instrucciones publicadas.\n• GASEL fomenta prácticas sostenibles e impulsa la educación ambiental en la comunidad.",
+      "bullets_20s": "• La campaña \"Concientizados\" invita a participar en la recolección de residuos en el Tecnológico de Costa Rica.\n• La edición de mayo 2026 se llevará a cabo el 26 de mayo entre las 7:30 a.m. y 2:00 p.m.\n• Se recogerán llantas, residuos reciclables y electrónicos, con normas específicas detalladas por GASEL.\n• Los participantes deben llevar residuos limpios y debidamente separados, siguiendo las recomendaciones establecidas.\n• Se recibirán botellas plásticas, papel, cartón y ciertos tipos de electrodomésticos, entre otros.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/campana-recoleccion-residuos-concientizados-edicion-mayo-2026",
       "publish_date": "2026-05-19T17:35:37.000Z",
-      "teaser": "Lo clave en 20 segundos: La campaña 'Concientizados' recibirá residuos reciclables en mayo.",
+      "teaser": "Lo clave en 20 segundos: Recolección de residuos en el TEC, abierta a todos este mayo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-campana-concientizados_0.jpg",
       "description": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
       "featured": false
@@ -1447,11 +1460,11 @@
       "slug": "espinores-que-son-y-cuales-son-sus-aplicaciones",
       "title": "Espinores: ¿qué son y cuáles son sus aplicaciones?",
       "category": "Ciencia",
-      "bullets_20s": "• El grupo AstroTEC realizará una charla sobre espinores y sus aplicaciones en física moderna.\n• La charla tendrá lugar el 21 de mayo a las 5:00 p.m. en el TEC, abierto al público.\n• Se discutirá la relación entre espinores y espín cuántico y su impacto en la ciencia.\n• Carlos Adrián Jiménez Carballo será el invitado especial en esta interesante actividad.\n• La charla se transmitirá por Zoom y Facebook, facilitando la participación remota.",
+      "bullets_20s": "• La charla sobre espinores abordará conceptos fundamentales de la física moderna y cuántica.\n• Se explorarán aplicaciones de los espinores en diversas áreas de la física actual.\n• El evento se llevará a cabo el 21 de mayo a las 5:00 p.m. en el TEC.\n• La actividad será abierta al público y se transmitirá de manera virtual por Zoom.\n• El MSc. Carlos Adrián Jiménez será el expositor, con experiencia en física teórica.\n• Espinores están relacionados con el espín cuántico y fenómenos de rotación.\n• La charla forma parte del programa Jueves Astronómico de AstroTEC.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/espinores-son-cuales-son-sus-aplicaciones",
       "publish_date": "2026-05-19T15:54:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Charla sobre espinores y sus aplicaciones en la física moderna, este 21 de mayo.",
+      "teaser": "Lo clave en 20 segundos: charla sobre espinores y sus aplicaciones en la física moderna.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/506-jueves-astronomico.jpg",
       "description": "Espinores: ¿qué son y cuáles son sus aplicaciones?",
       "featured": false
@@ -2149,11 +2162,11 @@
       "slug": "ingenieria-agricola-celebra-50-anos-de-compromiso-con-el-campo-costarricense",
       "title": "Ingeniería Agrícola celebra 50 años de compromiso con el campo costarricense",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Ingeniería Agrícola ha formado a 576 profesionales comprometidos con el agro costarricense.\n• El evento de aniversario reunió a exalumnos, docentes y autoridades del Tecnológico de Costa Rica.\n• Se enfatizaron logros en tecnificación y sostenibilidad para la producción agrícola en el país.\n• La vinculación con el sector productivo ha sido clave para el desarrollo del agro en Costa Rica.\n• Se destacó la importancia de integrar tecnología en el proceso agrícola moderno y sostenible.",
+      "bullets_20s": "• La Escuela de Ingeniería Agrícola celebra su 50 aniversario con un acto protocolario importante.\n• Se han graduado más de 576 ingenieros agrícolas durante cinco décadas de trayectoria.\n• La vinculación con el sector agrícola ha sido clave en el desarrollo rural de Costa Rica.\n• La carrera busca formar profesionales capaces de enfrentar los desafíos del agro.\n• Los graduados aplican tecnología para mejorar la producción y conservación de recursos.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/ingenieria-agricola-celebra-50-anos-compromiso-campo-costarricense",
       "publish_date": "2026-05-18T19:08:10.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de Ingeniería Agrícola en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La Ingeniería Agrícola en Costa Rica celebra 50 años de impacto en el campo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/50-aniversario-esc-ing-agricola_18_05_2026_paquesada-29.jpg",
       "description": "Ingeniería Agrícola celebra 50 años de compromiso con el campo costarricense",
       "featured": false
@@ -22504,5 +22517,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-21T09:45:20.001Z"
+  "generated_at": "2026-05-21T10:45:20.178Z"
 }
