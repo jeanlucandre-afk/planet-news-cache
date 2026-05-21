@@ -1,16 +1,29 @@
 {
   "news": [
     {
+      "slug": "en-imagenes-el-drama-que-dejaron-las-lluvias-rescates-rios-crecidos-y-comunidades-bajo-el-agua",
+      "title": "En imágenes, el drama que dejaron las lluvias: rescates, ríos crecidos y comunidades bajo el agua",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las lluvias intensas causaron desbordamientos de ríos en varias comunidades del Caribe.\n• Equipos de rescate trabajan arduamente para ayudar a las familias afectadas por las inundaciones.\n• Las imágenes reflejan el impacto significativo de las lluvias sobre la infraestructura local.\n• Comunidades enteras han quedado bajo el agua, generando un estado de emergencia en la región.\n• Se reportan daños en cultivos y viviendas, lo que afecta la economía local y la vida diaria.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/en-imagenes-el-drama-que-dejaron-las-lluvias/FAJDXQYW2ZFPRNPBZZ4ZYAWHUU/story/",
+      "publish_date": "2026-05-21T03:37:51.000Z",
+      "teaser": "Lo clave en 20 segundos: lluvias intensas causan devastación en comunidades del Caribe.",
+      "image_url": "https://www.nacion.com/resizer/v2/YF2QWRHKSBE7RGIG6T5TKUABPQ.jpeg?auth=a78df1776b576b312fb8c2441f80e64531b677948e97efb819235c96c52feaf0&smart=true&width=1280&height=720",
+      "description": "Las lluvias golpearon el Caribe y dejaron escenas de rescates, ríos desbordados y comunidades bajo el agua. Estas imágenes retratan el drama vivido.",
+      "featured": false
+    },
+    {
       "slug": "la-brutal-redada-en-la-fiesta-de-cumpleanos-de-una-mujer-que-revela-el-auge-de-un-grupo-ultranacionalista-en-rusia",
       "title": "La brutal redada en la fiesta de cumpleaños de una mujer que revela el auge de un grupo ultranacionalista en Rusia",
       "category": "Mundo",
-      "bullets_20s": "• Russkaya Obshina ha intensificado sus acciones en festividades y eventos sociales en Rusia.\n• Las redadas buscan imponer un control sobre lo que consideran valores tradicionales rusos.\n• Este grupo ultranacionalista utiliza tácticas intimidatorias para alcanzar sus objetivos.\n• Las fiestas de cumpleaños se han convertido en un nuevo blanco para sus actividades.\n• El crecimiento de estos movimientos extremistas inquieta a la sociedad civil en el país.",
+      "bullets_20s": "• Un grupo ultranacionalista ha intensificado sus acciones en Rusia, con un enfoque en fiestas privadas.\n• Se llevan a cabo redadas para encontrar comportamientos que desafían los valores tradicionales en el país.\n• La violencia y la represión han aumentado en el contexto de estas primeras acciones del grupo Russkaya Obshina.\n• La brutal redada en la fiesta de cumpleaños de la mujer ha causado conmoción a nivel internacional.\n• Los derechos humanos están bajo presión en Rusia por el accionar de estos grupos ultranacionalistas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c70716dg68lo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T02:59:35.000Z",
-      "teaser": "Lo clave en 20 segundos: ultranacionalistas rusos realizan redadas en fiestas de cumpleaños.",
+      "teaser": "Lo clave en 20 segundos: un grupo ultranacionalista motiva redadas en fiestas privadas en Rusia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8cc7/live/e25b3560-4e04-11f1-ac78-2112837ce2aa.jpg",
-      "description": "El grupo Russkaya Obshina organiza redadas en busca de actividades que consideran contravienen los \"valores tradicionales rusos\".",
+      "description": "El grupo Russkaya Obshina organiza redadas en busca de actividades que consideran contravienen los 'valores tradicionales rusos'.",
       "featured": false
     },
     {
@@ -69,11 +82,11 @@
       "slug": "raul-castro-el-ultimo-gran-simbolo-de-la-revolucion-cubana-en-el-punto-de-mira-de-estados-unidos",
       "title": "Raúl Castro, el último gran símbolo de la Revolución cubana en el punto de mira de Estados Unidos",
       "category": "Mundo",
-      "bullets_20s": "• Raúl Castro fue una figura clave en la Revolución cubana y sucesor de Fidel Castro.\n• El dirigente cubano ha enfrentado una serie de cargos por Estados Unidos en su trayectoria.\n• Su liderazgo marcó el inicio de un deshielo en las relaciones con EE.UU. previamente tensas.\n• La figura de Castro es vista como un símbolo contradictorio en la política cubana actual.\n• Estados Unidos ha puesto su atención en figuras clave de la revolución cubana recientemente.",
+      "bullets_20s": "• Raúl Castro fue un importante líder militar durante la Revolución cubana. Su papel fue crucial en diversas batallas.\n• Fidel Castro lo eligió como sucesor, asegurando la continuidad del régimen cubano tras su retiro.\n• El deshielo en las relaciones entre Cuba y Estados Unidos marcó un periodo significativo durante su liderazgo.\n• Raúl implementó algunas reformas económicas, buscando modernizar la economía cubana mientras mantenía el control político.\n• La atención de Estados Unidos hacia Raúl refleja el interés en los cambios políticos en Cuba tras décadas de embargo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdrpe566evno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T00:51:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Raúl Castro, figura histórica de Cuba, enfrenta nuevos desafíos políticos en EE.UU.",
+      "teaser": "Lo clave en 20 segundos: Raúl Castro y su rol en la Revolución cubana bajo la mirada de EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b381/live/79a64bb0-547e-11f1-9e5e-41ceb78553de.jpg",
       "description": "Combatiente revolucionario, jefe militar, sucesor de Fidel y protagonista del deshielo con Obama: así fue la trayectoria del dirigente cubano que ahora enfrenta cargos en EE.UU.",
       "featured": false
@@ -131,6 +144,19 @@
       "featured": false
     },
     {
+      "slug": "pesquero-con-droga-oculta-entre-hielo-cae-en-el-pacifico-esto-dijo-el-departamento-de-estado-de-ee-uu",
+      "title": "Pesquero con droga oculta entre hielo cae en el Pacífico: esto dijo el Departamento de Estado de EE. UU.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El pesquero fue detenido en una operación de vigilancia en el océano Pacífico\n• Las autoridades encontraron cocaína escondida entre bloques de hielo\n• Tres personas fueron arrestadas durante la operación de la policía\n• El Departamento de Estado de EE. UU. emitió un comunicado sobre el caso\n• Este caso resalta la lucha contra el narcotráfico en la región costarricense",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/pesquero-con-droga-oculta-entre-hielo-cae-en-el/5WTK5K7X3JBJDHTG5342FSW7R4/story/",
+      "publish_date": "2026-05-21T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Pesquero interceptado con droga oculta en el Pacífico genera alerta en EE. UU.",
+      "image_url": "https://www.nacion.com/resizer/v2/ABLPB2R4IZAPXOBYBY6OZEZR54.jpg?auth=f90b7ca2f5e6528d5c038630e1de30d630c575051e2631b3a90f6648397eb1db&smart=true&width=1920&height=1080",
+      "description": "Una embarcación pesquera fue interceptada con cocaína oculta entre hielo en el Pacífico. El decomiso dejó tres detenidos y motivó un pronunciamiento de EE. UU.",
+      "featured": false
+    },
+    {
       "slug": "educacion-vial-abrira-cursos-nocturnos-teoricos-para-licencia-en-junio",
       "title": "Educación Vial abrirá cursos nocturnos teóricos para licencia en junio",
       "category": "Costa Rica",
@@ -147,11 +173,11 @@
       "slug": "la-indignacion-por-las-burlas-de-un-ministro-israeli-de-ultraderecha-contra-activistas-de-la-flotilla-de-gaza-que-estaba",
       "title": "La indignación por las burlas de un ministro israelí de ultraderecha contra activistas de la flotilla de Gaza que estaban esposados",
       "category": "Mundo",
-      "bullets_20s": "• La burla de un ministro provoca respuestas internacionales sobre derechos humanos.\n• Activistas de Gaza fueron detenidos y esposados en un puerto israelí.\n• Reacciones de líderes europeos muestran preocupación por la situación en Gaza.\n• Los comentarios del ministro generan un debate sobre la libertad de expresión.\n• Las relaciones internacionales se ven afectadas por el incidente y su cobertura.",
+      "bullets_20s": "• La burla del ministro Itamar Ben Gvir ha generado debates en la comunidad internacional sobre derechos humanos.\n• Activistas de la flotilla de Gaza fueron detenidos y posteriormente expuestos a burlas por líderes políticos.\n• La reacción de España, Francia e Italia evidencia la preocupación global sobre el trato a los derechos humanos.\n• Grupos de derechos humanos han condenado los comentarios del ministro como inapropiados e insensibles.\n• La situación en Gaza se vuelve un tema sensible en la política internacional actual, con reacciones diversas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx21y9885yvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-20T23:20:54.000Z",
-      "teaser": "Lo clave en 20 segundos: Las burlas de un ministro reviven la indignación sobre Gaza.",
+      "teaser": "Lo clave en 20 segundos: Un ministro israelí desata críticas mundiales por burlas a activistas detenidos en Gaza.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c3ee/live/74d107a0-5457-11f1-8b8c-6d33e1d5abb6.jpg",
       "description": "España, Francia e Italia, entre otros, cuestionaron a Itamar Ben Gvir por mofarse de decenas de activistas detenidos en un puerto israelí.",
       "featured": false
@@ -654,11 +680,11 @@
       "slug": "isak-andic-quien-era-el-fundador-de-mango-y-como-se-produjo-su-muerte-de-la-que-acusan-a-su-hijo",
       "title": "Isak Andic: quién era el fundador de Mango y cómo se produjo su muerte, de la que acusan a su hijo",
       "category": "Mundo",
-      "bullets_20s": "• Isak Andic fue el fundador de la famosa marca de moda Mango, conocida mundialmente.\n• Su reciente fallecimiento ha generado controversia y acusaciones hacia su hijo Jonathan.\n• La jueza ha ordenado la prisión provisional del hijo bajo fianza por sospechas de implicación.\n• El caso ha captado la atención mediática y debate sobre la relación familiar.\n• Investigaciones continúan mientras se analizan las circunstancias de la muerte de Andic.",
+      "bullets_20s": "• Isak Andic fue el fundador de la famosa marca de moda Mango en España.\n• Su muerte ha generado controversia por las acusaciones hacia su hijo Jonathan.\n• La jueza ha ordenado la prisión bajo fianza mientras se investiga el caso.\n• Se han presentado varios indicios que podrían ligar al hijo con el fallecimiento.\n• La historia de Andic destaca en el ámbito empresarial europeo y su legado en moda.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c62d0g4lqqjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-20T14:43:38.000Z",
-      "teaser": "Lo clave en 20 segundos: el fundador de Mango fallece y su hijo enfrenta acusaciones graves.",
+      "teaser": "Lo clave en 20 segundos: Muerte de Isak Andic despierta acusaciones a su hijo y conmociona al mundo empresarial.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cbe7/live/9ceaaf70-5457-11f1-bc99-1d37de959855.jpg",
       "description": "El auto de la jueza que ordenó la prisión provisional bajo fianza del hijo recoge numerosas indicios que podrían implicar a Jonathan Andic en la muerte de su padre.",
       "featured": false
@@ -1314,6 +1340,19 @@
       "featured": false
     },
     {
+      "slug": "campana-de-recoleccion-de-residuos-concientizados-edicion-mayo-2026",
+      "title": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
+      "category": "Costa Rica",
+      "bullets_20s": "• La campaña 'Concientizados' busca promover la recolección de residuos de manera responsable en la comunidad.\n• Los ciudadanos podrán participar de forma gratuita en la recolección de diversos materiales reciclables.\n• Esta edición incluye la recepción especial de llantas, un aspecto nuevo que la distingue de anteriores.\n• Es fundamental revisar la lista de residuos aceptados para asegurar la correcta entrega de material.\n• Los residuos deben ser entregados limpios y separados según las indicaciones brindadas por la organización.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/campana-recoleccion-residuos-concientizados-edicion-mayo-2026",
+      "publish_date": "2026-05-19T17:35:37.000Z",
+      "teaser": "Lo clave en 20 segundos: Participa en la campaña de recolección de residuos 'Concientizados' el 26 de mayo.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-campana-concientizados_0.jpg",
+      "description": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
+      "featured": false
+    },
+    {
       "slug": "los-paises-no-tienen-mas-opcion-que-colaborar-contra-la-financiacion-del-terrorismo-dice-organismo-especializado",
       "title": "Los países no tienen más opción que colaborar contra la financiación del terrorismo, dice organismo especializado",
       "category": "Mundo",
@@ -1395,11 +1434,11 @@
       "slug": "espinores-que-son-y-cuales-son-sus-aplicaciones",
       "title": "Espinores: ¿qué son y cuáles son sus aplicaciones?",
       "category": "Ciencia",
-      "bullets_20s": "• La charla será el 21 de mayo a las 5:00 p.m. en el TEC.\n• AstroTEC organizará un evento sobre espinores y sus aplicaciones.\n• El evento es gratuito y abierto a todo público interesado en física.\n• El MSc. Carlos Adrián Jiménez Carballo será el expositor invitado.\n• Se abordarán temas de espín cuántico, partículas y relatividad.",
+      "bullets_20s": "• La charla se enfocará en los espinores y su importancia en la física moderna.\n• Se abordará la relación de los espinores con el espín cuántico en la física.\n• El MSc. Carlos Adrián Jiménez Carballo será el conferencista principal.\n• La actividad se llevará a cabo el jueves 21 de mayo a las 5:00 p.m.\n• El evento será transmitido virtualmente por Zoom y Facebook: AstroTEC.\n• Está abierto al público en general y no tiene costo alguno.\n• Los espinores juegan un papel clave en teorías sobre partículas y relatividad.\n• La actividad forma parte del ciclo de divulgación Jueves Astronómico.\n• El auditorio del Edificio D3 será el lugar de la actividad en persona.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/espinores-son-cuales-son-sus-aplicaciones",
       "publish_date": "2026-05-19T15:54:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Charla sobre espinores y sus aplicaciones en la física moderna.",
+      "teaser": "Lo clave en 20 segundos: exploramos los espinores en la física moderna con un experto.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/506-jueves-astronomico.jpg",
       "description": "Espinores: ¿qué son y cuáles son sus aplicaciones?",
       "featured": false
@@ -2097,11 +2136,11 @@
       "slug": "ingenieria-agricola-celebra-50-anos-de-compromiso-con-el-campo-costarricense",
       "title": "Ingeniería Agrícola celebra 50 años de compromiso con el campo costarricense",
       "category": "Costa Rica",
-      "bullets_20s": "• La carrera de Ingeniería Agrícola ha impulsado el desarrollo agrícola en Costa Rica durante 50 años.\n• Han graduado 576 profesionales en Ingeniería Agrícola, fortaleciendo el sector agropecuario nacional.\n• La vinculación con el sector productivo ha sido clave en la formación de estos profesionales.\n• Los egresados son capaces de aplicar tecnología para mejorar la producción agrícola en el país.\n• La escuela ha desarrollado más de 60 proyectos de investigación desde 2014 en este campo.",
+      "bullets_20s": "• La Escuela de Ingeniería Agrícola del TEC cumple 50 años formando profesionales en Costa Rica.\n• Desde su creación, la carrera ha promovido el desarrollo agrícola y tecnológico en el país.\n• Se han graduado 576 ingenieros agrícolas que impactan el sector agropecuario nacional.\n• El evento conmemorativo contó con la participación de autoridades, exalumnos y estudiantes.\n• La carrera enfrenta retos como la transformación digital y el relevo generacional en el sector.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/ingenieria-agricola-celebra-50-anos-compromiso-campo-costarricense",
       "publish_date": "2026-05-18T19:08:10.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebramos los 50 años de Ingeniería Agrícola en Costa Rica y sus aportes al sector.",
+      "teaser": "Lo clave en 20 segundos: Se conmemoran 50 años de la Escuela de Ingeniería Agrícola en Costa Rica, formando líderes del agro.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/50-aniversario-esc-ing-agricola_18_05_2026_paquesada-29.jpg",
       "description": "Ingeniería Agrícola celebra 50 años de compromiso con el campo costarricense",
       "featured": false
@@ -22452,5 +22491,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-21T03:45:19.447Z"
+  "generated_at": "2026-05-21T04:45:19.625Z"
 }
