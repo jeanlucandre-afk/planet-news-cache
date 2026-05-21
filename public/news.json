@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "cientificos-de-la-nasa-detectaron-en-marte-un-efecto-que-ayuda-a-desviar-el-viento-solar",
+      "title": "Científicos de la NASA detectaron en Marte un efecto que ayuda a desviar el viento solar",
+      "category": "Ciencia",
+      "bullets_20s": "• Científicos de la NASA encontraron el efecto Zwan-Wolf en Marte durante un estudio reciente.\n• Este fenómeno se relaciona con la compresión de plasma y el viento solar en la atmósfera.\n• La investigación se llevó a cabo mediante observaciones de la misión MAVEN en Marte.\n• El hallazgo podría tener implicaciones en la protección de futuras misiones espaciales.\n• Los efectos de las tormentas solares en Marte siguen siendo un tema de interés para los investigadores.\n• Este descubrimiento añade un nuevo elemento al conocimiento científico sobre Marte.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/ciencia/detectan-en-marte-un-fenomeno-espacial-que-solo-se/KSXSNOKFIFB3TOU5PTFB5ROJVU/story/",
+      "publish_date": "2026-05-21T16:16:00.000Z",
+      "teaser": "Lo clave en 20 segundos: científicos de la NASA han detectado un nuevo fenómeno en Marte.",
+      "image_url": "https://www.nacion.com/resizer/v2/7AVKN6HN2FCXJG5XY45VXGC7UI.webp?auth=ebe649c1aff4b35aa7773312eb01fb1fd53ab69214937ec51c0e7c449696c0b5&smart=true&width=1200&height=675",
+      "description": "Investigadores detectaron en Marte el efecto Zwan-Wolf, un fenómeno espacial asociado con la compresión de plasma. El hallazgo ocurrió tras una tormenta solar observada por la misión MAVEN de la NASA.",
+      "featured": false
+    },
+    {
+      "slug": "salen-de-israel-todos-los-activistas-de-la-flotilla-detenida",
+      "title": "Salen de Israel todos los activistas de la flotilla detenida",
+      "category": "Mundo",
+      "bullets_20s": "• Activistas de la flotilla detenida son finalmente liberados tras un polémico manejo por parte de las autoridades.\n• La situación generó una ola de protestas internacionales sobre derechos humanos y trato a los detenidos.\n• El video del ministro de Seguridad ha sido objeto de análisis y críticas a nivel global.\n• Organizaciones defensoras de derechos humanos se pronuncian contra los actos de detención y tratamiento.\n• La flotilla detalla las condiciones en las que fueron mantenidos durante su tiempo en custodia.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/salen-de-israel-todos-los-activistas-de-la/DPACS4MVD5GPTJAZG35WKF2AYE/story/",
+      "publish_date": "2026-05-21T16:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Activistas de flotilla liberados tras escándalo internacional por su trato en Israel.",
+      "image_url": "https://www.nacion.com/resizer/v2/76HIMAWPSBFHLE7FGWGX74L7U4.jpg?auth=70e00a09eda89038e8ff63af9a4175371f3353e3a2e6c661c55b07b1bd9fcbe3&smart=true&width=1200&height=800",
+      "description": "Video publicado por ministro de Seguridad de Israel terminó provocando escándalo internacional por trato a detenidos.",
+      "featured": false
+    },
+    {
+      "slug": "exiliados-de-nicaragua-en-costa-rica-viven-con-miedo-a-la-persecucion-del-regimen-de-ortega-nos-monitorean",
+      "title": "Exiliados de Nicaragua en Costa Rica viven con miedo a la persecución del régimen de Ortega: ‘Nos monitorean’",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las denuncias destacan la vigilancia constante que sufren los exiliados en Costa Rica.\n• El temor a represalias del régimen de Ortega afecta la vida cotidiana de los refugiados.\n• Los exiliados han expresado una necesidad urgente de seguridad y apoyo internacional.\n• La situación de los nicaragüenses resalta los desafíos de asilo en la región centroamericana.\n• Organismos de derechos humanos han recibido múltiples quejas sobre la persecución política.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/politica/exiliados-de-nicaragua-en-costa-rica-viven-con/GAKNBAI2FRCLTILZZOS7OM2TVM/story/",
+      "publish_date": "2026-05-21T16:12:23.000Z",
+      "teaser": "Lo clave en 20 segundos: Exiliados nicaragüenses en Costa Rica viven con miedo a represalias del régimen de Ortega.",
+      "image_url": "https://www.nacion.com/resizer/v2/CKRTVYSS4JEKDAAT52OTTO3LQE.jpg?auth=ab072e1f5ce3a08f359e48ea773f5d60e455771701246874604da1b82f845986&smart=true&width=6000&height=4000",
+      "description": "Exiliados nicaragüenses en Costa Rica denuncian vivir bajo vigilancia, amenazas y temor constante a represalias del gobierno de Daniel Ortega.",
+      "featured": false
+    },
+    {
       "slug": "por-que-se-calienta-el-cargador-del-celular-causas-y-que-hacer-si-ocurre",
       "title": "Por qué se calienta el cargador del celular: causas y qué hacer si ocurre",
       "category": "Tecnología",
@@ -95,11 +134,11 @@
       "slug": "air-france-y-airbus-son-declaradas-culpables-de-homicidio-involuntario-por-el-accidente-aereo-mas-letal-de-francia-ocurr",
       "title": "Air France y Airbus son declaradas culpables de homicidio involuntario por el accidente aéreo más letal de Francia ocurrido en 2009",
       "category": "Mundo",
-      "bullets_20s": "• El accidente de 2009 involucró un vuelo de Air France que se estrelló en el Atlántico.\n• El desastre aéreo dejó un saldo trágico de 228 personas fallecidas en el siniestro.\n• Las empresas enfrentaron una serie de juicios por su responsabilidad en el accidente.\n• El tribunal determinó que hubo negligencia en la seguridad durante el vuelo.\n• Este veredicto marca un precedente en la justicia para incidentes de aviación.",
+      "bullets_20s": "• El tribunal determinó responsabilidad de las empresas en el accidente de 2009 en el vuelo AF447.\n• Air France y Airbus deberán enfrentar sanciones por homicidio involuntario por su negligencia.\n• Este caso reabrió la conversación sobre la seguridad aérea y las responsabilidades empresariales.\n• Desde el accidente, se han realizado múltiples mejoras en tecnología de aviación y seguridad.\n• La tragedia del vuelo AF447 es recordada por la misteriosa desaparición que llevó años investigar.\n• Las víctimas del accidente fueron homenajeadas por sus familias y grupos de defensa de derechos.\n• Se espera que este veredicto influya en futuros casos legales sobre seguridad aérea.\n• Experiencias previas de otros accidentes también se han considerado en este juicio histórico.\n• El fallo se produce tras más de una década de investigaciones y juicios complejos.\n• La industria aérea debe reevaluar sus protocolos de seguridad y capacitación del personal.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cvgzdyv4kzgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T13:50:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Air France y Airbus culpables de homicidio involuntario en tragedia aérea de 2009.",
+      "teaser": "Lo clave en 20 segundos: Air France y Airbus culpables de homicidio involuntario en trágico accidente aéreo.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d5b5/live/0f7f6c10-5511-11f1-9e5e-fb37d8c40e64.jpg",
       "description": "Un tribunal francés declaró culpables a las empresas por un desastre aéreo en el que murieron 228 personas.",
       "featured": false
@@ -173,11 +212,11 @@
       "slug": "por-que-mexico-importa-mas-del-50-de-la-gasolina-que-consume-pese-a-ser-uno-de-los-mayores-productores-de-petroleo-de-am",
       "title": "Por qué México importa más del 50% de la gasolina que consume, pese a ser uno de los mayores productores de petróleo de América Latina",
       "category": "Mundo",
-      "bullets_20s": "• México es uno de los principales productores de petróleo en América Latina, pero enfrenta desafíos significativos.\n• Las refinerías obsoletas son un gran problema para el país, afectando la producción local de gasolina.\n• La dependencia de importaciones podría aumentar si no se modernizan las instalaciones de refinación.\n• Las políticas energéticas del gobierno son clave en el debate sobre la soberanía energética en México.\n• La situación impacta no solo la economía, sino también la estabilidad del mercado energético en la región.\n• La discusión abarca la viabilidad de inversión en nuevas tecnologías para mejorar la producción local.\n• La importancia del petróleo en la economía mexicana se refleja en las decisiones de política pública.\n• El ciclo de importaciones y el consumo interno continúan generando tensión en la balanza comercial.\n• El futuro de la industria petrolera mexicana podría depender de la innovación y la sostenibilidad.",
+      "bullets_20s": "• México, a pesar de ser un gran productor de petróleo, enfrenta problemas de capacidad en sus refinerías.\n• Las refinerías en México han sufrido falta de inversión y mantenimiento durante años.\n• Importar gasolina se ha vuelto una necesidad para satisfacer la demanda interna del país.\n• El gobierno mexicano busca modernizar las refinerías para reducir la dependencia externa.\n• La industria petrolera mexicana enfrenta retos significativos debido a la obsolescencia de sus instalaciones.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdxdldjenpvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T12:31:11.000Z",
-      "teaser": "Lo clave en 20 segundos: México importa más gasolina de la que produce debido a refinerías obsoletas.",
+      "teaser": "Lo clave en 20 segundos: México importa más de la mitad de su gasolina a pesar de ser productor de petróleo.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9a01/live/19203760-2463-11f1-a2c1-39d16ad974aa.jpg",
       "description": "El país lucha desde hace años con unas refinerías obsoletas que obliga al país a importar del extranjero el 50% de su consumo de gasolina.",
       "featured": false
@@ -238,13 +277,13 @@
       "slug": "que-significa-que-rusia-haya-desplegado-sus-fuerzas-nucleares-estrategicas-en-sus-mayores-ejercicios-militares-hasta-la-",
       "title": "¿Qué significa que Rusia haya desplegado sus fuerzas nucleares estratégicas en sus mayores ejercicios militares hasta la fecha?",
       "category": "Mundo",
-      "bullets_20s": "• Rusia lleva a cabo los ejercicios militares más grandes en su historia reciente, elevando tensiones globales.\n• Las fuerzas nucleares estratégicas son una parte clave de la defensa nacional de Rusia en este contexto.\n• El despliegue se justifica como respuesta a amenazas percibidas de agresiones por parte de otros países.\n• Los ejercicios militares incluyen maniobras conjuntas con otros sectores de las fuerzas armadas rusas.\n• Los analistas internacionales vigilan atentos el desarrollo de estos ejercicios ante preocupaciones de seguridad.",
+      "bullets_20s": "• Rusia lleva a cabo ejercicios estratégicos nucleares para demostrar su capacidad de respuesta.\n• Los ejercicios incluyen la movilización de fuerzas nucleares en un entorno de alta tensión.\n• El Ministerio de Defensa ruso advirtió sobre amenazas agresivas en el entorno internacional.\n• Estos ejercicios son parte de una estrategia más amplia de seguridad nacional para Rusia.\n• La comunidad internacional observa atentamente el despliegue de estas fuerzas en ejercicios.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c242g9qd744o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T11:39:19.000Z",
-      "teaser": "Lo clave en 20 segundos: Rusia intensifica sus ejercicios militares nucleares ante amenazas globales.",
+      "teaser": "Lo clave en 20 segundos: Rusia demuestra su poder militar en grandes ejercicios nucleares ante amenazas externas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/71f5/live/873cfa10-5377-11f1-ba02-4b5b8fc65c30.jpg",
-      "description": "Rusia realizó ejercicios estratégicos nucleares a gran escala 'para prepararse y emplear fuerzas nucleares ante una amenaza agresiva', dijo el Ministerio de Defensa ruso.",
+      "description": "Rusia realizó ejercicios estratégicos nucleares a gran escala \"para prepararse y emplear fuerzas nucleares ante una amenaza agresiva\", dijo el Ministerio de Defensa ruso.",
       "featured": false
     },
     {
@@ -277,11 +316,11 @@
       "slug": "eeuu-se-beneficia-de-la-estabilidad-en-america-latina-que-se-produce-mediante-el-desarrollo-y-las-clases-medias-deberia-",
       "title": "EE.UU. se beneficia de la estabilidad en América Latina, que se produce mediante el desarrollo y las clases medias. Debería promover eso en lugar de intervenciones",
       "category": "Mundo",
-      "bullets_20s": "• La estabilidad en América Latina beneficia no solo a la región, sino también a Estados Unidos.\n• El desarrollo de clases medias es clave para el crecimiento sostenible de las naciones latinoamericanas.\n• Las intervenciones estadounidenses han tenido consecuencias duraderas y a menudo negativas en la región.\n• Stephen Kinzer destaca la importancia de apostar por el desarrollo en lugar de la intervención militar.\n• La cooperación y el desarrollo pueden ofrecer mejores resultados que la imposición de políticas externas.",
+      "bullets_20s": "• La estabilidad en América Latina puede ser impulsada por el desarrollo de clases medias.\n• Intervenciones en la región por parte de EE.UU. han tenido consecuencias negativas históricas.\n• El desarrollo económico beneficia no solo a América Latina, sino también a EE.UU.\n• Promover el desarrollo sostenible es vital para la seguridad en la región.\n• Kinzer plantea un enfoque diferente a las relaciones entre EE.UU. y América Latina.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c93x5k9l4xzo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T10:59:58.000Z",
-      "teaser": "Lo clave en 20 segundos: La estabilidad en América Latina es crucial para el desarrollo y el bienestar regional.",
+      "teaser": "Lo clave en 20 segundos: EE.UU. debería apoyar el desarrollo latinoamericano en lugar de intervenir.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/6d6f/live/2bb35900-4963-11f1-8cde-350b393d70a2.jpg",
       "description": "El periodista y escritor estadounidense, Stephen Kinzer, repasa las veces que Estados Unidos intervino en países de América Latina y cuáles fueron las consecuencias",
       "featured": false
@@ -342,13 +381,13 @@
       "slug": "la-brutal-redada-en-la-fiesta-de-cumpleanos-de-una-mujer-que-revela-el-auge-de-un-grupo-ultranacionalista-en-rusia",
       "title": "La brutal redada en la fiesta de cumpleaños de una mujer que revela el auge de un grupo ultranacionalista en Rusia",
       "category": "Mundo",
-      "bullets_20s": "• La redada mostró el creciente poder de los grupos ultranacionalistas en Rusia en tiempos recientes.\n• Russkaya Obshina está enfocada en imponer su versión de 'valores tradicionales rusos'.\n• La violencia en eventos sociales ha aumentado debido a estas organizaciones extremistas.\n• Las autoridades rusas están bajo presión para actuar contra estos grupos radicalizados.\n• Los derechos humanos se ven comprometidos por las acciones de estos grupos ultranacionalistas.",
+      "bullets_20s": "• La redada tuvo lugar en una fiesta de cumpleaños con un ambiente festivo y sorpresas.\n• El grupo ultranacionalista intensifica sus acciones en distintas celebraciones sociales en Rusia.\n• Estas redadas se justifican bajo la premisa de proteger los valores tradicionales rusos.\n• Los participantes enfrentan sanciones por brechas percibidas en la moralidad según el grupo.\n• La acción ha generado preocupaciones sobre la libertad de expresión y reunión en Rusia.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c70716dg68lo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T02:59:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Una redada revela el auge de un grupo ultranacionalista en Rusia.",
+      "teaser": "Lo clave en 20 segundos: una fiesta de cumpleaños se convierte en blanco de un grupo ultranacionalista en Rusia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8cc7/live/e25b3560-4e04-11f1-ac78-2112837ce2aa.jpg",
-      "description": "El grupo Russkaya Obshina organiza redadas en busca de actividades que consideran contravienen los 'valores tradicionales rusos'.",
+      "description": "El grupo Russkaya Obshina organiza redadas en busca de actividades que consideran contravienen los \"valores tradicionales rusos\".",
       "featured": false
     },
     {
@@ -1655,11 +1694,11 @@
       "slug": "campana-de-recoleccion-de-residuos-concientizados-edicion-mayo-2026",
       "title": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La campaña 'Concientizados' busca fomentar la participación ciudadana en la recolección de residuos.\n• El evento se llevará a cabo el 26 de mayo, de 7:30 a.m. a 2:00 p.m.\n• Se recomienda a los asistentes que lleven los materiales reciclables separados y limpios.\n• Se introducirán llantas como nuevo tipo de residuo que se aceptará en esta edición.\n• El Tecnológico de Costa Rica organiza esta actividad con el apoyo del Ministerio de Salud.",
+      "bullets_20s": "• La Unidad de Gestión Ambiental del TEC invita a participar en la campaña de recolección de residuos.\n• El evento se llevará a cabo el 26 de mayo, de 7:30 a. m. a 2:00 p. m.\n• Abierto a toda la comunidad, con recepción de llantas como novedad en esta edición.\n• Se recomienda revisar la lista de residuos aceptados para participar de manera efectiva.\n• Los residuos deben estar limpios y separados adecuadamente antes de llegar al evento.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/campana-recoleccion-residuos-concientizados-edicion-mayo-2026",
       "publish_date": "2026-05-19T17:35:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Participa en la recolección de residuos el 26 de mayo en Cartago.",
+      "teaser": "Lo clave en 20 segundos: Participa en la campaña de recolección 'Concientizados' del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-campana-concientizados_0.jpg",
       "description": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
       "featured": false
@@ -1746,11 +1785,11 @@
       "slug": "espinores-que-son-y-cuales-son-sus-aplicaciones",
       "title": "Espinores: ¿qué son y cuáles son sus aplicaciones?",
       "category": "Ciencia",
-      "bullets_20s": "• La charla abordará el concepto de espinores y su importancia en la física moderna.\n• El evento será transmitido por Zoom y Facebook, asegurando el acceso a más audiencia.\n• El MSc. Carlos Adrián Jiménez Carballo será el ponente principal del evento divulgativo.\n• Se explorará la relación de los espinores con el espín cuántico y sus aplicaciones.\n• La charla es parte del ciclo Jueves Astronómico, promoviendo la divulgación científica.",
+      "bullets_20s": "• La charla explora el concepto de espinores y su importancia en la física moderna.\n• Se abordará la relación entre espinores y el espín cuántico en la charla.\n• Carlos Adrián Jiménez Carballo, experto en física teórica, será el ponente principal.\n• La actividad se transmitirá en línea a través de Facebook y Zoom para todos los interesados.\n• La charla está enfocada en aplicaciones de espinores en astrofísica y relatividad.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/espinores-son-cuales-son-sus-aplicaciones",
       "publish_date": "2026-05-19T15:54:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Conoce qué son los espinores y sus aplicaciones en física moderna.",
+      "teaser": "Lo clave en 20 segundos: Descubre qué son los espinores y sus aplicaciones en física moderna.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/506-jueves-astronomico.jpg",
       "description": "Espinores: ¿qué son y cuáles son sus aplicaciones?",
       "featured": false
@@ -2448,11 +2487,11 @@
       "slug": "ingenieria-agricola-celebra-50-anos-de-compromiso-con-el-campo-costarricense",
       "title": "Ingeniería Agrícola celebra 50 años de compromiso con el campo costarricense",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Ingeniería Agrícola ha graduado a 576 personas en sus 50 años de existencia.\n• Desde su inicio, esta carrera ha impulsado el desarrollo agropecuario en Costa Rica.\n• La celebración incluyó reconocimientos a exalumnos y profesionales destacados en la disciplina.\n• Se destacó la importancia de la interacción entre academia y sector productivo agrícola.\n• Los ingenieros agrícolas buscan soluciones integrales ante desafíos en el sector agrícola.",
+      "bullets_20s": "• La Escuela de Ingeniería Agrícola conmemora su 50 aniversario y su impacto en el sector agropecuario.\n• A lo largo de 50 años, se han graduado 576 ingenieros agrícolas en Costa Rica.\n• La vinculación con el sector agrícola ha sido clave para el crecimiento y desarrollo profesional.\n• La carrera fue fundada en 1975 en respuesta a la necesidad de tecnificación agrícola en el país.\n• La innovación en técnicas de cultivo ha permitido mejorar la producción agrícola en Costa Rica.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/ingenieria-agricola-celebra-50-anos-compromiso-campo-costarricense",
       "publish_date": "2026-05-18T19:08:10.000Z",
-      "teaser": "Lo clave en 20 segundos: Ingeniería Agrícola celebra medio siglo de logros y compromisos con la agricultura costarricense.",
+      "teaser": "Lo clave en 20 segundos: Celebración del 50 aniversario de Ingeniería Agrícola en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/50-aniversario-esc-ing-agricola_18_05_2026_paquesada-29.jpg",
       "description": "Ingeniería Agrícola celebra 50 años de compromiso con el campo costarricense",
       "featured": false
@@ -22790,5 +22829,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-21T15:45:19.775Z"
+  "generated_at": "2026-05-21T16:45:19.534Z"
 }
