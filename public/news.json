@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "policia-detuvo-a-presuntos-miembros-de-la-banda-de-salchichon-por-millonario-robo-de-contenedor",
+      "title": "Policía detuvo a presuntos miembros de la banda de Salchichón por millonario robo de contenedor",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Policía investiga una serie de robos relacionados con la banda de Salchichón en el país.\n• Los detenidos son sospechosos de participar en el asalto a un camión de carga este jueves.\n• Las autoridades refuerzan la vigilancia para prevenir más robos de cargamentos millonarios.\n• El grupo criminal ha estado activo en varias localidades, generando preocupación en la comunidad.\n• Se espera que en los próximos días se den más detalles sobre las operaciones criminales.",
+      "source_name": "Christian Montero",
+      "source_url": "https://www.nacion.com/sucesos/policia-detuvo-a-presuntos-miembros-de-la-banda-de/B5BIICQY2NE2PJ4Y5M2JJ22A5E/story/",
+      "publish_date": "2026-05-21T22:26:15.000Z",
+      "teaser": "Lo clave en 20 segundos: policía detuvo a miembros de la banda Salchichón implicados en robo de camión.",
+      "image_url": "https://www.nacion.com/resizer/v2/T5BJUY7IVFEELFJX7TP4LFPWDY.jpeg?auth=c603387a630a6be8557bd590c99d57e4db04f4759b1c62a54c5f6ce83213e8b0&smart=true&width=712&height=660",
+      "description": "Dos presuntos integrantes de un grupo criminal liderado por un sujeto conocido con el alias de Salchichón, fueron detenidos este jueves como sospechosos de asaltar a un trailero para llevarse un millonario cargamento de productos lícitos.",
+      "featured": false
+    },
+    {
+      "slug": "la-bioquimica-jessie-inchauspe-revela-el-desayuno-que-ayuda-a-estabilizar-la-glucosa-y-evitar-antojos",
+      "title": "La bioquímica Jessie Inchauspé revela el desayuno que ayuda a estabilizar la glucosa y evitar antojos",
+      "category": "Ciencia",
+      "bullets_20s": "• La bioquímica resalta la importancia de un desayuno equilibrado para la salud.\n• Se recomienda incluir proteínas y grasas en las primeras comidas del día.\n• Estabilizar la glucosa puede ayudar en el control del apetito y la energía.\n• El desayuno salado es clave para evitar antojos durante la mañana.\n• Mejorar la concentración también es un beneficio de una buena alimentación matutina.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/ciencia/salud/la-bioquimica-jessie-inchauspe-revela-el-desayuno/R2T6CWWZS5CVZNLA2ALMHDBMTU/story/",
+      "publish_date": "2026-05-21T22:25:32.000Z",
+      "teaser": "Lo clave en 20 segundos: Un desayuno adecuado estabiliza la glucosa y reduce antojos.",
+      "image_url": "https://www.nacion.com/resizer/v2/IVQVEFM2U5E53OCGHH34QCGHE4.png?auth=e9f1ae16bf45698e966be7d6d06398399293d9be6efbec3b328938b4259ab234&smart=true&width=1672&height=941",
+      "description": "Jessie Inchauspé explicó cómo un desayuno salado con proteínas y grasas ayuda a estabilizar la glucosa, reducir antojos y mejorar la energía y la concentración.",
+      "featured": false
+    },
+    {
+      "slug": "el-tragico-caso-de-yulixa-toloza-la-mujer-que-aparecio-muerta-en-una-cuneta-despues-de-someterse-a-un-procedimiento-este",
+      "title": "El trágico caso de Yulixa Toloza, la mujer que apareció muerta en una cuneta después de someterse a un procedimiento estético en Colombia",
+      "category": "Mundo",
+      "bullets_20s": "• Yulixa Toloza fue encontrada muerta en una cuneta, generando preocupación sobre cirugías ilegales.\n• Las 'clínicas de garaje' son centros donde se realizan procedimientos estéticos de forma clandestina.\n• Este caso resalta los riesgos de optar por cirugías estéticas en lugares no certificados.\n• Las autoridades colombianas están investigando el creciente número de estas clínicas ilegales.\n• Las víctimas de procedimientos estéticos irregulares a menudo enfrentan complicaciones graves y letales.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/czj2gkppp97o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-21T22:08:59.000Z",
+      "teaser": "Lo clave en 20 segundos: un caso destaca los peligros de clínicas estéticas ilegales en Colombia.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b105/live/6964fe40-555a-11f1-bd3f-0d82fde7e36d.jpg",
+      "description": "El caso pone una luz sobre las llamadas 'clínicas de garaje' en las que se llevan a cabo cirugías plásticas de manera ilegal en Colombia.",
+      "featured": false
+    },
+    {
       "slug": "real-madrid-prepara-una-revolucion-filtran-lista-de-10-jugadores-que-saldrian-tras-una-temporada-sin-titulos",
       "title": "Real Madrid prepara una revolución: filtran lista de 10 jugadores que saldrían tras una temporada sin títulos",
       "category": "Mundo",
@@ -303,13 +342,13 @@
       "slug": "steam-fortaleciendo-lo-publico-abre-convocatoria-para-40-becas-completas-dirigidas-a-estudiantes-universitarios",
       "title": "STEAM Fortaleciendo lo Público abre convocatoria para 40 becas completas dirigidas a estudiantes universitarios",
       "category": "Costa Rica",
-      "bullets_20s": "• Iniciativa internacional promueve innovación pública y liderazgo en jóvenes de Costa Rica.\n• Convocatoria abierta para 40 becas completas para estudiantes universitarios de carreras STEAM.\n• Bootcamp será del 24 al 26 de julio en San José, Costa Rica, con múltiples actividades.\n• Participantes tendrán acceso a talleres, clases magistrales y espacios de networking.\n• Becas cubrirán transporte, hospedaje y alimentación para todos los seleccionados.",
+      "bullets_20s": "• La iniciativa busca seleccionar 40 estudiantes universitarios para un bootcamp intensivo en Costa Rica.\n• El programa se centrará en innovación pública, liderazgo y transformación social en áreas STEAM.\n• Se llevará a cabo del 24 al 26 de julio de 2026 en San José, Costa Rica.\n• Las becas cubrirán transporte, hospedaje, alimentación y materiales para los participantes.\n• El proceso de selección incluye talleres, clases magistrales y dinámicas colaborativas.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/steam-fortaleciendo-lo-publico-abre-convocatoria-40-becas-completas-dirigidas-estudiantes",
       "publish_date": "2026-05-21T16:28:05.000Z",
-      "teaser": "Lo clave en 20 segundos: convocatoria para 40 becas dirigidas a estudiantes universitarios en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: 40 becas STEAM para estudiantes universitarios en innovación pública.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/steam-cr-beca-total.jpg",
-      "description": "STEAM Fortaleciendo lo Público abre convocatoria para 40 becas completas dirigidas a estudiantes universitarios.",
+      "description": "STEAM Fortaleciendo lo Público abre convocatoria para 40 becas completas dirigidas a estudiantes universitarios",
       "featured": false
     },
     {
@@ -446,11 +485,11 @@
       "slug": "air-france-y-airbus-son-declaradas-culpables-de-homicidio-involuntario-por-el-accidente-aereo-mas-letal-de-francia-ocurr",
       "title": "Air France y Airbus son declaradas culpables de homicidio involuntario por el accidente aéreo más letal de Francia ocurrido en 2009",
       "category": "Mundo",
-      "bullets_20s": "• Air France y Airbus enfrentaron el veredicto de un tribunal francés por homicidio involuntario.\n• El caso se refiere a un accidente aéreo en el que murieron 228 personas trágicamente.\n• Este desastre aéreo es considerado el más letal en la historia de Francia hasta la fecha.\n• El juicio ha generado una gran atención mediática y ha impactado la industria aeronáutica.\n• Las empresas fueron acusadas de no cumplir con los estándares de seguridad establecidos.",
+      "bullets_20s": "• El juicio se centró en las responsabilidades de Air France y Airbus en el accidente de 2009.\n• 228 personas perdieron la vida en el trágico evento aéreo ocurrido en el Atlántico.\n• El tribunal considera que hubo negligencia por parte de las aerolíneas involucradas.\n• Los familiares de las víctimas han esperado justicia durante más de 15 años.\n• Las repercusiones del veredicto podrían afectar la industria de la aviación en Europa.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cvgzdyv4kzgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T13:50:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Air France y Airbus culpables de homicidio involuntario por fatídico accidente aéreo.",
+      "teaser": "Lo clave en 20 segundos: Air France y Airbus culpables de homicidio involuntario en trágico accidente.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d5b5/live/0f7f6c10-5511-11f1-9e5e-fb37d8c40e64.jpg",
       "description": "Un tribunal francés declaró culpables a las empresas por un desastre aéreo en el que murieron 228 personas.",
       "featured": false
@@ -524,11 +563,11 @@
       "slug": "por-que-mexico-importa-mas-del-50-de-la-gasolina-que-consume-pese-a-ser-uno-de-los-mayores-productores-de-petroleo-de-am",
       "title": "Por qué México importa más del 50% de la gasolina que consume, pese a ser uno de los mayores productores de petróleo de América Latina",
       "category": "Mundo",
-      "bullets_20s": "• México, a pesar de ser un gran productor de petróleo, enfrenta una crisis en sus refinerías.\n• Las refinerías en México están obsoletas y no pueden cubrir la demanda del combustible.\n• El país depende de importaciones para satisfacer más de la mitad de su consumo de gasolina.\n• La falta de inversión en infraestructura ha llevado a esta dependencia del extranjero.\n• Este fenómeno destaca la importancia de la renovación del sector energético en el país.",
+      "bullets_20s": "• México enfrenta desafíos en su capacidad de refinación de petróleo y producción de gasolina.\n• El país es conocido por ser un gran productor de petróleo en la región latinoamericana.\n• La importación de gasolina afecta la economía y dependencia de bienes del extranjero.\n• Las refinerías en México están desactualizadas y no cumplen con la demanda actual.\n• El gobierno ha intentado modernizar la infraestructura de refinación en años recientes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdxdldjenpvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T12:31:11.000Z",
-      "teaser": "Lo clave en 20 segundos: México importa más del 50% de gasolina debido a refinerías obsoletas.",
+      "teaser": "Lo clave en 20 segundos: México depende de importaciones de gasolina a pesar de ser un productor significativo.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9a01/live/19203760-2463-11f1-a2c1-39d16ad974aa.jpg",
       "description": "El país lucha desde hace años con unas refinerías obsoletas que obliga al país a importar del extranjero el 50% de su consumo de gasolina.",
       "featured": false
@@ -589,11 +628,11 @@
       "slug": "que-significa-que-rusia-haya-desplegado-sus-fuerzas-nucleares-estrategicas-en-sus-mayores-ejercicios-militares-hasta-la-",
       "title": "¿Qué significa que Rusia haya desplegado sus fuerzas nucleares estratégicas en sus mayores ejercicios militares hasta la fecha?",
       "category": "Mundo",
-      "bullets_20s": "• Rusia lleva a cabo ejercicios militares para probar su capacidad nuclear ante posibles amenazas.\n• Los ejercicios implican el despliegue de fuerzas nucleares estratégicas en gran escala.\n• El Ministerio de Defensa ruso menciona la preparación ante una amenaza agresiva.\n• Estos entrenamientos subrayan la importancia de la estrategia militar en tiempos de tensión.\n• Las maniobras militares nucleares generan preocupaciones en la comunidad internacional.",
+      "bullets_20s": "• Rusia ha intensificado sus ejercicios militares nucleares en un contexto de tensiones globales.\n• Los líderes rusos destacan la preparación ante posibles amenazas de agresión extranjera.\n• Los ejercicios nucleares son una demostración de poderío y capacidad militar de Rusia.\n• La comunidad internacional observa con preocupación el aumento de estas actividades bélicas.\n• Históricamente, los ejercicios nucleares han provocado reacciones fuertes en Occidente y aliados.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c242g9qd744o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T11:39:19.000Z",
-      "teaser": "Lo clave en 20 segundos: Rusia realiza ejercicios nucleares para prepararse ante amenazas percibidas.",
+      "teaser": "Lo clave en 20 segundos: Rusia intensifica su capacidad nuclear ante amenazas globales.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/71f5/live/873cfa10-5377-11f1-ba02-4b5b8fc65c30.jpg",
       "description": "Rusia realizó ejercicios estratégicos nucleares a gran escala 'para prepararse y emplear fuerzas nucleares ante una amenaza agresiva', dijo el Ministerio de Defensa ruso.",
       "featured": false
@@ -628,11 +667,11 @@
       "slug": "eeuu-se-beneficia-de-la-estabilidad-en-america-latina-que-se-produce-mediante-el-desarrollo-y-las-clases-medias-deberia-",
       "title": "EE.UU. se beneficia de la estabilidad en América Latina, que se produce mediante el desarrollo y las clases medias. Debería promover eso en lugar de intervenciones",
       "category": "Mundo",
-      "bullets_20s": "• Estados Unidos ha intervenido en América Latina en diferentes momentos históricos.\n• Las intervenciones han tenido consecuencias negativas para los países afectados.\n• Kinzer argumenta que el desarrollo de clases medias es crucial para la estabilidad.\n• Promover el desarrollo podría ser más efectivo que las intervenciones militares.\n• La historia de intervenciones plantea lecciones para la política exterior actual.\n• El equilibrio en relaciones internacionales es vital para el desarrollo sostenible.\n• Fortalecer la estabilidad en América Latina beneficia también a EE.UU. directamente.\n• La cooperación entre países puede generar mejores resultados que la confrontación.\n• El crítico evalúa las posturas tradicionales de EE.UU. frente a la región.\n• Las voces de Líderes Latinoamericanos son clave en este debate.",
+      "bullets_20s": "• Estados Unidos ha intervenido en varios países de América Latina a lo largo de la historia.\n• Las intervenciones han tenido consecuencias duraderas en la política de estas naciones.\n• La estabilidad en la región puede ser impulsada por el desarrollo de las clases medias.\n• Kinzer sugiere que EE.UU. debería enfocarse en promover desarrollo y no en intervenciones.\n• El desarrollo económico es clave para la estabilidad y la paz en América Latina.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c93x5k9l4xzo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T10:59:58.000Z",
-      "teaser": "Lo clave en 20 segundos: EE.UU. debe apostar por el desarrollo, no por la intervención en América Latina.",
+      "teaser": "Lo clave en 20 segundos: EE.UU. debe promover el desarrollo en vez de intervenir en América Latina.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/6d6f/live/2bb35900-4963-11f1-8cde-350b393d70a2.jpg",
       "description": "El periodista y escritor estadounidense, Stephen Kinzer, repasa las veces que Estados Unidos intervino en países de América Latina y cuáles fueron las consecuencias",
       "featured": false
@@ -2006,11 +2045,11 @@
       "slug": "campana-de-recoleccion-de-residuos-concientizados-edicion-mayo-2026",
       "title": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La campaña 'Concientizados' busca promover la recolección de residuos en la comunidad costarricense.\n• El evento se llevará a cabo el martes 26 de mayo en el Tecnológico de Costa Rica.\n• Se aceptarán llantas, reciclables y electrónicos, fomentando prácticas sostenibles.\n• Los materiales a reciclar deben estar limpios y clasificados, para facilitar su recolección.\n• GASEL coordina la campaña y promueve la educación ambiental en Costa Rica.",
+      "bullets_20s": "• La recolección de residuos es una iniciativa abierta a toda la comunidad costarricense.\n• Se realizarán actividades en el parqueo del Centro de las Artes en Cartago.\n• Se recibirán llantas, una novedad en esta edición de la campaña sostenible.\n• Los residuos deben entregarse limpios y clasificados adecuadamente según la lista.\n• Es importante revisar qué materiales son aceptados y cuáles no antes de asistir.",
       "source_name": "sepacheco",
-      "source_url": "http://www.tec.ac.cr/campana-recoleccion-residuos-concientizados-edicion-mayo-2026",
+      "source_url": "http://www.tec.ac.cr/campana-recoleccion-residuos-conscientizados-edicion-mayo-2026",
       "publish_date": "2026-05-19T17:35:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Se realizará una campaña de recolección de residuos en mayo 2026.",
+      "teaser": "Lo clave en 20 segundos: La campaña de recolección de residuos invita a participar el 26 de mayo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-campana-concientizados_0.jpg",
       "description": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
       "featured": false
@@ -23141,5 +23180,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-21T21:45:20.968Z"
+  "generated_at": "2026-05-21T22:45:21.173Z"
 }
