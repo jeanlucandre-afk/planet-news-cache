@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "marco-rubio-afirma-que-cuba-es-una-amenaza-para-eeuu-y-ve-poco-probable-un-acuerdo-diplomatico",
+      "title": "Marco Rubio afirma que Cuba es una amenaza para EE.UU. y ve poco probable un acuerdo diplomático",
+      "category": "Mundo",
+      "bullets_20s": "• Marco Rubio critica la postura de Cuba sobre el diálogo con EE.UU. en diversas plataformas.\n• Las relaciones entre EE.UU. y Cuba continúan tensas tras décadas de diferencias políticas.\n• Cuba rechaza las afirmaciones de Rubio, acusándolo de incitar al conflicto militar.\n• Rubio sostiene que la amenaza cubana persiste a pesar de los intentos de negociación.\n• El debate sobre la diplomacia entre ambos países sigue siendo un tema complejo y delicado.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c052vpv77gmo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-22T02:24:51.000Z",
+      "teaser": "Lo clave en 20 segundos: Marco Rubio ve a Cuba como una amenaza ante la falta de acuerdo diplomático.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/7399/live/04ee7920-5553-11f1-8b8c-6d33e1d5abb6.jpg",
+      "description": "El ministro de Relaciones Exteriores de Cuba acusó a Rubio de mentir e intentar 'instigar una agresión militar'.",
+      "featured": false
+    },
+    {
+      "slug": "estados-unidos-envia-quinto-grupo-de-migrantes-a-costa-rica-estas-son-las-nacionalidades",
+      "title": "Estados Unidos envía quinto grupo de migrantes a Costa Rica: estas son las nacionalidades",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un grupo de migrantes llegó a Costa Rica bajo un acuerdo entre países.\n• Este es el quinto grupo de migrantes que se recibe en el país.\n• Las nacionalidades de los migrantes son diversas y variadas.\n• La Dirección General de Migración ofrece asistencia a los migrantes.\n• Este acuerdo busca facilitar la movilidad migratoria en la región.\n• Las deportaciones se realizan en el marco de la cooperación internacional.\n• Costa Rica reafirma su compromiso con la protección de los derechos humanos.\n• Se espera que más grupos de migrantes lleguen en el futuro cercano.\n• Las autoridades migratorias trabajan en la integración de estos ciudadanos.\n• El proceso migratorio es parte de una estrategia regional más amplia.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/estados-unidos-envia-quinto-grupo-de-migrantes-a/CUQKATFFZNA35FVOVEPVKOXITQ/story/",
+      "publish_date": "2026-05-22T01:43:24.000Z",
+      "teaser": "Lo clave en 20 segundos: Costa Rica recibe su quinto grupo de migrantes deportados desde EE.UU.",
+      "image_url": "https://www.nacion.com/resizer/v2/YY2W6GG4VNCUTPZF4DGWJZX7FY.JPG?auth=0091e4c9a28efe3f4cc55b7a26097b4932edd429d02580fd2d2a485b474e2667&smart=true&width=6000&height=4000",
+      "description": "Costa Rica recibió un quinto grupo de personas deportadas desde Estados Unidos, bajo un acuerdo migratorio, informó la Dirección General de Migración y Extranjería.",
+      "featured": false
+    },
+    {
       "slug": "tribunal-ordena-nuevo-jucio-contra-activista-chavista-que-amenazo-con-sacarle-el-sirope-a-ariel-robles",
       "title": "Tribunal ordena nuevo jucio contra activista chavista que amenazó con ‘sacarle el sirope’ a Ariel Robles",
       "category": "Mundo",
@@ -24,19 +50,6 @@
       "teaser": "Lo clave en 20 segundos: cómo podría cambiar la crisis en Cuba tras sanciones de EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9c3d/live/dc634240-553b-11f1-a125-a1007a98f90d.jpg",
       "description": "La administración Trump ha estado ejerciendo una enorme presión económica sobre el gobierno comunista de la isla.",
-      "featured": false
-    },
-    {
-      "slug": "historico-exjugador-de-mexico-sentencia-keylor-navas-sera-la-clave-para-el-triunfo-de-pumas-ante-cruz-azul",
-      "title": "Histórico exjugador de México sentencia: ‘Keylor Navas será la clave para el triunfo de Pumas ante Cruz Azul’",
-      "category": "Mundo",
-      "bullets_20s": "• Histórico exjugador analizó el impacto de Keylor Navas en el rendimiento de Pumas.\n• Se espera que Navas sea un factor decisivo en la final frente a Cruz Azul.\n• La experiencia de Keylor Navas puede ser crucial en partidos de alta presión.\n• Opiniones de exjugadores sobre la importancia de un buen portero en finales.\n• La final de la Liga MX promete ser un choque de titanes entre grandes equipos.",
-      "source_name": "Esteban Valverde",
-      "source_url": "https://www.nacion.com/puro-deporte/futbol/historico-exjugador-de-mexico-sentencia-keylor/4SUVAPVVMRA7TP6OZWNA47DQMQ/story/",
-      "publish_date": "2026-05-22T00:55:29.000Z",
-      "teaser": "Lo clave en 20 segundos: Keylor Navas podría ser decisivo en la final de Liga MX.",
-      "image_url": "https://www.nacion.com/resizer/v2/HLPWW75DPNATHNHR3HYGQTACTY.jpeg?auth=d06d9739b17fa2d0e2f476a3a7a2d0b06836f8d22fea97f5df46d6048d5dc49d&smart=true&width=1280&height=960",
-      "description": "Exfigura de Pumas y Cruz Azul dio su opinión sobre la final de la Liga MX.",
       "featured": false
     },
     {
@@ -89,6 +102,19 @@
       "teaser": "Lo clave en 20 segundos: El Banco Central decide mantener su tasa de interés estable para asegurar la economía.",
       "image_url": "https://www.nacion.com/resizer/v2/GJT43SQRZZEGTFRJFGV5KNHPAY.JPG?auth=6c6931531de3907328b1a70d7ab587772ff8f67b5b0e9adfc35bc663ddec5a9e&smart=true&width=4000&height=2667",
       "description": "La Junta Directiva del Banco Central tomó su tercera decisión de política monetaria de 2026",
+      "featured": false
+    },
+    {
+      "slug": "historico-exjugador-de-mexico-sentencia-keylor-navas-sera-la-clave-para-el-triunfo-de-pumas-ante-cruz-azul",
+      "title": "Histórico exjugador de México sentencia: ‘Keylor Navas será la clave para el triunfo de Pumas ante Cruz Azul’",
+      "category": "Mundo",
+      "bullets_20s": "• Keylor Navas, figura destacada en el fútbol mundial, tiene un papel crucial en esta contienda.\n• El análisis de un exjugador mexicano destaca la importancia del portero en el resultado.\n• Las expectativas para la final de la Liga MX están elevadas entre los aficionados.\n• Los equipos se preparan intensamente para el enfrentamiento, buscando el triunfo.\n• La experiencia de Navas es vista como un factor determinante en el desempeño del equipo.",
+      "source_name": "Esteban Valverde",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/historico-exjugador-de-mexico-sentencia-keylor/4SUVAPVVMRA7TP6OZWNA47DQMQ/story/",
+      "publish_date": "2026-05-22T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Keylor Navas podría ser fundamental en el triunfo de Pumas.",
+      "image_url": "https://www.nacion.com/resizer/v2/HLPWW75DPNATHNHR3HYGQTACTY.jpeg?auth=d06d9739b17fa2d0e2f476a3a7a2d0b06836f8d22fea97f5df46d6048d5dc49d&smart=true&width=1280&height=960",
+      "description": "Exfigura de Pumas y Cruz Azul dio su opinión sobre la final de la Liga MX.",
       "featured": false
     },
     {
@@ -173,11 +199,11 @@
       "slug": "el-tragico-caso-de-yulixa-toloza-la-mujer-que-aparecio-muerta-en-una-cuneta-despues-de-someterse-a-un-procedimiento-este",
       "title": "El trágico caso de Yulixa Toloza, la mujer que apareció muerta en una cuneta después de someterse a un procedimiento estético en Colombia",
       "category": "Mundo",
-      "bullets_20s": "• El fallecimiento de Yulixa Toloza ha generado un debate sobre la seguridad en procedimientos estéticos.\n• Este incidente destaca la preocupación sobre las cirugías plásticas realizadas en clínicas no autorizadas.\n• La noticia ha impactado tanto en Colombia como en otros países de América Latina.\n• Las autoridades están tomando medidas para regular y supervisar estas prácticas peligrosas.\n• Se urge a la población a investigar adecuadamente antes de realizar procedimientos estéticos.",
+      "bullets_20s": "• Yulixa Toloza fue una mujer que se sometió a un procedimiento estético en Colombia.\n• Su muerte ha generado un debate sobre la seguridad de las cirugías plásticas en clínicas ilegales.\n• Las 'clínicas de garaje' operan de manera informal y sin regulaciones adecuadas.\n• El incidente ha resaltado la importancia de la regulación en cirugías estéticas.\n• Las autoridades están revisando protocolos y normativas en el sector de la salud.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/czj2gkppp97o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T22:08:59.000Z",
-      "teaser": "Lo clave en 20 segundos: la trágica muerte de Yulixa Toloza destaca riesgos de clínicas estéticas ilegales.",
+      "teaser": "Lo clave en 20 segundos: un caso que resalta riesgos de clínicas estéticas ilegales en Colombia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b105/live/6964fe40-555a-11f1-bd3f-0d82fde7e36d.jpg",
       "description": "El caso pone una luz sobre las llamadas 'clínicas de garaje' en las que se llevan a cabo cirugías plásticas de manera ilegal en Colombia.",
       "featured": false
@@ -485,13 +511,13 @@
       "slug": "steam-fortaleciendo-lo-publico-abre-convocatoria-para-40-becas-completas-dirigidas-a-estudiantes-universitarios",
       "title": "STEAM Fortaleciendo lo Público abre convocatoria para 40 becas completas dirigidas a estudiantes universitarios",
       "category": "Costa Rica",
-      "bullets_20s": "• La convocatoria seleccionará a 40 estudiantes universitarios para un bootcamp intensivo en Costa Rica.\n• Los participantes se enfocarán en innovación pública, liderazgo y transformación social en áreas STEAM.\n• El programa se llevará a cabo del 24 al 26 de julio de 2026 en San José, Costa Rica.\n• Las becas cubren transporte, hospedaje, alimentación y materiales necesarios para los participantes.\n• Los seleccionados formarán parte de una red latinoamericana de jóvenes líderes STEAM con acceso a oportunidades.",
+      "bullets_20s": "• La iniciativa ofrece 40 becas completas para estudiantes universitarios en Costa Rica.\n• El programa se centrará en innovación pública, liderazgo y transformación social.\n• Las actividades se desarrollarán del 24 al 26 de julio de 2026 en San José.\n• Los seleccionados participarán en talleres, visitas y networking con líderes internacionales.\n• Las becas incluyen transporte, hospedaje, alimentación y materiales necesarios.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/steam-fortaleciendo-lo-publico-abre-convocatoria-40-becas-completas-dirigidas-estudiantes",
       "publish_date": "2026-05-21T16:28:05.000Z",
-      "teaser": "Lo clave en 20 segundos: 40 becas completas para un bootcamp internacional de innovación pública en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: convocatoria para becas STEAM abiertas en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/steam-cr-beca-total.jpg",
-      "description": "STEAM Fortaleciendo lo Público abre convocatoria para 40 becas completas dirigidas a estudiantes universitarios.",
+      "description": "STEAM Fortaleciendo lo Público abre convocatoria para 40 becas completas dirigidas a estudiantes universitarios",
       "featured": false
     },
     {
@@ -706,11 +732,11 @@
       "slug": "por-que-mexico-importa-mas-del-50-de-la-gasolina-que-consume-pese-a-ser-uno-de-los-mayores-productores-de-petroleo-de-am",
       "title": "Por qué México importa más del 50% de la gasolina que consume, pese a ser uno de los mayores productores de petróleo de América Latina",
       "category": "Mundo",
-      "bullets_20s": "• México es uno de los principales productores de petróleo en América Latina y enfrenta retos significativos.\n• El país depende de la importación de gasolina debido a sus viejas refinerías que no funcionan eficientemente.\n• A pesar de ser productor de petróleo, la modernización de refinerías sigue siendo un tema pendiente.\n• La importación de gasolina afecta a la economía y la autosuficiencia energética del país.\n• La situación genera debates sobre políticas energéticas y su viabilidad a largo plazo en México.",
+      "bullets_20s": "• A pesar de ser uno de los mayores productores de petróleo en América Latina, México importa gasolina.\n• La obsolescencia de las refinerías en México afecta la producción interna de combustibles.\n• Las políticas energéticas del país han impactado negativamente en su autosuficiencia petrolera.\n• Cada año, millones de litros de gasolina son necesarios para satisfacer el consumo en el país.\n• Se discuten estrategias para modernizar las refinerías y reducir la dependencia del extranjero.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdxdldjenpvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T12:31:11.000Z",
-      "teaser": "Lo clave en 20 segundos: México, a pesar de su producción de petróleo, importa más del 50% de su gasolina por refinerías viejas.",
+      "teaser": "Lo clave en 20 segundos: México enfrenta retos en su producción de gasolina y debe importar más de lo que produce.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9a01/live/19203760-2463-11f1-a2c1-39d16ad974aa.jpg",
       "description": "El país lucha desde hace años con unas refinerías obsoletas que obliga al país a importar del extranjero el 50% de su consumo de gasolina.",
       "featured": false
@@ -771,11 +797,11 @@
       "slug": "que-significa-que-rusia-haya-desplegado-sus-fuerzas-nucleares-estrategicas-en-sus-mayores-ejercicios-militares-hasta-la-",
       "title": "¿Qué significa que Rusia haya desplegado sus fuerzas nucleares estratégicas en sus mayores ejercicios militares hasta la fecha?",
       "category": "Mundo",
-      "bullets_20s": "• Rusia ha intensificado sus ejercicios militares con fuerzas nucleares, lo que genera preocupaciones internacionales.\n• Estos ejercicios buscan preparar al país para enfrentar potenciales agresiones de otros estados.\n• Analistas destacan la importancia de estos movimientos en el contexto geopolítico global actual.\n• Las fuerzas nucleares rusas están en alerta, lo que refleja la tensión en relaciones internacionales.\n• Expertos advierten sobre los riesgos de escaladas militares en momentos de alta tensión política.",
+      "bullets_20s": "• Rusia organiza los ejercicios militares nucleares más grandes en su historia reciente.\n• Estos ejercicios estratégicos incluyen simulaciones de respuesta ante amenazas externas.\n• El Ministerio de Defensa ruso enfatiza la necesidad de preparación y seguridad.\n• Expertos analizan el impacto de estas maniobras en la seguridad global.\n• La tensión geopolítica en Europa se ve aumentada por estas acciones militares.\n• Otros países están vigilando de cerca los movimientos de Rusia y sus capacidades.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c242g9qd744o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T11:39:19.000Z",
-      "teaser": "Lo clave en 20 segundos: Rusia intensifica ejercicios nucleares, aumentando tensiones globales.",
+      "teaser": "Lo clave en 20 segundos: Rusia realiza grandes ejercicios nucleares para prepararse ante supuestas amenazas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/71f5/live/873cfa10-5377-11f1-ba02-4b5b8fc65c30.jpg",
       "description": "Rusia realizó ejercicios estratégicos nucleares a gran escala 'para prepararse y emplear fuerzas nucleares ante una amenaza agresiva', dijo el Ministerio de Defensa ruso.",
       "featured": false
@@ -810,13 +836,13 @@
       "slug": "eeuu-se-beneficia-de-la-estabilidad-en-america-latina-que-se-produce-mediante-el-desarrollo-y-las-clases-medias-deberia-",
       "title": "EE.UU. se beneficia de la estabilidad en América Latina, que se produce mediante el desarrollo y las clases medias. Debería promover eso en lugar de intervenciones",
       "category": "Mundo",
-      "bullets_20s": "• Stephen Kinzer analiza la relación entre EE.UU. y América Latina a través de su historia.\n• Las clases medias en la región son cruciales para promover la estabilidad política y social.\n• Se debe enfocar en el desarrollo y no en intervenciones militares o políticas.\n• Intervenciones previas por parte de EE.UU. tuvieron consecuencias negativas en varios países.\n• La estabilidad en América Latina podría beneficiar tanto a la región como a EE.UU.",
+      "bullets_20s": "• Estados Unidos ha tenido una historia de intervenciones en América Latina.\n• La estabilidad en la región se vincula con el desarrollo de las clases medias.\n• Se sugiere que la promoción del desarrollo es mejor que la intervención directa.\n• Kinzer analiza las consecuencias de estas intervenciones a lo largo de los años.\n• La clave para el futuro puede estar en el empoderamiento local y la colaboración.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c93x5k9l4xzo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-21T10:59:58.000Z",
-      "teaser": "Lo clave en 20 segundos: EE.UU. debería fomentar la estabilidad en América Latina, no intervenir.",
+      "teaser": "Lo clave en 20 segundos: EE.UU. debería fomentar la estabilidad en América Latina a través del desarrollo.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/6d6f/live/2bb35900-4963-11f1-8cde-350b393d70a2.jpg",
-      "description": "El periodista y escritor estadounidense, Stephen Kinzer, repasa las veces que Estados Unidos intervino en países de América Latina y cuáles fueron las consecuencias.",
+      "description": "El periodista y escritor estadounidense, Stephen Kinzer, repasa las veces que Estados Unidos intervino en países de América Latina y cuáles fueron las consecuencias",
       "featured": false
     },
     {
@@ -2186,15 +2212,15 @@
     },
     {
       "slug": "campana-de-recoleccion-de-residuos-concientizados-edicion-mayo-2026",
-      "title": "Campaña de recolección de residuos 'Concientizados', Edición mayo 2026",
+      "title": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La campaña busca fomentar la correcta gestión de residuos en la comunidad costarricense.\n• Se invita a la ciudadanía a traer diversos tipos de materiales reciclables y peligrosos.\n• La actividad se llevará a cabo el 26 de mayo, en el campus Tecnológico Central de Cartago.\n• Novedad: Se aceptarán llantas, en colaboración con el Ministerio de Salud.\n• Se recomienda revisar la lista de materiales, asegurando su separación y limpieza.",
+      "bullets_20s": "• La campaña \"Concientizados\" invita a la comunidad a participar en la recolección de residuos.\n• Se llevará a cabo el 26 de mayo de 2026 en el Centro de las Artes en Cartago.\n• Se recibirán diversos residuos reciclables, incluidos plásticos y electrónicos.\n• La actividad es gratuita y abierta al público en general sin ningún costo.\n• Los materiales deben estar limpios y separados antes de ser entregados.\n• Este evento se realiza en colaboración con el Ministerio de Salud de Costa Rica.\n• Se ofrecen novedades como la recolección especial de llantas en esta edición.\n• Es vital que los asistentes revisen la lista de residuos aceptables antes de asistir.\n• La iniciativa busca promover la sostenibilidad y la educación ambiental en la comunidad.\n• GASEL es la unidad encargada de implementar estas campañas de recolección en el TEC.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/campana-recoleccion-residuos-concientizados-edicion-mayo-2026",
       "publish_date": "2026-05-19T17:35:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Recolección de residuos 'Concientizados', el 26 de mayo en Cartago.",
+      "teaser": "Lo clave en 20 segundos: participa en la recolección de residuos el 26 de mayo en Cartago.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche-campana-concientizados_0.jpg",
-      "description": "Campaña de recolección de residuos 'Concientizados', Edición mayo 2026",
+      "description": "Campaña de recolección de residuos \"Concientizados\", Edición mayo 2026",
       "featured": false
     },
     {
@@ -23336,5 +23362,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-22T01:45:19.698Z"
+  "generated_at": "2026-05-22T02:45:19.649Z"
 }
