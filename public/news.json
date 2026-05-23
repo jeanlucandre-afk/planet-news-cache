@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "conozca-las-ventajas-de-activar-el-modo-avion-en-el-celular-y-cuando-conviene-desactivarlo",
+      "title": "Conozca las ventajas de activar el ‘modo avión’ en el celular y cuándo conviene desactivarlo",
+      "category": "Tecnología",
+      "bullets_20s": "• El modo avión se activa en vuelos, pero tiene múltiples beneficios fuera de ellos.\n• Ahorra batería al desactivar conexiones innecesarias, prolongando el uso del dispositivo.\n• Puede acelerar la carga del celular, optimizando el tiempo de espera para los usuarios.\n• Mejora el rendimiento del dispositivo en áreas con señal inestable o débil.\n• Ideal para momentos de concentración, eliminando distracciones de notificaciones.\n• Permite usar aplicaciones que no requieren conexión, como juegos offline.\n• Útil durante reuniones para mantener el enfoque sin interrupciones.\n• Contribuye a extender la vida útil de la batería a largo plazo.\n• Es una herramienta estratégica en situaciones de emergencia en vuelo.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/tecnologia/conozca-las-ventajas-de-activar-el-modo-avion-en/SPDKIZPTGJFKRKPCFHXM7QBQXM/story/",
+      "publish_date": "2026-05-23T22:21:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Descubra los beneficios del modo avión más allá de los vuelos.",
+      "image_url": "https://www.nacion.com/resizer/v2/LPVBPPIDZBGWFJ5BWPO2IIXETY.png?auth=c7e4bb1aa2cce50668cf19a8a415aceced08b27a26ef424706ec05d4cc7567a1&smart=true&width=1672&height=941",
+      "description": "El modo avión del celular no solo sirve durante vuelos. Esta función puede ayudar a ahorrar batería, acelerar la carga y mejorar el rendimiento del dispositivo en situaciones específicas.",
+      "featured": false
+    },
+    {
+      "slug": "brote-de-ebola-en-congo-desata-caos-hospitales-atacados-y-10-paises-africanos-bajo-amenaza",
+      "title": "Brote de ébola en Congo desata caos: hospitales atacados y 10 países africanos bajo amenaza",
+      "category": "Mundo",
+      "bullets_20s": "• El brote de ébola en Congo ha generado una crisis de salud sin precedentes en la región.\n• Las restricciones incluyen la prohibición de funerales y reuniones masivas para controlar la epidemia.\n• Los hospitales enfrentan ataques por parte de grupos descontentos y saqueadores.\n• Diez países africanos están en alerta máxima por la posibilidad de contagios cruzados.\n• Las autoridades están redoblando esfuerzos para contener la propagación del virus.",
+      "source_name": "La Nación / Argentina / GDA, AFP",
+      "source_url": "https://www.nacion.com/revista-dominical/brote-de-ebola-en-congo-desata-caos-hospitales/O6SB767YURGTTH4SIB4P7CKD7I/story/",
+      "publish_date": "2026-05-23T22:05:00.000Z",
+      "teaser": "Lo clave en 20 segundos: el ébola desata caos en Congo y pone a 10 países en alerta.",
+      "image_url": "https://www.nacion.com/resizer/v2/HLOL7BWV2NBSRDBPNTIV3KNF6I.jpg?auth=233e8698fa4731818833c494c6c82df052f581146026089f73b628184cc64475&smart=true&width=1200&height=799",
+      "description": "La epidemia de ébola en la República Democrática del Congo obligó a restringir funerales y reuniones masivas, mientras ataques a centros de salud y la fuga de pacientes elevan la alarma",
+      "featured": false
+    },
+    {
+      "slug": "trump-anuncia-que-tiene-un-acuerdo-practicamente-negociado-con-iran-que-incluiria-la-apertura-del-estrecho-de-ormuz",
+      "title": "Trump anuncia que tiene un acuerdo \"prácticamente negociado\" con Irán que incluiría la apertura del estrecho de Ormuz",
+      "category": "Mundo",
+      "bullets_20s": "• Trump menciona un acuerdo crucial con Irán que impactaría la economía global.\n• La apertura del estrecho de Ormuz es fundamental para el comercio marítimo mundial.\n• El acuerdo podría influir en el precio del petróleo a nivel internacional.\n• Irán es un actor clave en la dinámica política del Medio Oriente.\n• Las negociaciones actuales marcan un cambio significativo en la política de EE.UU.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/crlp1k7e901o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-23T21:23:36.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump y un acuerdo crucial con Irán sobre el estrecho de Ormuz.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/619c/live/ab411af0-56eb-11f1-8b8c-6d33e1d5abb6.jpg",
+      "description": "El presidente de EE.UU. aseguró que ha llegado a un principio de acuerdo con Irán que deberá llevar a la reapertura del estrecho de Ormuz clave para el paso de buques petroleros.",
+      "featured": false
+    },
+    {
       "slug": "los-goleadores-de-costa-rica-estan-en-vias-de-extincion-por-que-los-artilleros-perdieron-protagonismo",
       "title": "Los goleadores de Costa Rica están en vías de extinción: ¿Por qué los artilleros perdieron protagonismo?",
       "category": "Costa Rica",
@@ -472,11 +511,11 @@
       "slug": "como-la-familia-andic-construyo-el-imperio-de-la-moda-mango-y-que-poder-tiene-jonathan-el-heredero-acusado-de-la-muerte-",
       "title": "Cómo la familia Andic construyó el imperio de la moda Mango y qué poder tiene Jonathan, el heredero acusado de la muerte de su padre",
       "category": "Mundo",
-      "bullets_20s": "• La historia de la familia Andic y su impacto en la moda a nivel internacional es fascinante.\n• Isak Andic comenzó su carrera empresarial importando camisas de Turquía que vendió con éxito.\n• A través de su visión, Andic transformó un pequeño negocio en un imperio de la moda global.\n• Jonathan Andic, su heredero, enfrenta acusaciones que han conmocionado a la industria de la moda.\n• Los desafíos que enfrenta Jonathan en su camino al liderazgo son reflejo de su complicada herencia.",
+      "bullets_20s": "• Isak Andic comenzó su carrera vendiendo camisas bordadas importadas de Turquía hace décadas.\n• Con visión empresarial, Andic transformó su negocio en un imperio de la moda internacional.\n• El papel de Jonathan Andic, heredero de Mango, ha sido objeto de controversias recientes.\n• La historia de la familia Andic refleja la mezcla de cultura y comercio en la moda.\n• Mango es ahora una marca reconocida globalmente, influyendo en el mercado de la moda.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cjepny159jjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-23T11:28:25.000Z",
-      "teaser": "Lo clave en 20 segundos: La historia de un imperio de moda y las controversias familiares detrás.",
+      "teaser": "Lo clave en 20 segundos: La historia del imperio de moda Mango y su polémico heredero.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/82bc/live/570c4ee0-55fc-11f1-9773-43c89bcb1e91.jpg",
       "description": "Isak Andic empezó vendiendo camisas bordadas que importaba de Turquía, pero su olfato para los negocios le llevó a montar uno de los mayores imperios de la moda.",
       "featured": false
@@ -537,11 +576,11 @@
       "slug": "como-es-el-jardin-de-los-venenos-que-alberga-mas-de-100-plantas-toxicas-incluida-la-mas-venenosa-del-mundo",
       "title": "Cómo es el Jardín de los Venenos, que alberga más de 100 plantas tóxicas (incluida la más venenosa del mundo)",
       "category": "Ciencia",
-      "bullets_20s": "• El Jardín de los Venenos alberga múltiples plantas peligrosas a la vista del público.\n• Más de 100 especies de plantas tóxicas conviven en este jardín educativo y cautivador.\n• Visitar el jardín es una forma de aprender sobre la toxicidad de diversas plantas.\n• Un letrero avisa a los visitantes sobre los peligros de las plantas que allí crecen.\n• El jardín ofrece información sobre la clasificación y efectos de las plantas venenosas.",
+      "bullets_20s": "• El Jardín de los Venenos alberga una diversidad impresionante de plantas peligrosas y fascinantes.\n• Entre sus especies, se encuentra la planta más venenosa del mundo, temida por sus efectos letales.\n• El acceso al jardín es público, permitiendo a los interesados aprender sobre estas plantas.\n• Los visitantes son advertidos sobre los riesgos antes de ingresar al jardín lleno de toxicidad.\n• Este sitio resalta la importancia de la educación sobre la toxicidad de ciertas plantas en el mundo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c98r3jle31no?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-23T09:32:05.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre un jardín lleno de plantas venenosas y su impacto ambiental.",
+      "teaser": "Lo clave en 20 segundos: un jardín que alerta sobre el peligro de más de 100 plantas tóxicas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cf7f/live/9795a740-48af-11f1-b55d-0f258dce1735.jpg",
       "description": "Estas plantas pueden matar advierten en la puerta de un jardín repleto de plantas tóxicas, intoxicantes y narcóticas... que está abierto al público.",
       "featured": false
@@ -1044,11 +1083,11 @@
       "slug": "webinar-eico-ensayos-no-destructivos-utilizados-en-obras-civiles",
       "title": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "category": "Ciencia",
-      "bullets_20s": "• La Escuela de Ingeniería en Construcción del TEC organiza un webinar sobre ensayos no destructivos.\n• Este evento busca educar sobre técnicas de evaluación en infraestructura civil actual.\n• Impartido por el ingeniero Luis Carlos Calvo Navarro, experto en el área.\n• Destinado a estudiantes y profesionales del sector de la construcción en Costa Rica.\n• Permitirá aprender cómo detectar fallas sin dañar la infraestructura existente.",
+      "bullets_20s": "• El TEC organiza un webinar sobre ensayos no destructivos en construcción civil y evaluación de estructuras.\n• Dirigido a estudiantes y profesionales del sector, busca actualizar conocimientos en el área.\n• El ingeniero Luis Carlos Calvo será el encargado de impartir la actividad de manera virtual.\n• Se explorarán técnicas modernas para el diagnóstico y monitoreo de infraestructura.\n• El evento es gratuito, pero requiere inscripción previa para participar.\n• Esta actividad forma parte de un ciclo académico del TEC sobre la construcción moderna.\n• Los ensayos no destructivos permiten evaluar estructuras sin comprometer su integridad.\n• La inscripción se puede realizar a través del enlace proporcionado en el anuncio.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/webinar-eico-ensayos-no-destructivos-utilizados-obras-civiles",
       "publish_date": "2026-05-22T18:04:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Aprende sobre técnicas de evaluación en un webinar del TEC.",
+      "teaser": "Lo clave en 20 segundos: Webinar sobre ensayos no destructivos en construcción civil disponible para profesionales e interesados.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/image_4.png",
       "description": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "featured": false
@@ -1499,13 +1538,13 @@
       "slug": "tec-lleva-a-brasil-la-innovadora-plataforma-que-crea-y-valida-lenguas-de-senas",
       "title": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
       "category": "Ciencia",
-      "bullets_20s": "• El TEC participa en una actividad en Brasil para validar lenguas de señas con tecnología inclusiva.\n• PIELS permite el uso de avatares digitales para representar palabras en lengua de señas.\n• Estudiantes del TEC presentan avances en accesibilidad digital en simposio previo al evento.\n• La Librasthon reunió a especialistas y personas sordas para colaborar en nuevos proyectos.\n• La plataforma busca facilitar la comunicación y el acceso a la información entre personas sordas.",
+      "bullets_20s": "• TEC presentó en Brasil PIELS, herramienta para traducir lengua de señas con avatares digitales.\n• La plataforma tiene como objetivo facilitar la comunicación para personas sordas a nivel internacional.\n• Estudiantes costarricenses compartieron avances en accesibilidad digital durante un simposio en Brasil.\n• PIELS incluye aspectos gramaticales para garantizar comunicación natural en lengua de señas.\n• Investigadores de Costa Rica colaboraron con expertos extranjeros en validación de nuevas señas.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/tec-lleva-brasil-innovadora-plataforma-crea-valida-lenguas-senas",
       "publish_date": "2026-05-22T03:29:38.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC lleva su innovadora plataforma de lenguas de señas a Brasil.",
+      "teaser": "Lo clave en 20 segundos: TEC presenta PIELS en Brasil, una plataforma innovadora para lenguas de señas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/piels.png",
-      "description": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
+      "description": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas.",
       "featured": false
     },
     {
@@ -2045,11 +2084,11 @@
       "slug": "consejo-institucional-honra-la-trayectoria-y-contribucion-de-exrectores-del-tec",
       "title": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El Consejo Institucional rinde homenaje a exrectores con develación de fotografías en el TEC.\n• Julio Calvo, Luis Méndez y Jorge Chaves fueron reconocidos por su liderazgo en años clave.\n• La ceremonia resalta transformaciones importantes durante su gestión entre 2011 y 2023.\n• Se destaca el impacto positivo de las administraciones en infraestructura y calidad educativa.\n• La actual rectora, María Estrada, agradeció el compromiso de exrectores por la institución.",
+      "bullets_20s": "• El Consejo Institucional del TEC rindió homenaje a exrectores durante una ceremonia solemne y significativa.\n• Se develaron fotografías de los exrectores que contribuyeron al desarrollo del Tecnológico de Costa Rica.\n• El acto destacó la importancia de cada administración en la historia del TEC entre 2011 y 2023.\n• Los exrectores dejaron un legado en áreas como infraestructura, acreditación y vinculación productiva.\n• La celebración se enmarca en el 55 aniversario del Tecnológico de Costa Rica, una institución reconocida.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/consejo-institucional-honra-trayectoria-contribucion-exrectores-tec",
       "publish_date": "2026-05-21T17:02:00.000Z",
-      "teaser": "Lo clave en 20 segundos: homenaje a exrectores del TEC en ceremonia especial.",
+      "teaser": "Lo clave en 20 segundos: Homenaje a exrectores destaca su impacto en el TEC y la educación pública en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/rectores-1.png",
       "description": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "featured": false
@@ -24844,5 +24883,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-23T21:45:19.736Z"
+  "generated_at": "2026-05-23T22:45:19.639Z"
 }
