@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "tse-se-pronuncia-tras-fallo-de-la-prodhab-sobre-manejo-de-datos-de-ciudadanos-y-anuncia-recurso-de-revocatoria",
+      "title": "TSE se pronuncia tras fallo de la Prodhab sobre manejo de datos de ciudadanos y anuncia recurso de revocatoria",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TSE ha reaccionado ante el reciente fallo de la Prodhab que afecta su manejo de datos personales.\n• Se ordena al TSE pedir consentimiento informado respecto a datos biométricos de los ciudadanos.\n• La decisión de la Prodhab se basa en preocupaciones sobre la comercialización de datos personales.\n• Se revisarán los datos públicos que el TSE tiene publicados en su página web oficial.\n• El TSE anunciará un recurso de revocatoria en respuesta a esta sentencia de la Prodhab.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/el-pais/tse-se-pronuncia-tras-fallo-de-la-prodhab-sobre/OJLYB4QLJVGUROYQW33FIJR3YU/story/",
+      "publish_date": "2026-05-22T23:50:41.000Z",
+      "teaser": "Lo clave en 20 segundos: TSE se opone a fallo de Prodhab sobre datos biométricos y anuncia acción legal.",
+      "image_url": "https://www.nacion.com/resizer/v2/KYM5JL2TP5HLRM4YR6ERMXJL6A.jpg?auth=4c582dfd8087586e7d00514d535a0b6166214704f8e28812a2662926b317eb6a&smart=true&width=6000&height=4000",
+      "description": "El TSE reaccionó al fallo de la Prodhab que le ordena pedir consentimiento informado por una supuesta comercialización de datos biométricos y revisar los datos públicos en su web.",
+      "featured": false
+    },
+    {
+      "slug": "expertos-en-jardineria-recomiendan-la-planta-de-interior-ideal-para-perfumar-el-hogar",
+      "title": "Expertos en jardinería recomiendan la planta de interior ideal para perfumar el hogar",
+      "category": "Ciencia",
+      "bullets_20s": "• La Hoya carnosa es conocida por su dulce aroma y atractivo aspecto en interiores.\n• Ideal para aquellos que buscan mejorar la calidad del aire en el hogar.\n• Requiere cuidados básicos y puede adaptarse a diversas condiciones de luz.\n• Su resistencia hace que sea perfecta para jardineros principiantes y experimentados.\n• Esta planta también puede servir como elemento decorativo en varias estancias.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/ciencia/expertos-en-jardineria-recomiendan-la-planta-de/EZLJXVN5J5H5LHHMSHWI3ZGLNU/story/",
+      "publish_date": "2026-05-22T23:46:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La Hoya carnosa es la planta ideal para perfumar y decorar tu hogar.",
+      "image_url": "https://www.nacion.com/resizer/v2/YUJYZZEX5RDV3NDMTW2MWCEMUY.png?auth=a41a013f4bd1acceedd8cc721d9b4db313e19823d2ecae0c3355f7d76f07e17f&smart=true&width=1672&height=941",
+      "description": "La Hoya carnosa o flor de nácar destaca entre las plantas de interior por su perfume dulce, resistencia y capacidad para mejorar el ambiente del hogar. Conozca cómo cuidarla y qué recomendaciones seguir.",
+      "featured": false
+    },
+    {
       "slug": "bn-recibe-premio-como-banco-del-ano-2026-por-parte-de-alide",
       "title": "BN recibe premio como Banco del Año 2026 por parte de ALIDE",
       "category": "Costa Rica",
@@ -118,14 +144,27 @@
       "featured": false
     },
     {
+      "slug": "los-buceadores-italianos-que-murieron-en-maldivas-carecian-de-equipos-adecuados-segun-un-rescatista",
+      "title": "Los buceadores italianos que murieron en Maldivas carecían de equipos adecuados, según un rescatista",
+      "category": "Mundo",
+      "bullets_20s": "• Los buceadores italianos fallecieron en un trágico accidente submarino en Maldivas, lo que ha alarmado a muchos.\n• Rescatistas enfrentaron grandes obstáculos para recuperar los cuerpos debido a la falta de equipo adecuado.\n• Las imágenes de la cueva destacan la complejidad del rescate y la necesidad de mejor preparación.\n• Este incidente ha generado un debate sobre la seguridad en actividades de buceo en destinos turísticos populares.\n• Las regulaciones sobre equipos de seguridad y formación para buceadores se están revisando a nivel internacional.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cdrp22kl57mo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-22T21:44:52.000Z",
+      "teaser": "Lo clave en 20 segundos: buceadores fallecieron por falta de equipos en un accidente en Maldivas.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e7d9/live/2625d450-5628-11f1-8b8c-6d33e1d5abb6.jpg",
+      "description": "Las imágenes de una cueva donde se encontraron los buceadores italianos revelan las dificultades que tuvieron los equipos de rescate para recuperar sus cuerpos.",
+      "featured": false
+    },
+    {
       "slug": "el-gobierno-de-trump-exigira-a-la-mayoria-de-los-inmigrantes-que-solicitan-la-residencia-que-abandonen-primero-eeuu",
       "title": "El gobierno de Trump exigirá a la mayoría de los inmigrantes que solicitan la residencia que abandonen primero EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• La nueva política migratoria impactará significativamente a los inmigrantes en EE.UU.\n• Solicitantes de green cards deberán regresar a su país antes de aplicar.\n• Miles de personas en EE.UU. podrían verse afectadas por esta medida.\n• Autoridades buscan modificar el proceso para obtener la residencia.\n• La medida genera incertidumbre entre quienes buscan establecerse en EE.UU.",
+      "bullets_20s": "• Una nueva política migratoria impactará a miles de solicitantes de residencia en EE.UU.\n• Los inmigrantes deberán regresar a su país antes de solicitar la green card.\n• La medida afecta a personas que ya tienen estatus regular en el país.\n• Expertos advierten sobre el impacto emocional y económico de la nueva política.\n• La política generará preocupaciones sobre el proceso de reunificación familiar.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpvp87v20p4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-22T21:28:07.000Z",
-      "teaser": "Lo clave en 20 segundos: nueva política migratoria de Trump afecta a inmigrantes en EE.UU.",
+      "teaser": "Lo clave en 20 segundos: nueva política migratoria impacta solicitudes de residencia en EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9146/live/3f6187c0-561e-11f1-ac06-bb88c895e68b.jpg",
       "description": "Las autoridades migratorias de EE.UU. anunciaron una nueva política que exige a la mayoría de los solicitantes de green cards que lo hagan desde su país de origen, lo cual impactaría a miles de personas con estatus regular.",
       "featured": false
@@ -186,11 +225,11 @@
       "slug": "el-director-ejecutivo-de-un-banco-pide-disculpas-tras-describir-a-sus-trabajadores-como-capital-humano-de-menor-valor",
       "title": "El director ejecutivo de un banco pide disculpas tras describir a sus trabajadores como 'capital humano de menor valor'",
       "category": "Mundo",
-      "bullets_20s": "• Un director de banco provoca controversia con comentarios sobre sus trabajadores. Las palabras generan indignación generalizada.\n• Se disculpa tras la oleada de críticas, indicando su compromiso con el bienestar de sus colaboradores.\n• La situación destaca la importancia del lenguaje en el entorno laboral, especialmente en líderes empresariales.\n• El capital humano es un tema relevante que afecta la percepción y motivación de empleados en cualquier organización.\n• Las disculpas fueron bien recibidas, pero el impacto de sus comentarios aún persiste en la opinión pública.",
+      "bullets_20s": "• El director se disculpa por sus comentarios sobre los empleados del banco.\n• Los términos utilizados generaron una fuerte reacción entre el personal.\n• Asegura que valora a todo su equipo en la institución financiera.\n• Se compromete a trabajar con sus colegas para afrontar cambios.\n• Este incidente resalta la importancia del lenguaje en el entorno laboral.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c7v9jmqn2p8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-22T20:31:35.000Z",
-      "teaser": "Lo clave en 20 segundos: el director de un banco pide disculpas tras sus controversial comentario laboral.",
+      "teaser": "Lo clave en 20 segundos: Un director de banco se disculpa por insensibles comentarios sobre su personal.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/bd91/live/33fe7860-560b-11f1-a198-53e60cb35f25.jpg",
       "description": "El director de Standard Chartered afirmó que valora a todos sus colegas y se compromete a ayudarlos a afrontar los cambios.",
       "featured": false
@@ -329,11 +368,11 @@
       "slug": "webinar-eico-ensayos-no-destructivos-utilizados-en-obras-civiles",
       "title": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "category": "Ciencia",
-      "bullets_20s": "• El TEC organiza un webinar sobre ensayos no destructivos en obras civiles, dirigido a varios públicos.\n• La actividad es gratuita y tiene como objetivo compartir conocimientos en evaluación de estructuras.\n• El ingeniero Luis Carlos Calvo Navarro será el encargado de impartir el webinar y compartir su experiencia.\n• Los ensayos no destructivos permiten evaluar estructuras sin dañar la integridad de las obras civiles.\n• El webinar es ideal para estudiantes y profesionales interesados en la ingeniería civil y construcción.",
+      "bullets_20s": "• El webinar se enfoca en ensayos no destructivos aplicados a infraestructuras y edificaciones.\n• Dirigido a estudiantes y profesionales del sector construcción, ofreciendo formación actualizada.\n• Impartido por el ingeniero Luis Carlos Calvo, experto en el área de estructuración.\n• Permitirá evaluar condiciones y detectar fallas sin comprometer la integridad de las obras.\n• Inscripción previa es necesaria, garantizando un espacio limitado para los participantes.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/webinar-eico-ensayos-no-destructivos-utilizados-obras-civiles",
       "publish_date": "2026-05-22T18:04:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Conoce técnicas modernas de evaluación en obras civiles en este webinar gratuito.",
+      "teaser": "Lo clave en 20 segundos: Un webinar sobre ensayos no destructivos en obras civiles, gratuitos y de interés profesional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/image_4.png",
       "description": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "featured": false
@@ -706,11 +745,11 @@
       "slug": "rodrigo-rey-rosa-y-su-novela-inspirada-en-la-megacarcel-de-bukele-con-el-giro-a-la-derecha-en-el-mundo-estos-centros-de-",
       "title": "Rodrigo Rey Rosa y su novela inspirada en la megacárcel de Bukele: \"Con el giro a la derecha en el mundo, estos centros de detención pueden volverse la norma\"",
       "category": "Mundo",
-      "bullets_20s": "• Rodrigo Rey Rosa aborda las implicaciones de las megacárceles en su nueva novela.\n• La política de seguridad de El Salvador genera preocupación en escritores latinoamericanos.\n• El autor destaca injusticias que afectan a muchas personas en estas detenciones masivas.\n• La obra plantea cómo los centros de detención pueden convertirse en un nuevo estándar.\n• Rey Rosa llama a reflexionar sobre el giro a la derecha en la región y sus consecuencias.",
+      "bullets_20s": "• Rodrigo Rey Rosa aborda la problemática de las megacárceles en su nueva obra literaria.\n• El autor reflexiona sobre la política de seguridad del Salvador y sus implicaciones en la región.\n• Rey Rosa destaca la injusticia que enfrentan muchos detenidos en estos sistemas penitenciarios.\n• La novela ofrece una crítica a la tendencia de criminalización en América Latina.\n• El escritor señala que estos centros de detención podrían convertirse en un modelo en otros países.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cze2dl7g46no?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-22T11:50:39.000Z",
-      "teaser": "Lo clave en 20 segundos: La novela de Rey Rosa critica las megacárceles y la política de seguridad en América Latina.",
+      "teaser": "Lo clave en 20 segundos: Rodrigo Rey Rosa critica la megacárcel de Bukele en su nueva novela.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/bb86/live/890cda40-49c2-11f1-a785-117ea7a54c3b.jpg",
       "description": "El premiado escritor guatemalteco dice en una entrevista que le preocupa que en América Latina vean como modelo la política de seguridad de El Salvador: “hay mucha gente ahí encerrada injustamente”.",
       "featured": false
@@ -783,14 +822,14 @@
     {
       "slug": "tec-lleva-a-brasil-la-innovadora-plataforma-que-crea-y-valida-lenguas-de-senas",
       "title": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
-      "category": "Mundo",
-      "bullets_20s": "• TEC presenta PIELS, una plataforma para la inclusión de personas sordas en Brasil.\n• Investigadores y estudiantes costarricenses colaboran en la validación de nuevas señas.\n• La actividad reunió a especialistas de diversas instituciones en accesibilidad y tecnología.\n• La plataforma permite crear avatares digitales que representan lengua de señas efectivamente.\n• El evento destaca el compromiso del TEC con la innovación social y accesibilidad digital.",
+      "category": "Ciencia",
+      "bullets_20s": "• PIELS es una plataforma que representa señas mediante avatares digitales para personas sordas.\n• La iniciativa busca facilitar la inclusión y validación de nuevas lenguas de señas.\n• Investigadores del TEC colaboraron con universidades de Brasil en el evento 'Librasthon'.\n• Se presentaron módulos que refuerzan la accesibilidad digital en la comunicación.\n• El TEC se posiciona como referente en tecnología accesible y soluciones inclusivas.\n• El trabajo busca fortalecer el bilingüismo para usuarios de lengua de señas.\n• Colaboraciones internacionales fomentan el desarrollo de nuevas tecnologías inclusivas.\n• Investigadores y estudiantes compartieron experiencias de aprendizaje y metodologías.\n• La participación estudiantil fue clave en el intercambio de ideas y proyectos.\n• Brasil y Costa Rica trabajan hacia una mayor inclusión en educación y tecnología.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/tec-lleva-brasil-innovadora-plataforma-crea-valida-lenguas-senas",
       "publish_date": "2026-05-22T03:29:38.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC presenta en Brasil una plataforma innovadora para lenguas de señas.",
+      "teaser": "Lo clave en 20 segundos: TEC lleva a Brasil una plataforma innovadora para la inclusión de lenguas de señas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/piels.png",
-      "description": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas.",
+      "description": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
       "featured": false
     },
     {
@@ -1343,11 +1382,11 @@
       "slug": "consejo-institucional-honra-la-trayectoria-y-contribucion-de-exrectores-del-tec",
       "title": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El Consejo Institucional celebró un homenaje a exrectores haciendo develación de sus fotografías en un acto solemne.\n• Los exrectores reconocidos fueron Julio César Calvo, Luis Paulino Méndez y Jorge Alfredo Chaves del TEC.\n• Entre los años 2011 y 2023, estos líderes transformaron la institución en áreas clave como infraestructura y investigación.\n• El actual presidente del Consejo destacó el compromiso de los exrectores con la educación pública en Costa Rica.\n• Se destacó el papel del TEC como un referente en la educación superior pública a nivel nacional e internacional.\n• El homenaje se realizó en el marco del 55 aniversario del Tecnológico de Costa Rica.\n• Familiares y miembros del Consejo asistieron al evento, contribuyendo a un ambiente de celebración y memoria.\n• Cada exrector enfatizó la importancia del trabajo en equipo durante su gestión en la institución.\n• El acto contó con la participación de autoridades institucionales y exintegrantes del Consejo.\n• La develación de fotografías es una tradición que busca recordar y honrar los logros de cada rector.",
+      "bullets_20s": "• El Consejo Institucional del TEC rindió homenaje a exrectores del período 2011-2023 en una ceremonia significativa.\n• Se develaron las fotografías de los exrectores Julio César Calvo, Luis Paulino Méndez y Jorge Chaves.\n• Las administraciones de estos exrectores llevaron adelante transformaciones clave en el TEC.\n• Se destacó la importancia de la infraestructura y acreditación académica durante su gestión.\n• Cada exrector enfrentó desafíos únicos y dejó un legado importante en la educación superior.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/consejo-institucional-honra-trayectoria-contribucion-exrectores-tec",
       "publish_date": "2026-05-21T17:02:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebran homenaje a exrectores del TEC con develación de fotografías en su 55 aniversario.",
+      "teaser": "Lo clave en 20 segundos: El TEC honra a sus exrectores con una ceremonia llena de significado y legado.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/rectores-1.png",
       "description": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "featured": false
@@ -24142,5 +24181,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-22T23:45:19.771Z"
+  "generated_at": "2026-05-23T00:45:19.301Z"
 }
