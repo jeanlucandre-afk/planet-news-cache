@@ -1,14 +1,53 @@
 {
   "news": [
     {
+      "slug": "cientificos-estudian-la-corteza-terrestre-y-descubren-que-la-peninsula-iberica-podria-girar-en-sentido-horario",
+      "title": "Científicos estudian la corteza terrestre y descubren que la península ibérica podría girar en sentido horario",
+      "category": "Ciencia",
+      "bullets_20s": "• Investigadores analizan la corteza terrestre y sus movimientos en la península ibérica.\n• Las tensiones tectónicas entre África y Eurasia son objeto de estudio vital.\n• El hallazgo sugiere un posible giro horario en la península ibérica.\n• Científicos utilizan tecnología avanzada para entender cambios en la corteza.\n• Los resultados podrían influir en la comprensión de sismos en la región.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/ciencia/cientificos-estudian-la-corteza-terrestre-y/WXMMBRZS5ZBFJGTHWKOQQSVF64/story/",
+      "publish_date": "2026-05-23T14:12:03.000Z",
+      "teaser": "Lo clave en 20 segundos: Un estudio revela que la península ibérica podría girar por tensiones tectónicas.",
+      "image_url": "https://www.nacion.com/resizer/v2/QFTSRIBU5JBJXMFBJYDDST4NLI.jpg?auth=739f47efe09441a891b3234f4994cffb284e7db1f3aa47bac5fa62bc46a34ed6&smart=true&width=1440&height=960",
+      "description": "Un estudio encontró señales de que la península ibérica podría rotar lentamente por las tensiones tectónicas entre África y Eurasia.",
+      "featured": false
+    },
+    {
+      "slug": "que-se-hicieron-los-ambientalistas",
+      "title": "¿Qué se hicieron los ambientalistas?",
+      "category": "Costa Rica",
+      "bullets_20s": "• La presidenta enfrenta críticas por no abordar temas ambientales con la seriedad que requieren.\n• Las interrupciones eléctricas pueden afectar el suministro de agua, impactando a comunidades enteras.\n• Ambientalistas piden un mayor compromiso del gobierno en la protección de recursos naturales.\n• Se menciona la urgente necesidad de detener el abuso ambiental en áreas vulnerables como Crucitas.\n• Las cartas reflejan la preocupación de los ciudadanos por el futuro de la biodiversidad en el país.",
+      "source_name": "Redacción de La Nación",
+      "source_url": "https://www.nacion.com/opinion/cartas/que-se-hicieron-los-ambientalistas/LAVXI7DKZNB47OZBZHFRGKUGJE/story/",
+      "publish_date": "2026-05-23T14:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: críticas al gobierno y el impacto ambiental en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/AYVZ7FNNPRGJNLH72FV2JKDK6A.png?auth=62763a1df66045c83ad1c6c95ea1320ab9ee75d6cb2f49986ccc73cc7f2c429a&smart=true&width=1338&height=753",
+      "description": "Críticas al discurso combativo de la presidenta, una explicación de por qué, cuando ocurre una interrupción eléctrica, el servicio de agua también puede verse afectado, y un llamado a poner freno al abuso ambiental en Crucitas y Papagayo: tres cartas de hoy.",
+      "featured": false
+    },
+    {
+      "slug": "hace-50-anos-hospital-de-ninos-inaugura-moderna-aula-de-autoaprendizaje",
+      "title": "Hace 50 años: Hospital de Niños inaugura moderna aula de autoaprendizaje",
+      "category": "Costa Rica",
+      "bullets_20s": "• La inauguración de esta aula representa un avance importante en el sistema educativo del país.\n• Los recursos didácticos disponibles buscan facilitar el proceso de aprendizaje de los niños.\n• Estudiantes universitarios también podrán beneficiarse de estas instalaciones modernas y equipadas.\n• La iniciativa apoya la formación integral de los pacientes del hospital a través de tecnologías.\n• Se espera que esta aula motive a más niños a involucrarse en actividades educativas.",
+      "source_name": "Yeryis Salas",
+      "source_url": "https://www.nacion.com/el-pais/hace-50-anos-hospital-de-ninos-inaugura-moderna/APCLX2HOSJCX5EIZWYISN62KNM/story/",
+      "publish_date": "2026-05-23T13:30:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Aula moderna en el Hospital de Niños abre oportunidades de aprendizaje.",
+      "image_url": "https://www.nacion.com/resizer/v2/YGV2J3KYO5GXXF3KXNDMH6ZGHY.png?auth=8a232a828f2589ece70ce9e35d7305ab8e990f6a91b38a5284fc8d159a19143e&smart=true&width=2959&height=1991",
+      "description": "Funcionarios del hospital y estudiantes universitarios tendrán acceso a los recursos didácticos.",
+      "featured": false
+    },
+    {
       "slug": "corte-de-luz-afectara-este-sector-de-escazu-este-sabado",
       "title": "Corte de luz afectará este sector de Escazú este sábado",
       "category": "Costa Rica",
-      "bullets_20s": "• Este sábado, un corte de luz afectará a los residentes de San Rafael de Escazú.\n• La CNFL ha programado esta interrupción para relocalizar la postería en la zona.\n• Se recomienda a los ciudadanos planificar sus actividades debido al corte.\n• El horario exacto de la interrupción se comunicará a los afectados.\n• Este tipo de cortes es necesario para mejorar el servicio eléctrico en el área.",
+      "bullets_20s": "• La Compañía Nacional de Fuerza y Luz anunció corte de luz en Escazú este sábado.\n• La razón del corte es la relocalización de la postería en la zona.\n• Los residentes recibirán una notificación sobre el horario del corte programado.\n• Es importante que los vecinos tomen precauciones ante esta interrupción.\n• Los detalles precisos sobre la zona afectada se informarán por medio oficial.",
       "source_name": "Silvia Ureña Corrales",
       "source_url": "https://www.nacion.com/el-pais/corte-de-luz-afectara-este-sector-de-escazu-este/C4EVFLM5IZH2FCPAWI6ZWMICNY/story/",
       "publish_date": "2026-05-23T13:24:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Corte de luz en Escazú afectará a la comunidad este sábado.",
+      "teaser": "Lo clave en 20 segundos: corte de luz en Escazú para relocalización de postería.",
       "image_url": "https://www.nacion.com/resizer/v2/FJPPVY6YZVAQNNACH2RONMWKVE.png?auth=d4d8808de4b376f186a2fb436df1531264152802abae021632021e06e84231ba&smart=true&width=1920&height=1080",
       "description": "CNFL programó un corte de luz en San Rafael de Escazú este sábado 23 de mayo por relocalización de postería. Conozca horario y zona afectada.",
       "featured": false
@@ -30,11 +69,11 @@
       "slug": "pln-y-fa-gestionan-cambios-de-sus-diputados-en-comisiones-luego-de-asignacion-arbitraria-de-yara-jimenez",
       "title": "PLN y FA gestionan cambios de sus diputados en comisiones, luego de asignación ‘arbitraria’ de Yara Jiménez",
       "category": "Costa Rica",
-      "bullets_20s": "• La asignación de comisiones a los diputados generó controversia en el parlamento costarricense.\n• Los partidos PLN y FA quieren mejorar la eficiencia mediante ajustes en sus representantes.\n• Existen críticas hacia la gestión reciente de asignaciones de comisiones legislativas.\n• Los cambios buscan optimizar la participación de los congresistas en su labor diaria.\n• La experiencia de los diputados jugará un papel clave en los nuevos ajustes propuestos.",
+      "bullets_20s": "• Los partidos PLN y FA han presentado múltiples ajustes a la asignación de diputados en comisiones.\n• Las permutas buscan optimizar la experiencia de los diputados en temas específicos.\n• Yara Jiménez ha sido mencionada por la asignación controvertida de comisiones.\n• El proceso Legislativode cambia la dinámica de trabajo en las comisiones parlamentarias.\n• Los cambios se realizan en un contexto político complejo y altamente competido.",
       "source_name": "Aarón Sequeira",
       "source_url": "https://www.nacion.com/politica/pln-y-fa-gestionan-cambios-de-sus-diputados-en/YDYPOSSOWJG6LMC3T5Z7CIHGZE/story/",
       "publish_date": "2026-05-23T13:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: PLN y FA buscan optimizar diputados en comisiones tras controversia.",
+      "teaser": "Lo clave en 20 segundos: Cambios de diputados en comisiones buscan mayor eficiencia legislativa.",
       "image_url": "https://www.nacion.com/resizer/v2/XIVW2QKN7RFQ5NW7E7HGV2LLCM.jpeg?auth=98379a505978d3915dbd74e9e623092f1e7187a023fb30a318a13701cf40d405&smart=true&width=2400&height=1600",
       "description": "Liberación y Frente Amplio presentaron 23 permutas de sus congresistas, para ajustar la experiencia según la comisión.",
       "featured": false
@@ -121,11 +160,11 @@
       "slug": "como-la-familia-andic-construyo-el-imperio-de-la-moda-mango-y-que-poder-tiene-jonathan-el-heredero-acusado-de-la-muerte-",
       "title": "Cómo la familia Andic construyó el imperio de la moda Mango y qué poder tiene Jonathan, el heredero acusado de la muerte de su padre",
       "category": "Mundo",
-      "bullets_20s": "• El fundador, Isak Andic, comenzó en el negocio de la moda desde una perspectiva muy humilde.\n• La familia Andic ha crecido en influencia y poder dentro del sector de la moda global.\n• Jonathan Andic, el actual heredero, enfrenta controversias sobre su legado y liderazgo.\n• Mango se ha expandido a nivel internacional, siendo una marca reconocida en todo el mundo.\n• Las decisiones del sistema familiar han influido en la dirección de la marca a través de los años.",
+      "bullets_20s": "• La familia Andic transformó el mercado de la moda en Europa desde la década de 1980.\n• Isak Andic comenzó su carrera con camisas bordadas que traía de Turquía.\n• Mango se ha convertido en una marca global reconocida, presente en múltiples países.\n• La historia de la familia está marcada por éxitos y controversias en el mundo empresarial.\n• Jonathan Andic, el heredero, enfrenta acusaciones serias sobre la muerte de su padre.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cjepny159jjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-23T11:28:25.000Z",
-      "teaser": "Lo clave en 20 segundos: El ascenso y desafíos de la familia Andic en la industria de la moda.",
+      "teaser": "Lo clave en 20 segundos: Conoce el impacto de la familia Andic en la moda y los desafíos de su heredero.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/82bc/live/570c4ee0-55fc-11f1-9773-43c89bcb1e91.jpg",
       "description": "Isak Andic empezó vendiendo camisas bordadas que importaba de Turquía, pero su olfato para los negocios le llevó a montar uno de los mayores imperios de la moda.",
       "featured": false
@@ -173,11 +212,11 @@
       "slug": "nervios-de-acero-tammie-jo-shults-la-piloto-de-combate-que-salvo-la-vida-de-148-pasajeros",
       "title": "Nervios de acero: Tammie Jo Shults, la piloto de combate que salvó la vida de 148 pasajeros",
       "category": "Mundo",
-      "bullets_20s": "• Tammie Jo Shults es una piloto de combate estadounidense que enfrentó grandes desafíos en su carrera.\n• Shults logró llevar a salvo a 148 pasajeros en un vuelo que enfrentó una situación crítica.\n• Su experiencia militar fue fundamental para manejar la crisis en el aire y asegurar la seguridad.\n• La historia de Shults resalta la importancia de la preparación y el control en situaciones difíciles.\n• Su trayectoria inspira a muchas mujeres a buscar carreras en campos tradicionalmente masculinos.",
+      "bullets_20s": "• Tammie Jo Shults es una destacada piloto de combate que ha enfrentado grandes desafíos en su carrera.\n• Superó numerosas barreras de género para poder ser piloto en un campo dominado por hombres.\n• Logró evitar una tragedia aérea, salvando la vida de 148 pasajeros en un vuelo complicado.\n• Su historia de esfuerzo y valentía inspira a muchas mujeres a seguir carreras en la aviación.\n• El relato de sus hazañas se ha convertido en un ejemplo del empoderamiento femenino en la aviación.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cevpngvm4jeo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-23T10:35:47.000Z",
-      "teaser": "Lo clave en 20 segundos: la valiente acción de una piloto salvó 148 vidas en vuelo crítico.",
+      "teaser": "Lo clave en 20 segundos: Tammie Jo Shults salvó a 148 pasajeros mostrando gran valentía y habilidades de pilotaje.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/0456/live/9f64c560-37f6-11f1-a445-59df4d41808f.jpg",
       "description": "La carrera de obstáculos que la estadounidense Tammie Jo Shults superó para sentarse en la cabina de mando de un avión caza la ayudó a evitar una tragedia aérea.",
       "featured": false
@@ -186,11 +225,11 @@
       "slug": "como-es-el-jardin-de-los-venenos-que-alberga-mas-de-100-plantas-toxicas-incluida-la-mas-venenosa-del-mundo",
       "title": "Cómo es el Jardín de los Venenos, que alberga más de 100 plantas tóxicas (incluida la más venenosa del mundo)",
       "category": "Mundo",
-      "bullets_20s": "• El Jardín de los Venenos cuenta con más de 100 especies de plantas altamente tóxicas y peligrosas.\n• Los visitantes pueden aprender sobre las propiedades de cada planta en un entorno controlado.\n• El jardín está diseñado para educar sobre los efectos de las plantas venenosas en la salud humana.\n• Cada planta tiene advertencias específicas sobre su toxicidad y posibles riesgos a la salud.\n• La más venenosa del mundo se encuentra en este jardín, atrayendo a curiosos y botánicos por igual.",
+      "bullets_20s": "• El Jardín de los Venenos cuenta con más de 100 especies de plantas peligrosas al ser tocadas o ingeridas.\n• Entre las plantas, se encuentra la más venenosa del mundo, conocida por sus efectos mortales.\n• Este jardín tiene como objetivo educar al público sobre la toxicidad de ciertas plantas comunes.\n• Los visitantes deben seguir estrictas normas de seguridad al recorrer este inusual lugar.\n• Las plantas del jardín son utilizadas en investigaciones científicas sobre sus propiedades toxicológicas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c98r3jle31no?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-23T09:32:05.000Z",
-      "teaser": "Lo clave en 20 segundos: Un jardín único que enseña sobre plantas venenosas y sus efectos mortales.",
+      "teaser": "Lo clave en 20 segundos: Un jardín con plantas mortales abierto al público se convierte en una atracción educativa.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cf7f/live/9795a740-48af-11f1-b55d-0f258dce1735.jpg",
       "description": "Estas plantas pueden matar advierten en la puerta de un jardín repleto de plantas tóxicas, intoxicantes y narcóticas... que está abierto al público.",
       "featured": false
@@ -251,11 +290,11 @@
       "slug": "vendi-a-mi-hija-de-5-anos-para-que-recibiera-tratamiento-medico-las-familias-que-se-enfrentan-a-decisiones-imposibles-en",
       "title": "Vendí a mi hija de 5 años para que recibiera tratamiento médico: las familias que se enfrentan a decisiones imposibles en Afganistán",
       "category": "Mundo",
-      "bullets_20s": "• Las familias enfrentan decisiones desgarradoras debido a la crisis humanitaria en Afganistán.\n• La pobreza extrema ha aumentado, afectando a millones de personas diariamente.\n• Tres de cada cuatro personas luchan por satisfacer necesidades básicas como alimentos.\n• La situación en Afganistán ha derivado en un colapso de los sistemas de salud.\n• Las madres se ven obligadas a tomar decisiones difíciles por el bienestar de sus hijos.",
+      "bullets_20s": "• Las familias en Afganistán enfrentan decisiones difíciles y desgarradoras por la crisis humanitaria.\n• El acceso a servicios de salud se ha vuelto crítico en este país devastado por conflictos.\n• La pobreza extrema afecta a millones, generando situaciones desesperadas en la población.\n• Mujeres y niños son quienes más sufren las consecuencias de esta crisis humanitaria.\n• Las organizaciones internacionales luchan por proporcionar ayuda en medio de condiciones extremas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cn4p2z14pewo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-23T04:00:41.000Z",
-      "teaser": "Lo clave en 20 segundos: decisiones imposibles ante la crisis humanitaria en Afganistán.",
+      "teaser": "Lo clave en 20 segundos: familias en Afganistán toman decisiones imposibles para sobrevivir ante la crisis.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/76e2/live/d082b8f0-52cc-11f1-b4b8-8bc40cabb834.jpg",
       "description": "En Afganistán, actualmente, tres de cada cuatro personas no pueden satisfacer sus necesidades básicas.",
       "featured": false
@@ -472,11 +511,11 @@
       "slug": "los-buceadores-italianos-que-murieron-en-maldivas-carecian-de-equipos-adecuados-segun-un-rescatista",
       "title": "Los buceadores italianos que murieron en Maldivas carecían de equipos adecuados, según un rescatista",
       "category": "Mundo",
-      "bullets_20s": "• La tragedia de los buceadores ha suscitado mucha atención internacional en las redes sociales.\n• Equipos de rescate enfrentaron serias dificultades debido a la falta de equipamiento adecuado.\n• Las imágenes de la cueva iluminan los peligros del buceo en condiciones desfavorables.\n• Expertos recomiendan siempre contar con el equipo adecuado para evitar accidentes trágicos.\n• Las circunstancias de este suceso están siendo investigadas por las autoridades pertinentes.",
+      "bullets_20s": "• Los buceadores enfrentaron condiciones adversas en su última inmersión en Maldivas.\n• Los rescatistas encontraron gran dificultad para recuperar los cuerpos en la cueva.\n• Se reporta que los buceadores no contaban con el equipo necesario para la inmersión.\n• Las condiciones de seguridad para el buceo en esa área fueron cuestionadas.\n• Las imágenes del rescate han generado preocupación sobre la seguridad en actividades acuáticas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdrp22kl57mo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-22T21:44:52.000Z",
-      "teaser": "Lo clave en 20 segundos: La falta de equipo adecuado en el buceo puede ser mortal.",
+      "teaser": "Lo clave en 20 segundos: Buceadores italianos sin equipo adecuado murieron en Maldivas según un rescatista.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e7d9/live/2625d450-5628-11f1-8b8c-6d33e1d5abb6.jpg",
       "description": "Las imágenes de una cueva donde se encontraron los buceadores italianos revelan las dificultades que tuvieron los equipos de rescate para recuperar sus cuerpos.",
       "featured": false
@@ -692,12 +731,12 @@
     {
       "slug": "webinar-eico-ensayos-no-destructivos-utilizados-en-obras-civiles",
       "title": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
-      "category": "Ciencia",
-      "bullets_20s": "• Aprenderás sobre técnicas modernas de evaluación en obras civiles y edificaciones.\n• El webinar es impartido por el ingeniero Luis Carlos Calvo Navarro con amplia experiencia.\n• Se abordarán métodos para detectar fallas sin afectar la integridad de las estructuras.\n• Dirigido a estudiantes y profesionales del área de la construcción y la ingeniería civil.\n• Inscripción gratuita mediante un formulario disponible en el enlace proporcionado.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC organiza un webinar sobre ensayos no destructivos aplicados en obras civiles.\n• Expertos compartirán técnicas modernas para diagnóstico en construcciones sin causar daños.\n• La actividad está dirigida a estudiantes y profesionales del sector de la construcción.\n• Los asistentes podrán conocer sobre inspecciones y análisis de estructuras civiles.\n• El evento es gratuito y se realizará de forma virtual, con inscripción previa.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/webinar-eico-ensayos-no-destructivos-utilizados-obras-civiles",
       "publish_date": "2026-05-22T18:04:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Un webinar gratuito sobre ensayos no destructivos en construcción.",
+      "teaser": "Lo clave en 20 segundos: Un webinar sobre tecnologías en ensayos no destructivos en construcción.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/image_4.png",
       "description": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "featured": false
@@ -1145,6 +1184,19 @@
       "featured": false
     },
     {
+      "slug": "tec-lleva-a-brasil-la-innovadora-plataforma-que-crea-y-valida-lenguas-de-senas",
+      "title": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
+      "category": "Tecnología",
+      "bullets_20s": "• PIELS permite que avatares digitales representen palabras mediante lengua de señas de una manera innovadora.\n• El TEC mostró su desarrollo en una Librasthon en Brasil enfocado en accesibilidad y nuevas señas.\n• Investigadores y estudiantes colaboraron para validar y mejorar la lengua de señas brasileña desde Costa Rica.\n• La plataforma busca facilitar la comunicación para personas sordas utilizando modelos lingüísticos adaptados.\n• El trabajo del TEC es un referente en herramientas tecnológicas accesibles en Costa Rica y la región.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/tec-lleva-brasil-innovadora-plataforma-crea-valida-lenguas-senas",
+      "publish_date": "2026-05-22T03:29:38.000Z",
+      "teaser": "Lo clave en 20 segundos: TEC presenta su plataforma innovadora de lengua de señas en Brasil.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/piels.png",
+      "description": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
+      "featured": false
+    },
+    {
       "slug": "cortes-de-luz-del-ice-afectaran-sectores-de-turrialba-este-viernes-22-de-mayo",
       "title": "Cortes de luz del ICE afectarán sectores de Turrialba este viernes 22 de mayo",
       "category": "Costa Rica",
@@ -1298,19 +1350,6 @@
       "teaser": "Lo clave en 20 segundos: Keylor Navas podría ser fundamental en el triunfo de Pumas.",
       "image_url": "https://www.nacion.com/resizer/v2/HLPWW75DPNATHNHR3HYGQTACTY.jpeg?auth=d06d9739b17fa2d0e2f476a3a7a2d0b06836f8d22fea97f5df46d6048d5dc49d&smart=true&width=1280&height=960",
       "description": "Exfigura de Pumas y Cruz Azul dio su opinión sobre la final de la Liga MX.",
-      "featured": false
-    },
-    {
-      "slug": "tec-lleva-a-brasil-la-innovadora-plataforma-que-crea-y-valida-lenguas-de-senas",
-      "title": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
-      "category": "Ciencia",
-      "bullets_20s": "• La plataforma PIELS facilita la comunicación para personas sordas mediante avatares digitales que ejecutan lengua de señas.\n• Estudiantes del TEC presentaron avances tecnológicos que mejoran la accesibilidad digital en la Librasthon de Brasil.\n• Investigadores y personas sordas colaboraron en sesiones de validación lingüística y tecnológica durante el evento.\n• PIELS incorpora aspectos gramaticales y expresivos de la lengua de señas para una comunicación más natural.\n• El Tecnológico de Costa Rica se posiciona como líder en el desarrollo de tecnología accesible para diversas discapacidades.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/tec-lleva-brasil-innovadora-plataforma-crea-valida-lenguas-senas",
-      "publish_date": "2026-05-22T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC presenta su innovadora plataforma de lengua de señas en Brasil.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/piels.png",
-      "description": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
       "featured": false
     },
     {
@@ -1691,27 +1730,14 @@
       "featured": false
     },
     {
-      "slug": "cientificos-estudian-la-corteza-terrestre-y-descubren-que-la-peninsula-iberica-podria-girar-en-sentido-horario",
-      "title": "Científicos estudian la corteza terrestre y descubren que la península ibérica podría girar en sentido horario",
-      "category": "Ciencia",
-      "bullets_20s": "• Científicos analizan las tensiones tectónicas en la corteza terrestre de la península ibérica.\n• La investigación sugiere que la península podría experimentar un giro en su posición.\n• Las tensiones se originan por la interacción entre las placas de África y Eurasia.\n• Los hallazgos podrían tener implicaciones en la geología de la región.\n• Se estudian los efectos de este giro en el ecosistema local y global.\n• El estudio destaca la importancia de la investigación tectónica en la ciencia moderna.\n• Se prevé que los resultados se discutan en conferencias internacionales de geología.\n• Los científicos continúan monitoreando actividades tectónicas en tiempo real.",
-      "source_name": "Jailine González Gómez",
-      "source_url": "https://www.nacion.com/ciencia/cientificos-estudian-la-corteza-terrestre-y/WXMMBRZS5ZBFJGTHWKOQQSVF64/story/",
-      "publish_date": "2026-05-21T17:15:45.000Z",
-      "teaser": "Lo clave en 20 segundos: La península ibérica podría girar lentamente por tensiones tectónicas.",
-      "image_url": "https://www.nacion.com/resizer/v2/QFTSRIBU5JBJXMFBJYDDST4NLI.jpg?auth=739f47efe09441a891b3234f4994cffb284e7db1f3aa47bac5fa62bc46a34ed6&smart=true&width=1440&height=960",
-      "description": "Un estudio encontró señales de que la península ibérica podría rotar lentamente por las tensiones tectónicas entre África y Eurasia.",
-      "featured": false
-    },
-    {
       "slug": "consejo-institucional-honra-la-trayectoria-y-contribucion-de-exrectores-del-tec",
       "title": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• Se develaron fotografías de los exrectores Julio Calvo, Luis Méndez y Jorge Chaves en su homenaje.\n• Este acto destaca la importancia del liderazgo educativo en el desarrollo del TEC y su historia.\n• Los exrectores fueron reconocidos por su compromiso y aportes a la institución durante sus gestiones.\n• Randall Blanco reafirma el impacto positivo en la educación superior pública durante sus mandatos.\n• Este evento se realizó en el marco del 55 aniversario del Tecnológico de Costa Rica.",
+      "bullets_20s": "• El Consejo Institucional honra a exrectores con develación de sus fotografías en ceremonia especial.\n• Las fotografías de los exrectores son un reconocimiento a su trayectoria en el TEC.\n• La ceremonia destacó aportes importantes en áreas como infraestructura y acreditación.\n• El TEC celebra 55 años, recordando el liderazgo de los exrectores entre 2011-2023.\n• Cada exrector dejó un legado significativo en la educación superior pública del país.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/consejo-institucional-honra-trayectoria-contribucion-exrectores-tec",
       "publish_date": "2026-05-21T17:02:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Homenaje a exrectores del TEC resalta su impacto en la educación superior.",
+      "teaser": "Lo clave en 20 segundos: Consejo Institucional rinde homenaje a exrectores del TEC en emotiva ceremonia.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/rectores-1.png",
       "description": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "featured": false
@@ -24506,5 +24532,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-23T13:45:21.123Z"
+  "generated_at": "2026-05-23T14:45:20.255Z"
 }
