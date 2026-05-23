@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "juzgado-impone-medidas-cautelares-a-seis-implicados-por-caso-de-hogar-de-ancianos-allanado-en-cartago",
+      "title": "Juzgado impone medidas cautelares a seis implicados por caso de hogar de ancianos allanado en Cartago",
+      "category": "Costa Rica",
+      "bullets_20s": "• El juzgado tomó decisiones para garantizar la investigación del caso en el hogar de ancianos.\n• Las medidas cautelares se implementan mientras continúan las investigaciones pertinentes.\n• El caso ha llamado la atención por su impacto en la comunidad local en Cartago.\n• Representantes de la comunidad expresan rechazo ante los hechos ocurridos en la institución.\n• El allanamiento se realizó como parte de una investigación por denuncias de maltrato.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/juzgado-impone-medidas-cautelares-a-seis/FH2TKZRXSNEY3ELGOZW52PNZ4E/story/",
+      "publish_date": "2026-05-23T05:05:39.000Z",
+      "teaser": "Lo clave en 20 segundos: seis implicados bajo medidas cautelares por caso en hogar de ancianos.",
+      "image_url": "https://www.nacion.com/resizer/v2/WHJDDNFLNFCMJD3IV4CHFKCWI4.jpg?auth=c222eca330926431b1538327b2074524e3a69889517402360fcfdfe0bbf40e78&smart=true&width=1599&height=1066",
+      "description": "Seis personas quedaron bajo medidas cautelares tras allanamientos en un hogar de ancianos en Cartago, ordenó el Juzgado Penal.",
+      "featured": false
+    },
+    {
       "slug": "infeccion-por-bacteria-obliga-a-cierre-temporal-de-unidad-de-quemados-del-hospital-san-juan-de-dios",
       "title": "Infección por bacteria obliga a cierre temporal de Unidad de Quemados del Hospital San Juan de Dios",
       "category": "Costa Rica",
-      "bullets_20s": "• La unidad de quemados del Hospital San Juan de Dios cerró por motivos de salud pública.\n• El cierre es temporal mientras se controla el brote bacteriano detectado en el hospital.\n• Las autoridades de salud están evaluando el impacto del brote en los pacientes.\n• Se implementarán medidas de limpieza y desinfección exhaustivas en la unidad afectada.\n• Los pacientes serán trasladados a otras instalaciones mientras dure el cierre.\n• Este tipo de infecciones nosocomiales son un reto constante para hospitales.\n• La situación se monitorea para garantizar la seguridad de todos los pacientes.",
+      "bullets_20s": "• La Unidad de Quemados del Hospital San Juan de Dios cerró debido a una infección bacteriana.\n• Las autoridades tomaron decisiones para garantizar la seguridad de los pacientes y del personal.\n• Este cierre temporal busca controlar el brote y prevenir más contagios entre los pacientes.\n• Se están realizando labores de desinfección y control dentro de la unidad afectada.\n• El hospital anunció que se informará sobre la reapertura en cuanto sea posible.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/sucesos/infeccion-por-bacteria-obliga-a-cierre-temporal-de/4XFIN3AEDFGYBFNDRIDTQ47STU/story/",
       "publish_date": "2026-05-23T04:57:49.000Z",
-      "teaser": "Lo clave en 20 segundos: cierre temporal de la Unidad de Quemados por infección bacteriana.",
+      "teaser": "Lo clave en 20 segundos: Cierre temporal por brote bacteriano en unidad de quemados del Hospital San Juan.",
       "image_url": "https://www.nacion.com/resizer/v2/EMIEEDW6LZE3BKFAT2UT2AZZPE.jfif?auth=47006147f72a6d847baa5ccebce8c3ac0c225f440a9a1174b7d8695b86d77fa7&smart=true&width=1280&height=722",
       "description": "Brote bacteriano obliga a cerrar temporalmente unidad de quemados del San Juan de Dios.",
       "featured": false
@@ -89,19 +102,6 @@
       "teaser": "Lo clave en 20 segundos: El Pérez Zeledón enfrenta luto tras la pérdida de dos integrantes del club.",
       "image_url": "https://www.nacion.com/resizer/v2/JX3O5MG355EBLPXVXT74SNVG2I.jpg?auth=a5ae9a0a3a1bfbad5d92594ac8d66b92c8169cc71577b45cdaa9ae5196eb146f&smart=true&width=5600&height=3737",
       "description": "El Municipal Pérez Zeledón publicó una nota luctuosa este viernes por la noche.",
-      "featured": false
-    },
-    {
-      "slug": "juzgado-impone-medidas-cautelares-a-seis-implicados-por-caso-de-hogar-de-ancianos-allanado-en-cartago",
-      "title": "Juzgado impone medidas cautelares a seis implicados por caso de hogar de ancianos allanado en Cartago",
-      "category": "Costa Rica",
-      "bullets_20s": "• El Juzgado Penal de Cartago tomó la decisión de imponer medidas cautelares.\n• Seis personas están implicadas en el caso del hogar de ancianos allanado.\n• Esta acción se deriva de una investigación en curso sobre supuestos abusos.\n• Los allanamientos fueron realizados hace poco tiempo en las instalaciones.\n• La protección de los ancianos es un tema crítico en la sociedad costarricense.",
-      "source_name": "Sebastián Sánchez",
-      "source_url": "https://www.nacion.com/sucesos/juzgado-impone-medidas-cautelares-a-seis/FH2TKZRXSNEY3ELGOZW52PNZ4E/story/",
-      "publish_date": "2026-05-23T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Juzgado de Cartago impone medidas cautelares a seis implicados en caso de hogar de ancianos.",
-      "image_url": "https://www.nacion.com/resizer/v2/WHJDDNFLNFCMJD3IV4CHFKCWI4.jpg?auth=c222eca330926431b1538327b2074524e3a69889517402360fcfdfe0bbf40e78&smart=true&width=1599&height=1066",
-      "description": "Seis personas quedaron bajo medidas cautelares tras allanamientos en un hogar de ancianos en Cartago, ordenó el Juzgado Penal.",
       "featured": false
     },
     {
@@ -251,11 +251,11 @@
       "slug": "los-buceadores-italianos-que-murieron-en-maldivas-carecian-de-equipos-adecuados-segun-un-rescatista",
       "title": "Los buceadores italianos que murieron en Maldivas carecían de equipos adecuados, según un rescatista",
       "category": "Mundo",
-      "bullets_20s": "• Los buceadores italianos se enfrentaron a condiciones difíciles en su expedición en Maldivas.\n• La falta de equipos adecuados complicó la operación de rescate en la cueva.\n• Los equipos de rescate encontraron serias dificultades al intentar recuperar los cuerpos.\n• Expertos destacan la importancia de equipos de seguridad en actividades de buceo.\n• Múltiples factores influyeron en el trágico desenlace de esta expedición de buceo.",
-      "source_name": "",
+      "bullets_20s": "• Los buceadores italianos tuvieron un accidente trágico en Maldivas mientras exploraban una cueva submarina.\n• Un rescatista ha informado que los buceadores carecían de equipos adecuados para la actividad peligrosa.\n• Las condiciones del lugar dificultaron el esfuerzo de los equipos de rescate para recuperar a los buceadores.\n• Las imágenes de la cueva muestran la complejidad del rescate llevado a cabo por las autoridades locales.\n• La comunidad internacional sigue con atención los detalles sobre el incidente que cobró vidas.",
+      "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdrp22kl57mo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-22T21:44:52.000Z",
-      "teaser": "Lo clave en 20 segundos: La falta de equipos adecuados complicó el rescate de buceadores italianos en Maldivas.",
+      "teaser": "Lo clave en 20 segundos: Accidente trágico con buceadores italianos en Maldivas por falta de equipamiento adecuado.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e7d9/live/2625d450-5628-11f1-8b8c-6d33e1d5abb6.jpg",
       "description": "Las imágenes de una cueva donde se encontraron los buceadores italianos revelan las dificultades que tuvieron los equipos de rescate para recuperar sus cuerpos.",
       "featured": false
@@ -264,11 +264,11 @@
       "slug": "el-gobierno-de-trump-exigira-a-la-mayoria-de-los-inmigrantes-que-solicitan-la-residencia-que-abandonen-primero-eeuu",
       "title": "El gobierno de Trump exigirá a la mayoría de los inmigrantes que solicitan la residencia que abandonen primero EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• La nueva política afecta principalmente a quienes buscan obtener residencia en Estados Unidos.\n• Se espera que el cambio genere confusión y dificultades para muchos inmigrantes.\n• Las nuevas reglas obligan a retornar a los solicitantes a su país antes de aplicar.\n• Esta medida puede impactar negativamente el estatus de miles de personas en EE.UU.\n• Los funcionarios argumentan que buscan un proceso migratorio más ordenado y seguro.",
+      "bullets_20s": "• Las nuevas políticas impactarán a miles de inmigrantes en Estados Unidos y sus familias.\n• Los solicitantes de residencias deberán regresar a sus países antes de aplicar.\n• Esta medida busca controlar el flujo migratorio hacia EE.UU., generando controversia.\n• Críticas han surgido sobre el impacto de estas políticas en la comunidad inmigrante.\n• Las autoridades migratorias argumentan que es necesario para reforzar la seguridad nacional.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpvp87v20p4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-22T21:28:07.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevas exigencias migratorias de EE.UU. para solicitantes de residencia.",
+      "teaser": "Lo clave en 20 segundos: Nuevas exigencias para inmigrantes en EE.UU. impactan solicitudes de residencia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9146/live/3f6187c0-561e-11f1-ac06-bb88c895e68b.jpg",
       "description": "Las autoridades migratorias de EE.UU. anunciaron una nueva política que exige a la mayoría de los solicitantes de green cards que lo hagan desde su país de origen, lo cual impactaría a miles de personas con estatus regular.",
       "featured": false
@@ -329,11 +329,11 @@
       "slug": "el-director-ejecutivo-de-un-banco-pide-disculpas-tras-describir-a-sus-trabajadores-como-capital-humano-de-menor-valor",
       "title": "El director ejecutivo de un banco pide disculpas tras describir a sus trabajadores como 'capital humano de menor valor'",
       "category": "Mundo",
-      "bullets_20s": "• Un director de banco se ve obligado a disculparse por sus controvertidas declaraciones.\n• Describió a los empleados como 'capital humano de menor valor', generando críticas.\n• El banco Standard Chartered enfrenta una reputación dañada por estas afirmaciones.\n• La gerencia asegura que apoyará a los trabajadores ante los cambios que vienen.\n• Las disculpas buscan restaurar la confianza entre los empleados y la directiva.",
+      "bullets_20s": "• El director ejecutivo pidió disculpas por comentarios despectivos sobre sus empleados en una reciente declaración.\n• Afirmó que su intención no era desmerecer el valor de su capital humano en la empresa.\n• Prometió apoyar a sus colegas en la adaptación a los cambios dentro del banco.\n• El incidente generó un debate sobre la cultura laboral y el respeto en el trabajo.\n• Se espera que las disculpas mejoren el ambiente laboral y relaciones internas en la organización.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c7v9jmqn2p8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-22T20:31:35.000Z",
-      "teaser": "Lo clave en 20 segundos: El director de un banco se disculpa tras controversiales comentarios sobre empleados.",
+      "teaser": "Lo clave en 20 segundos: un banco se enfrenta a una crisis de comunicación tras declaraciones desafortunadas de su director.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/bd91/live/33fe7860-560b-11f1-a198-53e60cb35f25.jpg",
       "description": "El director de Standard Chartered afirmó que valora a todos sus colegas y se compromete a ayudarlos a afrontar los cambios.",
       "featured": false
@@ -471,12 +471,12 @@
     {
       "slug": "webinar-eico-ensayos-no-destructivos-utilizados-en-obras-civiles",
       "title": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
-      "category": "Ciencia",
-      "bullets_20s": "• El Tecnológico de Costa Rica ofrece un webinar sobre ensayos no destructivos en construcción.\n• La sesión virtual se dirige a estudiantes y profesionales en el campo de la construcción.\n• Técnicas modernas se discutirán para evaluar infraestructuras sin dañarlas.\n• El ingeniero Luis Carlos Calvo será el ponente principal del webinar.\n• Interesados pueden inscribirse en línea para participar en esta actividad gratuita.",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Escuela de Ingeniería del TEC organiza un webinar sobre ensayos no destructivos en construcción.\n• Este evento está orientado a profesionales y estudiantes en el ámbito de la construcción e ingeniería.\n• Luis Carlos Calvo Navarro compartirá técnicas de evaluación en infraestructuras sin afectar su integridad.\n• Inscripción gratuita, dirigido a personas interesadas en tecnologías y diagnósticos en obras civiles.\n• Este webinar es parte de un ciclo académico del TEC para promover la actualización profesional.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/webinar-eico-ensayos-no-destructivos-utilizados-obras-civiles",
       "publish_date": "2026-05-22T18:04:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Aprende sobre ensayos no destructivos en construcción.",
+      "teaser": "Lo clave en 20 segundos: Webinar sobre técnicas de evaluación en obras civiles sin afectarlas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/image_4.png",
       "description": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "featured": false
@@ -927,11 +927,11 @@
       "slug": "tec-lleva-a-brasil-la-innovadora-plataforma-que-crea-y-valida-lenguas-de-senas",
       "title": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
       "category": "Costa Rica",
-      "bullets_20s": "• La plataforma PIELS facilita la comunicación para personas sordas mediante avatares digitales que ejecutan señas.\n• Investigadores y estudiantes del TEC presentaron tecnologías que fortalecen la accesibilidad digital en el evento.\n• La iniciativa reunió a especialistas en lengua de señas y tecnologías inclusivas de distintas partes del mundo.\n• En Brasil, se validaron nuevas señas lingüísticas a través de tecnologías desarrolladas por el Tecnológico de Costa Rica.\n• La participación del TEC refuerza su posición como referente en tecnologías inclusivas a nivel regional.",
+      "bullets_20s": "• La plataforma PIELS permite representar conceptos mediante avatares digitales en lengua de señas.\n• Investigadores y estudiantes del TEC participaron en una Librasthon en São Paulo, Brasil.\n• El evento promovió inclusividad mediante la validación de nuevas señas tecnológicas.\n• IncluTEC ha posicionado al TEC como referente en tecnologías accesibles y lenguas de señas.\n• El simposio académico permitió a estudiantes compartir avances en accesibilidad digital.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/tec-lleva-brasil-innovadora-plataforma-crea-valida-lenguas-senas",
       "publish_date": "2026-05-22T03:29:38.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC presenta plataforma innovadora en Brasil para mejorar la comunicación de personas sordas.",
+      "teaser": "Lo clave en 20 segundos: TEC presenta plataforma innovadora para lenguas de señas en Brasil.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/piels.png",
       "description": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
       "featured": false
@@ -1486,11 +1486,11 @@
       "slug": "consejo-institucional-honra-la-trayectoria-y-contribucion-de-exrectores-del-tec",
       "title": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El Consejo Institucional rindió homenaje a exrectores con develación de fotografías en una ceremonia solemne.\n• Los exrectores homenajearon, representan un periodo clave en la historia del TEC entre 2011-2023.\n• Se reconoció la trayectoria y los logros alcanzados durante sus gestiones, marcando el rumbo del TEC.\n• Las principales áreas de avance incluyen infraestructura, acreditación académica y vinculación con el sector productivo.\n• La ingeniera María Estrada destacó la importancia del compromiso y la colaboración en su gestión.",
+      "bullets_20s": "• El Consejo Institucional de TEC honra a exrectores en un acto significativo y solemne.\n• Se develaron las fotografías de tres exrectores que marcaron la historia del TEC.\n• El evento destaca las contribuciones en áreas como infraestructura y acreditación.\n• Las gestiones de los exrectores han fortalecido la educación superior en el país.\n• La ceremonia contó con la presencia de autoridades y familiares de los homenajeados.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/consejo-institucional-honra-trayectoria-contribucion-exrectores-tec",
       "publish_date": "2026-05-21T17:02:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Homenaje a exrectores del TEC por su contribución en la educación superior.",
+      "teaser": "Lo clave en 20 segundos: El TEC rinde homenaje a sus exrectores con develación de fotografías.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/rectores-1.png",
       "description": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "featured": false
@@ -24285,5 +24285,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-23T06:45:20.844Z"
+  "generated_at": "2026-05-23T07:45:19.600Z"
 }
