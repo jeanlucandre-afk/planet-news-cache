@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "vendi-a-mi-hija-de-5-anos-para-que-recibiera-tratamiento-medico-las-familias-que-se-enfrentan-a-decisiones-imposibles-en",
+      "title": "Vendí a mi hija de 5 años para que recibiera tratamiento médico: las familias que se enfrentan a decisiones imposibles en Afganistán",
+      "category": "Mundo",
+      "bullets_20s": "• Las familias en Afganistán enfrentan decisiones extremadamente difíciles por la crisis actual.\n• El acceso a tratamientos médicos se ha vuelto escaso y costoso para muchos.\n• Las condiciones de vida han empeorado, afectando a miles de personas diariamente.\n• Tres de cada cuatro afganos no logran cubrir sus necesidades fundamentales.\n• Las historias de sacrificio reflejan la dura realidad que viven los ciudadanos.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cn4p2z14pewo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-23T04:00:41.000Z",
+      "teaser": "Lo clave en 20 segundos: Familias en Afganistán enfrentan decisiones desgarradoras por falta de recursos.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/76e2/live/d082b8f0-52cc-11f1-b4b8-8bc40cabb834.jpg",
+      "description": "En Afganistán, actualmente, tres de cada cuatro personas no pueden satisfacer sus necesidades básicas.",
+      "featured": false
+    },
+    {
       "slug": "bomberos-atiende-derrame-de-300-litros-de-acido-nitrico-junto-a-gasolinera-en-puntarenas-video",
       "title": "Bomberos atiende derrame de 300 litros de ácido nítrico junto a gasolinera en Puntarenas (video)",
       "category": "Costa Rica",
-      "bullets_20s": "• Los bomberos fueron alertados del derrame y procedieron de inmediato a contener la situación.\n• El ácido nítrico es una sustancia peligrosa y su manejo debe ser cuidadoso y especializado.\n• Las autoridades han recomendado a los vecinos mantenerse alejados del área afectada.\n• Se están realizando pruebas para evaluar el impacto ambiental del derrame en la zona.\n• Los bomberos cuentan con el equipamiento adecuado para manejar este tipo de emergencias químicas.",
+      "bullets_20s": "• Un derrame de ácido nítrico se reportó en Puntarenas cerca de una gasolinera.\n• Bomberos de la región atendieron la emergencia con rapidez y eficiencia.\n• Se implementaron protocolos de seguridad y evacuación en la zona afectada.\n• El incidentes podría haber generado riesgos importantes para la salud pública.\n• Las autoridades investigan las causas del derrame y sus posibles consecuencias.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/sucesos/bomberos-atiende-derrame-de-300-litros-de-acido/RL4554CASVC2JABEKFDZNM4CJA/story/",
       "publish_date": "2026-05-23T03:11:35.000Z",
-      "teaser": "Lo clave en 20 segundos: bomberos actúan tras derrame de ácido nítrico en Puntarenas.",
+      "teaser": "Lo clave en 20 segundos: bomberos gestionan un peligroso derrame en Puntarenas.",
       "image_url": "https://www.nacion.com/resizer/v2/XVN4452AL5GNTD2TY5A3C6U6MU.jpeg?auth=1664b844feaba8fb926479a83bfb2907ad6e8fa9a14a9f0effa11e66ca33d21a&smart=true&width=1280&height=960",
       "description": "Bomberos atienden derrame de 300 litros de ácido nítrico en una gasolinera de El Roble, Puntarenas.",
       "featured": false
@@ -17,11 +30,11 @@
       "slug": "embajadora-de-costa-rica-ante-la-onu-dejara-cargo",
       "title": "Embajadora de Costa Rica ante la ONU dejará cargo",
       "category": "Costa Rica",
-      "bullets_20s": "• Maritza Chan ha sido una figura clave en la representación de Costa Rica ante la ONU.\n• Su salida refleja cambios dentro del cuerpo diplomático nacional en tiempos recientes.\n• Los embajadores juegan un rol crucial en la diplomacia internacional de Costa Rica.\n• La ONU es un organismo fundamental para abordar temas globales y de derechos humanos.\n• Se espera que su reemplazo continúe los esfuerzos diplomáticos de Costa Rica.",
+      "bullets_20s": "• Maritza Chan ha sido una figura clave en la diplomacia costarricense en la ONU.\n• Su salida coincide con cambios importantes en el cuerpo diplomático del país.\n• Chan representó los intereses de Costa Rica en importantes foros internacionales.\n• La embajada ha jugado un papel fundamental en las relaciones exteriores de Costa Rica.\n• Se anticipa que su partida generará un impacto en la política exterior nacional.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/el-pais/embajadora-de-costa-rica-ante-la-onu-dejara-cargo/RNN6WBI7OJHQDDVJD5QCSYEM3U/story/",
       "publish_date": "2026-05-23T03:09:26.000Z",
-      "teaser": "Lo clave en 20 segundos: la embajadora de Costa Rica ante la ONU deja su cargo en medio de cambios diplomáticos.",
+      "teaser": "Lo clave en 20 segundos: La embajadora ante la ONU deja su cargo en medio de cambios diplomáticos.",
       "image_url": "https://www.nacion.com/resizer/v2/RHS5KQL6X5DA3JOCWBEDLP562M.jpg?auth=0fd79dc9687763b778bf31cb2f58b1cfaae7af88b16868e2fb3afb5196df25f5&smart=true&width=1280&height=1175",
       "description": "La salida de Maritza Chan de la embajada ante la Organización de las Naciones Unidas, en Nueva York, se suma a otros movimientos recientes en el cuerpo diplomático.",
       "featured": false
@@ -212,11 +225,11 @@
       "slug": "los-buceadores-italianos-que-murieron-en-maldivas-carecian-de-equipos-adecuados-segun-un-rescatista",
       "title": "Los buceadores italianos que murieron en Maldivas carecían de equipos adecuados, según un rescatista",
       "category": "Mundo",
-      "bullets_20s": "• Los rescatistas enfrentaron grandes retos al intentar recuperar a los buceadores italianos en Maldivas.\n• Las condiciones de la cueva dificultaron las labores de rescate, complicando el acceso a las víctimas.\n• Fallas en el equipamiento provocaron situaciones de riesgo para los buceadores, según testimonios de rescatistas.\n• Las autoridades están investigando la causa principal detrás de la tragedia en las aguas maldivas.\n• El incidente ha suscitado un debate sobre la seguridad en actividades de buceo en el extranjero.",
+      "bullets_20s": "• Los buceadores enfrentaron condiciones adversas en una cueva en Maldivas durante su exploración.\n• Equipos de rescate encontraron dificultades significativas para acceder a los cuerpos de los buceadores.\n• La falta de equipos adecuados se menciona como un factor crítico en la tragedia.\n• Las imágenes de la cueva son un claro indicativo de los riesgos inherentes al buceo.\n• Este incidente resalta la importancia de la preparación y el equipo en actividades extremas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdrp22kl57mo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-22T21:44:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Rescatistas revelan que los buceadores italianos carecían de equipos adecuados en Maldivas.",
+      "teaser": "Lo clave en 20 segundos: buceadores italianos en Maldivas, fallas en equipos causan tragedia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e7d9/live/2625d450-5628-11f1-8b8c-6d33e1d5abb6.jpg",
       "description": "Las imágenes de una cueva donde se encontraron los buceadores italianos revelan las dificultades que tuvieron los equipos de rescate para recuperar sus cuerpos.",
       "featured": false
@@ -225,11 +238,11 @@
       "slug": "el-gobierno-de-trump-exigira-a-la-mayoria-de-los-inmigrantes-que-solicitan-la-residencia-que-abandonen-primero-eeuu",
       "title": "El gobierno de Trump exigirá a la mayoría de los inmigrantes que solicitan la residencia que abandonen primero EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• La nueva política podría afectar a miles de inmigrantes en situaciones legales aceptables.\n• Solicitantes de green cards deberán salir de EE.UU. antes de procesar su solicitud.\n• Este cambio generará un gran impacto en la comunidad inmigrante en el país.\n• Las autoridades justifican la medida como un necesario ajuste en el sistema migratorio.\n• El anuncio ha generado diversas reacciones entre defensores de los derechos humanos.",
+      "bullets_20s": "• La nueva política migratoria impactará a numerosos inmigrantes que buscan establecerse en EE.UU.\n• Se exigirá que los solicitantes de green card salgan de Estados Unidos antes de aplicar.\n• Esta medida podría afectar a miles de personas con estatus regular en el país.\n• Las autoridades de inmigración buscan cambiar las dinámicas actuales de residency.\n• Se prevén protestas y reacciones de la comunidad afectada por esta nueva normativa.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpvp87v20p4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-22T21:28:07.000Z",
-      "teaser": "Lo clave en 20 segundos: Cambio en política migratoria de EE.UU. afecta a quienes buscan residencia.",
+      "teaser": "Lo clave en 20 segundos: Nueva política de Trump afecta a inmigrantes solicitantes de residencia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9146/live/3f6187c0-561e-11f1-ac06-bb88c895e68b.jpg",
       "description": "Las autoridades migratorias de EE.UU. anunciaron una nueva política que exige a la mayoría de los solicitantes de green cards que lo hagan desde su país de origen, lo cual impactaría a miles de personas con estatus regular.",
       "featured": false
@@ -290,11 +303,11 @@
       "slug": "el-director-ejecutivo-de-un-banco-pide-disculpas-tras-describir-a-sus-trabajadores-como-capital-humano-de-menor-valor",
       "title": "El director ejecutivo de un banco pide disculpas tras describir a sus trabajadores como \"capital humano de menor valor\"",
       "category": "Mundo",
-      "bullets_20s": "• El director de un banco se disculpa por comentarios desafortunados sobre sus trabajadores.\n• Un término controversial que refiere a sus empleados como 'capital humano de menor valor'.\n• Se compromete a valorar a toda su fuerza laboral tras el incidente.\n• Las reacciones a sus declaraciones han sido diversas en el ámbito financiero.\n• La importancia de la comunicación efectiva en el liderazgo empresarial.\n• Los trabajadores buscan reconocimiento y valor en sus roles dentro de la empresa.\n• Se discute cómo la percepción del capital humano afecta la cultura organizacional.\n• La responsabilidad de los líderes en inspirar confianza y motivación entre sus equipos.\n• Las repercusiones de tales comentarios en la imagen pública de la institución bancaria.\n• La necesidad de políticas inclusivas que reconozcan el valor de cada empleado.",
+      "bullets_20s": "• El director ejecutivo se disculpó por su comentario sobre trabajadores en el banco.\n• La frase generó amplio debate en el sector financiero y entre empleados.\n• El banco busca mejorar su imagen tras los recientes comentarios polémicos.\n• Se comprometió a apoyar a sus trabajadores en tiempos de cambio.\n• El valor del capital humano es un tema relevante en todas las industrias.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c7v9jmqn2p8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-22T20:31:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Un director bancario ofrece disculpas tras declaraciones malinterpretadas sobre su personal.",
+      "teaser": "Lo clave en 20 segundos: El director de un banco se disculpa por comentarios sobre sus empleados.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/bd91/live/33fe7860-560b-11f1-a198-53e60cb35f25.jpg",
       "description": "El director de Standard Chartered afirmó que valora a todos sus colegas y se compromete a ayudarlos a afrontar los cambios.",
       "featured": false
@@ -433,11 +446,11 @@
       "slug": "webinar-eico-ensayos-no-destructivos-utilizados-en-obras-civiles",
       "title": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "category": "Ciencia",
-      "bullets_20s": "• El TEC organiza un webinar gratuito sobre ensayos no destructivos en obras civiles.\n• Dirigido a estudiantes y profesionales del sector de la construcción, así como investigadores.\n• Impartido por el ingeniero Luis Carlos Calvo Navarro, experto en el área.\n• Se centrarán en técnicas modernas de evaluación y diagnóstico de infraestructuras.\n• El objetivo es detectar fallas sin afectar la integridad de las obras civiles.",
+      "bullets_20s": "• La Escuela de Ingeniería en Construcción del TEC organiza un evento sobre ensayos no destructivos.\n• El webinar se centrará en técnicas modernas para evaluar la infraestructura civil.\n• El ingeniero Luis Carlos Calvo impartirá conocimientos sobre inspección de estructuras.\n• La actividad está destinada a estudiantes y profesionales del sector construcción.\n• La inscripción es gratuita y está abierta a público interesado en tecnología civil.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/webinar-eico-ensayos-no-destructivos-utilizados-obras-civiles",
       "publish_date": "2026-05-22T18:04:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Conoce sobre las técnicas de evaluación moderna en infraestructura.",
+      "teaser": "Lo clave en 20 segundos: Webinar sobre ensayos no destructivos en obras civiles.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/image_4.png",
       "description": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "featured": false
@@ -885,6 +898,19 @@
       "featured": false
     },
     {
+      "slug": "tec-lleva-a-brasil-la-innovadora-plataforma-que-crea-y-valida-lenguas-de-senas",
+      "title": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
+      "category": "Mundo",
+      "bullets_20s": "• El TEC participó en una Librasthon en Brasil para trabajar en inclusión y validación de lenguas de señas.\n• La plataforma PIELS permite representar palabras y conceptos mediante avatares digitales en lengua de señas.\n• Investigadores y estudiantes costarricenses llevaron avances tecnológicos orientados a la accesibilidad digital.\n• El TEC busca seguir fortaleciendo su proyección internacional en homogénea accesibilidad e innovación social.\n• La participación en Brasil impulsará el desarrollo de alianzas académicas y proyectos colaterales entre instituciones.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/tec-lleva-brasil-innovadora-plataforma-crea-valida-lenguas-senas",
+      "publish_date": "2026-05-22T03:29:38.000Z",
+      "teaser": "Lo clave en 20 segundos: TEC lleva su innovadora plataforma de lenguas de señas a Brasil para fomentar inclusión.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/piels.png",
+      "description": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
+      "featured": false
+    },
+    {
       "slug": "cortes-de-luz-del-ice-afectaran-sectores-de-turrialba-este-viernes-22-de-mayo",
       "title": "Cortes de luz del ICE afectarán sectores de Turrialba este viernes 22 de mayo",
       "category": "Costa Rica",
@@ -1038,19 +1064,6 @@
       "teaser": "Lo clave en 20 segundos: Keylor Navas podría ser fundamental en el triunfo de Pumas.",
       "image_url": "https://www.nacion.com/resizer/v2/HLPWW75DPNATHNHR3HYGQTACTY.jpeg?auth=d06d9739b17fa2d0e2f476a3a7a2d0b06836f8d22fea97f5df46d6048d5dc49d&smart=true&width=1280&height=960",
       "description": "Exfigura de Pumas y Cruz Azul dio su opinión sobre la final de la Liga MX.",
-      "featured": false
-    },
-    {
-      "slug": "tec-lleva-a-brasil-la-innovadora-plataforma-que-crea-y-valida-lenguas-de-senas",
-      "title": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
-      "category": "Costa Rica",
-      "bullets_20s": "• La plataforma PIELS permite la representación digital de lengua de señas para mejorar la comunicación.\n• Estudiantes y académicos del TEC participaron en una 'Librasthon' en Brasil, enfocada en inclusión.\n• PIELS incorpora aspectos gramaticales para garantizar una comunicación más natural en lengua de señas.\n• Investigadores internacionales colaboraron en la validación de nuevas señas utilizadas en la plataforma.\n• El TEC se posiciona como un referente en tecnologías accesibles en Centroamérica y más allá.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/tec-lleva-brasil-innovadora-plataforma-crea-valida-lenguas-senas",
-      "publish_date": "2026-05-22T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC presenta una plataforma innovadora para la lengua de señas en Brasil.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/piels.png",
-      "description": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
       "featured": false
     },
     {
@@ -1447,11 +1460,11 @@
       "slug": "consejo-institucional-honra-la-trayectoria-y-contribucion-de-exrectores-del-tec",
       "title": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El Consejo Institucional realizó un homenaje a exrectores del Tecnológico de Costa Rica.\n• Se develaron las fotografías de los exrectores en un acto solemne y significativo.\n• Se honoró la trayectoria y contribución de líderes entre 2011 y 2023.\n• Cada exrector dejó su huella en la historia y desarrollo del TEC.\n• Se resaltaron logros en infraestructura, acreditación y vinculación institucional.",
+      "bullets_20s": "• Se develaron fotos de exrectores que lideraron el TEC entre 2011 y 2023.\n• La ceremonia destacó contribuciones significativas al fortalecimiento de la universidad.\n• Cada exrector dejó una huella importante en la historia del Tecnológico.\n• El Consejo Institucional reconoció logros en infraestructura y acreditación académica.\n• Este homenaje celebra 55 años de historia del TEC y sus líderes fundamentales.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/consejo-institucional-honra-trayectoria-contribucion-exrectores-tec",
       "publish_date": "2026-05-21T17:02:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Homenaje a exrectores del TEC, resaltando su impacto en la educación superior.",
+      "teaser": "Lo clave en 20 segundos: Homenaje a exrectores del TEC por su contribución y liderazgo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/rectores-1.png",
       "description": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "featured": false
@@ -24246,5 +24259,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-23T03:45:19.590Z"
+  "generated_at": "2026-05-23T04:45:20.543Z"
 }
