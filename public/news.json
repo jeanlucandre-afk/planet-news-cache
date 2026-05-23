@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "juzgado-impone-medidas-cautelares-a-seis-implicados-por-caso-de-hogar-de-ancianos-allanado-en-cartago",
+      "title": "Juzgado impone medidas cautelares a seis implicados por caso de hogar de ancianos allanado en Cartago",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Juzgado Penal impuso medidas cautelares en un caso que ha generado mucha atención pública.\n• Las medidas son parte de una investigación más amplia relacionada con el hogar de ancianos.\n• Los allanamientos se realizaron en Cartago, evidenciando un problema de gestión en el lugar.\n• Las autoridades buscan garantizar la seguridad de los ancianos en el hogar involucrado.\n• Se espera más información sobre la investigación y acciones legales a seguir.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/juzgado-impone-medidas-cautelares-a-seis/FH2TKZRXSNEY3ELGOZW52PNZ4E/story/",
+      "publish_date": "2026-05-23T05:05:39.000Z",
+      "teaser": "Lo clave en 20 segundos: Seis implicados en un caso de hogar de ancianos en Cartago enfrentan medidas cautelares.",
+      "image_url": "https://www.nacion.com/resizer/v2/WHJDDNFLNFCMJD3IV4CHFKCWI4.jpg?auth=c222eca330926431b1538327b2074524e3a69889517402360fcfdfe0bbf40e78&smart=true&width=1599&height=1066",
+      "description": "Seis personas quedaron bajo medidas cautelares tras allanamientos en un hogar de ancianos en Cartago, ordenó el Juzgado Penal.",
+      "featured": false
+    },
+    {
+      "slug": "infeccion-por-bacteria-obliga-a-cierre-temporal-de-unidad-de-quemados-del-hospital-san-juan-de-dios",
+      "title": "Infección por bacteria obliga a cierre temporal de Unidad de Quemados del Hospital San Juan de Dios",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Hospital San Juan de Dios enfrenta un brote bacteriano que afecta a su unidad de quemados.\n• El cierre es temporal, pero impacta la atención a pacientes en esta área especializada.\n• Las autoridades trabajan para contener la infección y asegurar la seguridad de los pacientes.\n• Se están realizando inspecciones y desinfección en la unidad afectada por la bacteria.\n• Los pacientes son desplazados a otras unidades mientras se controla la situación.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/infeccion-por-bacteria-obliga-a-cierre-temporal-de/4XFIN3AEDFGYBFNDRIDTQ47STU/story/",
+      "publish_date": "2026-05-23T04:57:49.000Z",
+      "teaser": "Lo clave en 20 segundos: un brote bacteriano cierra temporalmente la Unidad de Quemados en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/EMIEEDW6LZE3BKFAT2UT2AZZPE.jfif?auth=47006147f72a6d847baa5ccebce8c3ac0c225f440a9a1174b7d8695b86d77fa7&smart=true&width=1280&height=722",
+      "description": "Brote bacteriano obliga a cerrar temporalmente unidad de quemados del San Juan de Dios.",
+      "featured": false
+    },
+    {
       "slug": "vendi-a-mi-hija-de-5-anos-para-que-recibiera-tratamiento-medico-las-familias-que-se-enfrentan-a-decisiones-imposibles-en",
       "title": "Vendí a mi hija de 5 años para que recibiera tratamiento médico: las familias que se enfrentan a decisiones imposibles en Afganistán",
       "category": "Mundo",
-      "bullets_20s": "• Las familias en Afganistán enfrentan decisiones extremadamente difíciles por la crisis actual.\n• El acceso a tratamientos médicos se ha vuelto escaso y costoso para muchos.\n• Las condiciones de vida han empeorado, afectando a miles de personas diariamente.\n• Tres de cada cuatro afganos no logran cubrir sus necesidades fundamentales.\n• Las historias de sacrificio reflejan la dura realidad que viven los ciudadanos.",
+      "bullets_20s": "• Las familias afganas enfrentan dilemas extremos para asegurar tratamientos médicos urgentes.\n• Las decisiones difíciles repercuten en la salud y bienestar de los más vulnerables.\n• La crisis humanitaria en Afganistán afecta a millones de personas cada día.\n• La falta de recursos genera situaciones dramáticas entre la población afectada.\n• Muchos hogares se ven obligados a tomar decisiones desgarradoras por necesidades básicas.\n• Las estadísticas muestran un incremento alarmante en la pobreza extrema.\n• La comunidad internacional aún evalúa cómo ofrecer apoyo efectivo ante esta crisis.\n• Las soluciones a largo plazo son necesarias para mejorar la situación en el país.\n• El acceso a atención médica adecuada es un derecho fundamental en todo el mundo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cn4p2z14pewo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-23T04:00:41.000Z",
-      "teaser": "Lo clave en 20 segundos: Familias en Afganistán enfrentan decisiones desgarradoras por falta de recursos.",
+      "teaser": "Lo clave en 20 segundos: Familias en Afganistán enfrentan decisiones imposibles por necesidades médicas urgentes.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/76e2/live/d082b8f0-52cc-11f1-b4b8-8bc40cabb834.jpg",
       "description": "En Afganistán, actualmente, tres de cada cuatro personas no pueden satisfacer sus necesidades básicas.",
       "featured": false
@@ -225,11 +251,11 @@
       "slug": "los-buceadores-italianos-que-murieron-en-maldivas-carecian-de-equipos-adecuados-segun-un-rescatista",
       "title": "Los buceadores italianos que murieron en Maldivas carecían de equipos adecuados, según un rescatista",
       "category": "Mundo",
-      "bullets_20s": "• Los buceadores enfrentaron condiciones adversas en una cueva en Maldivas durante su exploración.\n• Equipos de rescate encontraron dificultades significativas para acceder a los cuerpos de los buceadores.\n• La falta de equipos adecuados se menciona como un factor crítico en la tragedia.\n• Las imágenes de la cueva son un claro indicativo de los riesgos inherentes al buceo.\n• Este incidente resalta la importancia de la preparación y el equipo en actividades extremas.",
+      "bullets_20s": "• El accidente ocurrió en una cueva submarina de Maldivas, generando consternación a nivel internacional.\n• Las condiciones de buceo eran complejas y los equipos de rescate enfrentaron serios problemas para recuperar cuerpos.\n• Los rescatistas reportaron que los buceadores carecían de equipo adecuado para la profundidad del buceo.\n• Las imágenes del lugar revelan la dificultad del rescate y la peligrosidad del sitio de buceo.\n• Se requieren mejores regulaciones para garantizar la seguridad de los buceadores en lugares remotos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdrp22kl57mo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-22T21:44:52.000Z",
-      "teaser": "Lo clave en 20 segundos: buceadores italianos en Maldivas, fallas en equipos causan tragedia.",
+      "teaser": "Lo clave en 20 segundos: buceadores italianos carecían de equipo adecuado, complicando rescate en Maldivas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e7d9/live/2625d450-5628-11f1-8b8c-6d33e1d5abb6.jpg",
       "description": "Las imágenes de una cueva donde se encontraron los buceadores italianos revelan las dificultades que tuvieron los equipos de rescate para recuperar sus cuerpos.",
       "featured": false
@@ -238,11 +264,11 @@
       "slug": "el-gobierno-de-trump-exigira-a-la-mayoria-de-los-inmigrantes-que-solicitan-la-residencia-que-abandonen-primero-eeuu",
       "title": "El gobierno de Trump exigirá a la mayoría de los inmigrantes que solicitan la residencia que abandonen primero EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• La nueva política migratoria impactará a numerosos inmigrantes que buscan establecerse en EE.UU.\n• Se exigirá que los solicitantes de green card salgan de Estados Unidos antes de aplicar.\n• Esta medida podría afectar a miles de personas con estatus regular en el país.\n• Las autoridades de inmigración buscan cambiar las dinámicas actuales de residency.\n• Se prevén protestas y reacciones de la comunidad afectada por esta nueva normativa.",
+      "bullets_20s": "• La nueva política migratoria afectaría a quienes solicitan residencia en EE.UU.\n• Los inmigrantes deberán abandonar el país antes de hacer la solicitud.\n• Esta medida tiene como objetivo reducir el número de solicitudes falsas.\n• Impactaría a miles de personas con estatus regular en EE.UU.\n• Las autoridades buscan reforzar el control migratorio y facilitar trámites.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpvp87v20p4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-22T21:28:07.000Z",
-      "teaser": "Lo clave en 20 segundos: Nueva política de Trump afecta a inmigrantes solicitantes de residencia.",
+      "teaser": "Lo clave en 20 segundos: nueva política migratoria del gobierno impacta solicitudes de residencia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9146/live/3f6187c0-561e-11f1-ac06-bb88c895e68b.jpg",
       "description": "Las autoridades migratorias de EE.UU. anunciaron una nueva política que exige a la mayoría de los solicitantes de green cards que lo hagan desde su país de origen, lo cual impactaría a miles de personas con estatus regular.",
       "featured": false
@@ -303,11 +329,11 @@
       "slug": "el-director-ejecutivo-de-un-banco-pide-disculpas-tras-describir-a-sus-trabajadores-como-capital-humano-de-menor-valor",
       "title": "El director ejecutivo de un banco pide disculpas tras describir a sus trabajadores como \"capital humano de menor valor\"",
       "category": "Mundo",
-      "bullets_20s": "• El director ejecutivo se disculpó por su comentario sobre trabajadores en el banco.\n• La frase generó amplio debate en el sector financiero y entre empleados.\n• El banco busca mejorar su imagen tras los recientes comentarios polémicos.\n• Se comprometió a apoyar a sus trabajadores en tiempos de cambio.\n• El valor del capital humano es un tema relevante en todas las industrias.",
+      "bullets_20s": "• Las declaraciones del director causaron controversia a nivel mundial en el sector financiero.\n• Se remarcó la importancia del capital humano dentro de las organizaciones modernas.\n• La administración del banco ha enfrentado críticas y ha tenido que responder a las inquietudes.\n• Los empleados expresaron su descontento en redes sociales y medios de comunicación.\n• La disculpa pública busca restaurar la confianza entre el líder y su equipo de trabajo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c7v9jmqn2p8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-22T20:31:35.000Z",
-      "teaser": "Lo clave en 20 segundos: El director de un banco se disculpa por comentarios sobre sus empleados.",
+      "teaser": "Lo clave en 20 segundos: Un director de banco pide disculpas tras controversiales comentarios sobre trabajadores.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/bd91/live/33fe7860-560b-11f1-a198-53e60cb35f25.jpg",
       "description": "El director de Standard Chartered afirmó que valora a todos sus colegas y se compromete a ayudarlos a afrontar los cambios.",
       "featured": false
@@ -446,11 +472,11 @@
       "slug": "webinar-eico-ensayos-no-destructivos-utilizados-en-obras-civiles",
       "title": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "category": "Ciencia",
-      "bullets_20s": "• La Escuela de Ingeniería en Construcción del TEC organiza un evento sobre ensayos no destructivos.\n• El webinar se centrará en técnicas modernas para evaluar la infraestructura civil.\n• El ingeniero Luis Carlos Calvo impartirá conocimientos sobre inspección de estructuras.\n• La actividad está destinada a estudiantes y profesionales del sector construcción.\n• La inscripción es gratuita y está abierta a público interesado en tecnología civil.",
+      "bullets_20s": "• La Escuela de Ingeniería en Construcción del TEC organiza un webinar gratuito sobre ensayos no destructivos.\n• El ingeniero Luis Carlos Calvo Navarro compartirá técnicas de evaluación en infraestructura civil.\n• El evento está destinado a estudiantes y profesionales del sector construcción.\n• Los asistentes aprenderán sobre prevención de fallas sin afectar la integridad de las estructuras.\n• Este webinar forma parte de un ciclo de actividades académicas que promueven la actualización profesional.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/webinar-eico-ensayos-no-destructivos-utilizados-obras-civiles",
       "publish_date": "2026-05-22T18:04:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Webinar sobre ensayos no destructivos en obras civiles.",
+      "teaser": "Lo clave en 20 segundos: Aprende sobre ensayos no destructivos en construcción en un webinar gratuito.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/image_4.png",
       "description": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "featured": false
@@ -901,11 +927,11 @@
       "slug": "tec-lleva-a-brasil-la-innovadora-plataforma-que-crea-y-valida-lenguas-de-senas",
       "title": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
       "category": "Mundo",
-      "bullets_20s": "• El TEC participó en una Librasthon en Brasil para trabajar en inclusión y validación de lenguas de señas.\n• La plataforma PIELS permite representar palabras y conceptos mediante avatares digitales en lengua de señas.\n• Investigadores y estudiantes costarricenses llevaron avances tecnológicos orientados a la accesibilidad digital.\n• El TEC busca seguir fortaleciendo su proyección internacional en homogénea accesibilidad e innovación social.\n• La participación en Brasil impulsará el desarrollo de alianzas académicas y proyectos colaterales entre instituciones.",
+      "bullets_20s": "• El Tecnológico de Costa Rica participó en una Librasthon en Brasil enfocada en lenguas de señas.\n• PIELS permite la representación de señas mediante avatares digitales para acceder a la información.\n• Se incluyeron nuevos módulos que facilitan la validación colaborativa de señas durante el evento.\n• La participación del TEC refuerza su papel como líder en tecnología inclusiva en la región.\n• Estudiantes mostraron avances tecnológicos en accesibilidad durante su participación en Brasil.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/tec-lleva-brasil-innovadora-plataforma-crea-valida-lenguas-senas",
       "publish_date": "2026-05-22T03:29:38.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC lleva su innovadora plataforma de lenguas de señas a Brasil para fomentar inclusión.",
+      "teaser": "Lo clave en 20 segundos: El TEC presenta su plataforma innovadora de lengua de señas en Brasil.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/piels.png",
       "description": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
       "featured": false
@@ -1460,13 +1486,13 @@
       "slug": "consejo-institucional-honra-la-trayectoria-y-contribucion-de-exrectores-del-tec",
       "title": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• Se develaron fotos de exrectores que lideraron el TEC entre 2011 y 2023.\n• La ceremonia destacó contribuciones significativas al fortalecimiento de la universidad.\n• Cada exrector dejó una huella importante en la historia del Tecnológico.\n• El Consejo Institucional reconoció logros en infraestructura y acreditación académica.\n• Este homenaje celebra 55 años de historia del TEC y sus líderes fundamentales.",
+      "bullets_20s": "• Se develaron las fotografías de exrectores que contribuyeron al TEC entre 2011 y 2023.\n• El acto fue solemne, resaltando logros y transformaciones importantes para la Institución.\n• Cada exrector dejó un impacto significativo en la educación y crecimiento del TEC.\n• El TEC celebra más de 55 años de historia, marcando etapas de liderazgo importante.\n• Familiares y miembros del Consejo participaron en este reconocimiento a la trayectoria.\n• Se enfatizó la robustez de programas académicos y la calidad de los graduados del TEC.\n• El homenaje subraya el impacto en la sociedad nacional a través de la educación.\n• La Rectoría del TEC tuvo líderes comprometidos con el desarrollo institucional.\n• Se recuerda un período de transformación trascendental en la educación superior pública.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/consejo-institucional-honra-trayectoria-contribucion-exrectores-tec",
       "publish_date": "2026-05-21T17:02:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Homenaje a exrectores del TEC por su contribución y liderazgo.",
+      "teaser": "Lo clave en 20 segundos: El TEC rinde homenaje a exrectores influyentes entre 2011 y 2023.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/rectores-1.png",
-      "description": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
+      "description": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC.",
       "featured": false
     },
     {
@@ -24259,5 +24285,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-23T04:45:20.543Z"
+  "generated_at": "2026-05-23T05:45:20.996Z"
 }
