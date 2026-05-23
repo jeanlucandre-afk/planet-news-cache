@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "como-es-el-jardin-de-los-venenos-que-alberga-mas-de-100-plantas-toxicas-incluida-la-mas-venenosa-del-mundo",
+      "title": "Cómo es el Jardín de los Venenos, que alberga más de 100 plantas tóxicas (incluida la más venenosa del mundo)",
+      "category": "Mundo",
+      "bullets_20s": "• El Jardín de los Venenos alberga más de 100 especies de plantas tóxicas.\n• Visitar este jardín puede ser una experiencia educativa sobre las plantas peligrosas.\n• Los visitantes son advertidos sobre los riesgos asociados a estas plantas.\n• Las plantas intoxicantes también son objeto de estudio en ciencia y medicina.\n• El jardín promueve la concienciación sobre la toxicidad en la naturaleza.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c98r3jle31no?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-23T09:32:05.000Z",
+      "teaser": "Lo clave en 20 segundos: Un jardín lleno de plantas peligrosas abre sus puertas al público.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cf7f/live/9795a740-48af-11f1-b55d-0f258dce1735.jpg",
+      "description": "Estas plantas pueden matar advierten en la puerta de un jardín repleto de plantas tóxicas, intoxicantes y narcóticas... que está abierto al público.",
+      "featured": false
+    },
+    {
       "slug": "al-menos-90-personas-murieron-en-una-explosion-en-una-mina-de-carbon-en-china-segun-medios-estatales",
       "title": "Al menos 90 personas murieron en una explosión en una mina de carbón en China, según medios estatales",
       "category": "Mundo",
@@ -17,11 +30,11 @@
       "slug": "lo-que-los-britanicos-realmente-quieren-decir-cuando-dicen-sorry",
       "title": "Lo que los británicos realmente quieren decir cuando dicen 'sorry'",
       "category": "Mundo",
-      "bullets_20s": "• La palabra 'sorry' tiene un significado más profundo en la cultura británica.\n• Usar 'sorry' puede expresar distintas emociones, no solo una disculpa.\n• Los británicos la utilizan en contextos variados, a menudo socialmente.\n• A veces, el uso de 'sorry' evita confrontaciones en la conversación.\n• Entender su uso es clave para la comunicación intercultural efectiva.",
+      "bullets_20s": "• El término 'sorry' muestra la complejidad del lenguaje británico en la comunicación diaria.\n• Los británicos utilizan 'sorry' en contextos variados, a veces sin real intención de disculparse.\n• La forma en que se usa 'sorry' revela aspectos culturales sobre cortesía y humildad.\n• Entender 'sorry' puede ofrecer una nueva perspectiva sobre las interacciones sociales en el Reino Unido.\n• El uso de este término es objeto de estudio en sociolingüística y comportamiento social.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c8e892njw4wo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-23T08:01:49.000Z",
-      "teaser": "Lo clave en 20 segundos: la complejidad cultural detrás de la palabra 'sorry'.",
+      "teaser": "Lo clave en 20 segundos: 'Sorry' revela la sutileza cultural británica más allá de una simple disculpa.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b380/live/69405c00-53a9-11f1-89a3-d1f559421220.jpg",
       "description": "Sorry es mucho más que 'discúlpeme': es un reflejo cultural, una válvula de escape de cinco letras.",
       "featured": false
@@ -30,11 +43,11 @@
       "slug": "juzgado-impone-medidas-cautelares-a-seis-implicados-por-caso-de-hogar-de-ancianos-allanado-en-cartago",
       "title": "Juzgado impone medidas cautelares a seis implicados por caso de hogar de ancianos allanado en Cartago",
       "category": "Costa Rica",
-      "bullets_20s": "• El Juzgado Penal dictó medidas cautelares para los implicados en el caso del hogar de ancianos.\n• Los allanamientos se realizaron tras denuncias relacionadas con la atención a los ancianos.\n• Las medidas buscan asegurar el proceso judicial y proteger a los usuarios del hogar.\n• Este caso ha generado gran preocupación en la comunidad de Cartago y sus alrededores.\n• Las medidas impuestas incluyen restricciones de contacto con ciertos individuos y lugares.",
+      "bullets_20s": "• Un juzgado penal de Cartago ha dictado medidas cautelares para seis involucrados en el caso.\n• Los allanamientos se realizaron en un hogar de ancianos, generando preocupaciones sobre la seguridad.\n• La situación refleja los problemas en la atención de ancianos en la región de Cartago.\n• Las medidas cautelares intentan asegurar el proceso judicial y proteger a posibles testigos.\n• Este caso ha generado atención mediática y preocupaciones sobre el bienestar de los ancianos.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/sucesos/juzgado-impone-medidas-cautelares-a-seis/FH2TKZRXSNEY3ELGOZW52PNZ4E/story/",
       "publish_date": "2026-05-23T05:05:39.000Z",
-      "teaser": "Lo clave en 20 segundos: Seis implicados en el caso del hogar de ancianos en Cartago recibirán medidas cautelares.",
+      "teaser": "Lo clave en 20 segundos: Un juzgado de Cartago impone medidas cautelares a seis implicados en allanamientos.",
       "image_url": "https://www.nacion.com/resizer/v2/WHJDDNFLNFCMJD3IV4CHFKCWI4.jpg?auth=c222eca330926431b1538327b2074524e3a69889517402360fcfdfe0bbf40e78&smart=true&width=1599&height=1066",
       "description": "Seis personas quedaron bajo medidas cautelares tras allanamientos en un hogar de ancianos en Cartago, ordenó el Juzgado Penal.",
       "featured": false
@@ -43,11 +56,11 @@
       "slug": "infeccion-por-bacteria-obliga-a-cierre-temporal-de-unidad-de-quemados-del-hospital-san-juan-de-dios",
       "title": "Infección por bacteria obliga a cierre temporal de Unidad de Quemados del Hospital San Juan de Dios",
       "category": "Costa Rica",
-      "bullets_20s": "• El Hospital San Juan de Dios enfrenta un brote bacteriano que ocasiona preocupaciones.\n• La Unidad de Quemados permanecerá cerrada temporalmente por medidas de seguridad.\n• Los pacientes serán trasladados a otros hospitales mientras se controla la situación.\n• Autoridades están llevando a cabo investigaciones para identificar la bacteria causante.\n• Se están implementando protocolos estrictos para evitar mayores contagios en el hospital.",
+      "bullets_20s": "• La Unidad de Quemados del Hospital San Juan de Dios cerrará por un brote bacteriano serio.\n• Personal sanitario reforzará protocolos de higiene para evitar más contagios en el hospital.\n• Se implementarán medidas adicionales de limpieza en otras unidades para proteger a pacientes.\n• La salud y seguridad de los pacientes es la prioridad más importante del hospital.\n• Autoridades sanitarias evaluarán la situación y determinarán fecha de reapertura.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/sucesos/infeccion-por-bacteria-obliga-a-cierre-temporal-de/4XFIN3AEDFGYBFNDRIDTQ47STU/story/",
       "publish_date": "2026-05-23T04:57:49.000Z",
-      "teaser": "Lo clave en 20 segundos: brote bacteriano cierra temporalmente unidad de quemados del hospital.",
+      "teaser": "Lo clave en 20 segundos: Brote bacteriano causa cierre temporal en unidad de quemados del hospital.",
       "image_url": "https://www.nacion.com/resizer/v2/EMIEEDW6LZE3BKFAT2UT2AZZPE.jfif?auth=47006147f72a6d847baa5ccebce8c3ac0c225f440a9a1174b7d8695b86d77fa7&smart=true&width=1280&height=722",
       "description": "Brote bacteriano obliga a cerrar temporalmente unidad de quemados del San Juan de Dios.",
       "featured": false
@@ -277,11 +290,11 @@
       "slug": "los-buceadores-italianos-que-murieron-en-maldivas-carecian-de-equipos-adecuados-segun-un-rescatista",
       "title": "Los buceadores italianos que murieron en Maldivas carecían de equipos adecuados, según un rescatista",
       "category": "Mundo",
-      "bullets_20s": "• Los buceadores italianos enfrentaron condiciones peligrosas en su expedición en Maldivas.\n• El rescate fue complicado por la falta de equipos adecuados para la actividad.\n• Imágenes del lugar muestran la difícil situación para los equipos de rescate.\n• Expertos advierten sobre la importancia de los equipos de buceo en el mar.\n• La seguridad en actividades de buceo debe ser una prioridad para evitar tragedias.",
+      "bullets_20s": "• El riesgo de bucear sin el equipo adecuado puede ser fatal en situaciones extremas y complicadas.\n• Los rescatistas enfrentaron dificultades significativas al recuperar los cuerpos en la cueva submarina.\n• Las condiciones en las Maldivas son hermosas, pero el buceo requiere preparación y equipo especializado.\n• El accidente destaca la importancia de la seguridad en el buceo y el uso de tecnología moderna.\n• Se deben establecer protocolos más estrictos para garantizar la seguridad de los buceadores recreativos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdrp22kl57mo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-22T21:44:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Buceadores italianos mueren por equipos inadecuados en Maldivas.",
+      "teaser": "Lo clave en 20 segundos: buceadores italianos murieron en Maldivas por falta de equipos adecuados.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e7d9/live/2625d450-5628-11f1-8b8c-6d33e1d5abb6.jpg",
       "description": "Las imágenes de una cueva donde se encontraron los buceadores italianos revelan las dificultades que tuvieron los equipos de rescate para recuperar sus cuerpos.",
       "featured": false
@@ -355,11 +368,11 @@
       "slug": "el-director-ejecutivo-de-un-banco-pide-disculpas-tras-describir-a-sus-trabajadores-como-capital-humano-de-menor-valor",
       "title": "El director ejecutivo de un banco pide disculpas tras describir a sus trabajadores como 'capital humano de menor valor'",
       "category": "Mundo",
-      "bullets_20s": "• El director de Standard Chartered se disculpa por sus comentarios sobre los trabajadores.\n• Asegura que valora a todos sus colegas independientemente de su posición actual.\n• Se compromete a apoyar a los empleados en los procesos de cambio laboral.\n• Las palabras generaron controversia en redes sociales y medios de comunicación.\n• Es importante considerar el valor humano en entornos corporativos complejos.",
+      "bullets_20s": "• El director de un banco hace declaraciones controvertidas sobre sus empleados en una reciente entrevista.\n• Pide disculpas después de ser criticado por sus comentarios sobre el 'capital humano'.\n• Asegura que valora a todos sus colegas y su contribución a la organización.\n• Se compromete a apoyar a sus empleados para enfrentar un futuro incierto.\n• La declaración ha generado un debate sobre la cultura laboral en el sector financiero.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c7v9jmqn2p8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-22T20:31:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Un director de banco pide disculpas por comentarios polémicos.",
+      "teaser": "Lo clave en 20 segundos: director de banco ofrece disculpas por polémica descripción de sus trabajadores.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/bd91/live/33fe7860-560b-11f1-a198-53e60cb35f25.jpg",
       "description": "El director de Standard Chartered afirmó que valora a todos sus colegas y se compromete a ayudarlos a afrontar los cambios.",
       "featured": false
@@ -498,13 +511,13 @@
       "slug": "webinar-eico-ensayos-no-destructivos-utilizados-en-obras-civiles",
       "title": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "category": "Ciencia",
-      "bullets_20s": "• El TEC organiza un webinar sobre ensayos no destructivos para infraestructura civil.\n• Impartido por el ingeniero Luis Carlos Calvo Navarro con gran experiencia en el área.\n• Orientado a estudiantes y profesionales del sector construcción interesados en actualizarse.\n• Los ensayos no destructivos permiten evaluar condiciones sin afectar estructuras existentes.\n• El formulario de inscripción está disponible en el enlace proporcionado en la web.",
+      "bullets_20s": "• El webinar ofrece técnicas modernas para la evaluación de infraestructuras y edificaciones en Costa Rica.\n• Impartido por el ingeniero Luis Carlos Calvo Navarro, especialista en ensayos no destructivos.\n• Los ensayos no destructivos permiten evaluar estructuras sin comprometer su integridad.\n• Este evento está dirigido a estudiantes y profesionales del sector construcción en el país.\n• Los interesados deben inscribirse previamente para participar en el webinar gratuito.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/webinar-eico-ensayos-no-destructivos-utilizados-obras-civiles",
       "publish_date": "2026-05-22T18:04:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Un webinar sobre ensayos no destructivos en obras civiles está disponible.",
+      "teaser": "Lo clave en 20 segundos: Conoce técnicas de evaluación en el webinar sobre ensayos no destructivos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/image_4.png",
-      "description": "Webinar gratuito sobre ensayos no destructivos usados en obras civiles, impartido por el ingeniero Luis Carlos Calvo Navarro.",
+      "description": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "featured": false
     },
     {
@@ -952,12 +965,12 @@
     {
       "slug": "tec-lleva-a-brasil-la-innovadora-plataforma-que-crea-y-valida-lenguas-de-senas",
       "title": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
-      "category": "Mundo",
-      "bullets_20s": "• La plataforma PIELS permite la creación de señas mediante avatares digitales en Brasil.\n• TEC participó en una Librasthon junto a universidades brasileñas para validar nuevas señas.\n• Estudiantes del TEC presentaron avances tecnológicos para la accesibilidad digital en el evento.\n• IncluTEC promueve la inclusión de personas sordas a través de tecnología accesible y efectiva.\n• La participación en el evento fortalece la colaboración internacional en tecnologías de accesibilidad.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC ha llevado la plataforma PIELS, especializada en lenguas de señas a Brasil.\n• PIELS usa avatares digitales para facilitar la comunicación en lengua de señas.\n• El evento en Brasil reunió a especialistas y estudiantes en accesibilidad digital.\n• Colaboración internacional busca mejorar la inclusión de las personas sordas.\n• Estudiantes presentaron avances tecnológicos relacionados con la accesibilidad.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/tec-lleva-brasil-innovadora-plataforma-crea-valida-lenguas-senas",
       "publish_date": "2026-05-22T03:29:38.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC presenta su innovadora plataforma de lenguas de señas en Brasil.",
+      "teaser": "Lo clave en 20 segundos: TEC presenta su plataforma de lenguas de señas en Brasil para mejorar la inclusión.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/piels.png",
       "description": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
       "featured": false
@@ -1512,11 +1525,11 @@
       "slug": "consejo-institucional-honra-la-trayectoria-y-contribucion-de-exrectores-del-tec",
       "title": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• Se develaron fotografías de exrectores que sirvieron en el TEC entre 2011 y 2023.\n• El Consejo Institucional ha mantenido la tradición de rendir homenajes a sus exrectores.\n• Las fotografías de los exrectores simbolizan su legado y contribución al TEC.\n• La ceremonia tuvo una importante participación de autoridades, familiares y colegas.\n• Cada exrector dejó una huella significativa en la historia y desarrollo del TEC.",
+      "bullets_20s": "• El Consejo Institucional del TEC reconoció a tres exrectores en un acto solemne y significativo.\n• Se develaron fotografías de quienes ejercieron la Rectoría entre 2011 y 2023 en la ceremonia.\n• Las contribuciones de cada exrector han impulsado cambios significativos en la institución.\n• Los exrectores dejaron una huella importante en la historia del Tecnológico de Costa Rica.\n• La celebración coincide con el 55 aniversario del Tecnológico de Costa Rica este año.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/consejo-institucional-honra-trayectoria-contribucion-exrectores-tec",
       "publish_date": "2026-05-21T17:02:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Homenaje al liderazgo de exrectores del TEC en ceremonia solemne.",
+      "teaser": "Lo clave en 20 segundos: homenaje a exrectores del TEC y su contribución a la educación superior.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/rectores-1.png",
       "description": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "featured": false
@@ -24311,5 +24324,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-23T09:45:19.541Z"
+  "generated_at": "2026-05-23T10:45:19.484Z"
 }
