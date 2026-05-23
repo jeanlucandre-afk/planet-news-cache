@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "investigan-ruptura-de-ventanas-en-la-basilica-durante-la-primera-misa-de-este-sabado",
+      "title": "Investigan ruptura de ventanas en la basílica durante la primera misa de este sábado",
+      "category": "Costa Rica",
+      "bullets_20s": "• Se investiga un incidente en la basílica que causó daño a las ventanas.\n• El suceso ocurrió durante la primera misa del sábado a las 8 a.m.\n• Inmediatamente se pensó en un disparo, pero no hay pruebas de balacera.\n• La Fuerza Pública está revisando las circunstancias del daño reportado.\n• Las autoridades buscan esclarecer la naturaleza del incidente en el templo.",
+      "source_name": "Arianna  Villalobos Solís",
+      "source_url": "https://www.nacion.com/sucesos/investigan-ruptura-de-ventanas-en-la-basilica/O2NGNQTSWZHT7JSGATKUQRYT4Y/story/",
+      "publish_date": "2026-05-23T19:18:38.000Z",
+      "teaser": "Lo clave en 20 segundos: Investigan la ruptura de ventanas en la basílica sin indicios de disparos.",
+      "image_url": "https://www.nacion.com/resizer/v2/K55V7SBP5REBPKO6VRGMD6J7VQ.jpg?auth=d10aa602984dcdc9f87e830c5f94dc6eeb8d0547559dc4b1c50cd25013b70acd&smart=true&width=4188&height=2787",
+      "description": "El suceso ocurrió a las 8 a. m. de este sábado. Aunque inicialmente se sospechó de un disparo, la Fuerza Pública descarta indicios de balacera en el templo por ahora.",
+      "featured": false
+    },
+    {
+      "slug": "tras-40-anos-una-especie-emblematica-regreso-a-america-del-sur-y-entusiasma-su-recuperacion",
+      "title": "Tras 40 años, una especie emblemática regresó a América del Sur y entusiasma su recuperación",
+      "category": "Ciencia",
+      "bullets_20s": "• La nutria gigante vuelve a Argentina después de décadas de extinción en el país.\n• Este proyecto busca restaurar ecosistemas naturales y su biodiversidad en la región.\n• Los esfuerzos de conservación están destinados a fortalecer el turismo de naturaleza.\n• La reintroducción de especies es clave para la salud ambiental en Sudamérica.\n• Los expertos celebran el regreso de la nutria gigante como un gran triunfo ambiental.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/ciencia/tras-40-anos-una-especie-emblematica-regreso-a/CDD2ICF2KZC2VNIN4FB3VOIJHU/story/",
+      "publish_date": "2026-05-23T19:16:40.000Z",
+      "teaser": "Lo clave en 20 segundos: La nutria gigante regresa a Argentina tras 40 años de extinción, impulsando la conservación.",
+      "image_url": "https://www.nacion.com/resizer/v2/MUKFZFLYWRDPREYL5D3ZBP5RUY.jpeg?auth=e62143e98b53013852b52bc207aea0963d9ea77070fe52c30dca974b58199cfa&smart=true&width=2560&height=1440",
+      "description": "La nutria gigante regresó a Argentina después de casi 40 años extinta en el país. El proyecto de reintroducción en Iberá busca restaurar ecosistemas y consolidar el turismo de naturaleza en Sudamérica.",
+      "featured": false
+    },
+    {
+      "slug": "guia-de-actividades-de-la-esa-para-el-eclipse-de-sol-de-agosto-transmision-en-vivo-y-recursos-educativos",
+      "title": "Guía de actividades de la ESA para el eclipse de Sol de agosto: transmisión en vivo y recursos educativos",
+      "category": "Ciencia",
+      "bullets_20s": "• La ESA ofrece recursos educativos para comprender el fenómeno del eclipse solar total en España.\n• Existen charlas programadas en León para discutir la ciencia detrás del eclipse de agosto.\n• Transmisiones en vivo desde Teruel mostrarán el evento en tiempo real para los interesados.\n• Se proporcionarán kits educativos que ayudan a observar el eclipse de manera segura y efectiva.\n• La Agencia Espacial Europea busca involucrar a estudiantes y curiosos en el proceso científico.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/ciencia/guia-de-actividades-de-la-esa-para-el-eclipse-de/XOQ4ZDT35VFQDIFQ2DESPYYVVI/story/",
+      "publish_date": "2026-05-23T19:11:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Actividades educativas de la ESA para el eclipse solar en agosto.",
+      "image_url": "https://www.nacion.com/resizer/v2/EBMUKSMMCFC2HENMMXMODSON6I.png?auth=5412e326a72c0d07002413bb2b8e160df93004cf45e3617400d731a8d2fd8f4b&smart=true&width=1920&height=1080",
+      "description": "Descubra las actividades de la Agencia Espacial Europea para el eclipse total en España. Charlas en León, kits educativos y transmisiones en vivo desde Teruel para el evento del 12 de agosto.",
+      "featured": false
+    },
+    {
       "slug": "sector-productivo-pide-dialogo-entre-costa-rica-y-panama-por-conflicto-comercial",
       "title": "Sector productivo pide diálogo entre Costa Rica y Panamá por conflicto comercial",
       "category": "Costa Rica",
@@ -355,11 +394,11 @@
       "slug": "como-la-familia-andic-construyo-el-imperio-de-la-moda-mango-y-que-poder-tiene-jonathan-el-heredero-acusado-de-la-muerte-",
       "title": "Cómo la familia Andic construyó el imperio de la moda Mango y qué poder tiene Jonathan, el heredero acusado de la muerte de su padre",
       "category": "Mundo",
-      "bullets_20s": "• La historia de Isak Andic, fundador de Mango, comienza con camisas bordadas importadas de Turquía.\n• Mango ha crecido hasta convertirse en un imperio de la moda a nivel internacional.\n• El interés del público en la moda y la habilidad empresarial de Andic son clave en su éxito.\n• Jonathan, heredero de Mango, ha sido señalado en controversias que han atraído atención mediática.\n• El impacto del negocio familiar en la industria de la moda es significativo y relevante.",
+      "bullets_20s": "• Isak Andic es el fundador de Mango, una marca de moda internacional popular.\n• La familia Andic ha crecido de un negocio simple a un imperio global en moda.\n• Jonathan Andic, el heredero, enfrenta acusaciones graves sobre la muerte de su padre.\n• Mango ha expandido su mercado, llegando a muchas partes del mundo en décadas.\n• El éxito de Mango se basa en su capacidad de adaptación a las tendencias globales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cjepny159jjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-23T11:28:25.000Z",
-      "teaser": "Lo clave en 20 segundos: La fascinante historia de la familia Andic y su imperio de la moda Mango.",
+      "teaser": "Lo clave en 20 segundos: La historia de Mango y la polémica en la familia Andic.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/82bc/live/570c4ee0-55fc-11f1-9773-43c89bcb1e91.jpg",
       "description": "Isak Andic empezó vendiendo camisas bordadas que importaba de Turquía, pero su olfato para los negocios le llevó a montar uno de los mayores imperios de la moda.",
       "featured": false
@@ -420,11 +459,11 @@
       "slug": "como-es-el-jardin-de-los-venenos-que-alberga-mas-de-100-plantas-toxicas-incluida-la-mas-venenosa-del-mundo",
       "title": "Cómo es el Jardín de los Venenos, que alberga más de 100 plantas tóxicas (incluida la más venenosa del mundo)",
       "category": "Mundo",
-      "bullets_20s": "• El Jardín de los Venenos alberga más de 100 especies de plantas tóxicas. Es un lugar único.\n• Las plantas en el jardín son utilizadas con fines medicinales y también son altamente peligrosas.\n• La más venenosa del mundo se encuentra en este jardín, advirtiendo a los visitantes de su peligrosidad.\n• El acceso es público, lo que permite a todos aprender sobre la toxicidad de estas especies.\n• Se destaca la importancia de la educación sobre las plantas tóxicas para prevenir intoxicaciones.",
+      "bullets_20s": "• El Jardín de los Venenos es un lugar intrigante con más de 100 plantas peligrosas.\n• Visitar el jardín puede ser educativo sobre los peligros de ciertas plantas.\n• Las advertencias son claras, se debe tener cuidado con las plantas allí expuestas.\n• Los visitantes aprenden sobre las propiedades de las plantas y sus efectos nocivos.\n• Este jardín es un recurso valioso para estudiantes y entusiastas de la botánica.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c98r3jle31no?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-23T09:32:05.000Z",
-      "teaser": "Lo clave en 20 segundos: Un jardín único con más de 100 plantas tóxicas, abierto al público.",
+      "teaser": "Lo clave en 20 segundos: Explora un jardín único con más de 100 plantas tóxicas en el mundo.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cf7f/live/9795a740-48af-11f1-b55d-0f258dce1735.jpg",
       "description": "Estas plantas pueden matar advierten en la puerta de un jardín repleto de plantas tóxicas, intoxicantes y narcóticas... que está abierto al público.",
       "featured": false
@@ -485,11 +524,11 @@
       "slug": "vendi-a-mi-hija-de-5-anos-para-que-recibiera-tratamiento-medico-las-familias-que-se-enfrentan-a-decisiones-imposibles-en",
       "title": "Vendí a mi hija de 5 años para que recibiera tratamiento médico: las familias que se enfrentan a decisiones imposibles en Afganistán",
       "category": "Mundo",
-      "bullets_20s": "• La crisis humanitaria en Afganistán ha llevado a decisiones desgarradoras entre las familias.\n• Aproximadamente el 75% de la población enfrenta serias dificultades económicas y de salud.\n• Los tratamientos médicos son inalcanzables para muchas familias afectadas por la pobreza extrema.\n• La situación actual empuja a padres a tomar decisiones prácticas y dolorosas.\n• Historias como estas resaltan la necesidad urgente de apoyo humanitario internacional.",
+      "bullets_20s": "• Las familias enfrentan decisiones extremas debido a la crisis humanitaria en Afganistán.\n• El acceso a la atención médica se ha vuelto inalcanzable para muchos ciudadanos afganos.\n• El aumento de pobreza ha llevado a decisiones desgarradoras entre las comunidades.\n• Las historias de sacrificio son comunes en un contexto de desesperación y necesidad.\n• Se estima que millones de personas no pueden satisfacer sus necesidades básicas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cn4p2z14pewo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-23T04:00:41.000Z",
-      "teaser": "Lo clave en 20 segundos: Familias afganas enfrentan decisiones trágicas por la falta de atención médica.",
+      "teaser": "Lo clave en 20 segundos: Familias en Afganistán toman decisiones difíciles por la crisis humanitaria.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/76e2/live/d082b8f0-52cc-11f1-b4b8-8bc40cabb834.jpg",
       "description": "En Afganistán, actualmente, tres de cada cuatro personas no pueden satisfacer sus necesidades básicas.",
       "featured": false
@@ -706,11 +745,11 @@
       "slug": "los-buceadores-italianos-que-murieron-en-maldivas-carecian-de-equipos-adecuados-segun-un-rescatista",
       "title": "Los buceadores italianos que murieron en Maldivas carecían de equipos adecuados, según un rescatista",
       "category": "Mundo",
-      "bullets_20s": "• El rescatista revela que los buceadores no contaban con el equipo adecuado para la inmersión.\n• Las condiciones en la cueva dificultaron la recuperación de los cuerpos de los buceadores.\n• El incidente ha generado preocupación sobre la seguridad en el buceo en Maldivas.\n• Las autoridades están revisando las regulaciones sobre el uso de equipos de buceo.\n• Se espera mayor atención a la formación y seguridad de los buceadores en el futuro.",
+      "bullets_20s": "• Los buceadores enfrentaron condiciones adversas en su expedición en las aguas de Maldivas.\n• Equipos de rescate reportaron haber tenido serias dificultades para acceder al lugar del incidente.\n• Las imágenes del lugar muestran una cueva donde se realizaron las operaciones de rescate.\n• Falta de equipos adecuados es un factor que contribuyó a la tragedia, según un rescatista.\n• Las investigaciones continúan para determinar las causas exactas de la tragedia en Maldivas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdrp22kl57mo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-22T21:44:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Rescatistas revelan fallas en equipos de buceo tras tragedia en Maldivas.",
+      "teaser": "Lo clave en 20 segundos: Equipos inadecuados llevaron a la tragedia de buceadores italianos en Maldivas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e7d9/live/2625d450-5628-11f1-8b8c-6d33e1d5abb6.jpg",
       "description": "Las imágenes de una cueva donde se encontraron los buceadores italianos revelan las dificultades que tuvieron los equipos de rescate para recuperar sus cuerpos.",
       "featured": false
@@ -927,11 +966,11 @@
       "slug": "webinar-eico-ensayos-no-destructivos-utilizados-en-obras-civiles",
       "title": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "category": "Ciencia",
-      "bullets_20s": "• El TEC organiza un webinar sobre ensayos no destructivos en obras civiles.\n• Impartido por el ingeniero Luis Carlos Calvo Navarro, experto en el área.\n• Evento gratuito, dirigido a estudiantes y profesionales del sector construcción.\n• Se abordarán técnicas de evaluación y diagnóstico en infraestructura.\n• El objetivo es detectar fallas sin afectar la integridad de obras civiles.",
+      "bullets_20s": "• Webinar gratuito sobre técnicas de evaluación en obras civiles y edificaciones.\n• El TEC organiza un evento académico sobre ensayos no destructivos aplicados.\n• Impartido por el ingeniero Luis Carlos Calvo Navarro, experto en la materia.\n• Se abordarán métodos para detectar fallas sin afectar la integridad de las obras.\n• Dirigido a estudiantes y profesionales del sector construcción y la ingeniería.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/webinar-eico-ensayos-no-destructivos-utilizados-obras-civiles",
       "publish_date": "2026-05-22T18:04:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Aprende sobre ensayos no destructivos en este interesante webinar.",
+      "teaser": "Lo clave en 20 segundos: Webinars sobre técnicas de evaluación en infraestructura civil.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/image_4.png",
       "description": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "featured": false
@@ -1382,11 +1421,11 @@
       "slug": "tec-lleva-a-brasil-la-innovadora-plataforma-que-crea-y-valida-lenguas-de-senas",
       "title": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica presentó PIELS en un evento de inclusión en Brasil.\n• PIELS es capaz de ejecutar lengua de señas mediante avatares digitales innovadores.\n• Tecnologías inclusivas fueron el enfoque del evento realizado en São Paulo, Brasil.\n• Se busca facilitar la comunicación para personas sordas mediante nuevas señas validadas.\n• Especialistas internacionales colaboraron en la Librasthon para mejorar la accesibilidad.",
+      "bullets_20s": "• La Plataforma Internacional de Edición de Lengua de Señas se presentó en un evento en Brasil.\n• Estudiantes del TEC compartieron avances de tecnología inclusiva en la Librasthon de São Paulo.\n• PIELS permite a avatares digitales ejecutar lengua de señas mediante movimientos y expresiones.\n• Investigadores internacionales colaboraron en la validación de nuevas señas y movimientos específicos.\n• La participación del TEC refuerza su rol en la accesibilidad digital y tecnología inclusiva.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/tec-lleva-brasil-innovadora-plataforma-crea-valida-lenguas-senas",
       "publish_date": "2026-05-22T03:29:38.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC presenta su innovadora plataforma para lenguas de señas en Brasil.",
+      "teaser": "Lo clave en 20 segundos: TEC presenta plataforma innovadora para lenguas de señas en Brasil.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/piels.png",
       "description": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
       "featured": false
@@ -1928,11 +1967,11 @@
       "slug": "consejo-institucional-honra-la-trayectoria-y-contribucion-de-exrectores-del-tec",
       "title": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• Se develaron fotografías de tres exrectores del Tecnológico de Costa Rica en un emotivo acto.\n• El TEC ha tenido exrectores que impulsaron transformaciones significativas en la institución.\n• Se destacó el compromiso y liderazgo de los exrectores en la educación superior pública.\n• Durante la ceremonia, se reconocieron logros en áreas como infraestructura y vinculación.\n• Las autoridades institucionales y familiares participaron en el homenaje a los exrectores.",
+      "bullets_20s": "• Se homenajeó a exrectores del TEC entre 2011 y 2023 en un acto solemne y significativo.\n• Se develaron fotografías de los doctores y másters homenajeados por sus contribuciones.\n• Las autoridades resaltaron la importancia de cada gestión en el desarrollo institucional.\n• El TEC celebró su 55 aniversario, destacando dos décadas de liderazgo en educación superior.\n• Los exrectores compartieron sus experiencias y agradecimientos hacia la comunidad del TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/consejo-institucional-honra-trayectoria-contribucion-exrectores-tec",
       "publish_date": "2026-05-21T17:02:00.000Z",
-      "teaser": "Lo clave en 20 segundos: El Consejo Institucional homenajea a exrectores del TEC por su trayectoria.",
+      "teaser": "Lo clave en 20 segundos: Homenaje a exrectores del TEC resalta su contribución a la educación superior.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/rectores-1.png",
       "description": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "featured": false
@@ -24727,5 +24766,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-23T18:45:19.565Z"
+  "generated_at": "2026-05-23T19:45:19.078Z"
 }
