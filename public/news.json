@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "el-mundial-2026-pone-la-salud-de-los-jugadores-al-limite",
+      "title": "El Mundial 2026 pone la salud de los jugadores al límite",
+      "category": "Mundo",
+      "bullets_20s": "• El Mundial 2026 contará con un formato más extenso que podría afectar la salud de los jugadores.\n• Los calendarios deportivos cada vez son más congestionados, aumentando el riesgo de lesiones.\n• Los futbolistas deberán adaptarse a un esquema de competencias más exigente y prolongado.\n• El cuidado médico y la prevención serán claves para el desempeño de los jugadores en el torneo.\n• Los análisis de los impactos físicos y mentales serán cruciales en los próximos meses.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/puro-deporte/el-mundial-2026-pone-la-salud-de-los-jugadores-al/3FKKDQW3C5DRBB736XUHOK7IOM/story/",
+      "publish_date": "2026-05-24T17:14:14.000Z",
+      "teaser": "Lo clave en 20 segundos: El Mundial 2026 implicará un reto de salud para los futbolistas debido a su extensión.",
+      "image_url": "https://www.nacion.com/resizer/v2/FQQENDSRZZC7VJY7BDIIUF4GEQ.jpg?auth=060dfffd5a4503ec90ae010b0fa9962c59466054fb6f509e3e4690bc52fe87a5&smart=true&width=7000&height=4666",
+      "description": "El Mundial más largo de la historia será un reto más dentro de un calendario saturado que provoca lesiones en los futbolistas.",
+      "featured": false
+    },
+    {
+      "slug": "20-diputados-consultan-en-sala-constitucional-el-plan-de-alianzas-publico-privadas",
+      "title": "20 diputados consultan en Sala Constitucional el plan de alianzas público privadas",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un grupo de 20 diputados ha llevado un nuevo proyecto a la Sala Constitucional.\n• La consulta se centra en posibles vicios del proyecto de Ley de Alianzas.\n• Los diputados alegan que puede haber una creación encubierta de instituciones autónomas.\n• La exención de los controles presupuestarios también es un punto de discusión.\n• Este proyecto ha generado un importante debate político en el país.",
+      "source_name": "Aarón Sequeira",
+      "source_url": "https://www.nacion.com/politica/20-diputados-consultan-en-sala-constitucional-el/WBXI34ITYBAXNOT6GJ66CEJPIY/story/",
+      "publish_date": "2026-05-24T17:04:37.000Z",
+      "teaser": "Lo clave en 20 segundos: 20 diputados consultan plan por posibles vicios legales en la Sala Constitucional.",
+      "image_url": "https://www.nacion.com/resizer/v2/CMLVP7JHYBCYFF7IGZZPDMUQEY.jpg?auth=7d1e3cd38b5cfe8bc85365d228fa95f2ed68ab34fe0acc43b454cda8dfdbf1b7&smart=true&width=4464&height=2976",
+      "description": "Un grupo de 20 diputados llevó el proyecto de Ley Marco de Alianzas Público Privadas a consulta de la Sala Constitucional al alegar eventuales vicios en la iniciativa, entre ellos la presunta creación encubierta de una institución autónoma y la exención de los controles presupuestarios de la Contraloría General de la República (CGR).",
+      "featured": false
+    },
+    {
+      "slug": "encuentran-la-version-mas-completa-del-libro-de-los-cantos-de-confucio-en-una-tumba-milenaria",
+      "title": "Encuentran la versión más completa del ‘Libro de los Cantos’ de Confucio en una tumba milenaria",
+      "category": "Mundo",
+      "bullets_20s": "• Un hallazgo significativo fecha de la China antigua relacionado al filósofo Confucio. Impacta el estudio de su obra.\n• La cantidad de tiras de bambú halladas cambia nuestra comprensión sobre la transmisión de sus enseñanzas.\n• La investigación histórica obtiene un nuevo impulso gracias a la precisión de este manuscrito. Aporta contextos enriquecedores.\n• El descubrimiento se produce en una tumba milenaria mostrando la importancia de conservar el patrimonio cultural.\n• Los textos antiguos continúan revelando secretos que pueden alterar nuestra comprensión sobre la filosofía oriental.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/encuentran-la-version-mas-completa-del-libro-de/CQV3LL2LWZFVFIV2MDSSJAHFG4/story/",
+      "publish_date": "2026-05-24T17:02:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Hallan versión completa de Confucio que transforma el estudio histórico.",
+      "image_url": "https://www.nacion.com/resizer/v2/A7REEYISYRGVFKVFWWUY6BLOFY.png?auth=596097cd3b66dc1da0a03ed5844aa5cc35114750db8e15ab42bb2b121c614997&smart=true&width=1672&height=941",
+      "description": "Una tumba milenaria en China reveló más de 5.000 tiras de bambú con la versión más completa del Libro de los Cantos atribuido a Confucio y abrió nuevas posibilidades para la investigación histórica.",
+      "featured": false
+    },
+    {
       "slug": "riquelme-desafiara-a-florentino-perez-en-elecciones-a-presidencia-del-real-madrid",
       "title": "Riquelme desafiará a Florentino Pérez en elecciones a presidencia del Real Madrid",
       "category": "Mundo",
@@ -251,11 +290,11 @@
       "slug": "todos-los-que-se-han-ido-estan-aqui-por-que-1980-es-un-ano-clave-para-entender-la-crisis-migratoria-que-conecta-a-centro",
       "title": "Todos los que se han ido están aquí: por qué 1980 es un año clave para entender la crisis migratoria que conecta a Centroamérica y EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• El año 1980 marcó un punto crucial en la migración hacia Estados Unidos desde Centroamérica.\n• Diversos factores económicos y políticos influyeron en el desplazamiento de miles de centroamericanos.\n• La inestabilidad social en la región fue un catalizador para la búsqueda de nuevas oportunidades.\n• El autor, Jonathan Blitzer, explora los contextos históricos de esta migración masiva.\n• La crisis migratoria actual tiene raíces profundas que se remontan a varias décadas atrás.",
+      "bullets_20s": "• El año 1980 es crucial para entender la migración hacia EE.UU. desde Centroamérica.\n• Investigaciones recientes apuntan a factores históricos que impulsan la migración actual.\n• Los conflictos en Centroamérica en los años 80 tuvieron un impacto duradero.\n• La crisis migratoria actual refleja patrones de desplazamiento del pasado reciente.\n• Jonathan Blitzer se adentra en la conexión entre historia y migración moderna.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cq5p8wpv1n1o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-24T11:52:49.000Z",
-      "teaser": "Lo clave en 20 segundos: 1980 fue fundamental en la crisis migratoria entre Centroamérica y EE.UU.",
+      "teaser": "Lo clave en 20 segundos: La migración actual a EE.UU. tiene raíces en los eventos de 1980 en Centroamérica.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/5023/live/ad89ec00-4ef4-11f1-85df-7fe19d922bf1.jpg",
       "description": "Jonathan Blitzer es periodista de The New Yorker y autor del libro \"Todos los que se han ido están aquí\".",
       "featured": false
@@ -303,11 +342,11 @@
       "slug": "que-es-la-tarea-de-seleccion-de-wason-uno-de-los-problemas-de-logica-mas-investigados-y-desconcertantes-de-la-historia",
       "title": "Qué es la Tarea de selección de Wason, uno de los problemas de lógica más investigados y desconcertantes de la historia",
       "category": "Ciencia",
-      "bullets_20s": "• La Tarea de selección de Wason es un clásico en la psicología y la lógica.\n• Se basa en un experimento con cuatro tarjetas y una regla sencilla.\n• Muchos tienen dificultades para resolver el problema correctamente.\n• Este fenómeno ha sido objeto de numerosos estudios investigativos.\n• Muestra cómo la intuición humana puede fallar ante simples reglas.",
+      "bullets_20s": "• La Tarea de selección de Wason es un problema logístico fascinante. Estimula el pensamiento crítico y la lógica.\n• Este problema ha generado un amplio interés en psicología cognitiva durante décadas. Varias teorías han surgido al respecto.\n• Las decisiones humanas frente a esta tarea revelan sesgos cognitivos interesantes. Según los estudios, la lógica no siempre se aplica.\n• El enunciado del problema parece fácil, pero muchas personas erran en su respuesta. Esto ha sido un misterio por años.\n• La investigación continúa para entender la mecánica detrás de la toma de decisiones. La lógica y la intuición juegan un papel importante.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c62d08gvjzgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-24T10:30:32.000Z",
-      "teaser": "Lo clave en 20 segundos: La Tarea de Wason pone a prueba nuestra lógica y razonamiento.",
+      "teaser": "Lo clave en 20 segundos: La Tarea de Wason desconcierta por su lógica simple y la complejidad del pensamiento humano.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c11c/live/35ee43d0-55f2-11f1-8b8c-6d33e1d5abb6.jpg",
       "description": "Cuatro tarjetas, una regla y una pregunta... ¿por qué tanta gente se equivoca al responder si el problema es tan sencillo?",
       "featured": false
@@ -316,11 +355,11 @@
       "slug": "como-es-butan-el-remoto-reino-del-himalaya-que-ahora-se-abre-al-mundo",
       "title": "Cómo es Bután, el remoto reino del Himalaya que ahora se abre al mundo",
       "category": "Mundo",
-      "bullets_20s": "• Bután es conocido por su enfoque en la felicidad y el bienestar de sus ciudadanos.\n• El reino, ubicado en el Himalaya, ofrece un paisaje impresionante y una rica cultura.\n• El gobierno está promoviendo el turismo sostenible para preservar su patrimonio.\n• Las estrictas regulaciones aseguran que no se convierta en un destino masificado.\n• Visitar Bután es una oportunidad para experimentar tradiciones culturales únicas.",
+      "bullets_20s": "• Bután es conocido por su enfoque en la felicidad y el bienestar de sus ciudadanos.\n• El país ha mantenido un balance entre modernidad y la preservación cultural.\n• Ahora busca abrir sus puertas al turismo de manera controlada y sostenible.\n• Los visitantes podrán disfrutar de su rica cultura y hermosa naturaleza.\n• Bután garantiza que el turismo no comprometerá su entorno y tradiciones.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cj9plrwkm73o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-24T08:29:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Bután se abre al turismo sostenible sin perder su esencia cultural.",
+      "teaser": "Lo clave en 20 segundos: Bután se abre al mundo con un enfoque sostenible.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c624/live/f406fe00-4582-11f1-9f8d-a1afc536e137.png",
       "description": "El espiritual Bután se abre a recibir más visitantes sin sucumbir al turismo de masas.",
       "featured": false
@@ -342,11 +381,11 @@
       "slug": "por-que-las-ideas-de-un-gran-estratega-de-las-guerras-napoleonicas-siguen-vigentes-para-entender-el-actual-conflicto-en-",
       "title": "Por qué las ideas de un gran estratega de las Guerras Napoleónicas siguen vigentes para entender el actual conflicto en Irán",
       "category": "Mundo",
-      "bullets_20s": "• Carl von Clausewitz es un referente en la teoría militar desde el siglo XIX.\n• Sus conceptos de estrategia aún son aplicables en contextos modernos de conflicto.\n• El conflicto en Irán presenta similitudes con guerras históricas según Clausewitz.\n• La influencia de Clausewitz se puede ver en diversas decisiones militares actuales.\n• Entender su teoría ayuda a analizar las dinámicas bélicas de hoy.\n• La guerra siempre ha sido un tema complejo y variado a lo largo de la historia.\n• El filósofo y estratega aportó conceptos que siguen resonando en estudios bélicos.\n• El análisis de conflictos actuales requiere una mirada multidimensional y profunda.",
+      "bullets_20s": "• Carl von Clausewitz es reconocido por sus estrategias militares y su pensamiento sobre la guerra.\n• Las teorías de Clausewitz se han aplicado en conflictos contemporáneos, incluido Irán.\n• Su enfoque sobre la política y la guerra sigue siendo relevante en el análisis actual.\n• Se explora cómo sus enseñanzas se traducen en tácticas modernas y decisiones políticas.\n• Analistas destacan la importancia de entender contextos históricos para interpretar guerras actuales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cn5pl432676o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-24T03:18:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Las teorías de Clausewitz sobre la guerra siguen siendo relevantes hoy.",
+      "teaser": "Lo clave en 20 segundos: La teoría de Clausewitz sigue influyendo en estrategias modernas de conflicto.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/a491/live/735a50d0-52d0-11f1-a138-8bc30d70ab4d.jpg",
       "description": "El estratega y filósofo de guerra prusiano Carl von Clausewitz ha influido en otros líderes militares desde el siglo XIX. ¿Cómo se refleja su teoría en la actual guerra en Irán?",
       "featured": false
@@ -1031,11 +1070,11 @@
       "slug": "como-la-familia-andic-construyo-el-imperio-de-la-moda-mango-y-que-poder-tiene-jonathan-el-heredero-acusado-de-la-muerte-",
       "title": "Cómo la familia Andic construyó el imperio de la moda Mango y qué poder tiene Jonathan, el heredero acusado de la muerte de su padre",
       "category": "Mundo",
-      "bullets_20s": "• Isak Andic comenzó su carrera vendiendo camisas importadas, una decisión que definió su futuro.\n• El crecimiento de Mango ha sido sorprendente, convirtiéndose en un referente en el sector de la moda.\n• La familia Andic ha enfrentado retos legales y personales que impactan la imagen de la marca.\n• Jonathan, el heredero de la fortuna, se encuentra en medio de una controversia mediática significativa.\n• La historia de Mango refleja cómo la visión empresarial puede crear imperios en la industria textil.",
+      "bullets_20s": "• Isak Andic fundó Mango y logró un notable éxito en el sector de la moda internacional.\n• La marca Mango se caracteriza por sus diseños innovadores y su enfoque en el estilo europeo.\n• La familia Andic ha estado involucrada en la moda durante varias décadas a nivel internacional.\n• Jonathan Andic, el heredero de Mango, está en el centro de controversias recientes.\n• Los orígenes humildes de Mango resaltan el impacto del emprendimiento en la economía local.",
       "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/cjepny159jjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-23T11:28:25.000Z",
-      "teaser": "Lo clave en 20 segundos: La familia Andic, más allá de la moda, enfrenta controversias significativas.",
+      "teaser": "Lo clave en 20 segundos: La historia de Mango y su controversia familiar se revela tras décadas de éxito.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/82bc/live/570c4ee0-55fc-11f1-9773-43c89bcb1e91.jpg",
       "description": "Isak Andic empezó vendiendo camisas bordadas que importaba de Turquía, pero su olfato para los negocios le llevó a montar uno de los mayores imperios de la moda.",
       "featured": false
@@ -1603,11 +1642,11 @@
       "slug": "webinar-eico-ensayos-no-destructivos-utilizados-en-obras-civiles",
       "title": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "category": "Ciencia",
-      "bullets_20s": "• El TEC ofrece un webinar gratuito sobre ensayos no destructivos en infraestructuras civiles.\n• La actividad es conducida por el ingeniero Luis Carlos Calvo Navarro, experto en el área.\n• Las técnicas de inspección no afectan la integridad de las obras evaluadas en el proyecto.\n• El webinar es ideal para profesionales, estudiantes e interesados en ingeniería civil.\n• Los participantes pueden inscribirse a través de un formulario que se encuentra disponible.",
+      "bullets_20s": "• El TEC organiza un webinar sobre ensayos no destructivos en obras civiles.\n• Ing. Luis Carlos Calvo impartirá técnicas modernas de evaluación y diagnóstico.\n• El espacio académico es gratuito y abierto a estudiantes y profesionales.\n• Se busca promover la actualización profesional en el sector construcción.\n• Inscripciones se realizan mediante un formulario online en el enlace.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/webinar-eico-ensayos-no-destructivos-utilizados-obras-civiles",
       "publish_date": "2026-05-22T18:04:49.000Z",
-      "teaser": "Lo clave en 20 segundos: descubre técnicas modernas de evaluación en obras civiles.",
+      "teaser": "Lo clave en 20 segundos: Descubre técnicas de evaluación en obras civiles en un webinar del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/image_4.png",
       "description": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "featured": false
@@ -2057,12 +2096,12 @@
     {
       "slug": "tec-lleva-a-brasil-la-innovadora-plataforma-que-crea-y-valida-lenguas-de-senas",
       "title": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
-      "category": "Ciencia",
-      "bullets_20s": "• La plataforma PIELS permite representar señas mediante avatares digitales en Brasil.\n• TEC participó en una Librasthon en São Paulo enfocándose en accesibilidad e inclusión.\n• Estudiantes costarricenses presentaron avances en accesibilidad digital en el evento.\n• La plataforma busca facilitar comunicación para personas sordas mediante tecnología.\n• Investigadores y especialistas colaboraron en validación lingüística de nuevas señas.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC presentó PIELS, una plataforma innovadora para la validación de lenguas de señas en Brasil.\n• Esta herramienta permite la representación de señas mediante avatares digitales animados y expresivos.\n• Estudiantes del TEC participaron en un simposio, mostrando avances en tecnología accesible.\n• El evento en Brasil reunió expertos internacionales en lengua de señas y tecnologías inclusivas.\n• IncluTEC busca fortalecer la accesibilidad y la comunicación para personas sordas a nivel regional.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/tec-lleva-brasil-innovadora-plataforma-crea-valida-lenguas-senas",
       "publish_date": "2026-05-22T03:29:38.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC presentó PIELS, una plataforma innovadora para lenguas de señas en Brasil.",
+      "teaser": "Lo clave en 20 segundos: TEC presenta PIELS, una innovadora plataforma de lenguas de señas en Brasil.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/piels.png",
       "description": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
       "featured": false
@@ -2604,11 +2643,11 @@
       "slug": "consejo-institucional-honra-la-trayectoria-y-contribucion-de-exrectores-del-tec",
       "title": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El Consejo Institucional rindió homenaje a exrectores del Tecnológico de Costa Rica.\n• Se develaron fotografías de los exrectores Julio Calvo, Luis Méndez y Jorge Chaves.\n• Los exrectores ejercieron su función entre 2011 y 2023 en la Institución.\n• El acto fue solemne y contó con la presencia de autoridades y familiares.\n• Se resaltó el compromiso de los exrectores en la educación pública del país.",
+      "bullets_20s": "• Se develaron fotografías de exrectores que dejaron una huella en el TEC de 2011 a 2023.\n• El Consejo Institucional rindió homenaje a la trayectoria de los exrectores significativos.\n• Las transformaciones en el TEC fueron impulsadas por estos líderes con visión estratégica.\n• El acto reconoció los logros en infraestructura y acreditación académica en el TEC.\n• Liderazgos del pasado fueron homenajeados por su contribución a la educación superior.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/consejo-institucional-honra-trayectoria-contribucion-exrectores-tec",
       "publish_date": "2026-05-21T17:02:00.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC rinde homenaje a exrectores con develación de fotografías en acto solemne.",
+      "teaser": "Lo clave en 20 segundos: Homenaje a exrectores del TEC que marcaron su historia reciente.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/rectores-1.png",
       "description": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "featured": false
@@ -25390,5 +25429,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-24T16:45:19.642Z"
+  "generated_at": "2026-05-24T17:45:19.825Z"
 }
