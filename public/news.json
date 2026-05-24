@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "asaltos-ajustes-de-cuentas-y-victima-colateral-oij-reporta-seis-homicidios-en-fin-de-semana",
+      "title": "Asaltos, ajustes de cuentas y víctima colateral: OIJ reporta seis homicidios en fin de semana",
+      "category": "Costa Rica",
+      "bullets_20s": "• El OIJ reporta seis homicidios entre viernes y domingo, un fin de semana violento en el país.\n• Los casos incluyen el asesinato de un hombre frente a un supermercado, víctima colateral.\n• El total de homicidios en 2026 alcanza al menos 303, preocupante cifra en Costa Rica.\n• Limón y San José resaltan como las provincias más afectadas por la violencia este año.\n• Las autoridades investigan los motivos detrás de estos asesinatos, buscando respuestas.",
+      "source_name": "Christian  Montero",
+      "source_url": "https://www.nacion.com/sucesos/asaltos-ajustes-de-cuentas-y-victima-colateral-oij/56JLFY3FNRFF7EBSBLCPEVMG5U/story/",
+      "publish_date": "2026-05-24T18:13:51.000Z",
+      "teaser": "Lo clave en 20 segundos: OIJ reporta seis homicidios en un fin de semana violento en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/JOQJH3BNOVABBI34GZ4XVP3G2I.jpeg?auth=79173d886022e618c1e4e513deca48508b4e42b05b5b7463c39f41a1845d3ce4&smart=true&width=1032&height=900",
+      "description": "Seis homicidios ocurridos entre el viernes y el domingo, incluyendo el caso de un hombre que estaba afuera de un supermercado, elevaron al menos a 303 los casos registrados en el país en lo que va del año, según datos del Organismo de Investigación Judicial (OIJ). Limón, con 72 casos, y San José, con 94, son las provincias más violentas.",
+      "featured": false
+    },
+    {
+      "slug": "cortes-de-luz-afectaran-sectores-de-guanacaste-y-alajuela-este-martes-26-de-mayo",
+      "title": "Cortes de luz afectarán sectores de Guanacaste y Alajuela este martes 26 de mayo",
+      "category": "Costa Rica",
+      "bullets_20s": "• Este martes se realizará un mantenimiento programado que afectará el servicio de electricidad.\n• Las comunidades de Bagaces, Guatuso y Upala serán las más impactadas por los cortes.\n• El Instituto Costarricense de Electricidad (ICE) lleva a cabo estos trabajos para mejorar el servicio.\n• Se recomienda a los habitantes estar preparados para la falta de electricidad durante el día.\n• Los cortes de luz están programados para varias horas, afectando actividades diarias.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-afectaran-sectores-de-guanacaste-y/EEBYUZX4YVCDNHAMIFNNOORFJI/story/",
+      "publish_date": "2026-05-24T18:08:15.000Z",
+      "teaser": "Lo clave en 20 segundos: Cortes de luz programados para este martes en Guanacaste y Alajuela.",
+      "image_url": "https://www.nacion.com/resizer/v2/XKW4ZDZWRZA4TPUMQM2S67EY2Q.JPG?auth=b7a19279642f97dfc7ba73d64f89431623f19eddc321243009f31a6fb9a13a27&smart=true&width=4000&height=2667",
+      "description": "Cortes de luz afectarán comunidades de Bagaces, Guatuso y Upala este martes 26 de mayo por trabajos de mantenimiento del ICE.",
+      "featured": false
+    },
+    {
+      "slug": "cortes-de-luz-afectaran-sectores-de-santa-ana-la-union-y-rohrmoser-este-martes-26-de-mayo",
+      "title": "Cortes de luz afectarán sectores de Santa Ana, La Unión y Rohrmoser este martes 26 de mayo",
+      "category": "Costa Rica",
+      "bullets_20s": "• La CNFL ha programado cortes de luz en varias áreas este martes 26 de mayo.\n• Los sectores afectados incluyen Santa Ana, La Unión y Rohrmoser, según el informe.\n• Los cortes están programados para realizar trabajos de mantenimiento y mejoras.\n• Se recomienda a los residentes prepararse ante estos cortes temporales de energía.\n• Las horas específicas de los cortes aún están siendo comunicadas a los usuarios.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-afectaran-sectores-de-santa-ana-la/OGNABXZFUZAM7CXLX4EGCTAGAQ/story/",
+      "publish_date": "2026-05-24T18:08:06.000Z",
+      "teaser": "Lo clave en 20 segundos: Cortes de luz programados en Santa Ana, La Unión y Rohrmoser este 26 de mayo.",
+      "image_url": "https://www.nacion.com/resizer/v2/J5GCTUOMOBG4LB2EHUONQMV5CI.JPG?auth=0b59d6024b94c3e3ec976172a5dc746853a08e9a2e06988501da3ad3ed0a0eb0&smart=true&width=3520&height=1980",
+      "description": "Cortes de luz de la CNFL afectarán Santa Ana, La Unión y Rohrmoser este 26 de mayo del 2026. Conozca horarios, zonas impactadas y trabajos programados.",
+      "featured": false
+    },
+    {
       "slug": "el-mundial-2026-pone-la-salud-de-los-jugadores-al-limite",
       "title": "El Mundial 2026 pone la salud de los jugadores al límite",
       "category": "Mundo",
@@ -342,11 +381,11 @@
       "slug": "que-es-la-tarea-de-seleccion-de-wason-uno-de-los-problemas-de-logica-mas-investigados-y-desconcertantes-de-la-historia",
       "title": "Qué es la Tarea de selección de Wason, uno de los problemas de lógica más investigados y desconcertantes de la historia",
       "category": "Ciencia",
-      "bullets_20s": "• La Tarea de selección de Wason es un problema logístico fascinante. Estimula el pensamiento crítico y la lógica.\n• Este problema ha generado un amplio interés en psicología cognitiva durante décadas. Varias teorías han surgido al respecto.\n• Las decisiones humanas frente a esta tarea revelan sesgos cognitivos interesantes. Según los estudios, la lógica no siempre se aplica.\n• El enunciado del problema parece fácil, pero muchas personas erran en su respuesta. Esto ha sido un misterio por años.\n• La investigación continúa para entender la mecánica detrás de la toma de decisiones. La lógica y la intuición juegan un papel importante.",
+      "bullets_20s": "• La Tarea de Wason es un experimento clásico en psicología y lógica.\n• Se basa en la lógica deductiva y en la toma de decisiones humanas.\n• Cuatro tarjetas presentan un dilema que confunde a muchas personas.\n• El objetivo es determinar la verdad de una afirmación condicional.\n• Este problema revela fallos en el razonamiento lógico en humanos.\n• Se ha estudiado ampliamente en contextos académicos y prácticos.\n• La simplicidad de la tarea contrasta con la dificultad para resolverla.\n• Explora cómo el contexto influye en las decisiones lógicas.\n• Los resultados son sorprendentes y revelan sesgos cognitivos comunes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c62d08gvjzgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-24T10:30:32.000Z",
-      "teaser": "Lo clave en 20 segundos: La Tarea de Wason desconcierta por su lógica simple y la complejidad del pensamiento humano.",
+      "teaser": "Lo clave en 20 segundos: La Tarea de Wason muestra los errores comunes en lógica.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c11c/live/35ee43d0-55f2-11f1-8b8c-6d33e1d5abb6.jpg",
       "description": "Cuatro tarjetas, una regla y una pregunta... ¿por qué tanta gente se equivoca al responder si el problema es tan sencillo?",
       "featured": false
@@ -355,11 +394,11 @@
       "slug": "como-es-butan-el-remoto-reino-del-himalaya-que-ahora-se-abre-al-mundo",
       "title": "Cómo es Bután, el remoto reino del Himalaya que ahora se abre al mundo",
       "category": "Mundo",
-      "bullets_20s": "• Bután es conocido por su enfoque en la felicidad y el bienestar de sus ciudadanos.\n• El país ha mantenido un balance entre modernidad y la preservación cultural.\n• Ahora busca abrir sus puertas al turismo de manera controlada y sostenible.\n• Los visitantes podrán disfrutar de su rica cultura y hermosa naturaleza.\n• Bután garantiza que el turismo no comprometerá su entorno y tradiciones.",
+      "bullets_20s": "• Bután ha mantenido su cultura y tradiciones a pesar de la modernización global.\n• El reino busca equilibrar el turismo con la conservación de su entorno natural.\n• Se implementan medidas para evitar el turismo masivo que dañe el ecosistema.\n• Bután promueve el bienestar de sus ciudadanos por encima del desarrollo económico.\n• El paisaje montañoso y templos antiguos atraen a quienes buscan espiritualidad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cj9plrwkm73o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-24T08:29:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Bután se abre al mundo con un enfoque sostenible.",
+      "teaser": "Lo clave en 20 segundos: Bután abre sus puertas al turismo sin perder su esencia cultural.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c624/live/f406fe00-4582-11f1-9f8d-a1afc536e137.png",
       "description": "El espiritual Bután se abre a recibir más visitantes sin sucumbir al turismo de masas.",
       "featured": false
@@ -381,11 +420,11 @@
       "slug": "por-que-las-ideas-de-un-gran-estratega-de-las-guerras-napoleonicas-siguen-vigentes-para-entender-el-actual-conflicto-en-",
       "title": "Por qué las ideas de un gran estratega de las Guerras Napoleónicas siguen vigentes para entender el actual conflicto en Irán",
       "category": "Mundo",
-      "bullets_20s": "• Carl von Clausewitz es reconocido por sus estrategias militares y su pensamiento sobre la guerra.\n• Las teorías de Clausewitz se han aplicado en conflictos contemporáneos, incluido Irán.\n• Su enfoque sobre la política y la guerra sigue siendo relevante en el análisis actual.\n• Se explora cómo sus enseñanzas se traducen en tácticas modernas y decisiones políticas.\n• Analistas destacan la importancia de entender contextos históricos para interpretar guerras actuales.",
+      "bullets_20s": "• Carl von Clausewitz es un filósofo de guerra prusiano, influyente desde el siglo XIX.\n• Sus teorías sobre estrategia militar todavía se estudian y aplican en conflictos actuales.\n• El conflicto en Irán presenta paralelos con teorías de Clausewitz sobre la guerra.\n• Entender la guerra moderna requiere revisar los planteamientos de los antiguos estrategas.\n• La relevancia de Clausewitz se extiende a diversos escenarios geopolíticos contemporáneos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cn5pl432676o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-24T03:18:53.000Z",
-      "teaser": "Lo clave en 20 segundos: La teoría de Clausewitz sigue influyendo en estrategias modernas de conflicto.",
+      "teaser": "Lo clave en 20 segundos: Las teorías de Clausewitz son clave para entender el conflicto en Irán.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/a491/live/735a50d0-52d0-11f1-a138-8bc30d70ab4d.jpg",
       "description": "El estratega y filósofo de guerra prusiano Carl von Clausewitz ha influido en otros líderes militares desde el siglo XIX. ¿Cómo se refleja su teoría en la actual guerra en Irán?",
       "featured": false
@@ -1070,11 +1109,11 @@
       "slug": "como-la-familia-andic-construyo-el-imperio-de-la-moda-mango-y-que-poder-tiene-jonathan-el-heredero-acusado-de-la-muerte-",
       "title": "Cómo la familia Andic construyó el imperio de la moda Mango y qué poder tiene Jonathan, el heredero acusado de la muerte de su padre",
       "category": "Mundo",
-      "bullets_20s": "• Isak Andic fundó Mango y logró un notable éxito en el sector de la moda internacional.\n• La marca Mango se caracteriza por sus diseños innovadores y su enfoque en el estilo europeo.\n• La familia Andic ha estado involucrada en la moda durante varias décadas a nivel internacional.\n• Jonathan Andic, el heredero de Mango, está en el centro de controversias recientes.\n• Los orígenes humildes de Mango resaltan el impacto del emprendimiento en la economía local.",
-      "source_name": "",
+      "bullets_20s": "• Isak Andic comenzó su carrera vendiendo camisas bordadas en mercados locales. Su visión fue clave en el crecimiento.\n• La marca Mango se ha expandido a nivel mundial, siendo reconocida por su estilo único y accesible.\n• Jonathan Andic, heredero de la empresa, enfrenta acusaciones serias que han sorprendido al público y medios.\n• La historia de Mango refleja el crecimiento de la moda rápida en el siglo XXI y su impacto en la economía.\n• Isak Andic apostó por la innovación en sus diseños, adaptándose a las tendencias y preferencias del consumidor.",
+      "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cjepny159jjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-23T11:28:25.000Z",
-      "teaser": "Lo clave en 20 segundos: La historia de Mango y su controversia familiar se revela tras décadas de éxito.",
+      "teaser": "Lo clave en 20 segundos: La evolución de Mango y el complejo legado de la familia Andic.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/82bc/live/570c4ee0-55fc-11f1-9773-43c89bcb1e91.jpg",
       "description": "Isak Andic empezó vendiendo camisas bordadas que importaba de Turquía, pero su olfato para los negocios le llevó a montar uno de los mayores imperios de la moda.",
       "featured": false
@@ -1642,13 +1681,13 @@
       "slug": "webinar-eico-ensayos-no-destructivos-utilizados-en-obras-civiles",
       "title": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "category": "Ciencia",
-      "bullets_20s": "• El TEC organiza un webinar sobre ensayos no destructivos en obras civiles.\n• Ing. Luis Carlos Calvo impartirá técnicas modernas de evaluación y diagnóstico.\n• El espacio académico es gratuito y abierto a estudiantes y profesionales.\n• Se busca promover la actualización profesional en el sector construcción.\n• Inscripciones se realizan mediante un formulario online en el enlace.",
+      "bullets_20s": "• La Escuela de Ingeniería en Construcción del TEC organiza un webinar gratuito sobre ensayos no destructivos.\n• El webinar aborda técnicas modernas de diagnóstico aplicadas a infraestructuras y edificaciones en Costa Rica.\n• Impulsado por el Centro de Investigaciones en Vivienda y Construcción, el evento es académico y formativo.\n• El ingeniero Luis Carlos Calvo compartirá conocimientos sobre la importancia de la inspección civil.\n• Se espera la participación de estudiantes, profesionales e investigadores del sector de la construcción.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/webinar-eico-ensayos-no-destructivos-utilizados-obras-civiles",
       "publish_date": "2026-05-22T18:04:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre técnicas de evaluación en obras civiles en un webinar del TEC.",
+      "teaser": "Lo clave en 20 segundos: Conozca sobre ensayos no destructivos en el próximo webinar del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/image_4.png",
-      "description": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
+      "description": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles.",
       "featured": false
     },
     {
@@ -2097,11 +2136,11 @@
       "slug": "tec-lleva-a-brasil-la-innovadora-plataforma-que-crea-y-valida-lenguas-de-senas",
       "title": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC presentó PIELS, una plataforma innovadora para la validación de lenguas de señas en Brasil.\n• Esta herramienta permite la representación de señas mediante avatares digitales animados y expresivos.\n• Estudiantes del TEC participaron en un simposio, mostrando avances en tecnología accesible.\n• El evento en Brasil reunió expertos internacionales en lengua de señas y tecnologías inclusivas.\n• IncluTEC busca fortalecer la accesibilidad y la comunicación para personas sordas a nivel regional.",
+      "bullets_20s": "• El TEC presentó en Brasil una plataforma innovadora para crear y validar lenguas de señas.\n• La iniciativa reunió a investigadores y estudiantes en la ciudad de São Paulo, Brasil.\n• PIELS permite el uso de avatares digitales para representar conceptos en lengua de señas.\n• El sistema incorpora aspectos gramaticales fundamentales de la lengua de señas.\n• La plataforma busca facilitar la comunicación accesible para personas sordas en Costa Rica.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/tec-lleva-brasil-innovadora-plataforma-crea-valida-lenguas-senas",
       "publish_date": "2026-05-22T03:29:38.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC presenta PIELS, una innovadora plataforma de lenguas de señas en Brasil.",
+      "teaser": "Lo clave en 20 segundos: TEC presentó en Brasil una plataforma innovadora para lenguas de señas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/piels.png",
       "description": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
       "featured": false
@@ -2643,11 +2682,11 @@
       "slug": "consejo-institucional-honra-la-trayectoria-y-contribucion-de-exrectores-del-tec",
       "title": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• Se develaron fotografías de exrectores que dejaron una huella en el TEC de 2011 a 2023.\n• El Consejo Institucional rindió homenaje a la trayectoria de los exrectores significativos.\n• Las transformaciones en el TEC fueron impulsadas por estos líderes con visión estratégica.\n• El acto reconoció los logros en infraestructura y acreditación académica en el TEC.\n• Liderazgos del pasado fueron homenajeados por su contribución a la educación superior.",
+      "bullets_20s": "• El Consejo Institucional rinde homenaje a exrectores del Tecnológico de Costa Rica.\n• Se develan fotografías de los exrectores en un acto solemne y significativo.\n• Julio Calvo, Luis Méndez y Jorge Chaves han dejado huellas en el TEC.\n• Reconocen aportes en infraestructura, investigación y educación de calidad.\n• Se evoca compromiso y liderazgo en la educación superior pública del país.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/consejo-institucional-honra-trayectoria-contribucion-exrectores-tec",
       "publish_date": "2026-05-21T17:02:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Homenaje a exrectores del TEC que marcaron su historia reciente.",
+      "teaser": "Lo clave en 20 segundos: El TEC honra a exrectores con un emotivo homenaje y develación de fotografías.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/rectores-1.png",
       "description": "Consejo Institucional honra la trayectoria y contribución de exrectores del TEC",
       "featured": false
@@ -25429,5 +25468,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-24T17:45:19.825Z"
+  "generated_at": "2026-05-24T18:45:20.293Z"
 }
