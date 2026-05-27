@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "privado-de-libertad-muere-en-hospital-tras-agresion-en-la-reforma",
+      "title": "Privado de libertad muere en hospital tras agresión en La Reforma",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un privado de libertad fallece luego de ser agredido en el centro penitenciario de La Reforma.\n• Las autoridades están investigando las circunstancias de la agresión y el fallecimiento.\n• El presunto agresor ha sido aislado para facilitar la investigación correspondiente.\n• Este incidente resalta la necesidad de mejoras en la seguridad penitenciaria en Costa Rica.\n• Las muertes en centros penitenciarios son preocupantes y generan debates sobre políticas de seguridad.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/sucesos/privado-de-libertad-muere-en-hospital-tras/LPSEZHBQLZD3BOMIVGO7FMYVI4/story/",
+      "publish_date": "2026-05-27T19:25:23.000Z",
+      "teaser": "Lo clave en 20 segundos: Un interno muere tras agresión en La Reforma y se investiga el caso.",
+      "image_url": "https://www.nacion.com/resizer/v2/LVYHUJAJERHCDBNMXIMI7TMQCI.jpeg?auth=18d1ecb1eeb650a3cd75e2c0800deea577100b0f8c997dc7e62adea70b3884f7&smart=true&width=1620&height=1080",
+      "description": "Las autoridades penitenciarias de La Reforma aislaron al presunto agresor mientras investigan el caso.",
+      "featured": false
+    },
+    {
+      "slug": "gustavo-petro-protesta-por-el-suicidio-de-un-joven-colombiano-bajo-custodia-del-ice",
+      "title": "Gustavo Petro protesta por el suicidio de un joven colombiano bajo custodia del ICE",
+      "category": "Mundo",
+      "bullets_20s": "• El suicidio del joven ha generado una fuerte protesta en Colombia y en el extranjero.\n• La falta de atención psicológica en custodia es un tema crítico en derechos humanos.\n• Gustavo Petro ha sido un defensor abierto de los derechos de los migrantes.\n• Este caso resalta las condiciones precarias en centros de detención migratoria.\n• Las autoridades están bajo presión para mejorar la atención a personas vulnerables.\n• El suceso ha reavivado el debate sobre las políticas del ICE en América Latina.\n• Las revelaciones han impactado a organizaciones de derechos humanos en el país.\n• El dolor de la familia del joven ha resonado en muchas comunidades colombianas.\n• Se busca que este caso no se repita, abogando por cambios en el sistema.\n• Las redes sociales se llenan de mensajes de apoyo a la familia del joven.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/gustavo-petro-protesta-por-el-suicidio-de-un-joven/3L3ZHKC3LREJ5PY6MMBCHAJSDQ/story/",
+      "publish_date": "2026-05-27T19:21:43.000Z",
+      "teaser": "Lo clave en 20 segundos: Gustavo Petro protesta por el suicidio de un joven inmigrante en custodia del ICE.",
+      "image_url": "https://www.nacion.com/resizer/v2/RMFR2N55Q5HZRDVZGGISHMPKSU.PNG?auth=eb4a14569dc5725b521372320aa6a9241844c64d889c077961315cec16b1f191&smart=true&width=1184&height=523",
+      "description": "El joven, que tenía COVID, fiebre, ansiedad y le negaron ayuda psicológica, se quitó la vida después de que le impidieran hablar con su madre.",
+      "featured": false
+    },
+    {
       "slug": "se-puede-desactivar-el-meta-ai-de-whatsapp-algunos-usuarios-quieren-ocultarlo",
       "title": "¿Se puede desactivar el Meta AI de WhatsApp? Algunos usuarios quieren ocultarlo",
       "category": "Tecnología",
@@ -316,11 +342,11 @@
       "slug": "por-que-a-venezuela-le-falta-energia-pese-a-su-riqueza-petrolera-y-como-eso-limita-su-recuperacion-economica",
       "title": "Por qué a Venezuela le falta energía pese a su riqueza petrolera y cómo eso limita su recuperación económica",
       "category": "Mundo",
-      "bullets_20s": "• Venezuela posee las reservas de petróleo más grandes del mundo, lo que debería garantizar energía.\n• A pesar de su potencia, el país enfrenta graves problemas en su infraestructura eléctrica.\n• La dependencia del sector petrolero limita la diversificación de su economía actual.\n• La corrupción y la mala gestión han exacerbado la crisis energética en el país.\n• La recuperación económica está profundamente ligada a la solución de la crisis energética.",
+      "bullets_20s": "• Venezuela posee las mayores reservas de petróleo, lo que debería garantizar su suministro energético.\n• El país enfrenta severos problemas en su infraestructura eléctrica y de petróleo.\n• Las limitaciones energéticas afectan la economía y la calidad de vida de los venezolanos.\n• Las políticas internas y externas han llevado a un colapso de la industria energética.\n• Diversos factores económicos y políticos han limitado el desarrollo del sector energético.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ckgp97n1l1do?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-27T11:02:56.000Z",
-      "teaser": "Lo clave en 20 segundos: La crisis energética en Venezuela persiste pese a sus vastos recursos naturales.",
+      "teaser": "Lo clave en 20 segundos: Venezuela sufre falta de energía pese a ser rica en petróleo, afectando su economía.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/411f/live/70ee1220-5549-11f1-bdf3-a1cfc8f36fb3.jpg",
       "description": "Venezuela tiene las reservas probadas de crudo más grandes del mundo y un enorme potencial hidroeléctrico, pese a lo cual el país tiene graves problemas con el servicio eléctrico.",
       "featured": false
@@ -368,11 +394,11 @@
       "slug": "las-paradisiacas-playas-para-turistas-en-el-caribe-a-las-que-los-locales-no-pueden-acceder",
       "title": "Las paradisíacas playas para turistas en el Caribe a las que los locales no pueden acceder",
       "category": "Mundo",
-      "bullets_20s": "• Las activistas en el Caribe luchan por el acceso a playas que tradicionalmente eran públicas.\n• La situación afecta a comunidades que dependen del turismo local y nacional.\n• Los turistas gozan de playas a las que los locales no pueden llegar actualmente.\n• Las leyes de propiedad han cambiado el acceso a las costas en varias islas del Caribe.\n• Se han organizado protestas para que se respeten los derechos de acceso a las playas.",
+      "bullets_20s": "• Las playas del Caribe se han vuelto inaccesibles para los locales por políticas turísticas recientes.\n• Los activistas luchan por los derechos de acceso a las costas en Barbuda y Jamaica.\n• El turismo ha transformado la dinámica de las playas, priorizando el acceso a turistas.\n• Las comunidades locales se ven afectadas económicamente por la falta de acceso a sus costas.\n• Históricamente, estas playas han sido parte del patrimonio local, ahora restringido.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c62r78exvvlo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-27T09:43:16.000Z",
-      "teaser": "Lo clave en 20 segundos: Las playas caribeñas se vuelven inaccesibles para los locales debido a cambios legales.",
+      "teaser": "Lo clave en 20 segundos: Playa inaccesible para locales por turismo en el Caribe.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cf6e/live/80be6f60-4a27-11f1-bfb3-af42b3144659.jpg",
       "description": "Activistas en Barbuda, Granada y Jamaica afirman que ya no pueden acceder a sus costas.",
       "featured": false
@@ -433,11 +459,11 @@
       "slug": "como-se-convirtio-el-expresidente-irani-ahmadineyad-en-uno-de-los-misterios-mas-extranos-de-la-guerra-en-iran",
       "title": "¿Cómo se convirtió el expresidente iraní Ahmadineyad en uno de los misterios más extraños de la guerra en Irán?",
       "category": "Mundo",
-      "bullets_20s": "• El expresidente Ahmadinejad ha sido un personaje controversial en la política iraní e internacional.\n• Se ha especulado sobre su papel en el desarrollo de conflictos en Medio Oriente.\n• Estados Unidos e Israel lo ven como un posible líder tras la guerra en Irán.\n• Su figura genera debates y análisis entre expertos en relaciones internacionales.\n• Las implicaciones de su retorno impactan tanto en la política interna como externa de Irán.",
+      "bullets_20s": "• El rol de Ahmadineyad durante y después de la guerra en Irán ha sido objeto de gran análisis.\n• Analistas discuten si su figura puede ser clave para estabilizar la región después del conflicto.\n• La influencia de Estados Unidos e Israel en la política iraní sigue generando suspenso y especulación.\n• Ahmadineyad ha sido una figura polarizante en la historia reciente de Irán y Oriente Medio.\n• Los conflictos en la zona han llevado a varios líderes a revaluar sus estrategias y alianzas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c0q22kjy4k9o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-27T03:22:50.000Z",
-      "teaser": "Lo clave en 20 segundos: Ahmadinejad, un enigma político tras la guerra de Irán.",
+      "teaser": "Lo clave en 20 segundos: Ahmadineyad, un enigma que fascina y divide en tiempos de guerra.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/124d/live/77014400-590b-11f1-af83-83e7141dcf5b.jpg",
       "description": "El diario The New York Times informó de que Estados Unidos e Israel consideraban al expresidente Mahmoud Ahmadinejad como un posible líder para la posguerra.",
       "featured": false
@@ -641,11 +667,11 @@
       "slug": "resonancias-del-tiempo-concierto-gratuito-de-canto-y-guitarra-en-el-tec",
       "title": "Resonancias del Tiempo: Concierto gratuito de canto y guitarra en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El evento busca celebrar la música popular de Latinoamérica y Costa Rica.\n• Participarán aproximadamente 40 músicos del Coro de Oro y la Escuela Municipal.\n• Se incluirán géneros como bolero, balada, vals y canción popular.\n• Este concierto es un esfuerzo por promover el envejecimiento activo.\n• La actividad es gratuita y abierta a toda la comunidad interesada.",
+      "bullets_20s": "• Se realizará un concierto gratuito en el Tecnológico de Costa Rica en Cartago.\n• El evento contará con canciones populares de Latinoamérica y Costa Rica.\n• Aproximadamente 40 artistas locales participarán en esta conmovedora jornada.\n• Se busca promover el envejecimiento activo mediante la práctica musical.\n• El repertorio incluirá géneros como bolero, balada y canción popular.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/resonancias-tiempo-concierto-gratuito-canto-guitarra-tec",
       "publish_date": "2026-05-26T21:30:55.000Z",
-      "teaser": "Lo clave en 20 segundos: Concierto gratuito celebra la música popular en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Concierto gratuito que celebra la música latinoamericana en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/ca-concierto.png",
       "description": "Resonancias del Tiempo: Concierto gratuito de canto y guitarra en el TEC",
       "featured": false
@@ -1122,11 +1148,11 @@
       "slug": "candidatos-a-representantes-en-el-consejo-institucional-culminaron-las-actividades-de-expresion-al-pensamiento-con-miras",
       "title": "Candidatos a representantes en el Consejo Institucional culminaron las actividades de expresión al pensamiento con miras a las elecciones de este jueves",
       "category": "Costa Rica",
-      "bullets_20s": "• Los candidatos presentaron sus propuestas en diversas actividades realizadas en todos los campus del TEC.\n• Se eligieron tres representantes del Consejo Institucional en votación electrónica el jueves 28 de mayo.\n• Las actividades promovieron un espacio de diálogo y expresión del pensamiento en la comunidad educativa.\n• Se enfocaron en consultas, presentación biográfica y preguntas entre los candidatos en los foros.\n• Las elecciones definirán representantes para el periodo de julio 2026 a junio 2030.",
+      "bullets_20s": "• Las actividades de expresión del pensamiento finalizan con la elección próxima del Consejo Institucional este jueves.\n• Se realizarán tres elecciones para representantes, mediante un sistema de votación electrónica facilitado por el TIE.\n• La última actividad tuvo lugar en el Centro de las Artes en el Campus Central del TEC en Cartago.\n• Los candidatos presentaron sus propuestas y respondieron preguntas de la comunidad institucional en foros presenciales.\n• Se espera que los nuevos representantes inicien su labor el 1 de julio de 2026, durante cuatro años.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/candidatos-representantes-consejo-institucional-culminaron-actividades-expresion-pensamiento-miras",
       "publish_date": "2026-05-26T13:38:55.000Z",
-      "teaser": "Lo clave en 20 segundos: Candidatos culminan actividades previas a elecciones del Consejo Institucional del TEC.",
+      "teaser": "Lo clave en 20 segundos: Candidatos finalizan actividades antes de elecciones del Consejo Institucional este jueves.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/actividad-expresion-pensamiento-candidatos-consejo-institucional_cartago_rgarita-1_0.jpg",
       "description": "Candidatos a representantes en el Consejo Institucional culminaron las actividades de expresión al pensamiento con miras a las elecciones de este jueves",
       "featured": false
@@ -1902,13 +1928,13 @@
       "slug": "tec-impulsa-proyecto-para-monitorear-y-prevenir-fallas-en-plantas-de-sistemas-solares",
       "title": "TEC impulsa proyecto para monitorear y prevenir fallas en plantas de sistemas solares",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC inicia un proyecto para gestionar mejor las plantas solares en Costa Rica.\n• El objetivo es monitorear fallas para optimizar el rendimiento de los sistemas solares.\n• Se busca aumentar la sostenibilidad y confiabilidad de las energías renovables en el país.\n• El proyecto incorpora un gemelo digital para anticipar problemas en los sistemas fotovoltaicos.\n• Colaboración internacional incluye plantas solares en Chile para intercambiar conocimientos.\n• Investigadores costarricenses trabajarán en un enfoque multidisciplinario para la mejora.\n• Se generarán bases de datos sobre fallas en sistemas fotovoltaicos, con acceso abierto.\n• Se planean artículos científicos y boletines informativos sobre el progreso de la investigación.\n• El TEC espera impactar positivamente en la gestión de energía en Costa Rica.\n• Se organizarán actividades divulgativas para promover buenas prácticas en el sector solar.",
+      "bullets_20s": "• El TEC desarrolla el Proyecto Gemelo Digital para mejorar el monitoreo de sistemas fotovoltaicos en Costa Rica.\n• El proyecto busca detectar fallas en plantas solares antes de que afecten su rendimiento y operación.\n• Colaboración internacional incluye investigadores de Alemania y Chile para optimizar la confiabilidad de estos sistemas.\n• Se planea generar bases de datos abiertas sobre fallas en sistemas solares para abordar problemas específicos.\n• El uso de gemelos digitales permitirá una gestión más eficiente y preventiva de plantas solares en el país.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-impulsa-proyecto-monitorear-prevenir-fallas-plantas-sistemas-solares",
       "publish_date": "2026-05-25T16:51:58.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC lanza proyecto para optimizar plantas solares y prevenir fallas en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: TEC busca mejorar la sostenibilidad de plantas solares mediante tecnología avanzada.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/portada.JPG",
-      "description": "TEC impulsa proyecto para monitorear y prevenir fallas en plantas de sistemas solares",
+      "description": "El TEC impulsa una investigación para analizar el funcionamiento de los sistemas solares y detectar posibles fallas.",
       "featured": false
     },
     {
@@ -4216,11 +4242,11 @@
       "slug": "webinar-eico-ensayos-no-destructivos-utilizados-en-obras-civiles",
       "title": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "category": "Ciencia",
-      "bullets_20s": "• El TEC organiza un webinar gratuito sobre ensayos no destructivos en ingeniería civil.\n• El evento será conducido por el ingeniero Luis Carlos Calvo Navarro.\n• Los ensayos no destructivos ayudan a evaluar estructuras sin dañarlas.\n• Está dirigido a estudiantes y profesionales del sector construcción.\n• Los interesados deben inscribirse previamente para asistir al webinar.\n• Se destacarán técnicas modernas de evaluación y diagnóstico de infraestructuras.\n• Este evento es parte de un ciclo de actividades académicas del TEC.\n• El webinar busca promover la actualización profesional en temas de construcción.",
+      "bullets_20s": "• El TEC organiza un webinar gratuito sobre ensayos no destructivos en construcción.\n• Dirigido a estudiantes y profesionales del sector construcción en Costa Rica.\n• Impartido por el ingeniero Luis Carlos Calvo, experto en la materia.\n• Se abordarán técnicas modernas para la evaluación de infraestructuras.\n• Los participantes podrán inscribirse mediante un formulario en línea.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/webinar-eico-ensayos-no-destructivos-utilizados-obras-civiles",
       "publish_date": "2026-05-22T18:04:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Aprende sobre ensayos no destructivos en obras civiles con expertos.",
+      "teaser": "Lo clave en 20 segundos: Un webinar sobre técnicas de ensayos no destructivos en construcción.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/image_4.png",
       "description": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
       "featured": false
@@ -27964,5 +27990,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-27T18:45:20.662Z"
+  "generated_at": "2026-05-27T19:45:20.823Z"
 }
