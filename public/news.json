@@ -1,14 +1,79 @@
 {
   "news": [
     {
+      "slug": "aerolineas-encontraron-un-oasis-temporal-para-abastecerse-de-combustible-en-costa-rica-al-estallar-el-conflicto-en-iran",
+      "title": "Aerolíneas encontraron un oasis temporal para abastecerse de combustible en Costa Rica al estallar el conflicto en Irán",
+      "category": "Costa Rica",
+      "bullets_20s": "• El conflicto en Irán ha generado presiones en el suministro global de combustible.\n• Costa Rica se convirtió en un punto estratégico para el abastecimiento de combustible.\n• Las aerolíneas implementaron estrategias como el ‘fuel tankering’ para optimizar costos.\n• El sistema de regulación de precios en Costa Rica favoreció a las aerolíneas.\n• Este caso resalta la importancia de la geopolítica en la industria aeronáutica.",
+      "source_name": "Juan Fernando Lara Salas",
+      "source_url": "https://www.nacion.com/el-pais/aerolineas-encontraron-un-oasis-temporal-para/SDTQK6JPGRHGTAWPD4IQVKYXUM/story/",
+      "publish_date": "2026-05-27T11:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Aerolíneas usan Costa Rica para abastecerse tras el conflicto en Irán.",
+      "image_url": "https://www.nacion.com/resizer/v2/PWBBUSNHDFGFVLPSUDLJWUNI5M.jpg?auth=d0b345fc2a4ce9a81ad709ad4b629d7686b064a3ec014f4140874560eaa3d5b7&smart=true&width=4000&height=2666",
+      "description": "Las aerolíneas encontraron un oasis temporal en Costa Rica para abastecerse de combustible cuando estalló el conflicto en Irán. Practicaron el ‘fuel tankering’ al detectar una ventaja producto del sistema de regulación de precios costarricense.",
+      "featured": false
+    },
+    {
+      "slug": "por-que-a-venezuela-le-falta-energia-pese-a-su-riqueza-petrolera-y-como-eso-limita-su-recuperacion-economica",
+      "title": "Por qué a Venezuela le falta energía pese a su riqueza petrolera y cómo eso limita su recuperación económica",
+      "category": "Mundo",
+      "bullets_20s": "• Venezuela posee importantes reservas de petróleo, pero enfrenta una crisis energética profunda.\n• La infraestructura energética está deteriorada, afectando el suministro eléctrico diario.\n• La falta de mantenimiento y gestión ha incrementado los problemas en el sector eléctrico.\n• El país tiene un alto potencial hidroeléctrico, sin embargo, no se está aprovechando.\n• Esta crisis limita la recuperación económica y el bienestar de los ciudadanos.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/ckgp97n1l1do?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-27T11:02:56.000Z",
+      "teaser": "Lo clave en 20 segundos: Venezuela, a pesar de tener riqueza energética, enfrenta una grave crisis que limita su desarrollo.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/411f/live/70ee1220-5549-11f1-bdf3-a1cfc8f36fb3.jpg",
+      "description": "Venezuela tiene las reservas probadas de crudo más grandes del mundo y un enorme potencial hidroeléctrico, pese a lo cual el país tiene graves problemas con el servicio eléctrico.",
+      "featured": false
+    },
+    {
+      "slug": "editorial-el-costo-oculto-del-cuido-que-pagan-las-mujeres",
+      "title": "Editorial: El costo oculto del cuido que pagan las mujeres",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las labores de cuido son vitales para las familias y la sociedad en general en Costa Rica.\n• Muchísimas mujeres enfrentan dificultades para participar en el mercado laboral formal debido al cuido.\n• Esta situación afecta gravemente su acceso a una jubilación digna y equitativa en el futuro.\n• El reconocimiento del cuido es crucial para abordar la brecha de género en las pensiones.\n• Las políticas públicas deben incluir estrategias para valorar y compensar el cuido realizado por mujeres.",
+      "source_name": "La Nación",
+      "source_url": "https://www.nacion.com/opinion/editorial/editorial-el-costo-oculto-del-cuido-que-pagan-las/B77LKJTFBRD2RBGJOCQU27VV2Q/story/",
+      "publish_date": "2026-05-27T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Las labores de cuido limitan a mujeres en el mercado laboral y afectan su jubilación.",
+      "image_url": "https://www.nacion.com/resizer/v2/NYVUU5FGUNGQPK7727OZKREGBI.jpg?auth=5e4c007de4251f23eb4a0d4e0afc6772e6665a3960ef2fc95d78b75a69f5ddf1&smart=true&width=6720&height=4480",
+      "description": "Las labores de cuido constituyen una barrera estructural que aleja a muchas mujeres del mercado laboral formal y de una jubilación digna. Reconocerlas es un paso necesario pero insuficiente para cerrar la brecha de género en las pensiones.",
+      "featured": false
+    },
+    {
+      "slug": "14500-pacientes-que-requieren-cirugia-engrosaron-listas-de-espera-de-la-ccss-en-ultimo-ano-deben-aguardar-441-dias-en-pr",
+      "title": "14.500 pacientes que requieren cirugía engrosaron listas de espera de la CCSS en último año:  Deben aguardar 441 días en promedio para ser intervenidos",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las listas de espera para cirugías han aumentado considerablemente en el último año en Costa Rica.\n• La Caja Costarricense de Seguro Social reporta un crecimiento en la cantidad de asegurados que requieren cirugías.\n• Los pacientes deben aguardar en promedio 441 días para recibir atención quirúrgica.\n• En marzo del anterior año, 190.076 asegurados esperaban por una cirugía urgente.\n• La situación actual requiere atención y soluciones efectivas por parte de las autoridades de salud.",
+      "source_name": "Fernanda Matarrita Chaves",
+      "source_url": "https://www.nacion.com/el-pais/14500-pacientes-que-requieren-cirugia-engrosaron/NZTXZZD6TVBOLLDYLFHWKQ3WVE/story/",
+      "publish_date": "2026-05-27T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Las listas de espera para cirugías en Costa Rica siguen en aumento alarmante.",
+      "image_url": "https://www.nacion.com/resizer/v2/ARDE4ZBF4VC7ZMIEAR7F5I6MIU.JPG?auth=61556ac89e5fbc7fc0ec54012c297f968abd33c04663d07a7dc03d1760350c90&smart=true&width=5000&height=3333",
+      "description": "En marzo del año anterior, 190.076 asegurados aguardaban por una cirugía en la Caja Costarricense de Seguro Social.  En abril del 2026, la cifra llegó a 204.622. Conozca cuánto tiempo deben esperar los pacientes para someterse a una operación o un procedimiento ambulatorio.",
+      "featured": false
+    },
+    {
+      "slug": "el-experimento-de-la-reserva-holandesa-que-paso-de-ser-un-santuario-de-animales-a-un-campo-de-muerte",
+      "title": "El experimento de la reserva holandesa que pasó de ser un santuario de animales a un campo de muerte",
+      "category": "Mundo",
+      "bullets_20s": "• Un tren entre Ámsterdam y Almere reveló un oscuro secreto de un santuario animal.\n• Llevaron a cabo un proyecto innovador, pero la realidad superó las expectativas iniciales.\n• Los cadáveres vistos generaron gran inquietud entre los pasajeros del tren.\n• La visión del impulsor del proyecto propuso un cambio en la concepción de la naturaleza.\n• El experimento cuestiona los límites de la conservación y el bienestar animal.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cze616l958jo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-27T10:28:37.000Z",
+      "teaser": "Lo clave en 20 segundos: un santuario se convierte en un campo de cuestión y reflexión sobre la naturaleza.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/165e/live/0f6831b0-b059-11f0-b20a-936c1d71916e.jpg",
+      "description": "Cuando los pasajeros de un tren entre Ámsterdam y Almere vieron miles de cadáveres, un proyecto pionero empezó a ser muy cuestionado, pero las ideas de su impulsor alentaron una nueva visión de la naturaleza.",
+      "featured": false
+    },
+    {
       "slug": "las-paradisiacas-playas-para-turistas-en-el-caribe-a-las-que-los-locales-no-pueden-acceder",
       "title": "Las paradisíacas playas para turistas en el Caribe a las que los locales no pueden acceder",
       "category": "Mundo",
-      "bullets_20s": "• Las playas paradisíacas del Caribe atraen a turistas de todo el mundo, pero ocultan una triste verdad.\n• Locales en Barbuda, Granada y Jamaica luchan por acceder a sus propias costas, excluidos por el turismo.\n• Activistas denuncian que las políticas turísticas han restringido el acceso a playas de gran belleza natural.\n• Se intensifican las protestas por parte de habitantes que exigen derechos de acceso a sus playas locales.\n• El impacto del turismo afecta tanto el medio ambiente como la comunidad local, generando tensiones.",
+      "bullets_20s": "• El acceso a playas paradisíacas se ha restringido para los locales en el Caribe.\n• Turistas disfrutan de costas que antes eran de acceso público para las comunidades locales.\n• Activistas luchan por el derecho a acceder a las playas y proteger su patrimonio natural.\n• Las consecuencias del turismo masivo impactan negativamente a las comunidades costeras.\n• El debate sobre la propiedad y acceso a las playas está en aumento en el Caribe.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c62r78exvvlo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-27T09:43:16.000Z",
-      "teaser": "Lo clave en 20 segundos: Activistas locales en el Caribe luchan por acceso a playas cerradas a turistas.",
+      "teaser": "Lo clave en 20 segundos: Activistas denuncian el acceso restringido a playas en el Caribe para locales.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cf6e/live/80be6f60-4a27-11f1-bfb3-af42b3144659.jpg",
       "description": "Activistas en Barbuda, Granada y Jamaica afirman que ya no pueden acceder a sus costas.",
       "featured": false
@@ -17,11 +82,11 @@
       "slug": "asi-habria-ocurrido-detencion-de-joven-durante-protesta-contra-la-reforma-electrica-amigo-narra-los-hechos",
       "title": "Así habría ocurrido detención de joven durante protesta contra la reforma eléctrica: amigo narra los hechos",
       "category": "Costa Rica",
-      "bullets_20s": "• La detención generó revuelo entre los asistentes a la protesta por la reforma eléctrica.\n• Un amigo del detenido brindó detalles de los hechos ocurridos durante la manifestación.\n• Testigos aseguran que la intervención policial fue abrupta y violenta en el lugar.\n• La reforma eléctrica ha provocado diversas reacciones en el ámbito político y social del país.\n• La Asamblea Legislativa se encuentra bajo intensa presión por esta controversial reforma.",
+      "bullets_20s": "• Un amigo del joven ofrece su testimonio sobre la detención durante la protesta.\n• La protesta se realizaba frente a la Asamblea Legislativa con numerosos asistentes.\n• Del relato se desprenden detalles sobre el manejo policial durante el incidente.\n• El testigo enfatiza el deseo de pacifismo de los manifestantes presentes.\n• Esta situación ha generado reacciones diversas en las redes sociales y medios.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/sucesos/asi-habria-ocurrido-detencion-de-joven-durante/NLN2GYLYZJGMXKPFZHCGAY6CKQ/story/",
       "publish_date": "2026-05-27T05:16:38.000Z",
-      "teaser": "Lo clave en 20 segundos: amigo narra detención de joven durante protesta eléctrica.",
+      "teaser": "Lo clave en 20 segundos: Un testigo comparte cómo se produjo la detención en la protesta.",
       "image_url": "https://www.nacion.com/resizer/v2/ND26N77XUFCDVNQHF7FTEF7RUI.jpeg?auth=6c43b454ac1cf5a5ddfca5241c01d21cdfabc10535448f33a8c09c0d0699ba49&smart=true&width=1280&height=854",
       "description": "Un testigo relata cómo ocurrió la detención de un joven durante una protesta contra la reforma eléctrica, en las afueras de la Asamblea Legislativa.",
       "featured": false
@@ -30,11 +95,11 @@
       "slug": "procomer-rompe-alianza-con-uber-un-dia-despues-de-anunciarla-empresa-alega-que-hubo-amenazas-de-huelga",
       "title": "Procomer rompe alianza con Uber un día después de anunciarla; empresa alega que hubo ‘amenazas de huelga’",
       "category": "Costa Rica",
-      "bullets_20s": "• Procomer decide cancelar alianza con Uber tras amenazas de huelga de trabajadores.\n• La decisión se tomó un día después de anunciar el acuerdo comercial.\n• El programa Marca Esencial busca promover productos costarricenses en el mundo.\n• Uber había sido elegido para potenciar la distribución de estos productos.\n• El contexto económico del país influye en las decisiones comerciales recientes.\n• La alianza generaba expectativas entre productores y consumidores locales.\n• Reacciones de diversos sectores ante la ruptura de la alianza son mixtas.\n• Procomer reafirma su compromiso con el desarrollo del comercio exterior.\n• Este suceso refleja tensiones en el ámbito laboral y empresarial de Costa Rica.",
+      "bullets_20s": "• La Promotora de Comercio Exterior anunció una alianza con Uber días antes de cancelarla.\n• La cancelación del acuerdo se debió a presuntas amenazas de huelga por parte de conductores.\n• La decisión ha generado reacciones diversas dentro del sector del transporte en el país.\n• Procomer enfatiza que la relación con Uber podría revisarse en el futuro.\n• Este evento pone de manifiesto las tensiones laborales en el sector del transporte costarricense.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/economia/procomer-rompe-alianza-con-uber-un-dia-despues-de/W2BI7NS6GNAOFHP5ONLSHWCWNA/story/",
       "publish_date": "2026-05-27T03:55:06.000Z",
-      "teaser": "Lo clave en 20 segundos: Procomer cancela alianza con Uber tras amenazas de huelga de trabajadores.",
+      "teaser": "Lo clave en 20 segundos: Procomer canceló alianza con Uber tras amenazas de huelga.",
       "image_url": "https://www.nacion.com/resizer/v2/2Y2QZG7O2FCU3GF22CT7B3GNJE.jpeg?auth=6cef310ab2544ec0fde63f306708e3cb4af047bdb0f3e552d45cd84c5af10eba&smart=true&width=1600&height=1066",
       "description": "El programa Marca Esencial Costa Rica, adscrito a la Promotora de Comercio Exterior (Procomer), canceló un acuerdo comercial firmado con la empresa Uber, tan solo solo un día después de haberlo anunciado.",
       "featured": false
@@ -69,11 +134,11 @@
       "slug": "como-se-convirtio-el-expresidente-irani-ahmadineyad-en-uno-de-los-misterios-mas-extranos-de-la-guerra-en-iran",
       "title": "¿Cómo se convirtió el expresidente iraní Ahmadineyad en uno de los misterios más extraños de la guerra en Irán?",
       "category": "Mundo",
-      "bullets_20s": "• El expresidente iraní Ahmadinejad ha generado controversia y misterio en el ámbito político internacional.\n• Su figura ha sido objeto de análisis por su papel en la guerra y la política de Irán.\n• Estados Unidos e Israel han considerado su potencial influencia en la región tras la guerra.\n• Los líderes mundiales observan con interés sus movimientos y declaraciones públicas.\n• Su legado sigue siendo debatido por analistas y académicos sobre su impacto real en la historia.",
+      "bullets_20s": "• Mahmoud Ahmadinejad fue presidente de Irán durante un periodo complicado lleno de tensiones.\n• Su figura ha generando debates sobre la política y la influencia en la región.\n• Existen dudas sobre su futuro tras la guerra en Irán y su posible papel.\n• Estados Unidos e Israel consideran su liderazgo como factor a analizar en la región.\n• El contexto de guerra en Irán ha colocado a Ahmadinejad en el centro del interés geopolítico.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c0q22kjy4k9o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-27T03:22:50.000Z",
-      "teaser": "Lo clave en 20 segundos: Ahmadinejad se convierte en enigma en la política iraní tras la guerra.",
+      "teaser": "Lo clave en 20 segundos: El papel de Ahmadinejad en el conflicto iránico despierta controversias y especulaciones.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/124d/live/77014400-590b-11f1-af83-83e7141dcf5b.jpg",
       "description": "El diario The New York Times informó de que Estados Unidos e Israel consideraban al expresidente Mahmoud Ahmadinejad como un posible líder para la posguerra.",
       "featured": false
@@ -277,11 +342,11 @@
       "slug": "resonancias-del-tiempo-concierto-gratuito-de-canto-y-guitarra-en-el-tec",
       "title": "Resonancias del Tiempo: Concierto gratuito de canto y guitarra en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• Concierto gratuito en el Tecnológico de Costa Rica, promoviendo la música latinoamericana.\n• Evento a cargo del Programa Adulto Mayor TEC, buscando conectar emocionalmente con el público.\n• Participarán 40 músicos del Coro de Oro y la Escuela Municipal de Música de Paraíso.\n• El repertorio incluirá baladas, boleros, vals y canción popular para toda la familia.\n• Abierto a todo público, especialmente a la población adulta mayor de Cartago.",
+      "bullets_20s": "• El concierto gratuito busca promover la memoria emocional a través de la música popular.\n• Se presentará un repertorio con géneros como bolero, vals y balada entre otros.\n• Participarán aproximadamente 40 músicos del Coro de Oro y SEMUSPAR en esta jornada musical.\n• El evento es un esfuerzo conjunto de varias instituciones para la comunidad adulta mayor.\n• Se aconseja reservar espacios debido al interés de la población en este tipo de actividades.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/resonancias-tiempo-concierto-gratuito-canto-guitarra-tec",
       "publish_date": "2026-05-26T21:30:55.000Z",
-      "teaser": "Lo clave en 20 segundos: Un concierto gratuito que celebra la música latinoamericana en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Concierto gratuito en el TEC para conectar a la comunidad a través de la música.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/ca-concierto.png",
       "description": "Resonancias del Tiempo: Concierto gratuito de canto y guitarra en el TEC",
       "featured": false
@@ -368,11 +433,11 @@
       "slug": "que-nos-dicen-las-nuevas-amenazas-de-rusia-contra-ucrania-sobre-el-estado-de-la-guerra-y-el-nerviosismo-del-gobierno-de-",
       "title": "Qué nos dicen las nuevas amenazas de Rusia contra Ucrania sobre el estado de la guerra y el nerviosismo del gobierno de Moscú",
       "category": "Mundo",
-      "bullets_20s": "• Las amenazas de Rusia reflejan un aumento en las tensiones con Ucrania en el conflicto actual.\n• El gobierno de Moscú busca mostrar fuerza ante posibles adversidades en la región.\n• Las amenazas podrían ser una jugada táctica para intimidar a Kyiv y sus aliados.\n• Expertos analizan cómo estas acciones afectan la dinámica del conflicto armado.\n• La respuesta internacional podría influir en la escalada del conflicto en los meses venideros.",
+      "bullets_20s": "• Las amenazas rusas indican un aumento de la tensión en el conflicto ucraniano.\n• Expertos analizan las posibles motivaciones detrás de esta nueva estrategia militar.\n• El gobierno de Moscú parece estar respondiendo a la presión internacional constante.\n• Las implicaciones para la seguridad de Europa podrían ser significativas a largo plazo.\n• La comunidad internacional observa atentamente los movimientos de Rusia en la región.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cy022ex9wg9o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-26T20:50:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Rusia lanza amenazas mientras el conflicto con Ucrania se intensifica.",
+      "teaser": "Lo clave en 20 segundos: Las nuevas amenazas rusas revelan el nerviosismo del Kremlin ante la guerra.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/f55f/live/b02f7140-58ff-11f1-8b8c-6d33e1d5abb6.jpg",
       "description": "Moscú ha lanzado una serie de amenazas de ataques a gran escala contra Kyiv, ¿qué hay detrás de esta estrategia?",
       "featured": false
@@ -758,11 +823,11 @@
       "slug": "candidatos-a-representantes-en-el-consejo-institucional-culminaron-las-actividades-de-expresion-al-pensamiento-con-miras",
       "title": "Candidatos a representantes en el Consejo Institucional culminaron las actividades de expresión al pensamiento con miras a las elecciones de este jueves",
       "category": "Costa Rica",
-      "bullets_20s": "• Las elecciones para el Consejo Institucional se realizarán el jueves 28 de mayo en el TEC.\n• Candidatos de diferentes sectores exponen sus propuestas en actividades previas importantes.\n• La votación será electrónica, facilitando el acceso desde cualquier lugar del mundo.\n• Las actividades incluyeron presentaciones biográficas y tiempo para preguntas del público.\n• Los representantes electos servirán desde julio 2026 hasta junio 2030 en el Consejo.\n• El enfoque está en fortalecer la comunidad institucional y abordar sus necesidades.",
+      "bullets_20s": "• Las actividades de expresión se llevaron a cabo en todos los campus del TEC con gran participación.\n• La elección de representantes se realizará el jueves 28 de mayo mediante votación electrónica.\n• Se presentaron cinco candidatos para tres puestos en el Consejo Institucional.\n• Los candidatos expusieron sus propuestas en varios foros en diferentes campus del TEC.\n• Todo el proceso electoral busca fortalecer la representación y participación de la comunidad académica.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/candidatos-representantes-consejo-institucional-culminaron-actividades-expresion-pensamiento-miras",
       "publish_date": "2026-05-26T13:38:55.000Z",
-      "teaser": "Lo clave en 20 segundos: Candidatos al Consejo Institucional finalizan actividades antes de elecciones.",
+      "teaser": "Lo clave en 20 segundos: Se aproximan elecciones en el Consejo Institucional del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/actividad-expresion-pensamiento-candidatos-consejo-institucional_cartago_rgarita-1_0.jpg",
       "description": "Candidatos a representantes en el Consejo Institucional culminaron las actividades de expresión al pensamiento con miras a las elecciones de este jueves",
       "featured": false
@@ -3877,14 +3942,14 @@
     {
       "slug": "webinar-eico-ensayos-no-destructivos-utilizados-en-obras-civiles",
       "title": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
-      "category": "Costa Rica",
-      "bullets_20s": "• El TEC organiza un webinar gratuito sobre ensayos no destructivos en obras civiles.\n• La actividad está dirigida a estudiantes y profesionales del sector construcción.\n• El ingeniero Luis Carlos Calvo impartirá técnicas modernas para evaluar infraestructuras.\n• Los participantes aprenderán a detectar fallas sin afectar la integridad de las obras.\n• Los interesados deben completar un formulario para inscribirse en el webinar.",
+      "category": "Ciencia",
+      "bullets_20s": "• El TEC ofrece un webinar gratuito sobre métodos de evaluación en obras civiles.\n• Se abordarán tecnologías de diagnóstico sin afectar estructuras existentes.\n• El ingeniero Luis Carlos Calvo compartirá su experiencia en el sector.\n• Dirigido a estudiantes y profesionales de la ingeniería civil y construcción.\n• Promueve la actualización y el intercambio de conocimientos relevantes.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/webinar-eico-ensayos-no-destructivos-utilizados-obras-civiles",
       "publish_date": "2026-05-22T18:04:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Aprenda sobre ensayos no destructivos en construcción en este webinar del TEC.",
+      "teaser": "Lo clave en 20 segundos: Webinar sobre ensayos no destructivos en obras civiles.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/image_4.png",
-      "description": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles",
+      "description": "Webinar EICO: Ensayos no destructivos utilizados en obras civiles.",
       "featured": false
     },
     {
@@ -4304,6 +4369,19 @@
       "featured": false
     },
     {
+      "slug": "tec-lleva-a-brasil-la-innovadora-plataforma-que-crea-y-valida-lenguas-de-senas",
+      "title": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
+      "category": "Costa Rica",
+      "bullets_20s": "• La plataforma PIELS permite representar palabras mediante avatares digitales con lengua de señas.\n• Investigadores y estudiantes del TEC participaron en un evento en Brasil para validar nuevas señas.\n• La iniciativa busca mejorar la comunicación accesible para personas sordas a través de tecnología.\n• Estudiantes del TEC presentaron diferentes módulos y avances en el simposio previo al evento.\n• IncluTEC se ha destacado en el desarrollo de soluciones tecnológicas para personas con discapacidad.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/tec-lleva-brasil-innovadora-plataforma-crea-valida-lenguas-senas",
+      "publish_date": "2026-05-22T03:29:38.000Z",
+      "teaser": "Lo clave en 20 segundos: TEC llevó su plataforma de lengua de señas a Brasil para promover la inclusión.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/piels.png",
+      "description": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
+      "featured": false
+    },
+    {
       "slug": "cortes-de-luz-del-ice-afectaran-sectores-de-turrialba-este-viernes-22-de-mayo",
       "title": "Cortes de luz del ICE afectarán sectores de Turrialba este viernes 22 de mayo",
       "category": "Costa Rica",
@@ -4457,19 +4535,6 @@
       "teaser": "Lo clave en 20 segundos: Keylor Navas podría ser fundamental en el triunfo de Pumas.",
       "image_url": "https://www.nacion.com/resizer/v2/HLPWW75DPNATHNHR3HYGQTACTY.jpeg?auth=d06d9739b17fa2d0e2f476a3a7a2d0b06836f8d22fea97f5df46d6048d5dc49d&smart=true&width=1280&height=960",
       "description": "Exfigura de Pumas y Cruz Azul dio su opinión sobre la final de la Liga MX.",
-      "featured": false
-    },
-    {
-      "slug": "tec-lleva-a-brasil-la-innovadora-plataforma-que-crea-y-valida-lenguas-de-senas",
-      "title": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
-      "category": "Costa Rica",
-      "bullets_20s": "• El TEC presentó su plataforma de lenguas de señas en un evento en Brasil, promoviendo la inclusión.\n• Participantes de diversas universidades colaboraron para validar movimientos de las lenguas de señas.\n• La plataforma PIELS usa avatares digitales para traducir y enseñar lengua de señas efectivamente.\n• Investigadores costarricenses buscan incluir nuevas señas que faciliten la comunicación a personas sordas.\n• Estudiantes del TEC mostraron sus avances en accesibilidad digital durante un simposio académico en Brasil.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/tec-lleva-brasil-innovadora-plataforma-crea-valida-lenguas-senas",
-      "publish_date": "2026-05-22T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC presentó su plataforma de lenguas de señas en Brasil, promoviendo inclusión.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/piels.png",
-      "description": "TEC lleva a Brasil la innovadora plataforma que crea y valida lenguas de señas",
       "featured": false
     },
     {
@@ -27639,5 +27704,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-27T10:45:20.400Z"
+  "generated_at": "2026-05-27T11:45:20.858Z"
 }
