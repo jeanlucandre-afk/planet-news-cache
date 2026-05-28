@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "eeuu-lanza-nuevos-ataques-contra-instalaciones-militares-de-iran-en-medio-del-fragil-cese-el-fuego",
+      "title": "EE.UU. lanza nuevos ataques contra instalaciones militares de Irán, en medio del frágil cese el fuego",
+      "category": "Mundo",
+      "bullets_20s": "• Las recientes acciones de EE.UU. en Irán generan tensiones en la región del Medio Oriente.\n• El cese el fuego se ve amenazado por los ataques recientes y las respuestas de Irán.\n• Bandar Abbas, un puerto estratégico, ha sido punto clave en estos enfrentamientos.\n• Los drones iraníes eran parte de las operaciones militares que EE.UU. intenta neutralizar.\n• La comunidad internacional observa con preocupación la escalada de violencia entre ambas naciones.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c5yezxv1d4jo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-28T02:13:43.000Z",
+      "teaser": "Lo clave en 20 segundos: EE.UU. intensifica sus operaciones militares en Irán, aumentando la tensión regional.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/099b/live/cb654ab0-5a2c-11f1-b118-2f2910cff054.jpg",
+      "description": "Las fuerzas militares estadounidenses informaron que atacaron una instalación militar en la estratégica ciudad portuaria de Bandar Abbas y que derribaron cuatro drones de ataque iraníes.",
+      "featured": false
+    },
+    {
+      "slug": "mopt-anuncia-las-rutas-alternas-tras-hundimiento-en-la-ruta-27",
+      "title": "MOPT anuncia las rutas alternas tras hundimiento en la ruta 27",
+      "category": "Costa Rica",
+      "bullets_20s": "• El MOPT ha habilitado rutas alternas para facilitar el tránsito en la ruta 27.\n• El hundimiento ha generado inconvenientes para los conductores en la zona afectada.\n• Las autoridades recomendan seguir las señales y avisos en las rutas alternas.\n• Se espera que las reparaciones en la ruta 27 inicien en los próximos días.\n• Los conductores deben estar atentos a las actualizaciones del MOPT sobre el estado de la ruta.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/mopt-anuncia-las-vias-alternas-tras-hundimiento-en/AE3JQUI3TRFNVCD47ZX3YKCCRY/story/",
+      "publish_date": "2026-05-28T02:12:24.000Z",
+      "teaser": "Lo clave en 20 segundos: MOPT habilita rutas alternas tras hundimiento en la ruta 27.",
+      "image_url": "https://www.nacion.com/resizer/v2/GFQPWCCTGFDJZGB5UQKEIA2WDA.jpg?auth=87a97edd7628ef43e25bcae7e14d4b5b295fc0ec27ca130502976e8ef3161a0f&smart=true&width=590&height=443",
+      "description": "El Ministerio de Obras Públicas y Transportes habilitó rutas alternas tras un hundimiento en la ruta 27, en Orotina. Conozca cuáles son.",
+      "featured": false
+    },
+    {
       "slug": "orgullo-costarricense-piloto-nacional-de-12-anos-logro-podio-en-carrera-de-kartismo-en-europa",
       "title": "Orgullo costarricense: piloto nacional de 12 años logró podio en carrera de kartismo en Europa",
       "category": "Costa Rica",
-      "bullets_20s": "• Un joven piloto de 12 años deja huella en el kartismo europeo con su destacado rendimiento.\n• Esta es la segunda temporada en la que compite en carreras en el extranjero.\n• Logró un podio importante que resalta el talento costarricense en el deporte motor.\n• Participar en Europe es un gran paso para su carrera como piloto profesional.\n• El kartismo es una plataforma de desarrollo para futuros pilotos en el automovilismo.",
+      "bullets_20s": "• El kartismo europeo es conocido por su alto nivel de competencia y trayectoria.\n• La dedicación y talento del piloto costarricense han sido admirados por muchos.\n• Las futuras promesas del deporte automotor surgen de competencias internacionales.\n• El kartismo promueve habilidades importantes como la concentración y estrategia.\n• Los padres del piloto apoyan su carrera con gran compromiso y entusiasmo.",
       "source_name": "Juan Diego Villarreal",
       "source_url": "https://www.nacion.com/puro-deporte/orgullo-costarricense-piloto-nacional-de-12-anos/LQCFAHP5FRHI7ALLFI3T6MYSXY/story/",
       "publish_date": "2026-05-28T01:13:11.000Z",
-      "teaser": "Lo clave en 20 segundos: un piloto costarricense de 12 años brilla en Europa.",
+      "teaser": "Lo clave en 20 segundos: un talentoso piloto nacional destaca en el kartismo europeo.",
       "image_url": "https://www.nacion.com/resizer/v2/JM75KVOYEJARXDEG7EGPBYG2QQ.JPG?auth=759c739460fd12ea7871408874c4c73a790e2560777814a6198d40c4f303aab0&smart=true&width=3648&height=2483",
       "description": "El joven piloto costarricense compite en su segunda temporada en el kartismo europeo.",
       "featured": false
@@ -17,11 +43,11 @@
       "slug": "macho-coca-hablo-ante-jueces-para-explicar-por-que-no-debe-ser-extraditado-a-estados-unidos-por-presunto-narcotrafico",
       "title": "Macho Coca habló ante jueces para explicar por qué no debe ser extraditado a Estados Unidos por presunto narcotráfico",
       "category": "Costa Rica",
-      "bullets_20s": "• El juicio de extradición ha captado la atención de los medios en Costa Rica recientemente.\n• Macho Coca presenta su defensa ante los jueces en un tribunal de Goicoechea.\n• El caso involucra delitos relacionados con el narcotráfico en Estados Unidos.\n• Se espera un veredicto importante que influya en el futuro del extraditable.\n• La extradición es un proceso legal complejo que puede retrasarse por apelaciones.",
+      "bullets_20s": "• Macho Coca se presentó ante jueces para argumentar sobre su extradición a Estados Unidos.\n• El extraditable Gilbert Bell Fernández es conocido como Macho Coca en el país.\n• La audiencia se llevó a cabo en el Tribunal de Apelación de Goicoechea.\n• Se espera que el tribunal considere sus argumentos antes de tomar una decisión.\n• El narcotráfico sigue siendo un tema crítico en Costa Rica y la región.",
       "source_name": "Natalia Vargas",
       "source_url": "https://www.nacion.com/sucesos/macho-coca-hablo-ante-jueces-para-explicar-por-que/BV4RHJFZXNB4FGTX5FYZ7QH7FY/story/",
       "publish_date": "2026-05-28T01:12:26.000Z",
-      "teaser": "Lo clave en 20 segundos: Macho Coca expone su defensa ante jueces para evitar extradición.",
+      "teaser": "Lo clave en 20 segundos: Macho Coca argumenta contra su extradición por narcotráfico en audiencia judicial.",
       "image_url": "https://www.nacion.com/resizer/v2/IWPUFBILQBFZJDADRZXPDX36LE.jpg?auth=4f66242c25e1e279188f063c263d7848f91a11bfe55a87d28339ea1ddd1ae635&smart=true&width=5622&height=3748",
       "description": "El extraditable Gilbert Bell Fernández, alias Macho Coca, se dirigió durante algunos segundos al Tribunal de Apelación de Goicoechea, la tarde de este miércoles, para argumentar por qué considera que no debe ser extraditado a Estados Unidos para afrontar una causa por presunto narcotráfico.",
       "featured": false
@@ -263,12 +289,12 @@
     {
       "slug": "ciclo-de-charlas-magistrales-semana-de-colaboracion-globalcsed-tec",
       "title": "Ciclo de Charlas Magistrales, Semana de colaboración GlobalCSED & TEC",
-      "category": "Ciencia",
-      "bullets_20s": "• La Vicerrectoría de Investigación y Extensión del TEC organiza esta semana de charlas magistrales.\n• Las charlas buscan promover la educación en Ciencias de la Computación de forma equitativa.\n• Expertos internacionales compartirán su conocimiento sobre educación computacional y tecnología.\n• Las charlas están dirigidas a docentes, estudiantes e interesados en educación STEM.\n• La actividad incluye un enfoque en tecnologías XR aplicadas a la educación.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC invita a participar en un ciclo de charlas sobre educación en Ciencias de la Computación.\n• Las charlas están enfocadas en el acceso equitativo a la educación en computación.\n• Presentadores provienen de universidades internacionales destacadas en educación tecnológica.\n• Los temas abarcan desde nivel preescolar hasta técnicas avanzadas en ciencia de datos.\n• El ciclo promueve la colaboración entre instituciones educativas para compartir innovaciones.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/ciclo-charlas-magistrales-semana-colaboracion-globalcsed-tec",
       "publish_date": "2026-05-27T21:18:16.000Z",
-      "teaser": "Lo clave en 20 segundos: charlas sobre educación STEM y computación global con expertos internacionales.",
+      "teaser": "Lo clave en 20 segundos: Ciclo de charlas sobre educación en Ciencias de la Computación en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img-7548_orig.jpeg",
       "description": "Ciclo de Charlas Magistrales, Semana de colaboración GlobalCSED & TEC",
       "featured": false
@@ -329,11 +355,11 @@
       "slug": "quien-es-christopher-olah-el-pionero-de-la-ia-y-cofundador-de-anthropic-clave-en-la-enciclica-de-leon-xiv-sobre-las-amen",
       "title": "Quién es Christopher Olah, el pionero de la IA y cofundador de Anthropic clave en la encíclica de León XIV sobre las amenazas de esa tecnología",
       "category": "Mundo",
-      "bullets_20s": "• Christopher Olah es un investigador destacado en el campo de la inteligencia artificial y su desarrollo.\n• El cofundador de Anthropic ha influido en la ética y la seguridad de la IA en el mundo actual.\n• La encíclica de León XIV aborda los desafíos y amenazas que la IA representa para la humanidad.\n• Olah ha trabajado en la interpretación y explicación de modelos complejos de aprendizaje automático.\n• Su participación en la encíclica marca un hito en la colaboración entre tecnología y religión.\n• La investigación de Olah ha ayudado a compañías a entender los riesgos asociados con la IA.\n• El enfoque de Olah resalta la importancia de la regulación de la inteligencia artificial.\n• La encíclica invita a un debate global sobre cómo manejar la tecnología emergente responsablemente.\n• Olah es conocido por su capacidad para traducir conceptos técnicos a un lenguaje accesible.",
+      "bullets_20s": "• Christopher Olah es un nombre clave en el desarrollo de la inteligencia artificial moderna.\n• Como cofundador de Anthropic, ha influido en la ética de la IA y su funcionamiento.\n• Recientemente, estuvo presente en la entrega de una encíclica del papa León XIV.\n• La encíclica trata sobre las amenazas y oportunidades que trae la IA al mundo actual.\n• Su investigación se centra en el aprendizaje profundo y su impacto en la sociedad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c302yzv700yo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-27T19:53:06.000Z",
-      "teaser": "Lo clave en 20 segundos: Christopher Olah, pionero en IA, destacan su papel en nueva encíclica papal sobre tecnología.",
+      "teaser": "Lo clave en 20 segundos: Christopher Olah, figura importante en IA y su conexión con la iglesia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/09bd/live/3bdea040-5a08-11f1-bb62-8f1e891ff72e.jpg",
       "description": "Un pionero de la investigación del funcionamiento de la IA acompañó al papa León XIV en la presentación de su encíclica sobre esta tecnología. ¿Quién es Christopher Olah?",
       "featured": false
@@ -1005,13 +1031,13 @@
       "slug": "resonancias-del-tiempo-concierto-gratuito-de-canto-y-guitarra-en-el-tec",
       "title": "Resonancias del Tiempo: Concierto gratuito de canto y guitarra en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC acoge un concierto gratuito que destaca la música popular de Latinoamérica y Costa Rica.\n• El evento es una colaboración entre el Programa Adulto Mayor TEC y la Escuela Municipal de Música.\n• El repertorio incluirá géneros como bolero, balada, vals, y canción popular para el público.\n• Cerca de 40 músicos participarán, creando una conexión emocional a través de la música.\n• El enfoque está en promover el envejecimiento activo mediante la práctica musical y social.",
+      "bullets_20s": "• Concierto gratuito en el Tecnológico de Costa Rica, promoviendo música popular de Latinoamérica.\n• Evento organizado por el Programa Adulto Mayor TEC y la Escuela Municipal de Música de Paraíso.\n• Un recorrido musical con géneros como bolero, balada, vals y canción popular destaca en el programa.\n• Aproximadamente 40 participantes se presentarán, incluyendo coros y guitarristas de diferentes edades.\n• Enfasis especial en la población adulta mayor, buscando fomentar el envejecimiento activo a través de la música.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/resonancias-tiempo-concierto-gratuito-canto-guitarra-tec",
       "publish_date": "2026-05-26T21:30:55.000Z",
-      "teaser": "Lo clave en 20 segundos: Concierto gratuito del TEC conecta la música con la memoria emocional de los adultos mayores.",
+      "teaser": "Lo clave en 20 segundos: Concierto gratuito en el TEC vincula música y envejecimiento activo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/ca-concierto.png",
-      "description": "Resonancias del Tiempo: Concierto gratuito de canto y guitarra en el TEC",
+      "description": "Resonancias del Tiempo: Concierto gratuito de canto y guitarra en el TEC.",
       "featured": false
     },
     {
@@ -1473,11 +1499,11 @@
       "slug": "candidatos-a-representantes-en-el-consejo-institucional-culminaron-las-actividades-de-expresion-al-pensamiento-con-miras",
       "title": "Candidatos a representantes en el Consejo Institucional culminaron las actividades de expresión al pensamiento con miras a las elecciones de este jueves",
       "category": "Costa Rica",
-      "bullets_20s": "• Los candidatos a representantes finalizaron sus actividades de expresión del pensamiento en el TEC.\n• Las actividades se llevaron a cabo en diversos campus y centros académicos del TEC.\n• La elección de representantes se realizará electrónicamente el 28 de mayo desde 8 a.m. hasta 3 p.m.\n• Un total de tres puestos estarán disponibles para ser representados en el Consejo Institucional.\n• Las actividades sostenían foros y presentaciones para fomentar la interacción con la comunidad institucional.",
+      "bullets_20s": "• Los candidatos al Consejo Institucional se presentaron en el Centro de las Artes para sus actividades finales.\n• Se realizarán elecciones electrónicas el 28 de mayo, desde 8 a.m. hasta 3 p.m.\n• Se elegirán tres representantes en el Consejo Institucional del TEC para un periodo de cuatro años.\n• Los eventos de expresión buscan fomentar el diálogo y la participación activa de la comunidad.\n• Todos los candidatos ofrecieron mensajes claros sobre sus propuestas y compromisos ante la comunidad.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/candidatos-representantes-consejo-institucional-culminaron-actividades-expresion-pensamiento-miras",
       "publish_date": "2026-05-26T13:38:55.000Z",
-      "teaser": "Lo clave en 20 segundos: Candidatos concluyen actividades antes de elecciones en el Consejo Institucional del TEC.",
+      "teaser": "Lo clave en 20 segundos: Candidatos concluyen actividades previas a elecciones del Consejo Institucional en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/actividad-expresion-pensamiento-candidatos-consejo-institucional_cartago_rgarita-1_0.jpg",
       "description": "Candidatos a representantes en el Consejo Institucional culminaron las actividades de expresión al pensamiento con miras a las elecciones de este jueves",
       "featured": false
@@ -2240,11 +2266,11 @@
       "slug": "tec-impulsa-proyecto-para-monitorear-y-prevenir-fallas-en-plantas-de-sistemas-solares",
       "title": "TEC impulsa proyecto para monitorear y prevenir fallas en plantas de sistemas solares",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC desarrolla un proyecto para mejorar la operación de plantas solares en Costa Rica.\n• La iniciativa incluye la creación de un gemelo digital para monitorear sistemas fotovoltaicos.\n• Se busca anticipar fallas y mejorar la eficiencia de las plantas solares existentes.\n• Colaboradores internacionales ayudarán a fortalecer la investigación del proyecto en energía solar.\n• Proyectos anteriores han mostrado potencial para optimizar el uso de recursos solares en el país.",
+      "bullets_20s": "• El Tecnológico de Costa Rica lidera un proyecto para mejorar sistemas solares en el país.\n• El proyecto busca analizar el funcionamiento de plantas solares y prevenir fallas a futuro.\n• La investigación incorpora colaboración internacional para fortalecer el uso de energías renovables.\n• Desarrollarán un 'gemelo digital' para monitorear sistemas fotovoltaicos en tiempo real.\n• Se espera mejorar la toma de decisiones operativas y la sostenibilidad de las plantas solares.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-impulsa-proyecto-monitorear-prevenir-fallas-plantas-sistemas-solares",
       "publish_date": "2026-05-25T16:51:58.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC lanza proyecto para monitorear plantas solares y prevenir fallas.",
+      "teaser": "Lo clave en 20 segundos: TEC desarrolla proyecto para monitorear sistemas solares y prevenir fallas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/portada.JPG",
       "description": "TEC impulsa proyecto para monitorear y prevenir fallas en plantas de sistemas solares",
       "featured": false
@@ -28302,5 +28328,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-28T01:45:19.566Z"
+  "generated_at": "2026-05-28T02:45:19.607Z"
 }
