@@ -1,14 +1,66 @@
 {
   "news": [
     {
+      "slug": "la-computadora-en-costa-rica-que-piensa-500-veces-mas-rapido-que-su-laptop",
+      "title": "La computadora en Costa Rica que piensa 500 veces más rápido que su laptop",
+      "category": "Tecnología",
+      "bullets_20s": "• La supercomputadora ayuda a modelar oleajes en el océano y mejora la precisión de previsiones.\n• Su capacidad de procesamiento permite acelerar investigaciones científicas de distintas áreas.\n• Los avances en inteligencia artificial se ven potenciados por este nuevo clúster computacional.\n• La Universidad de Costa Rica apuesta a la tecnología para impulsar la ciencia en el país.\n• El clúster ya está en funcionamiento y se prepara para futuros desafíos tecnológicos.",
+      "source_name": "Jorge Arturo Mora",
+      "source_url": "https://www.nacion.com/revista-dominical/la-computadora-en-costa-rica-que-piensa-500-veces/2FA46JMULVDJNKJACT4H73QZBM/story/",
+      "publish_date": "2026-05-29T12:26:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Una nueva supercomputadora en Costa Rica revoluciona el procesamiento de datos.",
+      "image_url": "https://www.nacion.com/resizer/v2/JV6MN4A6UZBOPHMMKYK3BGIQMI.webp?auth=50eaebcfc15086d8e20e47576bf315ab762e68b2879059500a0f9f7ab4a7445a&smart=true&width=1200&height=630",
+      "description": "La Universidad de Costa Rica puso en marcha un clúster de supercómputo capaz de realizar billones de cálculos por segundo. Ya se usa para modelar oleaje, entrenar inteligencia artificial, analizar imágenes médicas, mejorar pronósticos climáticos y acelerar investigaciones que antes tardaban horas o días.",
+      "featured": false
+    },
+    {
+      "slug": "fees-burocracia-y-coalemofobia",
+      "title": "FEES, burocracia y ‘coalemofobia’",
+      "category": "Costa Rica",
+      "bullets_20s": "• El tema del FEES es polémico y genera debate en la sociedad costarricense contemporánea.\n• Las protestas universitarias son vistas de manera crítica por algunos sectores de la población.\n• La percepción de privilegio entre estudiantes universitarios es un tema delicado en la discusión pública.\n• Muchos contribuyentes se cuestionan la efectividad del uso de recursos para la educación superior.\n• El resentimiento hacia las universidades refleja tensiones sociales y económicas en el país.",
+      "source_name": "Robin Hazel Fallas, Yuiman Stuart López Chiong",
+      "source_url": "https://www.nacion.com/opinion/foros/fees-burocracia-y-coalemofobia/W3K4XCU4TVG7FMTMUHV275637E/story/",
+      "publish_date": "2026-05-29T12:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Debates sobre el FEES y percepciones de privilegio en la educación costarricense.",
+      "image_url": "https://www.nacion.com/resizer/v2/ABNW6UWJFFE4DPIGQTR62ETS2I.jpg?auth=c47bc0261276510599cf414566777f4d9a53234be62b36fc9fe22bcb6ebdbb6f&smart=true&width=5102&height=3401",
+      "description": "Una parte importante de la población costarricense que observa con escepticismo o resentimiento las protestas universitarias. Para quien paga impuestos sin haber pisado nunca una facultad, el título de 'estudiante de universidad' aparece como una figura privilegiada que defiende su parcela",
+      "featured": false
+    },
+    {
+      "slug": "senores-del-ice-no-cometan-ese-horror",
+      "title": "Señores del ICE, no cometan ese horror",
+      "category": "Costa Rica",
+      "bullets_20s": "• El uso de combustibles fósiles para energía es obsoleto en el contexto actual de sostenibilidad.\n• Costa Rica posee recursos naturales como sol y viento que permiten energías renovables.\n• Adaptarse a nuevas formas de energía podría beneficiar al medio ambiente del país.\n• El cambio hacia energías limpias está en línea con las tendencias globales actuales.\n• La dependencia de combustibles fósiles perjudica la imagen internacional de Costa Rica.\n• Es fundamental reconsiderar la estrategia energética para el futuro energético del país.\n• La transición hacia energías renovables podría impulsar la economía local en distintos sectores.\n• Es un momento crucial para que las instituciones evalúen el futuro energético del país.\n• La población espera un compromiso serio con respecto a la sostenibilidad energética.\n• La educación y conciencia sobre el uso eficiente de recursos energéticos es primordial.",
+      "source_name": "Hernán Fonseca Tamayo",
+      "source_url": "https://www.nacion.com/opinion/foros/senores-del-ice-no-cometan-ese-horror/7U4QF4AIYVDSDHCFHW4JMSTWZU/story/",
+      "publish_date": "2026-05-29T12:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: la energía fósil ya no es viable en Costa Rica, hay alternativas renovables.",
+      "image_url": "https://www.nacion.com/resizer/v2/VP6UGHPUM5E4NJ2SMZB3XTYO3E.jpg?auth=3530b68fa638dc4931473a922f0dcd8c8c0da0015b87700e7aa7cb063debbb7e&smart=true&width=2034&height=1236",
+      "description": "La producción de electricidad con combustibles fósiles está totalmente desactualizada y va en contra de toda lógica en estos tiempos, menos aún en un país donde tenemos sol y viento todo el año.",
+      "featured": false
+    },
+    {
+      "slug": "cortes-de-luz-de-esph-afectaran-sectores-de-san-pablo-este-viernes",
+      "title": "Cortes de luz de ESPH afectarán sectores de San Pablo este viernes",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los modernos sistemas eléctricos requieren mantenimiento y actualizaciones periódicas para su eficiente funcionamiento.\n• Es importante que los vecinos estén informados sobre los cortes programados para evitar inconvenientes mayores.\n• Mejoras en la infraestructura eléctrica contribuyen a un servicio más estable y de calidad.\n• La reubicación de postería es necesaria para garantizar un suministro seguro y eficiente de electricidad.\n• Se recomienda a los usuarios planificar actividades que no dependan de la energía eléctrica durante los cortes.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-de-esph-afectaran-sectores-de-san/OGQSGXQATRAEVCF26MYQYHI5YY/story/",
+      "publish_date": "2026-05-29T12:07:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Cortes de luz para mejorar el servicio en San Pablo este viernes.",
+      "image_url": "https://www.nacion.com/resizer/v2/7FVIQ7JEFJHYJNDOP5BZ3TB4TE.png?auth=aff1c3afe5629ac9e70c7387aafdb98b28018925389d04d5e20db1c71c1b3027&smart=true&width=1680&height=945",
+      "description": "ESPH aplicará cortes de luz este viernes 29 de mayo en sectores de San Pablo de Heredia por mejoras eléctricas y reubicación de postería.",
+      "featured": false
+    },
+    {
       "slug": "quienes-son-los-principales-candidatos-para-presidir-colombia-y-suceder-a-petro",
       "title": "Quiénes son los principales candidatos para presidir Colombia y suceder a Petro",
       "category": "Mundo",
-      "bullets_20s": "• Las elecciones en Colombia generan expectativas sobre el futuro político del país.\n• Trece candidatos se presentan en la carrera electoral por la presidencia.\n• Las encuestas revelan a tres favoritos que podrían dominar la contienda.\n• Los votantes buscan alternativas a las políticas del actual presidente Petro.\n• Los debates entre candidatos se volverán más intensos en las próximas semanas.",
+      "bullets_20s": "• Más de una docena de candidatos se preparan para las elecciones en Colombia. Competencia intensa y significativa.\n• Las encuestas actuales muestran a tres favoritos en las preferencias de los votantes. Escenarios complejos por delante.\n• La situación política en Colombia se transforma con cada elección, generando expectativas y tensiones entre partidos.\n• El futuro de Colombia pende de las decisiones que tomen los votantes en la próxima contienda electoral crucial.\n• El presidente saliente ha dejado una herencia política que influye en el proceso electoral actual y futuro.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cp8pp7m515jo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-29T11:07:08.000Z",
-      "teaser": "Lo clave en 20 segundos: Candidatos a la presidencia en Colombia se preparan para la contienda electoral.",
+      "teaser": "Lo clave en 20 segundos: Candidatos en Colombia se preparan para elección, tres destacan en encuestas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/80cf/live/84e233c0-5962-11f1-b1de-0d5db00809e5.png",
       "description": "Una docena de candidatos competirá en primera vuelta en Colombia. Las encuestas encumbran a tres favoritos.",
       "featured": false
@@ -68,12 +120,12 @@
     {
       "slug": "reglamento-de-la-comision-de-acreditacion-de-la-licenciatura-en-ingenieria-fisica-caif",
       "title": "Reglamento de la Comisión de Acreditación de la Licenciatura en Ingeniería Física (CAIF)",
-      "category": "Ciencia",
-      "bullets_20s": "• Se establece un reglamento específico para la acreditación en Ingeniería Física en Costa Rica.\n• La CAIF coordina el proceso de autoevaluación y acreditación de la carrera universitaria.\n• Se definen las funciones y responsabilidades de la Comisión de Acreditación en el reglamento.\n• Objetivos específicos incluyen análisis de agencias acreditadoras adecuadas para la carrera.\n• Se implementarán estrategias de mejora en la calidad educativa según los estándares establecidos.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El reglamento establece normas claras para la acreditación de la carrera de Ingeniería Física.\n• Incluye criterios que garantizan la calidad educativa de los programas de estudio.\n• La autoevaluación es una parte clave del proceso de acreditación para asegurar la calidad.\n• Los miembros de la comisión son seleccionados de acuerdo con el reglamento interno de la escuela.\n• Se especifican las funciones y responsabilidades de todos los integrantes de la CAIF.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/reglamento-comision-acreditacion-licenciatura-ingenieria-fisica-caif",
       "publish_date": "2026-05-29T04:08:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevo reglamento regula la acreditación de Ingeniería Física en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El reglamento regula la acreditación de Ingeniería Física y su calidad educativa.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "macastro",
       "featured": false
@@ -95,24 +147,24 @@
       "slug": "tu-avion-se-desvia-1000-millas-la-preocupante-guerra-invisible-del-gps-que-esta-alterando-el-transporte-aereo",
       "title": "Tu avión se desvía 1.000 millas: la preocupante guerra invisible del GPS que está alterando el transporte aéreo",
       "category": "Mundo",
-      "bullets_20s": "• La tecnología del GPS es fundamental para la navegación de aeronaves en todo el mundo.\n• La suplantación de GPS puede causar desvíos peligrosos en vuelos comerciales.\n• Expertos advierten sobre la creciente amenaza de interferencias en las señales de satélites.\n• Es crucial que las autoridades respondan para proteger la seguridad aérea global.\n• La guerra invisible del GPS podría tener consecuencias graves para la aviación internacional.",
+      "bullets_20s": "• La guerra del GPS plantea riesgos para la seguridad de la aviación comercial.\n• La suplantación de señales puede desencadenar accidentes y problemas graves.\n• Las autoridades trabajan en nuevas tecnologías para proteger las señales satelitales.\n• El transporte aéreo enfrenta nuevas amenazas debido a la vulnerabilidad del GPS.\n• Es crucial mejorar la formación de los pilotos en situaciones de emergencia relacionadas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdjp03nmxxdo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-29T03:31:46.000Z",
-      "teaser": "Lo clave en 20 segundos: un aumento en la suplantación de GPS pone en riesgo la navegación aérea.",
+      "teaser": "Lo clave en 20 segundos: La suplantación del GPS está alterando la seguridad en el transporte aéreo.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/8f0b/live/75b71d60-5aa3-11f1-85f8-45bcbbbef007.png",
-      "description": "Los datos indican que la suplantación de GPS, que altera las señales de los satélites y confunde a los aviones, está aumentando",
+      "description": "Los datos indican que la suplantación de GPS, que altera las señales de los satélites y confunde a los aviones, está aumentando.",
       "featured": false
     },
     {
       "slug": "reglamento-de-trabajos-finales-de-graduacion-de-la-licenciatura-en-ensenanza-de-la-matematica-con-entornos-tecnologicos",
       "title": "Reglamento de Trabajos Finales de Graduación de la Licenciatura en Enseñanza de la Matemática con Entornos Tecnológicos",
       "category": "Costa Rica",
-      "bullets_20s": "• Este reglamento se aplica a los estudiantes de la licenciatura MATEC del ITCR.\n• Regula la formulación y presentación pública del Trabajo Final de Graduación.\n• Incluye objetivos, modalidades y composición del Tribunal Evaluador.\n• Establece la defensa pública como un paso crítico para los estudiantes.\n• Define requisitos para matricular el curso de Trabajo Final de Graduación.",
+      "bullets_20s": "• El reglamento establece pasos claros para la elaboración del Trabajo Final de Graduación.\n• Incluye objetivos generales y específicos que los estudiantes deben cumplir al graduarse.\n• Los estudiantes deberán seguir ciertas reglas para la presentación pública de su trabajo.\n• Se menciona la importancia del cumplimiento de requisitos para matricularse en el TFG.\n• El documento incluye definiciones esenciales para la correcta formulación del TFG.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/reglamento-trabajos-finales-graduacion-licenciatura-ensenanza-matematica-entornos-tecnologicos",
       "publish_date": "2026-05-29T03:31:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Reglamento para graduación y defensa de la Licenciatura en Matemáticas en ITCR.",
+      "teaser": "Lo clave en 20 segundos: Se establecen normas para los Trabajos Finales en Matemática en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "macastro",
       "featured": false
@@ -121,11 +173,11 @@
       "slug": "disposiciones-sobre-la-definicion-de-los-niveles-de-autoridad-y-responsabilidad-en-el-proceso-de-normalizacion-contable-",
       "title": "DISPOSICIONES SOBRE LA DEFINICIÓN DE LOS NIVELES DE AUTORIDAD Y RESPONSABILIDAD EN EL PROCESO DE NORMALIZACIÓN CONTABLE CON BASE EN LAS NORMAS INTERNACIONALES DE CONTABILIDAD PARA EL SECTOR PÚBLICO (NICSP) EN EL INSTITUTO TECNOLÓGICO DE COSTA RICA (ITCR)",
       "category": "Costa Rica",
-      "bullets_20s": "• Se establecen las responsabilidades de los integrantes de la estructura organizativa del ITCR.\n• Las normas internacionales mejorarán la comunicación y la transparencia financiera en el instituto.\n• La aplicación de esta norma fortalecerá la rendición de cuentas en el sector público.\n• Se crea la Comisión NICSP para supervisar la implementación y actualización de normas contables.\n• La comisión se reunirá regularmente para mantener actualizados los procesos contables según NICSP.",
+      "bullets_20s": "• Establecen las responsabilidades y niveles de autoridad en el ITCR para normalización contable.\n• Facilitan comunicación eficaz para el logro efectivo de normas contables internacionales.\n• Aplicación en toda la estructura organizativa del Instituto Tecnológico de Costa Rica.\n• Busca fortalecer la confiabilidad y transparencia de la información financiera.\n• La Comisión NICSP se crea para facilitar el proceso de normalización contable en la institución.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/disposiciones-definicion-niveles-autoridad-responsabilidad-proceso-normalizacion-contable-base-0",
       "publish_date": "2026-05-29T03:17:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Se definen niveles de autoridad y se establece una comisión para normalización contable.",
+      "teaser": "Lo clave en 20 segundos: Nuevas disposiciones sobre normalización contable en el ITCR.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/image_116.png",
       "description": "macastro",
       "featured": false
@@ -134,26 +186,26 @@
       "slug": "interpretacion-del-articulo-48-del-reglamento-de-carrera-profesional-del-instituto-tecnologico-de-costa-rica-y-sus-refor",
       "title": "Interpretación del artículo 48 del Reglamento de Carrera Profesional del Instituto Tecnológico de Costa Rica y sus Reformas",
       "category": "Costa Rica",
-      "bullets_20s": "• La certificación es esencial para el reconocimiento en el régimen de carrera profesional.\n• Sin la condición de ponente, no se puede acreditar participación en eventos relevantes.\n• Los documentos adicionales no sustituyen la certificación esencial exigida por el reglamento.\n• El Consejo Institucional aprobó el nuevo acuerdo sobre el artículo 48 en mayo de 2026.\n• La Gaceta publicó las reformas en la fecha estipulada, estableciendo nuevos criterios.",
+      "bullets_20s": "• El artículo establece la importancia de la certificación para el reconocimiento profesional en ITCR.\n• Se requiere una certificación específica para acreditar participación como ponente en eventos externos.\n• La ausencia de dicha certificación impide el reconocimiento de la participación en el régimen de carrera.\n• Los documentos complementarios no sustituyen la certificación exigida por el reglamento.\n• El acuerdo fue publicado en la Gaceta oficial y se fundamenta en las normativas internas de ITCR.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/interpretacion-articulo-48-reglamento-carrera-profesional-instituto-tecnologico-costa-rica-sus",
       "publish_date": "2026-05-29T03:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: La certificación es crucial para el reconocimiento en la carrera profesional.",
+      "teaser": "Lo clave en 20 segundos: La certificación es esencial para el reconocimiento en la carrera profesional del ITCR.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "La certificación expedida por la entidad organizadora constituye el medio probatorio específico, necesario e insustituible para acreditar la participación.",
+      "description": "Interpretación sobre el artículo 48 que regula la certificación de participación en eventos académicos en ITCR.",
       "featured": false
     },
     {
       "slug": "reglamento-para-el-nombramiento-y-la-designacion-especial-de-personas-profesoras-o-profesionales-en-el-instituto-tecnolo",
       "title": "Reglamento para el nombramiento y la designación especial de personas profesoras o profesionales en el Instituto Tecnológico de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• Se regula el nombramiento de profesores o profesionales no activos en el ITCR.\n• Los nombramientos deben ser aprobados por los consejos de las dependencias del ITCR.\n• Las contrataciones de jubilados tienen condiciones específicas y limitaciones salariales.\n• Se detallan categorías distintas para profesores, profesionales invitados y pasantes.\n• El reglamento busca asegurar calidad y transparencia en contrataciones del ITCR.\n• Normas y regulaciones institucionales deben ser cumplidas estrictamente por los contratados.\n• Este reglamento garantiza derechos y condiciones laborales en el ITCR.\n• Se excluyen de regulaciones a funcionarios activos de la institución.\n• Los nombramientos pueden ser temporales, sujetos a aprobación de proyectos.\n• Este reglamento entrará en vigencia en mayo de 2026 tras su publicación.",
+      "bullets_20s": "• El reglamento establece disposiciones generales para el nombramiento de personal académico en ITCR.\n• Se regula el nombramiento de personas profesoras jubiladas bajo ciertas condiciones específicas.\n• El documento define los tipos de personas que pueden ser designadas en el instituto.\n• Los nombramientos se basan en la normativa laboral vigente del Instituto Tecnológico.\n• El reglamento busca asegurar un proceso transparente y acorde a la normativa nacional.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/reglamento-nombramiento-designacion-especial-personas-profesoras-profesionales-instituto",
       "publish_date": "2026-05-29T02:58:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevas normas del ITCR para nombramientos de docentes y profesionales.",
+      "teaser": "Lo clave en 20 segundos: nuevo reglamento para nombramientos de profesores en el ITCR.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
-      "description": "macastro",
+      "description": "Reglamento general que regula el nombramiento y designación de académicos no regulares en el ITCR.",
       "featured": false
     },
     {
@@ -29342,5 +29394,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-29T11:45:19.823Z"
+  "generated_at": "2026-05-29T12:45:19.741Z"
 }
