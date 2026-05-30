@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "kefir-de-agua-vs-kefir-de-leche-diferencias-propiedades-y-beneficios-para-la-salud",
+      "title": "Kéfir de agua vs. kéfir de leche: diferencias, propiedades y beneficios para la salud",
+      "category": "Ciencia",
+      "bullets_20s": "• El kéfir de agua y el de leche son fermentados con distintos métodos que afectan su composición.\n• Ambos tipos de kéfir pueden aportar beneficios significativos a la salud intestinal del ser humano.\n• El kéfir de agua es más ligero y perfecto para quienes evitan productos lácteos en su dieta.\n• Por otra parte, el kéfir de leche es rico en proteínas y aporta calcio y otros nutrientes esenciales.\n• Es importante elegir el tipo dependiendo de las necesidades y tolerancias dietéticas de cada persona.",
+      "source_name": "El Tiempo  Colombia",
+      "source_url": "https://www.nacion.com/ciencia/salud/kefir-de-agua-o-de-leche-cual-es-la-diferencia-y/FAXBUOPYIRHEJBLDHZIHT67CXQ/story/",
+      "publish_date": "2026-05-30T22:21:51.000Z",
+      "teaser": "Lo clave en 20 segundos: descubre las diferencias y beneficios del kéfir de agua y de leche.",
+      "image_url": "https://www.nacion.com/resizer/v2/63XII4JRXFDUVNCW3TWUDEQUC4.png?auth=9470af1fb1e1b67ff1097422afeacf9cfb1747e96d08da04f3982c4e6212e5af&smart=true&width=1672&height=941",
+      "description": "Conozca las diferencias entre el kéfir de agua y el kéfir de leche. Descubra sus propiedades, composición, beneficios para la microbiota intestinal y cuál se adapta mejor a sus necesidades.",
+      "featured": false
+    },
+    {
+      "slug": "costa-rica-cerrara-mayo-bajo-influencia-de-la-zona-de-convergencia-intertropical-estas-regiones-tendran-mas-lluvia",
+      "title": "Costa Rica cerrará mayo bajo influencia de la zona de convergencia intertropical: estas regiones tendrán más lluvia",
+      "category": "Costa Rica",
+      "bullets_20s": "• La zona de convergencia intertropical influye en el clima de Costa Rica este fin de semana.\n• Se esperan lluvias significativas en diversas regiones del país, principalmente el Pacífico.\n• Las condiciones atmosféricas favorecerán tormentas en el Valle Central y zona norte.\n• El IMN advierte sobre posibles aguaceros intensos el domingo 31 de mayo.\n• Este fenómeno climatológico puede impactar la agricultura y actividades al aire libre.",
+      "source_name": "Damián Arroyo C.",
+      "source_url": "https://www.nacion.com/sucesos/costa-rica-cerrara-mayo-bajo-influencia-de-la-zona/LSBK63K2RVDYTM4EVS6VBJFAVY/story/",
+      "publish_date": "2026-05-30T22:18:15.000Z",
+      "teaser": "Lo clave en 20 segundos: Se pronostican lluvias intensas por la zona de convergencia intertropical este fin de semana.",
+      "image_url": "https://www.nacion.com/resizer/v2/2M25WUYNPVGEPFPMGAGHMYUPCM.png?auth=591b767c021bb6c60ad36fb778e13f93ea71fc86945975039c799f94abc8ccb6&smart=true&width=1672&height=941",
+      "description": "El IMN pronostica lluvias, aguaceros y tormentas para este domingo 31 de mayo en Costa Rica. La zona de convergencia intertropical favorecerá precipitaciones en el Pacífico, Valle Central y zona norte.",
+      "featured": false
+    },
+    {
+      "slug": "toyota-abrira-nueva-fabrica-en-brasil-en-noviembre",
+      "title": "Toyota abrirá nueva fábrica en Brasil en noviembre",
+      "category": "Mundo",
+      "bullets_20s": "• Toyota expandirá su producción en Brasil con una nueva fábrica en noviembre próximo.\n• La planta estará ubicada en Sorocaba, un importante centro industrial del país.\n• Este proyecto cubre un área total de 160.000 m², lo que promete gran capacidad.\n• La inversión total para esta fábrica asciende a $2.184 millones, una cifra significativa.\n• Se espera que la nueva fábrica genere alrededor de 2.000 empleos hasta 2030.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/economia/toyota-abrira-nueva-fabrica-en-brasil-en-noviembre/LE26DJC7KJCO7AKDMZOIQ2W6XU/story/",
+      "publish_date": "2026-05-30T21:58:14.000Z",
+      "teaser": "Lo clave en 20 segundos: Toyota abrirá una nueva fábrica en Brasil, creando miles de empleos.",
+      "image_url": "https://www.nacion.com/resizer/v2/L4JUX75B4RAYNKTGPCMBBSKCLI.png?auth=0f97888286c7578f3c67f4e52222f13b4304850edc822d2f278c3ace3ae51ad4&smart=true&width=888&height=592",
+      "description": "Toyota inaugurará una nueva fábrica en Sorocaba, Brasil, en noviembre. El proyecto suma 160.000 m², forma parte de inversiones por $2.184 millones y permitirá crear 2.000 empleos hasta 2030.",
+      "featured": false
+    },
+    {
       "slug": "cortes-de-luz-del-ice-afectaran-comunidades-de-alajuela-limon-y-puntarenas-este-lunes-1-de-junio",
       "title": "Cortes de luz del ICE afectarán comunidades de Alajuela, Limón y Puntarenas este lunes 1 de junio",
       "category": "Costa Rica",
@@ -368,11 +407,11 @@
       "slug": "donald-y-doris-fisher-la-pareja-que-no-pudo-encontrar-un-talle-de-jeans-y-termino-creando-el-gigante-de-la-moda-gap",
       "title": "Donald y Doris Fisher, la pareja que no pudo encontrar un talle de jeans y terminó creando el gigante de la moda Gap",
       "category": "Mundo",
-      "bullets_20s": "• Gap se fundó en 1969 por Donald y Doris Fisher en San Francisco, California.\n• La marca revolucionó la venta de jeans, enfocándose en tallas y estilos variados.\n• A lo largo de su historia, Gap ha enfrentado crisis económicas y cambios de tendencias.\n• Recientemente, han reinventado su estrategia para atraer a nuevas generaciones de clientes.\n• Gap sigue siendo icónica, manteniéndose relevante en el mundo de la moda actual.",
+      "bullets_20s": "• Donald y Doris Fisher enfrentaron dificultades al buscar jeans que se ajustaran bien.\n• Decidieron emprender y fundaron la marca Gap, que se hizo famosa rápidamente.\n• La marca se convirtió en símbolo de moda y estilo a lo largo de los años.\n• Gap vivió altibajos financieros, pero siempre logró resurgir de sus crisis.\n• Hoy, Gap busca atraer a nuevas generaciones con propuestas innovadoras.\n• La historia de Gap refleja la tenacidad y visión de sus fundadores.\n• La marca es reconocida a nivel global, con una gran variedad de prendas.\n• El legado de Donald y Doris Fisher continúa influyendo en la industria de la moda.\n• Gap ha evolucionado con el tiempo, adaptándose a las tendencias actuales.\n• Su propuesta inicial cambió la forma en que los consumidores piensan sobre la moda.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c78qj9zy4j6o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-30T13:15:51.000Z",
-      "teaser": "Lo clave en 20 segundos: la historia de cómo una necesidad creó un imperio de moda.",
+      "teaser": "Lo clave en 20 segundos: La historia de Gap, un gigante de la moda creado por una necesidad personal.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b5af/live/b3c68b40-4efa-11f1-85df-7fe19d922bf1.jpg",
       "description": "Es una de las marcas más influyentes del siglo XX. Triunfó y cayó varias veces y hoy está conquistando una vez más a nuevas generaciones. Esta es la historia de Gap.",
       "featured": false
@@ -427,6 +466,19 @@
       "teaser": "Lo clave en 20 segundos: Aguaceros y calor intenso se prevén este fin de semana en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/BHOQBV3TMVDFDGAVP6ODYJAD5Y.jpg?auth=39799f67eafe412ed1c884b252cad782a88504baeb6a687bbeac57e8297c6965&smart=true&width=2914&height=1639",
       "description": "Las mañanas tendrán condiciones relativamente estables, pero la humedad y el fuerte calentamiento diurno favorecerán lluvias y tormentas en varias regiones del país.",
+      "featured": false
+    },
+    {
+      "slug": "es-como-si-la-muerte-viniera-a-buscarnos-cada-mes-la-pesadilla-de-vivir-con-el-trastorno-disforico-premenstrual",
+      "title": "Es como si la muerte viniera a buscarnos cada mes: la pesadilla de vivir con el trastorno disfórico premenstrual",
+      "category": "Mundo",
+      "bullets_20s": "• El trastorno disfórico premenstrual afecta a millones de mujeres alrededor del mundo cada mes.\n• Los síntomas pueden incluir angustia emocional, ansiedad y cambios en el estado de ánimo complejos.\n• El diagnóstico a menudo se retrasa, afectando la calidad de vida de las mujeres que lo padecen.\n• El tratamiento efectivo puede ser difícil de encontrar y requiere un enfoque integral de salud.\n• Concienciar sobre este trastorno es vital para mejorar el diagnóstico y tratamiento oportuno.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/crkppvv103jo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-30T12:11:59.000Z",
+      "teaser": "Lo clave en 20 segundos: El trastorno disfórico premenstrual es doloroso y mal diagnosticado en muchas mujeres.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/2db1/live/c9bd8ed0-5913-11f1-89a3-d1f559421220.jpg",
+      "description": "Es grave y millones de mujeres lo sufren, pero pueden pasar años antes de que les diagnostiquen y traten adecuadamente este trastorno que causa síntomas psicológicos graves y, en ocasiones, físicos.",
       "featured": false
     },
     {
@@ -511,11 +563,11 @@
       "slug": "lo-que-el-precio-de-una-sola-taza-de-cafe-dice-sobre-la-agitacion-economica-actual",
       "title": "Lo que el precio de una sola taza de café dice sobre la agitación económica actual",
       "category": "Mundo",
-      "bullets_20s": "• El costo del café refleja la economía global y los cambios de mercado que afectan a productores.\n• Los aranceles y el clima son factores que influyen en el precio del café a nivel mundial.\n• La Generación Z muestra nuevos gustos y preferencias en el consumo de café alrededor del mundo.\n• Los caficultores están adaptando sus estrategias para enfrentar la demanda y la competencia.\n• La cultura del café va más allá de la bebida, implicando historia y economía internacional.",
+      "bullets_20s": "• El precio del café refleja la complejidad del mercado global y la economía local.\n• Las fluctuaciones en el costo afectan a millones de caficultores en todo el mundo.\n• La Generación Z está redefiniendo las preferencias de consumo de café.\n• Los cambios climáticos impactan directamente en la producción y calidad del café.\n• Aranceles y políticas comerciales juegan un papel crucial en la economía cafetera.\n• Los consumidores buscan cada vez más cafés de origen y sostenibles.\n• Las tendencias de consumo marcan la pauta sobre el futuro de la industria cafetera.\n• Las marcas deben adaptarse a las demandas cambiantes del mercado y los clientes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cg4pw44r4wlo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-30T10:15:08.000Z",
-      "teaser": "Lo clave en 20 segundos: El precio del café revela tensiones económicas y culturales actuales.",
+      "teaser": "Lo clave en 20 segundos: el precio del café refleja la economía y el impacto climático sobre la producción.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1024/live/6d38ee70-5c51-11f1-998d-a9332a228e20.jpg",
       "description": "El café no sólo es un ritual diario para millones de personas, sino también una historia de aranceles, clima, gustos culturales de la Generación Z y astutos caficultores.",
       "featured": false
@@ -1317,11 +1369,11 @@
       "slug": "quienes-son-los-principales-candidatos-para-presidir-colombia-y-suceder-a-petro",
       "title": "Quiénes son los principales candidatos para presidir Colombia y suceder a Petro",
       "category": "Mundo",
-      "bullets_20s": "• Colombia se prepara para una nueva elección presidencial con varios candidatos en la contienda.\n• Las encuestas revelan que tres de estos candidatos están liderando las preferencias del electorado.\n• Los votantes buscan un cambio en la dirección política tras el gobierno de Petro.\n• Análisis sugieren que la incertidumbre será un tema central en la campaña electoral.\n• Se espera que los debates entre candidatos sean intensos y muy seguidos por la población.",
+      "bullets_20s": "• Las elecciones presidenciales en Colombia están generando gran interés y diversas opiniones entre los ciudadanos.\n• El actual presidente Petro dejará el cargo, generando un clima de incertidumbre política en el país.\n• Entre los candidatos, tres destacan en las encuestas como favoritos para ganar la primera vuelta.\n• Los partidos políticos están trabajando arduamente para posicionar a sus candidatos ante el electorado.\n• Las próximas semanas serán cruciales para definir el rumbo electoral en Colombia y las alianzas políticas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cp8pp7m515jo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-29T11:07:08.000Z",
-      "teaser": "Lo clave en 20 segundos: Colombia elige nuevos líderes mientras la política se redefine.",
+      "teaser": "Lo clave en 20 segundos: una docena de candidatos buscan suceder a Petro, con tres favoritos destacados.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/80cf/live/84e233c0-5962-11f1-b1de-0d5db00809e5.png",
       "description": "Una docena de candidatos competirá en primera vuelta en Colombia. Las encuestas encumbran a tres favoritos.",
       "featured": false
@@ -1381,14 +1433,14 @@
     {
       "slug": "reglamento-de-la-comision-de-acreditacion-de-la-licenciatura-en-ingenieria-fisica-caif",
       "title": "Reglamento de la Comisión de Acreditación de la Licenciatura en Ingeniería Física (CAIF)",
-      "category": "Ciencia",
-      "bullets_20s": "• El reglamento abarca disposiciones generales para la acreditación de la licenciatura en Ingeniería Física.\n• Se establece que la Comisión de Acreditación será de acatamiento obligatorio para los involucrados.\n• Detalles sobre el proceso de autoevaluación son parte fundamental para asegurar la calidad educativa.\n• La CAIF debe coordinar y seguir el proceso de acreditación con diversos organismos acreditadores.\n• El reglamento incluirá recomendaciones basadas en el análisis y seguimiento continuos del programa.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El reglamento establece directrices para la Comisión de Acreditación de Ingeniería Física.\n• La CAIF debe organizar y coordinar el proceso de acreditación académica.\n• Se mencionan las definiciones clave relacionadas con la acreditación de programas.\n• El reglamento es obligatorio para los integrantes de la Comisión encargada.\n• La CAIF está conformada por miembros del Consejo de la Escuela de Física.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/reglamento-comision-acreditacion-licenciatura-ingenieria-fisica-caif",
       "publish_date": "2026-05-29T04:08:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevo reglamento para acreditar la licenciatura en Ingeniería Física en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Nuevo reglamento para la acreditación de la Licenciatura en Ingeniería Física.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
-      "description": "Reglamento para la gestión de la acreditación en Ingeniería Física redactado en Costa Rica.",
+      "description": "macastro",
       "featured": false
     },
     {
@@ -1402,19 +1454,6 @@
       "teaser": "Lo clave en 20 segundos: Actualización de la ruta 27 tras hundimiento en Orotina.",
       "image_url": "https://www.nacion.com/resizer/v2/FLN32MF56ZAJVCTLBPP42FUGFY.jpeg?auth=71a231267d08f817986c34447da36d6d0b9308c153129499c653c3680b4228e0&smart=true&width=1280&height=720",
       "description": "El MOPT brindó los últimos detalles sobre las condiciones de la ruta 27 tras el colapso sufrido en el sector de Orotina. Conozca las rutas alternas.",
-      "featured": false
-    },
-    {
-      "slug": "mas-de-300-personas-con-discapacidad-o-necesidades-educativas-forman-parte-del-tec",
-      "title": "Más de 300 personas con discapacidad o necesidades educativas forman parte del TEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• El TEC cumple un papel esencial en la inclusión de personas con discapacidad en la educación superior.\n• Las políticas del TEC buscan garantizar la igualdad de oportunidades para todos sus estudiantes.\n• La experiencia 'Ciudad a Ciegas' promueve empatía y conciencia sobre las capacidades diferentes.\n• Un conversatorio con un paratleta destacó las habilidades y talentos de la comunidad diversa.\n• El compromiso del TEC se enfoca en derechos humanos y accesibilidad universitaria.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/mas-300-personas-discapacidad-necesidades-educativas-forman-parte-tec",
-      "publish_date": "2026-05-29T03:44:22.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC reafirma su compromiso con la inclusión educativa para personas con discapacidad.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/discapacidad.jpg",
-      "description": "Más de 300 personas con discapacidad o necesidades educativas forman parte del TEC",
       "featured": false
     },
     {
@@ -1434,24 +1473,24 @@
       "slug": "reglamento-de-trabajos-finales-de-graduacion-de-la-licenciatura-en-ensenanza-de-la-matematica-con-entornos-tecnologicos",
       "title": "Reglamento de Trabajos Finales de Graduación de la Licenciatura en Enseñanza de la Matemática con Entornos Tecnológicos",
       "category": "Costa Rica",
-      "bullets_20s": "• El reglamento establece los objetivos para la presentación de trabajos finales en matemáticas.\n• Los estudiantes deben cumplir requisitos específicos para matricularse en el curso de TFG.\n• Incluye las modalidades del trabajo final, como tesis y proyectos grupales.\n• El anteproyecto debe incluir un marco teórico y objetivos claros para su desarrollo.\n• Las evaluaciones se basan en el informe escrito y la presentación pública del TFG.",
+      "bullets_20s": "• El reglamento regula la elaboración y presentación del Trabajo Final de Graduación en MATEC.\n• Establece los objetivos y definiciones clave para los estudiantes de la licenciatura MATEC.\n• Las modalidades de TFG incluyen tesis, proyectos y seminarios para los estudiantes.\n• Se requiere que los estudiantes cumplan con criterios específicos para matricularse en el curso.\n• Los tutores y lectores jugarán un papel crítico en el proceso de evaluación del TFG.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/reglamento-trabajos-finales-graduacion-licenciatura-ensenanza-matematica-entornos-tecnologicos",
       "publish_date": "2026-05-29T03:31:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Reglamento que guía la presentación de TFG en matemáticas en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Este reglamento establece el proceso del TFG en la Licenciatura MATEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
-      "description": "macastro",
+      "description": "Reglamento especifica el proceso para la formulación, elaboración y presentación del TFG en la licenciatura MATEC.",
       "featured": false
     },
     {
       "slug": "disposiciones-sobre-la-definicion-de-los-niveles-de-autoridad-y-responsabilidad-en-el-proceso-de-normalizacion-contable-",
       "title": "DISPOSICIONES SOBRE LA DEFINICIÓN DE LOS NIVELES DE AUTORIDAD Y RESPONSABILIDAD EN EL PROCESO DE NORMALIZACIÓN CONTABLE CON BASE EN LAS NORMAS INTERNACIONALES DE CONTABILIDAD PARA EL SECTOR PÚBLICO (NICSP) EN EL INSTITUTO TECNOLÓGICO DE COSTA RICA (ITCR)",
       "category": "Costa Rica",
-      "bullets_20s": "• Establece la responsabilidad y autoridad en el Instituto Tecnológico de Costa Rica.\n• Busca una comunicación fluida en la normalización contable del ITCR.\n• Aplicable a toda la estructura organizativa del Instituto Tecnológico.\n• Fomenta la transparencia en la información financiera para decisiones.\n• La Comisión NICSP será permanente y actualizable con normativas.",
+      "bullets_20s": "• Se establecen los niveles de autoridad en el Instituto Tecnológico de Costa Rica para la normalización contable.\n• La comunicación eficiente es crucial para lograr la normalización contable según normas internacionales.\n• La Comisión NICSP se crea para supervisar la implementación de normas contables en el ITCR.\n• Las disposiciones abarcan toda la estructura organizativa de la institución educativa.\n• Las NICSP buscan fortalecer la transparencia en la información financiera pública y rendición de cuentas.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/disposiciones-definicion-niveles-autoridad-responsabilidad-proceso-normalizacion-contable-base-0",
       "publish_date": "2026-05-29T03:17:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Establecen niveles de autoridad en contabilidad en el ITCR.",
+      "teaser": "Lo clave en 20 segundos: Nuevas disposiciones para mejorar la normalización contable en el ITCR.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/image_116.png",
       "description": "macastro",
       "featured": false
@@ -1460,13 +1499,13 @@
       "slug": "interpretacion-del-articulo-48-del-reglamento-de-carrera-profesional-del-instituto-tecnologico-de-costa-rica-y-sus-refor",
       "title": "Interpretación del artículo 48 del Reglamento de Carrera Profesional del Instituto Tecnológico de Costa Rica y sus Reformas",
       "category": "Costa Rica",
-      "bullets_20s": "• El artículo 48 del Reglamento establece la importancia de la certificación para la carrera profesional.\n• La certificación debe indicar la condición de ponente para ser válida en el conteo de puntajes.\n• Documentos complementarios no sustituyen la certificación exigida por el reglamento de carrera.\n• El reglamento busca asegurar que se reconozca adecuadamente la participación en eventos profesionales.\n• Las reformas buscan mejorar los criterios de evaluación para los profesionales del Instituto Tecnológico.",
+      "bullets_20s": "• El artículo 48 del Reglamento tiene impacto en la carrera profesional de los docentes del TEC.\n• Se requiere certificación formal para validar la participación como ponente en eventos externos.\n• La falta de indicación de ponente en documentos impide asignación de puntajes en la carrera.\n• El Consejo Institucional aprobó este acuerdo en la sesión número 3448.\n• Los documentos del expediente pueden ser útiles, pero no sustituye la certificación específica.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/interpretacion-articulo-48-reglamento-carrera-profesional-instituto-tecnologico-costa-rica-sus",
       "publish_date": "2026-05-29T03:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: la certificación es esencial para el reconocimiento en la carrera profesional.",
+      "teaser": "Lo clave en 20 segundos: Se aclara la importancia de la certificación en el Reglamento de Carrera Profesional del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "Interpretación del artículo 48 del Reglamento de Carrera Profesional del Instituto Tecnológico de Costa Rica y sus Reformas.",
+      "description": "macastro",
       "featured": false
     },
     {
@@ -1584,6 +1623,19 @@
       "teaser": "Lo clave en 20 segundos: El exceso de proteína animal puede acelerar el envejecimiento celular en adultos jóvenes y medianos.",
       "image_url": "https://www.nacion.com/resizer/v2/WI5NWFBBLRE3XLL7MUNTAVVO7Y.png?auth=f000f16da5ecc8d1740ac5f05ad445efeed7ac2930ad8f848c4fef2f0a51ceb7&smart=true&width=1672&height=941",
       "description": "El exceso de proteína animal podría acelerar el envejecimiento celular entre los 18 y 65 años. Expertos explican los riesgos, los síntomas de alerta y la cantidad recomendada.",
+      "featured": false
+    },
+    {
+      "slug": "mas-de-300-personas-con-discapacidad-o-necesidades-educativas-forman-parte-del-tec",
+      "title": "Más de 300 personas con discapacidad o necesidades educativas forman parte del TEC",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC refuerza su compromiso con la educación inclusiva y accesible para todos los estudiantes.\n• Un total de 313 personas con discapacidad o necesidades educativas están matriculadas en el TEC.\n• Se realizaron actividades como 'Ciudad a Ciegas' para fomentar la empatía entre estudiantes.\n• Katherine Palma afirma que el enfoque de derechos humanos es fundamental en la inclusión educativa.\n• El TEC ha implementado políticas desde 1999 para asegurar igualdad de oportunidades en sus sedes.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/mas-300-personas-discapacidad-necesidades-educativas-forman-parte-tec",
+      "publish_date": "2026-05-29T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Más de 300 estudiantes con discapacidad se benefician de la inclusión educativa en el TEC.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/discapacidad.jpg",
+      "description": "Más de 300 personas con discapacidad o necesidades educativas forman parte del TEC",
       "featured": false
     },
     {
@@ -30603,5 +30655,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-30T21:45:20.125Z"
+  "generated_at": "2026-05-30T22:45:19.702Z"
 }
