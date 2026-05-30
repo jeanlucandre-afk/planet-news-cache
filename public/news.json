@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "la-psicologia-dice-que-los-ninos-de-los-anos-60-y-70-no-se-volvieron-fuertes-gracias-a-una-mejor-crianza-sino-que-aprend",
+      "title": "La psicología dice que los niños de los años 60 y 70 no se volvieron fuertes gracias a una mejor crianza, sino que aprendieron a gestionar sus propias emociones",
+      "category": "Ciencia",
+      "bullets_20s": "• Los niños de los años 60 y 70 desarrollaron habilidades emocionales valiosas.\n• Se destaca la importancia de la gestión emocional en el desarrollo infantil.\n• Los cambios en crianza han impactado la resiliencia de las nuevas generaciones.\n• Las experiencias pasadas enseñan a enfrentar problemas sin guía constante.\n• La psicología aporta un análisis profundo sobre estas tendencias educativas.",
+      "source_name": "El Tiempo  Colombia",
+      "source_url": "https://www.nacion.com/ciencia/la-psicologia-dice-que-los-ninos-de-los-anos-60-y/4Z3LODV7JJCXND7PBS7DFBS4HA/story/",
+      "publish_date": "2026-05-30T15:11:52.000Z",
+      "teaser": "Lo clave en 20 segundos: La resiliencia emocional de niños de los 60 y 70 se debe a su crianza y autogestión.",
+      "image_url": "https://www.nacion.com/resizer/v2/5GLVC3GP55AGFM6VITDNOESH6E.png?auth=321cf92be0ccb3daabd13cc046e0210141dd3f4a9fbea1bb647f344db7856703&smart=true&width=1672&height=941",
+      "description": "La psicología relaciona la crianza de los años 60 y 70 con una mayor resiliencia emocional y capacidad para enfrentar problemas sin ayuda.",
+      "featured": false
+    },
+    {
+      "slug": "argentino-fue-detenido-en-brasil-tras-fotografiar-a-nino-de-7-anos-y-enviar-mensajes-racistas-sobre-esclavitud",
+      "title": "Argentino fue detenido en Brasil tras fotografiar a niño de 7 años y enviar mensajes racistas sobre esclavitud",
+      "category": "Mundo",
+      "bullets_20s": "• El detenido es un argentino de 63 años, una noticia impactante de Brasil.\n• El hecho involucra la fotografía de un niño pequeño y mensajes ofensivos.\n• Las autoridades brasileñas actuaron rápidamente ante la denuncia de estos mensajes.\n• El racismo y la esclavitud son temas sensibles en la sociedad actual.\n• Este caso resalta la necesidad de vigilancia y protección infantil.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/el-mundo/argentino-fue-detenido-en-brasil-tras-fotografiar/KPFAOAXEVVDSDCWXHOWYK7FMF4/story/",
+      "publish_date": "2026-05-30T15:06:13.000Z",
+      "teaser": "Lo clave en 20 segundos: Un argentino fue arrestado en Brasil por racismo y un hecho alarmante sobre un niño.",
+      "image_url": "https://www.nacion.com/resizer/v2/KDMUETCAWFCGVB3B4A77LOZKSE.png?auth=1f23c8efe85701e8dc72ac79b71ae756ca4741237f7bcb1e17f918ec1b61ea29&smart=true&width=1920&height=1080",
+      "description": "Argentino de 63 años quedó detenido en Brasil tras fotografiar a un niño de 7 años y enviar mensajes racistas donde insinuó llevarlo como esclavo.",
+      "featured": false
+    },
+    {
       "slug": "como-vaciar-la-papelera-de-whatsapp-y-liberar-espacio-en-su-celular",
       "title": "Cómo vaciar la ‘papelera’ de WhatsApp y liberar espacio en su celular",
       "category": "Tecnología",
@@ -69,11 +95,11 @@
       "slug": "donald-y-doris-fisher-la-pareja-que-no-pudo-encontrar-un-talle-de-jeans-y-termino-creando-el-gigante-de-la-moda-gap",
       "title": "Donald y Doris Fisher, la pareja que no pudo encontrar un talle de jeans y terminó creando el gigante de la moda Gap",
       "category": "Mundo",
-      "bullets_20s": "• Gap se ha convertido en un símbolo de la moda y el estilo en todo el mundo.\n• La historia de Donald y Doris Fisher ofrece una interesante perspectiva empresarial.\n• La marca ha enfrentado retos que han marcado su trayectoria en el mercado.\n• Gap ha tenido que reinventarse para atraer a nuevas generaciones de consumidores.\n• Las dificultades iniciales de la pareja fueron el catalizador de su éxito empresarial.",
+      "bullets_20s": "• Gap inició su historia por la dificultad de encontrar jeans de tallas adecuadas para el público.\n• La marca ha pasado por períodos de éxito y dificultades en su trayectoria empresarial.\n• Gap se ha adaptado a nuevas tendencias y generaciones a lo largo de los años.\n• La visión de Donald y Doris Fisher revolucionó el mundo de la moda en su momento.\n• La marca se enfoca en ofrecer diversidad en estilos y tallas para sus consumidores.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c78qj9zy4j6o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-30T13:15:51.000Z",
-      "teaser": "Lo clave en 20 segundos: la inspiradora historia detrás de la marca Gap.",
+      "teaser": "Lo clave en 20 segundos: La historia de Gap, un gigante de la moda, comienza con un inconveniente de tallas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b5af/live/b3c68b40-4efa-11f1-85df-7fe19d922bf1.jpg",
       "description": "Es una de las marcas más influyentes del siglo XX. Triunfó y cayó varias veces y hoy está conquistando una vez más a nuevas generaciones. Esta es la historia de Gap.",
       "featured": false
@@ -238,11 +264,11 @@
       "slug": "los-5-de-ulm-el-controvertido-juicio-en-alemania-que-cuestiona-el-fuerte-vinculo-del-pais-con-israel-y-la-respuesta-a-la",
       "title": "Los 5 de Ulm: el controvertido juicio en Alemania que cuestiona el fuerte vínculo del país con Israel y la respuesta a las protestas a favor de los palestinos",
       "category": "Mundo",
-      "bullets_20s": "• El juicio en Alemania ha generado un intenso debate sobre las relaciones internacionales.\n• Activistas movilizan opiniones a favor y en contra del juicio de los cinco individuos.\n• Las protestas por los derechos de los palestinos han suscitado diversas reacciones globales.\n• El vínculo entre Alemania e Israel se pone a prueba ante la opinión pública crítica.\n• Medidas de seguridad elevadas están en vigencia durante el desarrollo del juicio.",
+      "bullets_20s": "• El juicio ha generado un intenso debate sobre la relación entre Alemania e Israel.\n• Se han intensificado las protestas en apoyo a los derechos palestinos tras este caso.\n• Los activistas enfrentan medidas de alta seguridad durante el proceso judicial.\n• Este caso podría marcar un precedente en la legislación de derechos humanos en Europa.\n• Las reacciones del público varían desde el apoyo a la defensa de los derechos humanos hasta críticas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpqp8y8zwqeo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-30T03:50:44.000Z",
-      "teaser": "Lo clave en 20 segundos: juicio en Alemania plantea tensiones sobre Israel y las protestas palestinas.",
+      "teaser": "Lo clave en 20 segundos: el juicio en Alemania que desafía vínculos con Israel en contexto de protestas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e03c/live/e69db0f0-503c-11f1-acb9-d58a691df770.jpg",
       "description": "Los cinco activistas, procedentes del Reino Unido, España, Irlanda y Alemania, están siendo juzgados con medidas de alta seguridad.",
       "featured": false
@@ -664,19 +690,6 @@
       "featured": false
     },
     {
-      "slug": "la-psicologia-dice-que-los-ninos-de-los-anos-60-y-70-no-se-volvieron-fuertes-gracias-a-una-mejor-crianza-sino-que-aprend",
-      "title": "La psicología dice que los niños de los años 60 y 70 no se volvieron fuertes gracias a una mejor crianza, sino que aprendieron a gestionar sus propias emociones",
-      "category": "Ciencia",
-      "bullets_20s": "• Los niños de los años 60 y 70 aprendieron habilidades emocionales de enfrentamiento por sí mismos.\n• La crianza en estas décadas fomentó la resiliencia y la independencia emocional en los niños.\n• El estudio revela que los problemas eran enfrentados sin la constante asistencia de adultos.\n• La capacidad para gestionar emociones se vio fortalecida en un entorno de poca supervisión.\n• Se destaca la importancia de aprender a ser autosuficientes desde una edad temprana.",
-      "source_name": "El Tiempo  Colombia",
-      "source_url": "https://www.nacion.com/ciencia/la-psicologia-dice-que-los-ninos-de-los-anos-60-y/4Z3LODV7JJCXND7PBS7DFBS4HA/story/",
-      "publish_date": "2026-05-29T17:15:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Niños de los 60 y 70 aprendieron a gestionar emociones de manera independiente.",
-      "image_url": "https://www.nacion.com/resizer/v2/5GLVC3GP55AGFM6VITDNOESH6E.png?auth=321cf92be0ccb3daabd13cc046e0210141dd3f4a9fbea1bb647f344db7856703&smart=true&width=1672&height=941",
-      "description": "La psicología relaciona la crianza de los años 60 y 70 con una mayor resiliencia emocional y capacidad para enfrentar problemas sin ayuda.",
-      "featured": false
-    },
-    {
       "slug": "imn-advierte-sobre-lluvias-intensas-y-tormentas-electricas-la-tarde-de-este-viernes-en-varias-regiones-de-costa-rica",
       "title": "IMN advierte sobre lluvias intensas y tormentas eléctricas la tarde de este viernes en varias regiones de Costa Rica",
       "category": "Costa Rica",
@@ -1018,11 +1031,11 @@
       "slug": "quienes-son-los-principales-candidatos-para-presidir-colombia-y-suceder-a-petro",
       "title": "Quiénes son los principales candidatos para presidir Colombia y suceder a Petro",
       "category": "Mundo",
-      "bullets_20s": "• Las elecciones en Colombia están próximas y los candidatos buscan el apoyo popular con diversas propuestas.\n• Se destaca que la competencia es reñida y hay tres candidatos que parecen liderar las encuestas.\n• El actual presidente Petro deja un legado complejo que influye en la campaña electoral de sus sucesores.\n• El contexto político en Colombia es muy dinámico, lo que impacta en las decisiones de los electores.\n• Las alianzas políticas y estrategias pueden definir el rumbo de las próximas elecciones en el país.",
+      "bullets_20s": "• Las elecciones presidenciales en Colombia están en marcha con una amplia variedad de candidatos.\n• Las encuestas recientes muestran a tres candidatos liderando las preferencias del electorado.\n• Las dinámicas políticas en Colombia han cambiado, afectando las candidaturas de manera significativa.\n• La próxima elección es crucial para el futuro político del país y la región.\n• Los retos que enfrentarán los candidatos incluyen la economía, la paz y la seguridad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cp8pp7m515jo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-29T11:07:08.000Z",
-      "teaser": "Lo clave en 20 segundos: Candidatos en Colombia se preparan para una reñida competencia electoral.",
+      "teaser": "Lo clave en 20 segundos: Principales candidatos listos para las elecciones presidenciales en Colombia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/80cf/live/84e233c0-5962-11f1-b1de-0d5db00809e5.png",
       "description": "Una docena de candidatos competirá en primera vuelta en Colombia. Las encuestas encumbran a tres favoritos.",
       "featured": false
@@ -1083,13 +1096,13 @@
       "slug": "reglamento-de-la-comision-de-acreditacion-de-la-licenciatura-en-ingenieria-fisica-caif",
       "title": "Reglamento de la Comisión de Acreditación de la Licenciatura en Ingeniería Física (CAIF)",
       "category": "Ciencia",
-      "bullets_20s": "• El reglamento establece el alcance y tipo específico para la acreditación en Ingeniería Física.\n• Define la estructura organizativa de la Comisión de Acreditación de la Licenciatura.\n• Incluye objetivos generales y específicos para coordinar procesos de autoevaluación.\n• Se requiere la elección de un coordinador para liderar la Comisión de Acreditación.\n• Se especifican las funciones y responsabilidades de los integrantes de la Comisión.",
+      "bullets_20s": "• El reglamento establece normas para la acreditación de la carrera de Ingeniería Física.\n• Las disposiciones son de acatamiento obligatorio por parte de los miembros de la comisión.\n• Detalla el proceso de autoevaluación que busca garantizar la calidad académica.\n• Se define la estructura organizativa y objetivos de la Comisión de Acreditación.\n• La responsabilidad de actualización del reglamento recae en la propia comisión.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/reglamento-comision-acreditacion-licenciatura-ingenieria-fisica-caif",
       "publish_date": "2026-05-29T04:08:27.000Z",
-      "teaser": "Lo clave en 20 segundos: nuevo reglamento regula la acreditación de Ingeniería Física en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Se establece reglamento para la acreditación en Ingeniería Física.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
-      "description": "Reglamento que regula la Comisión de Acreditación referente a la Licenciatura en Ingeniería Física",
+      "description": "macastro",
       "featured": false
     },
     {
@@ -1109,11 +1122,11 @@
       "slug": "mas-de-300-personas-con-discapacidad-o-necesidades-educativas-forman-parte-del-tec",
       "title": "Más de 300 personas con discapacidad o necesidades educativas forman parte del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica busca garantizar la inclusión educativa y la accesibilidad para todos sus estudiantes.\n• Se han registrado 313 estudiantes con discapacidad o necesidades educativas en el TEC hasta la fecha.\n• El TEC organiza actividades como 'Ciudad a Ciegas' para promover la empatía entre los estudiantes.\n• Katherine Palma destaca la importancia de transformar la institución para asegurar igualdad de oportunidades.\n• El conversatorio 'Mi vida en el deporte' busca crear conciencia sobre las capacidades de personas con discapacidad.",
+      "bullets_20s": "• El TEC refuerza su compromiso con una educación inclusiva y accesible para todos los estudiantes.\n• Se realizan actividades que promueven la empatía entre estudiantes, como 'Ciudad a Ciegas'.\n• Actualmente, 313 personas con discapacidad o necesidades educativas están registradas en el TEC.\n• Se llevaron a cabo conversatorios para generar conciencia sobre la inclusión y superación personal.\n• Desde 1999, el TEC ha implementado programas para garantizar el acceso a estudiantes con discapacidad.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/mas-300-personas-discapacidad-necesidades-educativas-forman-parte-tec",
       "publish_date": "2026-05-29T03:44:22.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC reafirma su compromiso con la inclusión y la accesibilidad educativa.",
+      "teaser": "Lo clave en 20 segundos: Más de 300 personas con discapacidad se integran al TEC, promoviendo inclusión y derechos humanos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/discapacidad.jpg",
       "description": "Más de 300 personas con discapacidad o necesidades educativas forman parte del TEC",
       "featured": false
@@ -1135,24 +1148,24 @@
       "slug": "reglamento-de-trabajos-finales-de-graduacion-de-la-licenciatura-en-ensenanza-de-la-matematica-con-entornos-tecnologicos",
       "title": "Reglamento de Trabajos Finales de Graduación de la Licenciatura en Enseñanza de la Matemática con Entornos Tecnológicos",
       "category": "Costa Rica",
-      "bullets_20s": "• La normativa regula la presentación de Trabajos Finales para estudiantes de MATEC.\n• Establece objetivos y criterios específicos para la formulación del TFG.\n• Proporciona pasos claros a seguir para los matriculados en el curso de TFG.\n• El reglamento incluye definiciones clave sobre el trabajo final y su defensa.\n• Se detalla el proceso de evaluación y los roles del tribunal evaluador.",
+      "bullets_20s": "• El reglamento establece lineamientos para trabajos finales de graduación en Matemática.\n• Incluye objetivos generales y específicos para estudiantes de MATEC.\n• Se requiere presentar un anteproyecto antes de matricular el curso.\n• Los estudiantes deben cumplir requisitos para poder matricularse en el curso.\n• El TFG puede ser una tesis, proyecto o seminario grupal.\n• Los tutorados recibirán apoyo continuo durante su proceso de elaboración.\n• Se define la estructura del informe final que deben presentar los estudiantes.\n• El reglamento establece modalidades de defensa pública del TFG.\n• Los TFG deben alinearse con al menos un Objetivo de Desarrollo Sostenible.\n• Se conformará un Tribunal Evaluador para cada presentación pública.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/reglamento-trabajos-finales-graduacion-licenciatura-ensenanza-matematica-entornos-tecnologicos",
       "publish_date": "2026-05-29T03:31:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Reglamento para la presentación de Trabajos Finales de Graduación en Matemática.",
+      "teaser": "Lo clave en 20 segundos: Reglamento para graduación en Matemática con entornos tecnológicos y sus requisitos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
-      "description": "macastro",
+      "description": "Reglamento que regula el proceso de graduación en Matemática.",
       "featured": false
     },
     {
       "slug": "disposiciones-sobre-la-definicion-de-los-niveles-de-autoridad-y-responsabilidad-en-el-proceso-de-normalizacion-contable-",
       "title": "DISPOSICIONES SOBRE LA DEFINICIÓN DE LOS NIVELES DE AUTORIDAD Y RESPONSABILIDAD EN EL PROCESO DE NORMALIZACIÓN CONTABLE CON BASE EN LAS NORMAS INTERNACIONALES DE CONTABILIDAD PARA EL SECTOR PÚBLICO (NICSP) EN EL INSTITUTO TECNOLÓGICO DE COSTA RICA (ITCR)",
-      "category": "Ciencia",
-      "bullets_20s": "• Se establecen responsabilidades y niveles de autoridad en el ITCR para normalización contable.\n• Se busca promover una comunicación eficaz en la estructura organizativa del ITCR.\n• Las disposiciones aplican a toda la estructura de la Institución.\n• Se fortalecerá la transparencia de la información financiera en el ITCR.\n• Se crea la Comisión NICSP para supervisar el cumplimiento de las normas contables.",
+      "category": "Costa Rica",
+      "bullets_20s": "• Se establecen responsabilidades y niveles de autoridad en la estructura del ITCR para normalización contable.\n• La comunicación fluida es esencial para lograr la correcta implementación de las Normas Internacionales.\n• Las disposiciones aplican a toda la estructura del Instituto, garantizando transparencia financiera.\n• Se detalla normativa aplicable como leyes y regulaciones que rigen la contabilidad pública.\n• La Comisión NICSP se crea para fortalecer el proceso de normalización contable en el ITCR.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/disposiciones-definicion-niveles-autoridad-responsabilidad-proceso-normalizacion-contable-base-0",
       "publish_date": "2026-05-29T03:17:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Se definen niveles de autoridad en normalización contable en el ITCR.",
+      "teaser": "Lo clave en 20 segundos: Establecen nivel de autoridad en normalización contable en ITCR.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/image_116.png",
       "description": "macastro",
       "featured": false
@@ -1161,13 +1174,13 @@
       "slug": "interpretacion-del-articulo-48-del-reglamento-de-carrera-profesional-del-instituto-tecnologico-de-costa-rica-y-sus-refor",
       "title": "Interpretación del artículo 48 del Reglamento de Carrera Profesional del Instituto Tecnológico de Costa Rica y sus Reformas",
       "category": "Costa Rica",
-      "bullets_20s": "• La certificación expedida es clave para reconocer la participación en eventos de proyección externa.\n• Sin la indicación de ponente, no se acredita la participación necesaria para puntaje.\n• Los documentos adicionales no sustituyen lo requerido por el Reglamento de Carrera Profesional.\n• El acuerdo fue adoptado en la Sesión n.° 3448 del Consejo Institucional del TEC.\n• La modificación se publicó en la Gaceta n.° 1319-2026 el 12 de mayo de 2026.",
+      "bullets_20s": "• El artículo 48 del Reglamento establece requisitos claros para la acreditación en carrera profesional.\n• La certificación es esencial para validar la participación en eventos como ponente o equivalente.\n• La falta de mención de ponente en la certificación impide el reconocimiento de participaciones.\n• Los documentos complementarios no sustituyen la certificación requerida por el reglamento.\n• Se incluyó un acuerdo del Consejo Institucional para clarificar este procedimiento administrativo.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/interpretacion-articulo-48-reglamento-carrera-profesional-instituto-tecnologico-costa-rica-sus",
       "publish_date": "2026-05-29T03:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: La certificación es esencial para el reconocimiento profesional en el TEC.",
+      "teaser": "Lo clave en 20 segundos: La certificación es fundamental para la carrera profesional en el ITCR.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "La certificación es esencial para el reconocimiento en la carrera profesional según el reglamento.",
+      "description": "Interpretación sobre la certificación y requisitos del artículo 48 del Reglamento del ITCR.",
       "featured": false
     },
     {
@@ -30330,5 +30343,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-30T14:45:19.550Z"
+  "generated_at": "2026-05-30T15:45:19.554Z"
 }
