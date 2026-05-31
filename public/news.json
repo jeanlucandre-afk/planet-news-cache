@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "como-vaciar-la-papelera-de-whatsapp-y-liberar-espacio-en-su-celular",
+      "title": "Cómo vaciar la ‘papelera’ de WhatsApp y liberar espacio en su celular",
+      "category": "Tecnología",
+      "bullets_20s": "• WhatsApp puede acumular archivos que ocupan espacio sin que el usuario se dé cuenta.\n• Aprender a gestionar la papelera es clave para mantener su celular optimizado.\n• Borrado de archivos ocultos puede liberar GB de espacio innecesario rápidamente.\n• Es posible conservar chats importantes mientras se eliminan los datos innecesarios.\n• Sigue pasos sencillos para liberar espacio y mejorar el rendimiento de tu dispositivo.",
+      "source_name": "La Nación / Argentina / GDA, Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/tecnologia/como-vaciar-la-papelera-de-whatsapp-y-liberar/TJNFL7JUPNFQJENW462HCXUMR4/story/",
+      "publish_date": "2026-05-31T14:19:46.000Z",
+      "teaser": "Lo clave en 20 segundos: Libera espacio en tu celular vaciando la papelera de WhatsApp sin perder chats.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZQ2KBGL3XJDZHJA66BDYL4MQMA.png?auth=8cc28fb68d35601ba2c6731e5782781d98eb7a7a41c3fea811d618b6fb67aef8&smart=true&width=1536&height=1024",
+      "description": "¿Su celular está lleno por culpa de WhatsApp? Descubra cómo borrar archivos ocultos y liberar espacio sin perder sus chats importantes.",
+      "featured": false
+    },
+    {
+      "slug": "quienes-son-los-principales-candidatos-para-presidir-colombia-y-suceder-a-petro",
+      "title": "Quiénes son los principales candidatos para presidir Colombia y suceder a Petro",
+      "category": "Mundo",
+      "bullets_20s": "• Las elecciones en Colombia están próximas y varios candidatos se perfilan como favoritos.\n• Examinaremos el contexto político que rodea a esta elección crucial en Colombia.\n• Las encuestas muestran a tres candidatos destacados entre la docena de aspirantes.\n• Las propuestas y plataformas de los candidatos son diversas y variadas.\n• El futuro político de Colombia dependerá de la decisión de los votantes.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cp8pp7m515jo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-05-31T14:11:53.000Z",
+      "teaser": "Lo clave en 20 segundos: Colombia se prepara para unas elecciones con diversos candidatos destacados.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/80cf/live/84e233c0-5962-11f1-b1de-0d5db00809e5.png",
+      "description": "Una docena de candidatos competirá en primera vuelta en Colombia. Las encuestas encumbran a tres favoritos.",
+      "featured": false
+    },
+    {
+      "slug": "la-psicologia-dice-las-personas-que-no-hablan-por-los-grupos-de-whatsapp-no-lo-hacen-por-desprecio-es-mas-bien-una-forma",
+      "title": "La psicología dice: las personas que no hablan por los grupos de WhatsApp no lo hacen por desprecio, es más bien una forma de autocuidado y respeto",
+      "category": "Ciencia",
+      "bullets_20s": "• El silencio en grupos de WhatsApp puede ser una forma de autocuidado personal y emocional.\n• Algunas personas prefieren no participar en conversaciones que les generan estrés o ansiedad.\n• Los límites personales son fundamentales para la salud emocional de los individuos.\n• Inteligencia emocional juega un papel clave en el comportamiento de no participar en chats grupales.\n• El respeto hacia los propios espacios emocionales también es valorizado por muchos usuarios.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/ciencia/la-psicologia-dice-las-personas-que-no-hablan-por/MGFCZ5NOXNCOBDVWGYYNPQPHZY/story/",
+      "publish_date": "2026-05-31T14:11:03.000Z",
+      "teaser": "Lo clave en 20 segundos: El silencio en grupos de WhatsApp es una forma de autocuidado personal.",
+      "image_url": "https://www.nacion.com/resizer/v2/242K6FINPBEAJDQXFSP5SD4UKA.png?auth=369ecc2ad7ff3a5d2b150adb592bdf92609b7cfdf77359fea412aa4393858c1f&smart=true&width=1672&height=941",
+      "description": "Psicólogos explican por qué algunas personas guardan silencio en los grupos de WhatsApp. El comportamiento puede estar relacionado con autocuidado emocional, límites personales e inteligencia emocional.",
+      "featured": false
+    },
+    {
+      "slug": "amplian-prision-preventiva-a-sospechosos-por-homicidio-de-empresario-estadounidense-hallado-muerto-en-cartago",
+      "title": "Amplían prisión preventiva a sospechosos por homicidio de empresario estadounidense hallado muerto en Cartago",
+      "category": "Costa Rica",
+      "bullets_20s": "• La prisión preventiva se extiende a los sospechosos del crimen en Cartago.\n• Se investigan los detalles del homicidio de un empresario estadounidense.\n• El crimen podría estar relacionado con un robo significativo de dinero.\n• Las autoridades han intensificado la búsqueda de más evidencias.\n• El caso ha generado preocupación sobre la seguridad en la región.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/sucesos/crimenes/amplian-prision-preventiva-a-sospechosos-por/VW4RBM5WYJCWBEN44GXD6UEYXY/story/",
+      "publish_date": "2026-05-31T14:04:27.000Z",
+      "teaser": "Lo clave en 20 segundos: Se amplía prisión a sospechosos de un homicidio relacionado con robo en Cartago.",
+      "image_url": "https://www.nacion.com/resizer/v2/E46AH3IETJA6ZONSIMVFYHXTBY.png?auth=90bb003f5716e19d51fe60841dec7a874c494184c7685d56e5a99994a11701ee&smart=true&width=940&height=707",
+      "description": "El móvil del crimen habría sido el robo de unos $28.000 en tarjetas bancarias y efectivo.",
+      "featured": false
+    },
+    {
       "slug": "los-5-articulos-de-opinion-mas-leidos-en-mayo",
       "title": "Los 5 artículos de opinión más leídos en mayo",
       "category": "Costa Rica",
@@ -30,11 +82,11 @@
       "slug": "las-incognitas-que-aun-rodean-la-muerte-de-marilyn-monroe-100-anos-despues-de-su-nacimiento",
       "title": "Las incógnitas que aún rodean la muerte de Marilyn Monroe 100 años después de su nacimiento",
       "category": "Mundo",
-      "bullets_20s": "• Marilyn Monroe, un ícono del cine, dejó un legado que aún hoy es debatido y analizado.\n• Su muerte, un evento trágico, ha alimentado numerosas teorías de conspiración y rumores.\n• Investigaciones revelan que los motivos detrás de su muerte son cada vez más complejos.\n• El legado de Marilyn sigue influyendo en la cultura popular, generaciones después de su fallecimiento.\n• Historiadores y criminólogos siguen analizando su vida y circunstancias para entender su muerte.",
-      "source_name": "",
+      "bullets_20s": "• Marilyn Monroe sigue siendo un ícono cultural en todo el mundo, incluso después de varias décadas de su muerte.\n• Su vida estuvo marcada por el misterio y la controversia, creando una figura fascinante para los investigadores.\n• La muerte de Monroe ocurrió en 1962, pero muchas de las circunstancias aún son objeto de análisis y especulación.\n• Los rumores sobre su vida personal y relaciones han alimentado diversas teorías sobre su fallecimiento.\n• Expertos y fans siguen buscando respuestas a las preguntas sin resolver sobre su trágico final.",
+      "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cg7pegxzelko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-31T12:52:22.000Z",
-      "teaser": "Lo clave en 20 segundos: La muerte de Marilyn Monroe sigue siendo un enigma fascinante y debatido.",
+      "teaser": "Lo clave en 20 segundos: Las incógnitas sobre la muerte de Marilyn Monroe aún persisten un siglo después de su nacimiento.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d738/live/4e7c57f0-5581-11f1-90c6-8f1050a3fec2.jpg",
       "description": "Norma Jeane Baker, o Marilyn Monroe, murió hace más de 60 años, pero todavía persisten muchos interrogantes alrededor de su fallecimiento.",
       "featured": false
@@ -186,11 +238,11 @@
       "slug": "creia-que-mi-familia-se-habia-resistido-a-hitler-hasta-que-descubri-que-mi-bisabuelo-era-nazi",
       "title": "Creía que mi familia se había resistido a Hitler, hasta que descubrí que mi bisabuelo era nazi",
       "category": "Mundo",
-      "bullets_20s": "• La liberación de documentos del Partido Nazi está generando nuevas revelaciones familiares en Alemania.\n• Algunas personas se enfrentan a secretos familiares que desconocían sobre su historia personal.\n• El impacto emocional de descubrir vínculos familiares con el nazismo es profundo y perturbador.\n• La necesidad de reconciliar la historia familiar con el pasado nazi es un desafío para muchos.\n• Los archivos publicados brindan una nueva perspectiva sobre la resistencia y la complicidad histórica.",
+      "bullets_20s": "• La revelación de documentos nazis ha sorprendido a muchas familias en Alemania y otras partes de Europa.\n• Investigaciones familiares están revelando conexiones inesperadas con el régimen nazi en la historia de personas.\n• Este fenómeno ha generado un debate sobre la responsabilidad histórica y los legados familiares.\n• Las historias de resistencia y complicidad están saliendo a la luz debido a estos documentos recién publicados.\n• Los historiadores están utilizando estos documentos para reescribir narrativas sobre la Segunda Guerra Mundial.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c362ykn25jno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-31T08:57:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Historias familiares surgen al revelarse documentos del Partido Nazi en Alemania.",
+      "teaser": "Lo clave en 20 segundos: Descubrimientos familiares revelan conexiones inesperadas con el régimen nazi en Alemania.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/36a9/live/63f67cb0-59ef-11f1-8b8c-6d33e1d5abb6.jpg",
       "description": "Millones de documentos del Partido Nazi se hicieron públicos este año en Alemania, obligando a la gente a enfrentarse a la realidad de que sus familias apoyaron el régimen fascista de Adolf Hitler.",
       "featured": false
@@ -251,11 +303,11 @@
       "slug": "por-que-los-comunistas-de-india-perdieron-por-completo-el-poder-tras-casi-70-anos-gobernando-a-millones-de-personas",
       "title": "Por qué los comunistas de India perdieron por completo el poder tras casi 70 años gobernando a millones de personas",
       "category": "Mundo",
-      "bullets_20s": "• Análisis de la pérdida del poder comunista en India tras décadas de liderazgo político y social.\n• Estudio sobre los factores que llevaron a la caída de los comunistas en diferentes estados indios.\n• Reflexiones sobre la evolución política de India en los últimos setenta años de gobernabilidad comunista.\n• Impacto de la economía global en las decisiones políticas de los líderes comunistas en su gobierno.\n• Examinación de cómo los movimientos sociales contribuyeron a la pérdida de apoyo popular entre los comunistas.",
+      "bullets_20s": "• Los comunistas en India tuvieron un dominio notable durante casi siete décadas.\n• Su pérdida de poder refleja cambios significativos en la política y sociedad indias.\n• Factores económicos y sociales impactaron directamente en su popularidad.\n• La competencia política se intensificó con nuevos partidos emergentes.\n• La lucha interna y diferencias ideológicas también debilitaron su posición.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ce8pjly33ldo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-31T02:58:20.000Z",
-      "teaser": "Lo clave en 20 segundos: se analiza la desaparición del poder comunista en India tras casi 70 años.",
+      "teaser": "Lo clave en 20 segundos: del auge al ocaso de los comunistas en India.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b972/live/d8c19910-5b9f-11f1-895f-9f361532bc64.jpg",
       "description": "La historia del auge y la caída de los comunistas en India: desde el poder en los estados hasta la lucha por mantener su relevancia.",
       "featured": false
@@ -407,11 +459,11 @@
       "slug": "son-los-chequeos-medicos-de-los-presidentes-de-eeuu-un-mero-ejercicio-de-relaciones-publicas",
       "title": "¿Son los chequeos médicos de los presidentes de EE.UU. un mero ejercicio de relaciones públicas?",
       "category": "Mundo",
-      "bullets_20s": "• Los chequeos médicos anuales son parte de la rutina de los presidentes en EE.UU.\n• Estos exámenes tienen un impacto significativo en la percepción pública de los líderes.\n• La salud de un presidente puede influir en decisiones políticas cruciales.\n• Las imágenes generadas durante estos chequeos son cuidadosamente gestionadas.\n• El reconocimiento médico ayuda a construir confianza entre la ciudadanía y el presidente.",
-      "source_name": "",
+      "bullets_20s": "• Los chequeos médicos de presidentes en Estados Unidos son altamente publicitados y analizados.\n• Estos exámenes anuales generan preguntas sobre la salud real y la transparencia de los líderes.\n• Históricamente, han sido utilizados para fortalecer la imagen pública de los presidentes.\n• Hay críticas sobre la autenticidad y el impacto de estos chequeos médicos en la confianza pública.\n• El caso reciente de Donald Trump reaviva el debate sobre salud y liderazgo político.",
+      "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cy92z0l9w2no?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-05-30T22:36:47.000Z",
-      "teaser": "Lo clave en 20 segundos: La salud presidencial influye en la política y la imagen pública en EE.UU.",
+      "teaser": "Lo clave en 20 segundos: Los chequeos médicos de los presidentes son más sobre imagen que salud.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/7754/live/e233ead0-5c48-11f1-8b8c-6d33e1d5abb6.jpg",
       "description": "Todos los presidentes de la historia moderna de Estados Unidos, incluido Donald Trump esta semana, se someten a un reconocimiento médico anual que tiene tanto que ver con su salud como con su imagen pública.",
       "featured": false
@@ -726,19 +778,6 @@
       "teaser": "Lo clave en 20 segundos: Un argentino fue arrestado en Brasil por racismo y un hecho alarmante sobre un niño.",
       "image_url": "https://www.nacion.com/resizer/v2/KDMUETCAWFCGVB3B4A77LOZKSE.png?auth=1f23c8efe85701e8dc72ac79b71ae756ca4741237f7bcb1e17f918ec1b61ea29&smart=true&width=1920&height=1080",
       "description": "Argentino de 63 años quedó detenido en Brasil tras fotografiar a un niño de 7 años y enviar mensajes racistas donde insinuó llevarlo como esclavo.",
-      "featured": false
-    },
-    {
-      "slug": "como-vaciar-la-papelera-de-whatsapp-y-liberar-espacio-en-su-celular",
-      "title": "Cómo vaciar la ‘papelera’ de WhatsApp y liberar espacio en su celular",
-      "category": "Tecnología",
-      "bullets_20s": "• WhatsApp acumula archivos que pueden ocupar mucho espacio en su celular.\n• Eliminar datos inútiles es clave para mejorar el rendimiento del dispositivo.\n• La ‘papelera’ de WhatsApp guarda archivos eliminados que aún ocupan memoria.\n• Con unos pasos sencillos, puede liberar espacio sin perder información importante.\n• Liberar espacio en su celular puede mejorar la velocidad y funcionamiento.\n• Es posible controlar qué archivos se eliminan y cuáles se conservan.\n• Establecer un límite en la descarga automática de medios ayuda a ahorrar espacio.\n• Revise periódicamente la memoria de su celular para mantenerlo optimizado.\n• WhatsApp proporciona herramientas para gestionar el almacenamiento de manera efectiva.\n• La gestión adecuada de datos puede prolongar la vida útil del celular.",
-      "source_name": "La Nación / Argentina / GDA, Silvia Ureña Corrales",
-      "source_url": "https://www.nacion.com/tecnologia/como-vaciar-la-papelera-de-whatsapp-y-liberar/TJNFL7JUPNFQJENW462HCXUMR4/story/",
-      "publish_date": "2026-05-30T14:22:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Aprenda a liberar espacio en su celular al gestionar WhatsApp.",
-      "image_url": "https://www.nacion.com/resizer/v2/ZQ2KBGL3XJDZHJA66BDYL4MQMA.png?auth=8cc28fb68d35601ba2c6731e5782781d98eb7a7a41c3fea811d618b6fb67aef8&smart=true&width=1536&height=1024",
-      "description": "¿Su celular está lleno por culpa de WhatsApp? Descubra cómo borrar archivos ocultos y liberar espacio sin perder sus chats importantes.",
       "featured": false
     },
     {
@@ -1756,19 +1795,6 @@
       "featured": false
     },
     {
-      "slug": "quienes-son-los-principales-candidatos-para-presidir-colombia-y-suceder-a-petro",
-      "title": "Quiénes son los principales candidatos para presidir Colombia y suceder a Petro",
-      "category": "Mundo",
-      "bullets_20s": "• Las elecciones presidenciales en Colombia se acercan y los candidatos se definen.\n• La competencia está abierta, con numerosas figuras políticas en contienda electoral.\n• Encuestas recientes revelan a tres favoritos destacándose entre los demás candidatos.\n• El actual presidente, Gustavo Petro, dejará un legado complejo tras su administración.\n• Las propuestas de los candidatos abordan temas económicos y sociales muy relevantes.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/cp8pp7m515jo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-05-29T11:07:08.000Z",
-      "teaser": "Lo clave en 20 segundos: varias figuras buscan suceder a Petro en Colombia.",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/80cf/live/84e233c0-5962-11f1-b1de-0d5db00809e5.png",
-      "description": "Una docena de candidatos competirá en primera vuelta en Colombia. Las encuestas encumbran a tres favoritos.",
-      "featured": false
-    },
-    {
       "slug": "hacienda-preve-severa-caida-en-ingresos-tributarios",
       "title": "Hacienda prevé severa caída en ingresos tributarios",
       "category": "Costa Rica",
@@ -1823,12 +1849,12 @@
     {
       "slug": "reglamento-de-la-comision-de-acreditacion-de-la-licenciatura-en-ingenieria-fisica-caif",
       "title": "Reglamento de la Comisión de Acreditación de la Licenciatura en Ingeniería Física (CAIF)",
-      "category": "Ciencia",
-      "bullets_20s": "• El reglamento establece pautas para la acreditación de la licenciatura en ingeniería física en Costa Rica.\n• La autoevaluación es clave para garantizar la calidad del programa académico en ingeniería física.\n• Composición de la Comisión de Acreditación determinada por el Consejo de la Escuela de Física.\n• El reglamento regula las funciones y responsabilidades de los integrantes de la CAIF.\n• Agencias de acreditación garantizarán el cumplimiento de estándares de calidad establecidos.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El reglamento establece principios y reglas para la acreditación académica en Ingeniería Física.\n• Define funciones y estructura de la Comisión de Acreditación de la Licenciatura en Ingeniería Física.\n• La acreditación garantiza que los programas cumplen con estándares de calidad educativa.\n• Se enumeran las responsabilidades de los miembros que integran la CAIF en sus funciones.\n• Incluye procedimientos para la autoevaluación y seguimiento de los procesos de acreditación.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/reglamento-comision-acreditacion-licenciatura-ingenieria-fisica-caif",
       "publish_date": "2026-05-29T04:08:27.000Z",
-      "teaser": "Lo clave en 20 segundos: El reglamento garantiza la acreditación en ingeniería física y su calidad educativa.",
+      "teaser": "Lo clave en 20 segundos: reglamento regula la acreditación de Ingeniería Física en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "macastro",
       "featured": false
@@ -1850,11 +1876,11 @@
       "slug": "mas-de-300-personas-con-discapacidad-o-necesidades-educativas-forman-parte-del-tec",
       "title": "Más de 300 personas con discapacidad o necesidades educativas forman parte del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• Más de 300 estudiantes con discapacidad forman parte del Tecnológico de Costa Rica, TEC.\n• El TEC promueve la empatía y la inclusión a través de eventos educativos y conversatorios.\n• La institución busca garantizar una educación accesible y equitativa para todos los estudiantes.\n• El Día Nacional de las Personas con Discapacidad se conmemora el 29 de mayo en Costa Rica.\n• Políticas específicas del TEC han sido impulsadas para fortalecer los derechos de estas personas.",
+      "bullets_20s": "• El TEC promueve una educación inclusiva y accesible para personas con discapacidad.\n• Actualmente, hay 313 personas con discapacidad o necesidades educativas registradas en el TEC.\n• Se realizaron actividades para fomentar la empatía y la inclusión entre los estudiantes del TEC.\n• Katherine Palma enfatiza que la inclusión requiere transformar las instituciones educativas.\n• El TEC ha implementado programas desde 1999 para garantizar igualdad de oportunidades.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/mas-300-personas-discapacidad-necesidades-educativas-forman-parte-tec",
       "publish_date": "2026-05-29T03:44:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Más de 300 estudiantes con discapacidad forman parte del TEC, buscando una educación inclusiva.",
+      "teaser": "Lo clave en 20 segundos: El TEC reafirma su compromiso con la educación inclusiva y accesible en el Día Nacional de la Discapacidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/discapacidad.jpg",
       "description": "Más de 300 personas con discapacidad o necesidades educativas forman parte del TEC",
       "featured": false
@@ -1876,11 +1902,11 @@
       "slug": "reglamento-de-trabajos-finales-de-graduacion-de-la-licenciatura-en-ensenanza-de-la-matematica-con-entornos-tecnologicos",
       "title": "Reglamento de Trabajos Finales de Graduación de la Licenciatura en Enseñanza de la Matemática con Entornos Tecnológicos",
       "category": "Costa Rica",
-      "bullets_20s": "• El reglamento regula la formulación y presentación de los Trabajos Finales de Graduación en Matemática.\n• Incluye objetivos generales y específicos para los estudiantes de la Licenciatura MATEC.\n• Es de acatamiento obligatorio para quienes matriculan el curso de Trabajo Final de Graduación.\n• Establece las modalidades del TFG, incluyendo tesis, proyectos y seminarios de graduación.\n• Los estudiantes deben cumplir requisitos específicos para matricular su TFG.\n• Los trabajos deben seguir un formato claro según la normativa establecida.\n• Todos los estudiantes deben realizar una defensa pública de su TFG ante un tribunal evaluador.",
+      "bullets_20s": "• Este reglamento regula la presentación de Trabajos Finales de Graduación en Matemática.\n• Los estudiantes deben cumplir requisitos específicos para matricular el curso de TFG.\n• Se establecen objetivos para la formulación y presentación de trabajos finales.\n• Las modalidades de TFG incluyen tesis, proyectos y seminarios grupales.\n• Se requiere un seguimiento riguroso por parte de tutores y coordinadores.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/reglamento-trabajos-finales-graduacion-licenciatura-ensenanza-matematica-entornos-tecnologicos",
       "publish_date": "2026-05-29T03:31:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Reglamento sobre trabajos finales de graduación en Matemática y su estructura.",
+      "teaser": "Lo clave en 20 segundos: Se establece un reglamento para Trabajos Finales de Graduación en Matemática.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "macastro",
       "featured": false
@@ -1889,11 +1915,11 @@
       "slug": "disposiciones-sobre-la-definicion-de-los-niveles-de-autoridad-y-responsabilidad-en-el-proceso-de-normalizacion-contable-",
       "title": "DISPOSICIONES SOBRE LA DEFINICIÓN DE LOS NIVELES DE AUTORIDAD Y RESPONSABILIDAD EN EL PROCESO DE NORMALIZACIÓN CONTABLE CON BASE EN LAS NORMAS INTERNACIONALES DE CONTABILIDAD PARA EL SECTOR PÚBLICO (NICSP) EN EL INSTITUTO TECNOLÓGICO DE COSTA RICA (ITCR)",
       "category": "Costa Rica",
-      "bullets_20s": "• Establecimiento de responsabilidades en la estructura organizativa del ITCR para mejorar la comunicación interna.\n• Las Normas Internacionales de Contabilidad para el Sector Público buscan transparencia en la información financiera.\n• La normatividad incluye leyes y reglamentos específicos que regulan la administración pública en Costa Rica.\n• La creación de la Comisión NICSP asegura la implementación efectiva de las normativas contables en la institución.\n• La comisión se reunirá al menos una vez por trimestre para evaluación y ajustes necesarios conforme a cambios.",
+      "bullets_20s": "• El ITCR establece niveles de autoridad para asegurar la normalización contable en su estructura organizativa.\n• Las normas internacionales guían el proceso contable en el sector público del Instituto.\n• Se crea una Comisión NICSP para supervisar la implementación de estas normas en la institución.\n• La Comisión se encargará de mantener actualizadas las normativas contables conforme a nuevas versiones.\n• Las disposiciones buscan fortalecer la transparencia y confiabilidad de la información financiera.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/disposiciones-definicion-niveles-autoridad-responsabilidad-proceso-normalizacion-contable-base-0",
       "publish_date": "2026-05-29T03:17:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Se definen niveles de autoridad y responsabilidad en contabilidad del ITCR.",
+      "teaser": "Lo clave en 20 segundos: El ITCR establece normas para la normalización contable en su estructura organizativa.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/image_116.png",
       "description": "macastro",
       "featured": false
@@ -1902,13 +1928,13 @@
       "slug": "interpretacion-del-articulo-48-del-reglamento-de-carrera-profesional-del-instituto-tecnologico-de-costa-rica-y-sus-refor",
       "title": "Interpretación del artículo 48 del Reglamento de Carrera Profesional del Instituto Tecnológico de Costa Rica y sus Reformas",
       "category": "Costa Rica",
-      "bullets_20s": "• El artículo 48 regula la acreditación de participación en eventos de proyección externa.\n• La certificación es el medio probatorio clave para el reconocimiento en la carrera profesional.\n• Sin la mención de ponente la participación no se acredita para obtener puntajes.\n• Los documentos en el expediente son complementarios, pero no sustituyen la certificación.\n• Este reglamento fue aprobado en la sesión del Consejo Institucional del 06 de mayo de 2026.",
+      "bullets_20s": "• El artículo 48 aborda la acreditación de participación en eventos externos del TEC.\n• La certificación por la entidad organizadora es fundamental para el reconocimiento de puntos.\n• No contar con la condición de ponente limita la validación de la participación.\n• Documentos adicionales en el expediente no sustituyen la certificación obligatoria.\n• Es crucial seguir los lineamientos del Reglamento de Carrera Profesional para acreditaciones.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/interpretacion-articulo-48-reglamento-carrera-profesional-instituto-tecnologico-costa-rica-sus",
       "publish_date": "2026-05-29T03:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: La certificación es vital para acreditar eventos en la carrera profesional.",
+      "teaser": "Lo clave en 20 segundos: la certificación es esencial para el reconocimiento en la carrera profesional del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "Interpretación del artículo 48 del Reglamento de Carrera Profesional del Instituto Tecnológico de Costa Rica y sus Reformas.",
+      "description": "La certificación es el documento clave para acreditar participación en eventos, según el reglamento.",
       "featured": false
     },
     {
@@ -31058,5 +31084,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-05-31T13:45:21.350Z"
+  "generated_at": "2026-05-31T14:45:20.848Z"
 }
