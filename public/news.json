@@ -1,27 +1,79 @@
 {
   "news": [
     {
+      "slug": "vientos-alisios-marcaran-el-inicio-de-semana-con-lluvias-aisladas-en-costa-rica-consulte-el-pronostico-por-region",
+      "title": "Vientos alisios marcarán el inicio de semana con lluvias aisladas en Costa Rica: consulte el pronóstico por región",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los vientos alisios influenciarán el clima de Costa Rica durante esta semana.\n• Se pronostica un inicio de semana con lluvias aisladas en diversas regiones.\n• Temperaturas podrán alcanzar hasta 38,7 °C en la zona de Liberia.\n• El aguacero vespertino incluye tormentas en el Pacífico y Valle Central.\n• Se recomienda a la población estar atentos a los boletines del IMN.",
+      "source_name": "Damián Arroyo C.",
+      "source_url": "https://www.nacion.com/sucesos/vientos-alisios-marcaran-el-inicio-de-semana-con/QXHMJMO7MRG7RCONI7CLV7BQOI/story/",
+      "publish_date": "2026-06-01T11:20:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Vientos alisios traerán lluvias aisladas y calor intenso esta semana en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/JE2UCDVU65B3BNPPZ6PH2N45WE.jpg?auth=2b5cbabac2c9e79db1a24d2ea6d4360faea72b45890f9a0fec59a35588f33866&smart=true&width=3000&height=2000",
+      "description": "El IMN prevé para este lunes 1.° de junio temperaturas de hasta 38,7 °C en Liberia, lluvias aisladas en varias regiones y aguaceros vespertinos con tormenta en sectores del Pacífico y Valle Central.",
+      "featured": false
+    },
+    {
+      "slug": "cortes-de-luz-del-ice-afectaran-comunidades-de-alajuela-limon-y-puntarenas-este-lunes-1-de-junio",
+      "title": "Cortes de luz del ICE afectarán comunidades de Alajuela, Limón y Puntarenas este lunes 1 de junio",
+      "category": "Costa Rica",
+      "bullets_20s": "• El ICE informará sobre los cortes de luz que afectarán varias comunidades este lunes.\n• Las áreas de Limón, Alajuela y Puntarenas serán las más impactadas por estas interrupciones.\n• Se recomienda a los usuarios consultar los horarios específicos de los cortes programados.\n• Los cortes se realizarán por trabajos de mantenimiento en las infraestructuras eléctricas.\n• Las autoridades del ICE pedirán comprensión a los afectados por estas interrupciones temporales.",
+      "source_name": "Damián Arroyo C.",
+      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-del-ice-afectaran-comunidades-de/BTNIETOQM5GFRPZU3SHM2ZCRW4/story/",
+      "publish_date": "2026-06-01T11:01:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Cortes de luz del ICE afectarán varias comunidades este lunes.",
+      "image_url": "https://www.nacion.com/resizer/v2/BJQ5IIEPDNDIRATQ3A7EPSGYHA.JPG?auth=502517721584a47dce3a3d433e7a8ec0d1228c048cebe5dd99c6082f50c5fb23&smart=true&width=4000&height=2667",
+      "description": "Cortes de luz del ICE afectarán comunidades de Limón, Puntarenas y Alajuela este lunes 1 de junio de 2026. Consulte horarios y zonas impactadas.",
+      "featured": false
+    },
+    {
+      "slug": "sala-constitucional-podria-paralizarse",
+      "title": "Sala Constitucional podría paralizarse",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Sala Constitucional enfrenta una posible paralización por falta de magistrados suplentes.\n• La Asamblea Legislativa tiene que tomar una decisión crucial en los próximos días.\n• El vencimiento de los actuales magistrados genera incertidumbre en el sistema legal.\n• Expertos advierten sobre las consecuencias de una paralización de la Sala.\n• Los ciudadanos esperan claridad y respuesta sobre el futuro de la justicia.",
+      "source_name": "Lucía Astorga, Yeryis Salas",
+      "source_url": "https://www.nacion.com/politica/magistrado-fernando-castillo-diputados-deberan/2IJUQ3TD3JB67MTKP5ZPLQVTII/story/",
+      "publish_date": "2026-06-01T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Sala Constitucional en riesgo de parálisis por falta de magistrados suplentes.",
+      "image_url": "https://www.nacion.com/resizer/v2/SDHKKW5CMNFL3FTF6N34XVIXYA.JPG?auth=0f77dc12053a2574a71f8dbd76795718a3c33f2af3cedc8ce369d0b3d61b7d0b&smart=true&width=1839&height=1226",
+      "description": "Sin magistrados suplentes y con un vencimiento en puerta, la Asamblea Legislativa afronta una decisión que podría llevar a la Sala Constitucional a un cierre técnico.",
+      "featured": false
+    },
+    {
+      "slug": "editorial-sarampion-4000-muertes-nos-recuerdan-por-que-vacunarse-salva-vidas",
+      "title": "Editorial: Sarampión: 4.000 muertes nos recuerdan por qué vacunarse salva vidas",
+      "category": "Costa Rica",
+      "bullets_20s": "• El sarampión es un virus altamente contagioso que puede provocar complicaciones graves en la salud.\n• Las tasas de vacunación deben mantenerse para proteger la salud pública y evitar brotes.\n• A pesar de haber eliminado el sarampión, casos importados pueden poner en riesgo a la población.\n• La vacunación no solo protege al individuo, también a la comunidad en conjunto.\n• Es fundamental promover campañas informativas sobre la importancia de la vacunación en Costa Rica.",
+      "source_name": "La Nación",
+      "source_url": "https://www.nacion.com/opinion/editorial/editorial-sarampion-4000-muertes-nos-recuerdan-por/XFWU4757DJELTLCGEJKOIOWY5I/story/",
+      "publish_date": "2026-06-01T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: el sarampión sigue siendo una amenaza que la vacunación puede prevenir.",
+      "image_url": "https://www.nacion.com/resizer/v2/4JKS7DK2FBCL5CHI57G3O7VJ6A.jpg?auth=43a69a235ea9b23250070769e8dd0c3f7a70af204172bd0857e87b9141eb7366&smart=true&width=6240&height=4160",
+      "description": "Costa Rica eliminó el sarampión autóctono hace más de dos décadas, pero el reciente aumento de casos importados y los brotes internacionales recuerdan que el virus sigue siendo una amenaza real. El país no está en condiciones de tolerar que disminuya la vacunación.",
+      "featured": false
+    },
+    {
       "slug": "que-necesitan-de-la-espriella-y-cepeda-para-ganar-en-segunda-vuelta-y-convertirse-en-presidente-de-colombia",
       "title": "Qué necesitan De la Espriella y Cepeda para ganar en segunda vuelta y convertirse en presidente de Colombia",
       "category": "Mundo",
-      "bullets_20s": "• De la Espriella y Cepeda enfrentan una segunda vuelta llena de desafíos y expectativas.\n• Expertos analizan las estrategias y necesidades para alcanzar la presidencia en Colombia.\n• El panorama político actual es incierto, según opiniones de analistas competentes.\n• Ambos candidatos presentan propuestas que podrían atraer a diversos sectores de la población.\n• Las elecciones de 2026 podrían marcar un cambio significativo en el rumbo del país.\n• La polarización política en Colombia está en aumento ante estas cruciales elecciones.",
+      "bullets_20s": "• De la Espriella y Cepeda se preparan para la segunda vuelta presidencial en Colombia.\n• Análisis de expertos sobre el ambiente político previo al balotaje crucial en junio.\n• Las tendencias del voto indican mayor incertidumbre en comparación con elecciones pasadas.\n• Ambos candidatos necesitan atraer a votantes indecisos para aumentar sus oportunidades.\n• Las campañas tendrán que enfocarse en generar confianza en sus propuestas económicas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwy2r70lxjmo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-01T10:09:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Análisis de lo que necesitan los candidatos para ganar en Colombia.",
+      "teaser": "Lo clave en 20 segundos: La carrera presidencial colombiana está muy cerrada y será decisiva en junio.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/2b97/live/89c585d0-5da0-11f1-89a3-d1f559421220.jpg",
-      "description": "El 'outsider' derechista y el senador oficialista disputarán un balotaje en junio de resultado incierto pero más difícil para la izquierda que en 2022, señalan expertos.",
+      "description": "El \"outsider\" derechista y el senador oficialista disputarán un balotaje en junio de resultado incierto pero más difícil para la izquierda que en 2022, señalan expertos.",
       "featured": false
     },
     {
       "slug": "por-que-marilyn-monroe-es-quizas-el-icono-mas-incomprendido-y-como-llego-a-significar-tanto-para-mi",
       "title": "Por qué Marilyn Monroe es quizás el ícono más incomprendido y cómo llegó a significar tanto para mí",
       "category": "Mundo",
-      "bullets_20s": "• La figura de Marilyn Monroe ha sido objeto de análisis y admiración a lo largo de los años.\n• Su vida y carrera están llenas de altibajos que la han hecho un ícono cultural complejo.\n• La percepción pública de Monroe varía significativamente entre las diferentes generaciones y contextos.\n• Estudios recientes revelan cómo los mitos alrededor de su persona han evolucionado con el tiempo.\n• La búsqueda de la verdad detrás de su imagen ha sido un tema recurrente en la cultura popular.",
+      "bullets_20s": "• Marilyn Monroe ha sido un símbolo de la cultura pop y una figura compleja en la historia.\n• Su imagen ha sido utilizada en múltiples contextos, pero su vida fue más complicada.\n• A través de los años, se han realizado múltiples análisis sobre su influencia en el cine.\n• La figura de Monroe también ha simbolizado el empoderamiento femenino a lo largo de las décadas.\n• Su historia continúa resonando con nuevas generaciones, inspirando investigaciones y análisis.",
       "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/cewpzxwn50po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-01T09:41:26.000Z",
-      "teaser": "Lo clave en 20 segundos: Marilyn Monroe, un ícono con una historia compleja y transformadora.",
+      "teaser": "Lo clave en 20 segundos: Cómo Marilyn Monroe se convirtió en un ícono incomprendido.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/f20b/live/38433650-5d03-11f1-9dbd-c1cee1747804.jpg",
       "description": "Lo que empezó como una curiosidad infantil derivó en años de lectura e investigación para una periodista de la BBC.",
       "featured": false
@@ -43,13 +95,13 @@
       "slug": "resultados-loteria-nacional-hoy-domingo-31-de-mayo-de-2026",
       "title": "Resultados Lotería Nacional hoy domingo 31 de mayo de 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Junta de Protección Social realizó el sorteo número 4.903 de la Lotería Nacional en Costa Rica.\n• Este evento es esperado por muchos ciudadanos que participan regularmente en la lotería nacional.\n• Los resultados se publican en diversas plataformas para el acceso de todos los interesados.\n• La Lotería Nacional es una tradición en Costa Rica que apoya causas sociales importantes.\n• El sorteo ordinario se lleva a cabo cada domingo, generando emoción entre los jugadores.",
+      "bullets_20s": "• La Lotería Nacional es un evento muy esperado en Costa Rica cada semana.\n• El sorteo ordinario atrae la atención de miles de costarricenses ansiosos.\n• Los resultados se publican de inmediato tras finalizar el sorteo de la lotería.\n• Cada semana es una nueva oportunidad para probar suerte y ganar premios.\n• La Junta de Protección Social organiza y supervisa estos sorteos con transparencia.",
       "source_name": "Juan Fernando Lara Salas",
       "source_url": "https://www.nacion.com/el-pais/resultados-loteria-nacional-hoy-domingo-31-de-mayo/SORM2T5VXBCYHDYQ2CLQ5X2AXE/story/",
       "publish_date": "2026-06-01T03:23:43.000Z",
-      "teaser": "Lo clave en 20 segundos: Resultados del sorteo ordinario de Lotería Nacional en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Resultados del sorteo de la Lotería Nacional del 31 de mayo de 2026.",
       "image_url": "https://www.nacion.com/resizer/v2/D67IC2STFNHZVMZQ6CDO2VVRR4.jpg?auth=cec29d922020f5ee222c3a24e2698f720b5d2c2dd21707b0b5e11648e912e372&smart=true&width=2648&height=1739",
-      "description": "La Junta de Protección Social (JPS) celebró este domingo 31 de mayo el sorteo ordinario número 4.903 de la Lotería Nacional.",
+      "description": "La Junta de Protección Social (JPS) celebró este domingo 31 de mayo el sorteo ordinario número 4.903 de la Lotería Nacional",
       "featured": false
     },
     {
@@ -95,11 +147,11 @@
       "slug": "quien-es-abelardo-de-la-espriella-el-empresario-que-promete-gobernar-colombia-con-mano-de-hierro-inspirado-en-bukele-y-m",
       "title": "Quién es Abelardo de la Espriella, el empresario que promete gobernar Colombia con \"mano de hierro\" inspirado en Bukele y Milei",
       "category": "Mundo",
-      "bullets_20s": "• Abelardo de la Espriella busca un enfoque autoritario en su posible gobierno en Colombia.\n• Este empresario ha sido influenciado por figuras como Bukele y Milei en su ideología.\n• La política en Colombia se polariza con la competencia entre derecha dura e izquierda petrista.\n• La candidatura de De la Espriella promete generar fuertes controversias en el país.\n• El reto de gobernar está marcado por la división social y política en Colombia.\n• Expertos analizan el impacto de su posible victoria en el bienestar social colombiano.",
+      "bullets_20s": "• Abelardo de la Espriella es un empresario colombiano conocido por sus propuestas contundentes de gobernanza.\n• El candidato representa una facción política de derecha que busca alternar el poder en Colombia.\n• Su enfoque en el gobierno involucra medidas drásticas y un estilo de liderazgo autoritario.\n• De la Espriella ha manifestado su admiración por líderes controvertidos de América Latina.\n• El enfrentamiento político más relevante será con Iván Cepeda del partido de la izquierda.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ce8pn4zlrd7o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-01T01:18:43.000Z",
-      "teaser": "Lo clave en 20 segundos: Abelardo de la Espriella, candidato con ideas autoritarias y polémicas.",
+      "teaser": "Lo clave en 20 segundos: Abelardo de la Espriella, un empresario que aspira a gobernar Colombia con mano firme.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/f3cc/live/bdf230e0-5d57-11f1-a655-79fc8cc9f708.jpg",
       "description": "De la Espriella, quien representa a una derecha dura y populista, según expertos, se medirá a Iván Cepeda, candidato de la izquierda petrista.",
       "featured": false
@@ -284,19 +336,6 @@
       "teaser": "Lo clave en 20 segundos: Colombia se prepara para una reñida segunda vuelta presidencial.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/7334/live/cb1ec860-5d38-11f1-abe4-b76714d35c65.jpg",
       "description": "La primera vuelta de las elecciones en Colombia no dejará un ganador, por lo que el 21 de junio la presidencia se la disputarán los dos candidatos más votados: Abelardo de la Espriella e Iván Cepeda.",
-      "featured": false
-    },
-    {
-      "slug": "vientos-alisios-marcaran-el-inicio-de-semana-con-lluvias-aisladas-en-costa-rica-consulte-el-pronostico-por-region",
-      "title": "Vientos alisios marcarán el inicio de semana con lluvias aisladas en Costa Rica: consulte el pronóstico por región",
-      "category": "Costa Rica",
-      "bullets_20s": "• Se esperan lluvias aisladas en varias regiones del país durante la semana que comienza.\n• Temperaturas en Liberia podrían alcanzar hasta 38,7 °C, generando calor intenso.\n• Los vientos alisios favorecerán la formación de nubes y lluvias en la vertiente del Pacífico.\n• El pronóstico incluye aguaceros vespertinos en el Valle Central y sectores costeros.\n• Se recomienda a la población estar atentos a actualizaciones del IMN esta semana.",
-      "source_name": "Damián Arroyo C.",
-      "source_url": "https://www.nacion.com/sucesos/vientos-alisios-marcaran-el-inicio-de-semana-con/QXHMJMO7MRG7RCONI7CLV7BQOI/story/",
-      "publish_date": "2026-05-31T22:19:55.000Z",
-      "teaser": "Lo clave en 20 segundos: Vientos alisios traen lluvias y calor en Costa Rica esta semana.",
-      "image_url": "https://www.nacion.com/resizer/v2/JE2UCDVU65B3BNPPZ6PH2N45WE.jpg?auth=2b5cbabac2c9e79db1a24d2ea6d4360faea72b45890f9a0fec59a35588f33866&smart=true&width=3000&height=2000",
-      "description": "El IMN prevé para este lunes 1.° de junio temperaturas de hasta 38,7 °C en Liberia, lluvias aisladas en varias regiones y aguaceros vespertinos con tormenta en sectores del Pacífico y Valle Central.",
       "featured": false
     },
     {
@@ -804,19 +843,6 @@
       "teaser": "Lo clave en 20 segundos: A 30 años de la Ley 7600, siguen existiendo retos para la inclusión de personas con discapacidad.",
       "image_url": "https://www.nacion.com/resizer/v2/DBEUVJ4IC5B4XJMWN4F46M6HS4.jpg?auth=203793cf589d40a3a116bb27aaee5700f859e37d932f7ab4ed48510ad094400e&smart=true&width=5478&height=3083",
       "description": "Treinta años después de su entrada en vigor, la Ley 7600 sigue siendo un pilar de los derechos de las personas con discapacidad, aunque el país enfrenta nuevos retos vinculados con la digitalización, el empleo y el envejecimiento poblacional.",
-      "featured": false
-    },
-    {
-      "slug": "cortes-de-luz-del-ice-afectaran-comunidades-de-alajuela-limon-y-puntarenas-este-lunes-1-de-junio",
-      "title": "Cortes de luz del ICE afectarán comunidades de Alajuela, Limón y Puntarenas este lunes 1 de junio",
-      "category": "Costa Rica",
-      "bullets_20s": "• Este lunes 1 de junio se realizarán cortes de luz por parte del ICE en varias comunidades.\n• Las comunidades afectadas incluyen Alajuela, Limón y Puntarenas, que enfrentan cortes programados.\n• Se recomienda a los ciudadanos consultar los horarios de los cortes para estar preparados.\n• Los cortes se deben a trabajos de mantenimiento programados por la compañía eléctrica ICE.\n• Se espera que el suministro eléctrico se restablezca una vez finalizados los trabajos.",
-      "source_name": "Damián Arroyo C.",
-      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-del-ice-afectaran-comunidades-de/BTNIETOQM5GFRPZU3SHM2ZCRW4/story/",
-      "publish_date": "2026-05-31T11:24:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Cortes de luz programados por el ICE afectarán a varias comunidades este lunes.",
-      "image_url": "https://www.nacion.com/resizer/v2/BJQ5IIEPDNDIRATQ3A7EPSGYHA.JPG?auth=502517721584a47dce3a3d433e7a8ec0d1228c048cebe5dd99c6082f50c5fb23&smart=true&width=4000&height=2667",
-      "description": "Cortes de luz del ICE afectarán comunidades de Limón, Puntarenas y Alajuela este lunes 1 de junio de 2026. Consulte horarios y zonas impactadas.",
       "featured": false
     },
     {
@@ -31682,5 +31708,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-06-01T10:45:19.843Z"
+  "generated_at": "2026-06-01T11:45:20.435Z"
 }
