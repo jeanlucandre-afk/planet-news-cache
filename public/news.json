@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "conozca-el-laboratorio-que-maneja-las-enfermedades-mas-peligrosas-de-costa-rica",
+      "title": "Conozca el laboratorio que maneja las enfermedades más peligrosas de Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• Este laboratorio es el único de su tipo en Costa Rica, gestionando enfermedades peligrosas.\n• Los microbiólogos utilizan trajes especiales para garantizar su seguridad en el trabajo.\n• La instalación cuenta con un estricto protocolo de limpieza y modificación de vestimenta.\n• El laboratorio permite estudiar patógenos que pueden ser peligrosos para la salud pública.\n• La investigación en este lugar juega un papel crucial en la prevención de brotes.",
+      "source_name": "Roger Bolaños Vargas",
+      "source_url": "https://www.nacion.com/revista-dominical/conozca-el-laboratorio-que-maneja-las-enfermedades/OLFNJYD6RZBD5FCP7FR6ETPXOM/story/",
+      "publish_date": "2026-06-02T20:16:48.000Z",
+      "teaser": "Lo clave en 20 segundos: Un laboratorio único en el país maneja enfermedades peligrosas con estrictas medidas de seguridad.",
+      "image_url": "https://www.nacion.com/resizer/v2/6XHXUVRHCBFJXDRWGYOHXISWCA.JPG?auth=81d2347d4dc2718c1dbe701557bf813342abb0883609cd130b405c1499d8279b&smart=true&width=5536&height=3114",
+      "description": "Los microbiólogos que ingresan a estas instalaciones tienen que usar trajes enteros desechables, doble par de guantes, quitarse su ropa de calle y ducharse antes de salir; este es el único laboratorio tipo 3 del país.",
+      "featured": false
+    },
+    {
+      "slug": "jaguarundi-reaparece-en-zona-protegida-de-brasil-y-camaras-captan-al-felino-por-primera-vez",
+      "title": "Jaguarundi reaparece en zona protegida de Brasil y cámaras captan al felino por primera vez",
+      "category": "Ciencia",
+      "bullets_20s": "• El jaguarundi es conocido por ser un felino poco común y en peligro de extinción.\n• Su avistamiento es importante para la biodiversidad y conservación en la región.\n• Las cámaras de monitoreo contribuyen a la investigación de la fauna silvestre.\n• La Estación Ecológica Grão-Pará es un área protegida esencial en la Amazonía.\n• Este descubrimiento resalta la importancia de la conservación de ecosistemas.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/jaguarundi-reaparece-en-zona-protegida-de-brasil-y/MKJNTXXEBRC43NBRYMIIGLL5AI/story/",
+      "publish_date": "2026-06-02T20:07:36.000Z",
+      "teaser": "Lo clave en 20 segundos: reaparece el jaguarundi en Brasil, sorprendente hallazgo en la Amazonía.",
+      "image_url": "https://www.nacion.com/resizer/v2/TC3AQXMM3FB7LNKX5JGCPMCPGE.png?auth=50975cdfb86b967b6b92aa3be95ab7c766f0713e827e1e4207fbc1dec122d828&smart=true&width=1920&height=1080",
+      "description": "El raro jaguarundi apareció por primera vez en la Estación Ecológica Grão-Pará, en Brasil. Cámaras captaron al felino vulnerable durante un monitoreo ambiental en la Amazonía.",
+      "featured": false
+    },
+    {
       "slug": "muerte-de-detenidos-en-venezuela-se-disparo-en-el-2025-vea-el-reporte",
       "title": "Muerte de detenidos en Venezuela se disparó en el 2025: Vea el reporte",
       "category": "Mundo",
@@ -420,11 +446,11 @@
       "slug": "por-que-iberostar-y-blue-diamond-dos-cadenas-hoteleras-clave-en-la-industria-turistica-de-cuba-abandonan-operaciones-en-",
       "title": "Por qué Iberostar y Blue Diamond, dos cadenas hoteleras clave en la industria turística de Cuba, abandonan operaciones en la isla \"con efecto inmediato\"",
       "category": "Mundo",
-      "bullets_20s": "• Iberostar y Blue Diamond son marcas importantes en la industria hotelera de Cuba. Su salida impacta al sector.\n• Las sanciones de EE.UU. han llevado a la decisión de abandonar operaciones en el país caribeño.\n• Cuba ha enfrentado dificultades económicas en los últimos años, acentuadas por la pandemia de COVID-19.\n• Los hoteles, especialmente en zonas turísticas, han sido fundamentales para la economía cubana en tiempos mejores.\n• La situación política y social en Cuba sigue siendo compleja y afecta a empresas extranjeras.",
+      "bullets_20s": "• Iberostar y Blue Diamond son importantes en la industria turística cubana en años recientes.\n• La decisión de abandonar Cuba responde a sanciones impuestas por Estados Unidos en este contexto.\n• Las empresas estaban bajo presión debido a sus vínculos con las Fuerzas Armadas cubanas.\n• El impacto en el turismo cubano podría ser significativo tras el retiro de estas cadenas hoteleras.\n• El sector turístico en Cuba ha enfrentado múltiples desafíos en los últimos años.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cj0pl3yeg7no?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-02T11:32:10.000Z",
-      "teaser": "Lo clave en 20 segundos: Iberostar y Blue Diamond dejan Cuba por sanciones de EE.UU. afectando el turismo.",
+      "teaser": "Lo clave en 20 segundos: Iberostar y Blue Diamond cesan operaciones en Cuba debido a sanciones de EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/bd04/live/b601b050-5e73-11f1-9bb7-93b44936b5cf.jpg",
       "description": "EE.UU. amenazó con sanciones a todas las compañías que tuvieran vínculos con el conglomerado empresarial de las Fuerzas Armadas cubanas.",
       "featured": false
@@ -433,11 +459,11 @@
       "slug": "la-primera-innovacion-para-partos-desde-los-anos-50-el-revolucionario-dispositivo-creado-por-un-mecanico-argentino-que-s",
       "title": "La primera innovación para partos desde los años 50: el revolucionario dispositivo creado por un mecánico argentino que se empezó a usar en Europa",
       "category": "Ciencia",
-      "bullets_20s": "• Un nuevo dispositivo promete revolucionar el proceso de parto como no se veía desde hace décadas.\n• Desarrollado por un mecánico argentino, este aparato se ha implementado en Europa recientemente.\n• Las autoridades sanitarias destacaron la efectividad del dispositivo en partos sin complicaciones.\n• Hasta la fecha, 300 bebés han nacido con la ayuda de esta innovadora tecnología.\n• Los responsables del dispositivo afirman que no ha habido casos de hematomas ni moretones.",
+      "bullets_20s": "• Un dispositivo de parto innovador ha sido pensado para mejorar la salud neonatal.\n• Creado por un mecánico, el aparato destaca por su diseño ergonómico.\n• Las autoridades sanitarias avalan el uso del dispositivo en hospitales europeos.\n• Más de 300 partos recientes son testimonios de su efectividad y seguridad.\n• Los responsables del producto aseguran que es una solución revolucionaria.\n• No se han reportado complicaciones como moretones en los recién nacidos.\n• El avance podría implicar un cambio en la práctica obstétrica tradicional.\n• Se espera que el dispositivo llegue a más países en el futuro próximo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdrp4k3xd72o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-02T11:00:04.000Z",
-      "teaser": "Lo clave en 20 segundos: Un nuevo dispositivo cambia la forma de dar a luz, destacando por su eficacia.",
+      "teaser": "Lo clave en 20 segundos: Descubre el dispositivo que transforma partos desde los años 50.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cc3f/live/6dc8de20-59fb-11f1-861d-1fece425dd06.jpg",
       "description": "Hasta ahora, 300 bebés han nacido con la ayuda de este aparato, y ninguno ha presentado moretones ni hematomas, según afirman las autoridades sanitarias y los responsables de la empresa que lo fabrica.",
       "featured": false
@@ -472,11 +498,11 @@
       "slug": "la-joven-de-18-anos-que-huyo-a-cientos-de-kilometros-de-su-hogar-en-un-taxi-para-escapar-del-matrimonio-forzado",
       "title": "La joven de 18 años que huyó a cientos de kilómetros de su hogar en un taxi para escapar del matrimonio forzado",
       "category": "Mundo",
-      "bullets_20s": "• La joven decidió huir ante la presión de un matrimonio forzado que no deseaba.\n• El uso del taxi representa una medida drástica en su búsqueda de libertad.\n• Las restricciones educativas en Afganistán han limitado las oportunidades de las mujeres.\n• Este caso resalta las luchas de muchas jóvenes en contextos similares.\n• La situación actual en Afganistán sigue generando preocupaciones a nivel global.",
+      "bullets_20s": "• Una joven afgana escapó del matrimonio forzado en un taxi hacia otra región.\n• La prohibición de educación afecta a muchas jóvenes en Afganistán desde hace años.\n• La huida representa un acto de valentía ante las restricciones culturales.\n• Las historias de jóvenes también reflejan la lucha por los derechos humanos.\n• La situación en Afganistán sigue siendo crítica para las mujeres y niñas.\n• La comunidad internacional condena los matrimonios forzados en el país.\n• Las jóvenes enfrentan enormes obstáculos para realizar sus sueños académicos.\n• El deseo de libertad impulsa a muchas a tomar decisiones arriesgadas.\n• Historias como esta nos recuerdan la lucha por la autonomía personal.\n• Es vital seguir apoyando la educación y derechos de las mujeres en todo el mundo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx211g4j1y9o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-02T10:16:04.000Z",
-      "teaser": "Lo clave en 20 segundos: una joven escapa de un matrimonio forzado en Afganistán.",
+      "teaser": "Lo clave en 20 segundos: Una joven escapa de un matrimonio forzado en Afganistán buscando su libertad.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b38b/live/bb0494a0-57b6-11f1-b682-cf91850925ea.jpg",
       "description": "Casi cinco años después de la prohibición de la educación en Afganistán, las jóvenes afirman que han tenido que despedirse de sus sueños.",
       "featured": false
@@ -821,15 +847,15 @@
     },
     {
       "slug": "cursos-de-casa-de-la-ciudad-exclusivos-para-la-comunidad-tec",
-      "title": "Cursos de Casa de la Ciudad exclusivos para la Comunidad TEC",
+      "title": "Cursos  de Casa de la Ciudad exclusivos para la Comunidad TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• Casa de la Ciudad ofrece cursos para la comunidad del Tecnológico de Costa Rica.\n• Las actividades incluyen Cardio Dance, Hatha-Yoga, Pilates y Teatro para principiantes.\n• La matrícula está abierta desde ahora, hasta el 15 de junio de 2026.\n• Las clases se llevarán a cabo en el aula contigua a la piscina del campus del TEC.\n• La inscripción requiere la presentación de un documento de identificación personal.",
+      "bullets_20s": "• Casa de la Ciudad ofrece cursos exclusivos para la comunidad del TEC, FUNDATEC y Asetec.\n• Las actividades incluyen Cardio Dance, Hatha-Yoga, Pilates y Teatro para principiantes.\n• Las clases se impartirán en el aula contigua a la piscina en el Campus Central del TEC.\n• La matrícula para los cursos estará abierta hasta el 15 de junio de 2026.\n• Los interesados deben presentar un documento de identificación al realizar la matrícula.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/cursos-casa-ciudad-exclusivos-comunidad-tec",
       "publish_date": "2026-06-01T21:40:26.000Z",
-      "teaser": "Lo clave en 20 segundos: Casa de la Ciudad ofrece cursos exclusivos para la Comunidad TEC.",
+      "teaser": "Lo clave en 20 segundos: Cursos en Casa de la Ciudad para la comunidad TEC ahora disponibles.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/cardio.jpeg",
-      "description": "Cursos de Casa de la Ciudad exclusivos para la Comunidad TEC",
+      "description": "Cursos  de Casa de la Ciudad exclusivos para la Comunidad TEC",
       "featured": false
     },
     {
@@ -1096,11 +1122,11 @@
       "slug": "concierto-memorias",
       "title": "Concierto: Memorias",
       "category": "Costa Rica",
-      "bullets_20s": "• El grupo Áncora TEC se une al Centro Diurno ASCATE para un evento musical especial.\n• La presentación se llevará a cabo el miércoles 3 de junio a las 10:00 a.m.\n• Este evento será realizado en el Auditorio del Centro de las Artes del TEC.\n• El espectáculo es gratuito y abierto al público en general, sin costo alguno.\n• Adultos mayores del ASCATE participarán en la actuación junto a Áncora TEC.",
+      "bullets_20s": "• El grupo Áncora TEC y el Centro Diurno ASCATE presentan un evento musical especial.\n• Adultos mayores del ASCATE se unen a la presentación de este concierto único.\n• El evento se llevará a cabo el 3 de junio a las 10:00 a.m. en Cartago.\n• El Auditorio del Centro de las Artes será la sede del concierto gratuito.\n• Se invita al público en general a disfrutar de esta actividad cultural.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/concierto-memorias",
       "publish_date": "2026-06-01T16:54:59.000Z",
-      "teaser": "Lo clave en 20 segundos: Concierto gratuito el 3 de junio por adultos mayores y Áncora TEC.",
+      "teaser": "Lo clave en 20 segundos: Concierto gratuito donde adultos mayores participan con Áncora TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/concierto-memorias.png",
       "description": "Concierto: Memorias",
       "featured": false
@@ -1688,19 +1714,6 @@
       "teaser": "Lo clave en 20 segundos: un trasplante simultáneo de cerdo a humano se realizó con éxito inicial.",
       "image_url": "https://www.nacion.com/resizer/v2/QDYMELMGX5HXFP2ECAC54YCO3M.jpg?auth=30d7f574b58c77e579920b6a24b2e83bdd2212279bae1624709d47ba33524abd&smart=true&width=1920&height=1440",
       "description": "El primer trasplante simultáneo de dos riñones y un hígado de cerdo en un humano mostró funcionamiento normal durante 24 horas antes de registrar señales tempranas de rechazo.",
-      "featured": false
-    },
-    {
-      "slug": "jaguarundi-reaparece-en-zona-protegida-de-brasil-y-camaras-captan-al-felino-por-primera-vez",
-      "title": "Jaguarundi reaparece en zona protegida de Brasil y cámaras captan al felino por primera vez",
-      "category": "Mundo",
-      "bullets_20s": "• El jaguarundi es un felino poco común en la Amazonía brasileña y su avistamiento es raro.\n• Las cámaras trampa se utilizan para el monitoreo de la vida silvestre en zonas protegidas.\n• Este avistamiento es crucial para entender la biodiversidad en la región amazónica.\n• El jaguarundi se considera una especie vulnerable en peligro de extinción debido a la pérdida de hábitat.\n• La Estación Ecológica Grão-Pará es un área clave para la conservación de especies raras.",
-      "source_name": "O Globo",
-      "source_url": "https://www.nacion.com/ciencia/jaguarundi-reaparece-en-zona-protegida-de-brasil-y/MKJNTXXEBRC43NBRYMIIGLL5AI/story/",
-      "publish_date": "2026-05-31T23:13:32.000Z",
-      "teaser": "Lo clave en 20 segundos: Un jaguarundi fue visto por primera vez en Brasil gracias a cámaras trampa.",
-      "image_url": "https://www.nacion.com/resizer/v2/TC3AQXMM3FB7LNKX5JGCPMCPGE.png?auth=50975cdfb86b967b6b92aa3be95ab7c766f0713e827e1e4207fbc1dec122d828&smart=true&width=1920&height=1080",
-      "description": "El raro jaguarundi apareció por primera vez en la Estación Ecológica Grão-Pará, en Brasil. Cámaras captaron al felino vulnerable durante un monitoreo ambiental en la Amazonía.",
       "featured": false
     },
     {
@@ -33021,5 +33034,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-06-02T19:45:19.793Z"
+  "generated_at": "2026-06-02T20:45:20.030Z"
 }
