@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "gobierno-de-trump-toma-decision-que-afectara-nuestro-entendimiento-de-los-oceanos",
+      "title": "Gobierno de Trump toma decisión que afectará nuestro entendimiento de los océanos",
+      "category": "Mundo",
+      "bullets_20s": "• La decisión del gobierno de Trump impactará la investigación oceanográfica global en varios niveles importantes.\n• Cuatro de las cinco estaciones de observación marítima serán desmanteladas, alterando la vigilancia oceánica.\n• Este cambio podría afectar nuestros entendimientos sobre la biodiversidad marina a largo plazo.\n• Los organismos científicos están preocupados por la falta de datos en el futuro inmediato.\n• La reducción de infraestructuras podría impactar la respuesta a fenómenos climáticos en el océano.",
+      "source_name": "AFP, Sebastián Araya Delgado",
+      "source_url": "https://www.nacion.com/el-mundo/gobierno-de-trump-toma-decision-que-afectara/CQDQ4GF2WFGNNCOGUJHEUZW3UM/story/",
+      "publish_date": "2026-06-02T21:10:39.000Z",
+      "teaser": "Lo clave en 20 segundos: Decisión de Trump afecta la investigación sobre océanos y su biodiversidad.",
+      "image_url": "https://www.nacion.com/resizer/v2/M6JS7VYQ5FCUTO3ERZXJ7TFUCE.jpg?auth=753f39c6821cc10220204ce855b71d2c4652228f1b5d3d642c50f701ebb52f74&smart=true&width=1200&height=800",
+      "description": "Las infraestructuras sumergidas de cuatro de las cinco estaciones de observación actualmente en funcionamiento serán retiradas.",
+      "featured": false
+    },
+    {
+      "slug": "nasa-revela-nuevos-detalles-del-meteorito-que-sacudio-el-noreste-de-estados-unidos-y-explico-el-misterioso-estruendo",
+      "title": "NASA revela nuevos detalles del meteorito que sacudió el noreste de Estados Unidos y explicó el misterioso estruendo",
+      "category": "Mundo",
+      "bullets_20s": "• La NASA proporciona datos sobre un meteorito que generó un estruendo significativo en Estados Unidos.\n• El meteorito tenía un tamaño de 1,52 metros y una velocidad impresionante de 67.600 km/h.\n• El evento arrojó luz sobre el comportamiento de los meteoritos en la atmósfera terrestre.\n• Este tipo de fenómenos astronómicos son un recordatorio de la naturaleza del sistema solar.\n• La investigación continúa para entender mejor la composición de los meteoritos y su impacto.\n• El evento reciente ha generado interés en la comunidad científica sobre el espacio.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/ciencia/nasa-revela-nuevos-detalles-del-meteorito-que/UVAL5S253FE4XPXIZISD3LMM7Y/story/",
+      "publish_date": "2026-06-02T21:09:22.000Z",
+      "teaser": "Lo clave en 20 segundos: NASA muestra detalles fascinantes sobre un meteorito que sorprendió en Estados Unidos.",
+      "image_url": "https://www.nacion.com/resizer/v2/4H4FUCMOSNEPHPZ3A5QKC7SXYM.png?auth=36d921a497d54d69ff3e5f5eaeba548a99927aae1c9c74b715b20806e27d3f72&smart=true&width=1920&height=1080",
+      "description": "La NASA reveló nuevos datos sobre el meteorito que provocó un fuerte estruendo en el noreste de Estados Unidos. El objeto medía 1,52 metros, viajó a 67.600 km/h y liberó energía equivalente a 230 toneladas de TNT.",
+      "featured": false
+    },
+    {
+      "slug": "de-ochoa-a-modric-el-asalto-del-mundial-2026-para-jugadores-que-pasan-de-40-anos",
+      "title": "De Ochoa a Modric: el asalto del Mundial 2026 para jugadores que pasan de 40 años",
+      "category": "Mundo",
+      "bullets_20s": "• El Mundial 2026 se acerca y los jugadores veteranos están listos para brillar en el torneo.\n• Jugadores como Ochoa y Modric buscan demostrar que la edad no es un impedimento para competir.\n• Cristiano Ronaldo es uno de los nombres destacados entre los futbolistas mayores de 40.\n• El evento promete ser un acontecimiento inolvidable con atletas excepcionales en el campo.\n• Las leyendas del fútbol desafían el tiempo y continúan inspirando a nuevas generaciones.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/puro-deporte/de-ochoa-a-modric-el-asalto-del-mundial-2026-para/ZSJMSW5CXNACBNCARU4RC2H3GA/story/",
+      "publish_date": "2026-06-02T20:50:26.000Z",
+      "teaser": "Lo clave en 20 segundos: Jugadores veteranos a la caza de gloria en el Mundial 2026.",
+      "image_url": "https://www.nacion.com/resizer/v2/I6NMZRP27RDGDDHEG4V6JYJVW4.jpg?auth=9cc9973722d1b16a9595bfafae74c4faa6f8bac23190710a7582b4197ef5a802&smart=true&width=3611&height=2407",
+      "description": "Además de Cristiano Ronaldo, otros jugadores veteranos con más de cuatro décadas buscarán la gloria en el Mundial 2026.",
+      "featured": false
+    },
+    {
       "slug": "conozca-el-laboratorio-que-maneja-las-enfermedades-mas-peligrosas-de-costa-rica",
       "title": "Conozca el laboratorio que maneja las enfermedades más peligrosas de Costa Rica",
       "category": "Costa Rica",
@@ -219,6 +258,19 @@
       "teaser": "Lo clave en 20 segundos: Cortes de luz programados en San Isidro afectan a más de 500 clientes este jueves.",
       "image_url": "https://www.nacion.com/resizer/v2/YLSIGCZ6FJDCJAP3JXCLKMFP3Y.png?auth=e72e0cfa560351129deb2a65d6830533c51eafdaec8938220f5e9925b2bdd2f0&smart=true&width=1680&height=945",
       "description": "¿Vive en San Isidro de Heredia? Más de 500 clientes enfrentarán una suspensión eléctrica programada este jueves. Consulte los horarios, la zona afectada y cómo verificar si su servicio estará entre los impactados.",
+      "featured": false
+    },
+    {
+      "slug": "la-ofensiva-de-china-contra-las-cocinas-fantasma-que-acaparan-las-aplicaciones-de-comida-a-domicilio",
+      "title": "La ofensiva de China contra las \"cocinas fantasma\" que acaparan las aplicaciones de comida a domicilio",
+      "category": "Mundo",
+      "bullets_20s": "• Las 'cocinas fantasma' son establecimientos que operan sin sitio físico de atención al cliente.\n• Se han identificado un total de 67.000 'cocinas fantasma' en diversas ciudades de China.\n• Este aumento ha generado una feroz competencia entre empresas de comida a domicilio.\n• El gobierno chino está preocupado por los estándares de seguridad alimentaria en estas instalaciones.\n• La regulación de este fenómeno es una de las prioridades en la agenda gubernamental actual.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cgepllprdxgo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-06-02T16:09:05.000Z",
+      "teaser": "Lo clave en 20 segundos: China intensifica la regulación de las 'cocinas fantasma' ante preocupaciones alimentarias.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/78fd/live/4e5530e0-5e95-11f1-89a3-d1f559421220.jpg",
+      "description": "El hallazgo de 67.000 \"cocinas fantasma\" ha desatado preocupaciones sobre la seguridad alimentaria y la feroz competencia en el sector de la comida a domicilio.",
       "featured": false
     },
     {
@@ -446,11 +498,11 @@
       "slug": "por-que-iberostar-y-blue-diamond-dos-cadenas-hoteleras-clave-en-la-industria-turistica-de-cuba-abandonan-operaciones-en-",
       "title": "Por qué Iberostar y Blue Diamond, dos cadenas hoteleras clave en la industria turística de Cuba, abandonan operaciones en la isla \"con efecto inmediato\"",
       "category": "Mundo",
-      "bullets_20s": "• Iberostar y Blue Diamond son importantes en la industria turística cubana en años recientes.\n• La decisión de abandonar Cuba responde a sanciones impuestas por Estados Unidos en este contexto.\n• Las empresas estaban bajo presión debido a sus vínculos con las Fuerzas Armadas cubanas.\n• El impacto en el turismo cubano podría ser significativo tras el retiro de estas cadenas hoteleras.\n• El sector turístico en Cuba ha enfrentado múltiples desafíos en los últimos años.",
+      "bullets_20s": "• Las cadenas hoteleras Iberostar y Blue Diamond han decidido cesar sus operaciones en Cuba urgentemente.\n• La decisión se debe a las amenazas de sanciones del gobierno de EE.UU. contra empresas en Cuba.\n• Ambas compañías son fundamentales para el turismo cubano y su salida impactará la economía local.\n• Las sanciones afectarán a cualquier negocio con vínculos con las Fuerzas Armadas cubanas.\n• El turismo es un sector crucial para la economía de Cuba, generando empleo y divisas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cj0pl3yeg7no?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-02T11:32:10.000Z",
-      "teaser": "Lo clave en 20 segundos: Iberostar y Blue Diamond cesan operaciones en Cuba debido a sanciones de EE.UU.",
+      "teaser": "Lo clave en 20 segundos: Iberostar y Blue Diamond suspenden operaciones en Cuba por sanciones de EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/bd04/live/b601b050-5e73-11f1-9bb7-93b44936b5cf.jpg",
       "description": "EE.UU. amenazó con sanciones a todas las compañías que tuvieran vínculos con el conglomerado empresarial de las Fuerzas Armadas cubanas.",
       "featured": false
@@ -459,13 +511,13 @@
       "slug": "la-primera-innovacion-para-partos-desde-los-anos-50-el-revolucionario-dispositivo-creado-por-un-mecanico-argentino-que-s",
       "title": "La primera innovación para partos desde los años 50: el revolucionario dispositivo creado por un mecánico argentino que se empezó a usar en Europa",
       "category": "Ciencia",
-      "bullets_20s": "• Un dispositivo de parto innovador ha sido pensado para mejorar la salud neonatal.\n• Creado por un mecánico, el aparato destaca por su diseño ergonómico.\n• Las autoridades sanitarias avalan el uso del dispositivo en hospitales europeos.\n• Más de 300 partos recientes son testimonios de su efectividad y seguridad.\n• Los responsables del producto aseguran que es una solución revolucionaria.\n• No se han reportado complicaciones como moretones en los recién nacidos.\n• El avance podría implicar un cambio en la práctica obstétrica tradicional.\n• Se espera que el dispositivo llegue a más países en el futuro próximo.",
+      "bullets_20s": "• Un nuevo dispositivo para partos promete revolucionar la forma en que se asisten los nacimientos en el mundo.\n• Creado por un mecánico argentino, este aparato ha sido bien recibido en hospitales europeos.\n• El dispositivo asegura reducir los hematomas y moretones en los recién nacidos durante el parto.\n• Asegura también una mayor seguridad tanto para la madre como para el bebé durante el nacimiento.\n• Expertos en salud destacan la importancia de esta innovación para el ámbito médico actual.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cdrp4k3xd72o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-02T11:00:04.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre el dispositivo que transforma partos desde los años 50.",
+      "teaser": "Lo clave en 20 segundos: un nuevo dispositivo de parto reduce complicaciones y mejora la seguridad en nacimientos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/cc3f/live/6dc8de20-59fb-11f1-861d-1fece425dd06.jpg",
-      "description": "Hasta ahora, 300 bebés han nacido con la ayuda de este aparato, y ninguno ha presentado moretones ni hematomas, según afirman las autoridades sanitarias y los responsables de la empresa que lo fabrica.",
+      "description": "Hasta ahora, 300 bebés han nacido con la ayuda de este aparato, y ninguno ha presentado moretones ni hematomas.",
       "featured": false
     },
     {
@@ -498,11 +550,11 @@
       "slug": "la-joven-de-18-anos-que-huyo-a-cientos-de-kilometros-de-su-hogar-en-un-taxi-para-escapar-del-matrimonio-forzado",
       "title": "La joven de 18 años que huyó a cientos de kilómetros de su hogar en un taxi para escapar del matrimonio forzado",
       "category": "Mundo",
-      "bullets_20s": "• Una joven afgana escapó del matrimonio forzado en un taxi hacia otra región.\n• La prohibición de educación afecta a muchas jóvenes en Afganistán desde hace años.\n• La huida representa un acto de valentía ante las restricciones culturales.\n• Las historias de jóvenes también reflejan la lucha por los derechos humanos.\n• La situación en Afganistán sigue siendo crítica para las mujeres y niñas.\n• La comunidad internacional condena los matrimonios forzados en el país.\n• Las jóvenes enfrentan enormes obstáculos para realizar sus sueños académicos.\n• El deseo de libertad impulsa a muchas a tomar decisiones arriesgadas.\n• Historias como esta nos recuerdan la lucha por la autonomía personal.\n• Es vital seguir apoyando la educación y derechos de las mujeres en todo el mundo.",
+      "bullets_20s": "• Una joven decidió huir en un taxi para evitar un matrimonio forzado en Afganistán.\n• La situación de las mujeres en Afganistán ha empeorado tras la prohibición educativa.\n• La lucha por los derechos de las mujeres en el mundo continúa siendo crítica.\n• La historia refleja la desesperación de muchas jóvenes frente a tradiciones restrictivas.\n• El acceso a la educación sigue siendo un tema polémico en varias naciones.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx211g4j1y9o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-02T10:16:04.000Z",
-      "teaser": "Lo clave en 20 segundos: Una joven escapa de un matrimonio forzado en Afganistán buscando su libertad.",
+      "teaser": "Lo clave en 20 segundos: una joven escapa del matrimonio forzado en Afganistán tras años de prohibiciones.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b38b/live/bb0494a0-57b6-11f1-b682-cf91850925ea.jpg",
       "description": "Casi cinco años después de la prohibición de la educación en Afganistán, las jóvenes afirman que han tenido que despedirse de sus sueños.",
       "featured": false
@@ -847,15 +899,15 @@
     },
     {
       "slug": "cursos-de-casa-de-la-ciudad-exclusivos-para-la-comunidad-tec",
-      "title": "Cursos  de Casa de la Ciudad exclusivos para la Comunidad TEC",
+      "title": "Cursos de Casa de la Ciudad exclusivos para la Comunidad TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• Casa de la Ciudad ofrece cursos exclusivos para la comunidad del TEC, FUNDATEC y Asetec.\n• Las actividades incluyen Cardio Dance, Hatha-Yoga, Pilates y Teatro para principiantes.\n• Las clases se impartirán en el aula contigua a la piscina en el Campus Central del TEC.\n• La matrícula para los cursos estará abierta hasta el 15 de junio de 2026.\n• Los interesados deben presentar un documento de identificación al realizar la matrícula.",
+      "bullets_20s": "• Casa de la Ciudad ofrece varios cursos para la Comunidad Institucional del TEC.\n• Hay opciones como Cardio Dance, Hatha-Yoga, Pilates y Teatro para principiantes.\n• Los cursos son exclusivos para estudiantes y funcionarios del TEC y fundaciones asociadas.\n• Es necesario presentar un documento de identificación para matrícula en el curso.\n• Las clases se impartirán en el Campus Central del TEC, junto a la piscina.\n• El período de matrícula estará abierto hasta el 15 de junio de 2026.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/cursos-casa-ciudad-exclusivos-comunidad-tec",
       "publish_date": "2026-06-01T21:40:26.000Z",
-      "teaser": "Lo clave en 20 segundos: Cursos en Casa de la Ciudad para la comunidad TEC ahora disponibles.",
+      "teaser": "Lo clave en 20 segundos: Cursos de Casa de la Ciudad para la Comunidad TEC disponibles ahora.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/cardio.jpeg",
-      "description": "Cursos  de Casa de la Ciudad exclusivos para la Comunidad TEC",
+      "description": "Cursos de Casa de la Ciudad exclusivos para la Comunidad TEC",
       "featured": false
     },
     {
@@ -1122,11 +1174,11 @@
       "slug": "concierto-memorias",
       "title": "Concierto: Memorias",
       "category": "Costa Rica",
-      "bullets_20s": "• El grupo Áncora TEC y el Centro Diurno ASCATE presentan un evento musical especial.\n• Adultos mayores del ASCATE se unen a la presentación de este concierto único.\n• El evento se llevará a cabo el 3 de junio a las 10:00 a.m. en Cartago.\n• El Auditorio del Centro de las Artes será la sede del concierto gratuito.\n• Se invita al público en general a disfrutar de esta actividad cultural.",
+      "bullets_20s": "• El grupo Áncora TEC invita a todos al concierto Memorias en Costa Rica.\n• La actividad se realizará el miércoles 3 de junio a las 10:00 a.m.\n• Es un evento gratuito y abierto al público en general.\n• El concierto es una presentación de adultos mayores del ASCATE.\n• La invitación también incluye a estudiantes y colaboradores del TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/concierto-memorias",
       "publish_date": "2026-06-01T16:54:59.000Z",
-      "teaser": "Lo clave en 20 segundos: Concierto gratuito donde adultos mayores participan con Áncora TEC.",
+      "teaser": "Lo clave en 20 segundos: Concierto gratuito con la participación de adultos mayores en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/concierto-memorias.png",
       "description": "Concierto: Memorias",
       "featured": false
@@ -33034,5 +33086,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-06-02T20:45:20.030Z"
+  "generated_at": "2026-06-02T21:45:19.806Z"
 }
