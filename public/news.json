@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "incendio-en-intel-afecto-500-m-y-movilizo-9-unidades-de-bomberos",
+      "title": "Incendio en Intel afectó 500 m² y movilizó 9 unidades de Bomberos",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un incendio ocurrió en una planta de Intel, causando daños significativos en su área operativa.\n• Nueve unidades de Bomberos fueron necesarias para controlar el fuego en las instalaciones.\n• El área afectada se estima en 500 metros cuadrados, afectando la producción temporalmente.\n• Los bomberos trabajaron en la extinción del incendio durante varias horas.\n• No se reportaron heridos, gracias a la rápida respuesta del cuerpo de bomberos.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/incendio-en-intel-afecto-500-m-y-movilizo-9/E63CL2TIMFCDFNPKVEE4YU7RDQ/story/",
+      "publish_date": "2026-06-02T04:13:30.000Z",
+      "teaser": "Lo clave en 20 segundos: incendio en Intel movilizó 9 unidades de Bomberos y afectó importante área operativa.",
+      "image_url": "https://www.nacion.com/resizer/v2/2RMLYMFQLFA7PFXBDWBLJCEUQ4.jpg?auth=57b56fe4f5e3e3e2cb00585fe90c28e9652f402d771980abbb4322908948d172&smart=true&width=1290&height=667",
+      "description": "El incendio que se produjo la tarde de este lunes en la planta de Intel afectó un área de 500 metros cuadrados; movilizó 9 unidades.",
+      "featured": false
+    },
+    {
+      "slug": "carlos-restrepo-enciende-alarmas-desde-colombia-por-crisis-de-indisciplina-en-el-futbol-de-costa-rica",
+      "title": "Carlos Restrepo enciende alarmas desde Colombia por crisis de indisciplina en el fútbol de Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• Carlos Restrepo advierte sobre los problemas de disciplina en el fútbol costarricense.\n• La vida nocturna de los jugadores es un factor crítico a considerar según Restrepo.\n• Los escándalos están afectando el rendimiento del fútbol en Costa Rica.\n• Restrepo busca generar conciencia sobre la importancia de la conducta de los jugadores.\n• La disciplina es esencial para el desarrollo y éxito del deporte en el país.",
+      "source_name": "Fanny Tayver Marín",
+      "source_url": "https://www.nacion.com/puro-deporte/carlos-restrepo-enciende-alarmas-desde-colombia/WVVV4A547RBN3HPG64IOBSIPEQ/story/",
+      "publish_date": "2026-06-02T03:50:27.000Z",
+      "teaser": "Lo clave en 20 segundos: Restrepo alerta sobre crisis de indisciplina en el fútbol costarricense.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZEOEPUGS2RHDDPKQAJ66IRX66Y.jpg?auth=2f0eb25c32b35821a181efe8af30529fd9f486f60ae22c6fcaf6392c013976a3&smart=true&width=1200&height=628",
+      "description": "Carlos Restrepo dio un punto de vista que muchos no habían dimensionado sobre la vida nocturna, la fiesta y los escándalos en el fútbol.",
+      "featured": false
+    },
+    {
       "slug": "james-rodriguez-desata-la-locura-entre-los-jugadores-de-la-seleccion-de-costa-rica-video",
       "title": "James Rodríguez desata la locura entre los jugadores de la Selección de Costa Rica (Video)",
       "category": "Costa Rica",
-      "bullets_20s": "• La visita de James Rodríguez generó emoción entre los futbolistas de la Selección de Costa Rica.\n• Los jugadores mostraron gran júbilo al interactuar con el famoso futbolista colombiano.\n• Rodríguez se ha convertido en un referente del fútbol latinoamericano a nivel internacional.\n• La cercanía entre los jugadores promueve una buena atmósfera en el equipo nacional.\n• Este tipo de interacciones son valiosas para fortalecer el espíritu de equipo.",
+      "bullets_20s": "• La Selección de Costa Rica se reúne en un ambiente de camaradería y alegría.\n• James Rodríguez, estrella del fútbol colombiano, visita a los ticos durante su entrenamiento.\n• Los jugadores disfrutan de momentos únicos con la figura internacional en su presente.\n• Se comparten anécdotas y consejos entre los jugadores y James durante la jornada.\n• Las redes sociales se inundan de imágenes y videos del encuentro entre ambos equipos.",
       "source_name": "Esteban Valverde",
       "source_url": "https://www.nacion.com/puro-deporte/futbol/james-rodriguez-desata-la-locura-entre-los/DF4HZBNMOZEBLKS6I7UD5XDMDU/story/",
       "publish_date": "2026-06-02T03:05:26.000Z",
-      "teaser": "Lo clave en 20 segundos: James Rodríguez causa furor entre los jugadores de Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La Selección de Costa Rica disfruta la visita de James Rodríguez.",
       "image_url": "https://www.nacion.com/resizer/v2/77TCLJFDORD5TNECL3WOUFV6WA.jpg?auth=d01654cb77a62d85dd3115e9fcc795b3548927377a780c749e8197ca90758c4f&smart=true&width=1200&height=800",
       "description": "Los jugadores de la Selección de Costa Rica aprovecharon la cercanía con James Rodríguez, figura de Colombia.",
       "featured": false
@@ -17,11 +43,11 @@
       "slug": "sporting-va-en-serio-y-ficha-a-un-futbolista-muy-cotizado-en-centroamerica",
       "title": "Sporting va en serio y ficha a un futbolista muy cotizado en Centroamérica",
       "category": "Costa Rica",
-      "bullets_20s": "• Sporting muestra su seriedad al fichar a un talentoso mediocampista de Centroamérica.\n• El nuevo refuerzo es parte de la selección nacional de Honduras, aportando experiencia.\n• Este fichaje podría influir en las aspiraciones de Sporting para la próxima temporada.\n• Clubes de la región estaban interesados en el mismo jugador, lo que incrementa su valor.\n• El mediocampista llega con una trayectoria destacada en el fútbol hondureño y regional.",
+      "bullets_20s": "• Sporting ha realizado una importante contratación en el área del fútbol profesional en Centroamérica.\n• El nuevo futbolista tiene una trayectoria destacada y experiencia internacional en competiciones.\n• Su llegada genera grandes expectativas entre los aficionados del equipo y la prensa deportiva.\n• Este mediocampista ha sido clave en su selección nacional y podría aportar mucho al club.\n• El interés de otros clubes resalta su calidad y el potencial que se le atribuye como jugador.",
       "source_name": "Fanny Tayver Marín",
       "source_url": "https://www.nacion.com/puro-deporte/sporting-va-en-serio-y-ficha-a-un-futbolista-muy/ZRJ4GN3B4FD4JDEKX4MHQWR4RM/story/",
       "publish_date": "2026-06-02T03:04:33.000Z",
-      "teaser": "Lo clave en 20 segundos: Sporting refuerza su plantilla con un mediocampista destacado de Centroamérica.",
+      "teaser": "Lo clave en 20 segundos: Sporting ficha a un valioso mediocampista seleccionado nacional de Honduras.",
       "image_url": "https://www.nacion.com/resizer/v2/EOHAZO27WJFC7IWYVHJT24EE7I.png?auth=31da1c62c768993d45cbdbf16f744ec41c5f0116d87a43003906c64ebc39e711&smart=true&width=1080&height=1350",
       "description": "Sporting contrató a un mediocampista que despertaba interés de varios clubes y que es seleccionado nacional en Honduras.",
       "featured": false
@@ -30,11 +56,11 @@
       "slug": "por-que-pedro-sanchez-esta-en-uno-de-sus-peores-momentos-desde-que-es-presidente-de-espana-y-el-contraste-con-los-elogio",
       "title": "Por qué Pedro Sánchez está en uno de sus peores momentos desde que es presidente de España (y el contraste con los elogios que recibe fuera)",
       "category": "Mundo",
-      "bullets_20s": "• El presidente Pedro Sánchez enfrenta críticas significativas por casos de corrupción en su administración.\n• Las elecciones anticipadas son exigidas por la oposición debido a la creciente tensión política en España.\n• A pesar de su situación interna, Sánchez recibe elogios de líderes extranjeros por su gestión internacional.\n• El contraste entre la opinión pública y los reconocimientos externos puede afectar su futuro político.\n• La situación en España refleja desafíos comunes que enfrentan muchos líderes en contextos de crisis.",
+      "bullets_20s": "• Los momentos críticos en la carrera política de líderes mundiales suelen atraer la atención de los medios.\n• Las acusaciones de corrupción afectan la imagen de cualquier figura pública, incluyendo la de Pedro Sánchez.\n• El contraste entre la opinión nacional e internacional puede influir en las decisiones de los líderes políticos.\n• La presión de la oposición por elecciones anticipadas refleja la inestabilidad política en España.\n• El manejo de crisis por parte de un líder define su legado y su aceptación entre la ciudadanía.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cn7pn3e16dgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-02T02:49:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Sánchez atraviesa su peor momento por corrupción mientras es elogiado afuera.",
+      "teaser": "Lo clave en 20 segundos: la crisis de Sánchez entre corrupción y presión electoral.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/efcd/live/79710b80-5ded-11f1-9565-ef0970da1cfe.jpg",
       "description": "El entorno del presidente español se ve salpicado por casos de corrupción mientras la oposición le exige elecciones anticipadas.",
       "featured": false
@@ -303,11 +329,11 @@
       "slug": "cursos-de-casa-de-la-ciudad-exclusivos-para-la-comunidad-tec",
       "title": "Cursos de Casa de la Ciudad exclusivos para la Comunidad TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• Casa de la Ciudad ofrece cursos a la Comunidad TEC, promoviendo la actividad física y cultural.\n• Se enfocan en Cardio Dance, Hatha-Yoga, Pilates y Teatro, ideales para principiantes.\n• La matrícula está abierta hasta el 15 de junio, exclusiva para estudiantes y funcionarios.\n• Las clases se dictarán en el aula contigua a la piscina del Campus Central del TEC.\n• Para más información, los interesados pueden contactar a Reyner González por correo.",
+      "bullets_20s": "• Casa de la Ciudad ofrecerá cursos a la comunidad del Instituto Tecnológico de Costa Rica.\n• Las clases incluyen Cardio Dance, Hatha-Yoga, Pilates y Teatro para principiantes.\n• Las inscripciones están abiertas hasta el 15 de junio para estudiantes y funcionarios.\n• Se requiere la presentación de documento de identificación para la matrícula.\n• Las clases se impartirán en el aula contigua a la piscina del Campus Central.\n• Reyner González Solano es el contacto para más información sobre los cursos.\n• Los talleres están dirigidos a docentes, colaboradores y estudiantes del TEC.\n• Cada curso ofrece una oportunidad única para el desarrollo personal y comunitario.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/cursos-casa-ciudad-exclusivos-comunidad-tec",
       "publish_date": "2026-06-01T21:40:26.000Z",
-      "teaser": "Lo clave en 20 segundos: Cursos exclusivos para la comunidad TEC en Casa de la Ciudad.",
+      "teaser": "Lo clave en 20 segundos: Cursos exclusivos en Casa de la Ciudad para la comunidad TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/cardio.jpeg",
       "description": "Cursos de Casa de la Ciudad exclusivos para la Comunidad TEC",
       "featured": false
@@ -355,11 +381,11 @@
       "slug": "por-que-es-tan-importante-estrategicamente-el-castillo-de-900-anos-de-antiguedad-que-israel-capturo-en-libano",
       "title": "Por qué es tan importante estratégicamente el castillo de 900 años de antigüedad que Israel capturó en Líbano",
       "category": "Mundo",
-      "bullets_20s": "• El castillo de Beaufort ha sido un punto de interés estratégico durante siglos en la región.\n• Su captura resalta el interés de Israel en mantener posiciones militares clave en Líbano.\n• El castillo es un símbolo de la historia medieval y de conflictos territoriales en el área.\n• Construido hace 900 años, representa un patrimonio cultural que trasciende fronteras modernas.\n• El análisis de su importancia puede ofrecer perspectivas sobre eventos geopoliticos actuales.",
+      "bullets_20s": "• El castillo de Beaufort tiene una historia que se remonta a más de mil años.\n• Su ubicación estratégica ha sido un punto clave en varios conflictos.\n• Israel asegura que esta captura fortalece su posición en el área.\n• El castillo ha sido un símbolo de resistencia a lo largo de los años.\n• Su arquitectura refleja influencias de diversas culturas pasadas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cp9pg43xn0ro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-01T20:59:45.000Z",
-      "teaser": "Lo clave en 20 segundos: El castillo de Beaufort es fundamental por su historia y su posición en conflictos.",
+      "teaser": "Lo clave en 20 segundos: el castillo de Beaufort es crucial en conflictos históricos.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/5674/live/24af8360-5dfc-11f1-b2c5-bd777b7aa5cf.jpg",
       "description": "Objeto de lucha durante siglos, el castillo de Beaufort mantiene su importancia estratégica.",
       "featured": false
@@ -576,11 +602,11 @@
       "slug": "concierto-memorias",
       "title": "Concierto: Memorias",
       "category": "Costa Rica",
-      "bullets_20s": "• El grupo Áncora TEC organiza un evento cultural destacado en Cartago.\n• Adultos mayores del ASCATE participarán en una presentación significativa.\n• La actividad se llevará a cabo el miércoles 3 de junio a las 10:00 a.m.\n• El auditorio donde se realiza el evento está en el Tecnológico de Costa Rica.\n• La entrada es gratuita y abierta al público en general, sin costo alguno.",
+      "bullets_20s": "• El grupo Áncora TEC presenta un concierto dedicado a los recuerdos y la experiencia.\n• Adultos mayores del Centro Diurno ASCATE participan en el evento musical.\n• El concierto se llevará a cabo en el Auditorio del Centro de las Artes.\n• La entrada es gratuita y abierta al público, promoviendo la inclusión.\n• El evento se realizará el miércoles, 3 de junio a las 10:00 a.m.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/concierto-memorias",
       "publish_date": "2026-06-01T16:54:59.000Z",
-      "teaser": "Lo clave en 20 segundos: Concierto gratuito en Cartago, participa Áncora TEC con adultos mayores.",
+      "teaser": "Lo clave en 20 segundos: Concierto gratuito en honor a los recuerdos de los adultos mayores.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/concierto-memorias.png",
       "description": "Concierto: Memorias",
       "featured": false
@@ -966,11 +992,11 @@
       "slug": "que-necesitan-de-la-espriella-y-cepeda-para-ganar-en-segunda-vuelta-y-convertirse-en-presidente-de-colombia",
       "title": "Qué necesitan De la Espriella y Cepeda para ganar en segunda vuelta y convertirse en presidente de Colombia",
       "category": "Mundo",
-      "bullets_20s": "• De la Espriella y Cepeda se disputan la presidencia de Colombia en una contienda cerrada.\n• Expertos analizan las estrategias necesarias para cada candidato en la segunda vuelta.\n• El contexto político en Colombia ha cambiado significativamente desde 2022.\n• Los votantes buscan opciones que representen un cambio real en el país.\n• Ambos candidatos deben definir claramente sus propuestas para captar más apoyo.",
+      "bullets_20s": "• De la Espriella y Cepeda se enfrentarán en una contienda altamente competitiva y llena de sorpresas.\n• Los analistas esperan que las campañas se centren en temas económicos y de seguridad nacional.\n• Ambos candidatos deberán movilizar a sus bases para asegurar una alta participación electoral.\n• El electorado colombiano muestra gran polarización, lo que puede afectar los resultados finales.\n• Las alianzas estratégicas serán clave para aumentar sus posibilidades de éxito en el balotaje.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwy2r70lxjmo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-01T10:09:37.000Z",
-      "teaser": "Lo clave en 20 segundos: De la Espriella y Cepeda se acercan a una disputa crucial por la presidencia.",
+      "teaser": "Lo clave en 20 segundos: De la Espriella y Cepeda, candidatos a la presidencia, enfrentan un balotaje clave en Colombia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d0af/live/c023c530-5dcb-11f1-89a3-d1f559421220.jpg",
       "description": "El \"outsider\" derechista y el senador oficialista disputarán un balotaje en junio de resultado incierto pero más difícil para la izquierda que en 2022, señalan expertos.",
       "featured": false
@@ -32553,5 +32579,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-06-02T03:45:21.295Z"
+  "generated_at": "2026-06-02T04:45:19.722Z"
 }
