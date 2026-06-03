@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "imn-advierte-aguaceros-con-tormenta-electrica-este-jueves-en-costa-rica-estas-seran-las-zonas-mas-afectadas",
+      "title": "IMN advierte aguaceros con tormenta eléctrica este jueves en Costa Rica: estas serán las zonas más afectadas",
+      "category": "Costa Rica",
+      "bullets_20s": "• El IMN ha emitido alertas sobre aguaceros intensos y tormentas eléctricas en diversas regiones.\n• Se espera que las lluvias comiencen en la tarde y se intensifiquen durante la noche.\n• Las zonas más vulnerables a la tormenta incluyen áreas cercanas a la costa y montañas.\n• Se recomienda a la población estar preparada y evitar actividades al aire libre durante la tormenta.\n• Las temperaturas más altas se registrarán previo al inicio de las lluvias, aumentando la sensación de calor.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/sucesos/imn-advierte-aguaceros-con-tormenta-electrica-este/JUBMBOTFNRCAZNMJGGF3T3RHWA/story/",
+      "publish_date": "2026-06-03T23:12:36.000Z",
+      "teaser": "Lo clave en 20 segundos: alerta de lluvias y tormentas eléctricas para este jueves en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/MCZQFGXI5RAXHN4R4K766AEN3U.jpg?auth=df768df235bb32b344e749b768354b8a9fdb271e34e2541feaf67df2d8a5a016&smart=true&width=4000&height=2667",
+      "description": "Conozca cuáles regiones tendrán más lluvia, a qué hora se esperan los aguaceros y dónde se registrarán las temperaturas más altas.",
+      "featured": false
+    },
+    {
       "slug": "la-tensa-llamada-telefonica-entre-trump-y-netanyahu-que-complica-las-conversaciones-con-iran",
       "title": "La tensa llamada telefónica entre Trump y Netanyahu que complica las conversaciones con Irán",
       "category": "Mundo",
@@ -11,6 +24,19 @@
       "teaser": "Lo clave en 20 segundos: Trump y Netanyahu se enfrentan en una tensa llamada telefónica que complica la diplomacia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/19b3/live/828ab740-5f99-11f1-9327-116d48c78d42.jpg",
       "description": "El medio Axios aseguró que, durante una llamada telefónica el lunes, el presidente le había dicho a Netanyahu que estaba 'malditamente loco' y lo había acusado de ingratitud.",
+      "featured": false
+    },
+    {
+      "slug": "la-pelicula-que-el-famoso-director-wim-wenders-retirara-por-una-escena-en-la-que-aparece-en-topless-la-actriz-nastassja-",
+      "title": "La película que el famoso director Wim Wenders retirará por una escena en la que aparece en topless la actriz Nastassja Kinski con 13 años",
+      "category": "Mundo",
+      "bullets_20s": "• La polémica surge por la decisión de Wenders sobre la exhibición de su película.\n• Nastassja Kinski, famosa actriz, expresa su preocupación ante la falta de protección.\n• La escena en cuestión ha generado debates sobre la ética en el cine.\n• Wenders ha sido reconocido por su trabajo, pero esta actitud es cuestionable.\n• La actriz tenía solo 13 años durante la filmación y ahora reflexiona sobre ello.",
+      "source_name": "",
+      "source_url": "https://www.bbc.com/mundo/articles/c7v920qp8e4o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-06-03T22:24:46.000Z",
+      "teaser": "Lo clave en 20 segundos: Wim Wenders retira una película por una escena controvertida con Nastassja Kinski.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/28c4/live/dd3948f0-5f99-11f1-994c-dd7b6299b2d3.jpg",
+      "description": "La actriz Nastassja Kinski, que participó en la película cuando tenía 13 años, afirmó que el director no la protegió.",
       "featured": false
     },
     {
@@ -342,11 +368,11 @@
       "slug": "al-menos-un-muerto-y-decenas-de-heridos-en-un-ataque-con-drones-de-iran-contra-el-aeropuerto-de-kuwait",
       "title": "Al menos un muerto y decenas de heridos en un ataque con drones de Irán contra el aeropuerto de Kuwait",
       "category": "Mundo",
-      "bullets_20s": "• El ataque con drones ocurre en medio de tensiones entre Irán y Estados Unidos.\n• Se reportan varias víctimas en el aeropuerto, aumentando la preocupación internacional.\n• Irán justifica su acción como respuesta a los ataques previos de EE.UU.\n• Las autoridades kuwaitíes han comenzado a investigar el incidente de forma urgente.\n• El impacto de este ataque puede afectar la seguridad en la región del Golfo.",
+      "bullets_20s": "• Un ataque con drones en Kuwait ha dejado al menos un muerto y varios heridos.\n• Irán asegura que este ataque fue una represalia ante acciones de Estados Unidos.\n• Las tensiones en la región han aumentado en los últimos meses debido a conflictos previos.\n• Kuwait ha sido un punto estratégico en conflictos bélicos recientes en el Medio Oriente.\n• Este incidente podría escalar las tensiones entre Irán y las potencias involucradas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c152ek2pxxxo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-03T15:51:46.000Z",
-      "teaser": "Lo clave en 20 segundos: un ataque de Irán en Kuwait deja un muerto y múltiples heridos.",
+      "teaser": "Lo clave en 20 segundos: ataque en Kuwait deja muertos y heridos por represalias de Irán.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1764/live/f1cf6d20-5f63-11f1-89a3-d1f559421220.jpg",
       "description": "Irán afirma que el ataque contra Kuwait fue en represalia por ataques estadounidenses anteriores contra un petrolero y una isla iraníes.",
       "featured": false
@@ -433,11 +459,11 @@
       "slug": "presentacion-del-libro-dos-hombres-y-un-volcan",
       "title": "Presentación del libro “Dos hombres y un volcán”",
       "category": "Costa Rica",
-      "bullets_20s": "• La presentación será el 9 de junio en el Salón Jacaranda del TEC San Carlos.\n• El libro relata las travesías de Alberto Quesada y su primo en el Arenal.\n• Escrito por María Isabel Quesada y Luko Hilje, destaca la historia familiar.\n• Se conmemoran 55 años del Tecnológico de Costa Rica en este evento.\n• Abierta a toda la comunidad universitaria y público en general.",
+      "bullets_20s": "• La presentación del libro será parte del 55 aniversario del Tecnológico de Costa Rica.\n• Escrito por María Isabel Quesada y Luko Hilje, cuenta una aventura histórica.\n• El libro relata las travesías del volcán Arenal en 1937 por varios personajes.\n• Se celebra el martes 9 de junio a las 2:00 p.m. en el Salón Jacaranda.\n• La comunidad universitaria y el público pueden asistir a la presentación.",
       "source_name": "kmora",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-dos-hombres-volcan",
       "publish_date": "2026-06-03T14:20:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Presentan un libro sobre la historia del volcán Arenal en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Se presenta el libro sobre la historia del volcán Arenal el 9 de junio.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dos-hombres-y-un-volcan.jpg",
       "description": "Presentación del libro “Dos hombres y un volcán”",
       "featured": false
@@ -537,11 +563,11 @@
       "slug": "la-indignacion-por-el-caso-del-joven-que-murio-esposado-por-la-policia-mientras-se-desangraba-tras-ser-apunalado-en-rein",
       "title": "La indignación por el caso del joven que murió esposado por la policía mientras se desangraba tras ser apuñalado en Reino Unido",
       "category": "Mundo",
-      "bullets_20s": "• El caso ha causado un fuerte debate sobre el uso de la fuerza policial en el Reino Unido.\n• La comunidad ha expresado su preocupación por la actuación de los agentes involucrados.\n• Se han convocado protestas en diversas ciudades del país en respuesta a este incidente.\n• Las imágenes del suceso han sido analizadas por distintos expertos en derechos humanos.\n• Las autoridades están bajo presión para investigar a fondo el caso y esclarecer los hechos.",
+      "bullets_20s": "• El caso ha suscitado una gran indignación en el Reino Unido y ha traído críticas de diversos sectores.\n• Las imágenes del incidente plantean dudas sobre el protocolo de actuación de la policía en situaciones críticas.\n• Los familiares del joven y la comunidad demandan claridad sobre los hechos ocurridos ese día.\n• Las redes sociales han sido escenario de protestas y llamados a la justicia por su muerte trágica.\n• Organizaciones de derechos humanos piden una revisión de los procedimientos policiales en estos casos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g8n0p5w6yo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-03T12:49:10.000Z",
-      "teaser": "Lo clave en 20 segundos: un joven murió bajo custodia policial, generando revuelo en el Reino Unido.",
+      "teaser": "Lo clave en 20 segundos: Un joven falleció esposado por la policía, generando indignación y protestas en el Reino Unido.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/a2ca/live/20841970-5e0d-11f1-89a3-d1f559421220.png",
       "description": "Las imágenes grabadas por la cámara policial han generado una enorme conmoción en el país y sembrado dudas sobre la actuación de los agentes.",
       "featured": false
@@ -602,11 +628,11 @@
       "slug": "por-que-venezuela-llego-a-tener-uranio-altamente-enriquecido-y-como-fue-la-reciente-operacion-secreta-para-entregarselo-",
       "title": "Por qué Venezuela llegó a tener uranio altamente enriquecido y cómo fue la reciente operación secreta para entregárselo a EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• La operación involucró múltiples gobiernos y fue planificada en secreto durante varios meses.\n• Venezuela había acumulado uranio altamente enriquecido en sus instalaciones nucleares.\n• Expertos en energía nuclear participaron en la logística de la operación secreta.\n• La entrega fue parte de un acuerdo diplomático entre los tres países implicados.\n• El impacto de esta operación en la seguridad regional es objeto de amplio análisis.",
+      "bullets_20s": "• La operación fue llevada a cabo entre Venezuela, Estados Unidos y Reino Unido de manera clandestina.\n• Autoridades internacionales han debatido sobre el riesgo del uranio enriquecido en manos inestables.\n• El uranio altamente enriquecido puede ser utilizado en armamento nuclear si no se controla adecuadamente.\n• Expertos analizan las consecuencias de la operación en el contexto geopolítico actual.\n• La operación revela la compleja interacción entre naciones en temas de seguridad global.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c78q25x7vy4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-03T11:18:05.000Z",
-      "teaser": "Lo clave en 20 segundos: descubre la operación secreta sobre uranio en Venezuela.",
+      "teaser": "Lo clave en 20 segundos: Una operación secreta sobre uranio entre Venezuela y EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/2010/live/c1f712d0-5ec1-11f1-b588-45cc931ea6f1.jpg",
       "description": "A finales de abril, los gobiernos de Venezuela, Estados Unidos y Reino Unido realizaron una operación para llevarse de Venezuela una carga de uranio altamente enriquecido. BBC Mundo te cuenta cómo fue.",
       "featured": false
@@ -901,11 +927,11 @@
       "slug": "rayos-cosmicos-y-regiones-de-formacion-estelar",
       "title": "Rayos cósmicos y regiones de formación estelar",
       "category": "Ciencia",
-      "bullets_20s": "• El próximo jueves 4 de junio se realizará una charla sobre rayos cósmicos.\n• La charla es parte de la edición 508 del Jueves Astronómico de AstroTEC.\n• Inicia a las 5:00 p.m. en el auditorio del Edificio D3 y en línea.\n• Se discutirá la relación entre rayos cósmicos y formación de nuevas estrellas.\n• Manuel Mesén Alfaro será el experto invitado de la sesión.",
+      "bullets_20s": "• El grupo AstroTEC realizará charla sobre rayos cósmicos en junio, abierta al público.\n• La actividad se llevará a cabo en el auditorio del Edificio D3 a las 5:00 p.m.\n• La charla será transmitida virtualmente a través de Zoom y la red social Facebook.\n• El evento forma parte de la serie de divulgación Jueves Astronómico de AstroTEC.\n• Manuel Mesén Alfaro, experto en Física y Astrofísica, será el invitado especial.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/rayos-cosmicos-regiones-formacion-estelar",
       "publish_date": "2026-06-02T22:29:23.000Z",
-      "teaser": "Lo clave en 20 segundos: charla sobre rayos cósmicos y formación estelar el 4 de junio.",
+      "teaser": "Lo clave en 20 segundos: Charla sobre rayos cósmicos y formación estelar en AstroTEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/astro-4jun.jpg",
       "description": "Rayos cósmicos y regiones de formación estelar",
       "featured": false
@@ -34035,5 +34061,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-06-03T22:45:20.148Z"
+  "generated_at": "2026-06-03T23:45:21.148Z"
 }
