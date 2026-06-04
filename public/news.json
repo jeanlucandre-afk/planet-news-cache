@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "cientificos-estudian-la-corteza-terrestre-y-plantean-que-la-peninsula-iberica-podria-girar-en-sentido-horario",
+      "title": "Científicos estudian la corteza terrestre y plantean que la península ibérica podría girar en sentido horario",
+      "category": "Ciencia",
+      "bullets_20s": "• Científicos analizan la corteza terrestre para entender fenómenos geológicos complejos y su impacto.\n• La península ibérica podría estar en riesgo de una lenta rotación, afectando su geografía.\n• Este estudio se centra en las tensiones tectónicas entre las placas de África y Eurasia.\n• Comprender estos movimientos puede ayudar en la prevención de desastres naturales.\n• Investigaciones similares en otras regiones también han mostrado patrones de rotación terrestre.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/tendencias/cientificos-estudian-la-corteza-terrestre-y/47AVEDZT3JCIDEF4SL3XRSX744/story/",
+      "publish_date": "2026-06-04T22:25:50.000Z",
+      "teaser": "Lo clave en 20 segundos: Estudio sobre la rotación de la península ibérica y sus implicaciones geológicas.",
+      "image_url": "https://www.nacion.com/resizer/v2/PN4G67OAOJFO7E2FDXK4PIMOBI.png?auth=dfd2e2657c2b2e699ed0d00f1994e36905365950e8576a757cb2427c8bac779f&smart=true&width=1586&height=992",
+      "description": "Un estudio científico reveló que la península ibérica podría experimentar una lenta rotación en sentido horario debido a tensiones tectónicas entre África y Eurasia.",
+      "featured": false
+    },
+    {
+      "slug": "es-una-historia-real-pelicula-la-chica-del-perdon-conmueve-a-miles-de-personas-en-netflix",
+      "title": "¿Es una historia real? Película La Chica del Perdón conmueve a miles de personas en Netflix",
+      "category": "Mundo",
+      "bullets_20s": "• La película ha generado una gran polémica sobre su veracidad y su capacidad para conmover.\n• Muchos espectadores están compartiendo sus reacciones emocionales tras ver la película.\n• La trama se centra en temas de perdón, redención y relaciones humanas profundas.\n• Los críticos destacan la calidad de la producción y las actuaciones del elenco.\n• La Chica del Perdón está disponible en la plataforma de streaming más popular a nivel global.",
+      "source_name": "Hillary Chinchilla Marín",
+      "source_url": "https://www.nacion.com/teleguia/series-peliculas/es-una-historia-real-pelicula-la-chica-del-perdon/QV4KSFUAXVA5PBCNU7G4MUC2IU/story/",
+      "publish_date": "2026-06-04T22:24:26.000Z",
+      "teaser": "Lo clave en 20 segundos: La película La Chica del Perdón está emocionando a muchos, ¿será real?",
+      "image_url": "https://www.nacion.com/resizer/v2/EELO2OE5VNBGFEJHNPYQWSEYUY.jpg?auth=f6658fe8b1274faf2d2e4524fa27aa6aa767e128c19ef47c246dba69fe540778&smart=true&width=992&height=558",
+      "description": "La Chica del Perdón es una de las películas más vistas de Netflix. Conozca si está basada en una historia real y por qué está emocionando a miles de personas.",
+      "featured": false
+    },
+    {
+      "slug": "el-presidente-considera-crear-el-paseo-trump-junto-al-monumento-a-lincoln",
+      "title": "El presidente considera crear el ‘paseo Trump’ junto al Monumento a Lincoln",
+      "category": "Mundo",
+      "bullets_20s": "• El presidente Trump propone un nuevo proyecto turístico en Washington D.C.\n• El Paseo Trump se ubicaría junto al icónico Monumento a Lincoln.\n• Se han generado diversas opiniones sobre la viabilidad del proyecto.\n• La presentación del gráfico ha causado revuelo entre los críticos.\n• El proyecto busca atraer turistas y reactivar la economía local.\n• Expertos cuestionan la importancia histórica del monumento en este contexto.\n• Comparaciones entre el proyecto y edificios icónicos generan debate.\n• La idea ha despertado interés y polémica en redes sociales.\n• Se espera que el proyecto sea discutido en próximas reuniones.\n• La propuesta refleja la ambición de Trump por innovar en turismo.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/el-presidente-considera-crear-el-paseo-trump-junto/Y4JOXN5F4BHDZN7BBY5JQQ7TPM/story/",
+      "publish_date": "2026-06-04T22:23:26.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump propone un proyecto turístico controversial en Washington D.C.",
+      "image_url": "https://www.nacion.com/resizer/v2/HKJ7C7KEVJFKVBFC2EVR75AITI.jpg?auth=39f1892b6a270b0b3982211972a96b1fccea2b025093fcf04a3e88238fb4b401&smart=true&width=1200&height=800",
+      "description": "Por segundo día, Trump mostró el gráfico “Nuestro estanque es más grande que los rascacielos”, en el que compara la escala de otro cuestionado proyecto suyo con tres edificios famosos.",
+      "featured": false
+    },
+    {
       "slug": "debe-lavar-el-pollo-antes-de-cocinarlo-microbiologas-revelan-la-forma-correcta-de-manipular-esta-proteina-en-el-hogar",
       "title": "¿Debe lavar el pollo antes de cocinarlo? Microbiólogas revelan la forma correcta de manipular esta proteína en el hogar",
       "category": "Ciencia",
@@ -29,12 +68,12 @@
     {
       "slug": "docinade-colloquium-ciencia-innovacion-y-sostenibilidad-para-el-desarrollo",
       "title": "DOCINADE Colloquium: Ciencia, Innovación y Sostenibilidad para el Desarrollo",
-      "category": "Ciencia",
-      "bullets_20s": "• El coloquio se enfoca en la investigación y sostenibilidad abordando desafíos contemporáneos.\n• Iniciativas conjuntas de TEC, UNA y UNED para fomentar el conocimiento científico.\n• Las sesiones se realizarán de manera virtual cada último viernes del mes.\n• Temas clave incluyen gestión ambiental y tecnologías aplicadas a la agricultura.\n• Se presentarán conferencias de expertos en diferentes campos de la ciencia.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El DOCINADE Colloquium aborda soluciones sostenibles para desafíos contemporáneos en la ciencia.\n• Este evento conecta estudiantes y profesionales en un espacio internacional de intercambio de conocimientos.\n• Los coloquios se realizan de manera virtual el último viernes de cada mes a las 9 a.m.\n• Temáticas incluyen gestión ambiental, recursos naturales, tecnologías electrónicas y producción agrícola.\n• Las inscripciones son gratuitas y se facilitan mediante formulario en línea.\n• Las conferencias están a cargo de especialistas en diversas áreas relacionadas con la sostenibilidad.\n• Cada sesión se enfoca en un tema específico, como la pesca sostenible y el uso de extractos vegetales.\n• La participación es abierta a estudiantes, docentes e investigadores de Costa Rica y el mundo.\n• Se promueve la construcción de soluciones innovadoras para los problemas globales actuales.\n• El evento busca fortalecer la cooperación entre universidades e instituciones de investigación.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/docinade-colloquium-ciencia-innovacion-sostenibilidad-desarrollo",
       "publish_date": "2026-06-04T20:45:22.000Z",
-      "teaser": "Lo clave en 20 segundos: un espacio internacional para intercambiar conocimientos sobre sostenibilidad.",
+      "teaser": "Lo clave en 20 segundos: el DOCINADE Colloquium promueve la sostenibilidad y el intercambio de conocimientos científicos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-05-29-at-8.14.05-am.jpeg",
       "description": "DOCINADE Colloquium: Ciencia, Innovación y Sostenibilidad para el Desarrollo",
       "featured": false
@@ -43,11 +82,11 @@
       "slug": "dia-internacional-de-la-biotecnologia-2026",
       "title": "Día Internacional de la Biotecnología 2026",
       "category": "Ciencia",
-      "bullets_20s": "• La Escuela de Biología del Tecnológico de Costa Rica organizará un evento especial.\n• El evento incluirá un foro para discutir la biotecnología en el país.\n• Visitas guiadas permitirán conocer los laboratorios y proyectos en biotecnología.\n• Se buscará visibilizar los obstáculos que enfrenta la ciencia en Costa Rica.\n• Actividades recreativas y presentaciones marcarán la jornada de biotecnología.",
+      "bullets_20s": "• La Escuela de Biología del Tecnológico de Costa Rica organiza el evento para conmemorar la biotecnología en el país.\n• Se realizará un foro titulado 'Del Laboratorio al Mercado' para discutir sobre biotecnología y producción.\n• Las actividades incluyen una visita guiada al Centro de Investigación en Biotecnología y un laboratorio de emprendimiento.\n• El evento busca visibilizar la paradoja entre ciencia de calidad y falta de industria en Costa Rica.\n• Las actividades estudiantiles presentarán proyectos de investigación e iniciativas de biotecnología desarrolladas por alumnos.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/dia-internacional-biotecnologia-2026",
       "publish_date": "2026-06-04T20:36:43.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración del Día Internacional de la Biotecnología con foros y actividades.",
+      "teaser": "Lo clave en 20 segundos: Celebración del Día de la Biotecnología con foros y visitas guiadas en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/infraestructura_sede-cartago_centros_centro-de-investigacion-en-biotecnologia_02.JPG",
       "description": "Día Internacional de la Biotecnología 2026",
       "featured": false
@@ -56,11 +95,11 @@
       "slug": "como-el-mundial-de-futbol-expone-la-tensa-relacion-que-mantienen-los-3-paises-vecinos-de-norteamerica",
       "title": "Cómo el Mundial de fútbol expone la tensa relación que mantienen los 3 países vecinos de Norteamérica",
       "category": "Mundo",
-      "bullets_20s": "• El Mundial de fútbol se celebra en una atmósfera de tensión entre EE.UU., Canadá y México.\n• Relaciones conflictivas han caracterizado a los tres países en los últimos años.\n• Queremos entender cómo el deporte une y divide a naciones vecinas en competencia.\n• La rivalidad en el fútbol refleja problemas más profundos entre los países involucrados.\n• El torneo atraerá la atención mundial y será un escenario de interacciones únicas.",
+      "bullets_20s": "• El Mundial de fútbol genera un ambiente único en las relaciones entre EE.UU., Canadá y México.\n• Históricamente, estas naciones han disfrutado y sufrido tensiones políticas y sociales.\n• El evento deportivo sirve como reflejo de la compleja dinámica de poder entre ellos.\n• Se espera que la competencia despierte debates sobre la cooperación regional e integración.\n• Las rivalidades futbolísticas pueden intensificar la percepción pública de tensiones políticas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c5yey0vv10lo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-04T20:33:26.000Z",
-      "teaser": "Lo clave en 20 segundos: el Mundial revela tensiones entre EE.UU., Canadá y México.",
+      "teaser": "Lo clave en 20 segundos: El Mundial refleja las tensiones entre EE.UU., Canadá y México.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9732/live/de722290-6053-11f1-9e88-654a746d9a45.jpg",
       "description": "El torneo tiene lugar tras un periodo de relaciones conflictivas entre EE.UU., Canadá y México.",
       "featured": false
@@ -261,6 +300,19 @@
       "featured": false
     },
     {
+      "slug": "el-sherpa-dado-por-muerto-en-el-everest-que-fue-encontrado-milagrosamente-cuando-descendia-por-el-hielo-a-rastras",
+      "title": "El sherpa dado por muerto en el Everest que fue encontrado \"milagrosamente\" cuando descendía por el hielo a rastras",
+      "category": "Mundo",
+      "bullets_20s": "• Un sherpa fue dado por desaparecido en el Everest, generando preocupación en la comunidad montañista.\n• Seis días después, un equipo de rescate realizando una búsqueda logró encontrarlo sorprendentemente.\n• El guía estaba arrastrándose por la nieve, lo que contribuyó a su hallazgo inesperado.\n• Los rescatistas intensificaron las operaciones de búsqueda tras la alerta de su desaparición.\n• Este incidente destaca los riesgos que enfrentan los montañistas en el Everest cada año.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c5y8yj7vj4lo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-06-04T16:36:03.000Z",
+      "teaser": "Lo clave en 20 segundos: Un sherpa desaparecido fue encontrado vivo seis días después en el Everest.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3055/live/708bc170-600b-11f1-8b8c-6d33e1d5abb6.jpg",
+      "description": "Un equipo encontró al guía arrastrándose hacia el Campamento Base seis días después de su desaparición.",
+      "featured": false
+    },
+    {
       "slug": "nueva-tienda-de-el-rey-generara-164-empleos-en-guadalupe-estos-son-los-requisitos",
       "title": "Nueva tienda de El Rey generará 164 empleos en Guadalupe: estos son los requisitos",
       "category": "Costa Rica",
@@ -433,11 +485,11 @@
       "slug": "que-supone-para-cuba-la-retirada-de-las-principales-multinacionales-hoteleras-que-operaban-en-el-pais",
       "title": "Qué supone para Cuba la retirada de las principales multinacionales hoteleras que operaban en el país",
       "category": "Mundo",
-      "bullets_20s": "• La salida de multinacionales hoteleras afectará seriamente el turismo en Cuba.\n• Las sanciones de EE.UU. han precipitado esta crisis en el sector turístico.\n• Cadenas como Meliá e Iberostar estaban entre las principales en la isla.\n• El turismo en Cuba enfrenta una de sus peores crisis en la historia reciente.\n• La economía cubana depende en gran medida del ingreso turístico extranjero.",
+      "bullets_20s": "• La retirada de multinacionales afecta gravemente la economía cubana y el sector turístico.\n• Cuba enfrenta uno de sus peores momentos en el ámbito turístico histórico.\n• Las sanciones de EE.UU. impulsan la salida de importantes cadenas hoteleras.\n• Cadenas internacionales estaban presentes en Cuba desde hace varios años.\n• Se prevé un impacto negativo en el empleo y la inversión en el país.\n• El turismo es fundamental para la economía cubana, su pérdida es preocupante.\n• El gobierno debe buscar alternativas para revitalizar el sector turístico.\n• La salida de estas cadenas podría abrir espacio a nuevas inversiones locales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c1423m4m482o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-04T12:33:46.000Z",
-      "teaser": "Lo clave en 20 segundos: La retirada de hoteles internacionales impacta el turismo cubano, ya en crisis.",
+      "teaser": "Lo clave en 20 segundos: La salida de multinacionales hoteleras afecta gravemente el turismo en Cuba.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e53a/live/e26c5150-5fa8-11f1-af92-19e0296632ef.jpg",
       "description": "Las sanciones de EE.UU. contra el conglomerado militar Gaesa precipitan la salida de cadenas como Meliá, Iberostar y Blue Diamond, en un momento en el que el turismo cubano atraviesa una de sus peores crisis.",
       "featured": false
@@ -1135,11 +1187,11 @@
       "slug": "presentacion-del-libro-dos-hombres-y-un-volcan",
       "title": "Presentación del libro “Dos hombres y un volcán”",
       "category": "Costa Rica",
-      "bullets_20s": "• Invitación a la presentación del libro que narra la historia del volcán Arenal.\n• Escrito por María Isabel Quesada Rojas y Luko Hilje Quirós.\n• El libro relata las travesías de dos primos y su grupo al volcán.\n• Se conmemoran 55 años del Tecnológico de Costa Rica en este evento.\n• La presentación será el 9 de junio en el Campus Tecnológico San Carlos.",
+      "bullets_20s": "• La obra narra las travesías de dos hombres en el volcán Arenal en 1937.\n• Escrita por María Isabel Quesada y Luko Hilje Quirós, rescata historias familiares.\n• El libro une relatos sobre la tradición oral y exploraciones en Arenal.\n• La presentación será el 9 de junio en el Salón Jacaranda del TEC.\n• Invitación abierta a la comunidad universitaria y al público en general.",
       "source_name": "kmora",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-dos-hombres-volcan",
       "publish_date": "2026-06-03T14:20:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Conoce la historia de un volcán en el libro 'Dos hombres y un volcán'.",
+      "teaser": "Lo clave en 20 segundos: Presentación del libro sobre la historia del volcán Arenal.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dos-hombres-y-un-volcan.jpg",
       "description": "Presentación del libro “Dos hombres y un volcán”",
       "featured": false
@@ -6602,19 +6654,6 @@
       "teaser": "Lo clave en 20 segundos: Desconectar electrodomésticos protege contra daños por tormentas eléctricas.",
       "image_url": "https://www.nacion.com/resizer/v2/DF66UTGDY5AQVJ2WPYCVOMLS6A.png?auth=3bd61afd8cbf6e7b4ca252ba56fedcddef1005065d49bceb1847508b260d8f23&smart=true&width=1672&height=941",
       "description": "Las tormentas eléctricas pueden provocar daños irreversibles en televisores, computadoras y otros electrodomésticos. Un experto explicó qué dispositivos conviene desconectar y cómo proteger el hogar.",
-      "featured": false
-    },
-    {
-      "slug": "cientificos-estudian-la-corteza-terrestre-y-plantean-que-la-peninsula-iberica-podria-girar-en-sentido-horario",
-      "title": "Científicos estudian la corteza terrestre y plantean que la península ibérica podría girar en sentido horario",
-      "category": "Ciencia",
-      "bullets_20s": "• Investigadores analizan movimientos tectónicos en la península ibérica con gran interés científico y geológico.\n• El estudio destaca posibles rotaciones que impactarían en la geografía de Europa y África en un futuro.\n• El fenómeno es resultado de tensiones acumuladas entre las placas tectónicas de Eurasia y África.\n• Científicos sugieren que este cambio podría tener efectos a largo plazo en el comportamiento sísmico.\n• La investigación proporciona nuevos datos para entender la dinámica de la corteza terrestre en esa región.",
-      "source_name": "Jailine González Gómez",
-      "source_url": "https://www.nacion.com/tendencias/cientificos-estudian-la-corteza-terrestre-y/47AVEDZT3JCIDEF4SL3XRSX744/story/",
-      "publish_date": "2026-05-27T23:13:51.000Z",
-      "teaser": "Lo clave en 20 segundos: estudios indican que la península ibérica podría girar en sentido horario por tensiones tectónicas.",
-      "image_url": "https://www.nacion.com/resizer/v2/PN4G67OAOJFO7E2FDXK4PIMOBI.png?auth=dfd2e2657c2b2e699ed0d00f1994e36905365950e8576a757cb2427c8bac779f&smart=true&width=1586&height=992",
-      "description": "Un estudio científico reveló que la península ibérica podría experimentar una lenta rotación en sentido horario debido a tensiones tectónicas entre África y Eurasia.",
       "featured": false
     },
     {
@@ -34698,5 +34737,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-06-04T21:45:19.705Z"
+  "generated_at": "2026-06-04T22:45:19.811Z"
 }
