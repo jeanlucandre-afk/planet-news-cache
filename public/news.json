@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "slug": "debe-lavar-el-pollo-antes-de-cocinarlo-microbiologas-revelan-la-forma-correcta-de-manipular-esta-proteina-en-el-hogar",
+      "title": "¿Debe lavar el pollo antes de cocinarlo? Microbiólogas revelan la forma correcta de manipular esta proteína en el hogar",
+      "category": "Ciencia",
+      "bullets_20s": "• El lavado del pollo crudo puede propagar bacterias en la cocina, aumentando el riesgo de infecciones.\n• Microbiólogas sugieren técnicas de cocción adecuadas para eliminar patógenos sin lavar el pollo.\n• El manejo higiénico de alimentos es crucial para prevenir enfermedades transmitidas por los alimentos.\n• Salmonela es una de las bacterias más comunes en el pollo crudo, pero se puede controlar mejor.\n• La temperatura adecuada de cocción destruye cualquier bacteria presente en el pollo crudo.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/ciencia/salud/debe-lavar-el-pollo-antes-de-cocinarlo/NTEKM2OMLRH2XDCEBYYQX4TMGA/story/",
+      "publish_date": "2026-06-04T21:20:32.000Z",
+      "teaser": "Lo clave en 20 segundos: lavar el pollo puede ser riesgoso; conozca la forma correcta de manipularlo.",
+      "image_url": "https://www.nacion.com/resizer/v2/KYPM4SZA7VGWFBALKVAZQ7DWEY.png?auth=96b4d9a1debee9e5b96a0510a7a4f8599ed1c4cac2f382934923c07787cc0bdd&smart=true&width=1920&height=1080",
+      "description": "Microbiólogas explican por qué no debe lavar el pollo crudo y cómo evitar bacterias como la salmonela mediante una correcta manipulación en la cocina.",
+      "featured": false
+    },
+    {
+      "slug": "hervir-cascara-de-limon-canela-y-jengibre-el-truco-casero-que-cada-vez-gana-mas-popularidad",
+      "title": "Hervir cáscara de limón, canela y jengibre: el truco casero que cada vez gana más popularidad",
+      "category": "Ciencia",
+      "bullets_20s": "• Cáscara de limón, canela y jengibre son ingredientes naturales muy populares entre las personas.\n• Estos ingredientes ofrecen propiedades aromáticas que ayudan a mejorar el ambiente del hogar.\n• Hervir esta mezcla es un truco simple y efectivo para reducir olores desagradables.\n• La tendencia por métodos caseros sigue creciendo en diversos medios y plataformas.\n• El uso de productos naturales se relaciona con un estilo de vida más saludable.",
+      "source_name": "El  Universal",
+      "source_url": "https://www.nacion.com/ciencia/salud/hervir-cascara-de-limon-canela-y-jengibre-el-truco/DIPMNTYEAJEBTA7EXZGXCJZSTY/story/",
+      "publish_date": "2026-06-04T21:07:20.000Z",
+      "teaser": "Lo clave en 20 segundos: mezcla de limón, canela y jengibre refresca el ambiente y combate olores.",
+      "image_url": "https://www.nacion.com/resizer/v2/L3EMWFUJO5CFTBCZAK5YW4T25Q.png?auth=876643139a2d87543b2881a078dba367677289aa33dc558420d1edc2b6eaed2b&smart=true&width=1529&height=1028",
+      "description": "Una combinación de cáscara de limón, canela y jengibre se convirtió en una alternativa casera para refrescar ambientes y combatir olores desagradables.",
+      "featured": false
+    },
+    {
+      "slug": "docinade-colloquium-ciencia-innovacion-y-sostenibilidad-para-el-desarrollo",
+      "title": "DOCINADE Colloquium: Ciencia, Innovación y Sostenibilidad para el Desarrollo",
+      "category": "Ciencia",
+      "bullets_20s": "• El coloquio se enfoca en la investigación y sostenibilidad abordando desafíos contemporáneos.\n• Iniciativas conjuntas de TEC, UNA y UNED para fomentar el conocimiento científico.\n• Las sesiones se realizarán de manera virtual cada último viernes del mes.\n• Temas clave incluyen gestión ambiental y tecnologías aplicadas a la agricultura.\n• Se presentarán conferencias de expertos en diferentes campos de la ciencia.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/docinade-colloquium-ciencia-innovacion-sostenibilidad-desarrollo",
+      "publish_date": "2026-06-04T20:45:22.000Z",
+      "teaser": "Lo clave en 20 segundos: un espacio internacional para intercambiar conocimientos sobre sostenibilidad.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-05-29-at-8.14.05-am.jpeg",
+      "description": "DOCINADE Colloquium: Ciencia, Innovación y Sostenibilidad para el Desarrollo",
+      "featured": false
+    },
+    {
+      "slug": "dia-internacional-de-la-biotecnologia-2026",
+      "title": "Día Internacional de la Biotecnología 2026",
+      "category": "Ciencia",
+      "bullets_20s": "• La Escuela de Biología del Tecnológico de Costa Rica organizará un evento especial.\n• El evento incluirá un foro para discutir la biotecnología en el país.\n• Visitas guiadas permitirán conocer los laboratorios y proyectos en biotecnología.\n• Se buscará visibilizar los obstáculos que enfrenta la ciencia en Costa Rica.\n• Actividades recreativas y presentaciones marcarán la jornada de biotecnología.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/dia-internacional-biotecnologia-2026",
+      "publish_date": "2026-06-04T20:36:43.000Z",
+      "teaser": "Lo clave en 20 segundos: Celebración del Día Internacional de la Biotecnología con foros y actividades.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/infraestructura_sede-cartago_centros_centro-de-investigacion-en-biotecnologia_02.JPG",
+      "description": "Día Internacional de la Biotecnología 2026",
+      "featured": false
+    },
+    {
+      "slug": "como-el-mundial-de-futbol-expone-la-tensa-relacion-que-mantienen-los-3-paises-vecinos-de-norteamerica",
+      "title": "Cómo el Mundial de fútbol expone la tensa relación que mantienen los 3 países vecinos de Norteamérica",
+      "category": "Mundo",
+      "bullets_20s": "• El Mundial de fútbol se celebra en una atmósfera de tensión entre EE.UU., Canadá y México.\n• Relaciones conflictivas han caracterizado a los tres países en los últimos años.\n• Queremos entender cómo el deporte une y divide a naciones vecinas en competencia.\n• La rivalidad en el fútbol refleja problemas más profundos entre los países involucrados.\n• El torneo atraerá la atención mundial y será un escenario de interacciones únicas.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c5yey0vv10lo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-06-04T20:33:26.000Z",
+      "teaser": "Lo clave en 20 segundos: el Mundial revela tensiones entre EE.UU., Canadá y México.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9732/live/de722290-6053-11f1-9e88-654a746d9a45.jpg",
+      "description": "El torneo tiene lugar tras un periodo de relaciones conflictivas entre EE.UU., Canadá y México.",
+      "featured": false
+    },
+    {
       "slug": "adulto-mayor-cae-a-rio-en-turrubares-cruz-roja-atiende-emergencia",
       "title": "Adulto mayor cae a río en Turrubares; Cruz Roja atiende emergencia",
       "category": "Costa Rica",
@@ -368,11 +433,11 @@
       "slug": "que-supone-para-cuba-la-retirada-de-las-principales-multinacionales-hoteleras-que-operaban-en-el-pais",
       "title": "Qué supone para Cuba la retirada de las principales multinacionales hoteleras que operaban en el país",
       "category": "Mundo",
-      "bullets_20s": "• La salida de cadenas hoteleras afectará notablemente la economía cubana en el sector turismo.\n• El turismo en Cuba ya estaba en crisis, agravada por eventos recientes y sanciones externas.\n• Las multinacionales hoteleras representaban una parte crucial del ingreso por divisas en el país.\n• Se anticipa un aumento en el desempleo debido al cierre de estas operaciones hoteleras.\n• Los turistas podrían optar por otros destinos en vez de visitar Cuba, ante este cambio.\n• El Gobierno cubano enfrentará serios retos para atraer nuevas inversiones en turismo.\n• La situación genera incertidumbre y preocupación en ciudadanos y trabajadores de la industria.\n• Se espera que las comunidades locales sientan el impacto de esta disminución de empleo.\n• El futuro del turismo cubano es incierto con la salida de grandes cadenas internacionales.",
+      "bullets_20s": "• La salida de multinacionales hoteleras afectará seriamente el turismo en Cuba.\n• Las sanciones de EE.UU. han precipitado esta crisis en el sector turístico.\n• Cadenas como Meliá e Iberostar estaban entre las principales en la isla.\n• El turismo en Cuba enfrenta una de sus peores crisis en la historia reciente.\n• La economía cubana depende en gran medida del ingreso turístico extranjero.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c1423m4m482o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-04T12:33:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Multinacionales hoteleras dejan Cuba, impactando gravemente el turismo y la economía local.",
+      "teaser": "Lo clave en 20 segundos: La retirada de hoteles internacionales impacta el turismo cubano, ya en crisis.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e53a/live/e26c5150-5fa8-11f1-af92-19e0296632ef.jpg",
       "description": "Las sanciones de EE.UU. contra el conglomerado militar Gaesa precipitan la salida de cadenas como Meliá, Iberostar y Blue Diamond, en un momento en el que el turismo cubano atraviesa una de sus peores crisis.",
       "featured": false
@@ -602,11 +667,11 @@
       "slug": "super-el-nino-los-graficos-que-muestran-por-que-puede-ser-el-fenomeno-mas-extremo-en-decadas-y-cuales-serian-sus-efectos",
       "title": "Super El Niño: los gráficos que muestran por qué puede ser el fenómeno más extremo en décadas (y cuáles serían sus efectos)",
       "category": "Mundo",
-      "bullets_20s": "• El fenómeno conocido como El Niño podría ser el más extremo en varias décadas.\n• Los gráficos científicos ilustran las posibles implicaciones climáticas en el mundo.\n• Se teme que el cambio climático agrave los efectos de El Niño en diversas regiones.\n• Este fenómeno meteorológico impacta la temperatura del océano y las condiciones climáticas.\n• Los expertos advierten sobre la necesidad de prepararse para posibles desastres naturales.",
+      "bullets_20s": "• El fenómeno de El Niño afecta significativamente los patrones climáticos globales cada ciertos años.\n• Científicos advierten sobre los efectos combinados de El Niño y el cambio climático en la Tierra.\n• Gráficos han mostrado una intensificación de El Niño en comparación con décadas anteriores.\n• Las alteraciones climáticas pueden provocar sequías y lluvias intensas en diversas regiones del planeta.\n• Los países deben prepararse ante los posibles impactos de este fenómeno en sus economías y ecosistemas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/resources/idt-54f4e985-a7fb-48b2-8246-f3be0d699402?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-04T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: El Niño podría provocar cambios climáticos extremos en las próximas décadas.",
+      "teaser": "Lo clave en 20 segundos: el Super El Niño podría generar cambios climáticos drásticos en todo el mundo.",
       "image_url": "https://ichef.bbc.co.uk/images/ic/raw/p0npj71c.png",
       "description": "Los científicos temen que los efectos combinados de El Niño y el cambio climático provocado por el ser humano puedan alterar el clima en todo el mundo.",
       "featured": false
@@ -1070,11 +1135,11 @@
       "slug": "presentacion-del-libro-dos-hombres-y-un-volcan",
       "title": "Presentación del libro “Dos hombres y un volcán”",
       "category": "Costa Rica",
-      "bullets_20s": "• El libro narra las travesías para verificar si el Arenal es un volcán o un cerro.\n• Escrito por María Isabel Quesada y Luko Hilje, cuenta con historias familiares.\n• Se conmemora el 55 aniversario del Tecnológico de Costa Rica con esta presentación.\n• El libro rescata la historia de dos personajes clave del ascenso al Arenal.\n• La presentación será el 9 de junio en el Salón Jacaranda de San Carlos.",
+      "bullets_20s": "• Invitación a la presentación del libro que narra la historia del volcán Arenal.\n• Escrito por María Isabel Quesada Rojas y Luko Hilje Quirós.\n• El libro relata las travesías de dos primos y su grupo al volcán.\n• Se conmemoran 55 años del Tecnológico de Costa Rica en este evento.\n• La presentación será el 9 de junio en el Campus Tecnológico San Carlos.",
       "source_name": "kmora",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-dos-hombres-volcan",
       "publish_date": "2026-06-03T14:20:53.000Z",
-      "teaser": "Lo clave en 20 segundos: La presentación del libro sobre el volcán Arenal es el 9 de junio.",
+      "teaser": "Lo clave en 20 segundos: Conoce la historia de un volcán en el libro 'Dos hombres y un volcán'.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dos-hombres-y-un-volcan.jpg",
       "description": "Presentación del libro “Dos hombres y un volcán”",
       "featured": false
@@ -34633,5 +34698,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-06-04T20:45:20.246Z"
+  "generated_at": "2026-06-04T21:45:19.705Z"
 }
