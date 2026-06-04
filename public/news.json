@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "que-significa-caminar-mirando-al-piso-segun-una-experta-en-comunicacion-e-imagen",
+      "title": "Qué significa caminar mirando al piso, según una experta en comunicación e imagen",
+      "category": "Ciencia",
+      "bullets_20s": "• Caminar mirando al piso podría indicar un estado emocional complejo en la persona.\n• La comunicación no verbal juega un papel vital en las interacciones sociales.\n• Este gesto puede transmitir inseguridad o falta de confianza en uno mismo.\n• Expertos sugieren que mirar al suelo puede dificultar la conexión con otros.\n• La introspección puede estar relacionada con la habitual mirada hacia el suelo.\n• Observar el comportamiento no verbal es clave para entender las emociones.\n• Este estudio resalta la importancia de la imagen y la comunicación personal.\n• Los gestos reflejan mucho de nuestra interioridad y cómo nos presentamos.\n• La interpretación de este gesto puede variar según el contexto cultural.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/ciencia/que-significa-caminar-mirando-al-piso-segun-una/4Q7I3LOQ6NFUZLNI3KIYP2GBQQ/story/",
+      "publish_date": "2026-06-04T15:26:54.000Z",
+      "teaser": "Lo clave en 20 segundos: caminar mirando al piso puede reflejar diversas emociones y estados de ánimo.",
+      "image_url": "https://www.nacion.com/resizer/v2/35BTGXTVJ5A5ZFFBXZZFJGKC2E.png?auth=41326c4ff955a112a3b039ba838cfd43b281c49d019756d0051dc4a3f61cb447&smart=true&width=1672&height=941",
+      "description": "Caminar mirando al piso puede revelar timidez, inseguridad, introspección o preocupación. Expertos explican qué comunica este gesto y cómo influye en la percepción de los demás.",
+      "featured": false
+    },
+    {
+      "slug": "arqueologos-descubren-una-ciudadela-inca-cuatro-veces-mayor-que-machu-picchu-con-miles-de-lentejuelas-de-oro",
+      "title": "Arqueólogos descubren una ciudadela inca cuatro veces mayor que Machu Picchu con miles de lentejuelas de oro",
+      "category": "Mundo",
+      "bullets_20s": "• El descubrimiento de T’aqrachullo revoluciona nuestra comprensión de la cultura incaica en Perú.\n• Este sitio arqueológico cuenta con una cantidad impresionante de estructuras y hallazgos.\n• Los investigadores creen que podría ser la ciudad sagrada de Ancocagua, un lugar histórico.\n• El hallazgo incluye miles de piezas de oro, plata y cobre, destacando la riqueza inca.\n• Este descubrimiento se suma a otros importantes que resaltan el legado de los incas.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/ciencia/arqueologos-descubren-una-ciudadela-inca-cuatro/RFTO7QPZ3FA2VNVZDJA6EFKDVQ/story/",
+      "publish_date": "2026-06-04T15:25:27.000Z",
+      "teaser": "Lo clave en 20 segundos: descubrimiento de una ciudadela inca transforma nuestra comprensión de la historia.",
+      "image_url": "https://www.nacion.com/resizer/v2/Y3WWNP7H2RCTRJSMCHHHISJZQY.png?auth=28641243f737a00bdeacc30b1d4fba73d58ab2f58e6192ba50f43ea70794a457&smart=true&width=1920&height=1080",
+      "description": "T’aqrachullo emerge como uno de los descubrimientos arqueológicos más importantes de Perú. El sitio contiene casi 600 estructuras, miles de piezas de oro, plata y cobre y podría corresponder a la ciudad sagrada de Ancocagua.",
+      "featured": false
+    },
+    {
+      "slug": "tras-anunciar-alto-el-fuego-israel-ataca-sur-de-libano-y-dice-que-se-reserva-la-libertad-de-bombardear-beirut",
+      "title": "Tras anunciar alto el fuego, Israel ataca sur de Líbano y dice que se reserva la ‘libertad’ de bombardear Beirut",
+      "category": "Mundo",
+      "bullets_20s": "• Israel ha reanudado sus ataques aéreos en el sur de Líbano tras un alto el fuego.\n• A pesar del cese al fuego, Israel se reserva el derecho de atacar Beirut.\n• El conflicto en Líbano ha generado un grave impacto humanitario en la región.\n• Más de un millón de personas han sido desplazadas desde el inicio del conflicto.\n• Los bombardeos israelíes han provocado miles de muertes en el territorio libanés.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/tras-anunciar-alto-el-fuego-israel-ataca-sur-de/K3PSF2LAGFCBTMEDZT4UX7CMSQ/story/",
+      "publish_date": "2026-06-04T15:19:37.000Z",
+      "teaser": "Lo clave en 20 segundos: Israel reanuda ataques en Líbano, desafiando un alto el fuego.",
+      "image_url": "https://www.nacion.com/resizer/v2/RJJTEIPAH5DSRLUGFCEX7IR5BM.jpg?auth=df41356e4ad8a2a83ecbce5dde1ab7cd383ad192fda4d47796699a35082974a8&smart=true&width=1200&height=801",
+      "description": "Los bombardeos israelíes han causado más de 3.500 muertos y han desplazado a más de un millón de personas en Líbano desde el 2 de marzo.",
+      "featured": false
+    },
+    {
       "slug": "que-conectar-primero-el-celular-o-el-cargador-para-evitar-danos-mecanicos-y-electricos",
       "title": "¿Qué conectar primero, el celular o el cargador para evitar daños mecánicos y eléctricos?",
       "category": "Tecnología",
@@ -82,11 +121,11 @@
       "slug": "que-supone-para-cuba-la-retirada-de-las-principales-multinacionales-hoteleras-que-operaban-en-el-pais",
       "title": "Qué supone para Cuba la retirada de las principales multinacionales hoteleras que operaban en el país",
       "category": "Mundo",
-      "bullets_20s": "• La salida de cadenas hoteleras afecta gravemente la economía cubana dependiente del turismo.\n• Multinacionales como Meliá e Iberostar ya han cerrado operaciones en Cuba.\n• Las sanciones de EE.UU. desencadenaron esta oleada de desinversiones en el sector.\n• El turismo en Cuba enfrenta una crisis sin precedentes por la pandemia y restricciones.\n• Los efectos de la retirada incluirán desempleo y pérdida de ingresos para la población.",
+      "bullets_20s": "• La retirada de cadenas hoteleras altera significativamente el panorama turístico en Cuba. Las pérdidas económicas son notables.\n• Las sanciones de EE.UU. impactan profundamente al sector turístico cubano, que ya estaba debilitado.\n• La salida de multinacionales dificulta la recuperación económica del país caribeño en tiempos de crisis.\n• Los turistas se enfrentan a menos opciones de alojamiento y servicios en la isla.\n• La dependencia de la industria hotelera en Cuba se ve amenazada por esta situación crítica.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c1423m4m482o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-04T12:33:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Las multinacionales hoteleras abandonan Cuba, dejando un impacto negativo en su economía.",
+      "teaser": "Lo clave en 20 segundos: La salida de hoteles internacionales complica el turismo en Cuba, en crisis.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e53a/live/e26c5150-5fa8-11f1-af92-19e0296632ef.jpg",
       "description": "Las sanciones de EE.UU. contra el conglomerado militar Gaesa precipitan la salida de cadenas como Meliá, Iberostar y Blue Diamond, en un momento en el que el turismo cubano atraviesa una de sus peores crisis.",
       "featured": false
@@ -173,11 +212,11 @@
       "slug": "por-que-el-origen-de-la-madre-de-kim-jong-un-podria-poner-en-peligro-la-legitimidad-del-regimen-de-corea-del-norte",
       "title": "Por qué el origen de la madre de Kim Jong-un podría poner en peligro la legitimidad del régimen de Corea del Norte",
       "category": "Mundo",
-      "bullets_20s": "• El régimen de Corea del Norte enfrenta desafíos a su legitimidad por el pasado familiar de su líder.\n• La poca información sobre su madre dificulta la percepción pública y genera incertidumbre.\n• Analistas sugieren que el origen de su madre podría influir en la estabilidad del régimen.\n• Las implicaciones históricas del linaje en Corea del Norte pueden afectar futuras decisiones políticas.\n• El control de la información en Corea del Norte juega un rol crucial en la percepción pública.\n• La legitimidad del régimen está ligada a narrativas familiares que son muy sensibles y polémicas.",
+      "bullets_20s": "• La madre de Kim Jong-un es un tema tabú dentro del régimen norcoreano.\n• Su origen podría cuestionar la legitimidad del actual líder norcoreano.\n• Las historias familiares son cruciales en la política de Corea del Norte.\n• El régimen controla la información sobre su liderazgo para mantenerse en el poder.\n• La falta de conocimiento sobre su madre es intencional y estratégica.\n• La dinastía norcoreana ha enfrentado crisis de legitimidad en el pasado.\n• El estudio de la familia de líderes puede abrir debates sobre sucesiones.\n• Corea del Norte vive en un clima de secretismo y desinformación.\n• El legado familiar es vital en regímenes autoritarios como el norcoreano.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2l28qd5vlzo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-04T03:14:36.000Z",
-      "teaser": "Lo clave en 20 segundos: El origen familiar de Kim Jong-un podría impactar su legitimidad en Norcorea.",
+      "teaser": "Lo clave en 20 segundos: El origen familiar de Kim Jong-un podría cuestionar la solidez de su régimen.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/5020/live/310dfe20-5037-11f1-89a3-d1f559421220.png",
       "description": "Muy pocos norcoreanos saben de su existencia, ya que su origen podría poner en peligro la legitimidad del régimen.",
       "featured": false
@@ -316,11 +355,11 @@
       "slug": "super-el-nino-los-graficos-que-muestran-por-que-puede-ser-el-fenomeno-mas-extremo-en-decadas-y-cuales-serian-sus-efectos",
       "title": "Super El Niño: los gráficos que muestran por qué puede ser el fenómeno más extremo en décadas (y cuáles serían sus efectos)",
       "category": "Mundo",
-      "bullets_20s": "• El fenómeno de El Niño altera patrones climáticos en diversas regiones del mundo.\n• Se prevén efectos disruptivos en la agricultura y la gestión del agua en varios países.\n• Los científicos destacan la otra dimensión del cambio climático asociado a estos fenómenos.\n• Los gráficos elaborados aportan claridad sobre las proyecciones futuras del clima.\n• El riesgo de eventos climáticos extremos se intensifica con el calentamiento global.\n• El impacto del fenómeno puede variar en intensidad y duración en cada región.\n• Las comunidades vulnerables son las más afectadas por tales cambios climáticos.",
+      "bullets_20s": "• El fenómeno de Super El Niño puede intensificar las sequías en diversas regiones del planeta.\n• Científicos advierten que esto podría aumentar la frecuencia de eventos climáticos extremos.\n• Este evento climático puede impactar la agricultura y la seguridad alimentaria globalmente.\n• El cambio climático contribuye a hacer estos fenómenos más intensos y prolongados.\n• Se espera que afecte patrones de lluvia en diferentes partes del mundo, modificando ecosistemas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/resources/idt-54f4e985-a7fb-48b2-8246-f3be0d699402?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-04T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: El Niño y el cambio climático traerán alteraciones climáticas severas.",
+      "teaser": "Lo clave en 20 segundos: Super El Niño podría ser el más severo en décadas por el cambio climático.",
       "image_url": "https://ichef.bbc.co.uk/images/ic/raw/p0npj71c.png",
       "description": "Los científicos temen que los efectos combinados de El Niño y el cambio climático provocado por el ser humano puedan alterar el clima en todo el mundo.",
       "featured": false
@@ -784,11 +823,11 @@
       "slug": "presentacion-del-libro-dos-hombres-y-un-volcan",
       "title": "Presentación del libro “Dos hombres y un volcán”",
       "category": "Costa Rica",
-      "bullets_20s": "• La presentación del libro se llevará a cabo el 9 de junio en el TEC.\n• La obra narra la aventura de escalar el volcán Arenal en 1937.\n• La autora María Isabel Quesada presenta la historia de su padre Beto.\n• El libro combina la tradición oral con la historia reciente en Costa Rica.\n• El evento está abierto a la comunidad universitaria y al público en general.",
+      "bullets_20s": "• El TEC celebra su 55 aniversario con la presentación de una obra literaria importante.\n• El libro narra las travesías de Alberto Quesada y su primo en el volcán Arenal.\n• María Isabel Quesada y Luko Hilje son los autores de esta interesante obra.\n• La presentación del libro será en el Campus Tecnológico Local San Carlos.\n• La obra busca rescatar la historia de quienes escalaron el Arenal en 1937.",
       "source_name": "kmora",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-dos-hombres-volcan",
       "publish_date": "2026-06-03T14:20:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Conoce la historia detrás del volcán Arenal y su exploración.",
+      "teaser": "Lo clave en 20 segundos: Presentación del libro sobre la escalada al volcán Arenal.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dos-hombres-y-un-volcan.jpg",
       "description": "Presentación del libro “Dos hombres y un volcán”",
       "featured": false
@@ -1252,11 +1291,11 @@
       "slug": "rayos-cosmicos-y-regiones-de-formacion-estelar",
       "title": "Rayos cósmicos y regiones de formación estelar",
       "category": "Ciencia",
-      "bullets_20s": "• El grupo AstroTEC organiza una charla sobre rayos cósmicos y formación estelar.\n• La charla se realizará el jueves 4 de junio a las 5:00 p.m.\n• Será transmitida por Zoom y Facebook, lo que permite participar virtualmente.\n• Se analizarán partículas de alta energía y su influencia en la formación estelar.\n• Manuel Mesén Alfaro, experto en astrofísica, será el invitado especial.",
+      "bullets_20s": "• El grupo AstroTEC ofrecerá una charla sobre rayos cósmicos el jueves 4 de junio.\n• Se abordará la relación entre partículas de alta energía y formación estelar.\n• El evento será a las 5:00 p. m. en el auditorio del Edificio D3.\n• La charla será transmitida por Zoom y Facebook de AstroTEC para público en línea.\n• Manuel Mesén Alfaro, experto en Física, será el invitado especial de la charla.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/rayos-cosmicos-regiones-formacion-estelar",
       "publish_date": "2026-06-02T22:29:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Charla sobre rayos cósmicos y astrofísica este 4 de junio.",
+      "teaser": "Lo clave en 20 segundos: charla sobre rayos cósmicos y su relación con la formación de estrellas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/astro-4jun.jpg",
       "description": "Rayos cósmicos y regiones de formación estelar",
       "featured": false
@@ -34360,5 +34399,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-06-04T14:45:20.311Z"
+  "generated_at": "2026-06-04T15:45:21.848Z"
 }
