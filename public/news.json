@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "que-conectar-primero-el-celular-o-el-cargador-para-evitar-danos-mecanicos-y-electricos",
+      "title": "¿Qué conectar primero, el celular o el cargador para evitar daños mecánicos y eléctricos?",
+      "category": "Tecnología",
+      "bullets_20s": "• El orden de conexión puede afectar la duración del dispositivo y su rendimiento a largo plazo.\n• Algunos expertos sugieren conectar primero el cargador para una mejor protección del celular.\n• Los riesgos eléctricos pueden ser minimizados al seguir recomendaciones de los fabricantes.\n• Es importante considerar las características específicas de cada modelo de celular y cargador.\n• La falta de atención al conectar dispositivos puede resultar en daños irreversibles.",
+      "source_name": "El  Universal",
+      "source_url": "https://www.nacion.com/tendencias/que-conectar-primero-el-celular-o-el-cargador-para/F4BQH753RVBLXP2Y26FZS5GPTM/story/",
+      "publish_date": "2026-06-04T14:15:45.000Z",
+      "teaser": "Lo clave en 20 segundos: Conectar primero el cargador puede prevenir daños en el celular.",
+      "image_url": "https://www.nacion.com/resizer/v2/7GKASDTYGNC4HPPDVK25ZYOKEU.png?auth=3c2e5615ff9ba539409d233f1b0e7a4b4d3119a141f6ae4c730af5066ef034e8&smart=true&width=1672&height=941",
+      "description": "El debate sobre qué se conecta primero, el cargador o el celular, tiene una respuesta respaldada por fabricantes. La recomendación busca reducir riesgos y proteger el equipo.",
+      "featured": false
+    },
+    {
+      "slug": "el-ajuste-del-iphone-que-puede-extender-la-bateria-durante-el-dia-asi-se-activa-en-pocos-pasos",
+      "title": "El ajuste del iPhone que puede extender la batería durante el día: así se activa en pocos pasos",
+      "category": "Tecnología",
+      "bullets_20s": "• El nuevo ajuste permite extender la duración de la batería en dispositivos iPhone de manera efectiva.\n• Con solo unos pasos se puede activar este ajuste en la configuración del dispositivo Apple.\n• La funcionalidad reduce el consumo de batería al gestionar automáticamente ciertas funciones.\n• Los usuarios pueden notar mejoras en la autonomía del iPhone durante el día.\n• La automatización en iOS es clave para optimizar el uso de la energía del dispositivo.",
+      "source_name": "El Tiempo  Colombia",
+      "source_url": "https://www.nacion.com/tecnologia/el-ajuste-del-iphone-que-puede-extender-la-bateria/NAIIPV6CYVDJDEHEL23AWDK7L4/story/",
+      "publish_date": "2026-06-04T14:07:54.000Z",
+      "teaser": "Lo clave en 20 segundos: descubre cómo extender la batería de tu iPhone fácilmente.",
+      "image_url": "https://www.nacion.com/resizer/v2/2CAJOOU4QFG5ZONGZ4YBR4HU3A.png?auth=b4947d5be9ce1e9c609586f4d63072af9f130c5cc2401b9d1e38aa46de26e9d0&smart=true&width=1536&height=1024",
+      "description": "Descubra el ajuste de iPhone que ayuda a reducir el consumo de batería. La automatización integrada en iOS permite gestionar funciones como el Wi-Fi y mejorar la autonomía del dispositivo.",
+      "featured": false
+    },
+    {
+      "slug": "la-psicologia-afirma-que-los-ninos-de-los-anos-60-y-70-no-se-volvieron-fuertes-por-una-mejor-crianza-sino-que-aprendiero",
+      "title": "La psicología afirma que los niños de los años 60 y 70 no se volvieron fuertes por una mejor crianza, sino que aprendieron a gestionar sus propias emociones",
+      "category": "Mundo",
+      "bullets_20s": "• Los niños de los 60 y 70 desarrollaron habilidades emocionales clave en su infancia.\n• La autonomía en la crianza les permitió enfrentar desafíos de manera efectiva.\n• La gestión de emociones fue fundamental para su fortaleza personal en la vida.\n• Este análisis resalta la importancia de educar niños resilientes y autónomos.\n• La resolución de problemas se convirtió en un pilar de su desarrollo emocional.",
+      "source_name": "El Tiempo  Colombia",
+      "source_url": "https://www.nacion.com/tendencias/la-psicologia-afirma-que-los-ninos-de-los-anos-60/RRIOILDX7RCY7DCDO3EWWJQUSU/story/",
+      "publish_date": "2026-06-04T14:06:57.000Z",
+      "teaser": "Lo clave en 20 segundos: La crianza en los 60 y 70 fomentó la fortaleza emocional en los niños.",
+      "image_url": "https://www.nacion.com/resizer/v2/LTT4CIKTWVB67LTGZG6D5LKRCA.png?auth=7737519e74cd9b1157b9fd1665bd231c2ceebe3fb9d6832e7bdd521adefe215a&smart=true&width=1536&height=1024",
+      "description": "La psicología vincula la crianza de los años 60 y 70 con una mayor fortaleza emocional. La autonomía y la resolución de problemas marcaron a esa generación.",
+      "featured": false
+    },
+    {
       "slug": "cortes-de-luz-en-escazu-afectaran-sectores-de-san-antonio-este-jueves",
       "title": "Cortes de luz en Escazú afectarán sectores de San Antonio este jueves",
       "category": "Costa Rica",
@@ -43,11 +82,11 @@
       "slug": "que-supone-para-cuba-la-retirada-de-las-principales-multinacionales-hoteleras-que-operaban-en-el-pais",
       "title": "Qué supone para Cuba la retirada de las principales multinacionales hoteleras que operaban en el país",
       "category": "Mundo",
-      "bullets_20s": "• Las multinacionales hoteleras han sido fundamentales para el desarrollo turístico de Cuba en años recientes.\n• La retirada de estas empresas afecta la economía local y el empleo en el sector turístico.\n• Cuba enfrenta una crisis económica severa, agravada por las restricciones externas y la pandemia.\n• Se espera que esta situación impacte en la llegada de turistas internacionales a la isla caribeña.\n• Los analistas indican que el turismo es clave para la recuperación económica de Cuba en el futuro.",
+      "bullets_20s": "• La salida de cadenas hoteleras afecta gravemente la economía cubana dependiente del turismo.\n• Multinacionales como Meliá e Iberostar ya han cerrado operaciones en Cuba.\n• Las sanciones de EE.UU. desencadenaron esta oleada de desinversiones en el sector.\n• El turismo en Cuba enfrenta una crisis sin precedentes por la pandemia y restricciones.\n• Los efectos de la retirada incluirán desempleo y pérdida de ingresos para la población.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c1423m4m482o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-04T12:33:46.000Z",
-      "teaser": "Lo clave en 20 segundos: La salida de cadenas hoteleras impacta gravemente el turismo cubano.",
+      "teaser": "Lo clave en 20 segundos: Las multinacionales hoteleras abandonan Cuba, dejando un impacto negativo en su economía.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e53a/live/e26c5150-5fa8-11f1-af92-19e0296632ef.jpg",
       "description": "Las sanciones de EE.UU. contra el conglomerado militar Gaesa precipitan la salida de cadenas como Meliá, Iberostar y Blue Diamond, en un momento en el que el turismo cubano atraviesa una de sus peores crisis.",
       "featured": false
@@ -745,11 +784,11 @@
       "slug": "presentacion-del-libro-dos-hombres-y-un-volcan",
       "title": "Presentación del libro “Dos hombres y un volcán”",
       "category": "Costa Rica",
-      "bullets_20s": "• El libro narra las travesías de dos primos en el volcán Arenal en 1937.\n• María Isabel Quesada y Luko Hilje son los autores de esta obra inédita.\n• La presentación se realizará el 9 de junio en el TEC, San Carlos.\n• El evento está abierto a la comunidad universitaria y al público.\n• La obra rescata la historia de personajes clave en la escalada del volcán.",
+      "bullets_20s": "• La presentación del libro se llevará a cabo el 9 de junio en el TEC.\n• La obra narra la aventura de escalar el volcán Arenal en 1937.\n• La autora María Isabel Quesada presenta la historia de su padre Beto.\n• El libro combina la tradición oral con la historia reciente en Costa Rica.\n• El evento está abierto a la comunidad universitaria y al público en general.",
       "source_name": "kmora",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-dos-hombres-volcan",
       "publish_date": "2026-06-03T14:20:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Presentación del libro sobre el volcán Arenal y sus exploradores.",
+      "teaser": "Lo clave en 20 segundos: Conoce la historia detrás del volcán Arenal y su exploración.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dos-hombres-y-un-volcan.jpg",
       "description": "Presentación del libro “Dos hombres y un volcán”",
       "featured": false
@@ -1213,11 +1252,11 @@
       "slug": "rayos-cosmicos-y-regiones-de-formacion-estelar",
       "title": "Rayos cósmicos y regiones de formación estelar",
       "category": "Ciencia",
-      "bullets_20s": "• AstroTEC presenta una charla sobre rayos cósmicos y formación estelar el 4 de junio.\n• La actividad será en el auditorio D3 y también se transmitirá por Zoom y Facebook.\n• Manuel Mesén Alfaro, experto en Física, será el invitado especial en la charla.\n• Se analizarán partículas de alta energía y su relación con la formación de estrellas.\n• La charla es gratuita y abierta al público general, sin necesidad de inscripción previa.",
+      "bullets_20s": "• El grupo AstroTEC organiza una charla sobre rayos cósmicos y formación estelar.\n• La charla se realizará el jueves 4 de junio a las 5:00 p.m.\n• Será transmitida por Zoom y Facebook, lo que permite participar virtualmente.\n• Se analizarán partículas de alta energía y su influencia en la formación estelar.\n• Manuel Mesén Alfaro, experto en astrofísica, será el invitado especial.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/rayos-cosmicos-regiones-formacion-estelar",
       "publish_date": "2026-06-02T22:29:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Charla sobre rayos cósmicos y formación estelar por AstroTEC este 4 de junio.",
+      "teaser": "Lo clave en 20 segundos: Charla sobre rayos cósmicos y astrofísica este 4 de junio.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/astro-4jun.jpg",
       "description": "Rayos cósmicos y regiones de formación estelar",
       "featured": false
@@ -1610,19 +1649,6 @@
       "teaser": "Lo clave en 20 segundos: marcas recomiendan orden para conectar cargadores y prolongar la vida del celular.",
       "image_url": "https://www.nacion.com/resizer/v2/KL4PQGUSJRCX5OYKBFRSZNP2L4.png?auth=e61885d6252dcc0399512261d0fb6f42e74b1be477cc1e9575ffe4f4adc94ff1&smart=true&width=1672&height=941",
       "description": "Huawei, Xiaomi, Apple y Samsung recomendaron un orden específico para conectar y desconectar el cargador del celular. La secuencia ayuda a evitar daños y prolongar la vida útil del dispositivo.",
-      "featured": false
-    },
-    {
-      "slug": "la-psicologia-afirma-que-los-ninos-de-los-anos-60-y-70-no-se-volvieron-fuertes-por-una-mejor-crianza-sino-que-aprendiero",
-      "title": "La psicología afirma que los niños de los años 60 y 70 no se volvieron fuertes por una mejor crianza, sino que aprendieron a gestionar sus propias emociones",
-      "category": "Ciencia",
-      "bullets_20s": "• Los niños de los años 60 y 70 desarrollaron habilidades emocionales clave para enfrentar desafíos.\n• La crianza en esos años fomentó la autonomía y la capacidad de resolver problemas.\n• Se destaca la importancia de permitir que los niños experimenten emociones diversas.\n• El desarrollo emocional es vital para la fortaleza y la resiliencia en la vida adulta.\n• La psicología contemporánea evalúa las lecciones aprendidas de generaciones pasadas.",
-      "source_name": "El Tiempo  Colombia",
-      "source_url": "https://www.nacion.com/tendencias/la-psicologia-afirma-que-los-ninos-de-los-anos-60/RRIOILDX7RCY7DCDO3EWWJQUSU/story/",
-      "publish_date": "2026-06-02T15:15:28.000Z",
-      "teaser": "Lo clave en 20 segundos: La crianza de los años 60 y 70 fomentó la fortaleza emocional en los niños.",
-      "image_url": "https://www.nacion.com/resizer/v2/LTT4CIKTWVB67LTGZG6D5LKRCA.png?auth=7737519e74cd9b1157b9fd1665bd231c2ceebe3fb9d6832e7bdd521adefe215a&smart=true&width=1536&height=1024",
-      "description": "La psicología vincula la crianza de los años 60 y 70 con una mayor fortaleza emocional. La autonomía y la resolución de problemas marcaron a esa generación.",
       "featured": false
     },
     {
@@ -34334,5 +34360,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-06-04T13:45:20.808Z"
+  "generated_at": "2026-06-04T14:45:20.311Z"
 }
