@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "nuevo-detenido-ligado-a-los-maruja-tenia-altar-a-la-santa-muerte-con-billetes-y-bebidas-alcoholicas",
+      "title": "Nuevo detenido ligado a ‘Los Maruja’ tenía altar a la Santa Muerte con billetes y bebidas alcohólicas",
+      "category": "Costa Rica",
+      "bullets_20s": "• Se ha intensificado la lucha contra el narcotráfico en la región de Orosi.\n• Los Maruja son conocidos por su implicación en actividades criminales relacionadas con las drogas.\n• El OIJ realiza allanamientos periódicos para desmantelar redes de narcotráfico.\n• El altar a la Santa Muerte refleja creencias entre algunos grupos criminales.\n• La detención se realizó un día después de una operación exitosa en Cartago.",
+      "source_name": "Vanessa Loaiza N., Christian Montero",
+      "source_url": "https://www.nacion.com/sucesos/narcotrafico/nuevo-detenido-ligado-a-los-maruja-tenia-altar-a/W5WIEI32GRCZLOC3SIUDUKZTFM/story/",
+      "publish_date": "2026-06-05T23:18:15.000Z",
+      "teaser": "Lo clave en 20 segundos: Nuevo detenido de Los Maruja y altar a la Santa Muerte hallado en Orosi.",
+      "image_url": "https://www.nacion.com/resizer/v2/KGK5ZVFTAVBLVCNKQZQVGWEONY.jpeg?auth=f2dd1b3f2fba56adac89483137fd0ea9f5f88a87f5e9d65aed6cf7740db905b8&smart=true&width=1200&height=1600",
+      "description": "Un nuevo sospechoso vinculado con la banda criminal Los Maruja fue detenido en Orosi durante un allanamiento antidrogas. El OIJ encontró aparente droga lista para distribución y un altar a la Santa Muerte, un día después de desmantelar una presunta cocina narco en Cartago.",
+      "featured": false
+    },
+    {
+      "slug": "petroleo-mas-caro-ya-se-siente-en-costa-rica-suben-precios-de-gasolina-diesel-y-tiquetes-aereos",
+      "title": "Petróleo más caro ya se siente en Costa Rica: suben precios de gasolina, diésel y tiquetes aéreos",
+      "category": "Costa Rica",
+      "bullets_20s": "• El incremento en los precios de combustibles afecta el costo de vida en Costa Rica.\n• Las aerolíneas han ajustado sus tarifas debido al aumento del diésel y gasolina.\n• El conflicto bélico en Oriente Medio impacta los mercados internacionales de crudo.\n• Los consumidores costarricenses ya sienten el impacto en precios de productos.\n• La inflación podría verse afectada debido al aumento en los precios de energéticos.",
+      "source_name": "Mónica Cerdas Gómez",
+      "source_url": "https://www.nacion.com/economia/petroleo-mas-caro-ya-se-siente-en-costa-rica-suben/2YPE4ENYTBF37IR6CLZRRHXVM4/story/",
+      "publish_date": "2026-06-05T23:13:38.000Z",
+      "teaser": "Lo clave en 20 segundos: Las tarifas de gasolina y diésel suben en Costa Rica debido a precios internacionales.",
+      "image_url": "https://www.nacion.com/resizer/v2/23G4GMAP6VFEJFWABBSUKHIB44.JPG?auth=7a80837fcbb743ab5976707d6a2748426ddc093506e8f497733790591d106a44&smart=true&width=3000&height=2000",
+      "description": "El Banco Central ya había indicado que el encarecimiento internacional del crudo derivado del conflicto bélico en Oriente Medio comenzaría a manifestarse a partir de mayo de 2026",
+      "featured": false
+    },
+    {
+      "slug": "la-fluctuacion-hormonal-altera-la-inmunidad-de-las-mujeres-pero-el-ejercicio-puede-marcar-la-diferencia",
+      "title": "La fluctuación hormonal altera la inmunidad de las mujeres, pero el ejercicio puede marcar la diferencia",
+      "category": "Ciencia",
+      "bullets_20s": "• El estudio destaca la relación entre hormonas y defensas inmunológicas en mujeres.\n• Diferentes etapas de la vida de una mujer afectan su inmunidad de diversas maneras.\n• El ejercicio regular puede mejorar la respuesta inmunológica en mujeres.\n• La investigación se centra en el ciclo menstrual y la menopausia como factores relevantes.\n• Los cambios hormonales pueden aumentar los niveles de inflamación en el organismo.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/salud/cambios-hormonales-afectan-las-defensas-de-las/Q3DX5IWY7VGRZG3UMPNPTHAT6Q/story/",
+      "publish_date": "2026-06-05T23:12:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La fluctuación hormonal en mujeres afecta la inmunidad, el ejercicio puede ayudar.",
+      "image_url": "https://www.nacion.com/resizer/v2/2XM6QI3OARC4XHQ7BZ6ZJTXQRI.png?auth=d519178227277600a9a24b5862d64e85075715e0a80662cdf33248151dff8718&smart=true&width=1672&height=941",
+      "description": "Las hormonas influyen directamente en la respuesta inmunológica de las mujeres. Un estudio analiza cómo el ciclo menstrual, la menopausia y el ejercicio físico modifican los niveles de inflamación.",
+      "featured": false
+    },
+    {
       "slug": "lluvias-intensas-y-riesgo-de-desarrollo-ciclonico-marcaran-el-tiempo-este-sabado-en-costa-rica",
       "title": "Lluvias intensas y riesgo de desarrollo ciclónico marcarán el tiempo este sábado en Costa Rica",
       "category": "Costa Rica",
@@ -43,11 +82,11 @@
       "slug": "backrooms-como-surgio-la-idea-de-la-perturbadora-pelicula-que-se-convirtio-en-uno-de-los-mayores-exitos-de-2026",
       "title": "Backrooms: cómo surgió la idea de la perturbadora película que se convirtió en uno de los mayores éxitos de 2026",
       "category": "Mundo",
-      "bullets_20s": "• La idea de Backrooms se origina en una serie de YouTube que ha cautivado a miles de seguidores.\n• Kane Parsons, el creador, logró transformar su concepto en una película que ha dado mucho de qué hablar.\n• La película ha sido reconocida por su atmósfera única que evoca sentimientos de inquietud y desasosiego.\n• Este fenómeno cultural refleja el interés actual por narrativas que exploran lo desconocido y lo extraño.\n• Las adaptaciones de contenido digital a la gran pantalla están en auge, mostrando nuestro nuevo consumo mediático.",
+      "bullets_20s": "• La serie de YouTube inspiró la película que atrajo la atención mundial en 2026.\n• Kane Parsons fue el creador original que generó el fenómeno de los Backrooms.\n• La película explora una narrativa de terror basada en espacios liminales intrigantes.\n• Su éxito se debe a la conexión emocional con el público y la atmósfera inquietante.\n• El público disfrutó de la adaptación visual de la serie en la pantalla grande.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c9q3qd1zy2eo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-05T21:34:45.000Z",
-      "teaser": "Lo clave en 20 segundos: la inquietante serie de YouTube se convierte en éxito cinematográfico en 2026.",
+      "teaser": "Lo clave en 20 segundos: Un fenómeno de YouTube se transforma en película de terror exitosa.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/a54e/live/ce042a60-59dd-11f1-b9b7-274764de012f.jpg",
       "description": "La inquietante serie de YouTube del creador Kane Parsons fue adaptada para la gran pantalla.",
       "featured": false
@@ -212,11 +251,11 @@
       "slug": "las-denuncias-por-la-falta-de-proteccion-a-las-mujeres-en-argentina-tras-el-brutal-asesinato-de-agostina-vega",
       "title": "Las denuncias por la falta de protección a las mujeres en Argentina tras el brutal asesinato de Agostina Vega",
       "category": "Mundo",
-      "bullets_20s": "• Las denuncias sobre la seguridad de las mujeres han aumentado en Argentina tras el asesinato.\n• El caso de Agostina Vega ha generado una ola de protestas a nivel nacional.\n• Las políticas del gobierno actual están siendo cuestionadas por su enfoque hacia el feminismo.\n• Activistas exigen más atención y recursos para combatir la violencia de género en el país.\n• El discurso oficial se enfrenta a un fuerte descontento social y feminista en Argentina.",
+      "bullets_20s": "• Las autoridades en Argentina enfrentan crecientes denuncias por la falta de protección femenina.\n• La violencia contra mujeres permanece en el centro del debate social y político actual.\n• La tragedia del asesinato de Agostina Vega ha despertado una ola de indignación ciudadana.\n• Activistas exigen un fortalecimiento de las leyes y recursos contra la violencia de género.\n• El discurso oficial ha sido criticado por muchos sectores feministas y derechos humanos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c0q2q9jypz3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-05T19:13:37.000Z",
-      "teaser": "Lo clave en 20 segundos: La seguridad de las mujeres en Argentina es un tema crítico tras un asesinato reciente.",
+      "teaser": "Lo clave en 20 segundos: La violencia hacia mujeres en Argentina genera protestas y críticas al gobierno.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ec0b/live/89e98ae0-6109-11f1-9134-bfd933b9750c.png",
       "description": "El gobierno de Javier Milei se defiende ante las críticas por la desfinanciación de programas e instituciones y por el discurso contra las políticas feministas.",
       "featured": false
@@ -290,11 +329,11 @@
       "slug": "random-una-decada-creando-espacios-para-vivir-la-universidad-mas-alla-de-las-aulas",
       "title": "Random: una década creando espacios para vivir la universidad más allá de las aulas",
       "category": "Costa Rica",
-      "bullets_20s": "• Random es una iniciativa que celebra diez años de vida en la Escuela de Computación.\n• El programa busca fomentar la convivencia y comunidad entre estudiantes y docentes.\n• Las actividades incluyen cine, literatura, música y tecnología, entre otros temas.\n• Random es un espacio de encuentros que trasciende el aula tradicional de clases.\n• Los estudiantes han compartido experiencias y conocimientos a lo largo de esta década.",
+      "bullets_20s": "• Random celebra diez años fomentando una comunidad estudiantil activa y enriquecedora en el TEC.\n• La iniciativa ha organizado actividades culturales y recreativas para estudiantes y colaboradores.\n• Los espacios de convivencia impulsan el intercambio de conocimientos y experiencias entre generaciones.\n• Random busca transformar la experiencia universitaria más allá de la rutina académica tradicional.\n• Actividades como Random Talks promueven el aprendizaje en un ambiente informal y amigable.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/random-decada-creando-espacios-vivir-universidad-mas-alla-aulas",
       "publish_date": "2026-06-05T17:25:30.000Z",
-      "teaser": "Lo clave en 20 segundos: Random cumple 10 años fomentando la comunidad universitaria en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Random celebra 10 años creando comunidad en el TEC más allá del aula.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/random-17.jpeg",
       "description": "Random: una década creando espacios para vivir la universidad más allá de las aulas",
       "featured": false
@@ -342,11 +381,11 @@
       "slug": "k-lab-costa-rica-ofrece-cursos",
       "title": "K-Lab Costa Rica ofrece cursos",
       "category": "Costa Rica",
-      "bullets_20s": "• K-Lab Costa Rica invita a la comunidad a participar en cursos prácticos y gratuitos.\n• Los cursos están diseñados para fortalecer competencias digitales entre los participantes.\n• El primero se centra en desarrollo web y creación de redes sociales personales.\n• También se ofrece un curso de introducción a la inteligencia artificial y programación.\n• Un tercer curso se enfoca en el emprendimiento digital, fomentando nuevas ideas.\n• Todos los cursos son gratuitos y están abiertos a la comunidad en general.\n• K-Lab Costa Rica es un proyecto colaborativo con Corea del Sur en capacitación.\n• Las inscripciones están disponibles en la página oficial del K-Lab Costa Rica.",
+      "bullets_20s": "• K-Lab Costa Rica invita a participar en cursos gratuitos para toda la comunidad.\n• Las temáticas de los cursos son digitales y tecnológicos, relevantes en la actualidad.\n• Los cursos incluyen desarrollo web, inteligencia artificial y emprendimiento digital.\n• Las fechas de los cursos son del 9 de junio al 10 de julio de 2026.\n• La inscripción está abierta para estudiantes, docentes y el público en general.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/k-lab-costa-rica-ofrece-cursos",
       "publish_date": "2026-06-05T17:12:14.000Z",
-      "teaser": "Lo clave en 20 segundos: K-Lab ofrece cursos gratuitos de tecnología y emprendimiento.",
+      "teaser": "Lo clave en 20 segundos: Cursos gratuitos en K-Lab Costa Rica para fortalecer competencias digitales.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/pexels-ryutaro-5745520.jpg",
       "description": "K-Lab Costa Rica ofrece cursos",
       "featured": false
@@ -381,11 +420,11 @@
       "slug": "investigacion-del-tec-revela-las-claves-detras-del-exito-del-cluster-de-dispositivos-medicos-en-costa-rica",
       "title": "Investigación del TEC revela las claves detrás del éxito del clúster de dispositivos médicos en Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC ha realizado un estudio sobre el clúster de dispositivos médicos en el país.\n• La colaboración entre empresas y actores clave es fundamental para el éxito del sector.\n• La investigación responde a la pregunta de por qué Costa Rica lidera en manufactura médica.\n• Resultados indican que la concentración de empresas potencia la innovación y competitividad.\n• Redes de colaboración permiten acelerar el aprendizaje y la adopción de nuevas tecnologías.",
+      "bullets_20s": "• El TEC investiga los factores que impulsan el éxito del clúster de dispositivos médicos en el país.\n• La colaboración entre empresas y universidades es clave para la competitividad del sector médico.\n• El estudio revela el impacto positivo del agrupamiento empresarial en la innovación y eficacia del sector.\n• Los resultados destacan la importancia de generar redes de colaboración sólidas entre los actores involucrados.\n• La investigación se presentó en un evento en el TEC que reunió a investigadores y profesionales del sector.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/investigacion-tec-revela-claves-detras-exito-cluster-dispositivos-medicos-costa-rica",
       "publish_date": "2026-06-05T16:37:15.000Z",
-      "teaser": "Lo clave en 20 segundos: La investigación del TEC identifica factores que impulsan el clúster médico en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El TEC analiza los secretos del éxito médico costarricense en innovación y competitividad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/evento-4.jpeg",
       "description": "Investigación del TEC revela las claves detrás del éxito del clúster de dispositivos médicos en Costa Rica",
       "featured": false
@@ -680,11 +719,11 @@
       "slug": "diabetes-tipo-5-la-nueva-y-desconocida-categoria-de-la-enfermedad-que-divide-a-cientificos-y-medicos",
       "title": "Diabetes tipo 5, la nueva y desconocida categoría de la enfermedad que divide a científicos y médicos",
       "category": "Ciencia",
-      "bullets_20s": "• La diabetes tipo 5 genera debate entre médicos y científicos sobre su clasificación actual.\n• Se asocia con periodos prolongados de desnutrición durante la infancia y adolescencia.\n• Expertos aún no llegan a un consenso sobre si esta categoría es válida.\n• La enfermedad podría tener implicaciones significativas en la salud pública.\n• Investigaciones continúan para entender el alcance de esta nueva clasificación.",
+      "bullets_20s": "• La diabetes tipo 5 ha generado debates intensos en la comunidad científica y médica actual.\n• Se cuestiona la existencia de esta categoría, ya que no hay consenso unánime entre los expertos.\n• El mal estado nutricional durante la infancia puede provocar esta nueva forma de diabetes.\n• Investigaciones están en curso para entender mejor esta enfermedad y sus implicaciones.\n• La diabetes tipo 5 se suma a las conocidas como tipo 1 y tipo 2, ampliando el panorama.\n• La categorización de enfermedades puede influir en tratamientos y políticas de salud pública.\n• Se requieren más estudios para establecer claramente las causas y efectos de esta diabetes.\n• Los cambios en la dieta moderna podrían estar relacionados con el surgimiento de esta diabetes.\n• Expertos sugieren que la prevención debe ser prioridad en la infancia para evitar complicaciones.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwy20r7r7g9o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-05T09:38:02.000Z",
-      "teaser": "Lo clave en 20 segundos: La diabetes tipo 5 genera divisiones en la comunidad científica.",
+      "teaser": "Lo clave en 20 segundos: La diabetes tipo 5 genera controversia entre científicos sobre su existencia.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b2d3/live/7e0bda20-5a9c-11f1-9626-f75d5d5577d2.png",
       "description": "Se cree que la diabetes tipo 5 se desencadena por períodos prolongados de mala nutrición, especialmente en la infancia y la adolescencia. Pero los expertos aún no se han puesto de acuerdo sobre si existe como categoría aparte.",
       "featured": false
@@ -914,11 +953,11 @@
       "slug": "docinade-colloquium-ciencia-innovacion-y-sostenibilidad-para-el-desarrollo",
       "title": "DOCINADE Colloquium: Ciencia, Innovación y Sostenibilidad para el Desarrollo",
       "category": "Ciencia",
-      "bullets_20s": "• El DOCINADE Colloquium es un espacio de intercambio científico internacional.\n• Se enfoca en investigación y soluciones sostenibles ante desafíos contemporáneos.\n• Las sesiones se realizan el último viernes de cada mes en modalidad virtual.\n• Los temas incluyen gestión ambiental y tecnologías aplicadas en agricultura.\n• La participación es gratuita, con inscripción previa requerida para los asistentes.",
+      "bullets_20s": "• El coloquio ofrece un espacio para el intercambio de conocimientos en sostenibilidad y ciencia.\n• Se realizan sesiones mensuales sobre temáticas relacionadas con la ciencia y la innovación.\n• Las conferencias están diseñadas para profesionales y estudiantes de distintas disciplinas.\n• Los temas abordan gestión ambiental, recursos naturales y tecnologías aplicadas.\n• Las inscripciones son gratuitas y disponibles a través de un formulario online.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/docinade-colloquium-ciencia-innovacion-sostenibilidad-desarrollo",
       "publish_date": "2026-06-04T20:45:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Presencia internacional y soluciones sostenibles en DOCINADE.",
+      "teaser": "Lo clave en 20 segundos: un coloquio para promover la ciencia y sostenibilidad en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-05-29-at-8.14.05-am.jpeg",
       "description": "DOCINADE Colloquium: Ciencia, Innovación y Sostenibilidad para el Desarrollo",
       "featured": false
@@ -35556,5 +35595,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-06-05T22:45:21.214Z"
+  "generated_at": "2026-06-05T23:45:20.963Z"
 }
