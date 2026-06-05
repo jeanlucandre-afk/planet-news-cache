@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "lluvias-intensas-y-riesgo-de-desarrollo-ciclonico-marcaran-el-tiempo-este-sabado-en-costa-rica",
+      "title": "Lluvias intensas y riesgo de desarrollo ciclónico marcarán el tiempo este sábado en Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un sistema de baja presión afectará el clima de Costa Rica este sábado, trayendo lluvias intensas.\n• Las regiones montañosas y costeras podrían recibir la mayor cantidad de precipitaciones este fin de semana.\n• Se esperan temperaturas frescas, con posibles descensos en varios puntos del país debido a las lluvias.\n• El IMN está monitoreando el fenómeno atmosférico por su potencial de desarrollo ciclónico en el Pacífico.\n• Se recomienda precaución a la población por posibles inundaciones y deslizamientos en zonas vulnerables.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/sucesos/lluvias-intensas-y-riesgo-de-desarrollo-ciclonico/NEKCSX6A7ZCYVHCNXZZSXON62Q/story/",
+      "publish_date": "2026-06-05T22:25:27.000Z",
+      "teaser": "Lo clave en 20 segundos: lluvias intensas y riesgo de ciclones afectan Costa Rica este sábado.",
+      "image_url": "https://www.nacion.com/resizer/v2/YXD7RT5G2NFILBATUTZYZNMXDE.jpg?auth=e6962ad595402f1af02cfd6021e9dc6b52ab94a93e09f2e0256bf852fe147ed4&smart=true&width=4000&height=2666",
+      "description": "Un sistema de baja presión mantendrá condiciones inestables este sábado en Costa Rica. Conozca cuáles regiones recibirán más lluvia, las temperaturas previstas y por qué el IMN vigila de cerca este fenómeno atmosférico.",
+      "featured": false
+    },
+    {
+      "slug": "chatgpt-recordara-mas-datos-sobre-usted-y-los-usara-en-futuras-conversaciones",
+      "title": "ChatGPT recordará más datos sobre usted y los usará en futuras conversaciones",
+      "category": "Tecnología",
+      "bullets_20s": "• La nueva función permitirá a los usuarios tener interacciones más personalizadas con ChatGPT.\n• OpenAI busca mejorar la experiencia de usuario con recordatorios de datos importantes.\n• La memoria favorecerá el contexto temporal en las conversaciones futuras entre el usuario y el modelo.\n• ChatGPT podrá ofrecer recomendaciones más ajustadas a las necesidades individuales de cada usuario.\n• La actualización es parte del compromiso de la empresa por innovar en inteligencia artificial.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/tecnologia/chatgpt-recordara-mas-datos-sobre-usted-y-los/GDT2S7U22NAIJC5HSS7MB76CTA/story/",
+      "publish_date": "2026-06-05T22:19:04.000Z",
+      "teaser": "Lo clave en 20 segundos: ChatGPT incorporará una memoria para personalizar conversaciones con los usuarios.",
+      "image_url": "https://www.nacion.com/resizer/v2/TUXUAM67IJDGXLLQX2P7WMGC3E.png?auth=43c1a55fffdfa7ee2b2064a64f1d3dca8726f862f147e1cbf11fbc10ba0fe275&smart=true&width=1672&height=941",
+      "description": "OpenAI presentó una nueva memoria para ChatGPT que permite recordar información entre conversaciones, comprender mejor el contexto temporal y ofrecer respuestas más personalizadas.",
+      "featured": false
+    },
+    {
+      "slug": "detectan-un-agujero-negro-dormido-del-universo-primitivo-y-su-tamano-sorprende-a-los-astronomos",
+      "title": "Detectan un agujero negro dormido del universo primitivo y su tamaño sorprende a los astrónomos",
+      "category": "Ciencia",
+      "bullets_20s": "• Un agujero negro supermasivo fue hallado en una galaxia de hace 13.000 millones de años.\n• El telescopio James Webb realizó la medición de la masa de este agujero negro.\n• Este descubrimiento es clave para entender la evolución del universo primitivo.\n• Los astrónomos están sorprendidos por el tamaño del agujero negro encontrado.\n• El hallazgo plantea nuevas preguntas sobre la formación de agujeros negros en el tiempo.\n• Se estima que esta galaxia era muy distinta a las que observamos hoy en día.\n• Los agujeros negros pueden influir en el crecimiento de las galaxias a su alrededor.\n• El estudio ayuda a comprender la estructura del universo en sus primeras etapas.\n• Este tipo de descubrimientos pueden cambiar nuestra visión sobre el cosmos.\n• La investigación se centra en cómo se formaron estos gigantes en el universo primitivo.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/ciencia/detectan-un-agujero-negro-dormido-del-universo/3MGIKEFE5JFOTPAZNGE2WB33MA/story/",
+      "publish_date": "2026-06-05T22:11:47.000Z",
+      "teaser": "Lo clave en 20 segundos: hallan un agujero negro supermasivo en una galaxia antigua.",
+      "image_url": "https://www.nacion.com/resizer/v2/7V5GO5ZT5FGU7E4O7NEFBO747E.jpg?auth=9e6d0aada4311e7f82ea43e3896cd7dd7336ae6f9f1d22cba7dcffe68a69c0fb&smart=true&width=3840&height=2160",
+      "description": "Astrónomos detectaron un agujero negro supermasivo dormido en una galaxia formada hace unos 13.000 millones de años. El telescopio James Webb permitió medir su masa y revelar un objeto oculto del universo primitivo.",
+      "featured": false
+    },
+    {
+      "slug": "backrooms-como-surgio-la-idea-de-la-perturbadora-pelicula-que-se-convirtio-en-uno-de-los-mayores-exitos-de-2026",
+      "title": "Backrooms: cómo surgió la idea de la perturbadora película que se convirtió en uno de los mayores éxitos de 2026",
+      "category": "Mundo",
+      "bullets_20s": "• La idea de Backrooms se origina en una serie de YouTube que ha cautivado a miles de seguidores.\n• Kane Parsons, el creador, logró transformar su concepto en una película que ha dado mucho de qué hablar.\n• La película ha sido reconocida por su atmósfera única que evoca sentimientos de inquietud y desasosiego.\n• Este fenómeno cultural refleja el interés actual por narrativas que exploran lo desconocido y lo extraño.\n• Las adaptaciones de contenido digital a la gran pantalla están en auge, mostrando nuestro nuevo consumo mediático.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c9q3qd1zy2eo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-06-05T21:34:45.000Z",
+      "teaser": "Lo clave en 20 segundos: la inquietante serie de YouTube se convierte en éxito cinematográfico en 2026.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/a54e/live/ce042a60-59dd-11f1-b9b7-274764de012f.jpg",
+      "description": "La inquietante serie de YouTube del creador Kane Parsons fue adaptada para la gran pantalla.",
+      "featured": false
+    },
+    {
       "slug": "mas-de-100000-cucarachas-gigantes-valoradas-en-mas-de-140000-australia-desmantela-una-crianza-ilegal-de-especies-exotica",
       "title": "Más de 100.000 cucarachas gigantes valoradas en más de $140.000: Australia desmantela una crianza ilegal de especies exóticas",
       "category": "Mundo",
@@ -160,11 +212,11 @@
       "slug": "las-denuncias-por-la-falta-de-proteccion-a-las-mujeres-en-argentina-tras-el-brutal-asesinato-de-agostina-vega",
       "title": "Las denuncias por la falta de protección a las mujeres en Argentina tras el brutal asesinato de Agostina Vega",
       "category": "Mundo",
-      "bullets_20s": "• El asesinato de Agostina Vega ha provocado una oleada de protestas en Argentina y América Latina.\n• Las denuncias subrayan la creciente preocupación por la seguridad de las mujeres en la región.\n• El gobierno actual enfrenta críticas por recortes en programas de protección a mujeres víctimas de violencia.\n• Organizaciones feministas piden una respuesta inmediata y más recursos para la protección de mujeres.\n• La violencia de género sigue siendo un problema significativo en muchas comunidades de América Latina.",
+      "bullets_20s": "• Las denuncias sobre la seguridad de las mujeres han aumentado en Argentina tras el asesinato.\n• El caso de Agostina Vega ha generado una ola de protestas a nivel nacional.\n• Las políticas del gobierno actual están siendo cuestionadas por su enfoque hacia el feminismo.\n• Activistas exigen más atención y recursos para combatir la violencia de género en el país.\n• El discurso oficial se enfrenta a un fuerte descontento social y feminista en Argentina.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c0q2q9jypz3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-05T19:13:37.000Z",
-      "teaser": "Lo clave en 20 segundos: la crisis de protección a mujeres en Argentina tras un caso brutal.",
+      "teaser": "Lo clave en 20 segundos: La seguridad de las mujeres en Argentina es un tema crítico tras un asesinato reciente.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ec0b/live/89e98ae0-6109-11f1-9134-bfd933b9750c.png",
       "description": "El gobierno de Javier Milei se defiende ante las críticas por la desfinanciación de programas e instituciones y por el discurso contra las políticas feministas.",
       "featured": false
@@ -238,11 +290,11 @@
       "slug": "random-una-decada-creando-espacios-para-vivir-la-universidad-mas-alla-de-las-aulas",
       "title": "Random: una década creando espacios para vivir la universidad más allá de las aulas",
       "category": "Costa Rica",
-      "bullets_20s": "• Random ha enriquecido la vida estudiantil del TEC en San José durante más de diez años.\n• El programa ofrece actividades culturales, recreativas y espacios de convivencia para estudiantes.\n• Se han abordado temas como cine, tecnología, música y cultura pop a lo largo de la iniciativa.\n• Estudiantes, docentes y egresados han compartido conocimientos y experiencias gracias al programa.\n• Conciertos y Random Talks han sido parte de las actividades que promueven la comunidad universitaria.",
+      "bullets_20s": "• Random es una iniciativa que celebra diez años de vida en la Escuela de Computación.\n• El programa busca fomentar la convivencia y comunidad entre estudiantes y docentes.\n• Las actividades incluyen cine, literatura, música y tecnología, entre otros temas.\n• Random es un espacio de encuentros que trasciende el aula tradicional de clases.\n• Los estudiantes han compartido experiencias y conocimientos a lo largo de esta década.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/random-decada-creando-espacios-vivir-universidad-mas-alla-aulas",
       "publish_date": "2026-06-05T17:25:30.000Z",
-      "teaser": "Lo clave en 20 segundos: Random cumple diez años fomentando la convivencia estudiantil en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Random cumple 10 años fomentando la comunidad universitaria en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/random-17.jpeg",
       "description": "Random: una década creando espacios para vivir la universidad más allá de las aulas",
       "featured": false
@@ -290,11 +342,11 @@
       "slug": "k-lab-costa-rica-ofrece-cursos",
       "title": "K-Lab Costa Rica ofrece cursos",
       "category": "Costa Rica",
-      "bullets_20s": "• K-Lab Costa Rica invita a la comunidad a participar en cursos de tecnología y habilidades digitales.\n• Los cursos son gratuitos y están orientados a fortalecer competencias tecnológicas en participantes.\n• Se ofrecerán cursos en desarrollo web, introducción a la IA y emprendimiento digital.\n• Las inscripciones están abiertas para el público general y miembros de la comunidad institucional.\n• Cada curso cuenta con fechas específicas, comenzando desde junio hasta julio de 2026.",
+      "bullets_20s": "• K-Lab Costa Rica invita a la comunidad a participar en cursos prácticos y gratuitos.\n• Los cursos están diseñados para fortalecer competencias digitales entre los participantes.\n• El primero se centra en desarrollo web y creación de redes sociales personales.\n• También se ofrece un curso de introducción a la inteligencia artificial y programación.\n• Un tercer curso se enfoca en el emprendimiento digital, fomentando nuevas ideas.\n• Todos los cursos son gratuitos y están abiertos a la comunidad en general.\n• K-Lab Costa Rica es un proyecto colaborativo con Corea del Sur en capacitación.\n• Las inscripciones están disponibles en la página oficial del K-Lab Costa Rica.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/k-lab-costa-rica-ofrece-cursos",
       "publish_date": "2026-06-05T17:12:14.000Z",
-      "teaser": "Lo clave en 20 segundos: K-Lab Costa Rica lanza cursos gratuitos sobre tecnología y emprendimiento.",
+      "teaser": "Lo clave en 20 segundos: K-Lab ofrece cursos gratuitos de tecnología y emprendimiento.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/pexels-ryutaro-5745520.jpg",
       "description": "K-Lab Costa Rica ofrece cursos",
       "featured": false
@@ -329,11 +381,11 @@
       "slug": "investigacion-del-tec-revela-las-claves-detras-del-exito-del-cluster-de-dispositivos-medicos-en-costa-rica",
       "title": "Investigación del TEC revela las claves detrás del éxito del clúster de dispositivos médicos en Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC investiga cómo la colaboración ha fomentado el éxito del sector de dispositivos médicos.\n• Estudio muestra que la articulación entre empresas y talento especializado es fundamental.\n• La presentación se llevó a cabo en el Auditorio del TEC, con gran participación.\n• Investigadores analizan el crecimiento del clúster médico como ecosistema productivo.\n• Los hallazgos subrayan la importancia de redes de colaboración para la innovación.",
+      "bullets_20s": "• El TEC ha realizado un estudio sobre el clúster de dispositivos médicos en el país.\n• La colaboración entre empresas y actores clave es fundamental para el éxito del sector.\n• La investigación responde a la pregunta de por qué Costa Rica lidera en manufactura médica.\n• Resultados indican que la concentración de empresas potencia la innovación y competitividad.\n• Redes de colaboración permiten acelerar el aprendizaje y la adopción de nuevas tecnologías.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/investigacion-tec-revela-claves-detras-exito-cluster-dispositivos-medicos-costa-rica",
       "publish_date": "2026-06-05T16:37:15.000Z",
-      "teaser": "Lo clave en 20 segundos: La colaboración impulsa el éxito del clúster médico en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La investigación del TEC identifica factores que impulsan el clúster médico en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/evento-4.jpeg",
       "description": "Investigación del TEC revela las claves detrás del éxito del clúster de dispositivos médicos en Costa Rica",
       "featured": false
@@ -628,11 +680,11 @@
       "slug": "diabetes-tipo-5-la-nueva-y-desconocida-categoria-de-la-enfermedad-que-divide-a-cientificos-y-medicos",
       "title": "Diabetes tipo 5, la nueva y desconocida categoría de la enfermedad que divide a científicos y médicos",
       "category": "Ciencia",
-      "bullets_20s": "• La diabetes tipo 5 plantea un nuevo desafío para los médicos y especialistas en salud pública.\n• Su origen podría estar relacionado con hábitos alimenticios inadecuados durante la infancia.\n• Los expertos científicos debaten si esta categoría debe ser reconocida oficialmente.\n• Investigaciones sugieren que la genética también podría tener un papel relevante en este tipo.\n• Entender su impacto puede ayudar en el desarrollo de tratamientos más efectivos.\n• La falta de consenso puede dificultar la investigación y el tratamiento de esta diabetes.\n• Se espera que el debate continúe mientras más estudios se realicen al respecto.\n• La diabetes tipo 5 podría cambiar la forma en que comprendemos la enfermedad en general.",
+      "bullets_20s": "• La diabetes tipo 5 genera debate entre médicos y científicos sobre su clasificación actual.\n• Se asocia con periodos prolongados de desnutrición durante la infancia y adolescencia.\n• Expertos aún no llegan a un consenso sobre si esta categoría es válida.\n• La enfermedad podría tener implicaciones significativas en la salud pública.\n• Investigaciones continúan para entender el alcance de esta nueva clasificación.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwy20r7r7g9o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-05T09:38:02.000Z",
-      "teaser": "Lo clave en 20 segundos: Expertos discuten la nueva diabetes tipo 5 y su origen en la mala nutrición.",
+      "teaser": "Lo clave en 20 segundos: La diabetes tipo 5 genera divisiones en la comunidad científica.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b2d3/live/7e0bda20-5a9c-11f1-9626-f75d5d5577d2.png",
       "description": "Se cree que la diabetes tipo 5 se desencadena por períodos prolongados de mala nutrición, especialmente en la infancia y la adolescencia. Pero los expertos aún no se han puesto de acuerdo sobre si existe como categoría aparte.",
       "featured": false
@@ -861,12 +913,12 @@
     {
       "slug": "docinade-colloquium-ciencia-innovacion-y-sostenibilidad-para-el-desarrollo",
       "title": "DOCINADE Colloquium: Ciencia, Innovación y Sostenibilidad para el Desarrollo",
-      "category": "Costa Rica",
-      "bullets_20s": "• El DOCINADE Colloquium invita a estudiantes y profesionales en ciencia y sostenibilidad.\n• Se realizarán coloquios mensuales sobre gestión ambiental y recursos naturales.\n• Conferenciantes provienen de diversas universidades y especialidades en innovación.\n• Las sesiones serán virtuales y gratuitas, accesibles vía inscripción previa.\n• Cada coloquio abordará soluciones para desafíos contemporáneos en sostenibilidad.",
+      "category": "Ciencia",
+      "bullets_20s": "• El DOCINADE Colloquium es un espacio de intercambio científico internacional.\n• Se enfoca en investigación y soluciones sostenibles ante desafíos contemporáneos.\n• Las sesiones se realizan el último viernes de cada mes en modalidad virtual.\n• Los temas incluyen gestión ambiental y tecnologías aplicadas en agricultura.\n• La participación es gratuita, con inscripción previa requerida para los asistentes.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/docinade-colloquium-ciencia-innovacion-sostenibilidad-desarrollo",
       "publish_date": "2026-06-04T20:45:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Coloquios mensuales sobre ciencia y sostenibilidad en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Presencia internacional y soluciones sostenibles en DOCINADE.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-05-29-at-8.14.05-am.jpeg",
       "description": "DOCINADE Colloquium: Ciencia, Innovación y Sostenibilidad para el Desarrollo",
       "featured": false
@@ -35504,5 +35556,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-06-05T21:45:20.564Z"
+  "generated_at": "2026-06-05T22:45:21.214Z"
 }
