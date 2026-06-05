@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "diabetes-tipo-5-la-nueva-y-desconocida-categoria-de-la-enfermedad-que-divide-a-cientificos-y-medicos",
+      "title": "Diabetes tipo 5, la nueva y desconocida categoría de la enfermedad que divide a científicos y médicos",
+      "category": "Ciencia",
+      "bullets_20s": "• La diabetes tipo 5 plantea preguntas sobre la clasificación y el diagnóstico de las enfermedades metabólicas.\n• Expertos discuten la posibilidad de categorizar la diabetes de manera más amplia y precisa.\n• Los factores como la nutrición en la infancia son cruciales para entender esta nueva categoría.\n• Investigaciones están en curso para determinar la validez del diagnóstico de diabetes tipo 5.\n• La falta de consenso entre médicos genera confusión en el tratamiento y manejo de esta enfermedad.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cwy20r7r7g9o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-06-05T09:38:02.000Z",
+      "teaser": "Lo clave en 20 segundos: La diabetes tipo 5 genera debate entre científicos y médicos sobre su clasificación.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b2d3/live/7e0bda20-5a9c-11f1-9626-f75d5d5577d2.png",
+      "description": "Se cree que la diabetes tipo 5 se desencadena por períodos prolongados de mala nutrición, especialmente en la infancia y la adolescencia. Pero los expertos aún no se han puesto de acuerdo sobre si existe como categoría aparte.",
+      "featured": false
+    },
+    {
       "slug": "carrera-en-parque-viva-conmemorara-y-reunira-fondos-para-la-nueva-delegacion-policial-en-la-guacima",
       "title": "Carrera en Parque Viva conmemorará y reunirá fondos para la nueva delegación policial en La Guácima",
       "category": "Costa Rica",
-      "bullets_20s": "• La carrera busca conmemorar el esfuerzo de la comunidad por la seguridad local.\n• Fondos recaudados se destinarán a la nueva delegación de policía en la zona.\n• Parque Viva será el escenario para este evento significativo en La Guácima.\n• Los participantes podrán disfrutar de un ambiente sano y familiar durante la carrera.\n• Se espera una gran participación de la comunidad y allegados al evento.",
+      "bullets_20s": "• La carrera se organizará para recaudar fondos destinados a la nueva delegación policial.\n• Se espera una amplia participación de la comunidad en el evento deportivo y benéfico.\n• La Asociación de Desarrollo Rincón Chiquito ha liderado este esfuerzo comunitario.\n• El evento servirá para conmemorar los logros de la comunidad en La Guácima.\n• Parque Viva será el escenario principal para llevar a cabo esta importante actividad.",
       "source_name": "Juan Diego Villarreal",
       "source_url": "https://www.nacion.com/puro-deporte/carrera-en-parque-viva-conmemorara-y-reunira/V64XIM2MSVEDBJOMDYBGPSNCAE/story/",
       "publish_date": "2026-06-05T03:10:51.000Z",
-      "teaser": "Lo clave en 20 segundos: La comunidad se une en carrera por la seguridad en La Guácima.",
+      "teaser": "Lo clave en 20 segundos: Carrera benéfica en Parque Viva para apoyo a nueva delegación policial en La Guácima.",
       "image_url": "https://www.nacion.com/resizer/v2/NUTXPCT7EBA37ANHJCB2JKP2NQ.jpg?auth=66064cdc8759e441e11dcfecee15907c84a7f0486ccfbf7a925276c05d0d1975&smart=true&width=874&height=674",
       "description": "La Asociación de Desarrollo Rincón Chiquito, Parque Viva y la comunidad hicieron posible una nueva delegación de la Fuerza Pública en La Guácima.",
       "featured": false
@@ -17,11 +30,11 @@
       "slug": "como-putin-se-obsesiono-con-controlar-hasta-el-ultimo-detalle-de-su-imagen-publica",
       "title": "Cómo Putin se obsesionó con controlar hasta el último detalle de su imagen pública",
       "category": "Mundo",
-      "bullets_20s": "• Vladimir Putin ha mantenido un control férreo sobre su imagen desde sus inicios en la KGB.\n• La transformación de su imagen pública ha sido una estrategia clave para mantenerse en el poder.\n• Las narrativas utilizadas por Putin han sido meticulosamente orquestadas a lo largo de los años.\n• Putin utiliza medios de comunicación estatales para difundir su mensaje e imagen deseada.\n• La obsesión de Putin por los detalles se extiende a su cuidada presentación y discursos.\n• Su habilidad para reinventarse ha sorprendido a observadores políticos alrededor del mundo.\n• Putin ha sabido capitalizar eventos mundiales para reforzar su imagen de líder fuerte.\n• El impacto de su imagen en la política interna y externa de Rusia es innegable.",
+      "bullets_20s": "• La imagen pública de Putin ha sido cuidadosamente gestionada a lo largo de su carrera política.\n• Se han utilizado diversos medios y estrategias para controlar su percepción en el mundo.\n• Putin ha pasado de ser un agente secreto a un líder visible y carismático.\n• Las crisis políticas han provocado cambios significativos en su imagen pública.\n• Su enfoque en la imagen afecta tanto su política interna como sus relaciones exteriores.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c3r2e1zg2ppo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-05T03:08:30.000Z",
-      "teaser": "Lo clave en 20 segundos: Putin ha transformado su imagen pública como parte de su estrategia política.",
+      "teaser": "Lo clave en 20 segundos: Putin ha controlado su imagen pública de manera rigurosa y estratégica.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3f9e/live/3997c490-5b68-11f1-89a3-d1f559421220.jpg",
       "description": "De enigmático agente de la KGB a gobernante en tiempos de guerra, así es cómo Vladimir Putin ha reinventado repetidamente su imagen pública y a sí mismo.",
       "featured": false
@@ -30,11 +43,11 @@
       "slug": "tribunal-define-futuro-de-conductor-que-mato-a-otro-tras-choque-en-cartago",
       "title": "Tribunal define futuro de conductor que mató a otro tras choque en Cartago",
       "category": "Costa Rica",
-      "bullets_20s": "• El tribunal de Cartago ha tomado decisiones importantes sobre la responsabilidad del conductor.\n• Se espera que el juicio tenga repercusiones en la percepción pública sobre la seguridad vial.\n• Este caso resalta los problemas de violencia en las carreteras de Costa Rica.\n• La familia de la víctima espera justicia tras este inesperado y trágico acontecimiento.\n• Las autoridades promueven la educación vial como parte de la solución a estos conflictos.",
+      "bullets_20s": "• Un tribunal en Cartago analiza la responsabilidad del conductor en el incidente mortal.\n• El caso ha causado gran controversia en la comunidad local sobre la seguridad vial.\n• La resolución del tribunal puede influir en otros casos similares en Costa Rica.\n• Se espera un resumen del fallo que se dará a conocer próximamente.\n• Las familias de las víctimas están a la espera de una justicia adecuada en este caso.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/sucesos/tribunal-define-futuro-de-conductor-que-mato-a/6MBX2VE75VFVBD3HQADBEPGCXY/story/",
       "publish_date": "2026-06-05T02:16:14.000Z",
-      "teaser": "Lo clave en 20 segundos: tribunal evalúa el futuro de conductor involucrado en un fatal accidente.",
+      "teaser": "Lo clave en 20 segundos: Tribunal de Cartago decide el rumbo judicial de un caso trágico.",
       "image_url": "https://www.nacion.com/resizer/v2/4I3YDVAJCNEWFF6ROOVXGLAVWQ.jpg?auth=3fedc95cb270795136c47c316bf4873565c37dcef49bcd2bb020ba48127de6bf&smart=true&width=1189&height=625",
       "description": "Tribunal de Cartago resolvió el futuro judicial del conductor sospechoso de disparar y matar a otro tras un choque vial.",
       "featured": false
@@ -43,11 +56,11 @@
       "slug": "priscila-robles-esposa-de-kendall-waston-recibe-de-fifa-un-certificado-que-pocos-logran-conseguir",
       "title": "Priscila Robles, esposa de Kendall Waston, recibe de FIFA un certificado que pocos logran conseguir",
       "category": "Costa Rica",
-      "bullets_20s": "• Priscila Robles ha recibido un certificado especial por parte de la FIFA en reconocimiento a su trabajo.\n• El logro de Priscila destaca en el contexto del deporte costarricense que promueve el talento local.\n• Su esposo, Kendall Waston, ha sido un gran apoyo en este camino hacia el reconocimiento internacional.\n• El certificado es un logro importante que pocos han conseguido en el ámbito deportivo de FIFA.\n• Priscila agradece a su familia y amigos por el apoyo constante que ha recibido durante su trayectoria.",
+      "bullets_20s": "• Priscila Robles ha recibido un certificado especial de la FIFA, algo que pocos pueden alcanzar.\n• La esposa de Kendall Waston expresa su agradecimiento por el apoyo recibido de su pareja.\n• Este reconocimiento es un orgullo para Priscila y refleja su dedicación en el ámbito deportivo.\n• FIFA otorga este tipo de certificados a personas que contribuyen significativamente al fútbol.\n• La historia de Priscila motiva a otras mujeres a perseguir sus sueños en el deporte.",
       "source_name": "Fanny Tayver Marín, Milton Montenegro",
       "source_url": "https://www.nacion.com/puro-deporte/priscila-robles-esposa-de-kendall-waston-recibe-de/FPCX4TI4SRDMJIGA47JSJXSTUI/story/",
       "publish_date": "2026-06-05T02:06:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Priscila Robles recibe un certificado de FIFA, un reconocimiento inusual y significativo.",
+      "teaser": "Lo clave en 20 segundos: Priscila Robles recibe un certificado de FIFA, destacando su contribución al deporte.",
       "image_url": "https://www.nacion.com/resizer/v2/KLQOV3XJD5A6RFP6UDTXL65PB4.JPG?auth=cb043de7a1b53f51d563a9ac6724f7d9cf8852b3dc4caeb3ff26955f8c49ae08&smart=true&width=598&height=382",
       "description": "Priscila Robles consiguió un logro importante, ella misma cuenta de qué se trata y agradece a Kendall Waston por apoyarla.",
       "featured": false
@@ -238,11 +251,11 @@
       "slug": "docinade-colloquium-ciencia-innovacion-y-sostenibilidad-para-el-desarrollo",
       "title": "DOCINADE Colloquium: Ciencia, Innovación y Sostenibilidad para el Desarrollo",
       "category": "Ciencia",
-      "bullets_20s": "• El DOCINADE Colloquium promueve el intercambio de conocimiento en ciencia y sostenibilidad.\n• Aborda temáticas sobre gestión ambiental y recursos naturales de manera innovadora.\n• Se realizan coloquios virtuales cada último viernes del mes a las 9:00 a.m.\n• Los participantes pueden inscribirse gratuitamente a través de un formulario en línea.\n• El ciclo de coloquios incluye varios conferencistas de distintas universidades e instituciones.\n• Las sesiones destacan la importancia de la investigación para enfrentar desafíos contemporáneos.\n• Se enfoca en soluciones sostenibles para el desarrollo a través de la colaboración académica.\n• El DOCINADE involucra a estudiantes y profesionales de diversas disciplinas científicas.",
+      "bullets_20s": "• El DOCINADE Colloquium es un espacio para el intercambio de conocimiento científico y soluciones sostenibles.\n• Invita a estudiantes y profesionales a participar en coloquios sobre desarrollo y sostenibilidad.\n• Realiza eventos virtuales el último viernes de cada mes a las 9:00 a.m. hora de Costa Rica.\n• Aborda temas como gestión ambiental, tecnologías aplicadas y producción agrícola sostenible.\n• Inscripciones son gratuitas y se pueden realizar a través de un formulario en su sitio web.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/docinade-colloquium-ciencia-innovacion-sostenibilidad-desarrollo",
       "publish_date": "2026-06-04T20:45:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Un coloquio virtual que impulsa la ciencia y sostenibilidad en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Descubre el DOCINADE Colloquium y su enfoque en sostenibilidad y ciencia.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-05-29-at-8.14.05-am.jpeg",
       "description": "DOCINADE Colloquium: Ciencia, Innovación y Sostenibilidad para el Desarrollo",
       "featured": false
@@ -251,11 +264,11 @@
       "slug": "dia-internacional-de-la-biotecnologia-2026",
       "title": "Día Internacional de la Biotecnología 2026",
       "category": "Ciencia",
-      "bullets_20s": "• La jornada incluye un foro sobre biotecnología, visitas guiadas y actividades estudiantiles.\n• El foro 'Del Laboratorio al Mercado' abordará obstáculos en la biotecnología nacional.\n• Costa Rica tiene ciencia avanzada pero carece de condiciones para convertirla en industria.\n• Se buscará abrir un diálogo sobre las políticas que limitan el avance de la biotecnología.\n• Las actividades incluirán proyectos de investigación y bioemprendimientos estudiantiles.",
+      "bullets_20s": "• La Escuela de Biología del Tecnológico de Costa Rica celebra el Día Internacional de la Biotecnología.\n• Se realizará un foro sobre la transformación de proyectos científicos en productos comerciales.\n• El evento incluirá visitas guiadas al Centro de Investigación en Biotecnología y Laboratorio de Bioemprendimiento.\n• La actividad busca enfrentar obstáculos que dificultan la industria biotecnológica en el país.\n• Se presentarán proyectos estudiantiles y académicos en un espacio recreativo y deportivo.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/dia-internacional-biotecnologia-2026",
       "publish_date": "2026-06-04T20:36:43.000Z",
-      "teaser": "Lo clave en 20 segundos: Encuentro sobre biotecnología y oportunidades para Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Celebración del Día Internacional de la Biotecnología en Costa Rica busca conectar ciencia y mercado.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/infraestructura_sede-cartago_centros_centro-de-investigacion-en-biotecnologia_02.JPG",
       "description": "Día Internacional de la Biotecnología 2026",
       "featured": false
@@ -470,13 +483,13 @@
     },
     {
       "slug": "el-sherpa-dado-por-muerto-en-el-everest-que-fue-encontrado-milagrosamente-cuando-descendia-por-el-hielo-a-rastras",
-      "title": "El sherpa dado por muerto en el Everest que fue encontrado 'milagrosamente' cuando descendía por el hielo a rastras",
+      "title": "El sherpa dado por muerto en el Everest que fue encontrado \"milagrosamente\" cuando descendía por el hielo a rastras",
       "category": "Mundo",
-      "bullets_20s": "• Un sherpa había sido declarado muerto tras su desaparición en el Everest hace seis días.\n• Fue hallado milagrosamente arrastrándose hacia el Campamento Base en condiciones extremas.\n• El rescate del sherpa ha generado asombro y alegría entre los montañistas y rescatistas.\n• Este suceso subraya los peligros asociados con la escalada en el Everest.\n• Las condiciones climáticas en la montaña son severas y pueden afectar la supervivencia.\n• El hallazgo del guía resalta la importancia de la vigilancia y rescate en alta montaña.",
+      "bullets_20s": "• Un sherpa que había sido declarado muerto fue hallado con vida en el Everest.\n• El guía fue encontrado seis días después de su desaparición en la montaña.\n• Se le descubrió arrastrándose hacia el Campamento Base, buscando ayuda.\n• El rescate genera asombro en la comunidad de montañistas y especialistas.\n• Las condiciones climáticas en el Everest son extremadamente difíciles y peligrosas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c5y8yj7vj4lo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-04T16:36:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Un sherpa perdido fue encontrado milagrosamente seis días después en el Everest.",
+      "teaser": "Lo clave en 20 segundos: Un sherpa, perdido por seis días, fue rescatado en el Everest.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3055/live/708bc170-600b-11f1-8b8c-6d33e1d5abb6.jpg",
       "description": "Un equipo encontró al guía arrastrándose hacia el Campamento Base seis días después de su desaparición.",
       "featured": false
@@ -1356,11 +1369,11 @@
       "slug": "presentacion-del-libro-dos-hombres-y-un-volcan",
       "title": "Presentación del libro “Dos hombres y un volcán”",
       "category": "Costa Rica",
-      "bullets_20s": "• La presentación se realiza en el contexto del 55 aniversario del Tecnológico de Costa Rica.\n• El libro narra la historia de dos hombres que escalaron el volcán Arenal en 1937.\n• Escrito por María Isabel Quesada y Luko Hilje, presenta trayectorias familiares.\n• Ambos autores rescatan tradiciones orales y documentos históricos relevantes.\n• La presentación será el 9 de junio a las 2:00 p.m. en el campus de San Carlos.\n• Se invita a la comunidad universitaria y al público general a asistir.\n• El evento busca promover el conocimiento sobre la historia del volcán Arenal.\n• Importante resaltar la conexión entre la historia y la geografía costarricense.",
+      "bullets_20s": "• La presentación se llevará a cabo el 9 de junio en el TEC, Campus San Carlos.\n• El libro narra la travesía por el volcán Arenal en 1937 y sus protagonistas.\n• Escritores son María Isabel Quesada y Luko Hilje, expertos en la historia local.\n• Iniciativas que rescatan historias importantes sobre el volcán Arenal convergen.\n• Abierto al público en general, estudiantes y docentes del Tecnológico.",
       "source_name": "kmora",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-dos-hombres-volcan",
       "publish_date": "2026-06-03T14:20:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Presentación de un libro que narra historias sobre el volcán Arenal.",
+      "teaser": "Lo clave en 20 segundos: Presentación del libro sobre la historia del volcán Arenal.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dos-hombres-y-un-volcan.jpg",
       "description": "Presentación del libro “Dos hombres y un volcán”",
       "featured": false
@@ -34893,5 +34906,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-06-05T09:45:21.464Z"
+  "generated_at": "2026-06-05T10:45:20.981Z"
 }
