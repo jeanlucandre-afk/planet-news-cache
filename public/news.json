@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "tribunal-define-futuro-de-conductor-que-mato-a-otro-tras-choque-en-cartago",
+      "title": "Tribunal define futuro de conductor que mató a otro tras choque en Cartago",
+      "category": "Costa Rica",
+      "bullets_20s": "• El tribunal en Cartago analiza el caso del conductor implicado en un caso de homicidio en accidentes.\n• Jose Manuel asegura que el suceso ocurrió tras una disputa exacerbada en la vía pública.\n• Los detalles del incidente revelan la complejidad de los conflictos viales en el país.\n• La discusión entre conductores refleja un creciente problema social en las carreteras de Costa Rica.\n• Expertos sugieren que se deben implementar más campañas sobre educación vial y conducta responsable.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/tribunal-define-futuro-de-conductor-que-mato-a/6MBX2VE75VFVBD3HQADBEPGCXY/story/",
+      "publish_date": "2026-06-05T02:16:14.000Z",
+      "teaser": "Lo clave en 20 segundos: Tribunal resuelve el futuro de un conductor implicado en homicidio tras un choque.",
+      "image_url": "https://www.nacion.com/resizer/v2/4I3YDVAJCNEWFF6ROOVXGLAVWQ.jpg?auth=3fedc95cb270795136c47c316bf4873565c37dcef49bcd2bb020ba48127de6bf&smart=true&width=1189&height=625",
+      "description": "Tribunal de Cartago resolvió el futuro judicial del conductor sospechoso de disparar y matar a otro tras un choque vial.",
+      "featured": false
+    },
+    {
+      "slug": "priscila-robles-esposa-de-kendall-waston-recibe-de-fifa-un-certificado-que-pocos-logran-conseguir",
+      "title": "Priscila Robles, esposa de Kendall Waston, recibe de FIFA un certificado que pocos logran conseguir",
+      "category": "Mundo",
+      "bullets_20s": "• Priscila Robles ha recibido un reconocimiento destacado por parte de la FIFA en su carrera.\n• El certificado otorgado es una distinción que pocos logran alcanzar en el ámbito deportivo.\n• Ella agradece a Kendall Waston por su apoyo constante durante este proceso significativo.\n• El logro de Priscila resalta el esfuerzo y dedicación en su trayectoria personal y profesional.\n• En su declaración, ella menciona la importancia de recibir este tipo de reconocimientos internacionales.",
+      "source_name": "Fanny Tayver Marín, Milton Montenegro",
+      "source_url": "https://www.nacion.com/puro-deporte/priscila-robles-esposa-de-kendall-waston-recibe-de/FPCX4TI4SRDMJIGA47JSJXSTUI/story/",
+      "publish_date": "2026-06-05T02:06:20.000Z",
+      "teaser": "Lo clave en 20 segundos: Priscila Robles logra un importante reconocimiento de la FIFA, agradeciendo a su esposo.",
+      "image_url": "https://www.nacion.com/resizer/v2/KLQOV3XJD5A6RFP6UDTXL65PB4.JPG?auth=cb043de7a1b53f51d563a9ac6724f7d9cf8852b3dc4caeb3ff26955f8c49ae08&smart=true&width=598&height=382",
+      "description": "Priscila Robles consiguió un logro importante, ella misma cuenta de qué se trata y agradece a Kendall Waston por apoyarla.",
+      "featured": false
+    },
+    {
       "slug": "caso-gallo-tapado-boveda-del-banco-nacional-con-millonario-faltante-de-dinero-excedia-nueve-veces-el-limite-autorizado-d",
       "title": "Caso Gallo Tapado: Bóveda del Banco Nacional con millonario faltante de dinero excedía nueve veces el límite autorizado de almacenamiento, según testigo",
       "category": "Costa Rica",
-      "bullets_20s": "• El Caso Gallo Tapado en Costa Rica investiga un millonario faltante en el Banco Nacional.\n• Un testigo reveló que las bóvedas del banco podrían haber sobrepasado los límites de seguridad.\n• La investigación se centra en las circunstancias de la sustracción del dinero faltante.\n• El Banco Nacional está bajo vigilancia tras las declaraciones del testigo en este caso.\n• La noticia ha impactado a la ciudadanía y generado preocupación sobre la seguridad bancaria.",
+      "bullets_20s": "• El caso Gallo Tapado investiga un millonario faltante en el Banco Nacional de Costa Rica.\n• Un testigo reveló que el dinero en bóveda excedía el límite de almacenamiento permitido.\n• La investigación ha generado gran interés entre los ciudadanos y medios de comunicación.\n• El Banco Nacional enfrenta serias implicaciones legales por este caso de sustracción.\n• Este caso refleja problemas en la seguridad y manejo de fondos en instituciones bancarias.",
       "source_name": "Natalia Vargas",
       "source_url": "https://www.nacion.com/sucesos/caso-gallo-tapado-boveda-del-banco-nacional-con/BIXZXTCNWRHH7HXIAYEGZVL7QQ/story/",
       "publish_date": "2026-06-05T01:26:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Un testigo reveló irregularidades en bóvedas del Banco Nacional de Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Un testigo revela que el faltante del Banco Nacional supera límites permitidos.",
       "image_url": "https://www.nacion.com/resizer/v2/ACCUURSXONEQVDQOXWKDGRL34A.jpg?auth=8e19db11ad7f1178db23800c15960b114f9e7ea9403c919e678539067fb3af6d&smart=true&width=4160&height=2774",
       "description": "Un testigo en el caso Gallo Tapado, que investiga un millonario faltante en las bóvedas del Banco Nacional de Costa Rica, narró que la instancia de la entidad donde se reportó la aparente sustracción de dinero excedía nueve veces el límite autorizado de almacenamiento.",
       "featured": false
@@ -17,11 +43,11 @@
       "slug": "san-jose-se-sale-de-la-union-de-gobiernos-locales-tres-dias-despues-de-que-diego-miranda-no-lograra-puesto-directivo-opo",
       "title": "San José se sale de la Unión de Gobiernos Locales tres días después de que Diego Miranda no lograra puesto directivo; oposición lo acusa de ‘rabieta’",
       "category": "Costa Rica",
-      "bullets_20s": "• El Concejo Municipal de San José tomó una decisión controvertida al salir de la UNGL.\n• La salida se produjo tras la elección de Diego Miranda, quien no logró un puesto directivo.\n• La oposición reaccionó con críticas, acusando a Miranda de actuar por interés personal.\n• La UNGL ha sido un organismo clave en la gestión de gobiernos locales en Costa Rica.\n• Este evento genera inquietudes sobre la unidad de los gobiernos locales en el país.",
+      "bullets_20s": "• San José decidió salir de la Unión Nacional de Gobiernos Locales tras una votación del Concejo Municipal.\n• La decisión se tomó solo tres días después de la elección de Diego Miranda al puesto directivo.\n• La oposición criticó esta acción, catalogándola como una reacción desproporcionada de Miranda.\n• Este movimiento genera incertidumbre sobre la gobernanza local en la capital costarricense.\n• Los partidos en oposición ven el acto como una falta de compromiso hacia la cooperación local.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/politica/san-jose-sale-de-la-union-de-gobiernos-locales/656DPLSGURCKDG3LYZ333IAWOI/story/",
       "publish_date": "2026-06-05T01:20:44.000Z",
-      "teaser": "Lo clave en 20 segundos: San José abandona la UNGL en un contexto político tenso.",
+      "teaser": "Lo clave en 20 segundos: San José se retira de la UNGL tras la salida de Diego Miranda de la directiva.",
       "image_url": "https://www.nacion.com/resizer/v2/O32UXCDN7JEOZMZVEZJ37NGFOE.jpeg?auth=d30ebfd67c9c18b9d17fa19a7ee39fa31e61fb73615b119fbb51fe7d516fdb8d&smart=true&width=4368&height=2912",
       "description": "El Concejo Municipal de San José aprobó salir de la Unión Nacional de Gobiernos Locales (UNGL) días después de que Diego Miranda quedara fuera de su directiva, en medio de fuertes críticas de la oposición.",
       "featured": false
@@ -185,25 +211,25 @@
     {
       "slug": "docinade-colloquium-ciencia-innovacion-y-sostenibilidad-para-el-desarrollo",
       "title": "DOCINADE Colloquium: Ciencia, Innovación y Sostenibilidad para el Desarrollo",
-      "category": "Costa Rica",
-      "bullets_20s": "• El DOCINADE Colloquium convoca a estudiantes, docentes e investigadores de diversas disciplinas.\n• Los coloquios abordan temas clave de sostenibilidad y desarrollo científico en el país.\n• Se realizan mensualmente para promover el intercambio de conocimientos entre participantes.\n• Cada sesión está liderada por expertos en áreas como agricultura y tecnologías electrónicas.\n• La inscripción es gratuita y abierta a todos los interesados en los temas tratados.",
+      "category": "Ciencia",
+      "bullets_20s": "• El DOCINADE Colloquium es un espacio para el intercambio de conocimiento y soluciones sostenibles.\n• Se invita a estudiantes, docentes e investigadores nacionales e internacionales a participar.\n• Los coloquios se realizan el último viernes de cada mes en modalidad virtual.\n• Temáticas incluyen Gestión Ambiental, Recursos Naturales, Tecnologías Electrónicas y Agricultura.\n• La inscripción es gratuita y se hace a través de un formulario en el sitio web.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/docinade-colloquium-ciencia-innovacion-sostenibilidad-desarrollo",
       "publish_date": "2026-06-04T20:45:22.000Z",
-      "teaser": "Lo clave en 20 segundos: El DOCINADE Colloquium promueve la ciencia y sostenibilidad en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: participan investigadores en ciencia y sostenibilidad en coloquios mensuales.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-05-29-at-8.14.05-am.jpeg",
-      "description": "DOCINADE Colloquium: Ciencia, Innovación y Sostenibilidad para el Desarrollo",
+      "description": "DOCINADE Colloquium: Ciencia, Innovación y Sostenibilidad para el Desarrollo.",
       "featured": false
     },
     {
       "slug": "dia-internacional-de-la-biotecnologia-2026",
       "title": "Día Internacional de la Biotecnología 2026",
       "category": "Ciencia",
-      "bullets_20s": "• La Escuela de Biología del Tecnológico de Costa Rica organiza el evento con múltiples actividades educativas.\n• Incluirá un foro sobre los retos que enfrenta la biotecnología en el país actualmente.\n• Los participantes podrán conocer de cerca los laboratorios y bioproductos innovadores en el CIB.\n• Se abordará la necesidad de convertir la ciencia en industria y bienestar social en Costa Rica.\n• Las actividades estudiantiles buscarán fomentar la creatividad y el trabajo en equipo entre jóvenes.",
+      "bullets_20s": "• La Escuela de Biología del Tecnológico de Costa Rica celebra este importante día con actividades relevantes.\n• Se realizará un foro titulado 'Del Laboratorio al Mercado', enfocado en la biotecnología.\n• Visita guiada al Centro de Investigación en Biotecnología será parte de la jornada.</li>\n• La actividad permitirá a los asistentes conocer bioproductos y proyectos innovadores.\n• Se espera una discusión sobre obstáculos en la producción científica y su aprovechamiento.\n• Actividades recreativas y deportivas también formarán parte de este evento académico.\n• El evento está dirigido a estudiantes, investigadores y tomadores de decisiones.\n• El biotecnología en Costa Rica tiene potencial, pero requiere voluntad política para avanzar.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/dia-internacional-biotecnologia-2026",
       "publish_date": "2026-06-04T20:36:43.000Z",
-      "teaser": "Lo clave en 20 segundos: Día Internacional de la Biotecnología destaca la ciencia en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El Día de la Biotecnología se celebra con foros y visitas guiadas en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/infraestructura_sede-cartago_centros_centro-de-investigacion-en-biotecnologia_02.JPG",
       "description": "Día Internacional de la Biotecnología 2026",
       "featured": false
@@ -420,11 +446,11 @@
       "slug": "el-sherpa-dado-por-muerto-en-el-everest-que-fue-encontrado-milagrosamente-cuando-descendia-por-el-hielo-a-rastras",
       "title": "El sherpa dado por muerto en el Everest que fue encontrado \"milagrosamente\" cuando descendía por el hielo a rastras",
       "category": "Mundo",
-      "bullets_20s": "• Un sherpa desapareció en el Everest y fue dado por muerto tras días de búsqueda.\n• Seis días después, el guía fue hallado descendiendo de manera sorprendente hacia el campamento.\n• Equipos de rescate trabajaron arduamente en condiciones extremas para encontrarlo.\n• El hallazgo fue considerado un milagro por muchos en la comunidad montañesa.\n• Este suceso resalta los riesgos que enfrentan los guías en la escalada del Everest.",
+      "bullets_20s": "• Un sherpa fue considerado muerto tras su desaparición en el Everest durante una expedición.\n• Seis días después, un equipo de rescate descubrió al guía arrastrándose hacia el Campamento Base.\n• El rescate ha sido calificado como un milagro por varios expertos en montañismo y aventura.\n• Las condiciones extremas del Everest complican enormemente la búsqueda y rescate de personas.\n• El sherpa mostró una notable resistencia y determinación a pesar de las adversidades.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c5y8yj7vj4lo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-04T16:36:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Un sherpa desaparecido, hallado milagrosamente tras seis días en el Everest.",
+      "teaser": "Lo clave en 20 segundos: Un sherpa desaparecido fue hallado milagrosamente seis días después en el Everest.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/3055/live/708bc170-600b-11f1-8b8c-6d33e1d5abb6.jpg",
       "description": "Un equipo encontró al guía arrastrándose hacia el Campamento Base seis días después de su desaparición.",
       "featured": false
@@ -602,11 +628,11 @@
       "slug": "que-supone-para-cuba-la-retirada-de-las-principales-multinacionales-hoteleras-que-operaban-en-el-pais",
       "title": "Qué supone para Cuba la retirada de las principales multinacionales hoteleras que operaban en el país",
       "category": "Mundo",
-      "bullets_20s": "• La salida de multinacionales impacta la economía local, generando una mayor crisis en el turismo cubano.\n• Las cadenas hoteleras eran esenciales para atraer turistas internacionales a la isla caribeña.\n• Las sanciones de EE.UU. afectan significativamente a los sectores económicos más vulnerables de Cuba.\n• La industria del turismo, principal fuente de ingresos, enfrenta dificultades tras esta retirada.\n• Es probable que la crisis del turismo en Cuba agrave la situación social y económica del país.",
+      "bullets_20s": "• La salida de cadenas hoteleras afecta gravemente la economía cubana, dependiente del turismo extranjero.\n• Estas multinacionales habían sido clave en el desarrollo turístico de la isla caribeña en los últimos años.\n• La crisis del turismo cubano se intensifica debido a las restricciones y sanciones internacionales.\n• La retirada de estas empresas deja un vacío difícil de llenar para el sector hotelero en Cuba.\n• Las expectativas de recuperación del turismo cubano se ven seriamente comprometidas por esta situación.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c1423m4m482o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-04T12:33:46.000Z",
-      "teaser": "Lo clave en 20 segundos: La salida de hoteles extranjeros agrava la crisis turística en Cuba.",
+      "teaser": "Lo clave en 20 segundos: La retirada de multinacionales hoteleras agrava la crisis turística de Cuba.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e53a/live/e26c5150-5fa8-11f1-af92-19e0296632ef.jpg",
       "description": "Las sanciones de EE.UU. contra el conglomerado militar Gaesa precipitan la salida de cadenas como Meliá, Iberostar y Blue Diamond, en un momento en el que el turismo cubano atraviesa una de sus peores crisis.",
       "featured": false
@@ -1304,11 +1330,11 @@
       "slug": "presentacion-del-libro-dos-hombres-y-un-volcan",
       "title": "Presentación del libro “Dos hombres y un volcán”",
       "category": "Costa Rica",
-      "bullets_20s": "• La presentación se llevará a cabo en el Tecnológico de Costa Rica el 9 de junio.\n• El libro narra las travesías de Alberto Quesada y Luis Castro en el Arenal.\n• Describen desafíos y hallazgos durante una expedición a un volcán en 1937.\n• Escrito por María Isabel Quesada y Luko Hilje, rescatando la historia familiar.\n• Abierto a toda la comunidad universitaria y público en general.",
+      "bullets_20s": "• El libro narra las travesías de los personajes en el volcán Arenal. Explora su historia y desafíos.\n• Escrito por María Isabel Quesada y Luko Hilje, rescatando la tradición oral y la historia familiar.\n• Presentación oficial se llevará a cabo el 9 de junio en el Salón Jacaranda del TEC.\n• La invitación es abierta para toda la comunidad universitaria y el público en general.\n• Los autores cuentan las experiencias de escalar el Arenal en 1937 y sus hallazgos.",
       "source_name": "kmora",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-dos-hombres-volcan",
       "publish_date": "2026-06-03T14:20:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre la historia detrás del libro sobre el volcán Arenal.",
+      "teaser": "Lo clave en 20 segundos: Presentación del libro sobre las travesías en el volcán Arenal.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dos-hombres-y-un-volcan.jpg",
       "description": "Presentación del libro “Dos hombres y un volcán”",
       "featured": false
@@ -34841,5 +34867,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-06-05T01:45:19.381Z"
+  "generated_at": "2026-06-05T02:45:22.699Z"
 }
