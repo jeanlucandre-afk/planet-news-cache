@@ -1,14 +1,66 @@
 {
   "news": [
     {
+      "slug": "grave-riesgo-para-palo-verde-persiste-pese-a-incendio-controlado-ocurrio-en-el-peor-momento",
+      "title": "Grave riesgo para Palo Verde persiste pese a incendio controlado: ‘Ocurrió en el peor momento’",
+      "category": "Costa Rica",
+      "bullets_20s": "• El incendio en Palo Verde es considerado uno de los más severos en su historia reciente.\n• Especialistas advierten sobre el daño ecológico que podría durar años en la región.\n• La prevención y control de incendios forestales es fundamental para el equilibrio ecológico.\n• Los ecosistemas de Guanacaste necesitan atención y conservación tras este evento crítico.\n• Las sequías y el cambio climático pueden agravar estos incendios forestales en el futuro.",
+      "source_name": "Sofía  Sánchez Ramírez",
+      "source_url": "https://www.nacion.com/sucesos/grave-riesgo-para-palo-verde-persiste-pese-a/XYJ72D5ETRFQDHQ35D3SC33SAM/story/",
+      "publish_date": "2026-06-06T11:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El incendio en Palo Verde deja graves secuelas ecológicas en Guanacaste.",
+      "image_url": "https://www.nacion.com/resizer/v2/VGBWJVXITBCG7ASCR2NXMMQQPY.JPG?auth=a27a6b2abd1b95762ef87d2f1cdfdd375b3d09357ab3bd009152a8bb1ef797db&smart=true&width=3000&height=2000",
+      "description": "En lo que podría ser el incendio forestal más severo en la historia del Parque Nacional Palo Verde, especialistas advierten que secuelas comprometen el equilibrio ecológico de Guanacaste.",
+      "featured": false
+    },
+    {
+      "slug": "editorial-por-que-laura-fernandez-ahora-rechaza-la-agenda-2030-que-defendia-con-vehemencia-hace-apenas-tres-anos",
+      "title": "Editorial: ¿Por qué Laura Fernández ahora rechaza la Agenda 2030 que defendía con vehemencia hace apenas tres años?",
+      "category": "Costa Rica",
+      "bullets_20s": "• Laura Fernández cambió su postura sobre la Agenda 2030 que antes apoyaba fervientemente en su papel de ministra.\n• Los Objetivos de Desarrollo Sostenible fueron promovidos por Fernández en 2023, pero hoy los critica sin justificación.\n• Analistas observan un claro contraste entre las declaraciones pasadas de Fernández y su actual postura como presidenta.\n• El viraje político de Fernández genera confusión sobre su compromiso real con los objetivos de desarrollo.\n• Expertos en política sostienen que esta contradicción podría afectar la percepción pública de su liderazgo.",
+      "source_name": "La Nación",
+      "source_url": "https://www.nacion.com/opinion/editorial/editorial-que-hay-detras-del-brusco-viraje-de/H3ZHLMICXRFMTKORQ55EXK6IJI/story/",
+      "publish_date": "2026-06-06T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Laura Fernández cambia radicalmente su opinión sobre la Agenda 2030, generando controversia.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZIFQJZ3OF5D2BBRPYEFQHBANXU.png?auth=730efe2b9fcc9d5f2483f3ef7b7fbc1170853f2c657c6e9e762ada892c099a07&smart=true&width=1920&height=1080",
+      "description": "En 2023, siendo ministra, Laura Fernández alabó con entusiasmo los Objetivos de Desarrollo Sostenible; ahora los desdeña sin argumentos. La contradicción entre lo que dijo y firmó como ministra y lo que declaró como presidenta no puede ser mayor",
+      "featured": false
+    },
+    {
+      "slug": "inversion-social-del-imas-para-atender-pobreza-extrema-cae-a-su-nivel-mas-bajo-en-5-anos",
+      "title": "Inversión social del IMAS para atender pobreza extrema cae a su nivel más bajo en 5 años",
+      "category": "Costa Rica",
+      "bullets_20s": "• El IMAS enfrenta una disminución en su presupuesto, afectando su capacidad de respuesta.\n• La inversión para combatir la pobreza extrema ha caído a niveles alarmantes en los últimos años.\n• La creciente demanda de subsidios resalta la urgencia de soluciones efectivas en el país.\n• La sostenibilidad de los programas sociales se encuentra comprometida ante estos recortes.\n• Expertos advierten que la situación podría agravar la pobreza en la población más vulnerable.",
+      "source_name": "Arianna  Villalobos Solís",
+      "source_url": "https://www.nacion.com/economia/inversion-social-del-imas-para-atender-pobreza/XYWZ2CQUENF6NOWOJVJOX3VKTM/story/",
+      "publish_date": "2026-06-06T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La inversión del IMAS para pobreza extrema alcanza su mínimo histórico, afectando programas sociales.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZXWRNJOPDJEB7IYAIMMVKUSWPY.JPG?auth=5ec058e9c31caced2d092c6badd2d7c6a8e8f0509c35be5992bbb0db9ca04b5a&smart=true&width=5778&height=3852",
+      "description": "El presupuesto del IMAS cae por segundo año consecutivo. La pérdida de fuerza a nivel de recursos debilita la ayuda social y el combate contra la pobreza, mientras la demanda por subsidios sigue creciendo.",
+      "featured": false
+    },
+    {
+      "slug": "lo-que-un-avance-contra-la-caida-del-cabello-puede-significar-para-mujeres-como-yo",
+      "title": "Lo que un avance contra la caída del cabello puede significar para mujeres como yo",
+      "category": "Ciencia",
+      "bullets_20s": "• Los tratamientos contra la alopecia están en desarrollo y ofrecen nuevas esperanzas para muchas mujeres.\n• La caída del cabello afecta emocionalmente a muchas personas, especialmente a las mujeres.\n• La investigación en este campo sigue avanzando, buscando soluciones efectivas y seguras.\n• Las opiniones sobre los resultados de estos estudios son diversas dentro de la comunidad científica.\n• Es crucial seguir informando a la sociedad sobre la alopecia y sus impactos en la vida diaria.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c5yx1y83178o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-06-06T10:33:27.000Z",
+      "teaser": "Lo clave en 20 segundos: Avances en tratamientos para la alopecia brindan nuevas esperanzas a las mujeres.",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ed01/live/2c3845a0-446f-11f1-b55d-0f258dce1735.jpg",
+      "description": "A medida que los científicos se acercan cada vez más a nuevos tratamientos contra la alopecia, la periodista de la BBC Victoria Derbyshire analiza lo que estos avances podrían significar para las mujeres.",
+      "featured": false
+    },
+    {
       "slug": "como-la-luz-esta-empezando-a-invadir-uno-de-los-lugares-mas-oscuros-de-la-tierra",
       "title": "Cómo la luz está empezando a invadir uno de los lugares más oscuros de la Tierra",
       "category": "Mundo",
-      "bullets_20s": "• La contaminación lumínica afecta a la observación astronómica en lugares remotos.\n• Los científicos advierten sobre el aumento de la luz artificial globalmente.\n• Este desierto ha sido un bastión para la investigación astronómica durante años.\n• El cambio en el entorno pone en riesgo la biodiversidad local y su ecosistema.\n• Las políticas de iluminación son cruciales para proteger a estos lugares oscuros.",
+      "bullets_20s": "• La contaminación lumínica está afectando la astronomía en lugares remotos del mundo.\n• Los astrónomos buscan espacios oscuros para observar sin interrupciones de luz artificial.\n• La luz artificial se ha convertido en una amenaza para la investigación científica en astronomía.\n• El desierto mencionado conserva cielos despejados, esenciales para estudios astronómicos.\n• Se plantean soluciones para mitigar la invasión de luz y proteger estos espacios.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/czj2z9zn288o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-06T09:27:09.000Z",
-      "teaser": "Lo clave en 20 segundos: la contaminación lumínica amenaza la astronomía en un desierto remoto.",
+      "teaser": "Lo clave en 20 segundos: La luz artificial amenaza uno de los mejores lugares para la astronomía en el mundo.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/def3/live/07e81610-5c22-11f1-89a3-d1f559421220.jpg",
       "description": "Este remoto desierto es uno de los mejores lugares del mundo para la astronomía, pero la lenta invasión de la luz artificial lo amenaza. Es una muestra de lo inevitable que se ha vuelto la contaminación lumínica.",
       "featured": false
@@ -43,11 +95,11 @@
       "slug": "que-paso-en-la-guerra-de-biafra-el-primer-desastre-humanitario-televisado-en-el-mundo-cuyas-heridas-siguen-abiertas",
       "title": "Qué pasó en la guerra de Biafra, el primer desastre humanitario televisado en el mundo cuyas heridas siguen abiertas",
       "category": "Mundo",
-      "bullets_20s": "• La guerra de Biafra fue un conflicto que dejó cicatrices profundas en Nigeria.\n• Este hecho se considera el primer desastre humanitario transmitido por televisión.\n• El documental analiza el legado y los recuerdos de las personas afectadas.\n• La importancia de la cobertura mediática durante conflictos armados es evidente.\n• Meji Alabi revela historias personales que destacan la tragedia de la guerra.",
+      "bullets_20s": "• La guerra de Biafra tuvo lugar entre 1967 y 1970 en Nigeria, generando un gran sufrimiento.\n• Se considera el primer desastre humanitario cubierto extensamente por la televisión en el mundo.\n• Las imágenes de la guerra impactaron a la comunidad internacional y aumentaron la conciencia global.\n• El documental de Meji Alabi cuenta la historia de su abuelo en medio del conflicto bélico.\n• La guerra dejó secuelas profundas que continúan afectando a la sociedad nigeriana actual.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx21vznvvyyo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-06T03:18:02.000Z",
-      "teaser": "Lo clave en 20 segundos: Un documental revela las secuelas de la guerra de Biafra y su impacto humanitario.",
+      "teaser": "Lo clave en 20 segundos: La guerra de Biafra marcó un hito en la cobertura mediática de crisis humanitarias.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/aaac/live/1d7baf50-5b37-11f1-8b8c-6d33e1d5abb6.jpg",
       "description": "Meji Alabi, director ganador de un Grammy, explora el papel de su abuelo nigeriano en un histórico documental sobre la Guerra Civil de Nigeria para BBC Africa Eye.",
       "featured": false
@@ -407,11 +459,11 @@
       "slug": "las-denuncias-por-la-falta-de-proteccion-a-las-mujeres-en-argentina-tras-el-brutal-asesinato-de-agostina-vega",
       "title": "Las denuncias por la falta de protección a las mujeres en Argentina tras el brutal asesinato de Agostina Vega",
       "category": "Mundo",
-      "bullets_20s": "• La situación de las mujeres en Argentina es una preocupación creciente en la sociedad.\n• El asesinato de Agostina Vega ha conmocionado al país y ha generado protestas masivas.\n• Organizaciones feministas han denunciado la falta de protección y recursos para las mujeres.\n• El gobierno enfrenta críticas por la reducción de fondos a programas de apoyo a mujeres.\n• La respuesta del gobierno ha sido considerada insuficiente por diversos sectores sociales.",
+      "bullets_20s": "• El trágico asesinato de Agostina Vega ha elevado la preocupación sobre la seguridad de las mujeres en Argentina.\n• Protestas y manifestaciones están surgiendo en respuesta a la creciente violencia de género en el país.\n• El gobierno actual enfrenta críticas por desfinanciar programas de protección a mujeres en situación de riesgo.\n• Estudios recientes muestran un incremento alarmante de feminicidios y violencia doméstica en Argentina.\n• Activistas piden la implementación de políticas efectivas para salvaguardar a las mujeres y garantizar su seguridad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c0q2q9jypz3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-06-05T19:13:37.000Z",
-      "teaser": "Lo clave en 20 segundos: La falta de protección a mujeres en Argentina tras un asesinato desata críticas al gobierno.",
+      "teaser": "Lo clave en 20 segundos: La falta de protección a las mujeres en Argentina tras un trágico asesinato genera protestas.",
       "image_url": "https://ichef.bbci.co.uk/news/1024/branded_mundo/ec0b/live/89e98ae0-6109-11f1-9134-bfd933b9750c.png",
       "description": "El gobierno de Javier Milei se defiende ante las críticas por la desfinanciación de programas e instituciones y por el discurso contra las políticas feministas.",
       "featured": false
@@ -485,11 +537,11 @@
       "slug": "random-una-decada-creando-espacios-para-vivir-la-universidad-mas-alla-de-las-aulas",
       "title": "Random: una década creando espacios para vivir la universidad más allá de las aulas",
       "category": "Costa Rica",
-      "bullets_20s": "• Random es una iniciativa del TEC que cumple diez años promoviendo la convivencia estudiantil.\n• Se han realizado numerosas actividades culturales y recreativas durante esta década.\n• La propuesta busca enriquecer la experiencia universitaria más allá del aula académica.\n• Estudiantes y docentes han creado un espacio donde compartir intereses y conocimientos.\n• Las actividades van desde cine hasta músicas, videojuegos y charlas educativas.",
+      "bullets_20s": "• Random ha fortalecido la convivencia y cultura en la Escuela de Computación del TEC desde 2016.\n• La iniciativa ha permitido a estudiantes y docentes compartir experiencias más allá de las aulas.\n• Actividades culturales y recreativas enriquecen la vida estudiantil en San José.\n• La diversidad de temas ha atraído la participación de numerosos miembros de la comunidad universitaria.\n• Charlas y actividades especiales celebraron su décimo aniversario y promovieron el aprendizaje.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/random-decada-creando-espacios-vivir-universidad-mas-alla-aulas",
       "publish_date": "2026-06-05T17:25:30.000Z",
-      "teaser": "Lo clave en 20 segundos: Random ha transformado la vida universitaria en el TEC en una década.",
+      "teaser": "Lo clave en 20 segundos: Random celebra diez años creando comunidades en la universidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/random-17.jpeg",
       "description": "Random: una década creando espacios para vivir la universidad más allá de las aulas",
       "featured": false
@@ -536,12 +588,12 @@
     {
       "slug": "k-lab-costa-rica-ofrece-cursos",
       "title": "K-Lab Costa Rica ofrece cursos",
-      "category": "Costa Rica",
-      "bullets_20s": "• K-Lab Costa Rica invita a participar en cursos gratuitos para mejorar habilidades digitales.\n• Los cursos abarcan desarrollo web, IA y emprendimiento digital, de gran relevancia.\n• El curso desarrollo web enseña a crear redes sociales desde cero para todos.\n• La programación en bloques es el enfoque del curso sobre MODI Master Kit e IA.\n• El emprendimiento digital ofrece herramientas para iniciar negocios en línea este año.",
+      "category": "Tecnología",
+      "bullets_20s": "• K-Lab Costa Rica presenta cursos gratuitos para la comunidad e interesados en tecnología.\n• Los cursos están diseñados para mejorar competencias digitales y tecnológicas.\n• El curso de Desarrollo Web permitirá a los participantes crear su propia red social.\n• Incluirá programación en bloques y el uso de MODI Master Kit en su currículo.\n• Un curso centrado en el Emprendimiento Digital se ofrecerá a estudiantes interesados.",
       "source_name": "anasolano",
       "source_url": "http://www.tec.ac.cr/k-lab-costa-rica-ofrece-cursos",
       "publish_date": "2026-06-05T17:12:14.000Z",
-      "teaser": "Lo clave en 20 segundos: Cursos gratuitos de K-Lab para fortalecer competencias digitales en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: K-Lab Costa Rica ofrece cursos gratuitos en competencias digitales.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/pexels-ryutaro-5745520.jpg",
       "description": "K-Lab Costa Rica ofrece cursos",
       "featured": false
@@ -589,11 +641,11 @@
       "slug": "investigacion-del-tec-revela-las-claves-detras-del-exito-del-cluster-de-dispositivos-medicos-en-costa-rica",
       "title": "Investigación del TEC revela las claves detrás del éxito del clúster de dispositivos médicos en Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El estudio examina el clúster de dispositivos médicos en Costa Rica y su impacto en la industria.\n• La colaboración entre empresas, instituciones y expertos impulsa la competitividad del sector.\n• Investigadores destacan la importancia de compartir conocimiento en la generación de innovación.\n• Las redes de colaboración aceleran el aprendizaje y fortalecen el ecosistema productivo.\n• El agrupamiento empresarial genera ventajas competitivas sostenibles en el mercado global.",
+      "bullets_20s": "• Un estudio del TEC analiza el clúster de dispositivos médicos en Costa Rica.\n• La investigación identifica la colaboración como clave para la competitividad.\n• Las empresas y centros de conocimiento generan innovación en el sector.\n• El clúster de dispositivos médicos destaca por su importancia económica.\n• El TEC impulsa estudios que apoyan el desarrollo nacional y la innovación.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/investigacion-tec-revela-claves-detras-exito-cluster-dispositivos-medicos-costa-rica",
       "publish_date": "2026-06-05T16:37:15.000Z",
-      "teaser": "Lo clave en 20 segundos: La colaboración es fundamental para el éxito del clúster de dispositivos médicos en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: el TEC revela cómo la colaboración impulsa el clúster de dispositivos médicos en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/evento-4.jpeg",
       "description": "Investigación del TEC revela las claves detrás del éxito del clúster de dispositivos médicos en Costa Rica",
       "featured": false
@@ -1121,14 +1173,14 @@
     {
       "slug": "docinade-colloquium-ciencia-innovacion-y-sostenibilidad-para-el-desarrollo",
       "title": "DOCINADE Colloquium: Ciencia, Innovación y Sostenibilidad para el Desarrollo",
-      "category": "Costa Rica",
-      "bullets_20s": "• El DOCINADE Colloquium invita a expertos y estudiantes a intercambiar ideas sobre sostenibilidad.\n• El ciclo de coloquios se realizará el último viernes de cada mes de manera virtual.\n• Las temáticas abarcan gestión ambiental y tecnologías aplicadas para el desarrollo sostenible.\n• Se espera una amplia participación internacional en los coloquios programados para 2026.\n• La inscripción es gratuita y se puede realizar a través de un formulario disponible en línea.",
+      "category": "Ciencia",
+      "bullets_20s": "• El DOCINADE Colloquium es una instancia de intercambio de conocimientos sobre sostenibilidad.\n• Involucra a estudiantes y profesionales de Costa Rica y el extranjero para innovar.\n• Cada mes se realiza una sesión virtual abordando temas relevantes en ciencia y sostenibilidad.\n• Las temáticas incluyen gestión ambiental, recursos naturales y tecnologías aplicadas.\n• La inscripción es gratuita y se realiza a través del formulario proporcionado.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/docinade-colloquium-ciencia-innovacion-sostenibilidad-desarrollo",
       "publish_date": "2026-06-04T20:45:22.000Z",
-      "teaser": "Lo clave en 20 segundos: DOCINADE invita a participar en coloquios sobre sostenibilidad y ciencia.",
+      "teaser": "Lo clave en 20 segundos: Coloquio internacional para la innovación y sostenibilidad en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-05-29-at-8.14.05-am.jpeg",
-      "description": "DOCINADE Colloquium: Ciencia, Innovación y Sostenibilidad para el Desarrollo.",
+      "description": "DOCINADE Colloquium: Ciencia, Innovación y Sostenibilidad para el Desarrollo",
       "featured": false
     },
     {
@@ -35764,5 +35816,5 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-06-06T10:45:21.015Z"
+  "generated_at": "2026-06-06T11:45:19.586Z"
 }
