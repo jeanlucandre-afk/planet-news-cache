@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "tuve-cancer-en-estadio-cuatro-a-los-14-anos-y-ahora-soy-medico",
+      "title": "Tuve cáncer en estadio cuatro a los 14 años y ahora soy médico",
+      "category": "Mundo",
+      "bullets_20s": "• Una joven luchó contra el cáncer en estadio IV desde muy temprana edad y salió adelante.\n• Ellie comenzó su tratamiento a los 14 años y se enfrentó a múltiples desafíos médicos.\n• Después de un riguroso tratamiento de 18 meses, logró superar la enfermedad con éxito.\n• La experiencia la inspiró a estudiar medicina y ayudar a otros en situaciones similares.\n• Su historia resalta la importancia de la detección temprana y el apoyo emocional.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cp3ryev5022o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-07-31T09:49:36.000Z",
+      "teaser": "Lo clave en 20 segundos: la inspiradora historia de Ellie y su lucha contra el cáncer.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/71df/live/1dd2b470-8cc5-11f1-97f5-93fc85ee9dc4.jpg",
+      "description": "Ellie Waters-Barnes sobrevivió a un cáncer agresivo en estadio IV y se sometió a 18 meses de tratamiento.",
+      "featured": false
+    },
+    {
       "slug": "el-bajo-nivel-del-rio-danubio-revela-un-secreto-que-permanecio-oculto-durante-miles-de-anos",
       "title": "El bajo nivel del río Danubio revela un secreto que permaneció oculto durante miles de años",
       "category": "Mundo",
-      "bullets_20s": "• El bajo nivel del Danubio ha expuesto antiguos secretos arqueológicos en Bulgaria.\n• Restos de un mamut fueron descubiertos, revelando información histórica valiosa.\n• Este hallazgo transforma al Danubio en un lugar de interés para investigadores.\n• El cambio en niveles de agua tiene implicaciones científicas significativas.\n• Se espera que el descubrimiento atraiga turistas y expertos en arqueología.",
+      "bullets_20s": "• El bajo nivel del Danubio ha descubierto hallazgos que datan de miles de años atrás.\n• Restos fósiles de mamut han sido encontrados en las orillas del río en Bulgaria.\n• Este descubrimiento ha suscitado gran interés entre arqueólogos y científicos.\n• El descenso del nivel del agua ha sido histórico, permitiendo estas revelaciones.\n• El Danubio se convierte en un nuevo foco de estudio arqueológico en Europa.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/el-mundo/el-bajo-nivel-del-rio-danubio-revela-un-secreto/HWMKI4PB2VFWRHFMTTLN6OZUMA/story/",
       "publish_date": "2026-07-31T05:59:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubrimiento de restos de mamut en el Danubio abre nuevas oportunidades arqueológicas.",
+      "teaser": "Lo clave en 20 segundos: El Danubio revela un hallazgo arqueológico inesperado con restos de mamut.",
       "image_url": "https://www.nacion.com/resizer/v2/PNYIS47HSBCMFDSXT7C5VVYK7I.jpg?auth=5de104ad312305ec85d1178aa3f8eb05581a847ca458715b6387917ad057db7e&smart=true&width=4608&height=3456",
       "description": "El descubrimiento de restos de un mamut en Bulgaria convierte al Danubio en un nuevo punto de interés arqueológico, impulsado por el descenso histórico del nivel de sus aguas.",
       "featured": false
@@ -41,15 +54,15 @@
     },
     {
       "slug": "trump-anuncia-un-acuerdo-para-el-desarme-total-de-hamas-en-gaza-que-fue-confirmado-por-el-grupo-palestino",
-      "title": "Trump anuncia un acuerdo para 'el desarme total' de Hamás en Gaza que fue confirmado por el grupo palestino",
+      "title": "Trump anuncia un acuerdo para \"el desarme total\" de Hamás en Gaza que fue confirmado por el grupo palestino",
       "category": "Mundo",
-      "bullets_20s": "• El acuerdo busca reducir la violencia en Gaza y mejorar la situación de seguridad en la región.\n• Trump menciona que este desarme podría abrir puertas a negociaciones más amplias entre partes involucradas.\n• Hamás ha confirmado su aceptación del acuerdo luego de negociaciones con la Junta de Paz.\n• Analistas destacan la importancia de este acuerdo para el futuro de la paz en Medio Oriente.\n• El presidente de Estados Unidos resalta los beneficios potenciales de este desarme en su administración.",
+      "bullets_20s": "• El acuerdo busca establecer un cese al fuego estable en la región de Gaza.\n• Se espera que líderes internacionales apoyen esta iniciativa de paz.\n• Hamás confirmó su disposición a cumplir con los términos propuestos.\n• El desarme total implicaría la entrega de armas por parte de varios grupos.\n• Este acuerdo podría cambiar la dinámica del conflicto israelo-palestino.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cvgxn4mjmkro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-07-31T02:11:45.000Z",
-      "teaser": "Lo clave en 20 segundos: acuerdo de desarme de Hamás puede cambiar la dinámica en Gaza.",
+      "teaser": "Lo clave en 20 segundos: Trump anuncia acuerdo para desarmar a Hamás en Gaza, un paso hacia la paz.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/5b36/live/331dc730-8c83-11f1-8972-83c327826a89.jpg",
-      "description": "El presidente de Estados Unidos afirmó que la Junta de Paz alcanzó un acuerdo para el 'desarme completo' de Hamás y otros grupos armados en Gaza.",
+      "description": "El presidente de Estados Unidos afirmó que la Junta de Paz alcanzó un acuerdo para el \"desarme completo\" de Hamás y otros grupos armados en Gaza.",
       "featured": false
     },
     {
@@ -316,11 +329,11 @@
       "slug": "el-duro-testimonio-del-padre-que-encontro-a-sus-3-hijos-asesinados-por-la-madre",
       "title": "El duro testimonio del padre que encontró a sus 3 hijos asesinados por la madre",
       "category": "Mundo",
-      "bullets_20s": "• Un testimonio desgarrador de un padre enfrenta el dolor de perder a sus hijos.\n• Los detalles de este caso han impactado a la comunidad en Massachusetts.\n• La acusada enfrenta cargos severos que reflejan la gravedad de sus acciones.\n• Los asesinatos de los niños han generado debates sobre la salud mental.\n• Este caso ha llamado la atención de medios de todo el mundo y redes sociales.",
+      "bullets_20s": "• Un padre vive la tragedia de perder a sus tres hijos en un trágico suceso familiar.\n• La madre enfrenta serias acusaciones de asesinato que han conmocionado a la sociedad.\n• El caso ha sido cubierto ampliamente por los medios internacionales y locales.\n• Las circunstancias del crimen han generado un intenso debate sobre salud mental.\n• El padre ha compartido su dolor y llamado a la reflexión sobre temas familiares.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cjejlg2q59yo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-07-30T16:46:38.000Z",
-      "teaser": "Lo clave en 20 segundos: Un padre relata la terrible pérdida de sus tres hijos asesinados.",
+      "teaser": "Lo clave en 20 segundos: Un padre narra la tragedia de sus hijos asesinados por su madre.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/269e/live/90aef1f0-8c2c-11f1-9fe2-97492b603d93.jpg",
       "description": "La madre de Massachusetts está acusada de tres cargos de asesinato en primer grado por la muerte de sus tres hijos en enero de 2023.",
       "featured": false
@@ -822,12 +835,12 @@
     {
       "slug": "teatro-agosto-compartio-sus-suenos-con-el-resto-de-centroamerica",
       "title": "Teatro Agosto compartió sus sueños con el resto de Centroamérica",
-      "category": "Costa Rica",
-      "bullets_20s": "• Teatro Agosto presentó 'Parque de los Sueños' en el Festival Interuniversitario Centroamericano de la Cultura.\n• Ocho jóvenes estudiantes del TEC participaron en la obra y recibieron aplausos del público presente.\n• El uso de videoproyecciones en la obra complicó el montaje, requiriendo ayuda de organizadores.\n• Los participantes destacaron la conexión emocional con el público durante la presentación de su obra.\n• Una segunda presentación está programada para el 30 de julio con otra obra similar.",
+      "category": "Mundo",
+      "bullets_20s": "• Teatro Agosto presentó su obra en el Festival Interuniversitario Centroamericano de la Cultura.\n• La obra se llama 'Parque de los Sueños' y explora la complejidad de nuestros sueños.\n• Participaron ocho estudiantes del Campus San José del TEC en la función de teatro.\n• El grupo recibió aplausos por su calidad y profundidad en la actuación.\n• Los estudiantes encontraron hermandad con otros grupos culturales en el festival.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/teatro-agosto-compartio-sus-suenos-resto-centroamerica",
       "publish_date": "2026-07-29T23:57:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Teatro Agosto brilla en Centroamérica llevando sus sueños al escenario.",
+      "teaser": "Lo clave en 20 segundos: Teatro Agosto brilló en Centroamérica con su obra 'Parque de los Sueños'.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/agosto-ficcua-jumana-3.jpg",
       "description": "Teatro Agosto compartió sus sueños con el resto de Centroamérica",
       "featured": false
@@ -836,11 +849,11 @@
       "slug": "el-charral-llevo-al-ficcua-2026-sus-primeras-producciones-audiovisuales",
       "title": "El Charral llevó al FICCUA 2026 sus primeras producciones audiovisuales",
       "category": "Costa Rica",
-      "bullets_20s": "• El grupo de cine El Charral presentó cinco cortometrajes en el FICCUA 2026, fortaleciendo su propuesta creativa.\n• Las producciones mostran una colaboración entre estudiantes de Costa Rica y Honduras, uniendo comunidades cinematográficas.\n• Se destacaron cortometrajes como 'Apuros' y 'La Calle de los Muertos', tocando temas relevantes y profundos.\n• El evento fue bien recibido por el público joven, provocando risas y reflexión entre los asistentes.\n• El director Hairo Blanco compartió el trasfondo emocional de su cortometraje, promoviendo la salud mental.",
+      "bullets_20s": "• El grupo El Charral presentó cinco cortometrajes en el FICCUA 2026, destacando su crecimiento en cine.\n• Los cortos fueron realizados por estudiantes del Campus Tecnológico Local San Carlos en 2026.\n• La función se realizó en colaboración con el grupo estudiantil de cine de la UNAH sobre salud mental.\n• El cortometraje 'La Calle de los Muertos' inspira reflexión sobre la salud mental y el suicidio.\n• La comunidad cinematográfica de Honduras recibió con aplausos las producciones de El Charral.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/charral-llevo-ficcua-2026-sus-primeras-producciones-audiovisuales",
       "publish_date": "2026-07-29T23:25:48.000Z",
-      "teaser": "Lo clave en 20 segundos: El Charral presentó cortometrajes en el FICCUA 2026, destacando la salud mental.",
+      "teaser": "Lo clave en 20 segundos: El Charral presentó sus producciones de cine en Honduras en el FICCUA 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/charral-ficcua-jumana-1.jpg",
       "description": "El Charral llevó al FICCUA 2026 sus primeras producciones audiovisuales",
       "featured": false
@@ -1005,11 +1018,11 @@
       "slug": "danzatec-llevo-al-escenario-del-ficcua-2026-el-viaje-de-la-migracion",
       "title": "DanzaTEC llevó al escenario del FICCUA 2026 el viaje de la migración",
       "category": "Costa Rica",
-      "bullets_20s": "• DanzaTEC presentó 'Viaje de muchas vidas... Perenne Osadía' en el FICCUA 2026.\n• La coreografía explora las experiencias de la migración desde diversos ángulos.\n• Ana Valverde, directora del grupo, destaca el valor humano de la migración.\n• La agrupación ha tenido 48 años de trayectoria representando al TEC.\n• Las bailarinas enfrentaron desafíos y pudieron improvisar sobre el escenario.",
+      "bullets_20s": "• DanzaTEC presentó la coreografía inspirada en la experiencia humana de migrar en FICCUA 2026.\n• La coreografía explora tanto el viaje físico como el emocional de quienes migran.\n• Ana Valverde, directora de la agrupación, expresó el sentido de la propuesta escénica.\n• El apoyo entre bailarinas fue fundamental ante imprevistos durante la presentación.\n• Estudiantes del Tecnológico de Costa Rica participaron en la emotiva actuación de la danza.\n• El vestuario de los bailarines reflejó la temática de la migración y el viaje humano.\n• DanzaTEC tiene una trayectoria de 48 años presentando arte en festivales nacionales.\n• La función se llevó a cabo en el Anfiteatro del CISE, en el corazón de Tegucigalpa.\n• La danza busca honrar las experiencias de quienes deciden dejar su hogar.\n• La actuación concluyó con el aplauso del público, reflejando su emotividad y conexión.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/danzatec-llevo-escenario-ficcua-2026-viaje-migracion",
       "publish_date": "2026-07-29T18:27:10.000Z",
-      "teaser": "Lo clave en 20 segundos: DanzaTEC explora la migración a través de la danza en el FICCUA 2026.",
+      "teaser": "Lo clave en 20 segundos: DanzaTEC presenta una emotiva coreografía sobre la migración en el FICCUA 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/01-danza-tec.png",
       "description": "DanzaTEC llevó al escenario del FICCUA 2026 el viaje de la migración",
       "featured": false
@@ -1408,11 +1421,11 @@
       "slug": "ensamble-acustico-compartio-la-identidad-tica-en-la-unah",
       "title": "Ensamble Acústico compartió la identidad tica en la UNAH",
       "category": "Costa Rica",
-      "bullets_20s": "• El Ensamble Acústico del TEC representó a Costa Rica en el FICCUA 2026.\n• Presentaron su repertorio 'Identidad en armonía' en la UNAH de Honduras.\n• La vocalista Sheyla Mejías interpretó varias piezas icónicas ticas.\n• Gonzalo Apízar destacó el valor de estos festivales para los artistas.\n• La directora del ensamble enfatizó su orgullo por representar al país.",
+      "bullets_20s": "• El Ensamble Acústico representó a Costa Rica en el FICCUA 2026 en Honduras.\n• El grupo interpretó piezas emblemáticas que celebran la identidad costarricense.\n• La vocalista Sheyla Mejías destacó con su canción 'De Aquí Soy'.\n• Músicos del TEC mostraron sus talentos en un festival internacional.\n• El evento potenció la integración cultural entre Costa Rica y Centroamérica.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/ensamble-acustico-compartio-identidad-tica-unah",
       "publish_date": "2026-07-29T01:13:55.000Z",
-      "teaser": "Lo clave en 20 segundos: El Ensamble Acústico mostró el talento tico en un festival internacional.",
+      "teaser": "Lo clave en 20 segundos: El Ensamble Acústico de Costa Rica brilló en Honduras, celebrando la identidad tica con su arte musical.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_6284.jpg",
       "description": "Ensamble Acústico compartió la identidad tica en la UNAH",
       "featured": false
@@ -66379,8 +66392,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-07-31T09:45:22.327Z",
-  "total": 5106,
+  "generated_at": "2026-07-31T10:45:24.493Z",
+  "total": 5107,
   "removed_soccer_news_count": 949,
   "removed_soccer_news_titles": [
     "FIFA reacciona ante oposición a su plan sobre el Mundial: ‘Nadie está vendiendo el fútbol’",
