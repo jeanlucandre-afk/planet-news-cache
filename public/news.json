@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "hepatitis-a-detectan-13-casos-en-aserri-y-desamparados",
+      "title": "Hepatitis A: detectan 13 casos en Aserrí y Desamparados",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Ministerio de Salud ha tomado medidas preventivas ante estos casos de hepatitis A en el país.\n• Aserrí y Desamparados son las áreas más afectadas por los casos recientes de hepatitis A.\n• Se están realizando investigaciones para determinar el origen de estos contagios en la comunidad.\n• El análisis de muestras de agua es parte del protocolo establecido por el ministerio de salud.\n• La hepatitis A es una enfermedad infecciosa que puede prevenirse con buenas prácticas de higiene.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/el-pais/hepatitis-a-detectan-13-casos-en-aserri-y/2AIB5KTW6RD5XLW6MXK2JCUT2I/story/",
+      "publish_date": "2026-07-31T22:26:53.000Z",
+      "teaser": "Lo clave en 20 segundos: se reportan 13 casos de hepatitis A en Aserrí y Desamparados.",
+      "image_url": "https://www.nacion.com/resizer/v2/JVERZ3V2VFD2RMCI5PBIJUSVBQ.jpg?auth=36e161e1ce449c38b000dc8ff33eb468d3f123a1aac11491172b59828337939c&smart=true&width=5643&height=3762",
+      "description": "El Ministerio de Salud reportó 13 casos confirmados de hepatitis A vinculados con Aserrí y San Juan de Dios de Desamparados. La institución investiga el origen y analiza muestras de agua.",
+      "featured": false
+    },
+    {
+      "slug": "lo-que-se-sabe-de-la-entrada-masiva-de-migrantes-en-el-territorio-espanol-de-ceuta",
+      "title": "Lo que se sabe de la entrada masiva de migrantes en el territorio español de Ceuta",
+      "category": "Mundo",
+      "bullets_20s": "• Ceuta ha enfrentado una crisis migratoria sin precedentes en su historia reciente en España.\n• La entrada masiva de migrantes ha conmocionado al Gobierno español y a la comunidad internacional.\n• Las autoridades españolas están tratando de gestionar la situación con medidas de seguridad especiales.\n• La situación ha generado un debate sobre las políticas migratorias en Europa y su efectividad.\n• Organizaciones humanitarias están alertando sobre la necesidad de proteger a los migrantes en Ceuta.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/lo-que-se-sabe-de-la-entrada-masiva-de-migrantes/KM6WJHAAUREXBPRWSXN2FD5TTU/story/",
+      "publish_date": "2026-07-31T22:16:08.000Z",
+      "teaser": "Lo clave en 20 segundos: La crisis migratoria en Ceuta ha afectado gravemente al Gobierno español.",
+      "image_url": "https://www.nacion.com/resizer/v2/AHGXP2V4UZHUZHB4FCF6SXT3NM.jpg?auth=4aa90ad34e8bfae21c72259cdb114002d3bd88e02a70c0f9a25886394c7ef661&smart=true&width=7384&height=4923",
+      "description": "La mayor ola migratoria registrada en Ceuta abrió una crisis política, diplomática y de seguridad para el Gobierno español.",
+      "featured": false
+    },
+    {
       "slug": "mexico-detiene-a-r1-quien-es-el-sospechoso-de-idear-el-asesinato-del-alcalde-carlos-manzo-y-de-la-modelo-valeria-marquez",
       "title": "México detiene a R1: quién es el sospechoso de idear el asesinato del alcalde Carlos Manzo y de la modelo Valeria Márquez",
       "category": "Mundo",
@@ -173,11 +199,11 @@
       "slug": "en-graficos-como-son-los-8-km-de-frontera-entre-espana-y-marruecos-en-ceuta-foco-de-tension-migratoria-de-la-union-europ",
       "title": "En gráficos: cómo son los 8 km de frontera entre España y Marruecos en Ceuta, foco de tensión migratoria de la Unión Europea",
       "category": "Mundo",
-      "bullets_20s": "• La frontera entre España y Marruecos en Ceuta se extiende por 8 km de tensión migratoria.\n• Más de 50.000 migrantes intentaron cruzar a Europa en días recientes, buscando mejores oportunidades.\n• El gobierno español reporta que la mayoría de los migrantes han regresado a Marruecos recientemente.\n• Se han intensificado las medidas de control en la frontera para manejar la migración masiva.\n• La situación en Ceuta es un reflejo de la crisis migratoria en otras partes del mundo.",
+      "bullets_20s": "• La frontera entre España y Marruecos es un punto crítico de migración hacia Europa.\n• En semanas recientes, miles de migrantes han intentado cruzar peligrosamente.\n• La situación ha generado tensiones en la política migratoria de la Unión Europea.\n• Los datos revelan el volumen de actividad en esta pequeña frontera terrestre.\n• El gobierno español trabaja en una estrategia para controlar el flujo migratorio.\n• Las condiciones de vida en Marruecos impulsan a muchos a arriesgarse.\n• Ceuta es una de las dos ciudades autónomas españolas en el norte de África.\n• El tema de la migración continúa siendo un desafío para Europa.\n• Se espera que la situación se discuta en próximos encuentros internacionales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cre4vq73j24o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-07-31T18:05:37.000Z",
-      "teaser": "Lo clave en 20 segundos: La tensión migratoria entre España y Marruecos se intensifica en Ceuta.",
+      "teaser": "Lo clave en 20 segundos: La crisis migratoria en la frontera de Ceuta y Marruecos se intensifica.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/6eb6/live/b4cb48d0-8cfa-11f1-b8ee-9b3c26ad07bb.jpg",
       "description": "Cerca de 50.000 migrantes intentaron cruzar desde Marruecos hacia Ceuta esta semana con el fin de llegar a la zona europea en los últimos días. Según el gobierno español, la mayoría ya había regresado a su país este viernes.",
       "featured": false
@@ -225,11 +251,11 @@
       "slug": "colegios-cientificos-abren-proceso-de-admision-2027",
       "title": "Colegios científicos abren proceso de admisión 2027",
       "category": "Costa Rica",
-      "bullets_20s": "• El Sistema Nacional de Colegios Científicos abre admisiones para el curso lectivo 2027 a jóvenes interesados.\n• Los estudiantes deben cursar noveno año, con enfoque en ciencias, matemática, robótica y computación.\n• La prueba de admisión se realizará en varias sedes el 09 de octubre a las 9:00 p.m.\n• Se requiere un promedio anual mínimo de 85 en asignaturas durante séptimo y octavo año.\n• Las inscripciones están abiertas del 3 de agosto al 26 de setiembre de 2026.",
+      "bullets_20s": "• El Sistema Nacional de Colegios Científicos ha iniciado su proceso de admisión para el año 2027.\n• Estudiantes de noveno año pueden aplicar para formar parte de este exclusivo sistema educativo.\n• La prueba de admisión está programada para el 9 de octubre a las 9:00 p.m. en sedes designadas.\n• Las inscripciones estarán abiertas desde el 3 de agosto hasta el 26 de setiembre de 2026.\n• Los aspirantes deben cumplir ciertos requisitos académicos y presentar documentos específicos.",
       "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/colegios-cientificos-abren-proceso-admission-2027",
+      "source_url": "http://www.tec.ac.cr/colegios-cientificos-abren-proceso-admision-2027",
       "publish_date": "2026-07-31T17:43:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Se abre el proceso de admisión para colegios científicos en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Se inicia el proceso de admisión para colegios científicos en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-de-nanoteclogia-104.png",
       "description": "Colegios científicos abren proceso de admisión 2027",
       "featured": false
@@ -237,12 +263,12 @@
     {
       "slug": "tec-conmemorara-el-lanzamiento-de-bombas-en-hiroshima-y-nagasaki",
       "title": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
-      "category": "Costa Rica",
-      "bullets_20s": "• TEC organiza conmemoración sobre las bombas nucleares lanzadas en Hiroshima y Nagasaki.\n• El evento busca sensibilizar sobre el impacto de la energía nuclear en la historia.\n• Se realizarán diversas actividades del 3 al 7 de agosto en el TEC.\n• Charlas incluirán temas sobre no proliferación nuclear y avances científicos.\n• Las actividades serán transmitidas por el canal oficial del TEC.",
+      "category": "Ciencia",
+      "bullets_20s": "• El TEC conmemorará el 81 aniversario del bombardeo de Hiroshima y Nagasaki en agosto.\n• Las actividades incluirán conferencias y un cineforo sobre energía nuclear y su historia.\n• Se busca sensibilizar sobre los efectos del uso bélico de la energía nuclear en el pasado.\n• Desde el 3 hasta el 7 de agosto se realizarán diversas charlas en el campus del TEC.\n• Expertos compartirán sus conocimientos sobre la energía nuclear y sus implicaciones actuales.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-conmemorara-lanzamiento-bombas-hiroshima-nagasaki-0",
       "publish_date": "2026-07-31T17:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC conmemora las bombas de Hiroshima y Nagasaki con charlas y actividades educativas.",
+      "teaser": "Lo clave en 20 segundos: El TEC recordará el impacto de las bombas nucleares en un evento educativo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/images_0.png",
       "description": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
       "featured": false
@@ -524,11 +550,11 @@
       "slug": "tuve-cancer-en-estadio-cuatro-a-los-14-anos-y-ahora-soy-medico",
       "title": "Tuve cáncer en estadio cuatro a los 14 años y ahora soy médico",
       "category": "Mundo",
-      "bullets_20s": "• El relato de Ellie Waters-Barnes es inspirador y refleja superación personal ante adversidades.\n• A los 14 años, enfrentó un diagnóstico de cáncer en estadio cuatro, un momento crítico.\n• Su tratamiento duró 18 meses, una experiencia que cambió su vida y perspectivas.\n• Hoy, Ellie es médico, buscando ayudar a otros con su testimonio y experiencia.\n• La importancia de la detección temprana del cáncer se hace evidente en su historia.\n• Su historia invita a reflexionar sobre la resiliencia y la lucha contra enfermedades graves.\n• El apoyo familiar y médico fue crucial durante su difícil proceso de recuperación.\n• Ellie representa a muchos jóvenes que luchan contra enfermedades y eligen perseverar.",
+      "bullets_20s": "• Ellie Waters-Barnes enfrentó un diagnóstico de cáncer a los 14 años en una etapa avanzada.\n• La joven se sometió a más de un año de tratamiento intensivo para combatir la enfermedad.\n• Su historia inspira a muchos debido a su fortaleza y determinación en la recuperación.\n• Ahora, Ellie ha decidido dedicarse a la medicina para ayudar a otros pacientes.\n• El testimonio de Ellie destaca la importancia de la detección temprana del cáncer.\n• Historias como la de Ellie reflejan la lucha contra el cáncer a nivel global.\n• La recuperación y sus aprendizajes motivan a otros jóvenes afectados por enfermedades.\n• La medicina es ahora la pasión de Ellie, quien busca marcar la diferencia.\n• Su experiencia con el cáncer le ha brindado una perspectiva única como futura médico.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cp3ryev5022o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-07-31T09:49:36.000Z",
-      "teaser": "Lo clave en 20 segundos: La inspiradora historia de Ellie y su lucha contra el cáncer.",
+      "teaser": "Lo clave en 20 segundos: superó el cáncer y ahora busca ayudar a otros como médico.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/71df/live/1dd2b470-8cc5-11f1-97f5-93fc85ee9dc4.jpg",
       "description": "Ellie Waters-Barnes sobrevivió a un cáncer agresivo en estadio IV y se sometió a 18 meses de tratamiento.",
       "featured": false
@@ -1355,12 +1381,12 @@
     {
       "slug": "teatro-agosto-compartio-sus-suenos-con-el-resto-de-centroamerica",
       "title": "Teatro Agosto compartió sus sueños con el resto de Centroamérica",
-      "category": "Costa Rica",
-      "bullets_20s": "• Teatro Agosto presentó la obra 'Parque de los Sueños' en FICCUA 2026 con gran éxito.\n• El grupo está formado por estudiantes del Campus San José del TEC, comprometidos con el arte.\n• La obra utiliza videoproyecciones y exploró la complejidad de los sueños humanos.\n• Los participantes recibieron un cálido aplauso del público en Honduras al final de la función.\n• El festival FICCUA busca promover la integración cultural en Centroamérica entre universidades.",
+      "category": "Mundo",
+      "bullets_20s": "• Teatro Agosto presentó 'Parque de los Sueños' en el Festival Interuniversitario Centroamericano de FICCUA 2026.\n• El grupo cultural estuvo compuesto por estudiantes del Campus San José del TEC en Costa Rica.\n• La obra utiliza videoproyecciones y fue un desafío técnico para los jóvenes actores.\n• Se agradeció la colaboración de otros participantes en el montaje del escenario entre presentaciones.\n• El público aplaudió el análisis de los sueños que se expone en la obra 'Parque de los Sueños'.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/teatro-agosto-compartio-sus-suenos-resto-centroamerica",
       "publish_date": "2026-07-29T23:57:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Teatro Agosto presentó 'Parque de los Sueños' en Honduras con gran éxito y conexión con el público.",
+      "teaser": "Lo clave en 20 segundos: Teatro Agosto brilló en FICCUA 2026, conectando con el público a través de los sueños.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/agosto-ficcua-jumana-3.jpg",
       "description": "Teatro Agosto compartió sus sueños con el resto de Centroamérica",
       "featured": false
@@ -66899,8 +66925,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-07-31T21:45:23.485Z",
-  "total": 5146,
+  "generated_at": "2026-07-31T22:45:22.889Z",
+  "total": 5148,
   "removed_soccer_news_count": 954,
   "removed_soccer_news_titles": [
     "La Liga de Ascenso tendrá un cambio que nadie esperaba para la temporada 2026-2027",
