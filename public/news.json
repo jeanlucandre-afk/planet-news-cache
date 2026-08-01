@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "competencia-perfecta-contrabando-de-argumentos",
+      "title": "Competencia Perfecta: Contrabando de argumentos",
+      "category": "Costa Rica",
+      "bullets_20s": "• La propuesta busca reducir el impuesto al tabaco en un contexto económico complejo.\n• Expertos alertan sobre posibles efectos negativos en la salud pública de Costa Rica.\n• La Hacienda debate sobre los impactos fiscales de la rebaja del impuesto.\n• El proyecto ha causado una controversia entre grupos de salud y el gobierno.\n• Opiniones polarizadas surgen sobre las ventajas y desventajas del contrabando de argumentos.",
+      "source_name": "José Luis Arce",
+      "source_url": "https://www.nacion.com/economia/competencia-perfecta-contrabando-de-argumentos/OEO2CBL4FNBSFOYNHK3RHPUYVI/story/",
+      "publish_date": "2026-08-01T15:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Hacienda propone rebajar impuestos al tabaco, generando debate público sobre salud y finanzas.",
+      "image_url": "https://www.nacion.com/resizer/v2/BMUGMMSAZJGILKUUDFTAPGJLJM.jpg?auth=a0e85a926b2713f40a1ee0281b185aba60e3f159747d98e2d8a1d8eff060ea24&smart=true&width=2738&height=1825",
+      "description": "Hacienda propone rebajar el impuesto al tabaco en Costa Rica. Conozca las repercusiones fiscales y de salud pública que genera este controvertido proyecto.",
+      "featured": false
+    },
+    {
       "slug": "cortes-de-luz-de-la-cnfl-afectaran-sectores-de-curridabat-y-desamparados-este-lunes",
       "title": "Cortes de luz de la CNFL afectarán sectores de Curridabat y Desamparados este lunes",
       "category": "Costa Rica",
-      "bullets_20s": "• Cortes de luz programados para el lunes afectarán varias comunidades en Curridabat y Desamparados.\n• La CNFL ha informado que estos cortes son necesarios para realizar trabajos de mantenimiento.\n• Se recomienda a los usuarios planificar sus actividades para minimizar el impacto del corte.\n• El servicio se verá interrumpido en horarios específicos que serán comunicados por la CNFL.\n• Los usuarios deben estar atentos a la información para estar preparados ante la interrupción del servicio.",
+      "bullets_20s": "• La CNFL realizará cortes de luz programados en varias comunidades este lunes.\n• Se espera que miles de usuarios en San José se vean afectados por la medida.\n• Se recomienda a los ciudadanos estar preparados ante las interrupciones del servicio.\n• Las zonas específicas incluídas son Curridabat y Desamparados.\n• Consulte con la CNFL para conocer los horarios y comunidades afectadas.",
       "source_name": "Silvia Ureña Corrales",
       "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-de-la-cnfl-afectaran-sectores-de/7OOUTSYGPBGF7NRVCKHBCNBMZQ/story/",
       "publish_date": "2026-08-01T14:16:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Cortes de luz afectarán sectores en Curridabat y Desamparados este lunes.",
+      "teaser": "Lo clave en 20 segundos: cortes programados de luz en Curridabat y Desamparados este lunes.",
       "image_url": "https://www.nacion.com/resizer/v2/5SV4G36QSZHKNGHZC4ZLOTUGDE.JPG?auth=c91c393777e2f8f7a92a02aefe886bea42348680ad9143c5598cf84736a7b5ad&smart=true&width=4000&height=2667",
       "description": "Miles de usuarios tendrán interrupciones del servicio eléctrico este lunes. Consulte cuáles comunidades de San José estarán sin electricidad y durante cuánto tiempo.",
       "featured": false
@@ -17,13 +30,26 @@
       "slug": "la-odisea-un-debate-complicado",
       "title": "La Odisea, un debate complicado",
       "category": "Mundo",
-      "bullets_20s": "• La película ha generado opiniones encontradas entre críticos y espectadores.\n• El director Christopher Nolan aborda en su filme temas de libertad creativa.\n• La historia de Homero es reinterpretada con una visión contemporánea.\n• El legado literario se pone a prueba con esta adaptación cinematográfica.\n• El debate se centra en el equilibrio entre arte y entretenimiento.\n• La crítica destaca aspectos innovadores y controversiales de la película.\n• El impacto cultural de la obra original se discute intensamente hoy.\n• El público joven muestra un interés renovado por la literatura clásica.\n• El enfoque de Nolan podría influir en futuras adaptaciones de clásicos.\n• Las redes sociales han amplificado las opiniones sobre la película.",
+      "bullets_20s": "• La nueva película de Nolan provoca opiniones encontradas entre críticos y aficionados al cine.\n• La adaptación de la obra clásica enfrenta cuestionamientos sobre la libertad artística en el cine.\n• El debate se centra en cómo reinterpretaciones modernas deberían abordar textos literarios originales.\n• La obra de Homero continúa siendo relevante en discusiones contemporáneas de creación artística.\n• El cine contemporáneo se enfrenta a desafíos al reinterpretar historias ya consagradas.",
       "source_name": "Gina Montaner",
       "source_url": "https://www.nacion.com/opinion/columnistas/la-odisea-un-debate-complicado/YGOPFPDP5ZB5DCLWDEET4WZCVA/story/",
       "publish_date": "2026-08-01T13:45:00.000Z",
-      "teaser": "Lo clave en 20 segundos: La nueva película 'La Odisea' de Nolan provoca un intenso debate sobre cine y literatura.",
+      "teaser": "Lo clave en 20 segundos: La Odisea de Nolan genera debate sobre libertad creativa y legado literario.",
       "image_url": "https://www.nacion.com/resizer/v2/XAI7UUFEX5FC5GE4OHV3DHLVSM.jpg?auth=16c6cfdf0962ce0f3f2dc2a9173d090a9219d097a7b91a8cb0afee3000922188&smart=true&width=3074&height=2049",
       "description": "La nueva película de Christopher Nolan, 'La Odisea', divide a la crítica y al público. Su reinterpretación del clásico de Homero reavivó el debate sobre la libertad creativa, el cine contemporáneo y el legado de la literatura universal.",
+      "featured": false
+    },
+    {
+      "slug": "espana-acusa-de-egoista-la-respuesta-de-algunos-paises-de-la-ue-y-pide-unidad-ante-la-crisis-migratoria-en-ceuta",
+      "title": "España acusa de \"egoísta\" la respuesta de algunos países de la UE y pide unidad ante la crisis migratoria en Ceuta",
+      "category": "Mundo",
+      "bullets_20s": "• España señala falta de solidaridad entre países de la UE en temas migratorios cruciales.\n• Crisis en Ceuta evidencia la necesidad de un enfoque más colaborativo en Europa.\n• Italia reacciona suspendiendo con España el acuerdo Schengen temporalmente.\n• Declaraciones de la primera ministra italiana destacan la gravedad de la situación.\n• Unión Europea enfrenta desafíos significativos en la gestión de flujos migratorios actualmente.",
+      "source_name": "",
+      "source_url": "https://www.bbc.com/mundo/articles/ckgvl7qq190o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-01T13:15:55.000Z",
+      "teaser": "Lo clave en 20 segundos: España critica la falta de unidad en la crisis migratoria de Ceuta.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b3e1/live/98c7dee0-8d7d-11f1-b2ab-0dd01740f9f6.jpg",
+      "description": "Italia ha suspendido temporalmente el acuerdo de Schengen con España, después de que la primera ministra Giorgia Meloni calificara de \"impactantes\" las escenas vividas en Ceuta.",
       "featured": false
     },
     {
@@ -50,6 +76,19 @@
       "teaser": "Lo clave en 20 segundos: El debate sobre la reelección de magistrados en Costa Rica sigue generando opiniones encontradas.",
       "image_url": "https://www.nacion.com/resizer/v2/EQPGX7N6LBFFBNMVF7HXWLGEJQ.jpg?auth=f8c4c9f1f080fe59a18a11c85381dd06cc1304ef67d7c9f0299aa133e2ee5946&smart=true&width=5760&height=3840",
       "description": "Propongo abrir un debate constitucional responsable sobre la forma en que la independencia de los jueces puede convivir con mayores niveles de transparencia, motivación y responsabilidad pública.",
+      "featured": false
+    },
+    {
+      "slug": "como-un-tornillo-ayudo-a-eeuu-a-conquistar-el-mundo",
+      "title": "Cómo un tornillo ayudó a EE.UU. a conquistar el mundo",
+      "category": "Mundo",
+      "bullets_20s": "• Un tornillo simple tuvo un impacto profundo en la industria y la economía mundial.\n• El sistema de medidas estadounidense influyó en la producción global de bienes.\n• Este fenómeno se expandió a diferentes sectores, desde maquinaria hasta tecnología.\n• La estandarización facilitó un comercio más eficiente entre naciones.\n• A medida que el siglo XX avanzaba, las innovaciones fueron cruciales para el desarrollo.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c5y4vdwk401o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-01T12:57:07.000Z",
+      "teaser": "Lo clave en 20 segundos: Un tornillo transformó la industria y el comercio global en el siglo XX.",
+      "image_url": "",
+      "description": "A principios del siglo XX, muchas cosas no encajaban; unas décadas después, el mundo se ajustó a las medidas de Estados Unidos.",
       "featured": false
     },
     {
@@ -95,11 +134,11 @@
       "slug": "como-dos-policias-encubiertos-ayudaron-a-esclarecer-un-asesinato-que-habia-quedado-impune-por-mas-de-40-anos",
       "title": "Cómo dos policías encubiertos ayudaron a esclarecer un asesinato que había quedado impune por más de 40 años",
       "category": "Mundo",
-      "bullets_20s": "• Dos policías encubiertos juegan un papel crucial en la resolución de un caso de asesinato histórico.\n• El caso de Anthony Littler estuvo sin resolver por más de 40 años, dejando muchos interrogantes.\n• Las técnicas de infiltración utilizadas por la policía británica resultaron ser determinantes en este caso.\n• Comparación con otros casos similares que permanecen sin resolver por falta de pruebas.\n• Reflexiones sobre la justicia y la importancia de la persistencia en investigaciones policiales.",
+      "bullets_20s": "• Un caso de asesinato que permaneció sin resolver por más de 40 años fue finalmente esclarecido.\n• La intervención de dos policías encubiertos fue clave para conocer la verdad detrás del crimen.\n• La complejidad del caso resalta la importancia de la infiltración policial en investigaciones complejas.\n• La resolución de este asesinato marca un hito en la historia de la policía británica.\n• El caso de Anthony Littler refleja los avances en técnicas de investigación y justicia.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cjrgw2d39w2o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-01T12:03:03.000Z",
-      "teaser": "Lo clave en 20 segundos: La resolución de un asesinato de 40 años gracias a la labor encubierta de la policía.",
+      "teaser": "Lo clave en 20 segundos: Un asesinato impune durante décadas fue resuelto por la valentía de dos policías encubiertos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/2fd3/live/04d8c950-76f4-11f1-9510-1546718f668b.png",
       "description": "Cuatro décadas después de la muerte de Anthony Littler, la policía británica logró infiltrarse entre los responsables y lograr su condena.",
       "featured": false
@@ -225,11 +264,11 @@
       "slug": "3-asuntos-que-historicamente-han-tensado-las-relaciones-entre-espana-y-marruecos",
       "title": "3 asuntos que históricamente han tensado las relaciones entre España y Marruecos",
       "category": "Mundo",
-      "bullets_20s": "• Las relaciones entre España y Marruecos han sido tensas debido a migración y seguridad regional.\n• Disputas territoriales han alimentado la desconfianza histórica entre ambas naciones mediterráneas.\n• El papel estratégico de Marruecos en el norte de África influye en su relación con Europa.\n• Crisis migratorias recurrentes generan dilemas de cooperación y confianza entre ambos países.\n• Los intereses económicos y comerciales a menudo se ven afectados por estas tensiones políticas.",
+      "bullets_20s": "• Las relaciones entre España y Marruecos han sido a menudo conflictivas por diversos temas históricos.\n• Uno de los principales problemas es el manejo de la migración en las fronteras de Ceuta y Melilla.\n• Disputas geopolíticas añaden complejidad a la cooperación en temas como el control de la migración.\n• Las tensiones económicas y políticas también marcan la interacción entre ambos países vecinos.\n• Los acuerdos bilaterales son fundamentales para mejorar la cooperación y la seguridad en la región.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cp3rexne911o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-01T02:53:34.000Z",
-      "teaser": "Lo clave en 20 segundos: Tensiones históricas entre España y Marruecos por migración y disputas geopolíticas.",
+      "teaser": "Lo clave en 20 segundos: tensiones históricas entre España y Marruecos por migración y geopolítica.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/8537/live/a3b46050-8d30-11f1-b3b6-29b7cb5033ec.jpg",
       "description": "La entrada masiva de migrantes en Ceuta reaviva las dudas sobre la cooperación de Marruecos con España en materia de migración y saca a la luz las disputas geopolíticas que persisten entre ambos vecinos.",
       "featured": false
@@ -602,11 +641,11 @@
       "slug": "colegios-cientificos-abren-proceso-de-admision-2027",
       "title": "Colegios científicos abren proceso de admisión 2027",
       "category": "Costa Rica",
-      "bullets_20s": "• El Sistema Nacional de Colegios Científicos inicia su proceso de admisión para 2027.\n• Los estudiantes de noveno año podrán aplicar para el examen de admisión.\n• La prueba de admisión se llevará a cabo el 09 de octubre a las 9:00 p.m.\n• El periodo de inscripciones abarca del 3 de agosto al 26 de septiembre de 2026.\n• Se requieren documentos como fotografías y constancia de notas para la inscripción.",
+      "bullets_20s": "• El SNCCCR inicia el proceso de admisión para el curso lectivo 2027 en Costa Rica.\n• Los estudiantes de noveno año pueden postularse para estudiar ciencias y robótica.\n• Se realizará una prueba de admisión el 9 de octubre a las 9 p.m. en diversas sedes.\n• Las inscripciones estarán abiertas del 3 de agosto al 26 de septiembre de 2026.\n• Es necesario cumplir con requisitos académicos y presentar documentación específica.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/colegios-cientificos-abren-proceso-admision-2027",
       "publish_date": "2026-07-31T17:43:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Los colegios científicos ya abrieron su proceso de admisión 2027.",
+      "teaser": "Lo clave en 20 segundos: Abren admisión en colegios científicos para el 2027 en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-de-nanoteclogia-104.png",
       "description": "Colegios científicos abren proceso de admisión 2027",
       "featured": false
@@ -615,12 +654,12 @@
       "slug": "tec-conmemorara-el-lanzamiento-de-bombas-en-hiroshima-y-nagasaki",
       "title": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
       "category": "Ciencia",
-      "bullets_20s": "• La actividad rinde homenaje al 81 aniversario de los bombardeos en Japón durante la Segunda Guerra Mundial.\n• Se realizarán charlas y actividades del 3 al 7 de agosto para promover la reflexión sobre el tema.\n• La Escuela de Ciencias Sociales del TEC organizó el evento para concientizar a la sociedad sobre el impacto nuclear.\n• Expertos ofrecerán conferencias sobre la no proliferación nuclear y la historia de la energía en Japón.\n• Las actividades serán transmitidas por el canal oficial del TEC para mayor accesibilidad.",
+      "bullets_20s": "• La conmemoración se llevará a cabo del 3 al 7 de agosto en el TEC.\n• Se realizan actividades educativas para concientizar sobre la energía nuclear.\n• Las charlas serán transmitidas por el canal oficial del TEC.\n• Se presentarán diversas conferencias por expertos en energía nuclear.\n• La inauguración incluirá autoridades como un delegado de la Embajada de Japón.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-conmemorara-lanzamiento-bombas-hiroshima-nagasaki-0",
       "publish_date": "2026-07-31T17:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC reflexionará sobre Hiroshima y Nagasaki con actividades educativas este agosto.",
-      "image_url": "",
+      "teaser": "Lo clave en 20 segundos: El TEC recordará el impacto de las bombas nucleares en Hiroshima y Nagasaki.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/images_0.png",
       "description": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
       "featured": false
     },
@@ -1732,12 +1771,12 @@
     {
       "slug": "teatro-agosto-compartio-sus-suenos-con-el-resto-de-centroamerica",
       "title": "Teatro Agosto compartió sus sueños con el resto de Centroamérica",
-      "category": "Costa Rica",
-      "bullets_20s": "• Teatro Agosto presentó la obra 'Parque de los Sueños' en el FICCUA 2026 en Honduras.\n• Ocho estudiantes brillaron en una presentación que obtuvo grandes aplausos del público.\n• El uso de videoproyecciones representó un desafío técnico para el grupo cultural.\n• Los jóvenes mostraron gran talento a pesar del tiempo limitado para el montaje.\n• La obra profundiza en el análisis de los sueños y sus complejidades.",
+      "category": "Mundo",
+      "bullets_20s": "• Teatro Agosto presentó 'Parque de los Sueños' en el Festival Interuniversitario Centroamericano.\n• Ocho estudiantes del TEC deleitaron al público con una innovadora obra cargada de emociones.\n• La obra analizó la complejidad de los sueños y su importancia en la vida humana.\n• El ensayo y la presentación requirieron un esfuerzo significativo del grupo joven.\n• La experiencia del festival fomentó la conexión entre los participantes y otras culturas.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/teatro-agosto-compartio-sus-suenos-resto-centroamerica",
       "publish_date": "2026-07-29T23:57:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Teatro Agosto destaca en el FICCUA 2026 con su obra sobre los sueños.",
+      "teaser": "Lo clave en 20 segundos: Teatro Agosto destaca en Centroamérica con 'Parque de los Sueños'.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/agosto-ficcua-jumana-3.jpg",
       "description": "Teatro Agosto compartió sus sueños con el resto de Centroamérica",
       "featured": false
@@ -67263,8 +67302,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-01T14:45:24.572Z",
-  "total": 5174,
+  "generated_at": "2026-08-01T15:45:23.665Z",
+  "total": 5177,
   "removed_soccer_news_count": 958,
   "removed_soccer_news_titles": [
     "La Selección Femenina de Costa Rica despierta en los Juegos Centroamericanos y del Caribe",
