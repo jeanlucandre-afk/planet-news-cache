@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "inundaciones-obligaron-a-evacuar-al-menos-29-personas-en-matina",
+      "title": "Inundaciones obligaron a evacuar al menos 29 personas en Matina",
+      "category": "Costa Rica",
+      "bullets_20s": "• Inundaciones en Matina afectaron a varias comunidades y provocaron evacuaciones urgentes.\n• La Cruz Roja y Bomberos trabajan arduamente para atender las necesidades de los afectados.\n• El desbordamiento de ríos ha causado daños significativos en infraestructuras locales.\n• Se reportan evacuaciones en zonas críticas debido al riesgo de más inundaciones.\n• El dique en Finca Estrada se rompió, complicando aún más la situación en la región.",
+      "source_name": "Juan Fernando Lara Salas",
+      "source_url": "https://www.nacion.com/sucesos/inundaciones-obligaron-a-evacuar-al-menos-29/TZJ2K4UFQBGHJBYWFG2CSXAHFA/story/",
+      "publish_date": "2026-08-02T22:55:47.000Z",
+      "teaser": "Lo clave en 20 segundos: Inundaciones en Matina obligan a evacuación de 29 personas, con respuesta de emergencias activa.",
+      "image_url": "https://www.nacion.com/resizer/v2/RMYW2KLUZJA2BG5TJAG2PS5OBI.jpeg?auth=039c7e4f15e0db782618cc513485f7f5592a21066ce5119285934da360908b3e&smart=true&width=1600&height=1200",
+      "description": "Inundaciones en Matina dejan 29 evacuados. Cruz Roja y Bomberos atienden emergencias por desbordamiento de ríos y la ruptura de un dique en Finca Estrada.",
+      "featured": false
+    },
+    {
       "slug": "ariana-grande-se-baja-de-un-musical-para-tomarse-un-descanso-del-escrutinio-constante-al-que-se-siente-sometida",
       "title": "Ariana Grande se baja de un musical para tomarse un descanso del escrutinio \"constante\" al que se siente sometida",
       "category": "Mundo",
-      "bullets_20s": "• Ariana Grande anunció su retiro temporal tras una exitosa gira mundial.\n• La cantante se siente abrumada por la atención constante de los medios.\n• Su representante confirmó que tomará un descanso significativo.\n• La decisión busca preservar su salud mental y bienestar personal.\n• El escrutinio constante afecta a muchas figuras públicas en la actualidad.",
+      "bullets_20s": "• Ariana Grande anunció su decisión de alejarse temporalmente del escenario musical.\n• La artista mencionó la presión constante de la vida pública como un factor determinante.\n• Su representante confirmó que se tomará un descanso tras su gira mundial.\n• Se espera que esta pausa le ayude a recargar energías y tomar nuevos caminos.\n• La vida bajo el escrutinio ha sido complicada para muchos artistas en la actualidad.",
       "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/c3v0z6pw4x7o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-02T22:06:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Ariana Grande se retira para cuidar su salud mental tras el escrutinio mediático.",
+      "teaser": "Lo clave en 20 segundos: Ariana Grande se retira temporalmente de la vida pública por razones de salud mental.",
       "image_url": "",
       "description": "La cantante estadounidense se \"retirará de la vida pública\" al finalizar su gira mundial, declaró su representante.",
       "featured": false
@@ -238,11 +251,11 @@
       "slug": "que-fueron-las-guerras-cristeras-la-sangrienta-confrontacion-que-marco-la-relacion-entre-el-estado-y-la-iglesia-en-mexic",
       "title": "Qué fueron las guerras cristeras, la sangrienta confrontación que marcó la relación entre el Estado y la Iglesia en México",
       "category": "Mundo",
-      "bullets_20s": "• Las guerras cristeras fueron conflictos significativos en la historia de México, marcando su desarrollo político.\n• Se desarrollaron entre 1926 y 1929, con un fuerte trasfondo religioso y político en juego.\n• El enfrentamiento tuvo un saldo trágico, con un alto número de víctimas y destrucción generalizada.\n• Las mujeres jugaron un rol crucial en estas guerras, desafiando estereotipos de género de la época.\n• Este conflicto afectó profundamente la relación entre el Estado mexicano y la Iglesia católica.",
+      "bullets_20s": "• Las guerras cristeras fueron un conflicto que enfrentó al gobierno mexicano y la Iglesia Católica.\n• Este enfrentamiento ocurrió en México durante la década de 1920 y dejó profundas cicatrices.\n• Las mujeres jugaron un rol fundamental, participando en combate y actividades de apoyo.\n• El conflicto se originó por leyes que restringían la influencia de la Iglesia en el país.\n• Se estima que cerca de 250,000 personas perdieron la vida en esta violenta confrontación.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cg4w2pe5zrro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-02T16:04:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Las guerras cristeras fueron un conflicto que impactó la relación Estado-Iglesia en México.",
+      "teaser": "Lo clave en 20 segundos: Las guerras cristeras significaron un hito en la relación entre Estado e Iglesia en México.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c612/live/f0a12cb0-8b5d-11f1-b422-3b36120ef864.jpg",
       "description": "Hace un siglo, el país norteamericano se vio envuelto en un conflicto político, militar y religioso que dejó alrededor de 250.000 muertos y en el que las mujeres tuvieron un papel protagónico.",
       "featured": false
@@ -433,11 +446,11 @@
       "slug": "mercurocromo-el-antiseptico-con-el-que-curaron-las-heridas-de-millones-de-ninos-en-todo-el-mundo-y-termino-prohibido",
       "title": "Mercurocromo, el antiséptico con el que curaron las heridas de millones de niños en todo el mundo y terminó prohibido",
       "category": "Mundo",
-      "bullets_20s": "• El mercurocromo fue un antiséptico popular durante décadas en diferentes países del mundo.\n• Su uso estaba extendido para tratar heridas menores en niños y adultos en hospitales.\n• El color rojo intenso del mercurocromo lo hacía especialmente reconocible en el botiquín familiar.\n• A pesar de su eficacia, se descubrieron riesgos asociados a su uso prolongado en humanos.\n• La prohibición del mercurocromo marcó un cambio en los estándares de la salud pública global.",
-      "source_name": "",
+      "bullets_20s": "• El mercurocromo fue un antiséptico popular en muchos hogares durante décadas.\n• Su color rojo lo hacía fácilmente reconocible por los niños y padres.\n• Se utilizaba comúnmente para desinfectar heridas menores y cortes en piel.\n• A menudo era temido por los niños debido a su doloroso efecto al aplicar.\n• Con el tiempo, se descubrieron efectos adversos del mercurocromo en la salud.",
+      "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx2knyrryvqo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-02T11:42:54.000Z",
-      "teaser": "Lo clave en 20 segundos: El mercurocromo fue un antiséptico popular que ha sido prohibido por sus riesgos.",
+      "teaser": "Lo clave en 20 segundos: El mercurocromo, un antiguo antiséptico, fue amado y temido por los niños del mundo.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ef6f/live/be7499a0-8af1-11f1-a7ab-8b30adf0800a.jpg",
       "description": "Para millones de niños, esta sustancia roja que manchaba todo lo que tocaba, era una de las imágenes más temidas al hacerse una herida.",
       "featured": false
@@ -485,12 +498,12 @@
       "slug": "luana-lopes-lara-la-bailarina-de-ballet-que-se-convirtio-en-la-multimillonaria-mas-joven-del-mundo-con-una-empresa-muy-c",
       "title": "Luana Lopes Lara, la bailarina de ballet que se convirtió en la multimillonaria más joven del mundo con una empresa muy controvertida",
       "category": "Mundo",
-      "bullets_20s": "• Luana Lopes Lara inició su carrera como bailarina de ballet en su adolescencia.\n• Decidió dejar el ballet para enfocarse en los negocios y la tecnología.\n• Fundó Kalshi, una plataforma innovadora de mercados de predicción en línea.\n• Su empresa provoca debate sobre la regulación y la ética en los mercados.\n• Se ha convertido en símbolo de jóvenes emprendedores en el sector tecnológico.",
+      "bullets_20s": "• Luana Lopes Lara, a pesar de su juventud, ha logrado una impresionante fortuna y reconocimiento mundial.\n• Fundó Kalshi, una plataforma innovadora en los mercados de predicción con un enfoque único.\n• Su trayectoria muestra cómo la creatividad puede transformar industrias tradicionales como el ballet.\n• Controversias han rodeado su empresa, generando debate sobre lo que es ético en mercados de predicción.\n• Su historia es un ejemplo de la intersección entre arte, emprendimiento y tecnología moderna.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cj635znkreyo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-02T10:20:18.000Z",
-      "teaser": "Lo clave en 20 segundos: Luana Lopes, de bailarina a joven multimillonaria, revoluciona el mercado de predicción.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/5458/live/2b0bb890-8783-11f1-9428-e17279226993.jpg",
+      "teaser": "Lo clave en 20 segundos: Cómo una bailarina se convirtió en una empresaria multimillonaria transformando las leyes.",
+      "image_url": "",
       "description": "La cofundadora de la plataforma de mercados de predicción Kalshi, cambió los tutús por los libros y se le ocurrió una idea que cambió la ley y su fortuna.",
       "featured": false
     },
@@ -1486,11 +1499,11 @@
       "slug": "colegios-cientificos-abren-proceso-de-admision-2027",
       "title": "Colegios científicos abren proceso de admisión 2027",
       "category": "Costa Rica",
-      "bullets_20s": "• El Sistema Nacional de Colegios Científicos ha comenzado el proceso de admisión para 2027.\n• Estudiantes de noveno año pueden aplicar para estudiar ciencias y matemática.\n• La prueba de admisión se realizará el 09 de octubre a las 9:00 p.m.\n• La inscripción será del 3 de agosto al 26 de setiembre del 2026.\n• Es fundamental cumplir con requisitos académicos y de conducta para aplicar.",
+      "bullets_20s": "• El Sistema Nacional de Colegios Científicos ha abierto el proceso de admisión para el curso 2027.\n• Los estudiantes de noveno año pueden aplicar para estudiar ciencias, matemática y robótica.\n• La prueba de admisión se realizará el 09 de octubre a las 9:00 p.m. en distintas sedes.\n• Las inscripciones estarán abiertas del 3 de agosto al 26 de septiembre de 2026.\n• Se requieren documentos específicos como constancias de notas y fotografías tamaño pasaporte.",
       "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/colegios-cientificos-abren-proceso-admission-2027",
+      "source_url": "http://www.tec.ac.cr/colegios-cientificos-abren-proceso-admision-2027",
       "publish_date": "2026-07-31T17:43:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Se abre la admisión para colegios científicos en Costa Rica para el 2027.",
+      "teaser": "Lo clave en 20 segundos: Abren admisión en colegios científicos para el ciclo 2027. ¡Infórmate aquí!",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-de-nanoteclogia-104.png",
       "description": "Colegios científicos abren proceso de admisión 2027",
       "featured": false
@@ -1498,12 +1511,12 @@
     {
       "slug": "tec-conmemorara-el-lanzamiento-de-bombas-en-hiroshima-y-nagasaki",
       "title": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
-      "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Ciencias Sociales del TEC conmemora el 81 aniversario de Hiroshima y Nagasaki.\n• Del 3 al 7 de agosto habrá charlas y actividades para concientizar sobre la energía nuclear.\n• Eventos incluyen conferencias de expertos sobre temas nucleares y su historia impactante.\n• Se discutirá la proyección de la energía nuclear en la actualidad y su pasado explosivo.\n• El TEC busca sensibilizar a la población sobre el uso pacífico de la energía nuclear.",
+      "category": "Mundo",
+      "bullets_20s": "• El TEC realizará actividades del 3 al 7 de agosto sobre Hiroshima y Nagasaki.\n• Las conferencias abordarán los efectos de las bombas nucleares en la historia.\n• El objetivo es concientizar sobre los usos pacíficos de la energía nuclear.\n• Se incluirán charlas por reconocidos expertos en el tema nuclear.\n• Las actividades serán transmitidas por el canal oficial del TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-conmemorara-lanzamiento-bombas-hiroshima-nagasaki-0",
       "publish_date": "2026-07-31T17:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC conmemorará las bombas nucleares con charlas del 3 al 7 de agosto.",
+      "teaser": "Lo clave en 20 segundos: El TEC conmemorará el impacto de Hiroshima y Nagasaki con diversas actividades educativas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/images_0.png",
       "description": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
       "featured": false
@@ -2617,11 +2630,11 @@
       "slug": "teatro-agosto-compartio-sus-suenos-con-el-resto-de-centroamerica",
       "title": "Teatro Agosto compartió sus sueños con el resto de Centroamérica",
       "category": "Mundo",
-      "bullets_20s": "• Teatro Agosto presentó la obra 'Parque de los Sueños' en el festival FICCUA 2026.\n• Los estudiantes vivieron una experiencia inolvidable al compartir con el público hondureño.\n• La obra incluyó videoproyecciones, lo que complicó su montaje en el escenario.\n• Los aplausos del público resaltaron la calidad de la presentación de los jóvenes.\n• La directora destacó el compromiso y talento de los estudiantes durante la actuación.",
+      "bullets_20s": "• El grupo del Teatro Agosto presentó 'Parque de los Sueños' en Honduras durante el festival FICCUA 2026.\n• El montaje incluyó videoproyecciones, lo que demandó un trabajo en equipo y rápida adaptación.\n• Los jóvenes actores lograron una conexión especial con el público durante la presentación.\n• Se espera una segunda obra titulada 'Hay animales como hay gente' para el festival el 30 de julio.\n• La experiencia generó nuevas amistades y conexiones interculturales entre los participantes.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/teatro-agosto-compartio-sus-suenos-resto-centroamerica",
       "publish_date": "2026-07-29T23:57:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Teatro Agosto brilla en Honduras con 'Parque de los Sueños'.",
+      "teaser": "Lo clave en 20 segundos: Teatro Agosto brilló en el FICCUA 2026 en Honduras con su obra 'Parque de los Sueños'.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/agosto-ficcua-jumana-3.jpg",
       "description": "Teatro Agosto compartió sus sueños con el resto de Centroamérica",
       "featured": false
@@ -68147,10 +68160,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-02T22:45:22.865Z",
-  "total": 5242,
-  "removed_soccer_news_count": 968,
+  "generated_at": "2026-08-02T23:45:22.534Z",
+  "total": 5243,
+  "removed_soccer_news_count": 969,
   "removed_soccer_news_titles": [
+    "Tim Payne debutó con su nuevo club y lo que pasó después fue una verdadera locura",
     "La impresionante caída de Infantino en solo unos días",
     "Concacaf confirma cambio de horario y sede para el partido de Costa Rica en México en busca del boleto al Mundial",
     "Rosalía pide disculpas en Argentina tras polémica por el Mundial",
@@ -68199,7 +68213,6 @@
     "Dos teatros de la Amazonía brasileña entran al Patrimonio Mundial de la Unesco",
     "Infantino carga contra los críticos del Mundial 2026 por ‘difundir odio’",
     "Boca Juniors hace un papelón en el campeonato de Argentina",
-    "Esto hay que verlo: arquero no supo qué hacer con el balón y se anotó un gol insólito (video)",
-    "Un campeón del Mundo de la Selección de España pasará por el quirófano este lunes"
+    "Esto hay que verlo: arquero no supo qué hacer con el balón y se anotó un gol insólito (video)"
   ]
 }
