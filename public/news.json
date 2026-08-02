@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "incendio-forestal-obliga-a-evacuar-a-miles-de-personas-en-washington-al-noroeste-de-estados-unidos",
+      "title": "Incendio forestal obliga a evacuar a miles de personas en Washington, al noroeste de Estados Unidos",
+      "category": "Mundo",
+      "bullets_20s": "• Los incendios forestales en Washington son una preocupación recurrente cada temporada.\n• La ciudad de Spokane ha sido una de las más afectadas por las llamas este año.\n• Miles de evacuados enfrentan incertidumbre en su hogar debido a la situación.\n• Las autoridades trabajan para controlar el fuego y garantizar la seguridad ambiental.\n• La temporada actual de incendios ha sido catalogada como una de las más activas.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/incendio-forestale-obliga-a-evacuar-a-miles-de/4EJLEPOAHNCUXH7FIYKREEWL44/story/",
+      "publish_date": "2026-08-02T18:20:24.000Z",
+      "teaser": "Lo clave en 20 segundos: Miles evacuados por un incendio forestal en Spokane, Washington.",
+      "image_url": "https://www.nacion.com/resizer/v2/YVGGHL6EQBFMZO3WBVFEJAP4S4.jpg?auth=8728f12319de35a30e2104f21fdf0a52c05bded63924d837075008fd6f9b4119&smart=true&width=4592&height=3120",
+      "description": "Un incendio forestal de rápida propagación llegó a la ciudad de Spokane, donde miles de personas fueron evacuadas por una de las temporadas de incendios más activas en Washington",
+      "featured": false
+    },
+    {
+      "slug": "sacerdote-hace-llamado-a-no-ignorar-corrupcion-narcotrafico-y-pobreza-en-misa-desde-la-basilica-a-la-que-acudio-laura-fe",
+      "title": "Sacerdote hace llamado a no ignorar corrupción, narcotráfico y pobreza en misa desde la basílica a la que acudió Laura Fernández: ‘Ilumina a los que tienen responsabilidades públicas’",
+      "category": "Costa Rica",
+      "bullets_20s": "• El obispo instó a la comunidad a no hacerse indiferente ante la corrupción en el país.\n• Resaltó la importancia de unir esfuerzos para combatir el narcotráfico en Costa Rica.\n• Durante la misa, el sacerdote recordó la grave situación de pobreza que enfrentan muchas familias.\n• Se hizo un llamado a los líderes públicos para que asuman su responsabilidad con ética.\n• Laura Fernández estuvo presente, lo que resaltó la relevancia del mensaje en la comunidad.\n• El diálogo y la unidad fueron temas centrales en el sermón del día.\n• Las palabras del obispo resonaron en la basílica, capturando la atención de los fieles.",
+      "source_name": "Mónica Cerdas Gómez, Patricia Recio",
+      "source_url": "https://www.nacion.com/el-pais/sacerdote-hace-llamado-a-no-ignorar-corrupcion/744OEQ3L4JFU7DLOYAR3GEYX54/story/",
+      "publish_date": "2026-08-02T17:47:32.000Z",
+      "teaser": "Lo clave en 20 segundos: El obispo llama a enfrentar corrupción y pobreza en misa del 2 de agosto.",
+      "image_url": "https://www.nacion.com/resizer/v2/IQNCJQAEQFAZ5CL6SGXVZLF27M.jpeg?auth=4d2f2a873dd86a9996a1b6d1f62f963e70a55c7f8b7cd6e08cd8deef6bdf8804&smart=true&width=1280&height=853",
+      "description": "Obispo de Ciudad Quesada advirtió la necesidad de diálogo y unidad para enfrentar problemas que aquejan a hogares costarricenses durante misa de este 2 de agosto y frente a Laura Fernández",
+      "featured": false
+    },
+    {
+      "slug": "iran-vuelve-a-desmentir-a-trump-y-asegura-que-no-hay-ningun-acuerdo-sobre-el-estrecho-de-ormuz",
+      "title": "Irán vuelve a desmentir a Trump y asegura que no hay ningún acuerdo sobre el estrecho de Ormuz",
+      "category": "Mundo",
+      "bullets_20s": "• Irán ha negado nuevamente afirmaciones sobre el estrecho de Ormuz y su estado actual.\n• Las autoridades de Irán rechazan rotundamente las declaraciones de Donald Trump.\n• No hay acuerdo alguno que modifique la situación en el estrecho de Ormuz.\n• El estrecho de Ormuz es crucial para el comercio de petróleo a nivel mundial.\n• Las tensiones entre Irán y Estados Unidos continúan siendo un tema relevante internacionalmente.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/el-mundo/iran-vuelve-a-desmentir-a-trump-y-asegura-que-no/GBZ5Z5M5UJEHPHAMJIENNMMVXA/story/",
+      "publish_date": "2026-08-02T17:44:16.000Z",
+      "teaser": "Lo clave en 20 segundos: Irán rechaza las declaraciones de Trump sobre el estrecho de Ormuz.",
+      "image_url": "",
+      "description": "Autoridades iraníes rechazaron las declaraciones de Donald Trump sobre una posible reapertura del estrecho de Ormuz y aseguraron que no existe ningún acuerdo para modificar la situación.",
+      "featured": false
+    },
+    {
       "slug": "lula-da-silva-oficializa-su-candidatura-a-la-reeleccion-en-brasil-y-centra-su-campana-en-la-soberania-frente-a-trump",
       "title": "Lula da Silva oficializa su candidatura a la reelección en Brasil y centra su campaña en la ‘soberanía’ frente a Trump",
       "category": "Mundo",
@@ -43,11 +82,11 @@
       "slug": "que-fueron-las-guerras-cristeras-la-sangrienta-confrontacion-que-marco-la-relacion-entre-el-estado-y-la-iglesia-en-mexic",
       "title": "Qué fueron las guerras cristeras, la sangrienta confrontación que marcó la relación entre el Estado y la Iglesia en México",
       "category": "Mundo",
-      "bullets_20s": "• Las guerras cristeras fueron un conflicto entre el Estado y la Iglesia en México.\n• Iniciaron en la década de 1920, marcando un período de violencia y tensiones.\n• Se estima que unas 250.000 personas perdieron la vida en este conflicto.\n• Las mujeres jugaron un rol crucial, participando activamente en las luchas.\n• Afectaron la relación entre la religión y el gobierno por décadas.\n• Se produjeron luchas por el control del territorio y la influencia social.\n• Sus consecuencias fueron sentidas en la política mexicana hasta hoy.\n• Reflejan la complejidad de la religión en la sociedad mexicana moderna.\n• Las secuelas de este conflicto aún son tema de estudio y debate.\n• El conflicto resaltó la lucha por derechos y libertades religiosas en México.",
+      "bullets_20s": "• Las guerras cristeras fueron conflictos entre el Estado mexicano y la Iglesia católica que comenzaron en 1926.\n• Este conflicto dejó una huella profunda en la religión y la política en México y en su historia reciente.\n• Las mujeres desempeñaron un papel crucial en la lucha y en la resistencia de este periodo histórico.\n• Se considera que las guerras cristeras resultaron en cientos de miles de vidas perdidas y un gran sufrimiento.\n• La relación entre el Estado y la Iglesia se transformó radicalmente a lo largo de este conflicto sangriento.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cg4w2pe5zrro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-02T16:04:35.000Z",
-      "teaser": "Lo clave en 20 segundos: las guerras cristeras fueron un conflicto decisivo en México.",
+      "teaser": "Lo clave en 20 segundos: Las guerras cristeras reflejan una lucha profunda entre la Iglesia y el Estado en México.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c612/live/f0a12cb0-8b5d-11f1-b422-3b36120ef864.jpg",
       "description": "Hace un siglo, el país norteamericano se vio envuelto en un conflicto político, militar y religioso que dejó alrededor de 250.000 muertos y en el que las mujeres tuvieron un papel protagónico.",
       "featured": false
@@ -238,11 +277,11 @@
       "slug": "mercurocromo-el-antiseptico-con-el-que-curaron-las-heridas-de-millones-de-ninos-en-todo-el-mundo-y-termino-prohibido",
       "title": "Mercurocromo, el antiséptico con el que curaron las heridas de millones de niños en todo el mundo y terminó prohibido",
       "category": "Mundo",
-      "bullets_20s": "• El mercurocromo fue popular durante décadas como un tratamiento para heridas menores.\n• Su característico color rojo lo hacía visible, pero también difícil de limpiar.\n• A pesar de su uso extendido, se descubrieron efectos negativos en la salud.\n• Fue prohibido en varios países debido a la toxicidad del mercurio.\n• El uso de alternativas más seguras ha reemplazado su aplicación tradicional.",
+      "bullets_20s": "• El mercurocromo fue popular en el tratamiento de heridas en varias partes del mundo.\n• Su color rojo intenso lo hacía distintivo pero también lo volvía atemorizante para los niños.\n• Una mezcla de mercurio y colorante que se utilizó durante décadas en hogares y hospitales.\n• A pesar de su efectividad, el mercurocromo fue finalmente prohibido en muchos países.\n• Investigaciones revelaron que el mercurio puede ser tóxico, lo que llevó a su prohibición.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx2knyrryvqo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-02T11:42:54.000Z",
-      "teaser": "Lo clave en 20 segundos: El mercurocromo fue un antiséptico popular, pero su toxicidad llevó a su prohibición.",
+      "teaser": "Lo clave en 20 segundos: El mercurocromo, un antiséptico temido y prohibido que marcó la infancia de muchos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ef6f/live/be7499a0-8af1-11f1-a7ab-8b30adf0800a.jpg",
       "description": "Para millones de niños, esta sustancia roja que manchaba todo lo que tocaba, era una de las imágenes más temidas al hacerse una herida.",
       "featured": false
@@ -290,11 +329,11 @@
       "slug": "luana-lopes-lara-la-bailarina-de-ballet-que-se-convirtio-en-la-multimillonaria-mas-joven-del-mundo-con-una-empresa-muy-c",
       "title": "Luana Lopes Lara, la bailarina de ballet que se convirtió en la multimillonaria más joven del mundo con una empresa muy controvertida",
       "category": "Mundo",
-      "bullets_20s": "• Luana Lopes Lara es una bailarina que decidió incursionar en el mundo empresarial.\n• Co-fundó Kalshi, una plataforma que permite apuestas sobre eventos futuros.\n• Su historia inspira a jóvenes a emprender sin importar su origen o carrera.\n• El uso de mercados de predicción es un tema discutido a nivel global.\n• Su éxito ha tenido un impacto positivo en la economía de su país.",
-      "source_name": "BBC Mundo",
+      "bullets_20s": "• Luana Lopes Lara es una joven destacada en el mundo de los negocios y la danza.\n• Se convirtió en multimillonaria gracias a su innovadora plataforma Kalshi.\n• Su cambio de carrera de ballet a empresaria ha capturado la atención internacional.\n• Kalshi permite a las personas hacer predicciones sobre eventos futuros.\n• Su historia es un ejemplo de cómo el emprendimiento puede transformar vidas.\n• Lara ha enfrentado controversias relacionadas con su modelo de negocio.\n• La historia de Luana inspira a jóvenes emprendedores en todo el mundo.\n• Sus contribuciones están cambiando la percepción sobre los mercados de predicción.",
+      "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/cj635znkreyo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-02T10:20:18.000Z",
-      "teaser": "Lo clave en 20 segundos: Luana Lopes Lara redefine el emprendimiento y el éxito en el contexto actual.",
+      "teaser": "Lo clave en 20 segundos: Luana Lopes Lara, la bailarina que innovó en el emprendimiento y se volvió multimillonaria.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/5458/live/2b0bb890-8783-11f1-9428-e17279226993.jpg",
       "description": "La cofundadora de la plataforma de mercados de predicción Kalshi, cambió los tutús por los libros y se le ocurrió una idea que cambió la ley y su fortuna.",
       "featured": false
@@ -1291,11 +1330,11 @@
       "slug": "colegios-cientificos-abren-proceso-de-admision-2027",
       "title": "Colegios científicos abren proceso de admisión 2027",
       "category": "Costa Rica",
-      "bullets_20s": "• El Sistema Nacional de Colegios Científicos abre el proceso de admisión para 2027.\n• Los estudiantes interesados en ciencias pueden iniciar su proceso de inscripción.\n• La prueba de admisión se llevará a cabo el 9 de octubre a las 9 p.m.\n• Inscripciones abiertas desde el 3 de agosto hasta el 26 de setiembre.\n• Requisitos incluyen promedio mínimo y documentos específicos para la inscripción.",
+      "bullets_20s": "• El Sistema Nacional de Colegios Científicos ha iniciado su proceso de admisión para el 2027.\n• Los estudiantes de noveno año pueden aplicar para estudiar ciencias, matemática y robótica.\n• La prueba de admisión se realizará el 9 de octubre a las 9:00 p.m. en sedes asignadas.\n• El registro está abierto del 3 de agosto al 26 de setiembre para los interesados.\n• Requisitos incluyen un promedio mínimo de 85 en las asignaturas de séptimo a noveno año.",
       "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/colegios-cientificos-abren-proceso-admission-2027",
+      "source_url": "http://www.tec.ac.cr/colegios-cientificos-abren-proceso-admision-2027",
       "publish_date": "2026-07-31T17:43:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Abren admisiones para colegios científicos en Costa Rica, grandes oportunidades para los jóvenes.",
+      "teaser": "Lo clave en 20 segundos: Los colegios científicos inician su proceso de admisión para el 2027.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-de-nanoteclogia-104.png",
       "description": "Colegios científicos abren proceso de admisión 2027",
       "featured": false
@@ -1303,12 +1342,12 @@
     {
       "slug": "tec-conmemorara-el-lanzamiento-de-bombas-en-hiroshima-y-nagasaki",
       "title": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
-      "category": "Costa Rica",
-      "bullets_20s": "• El TEC realiza actividades para conmemorar el aniversario del lanzamiento de las bombas nucleares.\n• Charlas y conferencias abordarán los efectos de las bombas en Hiroshima y Nagasaki.\n• Los eventos se llevarán a cabo del 3 al 7 de agosto en el TEC.\n• Expositores expertos compartirán sus conocimientos sobre energía nuclear y su uso pacífico.\n• La conmemoración busca crear conciencia sobre la historia de la energía nuclear.",
+      "category": "Ciencia",
+      "bullets_20s": "• El TEC realizará actividades del 3 al 7 de agosto para conmemorar este evento histórico.\n• Se llevarán a cabo conferencias sobre los impactos de las bombas nucleares en Japón.\n• La inauguración contará con participación de autoridades de la Embajada de Japón.\n• Expertos abordarán el contexto de la no proliferación nuclear en charlas programadas.\n• Habrá un cineforo sobre la energía nuclear en Japón y su representación en 'Godzilla'.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-conmemorara-lanzamiento-bombas-hiroshima-nagasaki-0",
       "publish_date": "2026-07-31T17:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC conmemora el 81 aniversario de Hiroshima y Nagasaki con charlas académicas.",
+      "teaser": "Lo clave en 20 segundos: TEC homenajeará el impacto de las bombas nucleares con diversas conferencias.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/images_0.png",
       "description": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
       "featured": false
@@ -2421,12 +2460,12 @@
     {
       "slug": "teatro-agosto-compartio-sus-suenos-con-el-resto-de-centroamerica",
       "title": "Teatro Agosto compartió sus sueños con el resto de Centroamérica",
-      "category": "Costa Rica",
-      "bullets_20s": "• Teatro Agosto presentó 'Parque de los Sueños' en el FICCUA 2026 en Honduras.\n• Ocho estudiantes del TEC participaron en la exitosa obra cultural del teatro.\n• La obra resalta la importancia de los sueños en la vida humana y social.\n• Los jóvenes enfrentaron retos técnicos para realizar una presentación sobresaliente.\n• La directora del grupo expresó orgullo por la dedicación de los estudiantes.",
+      "category": "Ciencia",
+      "bullets_20s": "• El grupo Teatro Agosto presentó 'Parque de los Sueños' en el Festival FICCUA 2026.\n• La obra analiza la complejidad y belleza de los sueños humanos y su significado.\n• Ocho estudiantes del TEC participaron y fueron aclamados por el público presente.\n• La obra usó videoproyecciones, requiriendo apoyo técnico para su presentación.\n• Los participantes valoran la experiencia de compartir su arte con otros países.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/teatro-agosto-compartio-sus-suenos-resto-centroamerica",
       "publish_date": "2026-07-29T23:57:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Teatro Agosto despliega su obra y sueños en Centroamérica.",
+      "teaser": "Lo clave en 20 segundos: Teatro Agosto brilla en el FICCUA 2026 con 'Parque de los Sueños'.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/agosto-ficcua-jumana-3.jpg",
       "description": "Teatro Agosto compartió sus sueños con el resto de Centroamérica",
       "featured": false
@@ -67952,10 +67991,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-02T17:45:22.456Z",
-  "total": 5227,
-  "removed_soccer_news_count": 966,
+  "generated_at": "2026-08-02T18:45:22.761Z",
+  "total": 5230,
+  "removed_soccer_news_count": 967,
   "removed_soccer_news_titles": [
+    "Concacaf confirma cambio de horario y sede para el partido de Costa Rica en México en busca del boleto al Mundial",
     "Rosalía pide disculpas en Argentina tras polémica por el Mundial",
     "La ciencia que el fútbol costarricense decidió ignorar",
     "Adonis Pineda evitó la debacle y Puntarenas se dejó un punto en casa ante Sporting",
@@ -68004,7 +68044,6 @@
     "Boca Juniors hace un papelón en el campeonato de Argentina",
     "Esto hay que verlo: arquero no supo qué hacer con el balón y se anotó un gol insólito (video)",
     "Un campeón del Mundo de la Selección de España pasará por el quirófano este lunes",
-    "Las playas del Desembarco de Normandía y el monte Olimpo ingresan al Patrimonio Mundial de la Unesco",
-    "120 años después... ¡Vive, vive! ¡Cartago Vive!"
+    "Las playas del Desembarco de Normandía y el monte Olimpo ingresan al Patrimonio Mundial de la Unesco"
   ]
 }
