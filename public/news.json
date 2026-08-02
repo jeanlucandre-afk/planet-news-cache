@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "cortes-de-luz-de-la-cnfl-dejaran-sin-servicio-a-sectores-de-san-jose-y-alajuela-este-martes-4-de-agosto",
+      "title": "Cortes de luz de la CNFL dejarán sin servicio a sectores de San José y Alajuela este martes 4 de agosto",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los cortes de luz afectarán a varias comunidades en San José y Alajuela este martes.\n• Los ciudadanos deben estar informados sobre los horarios de suspensión del servicio eléctrico.\n• La CNFL recomienda revisar las zonas afectadas para evitar inconvenientes.\n• Los usuarios deben preparar sus actividades cotidianas considerando el corte programado.\n• Es importante que la comunidad esté al tanto de estas interrupciones eléctricas.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-de-la-cnfl-dejaran-sin-servicio-a/7KFKOFGOKNDI5J65I6RZTRCY6E/story/",
+      "publish_date": "2026-08-02T14:17:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Cortes de luz afectarán sectores de San José y Alajuela este martes.",
+      "image_url": "https://www.nacion.com/resizer/v2/5QRF5XSX2JCVVG3MN4YMICTJA4.JPG?auth=7f143727b577ee9f447744c96889a2ff5f0a1bcccd8399dd654da86f1fd00e85&smart=true&width=4000&height=2667",
+      "description": "Si vive en Pavas, San Rafael de Alajuela o San Antonio de Escazú, revise si su comunidad figura entre las que tendrán suspensión del servicio eléctrico este martes y conozca los horarios de la interrupción.",
+      "featured": false
+    },
+    {
+      "slug": "inteligencia-artificial-el-fin-del-trabajo-o-el-comienzo-de-una-vida-mas-libre",
+      "title": "Inteligencia artificial: ¿el fin del trabajo o el comienzo de una vida más libre?",
+      "category": "Ciencia",
+      "bullets_20s": "• La inteligencia artificial avanza a pasos agigantados, transformando el mundo laboral y social.\n• La automatización plantea preguntas sobre la futura necesidad de habilidades humanas específicas.\n• Millones de personas podrían beneficiarse al liberar tiempo de tareas monótonas y repetitivas.\n• Los expertos debaten si la IA traerá más oportunidades o desafíos inmediatos al empleo.\n• Es fundamental preparar a las nuevas generaciones para un futuro con inteligencia artificial.",
+      "source_name": "Íñigo Lejarza",
+      "source_url": "https://www.nacion.com/opinion/foros/inteligencia-artificial-el-fin-del-trabajo-o-el/VCOMHKYO7NGLRBAMYU74JWT3UY/story/",
+      "publish_date": "2026-08-02T14:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: ¿La IA reemplazará trabajos o nos liberará de tareas? Descubre las implicaciones.",
+      "image_url": "https://www.nacion.com/resizer/v2/LKJLYMTOKNDS3PITKXYP3DJRHE.png?auth=b2d5db21dbf752c97812d84ac466bb53f8d43d2fc13da584fba866a39eaff3a0&smart=true&width=1672&height=941",
+      "description": "La automatización podría convertir en prescindibles algunas habilidades que hoy se cotizan en el mercado, pero también liberar a millones de personas de las tareas rutinarias que consumen su tiempo y su vida.",
+      "featured": false
+    },
+    {
       "slug": "viaje-al-pasado-desde-tres-estaciones-del-tren-al-pacifico",
       "title": "Viaje al pasado desde tres estaciones del tren al Pacífico",
       "category": "Costa Rica",
@@ -121,11 +147,11 @@
       "slug": "mercurocromo-el-antiseptico-con-el-que-curaron-las-heridas-de-millones-de-ninos-en-todo-el-mundo-y-termino-prohibido",
       "title": "Mercurocromo, el antiséptico con el que curaron las heridas de millones de niños en todo el mundo y terminó prohibido",
       "category": "Mundo",
-      "bullets_20s": "• El mercurocromo fue un antiséptico popular en muchas partes del mundo durante varias décadas.\n• Este producto se utilizaba comúnmente para tratar heridas y cortaduras en niños pequeños.\n• Su característico color rojo dejó una huella memorable en la infancia de muchas personas.\n• El uso del mercurocromo disminuyó tras informes de su toxicidad y efectos adversos en la salud.\n• Algunas naciones decidieron prohibir su uso por las preocupaciones sobre el mercurio en su composición.",
+      "bullets_20s": "• El mercurocromo fue un antiséptico ampliamente utilizado en la niñez durante el siglo XX.\n• Su color rojo y su capacidad para tratar heridas lo hicieron popular en varios países.\n• Sin embargo, preocupaciones sobre su toxicidad provocaron su prohibición en muchos lugares.\n• El uso del mercurocromo se recuerda con nostalgia por aquellos que crecieron con él.\n• Hoy en día, su historia genera debate sobre la seguridad de antiguas medicinas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx2knyrryvqo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-02T11:42:54.000Z",
-      "teaser": "Lo clave en 20 segundos: El mercurocromo, un antiséptico famoso, fue prohibido por preocupaciones de salud.",
+      "teaser": "Lo clave en 20 segundos: La histórica utilidad y prohibición del mercurocromo en tratamientos infantiles.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ef6f/live/be7499a0-8af1-11f1-a7ab-8b30adf0800a.jpg",
       "description": "Para millones de niños, esta sustancia roja que manchaba todo lo que tocaba, era una de las imágenes más temidas al hacerse una herida.",
       "featured": false
@@ -173,11 +199,11 @@
       "slug": "luana-lopes-lara-la-bailarina-de-ballet-que-se-convirtio-en-la-multimillonaria-mas-joven-del-mundo-con-una-empresa-muy-c",
       "title": "Luana Lopes Lara, la bailarina de ballet que se convirtió en la multimillonaria más joven del mundo con una empresa muy controvertida",
       "category": "Mundo",
-      "bullets_20s": "• Luana Lopes es una joven innovadora que ha cambiado las reglas del juego en su industria.\n• Su empresa, Kalshi, ha creado un nuevo tipo de mercado de predicción que ha atraído atención global.\n• La trayectoria de Luana resalta la importancia de la creatividad en el ámbito empresarial contemporáneo.\n• La controversia en torno a su modelo de negocio ha generado debates sobre la ética empresarial.\n• Impacta en el sector tecnológico, mostrando cómo una idea puede transformar industrias completas.",
+      "bullets_20s": "• Luana Lopes Lara dejó el ballet para emprender en una plataforma que revolucionó los mercados de predicción.\n• Su empresa, Kalshi, ha generado controversia por su enfoque en mercados de futuros y apuestas.\n• Con solo una idea innovadora, Luana ha sido reconocida como la multimillonaria más joven del mundo.\n• La historia de Luana inspira a jóvenes emprendedores y muestra lo posible desde la creatividad.\n• A través de su éxito, se discuten también aspectos legales y éticos de los nuevos modelos de negocio.",
       "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/cj635znkreyo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-02T10:20:18.000Z",
-      "teaser": "Lo clave en 20 segundos: Luana Lopes, joven innovadora, cambia el ballet por el emprendimiento exitoso.",
+      "teaser": "Lo clave en 20 segundos: Luana Lopes Lara transformó su vida de bailarina a multimillonaria con su empresa innovadora.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/5458/live/2b0bb890-8783-11f1-9428-e17279226993.jpg",
       "description": "La cofundadora de la plataforma de mercados de predicción Kalshi, cambió los tutús por los libros y se le ocurrió una idea que cambió la ley y su fortuna.",
       "featured": false
@@ -186,24 +212,24 @@
       "slug": "por-que-el-dios-griego-kairos-sigue-siendo-tan-importante-en-los-momentos-clave-de-nuestras-vidas",
       "title": "Por qué el dios griego Kairós sigue siendo tan importante en los momentos clave de nuestras vidas",
       "category": "Mundo",
-      "bullets_20s": "• Kairós es el dios griego que representa los momentos de oportunidad y cómo aprovecharlos.\n• La interpretación de Kairós ha influido en diversas culturas a lo largo de la historia.\n• Comprender Kairós puede ayudarnos en la toma de decisiones más efectivas en la vida.\n• Los antiguos griegos desarrollaron conceptos sobre el tiempo que siguen vigentes hoy.\n• Kairós enseña a valorar los momentos críticos en el camino hacia la realización personal.",
+      "bullets_20s": "• Kairós es el dios griego que simboliza la oportunidad y el tiempo adecuado para actuar.\n• En la antigua Grecia, Kairós representaba momentos cruciales en la vida de las personas.\n• La comprensión del tiempo para los griegos era más compleja que solo medir horas y minutos.\n• La figura de Kairós nos invita a aprovechar las oportunidades cuando se presentan.\n• Este concepto puede aplicarse a decisiones cotidianas en el ámbito personal y profesional.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c5yz4zx825yo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-02T09:43:21.000Z",
-      "teaser": "Lo clave en 20 segundos: Kairós, dios de la oportunidad, nos enseña sobre momentos decisivos en la vida.",
+      "teaser": "Lo clave en 20 segundos: Kairós representa la importancia de aprovechar el momento adecuado en la vida.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/4224/live/85ff6c90-73da-11f1-b1db-af71d47507d6.jpg",
-      "description": "Los antiguos griegos no solo imaginaron un dios para representar la oportunidad: desarrollaron toda una forma de entender la vida que ayuda a decidir, actuar... e incluso hablar.",
+      "description": "Los antiguos griegos no solo imaginaron un dios para representar la oportunidad: desarrollaron toda una forma de entender la vida que ayuda a  decidir, actuar... e incluso hablar.",
       "featured": false
     },
     {
       "slug": "la-tormenta-politica-en-europa-que-desato-la-llegada-de-miles-de-migrantes-africanos-a-ceuta",
       "title": "La tormenta política en Europa que desató la llegada de miles de migrantes africanos a Ceuta",
       "category": "Mundo",
-      "bullets_20s": "• La llegada masiva de migrantes africanos ha generado tensiones políticas en Europa.\n• Ceuta se ha convertido en un símbolo de la crisis migratoria que enfrenta Europa.\n• Las divisiones políticas sobre inmigración siguen afectando políticas en varios países europeos.\n• Los ciudadanos en Ceuta muestran reacciones diversas ante la llegada de estas multitudes.\n• Organizaciones humanitarias están activas en la región, apoyando a los migrantes afectados.",
+      "bullets_20s": "• Ceuta ha visto un aumento significativo en la llegada de migrantes en las últimas semanas.\n• Las tensiones políticas en Europa complican la situación migratoria en la región.\n• El fenómeno migratorio revela profundas divisiones en la política europea contemporánea.\n• Marruecos y España están en el centro de estas dinámicas migratorias complejas.\n• Activistas piden un enfoque más humano y solidario ante la crisis de migración.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ce8k6y8ym3no?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-02T04:43:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Europa enfrenta tensiones políticas por la llegada de migrantes a Ceuta.",
+      "teaser": "Lo clave en 20 segundos: La llegada masiva de migrantes a Ceuta visibiliza crisis migratoria en Europa.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
       "description": "Los cruces de multitudes desde Marruecos hacia Ceuta pusieron de manifiesto las divisiones existentes en Europa en torno al delicado tema de la migración, escribe Sarah Rainsford de la BBC.",
       "featured": false
@@ -1174,11 +1200,11 @@
       "slug": "colegios-cientificos-abren-proceso-de-admision-2027",
       "title": "Colegios científicos abren proceso de admisión 2027",
       "category": "Costa Rica",
-      "bullets_20s": "• El Sistema Nacional de Colegios Científicos abre admisiones para el curso 2027.\n• Estudiantes de noveno año pueden inscribirse para disfrutar de ciencia y tecnología.\n• La prueba de admisión se realizará el 9 de octubre a las 9:00 p.m.\n• Inscripciones estarán abiertas del 3 de agosto al 26 de setiembre de 2026.\n• Documentación requerida incluye constancia de notas y fotografías tamaño pasaporte.",
+      "bullets_20s": "• El Sistema Nacional de Colegios Científicos ha iniciado el proceso de admisión para el curso 2027.\n• Los estudiantes de noveno año pueden inscribirse hasta el 26 de septiembre de 2026.\n• La prueba de admisión se realizará el 09 de octubre a las 9:00 p.m. en diferentes sedes.\n• Los interesados en ciencias y tecnología deben cumplir ciertos requisitos académicos y de conducta.\n• Se requieren documentos específicos como constancias de notas y fotografías para la inscripción.",
       "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/colegios-cientificos-abren-proceso-admision-2027",
+      "source_url": "http://www.tec.ac.cr/colegios-cientificos-abren-proceso-admission-2027",
       "publish_date": "2026-07-31T17:43:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Los colegios científicos abren su proceso de admisión para 2027.",
+      "teaser": "Lo clave en 20 segundos: Abren admisión para colegios científicos en Costa Rica, consulta requisitos y fechas importantes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-de-nanoteclogia-104.png",
       "description": "Colegios científicos abren proceso de admisión 2027",
       "featured": false
@@ -1187,11 +1213,11 @@
       "slug": "tec-conmemorara-el-lanzamiento-de-bombas-en-hiroshima-y-nagasaki",
       "title": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
       "category": "Ciencia",
-      "bullets_20s": "• El TEC recordará el impacto de las bombas nucleares en Hiroshima y Nagasaki.\n• Actividades se realizarán del 3 al 7 de agosto en el TEC.\n• Charlas y conferencias abordarán usos pacíficos de la energía nuclear.\n• Expertos compartirán conocimientos sobre la historia y la energía nuclear.\n• Se transmitirá contenido a través del canal oficial del TEC.",
+      "bullets_20s": "• El TEC celebrará el 81 aniversario del lanzamiento de bombas nucleares en Japón este agosto.\n• Actividades incluyen conferencias sobre el impacto de la energía nuclear en la sociedad.\n• Se abordarán temas de no proliferación y los avances científicos detrás del Proyecto Manhattan.\n• Las conferencias estarán a cargo de destacados expertos en energía nuclear y ciencias sociales.\n• Los eventos se llevarán a cabo del 3 al 7 de agosto en la Sala de Conferencias.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-conmemorara-lanzamiento-bombas-hiroshima-nagasaki-0",
       "publish_date": "2026-07-31T17:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC conmemora 81 años del bombardeo en Hiroshima y Nagasaki con diversas actividades.",
+      "teaser": "Lo clave en 20 segundos: El TEC conmemorará el 81 aniversario del lanzamiento de bombas en Japón.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/images_0.png",
       "description": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
       "featured": false
@@ -2305,11 +2331,11 @@
       "slug": "teatro-agosto-compartio-sus-suenos-con-el-resto-de-centroamerica",
       "title": "Teatro Agosto compartió sus sueños con el resto de Centroamérica",
       "category": "Mundo",
-      "bullets_20s": "• Teatro Agosto presentó su obra 'Parque de los Sueños' en Honduras durante el FICCUA 2026.\n• El grupo de estudiantes tuvo que resolver complejidades técnicas durante la presentación.\n• La obra busca analizar los sueños, una parte hermosa de la naturaleza humana.\n• La experiencia fue conectiva y trabajativa, resaltando la hermandad entre países.\n• Los jóvenes elogiaron la hospitalidad de los organizadores y asistentes del festival.",
+      "bullets_20s": "• El grupo cultural Teatro Agosto presentó 'Parque de los Sueños' en Honduras con gran éxito.\n• La obra explora la belleza y complejidad de los sueños humanos a través del teatro.\n• Los estudiantes del TEC vivieron una experiencia enriquecedora en el FICCUA 2026.\n• El montaje incluyó videoproyecciones y requería un gran esfuerzo logístico del grupo.\n• Las presentaciones fomentaron la amistad y el intercambio cultural entre los participantes.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/teatro-agosto-compartio-sus-suenos-resto-centroamerica",
       "publish_date": "2026-07-29T23:57:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Teatro Agosto impacta en FICCUA 2026 con su obra 'Parque de los Sueños'.",
+      "teaser": "Lo clave en 20 segundos: Teatro Agosto impactó en el FICCUA 2026 con su obra 'Parque de los Sueños'.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/agosto-ficcua-jumana-3.jpg",
       "description": "Teatro Agosto compartió sus sueños con el resto de Centroamérica",
       "featured": false
@@ -67835,10 +67861,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-02T13:45:23.195Z",
-  "total": 5218,
-  "removed_soccer_news_count": 964,
+  "generated_at": "2026-08-02T14:45:24.027Z",
+  "total": 5220,
+  "removed_soccer_news_count": 965,
   "removed_soccer_news_titles": [
+    "La ciencia que el fútbol costarricense decidió ignorar",
     "Adonis Pineda evitó la debacle y Puntarenas se dejó un punto en casa ante Sporting",
     "Así son los uniformes de Umbro, la marca que tiene todo listo para patrocinar a la Selección de Costa Rica (fotos)",
     "Panamá vuelve a humillar a Costa Rica en los Juegos Centroamericanos y del Caribe",
@@ -67887,7 +67914,6 @@
     "Un campeón del Mundo de la Selección de España pasará por el quirófano este lunes",
     "Las playas del Desembarco de Normandía y el monte Olimpo ingresan al Patrimonio Mundial de la Unesco",
     "120 años después... ¡Vive, vive! ¡Cartago Vive!",
-    "La Unesco coloca bajo amenaza sitios del Patrimonio Mundial en Líbano y Cisjordania",
-    "Amarini Villatoro llegó a ciegas al partido de Cartaginés y explicó lo sucedido"
+    "La Unesco coloca bajo amenaza sitios del Patrimonio Mundial en Líbano y Cisjordania"
   ]
 }
