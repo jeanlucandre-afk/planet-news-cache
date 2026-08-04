@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "como-hacer-que-los-bananos-duren-mas-tiempo-sin-perder-su-frescura",
+      "title": "¿Cómo hacer que los bananos duren más tiempo sin perder su frescura?",
+      "category": "Ciencia",
+      "bullets_20s": "• Existen métodos sencillos para preservar la frescura de los bananos por más tiempo.\n• El papel aluminio es un recurso eficaz para envolver los bananos y extender su vida.\n• Los recipientes de vidrio ayudan a ralentizar el proceso de maduración de las frutas.\n• Estos métodos son accesibles y no requieren de tecnología avanzada para aplicarse.\n• Conservar la frescura de los bananos puede ayudar a reducir el desperdicio de alimentos.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/como-hacer-que-los-bananos-duren-mas-tiempo-sin/Y4FXTGNCXZD57IMKQK7N23XX4I/story/",
+      "publish_date": "2026-08-04T19:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Métodos simples para que los bananos se mantengan frescos por más tiempo.",
+      "image_url": "https://www.nacion.com/resizer/v2/HWPS6CQ42NDUTPNZ5ZGNUAUUWI.png?auth=dd5898419859c15186113cde814b096fabf11b7bf55372bf3e8029e9476ee205&smart=true&width=1672&height=941",
+      "description": "¿Sus bananos se maduran demasiado rápido o se ponen negros? Conozca dos métodos sencillos con papel aluminio o un recipiente de vidrio para conservarlos frescos durante más tiempo.",
+      "featured": false
+    },
+    {
+      "slug": "cortes-de-luz-de-la-cnfl-afectaran-sectores-de-pavas-y-desamparados-este-jueves",
+      "title": "Cortes de luz de la CNFL afectarán sectores de Pavas y Desamparados este jueves",
+      "category": "Costa Rica",
+      "bullets_20s": "• La CNFL anunció cortes programados para mejorar el servicio eléctrico en diversas áreas.\n• Los sectores afectados incluyen partes de Pavas y algunas áreas de Desamparados.\n• Es importante que los residentes estén preparados para la interrupción del suministro eléctrico.\n• Los cortes se realizarán el jueves 6 de agosto en horarios específicos.\n• La CNFL busca minimizar inconvenientes realizando estos trabajos en horarios programados.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-de-la-cnfl-afectaran-sectores-de/NGJCN2BAQZCAHM2PYG5PUOBAOI/story/",
+      "publish_date": "2026-08-04T19:04:19.000Z",
+      "teaser": "Lo clave en 20 segundos: cortes programados de luz en Pavas y Desamparados este jueves.",
+      "image_url": "https://www.nacion.com/resizer/v2/SPVKPL3GSNHYBHAKDCSQJ62K3Y.JPG?auth=cd7b9b6bd19e7139f04824ed2b431a821c032e82c1b2372fa35accfe3e8cba8f&smart=true&width=4000&height=2667",
+      "description": "¿Vive en Pavas o Gravilias? Conozca cuáles sectores estarán sin electricidad este jueves 6 de agosto, los horarios de los cortes y las zonas específicas que se verán afectadas por trabajos de la CNFL.",
+      "featured": false
+    },
+    {
+      "slug": "existio-troya-realmente-la-ciudad-que-inspiro-la-odisea-y-que-la-arqueologia-nunca-dejo-de-buscar",
+      "title": "¿Existió Troya realmente? La ciudad que inspiró ‘La Odisea’ y que la arqueología nunca dejó de buscar",
+      "category": "Ciencia",
+      "bullets_20s": "• La ciudad de Troya ha sido objeto de debate entre arqueólogos e historiadores por siglos.\n• Las historias de Homero en 'La Ilíada' y 'La Odisea' han fascinado a generaciones.\n• Se han realizado excavaciones en varias ubicaciones, buscando evidencia sobre Troya.\n• Las investigaciones arqueológicas muestran similitudes y diferencias con los relatos épicos.\n• Troya podría haber sido un lugar real, pero su representación puede ser mitológica.",
+      "source_name": "Fernando Chaves Espinach",
+      "source_url": "https://www.nacion.com/ancora/existio-troya-realmente-la-ciudad-que-inspiro-la/ONWG36NDGNASZH5D4NNJWAT5PA/story/",
+      "publish_date": "2026-08-04T18:59:46.000Z",
+      "teaser": "Lo clave en 20 segundos: La búsqueda de Troya entre mitología y realidad arqueológica sigue fascinando.",
+      "image_url": "https://www.nacion.com/resizer/v2/WWOF3HKJGVCZ7EGSU4YR5R36GI.jpg?auth=f3964f4da00a937ccef940ef62a8862e4c98e6906b70f861997b30b92f3343cf&smart=true&width=1556&height=1167",
+      "description": "¿Qué hay detrás de Troya y lo que cuentan 'La Ilíada' y 'La Odisea'? la arqueología confirma la existencia de una ciudad, pero revela grandes diferencias con la épica de Homero.",
+      "featured": false
+    },
+    {
       "slug": "tres-retos-indispensables-que-costa-rica-debe-resolver-para-mejorar-la-economia-segun-cepal",
       "title": "Tres retos indispensables que Costa Rica debe resolver para mejorar la economía, según Cepal",
       "category": "Costa Rica",
@@ -120,12 +159,12 @@
     {
       "slug": "hackathon-de-biologia-sintetica",
       "title": "Hackathon de Biología Sintética",
-      "category": "Costa Rica",
-      "bullets_20s": "• El hackathon se realizará del 21 al 23 de agosto en Oikoumene, Cartago.\n• Participan estudiantes del TEC, UCR y UNA en un ambiente colaborativo.\n• Actividades creativas darán inicio al evento, promoviendo la innovación.\n• Se desarrollarán propuestas in silico para resolver desafíos biológicos.\n• Jueces y mentores guiarán a los equipos durante el hackathon.\n• Biosphere es un proyecto del TEC que conecta a diferentes comunidades.\n• Evaluación de propuestas se llevará a cabo al final del evento.\n• Inscripción limitada, enfocada a estudiantes e investigadores interesados.",
+      "category": "Ciencia",
+      "bullets_20s": "• El Tecnológico de Costa Rica organiza un Hackathon de Biología Sintética en agosto de 2026.\n• Estudiantes de varias universidades trabajarán en equipo para resolver desafíos biológicos.\n• El evento se realizará en las instalaciones de Oikoumene, en Cartago, durante tres días.\n• Las actividades promueven el pensamiento creativo e innovador entre los participantes.\n• Un cuerpo de jueces y mentores evaluará las propuestas y acompañará a los equipos.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/hackathon-biologia-sintetica",
       "publish_date": "2026-08-04T16:02:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Un hackathon que une a estudiantes en biología sintética.",
+      "teaser": "Lo clave en 20 segundos: Estudiantes abordarán problemas biológicos en un intenso Hackathon.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/taller_biocromia_pcenteno-01.jpg",
       "description": "Hackathon de Biología Sintética",
       "featured": false
@@ -134,13 +173,13 @@
       "slug": "los-duros-reveses-que-enfrenta-trump-de-parte-de-sus-propios-aliados",
       "title": "Los duros reveses que enfrenta Trump de parte de sus propios aliados",
       "category": "Mundo",
-      "bullets_20s": "• Trump ha enfrentado desafíos importantes que lo agitan políticamente en Estados Unidos.\n• Sus aliados políticos han comenzado a cuestionar su liderazgo y decisiones recientes.\n• Este artículo profundiza en las derrotas significativas de Trump en el panorama político.\n• Las reacciones a estos eventos podrían afectar sus futuras estrategias electorales.\n• La política estadounidense se vuelve más compleja y competitiva ante estos reveses.",
+      "bullets_20s": "• Trump enfrenta dificultades críticas con aliados que alguna vez fueron leales en su administración.\n• Las recientes derrotas políticas han puesto en duda su influencia en el Partido Republicano.\n• Los analistas políticos destacan la fragilidad de su posición ante los cambios recientes.\n• Las decisiones impopulares están causando un alejamiento notorio de sus principales apoyos.\n• La situación actual plantea preguntas sobre el futuro del liderazgo republicano en EE.UU.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cnvneg544y2o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-04T15:21:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Trump enfrenta reveses políticos significativos de sus propios aliados.",
+      "teaser": "Lo clave en 20 segundos: Trump enfrenta reveses importantes de aliados que antes lo respaldaban.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/6143/live/e3e22180-9005-11f1-9dfb-fd4408d16f2f.jpg",
-      "description": "Un presidente acostumbrado a manipular la política estadounidense a su voluntad se enfrenta a dos dolorosas derrotas en cuestión de días.",
+      "description": "Un presidente acostumbrado a manipular la política estadounidense a su voluntad se enfrenta a dos dolorosas derrotas en cuestión de días, escribe Anthony Zurcher.",
       "featured": false
     },
     {
@@ -173,11 +212,11 @@
       "slug": "como-miami-se-convirtio-en-el-hogar-de-los-ultrarricos-en-eeuu-y-el-efecto-que-tiene-en-que-la-vida-sea-mas-cara-que-en-",
       "title": "Cómo Miami se convirtió en el hogar de los ultrarricos en EE.UU. (y el efecto que tiene en que la vida sea más cara que en Nueva York)",
       "category": "Mundo",
-      "bullets_20s": "• Miami ha atraído a millonarios e inversores de diversas partes del mundo desde la pandemia.\n• La demanda de viviendas ha elevado significativamente los precios en comparación con otras ciudades.\n• El estilo de vida en Miami se ha vuelto más exclusivo, generando un nuevo mercado inmobiliario.\n• Se observan cambios en el mercado laboral debido a la llegada de nuevos residentes adinerados.\n• Los servicios y lujos en Miami se han diversificado para atender a la población ultrarrica.",
+      "bullets_20s": "• Miami se ha vuelto un destino atractivo para los ricos en busca de propiedades lujosas.\n• El mercado inmobiliario en Miami está en auge debido a inversiones extranjeras significativas.\n• Este cambio ha incrementado el costo de vida en la ciudad, superando a Nueva York.\n• La pandemia impulsó a muchos a buscar estilos de vida más lujosos y espaciosos.\n• Las regulaciones fiscales y climáticas de Florida atraen a empresarios y millonarios.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwylrx2rw8no?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-04T14:50:19.000Z",
-      "teaser": "Lo clave en 20 segundos: Miami se vuelve hogar de millonarios, elevando su costo de vida.",
+      "teaser": "Lo clave en 20 segundos: Miami se ha convertido en el nuevo hogar de los ricos de EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/e998/live/15a4bc30-877f-11f1-b8ee-9b3c26ad07bb.jpg",
       "description": "Después de la pandemia, Miami se ha convertido en uno de los mercados inmobiliarios más calientes de EE.UU. y el mundo. Te contamos las razones.",
       "featured": false
@@ -381,11 +420,11 @@
       "slug": "lo-que-mis-maestros-veian-como-defectos-fue-lo-que-me-llevo-a-prosperar-en-la-vida",
       "title": "Lo que mis maestros veían como defectos fue lo que me llevó a prosperar en la vida",
       "category": "Mundo",
-      "bullets_20s": "• La dislexia puede ser un desafío, pero también una fuente de fortaleza y creatividad.\n• El caso de Sam Bell ilustra cómo los obstáculos pueden transformarse en oportunidades.\n• Muchos individuos exitosos han enfrentado adversidades similares en su vida.\n• Es importante redefinir lo que consideramos como 'defectos' en el aprendizaje.\n• La educación inclusiva puede ayudar a aquellos con dificultades de aprendizaje.",
+      "bullets_20s": "• La dislexia es un trastorno que afecta la lectura y el aprendizaje en general.\n• Sam Bell abandonó la escuela, pero encontró su camino hacia el éxito profesional.\n• Los desafíos de la dislexia pueden transformarse en oportunidades en la vida.\n• Los educadores deben comprender mejor cómo apoyar a estudiantes con dislexia.\n• La perseverancia puede llevar a logros significativos, a pesar de las dificultades.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ce8kz3yv3yko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-04T09:26:47.000Z",
-      "teaser": "Lo clave en 20 segundos: La dislexia puede ser un motor de éxito, como demuestra la historia de Sam Bell.",
+      "teaser": "Lo clave en 20 segundos: La dislexia impulsó el éxito de Sam Bell tras abandonar la escuela.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a83c/live/4b95ed90-8fdc-11f1-a999-eb18d79411a9.jpg",
       "description": "Sam Bell dejó la escuela a los 17 años tras tener problemas con la dislexia; ahora le atribuye a este trastorno del aprendizaje el éxito de su carrera.",
       "featured": false
@@ -2575,19 +2614,6 @@
       "featured": false
     },
     {
-      "slug": "como-hacer-que-los-bananos-duren-mas-tiempo-sin-perder-su-frescura",
-      "title": "¿Cómo hacer que los bananos duren más tiempo sin perder su frescura?",
-      "category": "Ciencia",
-      "bullets_20s": "• Conservar bananos frescos puede ser un desafío en climas cálidos y húmedos.\n• Use papel aluminio para envolver cada banano y retrasar su maduración.\n• Almacenar bananos en un recipiente de vidrio puede prolongar su frescura en días.\n• La temperatura y la humedad juegan un papel importante en la conservación de los bananos.\n• El etileno es el gas que acelera la maduración de las frutas como los bananos.",
-      "source_name": "O Globo",
-      "source_url": "https://www.nacion.com/ciencia/como-hacer-que-los-bananos-duren-mas-tiempo-sin/Y4FXTGNCXZD57IMKQK7N23XX4I/story/",
-      "publish_date": "2026-07-31T18:16:00.000Z",
-      "teaser": "Lo clave en 20 segundos: aprenda a conservar bananos frescos y evitar que se maduren rápidamente.",
-      "image_url": "https://www.nacion.com/resizer/v2/HWPS6CQ42NDUTPNZ5ZGNUAUUWI.png?auth=dd5898419859c15186113cde814b096fabf11b7bf55372bf3e8029e9476ee205&smart=true&width=1672&height=941",
-      "description": "¿Sus bananos se maduran demasiado rápido o se ponen negros? Conozca dos métodos sencillos con papel aluminio o un recipiente de vidrio para conservarlos frescos durante más tiempo.",
-      "featured": false
-    },
-    {
       "slug": "yara-jimenez-presidenta-de-la-asamblea-legislativa-anuncia-que-interpondra-una-querella-por-prevaricato-contra-cuatro-ma",
       "title": "Yara Jiménez, presidenta de la Asamblea Legislativa, anuncia que interpondrá una querella por prevaricato contra cuatro magistrados de la Sala IV",
       "category": "Costa Rica",
@@ -2656,11 +2682,11 @@
       "slug": "colegios-cientificos-abren-proceso-de-admision-2027",
       "title": "Colegios científicos abren proceso de admisión 2027",
       "category": "Costa Rica",
-      "bullets_20s": "• El Sistema Nacional de Colegios Científicos abrió el proceso de admisión para el curso 2027.\n• Estudiantes en noveno año pueden postularse a las carreras científicas disponibles.\n• La prueba de admisión se realizará el 9 de octubre de 2026 a las 9:00 p.m.\n• Las inscripciones están abiertas desde el 3 de agosto hasta el 26 de setiembre.\n• Los requisitos incluyen un promedio mínimo de 85 en años anteriores.",
+      "bullets_20s": "• El Sistema Nacional de Colegios Científicos inicia proceso de admisión para el curso 2027.\n• Estudiantes de noveno año interesados en ciencias, matemática y robótica pueden aplicar.\n• La prueba de admisión se llevará a cabo el 9 de octubre a las 9:00 p.m.\n• El periodo de inscripción es del 3 de agosto al 26 de septiembre de 2026.\n• Requisitos incluyen promedio mínimo de 85 en asignaturas previas y buenas notas de conducta.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/colegios-cientificos-abren-proceso-admision-2027",
       "publish_date": "2026-07-31T17:43:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Abren admisión para colegios científicos, requisitos y fechas importantes.",
+      "teaser": "Lo clave en 20 segundos: apertura de admisión a colegios científicos para el año 2027.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-de-nanoteclogia-104.png",
       "description": "Colegios científicos abren proceso de admisión 2027",
       "featured": false
@@ -2669,11 +2695,11 @@
       "slug": "tec-conmemorara-el-lanzamiento-de-bombas-en-hiroshima-y-nagasaki",
       "title": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
       "category": "Ciencia",
-      "bullets_20s": "• El TEC conmemora el 81 aniversario del lanzamiento de bombas nucleares en Japón.\n• Actividades se llevarán a cabo del 3 al 7 de agosto en el TEC.\n• Charlas sobre los impactos de las bombas en Hiroshima y Nagasaki se ofrecerán.\n• Se busca concientizar sobre usos pacíficos de la energía nuclear en el evento.\n• El evento incluye conferencias por expertos en temas nucleares y responsabilidad.",
+      "bullets_20s": "• El TEC lleva a cabo un evento conmemorativo del lanzamiento de bombas en Hiroshima y Nagasaki.\n• Actividades abarcan conferencias sobre el impacto de la energía nuclear en la sociedad actual.\n• Se realizarán charlas desde el 3 hasta el 7 de agosto en el TEC.\n• Expertos reflexionarán sobre la historia de las bombas nucleares y su legado.\n• Se analizará el contexto de la no proliferación en el ámbito del multilateralismo global.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-conmemorara-lanzamiento-bombas-hiroshima-nagasaki-0",
       "publish_date": "2026-07-31T17:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC recordará el lanzamiento de bombas nucleares con actividades educativas.",
+      "teaser": "Lo clave en 20 segundos: Conmemoración del lanzamiento de bombas en Hiroshima y Nagasaki en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/images_0.png",
       "description": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
       "featured": false
@@ -69304,8 +69330,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-04T18:45:23.642Z",
-  "total": 5331,
+  "generated_at": "2026-08-04T19:45:22.680Z",
+  "total": 5333,
   "removed_soccer_news_count": 982,
   "removed_soccer_news_titles": [
     "Procesan a futbolista del Sao Paulo por atropellar mortalmente a un anciano en aparente carrera ilegal",
