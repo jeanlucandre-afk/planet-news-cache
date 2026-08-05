@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "esto-responde-la-caja-costarricense-de-seguro-social-sobre-comprar-el-estadio-de-perez-zeledon-para-ampliar-hospital",
+      "title": "Esto responde la Caja Costarricense de Seguro Social sobre comprar el estadio de Pérez Zeledón para ampliar hospital",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Caja Costarricense de Seguro Social se pronunció sobre un tema controversial en la comunidad.\n• La posibilidad de adquirir el estadio para ampliar servicios hospitalarios es discutida actualmente.\n• La CCSS busca mejorar la infraestructura de salud en varias zonas del país.\n• La opinión pública está dividida respecto a la compra del estadio para fines hospitalarios.\n• No se ha definido un plan concreto sobre cómo se utilizarían las instalaciones deportivas.",
+      "source_name": "Esteban Valverde",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/esto-responde-la-caja-costarricense-de-seguro/3A4ESPXYKNAUNCUUCTMSNCOYF4/story/",
+      "publish_date": "2026-08-05T00:25:13.000Z",
+      "teaser": "Lo clave en 20 segundos: la CCSS habla sobre el posible uso del estadio de Pérez Zeledón.",
+      "image_url": "https://www.nacion.com/resizer/v2/DPBB7T37UNFXJPCN524P64JRGE.jpg?auth=e68964286fdb7ad4cfdb2d4f27f9b8b0bda033f427922782332cf290e7eef34b&smart=true&width=4032&height=3024",
+      "description": "La CCSS dio su posición sobre la posibilidad de comprar el estadio de Pérez Zeledón.",
+      "featured": false
+    },
+    {
+      "slug": "pueblo-soberano-y-pln-rechazan-restablecer-cobro-del-impuesto-a-rentas-pasivas-extraterritoriales",
+      "title": "Pueblo Soberano y PLN rechazan restablecer cobro del impuesto a rentas pasivas extraterritoriales",
+      "category": "Costa Rica",
+      "bullets_20s": "• El PLN se opone al cobro de impuestos sobre rentas pasivas generadas en el extranjero.\n• Pueblo Soberano argumenta que este impuesto afectaría la inversión en el país.\n• La propuesta busca gravar ingresos que proceden de capital costarricense en el extranjero.\n• El FA promueve la iniciativa como una forma de aumentar los ingresos del estado.\n• Se generan debates sobre la viabilidad y equidad de la medida fiscal propuesta.",
+      "source_name": "Aarón Sequeira",
+      "source_url": "https://www.nacion.com/politica/pueblo-soberano-y-pln-rechazan-restablecer-cobro/OYGPSS2SBRDWJE5WHPAVJN4YYY/story/",
+      "publish_date": "2026-08-05T00:13:21.000Z",
+      "teaser": "Lo clave en 20 segundos: Pueblo Soberano y PLN se oponen a impuestos sobre rentas pasivas de capital extranjero.",
+      "image_url": "https://www.nacion.com/resizer/v2/3XUUAGPRAFF7VIZKDJ7PKVTLI4.JPG?auth=9eee6dbc94c52a41bacffea87949d73f281a1476a8a499c654722235407d9efb&smart=true&width=4464&height=2976",
+      "description": "Iniciativa del FA busca que los ingresos pasivos generados en el extranjero, a partir de capital generado en Costa Rica, paguen impuestos.",
+      "featured": false
+    },
+    {
       "slug": "ppso-celebro-sentencia-favorable-de-sala-constitucional-para-diputado-oficialista-tres-dias-despues-de-decir-que-no-acat",
       "title": "PPSO celebró sentencia favorable de Sala Constitucional para diputado oficialista, tres días después de decir que no acataría fallos de suplentes",
       "category": "Costa Rica",
@@ -11,19 +37,6 @@
       "teaser": "Lo clave en 20 segundos: PPSO celebra fallo favorable de la Sala Constitucional sobre diputado oficialista.",
       "image_url": "https://www.nacion.com/resizer/v2/T6FZY6VUMVFSBFQVPGKHM5CRGY.JPG?auth=f3a7a3f88a2f3e1ceb124df3e947f37ae19fd65cf6bac5534f65c529d8e9c5f2&smart=true&width=4464&height=2976",
       "description": "El Partido Pueblo Soberano (PPSO) celebró un fallo de la Sala Constitucional que declaró sin lugar un recurso de amparo presentado por un ciudadano contra el diputado oficialista Ariel Mora Fallas, por un supuesto bloqueo redes sociales.",
-      "featured": false
-    },
-    {
-      "slug": "safari-humano-el-video-que-muestra-como-un-dron-ruso-persigue-a-un-vendedor-ambulante-ucraniano-antes-de-explotar",
-      "title": "\"Safari humano\": el video que muestra cómo un dron ruso persigue a un vendedor ambulante ucraniano antes de explotar",
-      "category": "Mundo",
-      "bullets_20s": "• Un dron ruso hace seguimiento a un vendedor ambulante ucraniano, generando temor y caos en la escena.\n• El video ha sido catalogado por Ucrania como evidencia de un crimen de guerra inaceptable en el conflicto actual.\n• Las imágenes muestran la vulnerabilidad de los civiles en medio de un conflicto armado y la tecnología usada en él.\n• El ataque con drones ha transformado la guerra moderna, afectando la vida de personas inocentes en áreas de combate.\n• Este incidente resalta las preocupaciones sobre el uso de tecnología militar y sus implicaciones éticas en la humanidad.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/c8xn1w4g2klo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-08-04T22:04:42.000Z",
-      "teaser": "Lo clave en 20 segundos: Un dron ruso persigue y ataca a un vendedor en Ucrania, generando debatable evidencia de guerra.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/7388/live/146d9d70-901f-11f1-92a2-ef8b44c05b15.jpg",
-      "description": "Ucrania afirmó que el video, que muestra a un civil aterrorizado siendo perseguido por un dron teledirigido, muestra un crimen de guerra.",
       "featured": false
     },
     {
@@ -237,12 +250,12 @@
     {
       "slug": "hackathon-de-biologia-sintetica",
       "title": "Hackathon de Biología Sintética",
-      "category": "Ciencia",
-      "bullets_20s": "• El TEC y sus aliados organizan un hackathon para resolver desafíos en biología sintética.\n• Participan estudiantes de TEC, UCR y UNA en un formato intensivo de trabajo colaborativo.\n• El evento se llevará a cabo en Oikoumene, Cartago del 21 al 23 de agosto.\n• Actividades iniciales fomentarán la creatividad antes del desarrollo de soluciones biológicas.\n• Un cuerpo de jueces evaluará las propuestas finales durante el hackathon.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El hackathon reunirá a estudiantes del TEC, UCR y UNA en un evento colaborativo.\n• Se desarrollarán propuestas in silico con un enfoque en biología sintética.\n• La actividad promueve el pensamiento creativo a través de actividades al aire libre.\n• Un panel de jueces y mentores guiará a los participantes durante el evento.\n• El hackathon tiene un enfoque práctico en la resolución de problemas reales.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/hackathon-biologia-sintetica",
       "publish_date": "2026-08-04T16:02:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Hackathon en biología sintética del TEC busca soluciones innovadoras.",
+      "teaser": "Lo clave en 20 segundos: estudiantes se unen para resolver desafíos en biología sintética.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/taller_biocromia_pcenteno-01.jpg",
       "description": "Hackathon de Biología Sintética",
       "featured": false
@@ -251,11 +264,11 @@
       "slug": "los-duros-reveses-que-enfrenta-trump-de-parte-de-sus-propios-aliados",
       "title": "Los duros reveses que enfrenta Trump de parte de sus propios aliados",
       "category": "Mundo",
-      "bullets_20s": "• Trump enfrenta desafíos inesperados dentro de su propio partido político en EE. UU.\n• Sus decisiones recientes han generado desacuerdos entre sus aliados más cercanos.\n• El artículo analiza dos derrotas significativas que han impactado su liderazgo.\n• La manipulación política que solía dominar ahora enfrenta resistencia crucial.\n• Las tensiones dentro del partido republicano están en aumento, según analistas.",
+      "bullets_20s": "• Donald Trump enfrenta desafíos inesperados de figuras clave dentro de su partido político.\n• La política estadounidense muestra la fragilidad de las alianzas en tiempos de crisis.\n• Analistas advierten sobre las consecuencias a largo plazo para el liderazgo de Trump.\n• Las divisiones internas podrían afectar sus futuras decisiones y propuestas legislativas.\n• Es crucial observar cómo estos reveses impactan en la percepción pública del mandatario.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cnvneg544y2o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-04T15:21:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Trump enfrenta retos significativos por parte de aliados políticos.",
+      "teaser": "Lo clave en 20 segundos: Trump enfrenta derrotas significativas de sus aliados políticos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/6143/live/e3e22180-9005-11f1-9dfb-fd4408d16f2f.jpg",
       "description": "Un presidente acostumbrado a manipular la política estadounidense a su voluntad se enfrenta a dos dolorosas derrotas en cuestión de días, escribe Anthony Zurcher.",
       "featured": false
@@ -290,11 +303,11 @@
       "slug": "como-miami-se-convirtio-en-el-hogar-de-los-ultrarricos-en-eeuu-y-el-efecto-que-tiene-en-que-la-vida-sea-mas-cara-que-en-",
       "title": "Cómo Miami se convirtió en el hogar de los ultrarricos en EE.UU. (y el efecto que tiene en que la vida sea más cara que en Nueva York)",
       "category": "Mundo",
-      "bullets_20s": "• Miami ha visto un aumento significativo en la demanda de propiedades de lujo en los últimos años.\n• La pandemia provocó una migración de personas adineradas hacia la ciudad en busca de mejores condiciones.\n• Los precios de vivienda han aumentado, superando los de ciudades tradicionales como Nueva York.\n• Factores como impuestos bajos y clima cálido atraen a nuevos residentes ultrarricos.\n• La expansión de servicios exclusivos y desarrollos inmobiliarios han reconfigurado el mercado local.",
+      "bullets_20s": "• Miami ha experimentado un aumento espectacular en su mercado inmobiliario en los últimos años.\n• La pandemia ha llevado a un cambio en las preferencias de vivienda entre los ricos en EE.UU.\n• La ciudad de Miami se considera ahora un refugio fiscal y de estilo de vida atractivo.\n• Los precios de los inmuebles han aumentado, afectando a los residentes de clase media.\n• El auge de la demanda ha impactado en el costo de vida, elevándolo más que en Nueva York.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwylrx2rw8no?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-04T14:50:19.000Z",
-      "teaser": "Lo clave en 20 segundos: Miami atrae ultrarricos, afectando la economía inmobiliaria y el costo de vida.",
+      "teaser": "Lo clave en 20 segundos: Miami se vuelve un refugio de ricos, afectando el costo de vida local.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/e998/live/15a4bc30-877f-11f1-b8ee-9b3c26ad07bb.jpg",
       "description": "Después de la pandemia, Miami se ha convertido en uno de los mercados inmobiliarios más calientes de EE.UU. y el mundo. Te contamos las razones.",
       "featured": false
@@ -2760,11 +2773,11 @@
       "slug": "colegios-cientificos-abren-proceso-de-admision-2027",
       "title": "Colegios científicos abren proceso de admisión 2027",
       "category": "Costa Rica",
-      "bullets_20s": "• El Sistema Nacional de Colegios Científicos inicia el proceso de admisión para el curso 2027.\n• Estudiantes de noveno año pueden participar en la prueba de admisión programada para octubre.\n• Requisitos incluyen promedio mínimo de 85 en las asignaturas de séptimo a noveno año.\n• Inscripciones están abiertas del 3 de agosto al 26 de septiembre de 2026.\n• El Colegio Científico de Costa Rica en Cartago ofrecerá una jornada de puertas abiertas en septiembre.",
+      "bullets_20s": "• El Sistema Nacional de Colegios Científicos abre admisiones para el curso lectivo 2027.\n• La prueba de admisión se realizará el viernes 09 de octubre a las 9:00 p.m.\n• Los estudiantes de noveno año son elegibles para participar en el proceso.\n• Requisitos incluyen un promedio mínimo y documentos específicos a presentar.\n• Se brindará una jornada de puertas abiertas el 4 de setiembre para interesados.",
       "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/colegios-cientificos-abren-proceso-admision-2027",
+      "source_url": "http://www.tec.ac.cr/colegios-cientificos-abren-proceso-admission-2027",
       "publish_date": "2026-07-31T17:43:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Abren admisiones para colegios científicos en Costa Rica para el año 2027.",
+      "teaser": "Lo clave en 20 segundos: Admisiones abiertas para colegios científicos, requisitos y fechas importantes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-de-nanoteclogia-104.png",
       "description": "Colegios científicos abren proceso de admisión 2027",
       "featured": false
@@ -2773,13 +2786,13 @@
       "slug": "tec-conmemorara-el-lanzamiento-de-bombas-en-hiroshima-y-nagasaki",
       "title": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
       "category": "Ciencia",
-      "bullets_20s": "• El TEC realizará una conmemoración del 81 aniversario del lanzamiento de bombas nucleares.\n• Habrá diferentes charlas sobre los impactos de las bombas en Hiroshima y Nagasaki.\n• Las actividades se llevarán a cabo del 3 al 7 de agosto en Sala de Conferencias.\n• Se busca sensibilizar a la población sobre los usos pacíficos de la energía nuclear.\n• Las conferencias serán transmitidas por el canal oficial del TEC.",
+      "bullets_20s": "• El TEC efectuará charlas sobre los efectos de las bombas nucleares en Hiroshima y Nagasaki.\n• Las actividades se llevarán a cabo del 3 al 7 de agosto en la sala de conferencias A4-04.\n• Expertos participarán en conferencias sobre la historia y consecuencias de la energía nuclear.\n• Se abordará el tema del multilateralismo y la no proliferación en un contexto global.\n• El evento busca crear conciencia sobre el uso pacífico de la energía nuclear.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-conmemorara-lanzamiento-bombas-hiroshima-nagasaki-0",
       "publish_date": "2026-07-31T17:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC conmemorará los bombardeos de Hiroshima y Nagasaki con diversas actividades educativas.",
+      "teaser": "Lo clave en 20 segundos: El TEC reflexionará sobre el impacto de Hiroshima y Nagasaki.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/images_0.png",
-      "description": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
+      "description": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki.",
       "featured": false
     },
     {
@@ -69408,10 +69421,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-04T23:45:23.220Z",
-  "total": 5339,
-  "removed_soccer_news_count": 983,
+  "generated_at": "2026-08-05T00:45:23.985Z",
+  "total": 5340,
+  "removed_soccer_news_count": 984,
   "removed_soccer_news_titles": [
+    "Vea el penal que anotó el portero Ian O’rourke y la celebración de Costa Rica al clasificar al Mundial (video)",
     "Voces internas de la FIFA aumentan la presión contra Infantino",
     "Procesan a futbolista del Sao Paulo por atropellar mortalmente a un anciano en aparente carrera ilegal",
     "Alerta del Banco Mundial: Países en desarrollo deben adoptar inteligencia artificial o se quedarán atrás",
@@ -69460,7 +69474,6 @@
     "Europa amenaza con boicotear el Mundial si se aprueba el plan de la FIFA de abrir el torneo a la inversión privada",
     "La UEFA boicotearía el Mundial si FIFA insiste en plan de comercialización",
     "¿Cederán ante Gianni Infantino? La Confederación Africana invita a sus asociaciones a ‘examinar’ propuesta de ceder el Mundial a empresa aparte",
-    "Este será el destino final del Municipal Liberia: Fedefútbol ya tomó la decisión",
-    "Otra paliza despide a la Selección de baloncesto de Costa Rica de los Juegos CA y del Caribe 2026"
+    "Este será el destino final del Municipal Liberia: Fedefútbol ya tomó la decisión"
   ]
 }
