@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "curadores-de-cuatro-paises-debatiran-en-costa-rica-sobre-nuevas-practicas-del-arte-contemporaneo",
+      "title": "Curadores de cuatro países debatirán en Costa Rica sobre nuevas prácticas del arte contemporáneo",
+      "category": "Costa Rica",
+      "bullets_20s": "• Cuatro curadores de diferentes países se reunirán en Costa Rica para discutir arte contemporáneo.\n• El evento está organizado por el Centro Cultural de España y la plataforma Satisfactory.\n• Se explorarán nuevas prácticas y enfoques en la curaduría del arte moderno.\n• Las discusiones incluirán la relevancia cultural y social del arte contemporáneo.\n• Este ciclo forma parte de las iniciativas para promover el arte en la región.",
+      "source_name": "Fernando Chaves Espinach",
+      "source_url": "https://www.nacion.com/ancora/curadores-de-cuatro-paises-debatiran-en-costa-rica/4BZPKMAKJRF6PK4CGOA7SSTPL4/story/",
+      "publish_date": "2026-08-05T16:22:27.000Z",
+      "teaser": "Lo clave en 20 segundos: Curadores internacionales debaten sobre arte contemporáneo en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/QHVERSXXORH3BCHT67QASDXZWI.jpg?auth=f4745222b83dc61b8fec4a50f3c6b1160d55ed1e1c6878e98c8f2d743df700b6&smart=true&width=1689&height=1125",
+      "description": "¿Qué hace un curador de arte? Mil cosas distintas, discutidas en un nuevo ciclo promovido por el Centro Cultural de España y Satisfactory.",
+      "featured": false
+    },
+    {
+      "slug": "volcan-de-fuego-en-guatemala-reduce-actividad-eruptiva-pero-el-riesgo-continua",
+      "title": "Volcán de Fuego en Guatemala reduce actividad eruptiva, pero el riesgo continúa",
+      "category": "Mundo",
+      "bullets_20s": "• El volcán de Fuego ha mostrado una disminución en su actividad eruptiva en semanas recientes.\n• Autoridades en Guatemala mantienen la alerta roja debido a posibles riesgos para las comunidades cercanas.\n• Las avalanchas de material caliente siguen siendo una amenaza para las poblaciones alrededor del volcán.\n• Se recomienda a los habitantes estar preparados y seguir las indicaciones de las autoridades locales.\n• Los científicos continúan monitoreando el volcán para evaluar su comportamiento en el futuro.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/volcan-en-guatemala-reduce-actividad-eruptiva-pero/LDO2UW6JYNAXVPCRDKW72TBM6I/story/",
+      "publish_date": "2026-08-05T15:59:42.000Z",
+      "teaser": "Lo clave en 20 segundos: El volcán de Fuego reduce su actividad, pero el riesgo para las comunidades sigue siendo alto.",
+      "image_url": "https://www.nacion.com/resizer/v2/NXN75D3QSNFPZNC6N7EQNHMVOM.jpg?auth=54d0461b14369f2220e2f06d2de4c4dcbd9ab1dda9c0b41c398cc2e9c31242b3&smart=true&width=8256&height=5504",
+      "description": "La actividad del volcán de Fuego comenzó a disminuir en Guatemala, mientras las autoridades mantienen la alerta roja y advierten que las comunidades cercanas aún enfrentan riesgo por avalanchas de material caliente.",
+      "featured": false
+    },
+    {
+      "slug": "javier-milei-rechaza-pedir-disculpas-a-lula-y-prepara-una-cumbre-de-presidentes-de-derecha",
+      "title": "Javier Milei rechaza pedir disculpas a Lula y prepara una cumbre de presidentes de derecha",
+      "category": "Mundo",
+      "bullets_20s": "• Javier Milei afirma que Argentina no solicitará disculpas a Brasil en el corto plazo.\n• La relación diplomática entre Argentina y Brasil ha sido tensa recientemente.\n• Milei planea reunirse con presidentes de derecha en una cumbre internacional.\n• Apoya a Flávio Bolsonaro, un político contrario a Lula da Silva en Brasil.\n• La postura de Milei refleja cambios en la política exterior argentina actual.",
+      "source_name": "La Nación / Argentina / GDA",
+      "source_url": "https://www.nacion.com/el-mundo/javier-milei-rechaza-pedir-disculpas-a-lula-y/XB2XV2KRH5GKBLHULJ74ZDJZYI/story/",
+      "publish_date": "2026-08-05T15:56:59.000Z",
+      "teaser": "Lo clave en 20 segundos: Milei ignora disculpas a Lula y convoca cumbre de líderes de derecha.",
+      "image_url": "https://www.nacion.com/resizer/v2/SFCAGQNZUNDILCSPTO2ADBHHCM.jpg?auth=060cf3dc94a1c6d1be4c894fa7b78a28ce688abc16733f33eb86e20ea6a3e6c4&smart=true&width=7040&height=4688",
+      "description": "Argentina descartó pedir disculpas a Brasil tras la reducción de la relación diplomática. Milei fue al país a apoyar a rival de Lula, Flávio Bolsonaro.",
+      "featured": false
+    },
+    {
       "slug": "irving-malespin-exdirector-de-la-policia-de-control-fiscal-absuelto-por-ingresar-con-reloj-inteligente-a-carcel-de-san-s",
       "title": "Irving Malespín, exdirector de la Policía de Control Fiscal, absuelto por ingresar con reloj inteligente a cárcel de San Sebastián",
       "category": "Costa Rica",
@@ -225,11 +264,11 @@
       "slug": "los-curiosos-metodos-que-usaba-la-gente-para-despertarse-antes-de-que-existieran-las-alarmas-y-el-celular",
       "title": "Los curiosos métodos que usaba la gente para despertarse antes de que existieran las alarmas (y el celular)",
       "category": "Mundo",
-      "bullets_20s": "• Los métodos de despertar antes de las alarmas eran muy variados y creativos en diversas culturas.\n• La historia muestra soluciones ingeniosas desde el uso de aves hasta el canto del gallo.\n• Los despertadores mecánicos comenzaron a ser populares en el siglo XVIII y cambiaron todo.\n• Antes de la tecnología, el contexto cultural influía en cómo se despertaba la gente.\n• Experimentar con diferentes formas de despertar era un signo de innovación en la antigüedad.",
+      "bullets_20s": "• Antes de las alarmas, la creatividad era fundamental para despertarse a tiempo cada mañana.\n• Métodos como el canto de aves fueron utilizados en diversas culturas como despertadores naturales.\n• El uso de objetos cotidianos para facilitar el despertar es un tema fascinante de explorar.\n• Desde el agua fría hasta el fuego, se han usado técnicas sorprendentes para levantarse temprano.\n• Los despertadores manuales eran una parte importante de las rutinas diarias en épocas pasadas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g8y90g513o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-05T10:35:14.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre los ingeniosos métodos de despertar sin alarmas ni móviles.",
+      "teaser": "Lo clave en 20 segundos: métodos ingeniosos para despertarse antes de las alarmas modernas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ed33/live/a833a630-90ba-11f1-b8f3-bf6a2c059a9b.jpg",
       "description": "A lo largo de la historia la gente ha ideado muchas formas ingeniosas de asegurarse el despertar a tiempo.",
       "featured": false
@@ -588,12 +627,12 @@
     {
       "slug": "hackathon-de-biologia-sintetica",
       "title": "Hackathon de Biología Sintética",
-      "category": "Ciencia",
-      "bullets_20s": "• El Tecnológico de Costa Rica organiza un hackathon para abordar desafíos en biología sintética.\n• Se reunirán estudiantes de varias universidades en un campamento en Cartago para innovar.\n• Actividades iniciales incentivarán la creatividad antes de las jornadas intensivas de trabajo.\n• Equipos registrarán propuestas in silico para solucionar problemas prácticos en biología.\n• El evento cuenta con jueces y mentores que guiarán a los participantes durante el hackathon.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Tecnológico de Costa Rica organiza un Hackathon de Biología Sintética en agosto.\n• El evento se llevará a cabo del 21 al 23 de agosto en Cartago.\n• Treinta estudiantes de varias universidades participarán en este encuentro intensivo.\n• Los equipos trabajarán en propuestas in silico para desafíos en biología sintética.\n• El hackathon incluirá actividades creativas al aire libre para fomentar innovación.\n• Habrá un cuerpo de jueces y mentores apoyando a los participantes durante el evento.\n• Biosphere conecta estudiantes y expertos en experiencias prácticas significativas.\n• La actividad tiene cupo limitado y es solo por invitación.\n• Los participantes buscarán desarrollar soluciones biotecnológicas con impacto real.\n• El hackathon busca estimular el pensamiento creativo y el trabajo en equipo.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/hackathon-biologia-sintetica",
       "publish_date": "2026-08-04T16:02:35.000Z",
-      "teaser": "Lo clave en 20 segundos: un hackathon busca resolver desafíos en biología sintética en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Un innovador Hackathon de Biología Sintética convocará a estudiantes en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/taller_biocromia_pcenteno-01.jpg",
       "description": "Hackathon de Biología Sintética",
       "featured": false
@@ -3111,11 +3150,11 @@
       "slug": "colegios-cientificos-abren-proceso-de-admision-2027",
       "title": "Colegios científicos abren proceso de admisión 2027",
       "category": "Costa Rica",
-      "bullets_20s": "• El Sistema Nacional de Colegios Científicos inició el proceso de admisión para el ciclo 2027.\n• Los interesados deben cursar noveno año y tener buen promedio académico.\n• La prueba de admisión se realizará el 09 de octubre a las 9:00 p.m.\n• La inscripción está abierta del 3 de agosto al 26 de setiembre de 2026.\n• Se requieren documentos específicos para completar el proceso de inscripción.",
+      "bullets_20s": "• El Sistema Nacional de Colegios Científicos inicia el proceso de admisión para el año 2027.\n• Estudiantes de noveno año pueden inscribirse para estudiar ciencias, matemática y robótica.\n• La prueba de admisión se realizará el 9 de octubre a las 9:00 p.m. en sedes asignadas.\n• Las inscripciones estarán abiertas del 3 de agosto al 26 de septiembre de 2026.\n• Se requieren promedios mínimos de 85 en séptimo, octavo y noveno año para aplicar.",
       "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/colegios-cientificos-abren-proceso-admission-2027",
+      "source_url": "http://www.tec.ac.cr/colegios-cientificos-abren-proceso-admision-2027",
       "publish_date": "2026-07-31T17:43:15.000Z",
-      "teaser": "Lo clave en 20 segundos: inicio del proceso de admisión a colegios científicos en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Proceso de admisión para colegios científicos empieza este agosto.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-de-nanoteclogia-104.png",
       "description": "Colegios científicos abren proceso de admisión 2027",
       "featured": false
@@ -3124,11 +3163,11 @@
       "slug": "tec-conmemorara-el-lanzamiento-de-bombas-en-hiroshima-y-nagasaki",
       "title": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
       "category": "Ciencia",
-      "bullets_20s": "• El TEC conmemorará el 81 aniversario del lanzamiento de las bombas nucleares este agosto.\n• A partir del 3 de agosto, se llevarán a cabo diversas charlas y actividades en el TEC.\n• Los eventos buscan sensibilizar al público sobre los efectos de las bombas nucleares en Hiroshima.\n• Expertos hablarán sobre el contexto histórico y la energía nuclear en conferencias programadas.\n• Actividades incluirán inauguración, conferencias y cinefórum sobre la energía nuclear y su historia.",
+      "bullets_20s": "• El TEC recordará el 81 aniversario de las bombas en Hiroshima y Nagasaki con una serie de actividades.\n• Las actividades están programadas del 3 al 7 de agosto en Sala de Conferencias de Ciencias Sociales.\n• Se realizarán conferencias sobre el impacto de las bombas nucleares y la energía nuclear pacífica.\n• Expertos como el Dr. Jorge Vargas Calvo participarán en charlas sobre las víctimas olvidadas de la bomba nuclear.\n• La conmemoración busca sensibilizar sobre el uso responsable de la energía nuclear en el presente.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-conmemorara-lanzamiento-bombas-hiroshima-nagasaki-0",
       "publish_date": "2026-07-31T17:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC conmemorará el impacto histórico de Hiroshima y Nagasaki con conferencias y actividades educativas.",
+      "teaser": "Lo clave en 20 segundos: Actividades del TEC por el aniversario del bombardeo en Japón.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/images_0.png",
       "description": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
       "featured": false
@@ -69759,8 +69798,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-05T15:45:23.041Z",
-  "total": 5366,
+  "generated_at": "2026-08-05T16:45:24.254Z",
+  "total": 5369,
   "removed_soccer_news_count": 987,
   "removed_soccer_news_titles": [
     "Infantino se reúne este miércoles en Marruecos con altos cargos de la FIFA en medio de la tempestad",
