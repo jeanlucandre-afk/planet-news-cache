@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "monica-taylor-propone-nombramiento-temporal-en-junta-directiva-de-la-ccss-mientras-gobierno-mantiene-sin-juramentar-a-ro",
+      "title": "Mónica Taylor propone nombramiento temporal en junta directiva de la CCSS mientras gobierno mantiene sin juramentar a Rocío Alfaro",
+      "category": "Costa Rica",
+      "bullets_20s": "• Mónica Taylor busca un nombramiento temporal mientras se formaliza la nueva junta directiva.\n• El gobierno aún no ha juramentado a Rocío Alfaro, generando incertidumbre en la CCSS.\n• Taylor menciona la importancia de mantener la representación sindical en el proceso de decisión.\n• La propuesta busca estabilizar la situación dentro de la junta directiva de la CCSS.\n• Se espera que el nombramiento temporal sirva para resolver los conflictos actuales en la junta.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-pais/monica-taylor-propone-nombramiento-temporal-en/2RIZ4AJMSZDCTAF5ZW5FLOEB5E/story/",
+      "publish_date": "2026-08-05T01:12:07.000Z",
+      "teaser": "Lo clave en 20 segundos: Mónica Taylor propone solución temporal ante la falta de juramentación de Rocío Alfaro.",
+      "image_url": "https://www.nacion.com/resizer/v2/FR7G7UTDAREKVHC5OSFZKARQ3E.JPG?auth=65e1c5c31b22140305a31631a44bfa2f133f97d9af86c61b7e1607cc1328530a&smart=true&width=4000&height=2667",
+      "description": "La presidenta ejecutiva de la CCSS explicó qué planea hacer con la representación sindical en la Junta Directiva.",
+      "featured": false
+    },
+    {
       "slug": "esto-responde-la-caja-costarricense-de-seguro-social-sobre-comprar-el-estadio-de-perez-zeledon-para-ampliar-hospital",
       "title": "Esto responde la Caja Costarricense de Seguro Social sobre comprar el estadio de Pérez Zeledón para ampliar hospital",
       "category": "Costa Rica",
@@ -24,6 +37,19 @@
       "teaser": "Lo clave en 20 segundos: Pueblo Soberano y PLN se oponen a impuestos sobre rentas pasivas de capital extranjero.",
       "image_url": "https://www.nacion.com/resizer/v2/3XUUAGPRAFF7VIZKDJ7PKVTLI4.JPG?auth=9eee6dbc94c52a41bacffea87949d73f281a1476a8a499c654722235407d9efb&smart=true&width=4464&height=2976",
       "description": "Iniciativa del FA busca que los ingresos pasivos generados en el extranjero, a partir de capital generado en Costa Rica, paguen impuestos.",
+      "featured": false
+    },
+    {
+      "slug": "safari-humano-el-video-que-muestra-como-un-dron-ruso-persigue-a-un-vendedor-ambulante-ucraniano-antes-de-explotar",
+      "title": "\"Safari humano\": el video que muestra cómo un dron ruso persigue a un vendedor ambulante ucraniano antes de explotar",
+      "category": "Mundo",
+      "bullets_20s": "• El video revela la cara oscura de los conflictos modernos y el uso de tecnología bélica.\n• Los drones en conflictos están cambiando la naturaleza de la guerra y su impacto en civiles.\n• Ucrania denuncia el crimen de guerra mientras la comunidad internacional observa con preocupación.\n• Imágenes como estas generan debate sobre la ética del uso de drones en zonas pobladas.\n• El caso subraya la vulnerabilidad de los civiles en situaciones de conflicto armado.\n• Se buscan regulaciones más estrictas sobre el uso de drones para fines bélicos.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c75g10ge63yo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-04T23:06:25.000Z",
+      "teaser": "Lo clave en 20 segundos: Un dron ruso persigue a un vendedor ambulante en un video impactante que evidencia un crimen de guerra.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/186d/live/c0c31180-9057-11f1-a97d-6d4d0764fba0.jpg",
+      "description": "Ucrania afirmó que el video, que muestra a un civil aterrorizado siendo perseguido por un dron teledirigido, muestra un crimen de guerra.",
       "featured": false
     },
     {
@@ -251,11 +277,11 @@
       "slug": "hackathon-de-biologia-sintetica",
       "title": "Hackathon de Biología Sintética",
       "category": "Costa Rica",
-      "bullets_20s": "• El hackathon reunirá a estudiantes del TEC, UCR y UNA en un evento colaborativo.\n• Se desarrollarán propuestas in silico con un enfoque en biología sintética.\n• La actividad promueve el pensamiento creativo a través de actividades al aire libre.\n• Un panel de jueces y mentores guiará a los participantes durante el evento.\n• El hackathon tiene un enfoque práctico en la resolución de problemas reales.",
+      "bullets_20s": "• El TEC organiza un hackathon enfocado en resolver desafíos biológicos con ingeniería de sistemas.\n• Estudiantes de varias universidades participarán en un campamento del 21 al 23 de agosto.\n• La actividad incluye propuestas in silico para abordar problemáticas de biología sintética.\n• El evento busca estimular el pensamiento creativo a través de actividades al aire libre.\n• Nueve jueces evaluarán las propuestas de los equipos durante el desarrollo intensivo.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/hackathon-biologia-sintetica",
       "publish_date": "2026-08-04T16:02:35.000Z",
-      "teaser": "Lo clave en 20 segundos: estudiantes se unen para resolver desafíos en biología sintética.",
+      "teaser": "Lo clave en 20 segundos: Hackathon de Biología Sintética para estudiantes del TEC y otras universidades.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/taller_biocromia_pcenteno-01.jpg",
       "description": "Hackathon de Biología Sintética",
       "featured": false
@@ -264,11 +290,11 @@
       "slug": "los-duros-reveses-que-enfrenta-trump-de-parte-de-sus-propios-aliados",
       "title": "Los duros reveses que enfrenta Trump de parte de sus propios aliados",
       "category": "Mundo",
-      "bullets_20s": "• Donald Trump enfrenta desafíos inesperados de figuras clave dentro de su partido político.\n• La política estadounidense muestra la fragilidad de las alianzas en tiempos de crisis.\n• Analistas advierten sobre las consecuencias a largo plazo para el liderazgo de Trump.\n• Las divisiones internas podrían afectar sus futuras decisiones y propuestas legislativas.\n• Es crucial observar cómo estos reveses impactan en la percepción pública del mandatario.",
+      "bullets_20s": "• Donald Trump enfrenta retos significativos que han sorprendido incluso a sus aliados más cercanos.\n• Las decisiones recientes de Trump han generado conflictos internos en el Partido Republicano.\n• Analistas destacan que estos problemas podrían afectar su futuro político y electoral.\n• Los reveses que enfrenta podrían debilitar su base de apoyo en el próximo ciclo electoral.\n• Las tensiones dentro del partido están en aumento, generando preocupaciones sobre unidad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cnvneg544y2o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-04T15:21:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Trump enfrenta derrotas significativas de sus aliados políticos.",
+      "teaser": "Lo clave en 20 segundos: Trump enfrenta derrotas significativas de sus aliados más cercanos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/6143/live/e3e22180-9005-11f1-9dfb-fd4408d16f2f.jpg",
       "description": "Un presidente acostumbrado a manipular la política estadounidense a su voluntad se enfrenta a dos dolorosas derrotas en cuestión de días, escribe Anthony Zurcher.",
       "featured": false
@@ -303,11 +329,11 @@
       "slug": "como-miami-se-convirtio-en-el-hogar-de-los-ultrarricos-en-eeuu-y-el-efecto-que-tiene-en-que-la-vida-sea-mas-cara-que-en-",
       "title": "Cómo Miami se convirtió en el hogar de los ultrarricos en EE.UU. (y el efecto que tiene en que la vida sea más cara que en Nueva York)",
       "category": "Mundo",
-      "bullets_20s": "• Miami ha experimentado un aumento espectacular en su mercado inmobiliario en los últimos años.\n• La pandemia ha llevado a un cambio en las preferencias de vivienda entre los ricos en EE.UU.\n• La ciudad de Miami se considera ahora un refugio fiscal y de estilo de vida atractivo.\n• Los precios de los inmuebles han aumentado, afectando a los residentes de clase media.\n• El auge de la demanda ha impactado en el costo de vida, elevándolo más que en Nueva York.",
+      "bullets_20s": "• Miami ha visto un auge en su mercado inmobiliario, especialmente tras la pandemia.\n• El aumento de precios en Miami ha superado a ciudades como Nueva York y Los Ángeles.\n• Las políticas fiscales de Florida atraen a inversores y ultrarricos en busca de beneficios.\n• El estilo de vida cálido y diverso de Miami continúa atrayendo a muchos millonarios.\n• Los sectores de lujo en Miami están en constante crecimiento, generando nueva infraestructura.\n• Los cambios demográficos en Miami afectan el costo de vida de residentes y turistas.\n• El afán por escapar de impuestos en otros estados impulsa la llegada de nuevos ricos.\n• Los análisis apuntan a que el crecimiento de Miami está siendo impresionante y sostenido.\n• La pandemia ha redefinido las prioridades de vivienda, consolidando a Miami como un destino ideal.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwylrx2rw8no?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-04T14:50:19.000Z",
-      "teaser": "Lo clave en 20 segundos: Miami se vuelve un refugio de ricos, afectando el costo de vida local.",
+      "teaser": "Lo clave en 20 segundos: Miami se vuelve el refugio de ultrarricos, encareciendo la vida aún más.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/e998/live/15a4bc30-877f-11f1-b8ee-9b3c26ad07bb.jpg",
       "description": "Después de la pandemia, Miami se ha convertido en uno de los mercados inmobiliarios más calientes de EE.UU. y el mundo. Te contamos las razones.",
       "featured": false
@@ -2773,11 +2799,11 @@
       "slug": "colegios-cientificos-abren-proceso-de-admision-2027",
       "title": "Colegios científicos abren proceso de admisión 2027",
       "category": "Costa Rica",
-      "bullets_20s": "• El Sistema Nacional de Colegios Científicos abre admisiones para el curso lectivo 2027.\n• La prueba de admisión se realizará el viernes 09 de octubre a las 9:00 p.m.\n• Los estudiantes de noveno año son elegibles para participar en el proceso.\n• Requisitos incluyen un promedio mínimo y documentos específicos a presentar.\n• Se brindará una jornada de puertas abiertas el 4 de setiembre para interesados.",
+      "bullets_20s": "• El Sistema Nacional de Colegios Científicos abrió su proceso de admisión para el curso 2027.\n• Los interesados en ciencias, matemáticas, robótica y computación pueden iniciar el trámite.\n• La prueba de admisión se llevará a cabo el 09 de octubre en diferentes sedes asignadas.\n• El proceso de inscripción se extiende del 3 de agosto al 26 de septiembre de 2026.\n• Se requieren documentos específicos, como constancias de notas y fotografías tamaño pasaporte.",
       "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/colegios-cientificos-abren-proceso-admission-2027",
+      "source_url": "http://www.tec.ac.cr/colegios-cientificos-abren-proceso-admision-2027",
       "publish_date": "2026-07-31T17:43:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Admisiones abiertas para colegios científicos, requisitos y fechas importantes.",
+      "teaser": "Lo clave en 20 segundos: Se abre el proceso de admisión para colegios científicos en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-de-nanoteclogia-104.png",
       "description": "Colegios científicos abren proceso de admisión 2027",
       "featured": false
@@ -2786,13 +2812,13 @@
       "slug": "tec-conmemorara-el-lanzamiento-de-bombas-en-hiroshima-y-nagasaki",
       "title": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
       "category": "Ciencia",
-      "bullets_20s": "• El TEC efectuará charlas sobre los efectos de las bombas nucleares en Hiroshima y Nagasaki.\n• Las actividades se llevarán a cabo del 3 al 7 de agosto en la sala de conferencias A4-04.\n• Expertos participarán en conferencias sobre la historia y consecuencias de la energía nuclear.\n• Se abordará el tema del multilateralismo y la no proliferación en un contexto global.\n• El evento busca crear conciencia sobre el uso pacífico de la energía nuclear.",
+      "bullets_20s": "• El Tecnológico de Costa Rica planea conmemorar un importante evento histórico en su sede.\n• Las actividades se llevarán a cabo del 3 al 7 de agosto de 2026.\n• Charlas y talleres abordarán los efectos de las bombas nucleares lanzadas en 1945.\n• Conferencias por expertos resaltarán la importancia del uso pacífico de la energía nuclear.\n• Se incluirán actividades culturales y cineforos relacionados con la temática nuclear.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-conmemorara-lanzamiento-bombas-hiroshima-nagasaki-0",
       "publish_date": "2026-07-31T17:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC reflexionará sobre el impacto de Hiroshima y Nagasaki.",
+      "teaser": "Lo clave en 20 segundos: TEC recordará el impacto de Hiroshima y Nagasaki a través de diversas actividades educativas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/images_0.png",
-      "description": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki.",
+      "description": "TEC conmemorará el lanzamiento de bombas en Hiroshima y Nagasaki",
       "featured": false
     },
     {
@@ -69421,10 +69447,12 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-05T00:45:23.985Z",
-  "total": 5340,
-  "removed_soccer_news_count": 984,
+  "generated_at": "2026-08-05T01:45:23.033Z",
+  "total": 5342,
+  "removed_soccer_news_count": 986,
   "removed_soccer_news_titles": [
+    "Rándall Row, técnico de la Selección Sub-20: ‘Le estamos dando una alegría a Costa Rica’",
+    "Al fin una alegría: Selección Sub-20 interrumpe la seguidilla de fracasos en el fútbol de Costa Rica",
     "Vea el penal que anotó el portero Ian O’rourke y la celebración de Costa Rica al clasificar al Mundial (video)",
     "Voces internas de la FIFA aumentan la presión contra Infantino",
     "Procesan a futbolista del Sao Paulo por atropellar mortalmente a un anciano en aparente carrera ilegal",
@@ -69472,8 +69500,6 @@
     "¿En qué canal nacional y a qué hora podrá ver los partidos de la Selección de Costa Rica en los Juegos Centroamericanos y del Caribe?",
     "¿Fox o FUTV? Es oficial: este canal dará los partidos de Inter San Carlos",
     "Europa amenaza con boicotear el Mundial si se aprueba el plan de la FIFA de abrir el torneo a la inversión privada",
-    "La UEFA boicotearía el Mundial si FIFA insiste en plan de comercialización",
-    "¿Cederán ante Gianni Infantino? La Confederación Africana invita a sus asociaciones a ‘examinar’ propuesta de ceder el Mundial a empresa aparte",
-    "Este será el destino final del Municipal Liberia: Fedefútbol ya tomó la decisión"
+    "La UEFA boicotearía el Mundial si FIFA insiste en plan de comercialización"
   ]
 }
