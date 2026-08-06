@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "fiscalia-y-oij-ejecutan-multiples-allanamientos-en-busca-de-sospechosos-de-asesinar-a-gerentes-de-empresa-tecnologica",
+      "title": "Fiscalía y OIJ ejecutan múltiples allanamientos en busca de sospechosos de asesinar a gerentes de empresa tecnológica",
+      "category": "Costa Rica",
+      "bullets_20s": "• La fiscalía y el OIJ están llevando a cabo allanamientos en diferentes zonas de Heredia.\n• Los operativos buscan capturar a sospechosos de un asesinato ocurrido este año.\n• El caso involucra a un gerente de una empresa tecnológica en la región.\n• Se han desplegado numerosos agentes de seguridad en la operación.\n• Los allanamientos se iniciaron a primera hora de la mañana para mayor efectividad.",
+      "source_name": "Christian Montero",
+      "source_url": "https://www.nacion.com/sucesos/fiscalia-y-oij-ejecutan-multiples-allanamientos-en/QQE5OGBWHNAM7P5ZUEVQY4PGYQ/story/",
+      "publish_date": "2026-08-06T09:19:00.000Z",
+      "teaser": "Lo clave en 20 segundos: allanamientos en busca de asesinos de gerente tecnológico en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/7RE6PS5PT5FNHIG2IMZ36L44OI.JPG?auth=08fbcedaba3ad8c0eb2ecd303f1fa9baf828289e261216d96427f21f001808fe&smart=true&width=3000&height=2000",
+      "description": "Desde esta madrugada iniciaron una serie de allanamientos por parte de la fiscalía y el Organismo de Investigación Judicial (OIJ) de Heredia, que buscan la captura de varios sospechosos de asesinar al gerente de una empresa tecnológica, cuyo caso ocurrió el 21 de abril de este año.",
+      "featured": false
+    },
+    {
       "slug": "fiscalia-pide-36-anos-de-carcel-contra-extesorero-sospechoso-de-millonario-robo-en-boveda-del-banco-nacional",
       "title": "Fiscalía pide 36 años de cárcel contra extesorero sospechoso de millonario robo en bóveda del Banco Nacional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Fiscalía busca una condena de 36 años para el extesorero por un robo millonario.\n• Este caso tiene gran repercusión en la opinión pública por su magnitud económica.\n• El robo ocurrió en el Centro Institucional de Procesamiento de Efectivo.\n• El Ministerio Público presentó pruebas que incriminan al extesorero en el delito.\n• La ciudadanía está atenta al desenlace de este juicio que involucra fondos públicos.",
+      "bullets_20s": "• La Fiscalía sostiene que el extesorero es responsable del robo en el Banco Nacional.\n• Se solicita una pena de 36 años por el delito de malversación de fondos públicos.\n• El monto robado asciende a más de tres mil millones de colones.\n• El caso ha despertado gran interés en la opinión pública costarricense.\n• Se espera que el juicio comience dentro de los próximos meses.",
       "source_name": "Natalia Vargas",
       "source_url": "https://www.nacion.com/sucesos/fiscalia-pide-36-anos-de-carcel-contra-extesorero/4HLJWRN6JJCRDKWVKERW7FFJQU/story/",
       "publish_date": "2026-08-06T05:09:16.000Z",
-      "teaser": "Lo clave en 20 segundos: Fiscalía solicita 36 años de cárcel por millonario robo a Banco Nacional.",
+      "teaser": "Lo clave en 20 segundos: Fiscalía busca 36 años de encarcelamiento por millonario robo al Banco Nacional.",
       "image_url": "https://www.nacion.com/resizer/v2/ORCQI53HLRHFFK7E4CPVLFOVYI.jpg?auth=68a2f54640a0e4ddc71ff4cd89a7ac203ef2de29881a299eb67cfad5bf6b86ca&smart=true&width=2560&height=1920",
       "description": "El Ministerio Público solicitó 36 años de cárcel contra un hombre de apellidos Olivas Valle, extesorero sospechoso de sustraer ¢3.294 millones del Centro Institucional de Procesamiento de Efectivo (CIPE) del Banco Nacional de Costa Rica.",
       "featured": false
@@ -160,11 +173,11 @@
       "slug": "lanzamiento-del-ecosistema-idtec",
       "title": "Lanzamiento del ecosistema idTEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica presenta su innovador ecosistema de identidad digital descentralizada, idTEC.\n• idTEC permitirá a los estudiantes llevar su carné universitario en el celular de manera sencilla.\n• Esta plataforma facilitará el acceso seguro a los sistemas institucionales del TEC.\n• El proyecto resulta de una colaboración entre el TEC y el Ministerio de Ciencia y Tecnología de Costa Rica.\n• Colaboran también entidades coreanas responsables de la cédula digital en su país.",
+      "bullets_20s": "• El Tecnológico de Costa Rica presenta una nueva solución digital para estudiantes.\n• idTEC posibilita llevar el carné universitario de forma digital en el celular.\n• Asegura un acceso seguro a los sistemas institucionales mediante identidad digital.\n• Se desarrolla en colaboración con el Ministerio de Ciencia y tecnología de Costa Rica.\n• Alianza con entidades de Corea del Sur para potenciar el sistema de identidad.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/lanzamiento-ecosistema-idtec",
       "publish_date": "2026-08-05T22:09:52.000Z",
-      "teaser": "Lo clave en 20 segundos: idTEC lanzará identidad digital segura para estudiantes del TEC.",
+      "teaser": "Lo clave en 20 segundos: Nuevo ecosistema digital para estudiantes del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/idetec.png",
       "description": "Lanzamiento del ecosistema idTEC",
       "featured": false
@@ -381,7 +394,7 @@
       "slug": "50-aniversario-de-la-carrera-de-ingenieria-en-computacion",
       "title": "50 º aniversario de la carrera de Ingeniería en Computación",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebra cinco décadas de la carrera de Ingeniería en Computación con orgullo y compromiso.\n• Las actividades conmemorativas incluyen talleres y charlas programadas para fomentar la innovación y el desarrollo.\n• La ceremonia principal será el 11 de agosto a las 8 a.m. en el Centro de las Artes en Cartago.\n• Investigadores y estudiantes participarán en diversas actividades durante los días festivos del aniversario.\n• La carrera ha contribuido significativamente al desarrollo tecnológico y académico en Costa Rica.",
+      "bullets_20s": "• La carrera de Ingeniería en Computación celebra cincuenta años de excelencia en educación técnica.\n• El Tecnológico de Costa Rica organiza eventos para conmemorar esta importante fecha.\n• Las actividades incluyen una ceremonia el 11 de agosto en el Centro de las Artes.\n• Habrá talleres y espacios para la interacción entre estudiantes y docentes programados.\n• Este aniversario destaca el compromiso del TEC con la innovación tecnológica en el país.\n• El evento incluye la participación de colaboradores y exalumnos que han sobresalido.\n• El Campus Cartago será el lugar de actividades adicionales los días 12 y 13 de agosto.\n• Se espera la asistencia de estudiantes, investigadores y otros interesados en la tecnología.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/50-aniversario-carrera-ingenieria-computacion",
       "publish_date": "2026-08-05T18:05:04.000Z",
@@ -758,11 +771,11 @@
       "slug": "los-curiosos-metodos-que-usaba-la-gente-para-despertarse-antes-de-que-existieran-las-alarmas-y-el-celular",
       "title": "Los curiosos métodos que usaba la gente para despertarse antes de que existieran las alarmas (y el celular)",
       "category": "Mundo",
-      "bullets_20s": "• Antes de las alarmas, la gente usaba el canto de aves para despertar.\n• Algunas personas utilizaban el sonido de campanas en la alborada.\n• También se usaban sistemas mecánicos rudimentarios para marcar la hora.\n• En diversas culturas, el sol y su salida eran cruciales para el despertar.\n• Técnicas como el uso de un reloj de agua eran comunes en la antigüedad.",
+      "bullets_20s": "• Antes de las alarmas modernas, la gente utilizaba métodos creativos para despertarse a tiempo.\n• Desde cuerdas que hacían ruido hasta el canto de aves, los métodos eran diversos y efectivos.\n• Los relojes de sol y otros dispositivos mecánicos fueron populares antes de los despertadores actuales.\n• En diferentes culturas, se empleaban sonidos naturales y objetos inusuales para alertar sobre la hora.\n• La invención del despertador eléctrico revolucionó la manera de levantarse en la mañana.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g8y90g513o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-05T10:35:14.000Z",
-      "teaser": "Lo clave en 20 segundos: los ingeniosos métodos históricos para despertarse sin alarmas.",
+      "teaser": "Lo clave en 20 segundos: Descubre cómo despertarse fue una ciencia antes de las alarmas modernas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ed33/live/a833a630-90ba-11f1-b8f3-bf6a2c059a9b.jpg",
       "description": "A lo largo de la historia la gente ha ideado muchas formas ingeniosas de asegurarse el despertar a tiempo.",
       "featured": false
@@ -70292,8 +70305,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-06T08:45:22.940Z",
-  "total": 5407,
+  "generated_at": "2026-08-06T09:45:24.044Z",
+  "total": 5408,
   "removed_soccer_news_count": 993,
   "removed_soccer_news_titles": [
     "Policía allana sede de federación surcoreana tras fracaso en el pasado Mundial",
