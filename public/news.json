@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "mopt-anuncia-malas-noticias-para-los-usuarios-de-la-ruta-32",
+      "title": "MOPT anuncia malas noticias para los usuarios de la ruta 32",
+      "category": "Costa Rica",
+      "bullets_20s": "• El MOPT informa sobre cambios temporales en la ruta 32 que afectarán a muchos conductores en Costa Rica.\n• Se anunciarán alternativas y rutas recomendadas para aquellos que utilizan frecuentemente la ruta mencionada.\n• Esta medida busca mejorar la seguridad y el estado de la carretera para todos los usuarios.\n• La implementación de estas medidas comenzará en el próximo mes, según lo estipulado por el MOPT.\n• Los conductores deben estar atentos a los informes y actualizaciones sobre el estado de la vía.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/mopt-anuncia-malas-noticias-para-los-usuarios-de/U5ZOTCEL4VFGRHLH2G5WCGHZCQ/story/",
+      "publish_date": "2026-08-06T01:24:52.000Z",
+      "teaser": "Lo clave en 20 segundos: El MOPT anunció cambios en la ruta 32 que impactarán a los conductores.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZO6BK53BJ5EH3AR3EFIBREDMDE.jpg?auth=941e136a6fb3d92220ca75e7c6fe0e1b0513ea9c14c8377978c2d3184b9aa5ca&smart=true&width=1600&height=1200",
+      "description": "El MOPT anunció una medida que afecta a quienes transitan por la ruta 32 y detalló las alternativas disponibles para los conductores",
+      "featured": false
+    },
+    {
       "slug": "exdirector-de-fuerza-publica-denuncia-filtracion-de-informe-confidencial-a-la-nacion-y-otros-medios-sobre-116-policias-q",
       "title": "Exdirector de Fuerza Pública denuncia filtración de informe confidencial a ‘La Nación’ y otros medios sobre 116 policías que estarían vinculados con crimen organizado",
       "category": "Costa Rica",
@@ -11,6 +24,19 @@
       "teaser": "Lo clave en 20 segundos: Filtración de informe sobre policías vinculados con crimen organizado genera preocupación en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/HBPURGZO7NDIPJBDB75K762MKI.png?auth=ed9922d844658d88edb09d77b4adcf9c68c6bd553b453962eeee9f5358f50924&smart=true&width=395&height=303",
       "description": "El exdirector de la Fuerza Pública, Marlon Cubillo, denunció la filtración a 'La Nación' y otros medios de un informe confidencial sobre 116 policías que estarían vinculados con el crimen organizado en delegaciones de la zona sur del país.",
+      "featured": false
+    },
+    {
+      "slug": "gobierno-de-colombia-alerta-sobre-posibles-actos-de-terrorismo-durante-investidura-presidencial",
+      "title": "Gobierno de Colombia alerta sobre posibles ‘actos de terrorismo’ durante investidura presidencial",
+      "category": "Mundo",
+      "bullets_20s": "• El gobierno colombiano advierte sobre riesgos en la investidura presidencial este año.\n• Se han intensificado las medidas de seguridad en torno al evento en Cali.\n• Expertos alertan sobre la posibilidad de atentados terroristas en la ceremonia.\n• Las autoridades buscan prevenir cualquier incidente durante la investidura.\n• La situación en Colombia ha generado preocupación entre la población y medios.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/gobierno-de-colombia-alerta-sobre-posibles-actos/YBX3LWDED5B5NEJZPBVFRCAGTU/story/",
+      "publish_date": "2026-08-06T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: alerta de terrorismo en la investidura presidencial en Colombia.",
+      "image_url": "https://www.nacion.com/resizer/v2/25S34MZGQNG55D5WPRXHO7U5HU.jpg?auth=48102c2c9d6d9aa2c80e0da05b71f22491abbba9a8ccc51db52d7f25c414129d&smart=true&width=1200&height=800",
+      "description": "El Gobierno de Colombia advierte sobre posibles atentados durante la investidura de Abelardo de la Espriella en Cali. Conozca las medidas de seguridad.",
       "featured": false
     },
     {
@@ -69,11 +95,11 @@
       "slug": "lanzamiento-del-ecosistema-idtec",
       "title": "Lanzamiento del ecosistema idTEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica impulsa un nuevo ecosistema de identidad digital descentralizada llamado idTEC.\n• idTEC permitirá llevar el carné universitario en el celular de manera segura y accesible.\n• Se busca mejorar la seguridad en el ingreso a los sistemas institucionales del TEC.\n• El proyecto colabora con el Ministerio de Ciencia, Innovación y Tecnología de Costa Rica.\n• Alianza estratégica con entidades coreanas para desarrollar la cédula digital de su país.",
+      "bullets_20s": "• El Tecnológico de Costa Rica presenta su nuevo ecosistema de identidad digital descentralizada.\n• idTEC permitirá llevar el carné universitario de manera segura en dispositivos móviles.\n• El sistema facilita el acceso a los servicios institucionales de forma eficiente y protegida.\n• El proyecto es resultado de una colaboración entre varias instituciones educativas y tecnológicas.\n• La cédula digital coreana fue el modelo a seguir para el desarrollo de esta innovadora solución.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/lanzamiento-ecosistema-idtec",
       "publish_date": "2026-08-05T22:09:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevo ecosistema idTEC del TEC facilitará identidad digital y acceso seguro.",
+      "teaser": "Lo clave en 20 segundos: Lanzamiento de idTEC, un ecosistema digital para estudiantes del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/idetec.png",
       "description": "Lanzamiento del ecosistema idTEC",
       "featured": false
@@ -277,11 +303,11 @@
       "slug": "quien-es-abdul-el-sayed-el-candidato-musulman-de-izquierda-que-gano-las-primarias-de-michigan-y-hace-temblar-al-partido-",
       "title": "Quien es Abdul El-Sayed, el candidato musulmán de izquierda que ganó las primarias de Michigan y hace temblar al Partido Demócrata",
       "category": "Mundo",
-      "bullets_20s": "• Abdul El-Sayed se postula como candidato a senador en EE. UU. con propuestas progresistas y audaces.\n• Su victoria en las primarias de Michigan marca un hito significativo para la comunidad musulmana.\n• El-Sayed, médico de formación, utiliza su conocimiento para abordar problemas de salud pública.\n• Su campaña ha atraído la atención de jóvenes votantes y activistas progresistas en todo el país.\n• Abdul ha desarrollado un enfoque innovador para involucrar a la comunidad en la política local.",
-      "source_name": "BBC Mundo",
+      "bullets_20s": "• Abdul El-Sayed se postula como candidato musulmán de izquierda en las primarias de Michigan.\n• Podría convertirse en el primer senador musulmán de la historia de los Estados Unidos.\n• Su victoria genera un importante impacto en el Partido Demócrata y su futuro político.\n• El-Sayed es hijo de inmigrantes egipcios que buscan representar una nueva voz en política.\n• Las elecciones de noviembre serán clave para su carrera y el rumbo de su partido.",
+      "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/cy457l1y3leo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-05T18:11:34.000Z",
-      "teaser": "Lo clave en 20 segundos: El-Sayed busca marcar la historia siendo el primer senador musulmán en EE. UU.",
+      "teaser": "Lo clave en 20 segundos: Un candidato musulmán de izquierda desafía al Partido Demócrata en Michigan.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ba7e/live/5ed4ff00-90df-11f1-bad1-37f8e0c246e3.jpg",
       "description": "Abdul El-Sayed, hijo de inmigrantes egipcios, sería el primer senador musulmán de la historia de Estados Unidos si resulta elegido en noviembre.",
       "featured": false
@@ -290,11 +316,11 @@
       "slug": "50-aniversario-de-la-carrera-de-ingenieria-en-computacion",
       "title": "50 º aniversario de la carrera de Ingeniería en Computación",
       "category": "Costa Rica",
-      "bullets_20s": "• La carrera de Ingeniería en Computación celebra su 50 aniversario en el Tecnológico de Costa Rica.\n• Este aniversario marca cinco décadas de excelencia en formación y desarrollo tecnológico en Costa Rica.\n• La ceremonia principal se llevará a cabo el 11 de agosto en el Centro de las Artes.\n• Habrá actividades adicionales programadas para el 12 y 13 de agosto en el Campus Cartago.\n• Se espera la participación de docentes, estudiantes y colaboradores en este importante evento.",
+      "bullets_20s": "• La carrera de Ingeniería en Computación celebra su 50 aniversario en Costa Rica.\n• Este hito refleja cinco décadas de excelencia académica y tecnológica.\n• La ceremonia de aniversario se llevará a cabo el 11 de agosto a las 8 a.m.\n• Actividades adicionales están programadas para los días 12 y 13 de agosto.\n• Se invita a alumnos, docentes y colaboradores a participar en este evento.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/50-aniversario-carrera-ingenieria-computacion",
       "publish_date": "2026-08-05T18:05:04.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración del 50 aniversario de Ingeniería en Computación del TEC.",
+      "teaser": "Lo clave en 20 segundos: se celebra el 50 aniversario de Ingeniería en Computación en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/1_5.png",
       "description": "50 º aniversario de la carrera de Ingeniería en Computación",
       "featured": false
@@ -666,12 +692,12 @@
     {
       "slug": "los-curiosos-metodos-que-usaba-la-gente-para-despertarse-antes-de-que-existieran-las-alarmas-y-el-celular",
       "title": "Los curiosos métodos que usaba la gente para despertarse antes de que existieran las alarmas (y el celular)",
-      "category": "Ciencia",
-      "bullets_20s": "• Las alarmas modernas han evolucionado, pero los métodos antiguos eran sorprendentes y creativos.\n• Desde despertar con el canto de los pájaros hasta el uso de luces naturales como despertador.\n• Se utilizaban ruidos y elementos del entorno para asegurar el despertar de manera efectiva.\n• Las costumbres para despertarse reflejan la vida cotidiana y el uso de recursos de cada época.\n• La evolución de los despertadores ha sido influenciada por la tecnología y la cultura social.",
+      "category": "Mundo",
+      "bullets_20s": "• Antes de las alarmas, las personas utilizaban distintos métodos para asegurarse de despertar a tiempo.\n• Los sonidos de la naturaleza eran un recurso común para comenzar el día de forma natural.\n• Calendarios con ruidos programados ayudaban a recordar eventos importantes y despertares.\n• Algunas culturas usaban el canto de pájaros como señal de que era hora de levantarse.\n• El uso de agua fría en la cara fue un método efectivo para muchas personas.\n• Las campanas de iglesias marcaban la hora y animaban a la comunidad a despertarse.\n• Rituales matutinos eran comunes para aprovechar al máximo la luz del sol.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g8y90g513o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-05T10:35:14.000Z",
-      "teaser": "Lo clave en 20 segundos: Métodos ingeniosos de despertar antes de las alarmas modernas y su sorprendente creatividad.",
+      "teaser": "Lo clave en 20 segundos: métodos históricos para despertar antes de las alarmas modernas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ed33/live/a833a630-90ba-11f1-b8f3-bf6a2c059a9b.jpg",
       "description": "A lo largo de la historia la gente ha ideado muchas formas ingeniosas de asegurarse el despertar a tiempo.",
       "featured": false
@@ -21552,19 +21578,6 @@
       "teaser": "Lo clave en 20 segundos: una megaciudad en California enfrenta retos económicos y políticos.",
       "image_url": "https://www.nacion.com/resizer/v2/H5NTCCQOSRFKDOLLVNYAIV2BRM.jpg?auth=6d7b5ccba22d6467691df3bbf8c4c6b0cddba810b2c9b622c1bc6826aa07d49e&smart=true&width=2560&height=1440",
       "description": "Multimillonarios del sector tecnológico impulsan California Forever, una megaciudad de 259 kilómetros cuadrados en California. El proyecto promete miles de empleos y viviendas, pero aún enfrenta obstáculos ambientales y políticos.",
-      "featured": false
-    },
-    {
-      "slug": "mopt-anuncia-malas-noticias-para-los-usuarios-de-la-ruta-32",
-      "title": "MOPT anuncia malas noticias para los usuarios de la ruta 32",
-      "category": "Costa Rica",
-      "bullets_20s": "• El MOPT comunicó problemas críticos que afectarán a la ruta 32 en las próximas semanas.\n• Se espera que el congestionamiento y los retrasos sean significativos en la vía principal.\n• Los usuarios deben estar preparados para cambios en los tiempos de viaje habituales.\n• Las autoridades sugieren rutas alternas para evitar demoras en el tráfico diario.\n• El MOPT está trabajando en soluciones posibles, pero no hay plazos definidos.",
-      "source_name": "Sebastián Sánchez",
-      "source_url": "https://www.nacion.com/sucesos/mopt-anuncia-malas-noticias-para-los-usuarios-de/YG4PL4JOI5GIRNK6OY2XH2K4WE/story/",
-      "publish_date": "2026-07-02T20:20:16.000Z",
-      "teaser": "Lo clave en 20 segundos: problemas en la ruta 32 según MOPT pueden causar grandes retrasos.",
-      "image_url": "https://www.nacion.com/resizer/v2/2L6XARIG2NHWZMUUWPQQD4HQDA.jpeg?auth=aa7610e5ec587836f4fc1a037cb4d979b36130e639ece884017477286b20edb7&smart=true&width=1600&height=1200",
-      "description": "El Ministerio de Obras Públicas y Transportes (MOPT) anunció malas noticias para quienes transitan por la ruta 32.",
       "featured": false
     },
     {
@@ -70214,8 +70227,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-06T01:45:23.787Z",
-  "total": 5401,
+  "generated_at": "2026-08-06T02:45:24.352Z",
+  "total": 5402,
   "removed_soccer_news_count": 992,
   "removed_soccer_news_titles": [
     "Manfred Ugalde consigue doblete y Jeyland Mitchell se aleja de la Champions League",
