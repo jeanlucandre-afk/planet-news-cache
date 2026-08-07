@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "vida-muerte-y-resurreccion-de-john-galliano-puede-el-mundo-de-la-moda-perdonar-al-gran-pecador",
+      "title": "Vida, muerte y resurrección de John Galliano: ¿Puede el mundo de la moda perdonar al gran pecador?",
+      "category": "Mundo",
+      "bullets_20s": "• El Met está preparando una exposición que explora la vida de John Galliano y su impacto en la moda.\n• La muestra busca examinar el desenfreno y el regreso del diseñador a la industria textil.\n• Galliano es conocido por su estilo extravagante, pero también por su controversia personal.\n• El evento provoca discusiones sobre las fronteras del arte y la ética en la moda contemporánea.\n• La comunidad de moda se divide entre quienes apoyan su regreso y quienes lo critican.\n• Este caso resuena con temas de perdón y redención en el mundo actual de la cultura.\n• Los expertos opinan sobre la relevancia de debatir sobre figuras controvertidas en exposiciones.\n• La reconciliación entre el arte y la moralidad será un enfoque crucial en la muestra.",
+      "source_name": "Fernando Chaves Espinach",
+      "source_url": "https://www.nacion.com/ancora/vida-muerte-y-resurreccion-de-john-galliano-puede/W3ZM3NFTXJG3PG5JGZSZTQBJFY/story/",
+      "publish_date": "2026-08-07T20:29:42.000Z",
+      "teaser": "Lo clave en 20 segundos: El Met explora el impacto de Galliano en la moda, reabriendo el debate ético.",
+      "image_url": "https://www.nacion.com/resizer/v2/WHC72NHRK5AQFIEHWDQP2IHD3Y.png?auth=2f831d63f91aa9b7150d30810cb83c4b39c6febde14cd19b74d28bc950181208&smart=true&width=1522&height=847",
+      "description": "El Met reabre el debate sobre arte y ética al anunciar su gran exposición de 2027 centrada en John Galliano y su controversial historia.",
+      "featured": false
+    },
+    {
+      "slug": "al-vencedor-le-pertenece-el-botin-la-controvertida-afirmacion-de-donald-trump-sobre-el-petroleo-venezolano",
+      "title": "Al vencedor le pertenece el botín: la controvertida afirmación de Donald Trump sobre el petróleo venezolano",
+      "category": "Mundo",
+      "bullets_20s": "• Donald Trump hizo una declaración polémica sobre el petróleo en Venezuela.\n• El ex-presidente justificó la extracción de este recurso tras un conflicto político.\n• La frase ha generado reacciones tanto a favor como en contra en varios sectores.\n• Expertos analizan las implicaciones económicas y políticas de sus afirmaciones.\n• La situación actual en Venezuela es compleja y afecta el mercado petrolero global.",
+      "source_name": "Fernando Chaves Espinach",
+      "source_url": "https://www.nacion.com/el-mundo/al-vencedor-le-pertenece-el-botin-la-controvertida/DPPIXY3RKZFM7ONZ73ZGO522OI/story/",
+      "publish_date": "2026-08-07T20:13:29.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump justifica el petróleo de Venezuela con polémicas afirmaciones sobre el conflicto.",
+      "image_url": "https://www.nacion.com/resizer/v2/RGJIQYLPSBFU3BTXKETM3HQLOI.jpg?auth=6f8382aa9860389e75369d9f2ba490acc7426f1282f5a1086954c4e3fdc74b67&smart=true&width=1200&height=800",
+      "description": "Donald Trump justificó la obtención de petróleo en Venezuela con una polémica frase. Estos son los millonarios ingresos que aduce tras derrocamiento de Maduro.",
+      "featured": false
+    },
+    {
+      "slug": "laura-fernandez-volvera-a-convocar-al-poder-judicial-y-orlando-aguirre-advierte-hay-lineas-que-no-se-pueden-traspasar",
+      "title": "Laura Fernández volverá a convocar al Poder Judicial y Orlando Aguirre advierte: ‘Hay líneas que no se pueden traspasar’",
+      "category": "Costa Rica",
+      "bullets_20s": "• Laura Fernández planea una nueva convocatoria al Poder Judicial en respuesta a recientes anuncios del Ejecutivo.\n• Orlando Aguirre opina que el diálogo es fundamental pero asegura que no se pueden ceder competencias.\n• El Poder Judicial se enfrenta a decisiones políticas que podrían afectar su autonomía y funciones esenciales.\n• La colaboración entre poderes es clave para el desarrollo de la democracia y el estado de derecho.\n• Se espera que las discusiones traigan consigo nuevos acuerdos y pautas para el funcionamiento del Poder Judicial.",
+      "source_name": "Lucía Astorga",
+      "source_url": "https://www.nacion.com/politica/laura-fernandez-volvera-a-convocar-al-poder/E6KU4LWOINEEZH47XFVCC2J7ZM/story/",
+      "publish_date": "2026-08-07T20:08:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Nueva convocatoria del Poder Judicial genera diálogo sobre límites y competencias.",
+      "image_url": "https://www.nacion.com/resizer/v2/RMQXLTF2HFDUXNFOI5VNA34XN4.jpg?auth=4237665a63bae47a2775332102bfced1e84065830928191eb26600ba5ae3fc8b&smart=true&width=6000&height=4000",
+      "description": "Tras el anuncio de Pilar Cisneros sobre una nueva convocatoria del Ejecutivo, Orlando Aguirre reiteró que el Poder Judicial dialogará, pero sin ceder en sus competencias.",
+      "featured": false
+    },
+    {
       "slug": "laura-fernandez-responde-a-comentario-de-edgardo-araya-no-voy-a-justificar-ni-validar-la-violencia-contra-ninguna-de-nos",
       "title": "Laura Fernández responde a comentario de Edgardo Araya: ‘No voy a justificar ni validar la violencia contra ninguna de nosotras’",
       "category": "Costa Rica",
@@ -680,11 +719,11 @@
       "slug": "atletas-del-tec-destacan-en-los-juegos-panamericanos-universitarios-fisu-america-2026",
       "title": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes del TEC brillaron en los Juegos Panamericanos Universitarios en Lima, Perú, destacando en su actuación.\n• La delegación costarricense logró dos medallas de oro, dos de plata y una de bronce en el evento.\n• El entrenador Johnny Loría lideró la delegación, recibiendo elogios por su trabajo con los atletas.\n• Melisa Ramírez y Gabriel Paz fueron figuras clave en el equipo, evidenciando su talento y dedicación.\n• Ambos atletas avanzaron a la final en la prueba individual de 400 metros, mostrando gran competitividad.",
+      "bullets_20s": "• Los atletas del TEC brillaron en los Juegos Panamericanos Universitarios en Lima, Perú.\n• La delegación costarricense logró una actuación histórica en el evento continental.\n• Gabriel Paz y Melisa Ramírez fueron los destacados en los relevos 4x400 metros.\n• El entrenador Johnny Loría resalta el espíritu competitivo del equipo y su selección.\n• La participación de Costa Rica superó a potencias tradicionales en el atletismo.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/atletas-tec-destacan-juegos-panamericanos-universitarios-fisu-america-2026",
       "publish_date": "2026-08-06T21:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Atletas del TEC brillan en Panamericanos Universitarios con medallas y un gran desempeño.",
+      "teaser": "Lo clave en 20 segundos: Atletas del TEC logran destacada actuación en Juegos Panamericanos Universitarios.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/atletismo-fisu-1.jpg",
       "description": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "featured": false
@@ -1277,12 +1316,12 @@
     {
       "slug": "lanzamiento-del-ecosistema-idtec",
       "title": "Lanzamiento del ecosistema idTEC",
-      "category": "Tecnología",
-      "bullets_20s": "• El Tecnológico de Costa Rica presenta un nuevo ecosistema de identidad digital descentralizada.\n• El sistema permitirá acceder al carné universitario de forma segura desde el celular.\n• Se busca mejorar el acceso a los sistemas institucionales mediante tecnología avanzada.\n• Este proyecto es resultado de una colaboración con entidades gubernamentales y empresariales.\n• Se espera que el idTEC revolucione la experiencia académica y administrativa de los estudiantes.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Tecnológico de Costa Rica lanza un ecosistema de identidad digital innovador llamado idTEC.\n• Este nuevo sistema permitirá el acceso seguro a plataformas y servicios universitarios.\n• idTEC permitirá que los estudiantes lleven su carné universitario en sus teléfonos móviles.\n• La iniciativa surge de la colaboración entre el TEC y el Ministerio de Ciencia de Costa Rica.\n• Entidades coreanas también participan en el desarrollo del ecosistema de identidad digital.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/lanzamiento-ecosistema-idtec",
       "publish_date": "2026-08-05T22:09:52.000Z",
-      "teaser": "Lo clave en 20 segundos: nuevo ecosistema digital del TEC mejora acceso universitario.",
+      "teaser": "Lo clave en 20 segundos: El TEC lanza idTEC, un ecosistema de identidad digital para estudiantes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/idetec.png",
       "description": "Lanzamiento del ecosistema idTEC",
       "featured": false
@@ -71410,8 +71449,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-07T19:45:24.576Z",
-  "total": 5493,
+  "generated_at": "2026-08-07T20:45:23.613Z",
+  "total": 5496,
   "removed_soccer_news_count": 1001,
   "removed_soccer_news_titles": [
     "Costa Rica busca destacar con 23 surfistas en la Liga Mundial de Surf",
