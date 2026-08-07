@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "inflacion-interanual-en-costa-rica-mantiene-tendencia-negativa-en-julio-y-se-ubica-en-028",
+      "title": "Inflación interanual en Costa Rica mantiene tendencia negativa en julio y se ubica en -0,28%",
+      "category": "Costa Rica",
+      "bullets_20s": "• La inflación interanual muestra una tendencia negativa, afectando a la economía local de Costa Rica.\n• En julio, la inflación se ubicó en -0,28%, un dato significativo para el país.\n• El índice de precios al consumidor (IPC) reporta cambios importantes en su nueva canasta.\n• Este es el quincuagésimo séptimo mes consecutivo con inflación negativa en Costa Rica.\n• Expertos analizan las implicaciones de esta tendencia en el consumidor costarricense.\n• El fenómeno de la deflación genera preocupación en sectores económicos del país.",
+      "source_name": "Arianna  Villalobos Solís",
+      "source_url": "https://www.nacion.com/economia/inflacion-interanual-en-costa-rica-mantiene/PN33RR2KCRHN7J3EVN7ERLCZWU/story/",
+      "publish_date": "2026-08-07T16:17:11.000Z",
+      "teaser": "Lo clave en 20 segundos: inflación en -0,28% en julio, acumulando 15 meses negativos en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/J22FKYITKVFVJOOGGT3UI6SBJ4.png?auth=31969245ec2e981eb9f56786856598c845c816e35ed5f39dff39cd1655b86c46&smart=true&width=1680&height=945",
+      "description": "La inflación de Costa Rica se ubicó en -0,28% en julio y acumula 15 meses consecutivos en terreno negativo. Conozca qué cambió en la nueva canasta del IPC.",
+      "featured": false
+    },
+    {
+      "slug": "corea-del-norte-recomienda-la-sopa-de-perro-para-combatir-el-calor",
+      "title": "Corea del Norte recomienda la sopa de perro para combatir el calor",
+      "category": "Mundo",
+      "bullets_20s": "• La ola de calor impacta fuertemente a Corea del Norte en este periodo del año.\n• Las recomendaciones incluyen sopa de carne de perro como solución tradicional.\n• Corea del Sur enfrenta desafíos similares con muertes reportadas por calor extremo.\n• Las condiciones climáticas adversas afectan la salud pública en ambos países.\n• La medicina tradicional se utiliza como alternativa en tiempos de crisis.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/corea-del-norte-recomienda-la-sopa-de-perro-para/R7CGMDYQTRCB7M4COU3OAB5M6Y/story/",
+      "publish_date": "2026-08-07T15:59:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Corea del Norte sugiere sopa de perro para combatir el calor extremo.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZOSCJLA4N5FBVENXY7SFVVBE2U.JPG?auth=dd3a52b8eeea59a8b124e8b189bd12579abb36546720eb81e2c7b9414eae9cfc&smart=true&width=4000&height=2667",
+      "description": "Corea del Norte recurrió a la medicina tradicional para enfrentar la ola de calor que afecta al país, al recomendar platos como la sopa de carne de perro, mientras Corea del Sur registra decenas de muertes asociadas a las altas temperaturas.",
+      "featured": false
+    },
+    {
+      "slug": "la-leyenda-de-curubanda-recorrera-guanacaste-en-un-espectaculo-gratuito-de-danza-teatro-y-musica",
+      "title": "La leyenda de Curubanda recorrerá Guanacaste en un espectáculo gratuito de danza, teatro y música",
+      "category": "Costa Rica",
+      "bullets_20s": "• El espectáculo presenta la legendaria historia de la princesa Curubanda en una forma artística única.\n• La danza, teatro y música se combinan para crear una experiencia que honra la cultura costarricense.\n• Este evento gratuito busca involucrar a la comunidad y fomentar la apreciación del arte local.\n• Se espera una gran asistencia debido a la relevancia cultural de la leyenda en Guanacaste.\n• Las presentaciones incluirán elementos de circo y fuego, aumentando la emoción del espectáculo.",
+      "source_name": "Fernando Chaves Espinach",
+      "source_url": "https://www.nacion.com/ancora/la-leyenda-de-curubanda-recorrera-guanacaste-en-un/5LDSJZPZ3VDEJDFVD444A3BBF4/story/",
+      "publish_date": "2026-08-07T15:34:16.000Z",
+      "teaser": "Lo clave en 20 segundos: un espectáculo gratuito que celebra la leyenda costarricense de Curubanda.",
+      "image_url": "https://www.nacion.com/resizer/v2/3XDCXWDZBZBXFAEWDC567KQ45Y.png?auth=c5acfc8b7468daec50efc49ad42e0bc45fac59ee57146a427d179ec28e0dbf40&smart=true&width=1920&height=1080",
+      "description": "La leyenda de la princesa Curubanda llega a Guanacaste con un show gratuito de danza, circo y fuego. Vea los detalles.",
+      "featured": false
+    },
+    {
       "slug": "wall-street-sube-por-esperanza-de-una-fed-mas-propensa-a-bajar-tasas",
       "title": "Wall Street sube por esperanza de una Fed más propensa a bajar tasas",
       "category": "Mundo",
@@ -1096,11 +1135,11 @@
       "slug": "lanzamiento-del-ecosistema-idtec",
       "title": "Lanzamiento del ecosistema idTEC",
       "category": "Ciencia",
-      "bullets_20s": "• El Tecnológico de Costa Rica presenta un nuevo sistema de identidad digital descentralizada.\n• idTEC permitirá a los estudiantes llevar su carné universitario en sus teléfonos móviles.\n• El ecosistema facilitará el acceso a los sistemas institucionales de forma segura.\n• El proyecto es fruto de la colaboración entre el TEC y el MICITT de Costa Rica.\n• Se establece una alianza con entidades coreanas que impulsan la cédula digital.",
+      "bullets_20s": "• El Tecnológico de Costa Rica prepara un innovador ecosistema de identidad digital descentralizada.\n• idTEC permitirá a estudiantes llevar su carné universitario en el celular con seguridad.\n• La iniciativa busca facilitar el acceso a sistemas institucionales a través de tecnología avanzada.\n• Este proyecto es parte de una colaboración con el Ministerio de Ciencia y tecnología de Costa Rica.\n• Entidades coreanas han colaborado en el desarrollo de esta cédula digital para el país.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/lanzamiento-ecosistema-idtec",
       "publish_date": "2026-08-05T22:09:52.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC lanza idTEC, un ecosistema de identidad digital segura para estudiantes.",
+      "teaser": "Lo clave en 20 segundos: idTEC revoluciona la identidad digital estudiantil en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/idetec.png",
       "description": "Lanzamiento del ecosistema idTEC",
       "featured": false
@@ -1316,12 +1355,12 @@
     {
       "slug": "50-aniversario-de-la-carrera-de-ingenieria-en-computacion",
       "title": "50 º aniversario de la carrera de Ingeniería en Computación",
-      "category": "Tecnología",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebra cinco décadas de la carrera de Ingeniería en Computación.\n• La ceremonia oficial se llevará a cabo el 11 de agosto en el Centro de las Artes.\n• Además, se programan actividades para estudiantes, docentes y colaboradores en agosto.\n• La carrera ha contribuido significativamente al desarrollo tecnológico del país.\n• Se agregarán talleres y actividades interactivas durante el aniversario hacia el 13 de agosto.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebra medio siglo de su carrera de Ingeniería en Computación.\n• Se planean actividades especiales para los días 11, 12 y 13 de agosto en Cartago.\n• La ceremonia oficial del aniversario iniciará a las 8 a.m. el 11 de agosto.\n• El evento destaca la excelencia académica y la innovación en tecnología del TEC.\n• Se invita a estudiantes, docentes y colaboradores a participar en las celebraciones.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/50-aniversario-carrera-ingenieria-computacion",
       "publish_date": "2026-08-05T18:05:04.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebran 50 años de Ingeniería en Computación en el TEC.",
+      "teaser": "Lo clave en 20 segundos: el TEC celebra 50 años de Ingeniería en Computación con diversos eventos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/1_5.png",
       "description": "50 º aniversario de la carrera de Ingeniería en Computación",
       "featured": false
@@ -71228,8 +71267,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-07T15:45:24.354Z",
-  "total": 5479,
+  "generated_at": "2026-08-07T16:45:23.485Z",
+  "total": 5482,
   "removed_soccer_news_count": 1001,
   "removed_soccer_news_titles": [
     "Costa Rica busca destacar con 23 surfistas en la Liga Mundial de Surf",
