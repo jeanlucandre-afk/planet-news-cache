@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "wall-street-sube-por-esperanza-de-una-fed-mas-propensa-a-bajar-tasas",
+      "title": "Wall Street sube por esperanza de una Fed más propensa a bajar tasas",
+      "category": "Mundo",
+      "bullets_20s": "• Wall Street vive un repunte optimista gracias a expectativas de reducción de tasas de interés.\n• Inversionistas reciben la noticia con entusiasmo, generando optimismo en el mercado.\n• Los índices bursátiles están en alza, lo cual invita a más confianza por parte de los compradores.\n• La Reserva Federal podría considerar políticas más flexibles en un futuro cercano.\n• Esto podría facilitar el acceso al crédito y estimular el crecimiento económico.\n• Analistas advierten sobre la volatilidad que puede surgir en los mercados financieros.\n• Se esperan reacciones variadas por parte de los sectores económicos ante esta situación.\n• Los inversores deben mantenerse atentos a las decisiones de la Reserva Federal.\n• La economía global sigue siendo un factor determinante en los mercados.\n• La incertidumbre persiste, pero los mercados muestran una ligera recuperación.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/wall-street-sube-por-esperanza-de-una-fed-mas/VA524ZE7RZEPXMJNPBQRUM4AAM/story/",
+      "publish_date": "2026-08-07T15:25:03.000Z",
+      "teaser": "Lo clave en 20 segundos: Wall Street sube por expectativas de que la Fed baje las tasas.",
+      "image_url": "https://www.nacion.com/resizer/v2/LHCCBGV3XZEVZHUD453RQWCXFA.jpg?auth=647b66da1bad9bc773111eeba3218b6635d29c39ec8f21db6933d2e9183e792a&smart=true&width=5339&height=3518",
+      "description": "En las primeras operaciones, el Dow Jones ganaba un 0,17%, el índice Nasdaq avanzaba un 0,71% y el índice ampliado S&P 500 subía un 0,33%",
+      "featured": false
+    },
+    {
+      "slug": "trump-admite-que-votantes-estan-enojados-con-los-republicanos-no-conmigo",
+      "title": "Trump admite que votantes están enojados: ‘Con los republicanos, no conmigo’",
+      "category": "Mundo",
+      "bullets_20s": "• Trump reconoce la insatisfacción de los votantes republicanos con su partido ante las próximas elecciones.\n• El expresidente enfatiza la necesidad de que sus senadores actúen rápidamente ante el descontento.\n• Las elecciones legislativas se perfilan como un reto crucial para los republicanos en el futuro.\n• Trump advierte sobre el riesgo de perder la presidencia del partido ante la falta de acción.\n• La situación genera preocupación y debates sobre el futuro del partido republicano.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/el-mundo/trump-admite-que-votantes-estan-enojados-con-los/RJTIRBKQQVC6ZEANL3KCHKPF24/story/",
+      "publish_date": "2026-08-07T15:20:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump alerta a sus senadores sobre el descontento de votantes republicanos.",
+      "image_url": "https://www.nacion.com/resizer/v2/UIYAPPJVBBDMNN3S6XMN7FIA4U.png?auth=bddcc2181a0c24529d3ea7ec4a7b52370c9242b1b72b31a70a503e38801c549e&smart=true&width=869&height=570",
+      "description": "Trump pide a sus senadores que \"espabilen\" en las próximas legislativas o será \"el último presidente republicano\". ¿Por qué?",
+      "featured": false
+    },
+    {
+      "slug": "tragedia-en-tailandia-un-adolescente-mata-a-sus-abuelos-y-a-cinco-personas-en-un-colegio",
+      "title": "Tragedia en Tailandia: Un adolescente mata a sus abuelos y a cinco personas en un colegio",
+      "category": "Mundo",
+      "bullets_20s": "• Un adolescente de 14 años desató el horror en un colegio tailandés con un tiroteo impactante.\n• El balance trágico incluye a sus abuelos y otros cinco estudiantes que perdieron la vida.\n• La violencia armada sigue siendo un tema grave en diferentes partes del mundo, especialmente en colegios.\n• Tailandia se encuentra en shock y busca respuestas sobre cómo evitar futuras tragedias similares.\n• Los incidentes de violencia escolar han aumentado en diversas naciones, causando preocupación global.\n• Las autoridades han comenzado a debatir sobre el control de armas y la seguridad en escuelas.\n• Las reacciones internacionales condenan el ataque y ofrecen apoyo a las familias afectadas.\n• La sociedad tailandesa enfrenta un llamado a la acción para abordar la violencia juvenil.\n• Este suceso podría marcar un punto de inflexión en las políticas de seguridad en colegios.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/tragedia-en-tailandia-un-adolescente-mata-a-sus/EQK744ZEIRFZRAEWT6T6M4F3WQ/story/",
+      "publish_date": "2026-08-07T15:09:56.000Z",
+      "teaser": "Lo clave en 20 segundos: Adolescente desata tragedia en escuela tailandesa, causando múltiples muertes.",
+      "image_url": "https://www.nacion.com/resizer/v2/CPZYURQH4ZBOJLBVMXQ5MLWEPI.jpg?auth=a1f11d612afe507d4046ca1fababef982b6ed67f16757c2dcd23b66a88d3b39c&smart=true&width=8142&height=5428",
+      "description": "Tailandia enfrenta una nueva tragedia por violencia armada luego de que un estudiante de 14 años asesinara a siete personas.",
+      "featured": false
+    },
+    {
       "slug": "la-ruta-de-los-conquistadores-vuelve-a-sus-origenes-con-un-recorrido-renovado-y-nuevos-desafios",
       "title": "La Ruta de los Conquistadores vuelve a sus orígenes con un recorrido renovado y nuevos desafíos",
       "category": "Costa Rica",
@@ -1056,12 +1095,12 @@
     {
       "slug": "lanzamiento-del-ecosistema-idtec",
       "title": "Lanzamiento del ecosistema idTEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica presenta su nuevo ecosistema de identidad digital descentralizada.\n• idTEC permitirá a los estudiantes llevar el carné universitario en sus celulares de forma segura.\n• Podrán ingresar a sistemas institucionales mediante este nuevo ecosistema digital.\n• Este proyecto es resultado de una alianza con el MICITT y entidades coreanas.\n• La Autoridad Nacional de Identidad de Corea contribuyó al desarrollo del ecosistema.\n• El lanzamiento está destinado a estudiantes y miembros de la audiencia general.\n• Se llevará a cabo en las instalaciones del TEC en Zapote.\n• Esto representa un avance significativo en la digitalización del campus universitario.\n• Se busca aumentar la seguridad y accesibilidad en el uso de la identidad digital.",
+      "category": "Ciencia",
+      "bullets_20s": "• El Tecnológico de Costa Rica presenta un nuevo sistema de identidad digital descentralizada.\n• idTEC permitirá a los estudiantes llevar su carné universitario en sus teléfonos móviles.\n• El ecosistema facilitará el acceso a los sistemas institucionales de forma segura.\n• El proyecto es fruto de la colaboración entre el TEC y el MICITT de Costa Rica.\n• Se establece una alianza con entidades coreanas que impulsan la cédula digital.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/lanzamiento-ecosistema-idtec",
       "publish_date": "2026-08-05T22:09:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Lanzamiento de idTEC, un ecosistema digital para estudiantes del TEC.",
+      "teaser": "Lo clave en 20 segundos: TEC lanza idTEC, un ecosistema de identidad digital segura para estudiantes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/idetec.png",
       "description": "Lanzamiento del ecosistema idTEC",
       "featured": false
@@ -1277,12 +1316,12 @@
     {
       "slug": "50-aniversario-de-la-carrera-de-ingenieria-en-computacion",
       "title": "50 º aniversario de la carrera de Ingeniería en Computación",
-      "category": "Costa Rica",
-      "bullets_20s": "• La carrera de Ingeniería en Computación celebra cinco décadas de logros y avances importantes.\n• Se llevará a cabo una ceremonia oficial el 11 de agosto en el Centro de las Artes.\n• El evento incluirá actividades especiales para estudiantes y docentes del TEC.\n• Las festividades se extenderán hasta el 13 de agosto en el Campus Cartago.\n• Se invita a todos los interesados a participar y celebrar este hito educativo.",
+      "category": "Tecnología",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebra cinco décadas de la carrera de Ingeniería en Computación.\n• La ceremonia oficial se llevará a cabo el 11 de agosto en el Centro de las Artes.\n• Además, se programan actividades para estudiantes, docentes y colaboradores en agosto.\n• La carrera ha contribuido significativamente al desarrollo tecnológico del país.\n• Se agregarán talleres y actividades interactivas durante el aniversario hacia el 13 de agosto.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/50-aniversario-carrera-ingenieria-computacion",
       "publish_date": "2026-08-05T18:05:04.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración del 50º aniversario de Ingeniería en Computación en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Celebran 50 años de Ingeniería en Computación en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/1_5.png",
       "description": "50 º aniversario de la carrera de Ingeniería en Computación",
       "featured": false
@@ -71189,8 +71228,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-07T14:45:23.662Z",
-  "total": 5476,
+  "generated_at": "2026-08-07T15:45:24.354Z",
+  "total": 5479,
   "removed_soccer_news_count": 1001,
   "removed_soccer_news_titles": [
     "Costa Rica busca destacar con 23 surfistas en la Liga Mundial de Surf",
