@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "la-ruta-de-los-conquistadores-vuelve-a-sus-origenes-con-un-recorrido-renovado-y-nuevos-desafios",
+      "title": "La Ruta de los Conquistadores vuelve a sus orígenes con un recorrido renovado y nuevos desafíos",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Ruta de los Conquistadores renueva su recorrido para ofrecer nuevas experiencias a los ciclistas.\n• Este evento es conocido por ser uno de los más desafiantes en Costa Rica y Centroamérica.\n• Los participantes recorrerán un total de 268 kilómetros en tres etapas intensas y variadas.\n• A través de paisajes hermosos, los ciclistas enfrentarán retos físicos y mentales.\n• La carrera se ha consolidado como un ícono del ciclismo de aventura en la región.",
+      "source_name": "Juan Diego Villarreal",
+      "source_url": "https://www.nacion.com/puro-deporte/otros-deportes/la-ruta-de-los-conquistadores-vuelve-a-sus/F53KDXTCRJBQNFNL4VLP6VKNLQ/story/",
+      "publish_date": "2026-08-07T14:21:26.000Z",
+      "teaser": "Lo clave en 20 segundos: Vuelve La Ruta de los Conquistadores con renovados desafíos y un recorrido de 268 kilómetros.",
+      "image_url": "https://www.nacion.com/resizer/v2/D5LPC34ZUVCHNONW3AKS7RY2NY.JPG?auth=107de9723741b02756134cecd5044736701604701ae704576a74c6c79730a709&smart=true&width=3445&height=2201",
+      "description": "La Ruta de los Conquistadores recorrerá un total de 268 kilómetros, divididos en tres exigentes etapas.",
+      "featured": false
+    },
+    {
+      "slug": "el-semen-cambia-despues-de-una-vasectomia-esto-es-lo-que-realmente-ocurre",
+      "title": "¿El semen cambia después de una vasectomía? Esto es lo que realmente ocurre",
+      "category": "Ciencia",
+      "bullets_20s": "• La vasectomía es un método anticonceptivo permanente que evita el paso del esperma.\n• No altera la producción de hormonas, lo que mantiene el deseo sexual en los hombres.\n• La eyaculación sigue siendo posible, pero sin células espermáticas después del procedimiento.\n• Es importante consultar con un especialista para resolver cualquier duda o inquietud.\n• Algunos hombres pueden sentir ansiedad sobre los cambios en su función sexual.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/mi-bienestar/el-semen-cambia-despues-de-una-vasectomia-esto-es/WF2AKSWIQNECPALTN2N3OIOPFQ/story/",
+      "publish_date": "2026-08-07T14:19:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Entérate cómo la vasectomía afecta la eyaculación y el deseo sexual en hombres.",
+      "image_url": "https://www.nacion.com/resizer/v2/WOMQEDUKVJCMJCL3KTV7KAYNTA.png?auth=2d5ab63b3d801987050966b7c0ccd4ee7632886d9e54c050966d9a0657b6764b&smart=true&width=1920&height=1080",
+      "description": "Una uróloga explica qué ocurre realmente con la eyaculación y el deseo sexual después de una vasectomía.",
+      "featured": false
+    },
+    {
+      "slug": "asociacion-latinoamericana-de-juristas-respalda-al-poder-judicial-de-costa-rica-y-cuestiona-querella-contra-magistrados",
+      "title": "Asociación latinoamericana de juristas respalda al Poder Judicial de Costa Rica y cuestiona querella contra magistrados",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Asociación latinoamericana de juristas defiende la independencia del poder judicial en Costa Rica.\n• Se cuestiona la legalidad de la querella presentada contra los magistrados de la Sala Constitucional.\n• La preocupación por el ataque a la justicia en la región es un tema recurrente en los discursos.\n• Se solicita la protección de los derechos humanos y la justicia independiente en el país.\n• Este respaldo de juristas resalta la importancia de la democracia y el estado de derecho.\n• La asociación enfatiza la necesidad de una justicia imparcial frente a presiones externas.\n• Futuros casos legales podrían ser afectados por este tipo de querellas en la administración de justicia.\n• Los magistrados involucrados han sido pilares en la defensa de derechos fundamentales.\n• La comunidad jurídica de América Latina permanece atenta a la evolución de esta situación.",
+      "source_name": "Cristian Mora",
+      "source_url": "https://www.nacion.com/politica/asociacion-latinoamericana-de-juristas-respalda-al/L5627VEJNZDWFM3ZWOFOMGJZCI/story/",
+      "publish_date": "2026-08-07T13:56:34.000Z",
+      "teaser": "Lo clave en 20 segundos: la Asociación de juristas defiende a los magistrados del Poder Judicial en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/CAV3ZNQ7ZRBNTOYVHJ7BSQOTHE.JPG?auth=24a9beef2e886283899ee0ecdad5c62ac227e89fe6138ae7b315ba6c1206394c&smart=true&width=3000&height=2000",
+      "description": "La Asociación de Abogadas y Abogados, Jueces y Fiscales de Derechos Humanos de América Latina y el Caribe pidió reconsiderar la querella contra cuatro magistrados de la Sala Constitucional.",
+      "featured": false
+    },
+    {
       "slug": "espana-da-tres-dias-a-italia-para-levantar-los-controles-fronterizos-tras-crisis-migratoria-en-ceuta",
       "title": "España da tres días a Italia para levantar los controles fronterizos tras crisis migratoria en Ceuta",
       "category": "Mundo",
@@ -1018,11 +1057,11 @@
       "slug": "lanzamiento-del-ecosistema-idtec",
       "title": "Lanzamiento del ecosistema idTEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica lanza un innovador ecosistema de identidad digital llamado idTEC.\n• Esta plataforma permitirá que los estudiantes lleven su carné universitario en sus celulares.\n• Los usuarios podrán acceder a sistemas institucionales de manera segura y eficiente.\n• El proyecto es fruto de una colaboración entre el TEC y entidades coreanas especializadas.\n• El evento de lanzamiento se llevará a cabo en las instalaciones del TEC, en Zapote.",
+      "bullets_20s": "• El Tecnológico de Costa Rica presenta su nuevo ecosistema de identidad digital descentralizada.\n• idTEC permitirá a los estudiantes llevar el carné universitario en sus celulares de forma segura.\n• Podrán ingresar a sistemas institucionales mediante este nuevo ecosistema digital.\n• Este proyecto es resultado de una alianza con el MICITT y entidades coreanas.\n• La Autoridad Nacional de Identidad de Corea contribuyó al desarrollo del ecosistema.\n• El lanzamiento está destinado a estudiantes y miembros de la audiencia general.\n• Se llevará a cabo en las instalaciones del TEC en Zapote.\n• Esto representa un avance significativo en la digitalización del campus universitario.\n• Se busca aumentar la seguridad y accesibilidad en el uso de la identidad digital.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/lanzamiento-ecosistema-idtec",
       "publish_date": "2026-08-05T22:09:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Llega idTEC, la identidad digital segura del TEC para estudiantes.",
+      "teaser": "Lo clave en 20 segundos: Lanzamiento de idTEC, un ecosistema digital para estudiantes del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/idetec.png",
       "description": "Lanzamiento del ecosistema idTEC",
       "featured": false
@@ -1239,11 +1278,11 @@
       "slug": "50-aniversario-de-la-carrera-de-ingenieria-en-computacion",
       "title": "50 º aniversario de la carrera de Ingeniería en Computación",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebra cincuenta años de su carrera en Ingeniería en Computación. Un gran hito académico.\n• La ceremonia del aniversario se llevará a cabo el 11 de agosto en el Centro de las Artes a las 8 a.m.\n• Actividades especiales están programadas para los días 12 y 13 de agosto en el Campus Cartago.\n• Se invita a estudiantes, docentes y colaboradores a celebrar este importante acontecimiento en la historia de la carrera.\n• Para más información, se puede contactar a Auxiliadora Robles al correo proporcionado.",
+      "bullets_20s": "• La carrera de Ingeniería en Computación celebra cinco décadas de logros y avances importantes.\n• Se llevará a cabo una ceremonia oficial el 11 de agosto en el Centro de las Artes.\n• El evento incluirá actividades especiales para estudiantes y docentes del TEC.\n• Las festividades se extenderán hasta el 13 de agosto en el Campus Cartago.\n• Se invita a todos los interesados a participar y celebrar este hito educativo.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/50-aniversario-carrera-ingenieria-computacion",
       "publish_date": "2026-08-05T18:05:04.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración del aniversario de Ingeniería en Computación del TEC.",
+      "teaser": "Lo clave en 20 segundos: Celebración del 50º aniversario de Ingeniería en Computación en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/1_5.png",
       "description": "50 º aniversario de la carrera de Ingeniería en Computación",
       "featured": false
@@ -71150,10 +71189,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-07T13:45:24.218Z",
-  "total": 5473,
-  "removed_soccer_news_count": 1000,
+  "generated_at": "2026-08-07T14:45:23.662Z",
+  "total": 5476,
+  "removed_soccer_news_count": 1001,
   "removed_soccer_news_titles": [
+    "Costa Rica busca destacar con 23 surfistas en la Liga Mundial de Surf",
     "Editorial: El autogol de Infantino que sacude a la FIFA",
     "Con el Mundial asegurado, Costa Rica ahora va por la final de Concacaf en México",
     "Infantino encuentra amparo en África ante la presión de la UEFA: así está cada confederación de FIFA",
@@ -71202,7 +71242,6 @@
     "La Fedefútbol toma decisión clave contra el amaño de partidos y sigue la guerra por limpiar el fútbol",
     "FIFA retira el plan de inversión privada tras la reacción mundial negativa",
     "La Liga de Ascenso tendrá un cambio que nadie esperaba para la temporada 2026-2027",
-    "El nuevo PriceSmart de San Carlos ya tiene fecha de apertura: estos son los detalles",
-    "Vea la tabla de posiciones de cada grupo en la Copa Centroamericana de Concacaf tras la jornada 1"
+    "El nuevo PriceSmart de San Carlos ya tiene fecha de apertura: estos son los detalles"
   ]
 }
