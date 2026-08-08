@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "huesos-de-mamut-buques-nazis-y-bombas-sin-explotar-los-vestigios-del-pasado-que-saco-a-la-luz-la-historica-sequia-en-eur",
+      "title": "Huesos de mamut, buques nazis y bombas sin explotar: los vestigios del pasado que sacó a la luz la histórica sequía en Europa",
+      "category": "Mundo",
+      "bullets_20s": "• La sequía en Europa ha revelado restos históricos de gran importancia cultural y científica.\n• Bajo el agua del Danubio, se han encontrado objetos que datan de diferentes épocas de la historia europea.\n• El deshielo y las sequías pueden traer a la superficie y afectar el patrimonio arqueológico.\n• Varios países están investigando estos hallazgos para comprender su relevancia histórica.\n• Los vestigios descubiertos incluyen restos de mamut y artefactos de la Segunda Guerra Mundial.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c5yv2rlzd40o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-08T08:57:53.000Z",
+      "teaser": "Lo clave en 20 segundos: insólitos hallazgos históricos surgen de la sequía en Europa, revelando un pasado inesperado.",
+      "image_url": "",
+      "description": "Las aguas de la cuenca del río Danubio han caído a su nivel más bajo en 30 años, dejando al descubierto estructuras y artefactos.",
+      "featured": false
+    },
+    {
       "slug": "karateca-paso-de-pensar-en-retirarse-a-ganar-una-medalla-para-costa-rica-ocho-anos-despues",
       "title": "Karateca pasó de pensar en retirarse a ganar una medalla para Costa Rica ocho años después",
       "category": "Costa Rica",
-      "bullets_20s": "• Gabriel Vargas ha tenido un regreso notable al karate tras contemplar su retiro hace años.\n• La presea ganada por Vargas es un gran logro para el deporte costarricense.\n• Este evento marca un hito en la historia del karate en Costa Rica.\n• Vargas ha demostrado perseverancia en su carrera deportiva durante los años.\n• El karate en Costa Rica sigue creciendo y cosechando éxitos en competencias internacionales.",
+      "bullets_20s": "• El karateca Gabriel Vargas ha demostrado una impresionante perseverancia en su carrera deportiva.\n• Después de considerar su retiro, Vargas logró recuperar su enfoque y confianza en el deporte.\n• La medalla obtenida es un gran logro para el karate y para Costa Rica en competencias internacionales.\n• Este triunfo refleja el arduo trabajo y dedicación que ha puesto en su preparación física y mental.\n• Los Juegos Centroamericanos y del Caribe son una importante plataforma para los atletas de la región.",
       "source_name": "Juan Diego Villarreal",
       "source_url": "https://www.nacion.com/puro-deporte/karateca-paso-de-pensar-en-retirarse-a-ganar-una/4FIV7ECFSZHSFBIKYIRXZFMJHE/story/",
       "publish_date": "2026-08-08T03:41:06.000Z",
-      "teaser": "Lo clave en 20 segundos: Gabriel Vargas logra medalla tras contemplar su retiro, destacando el karate en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Gabriel Vargas, tras un retiro considerado, brilla con medalla en competencias.",
       "image_url": "https://www.nacion.com/resizer/v2/4SGS225HDRHZDN4TYML7EDT6Y4.png?auth=b435b356b0f5760db63c524fb190f9e65cfa8f69e8f8b587f11df02b9951ab47&smart=true&width=894&height=593",
       "description": "Karateca Gabriel Vargas logró la presea número 26 para Costa Rica en penúltima jornada de los Juegos Centroamericanos y del Caribe.",
       "featured": false
@@ -173,13 +186,13 @@
       "slug": "el-tec-se-une-al-8-simulacro-nacional-costa-rica-se-prepara",
       "title": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica participa en el simulacro convocado por la CNE para prevenir emergencias.\n• Se realizará el miércoles 12 de agosto a las 10:00 a.m. en varios campus del TEC.\n• Estudiantes y personal aprenderán a evacuar correctamente en caso de un sismo real.\n• El simulacro incluye instrucciones específicas para cada sede, asegurando la coordinación.\n• Las comunidades académicas recibirán información sobre el uso responsable durante el ejercicio.",
+      "bullets_20s": "• El simulacro Nacional de Evacuación se realizará el 12 de agosto a las 10:00 a.m.\n• El TEC invita a participar a estudiantes y personal en el simulacro de evacuación.\n• Este ejercicio busca fortalecer la cultura de prevención ante sismos en las instituciones.\n• El TEC incluye varios campus y centros académicos en todo el país, asegurando amplia participación.\n• Se espera que todos sigan las indicaciones de evacuación para una experiencia segura.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-se-une-8deg-simulacro-nacional-costa-rica-se-prepara",
       "publish_date": "2026-08-07T21:05:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC se prepara para el 8° Simulacro Nacional de Evacuación.",
+      "teaser": "Lo clave en 20 segundos: El TEC se suma al 8° Simulacro Nacional de Evacuación el 12 de agosto.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-07-a-las-3.05.43-p-m.png",
-      "description": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
+      "description": "El TEC se une al 8° Simulacro Nacional de Evacuación, convocado por la CNE.",
       "featured": false
     },
     {
@@ -199,11 +212,11 @@
       "slug": "centro-academico-de-alajuela-se-une-a-la-conmemoracion-del-50-aniversario-de-ingenieria-en-computacion",
       "title": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "category": "Costa Rica",
-      "bullets_20s": "• El 50 º aniversario honra décadas de avances en Ingeniería en Computación en Costa Rica.\n• Se ofrecerán charlas y talleres para celebrar la trayectoria de la carrera en el TEC.\n• La conmemoración resalta el compromiso del TEC con la educación tecnológica en el país.\n• Eventos programados del 11 al 14 de agosto en el Centro Académico de Alajuela.\n• La agenda incluye torneos y actividades interactivas para estudiantes y exalumnos.",
+      "bullets_20s": "• El 50º aniversario de Ingeniería en Computación destaca la innovación y excelencia en el TEC.\n• Se realizarán diversas actividades entre el 11 y el 14 de agosto en Alajuela.\n• Charlas, talleres y torneos forman parte de la agenda de conmemoración.\n• La carrera ha formado profesionales que impactan en el desarrollo tecnológico del país.\n• Ingrid Amador Solano es el contacto para más información acerca del evento.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/centro-academico-alajuela-se-une-conmemoracion-50-aniversario-ingenieria-computacion",
       "publish_date": "2026-08-07T20:59:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de Ingeniería en Computación en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Celebración del 50º aniversario de Ingeniería en Computación en Alajuela.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/93aa4e7b-22ab-4a61-87c3-aa53bd30efcd.jpg",
       "description": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "featured": false
@@ -953,11 +966,11 @@
       "slug": "atletas-del-tec-destacan-en-los-juegos-panamericanos-universitarios-fisu-america-2026",
       "title": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes del TEC lograron medallas, contribuyendo al éxito de la delegación en Lima, Perú.\n• La delegación costarricense alcanzó una actuación histórica en los Juegos Panamericanos Universitarios.\n• El entrenador Johnny Loría dirigió todo el proceso de selección de los atletas del TEC.\n• Los atletas Melisa Ramírez y Gabriel Paz se destacaron en el relevo mixto 4x400 metros.\n• El equipo costarricense superó a potencias como Estados Unidos y Brasil en la competencia.",
+      "bullets_20s": "• Estudiantes del TEC sobresalieron en Lima, Perú, en los Juegos Panamericanos Universitarios FISU América 2026.\n• La delegación costarricense obtuvo dos medallas de oro, dos de plata y una de bronce en la competencia.\n• El entrenador Johnny Loría destacó la gran responsabilidad de liderar al equipo hacia el éxito competitivo.\n• Gabriel Paz expresó su felicidad al recibir una medalla de oro, reflejando esfuerzo y dedicación.\n• Melisa Ramírez logró una medalla de bronce en el relevo femenino 4x400 metros, destacando su rendimiento.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/atletas-tec-destacan-juegos-panamericanos-universitarios-fisu-america-2026",
       "publish_date": "2026-08-06T21:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Atletas del TEC brillan en los Juegos Panamericanos Universitarios en Lima.",
+      "teaser": "Lo clave en 20 segundos: Los atletas del TEC brillaron en los Juegos Panamericanos Universitarios FISU América 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/atletismo-fisu-1.jpg",
       "description": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "featured": false
@@ -71683,8 +71696,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-08T08:45:25.158Z",
-  "total": 5514,
+  "generated_at": "2026-08-08T09:45:23.650Z",
+  "total": 5515,
   "removed_soccer_news_count": 1006,
   "removed_soccer_news_titles": [
     "Cartaginés se quitó de encima al incómodo Sporting con una joya de gol en el último suspiro",
