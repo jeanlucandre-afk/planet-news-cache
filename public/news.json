@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "sylvia-ziesing-denuncia-persecucion-politica-y-amenazas-me-mandaron-foto-de-la-casa-de-mi-mama",
+      "title": "Sylvia Ziesing denuncia persecución política y amenazas: Me mandaron foto de la casa de mi mamá",
+      "category": "Costa Rica",
+      "bullets_20s": "• Sylvia Ziesing, activista costarricense, denuncia acoso y amenazas en su vida personal.\n• Se ha vuelto un símbolo de resistencia contra los gobiernos actuales en Costa Rica.\n• Su declaración menciona la recepción de fotos inquietantes relacionadas con su familia.\n• La entrevista refleja un clima de tensión política en el país durante estos años.\n• Ziesing insta a la población a no dejarse intimidar por la persecución política.",
+      "source_name": "Natalia Vargas",
+      "source_url": "https://www.nacion.com/sucesos/sylvia-ziesing-denuncia-persecucion-politica-y/E7LJHKQHXVE2ROBTKHTPGKX2GY/story/",
+      "publish_date": "2026-08-08T02:21:11.000Z",
+      "teaser": "Lo clave en 20 segundos: La activista denuncia amenazas y acoso político en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/LWXJJJEMHBFNDAMR2ZB2RO3HNA.jpg?auth=840ac16406b6e767c33671b0731ae5d6ff678cec471a2c613b069ee3e61d4320&smart=true&width=2048&height=1536",
+      "description": "La activista y opositora de los gobiernos de Rodrigo Chaves y Laura Fernández, Sylvia Ziesing, habla en entrevista con La Nación.",
+      "featured": false
+    },
+    {
+      "slug": "chances-de-la-jps-vea-los-numeros-ganadores-del-sorteo-de-este-viernes-7-de-agosto",
+      "title": "Chances de la JPS: vea los números ganadores del sorteo de este viernes 7 de agosto",
+      "category": "Costa Rica",
+      "bullets_20s": "• Este sorteo genera mucha expectativa entre los ticos que esperan ganar algún premio significativo.\n• La Junta de Protección Social promueve el juego responsable entre los participantes del sorteo.\n• Los chances de la JPS recaudan fondos que benefician a diversas iniciativas sociales en el país.\n• Este tipo de sorteo se realiza regularmente, creando oportunidades de ganar y contribuir.\n• El conocimiento previo de los ganadores es esencial para los jóvenes interesados en participar.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/el-pais/chances-de-la-jps-vea-los-numeros-ganadores-del/ZG6XIXVSBFEKFMIRYRWQIQZSRI/story/",
+      "publish_date": "2026-08-08T01:59:47.000Z",
+      "teaser": "Lo clave en 20 segundos: Sorteo de chances de la JPS despierta expectativas en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/UO3NVHDRIJBCDG4CFH4TPYEA5U.jpg?auth=15c9e5176f205a8b8c245049bc9dc34c93286a63e50cc613e05351d1d081bd65&smart=true&width=1920&height=1080",
+      "description": "La Junta de Protección Social (JPS) realizó, la noche de este viernes 7 de agosto, el sorteo de los chances número 7.058.",
+      "featured": false
+    },
+    {
       "slug": "laura-fernandez-la-pension-de-expresidentes-procura-que-no-tengan-que-buscar-trabajo-y-no-le-deban-favores-a-nadie",
       "title": "Laura Fernández: la pensión de expresidentes procura que ‘no tengan que buscar trabajo y no le deban favores a nadie’",
       "category": "Costa Rica",
-      "bullets_20s": "• Laura Fernández, presidenta de Costa Rica, discute la controversia sobre pensiones para expresidentes.\n• Asegura que no está a favor de pensiones lujosas para exmandatarios con tiempo servir al país.\n• Critica la idea de que estas pensiones lleven a corrupción o deudas de favores políticos.\n• La presidenta defiende la importancia de asegurar subsistencia digna a quienes han gobernado.\n• Se espera un debate más profundo sobre la reforma a las pensiones en el país.",
+      "bullets_20s": "• Laura Fernández se posiciona sobre las pensiones de expresidentes en un reciente evento público.\n• La presidenta menciona su desacuerdo con las pensiones lujosas para altos funcionarios del país.\n• Se busca que los exmandatarios no dependan de favores tras dejar el cargo presidencial.\n• Fernández resalta la importancia de garantizar una independencia económica para quienes lideraron el país.\n• El debate sobre pensiones para expresidentes sigue generando opiniones divididas entre los ciudadanos.",
       "source_name": "Sebastián Sánchez",
       "source_url": "https://www.nacion.com/politica/laura-fernandez-la-pension-de-expresidentes/NKKO2W64MZHAZF4JREGLJP7HME/story/",
       "publish_date": "2026-08-08T01:03:12.000Z",
-      "teaser": "Lo clave en 20 segundos: Pensiones de expresidentes en la mira de Laura Fernández, buscando equilibrio entre honor y responsabilidad.",
+      "teaser": "Lo clave en 20 segundos: Laura Fernández habla sobre pensiones para expresidentes en un contexto de lujo.",
       "image_url": "https://www.nacion.com/resizer/v2/34DOR4RLYZF45EN3ZLRE5BG4KU.JPG?auth=17cf318a412364fa306e4a5f12ac6b23d4c128af0d35842c33ef6cfa4821a4b9&smart=true&width=4000&height=2667",
       "description": "La presidenta de la República, Laura Fernández, afirmó este viernes que está en contra de las pensiones de lujo, pero a su vez no se opone a la que reciben los exmandatarios por haber ejercido ese cargo.",
       "featured": false
@@ -134,11 +160,11 @@
       "slug": "el-tec-se-une-al-8-simulacro-nacional-costa-rica-se-prepara",
       "title": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica participará en el 8° Simulacro Nacional de Evacuación.\n• El simulacro se llevará a cabo el miércoles 12 de agosto a las 10:00 a.m.\n• Se busca fortalecer la cultura de prevención ante eventos sísmicos.\n• El ejercicio incluirá la participación de todos los campus del TEC en Costa Rica.\n• Las personas deben mantener la calma y seguir las indicaciones durante el simulacro.\n• El TEC fomenta la responsabilidad y el orden en situaciones de emergencia.\n• El simulacro incluirá a estudiantes, docentes y personal administrativo.\n• Se podrán descargar aplicaciones útiles para la planificación de emergencias.\n• La comunidad podrá practicar sus planes de evacuación en este simulacro.\n• Se espera una amplia participación, incluso se invitó a visitantes.",
+      "bullets_20s": "• El simulacro busca mejorar la preparación ante sismos en la comunidad educativa del TEC.\n• Participan campus de Cartago, San Carlos, San José y Limón en el ejercicio de evacuación.\n• Se instruye a estudiantes y personal a mantener la calma durante el ejercicio y posterior evacuación.\n• El sistema busca fortalecer la cultura de prevención de desastres en Costa Rica.\n• El simulacro se llevará a cabo el 12 de agosto a las 10:00 a.m. en todos los campus.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-se-une-8deg-simulacro-nacional-costa-rica-se-prepara",
       "publish_date": "2026-08-07T21:05:59.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC participa en simulacro nacional para fortalecer prevención ante sismos.",
+      "teaser": "Lo clave en 20 segundos: TEC se une al simulacro nacional para mejorar preparación ante sismos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-07-a-las-3.05.43-p-m.png",
       "description": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "featured": false
@@ -160,11 +186,11 @@
       "slug": "centro-academico-de-alajuela-se-une-a-la-conmemoracion-del-50-aniversario-de-ingenieria-en-computacion",
       "title": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "category": "Costa Rica",
-      "bullets_20s": "• Celebración del 50º aniversario de Ingeniería en Computación del Tecnológico de Costa Rica.\n• Actividades programadas del 11 al 14 de agosto en el Centro Académico de Alajuela.\n• Charlas, talleres y torneos formarán parte de la conmemoración de este hito significativo.\n• Este evento refleja décadas de compromiso con la educación y la tecnología en el país.\n• Ingrid Amador Solano ofrece más información sobre la agenda y registro de actividades.",
+      "bullets_20s": "• El aniversario celebra cinco décadas de la carrera Ingeniería en Computación en Costa Rica.\n• Se llevarán a cabo charlas, talleres y torneos del 11 al 14 de agosto.\n• Este evento busca fomentar la innovación y el desarrollo tecnológico del país.\n• Se espera una gran participación de estudiantes y profesionales de la computación.\n• El Tecnológico de Costa Rica es reconocido por su excelencia académica en el área.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/centro-academico-alajuela-se-une-conmemoracion-50-aniversario-ingenieria-computacion",
       "publish_date": "2026-08-07T20:59:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebran 50 años de Ingeniería en Computación en Alajuela con actividades innovadoras.",
+      "teaser": "Lo clave en 20 segundos: Celebramos 50 años de Ingeniería en Computación con un evento especial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/93aa4e7b-22ab-4a61-87c3-aa53bd30efcd.jpg",
       "description": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "featured": false
@@ -914,11 +940,11 @@
       "slug": "atletas-del-tec-destacan-en-los-juegos-panamericanos-universitarios-fisu-america-2026",
       "title": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Los atletas del TEC lograron medallas en los Juegos Panamericanos Universitarios en Lima, Perú.\n• La delegación costarricense ocupó el séptimo lugar en la clasificación general del evento.\n• El entrenador Johnny Loría destacó el esfuerzo y la competencia de sus atletas en el torneo.\n• Gabriel Paz y Melisa Ramírez destacaron en varias pruebas, incluyendo relevos y 400 metros.\n• El evento reunió a potencias deportivas de América, aumentando la competencia y nivel de dificultad.",
+      "bullets_20s": "• Estudiantes del TEC lograron una destacada actuación en Lima, Perú, en los Juegos Panamericanos Universitarios.\n• La delegación costarricense obtuvo medallas de oro, plata y bronce en competiciones intensas.\n• Johnny Loría, entrenador, lideró el proceso de selección de un equipo competitivo y motivado.\n• Melisa Ramírez y Gabriel Paz destacaron en relevos y pruebas individuales, logrando avanzar a la final.\n• El relevo mixto 4x400 metros fue uno de los eventos más sobresalientes del TEC, ganando oro.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/atletas-tec-destacan-juegos-panamericanos-universitarios-fisu-america-2026",
       "publish_date": "2026-08-06T21:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Atletas del TEC brillan en los Juegos Panamericanos Universitarios 2026.",
+      "teaser": "Lo clave en 20 segundos: Todo sobre la destacada participación del TEC en los Juegos Panamericanos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/atletismo-fisu-1.jpg",
       "description": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "featured": false
@@ -71644,8 +71670,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-08T01:45:22.990Z",
-  "total": 5511,
+  "generated_at": "2026-08-08T02:45:23.074Z",
+  "total": 5513,
   "removed_soccer_news_count": 1004,
   "removed_soccer_news_titles": [
     "Fútbol viernes, sábado y domingo: hora y canal para ver los partidos de la jornada 3 del Torneo de Apertura 2026",
