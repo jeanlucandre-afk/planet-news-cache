@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "banco-popular-20-ventanillas-un-gentio-y-solo-dos-cajeros",
+      "title": "Banco Popular: 20 ventanillas, un gentío y solo dos cajeros",
+      "category": "Costa Rica",
+      "bullets_20s": "• La situación en el Banco Popular genera preocupación entre los ciudadanos y usuarios asiduos.\n• El servicio al cliente se vuelve ineficiente ante la falta de cajeros disponibles.\n• Los lectores expresan su descontento y exigen mejoras en el servicio bancario.\n• La desaparición de una sección de 'La Nación' también es objeto de crítica.\n• Los ciudadanos piden mayor respeto a la institucionalidad y las leyes del país.",
+      "source_name": "Redacción de La Nación",
+      "source_url": "https://www.nacion.com/opinion/cartas/banco-popular-20-ventanillas-un-gentio-y-solo-dos/JEJO4YV2ZVBSNFSRAMFSJBFNMU/story/",
+      "publish_date": "2026-08-08T13:30:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Servicio bancario inseguro y descontento social resaltan en el Banco Popular.",
+      "image_url": "https://www.nacion.com/resizer/v2/AYVZ7FNNPRGJNLH72FV2JKDK6A.png?auth=62763a1df66045c83ad1c6c95ea1320ab9ee75d6cb2f49986ccc73cc7f2c429a&smart=true&width=1338&height=753",
+      "description": "Nuestros lectores abogan por el respeto del gobierno a la institucionalidad y las leyes, lamentan la desaparición de una sección diaria de 'La Nación' y critican que se dé protagonismo a un político exliberacionista",
+      "featured": false
+    },
+    {
+      "slug": "hace-50-anos-salud-anuncia-plan-para-aumentar-consumo-de-proteina",
+      "title": "Hace 50 años: Salud anuncia plan para aumentar consumo de proteína",
+      "category": "Costa Rica",
+      "bullets_20s": "• La conferencia internacional se centró en la nutrición y su importancia en la salud pública.\n• El gobierno pretendía aumentar el consumo de proteínas en la dieta de los costarricenses.\n• Las autoridades destacaron la relación entre nutrición y desarrollo humano sostenible.\n• Se realizaron talleres y actividades educativas sobre alimentación balanceada.\n• La iniciativa buscaba combatir problemas de desnutrición en sectores vulnerables.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/el-pais/hace-50-anos-salud-anuncia-plan-para-aumentar/Y3AD667TJRG5PIOBJTPN3MT23U/story/",
+      "publish_date": "2026-08-08T13:30:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Un plan de salud en 1976 promovía el aumento de proteínas en la dieta nacional.",
+      "image_url": "https://www.nacion.com/resizer/v2/6VEWFOHA5BEIDEIDZSYQ4BYPY4.png?auth=2f9a86fcbbe982950ae05f33a67f0a160381e7992120bb11b6e6841c2c43fe4c&smart=true&width=1856&height=2286",
+      "description": "En 1976, el Ministro de Salud anunció la primera conferencia internacional de nutrición en Costa Rica. La institución abogó por mejorar la dieta nacional y el consumo proteínico.",
+      "featured": false
+    },
+    {
       "slug": "costa-rica-ya-no-puede-vivir-de-su-fama-verde",
       "title": "Costa Rica ya no puede vivir de su fama verde",
       "category": "Costa Rica",
-      "bullets_20s": "• Costa Rica es reconocida por su compromiso ambiental y su fama verde en todo el mundo.\n• La necesidad de resultados tangibles ha crecido en el ámbito de la sostenibilidad.\n• Se requiere un cambio de enfoque hacia la gestión efectiva de recursos naturales.\n• La transición hacia sistemas bajos en emisiones es fundamental para el futuro ambiental.\n• Las inversiones deben ser verificables y medibles para asegurar un impacto real.\n• El país enfrenta desafíos para mantener su reputación en sostenibilidad a largo plazo.\n• La producción tradicional debe adaptarse a nuevas prácticas más sostenibles.\n• Es urgente que se cumplan las metas climáticas planteadas en planes nacionales.\n• La colaboración entre sectores es clave para lograr un verdadero impacto ambiental.\n• Es un momento crítico para redefinir la estrategia ambiental en Costa Rica.",
+      "bullets_20s": "• La reputación verde de Costa Rica enfrenta retos significativos en sostenibilidad y medio ambiente.\n• La transición de la fama a resultados exige un manejo efectivo de las áreas naturales.\n• Costa Rica debe adoptar sistemas de producción que reduzcan las emisiones contaminantes.\n• Las metas climáticas deben ser respaldadas por inversiones concretas y verificables.\n• Un enfoque en resultados tangibles podría mejorar la percepción internacional del país.",
       "source_name": "Lenin Corrales",
       "source_url": "https://www.nacion.com/opinion/columnistas/costa-rica-ya-no-puede-vivir-de-su-fama-verde/KVAI2647JVERPJA6PXHNSAVQKI/story/",
       "publish_date": "2026-08-08T13:15:00.000Z",
-      "teaser": "Lo clave en 20 segundos: La fama ambiental de Costa Rica debe respaldarse con acciones concretas.",
+      "teaser": "Lo clave en 20 segundos: Costa Rica necesita avanzar de la fama a la acción en sostenibilidad.",
       "image_url": "https://www.nacion.com/resizer/v2/R56BQGOFWRFZNIBGORF75S2HXQ.jpg?auth=012cc260b73b77132a49a0de41971af783f21b22e711c101b2681652cb2d6613&smart=true&width=1500&height=997",
       "description": "Se requiere pasar de la reputación a los resultados; de las áreas declaradas a las áreas efectivamente manejadas; de la producción tradicional a sistemas bajos en emisiones, y de metas climáticas aspiracionales a inversiones verificables.",
       "featured": false
@@ -17,11 +43,11 @@
       "slug": "un-pais-con-demasiados-problemas-para-perderse-en-pleitos",
       "title": "Un país con demasiados problemas para perderse en pleitos",
       "category": "Costa Rica",
-      "bullets_20s": "• El país enfrenta muchos problemas que requieren atención urgente y soluciones efectivas.\n• La polarización política impide que se encuentren soluciones a los retos nacionales.\n• Es vital promover un diálogo constructivo entre las diferentes partes interesadas.\n• La cooperación entre sectores es necesaria para avanzar hacia metas comunes.\n• Gobernar juntos es la clave para el desarrollo sostenible de Costa Rica.\n• Menos protagonismo político podría derivar en mejor toma de decisiones.\n• Los ciudadanos buscan resultados y no más discusiones sin sentido.\n• Es hora de dejar de lado la lucha por la razón en favor de la unidad.\n• La responsabilidad compartida podría ser el camino para un futuro mejor.\n• Los pleitos deben dar paso a la colaboración efectiva entre todos.",
+      "bullets_20s": "• El país enfrenta desafíos que requieren colaboración y diálogo, no confrontación y divisiones.\n• Es crucial priorizar las mesas de trabajo para abordar problemas comunes en la sociedad.\n• Los discursos incendiarios solo agravan conflictos, es hora de buscar soluciones constructivas.\n• Responsabilidad y compromiso son esenciales para lograr un gobierno efectivo y colaborativo.\n• Los pleitos políticos deben ceder paso a una gobernanza inclusiva y responsable por el bien común.",
       "source_name": "Fabián Marrero Soto",
       "source_url": "https://www.nacion.com/opinion/foros/un-pais-con-demasiados-problemas-para-perderse-en/3GQ6YWMI5JGLJOHQARL53KPJQY/story/",
       "publish_date": "2026-08-08T13:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Necesitamos diálogo y responsabilidad en lugar de conflictos políticos.",
+      "teaser": "Lo clave en 20 segundos: La necesidad de diálogo y responsabilidad en la política costarricense.",
       "image_url": "https://www.nacion.com/resizer/v2/BLHMPZ3ICNGMZPQBSXMR3ZMFXE.jpg?auth=4d70dc0814ca1b3b199f39f984f66d3846f064cb9a7f94f8120912ddc4bfef68&smart=true&width=5000&height=3000",
       "description": "Costa Rica necesita menos discursos incendiarios y más mesas de trabajo, menos culpables y más responsables, menos protagonismo político y más resultados concretos. La pregunta ya no es quién tiene la razón en cada conflicto, sino ¿cuándo dejarán los pleitos para empezar a gobernar juntos por Costa Rica?",
       "featured": false
@@ -342,11 +368,11 @@
       "slug": "el-tec-se-une-al-8-simulacro-nacional-costa-rica-se-prepara",
       "title": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica se une al 8° Simulacro Nacional de Evacuación en todo el país.\n• Este ejercicio busca poner en práctica planes de evacuación ante sismos delicados y emergencias.\n• Participarán estudiantes, personal académico y administrativo en diversos campus y centros.\n• El simulacro se realizará el 12 de agosto a las 10:00 a.m. con acceso voluntario.\n• La comunidad del TEC podrá inscribirse y descargar la app Simulacro CR para coordinarse.",
+      "bullets_20s": "• El simulacro tiene como objetivo practicar planes de evacuación ante un posible sismo en el país.\n• Participan estudiantes, académicos y administrativos en todos los campus del TEC en Costa Rica.\n• Se realizará el miércoles 12 de agosto a las 10:00 a.m. en distintas sedes educativas.\n• Se espera fortalecer la cultura de prevención y reacción ante emergencias en la comunidad educativa.\n• La evacuación debe hacerse de manera ordenada y siguiendo las señales establecidas por la institución.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-se-une-8deg-simulacro-nacional-costa-rica-se-prepara",
       "publish_date": "2026-08-07T21:05:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC se unirá al 8° Simulacro Nacional para fortalecer la cultura de evacuación.",
+      "teaser": "Lo clave en 20 segundos: El TEC se suma al simulacro nacional para practicar evacuación ante sismos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-07-a-las-3.05.43-p-m.png",
       "description": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "featured": false
@@ -368,13 +394,13 @@
       "slug": "centro-academico-de-alajuela-se-une-a-la-conmemoracion-del-50-aniversario-de-ingenieria-en-computacion",
       "title": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "category": "Costa Rica",
-      "bullets_20s": "• El Centro Académico de Alajuela conmemora 50 años de Ingeniería en Computación del TEC.\n• La conmemoración incluye charlas, talleres y torneos del 11 al 14 de agosto.\n• Este evento refleja el compromiso con la innovación y el desarrollo tecnológico en el país.\n• La Carrera de Ingeniería en Computación ha sido fundamental en la formación técnica nacional.\n• La agenda completa del evento está disponible para los interesados en participar.",
+      "bullets_20s": "• El evento celebra cinco décadas de Ingeniería en Computación en Costa Rica.\n• Varias actividades académicas se llevarán a cabo del 11 al 14 de agosto.\n• Charlas, talleres y torneos estarán disponibles para los participantes.\n• Se reflejará el compromiso hacia el desarrollo tecnológico del país.\n• Ingrid Amador Solano será la encargada de brindar más información.\n• La celebración resalta la excelencia académica en el Tecnológico de Costa Rica.\n• El evento busca involucrar a estudiantes y profesionales en el área.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/centro-academico-alajuela-se-une-conmemoracion-50-aniversario-ingenieria-computacion",
       "publish_date": "2026-08-07T20:59:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebramos 50 años de Ingeniería en Computación del TEC en Alajuela.",
+      "teaser": "Lo clave en 20 segundos: Celebración del 50 aniversario de Ingeniería en Computación en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/93aa4e7b-22ab-4a61-87c3-aa53bd30efcd.jpg",
-      "description": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
+      "description": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación.",
       "featured": false
     },
     {
@@ -1122,11 +1148,11 @@
       "slug": "atletas-del-tec-destacan-en-los-juegos-panamericanos-universitarios-fisu-america-2026",
       "title": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes del TEC lograron medallas en los Juegos Panamericanos Universitarios FISU América 2026 en Lima.\n• Se obtuvo oro en relevos mixtos 4x400 metros, marcando un hito para el deporte universitario.\n• La delegación de Costa Rica se ubicó en el séptimo lugar de la clasificación general con destacados resultados.\n• El entrenador Johnny Loría destacó la responsabilidad de liderar el proceso de selección de los atletas.\n• Melisa Ramírez y Gabriel Paz sobresalieron en sus disciplinas, mostrando un gran rendimiento deportivo.\n• Con medallas de oro, plata y bronce, la experiencia fue histórica para los estudiantes del TEC.",
+      "bullets_20s": "• Estudiantes del TEC brillaron en los Juegos Panamericanos Universitarios en Lima, Perú.\n• Johnny Loría fue el entrenador jefe y lideró la delegación costarricense en la competencia.\n• La representación obtuvo dos medallas de oro, dos de plata y una de bronce en total.\n• Melisa Ramírez y Gabriel Paz destacaron en sus respectivas pruebas de relevos y individuales.\n• El equipo costarricense superó a naciones con tradición en el atletismo internacional.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/atletas-tec-destacan-juegos-panamericanos-universitarios-fisu-america-2026",
       "publish_date": "2026-08-06T21:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Atletas del TEC brillan en los Juegos Panamericanos Universitarios con medallas destacadas.",
+      "teaser": "Lo clave en 20 segundos: Los atletas del TEC brillaron en los Juegos Panamericanos Universitarios.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/atletismo-fisu-1.jpg",
       "description": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "featured": false
@@ -71852,10 +71878,12 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-08T13:45:24.345Z",
-  "total": 5527,
-  "removed_soccer_news_count": 1007,
+  "generated_at": "2026-08-08T14:45:23.750Z",
+  "total": 5529,
+  "removed_soccer_news_count": 1009,
   "removed_soccer_news_titles": [
+    "Consuelo Velázquez, la compositora mexicana que creó el éxito mundial \"Bésame mucho\" (e intentó mantenerse anónima)",
+    "Muere el padre de Lionel Messi",
     "Políticos, jets privados y poder: cómo es la vida de un presidente de la FIFA",
     "Cartaginés se quitó de encima al incómodo Sporting con una joya de gol en el último suspiro",
     "Keylor Navas y Pumas reciben un batacazo en la Leagues Cup",
@@ -71903,8 +71931,6 @@
     "Así son los uniformes de Umbro, la marca que tiene todo listo para patrocinar a la Selección de Costa Rica (fotos)",
     "Panamá vuelve a humillar a Costa Rica en los Juegos Centroamericanos y del Caribe",
     "Encargado de investigar los amaños en Costa Rica: ‘Es un fútbol más limpio, pero todavía no lo suficiente’",
-    "Costa Rica ya conoce a su rival en la lucha por el boleto al Mundial Sub-20",
-    "UEFA y Concacaf se le van encima a Infantino pese a retiro de plan sobre el Mundial: ‘Hay que revisar ese liderazgo’",
-    "La Selección Femenina de Costa Rica despierta en los Juegos Centroamericanos y del Caribe"
+    "Costa Rica ya conoce a su rival en la lucha por el boleto al Mundial Sub-20"
   ]
 }
