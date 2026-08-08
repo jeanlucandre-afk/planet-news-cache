@@ -1,14 +1,66 @@
 {
   "news": [
     {
+      "slug": "costa-rica-ya-no-puede-vivir-de-su-fama-verde",
+      "title": "Costa Rica ya no puede vivir de su fama verde",
+      "category": "Costa Rica",
+      "bullets_20s": "• Costa Rica es reconocida por su compromiso ambiental y su fama verde en todo el mundo.\n• La necesidad de resultados tangibles ha crecido en el ámbito de la sostenibilidad.\n• Se requiere un cambio de enfoque hacia la gestión efectiva de recursos naturales.\n• La transición hacia sistemas bajos en emisiones es fundamental para el futuro ambiental.\n• Las inversiones deben ser verificables y medibles para asegurar un impacto real.\n• El país enfrenta desafíos para mantener su reputación en sostenibilidad a largo plazo.\n• La producción tradicional debe adaptarse a nuevas prácticas más sostenibles.\n• Es urgente que se cumplan las metas climáticas planteadas en planes nacionales.\n• La colaboración entre sectores es clave para lograr un verdadero impacto ambiental.\n• Es un momento crítico para redefinir la estrategia ambiental en Costa Rica.",
+      "source_name": "Lenin Corrales",
+      "source_url": "https://www.nacion.com/opinion/columnistas/costa-rica-ya-no-puede-vivir-de-su-fama-verde/KVAI2647JVERPJA6PXHNSAVQKI/story/",
+      "publish_date": "2026-08-08T13:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La fama ambiental de Costa Rica debe respaldarse con acciones concretas.",
+      "image_url": "https://www.nacion.com/resizer/v2/R56BQGOFWRFZNIBGORF75S2HXQ.jpg?auth=012cc260b73b77132a49a0de41971af783f21b22e711c101b2681652cb2d6613&smart=true&width=1500&height=997",
+      "description": "Se requiere pasar de la reputación a los resultados; de las áreas declaradas a las áreas efectivamente manejadas; de la producción tradicional a sistemas bajos en emisiones, y de metas climáticas aspiracionales a inversiones verificables.",
+      "featured": false
+    },
+    {
+      "slug": "un-pais-con-demasiados-problemas-para-perderse-en-pleitos",
+      "title": "Un país con demasiados problemas para perderse en pleitos",
+      "category": "Costa Rica",
+      "bullets_20s": "• El país enfrenta muchos problemas que requieren atención urgente y soluciones efectivas.\n• La polarización política impide que se encuentren soluciones a los retos nacionales.\n• Es vital promover un diálogo constructivo entre las diferentes partes interesadas.\n• La cooperación entre sectores es necesaria para avanzar hacia metas comunes.\n• Gobernar juntos es la clave para el desarrollo sostenible de Costa Rica.\n• Menos protagonismo político podría derivar en mejor toma de decisiones.\n• Los ciudadanos buscan resultados y no más discusiones sin sentido.\n• Es hora de dejar de lado la lucha por la razón en favor de la unidad.\n• La responsabilidad compartida podría ser el camino para un futuro mejor.\n• Los pleitos deben dar paso a la colaboración efectiva entre todos.",
+      "source_name": "Fabián Marrero Soto",
+      "source_url": "https://www.nacion.com/opinion/foros/un-pais-con-demasiados-problemas-para-perderse-en/3GQ6YWMI5JGLJOHQARL53KPJQY/story/",
+      "publish_date": "2026-08-08T13:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Necesitamos diálogo y responsabilidad en lugar de conflictos políticos.",
+      "image_url": "https://www.nacion.com/resizer/v2/BLHMPZ3ICNGMZPQBSXMR3ZMFXE.jpg?auth=4d70dc0814ca1b3b199f39f984f66d3846f064cb9a7f94f8120912ddc4bfef68&smart=true&width=5000&height=3000",
+      "description": "Costa Rica necesita menos discursos incendiarios y más mesas de trabajo, menos culpables y más responsables, menos protagonismo político y más resultados concretos. La pregunta ya no es quién tiene la razón en cada conflicto, sino ¿cuándo dejarán los pleitos para empezar a gobernar juntos por Costa Rica?",
+      "featured": false
+    },
+    {
+      "slug": "europa-vuelve-a-prepararse-para-la-guerra",
+      "title": "Europa vuelve a prepararse para la guerra",
+      "category": "Mundo",
+      "bullets_20s": "• La necesidad de Europa de aumentar sus capacidades militares ha crecido en los últimos años.\n• Reforzar la defensa sin despertar viejos conflictos es un delicado equilibrio que buscarán.\n• El liderazgo de la OTAN y su relación con Europa será fundamental en este proceso.\n• Aumentar el presupuesto militar está en la agenda de varias naciones europeas ahora.\n• La cooperación entre países europeos es más crucial que nunca para mantener la paz.",
+      "source_name": "Cristina  Eguizábal Mendoza",
+      "source_url": "https://www.nacion.com/opinion/columnistas/europa-vuelve-a-prepararse-para-la-guerra/VQR37PONAJCGVBMGG4GUW556MM/story/",
+      "publish_date": "2026-08-08T12:45:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Europa busca reforzar su defensa sin revivir viejas rivalidades.",
+      "image_url": "https://www.nacion.com/resizer/v2/DC4UYZKB25EOXJ4F66E7SA255A.jpg?auth=203b4af64622a1502dcc54fce09d2e7989b94fb7c7f69b5d8d907740b30052be&smart=true&width=5394&height=3600",
+      "description": "Tras décadas bajo el paraguas militar de Estados Unidos, Europa enfrenta el desafío de reforzar su defensa sin reavivar las rivalidades que marcaron su pasado.",
+      "featured": false
+    },
+    {
+      "slug": "la-puerta-de-entrada-a-estados-unidos-que-cada-vez-mas-viajeros-prefieren-sobre-miami",
+      "title": "La puerta de entrada a Estados Unidos que cada vez más viajeros prefieren sobre Miami",
+      "category": "Mundo",
+      "bullets_20s": "• Cada vez más viajeros eligen este aeropuerto como la opción preferida para volar.\n• Existen nuevas rutas directas desde este aeropuerto hacia Costa Rica, atrayendo más turistas.\n• Este aeropuerto se destaca por su eficiencia y servicios al viajero.\n• Las características únicas de esta puerta de entrada han capturado la atención global.\n• La conectividad mejora entre Costa Rica y Estados Unidos, facilitando el turismo.",
+      "source_name": "Jairo Villegas S.",
+      "source_url": "https://www.nacion.com/blogs/de-viaje-con-jairo/la-puerta-de-entrada-a-estados-unidos-que-cada-vez/RHJDV2G4FRHE7KR6VRJYGDGA5Q/story/",
+      "publish_date": "2026-08-08T12:30:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Este aeropuerto se vuelve preferido por su conectividad y servicios.",
+      "image_url": "https://www.nacion.com/resizer/v2/STSNY3WFCVHM3MMF7IAJDRQNAU.jpeg?auth=c92717075d54a99e3c5469c87b659368ee39f9f0e831db679321ce7a3e56cb24&smart=true&width=3080&height=1643",
+      "description": "Un conjunto de características hacen distinto este aeropuerto de Estados Unidos, desde donde ahora hay vuelos directos hacia Costa Rica.",
+      "featured": false
+    },
+    {
       "slug": "atenas-zona-sagrada-en-este-punto-nacio-la-democracia",
       "title": "Atenas, zona sagrada: En este punto nació la democracia",
       "category": "Mundo",
-      "bullets_20s": "• La Pnyx es un lugar emblemático en la historia de la democracia directa en Atenas.\n• Este sitio sirvió como un importante lugar de reunión para los ciudadanos atenienses.\n• El bema, o plataforma, es donde los oradores dirigían a la Asamblea ateniense.\n• Desde la Pnyx se puede apreciar una vista impresionante de la Acrópolis.\n• Atenas es considerada la cuna de la democracia moderna por su sistema participativo.",
+      "bullets_20s": "• La Pnyx es un lugar emblemático para la historia política de la humanidad.\n• Atenas fue el centro de la antigua democracia directa en el mundo moderno.\n• Los ciudadanos ateniences se reunían en la Pnyx para deliberar asuntos importantes.\n• El bema, un estrado, ofrecía una vista impresionante de la Acrópolis.\n• La historia de la Pnyx sigue siendo objeto de estudio y admiración hoy en día.",
       "source_name": "Víctor Hurtado Oviedo",
       "source_url": "https://www.nacion.com/ancora/atenas-zona-sagrada-en-este-punto-nacio-la/373UOUYMPBEX3KJFTWMUBRECPE/story/",
       "publish_date": "2026-08-08T12:16:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Atenas y su histórica Pnyx, cuna de la democracia directa.",
+      "teaser": "Lo clave en 20 segundos: Descubre la importancia de la Pnyx en la historia de la democracia.",
       "image_url": "https://www.nacion.com/resizer/v2/AQI76AR5G5HYFFJZYZ5A5DRKEM.jpeg?auth=a27774b9c24134876a4e84b73b968dec79947afdb2afb206f186342a89fb641e&smart=true&width=5712&height=4284",
       "description": "Descubra la Pnyx en Atenas, el histórico terraplén donde nació la democracia directa. Conozca su bema, su papel político y su vista hacia la Acrópolis.",
       "featured": false
@@ -290,11 +342,11 @@
       "slug": "el-tec-se-une-al-8-simulacro-nacional-costa-rica-se-prepara",
       "title": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica participa en el Simulacro Nacional de Evacuación a realizarse pronto.\n• El ejercicio busca practicar planes de evacuación ante sismos en distintas sedes del TEC.\n• Participan estudiantes, docentes y personal administrativo en cada campus del TEC.\n• Se espera un alto nivel de participación y preparación por parte de la comunidad educativa.\n• Los simulacros fomentan una cultura de prevención ante posibles emergencias en el país.",
+      "bullets_20s": "• El Tecnológico de Costa Rica se une al 8° Simulacro Nacional de Evacuación en todo el país.\n• Este ejercicio busca poner en práctica planes de evacuación ante sismos delicados y emergencias.\n• Participarán estudiantes, personal académico y administrativo en diversos campus y centros.\n• El simulacro se realizará el 12 de agosto a las 10:00 a.m. con acceso voluntario.\n• La comunidad del TEC podrá inscribirse y descargar la app Simulacro CR para coordinarse.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-se-une-8deg-simulacro-nacional-costa-rica-se-prepara",
       "publish_date": "2026-08-07T21:05:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC se prepara para un importante simulacro de evacuación en agosto.",
+      "teaser": "Lo clave en 20 segundos: El TEC se unirá al 8° Simulacro Nacional para fortalecer la cultura de evacuación.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-07-a-las-3.05.43-p-m.png",
       "description": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "featured": false
@@ -316,11 +368,11 @@
       "slug": "centro-academico-de-alajuela-se-une-a-la-conmemoracion-del-50-aniversario-de-ingenieria-en-computacion",
       "title": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "category": "Costa Rica",
-      "bullets_20s": "• El Centro Académico de Alajuela celebra el aniversario de su Carrera de Ingeniería en Computación.\n• Esta celebración destaca cinco décadas de logros en educación y tecnología en Costa Rica.\n• Del 11 al 14 de agosto, se llevarán a cabo varias actividades relacionadas con el aniversario.\n• Se ofrecerán charlas, talleres y torneos para estudiantes y profesionales del campo.\n• El evento busca inspirar a las nuevas generaciones en el ámbito de la tecnología.",
+      "bullets_20s": "• El Centro Académico de Alajuela conmemora 50 años de Ingeniería en Computación del TEC.\n• La conmemoración incluye charlas, talleres y torneos del 11 al 14 de agosto.\n• Este evento refleja el compromiso con la innovación y el desarrollo tecnológico en el país.\n• La Carrera de Ingeniería en Computación ha sido fundamental en la formación técnica nacional.\n• La agenda completa del evento está disponible para los interesados en participar.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/centro-academico-alajuela-se-une-conmemoracion-50-aniversario-ingenieria-computacion",
       "publish_date": "2026-08-07T20:59:31.000Z",
-      "teaser": "Lo clave en 20 segundos: celebración de 50 años de Ingeniería en Computación en Alajuela.",
+      "teaser": "Lo clave en 20 segundos: Celebramos 50 años de Ingeniería en Computación del TEC en Alajuela.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/93aa4e7b-22ab-4a61-87c3-aa53bd30efcd.jpg",
       "description": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "featured": false
@@ -1070,11 +1122,11 @@
       "slug": "atletas-del-tec-destacan-en-los-juegos-panamericanos-universitarios-fisu-america-2026",
       "title": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes del TEC brillan en los Juegos Panamericanos Universitarios en Lima, Perú, con medallas destacadas.\n• Delegación costarricense alcanzó medallas de oro, plata y bronce, destacando en la competencia.\n• El entrenador Johnny Loría dirigió el equipo, logrando un honorable séptimo lugar en la clasificación general.\n• Atletas como Melisa Ramírez y Gabriel Paz sobresalieron en pruebas en relevos y 400 metros.\n• La competencia reunió a potencias del continente, elevando el nivel del atletismo universitario.",
+      "bullets_20s": "• Estudiantes del TEC lograron medallas en los Juegos Panamericanos Universitarios FISU América 2026 en Lima.\n• Se obtuvo oro en relevos mixtos 4x400 metros, marcando un hito para el deporte universitario.\n• La delegación de Costa Rica se ubicó en el séptimo lugar de la clasificación general con destacados resultados.\n• El entrenador Johnny Loría destacó la responsabilidad de liderar el proceso de selección de los atletas.\n• Melisa Ramírez y Gabriel Paz sobresalieron en sus disciplinas, mostrando un gran rendimiento deportivo.\n• Con medallas de oro, plata y bronce, la experiencia fue histórica para los estudiantes del TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/atletas-tec-destacan-juegos-panamericanos-universitarios-fisu-america-2026",
       "publish_date": "2026-08-06T21:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Atletas del TEC logran medallas y destacan en juegos panamericanos en Lima.",
+      "teaser": "Lo clave en 20 segundos: Atletas del TEC brillan en los Juegos Panamericanos Universitarios con medallas destacadas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/atletismo-fisu-1.jpg",
       "description": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "featured": false
@@ -71800,10 +71852,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-08T12:45:24.134Z",
-  "total": 5523,
-  "removed_soccer_news_count": 1006,
+  "generated_at": "2026-08-08T13:45:24.345Z",
+  "total": 5527,
+  "removed_soccer_news_count": 1007,
   "removed_soccer_news_titles": [
+    "Políticos, jets privados y poder: cómo es la vida de un presidente de la FIFA",
     "Cartaginés se quitó de encima al incómodo Sporting con una joya de gol en el último suspiro",
     "Keylor Navas y Pumas reciben un batacazo en la Leagues Cup",
     "Fútbol viernes, sábado y domingo: hora y canal para ver los partidos de la jornada 3 del Torneo de Apertura 2026",
@@ -71852,7 +71905,6 @@
     "Encargado de investigar los amaños en Costa Rica: ‘Es un fútbol más limpio, pero todavía no lo suficiente’",
     "Costa Rica ya conoce a su rival en la lucha por el boleto al Mundial Sub-20",
     "UEFA y Concacaf se le van encima a Infantino pese a retiro de plan sobre el Mundial: ‘Hay que revisar ese liderazgo’",
-    "La Selección Femenina de Costa Rica despierta en los Juegos Centroamericanos y del Caribe",
-    "Infantino da marcha atrás y retira el plan de la FIFA para abrir los Mundiales a la inversión privada"
+    "La Selección Femenina de Costa Rica despierta en los Juegos Centroamericanos y del Caribe"
   ]
 }
