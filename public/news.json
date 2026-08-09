@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "jose-miguel-villalobos-advierte-que-alcaldes-que-se-pasaron-al-ppso-no-tienen-asegurada-una-candidatura-en-2028-las-base",
+      "title": "José Miguel Villalobos advierte que alcaldes que se pasaron al PPSO no tienen asegurada una candidatura en 2028; las bases afines a Rodrigo Chaves decidirán",
+      "category": "Costa Rica",
+      "bullets_20s": "• Villalobos destaca que las elecciones municipales son un tema importante para el país.\n• Las bases del PPSO jugarán un papel crucial en las decisiones de candidaturas.\n• Alcaldes deben ser conscientes de la incertidumbre de sus posiciones políticas.\n• El contexto político actual en Costa Rica influye en las decisiones de los partidos.\n• Rodrigo Chaves tiene una influencia significativa en el próximo proceso electoral.",
+      "source_name": "Cristian Mora, Lucía Astorga",
+      "source_url": "https://www.nacion.com/politica/jose-miguel-villalobos-advierte-que-alcaldes-que/53QUSX3AVZFU5EBNAEWJ5SW7A4/story/",
+      "publish_date": "2026-08-09T22:16:51.000Z",
+      "teaser": "Lo clave en 20 segundos: Las candidaturas municipales de 2028 están en riesgo para algunos alcaldes.",
+      "image_url": "https://www.nacion.com/resizer/v2/F2R6X2CP3BCJBB5MIQ2HVSPOVM.jpeg?auth=330d974d055192da4269ee12693485827fab36981c2fb2b167be0cfd0608054d&smart=true&width=8256&height=5504",
+      "description": "José Miguel Villalobos afirma que alcaldes que dejaron otros partidos para acercarse a Pueblo Soberano no tienen garantizada candidatura para las elecciones municipales de 2028.",
+      "featured": false
+    },
+    {
+      "slug": "asesinan-a-policia-de-fuerza-publica-en-batan-oficial-estaba-suspendido-por-cobrar-20000-a-turistas",
+      "title": "Asesinan a policía de Fuerza Pública en Batán: oficial estaba suspendido por cobrar ¢20.000 a turistas",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un oficial de la Fuerza Pública fue asesinado en Batán, un lugar de Limón.\n• Este oficial estaba suspendido por cobrar una tarifa a turistas en la zona.\n• El caso ha generado conmoción en la comunidad local y entre las autoridades.\n• La Fuerza Pública ha incrementado la vigilancia en la región tras este suceso.\n• Se espera que las investigaciones sobre su asesinato avancen rápidamente.",
+      "source_name": "Libia Solano Meza",
+      "source_url": "https://www.nacion.com/sucesos/asesinan-a-joven-de-21-anos-en-batan-recibio/FSC5A7Y7YJHXXBTCCKTIEL3UDM/story/",
+      "publish_date": "2026-08-09T22:03:06.000Z",
+      "teaser": "Lo clave en 20 segundos: un oficial de policía fue asesinado en Batán tras controversia con turistas.",
+      "image_url": "https://www.nacion.com/resizer/v2/OHNGBUDAGJCWDL3LF3BIBRWPP4.jpeg?auth=5ec76ccbfa940c463d29719f59e34e21afbd00f44e9279cee7915f61c27634db&smart=true&width=1225&height=747",
+      "description": "Oficial de la Fuerza Pública suspendido por cobrar ¢20.000 a turistas fue asesinado este domingo en Batán, Limón.",
+      "featured": false
+    },
+    {
       "slug": "opc-ccss-publica-lista-de-afiliados-fallecidos-con-fondos-pendientes-asi-pueden-reclamarlos-sus-familiares",
       "title": "OPC-CCSS publica lista de afiliados fallecidos con fondos pendientes: así pueden reclamarlos sus familiares",
       "category": "Costa Rica",
-      "bullets_20s": "• La lista incluye a los afiliados fallecidos con fondos del FCL y ROP.\n• Los familiares pueden reclamar los fondos pendientes tras el deceso.\n• Se ofrece orientación sobre el proceso de reclamación.\n• Es esencial contar con la documentación necesaria para el reclamo.\n• La publicación busca beneficiar a los deudos en situaciones económicas difíciles.",
+      "bullets_20s": "• La OPC-CCSS ha revelado una lista de afiliados fallecidos con fondos sin reclamar.\n• Familiares de los fallecidos pueden acceder a los recursos pendientes en el FCL.\n• Los recursos del ROP también están disponibles para quienes reclamen adecuadamente.\n• Es importante conocer el proceso para que los familiares puedan hacer el reclamo.\n• Se invita a los afectados a verificar la lista publicada por la entidad.",
       "source_name": "Silvia Ureña Corrales",
       "source_url": "https://www.nacion.com/el-pais/opc-ccss-publica-lista-de-afiliados-fallecidos-con/WXJPXV66OFH45JAEO2XGFTDD2E/story/",
       "publish_date": "2026-08-09T21:15:48.000Z",
-      "teaser": "Lo clave en 20 segundos: La OPC-CCSS facilita reclamación de fondos pendientes para familias de afiliados fallecidos.",
+      "teaser": "Lo clave en 20 segundos: OPC-CCSS brinda posibilidad de reclamar fondos pendientes de afiliados fallecidos.",
       "image_url": "https://www.nacion.com/resizer/v2/WBPVPEXR3VGU5PLZSQYQGFW7BE.JPG?auth=2a0967ee949a45e03a801a1a6ec90481f246f8c84238db1059ddc5f97557f617&smart=true&width=4000&height=2667",
       "description": "La OPC-CCSS publicó la lista actualizada de afiliados fallecidos que mantienen fondos pendientes. Conozca cómo reclamar recursos del FCL y ROP.",
       "featured": false
@@ -1096,11 +1122,11 @@
       "slug": "el-tec-se-une-al-8-simulacro-nacional-costa-rica-se-prepara",
       "title": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC participa en el octavo simulacro nacional de evacuación programado para el 12 de agosto.\n• El simulacro simula una evacuación ante un posible sismo, promoviendo la preparación de la comunidad.\n• Estudiantes y personal deben practicar sus planes de evacuación en diversas sedes del TEC.\n• El ejercicio busca fortalecer la cultura de prevención de riesgos en las instituciones educativas.\n• La comunidad del TEC podrá utilizar una aplicación móvil para descargar información sobre el simulacro.",
+      "bullets_20s": "• El TEC participará en el 8° Simulacro Nacional de Evacuación en Agosto de 2026.\n• Este ejercicio es convocado por la Comisión Nacional de Prevención de Riesgos.\n• Se espera la participación de estudiantes y personal académico en el simulacro.\n• El simulacro busca fortalecer la cultura de prevención en casos de emergencia.\n• Los participantes deben identificar salidas cercanas al escuchar la alarma.\n• Los parqueos serán puntos de reunión durante la evacuación ordenada.\n• Se fomentará la responsabilidad y el orden durante el ejercicio de evacuación.\n• Las alarmas servirán como indicación para suspender labores y evacuar.\n• El TEC alentará a su comunidad a inscribirse y usar la app Simulacro CR.\n• Los puntos de reunión serán comunicados a los participantes después del simulacro.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-se-une-8deg-simulacro-nacional-costa-rica-se-prepara",
       "publish_date": "2026-08-07T21:05:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC se prepara para el 8° Simulacro Nacional de Evacuación en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El TEC se une al simulacro para mejorar la evacuación ante emergencias.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-07-a-las-3.05.43-p-m.png",
       "description": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "featured": false
@@ -1122,11 +1148,11 @@
       "slug": "centro-academico-de-alajuela-se-une-a-la-conmemoracion-del-50-aniversario-de-ingenieria-en-computacion",
       "title": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "category": "Costa Rica",
-      "bullets_20s": "• El Centro Académico de Alajuela celebra cinco décadas de Ingeniería en Computación del TEC.\n• La conmemoración incluye charlas, talleres y torneos programados del 11 al 14 de agosto.\n• Este evento resalta la importancia del desarrollo tecnológico en Costa Rica a lo largo de los años.\n• Se espera una gran participación de estudiantes y profesionales en las actividades organizadas.\n• Ingrid Amador Solano es el contacto para más información sobre el evento y la agenda.",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebra 50 años de su Carrera de Ingeniería en Computación en Alajuela.\n• Se organizarán charlas, talleres y torneos del 11 al 14 de agosto para conmemorar este hito.\n• Esta conmemoración refleja la excelencia académica y el compromiso con el desarrollo tecnológico.\n• El evento está dirigido a estudiantes, profesores y profesionales interesados en la computación.\n• Ingrid Amador Solano es el contacto para más información sobre la celebración y actividades.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/centro-academico-alajuela-se-une-conmemoracion-50-aniversario-ingenieria-computacion",
       "publish_date": "2026-08-07T20:59:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración del 50º aniversario de Ingeniería en Computación del TEC en Alajuela.",
+      "teaser": "Lo clave en 20 segundos: Se celebra el 50º aniversario de Ingeniería en Computación en Alajuela con varias actividades.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/93aa4e7b-22ab-4a61-87c3-aa53bd30efcd.jpg",
       "description": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "featured": false
@@ -1876,11 +1902,11 @@
       "slug": "atletas-del-tec-destacan-en-los-juegos-panamericanos-universitarios-fisu-america-2026",
       "title": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Atletas del TEC logran medallas en los Juegos Panamericanos Universitarios de FISU América 2026.\n• Delegación costarricense se ubicó séptima en la clasificación general del torneo en Lima, Perú.\n• Melisa Ramírez y Gabriel Paz destacan con sus actuaciones en atletismo durante los juegos.\n• Johnny Loría fue el entrenador que lideró el equipo, subrayando su responsabilidad y honor.\n• Los atletas enfrentaron la competencia de potencias en atletismo como Estados Unidos y Brasil.",
+      "bullets_20s": "• Estudiantes del TEC tuvieron una participación destacada en los Juegos Panamericanos Universitarios.\n• El equipo costarricense obtuvo varias medallas en competencias intensas y competitivas.\n• El entrenador Johnny Loría fue fundamental en la dirección y selección de los atletas.\n• Las medallas de oro y bronce reflejan el esfuerzo y dedicación de los estudiantes.\n• Los atletas del TEC sobresalieron en relevos y pruebas individuales durante la competencia.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/atletas-tec-destacan-juegos-panamericanos-universitarios-fisu-america-2026",
       "publish_date": "2026-08-06T21:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Atletas del TEC logran medallas en los Juegos Panamericanos Universitarios 2026 en Lima.",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC brillan en los Juegos Panamericanos Universitarios de 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/atletismo-fisu-1.jpg",
       "description": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "featured": false
@@ -72606,8 +72632,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-09T21:45:23.449Z",
-  "total": 5585,
+  "generated_at": "2026-08-09T22:45:23.132Z",
+  "total": 5587,
   "removed_soccer_news_count": 1022,
   "removed_soccer_news_titles": [
     "El insólito festejo de un futbolista en Brasil acaba muy mal y le da la vuelta al mundo: vea lo que pasó",
