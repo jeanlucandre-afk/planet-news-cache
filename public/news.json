@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "por-que-se-elimino-la-custodia-del-hombre-asesinado-en-hospital-la-anexion-carlo-diaz-fiscal-general-responde",
+      "title": "¿Por qué se eliminó la custodia del hombre asesinado en Hospital La Anexión? Carlo Díaz, fiscal general, responde",
+      "category": "Costa Rica",
+      "bullets_20s": "• La eliminación de la custodia ha generado controversias en la opinión pública y entre autoridades locales.\n• El OIJ se encuentra realizando investigaciones para esclarecer los hechos ocurridos en el hospital.\n• Los hechos resaltan la vulnerabilidad de los hospitales en situaciones de violencia armada.\n• Las autoridades buscan establecer protocolos más seguros para la custodia de reclusos en centros de salud.\n• La comunidad local expresa preocupación sobre la seguridad en puntos de atención médica.",
+      "source_name": "Lucía Astorga, Vanessa Loaiza N.",
+      "source_url": "https://www.nacion.com/sucesos/por-que-se-elimino-la-custodia-del-hombre/Z7UBDC6Q2RF2BCOQRCA5L5C7YQ/story/",
+      "publish_date": "2026-08-09T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La custodia del hombre asesinado en el hospital fue eliminada, generando controversia.",
+      "image_url": "https://www.nacion.com/resizer/v2/OBUZPPXQK5H4FM5KQIKF47O5L4.png?auth=be274275c3aef73c4f78079ef55ddeb06852664c6a06c17ab80a32bb3cfb788b&smart=true&width=1200&height=628",
+      "description": "El hombre, de 32 años, fue asesinado a balazos dentro del Hospital La Anexión, en Nicoya, tras el ingreso de dos sujetos armados; el OIJ investiga el móvil del ataque y mantiene operativos para dar con los responsables.",
+      "featured": false
+    },
+    {
       "slug": "bryan-oviedo-toma-decision-que-le-cambia-la-vida-y-la-comunica-en-un-video-vealo-aqui",
       "title": "Bryan Oviedo toma decisión que le cambia la vida y la comunica en un video: véalo aquí",
       "category": "Mundo",
-      "bullets_20s": "• Bryan Oviedo es un destacado futbolista costarricense con una extensa carrera internacional.\n• El video postea sobre una decisión personal que afecta su vida y carrera profesional.\n• Sus seguidores reaccionan de diversas maneras a los cambios anunciados en el video.\n• La importancia de su mensaje radica en su impacto en el deporte y la vida de sus fans.\n• Se espera que esta decisión genere debates entre críticos y admiradores del jugador.",
+      "bullets_20s": "• Bryan Oviedo es un futbolista reconocido en el ámbito local e internacional.\n• Su reciente anuncio en video ha generado interés entre los seguidores del deporte.\n• Las reacciones en redes sociales han sido diversas tras su comunicado.\n• Oviedo ha sido una figura influyente en el fútbol costarricense por años.\n• El contenido emocional del video ha resonado entre muchos aficionados.",
       "source_name": "Fanny Tayver Marín",
       "source_url": "https://www.nacion.com/puro-deporte/bryan-oviedo-toma-decision-que-le-cambia-la-vida-y/4VCQ34JHAZCHZO75OSEFLNK3ZU/story/",
       "publish_date": "2026-08-08T22:53:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Bryan Oviedo revela un cambio importante en su vida personal.",
+      "teaser": "Lo clave en 20 segundos: Bryan Oviedo sorprende con un importante anuncio en video.",
       "image_url": "https://www.nacion.com/resizer/v2/UICLQAM75FBHHNCMRLANDMLIU4.jpg?auth=e17d0621ce21a1b5f95850d9feec79e5d12b566ff02abe878fe3e9bd3dafd9ce&smart=true&width=4975&height=3316",
       "description": "Bryan Oviedo colgó un video en sus redes sociales con un mensaje que sorprende a muchos y las reacciones son inmediatas.",
       "featured": false
@@ -17,11 +30,11 @@
       "slug": "atentados-marcan-el-primer-dia-del-nuevo-gobierno-de-colombia",
       "title": "Atentados marcan el primer día del nuevo gobierno de Colombia",
       "category": "Mundo",
-      "bullets_20s": "• Los atentados sucedieron en el primer día del nuevo gobierno colombiano de Abelardo de la Espriella.\n• Dos ataques con explosivos han generado preocupación y rechazo en la sociedad colombiana actual.\n• Un policía perdió la vida y varios civiles resultaron heridos durante estas explosiones en varias regiones.\n• El nuevo mandatario ha prometido una dura ofensiva en contra de los grupos armados que operan en Colombia.\n• La violencia en Colombia sigue siendo un tema crítico, afectando la seguridad y estabilidad del país.",
+      "bullets_20s": "• El nuevo gobierno de Colombia enfrenta desafíos inmediatos tras ataques en su primer día.\n• Dos explosiones en diversas regiones complican la situación de seguridad del país.\n• Un policía ha perdido la vida, y varios más resultaron heridos tras los atentados.\n• El presidente Abelardo de la Espriella promete tomar acciones enérgicas contra la violencia.\n• La nación se encuentra en estado de alerta ante la amenaza de grupos armados.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/el-mundo/atentados-marcan-el-primer-dia-del-nuevo-gobierno/F2PSKX3JYRHDRPUPFL35LKKG6Y/story/",
       "publish_date": "2026-08-08T22:51:02.000Z",
-      "teaser": "Lo clave en 20 segundos: Atentados generan alarma en Colombia, nuevo gobierno enfrenta desafíos de seguridad.",
+      "teaser": "Lo clave en 20 segundos: atentados marcan el inicio del nuevo gobierno en Colombia.",
       "image_url": "https://www.nacion.com/resizer/v2/I5MTNNQ26NDYJCNUCXOMQ5KGWM.jpeg?auth=26799b4df376457ca19a88486c51a0640e4e3fc6366ea197fbf11722fe24364c&smart=true&width=1170&height=853",
       "description": "El inicio del gobierno de Abelardo de la Espriella quedó marcado por la violencia: dos ataques con explosivos en distintas regiones de Colombia dejaron un policía muerto y varios heridos, mientras el nuevo mandatario promete una ofensiva contra los grupos armados.",
       "featured": false
@@ -404,19 +417,6 @@
       "featured": false
     },
     {
-      "slug": "como-los-hermanos-batista-levantaron-el-mayor-imperio-carnico-del-mundo-cayeron-en-desgracia-y-volvieron-a-la-cima",
-      "title": "Cómo los hermanos Batista levantaron el mayor imperio cárnico del mundo, cayeron en desgracia y volvieron a la cima",
-      "category": "Mundo",
-      "bullets_20s": "• Los hermanos Batista comenzaron su carrera en una pequeña carnicería en Brasil, con grandes sueños.\n• A lo largo de los años, construyeron un imperio que se convirtió en líder de la industria cárnica mundial.\n• En el camino, enfrentaron escándalos y corrupción que pusieron en crisis su reputación y negocio.\n• A pesar de las adversidades, lograron resurgir y mantenerse en la cima del mercado cárnico internacional.\n• La historia de estos empresarios refleja los desafíos y éxitos en el mundo de los negocios.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/cy07klle5nzo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-08-08T11:57:03.000Z",
-      "teaser": "Lo clave en 20 segundos: La fascinante historia de los hermanos Batista y su imperio cárnico.",
-      "image_url": "",
-      "description": "Desde una pequeña carnicería brasileña hasta la mayor productora de carne del mundo, pasando por uno de los más grandes escándalos de corrupción de su país, la historia de Wesley y Joesley Batista parece de película.",
-      "featured": false
-    },
-    {
       "slug": "aprendizajes-de-nicaragua-la-prensa-denuncia-la-farsa-legislativa-de-la-dictadura",
       "title": "Aprendizajes de Nicaragua: ‘La Prensa’ denuncia la farsa legislativa de la dictadura",
       "category": "Mundo",
@@ -667,11 +667,11 @@
       "slug": "el-tec-se-une-al-8-simulacro-nacional-costa-rica-se-prepara",
       "title": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica se suma al octavo simulacro de evacuación nacional.\n• El simulacro se llevará a cabo el 12 de agosto a las 10:00 a.m. en todos sus campus.\n• Con este ejercicio, se busca fortalecer la cultura de prevención entre estudiantes y personal.\n• En la edición anterior, participaron más de 1.4 millones de personas en todo el país.\n• Es fundamental mantener la calma y seguir las indicaciones durante el simulacro.",
+      "bullets_20s": "• El TEC participa en el octavo simulacro de evacuación nacional previsto para agosto.\n• El ejercicio busca aplicar los planes de evacuación ante sismos en cada campus.\n• Cerca de 1.4 millones de personas participaron en la edición anterior del simulacro.\n• La comunidad del TEC podrá inscribirse y usar una app para planificar emergencias.\n• Las indicaciones incluyen mantener la calma y no usar vehículos durante el simulacro.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-se-une-8deg-simulacro-nacional-costa-rica-se-prepara",
       "publish_date": "2026-08-07T21:05:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC se une al simulacro nacional para fortalecer la prevención de riesgos.",
+      "teaser": "Lo clave en 20 segundos: El TEC se une al simulacro nacional para fortalecer la cultura de prevención ante sismos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-07-a-las-3.05.43-p-m.png",
       "description": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "featured": false
@@ -693,13 +693,13 @@
       "slug": "centro-academico-de-alajuela-se-une-a-la-conmemoracion-del-50-aniversario-de-ingenieria-en-computacion",
       "title": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "category": "Costa Rica",
-      "bullets_20s": "• El 50 º aniversario resalta la contribución del TEC a la tecnología en Costa Rica.\n• Se realizarán charlas, talleres y torneos entre el 11 y el 14 de agosto.\n• El evento celebra 50 años de excelencia en Ingeniería en Computación.\n• La carrera ha formado profesionales que impulsan el desarrollo tecnológico.\n• Se espera una gran participación de estudiantes y docentes del TEC.",
+      "bullets_20s": "• El 50º aniversario destaca la trayectoria de la Ingeniería en Computación en Costa Rica.\n• Del 11 al 14 de agosto se realizarán eventos con diversas actividades académicas.\n• Charlas y talleres formarán parte del programa para celebrar esta importante fecha.\n• El Tecnológico de Costa Rica ha sido pionero en educación tecnológica desde su fundación.\n• La participación de estudiantes y docentes será crucial en estas celebraciones.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/centro-academico-alajuela-se-une-conmemoracion-50-aniversario-ingenieria-computacion",
       "publish_date": "2026-08-07T20:59:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebran 50 años de Ingeniería en Computación en Alajuela.",
+      "teaser": "Lo clave en 20 segundos: Celebración del 50º aniversario de Ingeniería en Computación en Alajuela.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/93aa4e7b-22ab-4a61-87c3-aa53bd30efcd.jpg",
-      "description": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación.",
+      "description": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "featured": false
     },
     {
@@ -1447,11 +1447,11 @@
       "slug": "atletas-del-tec-destacan-en-los-juegos-panamericanos-universitarios-fisu-america-2026",
       "title": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes del TEC brillaron en los Juegos Panamericanos Universitarios en Lima, Perú, con actuaciones destacadas.\n• La delegación costarricense logró dos medallas de oro, dos de plata y una de bronce en la competencia.\n• Melisa Ramírez y Gabriel Paz sobresalieron en las pruebas de relevos y demostraron su gran capacidad atlética.\n• El entrenador Johnny Loría destacó la importancia de liderar un equipo altamente competitivo en este evento.\n• A pesar de contar con menos atletas, Costa Rica se posicionó séptimo entre potencias del atletismo.",
+      "bullets_20s": "• Estudiantes del TEC obtuvieron medallas en una destacada actuación en Lima, Perú.\n• La delegación costarricense logró dos medallas de oro, dos de plata y una de bronce.\n• El entrenador Johnny Loría lideró el equipo, destacando la responsabilidad del éxito.\n• Gabriel Paz y Melisa Ramírez sobresalieron en el relevo mixto 4x400 metros.\n• El evento reunió a potencias como Estados Unidos y Brasil, elevando la competencia.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/atletas-tec-destacan-juegos-panamericanos-universitarios-fisu-america-2026",
       "publish_date": "2026-08-06T21:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC brillaron en los Juegos Panamericanos Universitarios en Perú.",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC brillan en los Juegos Panamericanos Universitarios 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/atletismo-fisu-1.jpg",
       "description": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "featured": false
@@ -72177,10 +72177,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-08T23:45:23.255Z",
+  "generated_at": "2026-08-09T00:45:23.476Z",
   "total": 5552,
-  "removed_soccer_news_count": 1013,
+  "removed_soccer_news_count": 1014,
   "removed_soccer_news_titles": [
+    "River Plate se hunde en la peor racha de su historia",
     "La FIFA pasa al contragolpe y lanza sorprendente comunicado en medio de las presiones contra Infantino",
     "Fútbol argentino aplica medida urgente e inmediata como homenaje al papá de Lionel Messi",
     "Presidente del Comité de Licencias de la Fedefútbol responde: ¿Es más limpio ahora el fútbol de Costa Rica?",
@@ -72229,7 +72230,6 @@
     "La impresionante caída de Infantino en solo unos días",
     "Concacaf confirma cambio de horario y sede para el partido de Costa Rica en México en busca del boleto al Mundial",
     "Rosalía pide disculpas en Argentina tras polémica por el Mundial",
-    "La ciencia que el fútbol costarricense decidió ignorar",
-    "Adonis Pineda evitó la debacle y Puntarenas se dejó un punto en casa ante Sporting"
+    "La ciencia que el fútbol costarricense decidió ignorar"
   ]
 }
