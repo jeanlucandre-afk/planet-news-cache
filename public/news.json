@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "costa-rica-figura-entre-los-mejores-paises-para-jubilarse-en-el-extranjero-en-2026-segun-forbes",
+      "title": "Costa Rica figura entre los mejores países para jubilarse en el extranjero en 2026, según ‘Forbes’",
+      "category": "Costa Rica",
+      "bullets_20s": "• Costa Rica se destaca por su clima cálido y acogedor, ideal para el retiro.\n• El país ofrece servicios de salud de calidad, lo que atrae a jubilados.\n• La biodiversidad y paisajes únicos son atractivos para los jubilados.\n• El costo de vida en Costa Rica es razonable para muchos extranjeros.\n• Destinos específicos en el país fueron mencionados como preferidos para jubilados.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/economia/costa-rica-figura-entre-los-mejores-paises-para/RKW2BSBRBZFM7ACHFDJ44GSCG4/story/",
+      "publish_date": "2026-08-09T18:47:33.000Z",
+      "teaser": "Lo clave en 20 segundos: Costa Rica se ubica entre los mejores para jubilarse en 2026 según Forbes.",
+      "image_url": "https://www.nacion.com/resizer/v2/BAELMR3LIBEWRHWYHO4CTSGHUI.JPG?auth=31174c35809227f8744e24f4c3fc61a081cc2ae9bff76f796ed4537ecc276b43&smart=true&width=6720&height=4480",
+      "description": "Forbes incluyó a Costa Rica entre los mejores países para jubilarse en el extranjero en 2026 y destacó varios destinos del país que podrían interesar a quienes buscan vivir su retiro fuera de Estados Unidos.",
+      "featured": false
+    },
+    {
       "slug": "gatilleros-ingresan-a-casa-y-asesinan-a-balazos-a-hombre-de-47-anos-en-turrialba",
       "title": "Gatilleros ingresan a casa y asesinan a balazos a hombre de 47 años en Turrialba",
       "category": "Costa Rica",
-      "bullets_20s": "• La violencia en las comunidades costarricenses sigue siendo un tema muy preocupante para la sociedad.\n• Este trágico suceso se produce en medio de un aumento en los crímenes violentos en el país.\n• La policía investiga el móvil detrás del ataque, aunque no se han dado detalles aún.\n• Los vecinos relatan que no es la primera vez que ocurren incidentes de este tipo en Turrialba.\n• El asesinato genera temor e inseguridad entre los habitantes de la zona.",
+      "bullets_20s": "• Un hombre fue baleado múltiples veces dentro de su vivienda en Turrialba, Costa Rica.\n• Los atacantes ingresaron a la casa sin resistencia, ejecutando el acto violento rápidamente.\n• La ola de violencia sigue afectando a distintas comunidades en el país.\n• Las autoridades investigan el trasfondo del crimen y buscan pistas sobre los agresores.\n• La inseguridad se ha convertido en un tema preocupante para los ciudadanos costarricenses.",
       "source_name": "Libia Solano Meza",
       "source_url": "https://www.nacion.com/sucesos/gatilleros-ingresan-a-casa-y-asessinan-a-balazos-a/SG3EDUPSEBHOTLEL6IYH5LMFXI/story/",
       "publish_date": "2026-08-09T18:17:33.000Z",
-      "teaser": "Lo clave en 20 segundos: Un hombre fue asesinado en su hogar en Turrialba por varios gunmen.",
+      "teaser": "Lo clave en 20 segundos: hombre asesinado en su casa en Turrialba por delincuentes.",
       "image_url": "https://www.nacion.com/resizer/v2/C75S5NP6L5BLZO5YGRHQ7PJDQQ.jpg?auth=ae6ee2acc9ea9467f2bed8d418cc980d7848149e56f12b7097c37e41baef0662&smart=true&width=1200&height=630",
       "description": "Un hombre de 47 años fue asesinado dentro de su vivienda en Turrialba luego de que varios hombres ingresaran en la casa y le dispararan en repetidas ocasiones.",
       "featured": false
@@ -1044,11 +1057,11 @@
       "slug": "el-tec-se-une-al-8-simulacro-nacional-costa-rica-se-prepara",
       "title": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "category": "Costa Rica",
-      "bullets_20s": "• El simulacro tiene como fin fortalecer la cultura de prevención en instituciones educativas y comunitarias.\n• Estudiantes y personal del TEC participarán en la práctica de evacuación programada en agosto.\n• Se estima la participación de miles de personas en todo el país durante este evento nacional.\n• El ejercicio ayuda a preparar a la población ante eventos sísmicos que puedan ocurrir en el futuro.\n• La comunidad del TEC podrá inscribirse y utilizar una app para coordinar sus planes de emergencia.",
+      "bullets_20s": "• El TEC participará en un simulacro nacional de evacuación para prepararse ante sismos.\n• El ejercicio está coordinado por la Comisión Nacional de Prevención de Riesgos y Atención de Emergencias.\n• Los campus del TEC en Cartago, San Carlos y San José estarán involucrados en el simulacro.\n• El simulacro busca fortalecer la cultura de prevención en la comunidad educativa del TEC.\n• Se insta a los participantes a mantener la calma y seguir las indicaciones durante el ejercicio.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-se-une-8deg-simulacro-nacional-costa-rica-se-prepara",
       "publish_date": "2026-08-07T21:05:59.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC participa en simulacro nacional para promover la preparación ante sismos.",
+      "teaser": "Lo clave en 20 segundos: El TEC se une al simulacro nacional para fortalecer la cultura de prevención ante sismos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-07-a-las-3.05.43-p-m.png",
       "description": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "featured": false
@@ -1070,13 +1083,13 @@
       "slug": "centro-academico-de-alajuela-se-une-a-la-conmemoracion-del-50-aniversario-de-ingenieria-en-computacion",
       "title": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra cinco décadas de excelencia en Ingeniería en Computación en Alajuela.\n• Se realizarán charlas, talleres y torneos del 11 al 14 de agosto de 2026.\n• La celebración resalta el compromiso del TEC con el desarrollo tecnológico nacional.\n• Invitan a la comunidad académica y al público a participar en los eventos programados.\n• La agenda de actividades se publicará para mayor información y acceso.",
+      "bullets_20s": "• El 50º aniversario refleja el compromiso del TEC con la educación en computación.\n• Se celebrarán charlas y talleres para destacar la trayectoria de la carrera.\n• Los eventos se realizarán del 11 al 14 de agosto en Alajuela.\n• La iniciativa busca promover la innovación y el desarrollo tecnológico en el país.\n• Participará la comunidad académica y estudiantes del Tecnológico de Costa Rica.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/centro-academico-alajuela-se-une-conmemoracion-50-aniversario-ingenieria-computacion",
       "publish_date": "2026-08-07T20:59:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración del 50 aniversario de Ingeniería en Computación en Alajuela.",
+      "teaser": "Lo clave en 20 segundos: Celebración del 50 años de Ingeniería en Computación en Alajuela.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/93aa4e7b-22ab-4a61-87c3-aa53bd30efcd.jpg",
-      "description": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación.",
+      "description": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "featured": false
     },
     {
@@ -1824,11 +1837,11 @@
       "slug": "atletas-del-tec-destacan-en-los-juegos-panamericanos-universitarios-fisu-america-2026",
       "title": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes del TEC brillaron en los Juegos Panamericanos Universitarios en Lima, obteniendo múltiples medallas.\n• La delegación costarricense alcanzó un séptimo lugar en la clasificación general, superando a naciones fuertes.\n• Johnny Loría, entrenador del equipo, destacó por su liderazgo y compromiso en cada etapa del proceso.\n• Los atletas Melisa Ramírez y Gabriel Paz fueron fundamentales para el éxito del equipo universitario en el torneo.\n• La competencia incluyó atletas de diversas potencias del atletismo, elevando el nivel del evento en general.",
+      "bullets_20s": "• Estudiantes del TEC logran un gran desempeño en las competencias, mostrando su talento y dedicación.\n• La delegación costarricense se destacó en Lima, obteniendo medallas en disciplinas importantes del evento.\n• El entrenador Johnny Loría destacó el esfuerzo y sacrificio por parte de los atletas durante la competencia.\n• Gabriel Paz y Melisa Ramírez brillaron en el relevo mixto y contribuyeron al éxito del equipo.\n• El equipo costarricense se superó frente a potencias como Estados Unidos, Brasil y Colombia.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/atletas-tec-destacan-juegos-panamericanos-universitarios-fisu-america-2026",
       "publish_date": "2026-08-06T21:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC logran medallas en los Juegos Panamericanos Universitarios en Lima.",
+      "teaser": "Lo clave en 20 segundos: Atletas del TEC logran medallas y destacan en los Juegos Panamericanos Universitarios 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/atletismo-fisu-1.jpg",
       "description": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "featured": false
@@ -72554,8 +72567,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-09T18:45:23.593Z",
-  "total": 5581,
+  "generated_at": "2026-08-09T19:45:52.080Z",
+  "total": 5582,
   "removed_soccer_news_count": 1019,
   "removed_soccer_news_titles": [
     "El primer contrato de Messi: una servilleta que cambió la historia del fútbol",
