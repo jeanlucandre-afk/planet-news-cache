@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "esto-dice-un-especialista-sobre-el-futuro-de-los-taxis-en-costa-rica",
+      "title": "Esto dice un especialista sobre el futuro de los taxis en Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los taxis tradicionales se enfrentan a nuevos desafíos en la era digital y de movilidad.\n• La llegada de aplicaciones de transporte ha aumentado la competitividad en el sector.\n• Olman Vargas destaca el impacto de la tecnología en la gestión de taxis.\n• El futuro del transporte en Costa Rica podría incluir más opciones para los usuarios.\n• La regulación de los taxis y servicios alternativos se vuelve cada vez más necesaria.",
+      "source_name": "Jorge Arturo Mora",
+      "source_url": "https://www.nacion.com/revista-dominical/esto-dice-un-especialista-sobre-el-futuro-de-los/WTRNX22XUFGLDGGWIBFK5IHURI/story/",
+      "publish_date": "2026-08-09T15:20:54.000Z",
+      "teaser": "Lo clave en 20 segundos: Expertos analizan el impacto de Uber en los taxis en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/URRVVIMIXZCE3PR3EJID4PWZCE.JPG?auth=623017d011a10f0cacfc88823d197034c683420a82c509954e51550f7445ad5f&smart=true&width=3000&height=2000",
+      "description": "Durante décadas, una protesta de taxistas podía paralizar al país y presionar al Gobierno. Hoy, según el ingeniero Olman Vargas, la expansión de Uber, el crecimiento de la flota vehicular y los cambios en la movilidad transformaron el poder.",
+      "featured": false
+    },
+    {
+      "slug": "antes-era-un-orgullo-ser-taxista-ahora-estoy-ahuevado-cuenta-taxista-con-40-anos-de-experiencia",
+      "title": "‘Antes era un orgullo ser taxista; ahora estoy ahuevado’, cuenta taxista con 40 años de experiencia",
+      "category": "Costa Rica",
+      "bullets_20s": "• Don Norberto lleva 40 años como taxista en San José, enfrentando diversos cambios en el sector.\n• A pesar de su experiencia, se siente abrumado por la carga financiera actual del trabajo.\n• La vida de taxista ha cambiado drásticamente en las últimas décadas, afectando su orgullo profesional.\n• Trabajar hasta 16 horas al día se ha vuelto una necesidad para poder cubrir deudas acumuladas.\n• Su historia refleja la realidad de muchos taxistas en Costa Rica en la actualidad.",
+      "source_name": "Jorge Arturo Mora",
+      "source_url": "https://www.nacion.com/revista-dominical/antes-era-un-orgullo-ser-taxista-ahora-estoy/IZZSNCMWY5GJLLRZV22KJYSUKM/story/",
+      "publish_date": "2026-08-09T15:20:28.000Z",
+      "teaser": "Lo clave en 20 segundos: La vida de un taxista en San José ha cambiado drásticamente en 40 años.",
+      "image_url": "https://www.nacion.com/resizer/v2/IC3L5Y2U7FEJBM3O4EF44DMVZU.JPG?auth=cf191aae5fbb3cadb4d8fc6b4a081266df5709ffabc2073eee77de85b428378b&smart=true&width=3000&height=2000",
+      "description": "Durante cuatro décadas, don Norberto ha vivido de conducir un taxi por San José. Hoy trabaja hasta 16 horas diarias para pagar una deuda de ¢12 millones.",
+      "featured": false
+    },
+    {
       "slug": "nuestros-oficiales-ya-no-dan-mas",
       "title": "Nuestros oficiales ya no dan más",
       "category": "Costa Rica",
@@ -131,19 +157,6 @@
       "featured": false
     },
     {
-      "slug": "que-es-el-proyecto-panama-y-como-revelo-la-destruccion-de-miles-de-libros-antiguos-para-entrenar-a-la-ia",
-      "title": "Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA",
-      "category": "Mundo",
-      "bullets_20s": "• El Proyecto Panamá ha generado preocupación por la destrucción de libros antiguos y su digitalización.\n• Expertos temen que la digitalización implique la eliminación de textos valiosos de la literatura mundial.\n• La demanda por libros antiguos ha incrementado, pero el destino de estos ejemplares es incierto.\n• Se debate sobre el valor del patrimonio cultural frente a las necesidades de la inteligencia artificial.\n• La preservación de la historia literaria es fundamental para las futuras generaciones de lectores.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/ckgdmv8gz1jo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-08-09T11:09:29.000Z",
-      "teaser": "Lo clave en 20 segundos: El Proyecto Panamá está generando preocupaciones sobre la destrucción de libros antiguos.",
-      "image_url": "",
-      "description": "Libreros de ejemplares antiguos y usados han recibido encargos de compra masivas y el temor es que estos libros terminen destruidos en un proceso de digitalización.",
-      "featured": false
-    },
-    {
       "slug": "editorial-ceuta-y-el-despreciable-uso-de-la-desesperacion-humana-como-arma-politica",
       "title": "Editorial: Ceuta y el despreciable uso de la desesperación humana como arma política",
       "category": "Mundo",
@@ -167,6 +180,32 @@
       "teaser": "Lo clave en 20 segundos: La economía jaguar necesita ajustes fiscales por baja recaudación y deuda elevada.",
       "image_url": "https://www.nacion.com/resizer/v2/D5VOPQ6T45ET5OBZ2IVNNHRY2U.jpg?auth=66c726f73169ffcfcb4ad6d96e51b73fc7aa2daa8b3293017b72c94e75b1a60f&smart=true&width=1529&height=1146",
       "description": "Tras la 'economía jaguar', la menor recaudación, la apreciación del colón y el peso de la deuda reabren el debate sobre los factores que empujaron al gobierno a proponer un nuevo plan fiscal.",
+      "featured": false
+    },
+    {
+      "slug": "eclipse-solar-total-avellanosa-de-muno-el-pequeno-pueblo-de-espana-que-por-una-noche-sera-uno-de-los-lugares-mas-fascina",
+      "title": "Eclipse solar total: Avellanosa de Muñó, el pequeño pueblo de España que por una noche será uno de los lugares más fascinantes del planeta",
+      "category": "Mundo",
+      "bullets_20s": "• El eclipse solar total atraerá visitantes a un pequeño pueblo en España.\n• Avellanosa de Muñó es poco conocido y tiene escasas residencias permanentes.\n• Este fenómeno natural promete ser un espectáculo único para la comunidad.\n• Las preparaciones en el pueblo para el evento están generando gran expectativa.\n• Los eclipses solares totales son eventos raros que fascinan a la humanidad.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cwymvm84p9ko?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-09T08:59:27.000Z",
+      "teaser": "Lo clave en 20 segundos: Avellanosa de Muñó se prepara para un eclipse solar que atraerá la atención mundial.",
+      "image_url": "",
+      "description": "Sin apenas residentes y casi sin visitantes a lo largo del año, esta pequeña localidad del norte de España se prepara para una noche extraordinaria.",
+      "featured": false
+    },
+    {
+      "slug": "como-italia-un-pais-famoso-por-la-saludable-dieta-mediterranea-acabo-teniendo-tantos-ninos-obesos",
+      "title": "Cómo Italia, un país famoso por la saludable dieta mediterránea, acabó teniendo tantos niños obesos",
+      "category": "Mundo",
+      "bullets_20s": "• Italia es reconocida por su dieta mediterránea y su estilo de vida saludable en general.\n• A pesar de esto, un creciente número de niños en Italia padece obesidad infantil alarmante.\n• La Organización Mundial de la Salud ha reportado esta tendencia preocupante en los últimos años.\n• Factores como la dieta, el sedentarismo y la cultura alimentaria están influyendo.\n• Es crucial abordar esta situación para garantizar un futuro más saludable para los niños.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cx2mrppm26do?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-09T03:59:35.000Z",
+      "teaser": "Lo clave en 20 segundos: Italia enfrenta un alarmante aumento de obesidad infantil a pesar de su dieta saludable.",
+      "image_url": "",
+      "description": "La dieta mediterránea constituía un modelo de vida saludable; sin embargo, los niños italianos se encuentran entre los que presentan mayor sobrepeso en Europa, según la OMS.",
       "featured": false
     },
     {
@@ -914,11 +953,11 @@
       "slug": "el-tec-se-une-al-8-simulacro-nacional-costa-rica-se-prepara",
       "title": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC participará en el Simulacro Nacional de Evacuación programado para agosto 2026.\n• Se llevará a cabo en diferentes campus del Tecnológico de Costa Rica a nivel nacional.\n• La CNE promueve la cultura de prevención ante emergencias en toda la comunidad educativa.\n• El simulacro ayudará a practicar los planes de evacuación en caso de sismos.\n• El evento incluirá participación de estudiantes, docentes y administrativos en todo el país.",
+      "bullets_20s": "• El TEC se suma al simulacro promovido por la Comisión Nacional de Prevención de Riesgos.\n• Este ejercicio se llevará a cabo el miércoles 12 de agosto a las 10:00 a.m.\n• La comunidad del TEC participará de manera activa durante el simulacro nacional.\n• Se espera que los participantes practiquen planes de evacuación ante sismos.\n• La evacuación se inicia al percibir el segundo sonido de alarma, manteniendo el orden.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-se-une-8deg-simulacro-nacional-costa-rica-se-prepara",
       "publish_date": "2026-08-07T21:05:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC se une al Simulacro Nacional para fomentar la evacuación segura.",
+      "teaser": "Lo clave en 20 segundos: El TEC se prepara para el 8° Simulacro Nacional de Evacuación en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-07-a-las-3.05.43-p-m.png",
       "description": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "featured": false
@@ -940,11 +979,11 @@
       "slug": "centro-academico-de-alajuela-se-une-a-la-conmemoracion-del-50-aniversario-de-ingenieria-en-computacion",
       "title": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "category": "Costa Rica",
-      "bullets_20s": "• El 50º aniversario celebra décadas de excelencia en Ingeniería en Computación en Costa Rica.\n• Del 11 al 14 de agosto se realizarán charlas y talleres en Alajuela para conmemorar el evento.\n• El Tecnológico de Costa Rica ha sido pionero en la formación de ingenieros en computación.\n• Esta conmemoración destaca la innovación y el compromiso tecnológico del país.\n• Ingrid Amador Solano es el contacto para más detalles sobre las actividades programadas.",
+      "bullets_20s": "• El Centro Académico de Alajuela celebra cinco décadas de Ingeniería en Computación.\n• Se desarrollarán charlas y talleres del 11 al 14 de agosto de 2026.\n• Este aniversario resalta el compromiso con la excelencia académica y la innovación.\n• Los eventos buscarán fomentar el desarrollo tecnológico en el país.\n• Contactar a Ingrid Amador Solano para más información sobre las actividades.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/centro-academico-alajuela-se-une-conmemoracion-50-aniversario-ingenieria-computacion",
       "publish_date": "2026-08-07T20:59:31.000Z",
-      "teaser": "Lo clave en 20 segundos: 50 años de Ingeniería en Computación celebrados en Alajuela con diversas actividades.",
+      "teaser": "Lo clave en 20 segundos: Celebración del 50 aniversario en Ingeniería en Computación en Alajuela.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/93aa4e7b-22ab-4a61-87c3-aa53bd30efcd.jpg",
       "description": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "featured": false
@@ -1694,11 +1733,11 @@
       "slug": "atletas-del-tec-destacan-en-los-juegos-panamericanos-universitarios-fisu-america-2026",
       "title": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes del TEC obtienen medallas en Lima, resaltando el deporte universitario de Costa Rica.\n• Johnny Loría dirigió al equipo tico, elogiando su desempeño y competitividad en las pruebas.\n• El relevo mixto 4x400 metros les otorgó medalla de oro, frente a potencias deportivas continentales.\n• Melisa Ramírez también se destacó con medalla de bronce en el relevo femenino 4x400 metros.\n• Ambos atletas superaron la fase clasificatoria en 400 metros planos, mostrando su calidad competitiva.",
+      "bullets_20s": "• Estudiantes del TEC lograron medallas en los Juegos Panamericanos Universitarios realizados en Lima, Perú.\n• La delegación costarricense obtuvo un total de cinco medallas en este importante evento deportivo.\n• El entrenador Johnny Loría destacó la responsabilidad de liderar la selección de atletas competidores.\n• Gabriel Paz compartió que la medalla de oro refleja el trabajo y sacrificio de todo el equipo.\n• El relevo mixto 4x400 metros fue una de las pruebas más destacadas por la delegación costarricense.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/atletas-tec-destacan-juegos-panamericanos-universitarios-fisu-america-2026",
       "publish_date": "2026-08-06T21:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC brillan en Panamericanos Universitarios FISU América 2026.",
+      "teaser": "Lo clave en 20 segundos: Atletas del TEC brillan en los Juegos Panamericanos Universitarios 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/atletismo-fisu-1.jpg",
       "description": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "featured": false
@@ -72424,10 +72463,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-09T14:45:23.491Z",
-  "total": 5571,
-  "removed_soccer_news_count": 1017,
+  "generated_at": "2026-08-09T15:45:23.002Z",
+  "total": 5574,
+  "removed_soccer_news_count": 1018,
   "removed_soccer_news_titles": [
+    "Escándalo sexual añade presión a la Federación Surcoreana de Fútbol",
     "Inteligencia artificial: la nueva batalla por el orden mundial",
     "Inter Miami y De Paul se vuelcan con Lionel Messi tras la muerte de su padre",
     "Lionel Messi llega a Argentina para despedir a su fallecido padre",
@@ -72476,7 +72516,6 @@
     "Quién es Gianni Infantino y cómo llegó a ser el hombre más poderoso (y polémico) del fútbol mundial",
     "Es bueno para la economía mundial: por qué es inusual que Trump haya intervenido junto a Japón para apuntalar el valor del yen",
     "¡Papelón! Fútbol femenino y masculino de Costa Rica quedan eliminados de los Juegos Centroamericanos y del Caribe",
-    "Tim Payne debutó con su nuevo club y lo que pasó después fue una verdadera locura",
-    "La impresionante caída de Infantino en solo unos días"
+    "Tim Payne debutó con su nuevo club y lo que pasó después fue una verdadera locura"
   ]
 }
