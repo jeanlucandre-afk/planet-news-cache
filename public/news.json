@@ -1,16 +1,42 @@
 {
   "news": [
     {
+      "slug": "nuestros-oficiales-ya-no-dan-mas",
+      "title": "Nuestros oficiales ya no dan más",
+      "category": "Costa Rica",
+      "bullets_20s": "• La falta de oficiales de policía afecta la seguridad pública en el país.\n• Cada año aumentan las cifras de asesinatos, señal alarmante de la situación.\n• Es fundamental que el gobierno tome medidas para reforzar la seguridad.\n• La delincuencia se ha vuelto más agresiva y desafiante para las autoridades.\n• Es necesario un plan efectivo para el reclutamiento de nuevos policías.",
+      "source_name": "Redacción de La Nación",
+      "source_url": "https://www.nacion.com/opinion/cartas/nuestros-oficiales-ya-no-dan-mas/WH7XAYD76RCMBMGYIH2Q7AUAQQ/story/",
+      "publish_date": "2026-08-09T14:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: la falta de oficiales de seguridad es crítica en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/AYVZ7FNNPRGJNLH72FV2JKDK6A.png?auth=62763a1df66045c83ad1c6c95ea1320ab9ee75d6cb2f49986ccc73cc7f2c429a&smart=true&width=1338&height=753",
+      "description": "Urge nombrar más oficiales para el combate del crimen. Casi mil asesinatos por año no es un número de ciencia ficción",
+      "featured": false
+    },
+    {
+      "slug": "las-chicharras-que-cantaron-luz",
+      "title": "Las chicharras que cantaron luz",
+      "category": "Costa Rica",
+      "bullets_20s": "• La historia del alumbrado público en Costa Rica es fascinante y llena de retos interesantes.\n• San José, en 1884, fue un pionero en el uso de tecnología eléctrica en su infraestructura.\n• Las chicharras simbólicamente representan el inicio de una nueva era para la capital costarricense.\n• El avance tecnológico en iluminación ha ayudado a mejorar la vida urbana en muchas poblaciones.\n• Recordar este evento invita a reflexionar sobre los avances que hemos logrado en el presente.",
+      "source_name": "Rodolfo González Ulloa",
+      "source_url": "https://www.nacion.com/opinion/foros/las-chicharras-que-cantaron-luz/MJEDWSVLLFGGFBG5QYQ76PTAGQ/story/",
+      "publish_date": "2026-08-09T13:30:00.000Z",
+      "teaser": "Lo clave en 20 segundos: San José hizo historia con su alumbrado eléctrico hace 142 años.",
+      "image_url": "https://www.nacion.com/resizer/v2/SFAQA44TVFGGPC5LIEUOQVNYX4.png?auth=942264d9c374d67f89bdeed13f1868caeb1eed958b1eb751486081efbe4026f0&smart=true&width=1672&height=941",
+      "description": "Un día como hoy, 9 de agosto, pero hace 142 años. San José… decían algunos, iba a convertirse en la tercera ciudad del mundo en tener alumbrado público eléctrico.",
+      "featured": false
+    },
+    {
       "slug": "sobrevivimos-al-boli-el-jocote-y-la-chancla",
       "title": "Sobrevivimos al boli, el jocote y la chancla",
       "category": "Costa Rica",
-      "bullets_20s": "• La infancia en Costa Rica podía resultar un verdadero reto lleno de riesgos inesperados.\n• Recordamos momentos peligrosos con elementos tan simples como un boli o una chancla.\n• Las advertencias sobre peligros siempre estaban presentes en nuestra crianza cotidiana.\n• Las semillas de jocote eran un peligro latente en nuestros juegos infantiles.\n• Las chanclas voladoras se convirtieron en parte de la cultura familiar y escolar.\n• Las pozas de agua reunían a los niños en busca de aventuras y peligros ocultos.\n• Las historias de infancia hoy provocan risas y nostalgia entre generaciones.\n• La percepción del riesgo formó parte fundamental de nuestra niñez en el país.\n• La conexión con la naturaleza generaba tanto alegría como peligros inesperados.\n• Recordar estas anécdotas nos ayuda a valorar las vivencias de nuestra infancia.",
+      "bullets_20s": "• La infancia en Costa Rica estuvo marcada por juegos peligrosos y advertencias constantes de los mayores.\n• Las chanclas voladoras eran una parte cómica y aterradora de la vida familiar en muchos hogares.\n• Semillas de jocote y huesos eran considerados elementos de riesgo en nuestra infancia traviesa.\n• Las pozas peligrosas siempre constituían un reto para aquellos aventureros en nuestra niñez.\n• La percepción de peligro en nuestra infancia quizás era más intensa de lo que realmente era.",
       "source_name": "Ana Coralia Fernández",
       "source_url": "https://www.nacion.com/opinion/foros/la-infancia-de-los-no-haga-eso-que-se-mata/IJN4ACPH2BG7HMUCJXAGOU463Y/story/",
       "publish_date": "2026-08-09T13:05:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Reflexiones sobre la infancia llena de riesgos y recuerdos en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La niñez llena de riesgos y momentos cómicos en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/UXVLZ2OKZNGO3DPN5LXSY75H5M.jpg?auth=c3f529f01441d17b1f07f8eb32415d22e6392c75a61a3958895eefbaa1e98b64&smart=true&width=5184&height=3456",
-      "description": "Tuvimos una infancia de alto riesgo... o eso nos dijeron: semillas asesinas, huesos de pollo, pozas peligrosas, chanclas voladoras y la frecuente advertencia de que la muerte llega queditico",
+      "description": "Tuvimos una infancia de alto riesgo... o eso nos dijeron: semillas asesinas, huesos de pollo, pozas peligrosas, chanclas voladoras y la frecuente advertencia de que la muerte llega queditico.",
       "featured": false
     },
     {
@@ -105,6 +131,19 @@
       "featured": false
     },
     {
+      "slug": "que-es-el-proyecto-panama-y-como-revelo-la-destruccion-de-miles-de-libros-antiguos-para-entrenar-a-la-ia",
+      "title": "Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA",
+      "category": "Mundo",
+      "bullets_20s": "• El Proyecto Panamá ha generado preocupación por la destrucción de libros antiguos y su digitalización.\n• Expertos temen que la digitalización implique la eliminación de textos valiosos de la literatura mundial.\n• La demanda por libros antiguos ha incrementado, pero el destino de estos ejemplares es incierto.\n• Se debate sobre el valor del patrimonio cultural frente a las necesidades de la inteligencia artificial.\n• La preservación de la historia literaria es fundamental para las futuras generaciones de lectores.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/ckgdmv8gz1jo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-09T11:09:29.000Z",
+      "teaser": "Lo clave en 20 segundos: El Proyecto Panamá está generando preocupaciones sobre la destrucción de libros antiguos.",
+      "image_url": "",
+      "description": "Libreros de ejemplares antiguos y usados han recibido encargos de compra masivas y el temor es que estos libros terminen destruidos en un proceso de digitalización.",
+      "featured": false
+    },
+    {
       "slug": "editorial-ceuta-y-el-despreciable-uso-de-la-desesperacion-humana-como-arma-politica",
       "title": "Editorial: Ceuta y el despreciable uso de la desesperación humana como arma política",
       "category": "Mundo",
@@ -128,19 +167,6 @@
       "teaser": "Lo clave en 20 segundos: La economía jaguar necesita ajustes fiscales por baja recaudación y deuda elevada.",
       "image_url": "https://www.nacion.com/resizer/v2/D5VOPQ6T45ET5OBZ2IVNNHRY2U.jpg?auth=66c726f73169ffcfcb4ad6d96e51b73fc7aa2daa8b3293017b72c94e75b1a60f&smart=true&width=1529&height=1146",
       "description": "Tras la 'economía jaguar', la menor recaudación, la apreciación del colón y el peso de la deuda reabren el debate sobre los factores que empujaron al gobierno a proponer un nuevo plan fiscal.",
-      "featured": false
-    },
-    {
-      "slug": "eclipse-solar-total-avellanosa-de-muno-el-pequeno-pueblo-de-espana-que-por-una-noche-sera-uno-de-los-lugares-mas-fascina",
-      "title": "Eclipse solar total: Avellanosa de Muñó, el pequeño pueblo de España que por una noche será uno de los lugares más fascinantes del planeta",
-      "category": "Mundo",
-      "bullets_20s": "• Avellanosa de Muñó espera un afluente de visitantes durante el eclipse solar total esto impactará su economía local.\n• Este fenómeno astronómico es una oportunidad para que la pequeña población se convierta en un punto de interés mundial.\n• Pueblos pequeños como Avellanosa de Muñó pueden brillar en el mapa durante eventos astronómicos inusuales.\n• Los eclipses solares totales ofrecen una experiencia única de observación del cielo que inspira a muchas personas.\n• La comunidad local ha organizado actividades para recibir a visitantes durante el eclipse, creando un ambiente festivo.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/cwymvm84p9ko?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-08-09T08:59:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Avellanosa de Muñó se prepara para un eclipse solar total que atraerá visitantes.",
-      "image_url": "",
-      "description": "Sin apenas residentes y casi sin visitantes a lo largo del año, esta pequeña localidad del norte de España se prepara para una noche extraordinaria.",
       "featured": false
     },
     {
@@ -888,11 +914,11 @@
       "slug": "el-tec-se-une-al-8-simulacro-nacional-costa-rica-se-prepara",
       "title": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC participará en el 8° Simulacro Nacional de Evacuación programado para el 12 de agosto.\n• El simulacro busca fortalecer la cultura de prevención ante emergencias naturales en el país.\n• Se espera la participación de estudiantes, académicos y administrativos en esta actividad educativa.\n• Los participantes recibirán indicaciones sobre cómo actuar durante situaciones de emergencia.\n• La Comisión Nacional de Prevención coordina esfuerzos para asegurar un ejercicio exitoso.",
+      "bullets_20s": "• El TEC participará en el Simulacro Nacional de Evacuación programado para agosto 2026.\n• Se llevará a cabo en diferentes campus del Tecnológico de Costa Rica a nivel nacional.\n• La CNE promueve la cultura de prevención ante emergencias en toda la comunidad educativa.\n• El simulacro ayudará a practicar los planes de evacuación en caso de sismos.\n• El evento incluirá participación de estudiantes, docentes y administrativos en todo el país.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-se-une-8deg-simulacro-nacional-costa-rica-se-prepara",
       "publish_date": "2026-08-07T21:05:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC se prepara para el 8° Simulacro Nacional de Evacuación el 12 de agosto.",
+      "teaser": "Lo clave en 20 segundos: El TEC se une al Simulacro Nacional para fomentar la evacuación segura.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-07-a-las-3.05.43-p-m.png",
       "description": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "featured": false
@@ -914,13 +940,13 @@
       "slug": "centro-academico-de-alajuela-se-une-a-la-conmemoracion-del-50-aniversario-de-ingenieria-en-computacion",
       "title": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "category": "Costa Rica",
-      "bullets_20s": "• El Centro Académico de Alajuela celebra el aniversario de Ingeniería en Computación del TEC.\n• Se llevarán a cabo charlas, talleres y torneos durante varios días de actividades.\n• La conmemoración refleja la excelencia académica alcanzada en cinco décadas.\n• Invitan a estudiantes y público a participar en esta significativa celebración.\n• Este evento destaca el compromiso del TEC con el desarrollo tecnológico en el país.",
+      "bullets_20s": "• El 50º aniversario celebra décadas de excelencia en Ingeniería en Computación en Costa Rica.\n• Del 11 al 14 de agosto se realizarán charlas y talleres en Alajuela para conmemorar el evento.\n• El Tecnológico de Costa Rica ha sido pionero en la formación de ingenieros en computación.\n• Esta conmemoración destaca la innovación y el compromiso tecnológico del país.\n• Ingrid Amador Solano es el contacto para más detalles sobre las actividades programadas.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/centro-academico-alajuela-se-une-conmemoracion-50-aniversario-ingenieria-computacion",
       "publish_date": "2026-08-07T20:59:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebran medio siglo de Ingeniería en Computación en Alajuela con múltiples actividades.",
+      "teaser": "Lo clave en 20 segundos: 50 años de Ingeniería en Computación celebrados en Alajuela con diversas actividades.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/93aa4e7b-22ab-4a61-87c3-aa53bd30efcd.jpg",
-      "description": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación.",
+      "description": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "featured": false
     },
     {
@@ -1668,11 +1694,11 @@
       "slug": "atletas-del-tec-destacan-en-los-juegos-panamericanos-universitarios-fisu-america-2026",
       "title": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes del TEC obtuvieron medallas en los Juegos Panamericanos Universitarios 2026.\n• Destacada participación costarricense en Lima, Perú, con buenos resultados deportivos.\n• Gabriel Paz y Melisa Ramírez fueron figuras clave en la delegación nacional.\n• El entrenador Johnny Loría dirigió un equipo competitivo a pesar de su tamaño.\n• Costa Rica logró medallas superando a potencias en el atletismo como EE. UU. y Brasil.",
+      "bullets_20s": "• Estudiantes del TEC obtienen medallas en Lima, resaltando el deporte universitario de Costa Rica.\n• Johnny Loría dirigió al equipo tico, elogiando su desempeño y competitividad en las pruebas.\n• El relevo mixto 4x400 metros les otorgó medalla de oro, frente a potencias deportivas continentales.\n• Melisa Ramírez también se destacó con medalla de bronce en el relevo femenino 4x400 metros.\n• Ambos atletas superaron la fase clasificatoria en 400 metros planos, mostrando su calidad competitiva.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/atletas-tec-destacan-juegos-panamericanos-universitarios-fisu-america-2026",
       "publish_date": "2026-08-06T21:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Atletas del TEC brillan en Juegos Panamericanos Universitarios 2026 en Lima.",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC brillan en Panamericanos Universitarios FISU América 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/atletismo-fisu-1.jpg",
       "description": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "featured": false
@@ -72398,10 +72424,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-09T13:45:24.257Z",
-  "total": 5569,
-  "removed_soccer_news_count": 1016,
+  "generated_at": "2026-08-09T14:45:23.491Z",
+  "total": 5571,
+  "removed_soccer_news_count": 1017,
   "removed_soccer_news_titles": [
+    "Inteligencia artificial: la nueva batalla por el orden mundial",
     "Inter Miami y De Paul se vuelcan con Lionel Messi tras la muerte de su padre",
     "Lionel Messi llega a Argentina para despedir a su fallecido padre",
     "River Plate se hunde en la peor racha de su historia",
@@ -72450,7 +72477,6 @@
     "Es bueno para la economía mundial: por qué es inusual que Trump haya intervenido junto a Japón para apuntalar el valor del yen",
     "¡Papelón! Fútbol femenino y masculino de Costa Rica quedan eliminados de los Juegos Centroamericanos y del Caribe",
     "Tim Payne debutó con su nuevo club y lo que pasó después fue una verdadera locura",
-    "La impresionante caída de Infantino en solo unos días",
-    "Concacaf confirma cambio de horario y sede para el partido de Costa Rica en México en busca del boleto al Mundial"
+    "La impresionante caída de Infantino en solo unos días"
   ]
 }
