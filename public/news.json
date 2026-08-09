@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "hombre-y-mujer-resultan-heridos-tras-ataque-dentro-de-una-vivienda-en-san-ramon",
+      "title": "Hombre y mujer resultan heridos tras ataque dentro de una vivienda en San Ramón",
+      "category": "Costa Rica",
+      "bullets_20s": "• Investigación en curso por parte del OIJ sobre el ataque en San Ramón.\n• Un arma blanca fue utilizada en el incidente dejando dos heridos.\n• La escena del ataque fue asegurada por las autoridades competentes.\n• Los testigos han sido llamados a declarar sobre el hecho.\n• San Ramón se enfrenta a un incremento en la violencia doméstica.",
+      "source_name": "Libia Solano Meza",
+      "source_url": "https://www.nacion.com/sucesos/hombre-y-mujer-resultan-heridos-tras-ataque-dentro/4455FHURU5BBXPCFKF5PABMB3Y/story/",
+      "publish_date": "2026-08-09T17:20:18.000Z",
+      "teaser": "Lo clave en 20 segundos: ataque en San Ramón deja dos heridos con arma blanca.",
+      "image_url": "https://www.nacion.com/resizer/v2/OUGMTF54MZBO5LVATV4BWSNBNU.jpg?auth=974e48abc0523f17f370da5047f58be27eb652fe3a4d262ca62e4d59024218a1&smart=true&width=2800&height=1835",
+      "description": "El OIJ investiga un ataque ocurrido dentro de una vivienda en San Ramón, donde un hombre y una mujer resultaron heridos con un arma blanca.",
+      "featured": false
+    },
+    {
+      "slug": "cortes-de-luz-dejaran-sin-electricidad-a-sectores-de-heredia-este-martes-11-de-agosto-revise-horarios-y-lugares",
+      "title": "Cortes de luz dejarán sin electricidad a sectores de Heredia este martes 11 de agosto: revise horarios y lugares",
+      "category": "Costa Rica",
+      "bullets_20s": "• Este martes 11 de agosto habrá cortes de luz en sectores específicos de Heredia.\n• Los cortes se realizarán para mantenimiento y mejoras en la infraestructura eléctrica.\n• Es importante revisar los horarios y lugares afectados por los cortes programados.\n• Los usuarios deben estar preparados para la falta de electricidad en sus hogares.\n• Las autoridades han aconsejado tomar precauciones con electrodomésticos y dispositivos electrónicos.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-dejaran-sin-electricidad-a-sectores/EV3XOF5PZRFUTJF6ZNRHELTMWE/story/",
+      "publish_date": "2026-08-09T16:50:27.000Z",
+      "teaser": "Lo clave en 20 segundos: Cortes de electricidad programados en Heredia para mantenimiento este martes.",
+      "image_url": "https://www.nacion.com/resizer/v2/RBH3E67U6VENJCYXHG6PMK2LOY.jpg?auth=c57ea46cdd73fc062a41df4dc8f363763cbd09c1aa5d7c2813d990a5ed83a3c5&smart=true&width=4032&height=3024",
+      "description": "Revise si su comunidad está entre las zonas de Heredia que tendrán una suspensión eléctrica este martes 11 de agosto y conozca los horarios previstos.",
+      "featured": false
+    },
+    {
       "slug": "lea-la-tesis-completa-de-laura-fernandez-sobre-la-contraloria-y-el-control-al-poder-ejecutivo",
       "title": "Lea la tesis completa de Laura Fernández sobre la Contraloría y el control al Poder Ejecutivo",
       "category": "Costa Rica",
@@ -979,13 +1005,13 @@
       "slug": "el-tec-se-une-al-8-simulacro-nacional-costa-rica-se-prepara",
       "title": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC participará en el 8° Simulacro Nacional de Evacuación convocado por la CNE.\n• El simulacro se llevará a cabo el 12 de agosto a las 10:00 a.m.\n• Se realizarán ejercicios de evacuación en todos los campus del TEC a nivel nacional.\n• El objetivo es preparar a estudiantes y personal ante un eventual sismo.\n• El evento fomenta una cultura de prevención en el país y en las instituciones educativas.",
+      "bullets_20s": "• El Tecnológico de Costa Rica se une al gran simulacro nacional de evacuación programado.\n• La actividad busca fortalecer la cultura de prevención ante emergencias en el país.\n• Se espera la participación activa de estudiantes, profesores y personal administrativo.\n• El simulacro se llevará a cabo en múltiples campus en diferentes regiones del país.\n• Los participantes deben seguir directrices para garantizar una evacuación ordenada y segura.\n• El ejercicio está diseñado para poner en práctica los planes de evacuación en caso de sismos.\n• La comunidad del TEC se anima a inscribirse y participar en esta importante iniciativa.\n• El simulacro es una oportunidad para aprender sobre la gestión de riesgos y emergencias.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-se-une-8deg-simulacro-nacional-costa-rica-se-prepara",
       "publish_date": "2026-08-07T21:05:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC se prepara para un simulacro nacional de evacuación el 12 de agosto.",
+      "teaser": "Lo clave en 20 segundos: El TEC participa en un simulacro nacional para preparar a su comunidad ante emergencias.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-07-a-las-3.05.43-p-m.png",
-      "description": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
+      "description": "El TEC se une al 8° Simulacro Nacional de Evacuación, convocado por la Comisión Nacional de Prevención de Riesgos y Atención de Emergencias.",
       "featured": false
     },
     {
@@ -1005,11 +1031,11 @@
       "slug": "centro-academico-de-alajuela-se-une-a-la-conmemoracion-del-50-aniversario-de-ingenieria-en-computacion",
       "title": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "category": "Costa Rica",
-      "bullets_20s": "• El 50 º aniversario celebra la trayectoria de la Ingeniería en Computación en Costa Rica.\n• Del 11 al 14 de agosto se realizarán charlas, talleres y torneos en el evento.\n• Este aniversario destaca la excelencia académica en el Tecnológico de Costa Rica.\n• La innovación y el desarrollo tecnológico son pilares en esta celebración histórica.\n• Se promoverá el compromiso con la formación de nuevos ingenieros en computación.",
+      "bullets_20s": "• El evento conmemora cinco décadas de Ingeniería en Computación en el TEC de Costa Rica.\n• Se llevarán a cabo charlas y talleres relevantes sobre tecnología y educación superior.\n• Los participantes podrán inscribirse en torneos y actividades interactivas del evento.\n• La celebración refleja el compromiso del TEC con el desarrollo tecnológico del país.\n• La agenda completa estará disponible para todos los interesados en participar.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/centro-academico-alajuela-se-une-conmemoracion-50-aniversario-ingenieria-computacion",
       "publish_date": "2026-08-07T20:59:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Se conmemoran 50 años de Ingeniería en Computación en Alajuela.",
+      "teaser": "Lo clave en 20 segundos: Se conmemora el 50º aniversario de Ingeniería en Computación en Alajuela.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/93aa4e7b-22ab-4a61-87c3-aa53bd30efcd.jpg",
       "description": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "featured": false
@@ -1759,11 +1785,11 @@
       "slug": "atletas-del-tec-destacan-en-los-juegos-panamericanos-universitarios-fisu-america-2026",
       "title": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes del TEC lograron una destacada participación en los Juegos Panamericanos Universitarios FISU América.\n• La delegación costarricense obtuvo dos medallas de oro, dos de plata y una de bronce en Lima.\n• El entrenador Johnny Loría lideró la selección y resaltó la competitividad del equipo en el evento.\n• Gabriel Paz expresó su felicidad por el oro en relevos, reflejando esfuerzo y trabajo en equipo.\n• Melisa Ramírez y Gabriel Paz sobresalieron entre potencias del atletismo como Estados Unidos y Brasil.",
+      "bullets_20s": "• Estudiantes del TEC lograron medallas y un histórico desempeño en los Juegos Panamericanos Universitarios 2026.\n• El entrenador Johnny Loría lideró un equipo competitivo que alcanzó el séptimo lugar en Lima, Perú.\n• Delegación costarricense obtuvo dos medallas de oro, dos de plata y una de bronce en la competencia.\n• Atletas como Melisa Ramírez y Gabriel Paz sobresalieron por su destacada actuación en el evento deportivo.\n• Competencia reunió a potencias del atletismo americano, elevando la calidad de las pruebas disputadas.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/atletas-tec-destacan-juegos-panamericanos-universitarios-fisu-america-2026",
       "publish_date": "2026-08-06T21:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC brilla en Juegos Panamericanos con medallas y un gran desempeño atlético.",
+      "teaser": "Lo clave en 20 segundos: atletas del TEC brillan en Juegos FISU América 2026 con medallas y gran rendimiento.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/atletismo-fisu-1.jpg",
       "description": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "featured": false
@@ -72489,10 +72515,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-09T16:45:23.362Z",
-  "total": 5576,
-  "removed_soccer_news_count": 1018,
+  "generated_at": "2026-08-09T17:45:23.148Z",
+  "total": 5578,
+  "removed_soccer_news_count": 1019,
   "removed_soccer_news_titles": [
+    "El primer contrato de Messi: una servilleta que cambió la historia del fútbol",
     "Escándalo sexual añade presión a la Federación Surcoreana de Fútbol",
     "Inteligencia artificial: la nueva batalla por el orden mundial",
     "Inter Miami y De Paul se vuelcan con Lionel Messi tras la muerte de su padre",
@@ -72541,7 +72568,6 @@
     "Vozinha fue recibido como una estrella mundial en su llegada a Chile (video)",
     "Quién es Gianni Infantino y cómo llegó a ser el hombre más poderoso (y polémico) del fútbol mundial",
     "Es bueno para la economía mundial: por qué es inusual que Trump haya intervenido junto a Japón para apuntalar el valor del yen",
-    "¡Papelón! Fútbol femenino y masculino de Costa Rica quedan eliminados de los Juegos Centroamericanos y del Caribe",
-    "Tim Payne debutó con su nuevo club y lo que pasó después fue una verdadera locura"
+    "¡Papelón! Fútbol femenino y masculino de Costa Rica quedan eliminados de los Juegos Centroamericanos y del Caribe"
   ]
 }
