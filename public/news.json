@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "fuerte-terremoto-en-colombia-deja-18-muertos-y-danos-en-el-oeste-del-pais",
+      "title": "Fuerte terremoto en Colombia deja 18 muertos y daños en el oeste del país",
+      "category": "Mundo",
+      "bullets_20s": "• Un terremoto en Colombia ha impactado fuertemente al occidente del país con graves consecuencias.\n• Se reportan al menos 18 muertos y múltiples heridos tras el fuerte sismo de magnitud 7,4.\n• Los edificios han colapsado en varias ciudades, dificultando las operaciones de rescate.\n• Los aeropuertos en la zona han cerrado, complicando los desplazamientos de emergencia.\n• Este es el primer informe oficial sobre los daños y víctimas tras el desastre sísmico.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/fuerte-terremoto-en-colombia-y-deja-18-muertos-y/AR3U6X22SVHQ3JYCW65UARHJ4A/story/",
+      "publish_date": "2026-08-10T15:16:45.000Z",
+      "teaser": "Lo clave en 20 segundos: un fuerte terremoto en Colombia deja muertos y daños severos.",
+      "image_url": "https://www.nacion.com/resizer/v2/O2HQ6EEBWVFGFDNESF644D3KOM.jpg?auth=a3122d80debc04251282bbd66cdb44d76b6a93d86b002314a30f3e2d4b46d432&smart=true&width=8256&height=5504",
+      "description": "Un devastador terremoto en Colombia de magnitud 7,4 provocó muertos, colapsos de edificios y cierres de aeropuertos. Este es el primer reporte de daños.",
+      "featured": false
+    },
+    {
+      "slug": "terremoto-de-74-en-colombia-se-sintio-hasta-en-panama-puede-tener-efectos-en-costa-rica",
+      "title": "Terremoto de 7,4 en Colombia se sintió hasta en Panamá: ¿puede tener efectos en Costa Rica?",
+      "category": "Mundo",
+      "bullets_20s": "• Un potente terremoto de 7,4 ocurrió en Colombia, causando preocupación en países vecinos como Panamá.\n• La actividad sísmica de Colombia puede influir en el régimen tectónico de la región centroamericana.\n• Los geólogos analizan las posibles repercusiones de este sismo en Costa Rica y su entorno.\n• Las alertas se han activado, y las autoridades están en constante monitoreo de la situación.\n• La población se mantiene informada sobre la actividad sísmica y las medidas de prevención necesarias.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/el-pais/terremoto-de-74-en-colombia-se-sintio-hasta-en/YBEJYZFX6RG7XCXNQI37BEPFSM/story/",
+      "publish_date": "2026-08-10T15:08:52.000Z",
+      "teaser": "Lo clave en 20 segundos: Un terremoto en Colombia genera dudas sobre su impacto en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/ITGBF2YNBJEW7OIOKPXBVXQ4FI.jpg?auth=4f2c6c57707001994fe78548235ed52afad205b56a2edfe0042cb2cc1c43a973&smart=true&width=5472&height=3648",
+      "description": "Colombia registró un terremoto de magnitud 7,4 que se percibió hasta en Panamá. ¿Puede este sismo tener alguna repercusión en Costa Rica?",
+      "featured": false
+    },
+    {
       "slug": "europa-abrumada-por-temperaturas-extremas-a-la-extensa-sequia-se-suma-nueva-ola-de-calor",
       "title": "Europa abrumada por temperaturas extremas: A la extensa sequía se suma nueva ola de calor",
       "category": "Mundo",
@@ -193,19 +219,6 @@
       "teaser": "Lo clave en 20 segundos: problemas de seguridad vinculados a la policía revelados por un informe.",
       "image_url": "https://www.nacion.com/resizer/v2/TZL2XANOC5GTFK5YFO5INAYCNA.JPG?auth=9e8d6198775bde93e41d63bc60fe02a6ef4935826c47c843425213464c5e8fbd&smart=true&width=3000&height=2000",
       "description": "Un informe de inteligencia con graves alertas sobre posibles vínculos entre policías y organizaciones criminales permaneció sin investigación hasta que 'La Nación' reveló su existencia, y solo entonces llegó a conocimiento del actual gobierno",
-      "featured": false
-    },
-    {
-      "slug": "los-prisioneros-desesperados-que-llaman-a-la-bbc-desde-el-corredor-de-la-muerte-en-arabia-saudita",
-      "title": "Los prisioneros desesperados que llaman a la BBC desde el corredor de la muerte en Arabia Saudita",
-      "category": "Mundo",
-      "bullets_20s": "• Los prisioneros etíopes en Arabia Saudita viven bajo una presión extrema en el corredor de la muerte.\n• Algunos prisioneros han logrado comunicarse con la BBC para compartir sus desgarradoras historias.\n• Las condiciones de los reos en el corredor de la muerte generan preocupación a nivel internacional.\n• La situación de los prisioneros destaca la problemática de los derechos humanos en Arabia Saudita.\n• Este caso ha atraído la atención hacia las políticas de pena de muerte en varios países.\n• Las historias de estos prisioneros reflejan las desigualdades en los sistemas judiciales globales.\n• La BBC recibe constantemente relatos de personas que enfrentan condenas injustas a nivel mundial.\n• La comunidad internacional sigue de cerca la situación de los derechos humanos en Arabia Saudita.\n• Prisiones en Arabia Saudita son críticas por su falta de transparencia y condiciones inhumanas.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/c79g7y28vrzo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-08-10T03:59:20.000Z",
-      "teaser": "Lo clave en 20 segundos: prisioneros etíopes comunican sus historias desde el corredor de la muerte.",
-      "image_url": "",
-      "description": "Decenas de etíopes esperan su ejecución; algunos llamaron a la BBC para contar sus historias.",
       "featured": false
     },
     {
@@ -1434,11 +1447,11 @@
       "slug": "el-tec-se-une-al-8-simulacro-nacional-costa-rica-se-prepara",
       "title": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica se une al Simulacro Nacional para fortalecer la cultura de prevención ante desastres.\n• El simulacro se llevará a cabo el miércoles 12 de agosto a las 10:00 a.m. en diversos campus.\n• Participarán estudiantes, docentes y personal administrativo de varias sedes del TEC a nivel nacional.\n• Se busca que todos pongan en práctica sus planes de evacuación ante un posible sismo.\n• El TEC invita a toda su comunidad a participar y descargar la app Simulacro CR para más información.",
+      "bullets_20s": "• El TEC participará en el octavo simulacro nacional de evacuación programado para el 12 de agosto.\n• Este ejercicio busca reforzar la cultura de prevención ante sismos en la comunidad educativa del TEC.\n• Los campus de Cartago, San Carlos, San José y Limón estarán activamente involucrados en el simulacro.\n• Se estima que 1.4 millones de personas participaron en la edición anterior del simulacro en todo el país.\n• La comunidad institucional podrá utilizar la app Simulacro CR para planificar su respuesta ante emergencias.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-se-une-8deg-simulacro-nacional-costa-rica-se-prepara",
       "publish_date": "2026-08-07T21:05:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC se sumará al simulacro nacional de evacuación para fortalecer la prevención.",
+      "teaser": "Lo clave en 20 segundos: El TEC se une al simulacro nacional para reforzar la seguridad ante sismos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-07-a-las-3.05.43-p-m.png",
       "description": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "featured": false
@@ -1460,7 +1473,7 @@
       "slug": "centro-academico-de-alajuela-se-une-a-la-conmemoracion-del-50-aniversario-de-ingenieria-en-computacion",
       "title": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "category": "Costa Rica",
-      "bullets_20s": "• El Centro Académico de Alajuela celebra cinco décadas de Ingeniería en Computación en el TEC.\n• La conmemoración incluirá charlas, talleres y torneos del 11 al 14 de agosto.\n• Este evento refleja el compromiso del TEC con la excelencia académica y la innovación.\n• Las actividades están diseñadas para involucrar a estudiantes y profesionales del área.\n• Ingrid Amador Solano es el contacto para más información sobre el evento.",
+      "bullets_20s": "• La celebración del 50º aniversario destaca la trayectoria de la Ingeniería en Computación en Costa Rica.\n• Se realizarán charlas y talleres del 11 al 14 de agosto para estudiantes y profesionales.\n• El evento refleja el compromiso del TEC con la innovación y el desarrollo tecnológico del país.\n• Se espera la participación de varios expertos en diversas áreas de la computación y tecnología.\n• Los asistentes podrán disfrutar de torneos y actividades interactivas durante la conmemoración.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/centro-academico-alajuela-se-une-conmemoracion-50-aniversario-ingenieria-computacion",
       "publish_date": "2026-08-07T20:59:31.000Z",
@@ -2214,11 +2227,11 @@
       "slug": "atletas-del-tec-destacan-en-los-juegos-panamericanos-universitarios-fisu-america-2026",
       "title": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Los atletas del TEC obtuvieron medallas en los Juegos Panamericanos Universitarios en Lima, Perú.\n• La delegación costarricense logró un hito al obtener varias medallas en la competencia internacional.\n• El entrenador Johnny Loría destacó el honor de dirigir a este equipo competitivo y talentoso.\n• Melisa Ramírez y Gabriel Paz fueron figuras clave en la obtención de las medallas de oro y bronce.\n• La participación costarricense superó a otras naciones con historial fuerte en atletismo universitario.",
+      "bullets_20s": "• Estudiantes del TEC brillan en los Juegos Panamericanos Universitarios en Lima, Perú.\n• La delegación costarricense obtuvo medallas de oro, plata y bronce en múltiples eventos.\n• Melisa Ramírez y Gabriel Paz fueron figuras sobresalientes en la competición.\n• El entrenador Johnny Loría destacó la calidad del equipo y su preparación.\n• Los resultados superaron las expectativas ante fuertes competidores del continente.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/atletas-tec-destacan-juegos-panamericanos-universitarios-fisu-america-2026",
       "publish_date": "2026-08-06T21:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Atletas del TEC brillan en Juegos Panamericanos Universitarios con medallas históricas.",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC logran medallas y destacan en Juegos Panamericanos Universitarios.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/atletismo-fisu-1.jpg",
       "description": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "featured": false
@@ -72942,12 +72955,26 @@
       "image_url": "https://www.nacion.com/resizer/v2/NU44AU5ATFFKZJESMJW6ZJO3Q4.jpg?auth=b9773227ddf008b3ac5f9a24daca266bc8dcb09f0f694b8c1a1073dbe1b37b0c",
       "description": "Sastrería, denim y esenciales elevados conforman una propuesta diseñada para construir un guardarropa funcional, sofisticado y fácil de combinar en cualquier ocasión.",
       "featured": false
+    },
+    {
+      "slug": "alejandro-bran-reaparece-en-redes-y-muestra-lo-que-le-quito-el-sueno-fotos",
+      "title": "Alejandro Bran reaparece en redes y muestra lo que le quitó el sueño (fotos)",
+      "category": "Costa Rica",
+      "bullets_20s": "• Alejandro Bran ha generado interés al reaparecer en redes sociales tras un tiempo ausente.\n• Su estancia en Rumanía ha motivado su conexión con eventos importantes en Costa Rica.\n• Las fotografías muestran momentos significativos y reflexiones sobre su trayectoria.\n• El impacto de su regreso ha sido notable en la comunidad de seguidores en las redes.\n• Bran reiteró su compromiso con Costa Rica, incluso desde la distancia.",
+      "source_name": "Fanny Tayver Marín",
+      "source_url": "https://www.nacion.com/puro-deporte/alejandro-bran-reaparece-en-redes-y-muestra-lo-que/XVOLG74DZFFKPEJJGEA5TVSSSI/story/",
+      "publish_date": "",
+      "teaser": "Lo clave en 20 segundos: Alejandro Bran reaparece en redes, mostrando su conexión con Costa Rica desde Rumanía.",
+      "image_url": "https://www.nacion.com/resizer/v2/5JI5ZGHMHNDF5EUM7ZXU47XB6Q.jpg?auth=3cae1910f5c8aeda391700a7b4bce3458e6a32aec30b0d8cd181fb0e7c941151&smart=true&width=1179&height=1438",
+      "description": "Alejandro Bran se encuentra en Rumanía y desde allá estaba muy pendiente de algo importante en Costa Rica.",
+      "featured": false
     }
   ],
-  "generated_at": "2026-08-10T14:45:23.715Z",
-  "total": 5611,
-  "removed_soccer_news_count": 1022,
+  "generated_at": "2026-08-10T15:45:25.073Z",
+  "total": 5613,
+  "removed_soccer_news_count": 1023,
   "removed_soccer_news_titles": [
+    "Crisis en FIFA empeora: UEFA, Concacaf y Asia se unen y hacen fuerte pronunciamiento contra Infantino",
     "El insólito festejo de un futbolista en Brasil acaba muy mal y le da la vuelta al mundo: vea lo que pasó",
     "Manfred Ugalde vuelve a festejar el gol en Rusia (vea la anotación)",
     "El primer contrato de Messi: una servilleta que cambió la historia del fútbol",
@@ -72996,7 +73023,6 @@
     "Keylor Navas va para un torneo en el que quiere revancha",
     "Entrenador que dirigió en el Mundial tuvo que comparecer ante diputados de su país por fracaso del equipo",
     "Ya vieron el blooper del fin de semana en el fútbol: error y expulsión (video)",
-    "Vozinha fue recibido como una estrella mundial en su llegada a Chile (video)",
-    "Quién es Gianni Infantino y cómo llegó a ser el hombre más poderoso (y polémico) del fútbol mundial"
+    "Vozinha fue recibido como una estrella mundial en su llegada a Chile (video)"
   ]
 }
