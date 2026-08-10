@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "panama-refuerza-seguridad-en-frontera-con-colombia-tras-atentados",
+      "title": "Panamá refuerza seguridad en frontera con Colombia tras atentados",
+      "category": "Mundo",
+      "bullets_20s": "• Los atentados han generado un incremento en la tensión entre Panamá y Colombia.\n• La seguridad fronteriza se está reforzando para prevenir futuros incidentes.\n• El nuevo gobierno busca establecer control ante amenazas de violencia transnacional.\n• Las autoridades han intensificado la vigilancia y patrullajes en la zona.\n• Se han implementado medidas especiales de protección para la población local.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/panama-refuerza-seguridad-en-frontera-con-colombia/VGVJX2CSDRFDBCZYB5A7PZWR34/story/",
+      "publish_date": "2026-08-10T01:51:01.000Z",
+      "teaser": "Lo clave en 20 segundos: Panamá refuerza su frontera tras atentados mortales.",
+      "image_url": "https://www.nacion.com/resizer/v2/JKLTJJ4OKRFCPGMOKKOJ6JZVV4.jpg?auth=23bd1c68f05d090655b166242ced289cbfc6e1626c8efbb635d27b42335211f4&smart=true&width=4000&height=2669",
+      "description": "Dos atentados perpetrados el sábado dejaron un policía muerto y varios heridos, durante las primeras horas en el poder del ultraderechista Abelardo De la Espriella.",
+      "featured": false
+    },
+    {
       "slug": "laura-fernandez-convocara-a-dialogo-entre-los-tres-poderes-con-reportes-trimestrales-de-avances-en-seguridad",
       "title": "Laura Fernández convocará a diálogo entre los tres poderes con reportes trimestrales de avances en seguridad",
       "category": "Costa Rica",
-      "bullets_20s": "• Laura Fernández propone un diálogo entre los tres poderes del Estado en Costa Rica.\n• La iniciativa busca mejorar la seguridad a través de acciones coordinadas y conjuntas.\n• Se establecerán reportes trimestrales para evaluar el avance en la seguridad pública.\n• El diálogo busca fomentar la colaboración entre el Ejecutivo, Legislativo y Judicial.\n• La inseguridad en el país requiere un enfoque integral y constante seguimiento.",
+      "bullets_20s": "• Laura Fernández propone un diálogo esencial entre los tres poderes del estado costarricense.\n• La iniciativa prevé la realización de reportes trimestrales sobre avances en seguridad nacional.\n• El objetivo principal es enfrentar la creciente inseguridad en todo el país.\n• Las acciones buscarán la colaboración efectiva entre Ejecutivo, Legislativo y Judicial.\n• Se establecerán mecanismos de seguimiento para evaluar el impacto de las medidas.",
       "source_name": "Lucía Astorga",
       "source_url": "https://www.nacion.com/politica/laura-fernandez-convocara-a-dialogo-entre-los-tres/V4CDDFPTFFE43CW23KGAB6HV2M/story/",
       "publish_date": "2026-08-10T01:14:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Laura Fernández convoca a diálogo para mejorar la seguridad entre los tres poderes del Estado.",
+      "teaser": "Lo clave en 20 segundos: Laura Fernández propone diálogo trimestral entre los poderes para mejorar la seguridad.",
       "image_url": "https://www.nacion.com/resizer/v2/DME2AYBJGJATLD5ADLX2O535BE.JPG?auth=be0e2eb5f7c8d8a06b02c3c56d1489cf629966141d52edd869ed588a1dfce194&smart=true&width=4464&height=2976",
       "description": "La iniciativa busca articular acciones conjuntas entre el Ejecutivo, Legislativo y Judicial para enfrentar la inseguridad, con un mecanismo de seguimiento periódico.",
       "featured": false
@@ -1187,11 +1200,11 @@
       "slug": "el-tec-se-une-al-8-simulacro-nacional-costa-rica-se-prepara",
       "title": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC participa activamente en el simulacro de evacuación programado para el 12 de agosto.\n• El simulacro busca fortalecer la cultura de prevención ante posibles sismos en Costa Rica.\n• Estudiantes y personal deberán seguir instrucciones específicas durante el ejercicio de evacuación.\n• La participación en el simulacro es voluntaria para toda la comunidad del TEC en el país.\n• Se dará un entrenamiento previo a docentes y colaboradores para garantizar la efectividad del ejercicio.",
+      "bullets_20s": "• El Tecnológico de Costa Rica participa en el 8° Simulacro Nacional de Evacuación.\n• Este evento está destinado a fortalecer la cultura de prevención en las aulas.\n• Las evacuaciones se realizarán en varios campus del TEC alrededor del país.\n• El simulacro se ejecutará el miércoles 12 de agosto a las 10:00 a.m.\n• Se espera la participación activa de estudiantes y personal administrativo en el ejercicio.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-se-une-8deg-simulacro-nacional-costa-rica-se-prepara",
       "publish_date": "2026-08-07T21:05:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC se prepara para el 8° Simulacro Nacional de Evacuación este agosto.",
+      "teaser": "Lo clave en 20 segundos: El TEC lidera un simulacro crucial para la seguridad en emergencias.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-07-a-las-3.05.43-p-m.png",
       "description": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "featured": false
@@ -1213,11 +1226,11 @@
       "slug": "centro-academico-de-alajuela-se-une-a-la-conmemoracion-del-50-aniversario-de-ingenieria-en-computacion",
       "title": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "category": "Costa Rica",
-      "bullets_20s": "• El 50 aniversario de Ingeniería en Computación celebra la trayectoria del Tecnológico de Costa Rica.\n• Se desarrollarán charlas y talleres del 11 al 14 de agosto en el Centro Académico de Alajuela.\n• Este evento resalta el compromiso del TEC con el desarrollo tecnológico en el país.\n• La celebración incluye torneos para involucrar a los estudiantes y la comunidad.\n• Ingrid Amador Solano es el contacto para más información sobre este evento.",
+      "bullets_20s": "• El 50º aniversario de Ingeniería en Computación refleja la excelencia académica del TEC en Costa Rica.\n• Se llevan a cabo charlas, talleres y torneos del 11 al 14 de agosto en Alajuela.\n• Este evento resalta el compromiso del TEC con el desarrollo tecnológico del país.\n• Los participantes tendrán la oportunidad de interactuar con profesionales y expertos del área.\n• Ingresar al evento brinda acceso a una agenda variada y enriquecedora para los asistentes.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/centro-academico-alajuela-se-une-conmemoracion-50-aniversario-ingenieria-computacion",
       "publish_date": "2026-08-07T20:59:31.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC celebra 50 años de Ingeniería en Computación con eventos especiales en Alajuela.",
+      "teaser": "Lo clave en 20 segundos: El TEC celebra 50 años de Ingeniería en Computación con diversas actividades.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/93aa4e7b-22ab-4a61-87c3-aa53bd30efcd.jpg",
       "description": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "featured": false
@@ -1967,11 +1980,11 @@
       "slug": "atletas-del-tec-destacan-en-los-juegos-panamericanos-universitarios-fisu-america-2026",
       "title": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC tuvo una destacada actuación en los Juegos Panamericanos Universitarios de 2026 en Lima, Perú.\n• Estudiantes de diversas carreras lograron medallas en disciplinas como relevos y pruebas individuales.\n• La delegación costarricense alcanzó un total de cinco medallas en este importante evento deportivo.\n• Johnny Loría expresó su orgullo por liderar un equipo tan competitivo durante la competencia.\n• Melisa Ramírez y Gabriel Paz fueron los atletas más destacados, logrando medallas significativas.",
+      "bullets_20s": "• Estudiantes del TEC lograron medallas en los Juegos Panamericanos Universitarios en Lima, Perú.\n• La delegación costarricense quedó séptima en la clasificación general, destacando entre potencias.\n• Gabriel Paz y Melisa Ramírez sobresalieron en las pruebas de relevos y carreras individuales.\n• El entrenador Johnny Loría destacó la responsabilidad de liderar la delegación durante el evento.\n• Las medallas obtenidas reflejan semanas de esfuerzo, sacrificio y un alto nivel competitivo.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/atletas-tec-destacan-juegos-panamericanos-universitarios-fisu-america-2026",
       "publish_date": "2026-08-06T21:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC brilla en Panamericanos Universitarios con medallas y grandes logros.",
+      "teaser": "Lo clave en 20 segundos: estudiantes del TEC brillan en Lima con medallas y una gran actuación.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/atletismo-fisu-1.jpg",
       "description": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "featured": false
@@ -72697,8 +72710,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-10T01:45:24.770Z",
-  "total": 5592,
+  "generated_at": "2026-08-10T02:45:24.845Z",
+  "total": 5593,
   "removed_soccer_news_count": 1022,
   "removed_soccer_news_titles": [
     "El insólito festejo de un futbolista en Brasil acaba muy mal y le da la vuelta al mundo: vea lo que pasó",
