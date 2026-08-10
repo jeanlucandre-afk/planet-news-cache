@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "recuperados-los-cuerpos-de-cinco-alpinistas-desaparecidos-en-nepal",
+      "title": "Recuperados los cuerpos de cinco alpinistas desaparecidos en Nepal",
+      "category": "Mundo",
+      "bullets_20s": "• Cinco alpinistas desaparecidos, finalmente fueron encontrados tras meses de búsqueda en el Himalaya.\n• Las difíciles condiciones climáticas complicaron la recuperación de los cuerpos a gran altura.\n• La nieve y las avalanchas hicieron casi imposible la localización de los aventureros al principio.\n• El derretimiento de la nieve fue clave para finalmente recuperar los cuerpos de los alpinistas.\n• Expertos en montañismo advierten sobre los peligros extremados en expediciones al Himalaya.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/puro-deporte/recuperados-los-cuerpos-de-cinco-alpinistas/ACBWJ3XD4VGE3NQR5HVVO445R4/story/",
+      "publish_date": "2026-08-09T23:29:37.000Z",
+      "teaser": "Lo clave en 20 segundos: recuperan los cuerpos de cinco alpinistas perdidos en el Himalaya tras nueve meses.",
+      "image_url": "https://www.nacion.com/resizer/v2/KCULPMOTTRGQ5LDVFB7ZKZ3LRE.jpg?auth=cbb80c9cdcbbaf9a916d7fb01560a1bb6ca5bb9411219f151e45afc0c39fde6c&smart=true&width=6048&height=4024",
+      "description": "Los cuerpos de los aventureros fallecidos estuvieron nueve meses en la montaña, hasta que la nieve se derritió y permitió recuperarlos.",
+      "featured": false
+    },
+    {
       "slug": "onda-tropical-n-30-llegara-a-costa-rica-este-lunes-estas-seran-las-regiones-con-posibilidad-de-aguaceros",
       "title": "Onda tropical N.° 30 llegará a Costa Rica este lunes: estas serán las regiones con posibilidad de aguaceros",
       "category": "Costa Rica",
-      "bullets_20s": "• La onda tropical N.° 30 afectará diferentes regiones del país este 10 de agosto.\n• Se espera que las condiciones del clima cambien de manera significativa.\n• Las áreas con mayor probabilidad de aguaceros son clave para la agricultura.\n• Los residentes deben estar preparados para posibles lluvias intensas.\n• Se recomienda monitorear el clima a través de medios oficiales.",
+      "bullets_20s": "• La onda tropical N.° 30 afectará varias regiones del país este lunes, trayendo posibles aguaceros.\n• Los meteorólogos indican que se anticipan cambios significativos en las condiciones climáticas.\n• Se sugiere a la población estar atenta a actualizaciones sobre el clima en cada región.\n• Los pronósticos incluyen lluvias en la mañana y condiciones variables durante el día.\n• Es importante prepararse para posibles inundaciones en áreas susceptibles a aguaceros intensos.",
       "source_name": "Silvia Ureña Corrales",
       "source_url": "https://www.nacion.com/sucesos/onda-tropical-n-30-llegara-a-costa-rica-este-lunes/U2QAIJX3UFFHXPQNSFX5IFEXOA/story/",
       "publish_date": "2026-08-09T23:23:42.000Z",
-      "teaser": "Lo clave en 20 segundos: Onda tropical N.° 30 genera aguaceros en varias regiones de Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Onda tropical N.° 30 traerá aguaceros a diversas regiones de Costa Rica este lunes.",
       "image_url": "https://www.nacion.com/resizer/v2/4QWWUCT4GBC3ZBX62ZGFFJ2P6Y.JPG?auth=0f57733ae69c1c592456289f7003b0c315740ee7795fbd5c3101bd90f9907a0b&smart=true&width=4000&height=2556",
       "description": "Conozca cómo cambiarán las condiciones del tiempo este lunes 10 de agosto, cuáles regiones tendrán posibilidad de aguaceros y qué ocurrirá al final del día con la onda tropical N.° 30.",
       "featured": false
@@ -401,19 +414,6 @@
       "teaser": "Lo clave en 20 segundos: La economía jaguar necesita ajustes fiscales por baja recaudación y deuda elevada.",
       "image_url": "https://www.nacion.com/resizer/v2/D5VOPQ6T45ET5OBZ2IVNNHRY2U.jpg?auth=66c726f73169ffcfcb4ad6d96e51b73fc7aa2daa8b3293017b72c94e75b1a60f&smart=true&width=1529&height=1146",
       "description": "Tras la 'economía jaguar', la menor recaudación, la apreciación del colón y el peso de la deuda reabren el debate sobre los factores que empujaron al gobierno a proponer un nuevo plan fiscal.",
-      "featured": false
-    },
-    {
-      "slug": "eclipse-solar-total-avellanosa-de-muno-el-pequeno-pueblo-de-espana-que-por-una-noche-sera-uno-de-los-lugares-mas-fascina",
-      "title": "Eclipse solar total: Avellanosa de Muñó, el pequeño pueblo de España que por una noche será uno de los lugares más fascinantes del planeta",
-      "category": "Mundo",
-      "bullets_20s": "• Un pequeño pueblo español se convierte en el centro de atención por un eclipse solar total en breve.\n• Avellanosa de Muñó tiene pocos habitantes y suele ser ignorado por los turistas durante el año.\n• La comunidad se prepara para recibir visitantes en una noche que promete ser mágica e inolvidable.\n• Los eclipses solares totales son eventos raros y fascinantes que atraen a muchos observadores del cielo.\n• Este tipo de fenómeno astronómico revela la belleza de la astronomía y su impacto en la cultura.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/cwymvm84p9ko?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-08-09T08:59:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Un pueblo español se prepara para un eclipse solar total que atraerá la atención mundial.",
-      "image_url": "",
-      "description": "Sin apenas residentes y casi sin visitantes a lo largo del año, esta pequeña localidad del norte de España se prepara para una noche extraordinaria.",
       "featured": false
     },
     {
@@ -1174,11 +1174,11 @@
       "slug": "el-tec-se-une-al-8-simulacro-nacional-costa-rica-se-prepara",
       "title": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica se suma al simulacro nacional de evacuación programado para el próximo 12 de agosto.\n• La participación incluye a estudiantes y personal de diversos campus en todo el país, promoviendo la cultura de prevención.\n• Se practica la evacuación ordenada ante un eventual sismo, reforzando la seguridad de la comunidad educativa.\n• Las indicaciones buscan garantizar que todos sepan cómo actuar en situaciones de emergencia y evacuación.\n• Este ejercicio busca involucrar a más de un millón de participantes en todo el territorio nacional.",
+      "bullets_20s": "• El TEC participará en el 8° Simulacro Nacional de Evacuación el 12 de agosto.\n• El simulacro busca mejorar la cultura de prevención en caso de sismos.\n• Participan estudiantes, académicos y administrativos de varios campus del TEC.\n• Estas actividades fortalecen el conocimiento sobre planes de evacuación necesarios.\n• Se espera una gran participación, haciendo eco del ejercicio de años anteriores.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-se-une-8deg-simulacro-nacional-costa-rica-se-prepara",
       "publish_date": "2026-08-07T21:05:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC se prepara para un simulacro nacional de evacuación ante sismos.",
+      "teaser": "Lo clave en 20 segundos: El TEC se prepara para un simulacro nacional de evacuación el 12 de agosto.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-07-a-las-3.05.43-p-m.png",
       "description": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "featured": false
@@ -1200,11 +1200,11 @@
       "slug": "centro-academico-de-alajuela-se-une-a-la-conmemoracion-del-50-aniversario-de-ingenieria-en-computacion",
       "title": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "category": "Costa Rica",
-      "bullets_20s": "• El 50 º aniversario de Ingeniería en Computación celebra cinco décadas de avance en tecnología.\n• El Tecnológico de Costa Rica ha sido clave en la formación de profesionales en el sector.\n• Del 11 al 14 de agosto se llevarán a cabo diversas actividades conmemorativas importantes.\n• Charlas y talleres estarán disponibles para estudiantes y la comunidad interesada en la tecnología.\n• Ingrid Amador Solano es el contacto principal para más información sobre el evento.",
+      "bullets_20s": "• El Centro Académico de Alajuela celebra cinco décadas de Ingeniería en Computación.\n• Se llevarán a cabo charlas y talleres del 11 al 14 de agosto.\n• La conmemoración refleja el compromiso con el desarrollo tecnológico del país.\n• Este evento destaca la excelencia académica alcanzada en estas cinco décadas.\n• La agenda incluye torneos y actividades para involucrar a los estudiantes.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/centro-academico-alajuela-se-une-conmemoracion-50-aniversario-ingenieria-computacion",
       "publish_date": "2026-08-07T20:59:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Se conmemoran 50 años de Ingeniería en Computación en Alajuela.",
+      "teaser": "Lo clave en 20 segundos: Celebramos 50 años de Ingeniería en Computación en Alajuela.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/93aa4e7b-22ab-4a61-87c3-aa53bd30efcd.jpg",
       "description": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "featured": false
@@ -1954,11 +1954,11 @@
       "slug": "atletas-del-tec-destacan-en-los-juegos-panamericanos-universitarios-fisu-america-2026",
       "title": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes del TEC lograron excelentes resultados en los Juegos Panamericanos Universitarios realizados en Lima, Perú.\n• Melisa Ramírez y Gabriel Paz sobresalieron en la competencia, formando parte del equipo costarricense destacado.\n• La delegación de Costa Rica logró dos medallas de oro y destaca en el ámbito universitario del continente.\n• El entrenador Johnny Loría fue crucial para el éxito de la selección y resaltó el compromiso de sus atletas.\n• Los atletas del TEC demostraron su talento frente a potencias como Estados Unidos y Brasil en sus respectivas pruebas.",
+      "bullets_20s": "• Estudiantes del TEC brillan en la competición internacional de atletismo universitario en Lima, Perú.\n• La delegación costarricense logró medallas en disciplinas de relevos, destacando a nivel continental.\n• El entrenador Johnny Loría lideró el equipo y expresó orgullo por los logros alcanzados.\n• Melisa Ramírez y Gabriel Paz se convirtieron en referentes del deporte universitario en el evento.\n• La participación fue histórica, posicionando a Costa Rica entre los mejores del atletismo universitario.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/atletas-tec-destacan-juegos-panamericanos-universitarios-fisu-america-2026",
       "publish_date": "2026-08-06T21:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Atletas del TEC brillan en Panamericanos Universitarios con medallas y gran desempeño.",
+      "teaser": "Lo clave en 20 segundos: Atletas del TEC brillan en Juegos Panamericanos Universitarios con medallas en Lima.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/atletismo-fisu-1.jpg",
       "description": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "featured": false
@@ -72684,7 +72684,7 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-09T23:45:24.583Z",
+  "generated_at": "2026-08-10T00:45:23.054Z",
   "total": 5591,
   "removed_soccer_news_count": 1022,
   "removed_soccer_news_titles": [
