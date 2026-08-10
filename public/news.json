@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "meta-afronta-un-nuevo-juicio-en-california-por-sus-redes-sociales",
+      "title": "Meta afronta un nuevo juicio en California por sus redes sociales",
+      "category": "Mundo",
+      "bullets_20s": "• Meta se enfrenta a un juicio por sus políticas en redes sociales en California.\n• El caso pone en el centro a Mark Zuckerberg como testigo clave del proceso.\n• Las redes sociales son un tema candente en discusiones legales actuales.\n• La fiscalía espera que el juicio revele importantes irregularidades en Meta.\n• Este caso podría sentar un precedente en la regulación de las plataformas digitales.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/meta-afronta-un-nuevo-juicio-en-california-por-sus/E6FRIKF3E5AP5GWU6UIDR43H4U/story/",
+      "publish_date": "2026-08-10T17:20:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Meta enfrenta un juicio por sus redes sociales con Zuckerberg como testigo.",
+      "image_url": "https://www.nacion.com/resizer/v2/SVBPE3QFMBCSFPRR2RAZID3TMY.jpg?auth=a55777514a6225287ed919433044d77eee9a35a9a5aa57b3f7aa6c63250f8b51&smart=true&width=6048&height=4024",
+      "description": "Mark Zuckerberg figura entre los testigos clave que la fiscalía tiene previsto interrogar antes de finales de setiembre",
+      "featured": false
+    },
+    {
+      "slug": "laura-fernandez-declara-secreto-de-estado-la-informacion-de-la-dis-fuerza-elite-y-consejo-nacional-de-seguridad",
+      "title": "Laura Fernández declara secreto de Estado la información de la DIS, Fuerza Élite y Consejo Nacional de Seguridad",
+      "category": "Costa Rica",
+      "bullets_20s": "• Laura Fernández decide clasificar información de la DIS como secreto de Estado, generando controversia.\n• La DIS y Fuerza Élite involucradas en acciones de seguridad nacional quedarán bajo confidencialidad.\n• Consejo Nacional de Seguridad también se incluye en esta declaración, impactando su transparencia.\n• Contratos y presupuestos relativos a estas entidades ya no serán de acceso público.\n• La decisión ha causado críticas sobre la falta de transparencia en la administración pública.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/politica/laura-fernandez-declara-secreto-de-estado-la/6PFRZ3EZLJEWBAIEROHBF3ZHWY/story/",
+      "publish_date": "2026-08-10T16:50:48.000Z",
+      "teaser": "Lo clave en 20 segundos: Laura Fernández establece secreto de Estado sobre información de seguridad nacional.",
+      "image_url": "https://www.nacion.com/resizer/v2/G62TQL2ZNRB4NAU267O7QE2SOI.jpg?auth=6bc949cc0e9cc1904bc76aa521019768a3d7016615a1dab58c08b21fe52f9326&smart=true&width=3000&height=2000",
+      "description": "Laura Fernández declaró secreto de Estado información relacionada con la DIS, Fuerza Élite y el Consejo Nacional de Seguridad Pública, incluidos contratos, presupuestos, operaciones y reuniones.",
+      "featured": false
+    },
+    {
       "slug": "una-visa-es-un-privilegio-estados-unidos-ha-retirado-decenas-de-miles-de-permisos-a-extranjeros",
       "title": "‘Una visa es un privilegio’: Estados Unidos ha retirado decenas de miles de permisos a extranjeros",
       "category": "Mundo",
@@ -1486,11 +1512,11 @@
       "slug": "el-tec-se-une-al-8-simulacro-nacional-costa-rica-se-prepara",
       "title": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC se suma al 8° Simulacro Nacional de Evacuación en Costa Rica programado para el 12 de agosto.\n• Este ejercicio busca fortalecer la cultura de prevención ante sismos en estudiantes y personal académico.\n• En el simulacro participará toda la comunidad institucional de varios campus de Costa Rica.\n• Se brindarán indicaciones para realizar una evacuación ordenada en caso de emergencias durante el simulacro.\n• Los puntos de reunión se establecerán en cada campus y se dará información mediante la app Simulacro CR.",
+      "bullets_20s": "• El TEC participará en el 8° Simulacro Nacional de Evacuación convocado por la CNE.\n• El simulacro se llevará a cabo el miércoles 12 de agosto a las 10:00 a.m.\n• Se espera una amplia participación de estudiantes y personal académico en el ejercicio.\n• El objetivo es practicar planes de evacuación ante un eventual sismo en el país.\n• El simulacro fomenta la cultura de prevención tanto en aulas como en la comunidad.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-se-une-8deg-simulacro-nacional-costa-rica-se-prepara",
       "publish_date": "2026-08-07T21:05:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC participará en el 8° Simulacro Nacional para promover la prevención ante sismos.",
+      "teaser": "Lo clave en 20 segundos: El TEC se une al simulacro nacional de evacuación para fortalecer la cultura de prevención.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-07-a-las-3.05.43-p-m.png",
       "description": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "featured": false
@@ -1512,11 +1538,11 @@
       "slug": "centro-academico-de-alajuela-se-une-a-la-conmemoracion-del-50-aniversario-de-ingenieria-en-computacion",
       "title": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra cinco décadas de Ingeniería en Computación en Alajuela con diversos eventos.\n• Charlas, talleres y torneos se llevarán a cabo del 11 al 14 de agosto en Alajuela.\n• Este hito resalta el compromiso del TEC con la educación y la innovación tecnológica.\n• Ingrid Amador Solano coordina las actividades y brinda información adicional por correo.\n• La agenda completa de eventos está disponible para todos los interesados en participar.",
+      "bullets_20s": "• El 50º aniversario celebra cinco décadas de excelencia académica en Ingeniería en Computación.\n• Se llevarán a cabo charlas, talleres y torneos del 11 al 14 de agosto en Alajuela.\n• Este evento destaca el compromiso del TEC en el desarrollo tecnológico del país.\n• La celebración involucra a estudiantes, académicos y profesionales del área de computación.\n• La agenda del evento incluye actividades interactivas y oportunidades de networking.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/centro-academico-alajuela-se-une-conmemoracion-50-aniversario-ingenieria-computacion",
       "publish_date": "2026-08-07T20:59:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Se conmemoran 50 años de Ingeniería en Computación del TEC en Alajuela.",
+      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de Ingeniería en Computación en Alajuela con talleres y charlas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/93aa4e7b-22ab-4a61-87c3-aa53bd30efcd.jpg",
       "description": "Centro Académico de Alajuela se une a la conmemoración del 50 º aniversario de Ingeniería en Computación",
       "featured": false
@@ -2266,11 +2292,11 @@
       "slug": "atletas-del-tec-destacan-en-los-juegos-panamericanos-universitarios-fisu-america-2026",
       "title": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes del TEC lograron medallas en los Juegos Panamericanos Universitarios en Lima, Perú.\n• La delegación costarricense alcanzó un histórico séptimo lugar en la clasificación general.\n• Johnny Loría fue el entrenador jefe, destacando la responsabilidad y honor de dirigir el equipo.\n• El equipo costarricense compitió contra potencias como Estados Unidos, Brasil y Colombia.\n• Gabriel Paz destacó el trabajo en equipo y esfuerzo necesario para conquistar medallas.",
+      "bullets_20s": "• Estudiantes del TEC sorprendieron en la competencia, destacando entre universidades de gran tradición.\n• Gabriel Paz y Melisa Ramírez brillaron al obtener medallas en atletismo en Lima, Perú.\n• El equipo costarricense logró dos medallas de oro, dos de plata y una de bronce en total.\n• El entrenador Johnny Loría destacó la preparación y el trabajo en equipo en su discurso.\n• La competencia reunió a potencias como Estados Unidos, Brasil y Colombia en un nivel muy alto.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/atletas-tec-destacan-juegos-panamericanos-universitarios-fisu-america-2026",
       "publish_date": "2026-08-06T21:00:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Los atletas del TEC brillan en los Juegos Panamericanos Universitarios FISU América 2026.",
+      "teaser": "Lo clave en 20 segundos: Los atletas del TEC brillan en las competencias y hacen historia en Lima.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/atletismo-fisu-1.jpg",
       "description": "Atletas del TEC destacan en los Juegos Panamericanos Universitarios FISU América 2026",
       "featured": false
@@ -73009,8 +73035,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-10T16:45:24.725Z",
-  "total": 5616,
+  "generated_at": "2026-08-10T17:45:23.006Z",
+  "total": 5618,
   "removed_soccer_news_count": 1023,
   "removed_soccer_news_titles": [
     "Crisis en FIFA empeora: UEFA, Concacaf y Asia se unen y hacen fuerte pronunciamiento contra Infantino",
