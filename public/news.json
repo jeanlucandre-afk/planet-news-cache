@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "el-cedro-de-escazu-que-pide-auxilio-ante-el-avance-del-cemento",
+      "title": "El cedro de Escazú que pide auxilio ante el avance del cemento",
+      "category": "Costa Rica",
+      "bullets_20s": "• El cedro de Escazú es un árbol emblemático que representa la biodiversidad en la región.\n• El avance del cemento ha reducido considerablemente los espacios verdes en Costa Rica.\n• La tala de árboles sigue siendo un problema crítico en muchas comunidades costarricenses.\n• Las gasolineras y edificaciones nuevas están desplazando la flora local y su ecosistema.\n• Es fundamental crear conciencia sobre la conservación del medio ambiente en el país.",
+      "source_name": "Hugo Mora Poltronieri",
+      "source_url": "https://www.nacion.com/opinion/foros/el-cedro-que-pide-auxilio-ante-el-avance-del/WZFCSRWNOBDQ5O5TYU22MDWLGU/story/",
+      "publish_date": "2026-08-11T02:05:49.000Z",
+      "teaser": "Lo clave en 20 segundos: un cedro en Escazú enfrenta la tala por proyectos de construcción.",
+      "image_url": "https://www.nacion.com/resizer/v2/27STCNTNHZARHHWYK3K67H7XFA.jpg?auth=a3d2ec12718b157dfb1e4393516fa536f0eb9e1ed29c4319a0f1266610fc9c54&smart=true&width=480&height=640",
+      "description": "Un majestuoso cedro está a punto de ser talado para dar paso a una gasolinera, en una zona de Escazú donde cada vez queda menos espacio para los árboles y más para el cemento.",
+      "featured": false
+    },
+    {
+      "slug": "policia-de-control-fiscal-decomisa-22-millones-de-cigarros-ocultos-en-doble-forro-de-camion-en-golfito",
+      "title": "Policía de Control Fiscal decomisa 2,2 millones de cigarros ocultos en doble forro de camión en Golfito",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Policía de Control Fiscal realizó un importante decomiso en Golfito, destacando el contrabando de cigarros.\n• Se encontraron 2,2 millones de cigarros ocultos en un camión, lo que representa una cifra millonaria.\n• Las autoridades están investigando la red que operó para introducir estos cigarros al país.\n• El contrabando afecta significativamente la recaudación fiscal en Costa Rica, generando pérdidas económicas.\n• Este tipo de acciones busca frenar el contrabando y proteger la economía del país.",
+      "source_name": "Arianna  Villalobos Solís",
+      "source_url": "https://www.nacion.com/economia/policia-de-control-fiscal-decomisa-22-millones-de/XCIRZNW3UJEY3DXU7DGLAZM4M4/story/",
+      "publish_date": "2026-08-11T01:47:08.000Z",
+      "teaser": "Lo clave en 20 segundos: decomiso de 2,2 millones de cigarros en Golfito por contrabando.",
+      "image_url": "https://www.nacion.com/resizer/v2/VRWL7G6XBVBXJIC7SPST5KOHYU.jpeg?auth=dd3fd12a5ada1fd05c0c9447b66aeac8339c68d3c19b34d45a33895922c30f27&smart=true&width=1174&height=577",
+      "description": "Autoridades detectaron 2,2 millones de cigarros de contrabando en Golfito. Vea cómo operaba la red y la millonaria cifra que deja de percibir el fisco.",
+      "featured": false
+    },
+    {
       "slug": "oposicion-acusa-al-gobierno-de-bloquear-agenda-legislativa-a-proposito-nadie-apoya-jornadas-4-3",
       "title": "Oposición acusa al gobierno de bloquear agenda legislativa a propósito: ‘Nadie apoya jornadas 4-3′",
       "category": "Costa Rica",
@@ -82,11 +108,11 @@
       "slug": "editorial-tecnologica-de-costa-rica-se-hace-presente-en-filu-2026",
       "title": "Editorial Tecnológica de Costa Rica se hace presente en FILU 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Feria Internacional del Libro Universitario se celebrará del 21 al 30 de agosto en Costa Rica.\n• El evento contará con la participación de editoriales de cinco universidades públicas del país.\n• Se presentarán obras como 'Dos hombres y un volcán' y 'Aves endémicas de Costa Rica'.\n• La FILU busca promover la lectura y el intercambio de conocimientos en la comunidad.\n• Habrá talleres y actividades culturales para público general, docentes y estudiantes.",
+      "bullets_20s": "• La Feria Internacional del Libro Universitario se celebra en Costa Rica del 21 al 30 de agosto.\n• La Antigua Aduana será la sede del evento que promueve la lectura y el intercambio cultural.\n• Cinco universidades públicas y diez editoriales independientes participan en esta feria literaria.\n• La Editorial Tecnológica presentará tres obras importantes relacionadas con la biodiversidad nacional.\n• El evento es gratuito y abierto al público, fomentando el amor por los libros en el país.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/editorial-tecnologica-costa-rica-se-hace-presente-filu-2026",
       "publish_date": "2026-08-10T21:57:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Editorial Tecnológica presenta libros en FILU 2026, ¡una cita literaria imperdible!",
+      "teaser": "Lo clave en 20 segundos: Feria del Libro Universitario regresa en agosto con importantes presentaciones literarias.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/feria_internacional_universitaria_libro_2024_rgarita-7.jpg",
       "description": "Editorial Tecnológica de Costa Rica se hace presente en FILU 2026",
       "featured": false
@@ -1785,11 +1811,11 @@
       "slug": "el-tec-se-une-al-8-simulacro-nacional-costa-rica-se-prepara",
       "title": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica participa en el simulacro nacional de evacuación por sismos.\n• Se llevará a cabo el miércoles 12 de agosto a las 10:00 a.m. en todo el país.\n• Se espera que estudiantes y personal practiquen sus planes de evacuación eficientemente.\n• El simulacro involucra a todos los campus y centros académicos a nivel nacional.\n• Los participantes deben seguir instrucciones para garantizar su seguridad durante el ejercicio.\n• Se les recuerda que no deben usar vehículos ni celulares durante el simulacro.\n• Se brindarán indicaciones para un reingreso ordenado tras el término del ejercicio.\n• Es importante fortalecer la cultura de prevención tanto dentro como fuera de las aulas.\n• La comunidad está invitada a inscribirse y utilizar la aplicación móvil Simulacro CR.",
+      "bullets_20s": "• El TEC se suma al 8° Simulacro Nacional de Evacuación programado para el 12 de agosto.\n• El simulacro convoca a toda la comunidad educativa a participar de manera activa.\n• Se realizarán ejercicios para poner en práctica planes de evacuación ante sismos.\n• La acción busca fortalecer la cultura de prevención en el campus y la comunidad.\n• Las indicaciones incluyen mantener la calma y seguir salidas seguras durante la evacuación.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-se-une-8deg-simulacro-nacional-costa-rica-se-prepara",
       "publish_date": "2026-08-07T21:05:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC realiza simulacro nacional para preparar a sus estudiantes y personal ante sismos.",
+      "teaser": "Lo clave en 20 segundos: El TEC participará en un simulacro de evacuación para estudiantes y personal.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-07-a-las-3.05.43-p-m.png",
       "description": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "featured": false
@@ -1824,11 +1850,11 @@
       "slug": "centro-academico-de-alajuela-celebra-la-semana-de-computacion-2026",
       "title": "Centro Académico de Alajuela celebra la semana de Computación 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Semana de Computación se celebrará del 11 al 14 de agosto en Alajuela.\n• Se ofrecerán talleres y charlas a cargo de especialistas en tecnología.\n• Actividades recreativas serán organizadas por estudiantes de ingeniería.\n• El evento busca fomentar el interés por la computación entre los jóvenes.\n• Los asistentes tendrán la oportunidad de aprender sobre diversas áreas tecnológicas.\n• La Asociación de Estudiantes se involucra en la organización del evento.\n• Se espera una gran participación de estudiantes y profesionales en computación.\n• El evento se realiza con motivo del 50 aniversario del centro académico.\n• Más detalles se pueden solicitar a través del correo electrónico proporcionado.\n• El evento representa una oportunidad de networking y aprendizaje para los interesados.",
+      "bullets_20s": "• La Semana de Computación se celebrará del 11 al 14 de agosto en Alajuela.\n• Habrá talleres y charlas dirigidos por especialistas durante el evento.\n• Actividades recreativas también se llevarán a cabo por la asociación estudiantil.\n• El evento tiene como objetivo promover el interés en la computación entre estudiantes.\n• Se espera una amplia participación de la comunidad académica y estudiantil de Alajuela.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/centro-academico-alajuela-celebra-semana-computacion-2026",
       "publish_date": "2026-08-07T20:59:31.000Z",
-      "teaser": "Lo clave en 20 segundos: La Semana de Computación 2026 se celebra en Alajuela con talleres y charlas especializadas.",
+      "teaser": "Lo clave en 20 segundos: Semana de Computación se celebra en Alajuela con talleres y charlas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/93aa4e7b-22ab-4a61-87c3-aa53bd30efcd.jpg",
       "description": "Centro Académico de Alajuela celebra la semana de Computación 2026",
       "featured": false
@@ -73321,8 +73347,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-11T01:45:25.491Z",
-  "total": 5640,
+  "generated_at": "2026-08-11T02:45:24.845Z",
+  "total": 5642,
   "removed_soccer_news_count": 1026,
   "removed_soccer_news_titles": [
     "Pista de motocross de Keylor Navas será sede del Campeonato Latinoamericano MX Open 2026",
