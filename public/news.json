@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "estados-unidos-anuncia-ayuda-de-155-millones-a-colombia-tras-fuerte-terremoto",
+      "title": "Estados Unidos anuncia ayuda de $15,5 millones a Colombia tras fuerte terremoto",
+      "category": "Mundo",
+      "bullets_20s": "• Estados Unidos destina 15,5 millones de dólares para ayudar a Colombia tras el terremoto.\n• El sismo tuvo una magnitud de 7,4 y causó severos daños en varias regiones colombianas.\n• La asistencia busca atender a los afectados y apoyar en la recuperación de las zonas dañadas.\n• Colombia ha enfrentado múltiples desastres naturales en los últimos años, incluyendo terremotos.\n• Las autoridades colombianas agradecieron el apoyo de Estados Unidos en esta situación crítica.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/estados-unidos-anuncia-ayuda-de-155-millones-a/LMD5GY323ND2VDSXQJZM5WLKXA/story/",
+      "publish_date": "2026-08-11T00:11:54.000Z",
+      "teaser": "Lo clave en 20 segundos: Estados Unidos ofrece ayuda a Colombia tras devastador terremoto de magnitud 7,4.",
+      "image_url": "https://www.nacion.com/resizer/v2/O2HQ6EEBWVFGFDNESF644D3KOM.jpg?auth=a3122d80debc04251282bbd66cdb44d76b6a93d86b002314a30f3e2d4b46d432&smart=true&width=8256&height=5504",
+      "description": "Un terremoto de magnitud 7,4 sacudió Colombia y dejó graves daños en distintas regiones; Estados Unidos anunció una ayuda económica para atender la emergencia y asistir a los afectados.",
+      "featured": false
+    },
+    {
       "slug": "estuve-en-el-terremoto-de-cinchona-y-no-hay-punto-de-comparacion-costarricenses-en-colombia-relatan-como-vivieron-el-ter",
       "title": "‘Estuve en el terremoto de Cinchona y no hay punto de comparación’: costarricenses en Colombia relatan cómo vivieron el terremoto",
       "category": "Mundo",
@@ -56,11 +69,11 @@
       "slug": "editorial-tecnologica-de-costa-rica-se-hace-presente-en-filu-2026",
       "title": "Editorial Tecnológica de Costa Rica se hace presente en FILU 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La FILU 2026 reúne editoriales de cinco universidades públicas en Costa Rica.\n• Este evento cultural se llevará a cabo en la Antigua Aduana a finales de agosto.\n• La feria busca fomentar el intercambio de conocimientos y promover la lectura.\n• Se presentarán libros sobre volcanes, aves endémicas y mamíferos de Costa Rica.\n• La FILU será un espacio para el diálogo entre autores, académicos y lectores.",
+      "bullets_20s": "• La Feria Internacional del Libro Universitario de Costa Rica se aproxima en agosto de 2026.\n• Este evento promueve la lectura y el intercambio de conocimientos entre editoriales y público.\n• Participan cinco universidades y diez editoriales independientes en la FILU 2026.\n• Se presentarán obras sobre biodiversidad y cultura costarricense durante la feria.\n• La FILU también ofrecerá talleres y diálogos entre autores y lectores en diversas actividades.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/editorial-tecnologica-costa-rica-se-hace-presente-filu-2026",
       "publish_date": "2026-08-10T21:57:45.000Z",
-      "teaser": "Lo clave en 20 segundos: FILU 2026 presenta libros destacados y promueve la lectura en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La FILU 2026, un espacio para el fomento de la literatura, arranca en agosto.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/feria_internacional_universitaria_libro_2024_rgarita-7.jpg",
       "description": "Editorial Tecnológica de Costa Rica se hace presente en FILU 2026",
       "featured": false
@@ -1759,11 +1772,11 @@
       "slug": "el-tec-se-une-al-8-simulacro-nacional-costa-rica-se-prepara",
       "title": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC participa en el 8° Simulacro Nacional de Evacuación impulsado por la CNE.\n• Se llevarán a cabo actividades en diversos campus del TEC en todo el país.\n• El simulacro está programado para el 12 de agosto a las 10:00 a.m.\n• Buscan mejorar la cultura de prevención ante eventuales sismos en Costa Rica.\n• La comunidad del TEC debe prepararse y conocer los puntos de reunión establecidos.",
+      "bullets_20s": "• El Tecnológico de Costa Rica participa en el 8° Simulacro Nacional de Evacuación programado para el 12 de agosto.\n• Este ejercicio busca evaluar la preparación ante sismos en toda la comunidad institucional del TEC.\n• Se cuenta con la participación de todos los campus del TEC, incluyendo Cartago y San José.\n• La CNE reportó que en la edición anterior participaron más de 1.4 millones de personas en todo el país.\n• La aplicación móvil Simulacro CR ofrece información relevante para elaborar planes de emergencia.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-se-une-8deg-simulacro-nacional-costa-rica-se-prepara",
       "publish_date": "2026-08-07T21:05:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC participa en el 8° Simulacro Nacional de Evacuación el 12 de agosto.",
+      "teaser": "Lo clave en 20 segundos: El TEC se prepara para un simulacro nacional de evacuación ante sismos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-07-a-las-3.05.43-p-m.png",
       "description": "El TEC se une al 8° Simulacro Nacional: Costa Rica se prepara",
       "featured": false
@@ -1798,11 +1811,11 @@
       "slug": "centro-academico-de-alajuela-celebra-la-semana-de-computacion-2026",
       "title": "Centro Académico de Alajuela celebra la semana de Computación 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El Centro Académico de Alajuela se prepara para la Semana de Computación 2026.\n• El evento se llevará a cabo del 11 al 14 de agosto de 2026.\n• Habrá talleres y charlas impartidas por especialistas en diferentes áreas.\n• Actividades recreativas serán organizadas por la Asociación de Estudiantes de Ingeniería.\n• Es un espacio valioso para el aprendizaje y la interacción entre estudiantes.",
+      "bullets_20s": "• La Semana de Computación se celebra del 11 al 14 de agosto en el centro académico de Alajuela.\n• Se ofrecerán talleres y charlas impartidas por especialistas en diversas áreas relacionadas con la computación.\n• Actividades recreativas serán organizadas por la Asociación de Estudiantes de Ingeniería en Computación.\n• Ingrid Amador Solano es el contacto para más información sobre actividades y horarios.\n• El objetivo del evento es promover el interés en la computación entre los estudiantes.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/centro-academico-alajuela-celebra-semana-computacion-2026",
       "publish_date": "2026-08-07T20:59:31.000Z",
-      "teaser": "Lo clave en 20 segundos: La Semana de Computación 2026 en Alajuela promete talleres y charlas diversas.",
+      "teaser": "Lo clave en 20 segundos: La Semana de Computación 2026 en Alajuela ofrece talleres y actividades recreativas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/93aa4e7b-22ab-4a61-87c3-aa53bd30efcd.jpg",
       "description": "Centro Académico de Alajuela celebra la semana de Computación 2026",
       "featured": false
@@ -73295,8 +73308,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-10T23:45:23.497Z",
-  "total": 5638,
+  "generated_at": "2026-08-11T00:45:24.538Z",
+  "total": 5639,
   "removed_soccer_news_count": 1024,
   "removed_soccer_news_titles": [
     "Fedefútbol anuncia sorpresiva renuncia de jerarca",
