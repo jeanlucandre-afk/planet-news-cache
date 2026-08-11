@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "desempleo-juvenil-en-el-mundo-aumento-en-2025-segun-la-oit",
+      "title": "Desempleo juvenil en el mundo aumentó en 2025, según la OIT",
+      "category": "Mundo",
+      "bullets_20s": "• El desempleo juvenil es un desafío crítico en numerosos países alrededor del mundo.\n• Aproximadamente uno de cada ocho jóvenes se encuentra desempleado actualmente.\n• Las cifras del desempleo juvenil se han incrementado en comparación con años anteriores.\n• La OIT alerta sobre la falta de oportunidades laborales para la juventud global.\n• Los gobiernos deben implementar estrategias efectivas para combatir este problema creciente.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/desempleo-juvenil-en-el-mundo-aumento-en-2025/4MAJCDBSGBCYTB4JERVXSECDVY/story/",
+      "publish_date": "2026-08-11T23:30:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El desempleo juvenil ha alcanzado el 12,4% en 2025 a nivel global.",
+      "image_url": "",
+      "description": "La tasa mundial de desempleo de las personas de 15 a 24 años alcanzó el 12,4% en 2025, frente al 12,3% en 2024",
+      "featured": false
+    },
+    {
+      "slug": "el-chileno-alexis-sanchez-llega-a-la-mls",
+      "title": "El chileno Alexis Sánchez llega a la MLS",
+      "category": "Mundo",
+      "bullets_20s": "• Alexis Sánchez es uno de los goleadores más reconocidos de los últimos años a nivel mundial.\n• El fútbol de la MLS ha atraído a ciertos deportistas en sus etapas finales de carrera.\n• La llegada de Sánchez a la MLS puede aumentar el interés en el fútbol estadounidense.\n• Jugadores como él contribuyen a elevar el nivel de competencia en la liga norteamericana.\n• El impacto de Alexis en la MLS será seguido de cerca por aficionados y analistas deportivos.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/puro-deporte/el-chileno-alexis-sanchez-llega-a-la-mls/7N63OTMJMJB7ZGI6UXH72ISNMA/story/",
+      "publish_date": "2026-08-11T23:25:39.000Z",
+      "teaser": "Lo clave en 20 segundos: Alexis Sánchez se une a la MLS, marcando un nuevo capítulo en su carrera.",
+      "image_url": "",
+      "description": "El goleador Alexis Sánchez se une a la lista de jugadores que se van a la MLS en la recta final de sus carreras.",
+      "featured": false
+    },
+    {
+      "slug": "pidio-un-prestamo-informal-y-ahora-lo-amenazan-estas-son-las-senales-de-alerta-de-un-gota-a-gota",
+      "title": "¿Pidió un préstamo informal y ahora lo amenazan? Estas son las señales de alerta de un ‘gota a gota’",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los préstamos 'gota a gota' son peligrosos y pueden llevar a situaciones de riesgo.\n• Más del 95% de los casos de extorsión cobratoria terminan en agresiones físicas.\n• Es importante conocer las señales de alerta para evitar caer en estos préstamos.\n• El OIJ recomienda a la población evitar el uso de prestamistas informales.\n• Conozca cómo denunciar y protegerse ante amenazas relacionadas con préstamos.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/el-pais/pidio-un-prestamo-informal-y-ahora-lo-amenazan/P6BIJ5BENNGSJDAMMP7VW4B42M/story/",
+      "publish_date": "2026-08-11T23:14:31.000Z",
+      "teaser": "Lo clave en 20 segundos: prevenga amenazas al pedir préstamos informales en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/RR7A4MQ2PNDCTMLB26HHTDFMEE.png?auth=3df01ddecd787a796aa58a8a0298c71ccb48a7e7fe045e69411c94511f04d1e8&smart=true&width=1920&height=1080",
+      "description": "El OIJ advierte sobre los peligros de los préstamos 'gota a gota' en Costa Rica.",
+      "featured": false
+    },
+    {
+      "slug": "corinthians-anuncia-la-salida-de-memphis-depay-por-razones-economicas",
+      "title": "Corinthians anuncia la salida de Memphis Depay por razones económicas",
+      "category": "Mundo",
+      "bullets_20s": "• Corinthians enfrenta dificultades económicas significativas que lo obligan a tomar decisiones drásticas.\n• Memphis Depay, figura clave del equipo, ya no formará parte de la plantilla por esta situación.\n• El club ha acumulado deudas que están afectando su capacidad de mantener a sus jugadores.\n• La salida de Depay marca un reto para el equipo en cuanto a su desempeño y estrategia.\n• Los aficionados del Corinthians expresan su tristeza por la partida de su estrella.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/puro-deporte/corinthians-anuncia-la-salida-de-memphis-depay-por/YNF7JJXYKJGRPB5AC7EHSZ5MUA/story/",
+      "publish_date": "2026-08-11T23:11:01.000Z",
+      "teaser": "Lo clave en 20 segundos: Corinthians pierde a Memphis Depay por problemas financieros.",
+      "image_url": "https://www.nacion.com/resizer/v2/4KMEKKG4IVFONJ6ZXKAX2VLRBA.jpg?auth=bd8b9f674189d9db971c3c19cbfad4937ee48685278064c322e56b833cddb55f&smart=true&width=3000&height=2000",
+      "description": "El Corinthians mantiene una millonaria deuda con su estrella Memphis Depay y no podrá contar más con sus servicios.",
+      "featured": false
+    },
+    {
       "slug": "que-son-los-comites-patrioticos-ariel-robles-detalla-en-que-consiste-su-propuesta-de-articulacion-ciudadana",
       "title": "¿Qué son los comités patrióticos? Ariel Robles detalla en qué consiste su propuesta de articulación ciudadana",
       "category": "Costa Rica",
@@ -11,6 +63,19 @@
       "teaser": "Lo clave en 20 segundos: Propuesta de Ariel Robles para articular la ciudadanía en el contexto político actual.",
       "image_url": "https://www.nacion.com/resizer/v2/T5FENIV72NHHPBTAMSEY5Y2F74.jpg?auth=f3d11ecbe77ee75543871de291e9bebf5d36057bf7151c13e5310f3069395c04&smart=true&width=3744&height=2674",
       "description": "El planteamiento retoma una de las experiencias organizativas de la campaña del “No al TLC”, para impulsar una respuesta ciudadana articulada ante el actual contexto político.",
+      "featured": false
+    },
+    {
+      "slug": "que-es-el-cinturon-de-fuego-del-pacifico-en-el-que-se-encuentra-colombia-y-por-que-el-90-de-los-terremotos-del-mundo-ocu",
+      "title": "Qué es el Cinturón de Fuego del Pacífico en el que se encuentra Colombia y por qué el 90% de los terremotos del mundo ocurren en esta zona",
+      "category": "Mundo",
+      "bullets_20s": "• El Cinturón de Fuego del Pacífico es una franja geológica activa rodeando el océano Pacífico.\n• Esta zona es conocida por su alta actividad sísmica y volcánica a nivel mundial.\n• El 90% de todos los terremotos ocurren en esta región geográfica específica.\n• El fenómeno se debe a la interacción de varias placas tectónicas en el área.\n• Incluye países como Colombia, Japón, Chile, y Estados Unidos, entre otros.\n• Los volcanes en esta área son responsables de erupciones devastadoras a lo largo de la historia.\n• La investigación del Cinturón de Fuego es crucial para la seguridad de muchas naciones.\n• Comprender su dinámica ayuda en la prevención de desastres naturales.\n• La educación sobre este fenómeno es vital en las comunidades propensas a sismos.\n• El Cinturón de Fuego impacta diversos ecosistemas y formas de vida en su entorno.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c8jnkznlx3no?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-11T21:14:38.000Z",
+      "teaser": "Lo clave en 20 segundos: El Cinturón de Fuego es crucial para entender los terremotos globales.",
+      "image_url": "",
+      "description": "El Cinturón del Fuego del Pacífico, conocido también como Anillo de Fuego, abarca un gran número de países de América y Asia.",
       "featured": false
     },
     {
@@ -82,13 +147,13 @@
       "slug": "reglamento-contra-el-acoso-laboral-en-el-instituto-tecnologico-de-costa-rica",
       "title": "Reglamento contra el Acoso Laboral en el Instituto Tecnológico de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El reglamento establece medidas para erradicar el acoso laboral en el Instituto Tecnológico de Costa Rica.\n• Se aplica a toda la comunidad universitaria, incluida la modalidad de teletrabajo.\n• Define el acoso laboral como una práctica discriminatoria que afecta la dignidad humana.\n• Se establecen procedimientos claros para la denuncia y la investigación del acoso laboral.\n• La Unidad Especializada de Investigación contra el Acoso Laboral supervisará el cumplimiento del reglamento.",
+      "bullets_20s": "• El reglamento establece normas claras para prevenir el acoso laboral en el ITCR.\n• Se prohíbe cualquier conducta que menosprecie la dignidad de las personas trabajadoras.\n• Incluye procedimientos específicos para denunciar acoso laboral y brindar protección.\n• La Unidad Especializada de Investigación contra el Acoso Laboral (UNECAL) es clave en este proceso.\n• El reglamento se aplicará a todos los miembros de la comunidad del ITCR.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/reglamento-acoso-laboral-instituto-tecnologico-costa-rica-0",
       "publish_date": "2026-08-11T19:45:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Se crea un reglamento para prevenir el acoso laboral en el ITCR.",
+      "teaser": "Lo clave en 20 segundos: Reglamento del ITCR prohíbe el acoso laboral y establece procedimientos claros.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "Este reglamento busca prevenir, investigar y sancionar el acoso laboral en el ITCR.",
+      "description": "Evita y sanciona conductas de acoso laboral en la comunidad universitaria del ITCR, promoviendo un ambiente de respeto.",
       "featured": false
     },
     {
@@ -132,15 +197,15 @@
     },
     {
       "slug": "presentacion-del-libro-afrocostarricenses",
-      "title": "Presentación del libro 'Afrocostarricenses'",
+      "title": "Presentación del libro \"Afrocostarricenses\"",
       "category": "Costa Rica",
-      "bullets_20s": "• La Cátedra de Realidad Nacional invita a la comunidad a un evento literario importante.\n• El libro explora la historia de la población afrodescendiente en Costa Rica detalladamente.\n• Quince Duncan combina un enfoque testimonial con bases históricas y culturales en su obra.\n• La presentación se llevará a cabo en el Salón Jacaranda de San Carlos a las 2:00 p.m.\n• La actividad es gratuita y abierta al público, habrá venta de ejemplares también.",
+      "bullets_20s": "• La Cátedra de Realidad Nacional invita a la presentación del libro el lunes 17 de agosto.\n• El evento se llevará a cabo en el Salón Jacaranda del Campus Tecnológico Local San Carlos.\n• El autor, Quince Duncan, ha investigado sobre la población afrodescendiente en Costa Rica.\n• Se presentarán cinco décadas de estudios en un enfoque histórico y cultural.\n• La actividad es gratuita y abierta al público en general.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-afrocostarricenses",
       "publish_date": "2026-08-11T18:22:43.000Z",
-      "teaser": "Lo clave en 20 segundos: descubre la historia afrodescendiente en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Presentación del libro sobre la historia afrodescendiente en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/19937285-6e62-4a11-9e44-c10de05a225c-1.jpg",
-      "description": "Presentación del libro 'Afrocostarricenses'",
+      "description": "Presentación del libro \"Afrocostarricenses\"",
       "featured": false
     },
     {
@@ -251,11 +316,11 @@
       "slug": "el-tec-apuesta-por-las-microcredenciales-para-acelerar-respuestas-a-la-industria-y-la-sociedad",
       "title": "El TEC apuesta por las microcredenciales para acelerar respuestas a la industria y la sociedad",
       "category": "Costa Rica",
-      "bullets_20s": "• Las microcredenciales permiten a la universidad responder rápidamente a necesidades del sector productivo.\n• Se busca mantener actualizados a egresados y estudiantes frente a los cambios tecnológicos constantes.\n• El modelo ya implementado en otras universidades de Europa y América busca adaptarse a Costa Rica.\n• Más de 40 personas han trabajado en diseño de propuestas para estas innovadoras microcredenciales.\n• El TEC planea incorporar microcredenciales en diversas modalidades educativas, incluyendo programas técnicos.",
+      "bullets_20s": "• Las microcredenciales permiten respuesta rápida a necesidades del sector productivo y la sociedad.\n• Se busca incorporar microcredenciales en diversas áreas de educación, desde grado hasta diplomados.\n• Docentes y administrativos del TEC trabajan en ocho propuestas específicas de microcredenciales.\n• Estas credenciales son más flexibles y rápidas de implementar que los cursos tradicionales.\n• El Tecnológico de Monterrey acompaña al TEC en la implementación de este innovador modelo educativo.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-apuesta-microcredenciales-acelerar-respuestas-industria-sociedad",
       "publish_date": "2026-08-11T16:59:27.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC busca innovar con microcredenciales para adaptarse a necesidades educativas.",
+      "teaser": "Lo clave en 20 segundos: El TEC impulsa microcredenciales para adaptarse a necesidades del sector productivo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/micro.jpeg",
       "description": "El TEC apuesta por las microcredenciales para acelerar respuestas a la industria y la sociedad",
       "featured": false
@@ -667,11 +732,11 @@
       "slug": "editorial-tecnologica-de-costa-rica-participara-en-la-feria-internacional-del-libro-costa-rica-2026",
       "title": "Editorial Tecnológica de Costa Rica participará en la Feria Internacional del Libro Costa Rica 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Feria Internacional del Libro Costa Rica 2026 se celebrará del 21 al 30 de agosto.\n• Editorial Tecnológica presentará tres publicaciones destacadas en su catálogo editorial.\n• Las actividades incluirán presentaciones de libros y conferencias de autores nacionales.\n• Guatemala será el país invitado de honor, enriqueciendo el evento culturalmente.\n• La entrada a la feria será gratuita y abierta a todo público interesado en la literatura.",
+      "bullets_20s": "• La Feria Internacional del Libro Costa Rica 2026 se celebrará del 21 al 30 de agosto.\n• Se realizarán actividades culturales como presentaciones de libros y conferencias.\n• El evento será gratuito y accesible para el público en general.\n• Guatemala será el país invitado de honor con una variada agenda cultural.\n• La Editorial Tecnológica presentará tres nuevos libros durante la feria.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/editorial-tecnologica-costa-rica-participara-feria-internacional-libro-costa-rica-2026",
       "publish_date": "2026-08-10T21:57:45.000Z",
-      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica estará presente en la FILCR 2026 con grandes publicaciones.",
+      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica estará presente en la Feria Internacional del Libro Costa Rica 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/feria_internacional_universitaria_libro_2024_rgarita-7.jpg",
       "description": "Editorial Tecnológica de Costa Rica participará en la Feria Internacional del Libro Costa Rica 2026",
       "featured": false
@@ -73906,10 +73971,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-11T22:45:24.551Z",
-  "total": 5685,
-  "removed_soccer_news_count": 1029,
+  "generated_at": "2026-08-11T23:45:23.901Z",
+  "total": 5690,
+  "removed_soccer_news_count": 1030,
   "removed_soccer_news_titles": [
+    "¿Costa Rica podrá seguir en el Consejo Director de la FIFA? Esto es lo que se sabe",
     "Ceferin, el ‘rebelde’ atípico que pone contra las cuerdas a Infantino",
     "Jugador del Barcelona sufre una grave lesión de rodilla",
     "Donald Trump sale al rescate de Infantino",
@@ -73958,7 +74024,6 @@
     "Procesan a futbolista del Sao Paulo por atropellar mortalmente a un anciano en aparente carrera ilegal",
     "Alerta del Banco Mundial: Países en desarrollo deben adoptar inteligencia artificial o se quedarán atrás",
     "Costa Rica busca el pase al Mundial: hora y canales para ver a la selección en México",
-    "Tabla de posiciones del Torneo Apertura 2026: así marcha el fútbol en Costa Rica tras la jornada 2",
-    "Pérez Zeledón vs. Cartaginés: un duelo equilibrado y con pocas opciones de gol"
+    "Tabla de posiciones del Torneo Apertura 2026: así marcha el fútbol en Costa Rica tras la jornada 2"
   ]
 }
