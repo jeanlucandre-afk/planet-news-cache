@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "aya-atendera-problemas-de-abastecimiento-nocturno-de-agua-en-pavas-tras-muerte-de-padre-e-hijo-en-incendio",
+      "title": "AyA atenderá problemas de abastecimiento nocturno de agua en Pavas tras muerte de padre e hijo en incendio",
+      "category": "Costa Rica",
+      "bullets_20s": "• AyA se compromete a abordar el problema del abastecimiento nocturno de agua en Pavas.\n• La falta de agua en la zona dificultó la respuesta ante un incendio doméstico grave.\n• El incendio resultó en la trágica muerte de un padre y su hijo adolescente.\n• Vecinos intentaron ayudar, pero la ausencia de agua complicó la situación.\n• La acción de AyA se deriva de la necesidad urgente de atención en el sector.",
+      "source_name": "Natalia Vargas",
+      "source_url": "https://www.nacion.com/sucesos/aya-atendera-problemas-de-abastecimiento-nocturno/P4K364PORNGSPHPY5XQAFJGCTY/story/",
+      "publish_date": "2026-08-11T21:12:17.000Z",
+      "teaser": "Lo clave en 20 segundos: AyA aborda el abastecimiento de agua tras tragedia en Pavas.",
+      "image_url": "https://www.nacion.com/resizer/v2/4NAYHYRLXVDJRIYBMRGDLSS7PE.JPG?auth=15e2647dc279577ac86093db5e2cd3a6f91960d7b046d1967a0194d5da44d045&smart=true&width=3000&height=2000",
+      "description": "Eduardo Francisco Pérez Badilla y su hijo, de 14 años, pedían a sus vecinos que lanzaran agua mientras el fuego avanzaba en su vivienda. Nadie pudo ayudarlos, pues en la zona no hay recurso hídrico por las noches.",
+      "featured": false
+    },
+    {
+      "slug": "procomer-revela-acciones-ante-incertidumbre-sobre-inversion-y-despidos-en-multinacionales-en-costa-rica",
+      "title": "Procomer revela acciones ante incertidumbre sobre inversión y despidos en multinacionales en Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• Procomer ha presentado un plan para atraer inversión extranjera en el país.\n• El enfoque del plan está centrado en el talento humano y mejorar la competitividad.\n• Las multinacionales han expresado incertidumbre sobre futuras inversiones en Costa Rica.\n• Las acciones buscan mitigar el impacto de posibles despidos en el sector.\n• El gobierno trabaja en estrategias para garantizar un ambiente favorable a la inversión.",
+      "source_name": "Gustavo Ortega Campos",
+      "source_url": "https://www.nacion.com/economia/procomer-revela-acciones-ante-incertidumbre-sobre/BPYGJBBTDVHNVNN57LOTOBGUNQ/story/",
+      "publish_date": "2026-08-11T21:03:12.000Z",
+      "teaser": "Lo clave en 20 segundos: Procomer actúa ante la incertidumbre de inversión extranjera en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/2INMORBMGVDGBB67R26ZBNSXRU.JPG?auth=1379e59ce67307ad17f4ec8c08ff12c1e0e151b74221be2b37bd1a3b186f0bba&smart=true&width=3600&height=2400",
+      "description": "Procomer responde a la incertidumbre sobre la inversión extranjera en Costa Rica con un plan enfocado en talento y competitividad.",
+      "featured": false
+    },
+    {
       "slug": "venezuela-retoma-servicios-consulares-y-cooperacion-tecnica-con-israel-interrumpidas-desde-el-gobierno-de-hugo-chavez",
       "title": "Venezuela retoma servicios consulares y ‘cooperación técnica’ con Israel, interrumpidas desde el gobierno de Hugo Chávez",
       "category": "Mundo",
@@ -43,13 +69,13 @@
       "slug": "reglamento-contra-el-acoso-laboral-en-el-instituto-tecnologico-de-costa-rica",
       "title": "Reglamento contra el Acoso Laboral en el Instituto Tecnológico de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El reglamento busca proteger los derechos de los trabajadores del ITCR frente al acoso laboral.\n• Las denuncias de acoso laboral deben presentarse a través de un proceso específico en el ITCR.\n• La UNECAL es la unidad encargada de atender y resolver denuncias de acoso laboral en el ITCR.\n• Se establece la obligación de erradicar el acoso laboral dentro de la comunidad universitaria del ITCR.\n• Las sanciones por acoso laboral pueden incluir amonestaciones, suspensiones o despido sin responsabilidad.",
+      "bullets_20s": "• El reglamento busca prevenir, investigar y sancionar el acoso laboral en el ITCR.\n• Este reglamento es aplicable a toda la comunidad universitaria del ITCR.\n• El acoso laboral incluye conductas agresivas y abusivas en el entorno laboral.\n• La Unidad Especializada de Investigación será responsable de casos de acoso laboral.\n• Se definen claramente las situaciones que constituyen acoso laboral en el reglamento.\n• Las denuncias deben ser presentadas por escrito y seguir un procedimiento específico.\n• Se prohíbe tomar represalias contra quienes realicen denuncias de acoso laboral.\n• Las sanciones varían desde amonestaciones hasta despido por acoso laboral.\n• Las medidas preventivas buscan erradicar conductas de acoso en la institución.\n• El reglamento entra en vigencia tras la publicación oficial correspondiente.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/reglamento-acoso-laboral-instituto-tecnologico-costa-rica-0",
       "publish_date": "2026-08-11T19:45:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevo reglamento busca erradicar el acoso laboral en el ITCR.",
+      "teaser": "Lo clave en 20 segundos: Se establece un reglamento contra el acoso laboral en el ITCR.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "El reglamento establece normas sobre la prevención y sanción del acoso laboral en el ITCR.",
+      "description": "Reglamento derogado, disposiciones generales, objetivos, definiciones y procedimientos sobre acoso laboral en el ITCR.",
       "featured": false
     },
     {
@@ -89,6 +115,19 @@
       "teaser": "Lo clave en 20 segundos: SEC inicia acciones legales contra Chaves por sus declaraciones sobre el sindicato.",
       "image_url": "https://www.nacion.com/resizer/v2/XVDJDXBHCFHPFCCXWZ7JTS7TBU.png?auth=85656957f6b8bda0bbe0ab737396de0d2971c5ae765799ff0e0188372ef2d4ee&smart=true&width=1200&height=628",
       "description": "La organización gremial rechazó los señalamientos del ministro Chaves sobre los ingresos de su secretario general y sobre las cuotas sindicales.",
+      "featured": false
+    },
+    {
+      "slug": "presentacion-del-libro-afrocostarricenses",
+      "title": "Presentación del libro \"Afrocostarricenses\"",
+      "category": "Costa Rica",
+      "bullets_20s": "• La presentación se llevará a cabo el 17 de agosto en el Salón Jacaranda del TEC.\n• Quince Duncan es el autor del libro, un referente en los estudios afrodescendientes.\n• La obra se centra en cinco décadas de estudios sobre la población afrodescendiente.\n• Incluye un enfoque testimonial y fundamentos históricos sobre la comunidad afrocostarricense.\n• La entrada a la actividad es gratuita y abierta al público en general.",
+      "source_name": "tkguzman",
+      "source_url": "http://www.tec.ac.cr/presentacion-libro-afrocostarricenses",
+      "publish_date": "2026-08-11T18:22:43.000Z",
+      "teaser": "Lo clave en 20 segundos: presentación del libro 'Afrocostarricenses' el 17 de agosto.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/19937285-6e62-4a11-9e44-c10de05a225c-1.jpg",
+      "description": "Presentación del libro \"Afrocostarricenses\"",
       "featured": false
     },
     {
@@ -193,6 +232,19 @@
       "teaser": "Lo clave en 20 segundos: Cinta Azul lanza una línea de embutidos saludables y altos en proteínas.",
       "image_url": "https://www.nacion.com/resizer/v2/MEBZXYTBQFBO7E7H4SLTTUVGVI.JPG?auth=4a01427521a249b1f730de4965078b4214dc0c986917943f5f22804a173d5d8b",
       "description": "La nueva línea de pechuga de pollo aporta entre 16 y 17 gramos de proteína por porción y busca responder a las exigencias de un consumidor cada vez más enfocado en el autocuidado.",
+      "featured": false
+    },
+    {
+      "slug": "el-tec-apuesta-por-las-microcredenciales-para-acelerar-respuestas-a-la-industria-y-la-sociedad",
+      "title": "El TEC apuesta por las microcredenciales para acelerar respuestas a la industria y la sociedad",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las microcredenciales permiten una rápida respuesta educativa a las necesidades del sector productivo.\n• El Tecnológico de Costa Rica busca incorporar estas credenciales en diversas áreas académicas.\n• Este modelo educativo responde a la velocidad del cambio tecnológico en la sociedad actual.\n• Los programas de microcredenciales son cortos, flexibles y centrados en habilidades específicas.\n• La estrategia educativa también involucra la participación activa de docentes y administrativos.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/tec-apuesta-microcredenciales-acelerar-respuestas-industria-sociedad",
+      "publish_date": "2026-08-11T16:59:27.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC impulsa microcredenciales para responder a necesidades educativas del sector productivo.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/micro.jpeg",
+      "description": "El TEC apuesta por las microcredenciales para acelerar respuestas a la industria y la sociedad",
       "featured": false
     },
     {
@@ -602,11 +654,11 @@
       "slug": "editorial-tecnologica-de-costa-rica-participara-en-la-feria-internacional-del-libro-costa-rica-2026",
       "title": "Editorial Tecnológica de Costa Rica participará en la Feria Internacional del Libro Costa Rica 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Feria Internacional del Libro Costa Rica 2026 se desarrollará del 21 al 30 de agosto.\n• Editorial Tecnológica presentará tres libros en esta importante feria literaria.\n• Un enfoque en el encuentro entre lectores, escritores, editoriales y estudiantes.\n• Guatemala será el país invitado de honor con actividades culturales variadas.\n• La entrada a la feria es gratuita y abierta para todo público interesado.",
+      "bullets_20s": "• La Feria Internacional del Libro Costa Rica 2026 se celebrará del 21 al 30 de agosto.\n• Se presentarán libros destacados, incluyendo dos hombres y un volcán y aves endémicas.\n• Guatemala será el país invitado de honor en esta edición de la feria literaria.\n• Habrá una variada agenda cultural con presentaciones y conferencias a lo largo del evento.\n• La actividad es gratuita y abierta a todo el público, invitando a la participación ciudadana.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/editorial-tecnologica-costa-rica-participara-feria-internacional-libro-costa-rica-2026",
       "publish_date": "2026-08-10T21:57:45.000Z",
-      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica de Costa Rica participará en la feria de libros 2026.",
+      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica participará en la Feria Internacional del Libro 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/feria_internacional_universitaria_libro_2024_rgarita-7.jpg",
       "description": "Editorial Tecnológica de Costa Rica participará en la Feria Internacional del Libro Costa Rica 2026",
       "featured": false
@@ -73841,8 +73893,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-11T20:45:24.672Z",
-  "total": 5680,
+  "generated_at": "2026-08-11T21:45:25.572Z",
+  "total": 5684,
   "removed_soccer_news_count": 1028,
   "removed_soccer_news_titles": [
     "Jugador del Barcelona sufre una grave lesión de rodilla",
