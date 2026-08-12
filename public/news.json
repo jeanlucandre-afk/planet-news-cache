@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "estados-unidos-anuncia-que-colombia-autorizo-acciones-militares-conjuntas-contra-el-narcotrafico",
+      "title": "Estados Unidos anuncia que Colombia autorizó acciones militares conjuntas contra el narcotráfico",
+      "category": "Mundo",
+      "bullets_20s": "• Estados Unidos y Colombia coordinarán esfuerzos para combatir el narcotráfico de manera conjunta.\n• La colaboración militar busca fortalecer la acción contra organizaciones criminales en la región.\n• El nuevo presidente colombiano ha decidido hacer ajustes en la política antidrogas del país.\n• Esta decisión puede tener repercusiones significativas en la política exterior de ambos países.\n• Las acciones militares buscan optimizar la misión de erradicar radicalmente el narcotráfico.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/estados-unidos-anuncia-que-colombia-autorizo/544XSVNWUVCUBGG6UCT3FTPQZU/story/",
+      "publish_date": "2026-08-12T20:22:18.000Z",
+      "teaser": "Lo clave en 20 segundos: Estados Unidos y Colombia colaborarán en la lucha contra el narcotráfico.",
+      "image_url": "https://www.nacion.com/resizer/v2/GBLZBJRLNRFS5M2FH76JNMK65I.jpg?auth=1fae18d2f1f30fabad022e6235851620a2bcbfe12e85a82e1efbe3cfb4b972a4&smart=true&width=1200&height=786",
+      "description": "Cooperación se anuncia tras la decisión del nuevo presidente colombiano, Abelardo de la Espriella, de ingresar a coalición antidrogas.",
+      "featured": false
+    },
+    {
+      "slug": "costa-rica-pide-a-panama-eliminar-trabas-al-comercio-y-propone-dos-vias-para-resolver-conflicto",
+      "title": "Costa Rica pide a Panamá eliminar trabas al comercio y propone dos vías para resolver conflicto",
+      "category": "Costa Rica",
+      "bullets_20s": "• Costa Rica ha solicitado la eliminación de impedimentos comerciales impuestos por Panamá en diversas ocasiones.\n• Las propuestas incluyen vías diplomáticas para resolver la larga disputa comercial entre ambos países.\n• La disputa ha afectado significativamente la exportación de productos y el transporte de carga desde 2019.\n• El comercio entre Costa Rica y Panamá es crucial para ambas economías, impactando a muchos sectores.\n• Las autoridades costarricenses buscan fortalecer relaciones comerciales mediante soluciones constructivas.",
+      "source_name": "Gustavo Ortega Campos",
+      "source_url": "https://www.nacion.com/economia/costa-rica-pide-a-panama-eliminar-trabas-al/NJXOZFLG4NC7DIPSXKOXN2LOOQ/story/",
+      "publish_date": "2026-08-12T20:07:04.000Z",
+      "teaser": "Lo clave en 20 segundos: Costa Rica propone soluciones a Panamá para mejorar el comercio bilateral.",
+      "image_url": "https://www.nacion.com/resizer/v2/JKIP7SVDNRFYTNDIIVNNSFMO4A.jpg?auth=a3a5a2cec5e0e02a16dd6a728b556a5ce16825b0698d4ea912e6744d91000c66&smart=true&width=3594&height=2695",
+      "description": "Costa Rica propone a Panamá dos alternativas para poner fin a la disputa comercial que afecta exportaciones y transporte de carga desde 2019.",
+      "featured": false
+    },
+    {
       "slug": "pescadores-de-ecuador-han-sido-atacados-por-gringos-no-identificados-y-entregados-a-el-salvador-revela-el-new-york-times",
       "title": "Pescadores de Ecuador han sido atacados por ‘gringos’ no identificados y entregados a El Salvador, revela el ‘New York Times’",
       "category": "Mundo",
@@ -56,11 +82,11 @@
       "slug": "technology-on-business-2026-invita-a-dominar-el-caos-en-un-congreso-de-dos-dias-en-el-tec",
       "title": "Technology on Business 2026 invita a “dominar el caos” en un congreso de dos días en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC será la sede del congreso Technology on Business en agosto de 2026.\n• El evento busca conectar estudiantes con la industria y fomentar el liderazgo.\n• Habrá varios bloques temáticos centrados en desarrollo personal y profesional.\n• Se incluirán paneles sobre mujeres en tecnología y finanzas personales.\n• HackaToB será una de las novedades, enfocándose en la resolución de problemas reales.",
+      "bullets_20s": "• El TEC será sede de un congreso sobre tecnología y negocios el 18 y 19 de agosto.\n• Se presentarán temas sobre desarrollo personal, emprendimiento y liderazgo femenino en tecnología.\n• Se abordarán metodologías ágiles y ciberseguridad como herramientas esenciales para el sector.\n• HackaToB es una novedad que incluye un hackatón para estudiantes de todas las carreras.\n• El evento busca establecer un puente entre la academia y la industria en Costa Rica.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/technology-business-2026-invita-dominar-caos-congreso-dos-dias-tec",
       "publish_date": "2026-08-12T18:04:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Congreso en el TEC aborda tecnología y negocios, invitando a dominar el caos.",
+      "teaser": "Lo clave en 20 segundos: Technology on Business 2026 se centra en dominar el caos para el futuro laboral.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-12-a-las-12.04.27-p-m.png",
       "description": "Technology on Business 2026 invita a “dominar el caos” en un congreso de dos días en el TEC",
       "featured": false
@@ -69,11 +95,11 @@
       "slug": "bip-2026-tec-participa-en-la-8-conferencia-internacional-ieee-de-procesamiento-bioinspirado",
       "title": "BIP 2026: TEC participa en la 8ª Conferencia Internacional IEEE de Procesamiento Bioinspirado",
       "category": "Ciencia",
-      "bullets_20s": "• El Tecnológico de Costa Rica organiza nuevamente la Conferencia Internacional IEEE de Procesamiento Bioinspirado.\n• Esta edición se llevará a cabo del 11 al 13 de noviembre en Guápiles, Pococí, Limón.\n• La conferencia busca reunir a académicos y estudiantes de diversas partes del mundo.\n• Existen oportunidades de becas para estudiantes que colaboran como edecanes en el evento.\n• Invitados de alto prestigio participarán, enriqueciendo la experiencia académica para todos.",
+      "bullets_20s": "• El TEC organiza el BIP 2026, evento internacional en procesamiento bioinspirado y ciencias naturales.\n• La conferencia se llevará a cabo del 11 al 13 de noviembre en Guápiles, Limón.\n• BIP busca fortalecer el acceso académico en regiones fuera del Gran Área Metropolitana.\n• Este evento reunirá a investigadores de varios países y publicará trabajos en IEEE Xplore.\n• Se extiende la convocatoria para trabajos originales hasta el 28 de agosto de 2026.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/bip-2026-tec-participa-8a-conferencia-internacional-ieee-procesamiento-bioinspirado",
       "publish_date": "2026-08-12T17:17:49.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC organiza la Conferencia Internacional de Procesamiento Bioinspirado en noviembre de 2026.",
+      "teaser": "Lo clave en 20 segundos: El TEC organiza BIP 2026 para fortalecer la ciencia y tecnología en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/671174561_1012791327764162_6653865207600044479_n.jpg",
       "description": "BIP 2026: TEC participa en la 8ª Conferencia Internacional IEEE de Procesamiento Bioinspirado",
       "featured": false
@@ -615,13 +641,13 @@
       "slug": "reglamento-contra-el-acoso-laboral-en-el-instituto-tecnologico-de-costa-rica",
       "title": "Reglamento contra el Acoso Laboral en el Instituto Tecnológico de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• Este reglamento busca erradicar el acoso laboral dentro del Instituto Tecnológico de Costa Rica.\n• El reglamento se aplica a toda la comunidad del ITCR, incluyendo docentes y administrativos.\n• Prohíbe y sanciona el acoso laboral, promoviendo un ambiente de trabajo dignificado.\n• Se establecen procedimientos claros para denunciar situaciones de acoso laboral.\n• Una unidad especializada se encargará de investigar y gestionar denuncias en el ITCR.\n• Se garantiza la protección de denunciante y testigos, evitando represalias.\n• El reglamento toca múltiples tipos de acoso desde el descendente hasta el horizontal.\n• Se incorporan medidas preventivas para educar y sensibilizar sobre el acoso laboral.\n• La inclusión de sanciones será proporcional a la gravedad del acoso denunciado.\n• Este reglamento entrará en vigencia una vez que se cumplan los requisitos establecidos.",
+      "bullets_20s": "• El reglamento busca prohibir y sancionar el acoso laboral en la comunidad del ITCR.\n• Define el ámbito de aplicación para todo el personal docente y administrativo universitario.\n• Incluye protocolos para la denuncia y prevención del acoso laboral en el ITCR.\n• Establece la creación de una unidad especializada para la investigación de denuncias.\n• Prohibe cualquier tipo de represalia contra quienes denuncian situaciones de acoso laboral.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/reglamento-acoso-laboral-instituto-tecnologico-costa-rica-0",
       "publish_date": "2026-08-11T19:45:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Se aprueba el reglamento para combatir el acoso laboral en el ITCR.",
+      "teaser": "Lo clave en 20 segundos: Se implementa un reglamento para prevenir el acoso laboral en el ITCR.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "evsolano",
+      "description": "Reglamento que establece normas contra el acoso laboral en el Instituto Tecnológico de Costa Rica.",
       "featured": false
     },
     {
@@ -667,11 +693,11 @@
       "slug": "presentacion-del-libro-afrocostarricenses",
       "title": "Presentación del libro \"Afrocostarricenses\"",
       "category": "Costa Rica",
-      "bullets_20s": "• La Cátedra de Realidad Nacional invita a la comunidad a la presentación del libro.\n• El libro es del escritor e investigador costarricense Quince Duncan.\n• La obra abarca cinco décadas de estudios sobre la población afrodescendiente.\n• Combina un enfoque testimonial con fundamentos históricos y culturales.\n• Se realizará el 17 de agosto en el Salón Jacaranda del Tecnológico.",
+      "bullets_20s": "• La Cátedra de Realidad Nacional invita a la comunidad a la presentación del libro.\n• El evento será el lunes 17 de agosto en el Salón Jacaranda del TEC.\n• El autor, Quince Duncan, ha estudiado profundamente la historia afrocostarricense.\n• La obra recopila cinco décadas de estudios sobre la población afrodescendiente.\n• El libro incorpora contribuciones en literatura, teatro, danza y música.\n• La actividad es gratuita y abierta al público en general.\n• Habrá venta de ejemplares para quienes deseen adquirir el libro.\n• Se busca visibilizar el papel de la comunidad afro en la identidad costarricense.\n• Anteriormente, Duncan publicó un ensayo referente sobre la presencia africana.\n• La presentación es un evento significativo para la cultura nacional.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-afrocostarricenses",
       "publish_date": "2026-08-11T18:22:43.000Z",
-      "teaser": "Lo clave en 20 segundos: Presentación del libro \"Afrocostarricenses\" el 17 de agosto.",
+      "teaser": "Lo clave en 20 segundos: Presentación del libro que visibiliza la historia afrocostarricense.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/19937285-6e62-4a11-9e44-c10de05a225c-1.jpg",
       "description": "Presentación del libro \"Afrocostarricenses\"",
       "featured": false
@@ -74439,12 +74465,12 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-12T19:45:24.153Z",
-  "total": 5726,
+  "generated_at": "2026-08-12T20:45:23.674Z",
+  "total": 5728,
   "removed_soccer_news_count": 1038,
   "removed_soccer_news_titles": [
-    "Alejandro Bran recupera la sonrisa en Rumania",
     "Motagua vs. Cartaginés: Hora exacta y cómo ver el partido tras viaje accidentado de los brumosos",
+    "Alejandro Bran recupera la sonrisa en Rumania",
     "Ahora sí estás contenta: murió el papá de Lionel Messi y redes arremeten contra conductora de TV",
     "¿De qué murió Jorge Messi, el padre de Lionel Messi?",
     "Lionel Messi tiene serias dudas sobre seguir en el fútbol, a pocos días de la muerte de su padre",
