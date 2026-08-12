@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "yo-se-lo-que-es-dormir-en-una-bomba-de-gasolina-para-no-perder-mi-casa-dice-taxista-que-trabajo-en-garajes",
+      "title": "‘Yo sé lo que es dormir en una bomba de gasolina para no perder mi casa’, dice taxista que trabajó en garajes",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un taxista comparte su experiencia de dormir en una bomba para mantener su trabajo.\n• La demanda de taxis ha caído drásticamente en los últimos años.\n• Tecnología ha modificado la forma en que se opera el servicio de taxis.\n• Las nuevas aplicaciones han desplazado a los garajes tradicionales de taxis.\n• La historia refleja el impacto de la modernización en el sector transporte.",
+      "source_name": "Jorge Arturo Mora",
+      "source_url": "https://www.nacion.com/revista-dominical/yo-se-lo-que-es-dormir-en-una-bomba-de-gasolina/RVGOIRZCVZAJDGEQVAVS25EL5U/story/",
+      "publish_date": "2026-08-12T12:00:01.000Z",
+      "teaser": "Lo clave en 20 segundos: un taxista cuenta cómo la tecnología afectó su vida laboral en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/UJ4XZXO3GBGYLJCFZ326UAY3R4.JPG?auth=64876330ba247f823f6a95ade4ac5f9da13e5f90e616f31dd03a9d6a98f1ce28&smart=true&width=3000&height=2000",
+      "description": "Los garajes de operación de los taxis perdieron hasta el 80% de su demanda. Un chofer cuenta cómo la tecnología cambió para siempre un oficio que durante décadas movió a Costa Rica",
+      "featured": false
+    },
+    {
+      "slug": "secreto-de-estado-que-es-y-que-implica-la-declaratoria-de-laura-fernandez",
+      "title": "Secreto de Estado: ¿qué es y qué implica la declaratoria de Laura Fernández?",
+      "category": "Costa Rica",
+      "bullets_20s": "• La declaración de secreto de estado afecta la transparencia en la gestión pública y seguridad nacional.\n• Expertos analizan cómo clasificar información y su impacto en derechos ciudadanos y fiscalización.\n• Se discuten las posibles repercusiones legales y sociales del decreto en la opinión pública.\n• El papel de la DIS y el Consejo Nacional de Seguridad es clave en el manejo de esta información.\n• Las reservas informativas generan preocupación sobre posibles abusos del poder en la administración pública.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/politica/secreto-de-estado-que-es-y-que-implica-la/E5HZMRX2H5ARTJKCR6ULBMRHBU/story/",
+      "publish_date": "2026-08-12T12:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El decreto de Laura Fernández plantea importantes cuestiones sobre transparencia y fiscalización.",
+      "image_url": "https://www.nacion.com/resizer/v2/K7RUWZU2ABGWZLJXFB3Q3CSINE.JPG?auth=28a3ef5ae5ffa5800ca3b3eb583047a2c03424bf62adbcccf2669c7e66f73585&smart=true&width=3000&height=2000",
+      "description": "El decreto de Laura Fernández abarca información de la DIS, el Consejo Nacional de Seguridad y Fuerza Élite. Cinco abogados explican qué implica la reserva, si incluye contratos y cómo pueden fiscalizarse esos actos.",
+      "featured": false
+    },
+    {
+      "slug": "costa-rica-y-republica-dominicana-celebraron-150-anos-de-relaciones-altibajos-y-comercio",
+      "title": "Costa Rica y República Dominicana celebraron 150 años de relaciones, altibajos y comercio",
+      "category": "Costa Rica",
+      "bullets_20s": "• Costa Rica y República Dominicana celebran una historia de relaciones diplomáticas de 150 años.\n• El comercio entre ambas naciones ha pasado por altibajos significativos a lo largo de los años.\n• Las relaciones también han experimentado rupturas, pero siempre han vuelto a fortalecer lazos.\n• Ambos países han trabajado en conjunto para mejorar el comercio bilateral y la cooperación.\n• Se destacan los intercambios culturales y educativos que han enriquecido sus vínculos.",
+      "source_name": "Fernando Chaves Espinach",
+      "source_url": "https://www.nacion.com/el-mundo/costa-rica-y-republica-dominicana-celebraron-150/6WBIVVQYG5B2PFASXME6TOLMSQ/story/",
+      "publish_date": "2026-08-12T11:55:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Celebración de 150 años de relaciones entre Costa Rica y República Dominicana.",
+      "image_url": "https://www.nacion.com/resizer/v2/MD6LENNPFZD4VPBUW7W5PGRIEQ.jpg?auth=649a0014b6db46ff2c789e10c42796ce49e79d1ecdd16e8b59ad021865042367&smart=true&width=1280&height=852",
+      "description": "Costa Rica y República Dominicana conmemoran 150 años de relaciones diplomáticas. Esta es su historia de su comercio, rupturas y alianzas.",
+      "featured": false
+    },
+    {
       "slug": "rutas-desiguales-falta-de-informacion-y-recursos-limitados-impiden-mantener-toda-la-red-cantonal-en-buenas-condiciones",
       "title": "Rutas desiguales, falta de información y recursos limitados impiden mantener toda la red cantonal en buenas condiciones",
       "category": "Costa Rica",
@@ -277,13 +316,13 @@
       "slug": "reglamento-contra-el-acoso-laboral-en-el-instituto-tecnologico-de-costa-rica",
       "title": "Reglamento contra el Acoso Laboral en el Instituto Tecnológico de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El reglamento establece medidas claras para erradicar el acoso laboral en el ITCR.\n• Prohíbe cualquier forma de acoso, incluyendo situaciones de teletrabajo y en espacios públicos.\n• El procedimiento de denuncia debe realizarse en un plazo de tres meses tras el acoso.\n• Incluye la creación de una Unidad Especializada de Investigación contra el Acoso Laboral.\n• Se contemplan sanciones que van desde amonestaciones hasta despido sin responsabilidad patronal.",
+      "bullets_20s": "• Este reglamento busca erradicar el acoso laboral en el entorno universitario del ITCR.\n• La normativa aborda la prevención, investigación y sanción de acoso en todos los campus.\n• Se define el acoso laboral y su impacto negativo sobre la salud psicofísica de los afectados.\n• El reglamento establece procedimientos claros para la denuncia de conductas abusivas.\n• Incluye la creación de una unidad especializada para manejar denuncias de acoso laboral.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/reglamento-acoso-laboral-instituto-tecnologico-costa-rica-0",
       "publish_date": "2026-08-11T19:45:35.000Z",
-      "teaser": "Lo clave en 20 segundos: un reglamento para prevenir el acoso laboral en el ITCR.",
+      "teaser": "Lo clave en 20 segundos: Nuevo reglamento prohíbe el acoso laboral en el ITCR.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "El reglamento busca prevenir y sancionar el acoso laboral en el Instituto Tecnológico de Costa Rica.",
+      "description": "Reglamento para la prevención y sanción del acoso laboral en el Instituto Tecnológico de Costa Rica, promoviendo un ambiente seguro.",
       "featured": false
     },
     {
@@ -329,11 +368,11 @@
       "slug": "presentacion-del-libro-afrocostarricenses",
       "title": "Presentación del libro \"Afrocostarricenses\"",
       "category": "Costa Rica",
-      "bullets_20s": "• La Cátedra de Realidad Nacional invita a la comunidad institucional a participar del evento.\n• El libro es del escritor e investigador costarricense Quince Duncan y es muy esperado.\n• Combina un enfoque testimonial con fundamentos históricos sobre la población afrodescendiente.\n• La presentación se realizará el 17 de agosto a las 2:00 p.m. en San Carlos.\n• Habrá venta de ejemplares para quienes deseen adquirir la obra tras la presentación.",
+      "bullets_20s": "• La Cátedra de Realidad Nacional invita a la presentación del libro \"Afrocostarricenses\".\n• El evento se realizará el lunes 17 de agosto a las 2:00 p.m.\n• La obra es del prestigioso escritor e investigador Quince Duncan.\n• Reúne cinco décadas de estudios sobre la población afrodescendiente en el país.\n• El autor actualiza un panorama histórico sobre la presencia africana en Costa Rica.\n• Se incluirán contribuciones culturales de la población afrodescendiente.\n• La actividad es gratuita y abierta al público en general.\n• Habrá venta de ejemplares del libro para quienes estén interesados.\n• El evento tendrá lugar en el Salón Jacaranda del Campus Tecnológico Local San Carlos.\n• Este es un esfuerzo por visibilizar la identidad cultural costarricense.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-afrocostarricenses",
       "publish_date": "2026-08-11T18:22:43.000Z",
-      "teaser": "Lo clave en 20 segundos: Presentación del libro \"Afrocostarricenses\" el 17 de agosto.",
+      "teaser": "Lo clave en 20 segundos: Presentación del libro 'Afrocostarricenses' el 17 de agosto en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/19937285-6e62-4a11-9e44-c10de05a225c-1.jpg",
       "description": "Presentación del libro \"Afrocostarricenses\"",
       "featured": false
@@ -446,11 +485,11 @@
       "slug": "el-tec-apuesta-por-las-microcredenciales-para-acelerar-respuestas-a-la-industria-y-la-sociedad",
       "title": "El TEC apuesta por las microcredenciales para acelerar respuestas a la industria y la sociedad",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC introduce microcredenciales para alinearse con las necesidades del sector productivo en Costa Rica.\n• La iniciativa busca formar y actualizar personas egresadas frente a los cambios tecnológicos actuales.\n• Microcredenciales son programas cortos y flexibles, enfocados en competencias específicas del ámbito laboral.\n• Hasta ahora, cerca de 40 docentes trabajan en el diseño de ocho propuestas de microcredenciales.\n• La Rectora del TEC destaca la importancia de la educación a lo largo de la vida para la población.",
+      "bullets_20s": "• Las microcredenciales permiten respuestas rápidas a las necesidades del sector productivo y educativo.\n• Su diseño se enfoca en habilidades prácticas, alineadas con las demandas del mercado laboral actual.\n• El TEC busca implementar estas credenciales en diversos programas académicos a corto plazo.\n• Las propuestas serán diseñadas por equipos de trabajo conformados por docentes y expertos.\n• Las microcredenciales se presentan como una alternativa flexible a los cursos universitarios tradicionales.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-apuesta-microcredenciales-acelerar-respuestas-industria-sociedad",
       "publish_date": "2026-08-11T16:59:27.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC busca implementar microcredenciales para responder rápido a las necesidades del sector.",
+      "teaser": "Lo clave en 20 segundos: El TEC impulsa microcredenciales para formar profesionales adaptados al mercado.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/micro.jpeg",
       "description": "El TEC apuesta por las microcredenciales para acelerar respuestas a la industria y la sociedad",
       "featured": false
@@ -862,11 +901,11 @@
       "slug": "editorial-tecnologica-de-costa-rica-participara-en-la-feria-internacional-del-libro-costa-rica-2026",
       "title": "Editorial Tecnológica de Costa Rica participará en la Feria Internacional del Libro Costa Rica 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Feria Internacional del Libro Costa Rica 2026 se llevará a cabo del 21 al 30 de agosto.\n• La Editorial Tecnológica presentará tres libros de su catálogo durante el evento.\n• Guatemala será el país invitado de honor, destacando su cultura y tradiciones.\n• La feria incluirá actividades culturales como presentaciones, conferencias y cuentacuentos.\n• La participación busca promover la lectura y el acceso a la literatura en Costa Rica.",
+      "bullets_20s": "• La FILCR 2026 se celebrará del 21 al 30 de agosto en la Antigua Aduana.\n• La Editorial Tecnológica presentará tres publicaciones destacadas durante la feria.\n• Guatemala será el país invitado de honor con diversas actividades culturales.\n• Habrá presentaciones de libros, conferencias, y talleres para el público.\n• La feria tiene el objetivo de promover la lectura y la cultura en Costa Rica.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/editorial-tecnologica-costa-rica-participara-feria-internacional-libro-costa-rica-2026",
       "publish_date": "2026-08-10T21:57:45.000Z",
-      "teaser": "Lo clave en 20 segundos: La FILCR 2026 se acerca con actividades y presentaciones literarias asumidas por la TEC.",
+      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica brillará en la FILCR 2026 con múltiples actividades destacadas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/feria_internacional_universitaria_libro_2024_rgarita-7.jpg",
       "description": "Editorial Tecnológica de Costa Rica participará en la Feria Internacional del Libro Costa Rica 2026",
       "featured": false
@@ -74101,8 +74140,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-12T11:45:23.669Z",
-  "total": 5700,
+  "generated_at": "2026-08-12T12:45:23.517Z",
+  "total": 5703,
   "removed_soccer_news_count": 1032,
   "removed_soccer_news_titles": [
     "Keylor Navas le marca un gol al Columbus Crew en la Leagues Cup: véalo aquí",
