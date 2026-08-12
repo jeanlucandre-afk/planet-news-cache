@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "rutas-desiguales-falta-de-informacion-y-recursos-limitados-impiden-mantener-toda-la-red-cantonal-en-buenas-condiciones",
+      "title": "Rutas desiguales, falta de información y recursos limitados impiden mantener toda la red cantonal en buenas condiciones",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las vías cantonales tienen una extensión significativa, pero su mantenimiento enfrenta importantes retos a diario.\n• La falta de información precisa complica la gestión adecuada de los recursos disponibles para las rutas.\n• Gobiernos locales tienen escasos recursos relacionados a la administración de las vías públicas cantonalmente.\n• El MOPT juega un papel crucial, pero no siempre puede satisfacer todas las necesidades de las rutas.\n• Los ciudadanos se ven afectados directamente por la condición de las vías, afectando el transporte diario.\n• Es esencial que se implementen estrategias de gestión para mejorar la infraestructura local vigente.\n• La colaboración entre diferentes entidades es clave para resolver los problemas de las rutas cantonales.\n• Crisis de mantenimiento puede influir en el desarrollo económico y social de las comunidades afectadas.",
+      "source_name": "Patricia Recio",
+      "source_url": "https://www.nacion.com/el-pais/rutas-desiguales-falta-de-informacion-y-recursos/RZWZYAY4XVDSNKJJXIB6UFUCYA/story/",
+      "publish_date": "2026-08-12T11:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Desafíos en el mantenimiento de las rutas cantonales limitan su estado actual.",
+      "image_url": "https://www.nacion.com/resizer/v2/VD7DWXZXLJC6PLVB4A42VFDLNQ.jpg?auth=3649924c532116d225b4a9814811c194bfbd1baa6c9ddf21f104a8653ac9d4c5&smart=true&width=1600&height=1204",
+      "description": "Vías cantonales abarcan más de 38.000 km y en gran parte de los gobiernos locales dependen en su totalidad de los recursos provenientes del MOPT",
+      "featured": false
+    },
+    {
+      "slug": "10-municipalidades-se-reparten-el-27-de-los-recursos-para-atencion-de-vias-cantonales-en-que-los-invierten-y-como-se-enc",
+      "title": "10 municipalidades se reparten el 27% de los recursos para atención de vías cantonales: ¿En qué los invierten y cómo se encuentran sus rutas?",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las municipalidades gestionan recursos para mejorar rutas en sus cantones, impactando a comunidades locales.\n• Los recursos provienen del impuesto a los combustibles, esencial para el desarrollo vial rural.\n• Las inversiones se centran en el mantenimiento y mejora de caminos cantonales, facilitando el transporte.\n• Se espera que estas acciones beneficien a miles de ciudadanos en el acceso a servicios básicos.\n• Es vital la transparencia en el uso de estos fondos para garantizar mejoras observables en vías.",
+      "source_name": "Patricia Recio",
+      "source_url": "https://www.nacion.com/el-pais/10-municipalidades-se-reparten-el-27-de-los/3XXFJWZWWNBPLOGTT3GD7YGOBA/story/",
+      "publish_date": "2026-08-12T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Recursos y mejoras en vías cantonales para diez municipalidades rurales en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/RXKAR4GOEZCVVIKOT3FYYV6H6Q.jpg?auth=f461035bc189601622e31c7a59178b402fdf9655d7e767f9d4014632b4dc0896&smart=true&width=3000&height=2002",
+      "description": "10 municipalidades de zona rurales recibieron, el año pasado, más de  ¢31.000 millones provenientes del impuesto a los combustibles para atender las rutas cantonales.",
+      "featured": false
+    },
+    {
+      "slug": "terremoto-en-colombia-rescatistas-buscan-a-260-personas-entre-escombros",
+      "title": "Terremoto en Colombia: rescatistas buscan a 260 personas entre escombros",
+      "category": "Mundo",
+      "bullets_20s": "• Un fuerte terremoto de magnitud 7,4 sacudió Colombia, causando devastación.\n• Los rescatistas trabajan incansablemente en la búsqueda de sobrevivientes.\n• Se reportan al menos 240 muertos por el sismo en diversas regiones.\n• Las autoridades han declarado estado de emergencia en varias áreas afectadas.\n• La comunidad internacional se solidariza con Colombia en este difícil momento.",
+      "source_name": "El Tiempo  Colombia",
+      "source_url": "https://www.nacion.com/el-mundo/terremoto-en-colombia-rescatistas-buscan-a-260/TVVQ4VDX5RGGFAZO4V7XM2JBKU/story/",
+      "publish_date": "2026-08-12T04:47:49.000Z",
+      "teaser": "Lo clave en 20 segundos: Fuerte terremoto en Colombia deja 240 fallecidos y equipas de rescate buscan sobrevivientes.",
+      "image_url": "https://www.nacion.com/resizer/v2/DNHFOGWN4FDOHJP5TQFP3NKXJ4.jpg?auth=bad0b925aa56e5bb0200c20baf380588d4c66a00e7a733301b03a92d94fc962f&smart=true&width=5775&height=3850",
+      "description": "Colombia registra 240 fallecidos por el terremoto de magnitud 7,4. Equipos de emergencia mantienen la búsqueda de cientos de personas.",
+      "featured": false
+    },
+    {
       "slug": "laura-fernandez-plantea-a-los-presidentes-de-los-supremos-poderes-un-esquema-de-reunion-similar-al-que-uso-rodrigo-chave",
       "title": "Laura Fernández plantea a los presidentes de los supremos poderes un esquema de reunión similar al que usó Rodrigo Chaves con la contralora en 2024",
       "category": "Costa Rica",
@@ -238,13 +277,13 @@
       "slug": "reglamento-contra-el-acoso-laboral-en-el-instituto-tecnologico-de-costa-rica",
       "title": "Reglamento contra el Acoso Laboral en el Instituto Tecnológico de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El reglamento busca proteger a la comunidad universitaria del acoso laboral en el ITCR.\n• Se prohíben prácticas discriminatorias que atenten contra la dignidad e integridad personal.\n• Se especifican procedimientos para la denuncia, investigación y sanción del acoso laboral.\n• La Unidad Especializada de Investigación contra el Acoso Laboral coordina las acciones correspondientes.\n• El acoso se define como conductas agresivas continuas que afectan la salud laboral de las personas.\n• Se establece que el acoso puede ocurrir en lugares de trabajo y mediante comunicaciones digitales.\n• El reglamento es aplicable a todos los miembros de la comunidad, incluyendo el teletrabajo.\n• Se emiten sanciones que varían desde amonestaciones hasta despidos sin responsabilidad patronal.",
+      "bullets_20s": "• El reglamento establece medidas claras para erradicar el acoso laboral en el ITCR.\n• Prohíbe cualquier forma de acoso, incluyendo situaciones de teletrabajo y en espacios públicos.\n• El procedimiento de denuncia debe realizarse en un plazo de tres meses tras el acoso.\n• Incluye la creación de una Unidad Especializada de Investigación contra el Acoso Laboral.\n• Se contemplan sanciones que van desde amonestaciones hasta despido sin responsabilidad patronal.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/reglamento-acoso-laboral-instituto-tecnologico-costa-rica-0",
       "publish_date": "2026-08-11T19:45:35.000Z",
-      "teaser": "Lo clave en 20 segundos: nuevo reglamento para combatir el acoso laboral en ITCR.",
+      "teaser": "Lo clave en 20 segundos: un reglamento para prevenir el acoso laboral en el ITCR.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_change.png",
-      "description": "El reglamento establece medidas para prevenir y sancionar el acoso laboral en el Instituto Tecnológico de Costa Rica.",
+      "description": "El reglamento busca prevenir y sancionar el acoso laboral en el Instituto Tecnológico de Costa Rica.",
       "featured": false
     },
     {
@@ -290,7 +329,7 @@
       "slug": "presentacion-del-libro-afrocostarricenses",
       "title": "Presentación del libro \"Afrocostarricenses\"",
       "category": "Costa Rica",
-      "bullets_20s": "• La Cátedra de Realidad Nacional invita a presentar el libro el 17 de agosto.\n• El libro es de Quince Duncan, un reconocido escritor costarricense.\n• Combina enfoque testimonial con fundamentos históricos y culturales.\n• Se centra en la historia de la población afrodescendiente en Costa Rica.\n• La presentación es gratuita y abierta a todo el público interesado.",
+      "bullets_20s": "• La Cátedra de Realidad Nacional invita a la comunidad institucional a participar del evento.\n• El libro es del escritor e investigador costarricense Quince Duncan y es muy esperado.\n• Combina un enfoque testimonial con fundamentos históricos sobre la población afrodescendiente.\n• La presentación se realizará el 17 de agosto a las 2:00 p.m. en San Carlos.\n• Habrá venta de ejemplares para quienes deseen adquirir la obra tras la presentación.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/presentacion-libro-afrocostarricenses",
       "publish_date": "2026-08-11T18:22:43.000Z",
@@ -407,13 +446,13 @@
       "slug": "el-tec-apuesta-por-las-microcredenciales-para-acelerar-respuestas-a-la-industria-y-la-sociedad",
       "title": "El TEC apuesta por las microcredenciales para acelerar respuestas a la industria y la sociedad",
       "category": "Costa Rica",
-      "bullets_20s": "• Las microcredenciales permiten respuestas rápidas a las necesidades del sector productivo y la sociedad.\n• Se incorporarán en carreras de grado, posgrado, programas técnicos y educación continua.\n• Un equipo de docentes avanza en el diseño de propuestas de microcredenciales diversas.\n• Estas credenciales certifican competencias específicas de forma flexible y rápida.\n• El proyecto se enmarca en una estrategia de educación a lo largo de la vida.\n• El TEC busca adaptarse a cambios tecnológicos inmediatos en la educación.\n• Las microcredenciales ofrecerán formación acorde a necesidades actuales del mercado.\n• La relación con el Tecnológico de Monterrey enriquecerá el proceso de implementación.",
+      "bullets_20s": "• El TEC introduce microcredenciales para alinearse con las necesidades del sector productivo en Costa Rica.\n• La iniciativa busca formar y actualizar personas egresadas frente a los cambios tecnológicos actuales.\n• Microcredenciales son programas cortos y flexibles, enfocados en competencias específicas del ámbito laboral.\n• Hasta ahora, cerca de 40 docentes trabajan en el diseño de ocho propuestas de microcredenciales.\n• La Rectora del TEC destaca la importancia de la educación a lo largo de la vida para la población.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-apuesta-microcredenciales-acelerar-respuestas-industria-sociedad",
       "publish_date": "2026-08-11T16:59:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Las microcredenciales del TEC responden ágilmente a cambios del mercado laboral.",
+      "teaser": "Lo clave en 20 segundos: El TEC busca implementar microcredenciales para responder rápido a las necesidades del sector.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/micro.jpeg",
-      "description": "El TEC apuesta por las microcredenciales para acelerar respuestas a la industria y la sociedad.",
+      "description": "El TEC apuesta por las microcredenciales para acelerar respuestas a la industria y la sociedad",
       "featured": false
     },
     {
@@ -823,11 +862,11 @@
       "slug": "editorial-tecnologica-de-costa-rica-participara-en-la-feria-internacional-del-libro-costa-rica-2026",
       "title": "Editorial Tecnológica de Costa Rica participará en la Feria Internacional del Libro Costa Rica 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Feria Internacional del Libro Costa Rica 2026 se llevará a cabo del 21 al 30 de agosto.\n• La Editorial Tecnológica presentará tres importantes obras en esta edición de la feria.\n• Los libros a presentar incluyen temas sobre volcanes, aves y mamíferos de Costa Rica.\n• Guatemala será el país invitado de honor, aportando una agenda cultural diversa.\n• Habrá actividades dirigidas a estudiantes para fomentar la lectura y la cultura en jóvenes.",
+      "bullets_20s": "• La Feria Internacional del Libro Costa Rica 2026 se llevará a cabo del 21 al 30 de agosto.\n• La Editorial Tecnológica presentará tres libros de su catálogo durante el evento.\n• Guatemala será el país invitado de honor, destacando su cultura y tradiciones.\n• La feria incluirá actividades culturales como presentaciones, conferencias y cuentacuentos.\n• La participación busca promover la lectura y el acceso a la literatura en Costa Rica.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/editorial-tecnologica-costa-rica-participara-feria-internacional-libro-costa-rica-2026",
       "publish_date": "2026-08-10T21:57:45.000Z",
-      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica de Costa Rica presentará tres libros en la feria literaria de 2026.",
+      "teaser": "Lo clave en 20 segundos: La FILCR 2026 se acerca con actividades y presentaciones literarias asumidas por la TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/feria_internacional_universitaria_libro_2024_rgarita-7.jpg",
       "description": "Editorial Tecnológica de Costa Rica participará en la Feria Internacional del Libro Costa Rica 2026",
       "featured": false
@@ -74062,8 +74101,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-12T10:45:24.472Z",
-  "total": 5697,
+  "generated_at": "2026-08-12T11:45:23.669Z",
+  "total": 5700,
   "removed_soccer_news_count": 1032,
   "removed_soccer_news_titles": [
     "Keylor Navas le marca un gol al Columbus Crew en la Leagues Cup: véalo aquí",
