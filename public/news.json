@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "programa-de-ucr-cuestiona-declaratoria-de-laura-fernandez-sobre-secreto-de-estado",
+      "title": "Programa de UCR cuestiona declaratoria de Laura Fernández sobre secreto de Estado",
+      "category": "Costa Rica",
+      "bullets_20s": "• El programa de UCR analiza la controversia generada por el decreto del Gobierno sobre información clasificada.\n• Se cuestionan las implicaciones legales y éticas de mantener secretos en temas de seguridad nacional.\n• El Proledi destaca la importancia de la transparencia en las contrataciones y la gestión pública.\n• Diversos expertos opinan sobre la necesidad de equilibrio entre seguridad y derecho a la información.\n• Se abre un debate sobre la confianza pública en las decisiones del Gobierno y su rendición de cuentas.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/politica/programa-de-ucr-cuestiona-declaratoria-de-laura/MOPHUQQN4VHYFG3NDLISSSWBVM/story/",
+      "publish_date": "2026-08-13T02:22:38.000Z",
+      "teaser": "Lo clave en 20 segundos: Se cuestiona decreto sobre secreto de Estado en seguridad y contrataciones públicas.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZXYTUJMRWZARXEXGOYORNDGGG4.JPG?auth=60fb196bd09377c02bab3587c62a6565d8b502f0f8a3717b83a16049665a96ec&smart=true&width=4000&height=2666",
+      "description": "El Proledi de la UCR cuestionó el decreto del Gobierno que declara secreto de Estado información de seguridad, contrataciones, proveedores y contratos públicos.",
+      "featured": false
+    },
+    {
       "slug": "bloque-opositor-celebra-cambio-de-criterio-de-laura-fernandez-sobre-pension-de-expresidentes-y-le-pide-renunciar-al-bene",
       "title": "Bloque opositor celebra cambio de criterio de Laura Fernández sobre pensión de expresidentes y le pide renunciar al beneficio",
       "category": "Costa Rica",
-      "bullets_20s": "• Los congresistas del bloque opositor celebran un cambio de criterio en pensiones.\n• Laura Fernández, presidenta, había defendido la pensión antes del cambio.\n• Se espera que esta decisión impacte la política nacional actual.\n• El debate sobre las pensiones de expresidentes ha sido muy controversial.\n• La renuncia al beneficio es un tema candente en la Cámara Legislativa.",
+      "bullets_20s": "• El bloque opositor muestra satisfacción por el cambio de criterio en el tema de pensiones.\n• Laura Fernández, presidenta de la República, previamente defendió el beneficio otorgado.\n• Los congresistas destacan la importancia de la justicia social en este tema crítico.\n• La oposición pide que la presidenta renuncie a la pensión de expresidentes.\n• Se espera un debate más amplio sobre pensiones en el plenario en las próximas semanas.",
       "source_name": "Aarón Sequeira",
       "source_url": "https://www.nacion.com/politica/bloque-opositor-celebra-cambio-de-criterio-de/OU73HWSYBZEEVCXBTYVLKJE3PM/story/",
       "publish_date": "2026-08-13T01:02:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Bloque opositor aplaude cambio en pensión de expresidentes y pide a Laura Fernández renunciar.",
+      "teaser": "Lo clave en 20 segundos: el bloque opositor celebra el cambio de criterio sobre pensiones de expresidentes.",
       "image_url": "https://www.nacion.com/resizer/v2/ZJZ5PUTZQVA77DZIGGMAYSAVUE.JPG?auth=67ea3ada498e151689630cfd1aa77bb47100ea0c99df4a2762c0c8095a5b078c&smart=true&width=4464&height=2976",
       "description": "En sesión del plenario, congresistas del PLN, FA y CAC enfatizaron que la presidenta de la República, una semana atrás, defendió esa pensión",
       "featured": false
@@ -316,11 +329,11 @@
       "slug": "technology-on-business-2026-invita-a-dominar-el-caos-en-un-congreso-de-dos-dias-en-el-tec",
       "title": "Technology on Business 2026 invita a “dominar el caos” en un congreso de dos días en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC será sede del congreso Technology on Business los días 18 y 19 de agosto de 2026.\n• El evento busca que los estudiantes sean agentes de cambio en el ámbito tecnológico y de negocios.\n• Contará con tres bloques enfocados en desarrollo personal, emprendimiento y productividad personal.\n• Se abordarán temas como finanzas personales, gestión del miedo y liderazgo femenino en tecnología.\n• El congreso integra el HackaToB, un hackatón interdisciplinario para resolver problemas reales.",
+      "bullets_20s": "• El TEC será sede de la edición 2026 del congreso Technology on Business en agosto.\n• El congreso busca unir la academia con la industria en tecnología y negocios.\n• Tres bloques temáticos abordarán desarrollo personal y profesional el primer día.\n• El segundo día se enfocará en retos técnicos del sector y metodologías ágiles.\n• HackaToB se introduce como una novedad, promoviendo el trabajo interdisciplinario.\n• Inscripción es abierta al público y se puede hacer a través de Luma o el evento.\n• El congreso contará con expertos y organizaciones reconocidas en el ámbito tecnológico.\n• Se ofrecerán talleres, capacitaciones y oportunidades de networking durante el evento.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/technology-business-2026-invita-dominar-caos-congreso-dos-dias-tec",
       "publish_date": "2026-08-12T18:04:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Un congreso de tecnología y negocios en el TEC para fomentar el liderazgo y la innovación.",
+      "teaser": "Lo clave en 20 segundos: El TEC acoge el congreso Technology on Business 2026 para impulsar la innovación.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-12-a-las-12.04.27-p-m.png",
       "description": "Technology on Business 2026 invita a “dominar el caos” en un congreso de dos días en el TEC",
       "featured": false
@@ -74699,8 +74712,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-13T01:45:23.885Z",
-  "total": 5746,
+  "generated_at": "2026-08-13T02:45:23.948Z",
+  "total": 5747,
   "removed_soccer_news_count": 1038,
   "removed_soccer_news_titles": [
     "Motagua vs. Cartaginés: Hora exacta y cómo ver el partido tras viaje accidentado de los brumosos",
