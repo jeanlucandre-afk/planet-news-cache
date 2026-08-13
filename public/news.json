@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "jon-batiste-cancela-su-concierto-en-costa-rica-esto-dijo-el-artista",
+      "title": "Jon Batiste cancela su concierto en Costa Rica: esto dijo el artista",
+      "category": "Costa Rica",
+      "bullets_20s": "• Jon Batiste, reconocido artista, ha cancelado su esperado concierto en Costa Rica, causando gran sorpresa entre los fans.\n• Las productoras a cargo del evento han emitido un comunicado detallando el proceso de reembolsos para los boletos vendidos.\n• Los fanáticos pueden esperar más información sobre los reembolsos dentro de los próximos días, según lo indicado.\n• El artista expresó su pesar por la cancelación y agradeció el apoyo de sus seguidores en Costa Rica.\n• La cancelación se da en un contexto de cambios en la agenda de Jon Batiste, que afectó su presentación en el país.",
+      "source_name": "Fátima  Jiménez",
+      "source_url": "https://www.nacion.com/spotlight/jon-batiste-cancela-su-concierto-en-costa-rica/2EOOUTHEN5H55FPEDVHGVQGD3I/story/",
+      "publish_date": "2026-08-13T03:23:41.000Z",
+      "teaser": "Lo clave en 20 segundos: Jon Batiste cancela su concierto en Costa Rica y se gestionan los reembolsos.",
+      "image_url": "https://www.nacion.com/resizer/v2/RBMBGDAPZBDVLPX2JKYJ5DKCXI.png?auth=68f804f61def1e538238631d2ee5f9011b0f6c017a3dd0a54675f4e88d8257d8&smart=true&width=1080&height=1350",
+      "description": "Las productoras encargadas del concierto de Jon Batiste en Costa Rica informaron cómo se realizarán los reembolsos por la cancelación.",
+      "featured": false
+    },
+    {
+      "slug": "presidente-de-club-salvadoreno-confirma-a-la-nacion-como-esta-la-situacion-con-marcel-hernandez",
+      "title": "Presidente de club salvadoreño confirma a ‘La Nación’ cómo está la situación con Marcel Hernández",
+      "category": "Mundo",
+      "bullets_20s": "• La situación actual de Marcel Hernández se está abordando por el presidente del club salvadoreño.\n• El empresario costarricense tiene vínculos cercanos con el delantero Marcel Hernández.\n• Noticias sobre el fútbol en Costa Rica y su influencia en equipos de la región son relevantes.\n• Los clubes de la región están fortaleciendo sus relaciones para mejorar el fútbol local.\n• Marcel Hernández es un jugador importante en el contexto del fútbol centroamericano.",
+      "source_name": "Juan Diego Villarreal",
+      "source_url": "https://www.nacion.com/puro-deporte/presidente-de-club-salvadoreno-confirma-a-la/J5Y3GHYT3FF4TIJCEKRZ2KLC4M/story/",
+      "publish_date": "2026-08-13T02:49:56.000Z",
+      "teaser": "Lo clave en 20 segundos: Presidente del club salvadoreño habla sobre Marcel Hernández y su situación actual.",
+      "image_url": "https://www.nacion.com/resizer/v2/HQ7ZMWM3OFFVVL7ZLKDQB3SQUA.jpg?auth=f5312f582aa2d9a49f35586e49bddd30670581582cf0dc8a1784aeb742ffc448&smart=true&width=1280&height=914",
+      "description": "El empresario costarricense y dueño del club salvadoreño Santa Tecla es amigo de Marcel Hernández.",
+      "featured": false
+    },
+    {
       "slug": "programa-de-ucr-cuestiona-declaratoria-de-laura-fernandez-sobre-secreto-de-estado",
       "title": "Programa de UCR cuestiona declaratoria de Laura Fernández sobre secreto de Estado",
       "category": "Costa Rica",
@@ -329,11 +355,11 @@
       "slug": "technology-on-business-2026-invita-a-dominar-el-caos-en-un-congreso-de-dos-dias-en-el-tec",
       "title": "Technology on Business 2026 invita a “dominar el caos” en un congreso de dos días en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC será sede de la edición 2026 del congreso Technology on Business en agosto.\n• El congreso busca unir la academia con la industria en tecnología y negocios.\n• Tres bloques temáticos abordarán desarrollo personal y profesional el primer día.\n• El segundo día se enfocará en retos técnicos del sector y metodologías ágiles.\n• HackaToB se introduce como una novedad, promoviendo el trabajo interdisciplinario.\n• Inscripción es abierta al público y se puede hacer a través de Luma o el evento.\n• El congreso contará con expertos y organizaciones reconocidas en el ámbito tecnológico.\n• Se ofrecerán talleres, capacitaciones y oportunidades de networking durante el evento.",
+      "bullets_20s": "• El Tecnologia on Business 2026 se llevará a cabo los días 18 y 19 de agosto en Costa Rica.\n• Este congreso está organizado por estudiantes de la carrera de Administración de Tecnología de Información.\n• Se abordarán temas como productividad personal, emprendimiento y liderazgo femenino en tecnología.\n• HackaToB, un hackatón, se celebrará del 17 al 20 de agosto como parte del evento.\n• Más de 20 conferencistas brindarán charlas sobre diversas temáticas tecnológicas y de negocios.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/technology-business-2026-invita-dominar-caos-congreso-dos-dias-tec",
       "publish_date": "2026-08-12T18:04:44.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC acoge el congreso Technology on Business 2026 para impulsar la innovación.",
+      "teaser": "Lo clave en 20 segundos: Congreso sobre tecnología y negocios en el TEC, con hackatón incluido.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/captura-de-pantalla-2026-08-12-a-las-12.04.27-p-m.png",
       "description": "Technology on Business 2026 invita a “dominar el caos” en un congreso de dos días en el TEC",
       "featured": false
@@ -74712,10 +74738,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-13T02:45:23.948Z",
-  "total": 5747,
-  "removed_soccer_news_count": 1038,
+  "generated_at": "2026-08-13T03:45:23.531Z",
+  "total": 5749,
+  "removed_soccer_news_count": 1039,
   "removed_soccer_news_titles": [
+    "Inter Miami es eliminado de la Leagues Cup en un emotivo regreso de Messi",
     "Motagua vs. Cartaginés: Hora exacta y cómo ver el partido tras viaje accidentado de los brumosos",
     "Alejandro Bran recupera la sonrisa en Rumania",
     "Ahora sí estás contenta: murió el papá de Lionel Messi y redes arremeten contra conductora de TV",
@@ -74764,7 +74791,6 @@
     "¿Cuáles equipos aportaron los jugadores de la Selección Sub-20 que clasificó al Mundial en México?",
     "La FIFA ofrece una disculpa pero da ‘pleno apoyo’ a Infantino",
     "San Carlos recurre a algo nunca visto en el fútbol de Costa Rica para conseguir dinero",
-    "Keylor Navas perdió pero salvó a Pumas de una goleada peor",
-    "Infantino se reúne este miércoles en Marruecos con altos cargos de la FIFA en medio de la tempestad"
+    "Keylor Navas perdió pero salvó a Pumas de una goleada peor"
   ]
 }
