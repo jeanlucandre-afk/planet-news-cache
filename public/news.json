@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "escandalo-por-el-nuevo-equipo-del-ice-agentes-de-inmigracion-usaran-guantes-de-descargas-electricas",
+      "title": "Escándalo por el nuevo equipo del ICE: Agentes de inmigración usarán guantes de descargas eléctricas",
+      "category": "Mundo",
+      "bullets_20s": "• Los guantes de descargas eléctricas generan controversia por su uso en operaciones de inmigración.\n• Denuncias de abusos han surgido en relación al uso de productos no convencionales.\n• Las reacciones políticas son diversas, con llamados a la revisión del equipo.\n• El ICE justifica la compra como una medida para mejorar la seguridad de sus agentes.\n• Activistas critican la decisión y abogan por el respeto a los derechos humanos.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/escandalo-por-el-nuevo-equipo-del-ice-agentes-de/GON35P2WFVGKPGROQQVIEMSB6U/story/",
+      "publish_date": "2026-08-14T15:29:25.000Z",
+      "teaser": "Lo clave en 20 segundos: El ICE planea usar guantes con descargas eléctricas con reacciones divisivas.",
+      "image_url": "https://www.nacion.com/resizer/v2/37NGQYUXSVE37NJ7SB73R5VOJI.jpg?auth=f29046fdc0bbd07ff7af64cde2f19fbb2b4473d8ab2efe6993b23978351e5e3d&smart=true&width=3000&height=2000",
+      "description": "El ICE planea equipar a sus agentes con guantes de descargas eléctricas en EE. UU. Conozca las denuncias de abusos y las reacciones políticas.",
+      "featured": false
+    },
+    {
       "slug": "lider-del-partido-antimigracion-de-reino-unido-gana-eleccion-contra-un-basurero",
       "title": "Líder del partido antimigración de Reino Unido gana elección contra un ‘basurero’",
       "category": "Mundo",
@@ -37,6 +50,19 @@
       "teaser": "Lo clave en 20 segundos: Un turista costarricense está desaparecido en Chirripó desde hace cuatro días.",
       "image_url": "https://www.nacion.com/resizer/v2/7R2QCD56NVFSRCKMJXGPL5GYLU.jpeg?auth=d451b213c413e7770812db7d7bdc58e50bf329405dc0c884aac91a9b2388bf2d&smart=true&width=1280&height=960",
       "description": "Un turista costarricense de 58 años cumple cuatro días desaparecido en el Parque Nacional Chirripó. Cruz Roja mantiene 18 socorristas en la montaña y el OIJ se incorporó al operativo este viernes.",
+      "featured": false
+    },
+    {
+      "slug": "equipos-del-tec-avanzan-en-el-torneo-nacional-icpc-centroamerica-2026",
+      "title": "Equipos del TEC avanzan en el Torneo Nacional ICPC Centroamérica 2026",
+      "category": "Costa Rica",
+      "bullets_20s": "• Estudiantes del TEC compiten en el Torneo Nacional ICPC Centroamérica 2026, promoviendo la programación competitiva.\n• La competencia incluye a 17 instituciones y 98 equipos de la región, destacando el esfuerzo del TEC.\n• Los equipos del TEC suman un total significativo de problemas resueltos en las fases clasificatorias.\n• El ICPC es considerado el torneo de programación más importante para estudiantes universitarios a nivel mundial.\n• Los participantes se preparan a través de la práctica constante y el intercambio de ideas en sus equipos.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/equipos-tec-avanzan-torneo-nacional-icpc-centroamerica-2026",
+      "publish_date": "2026-08-14T14:00:40.000Z",
+      "teaser": "Lo clave en 20 segundos: Equipos del TEC brillan en el Torneo Nacional ICPC Centroamérica 2026.",
+      "image_url": "",
+      "description": "Equipos del TEC avanzan en el Torneo Nacional ICPC Centroamérica 2026",
       "featured": false
     },
     {
@@ -225,13 +251,13 @@
       "slug": "la-maestra-de-preescolar-que-lo-dejo-todo-y-se-convirtio-en-guardiana-de-200-pinguinos-rey-en-el-sur-de-chile",
       "title": "La maestra de preescolar que lo dejó todo y se convirtió en guardiana de 200 pingüinos rey en el sur de Chile",
       "category": "Mundo",
-      "bullets_20s": "• Cecilia Durán Gafo hizo un cambio radical en su vida profesional y personal.\n• Ahora cuida de 200 pingüinos rey, una especie que necesita protección.\n• La colonia es la única de pingüinos rey en Chile y está cerca del continente.\n• Su historia inspira a otros a cuidar la fauna y la educación ambiental.\n• Cecilia destaca la belleza y singularidad de observar a los pingüinos rey.",
+      "bullets_20s": "• Cecilia Durán Gafo dejó su trabajo como maestra para cuidar pingüinos rey en Chile.\n• La nueva colonia de pingüinos rey es única y la más cercana al continente.\n• Los esfuerzos de Cecilia están transformando la vida de estas aves en peligro.\n• La historia resalta la importancia de la conservación y el cuidado de especies.\n• La conexión entre humanos y animales puede llevar a cambios significativos en el medio ambiente.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx25yexnw7eo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-14T10:42:34.000Z",
-      "teaser": "Lo clave en 20 segundos: Cecilia Durán deja su carrera para proteger pingüinos en Chile.",
+      "teaser": "Lo clave en 20 segundos: Una maestra se vuelve guardiana de pingüinos rey en Chile.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/bb61/live/d7251a70-9563-11f1-870d-5d08c49babb2.jpg",
-      "description": "Es maravilloso observarlos, relata Cecilia Durán Gafo. Sus esfuerzos permitieron algo sin precedentes: el establecimiento de la única colonia de pingüinos rey en Chile y la más cercana al continente.",
+      "description": "Es maravilloso observarlos, relata Cecilia Durán Gafo. Sus esfuerzos permitieron algo sin precedentes.",
       "featured": false
     },
     {
@@ -251,13 +277,26 @@
       "slug": "mientras-mi-padre-no-diga-donde-esta-el-cuerpo-de-mi-madre-no-deberia-ser-puesto-en-libertad",
       "title": "Mientras mi padre no diga dónde está el cuerpo de mi madre, no debería ser puesto en libertad",
       "category": "Mundo",
-      "bullets_20s": "• Cat Razzell luchó para que su padre no sea liberado tras el asesinato de su madre hace años.\n• El crimen marcó la vida de Cat, quien busca justicia por el dolor sufrido desde niña.\n• La familia ha enfrentado conflictos severe tras la muerte de la madre de Cat Razzell.\n• El debate sobre la liberación del padre ha generado discusión en la sociedad británica.\n• La historia resalta la importancia de la memoria en los casos de violencia familiar.",
+      "bullets_20s": "• Cat Razzell se opone a la liberación de su padre, asesino de su madre.\n• La situación muestra el conflicto entre los derechos del delincuente y la familia de la víctima.\n• El caso ha llamado la atención en medios de comunicación internacionales.\n• Razzell exige que se revele el paradero del cuerpo de su madre.\n• El impacto emocional en la vida de Cat ha sido significativo desde el crimen.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c24m2mmvlqzo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-14T10:03:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Cat Razzell enfrenta a su padre por el crimen de su madre.",
+      "teaser": "Lo clave en 20 segundos: Cat Razzell se opone a liberar a su padre, confeso asesino de su madre.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/886c/live/a9762440-94cb-11f1-8dc4-8907761852f3.jpg",
       "description": "Cat Razzell, quien tenía 13 años cuando su madre fue asesinada, se ha opuesto a la puesta en libertad del autor del crimen: su propio padre.",
+      "featured": false
+    },
+    {
+      "slug": "viceministro-de-mideplan-y-egresada-del-tec-inspiran-a-estudiantes-de-administracion-de-empresas",
+      "title": "Viceministro de MIDEPLAN y egresada del TEC inspiran a estudiantes de Administración de Empresas",
+      "category": "Costa Rica",
+      "bullets_20s": "• El viceministro Navarro compartió su experiencia en la clase inaugural de Administración de Empresas.\n• Los estudiantes fueron motivados a aprovechar su formación universitaria para visualizar oportunidades.\n• El evento dual incluyó actividades presencial y virtual, dirigidas a diferentes niveles de estudiantes.\n• Leilani Rivas conversó sobre la importancia de construir una carrera con intención y propósito.\n• Se enfatizó la relevancia de seguir aprendiendo y no temer salir de la zona de confort.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/viceministro-mideplan-egresada-tec-inspiran-estudiantes-administracion-empresas",
+      "publish_date": "2026-08-14T04:27:43.000Z",
+      "teaser": "Lo clave en 20 segundos: Viceministro y egresada motivan a estudiantes de Administración en el TEC.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/charla-2.jpg.jpeg",
+      "description": "Viceministro de MIDEPLAN y egresada del TEC inspiran a estudiantes de Administración de Empresas",
       "featured": false
     },
     {
@@ -459,13 +498,13 @@
       "slug": "los-terremotos-nos-persiguen-los-hermanos-adolescentes-que-perdieron-a-su-madre-en-el-sismo-de-venezuela-y-ahora-sufrier",
       "title": "Los terremotos nos persiguen: los hermanos adolescentes que perdieron a su madre en el sismo de Venezuela y ahora sufrieron el de Colombia",
       "category": "Mundo",
-      "bullets_20s": "• Los sismos en América Latina han dejado una huella profunda en muchas familias. Las historias impactan a todos.\n• Deivi y Winder enfrentaron situaciones extremas que marcarán su vida para siempre. Su resiliencia es admirable.\n• Los desastres naturales continúan afectando a millones en la región, impactando vidas y comunidades enteras.\n• La solidaridad entre naciones se vuelve crucial tras cada tragedia que ocurre en diferentes países.\n• Las lecciones aprendidas sobre preparación ante sismos son más importantes que nunca en un mundo vulnerable.\n• Es fundamental apoyar a las víctimas de desastres para ayudar en su proceso de reconstrucción emocional.",
+      "bullets_20s": "• Deivi y Winder enfrentan situaciones difíciles tras perder a su madre en un devastador sismo en Venezuela.\n• Su familia quedó marcada por la tragedia y el dolor después de perder a su ser querido en el desastre natural.\n• La mudanza a Colombia no trajo consuelo, ya que enfrentaron otro sismo solo días después de llegar.\n• Ambos jóvenes tuvieron que vivir momentos de incertidumbre y temor tras la experiencia traumática.\n• La resiliencia de los hermanos es destacable al seguir adelante a pesar de su angustiante situación.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c934x32d0n7o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-13T22:01:01.000Z",
-      "teaser": "Lo clave en 20 segundos: adolescentes enfrentan tragedia tras sismos en Venezuela y Colombia.",
+      "teaser": "Lo clave en 20 segundos: Hermanos enfrentan sucesivos terremotos y el dolor tras perder a su madre.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a357/live/966e60b0-9750-11f1-9c09-a729ba578a81.png",
-      "description": "Deivi y Winder Delfín tienen 15 y 17 años. En junio su edificio se derrumbó tras los sismos en Venezuela y pasaron 27 días para retirar con sus manos los cuerpos de su mamá y su hermanito. Se mudaron a Colombia con su papá y a los tres días la tierra de nuevo tembló.",
+      "description": "Deivi y Winder Delfín sufren las secuelas de sismos recientes en Venezuela y Colombia, afectando su vida familiar.",
       "featured": false
     },
     {
@@ -770,12 +809,12 @@
     {
       "slug": "costa-rica-completa-su-historico-debut-en-la-olimpiada-internacional-de-informatica-2026-en-uzbekistan",
       "title": "Costa Rica completa su histórico debut en la Olimpiada Internacional de Informática 2026, en Uzbekistán",
-      "category": "Costa Rica",
-      "bullets_20s": "• Costa Rica debuta en la Olimpiada Internacional de Informática en Tashkent, Uzbekistán.\n• Cuatro estudiantes del TEC representaron al país en esta histórica competencia internacional.\n• El proceso de selección comenzó con la Olimpiada Costarricense de Informática del TEC.\n• Los estudiantes enfrentan desafíos complejos en programación y algoritmos en esta olimpiada.\n• El profesor Ramírez destaca la importancia de cultivar talento en programación desde jóvenes.",
+      "category": "Ciencia",
+      "bullets_20s": "• Costa Rica participa por primera vez en la Olimpiada Internacional de Informática en Uzbekistán.\n• Cuatro estudiantes fueron seleccionados tras competir en la Olimpiada Costarricense de Informática.\n• El evento se lleva a cabo del 9 al 16 de agosto con competidores de 97 países.\n• Los estudiantes comparten sus caminos hacia la programación competitiva y el aprendizaje autodidacta.\n• El profesor Ramírez destaca la importancia del apoyo institucional y la cultura de programación.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/costa-rica-completa-su-historico-debut-olimpiada-internacional-informatica-2026-uzbekistan",
       "publish_date": "2026-08-13T15:19:36.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica hace su debut en la Olimpiada Internacional de Informática en Uzbekistán.",
+      "teaser": "Lo clave en 20 segundos: Costa Rica debuta en la Olimpiada Internacional de Informática, un hito en su trayectoria educativa.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-08-12-at-11.31.23-pm.jpeg",
       "description": "Costa Rica completa su histórico debut en la Olimpiada Internacional de Informática 2026, en Uzbekistán",
       "featured": false
@@ -1174,11 +1213,11 @@
       "slug": "el-tec-lanza-idtec-el-primer-ecosistema-de-identidad-digital-universitaria-de-la-region",
       "title": "El TEC lanza IdTEC, el primer ecosistema de identidad digital universitaria de la región",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC presentó IdTEC, una identidad digital descentralizada para estudiantes. Un avance tecnológico en educación superior.\n• IdTEC permite llevar credenciales universitarias en el celular, facilitando la vida académica de los estudiantes.\n• Costa Rica se convierte en el primer país en implementar esta tecnología en el ámbito universitario en la región.\n• El sistema arranca con un plan piloto de un año, evolucionando hacia la implementación masiva en el futuro.\n• La privacidad de los usuarios se respeta, permitiendo compartir solo la información necesaria en cada momento.",
+      "bullets_20s": "• El TEC presenta IdTEC, un ecosistema innovador para la identidad digital de estudiantes universitarios.\n• El sistema permite a los estudiantes llevar sus credenciales en el teléfono, sin papel físico.\n• Una alianza con Corea del Sur hace posible la implementación de esta tecnología avanzada en Costa Rica.\n• El plan piloto inicia con un grupo limitado de estudiantes dentro de un año de duración.\n• La tecnología usa identidad descentralizada para una verificación más segura de credenciales académicas.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-lanza-idtec-primer-ecosistema-identidad-digital-universitaria-region",
       "publish_date": "2026-08-12T22:35:27.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC lanza IdTEC, el primer ecosistema de identidad digital universitaria en Centroamérica.",
+      "teaser": "Lo clave en 20 segundos: El TEC revolucionará la educación universitaria con un ecosistema digital innovador.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/diseno-sin-titulo-1.jpg",
       "description": "El TEC lanza IdTEC, el primer ecosistema de identidad digital universitaria de la región",
       "featured": false
@@ -75752,10 +75791,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-14T14:45:23.767Z",
-  "total": 5827,
-  "removed_soccer_news_count": 1040,
+  "generated_at": "2026-08-14T15:45:24.309Z",
+  "total": 5830,
+  "removed_soccer_news_count": 1041,
   "removed_soccer_news_titles": [
+    "Todo apretado en la Copa Centroamericana: así marcha la tabla de posiciones de cada grupo tras la fecha 3",
     "Diez costarricenses destacan en el inicio de la Liga Mundial de Surf en Playa Hermosa",
     "Inter Miami es eliminado de la Leagues Cup en un emotivo regreso de Messi",
     "Motagua vs. Cartaginés: Hora exacta y cómo ver el partido tras viaje accidentado de los brumosos",
@@ -75804,7 +75844,6 @@
     "Policía allana sede de federación surcoreana tras fracaso en el pasado Mundial",
     "Manfred Ugalde consigue doblete y Jeyland Mitchell se aleja de la Champions League",
     "¿Cuáles equipos aportaron los jugadores de la Selección Sub-20 que clasificó al Mundial en México?",
-    "La FIFA ofrece una disculpa pero da ‘pleno apoyo’ a Infantino",
-    "San Carlos recurre a algo nunca visto en el fútbol de Costa Rica para conseguir dinero"
+    "La FIFA ofrece una disculpa pero da ‘pleno apoyo’ a Infantino"
   ]
 }
