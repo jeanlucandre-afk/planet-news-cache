@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "asi-se-encuentra-reinaldo-pineda-tras-ser-rescatado-en-el-chirripo",
+      "title": "Así se encuentra Reinaldo Pineda tras ser rescatado en el Chirripó",
+      "category": "Costa Rica",
+      "bullets_20s": "• Reinaldo Pineda fue rescatado tras cuatro días de búsqueda en la zona del Chirripó.\n• Las operaciones de rescate fueron realizadas por el equipo de la Cruz Roja costarricense.\n• Su evolución de salud será monitoreada para asegurar su pronta recuperación.\n• La región del Chirripó es conocida por su difícil acceso y peligros naturales.\n• El esfuerzo del equipo de rescate resalta la importancia de la preparación ante emergencias.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/sucesos/asi-se-encuentra-reinaldo-pineda-tras-ser/P7CBRC7G4ZDSPIL6PWJRWBPL7E/story/",
+      "publish_date": "2026-08-15T02:37:55.000Z",
+      "teaser": "Lo clave en 20 segundos: Reinaldo Pineda rescatado tras estar perdido en Chirripó por cuatro días.",
+      "image_url": "https://www.nacion.com/resizer/v2/P6P3TTTB2JHWZBLA26UBQKYDV4.jpeg?smart=true&auth=6655d47637caead94a47f87ff3eaf0a17e191ec60885c14f1a084693ca33f70e&width=1440",
+      "description": "Reinaldo Pineda llegó al albergue de operaciones en el Chirripó tras estar cuatro días desaparecido. Cruz Roja vigila su evolución y analiza cómo extraerlo.",
+      "featured": false
+    },
+    {
+      "slug": "las-43-almas-de-ayotzinapa",
+      "title": "Las 43 almas de Ayotzinapa",
+      "category": "Mundo",
+      "bullets_20s": "• La desaparición de los 43 estudiantes ha marcado la historia reciente de México profundo.\n• El caso ha generado protestas nacionales e internacionales en busca de justicia.\n• Las familias siguen exigiendo respuestas a las instituciones responsables.\n• Se han realizado investigaciones que aún no logran esclarecer los hechos.\n• La intervención del gobierno ha sido criticada por su falta de transparencia.\n• Activistas siguen luchando para mantener viva la memoria de las víctimas.",
+      "source_name": "Gina Montaner",
+      "source_url": "https://www.nacion.com/opinion/columnistas/las-43-almas-de-ayotzinapa/P47FA6CSXNDVPOA2533DSXAZQA/story/",
+      "publish_date": "2026-08-15T02:30:10.000Z",
+      "teaser": "Lo clave en 20 segundos: Un trágico recuerdo que persiste en la lucha por la justicia en México.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZNU2ADXFBZF4TEUDZC7FNBWOTQ.png?auth=5496273a19aa4aa78bb118634430c950a3ce578ef0d0f2baff07627d36af7080&smart=true&width=1379&height=863",
+      "description": "Han transcurrido casi 12 años desde la noche en que 43 estudiantes normalistas de la localidad de Ayotzinapa, en el estado mexicano de Guerrero desaparecieron para siempre.",
+      "featured": false
+    },
+    {
       "slug": "chances-de-la-jps-salieron-los-numeros-ganadores-del-sorteo-de-este-viernes-14-de-agosto",
       "title": "Chances de la JPS: salieron los números ganadores del sorteo de este viernes 14 de agosto",
       "category": "Costa Rica",
@@ -147,11 +173,11 @@
       "slug": "de-cumbres-borrascosas-a-la-odisea-12-de-las-mejores-peliculas-de-2026-segun-los-criticos-de-la-bbc",
       "title": "De \"Cumbres borrascosas\" a \"La Odisea\": 12 de las mejores películas de 2026, según los críticos de la BBC",
       "category": "Mundo",
-      "bullets_20s": "• Los críticos evalúan una variedad de filmes destacados en el año 2026.\n• Se incluyen títulos icónicos, reinterpretaciones y producciones ambiciosas.\n• La selección destaca las tendencias y temas presentes en ese año.\n• Películas que han resonado tanto con críticos como con el público.\n• Globalmente, el cine sigue evolucionando y desafiando expectativas.",
-      "source_name": "BBC Mundo",
+      "bullets_20s": "• Los críticos seleccionan 12 películas que marcarán el año 2026 en la industria del cine.\n• Incluirán títulos de grandes directores y nuevas interpretaciones clásicas.\n• Cumbres borrascosas es reinterpretada de forma audaz, abordando temas actuales.\n• La Odisea se convierte en una superproducción épica que cautivará al público.\n• Las selecciones representan una mezcla de géneros y estilos cinematográficos variados.",
+      "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/cn8nqxlg82vo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-14T23:04:54.000Z",
-      "teaser": "Lo clave en 20 segundos: 12 películas esenciales del 2026 seleccionadas por críticos de la BBC.",
+      "teaser": "Lo clave en 20 segundos: Las mejores películas de 2026 según la BBC incluyen grandes reinterpretaciones.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/1065/live/b4fd8440-97ee-11f1-b2ab-0dd01740f9f6.jpg",
       "description": "Los críticos de cine de la BBC Caryn James y Nicholas Barber seleccionan sus películas favoritas del año. Desde la audaz reinvención de la novela de Emily Brontë hasta la épica superproducción de Christopher Nolan.",
       "featured": false
@@ -264,11 +290,11 @@
       "slug": "la-tragedia-de-ana-maria-saavedra-la-joven-trilliza-que-perdio-a-sus-dos-hermanas-y-a-sus-padres-en-el-terremoto-en-colo",
       "title": "La tragedia de Ana María Saavedra, la joven trilliza que perdió a sus dos hermanas y a sus padres en el terremoto en Colombia",
       "category": "Mundo",
-      "bullets_20s": "• Ana María Saavedra sobrevivió al terremoto en Colombia, perdiendo a su familia en el proceso desgarrador.\n• El terremoto ocurrió el 10 de agosto, devastando muchos alrededores en la región occidental del país.\n• Su caso ha tenido un gran impacto emocional en la comunidad local y el país en general.\n• El edificio donde vivía se colapsó, dejando a Ana como la única sobreviviente de su hogar.\n• Las autoridades continúan evaluando daños y buscando maneras de ayudar a los afectados.",
+      "bullets_20s": "• El terremoto en Colombia dejó una profunda huella en la comunidad y afectó a muchas familias.\n• Ana María Saavedra vivía en un edificio que colapsó durante el sismo devastador.\n• La joven ahora enfrenta un futuro incierto tras perder a sus seres queridos.\n• La tragedia destaca la vulnerabilidad de las construcciones en áreas sísmicas.\n• Organizaciones de ayuda están brindando apoyo a las víctimas del terremoto.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cly59kek9w9o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-14T19:44:01.000Z",
-      "teaser": "Lo clave en 20 segundos: Ana María Saavedra sobrevivió a una tragedia familiar en un devastador terremoto colombiano.",
+      "teaser": "Lo clave en 20 segundos: La joven Ana María sobrevivió al terremoto, pero perdió a su familia en la tragedia.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a054/live/8e0feea0-9815-11f1-a7ea-19f04b81e9a0.png",
       "description": "La joven de 23 años lo perdió todo en el terremoto que azotó el occidente de Colombia el 10 de agosto: el edificio en el que vivía con sus papás y sus dos hermanas en Cali colapsó, quedando como la única sobreviviente de su núcleo familiar.",
       "featured": false
@@ -381,11 +407,11 @@
       "slug": "los-obreros-que-descubrieron-un-tesoro-de-us10-millones-en-lingotes-y-monedas-de-oro-sepultado-en-las-paredes-de-una-cas",
       "title": "Los obreros que descubrieron un tesoro de US$10 millones en lingotes y monedas de oro sepultado en las paredes de una casa en Bélgica",
       "category": "Mundo",
-      "bullets_20s": "• Un equipo de obreros hizo un hallazgo sorprendente en una casa antigua en Bélgica.\n• Descubrieron lingotes y monedas de oro sepultados en las paredes del sótano.\n• El valor total del tesoro se estima en aproximadamente 10 millones de dólares.\n• El hallazgo ocurrió mientras perforaban para instalar tuberías de alcantarillado.\n• El tesoro podría tener un origen histórico que aún no ha sido investigado por expertos.",
+      "bullets_20s": "• Obreros hallaron un increíble tesoro mientras trabajaban en una casa en Bélgica.\n• El tesoro estaba escondido en las paredes de un sótano, en lingotes de oro.\n• El valor del botín asciende a unos 10 millones de dólares en oro.\n• El descubrimiento generó gran sorpresa y asombro entre los trabajadores.\n• Las autoridades ya están investigando la historia detrás de este hallazgo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4gkyp2917go?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-14T16:02:39.000Z",
-      "teaser": "Lo clave en 20 segundos: obreros hallan oro en Bélgica, valor estimado en 10 millones de dólares.",
+      "teaser": "Lo clave en 20 segundos: obreros hallan un tesoro de 10 millones en Bélgica durante labores de construcción.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/2945/live/c7871a50-97de-11f1-bb4c-d758974ed97b.jpg",
       "description": "Unos obreros de la construcción encontraron el botín en las paredes de un sótano mientras perforaban para instalar tuberías de alcantarillado.",
       "featured": false
@@ -445,13 +471,13 @@
     {
       "slug": "equipos-del-tec-avanzan-en-el-torneo-nacional-icpc-centroamerica-2026",
       "title": "Equipos del TEC avanzan en el Torneo Nacional ICPC Centroamérica 2026",
-      "category": "Ciencia",
-      "bullets_20s": "• Estudiantes del TEC compiten en la fase clasificatoria del Torneo ICPC en Centroamérica 2026.\n• El gran evento reúne 17 instituciones y más de 90 equipos de la región participando.\n• La competencia se basa en la solución de problemas de programación en cinco horas.\n• Eddy Ramírez, director regional, destacó el sistema de monitoreo virtual de la competencia.\n• La final regional del Gran Premio CA se realizará el 7 de noviembre de 2026.",
+      "category": "Costa Rica",
+      "bullets_20s": "• Estudiantes del TEC compiten en la fase clasificatoria del Torneo Nacional ICPC Centroamérica 2026.\n• El ICPC es la competencia universitaria de programación más importante a nivel mundial.\n• Cada equipo tiene cinco horas para resolver la mayor cantidad de problemas de programación.\n• El evento reúne a 17 instituciones de la región, promoviendo la excelencia en programación.\n• La preparación incluye práctica constante y roles específicos dentro de los equipos.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/equipos-tec-avanzan-torneo-nacional-icpc-centroamerica-2026",
       "publish_date": "2026-08-14T14:00:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Equipos del TEC brillan en el Torneo Nacional de ICPC Centroamérica.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-08-13-at-3.01.46-pm.jpeg",
+      "teaser": "Lo clave en 20 segundos: El TEC se destaca en el torneo nacional de programación ICPC Centroamérica 2026.",
+      "image_url": "",
       "description": "Equipos del TEC avanzan en el Torneo Nacional ICPC Centroamérica 2026",
       "featured": false
     },
@@ -680,11 +706,11 @@
       "slug": "viceministro-de-mideplan-y-egresada-del-tec-inspiran-a-estudiantes-de-administracion-de-empresas",
       "title": "Viceministro de MIDEPLAN y egresada del TEC inspiran a estudiantes de Administración de Empresas",
       "category": "Costa Rica",
-      "bullets_20s": "• El inicio del semestre reunió estudiantes para motivarlos en sus carreras de Administración de Empresas.\n• El viceministro Marlon Navarro compartió su trayectoria y resaltó la importancia de la perseverancia.\n• Se realizaron actividades presenciales y virtuales para fomentar el aprendizaje y la reflexión profesional.\n• La egresada Leilani Rivas habló sobre la toma de decisiones y el crecimiento en la carrera profesional.\n• Los estudiantes reflexionaron sobre cómo construir una carrera con intención y adaptarse a cambios.",
+      "bullets_20s": "• El viceministro Marlon Navarro compartió su experiencia profesional con estudiantes del TEC.\n• Navarro instó a los jóvenes a no abandonar sus estudios y a perseverar en sus metas.\n• Destacó la importancia de llevar conocimientos a la comunidad y el servicio público.\n• Leilani Rivas, egresada del TEC, reflexionó sobre la construcción de una carrera con intención.\n• La actividad mentalizó a estudiantes sobre la toma de decisiones en su futuro profesional.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/viceministro-mideplan-egresada-tec-inspiran-estudiantes-administracion-empresas",
       "publish_date": "2026-08-14T04:27:43.000Z",
-      "teaser": "Lo clave en 20 segundos: El viceministro Navarro inspira a estudiantes a continuar sus sueños profesionales.",
+      "teaser": "Lo clave en 20 segundos: Inspiran a estudiantes en el TEC sobre construcción de su futuro profesional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/charla-2.jpg.jpeg",
       "description": "Viceministro de MIDEPLAN y egresada del TEC inspiran a estudiantes de Administración de Empresas",
       "featured": false
@@ -1200,12 +1226,12 @@
       "slug": "costa-rica-completa-su-historico-debut-en-la-olimpiada-internacional-de-informatica-2026-en-uzbekistan",
       "title": "Costa Rica completa su histórico debut en la Olimpiada Internacional de Informática 2026, en Uzbekistán",
       "category": "Costa Rica",
-      "bullets_20s": "• Costa Rica debutó en la Olimpiada Internacional de Informática en Tashkent, Uzbekistán, en agosto de 2026.\n• La delegación costarricense está formada por cuatro estudiantes que compiten contra 386 jóvenes de 97 países.\n• La Olimpiada Costarricense de Informática preparó a los estudiantes para participar en este evento mundial.\n• Los estudiantes participaron en un proceso de varias rondas para clasificarse para la olimpiada internacional.\n• Los participantes coinciden en la importancia de la constancia y el aprendizaje autodidacta en programación.",
+      "bullets_20s": "• Costa Rica hizo su primer debut en la Olimpiada Internacional de Informática en Tashkent, Uzbekistán.\n• Cuatro estudiantes representaron al país tras participar en la Olimpiada Costarricense de Informática.\n• La competencia reúne a cerca de 386 estudiantes de 97 países y se celebra anualmente.\n• El TEC ha sido fundamental en el desarrollo del talento joven en programación y informática.\n• El proceso formativo busca fomentar el interés en Ciencias y Tecnología a nivel nacional.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/costa-rica-completa-su-historico-debut-olimpiada-internacional-informatica-2026-uzbekistan",
       "publish_date": "2026-08-13T15:19:36.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica debuta con éxito en la Olimpiada Internacional de Informática 2026.",
-      "image_url": "",
+      "teaser": "Lo clave en 20 segundos: Costa Rica debuta en Olimpiada Internacional de Informática 2026 en Uzbekistán.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-08-12-at-11.31.23-pm.jpeg",
       "description": "Costa Rica completa su histórico debut en la Olimpiada Internacional de Informática 2026, en Uzbekistán.",
       "featured": false
     },
@@ -1603,11 +1629,11 @@
       "slug": "el-tec-lanza-idtec-el-primer-ecosistema-de-identidad-digital-universitaria-de-la-region",
       "title": "El TEC lanza IdTEC, el primer ecosistema de identidad digital universitaria de la región",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC presentó IdTEC, un sistema de identidad digital descentralizada para estudiantes universitarios.\n• Costa Rica se convierte en el primer país de la región en implementar esta tecnología innovadora.\n• Los estudiantes podrán llevar sus credenciales universitarias en sus teléfonos móviles de forma segura.\n• La primera credencial disponible será el carné digital institucional para su identificación.\n• IdTEC simplifica el acceso a servicios institucionales sin necesidad de recordar contraseñas.",
+      "bullets_20s": "• IdTEC es el primer sistema de identidad digital universitaria en Centroamérica, impulsado por el TEC.\n• Permite que estudiantes lleven sus credenciales universitarias en su dispositivo móvil de forma segura.\n• El sistema facilita el acceso a servicios institucionales sin necesidad de recordar contraseñas.\n• La primera credencial disponible será el carné digital para autenticarse en plataformas como TEC Digital.\n• Este proyecto es fruto de una colaboración entre Costa Rica y Corea del Sur, innovando en educación.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-lanza-idtec-primer-ecosistema-identidad-digital-universitaria-region",
       "publish_date": "2026-08-12T22:35:27.000Z",
-      "teaser": "Lo clave en 20 segundos: IdTEC, la nueva propuesta digital que transforma la identidad universitaria en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: TEC lanza IdTEC, identidad digital que transforma credenciales universitarias en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/diseno-sin-titulo-1.jpg",
       "description": "El TEC lanza IdTEC, el primer ecosistema de identidad digital universitaria de la región",
       "featured": false
@@ -76181,10 +76207,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-15T02:45:27.067Z",
-  "total": 5860,
-  "removed_soccer_news_count": 1043,
+  "generated_at": "2026-08-15T03:45:23.894Z",
+  "total": 5862,
+  "removed_soccer_news_count": 1044,
   "removed_soccer_news_titles": [
+    "Entre bromas de cumpleaños y buen surfing transcurrió fecha de la Liga Mundial en Playa Hermosa",
     "Barcelona y Real Madrid vuelven a la acción, ¿dónde ver la Liga Española en Costa Rica?",
     "Jeff Bezos entra al fútbol e invierte en uno de los grandes clubes de Europa",
     "Todo apretado en la Copa Centroamericana: así marcha la tabla de posiciones de cada grupo tras la fecha 3",
@@ -76233,7 +76260,6 @@
     "Keylor Navas le cumplió un sueño al pequeño ‘Tito’ y le hizo una pista de motocross",
     "Muerte de futbolista alcanzado por un rayo sacude el deporte de Tailandia",
     "Velocista costarricense es la atleta más joven en competir en el Mundial de Atletismo Sub-20",
-    "Policía allana sede de federación surcoreana tras fracaso en el pasado Mundial",
-    "Manfred Ugalde consigue doblete y Jeyland Mitchell se aleja de la Champions League"
+    "Policía allana sede de federación surcoreana tras fracaso en el pasado Mundial"
   ]
 }
