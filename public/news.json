@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "lluvias-y-aguaceros-alcanzaran-varias-regiones-de-costa-rica-este-martes-revise-donde",
+      "title": "Lluvias y aguaceros alcanzarán varias regiones de Costa Rica este martes: revise dónde",
+      "category": "Costa Rica",
+      "bullets_20s": "• El IMN ha emitido un aviso sobre lluvias que comenzarán en la madrugada del martes en el Caribe.\n• Las lluvias podrían intensificarse en la tarde, afectando el Pacífico y el Valle Central.\n• Se prevén aguaceros aislados que podrían ocasionar tormentas eléctricas en varias regiones.\n• La población debe estar preparada para posibles inundaciones y deslizamientos de tierra.\n• Es importante seguir las actualizaciones del IMN sobre condiciones climáticas en el país.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/sucesos/lluvias-y-aguaceros-alcanzaran-varias-regiones-de/YPULCDT245B6BOPQRANKEDCJT4/story/",
+      "publish_date": "2026-08-17T22:20:54.000Z",
+      "teaser": "Lo clave en 20 segundos: Lluvias y aguaceros afectarán varias regiones de Costa Rica este martes.",
+      "image_url": "https://www.nacion.com/resizer/v2/64QZGBUWDNFB5J25LOO5DIKEBE.JPG?auth=37520a45266aaa0a9587779bc566d06b539427e41f33a98f4be926011df0f15d&smart=true&width=4000&height=2667",
+      "description": "El IMN pronostica lluvias desde la madrugada del martes en el Caribe, con aguaceros y posibles tormentas en la tarde en el Pacífico y el Valle Central.",
+      "featured": false
+    },
+    {
+      "slug": "tribunal-ordena-captura-de-joselyn-chacon-por-no-presentarse-a-juicio-por-sexta-ocasion-exministra-alega-quebranto-de-sa",
+      "title": "Tribunal ordena captura de Joselyn Chacón por no presentarse a juicio por sexta ocasión; exministra alega quebranto de salud",
+      "category": "Costa Rica",
+      "bullets_20s": "• La exministra ha tenido múltiples ausencias en juicio, generando preocupación en el entorno judicial.\n• El Tribunal del I Circuito Judicial tomó esta decisión tras evaluaciones de su salud.\n• Joselyn Chacón alega problemas de salud, lo que reinó en las justificaciones de sus faltas.\n• La querella en su contra ha sido objeto de atención mediática durante varios meses.\n• La legalidad del proceso continúa siendo analizada por expertos en el campo legal.",
+      "source_name": "Sebastián Sánchez, Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/sucesos/tribunal-ordena-captura-de-joselyn-chacon-por-no/GCUUXTQMENGVRF7AW5G3YJDDFI/story/",
+      "publish_date": "2026-08-17T22:19:31.000Z",
+      "teaser": "Lo clave en 20 segundos: Se ordena captura de exministra por faltas a juicio y alegaciones de salud.",
+      "image_url": "https://www.nacion.com/resizer/v2/BURYCPM47NGOPD4ZZIEUTXQRUI.jpg?auth=c612c3eeefb61e0b956acb9ce900c30fec3b834d8f7b9f2f149798545b3529ad&smart=true&width=1920&height=1080",
+      "description": "El Tribunal del I Circuito Judicial de San José ordenó la captura de la exministra Joselyn Chacón tras una nueva ausencia al juicio por una querella de Francisco Nicolás. La exjerarca alegó un 'quebranto de salud'.",
+      "featured": false
+    },
+    {
       "slug": "tipo-de-cambio-del-dolar-frena-seguidilla-de-minimos-historicos-en-monex",
       "title": "Tipo de cambio del dólar frena seguidilla de mínimos históricos en Monex",
       "category": "Costa Rica",
@@ -67,13 +93,13 @@
     },
     {
       "slug": "las-empresas-de-ia-prometen-que-se-trabajara-menos-pero-sus-empleados-dicen-que-tienen-jornadas-de-90-horas-semanales",
-      "title": "Las empresas de IA prometen que se trabajará menos pero sus empleados dicen que tienen jornadas de 90 horas semanales",
+      "title": "Las empresas de IA prometen que se trabajará menos, pero sus empleados dicen que tienen jornadas de 90 horas semanales",
       "category": "Mundo",
-      "bullets_20s": "• Las promesas de la inteligencia artificial incluyen menos horas de trabajo para los empleados.\n• Sin embargo, muchos trabajadores enfrentan jornadas extensas de hasta 90 horas a la semana.\n• La discrepancia entre expectativas y realidad genera inquietud en el ámbito laboral.\n• Las empresas deben demostrar cómo la tecnología hace viable un equilibrio laboral real.\n• El debate sobre la automatización y el tiempo libre sigue creciendo worldwide.",
+      "bullets_20s": "• Las empresas de inteligencia artificial prometen menos trabajo, pero hay un descontento creciente entre los empleados.\n• Muchos trabajadores reportan jornadas laborales de hasta 90 horas semanales en este sector emergente.\n• A pesar de las declaraciones, la realidad del tiempo libre sigue siendo problemática para los empleados.\n• La percepción de que la tecnología mejora la calidad de vida está siendo cuestionada en este contexto.\n• El equilibrio entre la vida laboral y personal sigue siendo un tema conflictivo en el ámbito tecnológico.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c9802y9lk76o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-17T20:59:25.000Z",
-      "teaser": "Lo clave en 20 segundos: Prometen menos trabajo, pero empleados enfrentan largas jornadas semanales.",
+      "teaser": "Lo clave en 20 segundos: La promesa de menos trabajo no se cumple en la realidad laboral de la IA.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9229/live/d83990c0-975d-11f1-9240-c70a29f1c818.jpg",
       "description": "Las empresas tecnológicas no están respaldando con hechos sus propias afirmaciones de que la tecnología proporciona a las personas más tiempo libre.",
       "featured": false
@@ -497,12 +523,12 @@
     {
       "slug": "tuve-la-regla-a-los-6-anos-y-los-medicos-no-tenian-ni-idea-de-por-que",
       "title": "Tuve la regla a los 6 años y los médicos no tenían ni idea de por qué",
-      "category": "Mundo",
-      "bullets_20s": "• La pubertad precoz es un tema de creciente interés en la medicina y la educación.\n• Afecta principalmente a niñas, aunque también se presenta en niños con menos frecuencia.\n• Este fenómeno puede tener implicaciones psicológicas y sociales significativas para los afectados.\n• Los expertos aún investigan las razones detrás del inicio temprano de la menstruación.\n• Es importante que los padres y educadores estén informados sobre este tema.",
+      "category": "Ciencia",
+      "bullets_20s": "• La pubertad precoz es un fenómeno que está aumentando en diversas partes del mundo.\n• Afecta de manera distinta a niños y niñas, con una mayor incidencia en las niñas.\n• Los médicos aún investigan las causas detrás de este desarrollo temprano.\n• Los efectos psicológicos y físicos de la pubertad precoz son motivo de preocupación.\n• Es esencial que los padres estén atentos a los signos de desarrollo temprano en sus hijos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c20j5zjl1ezo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-17T10:15:10.000Z",
-      "teaser": "Lo clave en 20 segundos: La pubertad precoz impacta a muchas niñas con falta de respuestas médicas.",
+      "teaser": "Lo clave en 20 segundos: La pubertad precoz desafía a los médicos en su comprensión y tratamiento.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/28cd/live/6f226020-9a24-11f1-bf12-b5882ef8968b.jpg",
       "description": "La pubertad precoz desencadena el desarrollo temprano de las características sexuales en los niños y afecta de manera desproporcionada a las niñas.",
       "featured": false
@@ -550,11 +576,11 @@
       "slug": "forest-city-la-ciudad-fantasma-con-rascacielos-vacios-que-se-convirtio-en-un-refugio-para-estafadores",
       "title": "Forest City, la ciudad fantasma con rascacielos vacíos que se convirtió en un refugio para estafadores",
       "category": "Mundo",
-      "bullets_20s": "• Forest City fue presentado como un proyecto innovador, prometiendo lujo y sostenibilidad para sus residentes.\n• Sin embargo, la realidad mostró que muchos edificios permanecen vacíos y sin ocupación constante.\n• El proyecto ha atraído a estafadores buscando aprovechar la situación económica de los inversores.\n• Entre sombras y luces, esta ciudad fantasma sigue generando debates sobre urbanismo moderno.\n• Los desafíos de Forest City reflejan problemas más amplios en el desarrollo inmobiliario global.",
+      "bullets_20s": "• Forest City se diseñó inicialmente como un destino turístico y residencial de lujo en Malasia.\n• Sin embargo, su desarrollo se ha visto empañado por problemas de negocios y desconfianza.\n• El lugar presenta rascacielos vacíos, mostrando el fracaso de su promoción inicial.\n• Se han reportado múltiples estafas relacionadas con inversiones en esta ciudad fantasma.\n• A pesar de su diseño moderno, el proyecto enfrenta críticas por falta de transparencia.\n• Los residentes potenciales no han obtenido los beneficios prometidos por los desarrolladores.\n• Analistas destacan las lecciones sobre la planificación urbana y la regulación inmobiliaria.\n• Forest City se ha convertido en un símbolo de los riesgos del mercado inmobiliario.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cm2ggn9jm66o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-17T02:57:21.000Z",
-      "teaser": "Lo clave en 20 segundos: Forest City es un proyecto fallido que se ha convertido en un imán para estafadores.",
+      "teaser": "Lo clave en 20 segundos: Forest City es un proyecto fallido que atrae estafadores y deja rascacielos vacíos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/1e20/live/9eb0d250-99d8-11f1-b504-67eb27559044.jpg",
       "description": "Forest City, un proyecto urbanístico de Malasia, se promocionaba como un 'paraíso', pero atrajo clientes que no esperaba.",
       "featured": false
@@ -2200,12 +2226,12 @@
     {
       "slug": "equipos-del-tec-avanzan-en-el-torneo-nacional-icpc-centroamerica-2026",
       "title": "Equipos del TEC avanzan en el Torneo Nacional ICPC Centroamérica 2026",
-      "category": "Ciencia",
-      "bullets_20s": "• Estudiantes del TEC compiten en el torneo nacional de programación competitiva más importante de la región.\n• El ICPC es conocido a nivel mundial, promoviendo habilidades en resolución de problemas algorítmicos.\n• El evento reúne a equipos de universidades de varios países de Centroamérica y Sudamérica.\n• Cada equipo tiene un tiempo limitado para resolver la mayor cantidad de retos de programación.\n• La competencia continúa con fechas de repechaje y culminará en una final regional en noviembre.",
+      "category": "Costa Rica",
+      "bullets_20s": "• Estudiantes del TEC compiten en fase clasificatoria del Torneo Nacional de programación ICPC Centroamérica.\n• El ICPC es la competencia de programación algorítmica más importante a nivel mundial.\n• Cada universidad presenta equipos formados por tres estudiantes y un entrenador para competir.\n• Los equipos tienen un tiempo limitado para resolver diversos problemas de programación.\n• El Gran Premio CA incluye a 17 instituciones y 98 equipos de la región en competencia.\n• Técnicas de trabajo en equipo y preparación constante son claves para el éxito.\n• El evento promueve habilidades técnicas y fomenta el aprendizaje entre los estudiantes.\n• La próxima fecha de repechaje del torneo se llevará a cabo el 12 de septiembre.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/equipos-tec-avanzan-torneo-nacional-icpc-centroamerica-2026",
       "publish_date": "2026-08-14T14:00:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Equipos del TEC avanzan en Torneo ICPC Centroamérica 2026.",
+      "teaser": "Lo clave en 20 segundos: Equipos del TEC avanzan en el torneo ICPC Centroamérica 2026.",
       "image_url": "",
       "description": "Equipos del TEC avanzan en el Torneo Nacional ICPC Centroamérica 2026",
       "featured": false
@@ -2432,19 +2458,6 @@
       "featured": false
     },
     {
-      "slug": "viceministro-de-mideplan-y-egresada-del-tec-inspiran-a-estudiantes-de-administracion-de-empresas",
-      "title": "Viceministro de MIDEPLAN y egresada del TEC inspiran a estudiantes de Administración de Empresas",
-      "category": "Costa Rica",
-      "bullets_20s": "• El evento, en el TEC, inspiró a nuevas generaciones a aprovechar su formación universitaria.\n• Marlon Andrés Navarro compartió su experiencia académica y profesional con los estudiantes.\n• Se discutió la importancia de conocimientos en idiomas, habilidades y ciberseguridad.\n• Leilani Rivas, egresada, invitó a reflexionar sobre construir una carrera con intención.\n• Los estudiantes analizaron casos reales para fortalecer decisiones profesionales.\n• Se enfatizó que el éxito no tiene una única definición ni un solo camino a seguir.\n• Ambas actividades destacaron el valor del aprendizaje continuo y la perseverancia.\n• Los profesores resaltaron la importancia de escuchar experiencias directas de egresados.\n• Las actividades buscaron motivar el crecimiento personal y profesional de los estudiantes.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/viceministro-mideplan-egresada-tec-inspiran-estudiantes-administracion-empresas",
-      "publish_date": "2026-08-14T04:27:43.000Z",
-      "teaser": "Lo clave en 20 segundos: Dos actividades en el TEC inspiran a estudiantes a perseverar en sus estudios.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/charla-2.jpg.jpeg",
-      "description": "Viceministro de MIDEPLAN y egresada del TEC inspiran a estudiantes de Administración de Empresas",
-      "featured": false
-    },
-    {
       "slug": "presidente-de-medio-de-comunicacion-en-guatemala-denuncia-supuesto-plan-de-narcopolitica-para-atentar-contra-el-y-su-equ",
       "title": "Presidente de medio de comunicación en Guatemala denuncia supuesto plan de ‘narcopolítica’ para atentar contra él y su equipo",
       "category": "Mundo",
@@ -2533,6 +2546,19 @@
       "teaser": "Lo clave en 20 segundos: La Sala Constitucional anula rechazo a Rocío Alfaro en la CCSS, abriendo diálogo sindical.",
       "image_url": "https://www.nacion.com/resizer/v2/WH6K2E2GSJDTFBTORGPUDJBPKU.jpg?auth=6788b4321bc03f9c0e7a276514a11d58e28fb32b86b061d080dd64f3b4614b23&smart=true&width=1280&height=960",
       "description": "Al resolver un recurso de amparo, la Sala Constitucional anuló este 13 de agosto el acuerdo del Consejo de Gobierno que rechazó el nombramiento de la exdiputada Rocío Alfaro Molina como representante del movimiento sindical ante la Junta Directiva de la CCSS, para el periodo 2026-2030.",
+      "featured": false
+    },
+    {
+      "slug": "viceministro-de-mideplan-y-egresada-del-tec-inspiran-a-estudiantes-de-administracion-de-empresas",
+      "title": "Viceministro de MIDEPLAN y egresada del TEC inspiran a estudiantes de Administración de Empresas",
+      "category": "Costa Rica",
+      "bullets_20s": "• El evento se realizó en la Biblioteca José Figueres Ferrer del Campus Central del TEC.\n• Marlon Andrés Navarro compartió su trayectoria académica con los estudiantes presentes.\n• El viceministro instó a los estudiantes a perseverar en sus estudios e impulsar su formación.\n• Se destacó la importancia de desarrollar habilidades blandas para el futuro profesional.\n• Leilani Rivas también participó, exponiendo su experiencia en la construcción de carreras.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/viceministro-mideplan-egresada-tec-inspiran-estudiantes-administracion-empresas",
+      "publish_date": "2026-08-14T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El viceministro y una egresada inspiran a estudiantes con su experiencia profesional.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/charla-2.jpg.jpeg",
+      "description": "Viceministro de MIDEPLAN y egresada del TEC inspiran a estudiantes de Administración de Empresas",
       "featured": false
     },
     {
@@ -2955,11 +2981,11 @@
       "slug": "costa-rica-completa-su-historico-debut-en-la-olimpiada-internacional-de-informatica-2026-en-uzbekistan",
       "title": "Costa Rica completa su histórico debut en la Olimpiada Internacional de Informática 2026, en Uzbekistán",
       "category": "Costa Rica",
-      "bullets_20s": "• Costa Rica debutó en la Olimpiada Internacional de Informática, un hito para la representación nacional.\n• La participación de cuatro estudiantes se gestó desde el Centro Académico de Alajuela del TEC.\n• Fabricio e Ignacio son dos de los estudiantes que compartieron su experiencia histórica en este evento.\n• Los competidores enfrentaron un riguroso proceso de selección a través de la Olimpiada Costarricense de Informática.\n• La ceremonia de clausura de la olimpiada mundial está programada para el 16 de agosto de 2026.",
+      "bullets_20s": "• Por primera vez, Costa Rica participa en la Olimpiada Internacional de Informática en Uzbekistán.\n• Cuatro estudiantes del TEC representaron al país en esta competencia mundial de programación.\n• El proceso de selección se realizó a través de la Olimpiada Costarricense de Informática.\n• La OCI ha impulsado el interés en matemáticas y programación entre los jóvenes costarricenses.\n• Ignacio y Fabricio, dos jóvenes talentosos, compartieron sus experiencias en esta travesía.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/costa-rica-completa-su-historico-debut-olimpiada-internacional-informatica-2026-uzbekistan",
       "publish_date": "2026-08-13T15:19:36.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica debuta en olimpiada de informática, un logro significativo para el país.",
+      "teaser": "Lo clave en 20 segundos: Costa Rica debuta en la Olimpiada de Informática, un hito para el país.",
       "image_url": "",
       "description": "Costa Rica completa su histórico debut en la Olimpiada Internacional de Informática 2026, en Uzbekistán",
       "featured": false
@@ -3358,7 +3384,7 @@
       "slug": "el-tec-lanza-idtec-el-primer-ecosistema-de-identidad-digital-universitaria-de-la-region",
       "title": "El TEC lanza IdTEC, el primer ecosistema de identidad digital universitaria de la región",
       "category": "Costa Rica",
-      "bullets_20s": "• IdTEC permite a estudiantes llevar credenciales universitarias en su teléfono móvil de forma segura.\n• El piloto tiene una duración de un año y comenzará con un grupo reducido de estudiantes.\n• El carné digital institucional será la primera credencial disponible para autenticación.\n• Este sistema usa tecnología de identidad descentralizada para mayor seguridad y autonomía.\n• La alianza entre Costa Rica y Corea del Sur impulsa esta innovadora implementación tecnológica.",
+      "bullets_20s": "• IdTEC permite a estudiantes llevar credenciales universitarias en su teléfono, facilitando su uso.\n• El piloto inicial tendrá una duración de hasta un año, comenzando con un grupo restringido.\n• Las credenciales digitales serán firmadas por el TEC, garantizando su autenticidad y seguridad.\n• A diferencia de otros sistemas, IdTEC utiliza identidad descentralizada al ofrecer personalización y control.\n• El proyecto es una colaboración entre Costa Rica y Corea del Sur, promoviendo la innovación tecnológica.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-lanza-idtec-primer-ecosistema-identidad-digital-universitaria-region",
       "publish_date": "2026-08-12T22:35:27.000Z",
@@ -77949,10 +77975,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-17T21:45:25.194Z",
-  "total": 5996,
-  "removed_soccer_news_count": 1057,
+  "generated_at": "2026-08-17T22:45:48.383Z",
+  "total": 5998,
+  "removed_soccer_news_count": 1059,
   "removed_soccer_news_titles": [
+    "Falleció exfutbolista del Cartaginés y tío de reconocido narrador deportivo",
     "Jonathan McDonald se retira del fútbol y enfrentará a este equipo en su despedida",
     "Violento bolazo deja inconsciente a una reportera gráfica en pleno partido en Brasil y el video se vuelve viral",
     "Preocupación en partido del Bayern Múnich: Jamal Musiala se desploma en la cancha (video)",
@@ -78001,7 +78028,6 @@
     "‘Mucha fuerza, Messi’: el mundo del fútbol abraza al astro argentino por la muerte de su papá",
     "Consuelo Velázquez, la compositora mexicana que creó el éxito mundial 'Bésame mucho' (e intentó mantenerse anónima)",
     "Muere el padre de Lionel Messi",
-    "Políticos, jets privados y poder: cómo es la vida de un presidente de la FIFA",
-    "Cartaginés se quitó de encima al incómodo Sporting con una joya de gol en el último suspiro"
+    "Políticos, jets privados y poder: cómo es la vida de un presidente de la FIFA"
   ]
 }
