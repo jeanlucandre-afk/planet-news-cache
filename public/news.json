@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "luciferina-es-sospechosa-de-asesinar-a-punaladas-a-indigente",
+      "title": "Luciferina es sospechosa de asesinar a puñaladas a indigente",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un ataque sin motivos claros dejó como víctima a un indigente en la ciudad.\n• La sospechosa utilizó un arma blanca para cometer el crimen de manera brutal.\n• Las autoridades están investigando las circunstancias del incalificable suceso.\n• El hecho genera preocupación entre los residentes de la zona afectada.\n• El caso ha levantado voces de alerta sobre la seguridad pública en el país.",
+      "source_name": "Christian  Montero",
+      "source_url": "https://www.nacion.com/sucesos/luciferina-es-sospechosa-de-asesinar-a-punaladas-a/CRMEDO67G5BJLF5AYEOEHX22WM/story/",
+      "publish_date": "2026-08-19T17:23:41.000Z",
+      "teaser": "Lo clave en 20 segundos: una mujer apuñala a un indigente sin razón aparente.",
+      "image_url": "https://www.nacion.com/resizer/v2/Q42ECKHQSFFBDASM33A7WJR7D4.jpeg?auth=115e8915b62ff86e2fc245861778e88f565355781c016581c5d0f0be7f552eb6&smart=true&width=1204&height=1600",
+      "description": "Sin ninguna aparente razón, una mujer que caminaba por una acera atacó a un indigente con un arma blanca y le provocó múltiples heridas hasta acabar con su vida.",
+      "featured": false
+    },
+    {
+      "slug": "oea-aprueba-reunion-de-cancilleres-para-discutir-medidas-contra-nicaragua",
+      "title": "OEA aprueba reunión de cancilleres para discutir medidas contra Nicaragua",
+      "category": "Mundo",
+      "bullets_20s": "• La OEA busca abordar la actual situación política en Nicaragua y sus implicaciones regionales.\n• La reforma constitucional de Ortega ha generado preocupaciones entre los estados miembros de la OEA.\n• El debate se centrará en posibles sanciones y acciones diplomáticas a implementar.\n• Los cancilleres de varios países se preparan para una discusión intensa sobre Nicaragua.\n• La reunión se anuncia en un momento crítico para la política centroamericana.\n• Los estados miembros de la OEA expresan su compromiso con la democracia en la región.\n• Analistas consideran que esta reunión puede cambiar el rumbo actual en Nicaragua.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/oea-aprueba-reunion-de-cancilleres-para-discutir/XGZEEESAANA7FNUB23GTST755M/story/",
+      "publish_date": "2026-08-19T17:09:55.000Z",
+      "teaser": "Lo clave en 20 segundos: La OEA convoca reunión para discutir medidas urgentes contra Nicaragua.",
+      "image_url": "https://www.nacion.com/resizer/v2/EDCZAXWKP5EN7IGJPRGYAMVIRA.jpg?auth=27110232e5849ef9b834fca817b2ef5493dbc3615ef7f9814a2c92fa2c2ccb28&smart=true&width=1200&height=814",
+      "description": "La OEA aprobó convocar a cancilleres para debatir acciones por la reforma constitucional de Daniel Ortega y Rosario Murillo en Nicaragua. Conozca los detalles.",
+      "featured": false
+    },
+    {
       "slug": "reabre-ruta-32-tras-cierre-por-lluvias",
       "title": "Reabre ruta 32 tras cierre por lluvias",
       "category": "Costa Rica",
@@ -17,11 +43,11 @@
       "slug": "israel-confirma-que-disparo-contra-el-vehiculo-en-el-que-viajaba-la-nina-de-5-anos-hind-rajab-en-gaza",
       "title": "Israel confirma que disparó contra el vehículo en el que viajaba la niña de 5 años Hind Rajab en Gaza",
       "category": "Mundo",
-      "bullets_20s": "• Israel ha confirmado el uso de fuego contra el vehículo donde viajaba la niña Hind Rajab.\n• El ataque ocurrió en Gaza, generando controversia y preocupación internacional por los civiles.\n• Hind Rajab fue herida en enero de 2024, lo que generó reacciones en diversos sectores.\n• La comunidad internacional sigue de cerca la situación en Gaza y sus implicaciones políticas.\n• El conflicto entre Israel y Gaza continúa afectando a menores y a poblaciones vulnerables.",
+      "bullets_20s": "• El ataque fue confirmado recientemente, causando conmoción y repudio internacional en diversas naciones.\n• La niña, aunque sobrevivió al ataque, fue recuperada sin vida días después en Gaza.\n• La situación en Gaza sigue siendo un foco de tensión y conflicto continuo entre diferentes grupos.\n• Organismos de derechos humanos han condenado la violencia y piden justicia para los afectados.\n• El conflicto entre Israel y Palestina ha causado numerosas víctimas inocentes en los últimos años.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g41m1ezypo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-19T16:04:16.000Z",
-      "teaser": "Lo clave en 20 segundos: Israel admite disparar contra el vehículo de una menor en Gaza, generando alarmas internacionales.",
+      "teaser": "Lo clave en 20 segundos: Israel confirmó un ataque sobre un vehículo con una niña herida en Gaza.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
       "description": "Hind Rajab inicialmente sobrevivió al ataque ocurrido en enero de 2024, pero su cuerpo fue recuperado días después en la Ciudad de Gaza.",
       "featured": false
@@ -199,11 +225,11 @@
       "slug": "la-mas-mortal-de-las-principales-lineas-ferroviarias-de-eeuu-por-que-mas-de-200-personas-han-muerto-en-las-vias-del-tren",
       "title": "La más mortal de las principales líneas ferroviarias de EE.UU.: por qué más de 200 personas han muerto en las vías del tren que conecta Miami y Orlando",
       "category": "Mundo",
-      "bullets_20s": "• Brightline ha sido objeto de controversia por las numerosas muertes en sus vías en Florida.\n• Más de 200 personas han perdido la vida desde el inicio del servicio entre Miami y Orlando.\n• Las autoridades analizan las razones detrás de la alta cantidad de incidentes en el tren.\n• Se han elevado críticas sobre la seguridad de la línea ferroviaria y su gestión.\n• El servicio fue creado para conectar ciudades principales, pero enfrenta serias cuestiones de seguridad.",
+      "bullets_20s": "• La línea ferroviaria Brightline ha registrado más de 200 muertes desde su inauguración.\n• Accidentes de tren son responsables de una alta tasa de mortalidad en sus vías.\n• La polémica rodea al servicio, provocando debate sobre la seguridad ferroviaria.\n• Florida enfrenta críticas por el diseño y seguridad de la línea ferroviaria Brightline.\n• La conexión entre Miami y Orlando ha generado inquietudes sobre la infraestructura ferroviaria.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c78g49r0k19o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-19T12:00:10.000Z",
-      "teaser": "Lo clave en 20 segundos: alta mortalidad en tren Brightline genera polémica en Florida.",
+      "teaser": "Lo clave en 20 segundos: más de 200 muertes en la línea Brightline generan controversia sobre su seguridad.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0281/live/08dd75f0-9bc5-11f1-8849-3fe19bf8df06.jpg",
       "description": "Las muertes en las vías del Brightline han envuelto en la polémica un servicio lanzado para conectar las principales ciudades de Florida.",
       "featured": false
@@ -290,11 +316,11 @@
       "slug": "conmemoracion-del-50-aniversario-de-la-escuela-de-ingenieria-electronica",
       "title": "Conmemoración del 50° Aniversario de la Escuela de Ingeniería Electrónica",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Ingeniería Electrónica del TEC celebra su 50° Aniversario este 26 de agosto de 2026.\n• El evento reunirá a estudiantes, exalumnos y personal docente en el Centro de las Artes en Cartago.\n• Se realizarán actividades protocolares, incluyendo palabras de autoridades y un acto cultural destacado.\n• El legado de la Escuela se destaca por su compromiso con la investigación y la innovación tecnológica.\n• El evento busca honrar a quienes han contribuido al desarrollo de la ingeniería electrónica en Costa Rica.",
+      "bullets_20s": "• La Escuela de Ingeniería Electrónica celebra cinco décadas de excelencia académica y profesional.\n• El evento se llevará a cabo el 26 de agosto de 2026 en Cartago, Costa Rica.\n• El Tecnológico de Costa Rica es un referente en innovación tecnológica en la región.\n• Se espera la participación de estudiantes, egresados y aliados estratégicos en la conmemoración.\n• Habrá un programa especial que incluye discursos y un acto cultural significativo.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/conmemoracion-50deg-aniversario-escuela-ingenieria-electronica",
       "publish_date": "2026-08-19T06:00:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebramos 50 años de la Escuela de Ingeniería Electrónica con un gran evento.",
+      "teaser": "Lo clave en 20 segundos: Celebración del 50° aniversario de la Escuela de Ingeniería Electrónica en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/electronica-campbell-sci-tec-1_0.jpg",
       "description": "Conmemoración del 50° Aniversario de la Escuela de Ingeniería Electrónica",
       "featured": false
@@ -316,26 +342,26 @@
       "slug": "interpretacion-del-articulo-38-inciso-g-del-estatuto-organico-del-instituto-tecnologico-de-costa-rica",
       "title": "Interpretación del artículo 38, inciso g, del Estatuto Orgánico del Instituto Tecnológico de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El artículo 38 establece regulaciones sobre la creación de comisiones en el TEC.\n• Estas comisiones tienen un papel auxiliar, sin decisiones vinculantes para el TEC.\n• La creación requiere habilitación expresa del Consejo Institucional o normas superiores.\n• Las comisiones no pueden modificar funciones ni establecer obligaciones a otras áreas.\n• La participación de otros representantes será como colaboración técnica, no jerárquica.",
+      "bullets_20s": "• El inciso g del artículo 38 tiene un enfoque claro sobre las comisiones del ITCR.\n• Las comisiones creadas no tienen facultades decisionales ni pueden imponer obligaciones.\n• La participación externa es técnica, sin subordinación a la Vicerrectoría correspondiente.\n• Se requiere habilitación expresa para que una comisión tenga carácter institucional.\n• Las decisiones se limitan al ámbito interno y no afectan otras dependencias.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/interpretacion-articulo-38-inciso-g-estatuto-organico-instituto-tecnologico-costa-rica",
       "publish_date": "2026-08-19T03:03:57.000Z",
-      "teaser": "Lo clave en 20 segundos: regulación de comisiones en el TEC sin poder decisional.",
+      "teaser": "Lo clave en 20 segundos: interpretación del artículo 38 sobre comisiones del ITCR.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
-      "description": "macastro",
+      "description": "Interpretación del inciso g del artículo 38 del Estatuto Orgánico del ITCR.",
       "featured": false
     },
     {
       "slug": "reglamento-de-consejo-de-escuela-de-ingenieria-mecatronica",
       "title": "Reglamento de Consejo de Escuela de Ingeniería Mecatrónica",
       "category": "Costa Rica",
-      "bullets_20s": "• El reglamento tiene carácter específico y es obligatorio para los miembros del Consejo de Escuela.\n• Regula la participación y funcionamiento del Consejo de Escuela durante las sesiones.\n• Establece modalidades de sesiones que pueden ser plenarias o formales.\n• Incluye definiciones que clarifican conceptos importantes para la toma de decisiones.\n• Es responsabilidad del presidente asegurar el cumplimiento del reglamento y dirigir las sesiones.",
+      "bullets_20s": "• El reglamento establece disposiciones generales para el funcionamiento del Consejo de Escuela.\n• Regula la participación de los integrantes en las sesiones del Consejo de Escuela.\n• Define las modalidades de sesiones: plenarias y consultas formales.\n• Establece funciones específicas para el presidente y los miembros del consejo.\n• Incluye responsabilidades para el secretario del Consejo de Escuela.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/reglamento-consejo-escuela-ingenieria-mecatronica",
       "publish_date": "2026-08-19T02:54:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Reglamento establece normas para el Consejo de Escuela de Ingeniería Mecatrónica.",
+      "teaser": "Lo clave en 20 segundos: Reglamento que normativa el funcionamiento del Consejo de Escuela de Ingeniería Mecatrónica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
-      "description": "Reglamento en el que se detallan las disposiciones y responsabilidades de cada integrante del Consejo de Escuela.",
+      "description": "macastro",
       "featured": false
     },
     {
@@ -758,11 +784,11 @@
       "slug": "estados-financieros-2026",
       "title": "Estados Financieros 2026",
       "category": "Mundo",
-      "bullets_20s": "• Análisis de Estados Financieros de empresas durante el primer trimestre de 2026.\n• Resultados financieros reflejan la salud económica de las organizaciones en el país.\n• Comparaciones entre trimestres muestran tendencias en ingresos y gastos.\n• Importancia de los reportes financieros para toma de decisiones informadas.\n• La transparencia financiera es crucial para mantener la confianza del mercado.",
+      "bullets_20s": "• El informe detalla los estados financieros del primer trimestre de 2026.\n• Se abordarán los resultados económicos del segundo trimestre de 2026.\n• Las proyecciones futuras se discutirán en base a este informe.\n• Análisis del impacto financiero en diferentes sectores económicos.\n• Posibles estrategias para mejorar la situación financiera reportada.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/estados-financieros-2026",
       "publish_date": "2026-08-18T15:56:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Análisis de los Estados Financieros del primer semestre de 2026.",
+      "teaser": "Lo clave en 20 segundos: Estados Financieros para el 2026 ya disponibles y llenos de información importante.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/doc_image.png",
       "description": "Estados Financieros 2026",
       "featured": false
@@ -79171,10 +79197,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-19T16:45:24.566Z",
-  "total": 6090,
-  "removed_soccer_news_count": 1072,
+  "generated_at": "2026-08-19T17:45:24.407Z",
+  "total": 6092,
+  "removed_soccer_news_count": 1073,
   "removed_soccer_news_titles": [
+    "La enfermedad de Jamal Musiala que preocupa al fútbol mundial",
     "Mi abuelo tuvo 5 esposas. Todos sabían su lugar: cómo la novela 'El Polígamo' se convirtió en un éxito mundial en TV",
     "Vea los goles de Cartaginés ante Verdes de Belice",
     "Así está el futuro de Johan Venegas: esto es lo que se sabe sobre el mundialista de 2018 y 2022",
@@ -79223,7 +79250,6 @@
     "¿Se reelegirá Osael Maroto? Así responde el presidente de la Fedefútbol a un año de las elecciones",
     "Fedefútbol anuncia sorpresiva renuncia de jerarca",
     "Crisis en FIFA empeora: UEFA, Concacaf y Asia se unen y hacen fuerte pronunciamiento contra Infantino",
-    "El insólito festejo de un futbolista en Brasil acaba muy mal y le da la vuelta al mundo: vea lo que pasó",
-    "Manfred Ugalde vuelve a festejar el gol en Rusia (vea la anotación)"
+    "El insólito festejo de un futbolista en Brasil acaba muy mal y le da la vuelta al mundo: vea lo que pasó"
   ]
 }
