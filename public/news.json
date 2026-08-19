@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "jorge-araya-buscara-reelegirse-como-magistrado-de-la-sala-constitucional-y-descarta-presidir-la-corte-es-un-momento-difi",
+      "title": "Jorge Araya buscará reelegirse como magistrado de la Sala Constitucional y descarta presidir la Corte: ‘Es un momento difícil para la democracia costarricense’",
+      "category": "Costa Rica",
+      "bullets_20s": "• Jorge Araya está en funciones como magistrado de la Sala Constitucional desde hace varios años.\n• La reelección de Araya busca fortalecer la independencia judicial en el país.\n• El magistrado establece un balance en su papel y la situación política actual.\n• Su decisión de no postularse para la presidencia de la Corte es estratégica.\n• La democracia costarricense enfrenta retos significativos en este contexto actual.",
+      "source_name": "Silvia Ureña Corrales, Natasha Cambronero",
+      "source_url": "https://www.nacion.com/politica/jorge-araya-buscara-reelegirse-como-magistrado-de/UFZSI2UGRBHXRET55XQGUDMTXI/story/",
+      "publish_date": "2026-08-19T02:24:46.000Z",
+      "teaser": "Lo clave en 20 segundos: Jorge Araya buscará reelección como magistrado y no aspirará a presidir la Corte.",
+      "image_url": "https://www.nacion.com/resizer/v2/PZJ7LKJKONHQPHY3VQ6ARVUAQ4.jpg?auth=6506696b5dbe9d58d44a48a6789a3b71ec7e03cda479f8d94fee35a95ace98fd&smart=true&width=4752&height=3168",
+      "description": "Jorge Araya, magistrado de la Sala Constitucional, confirmó que buscará su primera reelección y descartó aspirar a la presidencia de la Corte Suprema de Justicia.",
+      "featured": false
+    },
+    {
+      "slug": "ccss-sesiona-con-representante-sindical-pro-tempore-pese-a-fallo-de-sala-constitucional-sobre-nombramiento-de-rocio-alfa",
+      "title": "CCSS sesiona con representante sindical ‘pro tempore’ pese a fallo de Sala Constitucional sobre nombramiento de Rocío Alfaro",
+      "category": "Costa Rica",
+      "bullets_20s": "• La CCSS ha tomado decisiones importantes recientemente que afectan la representación sindical.\n• Roger Rivera asume el papel de representante sindical 'pro tempore' en este contexto.\n• El fallo de la Sala Constitucional ha generado un debate sobre cómo se nombran los representantes.\n• La Sala Constitucional anuló el rechazo hacia el nombramiento de Rocío Alfaro.\n• Este tipo de decisiones impactan la relación entre la CCSS y los sindicatos.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-pais/ccss-sesiona-con-representante-sindical-pro/LVSU2Z2VNJEJ3KGGF4YP4I5SEE/story/",
+      "publish_date": "2026-08-19T02:03:32.000Z",
+      "teaser": "Lo clave en 20 segundos: CCSS discute situación sindical tras fallo constitucional.",
+      "image_url": "https://www.nacion.com/resizer/v2/67FO4I5IGFDYNMVBROUBDO7CVQ.jpg?auth=a62b2f42aaa4c412c9ef1c58f9cf3bba1a9f7a21ab910e6fdab12fb5f82e8cfa&smart=true&width=7213&height=4608",
+      "description": "La Junta Directiva de la CCSS sesionó con Roger Rivera como representante sindical 'pro tempore' días después de que la Sala Constitucional anulara el rechazo al nombramiento de Rocío Alfaro.",
+      "featured": false
+    },
+    {
+      "slug": "recursos-de-amparo-que-golpean-a-la-costa-rica-pobre-inundan-sala-constitucional-alerta-magistrado-jorge-araya",
+      "title": "Recursos de amparo que golpean a la ‘Costa Rica pobre’ inundan Sala Constitucional, alerta magistrado Jorge Araya",
+      "category": "Costa Rica",
+      "bullets_20s": "• El magistrado Jorge Araya García expresa preocupación por el deterioro del Estado social de derecho en Costa Rica.\n• La Sala Constitucional ha visto un aumento en recursos de amparo de ciudadanos necesitados de apoyo social.\n• Araya destaca que esto refleja problemas profundos en la estructura social del país.\n• El acceso a la justicia se ha convertido en un grito de auxilio para muchos costarricenses.\n• Se prevé que la tendencia continúe aumentando si no se implementan reformas efectivas.",
+      "source_name": "Natasha Cambronero, Vanessa Loaiza N.",
+      "source_url": "https://www.nacion.com/el-pais/recursos-de-amparo-que-golpean-a-la-costa-rica/4QWVQHUEUFEZZDMY4QWABP3TGY/story/",
+      "publish_date": "2026-08-19T01:48:53.000Z",
+      "teaser": "Lo clave en 20 segundos: Aumento alarmante de recursos de amparo revela crisis social en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/G2VFQFJPIFCTFABKQBFGNZGHOU.jpeg?auth=c2b05c629d570ed6c8f953a90bc513dc8072a8c1e6ea42fd44891e9f246a253f&smart=true&width=1280&height=960",
+      "description": "El magistrado de la Sala Constitucional, Jorge Araya García, advirtió sobre un “fuerte y gravísimo deterioro” del Estado social de derecho, que se evidencia en la cantidad de ciudadanos que recurren a ese tribunal en busca de ayudas sociales.",
+      "featured": false
+    },
+    {
       "slug": "balacera-en-desamparados-deja-dos-hombres-heridos-de-gravedad-uno-recibio-disparos-y-otro-fue-atacado-con-arma-blanca",
       "title": "Balacera en Desamparados deja dos hombres heridos de gravedad; uno recibió disparos y otro fue atacado con arma blanca",
       "category": "Costa Rica",
@@ -264,11 +303,11 @@
       "slug": "que-se-sabe-del-controvertido-hallazgo-de-petroleo-cerca-del-rio-amazonas-y-por-que-lula-lo-considera-clave-para-acabar-",
       "title": "Qué se sabe del controvertido hallazgo de petróleo cerca del río Amazonas (y por qué Lula lo considera clave para acabar con los combustibles fósiles)",
       "category": "Mundo",
-      "bullets_20s": "• Lula apoya la exploración petrolera en la región amazónica a pesar de la oposición ambientalista.\n• El hallazgo de petróleo genera preocupaciones sobre el impacto ambiental en la Amazonía.\n• Grupos indígenas y ambientalistas critican la decisión del gobierno brasileño sobre el petróleo.\n• La exploración petrolera se presenta como un interés nacional para enfrentar crisis de combustibles.\n• Los argumentos de Lula sobre el petróleo están enmarcados en discusiones sobre sostenibilidad.",
+      "bullets_20s": "• El hallazgo de petróleo cerca del Amazonas genera un debate internacional sobre el medioambiente.\n• Lula argumenta que la exploración petrolera es crucial para los intereses económicos de Brasil.\n• Grupos ambientalistas y comunidades indígenas se oponen fervientemente a la explotación del petróleo.\n• El impacto en la biodiversidad y en la cultura indígena es tema de intensas discusiones.\n• Las políticas energéticas brasileñas están siendo cuestionadas por su enfoque en combustibles fósiles.\n• Este hallazgo podría cambiar la dinámica del mercado energético en América del Sur.\n• El futuro del Amazonas y su protección se vuelve más incierto con estas exploraciones.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ce3q0098nkvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-18T18:24:12.000Z",
-      "teaser": "Lo clave en 20 segundos: Lula respalda la exploración de petróleo en la Amazonía, generando controversia ambiental.",
+      "teaser": "Lo clave en 20 segundos: Exploración petrolera en el Amazonas genera controversia y defienden intereses nacionales.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/4643/live/c8f7f970-9b41-11f1-bd52-f9704e8e5c82.jpg",
       "description": "El presidente de Brasil, quien se presenta como defensor del medioambiente, ha respaldado la exploración petrolera al argumentar que responde a los intereses nacionales, pese a la oposición de grupos ambientalistas e indígenas.",
       "featured": false
@@ -381,11 +420,11 @@
       "slug": "estados-financieros-2026",
       "title": "Estados Financieros 2026",
       "category": "Mundo",
-      "bullets_20s": "• Los Estados Financieros del primer trimestre de 2026 presentan resultados clave para las empresas.\n• El segundo trimestre también muestra tendencias interesantes en el sector financiero.\n• Se analizan los impactos económicos globales y locales en los estados financieros.\n• Las proyecciones financieras son cruciales para la toma de decisiones empresariales.\n• La transparencia en los estados financieros es fundamental para fortalecer la confianza del inversor.",
+      "bullets_20s": "• Los estados financieros del primer trimestre de 2026 presentan un análisis detallado.\n• El segundo trimestre también incluye importantes conclusiones y cifras relevantes.\n• Las proyecciones económicas se fundamentan en datos recientes y análisis de expertos.\n• Se espera que estos informes influyan en decisiones de inversión y políticas.\n• Los análisis son cruciales para entender la salud fiscal de las organizaciones.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/estados-financieros-2026",
       "publish_date": "2026-08-18T15:56:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Análisis de los Estados Financieros de 2026.",
+      "teaser": "Lo clave en 20 segundos: Análisis de los estados financieros del 2026, elementos cruciales incluidos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/doc_image.png",
       "description": "Estados Financieros 2026",
       "featured": false
@@ -589,11 +628,11 @@
       "slug": "la-nina-de-10-anos-traficada-de-peru-a-ecuador-para-casarse-con-un-hombre-de-50-y-que-revela-sobre-el-matrimonio-infanti",
       "title": "La niña de 10 años traficada de Perú a Ecuador para casarse con un hombre de 50 (y qué revela sobre el matrimonio infantil en América Latina)",
       "category": "Mundo",
-      "bullets_20s": "• El matrimonio infantil afecta a una de cada cuatro niñas en Latinoamérica de forma alarmante.\n• Ecuador y Perú enfrentan problemas graves relacionados con la explotación de menores.\n• La falta de leyes efectivas es un contribuyente al problema del matrimonio infantil en la región.\n• Las uniones tempranas son un obstáculo para el desarrollo y la educación de las niñas en América Latina.\n• Organismos internacionales trabajan para erradicar el matrimonio infantil en todo el continente.",
+      "bullets_20s": "• El matrimonio infantil es un desafío persistente en América Latina y afecta a miles de niñas cada año.\n• Estudios muestran que la falta de educación contribuye al problema del matrimonio infantil en la región.\n• Varios países en América Latina aún carecen de leyes efectivas para prevenir estas uniones tempranas.\n• Las consecuencias del matrimonio infantil incluyen problemas de salud y educación a largo plazo para las niñas.\n• Organizaciones en la región trabajan para erradicar el matrimonio infantil y apoyar a las víctimas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c5yvrnqd2pdo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-18T11:54:04.000Z",
-      "teaser": "Lo clave en 20 segundos: El matrimonio infantil es un problema crítico en América Latina.",
+      "teaser": "Lo clave en 20 segundos: El matrimonio infantil sigue siendo un problema grave en América Latina.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/e6b1/live/d2a1b030-9a7c-11f1-85bb-779ae48e4486.jpg",
       "description": "Una de cada cuatro niñas en Latinoamérica se han visto envueltas en un matrimonio infantil o unión temprana. Y es la única región del mundo donde no se ha producido una reducción significativa de esta práctica.",
       "featured": false
@@ -3045,12 +3084,12 @@
     {
       "slug": "equipos-del-tec-avanzan-en-el-torneo-nacional-icpc-centroamerica-2026",
       "title": "Equipos del TEC avanzan en el Torneo Nacional ICPC Centroamérica 2026",
-      "category": "Ciencia",
-      "bullets_20s": "• Estudiantes del TEC participan en la fase clasificatoria del ICPC Centroamérica, un torneo de programación.\n• El ICPC es la competencia universitaria más importante de programación algorítmica a nivel mundial.\n• El torneo reúne a 17 instituciones de la región, promoviendo la programación competitiva entre jóvenes.\n• Cada equipo tiene cinco horas para resolver problemas de programación, evaluados por un juez en línea.\n• El TEC presenta 14 equipos de distintas sedes, sumando un total de problemas resueltos en la competencia.",
+      "category": "Costa Rica",
+      "bullets_20s": "• Estudiantes del TEC participan en el torneo de programación más importante a nivel mundial.\n• El torneo ICPC Centroamérica se organiza en conjunto con diversas naciones de la región.\n• Equipos de varias sedes del TEC compiten en la fase clasificatoria del Gran Premio CA.\n• Se espera que la gran final regional del torneo se realice en noviembre de 2026.\n• La competencia fomenta habilidades de programación y trabajo en equipo en los estudiantes.\n• Los equipos del TEC están divididos y han resuelto más de 60 problemas hasta la fecha.\n• Los estudiantes comparten experiencias y buscan mejorar sus habilidades en programación.\n• El evento cuenta con un sistema de monitoreo virtual para verificar el cumplimiento de normas.\n• Los estudiantes destacan el apoyo de profesores en su preparación para la competencia.\n• La participación en estos torneos fortalece la trayectoria del TEC en programación competitiva.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/equipos-tec-avanzan-torneo-nacional-icpc-centroamerica-2026",
       "publish_date": "2026-08-14T14:00:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC brillan en el torneo ICPC Centroamérica, mejorando sus habilidades en programación.",
+      "teaser": "Lo clave en 20 segundos: Equipos del TEC brillan en el Torneo Nacional ICPC Centroamérica 2026.",
       "image_url": "",
       "description": "Equipos del TEC avanzan en el Torneo Nacional ICPC Centroamérica 2026",
       "featured": false
@@ -3280,11 +3319,11 @@
       "slug": "viceministro-de-mideplan-y-egresada-del-tec-inspiran-a-estudiantes-de-administracion-de-empresas",
       "title": "Viceministro de MIDEPLAN y egresada del TEC inspiran a estudiantes de Administración de Empresas",
       "category": "Costa Rica",
-      "bullets_20s": "• El Viceministro de MIDEPLAN comparte experiencias con estudiantes de Administración del TEC.\n• Iniciativas buscan motivar a estudiantes a aprovechar su formación académica.\n• Temas abordados incluyen ciberseguridad, liderazgo y habilidades blandas.\n• Egresados ayudan a nuevos estudiantes a visualizar el futuro profesional.\n• Actividades se realizaron en modalidades presencial y virtual para mayor alcance.",
+      "bullets_20s": "• El evento se llevó a cabo en la Biblioteca José Figueres Ferrer del TEC.\n• Marlon Navarro compartió su trayectoria con estudiantes de Administración de Empresas.\n• Los estudiantes recibieron consejos sobre la importancia de no abandonar sus estudios.\n• Leilani Rivas invitó a reflexionar sobre la construcción de una carrera profesional.\n• Ambas actividades destacaron la relevancia del aprendizaje constante y la resiliencia.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/viceministro-mideplan-egresada-tec-inspiran-estudiantes-administracion-empresas",
       "publish_date": "2026-08-14T04:27:43.000Z",
-      "teaser": "Lo clave en 20 segundos: Viceministro y egresada motivan a estudiantes del TEC para su futuro profesional.",
+      "teaser": "Lo clave en 20 segundos: un viceministro y una egresada inspiran a futuros profesionales en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/charla-2.jpg.jpeg",
       "description": "Viceministro de MIDEPLAN y egresada del TEC inspiran a estudiantes de Administración de Empresas",
       "featured": false
@@ -78794,10 +78833,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-19T01:45:23.853Z",
-  "total": 6061,
-  "removed_soccer_news_count": 1070,
+  "generated_at": "2026-08-19T02:45:23.780Z",
+  "total": 6064,
+  "removed_soccer_news_count": 1071,
   "removed_soccer_news_titles": [
+    "Vea los goles de Cartaginés ante Verdes de Belice",
     "Así está el futuro de Johan Venegas: esto es lo que se sabe sobre el mundialista de 2018 y 2022",
     "Escándalo en la Liga Española: Aficionados presionan e insultan a jugadores de su propio equipo",
     "Jamal Musiala se desmayó nuevamente en pleno partido; jugador explicó luego la razón (video)",
@@ -78846,7 +78886,6 @@
     "Crisis en FIFA empeora: UEFA, Concacaf y Asia se unen y hacen fuerte pronunciamiento contra Infantino",
     "El insólito festejo de un futbolista en Brasil acaba muy mal y le da la vuelta al mundo: vea lo que pasó",
     "Manfred Ugalde vuelve a festejar el gol en Rusia (vea la anotación)",
-    "El primer contrato de Messi: una servilleta que cambió la historia del fútbol",
-    "Escándalo sexual añade presión a la Federación Surcoreana de Fútbol"
+    "El primer contrato de Messi: una servilleta que cambió la historia del fútbol"
   ]
 }
