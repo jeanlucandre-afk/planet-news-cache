@@ -1,14 +1,53 @@
 {
   "news": [
     {
+      "slug": "en-uber-y-taxis-cuantas-horas-se-necesita-trabajar-al-dia-para-lograr-un-salario-minimo-en-costa-rica",
+      "title": "En Uber y taxis: cuántas horas se necesita trabajar al día para lograr un salario mínimo en Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• Conductores de Uber mencionan que laboran largas jornadas para alcanzar ingresos mínimos.\n• Los taxistas también enfrentan retos similares en cuanto a la duración del trabajo.\n• Las horas de trabajo son intensivas para obtener ganancias aceptables en ambos servicios.\n• El análisis muestra un escenario complicado para conductores en el sector del transporte.\n• Los ingresos esperados parecen no ser suficientes para cubrir las necesidades diarias.",
+      "source_name": "Patricia Recio",
+      "source_url": "https://www.nacion.com/el-pais/en-uber-y-taxis-cuantas-horas-se-necesita-trabajar/5VHQYFQW4BDOBMQPWRCPJVKY4A/story/",
+      "publish_date": "2026-08-19T11:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Las largas jornadas de trabajo de los conductores de Uber y taxis en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/FEOKRZU7WRB7NII75SZKEJV73A.JPG?auth=b6a9d9fe368dd0517dcbe9b18bfb8ed81c77f8b2bdb7dacc873f07b6f83058f4&smart=true&width=3000&height=2000",
+      "description": "Conductores de Uber aseguran que deben trabajar entre 10 y 12 horas diarias para alcanzar ingresos de ¢40.000 a ¢50.000, mientras taxistas reportan jornadas similares y ganancias netas de hasta ¢22.000 al día",
+      "featured": false
+    },
+    {
+      "slug": "editorial-seis-senales-de-erosion-de-nuestra-seguridad-juridica",
+      "title": "Editorial: Seis señales de erosión de nuestra seguridad jurídica",
+      "category": "Costa Rica",
+      "bullets_20s": "• La seguridad jurídica es fundamental para el desarrollo social y económico de un país.\n• La erosion de la seguridad jurídica puede afectar la inversión y el clima de negocios.\n• Es crucial que los líderes respeten el orden constitucional para mantener la estabilidad.\n• Los recientes eventos políticos generan incertidumbre en la población y en los mercados.\n• Es importante fortalecer las instituciones para proteger la democracia en Costa Rica.",
+      "source_name": "La Nación",
+      "source_url": "https://www.nacion.com/opinion/editorial/editorial-seis-senales-de-erosion-de-nuestra/MZMLSS4EPBBZFL57PNPKIOPF54/story/",
+      "publish_date": "2026-08-19T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La erosión de la seguridad jurídica plantea serios desafíos para Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/3VGIN5S6PZCTHC73I4QA65UX5M.png?auth=04959cdbd0576c522f06e3bb7451d8f9edbd839031f5adb9ee993edb1d4d0f03&smart=true&width=1920&height=1080",
+      "description": "¿Cómo suponer que existe seguridad jurídica en Costa Rica si la propia presidenta y la cabeza del Partido Pueblo Soberano en la Asamblea Legislativa desdeñan el orden constitucional? Y a todo lo que ha sucedido en los últimos tres meses, deben sumarse numerosos hechos ocurridos en la administración pasada.",
+      "featured": false
+    },
+    {
+      "slug": "gobierno-revive-concesion-minera-de-los-guevara-guth-en-propiedad-que-habian-perdido-por-deuda-del-movimiento-libertario",
+      "title": "Gobierno revive concesión minera de los Guevara Guth en propiedad que habían perdido por deuda del Movimiento Libertario",
+      "category": "Costa Rica",
+      "bullets_20s": "• El gobierno toma decisiones sobre concesiones mineras para fomentar la actividad económica en el país.\n• La reactivación de la concesión ha generado opiniones divididas en la sociedad costarricense actualmente.\n• Guevara Guth había perdido esta propiedad en un contexto electoral hace algunos años.\n• La concesión revivida permite a la sociedad explorar recursos en una zona conflictiva.\n• La influencia de exdiputados en temas de minería resalta la relación entre política y economía.",
+      "source_name": "Natasha Cambronero",
+      "source_url": "https://www.nacion.com/politica/gobierno-revive-concesion-minera-de-los-guevara/7WAHB6FS6RGW5PDAZU2WP37G54/story/",
+      "publish_date": "2026-08-19T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Reviven concesión minera para los Guevara Guth, generando controversia en el país.",
+      "image_url": "https://www.nacion.com/resizer/v2/YUQCMIXBVZF2XC5KG3WHWVWNWM.jpg?auth=731d6569d7f89d93612c061aa8a3bf0b765a5b558409d3df7b5e4054e4a00150&smart=true&width=1600&height=900",
+      "description": "Los gobiernos de Rodrigo Chaves y Laura Fernández revivieron una concesión minera para que una sociedad de los exdiputados Otto y Peter Guevara Guth pueda explotar un tajo en una propiedad que perdieron en una campaña electoral y que ahora pertenece a un exfinancista del PLN.",
+      "featured": false
+    },
+    {
       "slug": "conmemoracion-del-50-aniversario-de-la-escuela-de-ingenieria-electronica",
       "title": "Conmemoración del 50° Aniversario de la Escuela de Ingeniería Electrónica",
       "category": "Costa Rica",
-      "bullets_20s": "• Se celebra medio siglo de formación en Ingeniería Electrónica en Costa Rica.\n• El Tecnológico de Costa Rica organiza un acto conmemorativo en su campus.\n• La Escuela ha destacado por su innovación tecnológica y sostenibilidad.\n• Se espera la participación de exalumnos y líderes del sector.\n• El evento contará con actividades culturales y discursos significativos.",
+      "bullets_20s": "• La Escuela de Ingeniería Electrónica cumple 50 años formando profesionales en Costa Rica.\n• Este evento conmemorativo se llevará a cabo en el Centro de las Artes del TEC.\n• Se espera la participación de autoridades y exalumnos en este significativo aniversario.\n• El evento incluirá discursos, reconocimiento a egresados y actividades culturales.\n• La celebración reafirma el compromiso del TEC con la innovación y desarrollo sostenible.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/conmemoracion-50deg-aniversario-escuela-ingenieria-electronica",
       "publish_date": "2026-08-19T06:00:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de Ingeniería Electrónica en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Celebramos 50 años de excelencia en Ingeniería Electrónica del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/electronica-campbell-sci-tec-1_0.jpg",
       "description": "Conmemoración del 50° Aniversario de la Escuela de Ingeniería Electrónica",
       "featured": false
@@ -30,11 +69,11 @@
       "slug": "interpretacion-del-articulo-38-inciso-g-del-estatuto-organico-del-instituto-tecnologico-de-costa-rica",
       "title": "Interpretación del artículo 38, inciso g, del Estatuto Orgánico del Instituto Tecnológico de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El inciso g del artículo 38 aborda la creación de comisiones internas en el TEC.\n• Las comisiones se limitarán a ofrecer apoyo y recomendaciones, sin facultades propias.\n• La actuación de estas comisiones no puede invadir competencias de otros órganos institucionales.\n• Se establece que la participación de otras instancias será de manera colaborativa.\n• Las decisiones adoptadas por estas comisiones son internas y no vinculantes para otros ámbitos.",
+      "bullets_20s": "• El artículo 38, inciso g, trata sobre el funcionamiento de comisiones en el Instituto Tecnológico.\n• Las comisiones tienen carácter auxiliar y no poseen facultades propias o decisiones vinculantes.\n• Su función principal es preparar insumos para el respectivo Consejo de Vicerrectoría.\n• Las comisiones no pueden imponer obligaciones o modificar funciones de otras dependencias.\n• Es crucial que su actuación se limite al ámbito interno sin invadir competencias ajenas.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/interpretacion-articulo-38-inciso-g-estatuto-organico-instituto-tecnologico-costa-rica",
       "publish_date": "2026-08-19T03:03:57.000Z",
-      "teaser": "Lo clave en 20 segundos: La interpretación del artículo 38 del TEC delimita funciones de comisiones internas.",
+      "teaser": "Lo clave en 20 segundos: Se aclara el rol de comisiones en el Instituto Tecnológico.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "macastro",
       "featured": false
@@ -43,11 +82,11 @@
       "slug": "reglamento-de-consejo-de-escuela-de-ingenieria-mecatronica",
       "title": "Reglamento de Consejo de Escuela de Ingeniería Mecatrónica",
       "category": "Costa Rica",
-      "bullets_20s": "• El reglamento es de carácter específico y de cumplimiento obligatorio en la Escuela.\n• Se regula el funcionamiento y participación de los integrantes del Consejo de Escuela.\n• Las sesiones pueden ser plenarias o consultas formales, según corresponda.\n• El Consejo debe sesionar al menos una vez al mes, incluyendo sesiones extraordinarias.\n• Las votaciones pueden ser públicas o secretas, dependiendo del asunto tratado.",
+      "bullets_20s": "• El reglamento normará el funcionamiento del Consejo para las sesiones plenarias y consultas formales.\n• Es de acatamiento obligatorio para todos los miembros del Consejo de la Escuela.\n• Se definirán responsabilidades claras para el Director y los integrantes del Consejo.\n• Las sesiones podrán ser presenciales, por telepresencia o híbridas según se convoquen.\n• Las convocatorias deben realizarse con días de antelación y contemplar la agenda respectiva.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/reglamento-consejo-escuela-ingenieria-mecatronica",
       "publish_date": "2026-08-19T02:54:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Se aprueba el reglamento del Consejo de Escuela de Ingeniería Mecatrónica.",
+      "teaser": "Lo clave en 20 segundos: nuevo reglamento para el Consejo de la Escuela de Ingeniería Mecatrónica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "macastro",
       "featured": false
@@ -471,12 +510,12 @@
     {
       "slug": "estados-financieros-2026",
       "title": "Estados Financieros 2026",
-      "category": "Ciencia",
-      "bullets_20s": "• Los Estados Financieros del primer trimestre fueron presentados recientemente por las autoridades.\n• El informe abarca diversos aspectos importantes de la situación económica actual.\n• Las proyecciones para el segundo trimestre se presentan junto a los resultados iniciales.\n• Se espera un análisis exhaustivo que incluya comparativas con años anteriores.\n• Los datos financieros ayudarán a entender la salud económica del país.",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los Estados Financieros reflejan el desempeño económico del primer trimestre de 2026.\n• El segundo trimestre también muestra información clave para los analistas económicos.\n• Estas cifras son cruciales para entender la salud financiera del país.\n• Los datos se utilizan para hacer proyecciones a futuro en la economía nacional.\n• Expertos evalúan la relevancia de estos informes en la toma de decisiones financieras.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/estados-financieros-2026",
       "publish_date": "2026-08-18T15:56:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Presentación de Estados Financieros del 2026 con proyecciones importantes.",
+      "teaser": "Lo clave en 20 segundos: Estados Financieros de Costa Rica para el 2026 son revelados.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/doc_image.png",
       "description": "Estados Financieros 2026",
       "featured": false
@@ -680,11 +719,11 @@
       "slug": "la-nina-de-10-anos-traficada-de-peru-a-ecuador-para-casarse-con-un-hombre-de-50-y-que-revela-sobre-el-matrimonio-infanti",
       "title": "La niña de 10 años traficada de Perú a Ecuador para casarse con un hombre de 50 (y qué revela sobre el matrimonio infantil en América Latina)",
       "category": "Mundo",
-      "bullets_20s": "• El matrimonio infantil afecta a muchas niñas en América Latina, incluyendo Perú y Ecuador.\n• Las niñas son a menudo víctimas de tráfico humano para matrimonios forzados.\n• Estadísticas alarmantes revelan que una de cada cuatro niñas enfrenta esta realidad.\n• La región no ha visto una disminución notable en la práctica del matrimonio infantil.\n• El caso de la niña de 10 años destaca la necesidad de protección ante estas prácticas.",
+      "bullets_20s": "• El matrimonio infantil sigue siendo un problema muy grave en América Latina.\n• Una de cada cuatro niñas en la región ha experimentado un matrimonio prematuro.\n• Existen importantes implicaciones sociales y económicas de estas prácticas en las comunidades.\n• Las legislaciones locales son insuficientes para prevenir el matrimonio infantil efectivamente.\n• Es necesario aumentar la conciencia sobre los derechos de las niñas en la sociedad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c5yvrnqd2pdo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-18T11:54:04.000Z",
-      "teaser": "Lo clave en 20 segundos: Una niña de 10 años fue traficada para casarse, revelando el problema del matrimonio infantil en la región.",
+      "teaser": "Lo clave en 20 segundos: El matrimonio infantil sigue afectando a muchas niñas en América Latina.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/e6b1/live/d2a1b030-9a7c-11f1-85bb-779ae48e4486.jpg",
       "description": "Una de cada cuatro niñas en Latinoamérica se han visto envueltas en un matrimonio infantil o unión temprana. Y es la única región del mundo donde no se ha producido una reducción significativa de esta práctica.",
       "featured": false
@@ -78885,10 +78924,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-19T10:45:23.931Z",
-  "total": 6068,
-  "removed_soccer_news_count": 1071,
+  "generated_at": "2026-08-19T11:45:24.029Z",
+  "total": 6071,
+  "removed_soccer_news_count": 1072,
   "removed_soccer_news_titles": [
+    "Mi abuelo tuvo 5 esposas. Todos sabían su lugar: cómo la novela 'El Polígamo' se convirtió en un éxito mundial en TV",
     "Vea los goles de Cartaginés ante Verdes de Belice",
     "Así está el futuro de Johan Venegas: esto es lo que se sabe sobre el mundialista de 2018 y 2022",
     "Escándalo en la Liga Española: Aficionados presionan e insultan a jugadores de su propio equipo",
@@ -78937,7 +78977,6 @@
     "Fedefútbol anuncia sorpresiva renuncia de jerarca",
     "Crisis en FIFA empeora: UEFA, Concacaf y Asia se unen y hacen fuerte pronunciamiento contra Infantino",
     "El insólito festejo de un futbolista en Brasil acaba muy mal y le da la vuelta al mundo: vea lo que pasó",
-    "Manfred Ugalde vuelve a festejar el gol en Rusia (vea la anotación)",
-    "El primer contrato de Messi: una servilleta que cambió la historia del fútbol"
+    "Manfred Ugalde vuelve a festejar el gol en Rusia (vea la anotación)"
   ]
 }
