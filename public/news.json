@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "rodrigo-chaves-le-dice-no-a-la-devolucion-del-rop-explica-los-riesgos-de-hacerlo",
+      "title": "Rodrigo Chaves le dice no a la devolución del ROP; explica los riesgos de hacerlo",
+      "category": "Costa Rica",
+      "bullets_20s": "• Rodrigo Chaves argumenta que devolver el ROP conlleva serios riesgos financieros.\n• El proyecto de ley sobre el ROP no avanzará en el Congreso de Costa Rica.\n• Chaves, respaldado por 31 diputados, controla la agenda legislativa.\n• La decisión impacta a numerosos costarricenses confiados en sus ahorros.\n• Chaves busca mantener la inversión y estabilidad económica del país.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/politica/rodrigo-chaves-le-dice-no-a-la-devolucion-del-rop/57N23GH7YBCBJFGY5VSTTQIDBA/story/",
+      "publish_date": "2026-08-20T03:00:04.000Z",
+      "teaser": "Lo clave en 20 segundos: Rodrigo Chaves rechaza la devolución del ROP por riesgos financieros.",
+      "image_url": "https://www.nacion.com/resizer/v2/2EZSIGS4QZFDJMWAIPQYZXYUMU.JPG?auth=863802c6365ae8d3e599fe8bed4ee9dce995b67568c5eba33817466fb5a23ec9&smart=true&width=3000&height=2000",
+      "description": "Con 31 diputados oficialistas en el Congreso y el control de la agenda legislativa durante la mitad del año, la postura de Rodrigo Chaves entierra cualquier posibilidad de que el proyecto del ROP avance por la vía legislativa.",
+      "featured": false
+    },
+    {
       "slug": "argentina-acoge-por-primera-vez-conferencia-de-la-dea-contra-el-narcotrafico",
       "title": "Argentina acoge por primera vez conferencia de la DEA contra el narcotráfico",
       "category": "Mundo",
@@ -30,11 +43,11 @@
       "slug": "el-principe-harry-y-su-esposa-meghan-regresaran-a-vivir-a-reino-unido-con-sus-hijos-tras-6-anos-en-eeuu",
       "title": "El príncipe Harry y su esposa Meghan regresarán a vivir a Reino Unido con sus hijos tras 6 años en EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• Harry y Meghan dejan Estados Unidos tras haber vivido allí seis años.\n• Sus hijos comenzarán clases en un colegio en el Reino Unido este septiembre.\n• La familia se adapta a una nueva vida en su país natal.\n• Se espera que el regreso impacte su relación con la realeza británica.\n• La noticia ha generado diversas reacciones en medios internacionales.",
+      "bullets_20s": "• La familia ha vivido en Estados Unidos durante seis años.\n• Los hijos comenzarán clases en un colegio en Reino Unido.\n• Regreso previsto para finales de agosto y principios de septiembre.\n• La pareja ha estado en el centro de atención mediática desde su boda.\n• Se espera que su mudanza tenga un impacto en su privacidad.",
       "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/c8rnzm08y78o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-20T01:22:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Harry y Meghan regresan al Reino Unido con sus hijos tras seis años en EE.UU.",
+      "teaser": "Lo clave en 20 segundos: El príncipe Harry y Meghan regresan al Reino Unido con sus hijos tras vivir en EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a768/live/a31234a0-9c1d-11f1-ae5d-4b5a57168e23.jpg",
       "description": "Los hijos de la pareja, el príncipe Archie (de 7 años) y la princesa Lilibet (de 5), están inscritos para comenzar las clases en un colegio británico en septiembre.",
       "featured": false
@@ -94,12 +107,12 @@
     {
       "slug": "conoce-idtec-nuestra-nueva-identidad-digital-conversemos-con-el-tec",
       "title": "Conoce IdTEC nuestra nueva identidad digital, Conversemos con el TEC",
-      "category": "Tecnología",
-      "bullets_20s": "• El TEC presenta IdTEC, un sistema de identidad digital descentralizada innovador.\n• Los estudiantes podrán llevar sus credenciales universitarias en su celular.\n• La plataforma se lanzará durante un evento en redes sociales el 25 de agosto.\n• Kevin Moraga aclarará dudas sobre el funcionamiento de IdTEC en la transmisión.\n• Los interesados pueden enviar preguntas anticipadamente al correo del TEC.",
+      "category": "Ciencia",
+      "bullets_20s": "• El nuevo ecosistema IdTEC facilitará la gestión de credenciales universitarias digitales.\n• Los estudiantes podrán acceder a su información desde sus teléfonos celulares cómodamente.\n• La transmisión del programa será el martes 25 de agosto a las 9:30 a.m.\n• Kevin Moraga responderá dudas sobre el proyecto IdTEC en la transmisión.\n• El plan piloto del sistema de identidad digital durará un año completo.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/conoce-idtec-nuestra-nueva-identidad-digital-conversemos-tec",
       "publish_date": "2026-08-19T22:33:57.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC lanza IdTEC, un sistema de identidad digital para estudiantes.",
+      "teaser": "Lo clave en 20 segundos: IdTEC facilita el acceso a credenciales digitales para estudiantes del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/conversemos-idtec-1.jpg",
       "description": "Conoce IdTEC nuestra nueva identidad digital, Conversemos con el TEC",
       "featured": false
@@ -185,12 +198,12 @@
     {
       "slug": "dia-de-las-ninas-supercientificas-en-el-tec",
       "title": "Día de las Niñas Supercientíficas en el TEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• El Día de las Niñas Supercientíficas busca fomentar el interés por las STEM en niñas.\n• La actividad se llevará a cabo el 10 de octubre en el Campus Central de Cartago.\n• Las participantes podrán interactuar con mujeres profesionales en áreas científicas.\n• La preinscripción está abierta hasta el 30 de agosto para niñas interesadas.\n• La iniciativa es gratuita y promueve el empoderamiento femenino en la ciencia.",
+      "category": "Ciencia",
+      "bullets_20s": "• El Día de las Niñas Supercientíficas se llevará a cabo el 10 de octubre en Cartago.\n• Esta actividad busca inspirar a las jóvenes a seguir carreras en STEM.\n• El evento es gratuito y está diseñado para todas las niñas interesadas en ciencia.\n• Se ofrecerán talleres y charlas con mujeres profesionales en diversas disciplinas.\n• Aún hay tiempo para realizar la preinscripción hasta el 30 de agosto.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/dia-ninas-supercientificas-tec-1",
       "publish_date": "2026-08-19T20:37:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Un evento gratuito para inspirar a futuras científicas en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Inspirando a futuras científicas el 10 de octubre en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/ninas-super-cientificas.png",
       "description": "Día de las Niñas Supercientíficas en el TEC",
       "featured": false
@@ -212,11 +225,11 @@
       "slug": "nos-estamos-equivocando-con-los-horarios-de-las-comidas-esta-es-la-mejor-hora-para-cenar-segun-la-ciencia",
       "title": "Nos estamos equivocando con los horarios de las comidas: esta es la mejor hora para cenar, según la ciencia",
       "category": "Ciencia",
-      "bullets_20s": "• La ciencia sugiere que los horarios de las comidas afectan el metabolismo del cuerpo humano.\n• Modificar los horarios de la cena puede mejorar la salud y el bienestar general.\n• Analizar nuestro ritmo circadiano ayuda a identificar cuándo debemos comer.\n• Un mal horario para cenar puede llevar a problemas de salud a largo plazo.\n• Los expertos recomiendan cenar al menos dos horas antes de dormir.\n• La sincronización de las comidas influye en la digestión y el sueño reparador.\n• Investigaciones sugieren que las comidas tardías pueden contribuir a aumentar de peso.\n• Escuchar al cuerpo es fundamental para un patrón de alimentación saludable.\n• Un horario regular de comidas ayuda a regular el apetito y el metabolismo.",
+      "bullets_20s": "• La ciencia sugiere que la hora de la cena impacta nuestro metabolismo y salud en general.\n• Los estudios muestran que cenar tarde puede afectar la calidad del sueño y la digestión.\n• Ajustar los horarios de las comidas podría ayudar a mejorar nuestro bienestar cotidiano.\n• La sincronización con el ritmo circadiano puede optimizar la forma en que procesamos nutrientes.\n• Cenar a horas adecuadas podría disminuir el riesgo de enfermedades crónicas en el futuro.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ce344qrkxe5o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-19T19:39:59.000Z",
-      "teaser": "Lo clave en 20 segundos: La hora de cenar impacta tu metabolismo y salud.",
+      "teaser": "Lo clave en 20 segundos:La cena anticipada influye en el metabolismo y la salud a largo plazo.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ada0/live/083d9cb0-9a76-11f1-b68f-817a5a696299.jpg",
       "description": "Nuestro ritmo circadiano influye directamente en la forma en que metabolizamos los alimentos.",
       "featured": false
@@ -329,11 +342,11 @@
       "slug": "muere-a-los-101-anos-el-preso-mas-anciano-de-eeuu-que-evito-8-veces-la-ejecucion",
       "title": "Muere a los 101 años el preso más anciano de EE.UU. que evitó 8 veces la ejecución",
       "category": "Mundo",
-      "bullets_20s": "• Francis Smith se convirtió en un símbolo en el sistema penal de EE.UU. por su longevidad.\n• A lo largo de su vida, sobrevivió a múltiples intentos de ejecución en prisión.\n• Su caso ha generado debates sobre la justicia y la pena de muerte en el país.\n• Las condiciones de vida en prisión para los ancianos son un tema crítico en el sistema.\n• Su muerte plantea preguntas sobre el trato a los presos de edad avanzada en cárceles.",
+      "bullets_20s": "• Francis Smith, considerado el preso más anciano en EE.UU., falleció a los 101 años.\n• Este hombre evitó la ejecución en ocho ocasiones durante su tiempo en prisión.\n• El caso de Smith ha generado un fuerte debate sobre la pena de muerte en EE.UU.\n• Su larga vida ha sido testigo de múltiples cambios en el sistema penitenciario.\n• Una historia que refleja cuestiones de justicia y derechos humanos en el país.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c9w0zyvw2n7o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-19T18:02:57.000Z",
-      "teaser": "Lo clave en 20 segundos: Francis Smith, el prisionero más viejo de EE.UU., falleció a los 101 años.",
+      "teaser": "Lo clave en 20 segundos: fallece el preso más anciano de EE.UU. tras evitar la ejecución en ocho ocasiones.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b412/live/6bcce520-9b38-11f1-adfc-97cecc6f1ad1.jpg",
       "description": "Francis Smith era el preso de mayor edad en el sistema penitenciario de EE.UU.",
       "featured": false
@@ -654,13 +667,26 @@
       "slug": "conmemoracion-del-50-aniversario-de-la-escuela-de-ingenieria-electronica",
       "title": "Conmemoración del 50° Aniversario de la Escuela de Ingeniería Electrónica",
       "category": "Costa Rica",
-      "bullets_20s": "• Se celebra un hito importante en la formación de ingenieros en Costa Rica en 2026.\n• La Escuela de Ingeniería Electrónica permite formación de profesionales en tecnología.\n• Se preparan actividades especiales para honrar a exalumnos y profesores destacados.\n• El TEC se destaca en investigación y desarrollo sostenible en la región.\n• Evento promete un espacio de networking y agradecimiento para todos los asistentes.",
+      "bullets_20s": "• La Escuela de Ingeniería Electrónica celebra 50 años formando profesionales competentes en Costa Rica.\n• Se invita a la comunidad a participar en este evento significativo el 26 de agosto de 2026.\n• El acto se llevará a cabo en el Centro de las Artes, Campus Central TEC, en Cartago.\n• Incluye discursos de representantes estudiantiles y de la Rectora del TEC.\n• Habrá reconocimiento a graduados y exdirectores, celebrando la historia de la Escuela.\n• Un video conmemorativo destacará los logros y avances de la Escuela en cinco décadas.\n• Se espera que la comunidad educativa se una para celebrar este importante hito.\n• El evento busca reafirmar el compromiso con la innovación y el desarrollo sostenible.\n• Las actividades incluyen un espacio de refrigerio y oportunidades de networking.\n• Esta celebración resalta el legado de la Escuela y su impacto a nivel nacional.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/conmemoracion-50deg-aniversario-escuela-ingenieria-electronica",
       "publish_date": "2026-08-19T06:00:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración del legado de excelencia en Ingeniería Electrónica del TEC.",
+      "teaser": "Lo clave en 20 segundos: Celebrando 50 años de excelencia en Ingeniería Electrónica en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/electronica-campbell-sci-tec-1_0.jpg",
       "description": "Conmemoración del 50° Aniversario de la Escuela de Ingeniería Electrónica",
+      "featured": false
+    },
+    {
+      "slug": "ceremonia-de-acreditacion-aapia-de-cuatro-carreras-de-ingenieria-del-tec",
+      "title": "Ceremonia de Acreditación AAPIA de Cuatro Carreras de Ingeniería del TEC",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC invita a la comunidad a una ceremonia solemne de acreditación.\n• Reconocimiento a la excelencia académica y compromiso en educación superior.\n• Cuatro carreras de ingeniería recibirán su acreditación en el evento.\n• Las carreras acreditadas son: Ingeniería Mecatrónica, Construcción, Computadores y Mantenimiento.\n• La ceremonia se llevará a cabo el 20 de agosto a las 2:00 p. m.",
+      "source_name": "nchinchilla",
+      "source_url": "http://www.tec.ac.cr/ceremonia-acreditacion-aapia-cuatro-carreras-ingenieria-tec",
+      "publish_date": "2026-08-19T05:41:58.000Z",
+      "teaser": "Lo clave en 20 segundos: Acreditación de cuatro carreras de ingeniería en el TEC.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/acredictacion.png",
+      "description": "Ceremonia de Acreditación AAPIA de Cuatro Carreras de Ingeniería del TEC",
       "featured": false
     },
     {
@@ -680,11 +706,11 @@
       "slug": "interpretacion-del-articulo-38-inciso-g-del-estatuto-organico-del-instituto-tecnologico-de-costa-rica",
       "title": "Interpretación del artículo 38, inciso g, del Estatuto Orgánico del Instituto Tecnológico de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• Interpretación del inciso g del artículo 38 en el Instituto Tecnológico de Costa Rica.\n• Las comisiones creadas no tienen facultades para tomar decisiones vinculantes.\n• La participación externa es técnica, sin subordinación funcional en la Vicerrectoría.\n• Las funciones de comisiones son internas, limitadas al apoyo del Consejo respectivo.\n• Las comisiones no pueden modificar obligaciones para otras dependencias académicas.",
+      "bullets_20s": "• El inciso g del artículo 38 se interpreta como apoyo interno a los Consejos de Vicerrectoría.\n• Las comisiones no pueden tomar decisiones vinculantes ni crear derechos u obligaciones.\n• Su papel es auxiliar y no invaden competencias de otros órganos institucionales.\n• Comisiones requieren autorización expresa del Consejo Institucional para ser institucionales.\n• Participación externa a la Vicerrectoría es técnica y no implica subordinación.\n• Funcionamiento limitado a lo que establece el acuerdo de conformación de la comisión.\n• No pueden modificar funciones ni comprometer recursos sin habilitación normativa.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/interpretacion-articulo-38-inciso-g-estatuto-organico-instituto-tecnologico-costa-rica",
       "publish_date": "2026-08-19T03:03:57.000Z",
-      "teaser": "Lo clave en 20 segundos: interpretación de funciones y limitaciones de comisiones en el ITCR.",
+      "teaser": "Lo clave en 20 segundos: Se establece el rol y limitaciones de las comisiones en el Instituto.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "macastro",
       "featured": false
@@ -778,19 +804,6 @@
       "teaser": "Lo clave en 20 segundos: Villalobos se aparta de línea oficialista, pero se mantiene en el PPSO.",
       "image_url": "https://www.nacion.com/resizer/v2/EAONQYSRXRBUFOTY2I36MRTR3I.JPG?auth=0b48cfeac81058fb52c8342422c7f8966c8c7cfaf0fdead0ec35f6ad3f07bae8&smart=true&width=4464&height=2976",
       "description": "El legislador José Miguel Villalobos votó a favor de una iniciativa del Frente Amplio pese a que Nogui Acosta se manifestó en contra; Villalobos dijo que actuó en concordancia con la presidenta Laura Fernández.",
-      "featured": false
-    },
-    {
-      "slug": "ceremonia-de-acreditacion-aapia-de-cuatro-carreras-de-ingenieria-del-tec",
-      "title": "Ceremonia de Acreditación AAPIA de Cuatro Carreras de Ingeniería del TEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra la ardua labor en la formación de sus estudiantes en ingeniería.\n• Cuatro programas recibirán su acreditación de la AAPIA en este acto solemne.\n• La ceremonia será transmitida en vivo para aquellos que no puedan asistir.\n• El evento destaca la excelencia académica en la educación superior costarricense.\n• Los programas acreditados son Mecatrónica, Construcción, Computadores y Mantenimiento.",
-      "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/ceremonia-acreditacion-aapia-cuatro-carreras-ingenieria-tec",
-      "publish_date": "2026-08-19T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC celebra la acreditación de cuatro programas de ingeniería.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/acredictacion.png",
-      "description": "Ceremonia de Acreditación AAPIA de Cuatro Carreras de Ingeniería del TEC",
       "featured": false
     },
     {
@@ -79548,8 +79561,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-20T02:45:23.787Z",
-  "total": 6119,
+  "generated_at": "2026-08-20T03:45:25.317Z",
+  "total": 6120,
   "removed_soccer_news_count": 1076,
   "removed_soccer_news_titles": [
     "Messi anota por primera vez desde el fallecimiento de su padre",
