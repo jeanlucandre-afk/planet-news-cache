@@ -1,16 +1,29 @@
 {
   "news": [
     {
+      "slug": "paratleta-costarricense-cumple-uno-de-sus-grandes-suenos-fuera-de-la-piscina",
+      "title": "Paratleta costarricense cumple uno de sus grandes sueños fuera de la piscina",
+      "category": "Costa Rica",
+      "bullets_20s": "• Camila Haase ha representado a Costa Rica en múltiples eventos deportivos con gran éxito.\n• Su dedicación y esfuerzo la llevaron a competir en Juegos Paralímpicos internacionales.\n• El logro fuera de la piscina marca un nuevo capítulo en su trayectoria como atleta.\n• La comunidad deportiva ha celebrado sus logros por la inspiración que brinda.\n• Este evento representa un avance significativo para los atletas paralímpicos en el país.",
+      "source_name": "Juan Diego Villarreal",
+      "source_url": "https://www.nacion.com/puro-deporte/paratleta-costarricense-cumple-uno-de-sus-grandes/ZUUU2YDG6FE5RLUL3IMNGU5RDM/story/",
+      "publish_date": "2026-08-21T00:17:05.000Z",
+      "teaser": "Lo clave en 20 segundos: Camila Haase logra un importante sueño fuera de la piscina tras sus exitosas competiciones.",
+      "image_url": "https://www.nacion.com/resizer/v2/P2MYUZXSONDTTIS4HKRUD4MMGE.jpeg?auth=383e9b7e5800a5c5f051a6dd1407f31ff7d3b2edd7ecb845cbbc942317fd5478&smart=true&width=960&height=634",
+      "description": "Después de competir en tres Juegos Paralímpicos, la nadadora Camila Haase dio un paso muy importante en su vida.",
+      "featured": false
+    },
+    {
       "slug": "wall-street-retrocede-golpeada-por-repunte-de-tasas-de-los-bonos-del-tesoro",
       "title": "Wall Street retrocede golpeada por repunte de tasas de los bonos del Tesoro",
       "category": "Mundo",
-      "bullets_20s": "• Wall Street experimentó una caída significativa debido a factores económicos globales.\n• El repunte de las tasas de bonos ha generado incertidumbre en el mercado financiero.\n• El conflicto económico con Irán ha tenido un impacto en los precios del petróleo.\n• Los inversionistas están atentos a la evolución de la inflación y la tasa de interés.\n• Las tensiones geopolíticas afectan directamente la estabilidad económica mundial.",
+      "bullets_20s": "• Wall Street enfrenta una caída significativa debido al aumento de las tasas de interés en bonos del Tesoro.\n• El incremento en las tasas ha afectado la confianza de los inversores en el mercado de acciones.\n• La situación se agrava por el anuncio de una guerra económica que afecta indirectamente a la economía global.\n• Los precios del petróleo han aumentado, lo que ha generado preocupación sobre futura inflación.\n• Los analistas están observando de cerca las repercusiones del aumento en las tasas de los bonos.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/economia/wall-street-retrocede-golpeada-por-repunte-de/7SPLIOMFNNCDBJYCELUKTQ2CDY/story/",
       "publish_date": "2026-08-20T23:13:08.000Z",
-      "teaser": "Lo clave en 20 segundos: Wall Street enfrenta retrocesos por el aumento de tasas y tensiones económicas.",
-      "image_url": "",
-      "description": "El anuncio de una ‘guerra económica’ contra Irán disparó el precio del petróleo y reavivó los fantasmas de la inflación, golpeando a Wall Street y disparando las tasas de la deuda estadounidense.",
+      "teaser": "Lo clave en 20 segundos: Wall Street cae debido al aumento de tasas de bonos y conflicto económico con Irán.",
+      "image_url": "https://www.nacion.com/resizer/v2/KZWKBC5TEZF2FEYQBKCU3C55TE.jpg?auth=7d5ea677cfc9c69e242166aeeabe0d60486c3c93efa34a98f7f6dd53113c86aa&smart=true&width=7391&height=4928",
+      "description": "El anuncio de una ‘guerra económica’ contra Irán disparó el precio del petróleo y reavivó los fantasmas de la inflación.",
       "featured": false
     },
     {
@@ -24,6 +37,19 @@
       "teaser": "Lo clave en 20 segundos: La defensora advierte sobre discursos de odio y temas críticos de la sociedad costarricense.",
       "image_url": "https://www.nacion.com/resizer/v2/PW77UO3UVVFQ7PFCWDAOIQ764E.JPG?auth=f28c2a8f37cec26b3951cc8e866c0ff5e86876eda91df6970dff34e7798ec2df&smart=true&width=4464&height=2976",
       "description": "La defensora de los Habitantes, Angie Cruickshank, pidió frenar los discursos de odio y abordó el ROP, las listas de espera y la mora judicial.",
+      "featured": false
+    },
+    {
+      "slug": "los-pescadores-rescatados-en-mexico-tras-pasar-cinco-dias-a-la-deriva-en-el-mar-aferrados-a-una-hielera",
+      "title": "Los pescadores rescatados en México tras pasar cinco días a la deriva en el mar aferrados a una hielera",
+      "category": "Mundo",
+      "bullets_20s": "• Los pescadores fueron encontrados aferrados a una hielera tras días en el mar. Un rescate heroico.\n• La Armada de México realizó la difícil operación de rescate en aguas peligrosas y extensas.\n• Ambos hombres estaban sin agua ni alimento, una situación crítica y peligrosa.\n• El rescate reafirma la importancia del apoyo a pescadores en situaciones adversas en altamar.\n• La historia destaca la valentía y resistencia de los pescadores frente a la adversidad.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cx2d9yvj4qeo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-20T22:46:50.000Z",
+      "teaser": "Lo clave en 20 segundos: Dos pescadores fueron rescatados tras cinco días a la deriva en México.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/1fea/live/4d0d9ec0-9ce8-11f1-8572-177940d51932.jpg",
+      "description": "Daniel y José, dos pescadores artesanales de Chiapas, en el sur de México, pasaron cinco días en mar abierto sin agua potable ni comida hasta que la Armada los rescató en un punto donde parecía imposible verlos.",
       "featured": false
     },
     {
@@ -82,11 +108,11 @@
       "slug": "suspenden-al-academico-que-acuso-de-plagio-al-profesor-de-la-universidad-de-cambridge-que-aparecio-muerto",
       "title": "Suspenden al académico que acusó de plagio al profesor de la Universidad de Cambridge que apareció muerto",
       "category": "Mundo",
-      "bullets_20s": "• Un académico ha sido suspendido tras acusaciones de plagio hacia un profesor fallecido.\n• El caso ha llevado a una controversia en el ámbito académico a nivel internacional.\n• Se ha abierto una investigación sobre el comportamiento del académico hacia la víctima.\n• La situación ha generado un debate sobre la ética en la investigación y la enseñanza.\n• El fallecido profesor de Cambridge era reconocido por sus contribuciones en su campo.\n• La investigación busca determinar si hubo discriminación en el manejo del caso.\n• La academia se enfrenta a preguntas cruciales sobre el respeto a los fallecidos.\n• El caso destaca la importancia de la integridad y ética en la educación superior.",
+      "bullets_20s": "• Un académico fue suspendido tras acusar de plagio a un profesor ya fallecido de Cambridge.\n• La situación ha generado un fuerte debate sobre la ética en la academia y la investigación.\n• La acusación fue seguida de la muerte del profesor, lo que complica el caso y la severidad.\n• La comunidad académica reacciona ante las acusaciones de plagio y el impacto en las carreras.\n• Este caso resalta la importancia de las políticas de conducta en instituciones educativas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ce859yel4lzo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-20T20:55:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Acusaciones de plagio llevan a la suspensión de un académico ante un caso polémico.",
+      "teaser": "Lo clave en 20 segundos: un académico suspendido por acusaciones contra un profesor fallecido.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a1b8/live/7fc50490-9cc3-11f1-9182-d13e1a2797dc.jpg",
       "description": "Nathan Cofnas afirma que está siendo investigado por discriminar al fallecido profesor de Cambridge.",
       "featured": false
@@ -95,11 +121,11 @@
       "slug": "por-que-ahora-y-otras-4-preguntas-sobre-el-regreso-de-harry-y-meghan-a-reino-unido",
       "title": "¿Por qué ahora? y otras 4 preguntas sobre el regreso de Harry y Meghan a Reino Unido",
       "category": "Mundo",
-      "bullets_20s": "• El regreso de Harry y Meghan genera interrogantes sobre su relación con la familia real inglesa.\n• Las razones de su retorno a Reino Unido son objeto de debate en diversos medios de comunicación.\n• El interés en la pareja se ha intensificado desde su mudanza a Estados Unidos hace algunos años.\n• Los contratos mediáticos de Harry y Meghan podrían influir en su relación con la realeza.\n• La percepción pública sobre los duques de Sussex ha cambiado desde su establecimiento en Norteamérica.",
+      "bullets_20s": "• El regreso de la pareja sorprende a muchos analistas de la familia real británica.\n• Las razones detrás de su decisión han generado gran interés en los medios de comunicación.\n• Las implicaciones para la relación con otros miembros de la realeza son considerables.\n• Expertos debaten sobre lo que este regreso significa para la imagen pública de ambos.\n• El contexto actual en Reino Unido puede haber influido en su decisión de regresar.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c9d871y2pnvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-20T20:47:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El inesperado regreso de Harry y Meghan genera preguntas sobre su futuro en la realeza.",
+      "teaser": "Lo clave en 20 segundos: El regreso de Harry y Meghan a Reino Unido genera múltiples interrogantes.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a08a/live/bc0c9a80-9c2d-11f1-a207-059c7130f984.jpg",
       "description": "La repentina decisión de regresar de Estados Unidos plantea varias preguntas para los duques de Sussex y la familia real.",
       "featured": false
@@ -313,6 +339,19 @@
       "featured": false
     },
     {
+      "slug": "licenciaturas-en-ingenieria-mecatronica-mantenimiento-industrial-construccion-y-computadores-se-acreditan-una-vez-mas-co",
+      "title": "Licenciaturas en Ingeniería Mecatrónica, Mantenimiento Industrial, Construcción y Computadores se acreditan una vez más con AAPIA",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Tecnológico de Costa Rica renueva la acreditación de cuatro programas de ingeniería con AAPIA.\n• Las ingenierías acreditadas incluyen Mecatrónica, Mantenimiento Industrial, Construcción y Computadores.\n• La acreditación refuerza el compromiso de calidad educativa a nivel nacional e internacional.\n• Ricardo Coy Herrera, vicerrector de Docencia, elogia la mejora continua en la enseñanza.\n• La ceremonia de entrega se realizó en el auditorio del Centro de las Artes, TEC.",
+      "source_name": "nchinchilla",
+      "source_url": "http://www.tec.ac.cr/licenciaturas-ingenieria-mecatronica-mantenimiento-industrial-construccion-computadores-se",
+      "publish_date": "2026-08-20T15:32:15.000Z",
+      "teaser": "Lo clave en 20 segundos: Cuatro licenciaturas del TEC acreditadas con AAPIA reafirmando su calidad educativa.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/acreditacion-carreras_computadores_construccion_mantenimiento-industrial_mecatronica_2026_rgarita-15.jpg",
+      "description": "Licenciaturas en Ingeniería Mecatrónica, Mantenimiento Industrial, Construcción y Computadores se acreditan una vez más con AAPIA",
+      "featured": false
+    },
+    {
       "slug": "el-vendedor-de-autos-de-belgica-que-se-convirtio-en-principe-luego-de-que-se-confirmara-su-parentesco-con-la-familia-rea",
       "title": "El vendedor de autos de Bélgica que se convirtió en príncipe luego de que se confirmara su parentesco con la familia real",
       "category": "Mundo",
@@ -485,11 +524,11 @@
       "slug": "como-el-juicio-contra-una-madre-acusada-de-matar-a-sus-3-hijos-impulsa-la-discusion-sobre-la-psicosis-posparto-en-eeuu",
       "title": "Cómo el juicio contra una madre acusada de matar a sus 3 hijos impulsa la discusión sobre la psicosis posparto en EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• El caso ha generado un amplio debate sobre la salud mental en el contexto del posparto.\n• La psicosis posparto es poco comprendida y a menudo estigmatizada en la sociedad.\n• Expertos piden mayor conciencia y recursos para el tratamiento de trastornos relacionados.\n• La situación refleja la urgencia de educar sobre la salud mental materna.\n• Familias y profesionales han expresado la necesidad de un enfoque más humano y comprensivo.",
+      "bullets_20s": "• El juicio destaca la gravedad de la psicosis posparto, un trastorno poco comprendido por la sociedad.\n• Expertos advierten sobre la importancia de reconocer y tratar esta condición en mujeres embarazadas.\n• La salud mental materna debe ser prioritaria, especialmente en el periodo postparto.\n• Familiares de víctimas destacan la necesidad de más apoyo psicológico durante la maternidad.\n• La discusión está llevando a cambios en la legislación sobre la salud mental en EE.UU.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c2lq44gqg1jo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-20T11:59:07.000Z",
-      "teaser": "Lo clave en 20 segundos: La psicosis posparto vuelve al primer plano gracias a un trágico juicio.",
+      "teaser": "Lo clave en 20 segundos: El juicio impulsa el debate sobre la psicosis posparto en EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a573/live/f38fed90-9c87-11f1-a9bc-e5d8f54a68c8.jpg",
       "description": "La psicosis posparto es una urgencia psiquiátrica que puede conllevar manía, depresión, alucinaciones y delirios.",
       "featured": false
@@ -706,11 +745,11 @@
       "slug": "un-rover-del-tec-prueba-en-la-tierra-los-algoritmos-que-podrian-navegar-la-luna",
       "title": "Un rover del TEC prueba en la Tierra los algoritmos que podrían navegar la Luna",
       "category": "Ciencia",
-      "bullets_20s": "• El TEC desarrolló un rover para validar algoritmos de navegación autónoma en la exploración lunar.\n• El rover fue construido desde cero por estudiantes del Tecnológico de Costa Rica.\n• La iniciativa está orientada a apoyar el programa Artemis de exploración lunar de la NASA.\n• El laboratorio de sistemas espaciales del TEC es pionero en investigación espacial en Centroamérica.\n• Se busca mejorar la maquinaria de exploración lunar con tecnología avanzada y colaborativa.",
+      "bullets_20s": "• El rover del TEC servirá como banco de pruebas para algoritmos de navegación autónoma.\n• Incluye sensores ultrasónicos y de profundidad para realizar pruebas efectivas.\n• El laboratorio es pionero en Centroamérica en el desarrollo de misiones espaciales.\n• Estudiantes del TEC colaboran en el ensamblaje y desarrollo del rover de pruebas.\n• Buscan crear un robot útil para misiones en entornos hostiles, como el polo lunar.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/rover-tec-prueba-tierra-algoritmos-podrian-navegar-luna",
       "publish_date": "2026-08-19T22:41:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Un rover del TEC desarrolla algoritmos para futuras misiones lunares.",
+      "teaser": "Lo clave en 20 segundos: Un rover del TEC prueba algoritmos para la exploración lunar.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/diseno-sin-titulo-3.png",
       "description": "Un rover del TEC prueba en la Tierra los algoritmos que podrían navegar la Luna",
       "featured": false
@@ -718,12 +757,12 @@
     {
       "slug": "conoce-idtec-nuestra-nueva-identidad-digital-conversemos-con-el-tec",
       "title": "Conoce IdTEC nuestra nueva identidad digital, Conversemos con el TEC",
-      "category": "Ciencia",
-      "bullets_20s": "• El TEC presenta IdTEC, un sistema de identidad digital descentralizada para estudiantes.\n• La plataforma permite llevar credenciales universitarias en el teléfono celular fácilmente.\n• Un programa 'Conversemos con el TEC' se transmitirá el 25 de agosto para más información.\n• Kevin Moraga aclarará dudas sobre el funcionamiento y beneficios de IdTEC.\n• El plan piloto del sistema durará un año, invitando a muchos a participar.",
+      "category": "Tecnología",
+      "bullets_20s": "• El TEC presenta IdTEC, un sistema de identidad digital descentralizada para estudiantes.\n• Con IdTEC, los alumnos podrán llevar sus credenciales universitarias en su celular.\n• El programa 'Conversemos con el TEC' se transmitirá por redes sociales el 25 de agosto.\n• El plan piloto de IdTEC tendrá una duración de un año, invitando a la participación.\n• Kevin Moraga responderá dudas sobre IdTEC durante el evento en vivo.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/conoce-idtec-nuestra-nueva-identidad-digital-conversemos-tec",
       "publish_date": "2026-08-19T22:33:57.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC lanza IdTEC, sistema de identidad digital para estudiantes.",
+      "teaser": "Lo clave en 20 segundos: Descubre cómo IdTEC transformará la identidad digital en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/conversemos-idtec-1.jpg",
       "description": "Conoce IdTEC nuestra nueva identidad digital, Conversemos con el TEC",
       "featured": false
@@ -810,11 +849,11 @@
       "slug": "dia-de-las-ninas-supercientificas-en-el-tec",
       "title": "Día de las Niñas Supercientíficas en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• Se celebra el Día de las Niñas Supercientíficas el 10 de octubre en Cartago.\n• La actividad es gratuita y busca inspirar a futuras científicas y tecnólogas.\n• Aún hay tiempo para preinscribirse hasta el 30 de agosto.\n• Iniciativa del Tecnológico de Costa Rica para potenciar el talento femenino.\n• Ofrece talleres, charlas e interacción con mujeres en áreas STEM.",
+      "bullets_20s": "• El Día de las Niñas Supercientíficas se llevará a cabo el 10 de octubre en el TEC.\n• La actividad está destinada para niñas apasionadas por la ciencia y tecnología.\n• La preinscripción está abierta hasta el 30 de agosto para participar.\n• Las participantes podrán interactuar con mujeres en carreras STEM.\n• Se ofrecerán talleres y charlas especializadas en áreas científicas.\n• Es una oportunidad para inspirar a futuras científicas e investigadoras.\n• La actividad es gratuita, pero el cupo es limitado.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/dia-ninas-supercientificas-tec-1",
       "publish_date": "2026-08-19T20:37:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Un evento para inspirar a futuras científicas en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Día de las Niñas Supercientíficas busca inspirar jóvenes en STEM.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/ninas-super-cientificas.png",
       "description": "Día de las Niñas Supercientíficas en el TEC",
       "featured": false
@@ -80172,10 +80211,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-20T23:45:24.760Z",
-  "total": 6167,
-  "removed_soccer_news_count": 1081,
+  "generated_at": "2026-08-21T00:45:24.857Z",
+  "total": 6170,
+  "removed_soccer_news_count": 1082,
   "removed_soccer_news_titles": [
+    "Jewison Bennette cambia de equipo y será dirigido por el anterior técnico de Keylor Navas",
     "Un equipo profesional de Costa Rica estuvo sin licencia unas horas por deuda... pero corrió a pagar",
     "La Selección de Costa Rica cambia de banco",
     "Fernando Batista revela la sensible baja de la Selección de Costa Rica para el inicio de la Liga de Naciones",
@@ -80224,7 +80264,6 @@
     "Lionel Messi tiene serias dudas sobre seguir en el fútbol, a pocos días de la muerte de su padre",
     "La desgarradora carta de Lionel Messi tras la muerte de su papá: ‘No sé qué voy a hacer sin vos’",
     "Keylor Navas le marca un gol al Columbus Crew en la Leagues Cup: véalo aquí",
-    "Día de malas noticias para Josimar Alcócer y Jeyland Mitchell en la Champions League",
-    "¿Costa Rica podrá seguir en el Consejo Director de la FIFA? Esto es lo que se sabe"
+    "Día de malas noticias para Josimar Alcócer y Jeyland Mitchell en la Champions League"
   ]
 }
