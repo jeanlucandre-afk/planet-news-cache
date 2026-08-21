@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "zollner-electronics-amplia-su-planta-de-produccion-en-costa-rica-y-proyecta-500-nuevos-empleos-para-los-proximos-anos",
+      "title": "Zollner Electronics amplía su planta de producción en Costa Rica y proyecta 500 nuevos empleos para los próximos años",
+      "category": "Costa Rica",
+      "bullets_20s": "• Zollner Electronics se posiciona como un actor clave en la economía de Costa Rica.\n• La nueva ampliación de la planta responderá a creciente demanda en el sector tecnológico.\n• Se proyecta la creación de 500 empleos directos en los próximos años.\n• La planta se ubica en la Zona Franca La Lima, en la provincia de Cartago.\n• Este proyecto implica una inversión significativa en infraestructura y recursos humanos.",
+      "source_name": "Andrea Mora Zamora",
+      "source_url": "https://www.nacion.com/brandvoice/zollner-electronics-amplia-su-planta-de-produccion/5D5RCWWBABCRVDX46NEOYD3NJY/story/",
+      "publish_date": "2026-08-21T22:06:19.000Z",
+      "teaser": "Lo clave en 20 segundos: Zollner Electronics crea 500 nuevos empleos tras ampliar su planta en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/VYE7VFGB7BASDCJASSMKF6QMBQ.jpg?auth=b46bb720a6780cfc821aba8467db3c5130e26142cc8e9215e02f6936f51209f2&smart=true&width=3121&height=2081",
+      "description": "La ampliación incorpora diez mil metros cuadrados adicionales a su planta, ubicada en Zona Franca La Lima, en Cartago.",
+      "featured": false
+    },
+    {
+      "slug": "tribunal-amplia-prision-preventiva-de-diablo-y-tan-por-seis-meses-mas",
+      "title": "Tribunal amplía prisión preventiva de Diablo y Tan por seis meses más",
+      "category": "Costa Rica",
+      "bullets_20s": "• El tribunal decidió extender la prisión preventiva por seis meses más a los acusados.\n• Alejandro Arias, conocido como Diablo, y Jonathan Pérez, alias Tan, son los implicados.\n• Ambos están bajo investigación por delitos de homicidio y tentativa de homicidio.\n• La medida busca garantizar el proceso judicial en curso contra ambos individuos.\n• La extensión de la prisión preventiva refleja la gravedad de los cargos presentados.",
+      "source_name": "Silvia Ureña Corrales, Cristian Mora",
+      "source_url": "https://www.nacion.com/sucesos/tribunal-amplia-prision-preventiva-de-diablo-y-tan/CIY37YDDOVHPRFPIDBD3WX7YBY/story/",
+      "publish_date": "2026-08-21T22:06:14.000Z",
+      "teaser": "Lo clave en 20 segundos: El tribunal amplía la prisión preventiva de Diablo y Tan por seis meses más.",
+      "image_url": "https://www.nacion.com/resizer/v2/DV55QPJ5AVCNDM7ZWTV44JI7HI.png?auth=80419214ae33bcf56f3185b281ca9e1cbae4aff66c2891580f50aa15b21c5c65&smart=true&width=1200&height=628",
+      "description": "Tribunal especializado amplió por seis meses la prisión preventiva de Alejandro Arias, alias Diablo, y Jonathan Pérez, alias Tan, investigados por homicidio y tentativa de homicidio.",
+      "featured": false
+    },
+    {
+      "slug": "mario-alonso-puig-regresa-a-costa-rica-con-la-conferencia-para-que-caminar-si-puedes-volar",
+      "title": "Mario Alonso Puig regresa a Costa Rica con la conferencia “Para qué caminar si puedes volar”",
+      "category": "Costa Rica",
+      "bullets_20s": "• Mario Alonso Puig es un renombrado conferencista y médico español que regresa a Costa Rica.\n• Su conferencia se centra en cómo recuperar energía en la vida diaria para mejorar el bienestar.\n• La charla está programada para el 12 de septiembre en un lugar aún por confirmar.\n• Se espera una gran participación de personas interesadas en el desarrollo personal y la motivación.\n• La conferencia promete dar herramientas prácticas para una vida más satisfactoria y plena.",
+      "source_name": "Alejandro Monge",
+      "source_url": "https://www.nacion.com/brandvoice/mario-alonso-puig-regresa-a-costa-rica-con-la/4NE4ITXK3JCCNK2MX3FBK4TCJU/story/",
+      "publish_date": "2026-08-21T22:04:40.000Z",
+      "teaser": "Lo clave en 20 segundos: Mario Alonso Puig regresa a Costa Rica para hablar sobre el manejo de la energía personal.",
+      "image_url": "https://www.nacion.com/resizer/v2/343WFFKC4VB3ZKIEZJM2IUIXXE.jpeg?auth=3e38c3581eeb45d03cdf0560e01a78ea7d0c8633cb0ba77f94ebae4381efdd7f",
+      "description": "El 12 de septiembre, el conferencista español mostrará en dónde se pierde nuestra energía diaria y cómo recuperarla para alcanzar vivir diferente.",
+      "featured": false
+    },
+    {
       "slug": "oij-busca-a-sospechosos-de-robar-carro-a-adulto-mayor-vehiculo-fue-hallado-tras-una-tentativa-de-homicidio-en-liberia",
       "title": "OIJ busca a sospechosos de robar carro a adulto mayor: vehículo fue hallado tras una tentativa de homicidio en Liberia",
       "category": "Costa Rica",
@@ -82,11 +121,11 @@
       "slug": "por-que-el-estado-de-la-economia-de-eeuu-esta-disparando-las-alarmas-en-todo-el-mundo",
       "title": "Por qué el estado de la economía de EE.UU. está disparando las alarmas en todo el mundo",
       "category": "Mundo",
-      "bullets_20s": "• La economía de EE.UU. enfrenta desafíos significativos que preocupan a los analistas financieros a nivel mundial.\n• El aumento de la deuda pública ha generado alarma entre expertos en economía y finanzas.\n• Los consumidores y mercados están atentos a las señales de un posible impacto global.\n• La estabilidad económica de EE.UU. es crucial para el equilibrio financiero en otros países.\n• Se discuten posibles medidas para abordar esta creciente preocupación entre líderes gubernamentales.",
+      "bullets_20s": "• La economía de EE.UU. presenta señales preocupantes que impactan a nivel global.\n• Aumento significativo de la deuda nacional genera inestabilidad en mercados internacionales.\n• Los economistas analizan posibles repercusiones para países en desarrollo.\n• Los inversionistas muestran preocupación ante la volatilidad de la economía estadounidense.\n• El debate sobre políticas fiscales y sus efectos en la economía se intensifica.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cg5lrejv18yo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-21T20:04:28.000Z",
-      "teaser": "Lo clave en 20 segundos: La economía de EE.UU. genera preocupación global por su creciente deuda.",
+      "teaser": "Lo clave en 20 segundos: La deuda de EE.UU. provoca preocupación mundial por su impacto económico.",
       "image_url": "",
       "description": "Estados Unidos alcanzó un hito importante en su nivel de deuda esta semana, pero ¿hasta qué punto deberíamos preocuparnos por la mayor economía del mundo?",
       "featured": false
@@ -381,11 +420,11 @@
       "slug": "cual-es-la-situacion-del-hambre-en-america-latina-y-como-republica-dominicana-ha-logrado-ser-el-ultimo-pais-en-alcanzar-",
       "title": "Cuál es la situación del hambre en América Latina (y cómo República Dominicana ha logrado ser el último país en alcanzar el hambre cero)",
       "category": "Mundo",
-      "bullets_20s": "• América Latina enfrenta una crisis creciente de hambre que afecta a millones de personas cada año.\n• República Dominicana ha implementado políticas efectivas para erradicar el hambre en su territorio.\n• La ONU destaca la importancia de la cooperación internacional para combatir el hambre globalmente.\n• El acceso a alimentos nutritivos es vital para el desarrollo y bienestar de los ciudadanos.\n• Las causas del hambre incluyen la pobreza y conflictos que afectan la producción de alimentos.",
+      "bullets_20s": "• América Latina enfrenta desafíos significativos en la lucha contra el hambre. La situación varía por país.\n• República Dominicana ha sido reconocido por alcanzar el hambre cero, un hito importante en la región.\n• Organizaciones internacionales han celebrado este logro. Se espera que otros países sigan su ejemplo.\n• Las políticas de seguridad alimentaria son clave en la estrategia del país caribeño para eliminar el hambre.\n• El informe de la ONU destaca las mejoras en nutrición y reducción de la pobreza en República Dominicana.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c77g1jd322no?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-21T12:13:14.000Z",
-      "teaser": "Lo clave en 20 segundos: La lucha contra el hambre en América Latina y el éxito de República Dominicana.",
+      "teaser": "Lo clave en 20 segundos: República Dominicana logra hambre cero mientras América Latina lucha contra el hambre persistente.",
       "image_url": "",
       "description": "La nación caribeña se sumó a la lista de países que consiguieron salir del mapa mundial del hambre, según Naciones Unidas.",
       "featured": false
@@ -433,11 +472,11 @@
       "slug": "quien-es-fernando-cerimedo-el-asesor-de-milei-y-otros-politicos-de-derecha-acusado-en-bolivia-de-ordenar-un-ataque-de-si",
       "title": "Quién es Fernando Cerimedo, el asesor de Milei y otros políticos de derecha acusado en Bolivia de ordenar un ataque de sicarios contra su pareja",
       "category": "Mundo",
-      "bullets_20s": "• El polémico Fernando Cerimedo ha tenido un rol crucial en campañas políticas en América Latina.\n• Su arresto ha generado un gran revuelo, no solo en Bolivia, sino en toda la región.\n• Cerimedo es conocido por sus conexiones con líderes de derechas en varios países.\n• Los detalles del caso han revelado un posible vínculo con el crimen organizado en Bolivia.\n• El impacto de su arresto podría influir en las próximas elecciones en varios países.",
+      "bullets_20s": "• Fernando Cerimedo ha tenido un papel clave en las campañas políticas de varios líderes en la región.\n• Su arresto ha generado una gran controversia y discusión en los medios de comunicación internacionales.\n• A su vez, se cuestiona el impacto de su detención sobre las relaciones diplomáticas en América Latina.\n• El caso demuestra la complejidad de la política en Bolivia y sus repercusiones en el vecindario.\n• Los ciudadanos están divididos sobre el significado de estas acusaciones y su veracidad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/clyx45xkzzyo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-21T11:04:29.000Z",
-      "teaser": "Lo clave en 20 segundos: El arresto de Cerimedo conmueve la política regional y revela nuevas conexiones peligrosas.",
+      "teaser": "Lo clave en 20 segundos: Escándalo en Bolivia por el arresto de un asesor político involucrado en un ataque.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/26c2/live/f6e6bcd0-9d4f-11f1-aac2-870643eea2ac.jpg",
       "description": "El arresto del hombre que colaboró en las campañas de los actuales presidentes de Argentina, Bolivia y Honduras desata un escándalo de alcance regional.",
       "featured": false
@@ -80770,8 +80809,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-21T21:45:23.856Z",
-  "total": 6213,
+  "generated_at": "2026-08-21T22:45:24.312Z",
+  "total": 6216,
   "removed_soccer_news_count": 1087,
   "removed_soccer_news_titles": [
     "Keylor Navas y Pumas sin derecho a fallar para cazar la cima en la Liga MX",
