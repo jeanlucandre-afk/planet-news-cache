@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "pln-prepara-su-relanzamiento-reformara-reglas-internas-y-definira-estrategia-frente-al-gobierno-de-laura-fernandez",
+      "title": "PLN prepara su relanzamiento: reformará reglas internas y definirá estrategia frente al gobierno de Laura Fernández",
+      "category": "Costa Rica",
+      "bullets_20s": "• PLN busca relanzar su imagen y adaptar sus reglas internas a nuevas realidades políticas.\n• Realizará reformas para fortalecer su estructura y capacidad de respuesta ante el gobierno.\n• Se evaluarán posibles alianzas estratégicas para las elecciones municipales de 2028.\n• Un pronunciamiento crítico se está preparando respecto a la gestión de Fernández.\n• El partido desea renovarse y atraer a nuevos votantes con propuestas actualizadas.",
+      "source_name": "Lucía Astorga",
+      "source_url": "https://www.nacion.com/politica/pln-prepara-su-relanzamiento-reformara-reglas/4LQRK74P4BBXFMLTMZTRBPN3FA/story/",
+      "publish_date": "2026-08-21T17:24:48.000Z",
+      "teaser": "Lo clave en 20 segundos: PLN se reestructura y se prepara para las próximas elecciones municipales.",
+      "image_url": "https://www.nacion.com/resizer/v2/6D5BUAEUORD57I4P4PO6POV3GA.JPG?auth=b5d72eeb442d6e19a024716da3efd4fa5bcf233b7beff21a37bd1b83e2c8c561&smart=true&width=9504&height=6336",
+      "description": "La agrupación votará reformas a su Estatuto, valorará alianzas para las municipales de 2028 y prepara un pronunciamiento crítico sobre la gestión de la presidenta Laura Fernández.",
+      "featured": false
+    },
+    {
+      "slug": "festival-de-la-luz-2026-sera-sin-carrozas-tras-retiro-de-instituciones-publicas-diego-miranda-apunta-a-razones-politicas",
+      "title": "Festival de la Luz 2026 será sin carrozas tras retiro de instituciones públicas; Diego Miranda apunta a razones políticas",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Festival de la Luz es una celebración icónica en San José, conocida por sus carrozas iluminadas.\n• En 2026, la festividad se desarrollará sin la participación de carrozas, generando preocupación.\n• Diego Miranda, alcalde de San José, señala que hay motivos políticos detrás de las decisiones tomadas.\n• Las instituciones públicas, históricamente involucradas, han decidido no participar este año.\n• La comunidad espera la respuesta de los organizadores sobre el impacto de estos cambios en el evento.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/el-pais/festival-de-la-luz-2026-sera-sin-carrozas-tras/IJDAZVXNZVCL3H7KSZCPOOV52E/story/",
+      "publish_date": "2026-08-21T16:53:50.000Z",
+      "teaser": "Lo clave en 20 segundos: El Festival de la Luz 2026 será sin carrozas por razones políticas según el alcalde.",
+      "image_url": "https://www.nacion.com/resizer/v2/KTUZLLNYWBAF3BBNX66NKVBPMI.jpg?auth=9c2fe8c2124b3c1354e5047696b1b6f8b734d9fd67ca9eabea3a716139554056&smart=true&width=3600&height=2400",
+      "description": "El alcalde de San José, Diego Miranda, confirmó que el Festival de la Luz 2026 no tendrá carrozas tras el retiro de instituciones públicas que habían confirmado su participación. El jerarca atribuyó las decisiones a posibles razones políticas.",
+      "featured": false
+    },
+    {
       "slug": "terremoto-en-peru-deja-heridos-y-danos-tras-sismo-de-magnitud-72-en-ayacucho",
       "title": "Terremoto en Perú deja heridos y daños tras sismo de magnitud 7,2 en Ayacucho",
       "category": "Mundo",
-      "bullets_20s": "• Un potente sismo de magnitud 7,2 ha sacudido la región de Ayacucho en Perú.\n• El terremoto ha dejado múltiples heridos y daños materiales significativos.\n• Las autoridades evalúan la magnitud de los daños causados por el sismo.\n• Se reportan cortes de energía y problemas en las comunicaciones en Ayacucho.\n• Los equipos de rescate están en acción atendiendo a los afectados por el terremoto.",
+      "bullets_20s": "• Un sismo de magnitud 7.2 se registró en Ayacucho, Perú, afectando a varias localidades.\n• Hasta ahora, se reportan heridos y daños significativos en infraestructura pública y privada.\n• Las autoridades locales han iniciado operativos de rescate y evaluación de daños.\n• El epicentro se localizó en una zona rural, lo que complicó las labores de auxilio.\n• Se recomienda a la población estar alerta ante posibles réplicas en las próximas horas.",
       "source_name": "El  Comercio",
       "source_url": "https://www.nacion.com/el-mundo/terremoto-en-peru-deja-heridos-y-danos-tras-sismo/7MQTUFQQ7FASZCGHEG7ZPS6LYQ/story/",
       "publish_date": "2026-08-21T16:26:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Un sismo de 7,2 en Perú deja heridos y severos daños en Ayacucho.",
+      "teaser": "Lo clave en 20 segundos: un fuerte sismo impacta Ayacucho, Perú, causando heridos y daños significativos.",
       "image_url": "https://www.nacion.com/resizer/v2/AJ6RKVHD4VAGFKMQEYF2LRRYC4.png?auth=18901b61891cb9460e41604450b52aba872a3780c95767e290e0a46cfd8d538e&smart=true&width=839&height=510",
       "description": "Estos son los daños reportados por el terremoto en la región de Ayacucho, Perú.",
       "featured": false
@@ -212,13 +238,13 @@
       "slug": "cual-es-la-situacion-del-hambre-en-america-latina-y-como-republica-dominicana-ha-logrado-ser-el-ultimo-pais-en-alcanzar-",
       "title": "Cuál es la situación del hambre en América Latina (y cómo República Dominicana ha logrado ser el último país en alcanzar el hambre cero)",
       "category": "Mundo",
-      "bullets_20s": "• República Dominicana ha alcanzado el hambre cero, destacándose en América Latina.\n• Las políticas públicas han sido fundamentales en la lucha contra el hambre en el país.\n• El acceso a calorías básicas ha aumentado en la población dominicana.\n• Naciones Unidas reconoce los avances en la reducción del hambre en la región.\n• Las lecciones de República Dominicana pueden servir como modelo para otros países.",
+      "bullets_20s": "• La situación del hambre en América Latina afecta a millones de personas en diversas naciones.\n• República Dominicana ha logrado alcanzar el objetivo de hambre cero en su territorio.\n• El avance se basa en políticas alimentarias y apoyo a la agricultura local.\n• Naciones Unidas destaca el progreso de varios países en la lucha contra el hambre.\n• La educación y la concienciación son clave en la erradicación de la desnutrición.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c77g1jd322no?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-21T12:13:14.000Z",
-      "teaser": "Lo clave en 20 segundos: La República Dominicana ha eliminado el hambre a través de políticas efectivas.",
+      "teaser": "Lo clave en 20 segundos: República Dominicana logra hambre cero mientras América Latina enfrenta desafíos.",
       "image_url": "",
-      "description": "La nación caribeña se sumó a la lista de países que consiguieron salir del mapa mundial del hambre según Naciones Unidas.",
+      "description": "La nación caribeña se sumó a la lista de países que consiguieron salir del mapa mundial del hambre, según Naciones Unidas.",
       "featured": false
     },
     {
@@ -264,11 +290,11 @@
       "slug": "quien-es-fernando-cerimedo-el-asesor-de-milei-y-otros-politicos-de-derecha-acusado-en-bolivia-de-ordenar-un-ataque-de-si",
       "title": "Quién es Fernando Cerimedo, el asesor de Milei y otros políticos de derecha acusado en Bolivia de ordenar un ataque de sicarios contra su pareja",
       "category": "Mundo",
-      "bullets_20s": "• Fernando Cerimedo ha sido un asesor clave para varios políticos de derecha en América Latina.\n• Su arresto en Bolivia ha generado un gran escándalo a nivel regional y mediático.\n• Las acusaciones en su contra incluyen la orden de un ataque contra su pareja con sicarios.\n• Este caso resalta un problema mayor de violencia y corrupción en la política latinoamericana.\n• La situación crea inquietud sobre la seguridad y la integridad de líderes políticos en la región.",
+      "bullets_20s": "• Fernando Cerimedo ha trabajado como asesor para varios líderes políticos en América Latina.\n• El arresto ha generado controversia en la política de Argentina y sus alrededores.\n• Se le acusa de estar vinculado a un ataque violento en Bolivia, lo que es alarmante.\n• La noticia ha captado la atención de medios internacionales por su magnitud.\n• Los efectos de este escándalo podrían afectar las relaciones entre estos países.\n• Ciertamente, la atención se centra en la respuesta de las administraciones implicadas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/clyx45xkzzyo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-21T11:04:29.000Z",
-      "teaser": "Lo clave en 20 segundos: Escándalo en Bolivia por el arresto de un asesor político involucrado en sicariato.",
+      "teaser": "Lo clave en 20 segundos: Arresto de Cerimedo, asesor político, provoca un escándalo en América Latina.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/26c2/live/f6e6bcd0-9d4f-11f1-aac2-870643eea2ac.jpg",
       "description": "El arresto del hombre que colaboró en las campañas de los actuales presidentes de Argentina, Bolivia y Honduras desata un escándalo de alcance regional.",
       "featured": false
@@ -80601,10 +80627,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-21T16:45:24.534Z",
-  "total": 6200,
-  "removed_soccer_news_count": 1084,
+  "generated_at": "2026-08-21T17:45:24.178Z",
+  "total": 6202,
+  "removed_soccer_news_count": 1085,
   "removed_soccer_news_titles": [
+    "La FIFA sanciona con 10 partidos al argentino Leandro Paredes por el altercado con jugadores de España tras la final del Mundial 2026",
     "Increíble bronca en la Copa Sudamericana: jugadores del Botafogo intentan pegarle a DT rival",
     "Numbats, los adorables animales que dan esperanza al país que es el epicentro mundial de la extinción de mamíferos",
     "Jewison Bennette cambia de equipo y será dirigido por el anterior técnico de Keylor Navas",
@@ -80653,7 +80680,6 @@
     "Alejandro Bran recupera la sonrisa en Rumania",
     "Ahora sí estás contenta: murió el papá de Lionel Messi y redes arremeten contra conductora de TV",
     "¿De qué murió Jorge Messi, el padre de Lionel Messi?",
-    "Lionel Messi tiene serias dudas sobre seguir en el fútbol, a pocos días de la muerte de su padre",
-    "La desgarradora carta de Lionel Messi tras la muerte de su papá: ‘No sé qué voy a hacer sin vos’"
+    "Lionel Messi tiene serias dudas sobre seguir en el fútbol, a pocos días de la muerte de su padre"
   ]
 }
