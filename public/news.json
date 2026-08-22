@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "que-descubri-cuando-viaje-de-espana-a-nigeria-para-enfrentar-al-estafador-que-sedujo-a-mi-madre",
+      "title": "Qué descubrí cuando viajé de España a Nigeria para enfrentar al estafador que sedujo a mi madre",
+      "category": "Mundo",
+      "bullets_20s": "• La historia de amor se convierte en una trama de estafa internacional con sorprendentes giros.\n• Carlos viaja de Madrid a Nigeria en busca de respuestas sobre el estafador que engañó a su madre.\n• La investigación revela el oscuro mundo de las estafas románticas en internet hoy en día.\n• Los riesgos de conocer personas en línea y la importancia de la precaución nunca han sido tan claros.\n• Navegar por la complejidad cultural y legal en Nigeria fue un desafío extraordinario para Carlos.\n• La lucha por desenmascarar al estafador no solo es personal, sino también una lección para muchos.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cj9dxw4wxwyo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-22T09:23:23.000Z",
+      "teaser": "Lo clave en 20 segundos: Descubre la historia detrás del viaje de un hijo en busca de la verdad.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9ad3/live/972c3440-9bf7-11f1-bbc9-198f60b94eaf.jpg",
+      "description": "Silvia se enamoró de quien creía que era un militar estadounidense que conoció online, pero que en verdad era un estafador de Nigeria. Su hijo, Carlos, viajó de Madrid a Lagos para buscarlo. Esto es lo que descubrió allí.",
+      "featured": false
+    },
+    {
+      "slug": "ucrania-busca-sobrevivientes-tras-un-doble-ataque-ruso-contra-un-centro-comercial-que-dejo-16-muertos",
+      "title": "Ucrania busca sobrevivientes tras un doble ataque ruso contra un centro comercial que dejó 16 muertos",
+      "category": "Mundo",
+      "bullets_20s": "• Ucrania enfrenta una nueva crisis humanitaria tras el ataque a un centro comercial en su territorio.\n• El ataque ha dejado un saldo trágico de 16 víctimas fatales y múltiples heridos.\n• Nueve personas están desaparecidas, lo que aumenta la desesperación por encontrar sobrevivientes.\n• Los equipos de rescate trabajan intensamente en las ruinas del centro comercial afectado.\n• La comunidad internacional sigue de cerca la situación de seguridad en Ucrania tras este suceso.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/clyelyelg9do?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-22T07:50:40.000Z",
+      "teaser": "Lo clave en 20 segundos: Ucrania busca sobrevivientes tras un ataque que dejó 16 muertos y muchos heridos.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
+      "description": "Nueve personas siguen desaparecidas tras el ataque, que dejó 130 heridos, entre ellos varios niños.",
+      "featured": false
+    },
+    {
       "slug": "laura-fernandez-considera-muy-grave-que-ppso-tenga-informacion-de-simpatizantes-del-fa",
       "title": "Laura Fernández considera ‘muy grave’ que PPSO tenga información de simpatizantes del FA",
       "category": "Costa Rica",
-      "bullets_20s": "• Laura Fernández se muestra preocupada por la gestión de información del PPSO sobre el FA.\n• Exige un informe detallado sobre el manejo de datos de simpatizantes y asistentes.\n• Afirma que la situación es muy grave y requiere atención inmediata de autoridades.\n• Las declaraciones de Freddy González han despertado la inquietud entre los sectores políticos.\n• El vínculo entre el PPSO y la información del FA plantea serias preguntas éticas.",
+      "bullets_20s": "• Laura Fernández expresa preocupación por la posible filtración de datos sensibles de simpatizantes.\n• Se requiere un informe para esclarecer la situación sobre la información en manos del PPSO.\n• El debate sobre la privacidad de datos políticos se intensifica en Costa Rica.\n• Freddy González hizo declaraciones que suscitaron la inquietud en la política nacional.\n• Este suceso podría tener implicaciones en la confianza ciudadana en el sistema político.",
       "source_name": "Silvia Ureña Corrales",
       "source_url": "https://www.nacion.com/politica/laura-fernandez-considera-muy-grave-que-ppso-tenga/QLKRAOZJXBB47H6QNJ3VIMTF7A/story/",
       "publish_date": "2026-08-22T04:13:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Laura Fernández critica la recolección de datos por el PPSO.",
+      "teaser": "Lo clave en 20 segundos: Laura Fernández alerta sobre datos de simpatizantes en manos del PPSO.",
       "image_url": "https://www.nacion.com/resizer/v2/EF5AVHWTWVFQ3B5EPJHZ34XRYY.png?auth=01a7bad58cfa506de98d61ddc681466e0f05a3dd6fab364dde915b36f45b96e6&smart=true&width=1680&height=945",
       "description": "Laura Fernández solicitó un informe para determinar si datos de asistentes al traspaso de poderes llegaron al PPSO tras declaraciones de Freddy González.",
       "featured": false
@@ -80939,8 +80965,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-22T08:45:24.513Z",
-  "total": 6226,
+  "generated_at": "2026-08-22T09:45:24.451Z",
+  "total": 6228,
   "removed_soccer_news_count": 1089,
   "removed_soccer_news_titles": [
     "Puntarenas pone fin a su terrible racha y logra la primera victoria del torneo",
