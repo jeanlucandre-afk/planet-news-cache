@@ -1,40 +1,27 @@
 {
   "news": [
     {
-      "slug": "el-estado-de-bienestar-en-un-edificio-por-que-son-tan-importantes-las-bibliotecas-en-finlandia-y-no-solo-para-prestar-li",
-      "title": "El Estado de bienestar en un edificio: por qué son tan importantes las bibliotecas en Finlandia (y no solo para prestar libros)",
-      "category": "Mundo",
-      "bullets_20s": "• Las bibliotecas en Finlandia son espacios que fomentan el bienestar social y comunitario.\n• Se han transformado en centros de actividades culturales y educativas para todos.\n• La importancia de las bibliotecas va más allá del simple préstamo de libros.\n• Proporcionan acceso a tecnología y servicios que benefician a la comunidad.\n• Las bibliotecas son consideradas pilares del Estado de bienestar en Finlandia.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/cj3gly8jkr2o?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-08-23T08:36:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Las bibliotecas en Finlandia, más que libros, son esenciales para la sociedad.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0eb2/live/2b2f66b0-6e28-11f1-9fdc-51e252bb92b4.jpg",
-      "description": "En Finlandia, las bibliotecas se valoran cada vez más no por la cantidad de libros que prestan, sino por cómo contribuyen al funcionamiento de la sociedad.",
-      "featured": false
-    },
-    {
       "slug": "una-persona-murio-y-dos-quedaron-heridas-de-gravedad-por-balacera-en-alajuelita",
       "title": "Una persona murió y dos quedaron heridas de gravedad por balacera en Alajuelita",
       "category": "Costa Rica",
-      "bullets_20s": "• Una balacera en Alajuelita dejó una persona fallecida y dos heridos de gravedad.\n• Los disparos se reportaron poco antes de las siete de la noche en un área residencial.\n• La comunidad se encuentra en estado de shock tras el trágico incidente violento.\n• Las autoridades están investigando las circunstancias de la balacera en esa urbanización.\n• Se recomienda a los ciudadanos reportar cualquier actividad sospechosa a la policía.",
+      "bullets_20s": "• Un incidente violento dejó una persona muerta y dos heridas en Alajuelita.\n• Los disparos se registraron en la urbanización Los Geranios, una zona residencial.\n• Las autoridades confirmaron la gravedad de las lesiones de los heridos.\n• Testigos reportaron un ambiente de tensión y miedo tras el tiroteo.\n• La policía investiga las circunstancias que llevaron a este ataque armado.",
       "source_name": "Juan Fernando Lara Salas",
       "source_url": "https://www.nacion.com/sucesos/una-persona-murio-y-dos-quedaron-heridas-de/J62O44EIAZEIDIWB7MW254KNIY/story/",
       "publish_date": "2026-08-23T03:52:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Una balacera en Alajuelita dejó un muerto y dos heridos.",
+      "teaser": "Lo clave en 20 segundos: Tiroteo en Alajuelita deja un muerto y dos heridos graves.",
       "image_url": "https://www.nacion.com/resizer/v2/ZVWCCFCGCRA6HEIDPWTCI7WJMU.jpg?auth=523183d0e9573702834b38975d053aabbc0347dad3a506738e857e72bd62d6c3&smart=true&width=1272&height=720",
-      "description": "Disparos ocurrieron poco antes de las 7 p.m. en la urbanización Los Geranios, en San Felipe de Alajuelita",
+      "description": "Disparos ocurrieron poco antes de las 7 p.m. en la urbanización Los Geranios, en San Felipe de Alajuelita.",
       "featured": false
     },
     {
       "slug": "cinco-personas-entre-ellas-dos-menores-son-atendidas-tras-accidente-en-chimirol-de-perez-zeledon",
       "title": "Cinco personas, entre ellas dos menores, son atendidas tras accidente en Chimirol de Pérez Zeledón",
       "category": "Costa Rica",
-      "bullets_20s": "• Un accidente en Chimirol de Pérez Zeledón dejó cinco personas atendidas por la Cruz Roja.\n• El incidente involucró a dos menores, quienes recibieron atención inmediata tras el suceso.\n• Las autoridades investigan las causas del accidente y la condición de los heridos.\n• La Cruz Roja destacó la importancia de la atención prehospitalaria en este tipo de emergencias.\n• Accidentes en carreteras de montaña son comunes, enfatizando la necesidad de precaución en la zona.",
+      "bullets_20s": "• Un accidente en Chimirol dejó cinco personas atendidas, incluyendo dos menores de edad.\n• La Cruz Roja respondió rápidamente al incidente y brindó atención a los heridos.\n• Las vícitmas fueron atendidas en el lugar y posteriormente trasladadas a centros médicos.\n• Este tipo de accidentes resalta la importancia de la seguridad en las carreteras locales.\n• Las autoridades están investigando las causas exactas del accidente en Pérez Zeledón.",
       "source_name": "Juan Fernando Lara Salas",
       "source_url": "https://www.nacion.com/sucesos/cinco-personas-entre-ellas-dos-menores-son/HT2XN4W5LVHLDGMCSX3GVXU6BM/story/",
       "publish_date": "2026-08-23T03:41:39.000Z",
-      "teaser": "Lo clave en 20 segundos: cinco personas fueron atendidas tras caer a un precipicio en Pérez Zeledón.",
+      "teaser": "Lo clave en 20 segundos: cinco personas atendidas tras caer a un precipicio en Pérez Zeledón.",
       "image_url": "https://www.nacion.com/resizer/v2/2EOEOGMAPBGD7JIVNDWODYDHQA.jpg?auth=eeb4add523fda0c5f0e5eea0a1065083e1d807ad86170197b7c5b885747f6710&smart=true&width=1126&height=1280",
       "description": "Cinco ocupantes, entre ellos dos menores, fueron valorados tras caer a un precipicio en Pérez Zeledón. Descubra los detalles de la atención de la Cruz Roja",
       "featured": false
@@ -43,11 +30,11 @@
       "slug": "alias-panochita-se-vio-involucrado-en-la-muerte-de-su-padre-en-2011-tras-una-discusion-por-un-abrigo",
       "title": "Alias ‘Panochita’ se vio involucrado en la muerte de su padre en 2011 tras una discusión por un abrigo",
       "category": "Costa Rica",
-      "bullets_20s": "• Alias 'Panochita' es un nombre que genera controversia en la sociedad costarricense por su historia.\n• El caso se remonta a 2011, cuando el joven aún era menor de edad al cometer el crimen.\n• La discusión por un abrigo terminó en un trágico desenlace familiar en Cartago.\n• Actualmente, el involucrado enfrenta prisión preventiva por otros cargos de violencia.\n• La historia ha despertado interés en diversos medios de comunicación en el país.",
+      "bullets_20s": "• Un joven de 16 años se vio involucrado en un trágico suceso familiar en 2011.\n• La discusión por un abrigo terminó en un incidente fatal entre padre e hijo.\n• La información surge nuevamente tras la detención del joven por otro delito.\n• El individuo enfrenta prisión preventiva por violencia armada en Cartago.\n• Este caso reabre debates sobre la violencia familiar en Costa Rica.",
       "source_name": "Juan Fernando Lara Salas",
       "source_url": "https://www.nacion.com/sucesos/alias-panochita-se-vio-involucrado-en-la-muerte-de/TFKTUNDSQJDKJCOKHSISR5IHDE/story/",
       "publish_date": "2026-08-23T02:37:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Un caso impactante de violencia familiar en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: un trágico caso de violencia familiar vuelve a ser noticia.",
       "image_url": "https://www.nacion.com/resizer/v2/JU3LBHQAENCNLDUZA3PUDPD5KI.jpg?auth=476d4ff5036cf669b9bc494d51928b89830c59381e7df9b280581c2fb584f5f2&smart=true&width=640&height=479",
       "description": "Hombre de apellido Quesada Ramírez, quien hoy enfrenta prisión preventiva por violencia armada en Cartago, mató a su padre en 2011 a los 16 años",
       "featured": false
@@ -56,11 +43,11 @@
       "slug": "especial-bbc-los-ninos-invisibles-nacidos-de-crimenes-de-guerra",
       "title": "Especial BBC: los niños invisibles nacidos de crímenes de guerra",
       "category": "Mundo",
-      "bullets_20s": "• Los niños nacidos de violaciones en conflictos son a menudo considerados invisibles por la sociedad.\n• Estos bebés enfrentan problemas legales al no poder obtener un certificado de nacimiento adecuado.\n• La falta de identidad legal complica su acceso a salud y educación en el futuro.\n• El impacto de la guerra afecta de forma desproporcionada a las mujeres y sus hijos.\n• Los testimonios de estas madres revelan el trauma asociado a estos nacimientos difíciles.",
+      "bullets_20s": "• Los crímenes de guerra generan consecuencias duraderas en las víctimas y sus descendientes.\n• Los niños nacidos de violaciones enfrentan serias dificultades legales y sociales.\n• La falta de un certificado de nacimiento afecta su acceso a servicios básicos.\n• Historias de resiliencia muestran la lucha de estos niños por su identidad.\n• Los organismos internacionales trabajan para abordar esta problemática urgente.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c5yevxyd21eo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-23T02:26:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Los niños nacidos de crímenes de guerra sufren graves problemas legales y sociales.",
+      "teaser": "Lo clave en 20 segundos: La batalla de los niños invisibles nacidos de crímenes de guerra.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/e1f5/live/33f48210-91bb-11f1-a7ab-8b30adf0800a.png",
       "description": "Los bebés nacidos como consecuencia de una violación a menudo no pueden obtener un certificado de nacimiento, lo que conlleva problemas para toda la vida.",
       "featured": false
@@ -115,19 +102,6 @@
       "teaser": "Lo clave en 20 segundos: Un equipo costarricense de mountain bike competirá en varios torneos importantes.",
       "image_url": "https://www.nacion.com/resizer/v2/NIPMYTWSANDU3MFAVIYYHHFVT4.jpeg?auth=5bd548606bd654367a52d69b60c002b50e24c618c66552ac660a3f996c3ecd55&smart=true&width=1280&height=960",
       "description": "El equipo CBZ-DEKRA se internará en la montaña para competir en cuatro torneos de importancia entre agosto y setiembre.",
-      "featured": false
-    },
-    {
-      "slug": "una-jueza-anula-la-prohibicion-de-visados-de-eeuu-a-ciudadanos-de-75-paises-entre-ellos-colombia-uruguay-y-cuba",
-      "title": "Una jueza anula la prohibición de visados de EE.UU. a ciudadanos de 75 países, entre ellos Colombia, Uruguay y Cuba",
-      "category": "Mundo",
-      "bullets_20s": "• La decisión permite que ciudadanos de 75 países puedan acceder a visados nuevamente.\n• La jueza Vargas argumentó que la prohibición violaba leyes federales establecidas.\n• Esta medida afecta a países como Colombia, Uruguay y Cuba en la actualidad.\n• Los implicados celebran la anulación de la prohibición por parte de la jueza.\n• La noticia resuena en diversos medios y redes sociales a nivel internacional.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/cp3r3nn6nnxo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-08-22T22:26:43.000Z",
-      "teaser": "Lo clave en 20 segundos: Una jueza anula prohibición de visados de EE.UU. a 75 países.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/206e/live/27804a30-9e74-11f1-a1ec-d5694c4b50a6.jpg",
-      "description": "La jueza federal Jeannette Vargas dejó sin efecto la medida al considerar que era contraria a la ley federal.",
       "featured": false
     },
     {
@@ -615,11 +589,11 @@
       "slug": "que-descubri-cuando-viaje-de-espana-a-nigeria-para-enfrentar-al-estafador-que-sedujo-a-mi-madre",
       "title": "Qué descubrí cuando viajé de España a Nigeria para enfrentar al estafador que sedujo a mi madre",
       "category": "Mundo",
-      "bullets_20s": "• Una madre se enamora de un supuesto militar en internet, sin saber que es un estafador.\n• Su hijo viaja desde España a Nigeria para descubrir la verdad detrás de la estafa.\n• La historia explora el impacto emocional en la familia ante este engaño cibernético.\n• Carlos enfrenta diversos peligros en su búsqueda por confrontar al estafador.\n• Descubrimientos sorprendentes sobre la identidad del estafador marcan la narrativa.",
+      "bullets_20s": "• La historia de cómo el amor puede llevar a las personas a situaciones inesperadas y peligrosas.\n• Carlos, hijo de Silvia, decide viajar a Nigeria para confrontar al estafador detrás de la trama.\n• Un estafador que se hacía pasar por militar estadounidense logró engañar a muchas personas.\n• Reflexiones sobre la confianza y los riesgos de conocer a alguien solo en línea.\n• La impactante realidad de las estafas románticas en internet y sus consecuencias.\n• El viaje de Carlos a Nigeria le permite descubrir la verdad detrás de la estafa.\n• Las dificultades que enfrentó al intentar localizar al estafador en un país desconocido.\n• Lecciones sobre la importancia de la precaución en las relaciones en línea.\n• La experiencia de viajar para resolver un conflicto familiar trae a la luz muchas verdades.\n• Carlos espera cerrar un capítulo doloroso en la vida de su madre a través de su viaje.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cj9dxw4wxwyo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-22T09:23:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Un hijo viaja a Nigeria para enfrentar al estafador que engañó a su madre.",
+      "teaser": "Lo clave en 20 segundos: Un hijo viaja a Nigeria para confrontar al estafador que engañó a su madre.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9ad3/live/972c3440-9bf7-11f1-bbc9-198f60b94eaf.jpg",
       "description": "Silvia se enamoró de quien creía que era un militar estadounidense que conoció online, pero que en verdad era un estafador de Nigeria. Su hijo, Carlos, viajó de Madrid a Lagos para buscarlo. Esto es lo que descubrió allí.",
       "featured": false
@@ -713,6 +687,19 @@
       "teaser": "Lo clave en 20 segundos: Colegios prohíben ‘batallas de aura’, pero el MEP aclara normativas sobre sanciones.",
       "image_url": "https://www.nacion.com/resizer/v2/46VE3VIKZNCGHEGKIN5F2CFBVM.png?auth=b7bbc66426581311ed2f2bce8e4902b03b79ad6c35d1c6e736a7a3ae762ac608&smart=true&width=1536&height=1024",
       "description": "Varios colegios de Costa Rica prohibieron las 'batallas de aura', pero el MEP aclaró que ningún estudiante debe ser sancionado únicamente por 'farmear aura'.",
+      "featured": false
+    },
+    {
+      "slug": "una-jueza-anula-la-prohibicion-de-visados-de-eeuu-a-ciudadanos-de-75-paises-entre-ellos-colombia-uruguay-y-cuba",
+      "title": "Una jueza anula la prohibición de visados de EE.UU. a ciudadanos de 75 países, entre ellos Colombia, Uruguay y Cuba",
+      "category": "Mundo",
+      "bullets_20s": "• Una jueza de EE.UU. anula la prohibición de visados a 75 países, mejorando la situación de muchos viajeros.\n• La decisión se basa en la interpretación de la ley federal que considera la medida como injusta.\n• Se espera que esta anulación facilite los procesos de visado para ciudadanos de varios países latinos.\n• La jueza federal Jeannette Vargas ha generado opiniones divididas sobre la legalidad de la prohibición inicial.\n• Estudios sugieren que el acceso a visados puede influir en las relaciones internacionales entre países.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cp3r3nn6nnxo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-22T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Una jueza anula prohibición de visados en EE.UU., devolviendo derechos a viajeros.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/206e/live/27804a30-9e74-11f1-a1ec-d5694c4b50a6.jpg",
+      "description": "La jueza federal Jeannette Vargas dejó sin efecto la medida al considerar que era contraria a la ley federal.",
       "featured": false
     },
     {
@@ -81576,8 +81563,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-23T09:45:25.065Z",
-  "total": 6275,
+  "generated_at": "2026-08-23T10:45:24.799Z",
+  "total": 6274,
   "removed_soccer_news_count": 1093,
   "removed_soccer_news_titles": [
     "Cartaginés asusta con su ofensiva y golea a Escorpiones",
