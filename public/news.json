@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "slug": "un-muerto-y-un-hombre-persona-tras-balacera-en-paraiso-de-cartago",
+      "title": "Un muerto y un hombre persona tras balacera en Paraíso de Cartago",
+      "category": "Costa Rica",
+      "bullets_20s": "• La balacera se registró en el barrio La Laguna de Paraíso, Cartago, en horas de la tarde.\n• Uno de los involucrados perdió la vida en el lugar, generando consternación en la zona.\n• Las autoridades investigan las causas que llevaron a este trágico incidente de violencia.\n• Se esperan más detalles sobre el evento a medida que se avance en las investigaciones.\n• Los residentes de La Laguna fueron testigos del suceso y se muestran preocupados por su seguridad.",
+      "source_name": "Juan Fernando Lara Salas",
+      "source_url": "https://www.nacion.com/sucesos/un-muerto-y-un-hombre-persona-tras-balacera-en/BTITPJK26REKBG2DTJ7JTYVYV4/story/",
+      "publish_date": "2026-08-23T22:19:22.000Z",
+      "teaser": "Lo clave en 20 segundos: Balacera en Cartago deja un muerto y genera preocupación vecinal.",
+      "image_url": "https://www.nacion.com/resizer/v2/KOSTSP2Q7JDLZLVUWPTT2F6L5Q.jpg?auth=dddf6506c92d8b2bb7909ffd1d269b4f9d154f484c55f1157cdbef3900a8f516&smart=true&width=1280&height=720",
+      "description": "Hecho de sangre ocurrió en barrio La Laguna en esa localidad a media tarde del domingo",
+      "featured": false
+    },
+    {
+      "slug": "pusc-se-abre-a-construir-una-nueva-fuerza-politica-de-centro-y-centroderecha",
+      "title": "PUSC se abre a construir una nueva fuerza política de centro y centroderecha",
+      "category": "Costa Rica",
+      "bullets_20s": "• PUSC abrirá negociaciones con otras fuerzas para fortalecer su estructura política.\n• El nuevo Comité Ejecutivo evaluará posibles alianzas para el futuro electoral.\n• Se busca una mayor representación de centro y centroderecha en las elecciones.\n• Este acuerdo prepara al PUSC para un papel más activo en la política nacional.\n• Las elecciones municipales de 2028 son un objetivo clave para el partido.",
+      "source_name": "Lucía Astorga",
+      "source_url": "https://www.nacion.com/politica/pusc-da-luz-verde-a-negociaciones-para-formar/E3CZINWUFBGD3DSE4RIOFMI4E4/story/",
+      "publish_date": "2026-08-23T22:16:05.000Z",
+      "teaser": "Lo clave en 20 segundos: PUSC busca alianzas para fortalecer su fuerza política hacia 2028.",
+      "image_url": "https://www.nacion.com/resizer/v2/PYN6J7TLGJEM3MAZ7IQI72HGVY.jpeg?auth=7faf8569e53c9935c0e698e4d9697976c780415f961a557ff55a95cc72c75780&smart=true&width=1280&height=853",
+      "description": "El acuerdo permite al nuevo Comité Ejecutivo explorar acuerdos con otras fuerzas políticas para las elecciones municipales de 2028 y futuros procesos nacionales.",
+      "featured": false
+    },
+    {
+      "slug": "reglamento-para-el-reconocimiento-y-equiparacion-de-grados-y-titulos-del-instituto-tecnologico-de-costa-rica",
+      "title": "Reglamento para el Reconocimiento y Equiparación de Grados y Títulos del Instituto Tecnológico de Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• El reglamento establece normas sobre el reconocimiento de títulos extranjeros en Costa Rica.\n• Abarca tanto grados académicos como títulos obtenidos en el exterior.\n• Involucra a varias instancias educativas dentro del ITCR y sus funciones específicas.\n• Incluye criterios de autenticidad para los documentos presentados por los solicitantes.\n• Propone mecanismos para la verificación de la documentación de grados y títulos.",
+      "source_name": "macastro",
+      "source_url": "http://www.tec.ac.cr/reglamento-reconocimiento-equiparacion-grados-titulos-instituto-tecnologico-costa-rica",
+      "publish_date": "2026-08-23T21:58:53.000Z",
+      "teaser": "Lo clave en 20 segundos: Nuevo reglamento sobre reconocimiento de títulos en Costa Rica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "Reglamento para el reconocimiento y equiparación de grados y títulos académicos en el Instituto Tecnológico de Costa Rica.",
+      "featured": false
+    },
+    {
+      "slug": "clave-fiscal-de-multas-a-prision-asi-cambiarian-las-penas-por-fraude-fiscal-en-costa-rica-con-propuesta-de-ley",
+      "title": "Clave Fiscal: De multas a prisión, así cambiarían las penas por fraude fiscal en Costa Rica con propuesta de ley",
+      "category": "Costa Rica",
+      "bullets_20s": "• La nueva propuesta de ley busca redefinir las penalidades por fraude fiscal en el país.\n• Se propone que las multas se transformen en penas privativas de libertad para infractores.\n• Este cambio se enmarca en un esfuerzo mayor por reducir la evasión fiscal.\n• Expertos opinan que la ley podría disuadir a quienes cometen fraude fiscal.\n• Comparaciones con leyes similares en otros países destacan sus efectos disuasivos.",
+      "source_name": "Randall Oquendo",
+      "source_url": "https://www.nacion.com/economia/clave-fiscal-de-multas-a-prision-asi-cambiarian/XFF3R7344NENFFTFLYZGYIX4R4/story/",
+      "publish_date": "2026-08-23T21:52:49.000Z",
+      "teaser": "Lo clave en 20 segundos: La propuesta de ley busca cambiar multas por prisión en casos de fraude fiscal.",
+      "image_url": "https://www.nacion.com/resizer/v2/LEYYMVI3YJC4JNPXADIJNOI4HQ.jpg?auth=f23d3e685f253f1bf17c718f2f8b6c11188122190357eef3e62687233beb2f56&smart=true&width=410&height=307",
+      "description": "Conozca cómo el proyecto de ley N.° 25.650 redefinirá las penas por fraude fiscal en Costa Rica",
+      "featured": false
+    },
+    {
+      "slug": "reglamento-de-seguridad-y-vigilancia-del-instituto-tecnologico-de-costa-rica",
+      "title": "Reglamento de Seguridad y Vigilancia del Instituto Tecnológico de Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• El reglamento es de carácter general y aplicable a toda la comunidad del ITCR.\n• Regula las funciones, responsabilidades y sanciones en seguridad institucional.\n• Se prioriza la promoción de una cultura de seguridad integral en los campus.\n• Incorpora principios de respeto a los derechos humanos y libertad de expresión.\n• Establece protocolos para la prevención de delitos y gestión de incidentes.",
+      "source_name": "macastro",
+      "source_url": "http://www.tec.ac.cr/reglamento-seguridad-vigilancia-instituto-tecnologico-costa-rica",
+      "publish_date": "2026-08-23T21:36:42.000Z",
+      "teaser": "Lo clave en 20 segundos: Reglamento establece seguridad en el ITCR.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
+      "description": "Reglamento que establece directrices sobre seguridad y vigilancia en el ITCR.",
+      "featured": false
+    },
+    {
       "slug": "trump-culmina-los-festejos-por-aniversario-de-estados-unidos-con-carrera-de-indycar-en-washington",
       "title": "Trump culmina los festejos por aniversario de Estados Unidos con carrera de IndyCar en Washington",
       "category": "Mundo",
@@ -82,11 +147,11 @@
       "slug": "por-que-es-tan-complicado-demostrar-si-el-ayuno-intermitente-es-efectivo",
       "title": "Por qué es tan complicado demostrar si el ayuno intermitente es efectivo",
       "category": "Ciencia",
-      "bullets_20s": "• El ayuno intermitente ha ganado popularidad en los últimos años entre quienes buscan perder peso.\n• La ciencia detrás de los beneficios del ayuno intermitente es aún objeto de investigaciones.\n• Estudios realizados en animales no siempre se aplican directamente a los humanos.\n• La variabilidad entre los hábitos alimentarios de las personas complica la investigación.\n• Faltan datos fiables y completos sobre los efectos a largo plazo del ayuno intermitente.",
+      "bullets_20s": "• El ayuno intermitente ha ganado popularidad por sus posibles beneficios para la salud.\n• Existen muchos estudios contradictorios sobre la efectividad del ayuno intermitente.\n• Los hábitos alimentarios variados dificultan la obtención de datos fiables sobre el ayuno.\n• Algunos estudios se basan en ensayos con animales, lo que puede no reflejar a los humanos.\n• La falta de consenso científico crea confusiones sobre las recomendaciones alimentarias.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c70gde8p6k8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-23T18:26:53.000Z",
-      "teaser": "Lo clave en 20 segundos: La ciencia detrás del ayuno intermitente presenta muchas variables y desafíos.",
+      "teaser": "Lo clave en 20 segundos: La efectividad del ayuno intermitente es debatida por falta de datos concluyentes.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/fa94/live/0b888d50-9a47-11f1-aed2-8d6da8d75094.jpg",
       "description": "La falta de información fiable acerca de los hábitos alimentarios reales de las personas, así como el hecho de que muchos de los estudios actuales se hayan realizado en animales, como los ratones, son algunas de las explicaciones que señalan los científicos.",
       "featured": false
@@ -381,11 +446,11 @@
       "slug": "el-estado-de-bienestar-en-un-edificio-por-que-son-tan-importantes-las-bibliotecas-en-finlandia-y-no-solo-para-prestar-li",
       "title": "El Estado de bienestar en un edificio: por qué son tan importantes las bibliotecas en Finlandia (y no solo para prestar libros)",
       "category": "Mundo",
-      "bullets_20s": "• Las bibliotecas en Finlandia son un pilar fundamental para el bienestar social de sus ciudadanos.\n• No solo se prestan libros, sino que se promueve la inclusión y el acceso a la cultura.\n• Espacios comunitarios donde se realizan actividades educativas y culturales de gran relevancia.\n• Facilitan el acceso a información y recursos tecnológicos para todas las edades.\n• Fomentan la convivencia y el sentido de pertenencia entre los habitantes de la ciudad.",
+      "bullets_20s": "• Las bibliotecas en Finlandia son espacios clave para fortalecer la cohesión social y el bienestar comunitario.\n• Funcionan como centros de encuentro cultural, promoviendo actividades y eventos para toda la población.\n• No solo prestan libros, sino que ofrecen recursos y talleres para el desarrollo personal y profesional.\n• Se valora su papel en la educación continua, facilitando acceso a información y tecnología moderna.\n• Las bibliotecas fomentan el uso de medios digitales y la alfabetización mediática entre sus usuarios.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cj3gly8jkr2o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-23T08:36:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Las bibliotecas en Finlandia son vitales para la cohesión social, más allá de prestar libros.",
+      "teaser": "Lo clave en 20 segundos: Las bibliotecas en Finlandia son esenciales para la sociedad, más allá de los libros.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0eb2/live/2b2f66b0-6e28-11f1-9fdc-51e252bb92b4.jpg",
       "description": "En Finlandia, las bibliotecas se valoran cada vez más no por la cantidad de libros que prestan, sino por cómo contribuyen al funcionamiento de la sociedad.",
       "featured": false
@@ -600,15 +665,15 @@
     },
     {
       "slug": "el-misterio-de-botas-verdes-los-esfuerzos-por-recuperar-el-cuerpo-de-un-escalador-congelado-en-el-everest-desde-hace-30-",
-      "title": "El misterio de \"Botas Verdes\": los esfuerzos por recuperar el cuerpo de un escalador congelado en el Everest desde hace 30 años",
+      "title": "El misterio de 'Botas Verdes': los esfuerzos por recuperar el cuerpo de un escalador congelado en el Everest desde hace 30 años",
       "category": "Mundo",
-      "bullets_20s": "• Un escalador congelado en el Everest ha sido un enigma durante tres décadas.\n• La recuperación de 'Botas Verdes' busca dar cierre a su familia afectada.\n• Las condiciones en el Everest complican las misiones de recuperación de cuerpos.\n• Equipos de escaladores enfrentan grandes desafíos para recuperar restos humanos.\n• La historia de 'Botas Verdes' ha llamado la atención de medios internacionales.",
+      "bullets_20s": "• El misterioso caso de 'Botas Verdes' ha intrigado a escaladores y alpinistas por tres décadas.\n• Los esfuerzos recientes buscan recuperar el cuerpo congelado para dar cierre a su familia.\n• India ha tomado la iniciativa para recuperar los restos en una operación compleja.\n• El Monte Everest es conocido por sus difíciles condiciones y misterios conmovedores.\n• La búsqueda plantea preguntas sobre la ética y las dificultades de la recuperación en altitudes extremas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c62v4p573p5o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-22T19:36:24.000Z",
-      "teaser": "Lo clave en 20 segundos: India intenta recuperar el cuerpo de un escalador en el Everest tras 30 años.",
+      "teaser": "Lo clave en 20 segundos: esfuerzos por recuperar el cuerpo de un escalador en el Everest tras 30 años.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3b6d/live/3afdfba0-86a7-11f1-a0b6-435e4178a497.jpg",
-      "description": "Durante 30 años, un cadáver conocido como \"Botas Verdes\" ha permanecido en la ladera del Monte Everest. Ahora, India busca recuperar os restos y brindar a su familia un cierre a este doloroso suceso.",
+      "description": "Durante 30 años, un cadáver conocido como 'Botas Verdes' ha permanecido en la ladera del Monte Everest. Ahora, India busca recuperar os restos y brindar a su familia un cierre a este doloroso suceso.",
       "featured": false
     },
     {
@@ -81953,8 +82018,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-23T21:45:25.121Z",
-  "total": 6304,
+  "generated_at": "2026-08-23T22:45:25.061Z",
+  "total": 6309,
   "removed_soccer_news_count": 1096,
   "removed_soccer_news_titles": [
     "El Manchester City de Maresca arranca la Premier League con victoria",
