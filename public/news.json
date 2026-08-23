@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "zelenski-reitera-que-ucrania-no-estuvo-involucrada-en-ataque-contra-los-gasoductos-nord-stream",
+      "title": "Zelenski reitera que Ucrania no estuvo involucrada en ataque contra los gasoductos Nord Stream",
+      "category": "Mundo",
+      "bullets_20s": "• Zelenski afirmó que Ucrania no tuvo participación en el ataque a los gasoductos Nord Stream.\n• El conflicto sigue generando tensiones internacionales y opiniones encontradas sobre su origen.\n• La fiscalía alemana presentó acusaciones recientes sobre responsabilidades en el sabotaje.\n• Los gasoductos Nord Stream son clave en el suministro de gas a Europa.\n• La situación energética en Europa se ve afectada por este tipo de incidentes.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/zelenski-reitera-que-ucrania-no-estuvo-involucrada/QOYOOODHERBO5H7FJTNRAJLGJA/story/",
+      "publish_date": "2026-08-23T17:58:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Zelenski defiende a Ucrania frente a acusaciones sobre el sabotaje de Nord Stream.",
+      "image_url": "https://www.nacion.com/resizer/v2/SISXQLDMQNCX3LRQMQB54Q44OQ.jpg?auth=c80d71c8f250fbb09b9781328e162006dc75d2e07218bcb8257f39092949687d&smart=true&width=4173&height=2694",
+      "description": "La fiscalía alemana afirmó el mes pasado que las autoridades ucranianas ordenaron el sabotaje",
+      "featured": false
+    },
+    {
       "slug": "debilidades-en-programas-de-equidad-del-mep-ponen-en-riesgo-que-estudiantes-en-vulnerabilidad-accedan-a-alimentacion-y-o",
       "title": "Debilidades en programas de equidad del MEP ponen en riesgo que estudiantes en vulnerabilidad accedan a alimentación y otros servicios",
       "category": "Costa Rica",
@@ -37,6 +50,19 @@
       "teaser": "Lo clave en 20 segundos: eventos culturales destacados en Costa Rica esta semana.",
       "image_url": "https://www.nacion.com/resizer/v2/JKJ5M7PXWNGW7DMLF2N3I6AH7E.jpg?auth=ce5bca1385f571420216275f73a4a750846d1c1f10ec35fe8695ac65f9b25040&smart=true&width=3184&height=1344",
       "description": "No se pierda la agenda cultural de esta semana que incluye cortometrajes, libros y danza",
+      "featured": false
+    },
+    {
+      "slug": "a-zelensky-se-le-deberia-preguntar-que-sabe-de-la-corrupcion-dentro-de-su-gobierno-dice-el-exministro-que-destituyo-el-p",
+      "title": "A Zelensky se le debería preguntar qué sabe de la corrupción dentro de su gobierno, dice el exministro que destituyó el presidente de Ucrania",
+      "category": "Mundo",
+      "bullets_20s": "• Mykhailo Fedorov critica la gestión de Zelensky en la lucha contra la corrupción en Ucrania.\n• Se cuestiona la transparencia del gobierno ucraniano en momentos de conflicto bélico.\n• Fedorov pide la celebración de elecciones, a pesar de las adversidades actuales en el país.\n• La corrupción en tiempos de guerra puede afectar la confianza del pueblo en el gobierno.\n• La comunidad internacional observa la situación política de Ucrania con gran interés.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c4gwgy97w12o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-23T16:23:45.000Z",
+      "teaser": "Lo clave en 20 segundos: Fedorov cuestiona corrupción y elecciones en Ucrania durante la guerra.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
+      "description": "Mykhailo Fedorov también ha pedido que se celebren elecciones en tiempos de guerra en Ucrania.",
       "featured": false
     },
     {
@@ -264,11 +290,11 @@
       "slug": "el-estado-de-bienestar-en-un-edificio-por-que-son-tan-importantes-las-bibliotecas-en-finlandia-y-no-solo-para-prestar-li",
       "title": "El Estado de bienestar en un edificio: por qué son tan importantes las bibliotecas en Finlandia (y no solo para prestar libros)",
       "category": "Mundo",
-      "bullets_20s": "• Las bibliotecas en Finlandia son esenciales para la cohesión social y el bienestar comunitario.\n• Se enfocan en ofrecer espacios de encuentro y recursos para diversos públicos.\n• El éxito de las bibliotecas depende de su capacidad de adaptación a las necesidades sociales.\n• Las bibliotecas modernas fomentan la educación continua y el acceso a la información.\n• Son lugares donde se realizan actividades culturales y programas para todas las edades.",
+      "bullets_20s": "• Las bibliotecas en Finlandia han evolucionado para convertirse en centros comunitarios clave.\n• No solo prestan libros, sino que también ofrecen espacios para actividades sociales.\n• Promueven la educación y el aprendizaje continuo en diversas áreas del conocimiento.\n• Actúan como puntos de acceso a recursos digitales y tecnología moderna.\n• Fomentan la inclusión social y el acceso igualitario a la información.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cj3gly8jkr2o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-23T08:36:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Las bibliotecas son vitales para la comunidad en Finlandia más allá de prestar libros.",
+      "teaser": "Lo clave en 20 segundos: Las bibliotecas en Finlandia son vitales para la cohesión social y el bienestar comunitario.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0eb2/live/2b2f66b0-6e28-11f1-9fdc-51e252bb92b4.jpg",
       "description": "En Finlandia, las bibliotecas se valoran cada vez más no por la cantidad de libros que prestan, sino por cómo contribuyen al funcionamiento de la sociedad.",
       "featured": false
@@ -483,15 +509,15 @@
     },
     {
       "slug": "el-misterio-de-botas-verdes-los-esfuerzos-por-recuperar-el-cuerpo-de-un-escalador-congelado-en-el-everest-desde-hace-30-",
-      "title": "El misterio de \"Botas Verdes\": los esfuerzos por recuperar el cuerpo de un escalador congelado en el Everest desde hace 30 años",
+      "title": "El misterio de 'Botas Verdes': los esfuerzos por recuperar el cuerpo de un escalador congelado en el Everest desde hace 30 años",
       "category": "Mundo",
-      "bullets_20s": "• El cuerpo de 'Botas Verdes' ha estado congelado en el Everest durante tres décadas.\n• India inicia una misión para recuperar los restos del escalador perdido y dar cierre.\n• El caso llama la atención sobre los desafíos de escalar montañas extremadamente frías.\n• Familia del escalador espera el regreso del cuerpo para honrar su memoria y duelo.\n• La recuperación de cuerpos en el Everest es un proceso difícil y peligroso para los rescatistas.",
+      "bullets_20s": "• La búsqueda de 'Botas Verdes' se ha vuelto un símbolo de esperanza para muchos.\n• El Monte Everest es conocido por sus desafiantes condiciones climáticas y geográficas.\n• Recuperar el cuerpo podría dar cierre a la familia del escalador desaparecido.\n• La historia de 'Botas Verdes' ha captado la atención de escaladores y medios.\n• Los esfuerzos de recuperación involucran a expertos en escalada y equipos de rescate.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c62v4p573p5o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-22T19:36:24.000Z",
-      "teaser": "Lo clave en 20 segundos: India busca recuperar los restos de un escalador congelado en el Everest.",
+      "teaser": "Lo clave en 20 segundos: una búsqueda para dar cierre tras 30 años de inactividad.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3b6d/live/3afdfba0-86a7-11f1-a0b6-435e4178a497.jpg",
-      "description": "Durante 30 años, un cadáver conocido como \"Botas Verdes\" ha permanecido en la ladera del Monte Everest. Ahora, India busca recuperar os restos y brindar a su familia un cierre a este doloroso suceso.",
+      "description": "Durante 30 años, un cadáver conocido como 'Botas Verdes' ha permanecido en la ladera del Monte Everest. Ahora, India busca recuperar os restos y brindar a su familia un cierre a este doloroso suceso.",
       "featured": false
     },
     {
@@ -81836,9 +81862,9 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-23T17:45:24.774Z",
-  "total": 6295,
-  "removed_soccer_news_count": 1095,
+  "generated_at": "2026-08-23T18:45:24.133Z",
+  "total": 6297,
+  "removed_soccer_news_count": 1096,
   "removed_soccer_news_titles": [
     "El Manchester City de Maresca arranca la Premier League con victoria",
     "Cartaginés asusta con su ofensiva y golea a Escorpiones",
