@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "asesinan-a-hombre-dentro-de-bar-en-el-paseo-de-los-turistas-oij-reporta-otros-dos-homicidios-durante-la-noche",
+      "title": "Asesinan a hombre dentro de bar en el Paseo de los Turistas; OIJ reporta otros dos homicidios durante la noche",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un hombre fue asesinado en el Paseo de los Turistas dentro de un bar este fin de semana.\n• OIJ reporta otros homicidios en distintas zonas de Costa Rica durante la misma noche.\n• Los ataques violentos han generado preocupación en la comunidad y autoridades locales.\n• La Policía investiga las circunstancias y posibles motivos detrás de estos crímenes.\n• La violencia en el país ha ido en aumento en los últimos años, afectando a varias regiones.",
+      "source_name": "Natalia Vargas",
+      "source_url": "https://www.nacion.com/sucesos/asesinan-a-hombre-dentro-de-bar-en-el-paseo-de-los/PSBK5YVAXNCL7LUHMHZ4LLPLW4/story/",
+      "publish_date": "2026-08-23T15:16:55.000Z",
+      "teaser": "Lo clave en 20 segundos: Tres homicidios ocurren en una sola noche en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/XWQ3CY2X3RFVHDISXMC2QUUUGM.JPG?auth=b6f1b8b5bd6fc4db9e7c77aa0e80fe06b50c2076b1d74147bf70396839e1e54f&smart=true&width=2592&height=1728",
+      "description": "Tres hombres fueron asesinados y tres más heridos entre la noche del sábado y la madrugada de este domingo en Puntarenas, Cartago y Alajuelita.",
+      "featured": false
+    },
+    {
+      "slug": "gobierno-de-trump-advierte-a-canada-por-efecto-devastador-de-una-guerra-comercial",
+      "title": "Gobierno de Trump advierte a Canadá por efecto ‘devastador’ de una guerra comercial",
+      "category": "Mundo",
+      "bullets_20s": "• El secretario de Transporte de EE. UU. comparte su visión sobre la posible guerra comercial.\n• Canadá podría enfrentar serias consecuencias económicas en caso de conflicto.\n• Las advertencias apuntan a un impacto negativo en el comercio bilateral.\n• Ambos países dependen profundamente de sus relaciones comerciales.\n• Las tensiones globales afectan a las decisiones comerciales de las naciones.\n• Se espera un análisis más profundo sobre el impacto económico de este conflicto.\n• La administración Trump se muestra preocupada por el futuro económico de Canadá.\n• La guerra comercial podría llevar a cambios significativos en las políticas comerciales.\n• Las declaraciones oficiales buscan alertar sobre la importancia de la cooperación.\n• Ambos gobiernos buscan soluciones para evitar un conflicto prolongado.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/gobierno-de-trump-advierte-a-canada-por-efecto/255TL6TGU5AJ3HIHPDGUCSEBFE/story/",
+      "publish_date": "2026-08-23T14:40:41.000Z",
+      "teaser": "Lo clave en 20 segundos: Estados Unidos advierte a Canadá sobre las consecuencias de una guerra comercial.",
+      "image_url": "https://www.nacion.com/resizer/v2/BEPA42GAAZER7FPLZF4TCZ3REM.jpg?auth=9d202e06b7c8eb692c7a1935ed63319b1d319793b89a39318bd768e73846e719&smart=true&width=6000&height=4000",
+      "description": "El secretario de Transporte de Estados Unidos, Sean Duffy, afirmó que Canadá saldría perdiendo si se decidiera por una guerra comercial",
+      "featured": false
+    },
+    {
       "slug": "alibaba-planea-emitir-10200-millones-en-acciones-para-financiar-su-plan-de-ia",
       "title": "Alibaba planea emitir $10.200 millones en acciones para financiar su plan de IA",
       "category": "Mundo",
-      "bullets_20s": "• Alibaba busca financiar su ambicioso desarrollo en inteligencia artificial con nueva emisión de acciones.\n• La estrategia pretende atraer más inversiones y generar un impacto positivo en el mercado.\n• Accionistas de Alibaba están expectantes ante las posibilidades de retorno sobre las inversiones.\n• Inversiones en IA podrían transformar el modelo de negocio de Alibaba a largo plazo.\n• La decisión de emitir acciones es un movimiento clave en el sector tecnológico global.",
+      "bullets_20s": "• Alibaba está buscando capital para potenciar su desarrollo en inteligencia artificial y tecnologías relacionadas.\n• La emisión de acciones busca atraer a inversionistas interesados en el crecimiento empresarial a largo plazo.\n• El mercado chino enfrenta desafíos económicos, lo que ha llevado a Alibaba a diversificar sus inversiones.\n• AI continúa siendo un área clave para las empresas tecnológicas en el contexto global actual.\n• Accionistas de Alibaba están atentos a cómo esos fondos impactarán en el rendimiento financiero de la empresa.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/economia/alibaba-planea-emitir-10200-millones-en-acciones/T6OBH42GDZBQJII3O2I4W6AOWA/story/",
       "publish_date": "2026-08-23T14:25:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Alibaba se apoya en emisión de acciones para potenciar su plan en inteligencia artificial.",
+      "teaser": "Lo clave en 20 segundos: Alibaba busca financiar su plan de IA con una emisión masiva de acciones.",
       "image_url": "https://www.nacion.com/resizer/v2/HPG24VGSHVF6BPOTZZBE7I2EXM.jpg?auth=7d925cd31603fcf291e26e7a2180ede7f4565a13aa25d13dace1b6c602bbabe3&smart=true&width=8120&height=5413",
       "description": "Sus accionistas están ansiosos por ver cómo estas enormes inversiones se traducirán en beneficios monetarios concretos",
       "featured": false
@@ -134,13 +160,13 @@
       "slug": "quien-fue-john-ponsonby-el-diplomatico-britanico-que-intercedio-para-la-creacion-de-uruguay-y-belgica",
       "title": "Quién fue John Ponsonby, el diplomático británico que intercedió para la 'creación' de Uruguay y Bélgica",
       "category": "Mundo",
-      "bullets_20s": "• John Ponsonby fue un destacado diplomático británico con un papel clave en la historia de Uruguay.\n• Su habilidad en la diplomacia le ganó notoriedad y éxito en América y Europa.\n• Ponsonby promovió los intereses del Imperio Británico durante su carrera diplomática.\n• Su mediación en la creación de Bélgica tuvo un impacto importante en la política europea.\n• Su legado sigue presente en las relaciones diplomáticas actuales de Europa y América.",
+      "bullets_20s": "• John Ponsonby fue un diplomático británico clave en el siglo XIX en América y Europa.\n• Su habilidad para la negociación ayudó a definir fronteras y relaciones internacionales.\n• Conocido como 'esgrimista oral', su encanto y habilidad eran notables en las negociaciones.\n• Intervino en la creación de países como Uruguay y Bélgica, influyendo así en la historia.\n• Su legado es recordado en la historia de relaciones exteriores de Gran Bretaña.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c9qdp7gn45po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-23T11:27:05.000Z",
-      "teaser": "Lo clave en 20 segundos: Un diplomático que influyó en la historia de Uruguay y Bélgica.",
+      "teaser": "Lo clave en 20 segundos: Diplomático británico influyente en la creación de Uruguay y Bélgica.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/e991/live/41b3b8d0-3527-11f1-9326-a3323c9c7aa2.jpg",
-      "description": "Definido como un \"esgrimista oral\" y gran seductor, este lord de origen irlandés medió en América y Europa para que los intereses de Londres triunfaran.",
+      "description": "Definido como un 'esgrimista oral' y gran seductor, este lord de origen irlandés medió en América y Europa para que los intereses de Londres triunfaran.",
       "featured": false
     },
     {
@@ -186,11 +212,11 @@
       "slug": "el-estado-de-bienestar-en-un-edificio-por-que-son-tan-importantes-las-bibliotecas-en-finlandia-y-no-solo-para-prestar-li",
       "title": "El Estado de bienestar en un edificio: por qué son tan importantes las bibliotecas en Finlandia (y no solo para prestar libros)",
       "category": "Mundo",
-      "bullets_20s": "• Las bibliotecas en Finlandia son centros comunitarios clave que van más allá del préstamo de libros.\n• Se valoran por ofrecer servicios que fomentan la cohesión social y el aprendizaje permanente.\n• Estos espacios promueven actividades culturales y eventos que benefician a la comunidad.\n• Las bibliotecas también sirven como lugares de encuentro y redes de apoyo para ciudadanos.\n• El modelo finlandés de bibliotecas puede servir de ejemplo para otros países en desarrollo.",
+      "bullets_20s": "• Las bibliotecas en Finlandia juegan un papel crucial en la cohesión social y el bienestar comunitario.\n• Aportan espacios de encuentro y aprendizaje, más allá de su función tradicional de préstamo de libros.\n• Facilitan programas culturales y educativos que benefician a diversas poblaciones.\n• Fomentan la lectura y el acceso a la información, fundamental en la era digital actual.\n• Las bibliotecas se adaptan a las nuevas necesidades de la sociedad moderna, ofreciendo recursos variados.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cj3gly8jkr2o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-23T08:36:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Las bibliotecas en Finlandia son vitales para el bienestar social y cultural de sus comunidades.",
+      "teaser": "Lo clave en 20 segundos: Las bibliotecas en Finlandia son vitales para la cohesión y el bienestar social.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0eb2/live/2b2f66b0-6e28-11f1-9fdc-51e252bb92b4.jpg",
       "description": "En Finlandia, las bibliotecas se valoran cada vez más no por la cantidad de libros que prestan, sino por cómo contribuyen al funcionamiento de la sociedad.",
       "featured": false
@@ -303,11 +329,11 @@
       "slug": "una-jueza-anula-la-prohibicion-de-visados-de-eeuu-a-ciudadanos-de-75-paises-entre-ellos-colombia-uruguay-y-cuba",
       "title": "Una jueza anula la prohibición de visados de EE.UU. a ciudadanos de 75 países, entre ellos Colombia, Uruguay y Cuba",
       "category": "Mundo",
-      "bullets_20s": "• Una jueza anula prohibición de visados que afectaba a 75 países de forma significativa.\n• La decisión fue tomada por considerar la medida contraria a la ley federal estadounidense.\n• Ciudades de Colombia, Uruguay y Cuba se encuentran entre los beneficiados por la anulación.\n• El impacto de este fallo podría alterar las políticas migratorias actuales de EE.UU.\n• La jueza Jeannette Vargas ha marcado un precedente con su resolución sobre el tema.",
+      "bullets_20s": "• La decisión de la jueza podría afectar a miles de ciudadanos en diversos países.\n• Vargas argumentó que la prohibición era inconstitucional y contraria a derechos fundamentales.\n• La medida había sido implementada por la administración anterior de EE.UU.\n• Se espera que esta anulación genere reacciones en la política migratoria estadounidense.\n• Los países afectados incluyen una mezcla de naciones en América Latina y otras regiones.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cp3r3nn6nnxo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-22T22:26:43.000Z",
-      "teaser": "Lo clave en 20 segundos: una jueza de EE.UU. revoca la prohibición de visados para 75 países.",
+      "teaser": "Lo clave en 20 segundos: Una jueza anula la prohibición de visados de EE.UU. a 75 países.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/206e/live/27804a30-9e74-11f1-a1ec-d5694c4b50a6.jpg",
       "description": "La jueza federal Jeannette Vargas dejó sin efecto la medida al considerar que era contraria a la ley federal.",
       "featured": false
@@ -407,11 +433,11 @@
       "slug": "el-misterio-de-botas-verdes-los-esfuerzos-por-recuperar-el-cuerpo-de-un-escalador-congelado-en-el-everest-desde-hace-30-",
       "title": "El misterio de \"Botas Verdes\": los esfuerzos por recuperar el cuerpo de un escalador congelado en el Everest desde hace 30 años",
       "category": "Mundo",
-      "bullets_20s": "• Un escalador conocido como \"Botas Verdes\" ha permanecido congelado en el Everest por tres décadas.\n• India está organizando una misión para recuperar los restos congelados en la montaña.\n• La recuperación de Botas Verdes busca brindar cierre a la familia del escalador desaparecido.\n• El Monte Everest es famoso por sus difíciles condiciones de escalada y rescate.\n• Este caso pone de relieve los riesgos asociados con el alpinismo en altitudes extremas.",
+      "bullets_20s": "• El cuerpo de \"Botas Verdes\" ha sido un enigma en la ladera del Everest desde hace décadas.\n• La búsqueda de un cierre para la familia del escalador ha generado gran interés internacional.\n• Los esfuerzos por recuperar el cuerpo incluyen tecnología avanzada y un operativo bien planificado.\n• El Everest es famoso por sus desafiantes condiciones climáticas y geográficas.\n• Este caso plantea preguntas sobre la ética en la recuperación de cuerpos en montañas.\n• Se han documentado numerosas historias sobre escaladores que perdieron la vida en el Everest.\n• El interés en esta historia muestra la conexión emocional con los alpinistas desaparecidos.\n• India ha tomado la iniciativa para liderar la operación de recuperación del cuerpo congelado.\n• La historia de \"Botas Verdes\" ha capturado la atención de los medios de comunicación alrededor del mundo.\n• Las condiciones extremas en el Everest complican las misiones de recuperación de este tipo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c62v4p573p5o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-22T19:36:24.000Z",
-      "teaser": "Lo clave en 20 segundos: India intenta recuperar el cuerpo de un escalador congelado en el Everest desde hace 30 años.",
+      "teaser": "Lo clave en 20 segundos: Búsqueda del cuerpo de un escalador congelado en el Everest tras 30 años.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3b6d/live/3afdfba0-86a7-11f1-a0b6-435e4178a497.jpg",
       "description": "Durante 30 años, un cadáver conocido como \"Botas Verdes\" ha permanecido en la ladera del Monte Everest. Ahora, India busca recuperar os restos y brindar a su familia un cierre a este doloroso suceso.",
       "featured": false
@@ -81758,8 +81784,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-23T14:45:24.291Z",
-  "total": 6289,
+  "generated_at": "2026-08-23T15:45:25.298Z",
+  "total": 6291,
   "removed_soccer_news_count": 1094,
   "removed_soccer_news_titles": [
     "Cartaginés asusta con su ofensiva y golea a Escorpiones",
