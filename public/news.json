@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "trump-culmina-los-festejos-por-aniversario-de-estados-unidos-con-carrera-de-indycar-en-washington",
+      "title": "Trump culmina los festejos por aniversario de Estados Unidos con carrera de IndyCar en Washington",
+      "category": "Mundo",
+      "bullets_20s": "• La carrera de IndyCar marcó el cierre de las celebraciones por la independencia estadounidense.\n• Trump participó en el evento y mostró su apoyo a los deportes de motor.\n• La Declaración de Independencia cumple 250 años, un hito conmemorativo en Estados Unidos.\n• Kyle Kirkwood, el piloto local, se coronó campeón en esta emocionante competencia.\n• El evento atrajo a miles de espectadores en la capital estadounidense.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/trump-culmina-los-festejos-por-aniversario-de/USF4NT4RSNCYBJWG67RCPWUWH4/story/",
+      "publish_date": "2026-08-23T21:23:58.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump cierra festejos de Independencia con carrera de IndyCar en Washington.",
+      "image_url": "https://www.nacion.com/resizer/v2/MHZGR7TIKRBKTJIY6JDIOAZKJ4.jpg?auth=b50de3a92c960bf8351edf6c3fbfa38a165bc33fad0973ad3361ea9a7e25b2fa&smart=true&width=7250&height=4713",
+      "description": "La prueba fue el broche final a los festejos por el 250 aniversario de la Declaración de Independencia estadounidense y tuvo un ganador local, Kyle Kirkwood.",
+      "featured": false
+    },
+    {
+      "slug": "detienen-con-fusil-ar-15-a-cuatro-sospechosos-de-disparar-contra-bar-en-el-centro-de-san-jose",
+      "title": "Detienen con fusil AR-15 a cuatro sospechosos de disparar contra bar en el centro de San José",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Fuerza Pública detuvo a cuatro individuos en el centro de San José.\n• Se utilizaron fusiles AR-15 en el ataque contra un bar local.\n• El tiroteo ocurrió justo un día después de un homicidio en la zona.\n• Las autoridades están investigando la conexión entre los hechos.\n• Este tipo de violencia genera preocupación en la comunidad costarricense.",
+      "source_name": "Natalia Vargas",
+      "source_url": "https://www.nacion.com/sucesos/detienen-con-fusil-ar-15-a-cuatro-sospechosos-de/NZAHYNDBONFTRN3JFQVV4ENHLY/story/",
+      "publish_date": "2026-08-23T21:11:33.000Z",
+      "teaser": "Lo clave en 20 segundos: cuatro sospechosos detenidos tras ataque en bar en San José.",
+      "image_url": "https://www.nacion.com/resizer/v2/YEY3HU3R5NBX7N5GV4VZRWHQSE.png?auth=aa6afbb3c699854449ee5487ba8d69732be77bf6b188cd3dffe066fb62d1a74e&smart=true&width=1200&height=628",
+      "description": "Oficiales de la Fuerza Pública aprehendieron, la noche del domingo, a cuatro sujetos sospechosos de disparar contra un bar en el centro de San José, donde se reportó un homicidio un día antes.",
+      "featured": false
+    },
+    {
       "slug": "el-nino-de-2026-recuerda-los-historicos-episodios-de-1997-y-2015-cuan-preparada-esta-costa-rica-esta-vez",
       "title": "El Niño de 2026 recuerda los históricos episodios de 1997 y 2015: ¿Cuán preparada está Costa Rica esta vez?",
       "category": "Costa Rica",
@@ -56,11 +82,11 @@
       "slug": "por-que-es-tan-complicado-demostrar-si-el-ayuno-intermitente-es-efectivo",
       "title": "Por qué es tan complicado demostrar si el ayuno intermitente es efectivo",
       "category": "Ciencia",
-      "bullets_20s": "• El ayuno intermitente ha ganado popularidad en los últimos años como técnica de alimentación.\n• Existen diversas opiniones sobre su efectividad para perder peso y mejorar la salud.\n• Muchos estudios se han realizado en animales, lo que complica las conclusiones para humanos.\n• La falta de datos fiables sobre hábitos alimentarios de las personas es un gran desafío.\n• Las diferentes metodologías en estudios dificultan obtener resultados comparables y claros.",
+      "bullets_20s": "• El ayuno intermitente ha ganado popularidad en los últimos años entre quienes buscan perder peso.\n• La ciencia detrás de los beneficios del ayuno intermitente es aún objeto de investigaciones.\n• Estudios realizados en animales no siempre se aplican directamente a los humanos.\n• La variabilidad entre los hábitos alimentarios de las personas complica la investigación.\n• Faltan datos fiables y completos sobre los efectos a largo plazo del ayuno intermitente.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c70gde8p6k8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-23T18:26:53.000Z",
-      "teaser": "Lo clave en 20 segundos: el ayuno intermitente presenta retos en su estudio y evidencia.",
+      "teaser": "Lo clave en 20 segundos: La ciencia detrás del ayuno intermitente presenta muchas variables y desafíos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/fa94/live/0b888d50-9a47-11f1-aed2-8d6da8d75094.jpg",
       "description": "La falta de información fiable acerca de los hábitos alimentarios reales de las personas, así como el hecho de que muchos de los estudios actuales se hayan realizado en animales, como los ratones, son algunas de las explicaciones que señalan los científicos.",
       "featured": false
@@ -355,11 +381,11 @@
       "slug": "el-estado-de-bienestar-en-un-edificio-por-que-son-tan-importantes-las-bibliotecas-en-finlandia-y-no-solo-para-prestar-li",
       "title": "El Estado de bienestar en un edificio: por qué son tan importantes las bibliotecas en Finlandia (y no solo para prestar libros)",
       "category": "Mundo",
-      "bullets_20s": "• Las bibliotecas en Finlandia son centros comunitarios más que lugares para leer libros.\n• Se enfocan en crear un espacio de bienestar y convivencia entre ciudadanos.\n• Los servicios que ofrecen van más allá del préstamo de libros tradicionales.\n• Fomentan la inclusión social y el acceso a la cultura para todos.\n• Son espacios donde se desarrollan actividades comunitarias y educativas.",
+      "bullets_20s": "• Las bibliotecas en Finlandia son un pilar fundamental para el bienestar social de sus ciudadanos.\n• No solo se prestan libros, sino que se promueve la inclusión y el acceso a la cultura.\n• Espacios comunitarios donde se realizan actividades educativas y culturales de gran relevancia.\n• Facilitan el acceso a información y recursos tecnológicos para todas las edades.\n• Fomentan la convivencia y el sentido de pertenencia entre los habitantes de la ciudad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cj3gly8jkr2o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-23T08:36:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Las bibliotecas en Finlandia son esenciales para el bienestar comunitario.",
+      "teaser": "Lo clave en 20 segundos: Las bibliotecas en Finlandia son vitales para la cohesión social, más allá de prestar libros.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0eb2/live/2b2f66b0-6e28-11f1-9fdc-51e252bb92b4.jpg",
       "description": "En Finlandia, las bibliotecas se valoran cada vez más no por la cantidad de libros que prestan, sino por cómo contribuyen al funcionamiento de la sociedad.",
       "featured": false
@@ -576,11 +602,11 @@
       "slug": "el-misterio-de-botas-verdes-los-esfuerzos-por-recuperar-el-cuerpo-de-un-escalador-congelado-en-el-everest-desde-hace-30-",
       "title": "El misterio de \"Botas Verdes\": los esfuerzos por recuperar el cuerpo de un escalador congelado en el Everest desde hace 30 años",
       "category": "Mundo",
-      "bullets_20s": "• Los esfuerzos por recuperar el cuerpo de Botas Verdes se intensifican tras tres décadas.\n• El escalador permanece congelado en el Everest, generando misterio y curiosidad.\n• Familia del escalador busca un cierre emocional tras años de incertidumbre.\n• Las condiciones climáticas complican las labores de rescate en la montaña.\n• Los escaladores enfrentan riesgos significativos al intentar recuperar el cuerpo.\n• La historia de Botas Verdes se ha vuelto un símbolo de los peligros del Everest.",
+      "bullets_20s": "• Un escalador congelado en el Everest ha sido un enigma durante tres décadas.\n• La recuperación de 'Botas Verdes' busca dar cierre a su familia afectada.\n• Las condiciones en el Everest complican las misiones de recuperación de cuerpos.\n• Equipos de escaladores enfrentan grandes desafíos para recuperar restos humanos.\n• La historia de 'Botas Verdes' ha llamado la atención de medios internacionales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c62v4p573p5o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-22T19:36:24.000Z",
-      "teaser": "Lo clave en 20 segundos: India intensifica esfuerzos para recuperar el cuerpo de un escalador congelado en el Everest.",
+      "teaser": "Lo clave en 20 segundos: India intenta recuperar el cuerpo de un escalador en el Everest tras 30 años.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3b6d/live/3afdfba0-86a7-11f1-a0b6-435e4178a497.jpg",
       "description": "Durante 30 años, un cadáver conocido como \"Botas Verdes\" ha permanecido en la ladera del Monte Everest. Ahora, India busca recuperar os restos y brindar a su familia un cierre a este doloroso suceso.",
       "featured": false
@@ -81927,8 +81953,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-23T20:45:24.769Z",
-  "total": 6302,
+  "generated_at": "2026-08-23T21:45:25.121Z",
+  "total": 6304,
   "removed_soccer_news_count": 1096,
   "removed_soccer_news_titles": [
     "El Manchester City de Maresca arranca la Premier League con victoria",
