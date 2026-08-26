@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "un-oso-polar-curioso-una-ardilla-afortunada-y-otros-candidatos-al-premio-al-fotografo-de-vida-silvestre-del-ano",
+      "title": "Un oso polar curioso, una ardilla afortunada y otros candidatos al premio al Fotógrafo de Vida Silvestre del Año",
+      "category": "Mundo",
+      "bullets_20s": "• La premiación destaca las mejores fotografías de la vida silvestre a nivel mundial cada año.\n• El concurso es organizado por el Museo de Historia Natural de Londres, reconocido internacionalmente.\n• Las fotografías reflejan la belleza y la importancia de la conservación de la fauna.\n• Cada año, se recibe una gran cantidad de participantes de diferentes partes del mundo.\n• El oso polar de Rikardsen ha cautivado a los jueces por su singularidad y expresión.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c046pdk10d9o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-26T19:12:24.000Z",
+      "teaser": "Lo clave en 20 segundos: Fotografías impresionantes destacan la vida silvestre en concurso internacional.",
+      "image_url": "",
+      "description": "La fotografía del oso polar tomada por Audun Rikardsen figuró entre las obras que recibieron una mención honorífica en el concurso de este año organizado por el Museo de Historia Natural de Londres, en Reino Unido.",
+      "featured": false
+    },
+    {
       "slug": "barbero-de-la-carpio-a-juicio-por-balacera-que-provoco-perdida-de-un-ojo-a-nino-de-11-anos",
       "title": "Barbero de La Carpio a juicio por balacera que provocó pérdida de un ojo a niño de 11 años",
       "category": "Costa Rica",
-      "bullets_20s": "• La Carpio es una de las zonas más vulnerables de San José, afectada por la violencia.\n• Los grupos criminales han intensificado sus actividades en la última década.\n• El juicio del barbero podría sentar un precedente en casos similares en Costa Rica.\n• Los niños son a menudo las víctimas colaterales de la violencia de bandas criminales.\n• La pérdida del ojo del niño ha generado conmoción y indignación en la comunidad.",
+      "bullets_20s": "• La Carpio ha sido una zona afectada por la violencia y el crimen organizado en Costa Rica.\n• El juicio del barbero es relevante en el contexto de la violencia urbana en el país.\n• El caso ha conmocionado a la comunidad local y a toda la opinión pública.\n• Se espera que las autoridades tomen medidas contra la creciente violencia en estas áreas.\n• El incidente destaca la necesidad de atención a los problemas sociales y de seguridad.",
       "source_name": "Christian Montero",
       "source_url": "https://www.nacion.com/sucesos/barbero-de-la-carpio-a-juicio-por-balacera-que/D7BNT3UBJZC3VH32ADM2YOMB5I/story/",
       "publish_date": "2026-08-26T18:19:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Un niño perdió un ojo y un barbero será juzgado por este hecho violento.",
+      "teaser": "Lo clave en 20 segundos: Un barbero enfrenta juicio tras balacera que dejó a un niño sin un ojo.",
       "image_url": "https://www.nacion.com/resizer/v2/YGFVT7BMYRHRHAGGTQ4GAJBU2U.jpg?auth=62eb5a20e77cd63fb35293f73851221895c86cf7a4579d78fc0656872852dc3f&smart=true&width=4000&height=1800",
       "description": "Un niño de apenas 11 años pagó con uno de sus ojos el precio de la violencia que ejercen los principales grupos criminales de la ciudadela La Carpio, en el distrito de Uruca, San José. Por este caso un barbero de esa zona enfrentará un juicio la próxima semana.",
       "featured": false
@@ -407,11 +420,11 @@
       "slug": "la-pequena-ciudad-escocesa-que-busca-migrantes-para-frenar-la-caida-de-su-poblacion",
       "title": "La pequeña ciudad escocesa que busca migrantes para frenar la caída de su población",
       "category": "Mundo",
-      "bullets_20s": "• La ciudad escocesa de Greenock enfrenta un fuerte descenso de población en los últimos años.\n• Autoridades locales impulsan iniciativas para atraer inmigrantes y revitalizar la comunidad.\n• Greenock busca ofrecer incentivos a los migrantes que deseen establecerse en la localidad.\n• El declive demográfico causa preocupación por el futuro económico y social de la ciudad.\n• Las políticas migratorias pueden ser clave para el crecimiento y desarrollo de la región.",
+      "bullets_20s": "• Greenock, una ciudad escocesa, busca frenar la caída de su población con inmigrantes.\n• La iniciativa surgió debido a la disminución de habitantes en las últimas décadas.\n• La ciudad quiere crear un ambiente acogedor para nuevos residentes y familias.\n• Las autoridades locales han lanzado campañas para atraer a personas del extranjero.\n• Se espera que los inmigrantes contribuyan a la economía y cultura de Greenock.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ceqe400d82zo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-26T10:03:21.000Z",
-      "teaser": "Lo clave en 20 segundos: Greenock busca inmigrantes para su revitalización demográfica y económica.",
+      "teaser": "Lo clave en 20 segundos: Greenock busca inmigrantes para revertir su caída poblacional.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/305b/live/510d0290-9cca-11f1-b109-879e35c24276.jpg",
       "description": "Greenock quiere atraer inmigrantes para que se establezcan en la ciudad y revertir el descenso de su población.",
       "featured": false
@@ -433,11 +446,11 @@
       "slug": "editorial-tecnologica-acerca-la-ciencia-y-la-riqueza-natural-de-costa-rica-en-la-feria-internacional-del-libro",
       "title": "Editorial Tecnológica acerca la ciencia y la riqueza natural de Costa Rica en la Feria Internacional del Libro",
       "category": "Costa Rica",
-      "bullets_20s": "• La FILCR 2026 destaca publicaciones de biodiversidad y conservación en Costa Rica, atrayendo gran interés.\n• La Editorial Tecnológica ofrece un catálogo de libros académicos y especializados en su stand durante la feria.\n• Los visitantes buscan información sobre la riqueza natural costarricense, mostrando un fuerte interés por la fauna.\n• La participación del público en la feria fue alta, a pesar de las condiciones climáticas adversas como la lluvia.\n• Las presentaciones de libros permiten un acercamiento entre autores y lectores, enriqueciendo la experiencia.",
+      "bullets_20s": "• Durante la FILCR 2026, la Editorial Tecnológica presentó publicaciones sobre biodiversidad y conservación de Costa Rica.\n• Las publicaciones han atraído gran interés entre los visitantes del evento, destacando el valor de la naturaleza.\n• Se ofrecen libros académicos y especializados, incluyendo títulos sobre parques nacionales y fauna costarricense.\n• La participación de la Editorial Tecnológica fomenta el acercamiento del público a la ciencia y la naturaleza.\n• Los autores también tienen un espacio para presentar sus obras y conectar con los lectores.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/editorial-tecnologica-acerca-ciencia-riqueza-natural-costa-rica-feria-internacional-libro",
       "publish_date": "2026-08-26T03:35:37.000Z",
-      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica destaca en la FILCR 2026 con libros sobre ciencia y naturaleza.",
+      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica destaca la biodiversidad en la Feria Internacional del Libro.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/feria-internacional-del-libro-2026_antigua-aduana_san-jose_tec_gscott-02.JPG",
       "description": "Editorial Tecnológica acerca la ciencia y la riqueza natural de Costa Rica en la Feria Internacional del Libro",
       "featured": false
@@ -888,11 +901,11 @@
       "slug": "campus-san-carlos-fortalece-el-turismo-sostenible-mediante-monitoreo-de-aves",
       "title": "Campus San Carlos fortalece el turismo sostenible mediante monitoreo de aves",
       "category": "Costa Rica",
-      "bullets_20s": "• El Campus San Carlos desarrolla un programa de monitoreo participativo de aves en la Finca La Balsa.\n• El proyecto busca integrar la investigación biológica con el turismo sostenible y educación ambiental.\n• Más de 400 personas participaron en talleres y capacitaciones sobre avifauna y biodiversidad local.\n• Este trabajo colaboró con instituciones educativas como la UNED y programas de San Carlos y Cartago.\n• El proyecto fortalece capacidades locales para la conservación ecológica y el ecoturismo en la región.",
+      "bullets_20s": "• Investigación en avifauna impacta comunidades rurales en la Región Huetar Norte de Costa Rica.\n• Más de 420 personas participaron en talleres y capacitaciones sobre biodiversidad y aves.\n• Proyecto liderado por la Escuela de Agronomía buscó fomentar el turismo sostenible en la zona.\n• Se realizaron observaciones sistemáticas para analizar la conservación de especies de aves.\n• Dra. María Alejandra Maglianesi destacó la importancia de la educación ambiental en esta iniciativa.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/campus-san-carlos-fortalece-turismo-sostenible-monitoreo-aves",
       "publish_date": "2026-08-25T16:14:33.000Z",
-      "teaser": "Lo clave en 20 segundos: Monitoreo de aves al servicio del turismo sostenible en San Carlos.",
+      "teaser": "Lo clave en 20 segundos: Fomentan el turismo sostenible mediante el monitoreo de aves en San Carlos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/monitoreo-8.jpg",
       "description": "Campus San Carlos fortalece el turismo sostenible mediante monitoreo de aves",
       "featured": false
@@ -1356,11 +1369,11 @@
       "slug": "naturear-la-realidad-aumentada-se-suma-a-la-conservacion-para-promover-el-turismo-sostenible-y-el-desarrollo-economico",
       "title": "NatureAR: la realidad aumentada se suma a la conservación para promover el turismo sostenible y el desarrollo económico",
       "category": "Costa Rica",
-      "bullets_20s": "• NatureAR busca aumentar la visitación en parques nacionales utilizando tecnología de realidad aumentada.\n• La primera implementación se realizó en la Reserva Natural Montaña Sagrada, un área ecológica significativa.\n• El 6 de noviembre se lanzará la versión del Parque Nacional Volcán Arenal para visitantes.\n• Este proyecto involucra estudiantes y extensionistas del Tecnológico de Costa Rica para su desarrollo.\n• Los usuarios podrán interactuar y aprender sobre la biodiversidad del parque durante su visita.",
+      "bullets_20s": "• NatureAR busca promover la visitación en parques nacionales utilizando tecnologías inmersivas.\n• La primera implementación fue en la Reserva Natural Montaña Sagrada, destacando su riqueza ecológica.\n• La segunda versión de la app se lanzará en el Parque Nacional Volcán Arenal el 6 de noviembre.\n• El proyecto integra a estudiantes de turismo y computación para enriquecer experiencias en la naturaleza.\n• Con el uso de realidades aumentadas, se espera atraer a nuevos tipos de visitantes al ecoturismo.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/naturear-realidad-aumentada-se-suma-conservacion-promover-turismo-sostenible-desarrollo-economico",
       "publish_date": "2026-08-24T20:59:48.000Z",
-      "teaser": "Lo clave en 20 segundos: NatureAR utiliza AR para potenciar el turismo sostenible y la educación ambiental en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: NatureAR utiliza la realidad aumentada para promover el ecoturismo en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/nature_ar_pcentenoflores-26.jpg",
       "description": "NatureAR: la realidad aumentada se suma a la conservación para promover el turismo sostenible y el desarrollo económico",
       "featured": false
@@ -1512,7 +1525,7 @@
       "slug": "tec-se-suma-una-vez-mas-grand-gala-parade-2026",
       "title": "TEC se suma una vez más Grand Gala Parade 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica participará en el Festival de la Cultura Negra en 2026.\n• La actividad principal será el Grand Galá Parade, organizado por un comité cultural.\n• Se busca visibilizar la cultura y tradiciones afrocaribeñas en Costa Rica.\n• El desfile iniciará en Puerto Limón, partiendo del Parque Sito Esna.\n• Se espera una gran asistencia con estudiantes y funcionarios desfilando.",
+      "bullets_20s": "• El TEC participará en el Festival de la Cultura Negra con diversas actividades y eventos culturales.\n• La celebración busca visibilizar la cultura y tradiciones de la población afrocaribeña de Costa Rica.\n• El Grand Galá Parade se llevará a cabo el 31 de agosto, iniciando a las 11:30 a.m.\n• Esta actividad es organizada por la Asociación Comité Cívico Cultural Étnico Negro de Limón.\n• Se espera un recorrido tradicional que promueva el respeto y la diversidad cultural en el país.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-se-suma-vez-mas-grand-gala-parade-2026",
       "publish_date": "2026-08-24T17:50:21.000Z",
@@ -84098,10 +84111,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-26T18:45:24.731Z",
-  "total": 6469,
-  "removed_soccer_news_count": 1111,
+  "generated_at": "2026-08-26T19:45:24.202Z",
+  "total": 6470,
+  "removed_soccer_news_count": 1112,
   "removed_soccer_news_titles": [
+    "Así funciona el criterio de desempate de tarjetas que le dio a Cartaginés el primer lugar en la Copa Centroamericana",
     "Geancarlo Castro entra, desequilibra y le responde a Amarini Villatoro",
     "La UEFA podría levantar su amenaza de boicot a los torneos de FIFA",
     "Crisis en FIFA: otra federación europea retira su apoyo a Infantino",
@@ -84150,7 +84164,6 @@
     "Sporting madrugó a Escorpiones y se pone al acecho del Cartaginés",
     "Manfred Ugalde se reconcilia con el gol en la hora buena",
     "Unafut resuelve la polémica: este es el autor oficial del primer gol del campeonato",
-    "El número tres de la FIFA sale de la institución tras haberse opuesto a Infantino",
-    "Falleció exfutbolista del Cartaginés y tío de reconocido narrador deportivo"
+    "El número tres de la FIFA sale de la institución tras haberse opuesto a Infantino"
   ]
 }
