@@ -1,15 +1,41 @@
 {
   "news": [
     {
+      "slug": "canal-1-respalda-proyecto-para-actualizar-canones-de-radiodifusion-siempre-y-cuando-sea-equitativo-con-otras-industrias",
+      "title": "Canal 1 respalda proyecto para actualizar cánones de radiodifusión ‘siempre y cuando’ sea equitativo con otras industrias",
+      "category": "Costa Rica",
+      "bullets_20s": "• Canal 1 manifiesta su apoyo a proyectos de actualización de normas de radiodifusión en el país.\n• El objetivo es asegurar un tratamiento equitativo con otras industrias dentro del marco regulatorio.\n• La radiodifusión en Costa Rica busca modernizarse ante los cambios tecnológicos del sector.\n• Se espera un diálogo abierto entre las partes interesadas para favorecer a todos los involucrados.\n• El proyecto podría tener implicaciones importantes en la sostenibilidad de las emisoras locales.",
+      "source_name": "Marcela Rojas Hidalgo",
+      "source_url": "https://www.nacion.com/el-pais/canal-1-respalda-proyecto-para-actualizar-canones/HG54IZWJ45H7ZFOCSNC4JNSIBM/story/",
+      "publish_date": "2026-08-26T20:20:25.000Z",
+      "teaser": "Lo clave en 20 segundos: Canal 1 respalda la actualización de cánones de radiodifusión con enfoque equitativo.",
+      "image_url": "https://www.nacion.com/resizer/v2/P7V6WAP3VZFIVADW6HGB63TRVI.jpg?auth=554f010ab51a5a7323c9640bb3ca9239cc04cceb1572a17e2c8bd9911e11c4ab&smart=true&width=1242&height=701",
+      "description": "Canal 1 respalda el proyecto para actualizar cánones de radiodifusión ‘siempre y cuando’ sea equitativo con otras industrias.",
+      "featured": false
+    },
+    {
+      "slug": "oij-allana-tres-sitios-en-sarapiqui-por-presunto-secuestro-extorsivo-de-un-nicaraguense",
+      "title": "OIJ allana tres sitios en Sarapiquí por presunto secuestro extorsivo de un nicaragüense",
+      "category": "Costa Rica",
+      "bullets_20s": "• El OIJ realizó un operativo en Sarapiquí en respuesta a un presunto caso de secuestro.\n• La víctima es un hombre nicaragüense reportado como desaparecido desde hace días.\n• Familiares recibieron demandas de dinero para la liberación del secuestrado.\n• Las autoridades buscan desmantelar la red detrás de este secuestro extorsivo.\n• Se activaron protocolos para garantizar la seguridad de los ciudadanos en la zona.",
+      "source_name": "Vanessa Loaiza N.",
+      "source_url": "https://www.nacion.com/sucesos/oij-allana-tres-sitios-en-sarapiqui-por-presunto/IVMDT3SWQVCKTBMZ6DFFQZW32M/story/",
+      "publish_date": "2026-08-26T20:05:01.000Z",
+      "teaser": "Lo clave en 20 segundos: OIJ allana sitios por un secuestro extorsivo en Sarapiquí.",
+      "image_url": "https://www.nacion.com/resizer/v2/BYOQVKDJDJGKXIFXT5SYPQWAO4.jpg?auth=9e81259e3d2fc5569a344c74d6de71b5886341b0e11ee9a7a82f04449aca7e27&smart=true&width=1200&height=628",
+      "description": "La víctima, de apellido Estrada, desapareció luego de trasladarse desde Santa María de Dota hasta Horquetas de Sarapiquí. Su familia recibió llamadas en las que desconocidos exigían altas sumas de dinero para liberarlo.",
+      "featured": false
+    },
+    {
       "slug": "un-oso-polar-curioso-una-ardilla-afortunada-y-otros-candidatos-al-premio-al-fotografo-de-vida-silvestre-del-ano",
       "title": "Un oso polar curioso, una ardilla afortunada y otros candidatos al premio al Fotógrafo de Vida Silvestre del Año",
       "category": "Mundo",
-      "bullets_20s": "• La premiación destaca las mejores fotografías de la vida silvestre a nivel mundial cada año.\n• El concurso es organizado por el Museo de Historia Natural de Londres, reconocido internacionalmente.\n• Las fotografías reflejan la belleza y la importancia de la conservación de la fauna.\n• Cada año, se recibe una gran cantidad de participantes de diferentes partes del mundo.\n• El oso polar de Rikardsen ha cautivado a los jueces por su singularidad y expresión.",
+      "bullets_20s": "• El concurso de Fotógrafo de Vida Silvestre reconoce la pasión y dedicación hacia la fotografía natural.\n• Las obras seleccionadas muestran la curiosidad y belleza de la vida silvestre a nivel global.\n• Los fotógrafos participan desde distintas partes del mundo, destacando su visión única de la naturaleza.\n• La mención honorífica del oso polar refleja los desafíos que enfrenta esta especie en peligro.\n• El Museo de Historia Natural de Londres celebra la importancia de la conservación a través del arte.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c046pdk10d9o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-26T19:12:24.000Z",
-      "teaser": "Lo clave en 20 segundos: Fotografías impresionantes destacan la vida silvestre en concurso internacional.",
-      "image_url": "",
+      "teaser": "Lo clave en 20 segundos: Un oso polar y otros candidatos destacan en el concurso de Fotografía de Vida Silvestre.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/db40/live/d4ab0780-9baa-11f1-92e6-b1dfcecd4308.jpg",
       "description": "La fotografía del oso polar tomada por Audun Rikardsen figuró entre las obras que recibieron una mención honorífica en el concurso de este año organizado por el Museo de Historia Natural de Londres, en Reino Unido.",
       "featured": false
     },
@@ -420,11 +446,11 @@
       "slug": "la-pequena-ciudad-escocesa-que-busca-migrantes-para-frenar-la-caida-de-su-poblacion",
       "title": "La pequeña ciudad escocesa que busca migrantes para frenar la caída de su población",
       "category": "Mundo",
-      "bullets_20s": "• Greenock, una ciudad escocesa, busca frenar la caída de su población con inmigrantes.\n• La iniciativa surgió debido a la disminución de habitantes en las últimas décadas.\n• La ciudad quiere crear un ambiente acogedor para nuevos residentes y familias.\n• Las autoridades locales han lanzado campañas para atraer a personas del extranjero.\n• Se espera que los inmigrantes contribuyan a la economía y cultura de Greenock.",
+      "bullets_20s": "• Greenock enfrenta un significativo descenso en su población en los últimos años.\n• El consejo local quiere promover la inmigración como una solución viable.\n• Los residentes actuales son alentados a recibir a nuevos inmigrantes en la ciudad.\n• Este esfuerzo busca revitalizar la economía local y los servicios comunitarios.\n• Iniciativas similares están siendo implementadas en otras ciudades europeas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ceqe400d82zo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-26T10:03:21.000Z",
-      "teaser": "Lo clave en 20 segundos: Greenock busca inmigrantes para revertir su caída poblacional.",
+      "teaser": "Lo clave en 20 segundos: Greenock necesita migrantes para revertir su caída poblacional.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/305b/live/510d0290-9cca-11f1-b109-879e35c24276.jpg",
       "description": "Greenock quiere atraer inmigrantes para que se establezcan en la ciudad y revertir el descenso de su población.",
       "featured": false
@@ -446,11 +472,11 @@
       "slug": "editorial-tecnologica-acerca-la-ciencia-y-la-riqueza-natural-de-costa-rica-en-la-feria-internacional-del-libro",
       "title": "Editorial Tecnológica acerca la ciencia y la riqueza natural de Costa Rica en la Feria Internacional del Libro",
       "category": "Costa Rica",
-      "bullets_20s": "• Durante la FILCR 2026, la Editorial Tecnológica presentó publicaciones sobre biodiversidad y conservación de Costa Rica.\n• Las publicaciones han atraído gran interés entre los visitantes del evento, destacando el valor de la naturaleza.\n• Se ofrecen libros académicos y especializados, incluyendo títulos sobre parques nacionales y fauna costarricense.\n• La participación de la Editorial Tecnológica fomenta el acercamiento del público a la ciencia y la naturaleza.\n• Los autores también tienen un espacio para presentar sus obras y conectar con los lectores.",
+      "bullets_20s": "• La Editorial Tecnológica presenta obras sobre biodiversidad y conservación en la FILCR 2026.\n• Los visitantes se interesan por publicaciones relacionadas con la riqueza natural de Costa Rica.\n• Libros de aves y mamíferos son particularmente populares entre el público asistente.\n• Expertos y autores participan en la feria, presentando novedades y charlas sobre sus libros.\n• El stand del TEC atrae a muchos visitantes, superando obstáculos climáticos como la lluvia.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/editorial-tecnologica-acerca-ciencia-riqueza-natural-costa-rica-feria-internacional-libro",
       "publish_date": "2026-08-26T03:35:37.000Z",
-      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica destaca la biodiversidad en la Feria Internacional del Libro.",
+      "teaser": "Lo clave en 20 segundos: La FILCR 2026 destaca la riqueza natural y la ciencia costarricense a través de publicaciones especializadas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/feria-internacional-del-libro-2026_antigua-aduana_san-jose_tec_gscott-02.JPG",
       "description": "Editorial Tecnológica acerca la ciencia y la riqueza natural de Costa Rica en la Feria Internacional del Libro",
       "featured": false
@@ -901,11 +927,11 @@
       "slug": "campus-san-carlos-fortalece-el-turismo-sostenible-mediante-monitoreo-de-aves",
       "title": "Campus San Carlos fortalece el turismo sostenible mediante monitoreo de aves",
       "category": "Costa Rica",
-      "bullets_20s": "• Investigación en avifauna impacta comunidades rurales en la Región Huetar Norte de Costa Rica.\n• Más de 420 personas participaron en talleres y capacitaciones sobre biodiversidad y aves.\n• Proyecto liderado por la Escuela de Agronomía buscó fomentar el turismo sostenible en la zona.\n• Se realizaron observaciones sistemáticas para analizar la conservación de especies de aves.\n• Dra. María Alejandra Maglianesi destacó la importancia de la educación ambiental en esta iniciativa.",
+      "bullets_20s": "• Investigación del TEC evaluó el estado de las poblaciones de avifauna en la región.\n• El proyecto impactó a más de 400 personas mediante talleres y actividades comunitarias.\n• Se integraron esfuerzos de instituciones educativas y comunidades locales en la iniciativa.\n• La Finca La Balsa se convierte en un modelo de desarrollo rural sostenible.\n• Educación ambiental y participación local son claves para el éxito del proyecto.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/campus-san-carlos-fortalece-turismo-sostenible-monitoreo-aves",
       "publish_date": "2026-08-25T16:14:33.000Z",
-      "teaser": "Lo clave en 20 segundos: Fomentan el turismo sostenible mediante el monitoreo de aves en San Carlos.",
+      "teaser": "Lo clave en 20 segundos: Monitoreo de aves fortalece el turismo sostenible en San Carlos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/monitoreo-8.jpg",
       "description": "Campus San Carlos fortalece el turismo sostenible mediante monitoreo de aves",
       "featured": false
@@ -1369,11 +1395,11 @@
       "slug": "naturear-la-realidad-aumentada-se-suma-a-la-conservacion-para-promover-el-turismo-sostenible-y-el-desarrollo-economico",
       "title": "NatureAR: la realidad aumentada se suma a la conservación para promover el turismo sostenible y el desarrollo económico",
       "category": "Costa Rica",
-      "bullets_20s": "• NatureAR busca promover la visitación en parques nacionales utilizando tecnologías inmersivas.\n• La primera implementación fue en la Reserva Natural Montaña Sagrada, destacando su riqueza ecológica.\n• La segunda versión de la app se lanzará en el Parque Nacional Volcán Arenal el 6 de noviembre.\n• El proyecto integra a estudiantes de turismo y computación para enriquecer experiencias en la naturaleza.\n• Con el uso de realidades aumentadas, se espera atraer a nuevos tipos de visitantes al ecoturismo.",
+      "bullets_20s": "• NatureAR es una app diseñada para enriquecer la experiencia de los visitantes en parques nacionales.\n• La primera versión de la aplicación se implementó en la Reserva Natural Montaña Sagrada.\n• El Parque Nacional Volcán Arenal tendrá su propia versión de NatureAR a partir de noviembre.\n• El ecoturismo adecuadamente gestionado beneficia a comunidades locales mediante diversas actividades.\n• El proyecto incluye la formación práctica de estudiantes en áreas como Computación y Turismo.\n• Los senderos en parques se vuelven más atractivos mediante el uso de tecnología inmersiva.\n• NatureAR busca aumentar la visitación en áreas silvestres protegidas de Costa Rica.\n• El uso de realidad aumentada promueve el aprendizaje sobre la biodiversidad local.\n• La colaboración entre estudiantes y docentes es clave para el éxito del proyecto.\n• NatureAR simboliza el compromiso del TEC con el desarrollo sostenible en la región.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/naturear-realidad-aumentada-se-suma-conservacion-promover-turismo-sostenible-desarrollo-economico",
       "publish_date": "2026-08-24T20:59:48.000Z",
-      "teaser": "Lo clave en 20 segundos: NatureAR utiliza la realidad aumentada para promover el ecoturismo en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: NatureAR combina realidad aumentada y conservación para promover turismo sostenible.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/nature_ar_pcentenoflores-26.jpg",
       "description": "NatureAR: la realidad aumentada se suma a la conservación para promover el turismo sostenible y el desarrollo económico",
       "featured": false
@@ -1525,11 +1551,11 @@
       "slug": "tec-se-suma-una-vez-mas-grand-gala-parade-2026",
       "title": "TEC se suma una vez más Grand Gala Parade 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC participará en el Festival de la Cultura Negra con diversas actividades y eventos culturales.\n• La celebración busca visibilizar la cultura y tradiciones de la población afrocaribeña de Costa Rica.\n• El Grand Galá Parade se llevará a cabo el 31 de agosto, iniciando a las 11:30 a.m.\n• Esta actividad es organizada por la Asociación Comité Cívico Cultural Étnico Negro de Limón.\n• Se espera un recorrido tradicional que promueva el respeto y la diversidad cultural en el país.",
+      "bullets_20s": "• El TEC participará en el Festival de la Cultura Negra en Costa Rica este 2026.\n• Esta celebración busca reconocer la cultura afrocostarricense y su legado.\n• El Gran Gala Parade se llevará a cabo el 31 de agosto en Puerto Limón.\n• El evento comenzará a las 11:30 a.m. desde el Parque Sito Esna.\n• El TEC desfilará con estudiantes y funcionarios para apoyar la festividad.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-se-suma-vez-mas-grand-gala-parade-2026",
       "publish_date": "2026-08-24T17:50:21.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC se une al Grand Gala Parade para celebrar la cultura afrocaribeña.",
+      "teaser": "Lo clave en 20 segundos: TEC se une al Grand Gala Parade en reconocimiento a la cultura afrocaribeña.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/desfile_gala-parade-tec-limon_31_08_2025_paquesada-53.jpg",
       "description": "TEC se suma una vez más Grand Gala Parade 2026",
       "featured": false
@@ -84111,10 +84137,12 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-26T19:45:24.202Z",
-  "total": 6470,
-  "removed_soccer_news_count": 1112,
+  "generated_at": "2026-08-26T20:45:25.399Z",
+  "total": 6472,
+  "removed_soccer_news_count": 1114,
   "removed_soccer_news_titles": [
+    "Costa Rica tendrá dos representantes en el Campeonato Mundial de Paraciclismo",
+    "Fedefútbol tiene candidatos de Colombia y México para asumir presidencia de Comisión de Arbitraje",
     "Así funciona el criterio de desempate de tarjetas que le dio a Cartaginés el primer lugar en la Copa Centroamericana",
     "Geancarlo Castro entra, desequilibra y le responde a Amarini Villatoro",
     "La UEFA podría levantar su amenaza de boicot a los torneos de FIFA",
@@ -84162,8 +84190,6 @@
     "Perdí una pierna cuando tenía 16 años y ahora soy 4 veces campeón mundial de surf",
     "Tabla de posiciones del Torneo Apertura 2026: así marcha el fútbol en Costa Rica tras la jornada 4",
     "Sporting madrugó a Escorpiones y se pone al acecho del Cartaginés",
-    "Manfred Ugalde se reconcilia con el gol en la hora buena",
-    "Unafut resuelve la polémica: este es el autor oficial del primer gol del campeonato",
-    "El número tres de la FIFA sale de la institución tras haberse opuesto a Infantino"
+    "Manfred Ugalde se reconcilia con el gol en la hora buena"
   ]
 }
