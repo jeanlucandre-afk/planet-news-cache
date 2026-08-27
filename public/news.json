@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "tiene-un-trabajo-de-8-a-5-escribe-de-noche-y-su-novela-va-para-barcelona-como-lo-hizo",
+      "title": "Tiene un trabajo de 8 a 5, escribe de noche y su novela va para Barcelona... ¿Cómo lo hizo?",
+      "category": "Mundo",
+      "bullets_20s": "• Josh Landon escribe en las noches mientras su familia duerme, aprovechando el silencio.\n• Logró que su novela alcanzara una editorial en Barcelona, algo notable para un autor.\n• Su trabajo de día y pasiones nocturnas crean un equilibrio entre profesión y creatividad.\n• La historia destaca por su enfoque en el desafío de ser un escritor emergente.\n• La internacionalización de su obra es un ejemplo de perseverancia en el mundo literario.",
+      "source_name": "Jorge Arturo Mora",
+      "source_url": "https://www.nacion.com/revista-dominical/tiene-un-trabajo-de-8-a-5-escribe-de-noche-y-su/QV6KB3IWIJEMVFYZBP37DPY27I/story/",
+      "publish_date": "2026-08-27T18:59:00.000Z",
+      "teaser": "Lo clave en 20 segundos: un autor nocturno que logró llevar su novela hasta España.",
+      "image_url": "https://www.nacion.com/resizer/v2/3TA7YYXAIRHZREKW2RDSY4FSZY.jpg?auth=f5fe9ccf91f16f329099655131d2f3ddd0b2f7a666a17e9f2bed14da0cfe0376&smart=true&width=1419&height=929",
+      "description": "Josh Landon escribe cuando su familia duerme. Aún así, logró que su novela se internacionalizara, llegara a una editorial española y fuera traducida al inglés. ¿Cómo lo hizo?",
+      "featured": false
+    },
+    {
+      "slug": "marvin-solano-y-firpo-viajaron-casi-10-horas-en-autobus-para-conseguir-la-clasificacion-en-la-copa-centroamericana",
+      "title": "Marvin Solano y Firpo viajaron casi 10 horas en autobús para conseguir la clasificación en la Copa Centroamericana",
+      "category": "Costa Rica",
+      "bullets_20s": "• Marvin Solano y Firpo se enfrentaron a una larga travesía en autobús hacia Guatemala.\n• El viaje fue emblemático en su búsqueda por clasificar en la Copa Centroamericana.\n• Detrás de este esfuerzo hay un equipo comprometido y apasionado por el fútbol.\n• La clasificación a la siguiente ronda es un importante logro para el equipo.\n• Los retos de los viajes largos son parte de la experiencia en el deporte.\n• El autobús se convirtió en un escenario de camaradería y motivación para los jugadores.\n• El evento reúne a equipos de diversos países de la región centroamericana.\n• El fútbol centroamericano cada vez gana más relevancia en competencias internacionales.\n• La dedicación y esfuerzo del equipo son dignos de reconocimiento y admiración.\n• Las experiencias de viaje enriquecen la historia del deporte en Costa Rica.",
+      "source_name": "Esteban Valverde",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/marvin-solano-y-firpo-viajaron-casi-10-horas-en/JJAG2YPVZNGILFBKGHN7G7QRLM/story/",
+      "publish_date": "2026-08-27T18:52:48.000Z",
+      "teaser": "Lo clave en 20 segundos: el equipo viajó casi 10 horas para clasificar a la siguiente ronda en la Copa Centroamericana.",
+      "image_url": "https://www.nacion.com/resizer/v2/BMYACZINY5FS7KIR5KRPHHCZWA.jpeg?auth=2478df07955cf2a40fadc46f57895498b837f2660603e417b55227a72fd45b04&smart=true&width=1280&height=853",
+      "description": "Marvin Solano y Luis Ángel Firpo consiguieron el boleto a la siguiente ronda de la Centroamericana en Guatemala.",
+      "featured": false
+    },
+    {
+      "slug": "israel-advierte-de-que-cualquier-cometa-o-globo-que-sobrevuele-gaza-sera-considerado-un-acto-terrorista",
+      "title": "Israel advierte de que cualquier cometa o globo que sobrevuele Gaza será considerado un ‘acto terrorista’",
+      "category": "Mundo",
+      "bullets_20s": "• Israel ha emitido alertas sobre el uso de cometas y globos en el espacio aéreo de Gaza.\n• Cualquier vuelo de un cometa será considerado un acto terrorista según Israel.\n• La advertencia incluye posibles evacuaciones en áreas cercanas al conflicto.\n• Hamás califica la advertencia como un pretexto para intensificar los ataques aéreos.\n• La situación en la región sigue siendo tensa y problemática para la población civil.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/el-mundo/israel-advierte-de-que-cualquier-cometa-o-globo/BCHO4KXEYRBRLMXPBJFTMOF2WU/story/",
+      "publish_date": "2026-08-27T18:45:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Israel considera cometas como amenaza y señala acciones enfrentarles.",
+      "image_url": "https://www.nacion.com/resizer/v2/VYBSOQMWMFBITNB2JW226DI4RI.jpg?auth=5ffdda250dcdeffe8fc5e547c386ea5339cc3f5462b39776cc944da9e1ea1e7d&smart=true&width=1024&height=682",
+      "description": "Israel calificará como \"acto terrorista\" el vuelo de cometas desde Gaza y amenaza con evacuar zonas. Hamás denuncia un pretexto para nuevos bombardeos.",
+      "featured": false
+    },
+    {
       "slug": "trump-insiste-en-su-confrontacion-con-canada-renombra-el-lago-ontario-como-lago-de-america",
       "title": "Trump insiste en su confrontación con Canadá: ‘renombra’ el lago Ontario como ‘Lago de América’",
       "category": "Mundo",
@@ -69,11 +108,11 @@
       "slug": "que-es-el-colapso-glaciar-que-causo-la-repentina-y-devastadora-avalancha-en-nepal",
       "title": "Qué es el colapso glaciar que causó la repentina y devastadora avalancha en Nepal",
       "category": "Mundo",
-      "bullets_20s": "• El colapso glaciar se refiere a la ruptura de grandes masas de hielo.\n• Las avalanchas glaciales pueden ser devastadoras para las comunidades cercanas.\n• Los terremotos pueden ser un factor desencadenante en estos colapsos.\n• Expertos continúan investigando las causas detrás de este fenómeno natural.\n• El cambio climático está impactando la estabilidad de glaciares en el mundo.",
+      "bullets_20s": "• El colapso glaciar puede desencadenar avalanchas devastadoras en regiones montañosas.\n• Expertos analizaron las condiciones que llevaron a la repentina avalancha en Nepal.\n• Los glaciares están cambiando rápidamente debido al calentamiento global y amenazas ambientales.\n• Las investigaciones muestran que terremotos pueden estar conectados con colapsos glaciares.\n• La avalancha subraya la vulnerabilidad de las comunidades cercanas a glaciares inestables.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g57l0wdewo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-27T17:32:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Un colapso glaciar causó una avalancha en Nepal, inicialmente atribuida a un terremoto.",
+      "teaser": "Lo clave en 20 segundos: El colapso glaciar fue la verdadera causa de una devastadora avalancha en Nepal.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/70ae/live/cfc0b1b0-a20e-11f1-a291-b542ee92de7c.jpg",
       "description": "Al principio, los expertos creían que la causa del suceso había sido un terremoto. Pero luego descubrieron que los temblores estaban relacionados con un colapso glaciar.",
       "featured": false
@@ -82,11 +121,11 @@
       "slug": "las-imagenes-del-hipnotico-universo-de-puntos-y-espejos-que-creo-la-artista-japonesa-yayoi-kusama",
       "title": "Las imágenes del hipnótico universo de puntos y espejos que creó la artista japonesa Yayoi Kusama",
       "category": "Mundo",
-      "bullets_20s": "• Yayoi Kusama es una destacada artista contemporánea de Japón, famosa por su diseño único.\n• Sus obras incluyen patrones de puntos y espejos que crean espacios visualmente cautivadores.\n• Kusama ha llevado su arte a museos de todo el mundo, impactando diversas audiencias.\n• El estilo de Kusama combina elementos de arte pop y minimalismo en sus instalaciones.\n• Las exposiciones de su trabajo suelen atraer a miles de visitantes cada año.",
+      "bullets_20s": "• Yayoi Kusama es una artista japonesa conocida por su estilo único y visionario.\n• Sus instalaciones se caracterizan por el uso de puntos y espejos en el diseño.\n• La obra de Kusama ha atraído a millones de visitantes en todo el mundo.\n• Crea experiencias inmersivas que dejan una fuerte huella en el espectador.\n• Kusama ha trabajado en diversas formas de arte, incluyendo pinturas y esculturas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwyz55jj78ko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-27T17:27:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre el cautivador universo visual de Yayoi Kusama.",
+      "teaser": "Lo clave en 20 segundos: Yayoi Kusama transforma espacios con su arte lleno de puntos y espejos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/08d9/live/ee030b80-a201-11f1-a291-b542ee92de7c.jpg",
       "description": "Kusama era conocida por crear mundos inmersivos extraordinarios que deleitaban a millones de visitantes.",
       "featured": false
@@ -236,13 +275,13 @@
     },
     {
       "slug": "muere-a-los-84-anos-ratko-mladic-el-carnicero-de-bosnia-que-fue-condenado-a-cadena-perpetua-por-genocidio-en-la-antigua-",
-      "title": "Muere a los 84 años Ratko Mladic, el \"carnicero de Bosnia\" que fue condenado a cadena perpetua por genocidio en la antigua Yugoslavia",
+      "title": "Muere a los 84 años Ratko Mladic, el 'carnicero de Bosnia' que fue condenado a cadena perpetua por genocidio en la antigua Yugoslavia",
       "category": "Mundo",
-      "bullets_20s": "• Ratko Mladic fue un líder militar involucrado en conflictos en la antigua Yugoslavia.\n• Su condena en 2017 marcó un importante hito en la justicia internacional.\n• La figura de Mladic es controvertida y generó intensos debates en la sociedad.\n• Las guerras en Yugoslavia dejaron profundas heridas en la región y sus habitantes.\n• Mladic fue conocido por sus tácticas crueles durante el conflicto en los 90.",
+      "bullets_20s": "• Ratko Mladić fue un general del ejército serbio en la guerra de Bosnia.\n• Su condena simboliza un esfuerzo global contra la impunidad por genocidio.\n• Las guerras en Yugoslavia dejaron un legado de dolor y divisiones étnicas.\n• El juicio de Mladić atrajo la atención internacional sobre crímenes de guerra.\n• Su muerte plantea preguntas sobre la memoria y el perdón en los Balcanes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g07ep8z93o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-27T13:59:02.000Z",
-      "teaser": "Lo clave en 20 segundos: la muerte de Ratko Mladic y su legado en la historia.",
+      "teaser": "Lo clave en 20 segundos: Mladic, condenado por genocidio, murió a los 84 años, marcando un capítulo oscuro de la historia.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/1796/live/58267690-4597-11f1-bd52-e755d604ece4.jpg",
       "description": "Mladić fue condenado en 2017 por genocidio, crímenes de guerra y crímenes de lesa humanidad durante las guerras en la antigua Yugoslavia entre 1992 y 1995.",
       "featured": false
@@ -290,11 +329,11 @@
       "slug": "que-causo-la-avalancha-y-otras-3-preguntas-sobre-la-catastrofe-que-dejo-cientos-de-muertos-y-desaparecidos-en-nepal-y-ti",
       "title": "Qué causó la avalancha y otras 3 preguntas sobre la catástrofe que dejó cientos de muertos y desaparecidos en Nepal y Tíbet",
       "category": "Mundo",
-      "bullets_20s": "• La reciente avalancha ha dejado cientos de muertos y desaparecidos en Nepal y el Tíbet.\n• Investigaciones iniciales apuntan a un glaciar como posible causante del desastre natural.\n• Las hipótesis sobre la avalancha han generado gran interés en la comunidad científica internacional.\n• Se requieren más análisis para comprender completamente las causas del evento catastrófico.\n• Este tipo de eventos son raros y despiertan preocupaciones sobre el cambio climático.",
+      "bullets_20s": "• La avalancha en Nepal y Tíbet ha dejado una cantidad alarmante de muertos y desaparecidos.\n• Científicos proponen que un glaciar podría haber causado el desastre natural inesperado.\n• El impacto de un glaciar se presenta como una nueva teoría sobre el evento trágico.\n• Los análisis posteriores serán clave para entender las causas reales de la avalancha.\n• La catástrofe ha generado mucha preocupación sobre la seguridad en áreas montañosas.\n• Las consecuencias de este desastre natural han impactado a toda la región del Himalaya.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c99dv957nj0o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-27T13:12:34.000Z",
-      "teaser": "Lo clave en 20 segundos: Una avalancha en Nepal y Tíbet ha impactado a cientos de personas y plantea preguntas cruciales.",
+      "teaser": "Lo clave en 20 segundos: Se discuten las causas detrás de la grave avalancha en Nepal y Tíbet.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/e435/live/31568510-a216-11f1-9090-b51af3a01fc2.jpg",
       "description": "Un grupo de científicos plantea que el evento pudo haber sido causado por el impacto de un glaciar, y no por un sismo, como se pensó en un principio. Aun así, serán necesarios más análisis para confirmar qué ocurrió realmente.",
       "featured": false
@@ -667,11 +706,11 @@
       "slug": "50-anos-de-la-escuela-de-ingenieria-electronica-del-tec-trayectoria-innovacion-y-liderazgo-regional",
       "title": "50 años de la Escuela de Ingeniería Electrónica del TEC: trayectoria, innovación y liderazgo regional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela ha graduado a más de 2.700 profesionales en ingeniería electrónica en sus 50 años.\n• Actualmente, más de 1.300 estudiantes se capacitan en tres campus del TEC en el país.\n• Se han desarrollado proyectos innovadores, como el primer satélite de Costa Rica en 2018.\n• La oferta académica incluye programas de licenciatura, maestría y doctorado acreditados internacionalmente.\n• La escuela ha demostrado adaptabilidad a los cambios constantes en la tecnología y la industria.",
+      "bullets_20s": "• La Escuela de Ingeniería Electrónica del TEC celebra cinco décadas formando profesionales en Costa Rica.\n• Desde 1976, el TEC ha graduado a más de 2,700 ingenieros en diversas especialidades tecnológicas.\n• La carrera ha evolucionado respondiendo a las demandas del mercado laboral y al avance tecnológico.\n• Proyectos como el satélite Irazú destacan la capacidad innovadora de la Escuela en investigación.\n• Se enfatiza el compromiso con la sostenibilidad y la adaptación a nuevos desafíos tecnológicos.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/50-anos-escuela-ingenieria-electronica-tec-trayectoria-innovacion-liderazgo-regional",
       "publish_date": "2026-08-26T20:59:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebramos 50 años de innovación en la Escuela de Ingeniería Electrónica del TEC.",
+      "teaser": "Lo clave en 20 segundos: Celebración de medio siglo de innovación en Ingeniería Electrónica del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/50-aniversario-escuela-ingenieria-electronica_rcascante-02.jpg",
       "description": "50 años de la Escuela de Ingeniería Electrónica del TEC: trayectoria, innovación y liderazgo regional",
       "featured": false
@@ -687,6 +726,19 @@
       "teaser": "Lo clave en 20 segundos: nuevo canon para radios y televisoras en Costa Rica y sus implicaciones.",
       "image_url": "https://www.nacion.com/resizer/v2/VZEMKXVHQ5DZBPFTWQAHYI7ZAQ.JPG?auth=bac68d99d63c6e8cd103efef109d9b7d84079ee5be58b6d3722bd0470d9e271d&smart=true&width=4000&height=2667",
       "description": "Explicamos cómo se calcularía el nuevo canon para radios y televisoras en Costa Rica, cuáles medios quedarían exonerados y qué sanciones establece.",
+      "featured": false
+    },
+    {
+      "slug": "technical-university-of-munich-tum",
+      "title": "TECHNICAL UNIVERSITY OF MUNICH (TUM)",
+      "category": "Mundo",
+      "bullets_20s": "• La Universidad Técnica de Múnich es una de las más prestigiosas en Alemania.\n• Ofrece programas de educación superior en diversas disciplinas académicas.\n• Su enfoque en la investigación la convierte en un referente mundial.\n• La institución colabora con universidades y empresas a nivel internacional.\n• Cuenta con una rica historia, establecida en el siglo XIX, en Múnich.\n• Proyectos de innovación y tecnología son una parte clave de su currículum.\n• La TUM se destaca en áreas como ingeniería y ciencias naturales.\n• Promueve el intercambio cultural entre estudiantes de diferentes países.\n• La universidad también tiene un fuerte enfoque en sostenibilidad y medio ambiente.\n• Ofrece diversas becas para estudiantes internacionales que deseen postular.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/technical-university-munich-tum",
+      "publish_date": "2026-08-26T20:35:34.000Z",
+      "teaser": "Lo clave en 20 segundos: TUM, líder en educación e investigación en Alemania.",
+      "image_url": "",
+      "description": "TECHNICAL UNIVERSITY OF MUNICH (TUM)",
       "featured": false
     },
     {
@@ -1161,11 +1213,11 @@
       "slug": "editorial-tecnologica-acerca-la-ciencia-y-la-riqueza-natural-de-costa-rica-en-la-feria-internacional-del-libro",
       "title": "Editorial Tecnológica acerca la ciencia y la riqueza natural de Costa Rica en la Feria Internacional del Libro",
       "category": "Costa Rica",
-      "bullets_20s": "• La Feria Internacional del Libro de Costa Rica se centra en ciencia y biodiversidad natural del país.\n• Editorial Tecnológica presenta su catálogo, incluyendo obras sobre fauna y flora costarricense.\n• Los visitantes muestran gran interés por publicaciones de conservación y naturaleza.\n• Actividades permiten a los asistentes interactuar con autores de importantes obras científicas.\n• Las presentaciones de libros incluyen títulos sobre aves y mamíferos endémicos de Costa Rica.",
+      "bullets_20s": "• La Feria Internacional del Libro recibe a la Editorial Tecnológica del Tecnológico de Costa Rica.\n• Publicaciones sobre biodiversidad, conservación y conocimiento son las más visitadas en la feria.\n• El stand de TEC ofrece libros académicos y especializados sobre la riqueza natural del país.\n• El interés por la ciencia y la naturaleza ha motivado a muchos visitantes de la feria.\n• Los libros de aves y mamíferos son esperados por un público ansioso de estos temas.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/editorial-tecnologica-acerca-ciencia-riqueza-natural-costa-rica-feria-internacional-libro",
       "publish_date": "2026-08-26T03:35:37.000Z",
-      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica destaca en la FILCR 2026 con obras sobre biodiversidad.",
+      "teaser": "Lo clave en 20 segundos: Feria del Libro en Costa Rica destaca publicaciones sobre ciencia y biodiversidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/feria-internacional-del-libro-2026_antigua-aduana_san-jose_tec_gscott-02.JPG",
       "description": "Editorial Tecnológica acerca la ciencia y la riqueza natural de Costa Rica en la Feria Internacional del Libro",
       "featured": false
@@ -1616,11 +1668,11 @@
       "slug": "campus-san-carlos-fortalece-el-turismo-sostenible-mediante-monitoreo-de-aves",
       "title": "Campus San Carlos fortalece el turismo sostenible mediante monitoreo de aves",
       "category": "Costa Rica",
-      "bullets_20s": "• El Campus San Carlos llevó a cabo un programa de monitoreo de aves que involucra a la comunidad.\n• Investigación evaluó la avifauna y su interacción con la producción agropecuaria local en un programa participativo.\n• Más de 400 personas se beneficiaron de talleres prácticos y capacitaciones en el área de avifauna.\n• El proyecto fomenta oportunidades de turismo sostenible y sensibilización sobre conservación de biodiversidad.\n• Se involucraron estudiantes de diversas instituciones educativas en el proceso de investigación y capacitación.\n• La Finca La Balsa se posiciona como un modelo de desarrollo rural enfocado en ecoturismo y conservación.\n• Se promueve la educación ambiental y la participación local en la valoración de la avifauna como recurso.\n• Expertos destacados coordinaron investigaciones y talleres en el marco de este proyecto innovador y comunitario.",
+      "bullets_20s": "• El Campus San Carlos promueve el monitoreo de aves para impulsar el turismo sostenible en la región.\n• Se evaluó el estado de avifauna y su interacción con la producción agropecuaria local.\n• Más de 400 personas participaron en talleres y actividades comunitarias sobre avifauna.\n• El proyecto integró investigación biológica con educación ambiental y turismo sostenible.\n• Se registró la participación de múltiples comunidades locales en el proyecto.\n• Los estudiantes universitarios del TEC se involucraron activamente en las actividades del monitoreo.\n• El modelo busca fortalecer el ecoturismo y la conservación en la Finca La Balsa.\n• La Dra. María Alejandra Maglianesi coordina el proyecto, buscando la sostenibilidad.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/campus-san-carlos-fortalece-turismo-sostenible-monitoreo-aves",
       "publish_date": "2026-08-25T16:14:33.000Z",
-      "teaser": "Lo clave en 20 segundos: El Campus San Carlos impulsa el turismo sostenible a través del monitoreo de aves.",
+      "teaser": "Lo clave en 20 segundos: El TEC impulsa el turismo sostenible con el monitoreo de aves en San Carlos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/monitoreo-8.jpg",
       "description": "Campus San Carlos fortalece el turismo sostenible mediante monitoreo de aves",
       "featured": false
@@ -84826,10 +84878,12 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-27T18:45:24.411Z",
-  "total": 6525,
-  "removed_soccer_news_count": 1117,
+  "generated_at": "2026-08-27T19:45:25.247Z",
+  "total": 6529,
+  "removed_soccer_news_count": 1119,
   "removed_soccer_news_titles": [
+    "Repartidor de comidas enfrenta juicio por balacera en bar donde murieron hermano de reconocido futbolista y una joven inocente",
+    "Copa Centroamericana: estas son las fechas para los partidos de cuartos de final",
     "La UEFA prepara denuncia por ‘gestión desleal’ contra Gianni Infantino",
     "Santa Fe acaba el sueño continental de River y agrava la crisis del equipo de Coudet",
     "El mundialista Vozinha debuta con Colo Colo en el fútbol de Chile",
@@ -84877,8 +84931,6 @@
     "Así está el futuro de Johan Venegas: esto es lo que se sabe sobre el mundialista de 2018 y 2022",
     "Escándalo en la Liga Española: Aficionados presionan e insultan a jugadores de su propio equipo",
     "Jamal Musiala se desmayó nuevamente en pleno partido; jugador explicó luego la razón (video)",
-    "Cartaginés vs. Verdes: hora y canal para ver el partido con los brumosos obligados a ganar",
-    "Copa Centroamericana de Concacaf: Día, hora exacta y cómo ver todos los partidos de esta semana",
-    "Perdí una pierna cuando tenía 16 años y ahora soy 4 veces campeón mundial de surf"
+    "Cartaginés vs. Verdes: hora y canal para ver el partido con los brumosos obligados a ganar"
   ]
 }
