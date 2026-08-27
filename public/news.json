@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "volcan-poas-aumenta-su-actividad-estas-son-las-nuevas-medidas-para-visitar-el-parque-desde-este-viernes",
+      "title": "Volcán Poás aumenta su actividad: estas son las nuevas medidas para visitar el parque desde este viernes",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Volcán Poás ha mostrado un incremento significativo en su actividad reciente, alertando a las autoridades.\n• Se implementarán nuevas medidas de seguridad para proteger a los visitantes del parque nacional.\n• El aforo del parque se reducirá para garantizar el bienestar de quienes deseen visitarlo.\n• Los visitantes deberán usar casco, que será obligatorio a partir de este fin de semana.\n• Es fundamental seguir las recomendaciones de los expertos para asegurar una visita segura al volcán.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-pais/volcan-poas-aumenta-su-actividad-estas-son-las/EQ72PJODONGGDOQXIKM2UWSBVU/story/",
+      "publish_date": "2026-08-27T22:10:21.000Z",
+      "teaser": "Lo clave en 20 segundos: nuevas medidas de seguridad en el Volcán Poás por aumento de actividad volcánica.",
+      "image_url": "https://www.nacion.com/resizer/v2/APZUUWA3JNDXRBFHHGY5LE4DNU.jpeg?auth=e9a6b85159f0b19077f3970b85d5f24030d6f58334c9a1280cb19692ec2186f9&smart=true&width=1600&height=737",
+      "description": "El Parque Nacional Volcán Poás reducirá su aforo y exigirá casco a los visitantes desde este viernes 28 de agosto debido al aumento de la actividad volcánica.",
+      "featured": false
+    },
+    {
+      "slug": "banco-nacional-se-pronuncia-tras-fallo-judicial-por-caso-gallo-tapado-esto-dijo-la-entidad",
+      "title": "Banco Nacional se pronuncia tras fallo judicial por caso Gallo Tapado: esto dijo la entidad",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Banco Nacional comunicó su postura ante el reciente fallo en el caso Gallo Tapado.\n• Aseguraron que seguirán adelante con las etapas procesales correspondientes al caso.\n• La entidad también se refirió a otras causas que están en proceso legal actualmente.\n• Este pronunciamiento llega en un momento crítico para los involucrados en el caso.\n• La resolución judicial generó diversas reacciones en el ámbito legal y financiero del país.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/sucesos/banco-nacional-se-pronuncia-tras-fallo-judicial/VKJ66MT7KFE37PHRUNKPAHQJYQ/story/",
+      "publish_date": "2026-08-27T21:35:10.000Z",
+      "teaser": "Lo clave en 20 segundos: El Banco Nacional responde tras fallo en el caso Gallo Tapado y asegura su compromiso judicial.",
+      "image_url": "https://www.nacion.com/resizer/v2/6ZGDK2HQTNEG7K4QR3M6VW5VHY.JPG?auth=a43ab09d5d3d1fcb1a51d3a5762328861bd34faac3ca3386ac8401d54844e298&smart=true&width=3000&height=1687",
+      "description": "El Banco Nacional se pronunció sobre la resolución judicial en el caso conocido como “Gallo Tapado” y aseguró que continuará con las etapas procesales y las demás causas relacionadas.",
+      "featured": false
+    },
+    {
       "slug": "el-mensaje-guardado-en-los-corales-cientificos-descubren-un-fenomeno-inedito-en-1000-anos",
       "title": "El mensaje guardado en los corales: Científicos descubren un fenómeno inédito en 1.000 años",
       "category": "Mundo",
@@ -63,6 +89,19 @@
       "teaser": "Lo clave en 20 segundos: CCSS implanta innovadora prótesis craneal impresa en 3D, beneficiando a varios pacientes.",
       "image_url": "https://www.nacion.com/resizer/v2/6BCQ6SS5PFHQHI6OJYJGGJTLJM.jpeg?auth=ee2f1aaf60afd7d5d5ff2796f34a93f33aa66b580443537de91bbbbd774db3bc&smart=true&width=1599&height=1279",
       "description": "Por primera vez, la CCSS implantó en un paciente una prótesis craneal desarrollada por la propia institución mediante tecnología de impresión 3D. Alrededor de 52 pacientes podrían beneficiarse de este avance durante la segunda mitad de 2026.",
+      "featured": false
+    },
+    {
+      "slug": "5-momentos-clave-del-juicio-a-lindsay-clancy-la-madre-acusada-de-asesinar-a-sus-tres-hijos-en-eeuu",
+      "title": "5 momentos clave del juicio a Lindsay Clancy, la madre acusada de asesinar a sus tres hijos en EE.UU.",
+      "category": "Mundo",
+      "bullets_20s": "• El juicio ha captado la atención de la comunidad internacional y el debate sobre salud mental.\n• Se ha discutido ampliamente la condición de psicosis posparto y su tratamiento en estos casos.\n• Diversos testimonios han revelado la difícil situación emocional de la acusada antes del suceso.\n• Se ha planteado la cuestión de la responsabilidad penal en casos de trastornos mentales severos.\n• Los medios han cubierto cada detalle del juicio, polarizando las opiniones del público.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c2l899jkjp7o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-27T19:48:46.000Z",
+      "teaser": "Lo clave en 20 segundos: El juicio revela el impacto de la psicosis posparto en la salud mental.",
+      "image_url": "",
+      "description": "El juicio ha atraído la atención mundial hacia la rara afección conocida como psicosis posparto.",
       "featured": false
     },
     {
@@ -342,11 +381,11 @@
       "slug": "muere-a-los-84-anos-ratko-mladic-el-carnicero-de-bosnia-que-fue-condenado-a-cadena-perpetua-por-genocidio-en-la-antigua-",
       "title": "Muere a los 84 años Ratko Mladic, el \"carnicero de Bosnia\" que fue condenado a cadena perpetua por genocidio en la antigua Yugoslavia",
       "category": "Mundo",
-      "bullets_20s": "• Ratko Mladic, figura clave en las guerras yugoslavas, falleció a los 84 años en 2026.\n• Conocido como el 'carnicero de Bosnia', fue condenado por genocidio y crímenes de guerra.\n• Su juicio en 2017 marcó un hito en la justicia internacional por crímenes de lesa humanidad.\n• Mladic fue responsable de atrocidades y violencia sistemática durante el conflicto de los 90.\n• Las tensiones en la región siguen siendo un tema relevante en la política europea actual.",
+      "bullets_20s": "• Ratko Mladic destacó por su rol en las guerras yugoslavas que marcaron la historia de Europa.\n• Su condena fue un hito en el enjuiciamiento de crímenes de guerra a nivel internacional.\n• Las guerras en Yugoslavia dejaron un legado de sufrimiento y violaciones de derechos humanos.\n• La memoria de los conflictos sigue presente en la actual política de los Balcanes.\n• El juicio de Mladic puso de relieve la necesidad de justicia en casos de genocidio.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g07ep8z93o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-27T13:59:02.000Z",
-      "teaser": "Lo clave en 20 segundos: Fallece Ratko Mladic, condenado por genocidio en Yugoslavia, a los 84 años.",
+      "teaser": "Lo clave en 20 segundos: Muere Ratko Mladic, condenado por genocidio en las guerras yugoslavas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/1796/live/58267690-4597-11f1-bd52-e755d604ece4.jpg",
       "description": "Mladić fue condenado en 2017 por genocidio, crímenes de guerra y crímenes de lesa humanidad durante las guerras en la antigua Yugoslavia entre 1992 y 1995.",
       "featured": false
@@ -394,11 +433,11 @@
       "slug": "que-causo-la-avalancha-y-otras-3-preguntas-sobre-la-catastrofe-que-dejo-cientos-de-muertos-y-desaparecidos-en-nepal-y-ti",
       "title": "Qué causó la avalancha y otras 3 preguntas sobre la catástrofe que dejó cientos de muertos y desaparecidos en Nepal y Tíbet",
       "category": "Mundo",
-      "bullets_20s": "• La avalancha en Nepal y Tíbet ha dejado una fuerte impresión en la comunidad científica.\n• Se investiga si el glaciar impactante fue la causa principal de la catástrofe.\n• Inicialmente, se consideró un sismo como el origen del desastre natural devastador.\n• Los análisis sobre la avalancha podrían cambiar la forma en que entendemos estos eventos.\n• Más datos son necesarios para confirmar la causa primaria de la avalancha trágica.",
+      "bullets_20s": "• La avalancha en Nepal y Tíbet ha dejado devastación y un alto número de víctimas fatales.\n• Científicos revisan la causa del evento, cuestionando la teoría del sismo inicial.\n• El impacto de un glaciar es ahora la hipótesis principal a investigar.\n• La necesidad de estudios detallados es crucial para entender la tragedia ocurrida.\n• Las avalanchas son fenómenos peligrosos que pueden ser difícilmente predecibles.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c99dv957nj0o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-27T13:12:34.000Z",
-      "teaser": "Lo clave en 20 segundos: Una avalancha devastó Nepal y Tíbet, y se cuestiona su causa real.",
+      "teaser": "Lo clave en 20 segundos: ¿Qué realmente causó la devastadora avalancha en Nepal y Tíbet?",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/e435/live/31568510-a216-11f1-9090-b51af3a01fc2.jpg",
       "description": "Un grupo de científicos plantea que el evento pudo haber sido causado por el impacto de un glaciar, y no por un sismo, como se pensó en un principio. Aun así, serán necesarios más análisis para confirmar qué ocurrió realmente.",
       "featured": false
@@ -771,11 +810,11 @@
       "slug": "50-anos-de-la-escuela-de-ingenieria-electronica-del-tec-trayectoria-innovacion-y-liderazgo-regional",
       "title": "50 años de la Escuela de Ingeniería Electrónica del TEC: trayectoria, innovación y liderazgo regional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Ingeniería Electrónica del TEC celebra cinco décadas de formación académica y tecnológica.\n• Más de 2.700 profesionales se han graduado en programas de licenciatura, maestría y doctorado.\n• Ha evolucionado de una carrera de tres años a una unidad académica integral y líder en el sector.\n• Desarrollaron proyectos significativos, como el primer satélite CubeSat de Centroamérica, conocido como Irazú.\n• Mantienen alianzas con universidades nacionales e internacionales para el desarrollo de nuevas tecnologías.",
+      "bullets_20s": "• La Escuela de Ingeniería Electrónica del TEC celebra 50 años de formación de profesionales destacados.\n• Más de 2,700 graduados en diversas disciplinas han pasado por esta prestigiosa institución.\n• La Escuela ha desarrollado importantes proyectos de investigación que impactan a nivel global.\n• Se han adaptado a los cambios en la industria tecnológica, siempre al frente de la innovación.\n• Sus egresados han contribuido al desarrollo tecnológico y científico de Costa Rica en varias áreas.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/50-anos-escuela-ingenieria-electronica-tec-trayectoria-innovacion-liderazgo-regional",
       "publish_date": "2026-08-26T20:59:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de innovación y liderazgo en electrónica en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Celebramos medio siglo de formación e innovación en ingeniería electrónica en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/50-aniversario-escuela-ingenieria-electronica_rcascante-02.jpg",
       "description": "50 años de la Escuela de Ingeniería Electrónica del TEC: trayectoria, innovación y liderazgo regional",
       "featured": false
@@ -1265,11 +1304,11 @@
       "slug": "editorial-tecnologica-acerca-la-ciencia-y-la-riqueza-natural-de-costa-rica-en-la-feria-internacional-del-libro",
       "title": "Editorial Tecnológica acerca la ciencia y la riqueza natural de Costa Rica en la Feria Internacional del Libro",
       "category": "Costa Rica",
-      "bullets_20s": "• La Editorial Tecnológica presenta sus publicaciones en la Feria Internacional del Libro de Costa Rica.\n• Los libros sobre biodiversidad y conservación son populares entre los visitantes de la feria.\n• El stand del TEC se destaca por atraer a un gran número de asistentes interesados en naturaleza.\n• Las nuevas ediciones sobre aves y mamíferos generan gran interés en el público lector.\n• Actividades y encuentros con autores son parte de la experiencia en la Feria del Libro.",
+      "bullets_20s": "• La FILCR 2026 destaca la importancia de la ciencia y la biodiversidad para la educación en Costa Rica.\n• La Editorial Tecnológica ofrece publicaciones que atraen a visitantes interesados en la naturaleza costarricense.\n• Libros como 'Aves endémicas de Costa Rica' y 'Mamíferos de Costa Rica' son muy solicitados por los asistentes.\n• El stand de Editorial Tecnológica se convierte en un puntos de encuentro para aprender sobre conservación.\n• Las actividades en la feria son gratuitas y abren el espacio para conocer autores y sus obras.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/editorial-tecnologica-acerca-ciencia-riqueza-natural-costa-rica-feria-internacional-libro",
       "publish_date": "2026-08-26T03:35:37.000Z",
-      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica destaca la ciencia y la biodiversidad costarricense en la FILCR 2026.",
+      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica presenta ciencia y biodiversidad en la FILCR 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/feria-internacional-del-libro-2026_antigua-aduana_san-jose_tec_gscott-02.JPG",
       "description": "Editorial Tecnológica acerca la ciencia y la riqueza natural de Costa Rica en la Feria Internacional del Libro",
       "featured": false
@@ -84930,8 +84969,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-27T21:45:25.609Z",
-  "total": 6533,
+  "generated_at": "2026-08-27T22:45:25.652Z",
+  "total": 6536,
   "removed_soccer_news_count": 1119,
   "removed_soccer_news_titles": [
     "Repartidor de comidas enfrenta juicio por balacera en bar donde murieron hermano de reconocido futbolista y una joven inocente",
