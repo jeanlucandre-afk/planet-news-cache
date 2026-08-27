@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "union-europea-exige-a-meta-proteger-a-los-menores-en-europa-tras-acuerdo-en-estados-unidos",
+      "title": "Unión Europea exige a Meta proteger a los menores en Europa tras acuerdo en Estados Unidos",
+      "category": "Mundo",
+      "bullets_20s": "• La Unión Europea está tomando medidas para proteger a los menores en línea.\n• Meta deberá implementar nuevas políticas de seguridad en Europa.\n• El acuerdo en Estados Unidos genera repercusiones en el ámbito europeo.\n• Las redes sociales enfrentan un mayor escrutinio por la seguridad infantil.\n• Esta exigencia marca un precedente en la regulación de redes sociales.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/union-europea-exige-a-meta-proteger-a-los-menores/EG6FGID5TNHRDMDIMPVG7HUS3E/story/",
+      "publish_date": "2026-08-27T16:28:40.000Z",
+      "teaser": "Lo clave en 20 segundos: la UE exige nuevas medidas de protección infantil a Meta.",
+      "image_url": "https://www.nacion.com/resizer/v2/SVBPE3QFMBCSFPRR2RAZID3TMY.jpg?auth=a55777514a6225287ed919433044d77eee9a35a9a5aa57b3f7aa6c63250f8b51&smart=true&width=6048&height=4024",
+      "description": "La Unión Europea exige que Meta aplique en Europa medidas para proteger a menores tras el acuerdo alcanzado por la empresa en Estados Unidos.",
+      "featured": false
+    },
+    {
+      "slug": "nvidia-comprara-hugging-face-plataforma-de-inteligencia-artificial-por-12900-millones",
+      "title": "Nvidia comprará Hugging Face, plataforma de inteligencia artificial, por $12.900 millones",
+      "category": "Mundo",
+      "bullets_20s": "• Nvidia está ampliando su influencia en el campo de la inteligencia artificial con esta adquisición.\n• Hugging Face es conocido por sus contribuciones al desarrollo de modelos de lenguaje.\n• La compra se enmarca en la creciente competencia por dominar el sector tecnológico.\n• Expertos resaltan la importancia de la inteligencia artificial en diversas industrias.\n• Esta operación podría transformar la forma en que se desarrollan las aplicaciones de IA.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/nvidia-comprara-hugging-face-plataforma-de/3MFANRDSVRCKHKRZ5NYU5SPO7Q/story/",
+      "publish_date": "2026-08-27T16:19:42.000Z",
+      "teaser": "Lo clave en 20 segundos: Nvidia refuerza su posición en IA con la compra de Hugging Face por $12.900 millones.",
+      "image_url": "https://www.nacion.com/resizer/v2/XTQMPZDWD5F2NIQUHXZ2ITPMQU.jpg?auth=508945f8e0809b54a0baa1c8d18822d453064fbf0a1e01ba28b77abe6abfc3b9&smart=true&width=3297&height=2166",
+      "description": "Nvidia adquirirá Hugging Face por $12.900 millones, según The Information, en una operación que ampliaría su apuesta por la inteligencia artificial.",
+      "featured": false
+    },
+    {
+      "slug": "polemica-en-colombia-el-fallo-judicial-que-obliga-al-presidente-a-disculparse-por-acto-en-su-investidura",
+      "title": "Polémica en Colombia: El fallo judicial que obliga al presidente a disculparse por acto en su investidura",
+      "category": "Mundo",
+      "bullets_20s": "• El fallo judicial en Colombia ha generado un gran debate en la opinión pública sobre el Estado laico.\n• Abelardo de la Espriella deberá emitir una disculpa en alocución nacional, lo que es poco común.\n• La decisión del juez pone en evidencia la relación entre la religión y la política en Colombia.\n• Se esperan reacciones de distintos sectores, tanto a favor como en contra del fallo judicial.\n• El caso podría sentar precedentes sobre la separación Iglesia-Estado en el país sudamericano.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/polemica-en-colombia-el-fallo-judicial-que-obliga/UJY6IHRGL5FFVPSE3JDJAMDCYU/story/",
+      "publish_date": "2026-08-27T16:14:10.000Z",
+      "teaser": "Lo clave en 20 segundos: Un juez colombiano exige disculpa del presidente por violar el Estado laico en su investidura.",
+      "image_url": "https://www.nacion.com/resizer/v2/EDVCUP6RTBGVRIQ4LQVTRKGXXE.jpg?auth=641102b6a67e4b4688330e5cf505bc895af8ed7beec91099c5e1edadcbb7b502&smart=true&width=1200&height=798",
+      "description": "Un juez ordenó al presidente Abelardo de la Espriella disculparse en alocución nacional por violar el Estado laico en su investidura. Conozca los detalles.",
+      "featured": false
+    },
+    {
       "slug": "guillermo-arriaga-puedes-escribir-una-obra-maestra-sobre-estar-aburrido-viendo-instagram",
       "title": "Guillermo Arriaga: ‘Puedes escribir una obra maestra sobre estar aburrido viendo Instagram’",
       "category": "Mundo",
@@ -54,14 +93,14 @@
     },
     {
       "slug": "muere-a-los-84-anos-ratko-mladic-el-carnicero-de-bosnia-que-fue-condenado-a-cadena-perpetua-por-genocidio-en-la-antigua-",
-      "title": "Muere a los 84 años Ratko Mladic, el 'carnicero de Bosnia' que fue condenado a cadena perpetua por genocidio en la antigua Yugoslavia",
+      "title": "Muere a los 84 años Ratko Mladic, el \"carnicero de Bosnia\" que fue condenado a cadena perpetua por genocidio en la antigua Yugoslavia",
       "category": "Mundo",
-      "bullets_20s": "• Ratko Mladic, protagonista trágico de la historia de los Balcanes, falleció a los 84 años.\n• Conocido como el 'carnicero de Bosnia', fue un general controvertido en Yugoslavia.\n• Condenado a cadena perpetua en 2017, su juicio atrajo la atención mundial.\n• Mladic fue responsable de graves violaciones de derechos humanos durante la guerra.\n• Su muerte marca el fin de una era para un conflicto doloroso en la región.",
+      "bullets_20s": "• Ratko Mladic fue condenado por genocidio durante las guerras en Yugoslavia en los años 90.\n• Su nombre es sinónimo de crímenes atroces cometidos durante el conflicto de Bosnia.\n• La comunidad internacional lo consideraba un símbolo del nacionalismo serbio extremista.\n• Su condena fue vista como un hito en la justicia internacional por crímenes de guerra.\n• La muerte de Mladic deja un legado de dolor y sufrimiento en varias comunidades.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c4g07ep8z93o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-27T13:59:02.000Z",
-      "teaser": "Lo clave en 20 segundos: Ratko Mladic, figura central del genocidio en Bosnia, ha fallecido a los 84 años.",
-      "image_url": "",
+      "teaser": "Lo clave en 20 segundos: Falleció Ratko Mladic, condenado por genocidio en la antigua Yugoslavia.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/1796/live/58267690-4597-11f1-bd52-e755d604ece4.jpg",
       "description": "Mladić fue condenado en 2017 por genocidio, crímenes de guerra y crímenes de lesa humanidad durante las guerras en la antigua Yugoslavia entre 1992 y 1995.",
       "featured": false
     },
@@ -108,11 +147,11 @@
       "slug": "que-causo-la-avalancha-y-otras-3-preguntas-sobre-la-catastrofe-que-dejo-cientos-de-muertos-y-desaparecidos-en-nepal-y-ti",
       "title": "Qué causó la avalancha y otras 3 preguntas sobre la catástrofe que dejó cientos de muertos y desaparecidos en Nepal y Tíbet",
       "category": "Mundo",
-      "bullets_20s": "• La avalancha en Nepal y Tíbet ha causado una gran tragedia, con cientos de muertos.\n• Un equipo de científicos investiga el origen del desastre natural que sorprendió a muchos.\n• Se especula que un glaciar podría ser la causa, en vez de un sismo como se creía.\n• Las condiciones climáticas extremas pueden haber influido en la ocurrencia de la avalancha.\n• Se requiere de más análisis y estudios para esclarecer lo sucedido completamente.",
+      "bullets_20s": "• La avalancha en Nepal y Tíbet ha generado múltiples preguntas sobre su causa y consecuencias.\n• Investigaciones sugieren que un glaciar podría haber desencadenado el devastador evento natural.\n• Se estima que cientos de personas han perdido la vida y muchas más están desaparecidas.\n• Los científicos deberán realizar estudios más profundos para determinar la causa real del evento.\n• Las condiciones climáticas extremas en la región pueden haber contribuido a la tragedia.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c99dv957nj0o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-27T13:12:34.000Z",
-      "teaser": "Lo clave en 20 segundos: La avalancha que impactó Nepal y Tíbet podría haber sido causada por un glaciar.",
+      "teaser": "Lo clave en 20 segundos: la avalancha en Nepal y Tíbet dejó un saldo trágico y plantea preguntas importantes.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/e435/live/31568510-a216-11f1-9090-b51af3a01fc2.jpg",
       "description": "Un grupo de científicos plantea que el evento pudo haber sido causado por el impacto de un glaciar, y no por un sismo, como se pensó en un principio. Aun así, serán necesarios más análisis para confirmar qué ocurrió realmente.",
       "featured": false
@@ -303,11 +342,11 @@
       "slug": "muere-a-los-97-anos-yayoi-kusama-la-artista-japonesa-que-convirtio-los-lunares-en-un-simbolo-del-arte-contemporaneo",
       "title": "Muere a los 97 años Yayoi Kusama, la artista japonesa que convirtió los lunares en un símbolo del arte contemporáneo",
       "category": "Mundo",
-      "bullets_20s": "• Yayoi Kusama fue una figura influyente en el arte contemporáneo a nivel global.\n• Sus obras, llenas de lunares, desafiaron las normas del arte convencional.\n• Kusama utilizó la repetición como un medio para explorar la identidad.\n• A lo largo de su carrera, expuso en importantes museos de todo el mundo.\n• Su legado perdura a través de sus innovadoras instalaciones y esculturas.",
+      "bullets_20s": "• Yayoi Kusama fue una pionera en el arte contemporáneo durante más de siete décadas de carrera.\n• Sus obras, con lunares icónicos, desafiaron las normas del arte tradicional en el mundo.\n• Kusama enfrentó desafíos personales que influyeron fuertemente en su proceso artístico.\n• A través de sus instalaciones inmersivas, conectó al público con temas de infinito y obsesión.\n• Su legado incluye una influencia indiscutible en nuevas generaciones de artistas contemporáneos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c20ljrlv0qvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-27T09:46:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Yayoi Kusama fallece, dejando un impacto duradero en el arte contemporáneo.",
+      "teaser": "Lo clave en 20 segundos: Yayoi Kusama, la artista icónica de los lunares, fallece a los 97 años.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/68e9/live/c0186840-a1df-11f1-b109-879e35c24276.jpg",
       "description": "Sus coloridas creaciones atrajeron a grandes multitudes y alcanzaron algunos de los precios más altos jamás pagados por una artista femenina.",
       "featured": false
@@ -482,6 +521,19 @@
       "featured": false
     },
     {
+      "slug": "50-anos-de-la-escuela-de-ingenieria-electronica-del-tec-trayectoria-innovacion-y-liderazgo-regional",
+      "title": "50 años de la Escuela de Ingeniería Electrónica del TEC: trayectoria, innovación y liderazgo regional",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Escuela de Ingeniería Electrónica del TEC ha logrado 50 años de formación y desarrollo tecnológico.\n• Se cuenta con más de 2,700 graduados en diversas áreas de la ingeniería y tecnología.\n• Más de 1,300 estudiantes activos están actualmente en sus programas de licenciatura y posgrado.\n• La escuela ha innovado constantemente con proyectos que impactan la comunidad y la industria.\n• Su trayectoria incluye alianzas con otras universidades y proyectos de investigación internacional.\n• Se han abordado temas como la automatización, energías limpias y desarrollo de microchips.\n• Destacados proyectos incluyen el primer satélite de Costa Rica y sistemas de captación de agua.\n• El TEC celebra su evolución y adaptación ante los cambios en la industria tecnológica.\n• La escuela promueve la formación integral desde técnicos hasta profesionales altamente calificados.\n• Se resalta el compromiso de la Escuela con la sostenibilidad y el rigor académico.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/50-anos-escuela-ingenieria-electronica-tec-trayectoria-innovacion-liderazgo-regional",
+      "publish_date": "2026-08-26T20:59:51.000Z",
+      "teaser": "Lo clave en 20 segundos: La Escuela de Ingeniería Electrónica del TEC celebra 50 años de innovación y liderazgo en Costa Rica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/50-aniversario-escuela-ingenieria-electronica_rcascante-02.jpg",
+      "description": "50 años de la Escuela de Ingeniería Electrónica del TEC: trayectoria, innovación y liderazgo regional.",
+      "featured": false
+    },
+    {
       "slug": "cuanto-pagarian-radios-y-televisoras-con-el-nuevo-canon-explicamos-el-proyecto-y-sus-consecuencias",
       "title": "¿Cuánto pagarían radios y televisoras con el nuevo canon? Explicamos el proyecto y sus consecuencias",
       "category": "Costa Rica",
@@ -492,6 +544,19 @@
       "teaser": "Lo clave en 20 segundos: nuevo canon para radios y televisoras en Costa Rica y sus implicaciones.",
       "image_url": "https://www.nacion.com/resizer/v2/VZEMKXVHQ5DZBPFTWQAHYI7ZAQ.JPG?auth=bac68d99d63c6e8cd103efef109d9b7d84079ee5be58b6d3722bd0470d9e271d&smart=true&width=4000&height=2667",
       "description": "Explicamos cómo se calcularía el nuevo canon para radios y televisoras en Costa Rica, cuáles medios quedarían exonerados y qué sanciones establece.",
+      "featured": false
+    },
+    {
+      "slug": "technical-university-of-munich-tum",
+      "title": "TECHNICAL UNIVERSITY OF MUNICH (TUM)",
+      "category": "Mundo",
+      "bullets_20s": "• La Universidad Técnica de Múnich es una de las más prestigiosas de Alemania y Europa.\n• TUM ofrece una amplia gama de programas en ciencia y tecnología, con enfoque en la innovación.\n• La universidad destaca en investigación, colaborando con empresas e instituciones a nivel mundial.\n• Programas en inglés están disponibles, facilitando la educación a estudiantes internacionales.\n• Su campus alberga laboratorios de alta tecnología y un entorno innovador de aprendizaje.",
+      "source_name": "mmata",
+      "source_url": "http://www.tec.ac.cr/technical-university-munich-tum",
+      "publish_date": "2026-08-26T20:35:34.000Z",
+      "teaser": "Lo clave en 20 segundos: TUM es una universidad prestigiosa enfocada en ciencia y tecnología.",
+      "image_url": "",
+      "description": "TECHNICAL UNIVERSITY OF MUNICH (TUM)",
       "featured": false
     },
     {
@@ -966,11 +1031,11 @@
       "slug": "editorial-tecnologica-acerca-la-ciencia-y-la-riqueza-natural-de-costa-rica-en-la-feria-internacional-del-libro",
       "title": "Editorial Tecnológica acerca la ciencia y la riqueza natural de Costa Rica en la Feria Internacional del Libro",
       "category": "Costa Rica",
-      "bullets_20s": "• La Editorial Tecnológica presenta su catálogo en la Feria Internacional del Libro en Costa Rica.\n• Se destacan publicaciones sobre biodiversidad y conservación, muy buscadas por los visitantes.\n• Autores como Leandro Arias presentan obras sobre aves y mamíferos de Costa Rica en la feria.\n• El stand del Tecnológico de Costa Rica ha sido un lugar muy visitado durante el evento.\n• Las actividades de la FILCR son gratuitas y abiertas al público interesado en la ciencia.",
+      "bullets_20s": "• La Editorial Tecnológica presenta su catálogo en la Feria Internacional del Libro de Costa Rica.\n• Se destaca el interés por publicaciones sobre biodiversidad y conservación en el evento.\n• Los libros académicos y científicos sobre naturaleza atraen a muchos visitantes en la feria.\n• Obras como 'Aves endémicas de Costa Rica' generan gran interés en los asistentes.\n• La feria se realiza en la Antigua Aduana, un espacio significativo para la cultura costarricense.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/editorial-tecnologica-acerca-ciencia-riqueza-natural-costa-rica-feria-internacional-libro",
       "publish_date": "2026-08-26T03:35:37.000Z",
-      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica resalta la riqueza natural de Costa Rica en la FILCR 2026.",
+      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica está en la FILCR 2026 presentando su catálogo sobre biodiversidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/feria-internacional-del-libro-2026_antigua-aduana_san-jose_tec_gscott-02.JPG",
       "description": "Editorial Tecnológica acerca la ciencia y la riqueza natural de Costa Rica en la Feria Internacional del Libro",
       "featured": false
@@ -1421,11 +1486,11 @@
       "slug": "campus-san-carlos-fortalece-el-turismo-sostenible-mediante-monitoreo-de-aves",
       "title": "Campus San Carlos fortalece el turismo sostenible mediante monitoreo de aves",
       "category": "Costa Rica",
-      "bullets_20s": "• Se realizó un programa de monitoreo participativo sobre poblaciones de aves silvestres en San Carlos.\n• 420 personas participaron en talleres y actividades sobre avifauna y conservación en la zona.\n• La Dra. Maglianesi destaca la importancia de la educación ambiental y participación local.\n• El proyecto articuló esfuerzos con comunidades locales e instituciones educativas de la región.\n• La Finca La Balsa se consolida como un modelo de desarrollo rural en ecoturismo.",
+      "bullets_20s": "• Investigación del TEC evaluó la avifauna y su vínculo con la producción agropecuaria local.\n• El programa de monitoreo participativo impactó a más de 400 personas en la región.\n• Se integró la investigación con la educación ambiental y el turismo sostenible en la comunidad.\n• Participaron instituciones educativas, estudiantes universitarios y comunidades locales en el proyecto.\n• La Dra. Maglianesi destacó la importancia de la avifauna en el bienestar socioambiental.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/campus-san-carlos-fortalece-turismo-sostenible-monitoreo-aves",
       "publish_date": "2026-08-25T16:14:33.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevo proyecto de monitoreo de aves impulsa el turismo sostenible en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El Campus San Carlos impulsa el turismo sostenible con monitoreo de aves.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/monitoreo-8.jpg",
       "description": "Campus San Carlos fortalece el turismo sostenible mediante monitoreo de aves",
       "featured": false
@@ -84631,10 +84696,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-27T15:45:25.885Z",
-  "total": 6510,
-  "removed_soccer_news_count": 1116,
+  "generated_at": "2026-08-27T16:45:24.377Z",
+  "total": 6515,
+  "removed_soccer_news_count": 1117,
   "removed_soccer_news_titles": [
+    "La UEFA prepara denuncia por ‘gestión desleal’ contra Gianni Infantino",
     "Santa Fe acaba el sueño continental de River y agrava la crisis del equipo de Coudet",
     "El mundialista Vozinha debuta con Colo Colo en el fútbol de Chile",
     "Costa Rica tendrá dos representantes en el Campeonato Mundial de Paraciclismo",
@@ -84683,7 +84749,6 @@
     "Jamal Musiala se desmayó nuevamente en pleno partido; jugador explicó luego la razón (video)",
     "Cartaginés vs. Verdes: hora y canal para ver el partido con los brumosos obligados a ganar",
     "Copa Centroamericana de Concacaf: Día, hora exacta y cómo ver todos los partidos de esta semana",
-    "Perdí una pierna cuando tenía 16 años y ahora soy 4 veces campeón mundial de surf",
-    "Tabla de posiciones del Torneo Apertura 2026: así marcha el fútbol en Costa Rica tras la jornada 4"
+    "Perdí una pierna cuando tenía 16 años y ahora soy 4 veces campeón mundial de surf"
   ]
 }
