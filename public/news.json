@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "ricardo-sancho-responde-a-alvaro-ramos-el-pln-no-acepta-dictadores-ni-concentracion-de-poder-ni-afuera-ni-adentro",
+      "title": "Ricardo Sancho responde a Álvaro Ramos: ‘El PLN no acepta dictadores ni concentración de poder, ni afuera ni adentro’",
+      "category": "Costa Rica",
+      "bullets_20s": "• Ricardo Sancho defendió la autonomía del Partido Liberación Nacional ante intentos de control externo y político.\n• El PLN reafirmó su compromiso con la democracia y la transparencia en sus procesos internos.\n• Álvaro Ramos había hecho gestiones que Sancho considera inapropiadas para la política costarricense.\n• La respuesta de Sancho subraya la importancia de prevenir la concentración del poder en cualquier partido.\n• El contexto político actual del país se complica con estas tensiones entre líderes.\n• Los partidos deben promover un ambiente de respeto y libre elección dentro de sus filas.",
+      "source_name": "Lucía Astorga",
+      "source_url": "https://www.nacion.com/politica/ricardo-sancho-responde-a-alvaro-ramos-el-pln-no/HG2K24HONBF4TCC5DQXKNKV5MM/story/",
+      "publish_date": "2026-08-27T01:54:38.000Z",
+      "teaser": "Lo clave en 20 segundos: Sancho defiende la autonomía del PLN ante intenciones de control político.",
+      "image_url": "https://www.nacion.com/resizer/v2/BUHKQLWGXBHWHA3523S7PFPL5Q.png?auth=2054aeb093f3d808132da6006c46ee640924aa98b058f4ab99060b67a026a03a&smart=true&width=1200&height=628",
+      "description": "Ricardo Sancho, presidente del Partido Liberación Nacional (PLN), reaccionó con dureza a las gestiones del excandidato presidencial Álvaro Ramos para impedir su eventual reelección al frente de la agrupación verdiblanca.",
+      "featured": false
+    },
+    {
       "slug": "minor-alvarez-queda-fuera-de-convocatoria-de-xelaju-y-su-futuro-genera-dudas",
       "title": "Minor Álvarez queda fuera de convocatoria de Xelajú y su futuro genera dudas",
       "category": "Mundo",
@@ -92,6 +105,19 @@
       "featured": false
     },
     {
+      "slug": "las-impresionantes-imagenes-de-la-devastadora-avalancha-que-dejo-cientos-de-muertos-y-desaparecidos-en-la-frontera-de-ne",
+      "title": "Las impresionantes imágenes de la devastadora avalancha que dejó cientos de muertos y desaparecidos en la frontera de Nepal",
+      "category": "Mundo",
+      "bullets_20s": "• Las imágenes muestran la devastación provocada por la avalancha en la frontera de Nepal y Tíbet.\n• Se reportan cientos de muertos y desaparecidos tras las intensas lluvias en la región.\n• Las comunidades locales están luchando contra las inundaciones y deslizamientos de tierra.\n• Los servicios de rescate trabajan arduamente para encontrar a las víctimas desaparecidas.\n• La tragedia ha resaltado la vulnerabilidad de las regiones montañosas ante desastres naturales.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cnvld6p2djpo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-26T21:46:13.000Z",
+      "teaser": "Lo clave en 20 segundos: devastadora avalancha en Nepal deja cientos de muertos y desaparecidos.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/288c/live/66103d70-a197-11f1-9d54-6f26c2c0ae1e.jpg",
+      "description": "Se teme que cientos de personas hayan muerto a causa de las inundaciones y los deslizamientos de tierra en la frontera entre Nepal y Tíbet.",
+      "featured": false
+    },
+    {
       "slug": "cuanto-pagarian-radios-y-televisoras-con-el-nuevo-canon-explicamos-el-proyecto-y-sus-consecuencias",
       "title": "¿Cuánto pagarían radios y televisoras con el nuevo canon? Explicamos el proyecto y sus consecuencias",
       "category": "Costa Rica",
@@ -134,12 +160,12 @@
       "slug": "un-oso-polar-curioso-una-ardilla-afortunada-y-otros-candidatos-al-premio-al-fotografo-de-vida-silvestre-del-ano",
       "title": "Un oso polar curioso, una ardilla afortunada y otros candidatos al premio al Fotógrafo de Vida Silvestre del Año",
       "category": "Mundo",
-      "bullets_20s": "• El concurso de Fotógrafo de Vida Silvestre destaca la importancia de la fauna salvaje en el planeta.\n• Las imágenes buscan crear conciencia sobre la conservación de especies amenazadas a nivel global.\n• El oso polar ha capturado la atención del jurado por su curioso comportamiento retratado en la fotografía.\n• La participación en el concurso muestra talentos de fotógrafos de todas partes del mundo.\n• Cada año, las obras presentadas reflejan la belleza y retos de la vida salvaje actual.",
+      "bullets_20s": "• Un concurso de fotografía celebra la vida silvestre y su belleza en el planeta.\n• Las menciones honoríficas reconocen el trabajo de fotógrafos alrededor del mundo.\n• El oso polar y la ardilla son ejemplos de la diversidad mostrada en el certamen.\n• La participación internacional destaca la importancia de la conservación ambiental.\n• Los fotógrafos utilizan sus obras para concienciar sobre la situación de la fauna.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c046pdk10d9o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-26T19:12:24.000Z",
-      "teaser": "Lo clave en 20 segundos: un oso polar y otros animales destacan en concurso fotográfico mundial.",
-      "image_url": "",
+      "teaser": "Lo clave en 20 segundos: Fotografía de vida silvestre destaca en concurso internacional.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/db40/live/d4ab0780-9baa-11f1-92e6-b1dfcecd4308.jpg",
       "description": "La fotografía del oso polar tomada por Audun Rikardsen figuró entre las obras que recibieron una mención honorífica en el concurso de este año organizado por el Museo de Historia Natural de Londres, en Reino Unido.",
       "featured": false
     },
@@ -573,19 +599,6 @@
       "featured": false
     },
     {
-      "slug": "editorial-tecnologica-acerca-la-ciencia-y-la-riqueza-natural-de-costa-rica-en-la-feria-internacional-del-libro",
-      "title": "Editorial Tecnológica acerca la ciencia y la riqueza natural de Costa Rica en la Feria Internacional del Libro",
-      "category": "Costa Rica",
-      "bullets_20s": "• La Feria Internacional del Libro 2026 destacó la biodiversidad y la conservación en sus temáticas.\n• Editorial Tecnológica presentó libros académicos sobre naturaleza y ciencia en su stand.\n• Las publicaciones sobre fauna y flora costarricense atrajeron a numerosos visitantes interesados.\n• Autores como Leandro Arias participaron en la feria promoviendo sus obras sobre aves endémicas.\n• La conservación del patrimonio natural costarricense fue un tema central en las actividades del evento.",
-      "source_name": "igrajales",
-      "source_url": "http://www.tec.ac.cr/editorial-tecnologica-acerca-ciencia-riqueza-natural-costa-rica-feria-internacional-libro",
-      "publish_date": "2026-08-26T03:35:37.000Z",
-      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica resalta la biodiversidad en la Feria Internacional del Libro 2026.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/feria-internacional-del-libro-2026_antigua-aduana_san-jose_tec_gscott-02.JPG",
-      "description": "Editorial Tecnológica acerca la ciencia y la riqueza natural de Costa Rica en la Feria Internacional del Libro",
-      "featured": false
-    },
-    {
       "slug": "chances-de-la-jps-estos-son-los-numeros-ganadores-del-sorteo-de-este-martes-25-de-agosto",
       "title": "Chances de la JPS: estos son los números ganadores del sorteo de este martes 25 de agosto",
       "category": "Costa Rica",
@@ -791,6 +804,19 @@
       "teaser": "Lo clave en 20 segundos: Dolly Parton, ícono del country, falleció dejando un legado musical profundo y duradero.",
       "image_url": "",
       "description": "La tristeza nos invade a nosotros, no a Dolly, dijo Brian Seaver, sobrino de Parton, en un video publicado en las redes sociales de la artista.",
+      "featured": false
+    },
+    {
+      "slug": "editorial-tecnologica-acerca-la-ciencia-y-la-riqueza-natural-de-costa-rica-en-la-feria-internacional-del-libro",
+      "title": "Editorial Tecnológica acerca la ciencia y la riqueza natural de Costa Rica en la Feria Internacional del Libro",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Feria Internacional del Libro de Costa Rica se está llevando a cabo en la Antigua Aduana este año.\n• La Editorial Tecnológica presenta libros sobre biodiversidad, conservación y riqueza natural del país.\n• Los visitantes muestran gran interés en obras académicas y publicaciones sobre la naturaleza costarricense.\n• Autores reconocidos generan interacción directa con el público durante la feria, promoviendo sus obras.\n• Se destacan publicaciones como Aves endémicas de Costa Rica y Mamíferos de Costa Rica entre las más buscadas.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/editorial-tecnologica-acerca-ciencia-riqueza-natural-costa-rica-feria-internacional-libro",
+      "publish_date": "2026-08-25T21:35:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica destaca la biodiversidad en la Feria Internacional del Libro.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/feria-internacional-del-libro-2026_antigua-aduana_san-jose_tec_gscott-02.JPG",
+      "description": "Editorial Tecnológica acerca la ciencia y la riqueza natural de Costa Rica en la Feria Internacional del Libro",
       "featured": false
     },
     {
@@ -1031,11 +1057,11 @@
       "slug": "campus-san-carlos-fortalece-el-turismo-sostenible-mediante-monitoreo-de-aves",
       "title": "Campus San Carlos fortalece el turismo sostenible mediante monitoreo de aves",
       "category": "Costa Rica",
-      "bullets_20s": "• Investigación del TEC evaluó las poblaciones de avifauna en la región Huetar Norte.\n• El programa de monitoreo involucró a más de 420 personas en talleres prácticos.\n• Se promovió la educación ambiental y la valoración de la biodiversidad local.\n• El proyecto combinó investigación biológica y turismo sostenible de manera efectiva.\n• Las comunidades locales compartieron conocimientos sobre la biodiversidad en sus áreas.",
+      "bullets_20s": "• Investigación del TEC analiza la avifauna y su interacción con la producción agropecuaria.\n• La iniciativa impactó directamente a más de 400 personas en la región Huetar Norte.\n• Se realizaron talleres comunitarios para promover educación ambiental en la zona.\n• Participación de estudiantes y comunidades locales en el monitoreo de aves.\n• El proyecto fortalece oportunidades sostenibles para comunidades rurales y conservación.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/campus-san-carlos-fortalece-turismo-sostenible-monitoreo-aves",
       "publish_date": "2026-08-25T16:14:33.000Z",
-      "teaser": "Lo clave en 20 segundos: El Campus San Carlos impulsa el turismo sostenible monitoreando aves y fortaleciendo comunidades.",
+      "teaser": "Lo clave en 20 segundos: El Campus San Carlos promueve turismo sostenible a través del monitoreo de aves.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/monitoreo-8.jpg",
       "description": "Campus San Carlos fortalece el turismo sostenible mediante monitoreo de aves",
       "featured": false
@@ -1498,12 +1524,12 @@
     {
       "slug": "naturear-la-realidad-aumentada-se-suma-a-la-conservacion-para-promover-el-turismo-sostenible-y-el-desarrollo-economico",
       "title": "NatureAR: la realidad aumentada se suma a la conservación para promover el turismo sostenible y el desarrollo económico",
-      "category": "Tecnología",
-      "bullets_20s": "• NatureAR busca aumentar la visitación a parques mediante el uso de realidad aumentada, beneficiando el ecoturismo.\n• La primera entrega de la app se realizó en la Reserva Natural Montaña Sagrada, rica en biodiversidad.\n• El lanzamiento de la versión del Parque Nacional Volcán Arenal está programado para el 6 de noviembre.\n• Estudiantes y docentes del TEC están involucrados en la creación y pruebas de esta innovadora aplicación.\n• NatureAR ofrece una experiencia educativa para los visitantes sobre la flora y fauna de los parques naturales.",
+      "category": "Costa Rica",
+      "bullets_20s": "• NatureAR fusiona tecnología avanzada y conservación para fomentar el turismo sostenible en Costa Rica.\n• La primera app fue lanzada en la Reserva Natural Montaña Sagrada, y tiene excelentes valoraciones.\n• El Parque Nacional Volcán Arenal recibirá su versión de NatureAR el 6 de noviembre de 2026.\n• El proyecto involucra a estudiantes en la creación de tecnología para enriquecer la experiencia turística.\n• NatureAR busca atraer a visitantes jóvenes a espacios naturales a través de experiencias inmersivas.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/naturear-realidad-aumentada-se-suma-conservacion-promover-turismo-sostenible-desarrollo-economico",
       "publish_date": "2026-08-24T20:59:48.000Z",
-      "teaser": "Lo clave en 20 segundos: NatureAR fusiona tecnología y conservación para enriquecer el turismo sostenible en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: NatureAR une conservación y tecnología para un turismo sostenible.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/nature_ar_pcentenoflores-26.jpg",
       "description": "NatureAR: la realidad aumentada se suma a la conservación para promover el turismo sostenible y el desarrollo económico",
       "featured": false
@@ -84241,8 +84267,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-27T01:45:24.318Z",
-  "total": 6480,
+  "generated_at": "2026-08-27T02:45:24.292Z",
+  "total": 6482,
   "removed_soccer_news_count": 1114,
   "removed_soccer_news_titles": [
     "Costa Rica tendrá dos representantes en el Campeonato Mundial de Paraciclismo",
