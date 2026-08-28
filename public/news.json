@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "trump-asegura-haber-alcanzado-con-venezuela-el-mayor-acuerdo-de-petroleo-de-la-historia",
+      "title": "Trump asegura haber alcanzado con Venezuela el \"mayor acuerdo de petróleo de la historia\"",
+      "category": "Mundo",
+      "bullets_20s": "• Trump afirma haber concretado un acuerdo significativo en el sector del petróleo con Venezuela.\n• El pacto comprende el control mayoritario sobre las reservas de petróleo venezolanas.\n• Este acuerdo podría impactar en el mercado petrolero mundial a largo plazo.\n• Se habla de reservas que podrían sumar más de 65.000 millones de barriles.\n• El presidente busca fortalecer la posición energética de EE.UU. con este acuerdo.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cwyz1d15w9go?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-28T23:26:20.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump anuncia acuerdo histórico de petróleo con Venezuela.",
+      "image_url": "",
+      "description": "El presidente estadounidense aseguró que el pacto otorga a su país el control mayoritario sobre más de 65.000 millones de barriles de reservas venezolanas.",
+      "featured": false
+    },
+    {
+      "slug": "onda-tropical-n-38-influira-en-el-tiempo-de-costa-rica-este-sabado-estas-zonas-tendran-lluvias",
+      "title": "Onda tropical N.° 38 influirá en el tiempo de Costa Rica este sábado: estas zonas tendrán lluvias",
+      "category": "Costa Rica",
+      "bullets_20s": "• La onda tropical N.° 38 afectará múltiples regiones del país durante el sábado.\n• Se prevén lluvias significativas y tormentas eléctricas en ciertas áreas.\n• El IMN ha emitido alertas sobre condiciones climáticas inestables en Costa Rica.\n• Es recomendable tomar precauciones ante posibles aguaceros y vientos fuertes.\n• Se espera que las lluvias sean más intensas en la zona norte y central.\n• La población debe estar atentos a las actualizaciones meteorológicas del IMN.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/sucesos/onda-tropical-n-38-influira-en-el-tiempo-de-costa/5YRQIYIFINBGZBYOUMTPUH5ZXY/story/",
+      "publish_date": "2026-08-28T23:12:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Se esperan lluvias y tormentas eléctricas por la onda tropical N.° 38 este sábado.",
+      "image_url": "https://www.nacion.com/resizer/v2/WTSVHOVZRFEFNBU2PZ7LIIMQMQ.JPG?auth=4d20f5085a5119dc159a57b4aa98616402d1fa628aebdc175940092d198248d9&smart=true&width=4000&height=2667",
+      "description": "La onda tropical N.° 38 favorecerá condiciones inestables este sábado en Costa Rica. Conozca dónde el IMN pronostica lluvias, aguaceros y tormenta eléctrica.",
+      "featured": false
+    },
+    {
+      "slug": "federacion-de-colegios-profesionales-rechaza-proyecto-que-elimina-colegiatura-obligatoria-el-ejercicio-profesional-queda",
+      "title": "Federación de Colegios Profesionales rechaza proyecto que elimina colegiatura obligatoria: ‘El ejercicio profesional queda degradado a una mera actividad mercantil’",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Federación de Colegios Profesionales aboga por la defensa de la colegiatura obligatoria en el ejercicio profesional.\n• Critican el proyecto propuesto por Marta Esquivel, argumentando que afecta la profesionalización en el país.\n• Se advierte sobre la degradación del ejercicio profesional a actividad mercantil sin controles éticos rigurosos.\n• La eliminación de la colegiatura podría abrir las puertas a ejercicios incompetentes en diversas profesiones.\n• Los colegios profesionales piden consideración rigurosa para preservar estándares de idoneidad y ética.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/politica/federacion-de-colegios-profesionales-rechaza/NZ43TAPXBFD2VFPUHZSSULCDJI/story/",
+      "publish_date": "2026-08-28T23:11:19.000Z",
+      "teaser": "Lo clave en 20 segundos: La Federación defiende la colegiatura obligatoria ante riesgos éticos en la profesión.",
+      "image_url": "https://www.nacion.com/resizer/v2/4Y6DODI27NGFNGCYA5N3CSGFIE.jpg?auth=786f1109da6142ec3242d567fac8b7871a565d682ea1acb4b6091ddca8bf2bd9&smart=true&width=1440&height=1800",
+      "description": "La Federación que agrupa a 33 colegios profesionales cuestiona el proyecto de Marta Esquivel y advierte sobre una eventual pérdida de controles éticos y de idoneidad.",
+      "featured": false
+    },
+    {
+      "slug": "en-el-tec-trabajan-con-un-rover-para-explorar-la-luna-conversemos-con-el-tec",
+      "title": "En el TEC trabajan con un rover para explorar la Luna, Conversemos con el TEC",
+      "category": "Ciencia",
+      "bullets_20s": "• El TEC está desarrollando un rover para asistir en futuras misiones lunares del programa Artemis.\n• Este rover probará algoritmos que permitirán la navegación en la superficie lunar.\n• Habrá un programa especial que discutirá este proyecto el 2 de setiembre a las 10 a.m.\n• El coordinador del SETEC-Lab, Johan Carvajal, compartirá detalles en la transmisión.\n• Los interesados podrán enviar preguntas y comentarios durante el programa en vivo.",
+      "source_name": "johumana",
+      "source_url": "http://www.tec.ac.cr/tec-trabajan-rover-explorar-luna-conversemos-tec",
+      "publish_date": "2026-08-28T22:50:18.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC desarrolla un rover para futuras exploraciones lunares.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/conversemos-horizontal.png",
+      "description": "En el TEC trabajan con un rover para explorar la Luna, Conversemos con el TEC",
+      "featured": false
+    },
+    {
       "slug": "asamblea-abre-concurso-publico-para-sustituir-a-magistrada-de-la-sala-tercera",
       "title": "Asamblea abre concurso público para sustituir a magistrada de la Sala Tercera",
       "category": "Costa Rica",
@@ -76,6 +128,19 @@
       "teaser": "Lo clave en 20 segundos: No hay desaparecidos tras el vuelco de embarcaciones en Guanacaste.",
       "image_url": "https://www.nacion.com/resizer/v2/443XQQZNYZDPBM3TGWTTQWYYXI.jpg?auth=ba7c3d544253f4444352bf501f9c9b2842a8412fa24609e4ee5d15ffe39cf5d4&smart=true&width=1599&height=899",
       "description": "Cruz Roja descarta desaparecidos tras vuelco de embarcaciones en Guanacaste.",
+      "featured": false
+    },
+    {
+      "slug": "fallece-a-los-34-anos-el-monarca-mas-joven-del-mundo",
+      "title": "Fallece a los 34 años el monarca más joven del mundo",
+      "category": "Mundo",
+      "bullets_20s": "• El rey Oyo nació en un entorno político turbulento, adaptándose a las tradiciones milenarias.\n• Su reinado comenzó a una edad temprana, destacando en la historia de Uganda.\n• Fue reconocido por su rol en la preservación de la cultura y tradiciones locales.\n• El monarca participó en diversas iniciativas para el desarrollo de su comunidad.\n• Su legado perdura en la memoria de su pueblo y sus esfuerzos benéficos.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cz6zjvvvdn5o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-28T19:44:05.000Z",
+      "teaser": "Lo clave en 20 segundos: fallece el joven monarca Oyo de Uganda, un líder cultural influyente.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/eabe/live/6ed73620-a313-11f1-93b3-fd1f81ebc907.jpg",
+      "description": "El rey Oyo gobernaba en el reino de Tooro, en Uganda. Aparecía en el Libro Guinness de los Récords como el monarca más joven del mundo.",
       "featured": false
     },
     {
@@ -238,11 +303,11 @@
       "slug": "programa-de-actividades-semana-civica-tec-2026",
       "title": "Programa de actividades semana cívica TEC 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Semana Cívica TEC se celebra del 07 al 11 de setiembre de 2026.\n• Promueve los valores cívicos en la comunidad del Tecnológico de Costa Rica.\n• Se conmemora el 205 aniversario de la independencia de Costa Rica.\n• Actividades incluyen juegos tradicionales y presentaciones culturales diversas.\n• El lema del evento es: 'Celebremos lo que somos'.",
+      "bullets_20s": "• El Tecnológico de Costa Rica conmemora la Semana Cívica del 07 al 11 de septiembre.\n• Celebramos 205 años de independencia con actividades culturales y tradicionales.\n• Se realizarán juegos como el 'Campeonato de jackses' en Plaza Azul.\n• Presentaciones culturales programadas en la Biblioteca José Figueres Ferrer.\n• Se llevará a cabo un desfile pasacalle el 10 de septiembre hacia el TEC.\n• Los valores cívicos son clave en la identidad y comunidad de Costa Rica.\n• Actividades incluyen presentaciones de grupos folclóricos y conferencias.\n• La celebración también incluye un desayuno patrio en Limón el 16 de septiembre.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/programa-actividades-semana-civica-tec-2026",
       "publish_date": "2026-08-28T15:26:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebramos la Semana Cívica TEC con actividades culturales y tradicionales.",
+      "teaser": "Lo clave en 20 segundos: Celebración de la Semana Cívica del TEC con diversas actividades culturales.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/1_1_0_0.jpg",
       "description": "Programa de actividades semana cívica TEC 2026",
       "featured": false
@@ -277,11 +342,11 @@
       "slug": "casa-de-la-ciudad-celebra-las-fiestas-patrias-con-la-feria-de-la-cultura-popular-guillermo-martinez-solano-2026",
       "title": "Casa de la Ciudad celebra las fiestas patrias con la Feria de la Cultura Popular “Guillermo Martínez Solano” 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Del 12 al 15 de septiembre se celebra la Feria de la Cultura Popular en el TEC.\n• Los visitantes podrán disfrutar de artesanías y gastronomía tradicional costarricense.\n• Habrá talleres gratuitos sobre diversas actividades culturales y artísticas disponibles.\n• Evento rinde homenaje a Guillermo Martínez Solano, maestro de la mascarada tradicional.\n• Se fomentará el intercambio cultural y la comercialización de emprendimientos locales.",
+      "bullets_20s": "• La Feria de la Cultura Popular se llevará a cabo del 12 al 15 de septiembre.\n• Habrá una variedad de artesanías y comidas tradicionales para disfrutar.\n• Los talleres gratuitos fomentarán el aprendizaje cultural en la comunidad.\n• La feria rendirá homenaje al maestro Guillermo Martínez Solano.\n• Participarán más de 30 emprendedores locales para visibilizar su trabajo.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/casa-ciudad-celebra-fiestas-patrias-feria-cultura-popular-guillermo-martinez-solano-2026",
       "publish_date": "2026-08-28T14:21:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Feria de Cultura Popular con arte, comida y tradición del 12 al 15 de septiembre.",
+      "teaser": "Lo clave en 20 segundos: celebre la cultura costarricense en la Feria de la Cultura Popular en septiembre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/afiche-tabloide-feria-2026_page-0001-copia-1.jpg",
       "description": "Casa de la Ciudad celebra las fiestas patrias con la Feria de la Cultura Popular “Guillermo Martínez Solano” 2026",
       "featured": false
@@ -472,11 +537,11 @@
       "slug": "los-mapas-y-graficos-que-muestran-la-magnitud-y-el-impacto-de-la-avalancha-en-nepal-y-tibet",
       "title": "Los mapas y gráficos que muestran la magnitud y el impacto de la avalancha en Nepal y Tíbet",
       "category": "Mundo",
-      "bullets_20s": "• La avalancha en los Himalayas tuvo un gran impacto en las comunidades afectadas y la geografía local.\n• Los mapas muestran áreas específicas que sufrieron daños significativos debido al deslizamiento de tierra.\n• Gráficos detallan los cambios en el paisaje y las rutas de acceso que quedaron bloqueadas por la avalancha.\n• Estudios previos indican que averiguaciones sobre avalanchas se han incrementado en esta región montañosa.\n• El paso fronterizo de Gyirong se vio afectado, complicando la conexión entre Nepal y Tíbet.",
+      "bullets_20s": "• La avalancha en Nepal y Tíbet dejó un impacto significativo en la comunidad local y los turistas.\n• Los mapas y gráficos ilustran claramente la magnitud del desastre en regiones afectadas.\n• Este evento ha despertado la preocupación sobre desastres naturales en el Himalaya y el cambio climático.\n• Las imágenes satelitales muestran el alcance total del daño ocurrido durante la avalancha.\n• Expertos analizan las causas y consecuencias de la avalancha que devastó varias áreas frente a la frontera.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpd0v6218j0o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-28T11:48:57.000Z",
-      "teaser": "Lo clave en 20 segundos: Impacto de avalancha en Nepal y Tíbet, analizado a través de mapas y gráficos.",
+      "teaser": "Lo clave en 20 segundos: Impacto y magnitud de la avalancha en Nepal y Tíbet, revelados por gráficos detallados.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9b22/live/83a08700-a2d7-11f1-941c-8741c1a72471.jpg",
       "description": "El desastre natural ocurrió en la región de los Himalayas y afectó amplias zonas de la frontera entre Nepal y el Tíbet, incluido el paso fronterizo de Gyirong.",
       "featured": false
@@ -522,13 +587,13 @@
     },
     {
       "slug": "que-es-farmear-aura-la-nueva-tendencia-de-los-jovenes-en-redes-y-por-que-es-algo-que-en-realidad-sucede-desde-hace-siglo",
-      "title": "Qué es \"farmear aura\", la nueva tendencia de los jóvenes en redes (y por qué es algo que en realidad sucede desde hace siglos)",
+      "title": "Qué es 'farmear aura', la nueva tendencia de los jóvenes en redes (y por qué es algo que en realidad sucede desde hace siglos)",
       "category": "Mundo",
-      "bullets_20s": "• La tendencia de \"farmear aura\" se refiere a cómo los jóvenes buscan validar su interés personal en redes sociales.\n• Se relaciona con la necesidad de parecer interesantes a través de actividades superficiales, aunque no sean productivas.\n• Aunque se presenta como algo nuevo, se pueden encontrar similitudes en generaciones anteriores.\n• Psicólogos advierten sobre el impacto social de estas tendencias en el desarrollo de la autoestima juvenil.\n• Los jóvenes buscan formas de destacar en plataformas digitales, reflejando un cambio en la comunicación moderna.",
+      "bullets_20s": "• La tendencia de 'farmear aura' refleja cambios en la cultura juvenil en redes sociales.\n• Se relaciona con la búsqueda constante de validación en plataformas digitales.\n• La obsesión por la imagen y la superficialidad no es un fenómeno reciente.\n• Los métodos para conseguir seguidores y admiración han evolucionado con el tiempo.\n• Es necesario analizar el impacto de estas prácticas en la salud mental de los jóvenes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c8e3l43w89eo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-28T10:38:45.000Z",
-      "teaser": "Lo clave en 20 segundos: La obsesión por parecer interesante sin esfuerzo no es nueva, se reafirma en redes sociales.",
+      "teaser": "Lo clave en 20 segundos: ¿Qué significa farmear aura y por qué es relevante en la actualidad?",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/fe53/live/bab96170-a2ce-11f1-941c-8741c1a72471.jpg",
       "description": "Aunque parece tratarse de una tendencia novedosa, la obsesión por parecer interesantes sin hacer demasiado esfuerzo es todo menos nueva.",
       "featured": false
@@ -563,11 +628,11 @@
       "slug": "tec-sera-sede-de-la-i-serie-universitaria-de-beisbol",
       "title": "TEC será sede de la I Serie Universitaria de Béisbol",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica será el campus anfitrión de este emocionante evento deportivo.\n• Se celebrará el 5 de setiembre en el Centro de las Artes y el campo de béisbol.\n• La serie busca promover el béisbol y la integración entre universidades públicas y privadas.\n• Habrá cuatro equipos mixtos compitiendo en una jornada de actividades culturales y deportivas.\n• Se espera una gran participación de estudiantes, amigos y familiares en esta gala deportiva.",
+      "bullets_20s": "• El TEC acoge la inauguración de la primera serie universitaria de béisbol en Cartago.\n• Esta serie busca revitalizar el béisbol entre las instituciones académicas del país.\n• Cuatro equipos mixtos participarán en esta emocionante competencia universitaria.\n• El evento incluye un desfile inaugural que fomenta la integración de la comunidad.\n• Se espera una gran asistencia de estudiantes, autoridades y el público general.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/tec-sera-sede-i-serie-universitaria-beisbol",
       "publish_date": "2026-08-28T05:25:16.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC acoge la I Serie Universitaria de Béisbol, un evento innovador y cultural.",
+      "teaser": "Lo clave en 20 segundos: Inauguración del primer torneo universitario de béisbol en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/cronograma.23.42.png",
       "description": "TEC será sede de la I Serie Universitaria de Béisbol",
       "featured": false
@@ -85671,8 +85736,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-28T22:45:24.031Z",
-  "total": 6590,
+  "generated_at": "2026-08-28T23:45:24.065Z",
+  "total": 6595,
   "removed_soccer_news_count": 1126,
   "removed_soccer_news_titles": [
     "Bayern Múnich aplasta al Stuttgart en la apertura de la Bundesliga",
