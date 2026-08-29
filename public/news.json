@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "onda-tropical-n-38-aumenta-las-lluvias-este-sabado-imn-pide-atencion-en-estas-zonas",
+      "title": "Onda tropical N.° 38 aumenta las lluvias este sábado: IMN pide atención en estas zonas",
+      "category": "Costa Rica",
+      "bullets_20s": "• La onda tropical N.° 38 impacta Costa Rica, generando fuertes lluvias y preocupación en varias comunidades.\n• El Instituto Meteorológico Nacional ha emitido alertas sobre el aumento de las precipitaciones en ciertas áreas.\n• Se prevén lluvias que podrían superar los 100 mm, afectando suelos ya saturados de agua.\n• Las autoridades instan a la población a tomar precauciones ante posibles deslizamientos de tierra.\n• Es esencial mantenerse informado sobre el avance de este fenómeno meteorológico a través de fuentes oficiales.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/sucesos/onda-tropical-n-38-aumenta-las-lluvias-este-sabado/UP5GDNLLCRBEZB7YVR4DEQRRBQ/story/",
+      "publish_date": "2026-08-29T17:00:31.000Z",
+      "teaser": "Lo clave en 20 segundos: Onda tropical N.° 38 genera alertas por lluvias intensas en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/PCLPV556UFCIRNTUNNGJX4AV4U.JPG?auth=f2afa16fd74054e9c3a75264657c0ee3a3a9acbfec9d698867b91e8fb800aeae&smart=true&width=4000&height=2667",
+      "description": "La onda tropical N.° 38 ingresó a Costa Rica este sábado. El IMN prevé lluvias superiores a 100 mm y advierte sobre suelos saturados en varias zonas.",
+      "featured": false
+    },
+    {
+      "slug": "asamblea-legislativa-sesiona-en-limon-por-el-dia-de-la-persona-negra-y-la-cultura-afrocostarricense-asi-lucen-los-diputa",
+      "title": "Asamblea Legislativa sesiona en Limón por el Día de la Persona Negra y la Cultura Afrocostarricense: así lucen los diputados (fotos)",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Asamblea Legislativa celebra el Día de la Persona Negra con una sesión especial en Limón.\n• Diputados de diferentes fracciones participan activamente en esta conmemoración nacional.\n• La Casa de la Cultura es el escenario elegido para llevar a cabo esta importante actividad.\n• El evento busca resaltar la cultura afrocostarricense y su relevancia en el país.\n• Se espera que se generen discusiones sobre la contribución de la población negra en Costa Rica.",
+      "source_name": "Cristian Mora",
+      "source_url": "https://www.nacion.com/politica/asamblea-legislativa-sesiona-en-limon-por-el-dia/E7AHABZ7DNAENNMIT7ZG4M67PU/story/",
+      "publish_date": "2026-08-29T16:45:10.000Z",
+      "teaser": "Lo clave en 20 segundos: los diputados se reúnen para celebrar y reconocer la cultura afrocostarricense.",
+      "image_url": "https://www.nacion.com/resizer/v2/4A5U6U5PQFE37G2GWAB4VZHCZI.jpg?auth=3501ef8473411d7dbde084863559239dc149880eefe48587317cdb0c35c8a25a&smart=true&width=1280&height=853",
+      "description": "Diputados de distintas fracciones sesionan este sábado en la Casa de la Cultura de Limón, en el marco de la conmemoración Día de la Persona Negra y la Cultura Afrocostarricense: así lucen los diputados (fotos)",
+      "featured": false
+    },
+    {
+      "slug": "accidente-en-famosa-montana-rusa-de-batman-del-parque-warner-de-espana-termino-con-un-hombre-gravemente-herido",
+      "title": "Accidente en famosa montaña rusa de Batman del Parque Warner de España terminó con un hombre gravemente herido",
+      "category": "Mundo",
+      "bullets_20s": "• Un incidente grave ocurrió en el Parque Warner, donde una montaña rusa es popular entre los visitantes.\n• El hombre sufrió fracturas en las piernas y fue atendido de inmediato por los servicios de emergencia.\n• La montaña rusa de Batman es conocida por sus giros y emociones intensas en el parque de diversiones.\n• Los testigos del accidente expresaron su preocupación por la seguridad en atracciones similares.\n• Tras el accidente, se han planteado interrogantes sobre las medidas de seguridad en los parques de diversiones.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/el-mundo/accidente-en-famosa-montana-rusa-de-batman-del/Y4OEVR6FABFT5JWHAKBZB2Q6TI/story/",
+      "publish_date": "2026-08-29T16:43:13.000Z",
+      "teaser": "Lo clave en 20 segundos: hombre gravemente herido en montaña rusa, suscita preguntas sobre la seguridad de las atracciones.",
+      "image_url": "https://www.nacion.com/resizer/v2/EAKPVVGTMJA2LCTNEDXAQ627X4.png?auth=7135e55fcd1f89001cb7460a090866ca99e09ca81ed2f19c71a630d6fc8e9587&smart=true&width=843&height=590",
+      "description": "El hombre, de 49 años, sufrió fracturas en sus piernas mientras estaba en la montaña rusa de Batman. Fue trasladado en helicóptero al centro médico.",
+      "featured": false
+    },
+    {
       "slug": "colegio-de-veterinarios-y-union-de-fiscalias-de-colegios-profesionales-advierten-de-riesgos-para-usuarios-por-proyecto-q",
       "title": "Colegio de Veterinarios y Unión de Fiscalías de Colegios Profesionales advierten de riesgos para usuarios por proyecto que cambiaría colegiatura profesional",
       "category": "Costa Rica",
@@ -237,12 +276,12 @@
     {
       "slug": "los-misterios-y-secretos-medievales-que-estan-siendo-revelados-gracias-a-la-ia",
       "title": "Los misterios y secretos medievales que están siendo revelados gracias a la IA",
-      "category": "Ciencia",
-      "bullets_20s": "• La inteligencia artificial está revolucionando el campo de la historia y la arqueología.\n• Historiadores usan IA para descifrar textos antiguos que antes eran ilegibles.\n• Las bibliotecas y archivos del mundo son clave en este descubrimiento histórico.\n• La tecnología permite acceder a documentos ocultos y misteriosos de la época medieval.\n• Este avance puede cambiar nuestra comprensión de eventos históricos significativos.",
+      "category": "Mundo",
+      "bullets_20s": "• La inteligencia artificial permite descifrar documentos históricos que antes eran incomprensibles.\n• Historiadores de todo el mundo están utilizando IA para revelar secretos medievales ocultos.\n• Antiguos textos y mensajes se almacenan en bibliotecas esperando ser descifrados por tecnología moderna.\n• La cooperación entre expertos e IA está transformando el campo de la historia y la arqueología.\n• A través de algoritmos avanzados, se pueden descubrir patrones en escritos medievales complejos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c70yw94rvyvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-29T11:13:46.000Z",
-      "teaser": "Lo clave en 20 segundos: la IA ayuda a descifrar secretos medievales ocultos en documentos históricos.",
+      "teaser": "Lo clave en 20 segundos: La IA está descifrando documentos históricos medievales ocultos y revelando secretos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c254/live/dc2f5240-68c9-11f1-8546-8f19e4fe30f4.jpg",
       "description": "En bibliotecas y archivos de todo el mundo se encuentran mensajes y documentos históricos ocultos tras cifrados incomprensibles y ahora la IA está ayudando a los historiadores a descifrar estos textos misteriosos.",
       "featured": false
@@ -277,11 +316,11 @@
       "slug": "por-que-las-imagenes-de-las-inundaciones-en-tibet-no-se-estan-mostrando-en-china-y-sabemos-poco-sobre-las-victimas-alli",
       "title": "Por qué las imágenes de las inundaciones en Tíbet no se están mostrando en China y sabemos poco sobre las víctimas allí",
       "category": "Mundo",
-      "bullets_20s": "• Las inundaciones en Tíbet han dejado una crisis humanitaria sin precedentes en la región.\n• Información sobre las víctimas y daños es limitada debido a la censura en China.\n• Las autoridades no han permitido la divulgación de imágenes impactantes de la tragedia.\n• Grupos de derechos humanos han expresado su preocupación por la falta de transparencia.\n• La comunidad internacional clama por más información sobre la situación en Tíbet.",
+      "bullets_20s": "• Las inundaciones en Tíbet han causado estragos, pero la información es limitada y controlada.\n• El gobierno chino está restringiendo la difusión de imágenes sobre la situación actual en la región.\n• Las víctimas de las inundaciones permanecen en el anonimato debido a la falta de reportes independientes.\n• La cobertura de los medios sobre el desastre natural está siendo censurada, generando preocupación internacional.\n• Las inundaciones repentinas están afectando gravemente a las comunidades tibetanas y su infraestructura.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/czrz3mm0d82o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-29T10:33:11.000Z",
-      "teaser": "Lo clave en 20 segundos: La censura en China oculta las devastadoras inundaciones de Tíbet y sus víctimas.",
+      "teaser": "Lo clave en 20 segundos: Las imágenes de las inundaciones en Tíbet están siendo censuradas en China.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b6ce/live/ce30f760-a376-11f1-b7d0-370a9c23ac83.jpg",
       "description": "Algunas de las imágenes más impactantes de las mortales inundaciones repentinas permanecen ocultas al público en China.",
       "featured": false
@@ -290,11 +329,11 @@
       "slug": "por-que-marta-luisa-de-noruega-la-princesa-clarividente-casada-con-un-chaman-no-podra-ser-reina-pese-a-ser-mayor-que-su-",
       "title": "Por qué Marta Luisa de Noruega, la princesa 'clarividente' casada con un chamán, no podrá ser reina pese a ser mayor que su hermano Haakon",
       "category": "Mundo",
-      "bullets_20s": "• Marta Luisa de Noruega es la primogénita del rey Harald V de Noruega.\n• A pesar de ser mayor que su hermano, no tendrá el título de reina.\n• Una ley hereditaria limita sus derechos dinásticos desde su nacimiento.\n• Su hermano Haakon ahora es el nuevo heredero del trono noruego.\n• El caso resalta las particularidades de las monarquías actuales.",
+      "bullets_20s": "• Marta Luisa, a pesar de ser primogénita, no accederá al trono noruego por una ley antigua.\n• Su hermano Haakon es ahora el rey, consolidando su posición en la monarquía.\n• La ley que excluye a Marta Luisa se remonta a años anteriores a su nacimiento.\n• El contexto histórico detrás de las reglas de sucesión es importante en la monarquía.\n• La figura de Marta Luisa ha despertado interés debido a su relación con un chamán.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx2z7gv7lepo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-29T08:25:16.000Z",
-      "teaser": "Lo clave en 20 segundos: Marta Luisa no podrá ser reina por una ley que afecta su herencia dinástica.",
+      "teaser": "Lo clave en 20 segundos: la primogénita noruega no será reina por ley, a pesar de su linaje.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9a0a/live/ac7981d0-a2c4-11f1-9024-715001d09aeb.jpg",
       "description": "Aunque es la primogénita de Harald V, no será reina debido a una ley que estaba vigente cuando nació. Su hermano menor acaba de heredar el trono.",
       "featured": false
@@ -314,15 +353,15 @@
     },
     {
       "slug": "que-senti-el-dia-que-conoci-a-ratko-mladic-el-fanatico-militar-que-luego-se-convirtio-en-el-carnicero-de-bosnia",
-      "title": "Qué sentí el día que conocí a Ratko Mladić, el fanático militar que luego se convirtió en el \"carnicero de Bosnia\"",
+      "title": "Qué sentí el día que conocí a Ratko Mladić, el fanático militar que luego se convirtió en el 'carnicero de Bosnia'",
       "category": "Mundo",
-      "bullets_20s": "• Allan Little, un corresponsal, relata su encuentro con Ratko Mladić en una guerra devastadora.\n• Mladić, conocido como el \"carnicero de Bosnia\", tuvo un papel crucial durante la guerra de los Balcanes.\n• La experiencia de conocer a Mladić dejó una impresión duradera en el periodista Allan Little.\n• El relato ofrece una perspectiva sobre los acontecimientos bélicos y sus actores principales.\n• La guerra en los Balcanes trajo cambios profundos a la vida de millones de personas.\n• Las historias de la guerra de los Balcanes son relevantes para entender conflictos modernos.\n• Los conflictos humanos y las decisiones difíciles son un tema recurrente en la historia.\n• El artículo invita a reflexionar sobre las complejidades de la guerra y su impacto humano.",
+      "bullets_20s": "• El periodista relata un encuentro impactante con un personaje histórico complejo y polémico.\n• Mladić, conocido por su papel en la guerra, tiene un pasado militar importante y oscuro.\n• La guerra de los Balcanes dejó huellas profundas en la historia reciente de Europa.\n• Los relatos de testigos ofrecen perspectivas únicas sobre eventos traumáticos.\n• El artículo invita a reflexionar sobre la naturaleza del conflicto y la memoria histórica.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/clym02yedz8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-29T03:38:05.000Z",
-      "teaser": "Lo clave en 20 segundos: Un encuentro impactante con un personaje de la historia reciente.",
+      "teaser": "Lo clave en 20 segundos: Un encuentro revelador con Ratko Mladić y la guerra de los Balcanes.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ebca/live/568d8b70-a27b-11f1-a0d1-d7c5a2cc047f.jpg",
-      "description": "El corresponsal especial de la BBC Allan Little conoció al \"carnicero de Bosnia\" en los primeros meses de la guerra de los Balcanes de los años 90.",
+      "description": "El corresponsal especial de la BBC Allan Little conoció al 'carnicero de Bosnia' en los primeros meses de la guerra de los Balcanes de los años 90.",
       "featured": false
     },
     {
@@ -498,11 +537,11 @@
       "slug": "en-el-tec-trabajan-con-un-rover-para-explorar-la-luna-conversemos-con-el-tec",
       "title": "En el TEC trabajan con un rover para explorar la Luna, Conversemos con el TEC",
       "category": "Ciencia",
-      "bullets_20s": "• El Tecnológico de Costa Rica desarrolla un rover para investigaciones lunares.\n• El proyecto busca probar algoritmos que faciliten misiones espaciales en la Luna.\n• Conversemos con el TEC abordará este tema el 2 de septiembre a las 10 a.m.\n• El rover es un vehículo robótico utilizado para exploraciones en el espacio.\n• El programa se transmitirá en vivo por las redes sociales del TEC.\n• Johan Carvajal, del SETEC-Lab, explicará los detalles del proyecto.\n• Los interesados pueden participar enviando preguntas al correo del programa.\n• Se espera que el rover contribuya al programa Artemis de la NASA.\n• El SETEC-Lab busca involucrar a más personas en la exploración espacial.\n• Este desarrollo es parte de la creciente investigación en tecnología espacial.",
+      "bullets_20s": "• El Laboratorio de Sistemas Espaciales del TEC desarrolla un rover para misiones lunares.\n• Se están probando algoritmos que ayudarán en el programa Artemis de exploración lunar.\n• El programa especial se emitirá el 2 de setiembre a las 10 a.m. por redes sociales.\n• Johan Carvajal del SETEC-Lab compartirá detalles sobre el proyecto Olympus.\n• Los interesados pueden enviar preguntas y comentarios durante la transmisión en vivo.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/tec-trabajan-rover-explorar-luna-conversemos-tec",
       "publish_date": "2026-08-28T22:50:18.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC desarrolla un rover para explorar la Luna, ¡no te lo pierdas!",
+      "teaser": "Lo clave en 20 segundos: El TEC desarrolla un rover para explorar la Luna, con detalles en su programa especial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/conversemos-horizontal.png",
       "description": "En el TEC trabajan con un rover para explorar la Luna, Conversemos con el TEC",
       "featured": false
@@ -758,11 +797,11 @@
       "slug": "programa-de-actividades-semana-civica-tec-2026",
       "title": "Programa de actividades semana cívica TEC 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra la Semana Cívica en honor a la independencia de Costa Rica con actividades especiales.\n• El evento fomenta la identidad nacional a través de juegos tradicionales y presentaciones culturales.\n• Las actividades se llevarán a cabo del 07 al 11 de septiembre en el Campus Cartago del TEC.\n• Se realizarán desfiles y presentaciones culturales por parte de grupos locales y estudiantes.\n• Habrá concursos y actividades interactivas para involucrar a toda la comunidad universitaria.",
+      "bullets_20s": "• La Semana Cívica se celebra del 07 al 11 de septiembre en el TEC, promoviendo la identidad nacional.\n• Actividades incluyen juegos tradicionales y presentaciones culturales para la comunidad educativa.\n• La conmemoración reafirma el compromiso del TEC con la historia y valores cívicos costarricenses.\n• El lema de este año es 'Celebremos lo que somos. Honramos el pasado construimos el futuro'.\n• Se realizarán actividades en el Campus Cartago, fomentando el orgullo patriótico y la participación.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/programa-actividades-semana-civica-tec-2026",
       "publish_date": "2026-08-28T15:26:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Actividades cívicas de conmemoración y reflexión en el TEC del 07 al 11 de septiembre.",
+      "teaser": "Lo clave en 20 segundos: La Semana Cívica del TEC celebra la identidad nacional con diversas actividades.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/1_1_0_0.jpg",
       "description": "Programa de actividades semana cívica TEC 2026",
       "featured": false
@@ -797,7 +836,7 @@
       "slug": "casa-de-la-ciudad-celebra-las-fiestas-patrias-con-la-feria-de-la-cultura-popular-guillermo-martinez-solano-2026",
       "title": "Casa de la Ciudad celebra las fiestas patrias con la Feria de la Cultura Popular “Guillermo Martínez Solano” 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Feria de la Cultura Popular celebra la identidad costarricense del 12 al 15 de septiembre.\n• Se ofrecerán artesanías, gastronomía, talleres gratuitos y espectáculos folclóricos durante el evento.\n• Más de 30 emprendedores locales exhibirán sus creaciones en este importante evento cultural.\n• La feria honra a Guillermo Martínez Solano, un ícono en la tradición de las mascaradas costarricenses.\n• Habrá talleres formativos gratuitos relacionados con el arte y la cultura tradicional costarricense.",
+      "bullets_20s": "• Del 12 al 15 de septiembre, la feria ofrecerá actividades para toda la familia.\n• Más de 30 emprendedores mostrarán su talento y productos a la comunidad.\n• Se realizarán talleres gratuitos de diversas disciplinas artísticas durante el evento.\n• Se rendirá homenaje a Guillermo Martínez, figura clave de la cultura popular costarricense.\n• Los asistentes podrán degustar una variedad de platillos tradicionales de Costa Rica.\n• Habrá presentaciones de danza y música folclórica de grupos locales destacados.\n• El evento busca fortalecer la identidad cultural y la economía local costarricense.\n• Los talleres incluirán modelado, grabado y danza, promoviendo el arte en la comunidad.\n• La feria se llevará a cabo en un ambiente familiar y de convivencia cultural.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/casa-ciudad-celebra-fiestas-patrias-feria-cultura-popular-guillermo-martinez-solano-2026",
       "publish_date": "2026-08-28T14:21:53.000Z",
@@ -1070,11 +1109,11 @@
       "slug": "tec-sera-sede-de-la-i-serie-universitaria-de-beisbol",
       "title": "TEC será sede de la I Serie Universitaria de Béisbol",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica albergará la inauguración de la I Serie Universitaria de Béisbol.\n• La competencia busca revitalizar el béisbol universitario e integrar comunidades académicas.\n• Participarán cinco delegaciones universitarias en esta jornada inicial de deportes.\n• Se celebrará el sábado 5 de setiembre en el Campus Cartago a partir de las 8:30 a. m.\n• La serie tiene como objetivo promover valores como liderazgo y trabajo en equipo.",
+      "bullets_20s": "• La I Serie Universitaria de Béisbol se realizará el 5 de setiembre en el TEC, Campus Cartago.\n• El evento contará con la participación de cinco delegaciones universitarias en total.\n• Las actividades incluirán un desfile inaugural acompañado de música en vivo y autoridades presentes.\n• Los equipos están formados de manera mixta, fomentando la inclusión entre hombres y mujeres.\n• El béisbol regresará al ámbito académico como un espacio para el trabajo en equipo y convivencia.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/tec-sera-sede-i-serie-universitaria-beisbol",
       "publish_date": "2026-08-28T05:25:16.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC organizará la I Serie Universitaria de Béisbol el 5 de setiembre.",
+      "teaser": "Lo clave en 20 segundos: TEC acogerá la I Serie Universitaria de Béisbol para fomentar el deporte y la cultura.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/cronograma.23.42.png",
       "description": "TEC será sede de la I Serie Universitaria de Béisbol",
       "featured": false
@@ -86178,10 +86217,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-29T16:45:24.271Z",
-  "total": 6629,
-  "removed_soccer_news_count": 1130,
+  "generated_at": "2026-08-29T17:45:24.633Z",
+  "total": 6632,
+  "removed_soccer_news_count": 1131,
   "removed_soccer_news_titles": [
+    "Pumas y Keylor Navas sufren ante la nueva joya del fútbol mexicano: Gilberto Mora (video)",
     "Costa Rica vuelve a una de las grandes ligas del fútbol, pero Jeyland Mitchell comete penal en su debut (video)",
     "Un gol tempranero y otro al final colocan a Sporting como sublíder",
     "Marquinhos salva un punto para el PSG en el último suspiro",
@@ -86230,7 +86270,6 @@
     "Jewison Bennette cambia de equipo y será dirigido por el anterior técnico de Keylor Navas",
     "Un equipo profesional de Costa Rica estuvo sin licencia unas horas por deuda... pero corrió a pagar",
     "La Selección de Costa Rica cambia de banco",
-    "Fernando Batista revela la sensible baja de la Selección de Costa Rica para el inicio de la Liga de Naciones",
-    "Sigue en el aire el futuro de Keylor Navas en la Selección de Costa Rica"
+    "Fernando Batista revela la sensible baja de la Selección de Costa Rica para el inicio de la Liga de Naciones"
   ]
 }
