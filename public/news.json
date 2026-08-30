@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "juan-pablo-vargas-enfrento-al-america-de-mexico-como-le-fue",
+      "title": "Juan Pablo Vargas enfrentó al América de México: ¿Cómo le fue?",
+      "category": "Costa Rica",
+      "bullets_20s": "• Juan Pablo Vargas tuvo una actuación destacada en su encuentro contra el América de México.\n• El partido se llevó a cabo en el marco de la Liga MX, en un ambiente competitivo.\n• Vargas ha sido un jugador clave para el Puebla durante la temporada actual.\n• La afición del Puebla mostró su apoyo incondicional al equipo en este enfrentamiento.\n• Este tipo de partidos son importantes para el crecimiento de los jugadores costarricenses.",
+      "source_name": "Esteban Valverde",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/juan-pablo-vargas-enfrento-al-america-de-mexico/I2C7YQNZJ5DQFBPWMSEJJWJRAI/story/",
+      "publish_date": "2026-08-30T17:19:35.000Z",
+      "teaser": "Lo clave en 20 segundos: Vargas destacó en el partido contra el América en la Liga MX.",
+      "image_url": "https://www.nacion.com/resizer/v2/E4IXPRKXTFDRNMYNAJ73252T4E.jpg?auth=6df69bd443c07efa4535633e43a37ec7fd03e825492bd35ff42cd3f0fbe285fa&smart=true&width=1200&height=829",
+      "description": "Juan Pablo Vargas y el Puebla visitaron al América en la Liga MX.",
+      "featured": false
+    },
+    {
+      "slug": "imn-pronostica-lluvias-y-tormentas-electricas-para-este-domingo-en-varias-zonas-de-costa-rica",
+      "title": "IMN pronostica lluvias y tormentas eléctricas para este domingo en varias zonas de Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Instituto Meteorológico Nacional advierte sobre el clima inestable en varias regiones de Costa Rica.\n• Se esperan lluvias intensas y tormentas eléctricas a lo largo del país este domingo.\n• Las acumulaciones de lluvia podrían alcanzar hasta 80 milímetros en ciertas zonas.\n• Ráfagas de viento de hasta 80 km/h también son pronosticadas para este fin de semana.\n• Se recomienda a la población estar alerta por posibles inundaciones y deslizamientos.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/sucesos/imn-pronostica-lluvias-y-tormentas-electricas-para/7TA5B7ATUBD4DLIJV3V5MZAJPA/story/",
+      "publish_date": "2026-08-30T17:17:06.000Z",
+      "teaser": "Lo clave en 20 segundos: Lluvias y tormentas eléctricas se esperan en Costa Rica este domingo.",
+      "image_url": "https://www.nacion.com/resizer/v2/Z757EAL5WVDETAX5T5Z4KB6P3A.jpg?auth=f1e98969c9293940d9c25f6a5b9d1982617731f3e5d95c1affde4e23babb2c13&smart=true&width=1680&height=945",
+      "description": "El IMN prevé acumulados de hasta 80 milímetros y ráfagas de 80 km/h. Revise las zonas donde lloverá más.",
+      "featured": false
+    },
+    {
       "slug": "ariel-robles-pide-rectificacion-a-diputada-nayuribe-guadamuz-por-respaldar-un-posteo-con-insultos-que-llamo-a-agredirlo-",
       "title": "Ariel Robles pide rectificación a diputada Nayuribe Guadamuz por respaldar un posteo con insultos que llamó a agredirlo: ‘Deje de fomentar e incitar la violencia’",
       "category": "Costa Rica",
@@ -115,6 +141,19 @@
       "teaser": "Lo clave en 20 segundos: Proyecto de ley regula aumentos de alquileres según salarios mínimos e inflación.",
       "image_url": "https://www.nacion.com/resizer/v2/JAR74GPMWFGKVM5D7PKPDQLI7M.jpg?auth=5e678146de500e15451f67534f4552571cf653cd15e7bb2d6aff4f115e95cd40&smart=true&width=500&height=332",
       "description": "Proyecto de ley busca limitar los aumentos de alquileres de menor valor cuando el salario mínimo crezca menos que la inflación. Explicamos cómo funcionaría la nueva fórmula.",
+      "featured": false
+    },
+    {
+      "slug": "el-rescate-de-una-nina-de-5-anos-dos-dias-despues-de-la-avalancha-en-nepal",
+      "title": "El rescate de una niña de 5 años dos días después de la avalancha en Nepal",
+      "category": "Mundo",
+      "bullets_20s": "• Una avalancha en Nepal ha causado daños importantes y vulnerabilidad en la región montañosa.\n• El rescate de Manisha ha sido un rayo de esperanza para muchas familias afectadas.\n• Las operaciones de rescate han contado con la participación de múltiples organizaciones y voluntarios.\n• La situación en Nepal post-avalancha ha generado una respuesta internacional solidaria.\n• Las autoridades locales están evaluando los daños y la recuperación en la zona afectada.\n• Los hospitales están atendiendo a heridos y ofreciendo soporte a los afectados por la tragedia.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c62471p3xdlo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-30T12:39:36.000Z",
+      "teaser": "Lo clave en 20 segundos: el rescate de una niña de cinco años muestra la resiliencia ante desastres.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/1f7d/live/4cfea270-a46e-11f1-b370-b9b7934350c8.jpg",
+      "description": "Manisha, de 5 años, se encuentra en estado estable, según ha informado a la BBC un responsable del Hospital Universitario de Katmandú.",
       "featured": false
     },
     {
@@ -264,11 +303,11 @@
       "slug": "fui-secuestrada-por-corea-del-norte-y-forzada-a-casarme-con-un-soldado-de-eeuu",
       "title": "Fui secuestrada por Corea del Norte y forzada a casarme con un soldado de EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• Hitomi Soga fue secuestrada por Corea del Norte en un confuso periodo histórico.\n• La retención duró más de dos décadas, un tiempo de sufrimiento y resistencia.\n• Corea del Norte ha sido acusada de múltiples secuestros a ciudadanos japoneses.\n• El caso de Soga es parte de una larga lista de desapariciones misteriosas.\n• Su historia refleja las tensiones históricas entre Corea del Norte y Japón.",
+      "bullets_20s": "• El testimonio de Hitomi Soga revela historias impactantes sobre el secuestro en Corea del Norte.\n• A lo largo de dos décadas, Soga vivió bajo circunstancias inhumanas y forzada a casarse.\n• El caso de Soga es solo uno de muchos reportados por Japón durante las décadas pasadas.\n• Las secuencias de estos secuestros han dejado huellas profundas en las familias de las víctimas.\n• Este relato histórico pone de manifiesto las tensiones en la región y la vida de los afectados.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cn7n8mp86m5o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-30T03:52:22.000Z",
-      "teaser": "Lo clave en 20 segundos: una mujer cuenta su historia de secuestro y sufrimiento en Corea del Norte.",
+      "teaser": "Lo clave en 20 segundos: El impactante relato de Hitomi Soga sobre su secuestro en Corea del Norte.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9889/live/aa8b2c30-9788-11f1-9493-7f99265ac65a.jpg",
       "description": "Hitomi Soga estuvo retenida durante más de dos décadas; es una de al menos 17 ciudadanas que, según Japón, fueron secuestradas durante las décadas de 1970 y 1980.",
       "featured": false
@@ -1018,11 +1057,11 @@
       "slug": "en-el-tec-trabajan-con-un-rover-para-explorar-la-luna-conversemos-con-el-tec",
       "title": "En el TEC trabajan con un rover para explorar la Luna, Conversemos con el TEC",
       "category": "Ciencia",
-      "bullets_20s": "• Tecnológico de Costa Rica desarrolla un rover para misiones lunares futuras con el programa Artemis.\n• El rover permite probar algoritmos cruciales para la navegación en la superficie lunar.\n• Conversemos con el TEC transmitirá un programa especial sobre este interesante proyecto.\n• Los ciudadanos pueden participar y enviar preguntas al programa, que se transmitirá en vivo.\n• El coordinador del SETEC-Lab compartirá detalles sobre la investigación y su funcionamiento.",
+      "bullets_20s": "• El TEC desarrolla un rover para explorar la Luna y probar algoritmos para misiones futuras.\n• El rover asistirá en el programa Artemis, que busca regresar a la Luna pronto.\n• El proyecto se enmarca en el laboratorio SETEC-Lab del Tecnológico de Costa Rica.\n• Un programa especial transmitirá detalles sobre el rover y su funcionamiento.\n• La audiencia podrá interactuar y enviar preguntas durante la transmisión del programa.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/tec-trabajan-rover-explorar-luna-conversemos-tec",
       "publish_date": "2026-08-28T22:50:18.000Z",
-      "teaser": "Lo clave en 20 segundos: el TEC desarrolla rover para explorar la Luna y transmite un programa especial.",
+      "teaser": "Lo clave en 20 segundos: El TEC trabaja en un rover para explorar la Luna.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/conversemos-horizontal.png",
       "description": "En el TEC trabajan con un rover para explorar la Luna, Conversemos con el TEC",
       "featured": false
@@ -1278,11 +1317,11 @@
       "slug": "programa-de-actividades-semana-civica-tec-2026",
       "title": "Programa de actividades semana cívica TEC 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebrará la Semana Cívica del 07 al 11 de septiembre.\n• Se conmemoran 205 años de independencia, reafirmando el compromiso con Costa Rica.\n• Bajo el lema: 'Celebremos lo que somos. Honramos el pasado, construimos el futuro'.\n• Actividades incluirán juegos tradicionales y presentaciones culturales diversas.\n• El evento promueve los valores cívicos en la comunidad educativa del TEC.",
+      "bullets_20s": "• El TEC conmemora la Semana Cívica del 07 al 11 de septiembre con diversas actividades.\n• Los eventos incluyen juegos tradicionales y presentaciones culturales para toda la comunidad.\n• Se celebran 205 años de la independencia de Costa Rica con orgullo y compromiso.\n• Actividades programadas buscan fomentar los valores cívicos entre estudiantes y colaboradores.\n• Diversos espacios del campus serán utilizados para actividades y reflexión sobre la identidad nacional.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/programa-actividades-semana-civica-tec-2026",
       "publish_date": "2026-08-28T15:26:13.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC celebrará la Semana Cívica con actividades del 07 al 11 de septiembre.",
+      "teaser": "Lo clave en 20 segundos: Seminario de actividades cívicas del TEC, del 07 al 11 de septiembre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/1_1_0_0.jpg",
       "description": "Programa de actividades semana cívica TEC 2026",
       "featured": false
@@ -1311,19 +1350,6 @@
       "teaser": "Lo clave en 20 segundos: Policía busca a dos reclusos fugados del penal de San Carlos.",
       "image_url": "https://www.nacion.com/resizer/v2/H7WXSFO4Q5E27D62CWQJDDQMK4.jpeg?auth=6723136d067528977a35fae8748de552af15081d944a5ed07c71f3f9356df646&smart=true&width=960&height=1280",
       "description": "La Policía Penitenciaria está tras la búsqueda de dos privados de libertad del centro penal Nelson Mandela, también conocido como cárcel La Marina en San Carlos, Alajuela.",
-      "featured": false
-    },
-    {
-      "slug": "casa-de-la-ciudad-celebra-las-fiestas-patrias-con-la-feria-de-la-cultura-popular-guillermo-martinez-solano-2026",
-      "title": "Casa de la Ciudad celebra las fiestas patrias con la Feria de la Cultura Popular “Guillermo Martínez Solano” 2026",
-      "category": "Costa Rica",
-      "bullets_20s": "• Del 12 al 15 de septiembre, se celebrará la Feria de la Cultura Popular en Casa de la Ciudad.\n• El evento busca rescatar la identidad costarricense a través de diversas actividades culturales.\n• Se ofrecerán talleres gratuitos enfocados en la tradición costarricense y el arte local.\n• Más de 30 emprendimientos y artesanos presentarán sus creaciones y gastronomía tradicional.\n• El homenajeado, don Guillermo Martínez, es un ícono de la cultura popular tradicional en Costa Rica.",
-      "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/casa-ciudad-celebra-fiestas-patrias-feria-cultura-popular-guillermo-martinez-solano-2026",
-      "publish_date": "2026-08-28T14:21:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Feria de la Cultura Popular del 12 al 15 de septiembre en Casa de la Ciudad.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/afiche-tabloide-feria-2026_page-0001-copia-1.jpg",
-      "description": "Casa de la Ciudad celebra las fiestas patrias con la Feria de la Cultura Popular “Guillermo Martínez Solano” 2026",
       "featured": false
     },
     {
@@ -1590,13 +1616,13 @@
       "slug": "tec-sera-sede-de-la-i-serie-universitaria-de-beisbol",
       "title": "TEC será sede de la I Serie Universitaria de Béisbol",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC será el anfitrión de la primera Serie Universitaria de Béisbol en Costa Rica.\n• Este evento busca unir estudiantes de distintas universidades mediante el béisbol.\n• La inauguración se llevará a cabo el 5 de septiembre en el campus de Cartago.\n• Participarán equipos mixtos de varias universidades locales en un ambiente competitivo.\n• El programa incluye un desfile inaugural acompañado de música en vivo y actividades culturales.",
+      "bullets_20s": "• El TEC en Cartago acogerá la inauguración de la primera serie universitaria de béisbol.\n• La actividad promueve la integración entre estudiantes de diferentes instituciones educativas.\n• Participarán cuatro equipos compuestos por hombres y mujeres en esta primera edición.\n• Se contará con un desfile inaugural que involucrará a toda la comunidad universitaria.\n• Se espera un espacio cultural durante el evento para enriquecer la jornada deportiva.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/tec-sera-sede-i-serie-universitaria-beisbol",
       "publish_date": "2026-08-28T05:25:16.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC albergará la primera Serie Universitaria de Béisbol el 5 de septiembre.",
+      "teaser": "Lo clave en 20 segundos: Conoce la primera Serie Universitaria de Béisbol en TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/cronograma.23.42.png",
-      "description": "TEC será sede de la I Serie Universitaria de Béisbol",
+      "description": "El Tecnológico de Costa Rica (TEC) será la sede de la inauguración de la I Serie Universitaria de Béisbol.",
       "featured": false
     },
     {
@@ -1688,6 +1714,19 @@
       "teaser": "Lo clave en 20 segundos: nueva ley sanciona con hasta ocho años de cárcel la minería ilegal en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/KN77RINHFZHF5FLARMBVXAALPU.JPG?auth=73bbd7016b0b13f924c0ea248a975107406685a1cc0c534bba37de17f0431f18&smart=true&width=3000&height=2000",
       "description": "Luego de una negociación entre la oposición y el oficialismo, se hicieron varios ajustes en el proyecto y se votó nuevamente en primer debate.",
+      "featured": false
+    },
+    {
+      "slug": "casa-de-la-ciudad-celebra-las-fiestas-patrias-con-la-feria-de-la-cultura-popular-guillermo-martinez-solano-2026",
+      "title": "Casa de la Ciudad celebra las fiestas patrias con la Feria de la Cultura Popular “Guillermo Martínez Solano” 2026",
+      "category": "Costa Rica",
+      "bullets_20s": "• Del 12 al 15 de septiembre, habrá actividades para celebrar la identidad costarricense.\n• Participarán más de 30 emprendimientos y artesanos locales en el evento.\n• Habrá talleres gratuitos de swing criollo y modelado con plastilina para el público.\n• La feria rendirá homenaje a don Guillermo Martínez Solano, maestro de la tradición.\n• Los asistentes podrán disfrutar de una variedad de comidas tradicionales y artesanías.",
+      "source_name": "nchinchilla",
+      "source_url": "http://www.tec.ac.cr/casa-ciudad-celebra-fiestas-patrias-feria-cultura-popular-guillermo-martinez-solano-2026",
+      "publish_date": "2026-08-28T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Feria de la Cultura Popular celebra la identidad costarricense del 12 al 15 de septiembre.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/afiche-tabloide-feria-2026_page-0001-copia-1.jpg",
+      "description": "Casa de la Ciudad celebra las fiestas patrias con la Feria de la Cultura Popular “Guillermo Martínez Solano” 2026",
       "featured": false
     },
     {
@@ -86711,8 +86750,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-30T16:45:25.840Z",
-  "total": 6670,
+  "generated_at": "2026-08-30T17:45:24.578Z",
+  "total": 6673,
   "removed_soccer_news_count": 1137,
   "removed_soccer_news_titles": [
     "Federación neerlandesa lanza sorprendente propuesta sobre FIFA que dejaría por fuera a  Infantino",
