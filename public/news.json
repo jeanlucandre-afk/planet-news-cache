@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "spartak-moscu-de-manfred-ugalde-deja-ir-chance-de-oro-para-seguir-peleando-por-la-cima-de-rusia",
+      "title": "Spartak Moscú de Manfred Ugalde deja ir chance de oro para seguir peleando por la cima de Rusia",
+      "category": "Mundo",
+      "bullets_20s": "• El Spartak Moscú no logra capitalizar oportunidades clave en su partido reciente.\n• Manfred Ugalde tuvo participación, pero el equipo no obtuvo el resultado esperado.\n• La lucha por el primer lugar en la liga rusa se complica para el Spartak.\n• Este resultado afecta las posibilidades del equipo en la clasificación general.\n• Las expectativas estaban altas, pero el rendimiento fue por debajo de lo previsto.",
+      "source_name": "Esteban Valverde",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/spartak-moscu-de-manfred-ugalde-deja-ir-chance-de/PJRG22TRFZAEBCH2FAXJW2UNJU/story/",
+      "publish_date": "2026-08-30T18:08:17.000Z",
+      "teaser": "Lo clave en 20 segundos: El Spartak Moscú pierde una oportunidad crucial en la liga rusa.",
+      "image_url": "https://www.nacion.com/resizer/v2/PQDU6R6MGNDGVMUWACZ75G4334.jpeg?auth=04090aec6a20ea4ffec69b8759656fd3336fa06dfebf393b8c9f1c892fdf9bb4&smart=true&width=1024&height=779",
+      "description": "El Spartak Moscú con Manfred Ugalde en cancha tuvo un resultado que lo frena en la lucha por el primer lugar de Rusia.",
+      "featured": false
+    },
+    {
+      "slug": "incendio-en-san-jose-centro-tras-mas-de-14-horas-bomberos-aun-trabaja-para-apagar-focos-de-fuego",
+      "title": "Incendio en San José centro: tras más de 14 horas, Bomberos aún trabaja para apagar focos de fuego",
+      "category": "Costa Rica",
+      "bullets_20s": "• El incendio comenzó en el centro de San José, afectando varias estructuras importantes de la zona.\n• Las labores de los bomberos se han prolongado por más de 14 horas, buscando extinguir el fuego.\n• La atención de emergencia ha sido crucial para evitar la propagación del incendio a otras áreas.\n• Hasta el momento, se han reportado daños significativos, alcanzando 4.100 metros cuadrados en total.\n• La comunidad local se muestra preocupada por la seguridad y la respuesta ante emergencias en la ciudad.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/sucesos/incendio-en-san-jose-centro-tras-mas-de-14-horas/D25N3SHP6JHW5DE5HG3WRVMD5A/story/",
+      "publish_date": "2026-08-30T18:07:12.000Z",
+      "teaser": "Lo clave en 20 segundos: ¡Un incendio en el centro de San José aún no se apaga tras más de 14 horas de trabajo!",
+      "image_url": "https://www.nacion.com/resizer/v2/XCVK6WSRVBGKNM7KO6JTCAVTG4.jpeg?auth=825ff28440528fa86ead6237e409bbcb4d55bf00c905075a6f92c6ac01a920bc&smart=true&width=1600&height=1200",
+      "description": "Bomberos continúa trabajando en el incendio que dejó daños 4.100 metros cuadrados, en San José centro",
+      "featured": false
+    },
+    {
       "slug": "juan-pablo-vargas-enfrento-al-america-de-mexico-como-le-fue",
       "title": "Juan Pablo Vargas enfrentó al América de México: ¿Cómo le fue?",
-      "category": "Costa Rica",
-      "bullets_20s": "• Juan Pablo Vargas tuvo una actuación destacada en su encuentro contra el América de México.\n• El partido se llevó a cabo en el marco de la Liga MX, en un ambiente competitivo.\n• Vargas ha sido un jugador clave para el Puebla durante la temporada actual.\n• La afición del Puebla mostró su apoyo incondicional al equipo en este enfrentamiento.\n• Este tipo de partidos son importantes para el crecimiento de los jugadores costarricenses.",
+      "category": "Mundo",
+      "bullets_20s": "• Juan Pablo Vargas lideró su equipo en un emocionante choque contra el América de México.\n• El Puebla se midió a un fuerte contendiente en la Liga MX, buscando puntos importantes.\n• Ambos equipos presentaron un juego intenso, destacando la calidad de los jugadores.\n• Las actuaciones individuales fueron clave para analizar el desempeño de Vargas y su equipo.\n• La Liga MX continúa siendo un atractivo para muchos futbolistas costarricenses en el extranjero.",
       "source_name": "Esteban Valverde",
       "source_url": "https://www.nacion.com/puro-deporte/futbol/juan-pablo-vargas-enfrento-al-america-de-mexico/I2C7YQNZJ5DQFBPWMSEJJWJRAI/story/",
       "publish_date": "2026-08-30T17:19:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Vargas destacó en el partido contra el América en la Liga MX.",
+      "teaser": "Lo clave en 20 segundos: Vargas se enfrenta al América en un emocionante partido de Liga MX.",
       "image_url": "https://www.nacion.com/resizer/v2/E4IXPRKXTFDRNMYNAJ73252T4E.jpg?auth=6df69bd443c07efa4535633e43a37ec7fd03e825492bd35ff42cd3f0fbe285fa&smart=true&width=1200&height=829",
       "description": "Juan Pablo Vargas y el Puebla visitaron al América en la Liga MX.",
       "featured": false
@@ -37,6 +63,19 @@
       "teaser": "Lo clave en 20 segundos: Robles exige rectificación a Guadamuz por insultos en redes sociales.",
       "image_url": "https://www.nacion.com/resizer/v2/MOUO7R23OBD7ZOCYIZPXI426V4.jpg?auth=7e4ddb78cee44737b2a4a398e086bc859192994788dc74606a57343aede20edf&smart=true&width=1920&height=1080",
       "description": "Ariel Robles cuestionó a la diputada Nayuribe Guadamuz por compartir una publicación que criticaba el uso de su chaleco antibalas y contenía expresiones sobre una eventual agresión en su contra.",
+      "featured": false
+    },
+    {
+      "slug": "por-que-algunos-restaurantes-de-eeuu-estan-prohibiendo-las-propinas",
+      "title": "Por qué algunos restaurantes de EE.UU. están prohibiendo las propinas",
+      "category": "Mundo",
+      "bullets_20s": "• Los restaurantes buscan mejorar la equidad en el salario de sus empleados.\n• La cultura de las propinas en EE.UU. genera desigualdades entre trabajadores.\n• Algunos lugares implementan salarios fijos para sus meseros y chefs.\n• La prohibición de propinas busca una mejor atención al cliente.\n• Restaurantes de diversas ciudades experimentan con este cambio de modelo.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cpvey94jk3ro?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-08-30T15:04:43.000Z",
+      "teaser": "Lo clave en 20 segundos: La prohibición de propinas en EE.UU. busca mejorar la equidad laboral en restaurantes.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/bde8/live/935b4630-a0c5-11f1-b8cc-1bd2cc322bf4.jpg",
+      "description": "Los pagos adicionales de los clientes a los meseros son fundamentales en los restaurantes estadounidense, pero algunos locales de comida consideran que son injustos.",
       "featured": false
     },
     {
@@ -303,11 +342,11 @@
       "slug": "fui-secuestrada-por-corea-del-norte-y-forzada-a-casarme-con-un-soldado-de-eeuu",
       "title": "Fui secuestrada por Corea del Norte y forzada a casarme con un soldado de EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• El testimonio de Hitomi Soga revela historias impactantes sobre el secuestro en Corea del Norte.\n• A lo largo de dos décadas, Soga vivió bajo circunstancias inhumanas y forzada a casarse.\n• El caso de Soga es solo uno de muchos reportados por Japón durante las décadas pasadas.\n• Las secuencias de estos secuestros han dejado huellas profundas en las familias de las víctimas.\n• Este relato histórico pone de manifiesto las tensiones en la región y la vida de los afectados.",
+      "bullets_20s": "• El relato de Hitomi Soga revela la dramática historia de su secuestro y cautiverio.\n• Corea del Norte ha sido acusada de varios secuestros a ciudadanos de otros países.\n• Las historias de secuestrados a menudo involucran años de sufrimiento y pérdida de libertad.\n• El caso de Soga es emblemático de las tensiones entre Japón y Corea del Norte.\n• La historia invita a la reflexión sobre los derechos humanos y la justicia internacional.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cn7n8mp86m5o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-30T03:52:22.000Z",
-      "teaser": "Lo clave en 20 segundos: El impactante relato de Hitomi Soga sobre su secuestro en Corea del Norte.",
+      "teaser": "Lo clave en 20 segundos: Relato sobre el secuestro y cautiverio de Hitomi Soga por Corea del Norte.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9889/live/aa8b2c30-9788-11f1-9493-7f99265ac65a.jpg",
       "description": "Hitomi Soga estuvo retenida durante más de dos décadas; es una de al menos 17 ciudadanas que, según Japón, fueron secuestradas durante las décadas de 1970 y 1980.",
       "featured": false
@@ -1057,11 +1096,11 @@
       "slug": "en-el-tec-trabajan-con-un-rover-para-explorar-la-luna-conversemos-con-el-tec",
       "title": "En el TEC trabajan con un rover para explorar la Luna, Conversemos con el TEC",
       "category": "Ciencia",
-      "bullets_20s": "• El TEC desarrolla un rover para explorar la Luna y probar algoritmos para misiones futuras.\n• El rover asistirá en el programa Artemis, que busca regresar a la Luna pronto.\n• El proyecto se enmarca en el laboratorio SETEC-Lab del Tecnológico de Costa Rica.\n• Un programa especial transmitirá detalles sobre el rover y su funcionamiento.\n• La audiencia podrá interactuar y enviar preguntas durante la transmisión del programa.",
+      "bullets_20s": "• El SETEC-Lab del Tecnológico de Costa Rica desarrolla un rover para misiones lunares futuras.\n• Este vehículo robótico probará algoritmos para las misiones del programa Artemis de NASA.\n• El programa 'Conversemos con el TEC' presentará detalles sobre este innovador proyecto.\n• Se transmitirá el miércoles 2 de setiembre a las 10 a.m. por las redes sociales del TEC.\n• El coordinador del SETEC-Lab, Johan Carvajal, participará en el programa para responder dudas.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/tec-trabajan-rover-explorar-luna-conversemos-tec",
       "publish_date": "2026-08-28T22:50:18.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC trabaja en un rover para explorar la Luna.",
+      "teaser": "Lo clave en 20 segundos: El TEC está desarrollando un rover para explorar la Luna.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/conversemos-horizontal.png",
       "description": "En el TEC trabajan con un rover para explorar la Luna, Conversemos con el TEC",
       "featured": false
@@ -1317,11 +1356,11 @@
       "slug": "programa-de-actividades-semana-civica-tec-2026",
       "title": "Programa de actividades semana cívica TEC 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC conmemora la Semana Cívica del 07 al 11 de septiembre con diversas actividades.\n• Los eventos incluyen juegos tradicionales y presentaciones culturales para toda la comunidad.\n• Se celebran 205 años de la independencia de Costa Rica con orgullo y compromiso.\n• Actividades programadas buscan fomentar los valores cívicos entre estudiantes y colaboradores.\n• Diversos espacios del campus serán utilizados para actividades y reflexión sobre la identidad nacional.",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebra la Semana Cívica del 07 al 11 de septiembre.\n• Conmemoran los 205 años de independencia con un variado programa de actividades.\n• Se invita a la comunidad a participar y fomentar los valores cívicos en el país.\n• Durante la semana se realizarán juegos tradicionales y presentaciones culturales.\n• La universidad busca reforzar el compromiso cívico entre los estudiantes y colaboradores.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/programa-actividades-semana-civica-tec-2026",
       "publish_date": "2026-08-28T15:26:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Seminario de actividades cívicas del TEC, del 07 al 11 de septiembre.",
+      "teaser": "Lo clave en 20 segundos: TEC celebra con actividades cívicas del 07 al 11 de septiembre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/1_1_0_0.jpg",
       "description": "Programa de actividades semana cívica TEC 2026",
       "featured": false
@@ -1350,6 +1389,19 @@
       "teaser": "Lo clave en 20 segundos: Policía busca a dos reclusos fugados del penal de San Carlos.",
       "image_url": "https://www.nacion.com/resizer/v2/H7WXSFO4Q5E27D62CWQJDDQMK4.jpeg?auth=6723136d067528977a35fae8748de552af15081d944a5ed07c71f3f9356df646&smart=true&width=960&height=1280",
       "description": "La Policía Penitenciaria está tras la búsqueda de dos privados de libertad del centro penal Nelson Mandela, también conocido como cárcel La Marina en San Carlos, Alajuela.",
+      "featured": false
+    },
+    {
+      "slug": "casa-de-la-ciudad-celebra-las-fiestas-patrias-con-la-feria-de-la-cultura-popular-guillermo-martinez-solano-2026",
+      "title": "Casa de la Ciudad celebra las fiestas patrias con la Feria de la Cultura Popular “Guillermo Martínez Solano” 2026",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Feria se llevará a cabo del 12 al 15 de septiembre en Casa de la Ciudad.\n• Habrá más de 30 emprendimientos locales mostrando sus artesanías y productos.\n• Los asistentes podrán disfrutar de talleres gratuitos y actividades culturales.\n• Se rendirá homenaje al maestro de la mascarada, Guillermo Martínez Solano.\n• Habrá presentaciones de bailes típicos y conciertos folclóricos en la feria.",
+      "source_name": "nchinchilla",
+      "source_url": "http://www.tec.ac.cr/casa-ciudad-celebra-fiestas-patrias-feria-cultura-popular-guillermo-martinez-solano-2026",
+      "publish_date": "2026-08-28T14:21:53.000Z",
+      "teaser": "Lo clave en 20 segundos: La Feria de la Cultura Popular celebra tradiciones costarricenses del 12 al 15 de septiembre.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/afiche-tabloide-feria-2026_page-0001-copia-1.jpg",
+      "description": "Casa de la Ciudad celebra las fiestas patrias con la Feria de la Cultura Popular “Guillermo Martínez Solano” 2026",
       "featured": false
     },
     {
@@ -1616,13 +1668,13 @@
       "slug": "tec-sera-sede-de-la-i-serie-universitaria-de-beisbol",
       "title": "TEC será sede de la I Serie Universitaria de Béisbol",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC en Cartago acogerá la inauguración de la primera serie universitaria de béisbol.\n• La actividad promueve la integración entre estudiantes de diferentes instituciones educativas.\n• Participarán cuatro equipos compuestos por hombres y mujeres en esta primera edición.\n• Se contará con un desfile inaugural que involucrará a toda la comunidad universitaria.\n• Se espera un espacio cultural durante el evento para enriquecer la jornada deportiva.",
+      "bullets_20s": "• El TEC será el anfitrión de la I Serie Universitaria de Béisbol en Cartago.\n• La inauguración tendrá lugar el 5 de septiembre en el Campus del TEC.\n• Cinco delegaciones participarán para fomentar el béisbol en el ámbito universitario.\n• Se espera una jornada con actividades culturales y un ambiente de convivencia.\n• El evento incluye un desfile inaugural acompañado de música y autoridades.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/tec-sera-sede-i-serie-universitaria-beisbol",
       "publish_date": "2026-08-28T05:25:16.000Z",
-      "teaser": "Lo clave en 20 segundos: Conoce la primera Serie Universitaria de Béisbol en TEC.",
+      "teaser": "Lo clave en 20 segundos: TEC acogerá la I Serie Universitaria de Béisbol el 5 de septiembre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/cronograma.23.42.png",
-      "description": "El Tecnológico de Costa Rica (TEC) será la sede de la inauguración de la I Serie Universitaria de Béisbol.",
+      "description": "TEC será sede de la I Serie Universitaria de Béisbol",
       "featured": false
     },
     {
@@ -1714,19 +1766,6 @@
       "teaser": "Lo clave en 20 segundos: nueva ley sanciona con hasta ocho años de cárcel la minería ilegal en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/KN77RINHFZHF5FLARMBVXAALPU.JPG?auth=73bbd7016b0b13f924c0ea248a975107406685a1cc0c534bba37de17f0431f18&smart=true&width=3000&height=2000",
       "description": "Luego de una negociación entre la oposición y el oficialismo, se hicieron varios ajustes en el proyecto y se votó nuevamente en primer debate.",
-      "featured": false
-    },
-    {
-      "slug": "casa-de-la-ciudad-celebra-las-fiestas-patrias-con-la-feria-de-la-cultura-popular-guillermo-martinez-solano-2026",
-      "title": "Casa de la Ciudad celebra las fiestas patrias con la Feria de la Cultura Popular “Guillermo Martínez Solano” 2026",
-      "category": "Costa Rica",
-      "bullets_20s": "• Del 12 al 15 de septiembre, habrá actividades para celebrar la identidad costarricense.\n• Participarán más de 30 emprendimientos y artesanos locales en el evento.\n• Habrá talleres gratuitos de swing criollo y modelado con plastilina para el público.\n• La feria rendirá homenaje a don Guillermo Martínez Solano, maestro de la tradición.\n• Los asistentes podrán disfrutar de una variedad de comidas tradicionales y artesanías.",
-      "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/casa-ciudad-celebra-fiestas-patrias-feria-cultura-popular-guillermo-martinez-solano-2026",
-      "publish_date": "2026-08-28T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Feria de la Cultura Popular celebra la identidad costarricense del 12 al 15 de septiembre.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/afiche-tabloide-feria-2026_page-0001-copia-1.jpg",
-      "description": "Casa de la Ciudad celebra las fiestas patrias con la Feria de la Cultura Popular “Guillermo Martínez Solano” 2026",
       "featured": false
     },
     {
@@ -86750,8 +86789,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-30T17:45:24.578Z",
-  "total": 6673,
+  "generated_at": "2026-08-30T18:45:24.092Z",
+  "total": 6676,
   "removed_soccer_news_count": 1137,
   "removed_soccer_news_titles": [
     "Federación neerlandesa lanza sorprendente propuesta sobre FIFA que dejaría por fuera a  Infantino",
