@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "privado-de-libertad-fallece-en-carcel-de-liberia",
+      "title": "Privado de libertad fallece en cárcel de Liberia",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un hombre de 56 años falleció en un centro de atención en Liberia, afectado por problemas de salud.\n• El Centro de Atención Institucional de Liberia es conocido por albergar a varios internos.\n• Las autoridades están investigando las causas del fallecimiento en la cárcel de Liberia.\n• Este suceso destaca la situación de salud de los privados de libertad en el país.\n• Los reportes indican que el hombre presentaba complicaciones de salud desde hace tiempo.",
+      "source_name": "Luis Enrique Brenes",
+      "source_url": "https://www.nacion.com/sucesos/privado-de-libertad-fallece-en-carcel-de-liberia/R22L5LAFX5H5PGVEH4UZI76LCU/story/",
+      "publish_date": "2026-08-31T23:08:40.000Z",
+      "teaser": "Lo clave en 20 segundos: Un hombre falleció en cárcel de Liberia por complicaciones de salud.",
+      "image_url": "https://www.nacion.com/resizer/v2/N2RIYRVDEBGLZHM5MOXYKXQLIA.jpg?auth=5578ac4ff2854c6c888d9297c7897f738af82dc98ef7480597945316a5e498c6&smart=true&width=4288&height=2848",
+      "description": "Hombre de apellido Bello, de 56 años, murió en el Centro de Atención Institucional (CAI) Calle Real tras presentar complicaciones de salud.",
+      "featured": false
+    },
+    {
+      "slug": "alcaraz-despeja-dudas-y-sabalenka-brilla-en-regreso-de-los-campeones-al-us-open",
+      "title": "Alcaraz despeja dudas y Sabalenka brilla en regreso de los campeones al US Open",
+      "category": "Mundo",
+      "bullets_20s": "• Carlos Alcaraz superó las dudas generadas por su reciente lesión en el Abierto de Estados Unidos.\n• Aryna Sabalenka tuvo un impresionante regreso y mostró su calidad en el torneo de tenis.\n• El Abierto de Estados Unidos es uno de los eventos más importantes en el calendario tenístico.\n• Ambos jugadores demostraron gran nivel ante la presión y la competencia de otros tenistas.\n• Los campeones hicieron un fuerte regreso, reafirmando su estatus en el mundo del tenis.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/puro-deporte/alcaraz-despeja-dudas-y-sabalenka-brilla-en/RSECMNAHARDLZJXFKWNCAEJXTQ/story/",
+      "publish_date": "2026-08-31T23:04:01.000Z",
+      "teaser": "Lo clave en 20 segundos: Alcaraz y Sabalenka brilan en su retorno al US Open tras lesiones.",
+      "image_url": "https://www.nacion.com/resizer/v2/4L7G46WLTRBB5G6NE2FLL5TZEI.jpg?auth=727abde18a491d95d592fcf6f76f995f10e70cb63e8a0ce0533ea57ff1dd96f6&smart=true&width=6000&height=4000",
+      "description": "La lesión de Carlos Alcaraz sembró interrogantes, pero el español respondió bien en su primer partido en el Abierto de Estados Unidos 2026.",
+      "featured": false
+    },
+    {
       "slug": "que-es-la-reserva-estrategica-de-petroleo-de-eeuu-y-por-que-esta-en-su-nivel-mas-bajo-desde-1983",
       "title": "Qué es la reserva estratégica de petróleo de EE.UU. y por qué está en su nivel más bajo desde 1983",
       "category": "Mundo",
@@ -173,11 +199,11 @@
       "slug": "quien-es-jose-serrano-el-exministro-del-interior-de-rafael-correa-acusado-de-ser-uno-de-los-autores-intelectuales-del-as",
       "title": "Quién es José Serrano, el exministro del Interior de Rafael Correa acusado de ser uno de los autores intelectuales del asesinato de Fernando Villavicencio",
       "category": "Mundo",
-      "bullets_20s": "• José Serrano fue Ministro del Interior durante el gobierno de Rafael Correa en Ecuador, clave en la seguridad pública.\n• Serrano ha sido acusado de estar involucrado en el asesinato del político Fernando Villavicencio, poniendo en jaque su carrera.\n• El exministro fue deportado de Estados Unidos, donde había solicitado asilo, enfrentándose a la justicia ecuatoriana.\n• Su regreso a Ecuador ha generado revuelo en la opinión pública y debates sobre la seguridad y corrupción.\n• El caso de Serrano destaca la compleja relación entre política, crimen y justicia en Ecuador en la actualidad.",
+      "bullets_20s": "• José Serrano fue ministro del Interior en el gobierno de Rafael Correa en Ecuador. Su carrera política fue controversial.\n• Recientemente, Serrano fue deportado desde EE.UU. tras haber solicitado asilo político sin obtener éxito.\n• El exministro está acusado de ser uno de los autores intelectuales del asesinato de Fernando Villavicencio.\n• Villavicencio, un influyente político y periodista ecuatoriano, fue asesinado en un acto violento este año.\n• El caso ha generado un gran revuelo mediático y una intensa cobertura informativa en toda América Latina.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ce8x52pgn3lo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-31T16:27:32.000Z",
-      "teaser": "Lo clave en 20 segundos: el exministro Serrano vuelve a Ecuador tras acusaciones serias y deportación de EE.UU.",
+      "teaser": "Lo clave en 20 segundos: La controversia política en Ecuador se intensifica tras la deportación de José Serrano.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3704/live/8d7922a0-a557-11f1-9acf-19576105f049.jpg",
       "description": "El exfuncionario llegó este viernes a Ecuador tras ser deportado de EE.UU. donde había pedido, sin éxito, asilo político.",
       "featured": false
@@ -485,11 +511,11 @@
       "slug": "me-daban-morfina-para-soportar-el-dolor-hasta-que-los-medicos-descubrieron-que-tenia-endometriosis-a-los-13-anos",
       "title": "Me daban morfina para soportar el dolor hasta que los médicos descubrieron que tenía endometriosis a los 13 años",
       "category": "Ciencia",
-      "bullets_20s": "• Grace comparte su experiencia sobre el diagnóstico tardío de endometriosis a los 13 años.\n• Los médicos inicialmente no consideraron sus síntomas, subestimando su dolor persistente.\n• La morfina fue administrada antes de llegar al diagnóstico correcto de endometriosis.\n• Es importante educar a las jóvenes sobre los síntomas de esta enfermedad poco conocida.\n• La falta de atención médica adecuada puede hacer que muchas pacientes sufran en silencio.",
+      "bullets_20s": "• La endometriosis es una enfermedad que afecta a muchas mujeres en el mundo entero, causando dolores intensos.\n• La joven Grace comparte su experiencia con la endometriosis, buscando crear más conciencia al respecto.\n• Médicos y especialistas deben prestar atención adecuada a los síntomas de sus pacientes desde jóvenes.\n• El dolor persistente puede ser un indicador clave para enfermedades como la endometriosis y no debe ser ignorado.\n• Es importante educar a las chicas sobre los síntomas de la endometriosis para un diagnóstico temprano.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c5y5854gn1do?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-31T09:44:42.000Z",
-      "teaser": "Lo clave en 20 segundos: Una joven comparte su lucha contra la endometriosis y la importancia de la atención médica.",
+      "teaser": "Lo clave en 20 segundos: Grace cuenta su experiencia con la endometriosis para ayudar a otras jóvenes.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c9f8/live/ea387470-a08c-11f1-9234-011c63dfa263.png",
       "description": "La joven Grace siente que los médicos le restaron importancia a su dolor y quiere dar a conocer los síntomas para ayudar a otras chicas a evitar pasar por la misma experiencia.",
       "featured": false
@@ -511,11 +537,11 @@
       "slug": "en-que-consiste-el-mayor-acuerdo-petrolero-de-la-historia-anunciado-por-eeuu-y-venezuela-y-por-que-es-tan-polemico",
       "title": "En qué consiste el 'mayor acuerdo petrolero de la historia' anunciado por EE.UU. y Venezuela, y por qué es tan polémico",
       "category": "Mundo",
-      "bullets_20s": "• El acuerdo petrolero entre EE.UU. y Venezuela ha generado controversias a nivel internacional y nacional.\n• Se clasifica como el mayor acuerdo petrolero en la historia reciente, sorprendiendo a analistas.\n• Las reservas de crudo venezolano se estiman en 65.000 millones de barriles, lo que es significativo.\n• El acceso de EE.UU. a estos campos podría cambiar el mercado global del petróleo.\n• Este acuerdo podría impactar las relaciones políticas entre ambos países a largo plazo.",
+      "bullets_20s": "• El acuerdo petrolero genera debates sobre el impacto ambiental en la región sudamericana.\n• Expertos analizan las repercusiones en la economía de Venezuela y sus relaciones internacionales.\n• El aumento en la producción de petróleo podría afectar los precios globales.\n• La decisión ha sido criticada por organizaciones que defienden derechos humanos.\n• La política energética de EE.UU. podría cambiar con este nuevo acuerdo estratégico.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c783xln84p1o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-31T03:59:04.000Z",
-      "teaser": "Lo clave en 20 segundos: Un acuerdo polémico que podría cambiar el curso del petróleo en el mundo.",
+      "teaser": "Lo clave en 20 segundos: un acuerdo polémico entre EE.UU. y Venezuela sobre petróleo.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/4679/live/c136eaa0-a4df-11f1-a732-7953178f646a.jpg",
       "description": "El acuerdo anunciado por Donald Trump y Delcy Rodríguez le otorga acceso a EE.UU. a campos con reservas probadas de 65.000 millones de barriles de crudo venezolano.",
       "featured": false
@@ -1824,11 +1850,11 @@
       "slug": "en-el-tec-trabajan-con-un-rover-para-explorar-la-luna-conversemos-con-el-tec",
       "title": "En el TEC trabajan con un rover para explorar la Luna, Conversemos con el TEC",
       "category": "Ciencia",
-      "bullets_20s": "• El Laboratorio de Sistemas Espaciales del TEC desarrolla un rover para la exploración lunar.\n• Se probarán algoritmos necesarios para misiones del programa Artemis en la Luna.\n• Un programa especial en Conversemos con el TEC revelará detalles del proyecto.\n• El programa se transmitirá el 2 de setiembre a las 10 a.m. por las redes del TEC.\n• La audiencia podrá enviar preguntas en directo al coordinador del SETEC-Lab.",
+      "bullets_20s": "• El SETEC-Lab del Tecnológico de Costa Rica desarrolla un rover para investigaciones lunares.\n• El rover probará algoritmos para misiones del programa Artemis en exploración lunar.\n• Se realizará un programa especial sobre este rover el 2 de setiembre a las 10 a.m.\n• El evento se transmitirá en vivo por las redes sociales del TEC y YouTube.\n• Johan Carvajal, coordinador del SETEC-Lab, participará para responder preguntas del público.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/tec-trabajan-rover-explorar-luna-conversemos-tec",
       "publish_date": "2026-08-28T22:50:18.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC desarrolla un rover lunar para misiones futuras del programa Artemis.",
+      "teaser": "Lo clave en 20 segundos: TEC desarrolla un rover para misiones lunares y tendrá un programa especial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/conversemos-horizontal.png",
       "description": "En el TEC trabajan con un rover para explorar la Luna, Conversemos con el TEC",
       "featured": false
@@ -2084,11 +2110,11 @@
       "slug": "programa-de-actividades-semana-civica-tec-2026",
       "title": "Programa de actividades semana cívica TEC 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebra la Semana Cívica del 07 al 11 de septiembre.\n• Se conmemoran 205 años de independencia, reforzando la identidad nacional costarricense.\n• Habrá actividades culturales y juegos tradicionales en varios espacios del campus.\n• Se fomentarán los valores cívicos en la comunidad educativa y el país.\n• El lema esta vez es: Celebremos lo que somos. Honramos el pasado, construimos el futuro.",
+      "bullets_20s": "• La Semana Cívica del TEC se celebra del 07 al 11 de septiembre de 2026.\n• Actividades buscan generar reflexión sobre la identidad y valores costarricenses.\n• Desarrollo de juegos tradicionales y presentaciones culturales para involucrar a la comunidad.\n• El evento incluye actividades en el Campus Cartago con participación de estudiantes y docentes.\n• Se honran 205 años de independencia de Costa Rica con una agenda variada.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/programa-actividades-semana-civica-tec-2026",
       "publish_date": "2026-08-28T15:26:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de la Semana Cívica en el TEC con diversas actividades culturales y cívicas.",
+      "teaser": "Lo clave en 20 segundos: El TEC celebra la Semana Cívica con actividades del 07 al 11 de septiembre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/1_1_0_0.jpg",
       "description": "Programa de actividades semana cívica TEC 2026",
       "featured": false
@@ -2123,11 +2149,11 @@
       "slug": "casa-de-la-ciudad-celebra-las-fiestas-patrias-con-la-feria-de-la-cultura-popular-guillermo-martinez-solano-2026",
       "title": "Casa de la Ciudad celebra las fiestas patrias con la Feria de la Cultura Popular “Guillermo Martínez Solano” 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Del 12 al 15 de septiembre, Casa de la Ciudad tendrá una feria cultural abierta al público.\n• La feria incluye artesanías, gastronomía tradicional y talleres gratuitos para todos los asistentes.\n• Se espera la participación de más de 30 emprendimientos y artesanos de la región cartaginesa.\n• Habrá presentaciones de bailes típicos y espectáculos folclóricos para disfrutar en familia.\n• El evento rinde homenaje a don Guillermo Martínez Solano, maestro de la mascarada tradicional.",
+      "bullets_20s": "• Del 12 al 15 de septiembre, disfrutemos de artesanías y gastronomía típica costarricense.\n• La Feria de la Cultura Popular resalta la identidad costarricense y la economía local.\n• Este evento rinde homenaje a Guillermo Martínez, maestro de la mascarada tradicional.\n• Habrá talleres gratuitos y actividades culturales para toda la familia en la feria.\n• Más de 30 emprendimientos locales estarán presentes promoviendo su trabajo y creatividad.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/casa-ciudad-celebra-fiestas-patrias-feria-cultura-popular-guillermo-martinez-solano-2026",
       "publish_date": "2026-08-28T14:21:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Feria cultural en la Casa de la Ciudad con artesanías y homenaje a la tradición.",
+      "teaser": "Lo clave en 20 segundos: Feria de la Cultura Popular rinde homenaje a Guillermo Martínez del 12 al 15 de septiembre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/afiche-tabloide-feria-2026_page-0001-copia-1.jpg",
       "description": "Casa de la Ciudad celebra las fiestas patrias con la Feria de la Cultura Popular “Guillermo Martínez Solano” 2026",
       "featured": false
@@ -2396,11 +2422,11 @@
       "slug": "tec-sera-sede-de-la-i-serie-universitaria-de-beisbol",
       "title": "TEC será sede de la I Serie Universitaria de Béisbol",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC en Cartago albergará la primera Serie Universitaria de béisbol en Costa Rica.\n• Cinco delegaciones competirán en esta iniciativa para promover el béisbol universitario.\n• Se espera la participación de estudiantes de diversas universidades en todo el país.\n• El evento incluye un desfile inaugural y actividades culturales para todos los asistentes.\n• Las universidades impulsan esta serie para fomentar valores entre los jóvenes atletas.",
+      "bullets_20s": "• La I Serie Universitaria de Béisbol se inaugurará el 5 de setiembre en el TEC de Cartago.\n• Cinco delegaciones universitarias participarán en este evento que promueve el béisbol académico.\n• El evento incluye un desfile inaugural con la banda La Vieja Metrópoli acompañando a los atletas.\n• Se busca fomentar valores como trabajo en equipo y liderazgo a través del deporte universitario.\n• El TEC ha promovido el crecimiento del béisbol desde 2022, aumentando la participación estudiantil.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/tec-sera-sede-i-serie-universitaria-beisbol",
       "publish_date": "2026-08-28T05:25:16.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC será el anfitrión de la I Serie Universitaria de Béisbol el 5 de septiembre.",
+      "teaser": "Lo clave en 20 segundos: El TEC será sede de la I Serie Universitaria de Béisbol el 5 de setiembre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/cronograma.23.42.png",
       "description": "TEC será sede de la I Serie Universitaria de Béisbol",
       "featured": false
@@ -87530,10 +87556,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-31T22:45:24.740Z",
-  "total": 6733,
-  "removed_soccer_news_count": 1144,
+  "generated_at": "2026-08-31T23:45:24.916Z",
+  "total": 6735,
+  "removed_soccer_news_count": 1145,
   "removed_soccer_news_titles": [
+    "El Arsenal gana con lo mínimo ante un Aston Villa hundido en la Premier League",
     "Yamal y Raphinha hacen líder al Barcelona en la Liga Española",
     "Antonela Roccuzzo no se queda callada tras el retiro de Lionel Messi de la Selección Argentina",
     "Los grandes momentos de Messi con Argentina",
@@ -87582,7 +87609,6 @@
     "Por fin un aliado: Eto’o pide apoyos para el presidente de la FIFA Gianni Infantino",
     "Keylor Navas fue figura en su partido 50 con Pumas (video)",
     "El Manchester City de Maresca arranca la Premier League con victoria",
-    "Cartaginés asusta con su ofensiva y golea a Escorpiones",
-    "El Inter inicia la defensa de su Scudetto con una goleada al Monza"
+    "Cartaginés asusta con su ofensiva y golea a Escorpiones"
   ]
 }
