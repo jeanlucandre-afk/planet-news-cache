@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "hallan-a-hombre-sin-vida-en-via-publica-en-san-jose",
+      "title": "Hallan a hombre sin vida en vía pública en San José",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las autoridades encontraron el cuerpo en una conocida calle de la capital.\n• Se iniciaron las investigaciones para determinar las causas del fallecimiento.\n• El hombre tenía 38 años y su identidad ha sido confirmada por los familiares.\n• Vecinos de la zona reportaron haber escuchado ruidos extraños la noche anterior.\n• Este caso ha generado preocupación entre los residentes por la seguridad en las calles.",
+      "source_name": "Luis Enrique Brenes",
+      "source_url": "https://www.nacion.com/sucesos/hallan-a-hombre-sin-vida-en-via-publica-en-san/6JQY4M2KEJBZRCRD4TOKGX6VOQ/story/",
+      "publish_date": "2026-08-31T00:06:24.000Z",
+      "teaser": "Lo clave en 20 segundos: hombre hallado sin vida en San José genera inquietud.",
+      "image_url": "https://www.nacion.com/resizer/v2/7ONTF2C7WFAZZGP24EAZ26HRBM.JPG?auth=6cbcbdf8dd66ee0887cb3d2b31d3352c45ebd7a44cde0d208ae0c22085add076&smart=true&width=716&height=537",
+      "description": "El fallecido es de apellido Herrera, de 38 años",
+      "featured": false
+    },
+    {
       "slug": "josimar-alcocer-sufre-dolorosa-derrota-con-el-sparta-praga",
       "title": "Josimar Alcócer sufre dolorosa derrota con el Sparta Praga",
       "category": "Mundo",
@@ -108,11 +121,11 @@
       "slug": "el-director-de-una-escuela-que-evacuo-a-900-ninos-minutos-antes-de-que-las-inundaciones-en-nepal-azotaran-las-aulas",
       "title": "El director de una escuela que evacuó a 900 niños minutos antes de que las inundaciones en Nepal azotaran las aulas",
       "category": "Mundo",
-      "bullets_20s": "• El director tomó una decisión crucial para proteger a los niños de la escuela en Nepal.\n• 900 estudiantes fueron evacuados segundos antes de las devastadoras inundaciones.\n• El aviso de alerta permitió actuar a tiempo y evitar tragedias mayores.\n• Rajendra Dawadi coordinó el proceso, demostrando liderazgo y rapidez.\n• Las inundaciones en Nepal han generado serios problemas en varias comunidades.",
+      "bullets_20s": "• Un director de escuela fue clave para la evacuación de 900 niños en Nepal.\n• Las inundaciones amenazaban las aulas, generando una situación de emergencia.\n• Rajendra Dawadi actuó rápidamente ante las advertencias de crecidas de agua.\n• La preparación y reacción eficiente salvó vidas en un momento crítico.\n• Las inundaciones en Nepal son recurrentes y afectan a miles cada año.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cy8zy0eplp4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-30T19:41:26.000Z",
-      "teaser": "Lo clave en 20 segundos: evacuación exitosa antes de inundaciones en Nepal salvó vidas.",
+      "teaser": "Lo clave en 20 segundos: un director evacuó a 900 niños antes de inundaciones en Nepal.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/508f/live/e7302210-a4a0-11f1-a291-b542ee92de7c.png",
       "description": "Rajendra Dawadi actuó con rapidez tras recibir advertencias sobre la crecida de las aguas que se dirigían hacia su institución.",
       "featured": false
@@ -225,11 +238,11 @@
       "slug": "por-que-algunos-restaurantes-de-eeuu-estan-prohibiendo-las-propinas",
       "title": "Por qué algunos restaurantes de EE.UU. están prohibiendo las propinas",
       "category": "Mundo",
-      "bullets_20s": "• Algunos restaurantes en EE.UU. están rechazando las propinas tradicionales de sus clientes.\n• El sistema de propinas ha sido criticado por ser injusto para los empleados.\n• Esta práctica podría transformar la experiencia gastronómica en los Estados Unidos.\n• Se argumenta que un salario fijo puede mejorar las condiciones laborales de los meseros.\n• El debate sobre las propinas en EE.UU. ha adquirido fuerza en los últimos años.",
+      "bullets_20s": "• Algunos restaurantes en EE. UU. están eliminando las propinas debido a su sistema de pagos.\n• Las propinas a menudo generan desigualdades en el trato hacia los trabajadores de la industria.\n• Restaurantes buscan un modelo más justo y sostenible que beneficie a todos sus empleados.\n• El debate sobre las propinas enfrenta resistencia de ciertos sectores de la población.\n• Se exploran alternativas como aumentar los salarios base de los meseros como solución.\n• La cultura gastronómica está en constante cambio y se adapta a nuevas circunstancias económicas.\n• Los clientes también tienen opiniones diversas sobre el sistema de propinas en restaurantes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpvey94jk3ro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-08-30T15:04:43.000Z",
-      "teaser": "Lo clave en 20 segundos: Algunos restaurantes de EE.UU. están eliminando las propinas por considerarlas injustas.",
+      "teaser": "Lo clave en 20 segundos: La eliminación de propinas está creando debate en la industria gastronómica estadounidense.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/bde8/live/935b4630-a0c5-11f1-b8cc-1bd2cc322bf4.jpg",
       "description": "Los pagos adicionales de los clientes a los meseros son fundamentales en los restaurantes estadounidense, pero algunos locales de comida consideran que son injustos.",
       "featured": false
@@ -1252,11 +1265,11 @@
       "slug": "en-el-tec-trabajan-con-un-rover-para-explorar-la-luna-conversemos-con-el-tec",
       "title": "En el TEC trabajan con un rover para explorar la Luna, Conversemos con el TEC",
       "category": "Ciencia",
-      "bullets_20s": "• El Laboratorio de Sistemas Espaciales investiga un rover para explorar la Luna.\n• Se están probando algoritmos para misiones dentro del programa Artemis.\n• El programa especial se transmitirá el 2 de setiembre a las 10 a.m.\n• Johan Carvajal será el invitado para discutir el proyecto Olympus.\n• Los interesados pueden enviar preguntas al correo del programa del TEC.",
+      "bullets_20s": "• El TEC desarrolla un rover que servirá para pruebas en misiones lunares del programa Artemis.\n• El proyecto Olympic busca innovar en la exploración lunar con tecnología costarricense.\n• Desarrolladores locales están trabajando en algoritmos que ayudarán en la navegación lunar.\n• El programa Conversemos con el TEC ofrecerá detalles sobre este emocionante proyecto espacial.\n• Johan Carvajal, coordinador del SETEC-Lab, compartirá insights en la transmisión especial.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/tec-trabajan-rover-explorar-luna-conversemos-tec",
       "publish_date": "2026-08-28T22:50:18.000Z",
-      "teaser": "Lo clave en 20 segundos: Exploran la Luna con un rover del TEC. Prueba de algoritmos para misiones Artemis.",
+      "teaser": "Lo clave en 20 segundos: El TEC avanza en la exploración lunar con un innovador rover.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/conversemos-horizontal.png",
       "description": "En el TEC trabajan con un rover para explorar la Luna, Conversemos con el TEC",
       "featured": false
@@ -1512,11 +1525,11 @@
       "slug": "programa-de-actividades-semana-civica-tec-2026",
       "title": "Programa de actividades semana cívica TEC 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Semana Cívica del TEC se celebrará del 07 al 11 de setiembre de 2026 en su campus.\n• El lema del evento es: Celebremos lo que somos, honrando el pasado y construyendo el futuro.\n• Se realizarán presentaciones culturales y juegos tradicionales para conmemorar la independencia.\n• Se espera que toda la comunidad educativa participe en este evento significativo.\n• Habrá una conferencia sobre la democracia costarricense el 11 de setiembre.\n• Las actividades incluyen desfiles, presentaciones artísticas y juegos populares.\n• El TEC reafirma su compromiso con la identidad nacional durante esta celebración.\n• Los estudiantes y colaboradores están invitados a asistir a todas las actividades programadas.\n• El evento busca fomentar los valores cívicos en la comunidad del Tecnológico.\n• Se celebrarán en total 10 diferentes actividades a lo largo de la Semana Cívica.",
+      "bullets_20s": "• El TEC reafirma su compromiso con Costa Rica a través de la Semana Cívica 2026.\n• Se celebran 205 años de independencia, fortaleciendo la identidad nacional.\n• Actividades se desarrollarán del 07 al 11 de septiembre en el campus Cartago.\n• Juegos tradicionales y presentaciones culturales formarán parte del programa de eventos.\n• Las actividades incluyen desfiles, campeonatos y conferencias en diversas áreas.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/programa-actividades-semana-civica-tec-2026",
       "publish_date": "2026-08-28T15:26:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Semana Cívica del TEC del 07 al 11 de setiembre para celebrar la independencia.",
+      "teaser": "Lo clave en 20 segundos: El TEC celebrará la Semana Cívica con diversas actividades del 07 al 11 de septiembre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/1_1_0_0.jpg",
       "description": "Programa de actividades semana cívica TEC 2026",
       "featured": false
@@ -1551,11 +1564,11 @@
       "slug": "casa-de-la-ciudad-celebra-las-fiestas-patrias-con-la-feria-de-la-cultura-popular-guillermo-martinez-solano-2026",
       "title": "Casa de la Ciudad celebra las fiestas patrias con la Feria de la Cultura Popular “Guillermo Martínez Solano” 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Del 12 al 15 de septiembre, disfrute de una feria única en casa de la ciudad.\n• Más de 30 emprendedores presentaràn sus creaciones para impulsar la economía local.\n• Participantes podrán disfrutar de talleres gratuitos de arte y cultura costarricense.\n• Se rendirá homenaje a Guillermo Martínez Solano, figura clave en la tradición.\n• El evento incluirá conciertos folclóricos y bailes típicos para toda la comunidad.",
+      "bullets_20s": "• Del 12 al 15 de septiembre, la comunidad disfrutará de una feria cultural única en Costa Rica.\n• La Feria de la Cultura Popular rinde homenaje a Guillermo Martínez, importante figura cultural costarricense.\n• Asistentes podrán participar en talleres gratuitos de diversas disciplinas artísticas y culturales.\n• Más de 30 emprendedores locales mostrarán sus artesanías y productos durante el evento.\n• Habrá espectáculos folclóricos y presentaciones de bailes típicos para toda la familia.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/casa-ciudad-celebra-fiestas-patrias-feria-cultura-popular-guillermo-martinez-solano-2026",
       "publish_date": "2026-08-28T14:21:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Feria cultural del 12 al 15 de septiembre rinde homenaje a Guillermo Martínez Solano.",
+      "teaser": "Lo clave en 20 segundos: Feria de la Cultura Popular del 12 al 15 de septiembre, homenaje a Guillermo Martínez.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/afiche-tabloide-feria-2026_page-0001-copia-1.jpg",
       "description": "Casa de la Ciudad celebra las fiestas patrias con la Feria de la Cultura Popular “Guillermo Martínez Solano” 2026",
       "featured": false
@@ -1824,11 +1837,11 @@
       "slug": "tec-sera-sede-de-la-i-serie-universitaria-de-beisbol",
       "title": "TEC será sede de la I Serie Universitaria de Béisbol",
       "category": "Costa Rica",
-      "bullets_20s": "• La inauguración se realizará el 5 de septiembre en el Campus Cartago del TEC.\n• Cinco delegaciones universitarias participarán en esta primera edición del torneo.\n• El evento busca revitalizar el béisbol entre estudiantes de diversas universidades.\n• Habrá un desfile inaugural acompañado por la banda La Vieja Metrópoli.\n• Se espera la participación de autoridades universitarias y diplomáticas en el evento.",
+      "bullets_20s": "• El TEC en Cartago albergará la inauguración de la I Serie Universitaria de Béisbol el 5 de septiembre.\n• Cinco delegaciones de universidades competirán en esta nueva serie para fortalecer el béisbol académico.\n• El evento incluirá un desfile inaugural a las 9:00 a.m. con bandas y participación de autoridades.\n• La espera es alta ya que se espera una jornada de cultura, deporte y convivencia universitaria.\n• La actividad promueve el trabajo en equipo y valores como liderazgo y disciplina entre los alumnos.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/tec-sera-sede-i-serie-universitaria-beisbol",
       "publish_date": "2026-08-28T05:25:16.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC acoge la I Serie Universitaria de Béisbol el 5 de septiembre.",
+      "teaser": "Lo clave en 20 segundos: el TEC albergará la primera Serie Universitaria de Béisbol el 5 de septiembre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/cronograma.23.42.png",
       "description": "TEC será sede de la I Serie Universitaria de Béisbol",
       "featured": false
@@ -86945,10 +86958,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-08-30T23:45:24.604Z",
-  "total": 6688,
-  "removed_soccer_news_count": 1139,
+  "generated_at": "2026-08-31T00:45:24.990Z",
+  "total": 6689,
+  "removed_soccer_news_count": 1140,
   "removed_soccer_news_titles": [
+    "Diego González, sobre la selección de Costa Rica: ‘Sería algo muy lindo, Costa Rica me ha dado mucho’",
     "Amarini Villatoro sueña en grande con Cartaginés: ‘El objetivo a largo plazo es ser campeón en los dos torneos’",
     "¡Se puso nervioso! Vea el golazo de Francisco Calvo en el clásico de Uruguay: Nacional - Peñarol (video)",
     "Federación neerlandesa lanza sorprendente propuesta sobre FIFA que dejaría por fuera a  Infantino",
@@ -86997,7 +87011,6 @@
     "Josimar Alcócer sigue de la mano del gol con el Sparta Praga (video)",
     "Vuelve la Premier League y el Manchester United se lleva la primera sorpresa ante un recién ascendido",
     "Puntarenas pone fin a su terrible racha y logra la primera victoria del torneo",
-    "Grupo D en Copa Centroamericana: vea el panorama de Motagua, Cartaginés, Municipal y FAS",
-    "Keylor Navas y Pumas sin derecho a fallar para cazar la cima en la Liga MX"
+    "Grupo D en Copa Centroamericana: vea el panorama de Motagua, Cartaginés, Municipal y FAS"
   ]
 }
