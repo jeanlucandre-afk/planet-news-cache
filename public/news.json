@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "colegio-de-geologos-pide-referendum-sobre-crucitas-ante-falta-de-resolucion-en-la-asamblea-legislativa",
+      "title": "Colegio de Geólogos pide referéndum sobre Crucitas ante falta de resolución en la Asamblea Legislativa",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Colegio de Geólogos expresa preocupación por la situación en Crucitas.\n• Se solicita un referéndum para abordar el tema de Crucitas de manera efectiva.\n• La falta de resolución en la Asamblea Legislativa es un punto crítico.\n• Los problemas en la zona de Crucitas han ido en aumento en los últimos meses.\n• Expertos consideran que un referéndum podría ser la solución adecuada.",
+      "source_name": "Silvia Ureña Corrales, Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/el-pais/colegio-de-geologos-pide-referendum-sobre-crucitas/JVFVJXOLTZBZ7F4A3PR5OH7IGY/story/",
+      "publish_date": "2026-09-02T23:15:31.000Z",
+      "teaser": "Lo clave en 20 segundos: Geólogos piden referéndum por problemas en Crucitas.",
+      "image_url": "https://www.nacion.com/resizer/v2/5YWG3L3DJFEONG6NH6QBFSHMZM.jpg?auth=a84976f4880f62757450ab7aa9d4afd8da54094d3de3064f2836a8f41cb80dfc&smart=true&width=1600&height=900",
+      "description": "El Colegio de Geólogos pide un referéndum sobre Crucitas ante la falta de una solución en la Asamblea Legislativa y el avance de los problemas en la zona.",
+      "featured": false
+    },
+    {
+      "slug": "esmeralda-britton-denuncia-discriminacion-contra-nina-afrodescendiente-en-escuela-de-perez-zeledon",
+      "title": "Esmeralda Britton denuncia discriminación contra niña afrodescendiente en escuela de Pérez Zeledón",
+      "category": "Costa Rica",
+      "bullets_20s": "• Esmeralda Britton es una diputada que defiende los derechos humanos y la inclusión social.\n• La denuncia resalta la importancia de celebrar la diversidad en las escuelas costarricenses.\n• La niña afectada fue excluida de una actividad importante por su vestimenta tradicional.\n• Este caso ha generado un debate sobre la discriminación racial en la educación.\n• La diputada insta a las autoridades a tomar medidas contra la discriminación en las aulas.",
+      "source_name": "Aarón Sequeira",
+      "source_url": "https://www.nacion.com/politica/esmeralda-britton-denuncia-discriminacion-contra/NK6EZXCTOJEA3MXOG4ISVVIB64/story/",
+      "publish_date": "2026-09-02T22:44:50.000Z",
+      "teaser": "Lo clave en 20 segundos: La diputada Britton denuncia discriminación racial en escuelas de Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/JSB62SVPFVAINCBIZPCEJOCQ6Y.JPG?auth=4a4946563a07ccf49f39ec5cb2d083ccf91dc2c4c6118b333f0c79c32645c716&smart=true&width=4464&height=2976",
+      "description": "Diputada de Pueblo Soberano aseguró que a la niña se le apartó de actividad de celebración del Día de la Persona Negra por tener un vestido tradicional de tirantes.",
+      "featured": false
+    },
+    {
       "slug": "torbellino-en-santa-ana-causa-destrozos-en-techos",
       "title": "Torbellino en Santa Ana causa destrozos en techos",
       "category": "Costa Rica",
@@ -132,13 +158,13 @@
     },
     {
       "slug": "pattaya-la-ciudad-del-pecado-de-tailandia-en-la-que-desembarcaron-5000-marines-de-eeuu-tras-pasar-mas-de-ocho-meses-en-a",
-      "title": "Pattaya, la \"ciudad del pecado\" de Tailandia en la que desembarcaron 5.000 marines de EE.UU. tras pasar más de ocho meses en alta mar",
+      "title": "Pattaya, la 'ciudad del pecado' de Tailandia en la que desembarcaron 5.000 marines de EE.UU. tras pasar más de ocho meses en alta mar",
       "category": "Mundo",
-      "bullets_20s": "• El USS Abraham Lincoln se encontraba en una misión prolongada en el mar antes de llegar a Pattaya.\n• Pattaya es conocida por su vibrante vida nocturna y su controversial oferta turística.\n• El desembarco de los marines marca una acción significativa en el contexto geopolítico de la región.\n• La ciudad atrae a turistas de todo el mundo por su entretenimiento nocturno y playas.\n• Las condiciones de vida a bordo de un portaaviones pueden ser difíciles y exigentes para los marines.",
-      "source_name": "BBC Mundo",
+      "bullets_20s": "• Pattaya es conocida por su vida nocturna y atractivos turísticos diversos.\n• La llegada de los marines marca un suceso importante en la ciudad tailandesa.\n• El USS Abraham Lincoln llevó a cabo operaciones en el océano durante meses.\n• La ciudad atrae a turistas por su entretenimiento y cultura vibrante.\n• Pattaya ha sido un destino turístico popular durante varias décadas.",
+      "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/c4gre5kmgg4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-02T17:32:17.000Z",
-      "teaser": "Lo clave en 20 segundos: El USS Abraham Lincoln llega a Pattaya tras 250 días en alta mar.",
+      "teaser": "Lo clave en 20 segundos: llegada de marines a Pattaya tras larga misión en alta mar.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3894/live/fea7bf50-a6af-11f1-b048-153395f36aa1.jpg",
       "description": "Tras 250 días en alta mar, el USS Abraham Lincoln atracó cerca de Pattaya, una ciudad conocida por una animada vida nocturna y el turismo sexual.",
       "featured": false
@@ -225,13 +251,13 @@
       "slug": "quien-es-alejandro-betancourt-el-polemico-bolichico-multimillonario-detras-del-acuerdo-petrolero-entre-eeuu-y-venezuela",
       "title": "Quién es Alejandro Betancourt, el polémico 'bolichico' multimillonario detrás del acuerdo petrolero entre EE.UU. y Venezuela",
       "category": "Mundo",
-      "bullets_20s": "• Alejandro Betancourt es conocido por sus controversiales vínculos y proyectos empresariales.\n• La selección de Betancourt ha generado reacciones encontradas en el ámbito político internacional.\n• El empresario ha sido vinculado al chavismo, lo que complica su imagen pública.\n• El acuerdo petrolero es parte de un intento por estabilizar la economía venezolana.\n• Washington busca alternativas energéticas en medio de la crisis global del petróleo.",
+      "bullets_20s": "• Alejandro Betancourt es un empresario con mucha controversia en el panorama político y económico actual.\n• Su participación en la industria petrolera ha generado críticas en diferentes sectores de la población.\n• Las relaciones de Betancourt con el chavismo son objeto de debate entre analistas y políticos en la región.\n• Estados Unidos ha decidido incluirlo en acuerdos potenciales debido a su influencia en el sector energético.\n• El acuerdo petrolero puede afectar las políticas de suministro y precios del crudo en el futuro cercano.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c8jd037kg19o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-02T15:42:57.000Z",
-      "teaser": "Lo clave en 20 segundos: Alejandro Betancourt, un empresario polémico, lidera el acuerdo petrolero entre EE.UU. y Venezuela.",
+      "teaser": "Lo clave en 20 segundos: Alejandro Betancourt, un empresario controvertido en un pacto petrolero crucial.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0e2d/live/f52aa1a0-a6d6-11f1-acae-21b536d72e0e.jpg",
-      "description": "Pese a las dudas que han rodeado el origen de su fortuna y a sus vínculos con el chavismo, Washington eligió a este empresario para explotar los 17 yacimientos petrolíferos incluidos en el pacto con el gobierno interino de Delcy Rodríguez.",
+      "description": "Pese a las dudas que han rodeado el origen de su fortuna y a sus vínculos con el chavismo, Washington eligió a este empresario para explotar los 17 yacimientos petrolíferos incluidos en el pacto con el gobierno interino de Delcy Rodríguez",
       "featured": false
     },
     {
@@ -303,11 +329,11 @@
       "slug": "sin-luz-sin-agua-sin-transporte-la-frustracion-que-siento-con-mi-vida-en-la-cuba-de-los-apagones",
       "title": "Sin luz, sin agua, sin transporte: la frustración que siento con mi vida en la Cuba de los apagones",
       "category": "Mundo",
-      "bullets_20s": "• La crisis en Cuba afecta a jóvenes historiadores del arte, llevándolos a reconfigurar su vida cotidiana.\n• Los apagones constantes generan una frustración palpable entre los habitantes de La Habana.\n• La falta de servicios básicos como luz y agua impacta a comunidades enteras en diversas regiones de Cuba.\n• El transporte se convierte en un reto adicional en medio de la crisis energética y de servicios.\n• Las conversaciones locales revelan el descontento y la búsqueda de alternativas para sobrellevar la situación.",
+      "bullets_20s": "• La crisis en Cuba afecta cada aspecto de la vida diaria de sus habitantes en La Habana.\n• Los apagones constantes hanalterado rutinas y servicios esenciales como luz y agua.\n• El joven historiador comparte su experiencia lidiando con la falta de transporte público.\n• Cómo los cubanos adaptan sus vidas a las restricciones y desafíos actuales.\n• La narrativa refleja la necesidad de esperanza y resiliencia en tiempos difíciles.",
       "source_name": "BBC News Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ckgx2v0754lo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-02T12:58:26.000Z",
-      "teaser": "Lo clave en 20 segundos: La crisis en Cuba reconfigura la vida de un joven historiador del arte enfrentando apagones.",
+      "teaser": "Lo clave en 20 segundos: La crisis cubana reconfigura la vida de sus habitantes y su lucha por sobrevivir.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/6e9d/live/2e1bd4a0-9f72-11f1-a89b-8f1d6db01b0f.jpg",
       "description": "BBC News Mundo conversó durante una semana con un joven historiador del arte en La Habana para entender las múltiples maneras como la crisis ha reconfigurado su vida.",
       "featured": false
@@ -430,19 +456,6 @@
       "featured": false
     },
     {
-      "slug": "compartimos-casa-con-una-familia-de-osos-que-se-bana-varios-dias-a-la-semana-en-nuestra-piscina",
-      "title": "Compartimos casa con una familia de osos que se baña varios días a la semana en nuestra piscina",
-      "category": "Mundo",
-      "bullets_20s": "• La convivencia con la fauna silvestre puede generar situaciones inesperadas y sorprendentes.\n• Los osos salvajes a menudo buscan lugares seguros y cómodos para descansar.\n• Es esencial adoptar medidas de seguridad al interactuar con animales salvajes.\n• California es conocido por su biodiversidad y la cercanía entre humanos y fauna.\n• Este tipo de experiencias refuerza la necesidad de conservación de la naturaleza.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/c0lr180e95xo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-09-02T11:43:32.000Z",
-      "teaser": "Lo clave en 20 segundos: Una inusual convivencia con osos salvajes y sus precauciones.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3985/live/eb863370-a619-11f1-a291-b542ee92de7c.jpg",
-      "description": "Brian Gordon y Ricardo Martínez viven en California y conviven constantemente con osos salvajes. Comparten su experiencia en redes y explican que mantienen medidas de precaución para no ponerse en peligro.",
-      "featured": false
-    },
-    {
       "slug": "gobierno-financiaria-con-deuda-casi-4-de-cada-10-del-presupuesto-nacional-2027",
       "title": "Gobierno financiaría con deuda casi ¢4 de cada ¢10 del Presupuesto Nacional 2027",
       "category": "Costa Rica",
@@ -459,11 +472,11 @@
       "slug": "la-inclusion-y-el-empoderamiento-son-un-discurso-fracasado-y-adormecedor",
       "title": "La inclusión y el empoderamiento son un discurso fracasado y adormecedor",
       "category": "Mundo",
-      "bullets_20s": "• María Galindo crítica el discurso dominante sobre inclusión y empoderamiento en la sociedad.\n• Mujeres Creando es un colectivo fundado por Galindo en el contexto del feminismo latinoamericano.\n• La propuesta de Galindo se enfoca en la solidaridad entre diversas identidades de mujeres.\n• La lucha feminista busca desmantelar estructuras de poder establecidas en todas las sociedades.\n• El empoderamiento requiere un cambio profundo en la forma en que entendemos la inclusión.",
+      "bullets_20s": "• María Galindo desafía las normas sociales con su colectivo innovador en el feminismo.\n• La inclusión se cuestiona como un concepto efectivo en la lucha feminista actual.\n• Mujeres Creando busca un enfoque radical en la defensa de los derechos de las mujeres.\n• El discurso sobre empoderamiento se debate en el contexto latinoamericano contemporáneo.\n• Las voces diversas dentro del feminismo plantean retos y nuevas perspectivas sociales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/czxz8pq47pvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-02T11:00:18.000Z",
-      "teaser": "Lo clave en 20 segundos: María Galindo desafía nociones convencionales sobre inclusión y feminismo.",
+      "teaser": "Lo clave en 20 segundos: María Galindo desafía el discurso de empoderamiento desde una perspectiva crítica.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b367/live/9961b4b0-a575-11f1-942f-072f487bf0ca.jpg",
       "description": "María Galindo es una de las voces más prominentes del feminismo latinoamericano. Desde hace más de 30 años lidera Mujeres Creando, un colectivo que ella misma define como 'indias, putas y lesbianas juntas, revueltas y hermanadas'.",
       "featured": false
@@ -875,11 +888,11 @@
       "slug": "guitarra-en-escena-2026-cierra-su-decima-edicion-con-concertista-espanola",
       "title": "Guitarra en Escena 2026 cierra su décima edición con concertista española",
       "category": "Costa Rica",
-      "bullets_20s": "• La clausura del festival se llevará a cabo en el Centro de las Artes del TEC.\n• Elena Ortega, destacada concertista de España, será la invitada especial del evento.\n• La entrada al evento es libre, permitiendo acceso a toda la audiencia.\n• Artistas locales también participarán, enriqueciendo la noche musical.\n• El festival celebra el 55 aniversario del Tecnológico de Costa Rica.",
+      "bullets_20s": "• El Festival Guitarra en Escena culmina su décima edición con una gran clausura el 2 de septiembre.\n• La guitarra concertista española Elena Ortega será la estrella invitada de esta velada especial.\n• Ortega tiene una notable trayectoria internacional, incluyendo presentaciones en diversos continentes.\n• El evento se llevará a cabo en el Centro de las Artes del Tecnológico de Costa Rica en Cartago.\n• La entrada es libre, promoviendo el acceso a la música clásica para todo público.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/guitarra-escena-2026-cierra-su-decima-edicion-concertista-espanola",
       "publish_date": "2026-09-01T17:05:32.000Z",
-      "teaser": "Lo clave en 20 segundos: Guitarra en Escena cierra con Elena Ortega en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Guitarra en Escena 2026 cierra con una destacada concertista española.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche.guitarra.en_.escena.2026.jpeg",
       "description": "Guitarra en Escena 2026 cierra su décima edición con concertista española",
       "featured": false
@@ -1291,11 +1304,11 @@
       "slug": "tec-brinda-homenaje-al-cacao-como-fruto-ancestral-en-su-participacion-en-el-grand-gala-parade-2026",
       "title": "TEC brinda homenaje al cacao como fruto ancestral en su participación en el Grand Gala Parade 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebró el cacao como parte de la cultura afrodescendiente en Limón durante el desfile.\n• La temática del desfile se centró en raíces afrocaribeñas del cacao y su riqueza cultural.\n• Se destacaron trajes tradicionales alusivos al cacao, diseñados por el Centro Académico de Limón.\n• El evento se realizó en el Grand Gala Parade dentro del Festival de la Cultura Negra.\n• La participación del TEC promueve la identidad y cultura de la comunidad afrocostarricense.",
+      "bullets_20s": "• El TEC desfiló en el Grand Gala Parade con enfoque en el cacao ancestral y su historia.\n• La temática resaltó la importancia cultural del cacao en la historia afrocaribeña de Costa Rica.\n• La participación fue parte del Festival de la Cultura Negra 'Back to Our Roots'.\n• El cacao es simbolizado como 'oro moreno' en la gastronomía y cultura costarricense.\n• Los estudiantes y funcionarios mostraron trajes alusivos al cacao durante el desfile.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-brinda-homenaje-cacao-fruto-ancestral-su-participacion-grand-gala-parade-2026",
       "publish_date": "2026-09-01T01:19:19.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC celebra el cacao como símbolo cultural en el Grand Gala Parade 2026.",
+      "teaser": "Lo clave en 20 segundos: El TEC celebró el cacao ancestral en el Grand Gala Parade 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/002_gala-parade-limon-2026_paquesada.png",
       "description": "TEC brinda homenaje al cacao como fruto ancestral en su participación en el Grand Gala Parade 2026",
       "featured": false
@@ -3189,11 +3202,11 @@
       "slug": "en-el-tec-trabajan-con-un-rover-para-explorar-la-luna-conversemos-con-el-tec",
       "title": "En el TEC trabajan con un rover para explorar la Luna, Conversemos con el TEC",
       "category": "Ciencia",
-      "bullets_20s": "• El Tecnológico de Costa Rica desarrolla un rover para explorar la Luna bajo el programa Artemis.\n• El proyecto busca probar algoritmos que facilitarán las misiones lunares futuras.\n• Este miércoles se transmitirá un programa especial para discutir el avance de la investigación.\n• Johan Carvajal, coordinador del SETEC-Lab, explicará las implicaciones del rover.\n• El programa invita al público a participar, enviando preguntas y comentarios en vivo.",
+      "bullets_20s": "• El TEC desarrolla un rover para probar algoritmos para futuras misiones lunares del programa Artemis.\n• El programa especial se transmitirá el 2 de setiembre a las 10 a.m. por redes sociales.\n• Johan Carvajal, coordinador del SETEC-Lab, compartirán información del proyecto y su desarrollo.\n• El rover tiene el propósito de navegar y recopilar datos en la superficie lunar.\n• Los interesados pueden participar y enviar preguntas al correo del programa.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/tec-trabajan-rover-explorar-luna-conversemos-tec",
       "publish_date": "2026-08-28T22:50:18.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC desarrolla un rover para explorar la Luna y probar algoritmos para futuras misiones.",
+      "teaser": "Lo clave en 20 segundos: El TEC desarrolla un rover para explorar la Luna con tecnología innovadora.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/conversemos-horizontal.png",
       "description": "En el TEC trabajan con un rover para explorar la Luna, Conversemos con el TEC",
       "featured": false
@@ -3396,12 +3409,12 @@
     {
       "slug": "graduada-en-biotecnologia-del-tec-vivio-una-experiencia-de-microgravedad-en-francia",
       "title": "Graduada en Biotecnología del TEC vivió una experiencia de microgravedad en Francia",
-      "category": "Ciencia",
-      "bullets_20s": "• Fiorella Arias Bonilla representó a Costa Rica en la iniciativa Future Voices of Space.\n• Participó en un vuelo parabólico, llevando semillas nativas y productos agrícolas tradicionales.\n• La experiencia buscó acercar la ciencia y la tecnología a las comunidades locales.\n• Fiorella se convirtió en un puente entre la ciencia y su comunidad durante el vuelo.\n• El vuelo incluyó condiciones de microgravedad para experimentar la caída libre controlada.",
+      "category": "Mundo",
+      "bullets_20s": "• Fiorella Arias Bonilla representó a Costa Rica en un programa internacional sobre exploración espacial.\n• Participó en un vuelo parabólico que simuló las condiciones de gravedad cero en Francia.\n• El evento promueve la conexión entre la ciencia y sus comunidades a través de nuevos comunicadores.\n• Llevó semillas nativas y productos agrícolas que destacan la diversidad del país.\n• El enfoque de su proyecto es la biotecnología para soluciones en cambio climático.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/graduada-biotecnologia-tec-vivio-experiencia-microgravedad-francia",
       "publish_date": "2026-08-28T17:31:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Fiorella Arias vivió microgravedad y representó a Costa Rica en un vuelo espacial.",
+      "teaser": "Lo clave en 20 segundos: Costa Rica se destaca en ciencia espacial con Fiorella Arias en microgravedad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/nasa-12.jpg",
       "description": "Graduada en Biotecnología del TEC vivió una experiencia de microgravedad en Francia",
       "featured": false
@@ -88908,10 +88921,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-02T22:45:24.646Z",
-  "total": 6839,
-  "removed_soccer_news_count": 1156,
+  "generated_at": "2026-09-02T23:45:25.065Z",
+  "total": 6840,
+  "removed_soccer_news_count": 1157,
   "removed_soccer_news_titles": [
+    "Jugó un Mundial con México y ahora defenderá a Costa Rica en Polonia: el refuerzo que nadie esperaba",
     "Rónald González, director de Selecciones Nacionales: ‘No nos podemos quedar con el fracaso que tuvimos’",
     "Futbolistas pasados de peso y con alto porcentaje de grasa: esto dice Rónald González",
     "Hijo de reconocido técnico nacional sorprende con su aventura en el fútbol de Alemania",
@@ -88960,7 +88974,6 @@
     "Geancarlo Castro entra, desequilibra y le responde a Amarini Villatoro",
     "La UEFA podría levantar su amenaza de boicot a los torneos de FIFA",
     "Crisis en FIFA: otra federación europea retira su apoyo a Infantino",
-    "Vea el golazo de Cartaginés ante FAS de El Salvador",
-    "Cartaginés vs. FAS: ¿Cómo queda la clasificación de los brumosos con los resultados del primer tiempo?"
+    "Vea el golazo de Cartaginés ante FAS de El Salvador"
   ]
 }
