@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "hombre-agredio-con-martillo-a-medico-veterinaria",
+      "title": "Hombre agredió con martillo a médico veterinaria",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un hombre arremetió contra una médica veterinaria usando un martillo dentro de su clínica.\n• La agresión planteó serias preguntas sobre la seguridad en clínicas veterinarias en el país.\n• El incidente se está investigando para entender las razones detrás de este ataque.\n• La comunidad veterinaria ha expresado su preocupación por la violencia hacia profesionales del área.\n• Se espera que este caso despierte un debate sobre la protección de trabajadores de la salud.",
+      "source_name": "Christian  Montero, Marcela Rojas",
+      "source_url": "https://www.nacion.com/sucesos/hombre-agredio-con-martillo-a-medico-veterinaria/WEVO5DUXUJF3DILX23IO5DDKVI/story/",
+      "publish_date": "2026-09-04T00:20:10.000Z",
+      "teaser": "Lo clave en 20 segundos: Un ataque violento a una veterinaria en Costa Rica suscita preocupaciones de seguridad.",
+      "image_url": "https://www.nacion.com/resizer/v2/DHC7IZIIVBC6VJSWR3AWUCXGBI.jpg?auth=eca44e1d7d154a8068db90ac5b5bf412ef85efa0bf9baf53663784581047f4ce&smart=true&width=1501&height=1586",
+      "description": "Una médico veterinaria fue víctima de una brutal agresión con un martillo por aparte de un hombre que ingresó a su clínica.",
+      "featured": false
+    },
+    {
+      "slug": "hombre-agrede-con-martillo-a-medica-veterinaria-en-cartago",
+      "title": "Hombre agrede con martillo a médica veterinaria en Cartago",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un suceso alarmante ocurrió en Cartago, donde una veterinaria fue agredida con un martillo.\n• La violencia en clínicas veterinarias plantea preocupaciones sobre la seguridad del personal.\n• Las redes sociales han difundido el caso, siendo discutido en diferentes plataformas.\n• Las denuncias de violencia hacia profesionales de salud están aumentando en el país.\n• Autoridades locales instan a documentar y denunciar cualquier acto de agresión en el trabajo.",
+      "source_name": "Marcela Rojas Hidalgo",
+      "source_url": "https://www.nacion.com/sucesos/hombre-agrede-con-martillo-a-medica-veterinaria-en/R7SZ5CCCGRBXVDMZEHCQQ7ECTA/story/",
+      "publish_date": "2026-09-04T00:16:40.000Z",
+      "teaser": "Lo clave en 20 segundos: Un hombre agredió a una veterinaria con un martillo en Cartago, causando alarma.",
+      "image_url": "https://www.nacion.com/resizer/v2/XDB4EP45YJGPJOZQ3AQUTPVZRE.jpg?auth=34da00911bf6c8cd08c2889449d8861c2ee5a3cfbd80e9e234ef6448eb7d0f9f&smart=true&width=1200&height=1501",
+      "description": "Un hombre llegó a una clínica veterinaria en Cartago portando un martillo y golpeó repetidamente en la cabeza a la propietaria y veterinaria, según denunció en redes sociales la cuenta Brujas Feministas CR.",
+      "featured": false
+    },
+    {
       "slug": "paniamor-expresa-preocupacion-por-reducciones-de-horarios-y-transportes-de-los-cen-cinai",
       "title": "Paniamor expresa preocupación por reducciones de horarios y transportes de los Cen-Cinai",
       "category": "Costa Rica",
@@ -30,13 +56,13 @@
       "slug": "conmemoracion-del-30-aniversario-de-la-carrera-de-ensenanza-de-la-matematica-con-entornos-tecnologicos",
       "title": "Conmemoración del 30° Aniversario de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Matemática del TEC celebra tres décadas de historia y compromiso académico en Costa Rica.\n• El acto oficial del aniversario tendrá lugar el 17 de setiembre en el Auditorio D3 del TEC.\n• Se presentarán exposiciones académicas sobre matemáticas y tecnología durante varias actividades del aniversario.\n• Se rendirá homenaje a excoordinadores y personal jubilado con una condecoración especial.\n• Están programadas conferencias y talleres sobre temas relevantes en educación y tecnología para estudiantes y docentes.",
+      "bullets_20s": "• La Escuela de Matemática del TEC celebra tres décadas de historia y desarrollo en el país.\n• El evento central se llevará a cabo el 17 de setiembre en el Auditorio D3, Cartago.\n• Se ofrecerán diversas actividades desde el 14 al 18 de setiembre para conmemorar la carrera.\n• Habrá charlas sobre temas innovadores como la inteligencia artificial y métodos matemáticos aplicados.\n• El aniversario incluye la entrega de reconocimientos a excoordinadores y personal jubilado.\n• Participarán destacados expositores en las diversas actividades programadas durante la semana.\n• Será un momento para reflexionar sobre el camino recorrido y el futuro de la educación matemática.\n• El evento también incluye un acto cultural para celebrar el legado de la carrera.\n• Se prevé una amplia participación de estudiantes, docentes y egresados en la celebración.\n• Los asistentes disfrutarán de foros y conferencias sobre tecnología y matemática.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/conmemoracion-30deg-aniversario-carrera-ensenanza-matematica-entornos-tecnologicos",
       "publish_date": "2026-09-03T22:33:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración del 30° Aniversario de la carrera de Matemática con diversas actividades académicas.",
+      "teaser": "Lo clave en 20 segundos: Celebramos tres décadas de enseñanza matemática con eventos innovadores y reflexiones.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/libros-matematica-eveprim_tec_rgarita_02.png",
-      "description": "Conmemoración del 30° Aniversario de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos",
+      "description": "Conmemoración del 30° Aniversario de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos.",
       "featured": false
     },
     {
@@ -108,11 +134,11 @@
       "slug": "jornada-de-graduaciones-ordinarias",
       "title": "Jornada de graduaciones ordinarias",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica realizará graduaciones del 22 de setiembre al 2 de octubre.\n• Se entregarán títulos en bachillerato, licenciatura, maestría y doctorado a 535 estudiantes.\n• Las graduaciones se llevarán a cabo en diferentes campus y centros académicos.\n• Nueve actos programados para celebrar a las nuevas generaciones de profesionales.\n• Las ceremonias serán transmitidas de forma virtual para mayor accesibilidad.",
+      "bullets_20s": "• Desde el 22 de setiembre, se celebrará la jornada de graduaciones en el TEC.\n• Un total de 535 personas recibirán títulos de diversos grados académicos.\n• Nueve actos de graduación programados en diferentes campus de la universidad.\n• Los actos serán transmitidos de forma virtual a través de diversos canales.\n• Los graduados abarcan bachillerato, licenciatura, maestría y doctorado.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/jornada-graduaciones-ordinarias-2",
       "publish_date": "2026-09-03T21:23:57.000Z",
-      "teaser": "Lo clave en 20 segundos: TES gradúa a 535 estudiantes en su jornada ordinaria de 2026.",
+      "teaser": "Lo clave en 20 segundos: Graduaciones en el TEC del 22 de setiembre al 2 de octubre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-cartago_rcascante-1.jpg",
       "description": "Jornada de graduaciones ordinarias",
       "featured": false
@@ -147,11 +173,11 @@
       "slug": "un-gobierno-de-transicion-como-el-de-delcy-rodriguez-no-deberia-tomar-decisiones-tan-importantes-como-entregar-el-petrol",
       "title": "Un gobierno de transición como el de Delcy Rodríguez no debería tomar decisiones tan importantes como entregar el petróleo a EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• Rafael Ramirez expresa preocupaciones sobre la gestión del petróleo en Venezuela.\n• El acuerdo con EE.UU. genera incertidumbre en la política venezolana actual.\n• Se discuten las implicaciones de un gobierno de transición sobre el petróleo.\n• La crítica se centra en la falta de legitimidad del gobierno actual.\n• Expertos analizan el impacto en la economía nacional debido al acuerdo.",
+      "bullets_20s": "• Un gobierno de transición enfrenta críticas por decisiones sobre recursos naturales estratégicos.\n• Rafael Ramirez señala la inestabilidad política como un riesgo para acuerdos económicos.\n• El petróleo venezolano es crucial para la economía, su entrega provoca controversia internacional.\n• Expertos advierten sobre las implicaciones económicas de este tipo de acuerdos en crisis.\n• El debate sobre el manejo de recursos naturales sigue siendo relevante en América Latina.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cy4zvelnynyo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-03T21:01:19.000Z",
-      "teaser": "Lo clave en 20 segundos: Críticas a la entrega de petróleo por un gobierno de transición en Venezuela.",
+      "teaser": "Lo clave en 20 segundos: Un gobierno en transición entrega petróleo, generando controversia y críticas internacionales.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/acea/live/716c0610-a7da-11f1-b109-879e35c24276.jpg",
       "description": "Rafael Ramirez, el exhombre fuerte de Chávez en el sector petrolero, critica el acuerdo alcanzado por Delcy Rodríguez con Estados Unidos y cuestiona la cesión de una parte significativa de las reservas venezolanas.",
       "featured": false
@@ -303,11 +329,11 @@
       "slug": "la-onu-advierte-sobre-un-fenomeno-de-el-nino-de-proporciones-gigantescas-mientras-los-paises-se-preparan-para-su-impacto",
       "title": "La ONU advierte sobre un fenómeno de El Niño de \"proporciones gigantescas\" mientras los países se preparan para su impacto",
       "category": "Mundo",
-      "bullets_20s": "• António Guterres alertó sobre El Niño y su potencial para causar desastres a gran escala.\n• Los países deben prepararse para enfrentar fenómenos meteorológicos extremos en el futuro.\n• La ONU estima que el impacto de El Niño podría afectar a millones de personas en el planeta.\n• Históricamente, El Niño ha traído sequías e inundaciones en distintas regiones del mundo.\n• Se requieren medidas urgentes para mitigar los efectos del cambio climático y sus problemas.",
+      "bullets_20s": "• La ONU destaca los peligros asociados con el fenómeno de El Niño y su alcance global.\n• Se anticipan impactos severos en los patrones climáticos de múltiples regiones del mundo.\n• Los países deben prepararse para fenómenos meteorológicos cada vez más extremos y destructivos.\n• António Guterres subraya la necesidad de una acción inmediata y coordinada entre naciones.\n• El fenómeno de El Niño presenta un riesgo mayor para áreas vulnerables y en desarrollo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cr4vnrrwrqqo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-03T16:29:31.000Z",
-      "teaser": "Lo clave en 20 segundos: La ONU alerta sobre El Niño y sus fenómenos extremos.",
+      "teaser": "Lo clave en 20 segundos: La ONU alerta sobre el impacto global del fenómeno de El Niño.",
       "image_url": "",
       "description": "El mundo ha entrado en una \"zona de peligro de fenómenos meteorológicos extremos\" a medida que los impactos de El Niño comienzan a sentirse a nivel mundial, advirtió el secretario general de la ONU, António Guterres.",
       "featured": false
@@ -366,13 +392,13 @@
     },
     {
       "slug": "quien-era-jonathan-honas-melendez-el-integrante-de-la-banda-mexicana-camilo-septimo-que-fue-asesinado-junto-a-su-pareja-",
-      "title": "Quién era Jonathan \"Honas\" Meléndez, el integrante de la banda mexicana Camilo Séptimo que fue asesinado junto a su pareja e hija de 3 años",
+      "title": "Quién era Jonathan 'Honas' Meléndez, el integrante de la banda mexicana Camilo Séptimo que fue asesinado junto a su pareja e hija de 3 años",
       "category": "Mundo",
-      "bullets_20s": "• Jonathan Meléndez fue miembro de la banda mexicana Camilo Séptimo, conocida por su música indie.\n• El artista se caracterizaba por su enfoque en la energía positiva en sus composiciones musicales.\n• Meléndez luchaba por brindar consuelo a sus seguidores a través de su arte y letras emotivas.\n• Su trágica muerte se suma a una serie de eventos de violencia en la región.\n• La banda es reconocida en la escena musical por su estilo único y fresco.",
+      "bullets_20s": "• Jonathan 'Honas' Meléndez fue integrante de la banda mexicana Camilo Séptimo.\n• El artista buscaba transmitir una energía positiva a través de su música.\n• Su trágica muerte ha generado una ola de condolencias entre sus seguidores.\n• Meléndez era conocido por su cercanía con el público y su talento musical.\n• Su legado musical perdurará en la memoria de sus fans y la industria.\n• La banda se destaca por su enfoque en géneros fusionados con rock alternativo.\n• Su visión era ofrecer consuelo a través de sus letras y melodías emotivas.\n• El contexto de su asesinato ha levantado preocupaciones sobre la seguridad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cly45vp76vwo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-03T15:14:50.000Z",
-      "teaser": "Lo clave en 20 segundos: La vida de un músico y su lucha por la positividad se trunca de forma trágica.",
+      "teaser": "Lo clave en 20 segundos: La vida y legado musical de Jonathan Meléndez tras su trágica muerte.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/bd8e/live/c2ec9f90-a7c1-11f1-b5cf-8556ae508a51.jpg",
       "description": "El músico, de 38 años, aseguraba que buscaba plasmar una energía positiva y sanadora en sus composiciones para brindar consuelo a sus seguidores.",
       "featured": false
@@ -537,11 +563,11 @@
       "slug": "muere-a-los-92-anos-gloria-steinem-el-icono-feminista-de-eeuu-que-se-infiltro-en-un-club-de-playboy-para-denunciar-las-d",
       "title": "Muere a los 92 años Gloria Steinem, el ícono feminista de EE.UU. que se infiltró en un club de Playboy para denunciar las duras condiciones de sus empleadas",
       "category": "Mundo",
-      "bullets_20s": "• Gloria Steinem fue una figura emblemática en la lucha por los derechos de las mujeres en Estados Unidos.\n• Nació el 25 de marzo de 1934 y dedicó su vida a la defensa del feminismo y la igualdad.\n• Steinem se infiltró en un club de Playboy para investigar las condiciones laborales de sus empleadas.\n• Fundó la revista Ms. que se convirtió en un ícono del feminismo moderno y la cultura de la mujer.\n• Escribió numerosos libros y artículos, ayudando a dar voz a la lucha feminista en el mundo.",
+      "bullets_20s": "• Gloria Steinem fue una figura clave en el movimiento feminista durante varias décadas en EE.UU.\n• Se destacó por su valentía al investigar las condiciones laborales en lugares emblemáticos como Playboy.\n• Su legado inspira a nuevas generaciones a luchar por la equidad y los derechos de la mujer.\n• Steinem fundó varias organizaciones que abogaron por los derechos humanos y la igualdad de género.\n• Su obra ha tenido un impacto profundo en la opinión pública sobre el feminismo en el mundo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cgk5g72nml0o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-03T11:52:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Gloria Steinem, líder feminista y pionera, falleció a los 92 años, dejando un legado inolvidable.",
+      "teaser": "Lo clave en 20 segundos: Gloria Steinem, figura clave del feminismo, fallece a los 92 años dejando un gran legado.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/2e5b/live/74b4a860-a78d-11f1-9bb7-af8e8fd3d806.jpg",
       "description": "Esta feminista pionera fue una figura emblemática y líder de los derechos de la mujer en Estados Unidos.",
       "featured": false
@@ -89740,10 +89766,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-03T23:45:25.994Z",
-  "total": 6903,
-  "removed_soccer_news_count": 1160,
+  "generated_at": "2026-09-04T00:45:24.514Z",
+  "total": 6905,
+  "removed_soccer_news_count": 1161,
   "removed_soccer_news_titles": [
+    "Kurt Morsink sobre Jeyland Mitchell: ‘Está para jugar donde él quiera, en una liga aún más top’",
     "Keylor Navas iba a jugar este fin de semana con Pumas: ¿qué pasó y por qué no tendrá actividad?",
     "Henry Raabe y Esteban Madriz representarán a Costa Rica en el Mundial de Paraciclismo en Estados Unidos",
     "Kevin Briceño ilusiona a la afición de Cartaginés: ‘Estamos para pelear el campeonato’",
@@ -89792,7 +89819,6 @@
     "El mundialista Vozinha debuta con Colo Colo en el fútbol de Chile",
     "Costa Rica tendrá dos representantes en el Campeonato Mundial de Paraciclismo",
     "Fedefútbol tiene candidatos de Colombia y México para asumir presidencia de Comisión de Arbitraje",
-    "Así funciona el criterio de desempate de tarjetas que le dio a Cartaginés el primer lugar en la Copa Centroamericana",
-    "Geancarlo Castro entra, desequilibra y le responde a Amarini Villatoro"
+    "Así funciona el criterio de desempate de tarjetas que le dio a Cartaginés el primer lugar en la Copa Centroamericana"
   ]
 }
