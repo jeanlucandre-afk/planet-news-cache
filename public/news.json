@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "una-doble-explosion-en-cuartel-militar-de-bolivia-deja-al-menos-dos-muertos-y-81-heridos",
+      "title": "Una doble explosión en cuartel militar de Bolivia deja al menos dos muertos y 81 heridos",
+      "category": "Mundo",
+      "bullets_20s": "• Una doble explosión ocurrió en un cuartel militar, causando múltiples víctimas trágicas.\n• Las autoridades están en alerta debido a posibles nuevas detonaciones en la zona.\n• Se reportan al menos dos muertos y 81 heridos tras el incidente en Bolivia.\n• La búsqueda de desaparecidos continúa, aumentando la preocupación entre los familiares.\n• Se teme que la cifra de fallecidos pueda seguir aumentando en las próximas horas.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c78076w3jeyo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-09-05T08:02:45.000Z",
+      "teaser": "Lo clave en 20 segundos: Explosiones en cuartel militar de Bolivia han dejado varios heridos y muertos.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/38c6/live/2c42cd50-a8d2-11f1-a291-b542ee92de7c.jpg",
+      "description": "Mientras continúa la búsqueda de desaparecidos, las autoridades advierten sobre el riesgo de nuevas detonaciones y temen que la cifra de fallecidos siga aumentando en Viacha.",
+      "featured": false
+    },
+    {
       "slug": "totalitarismo-total-como-la-ia-impulsa-la-mayor-concentracion-de-poder-de-la-historia-y-cual-fue-la-prediccion-de-putin-",
       "title": "Totalitarismo total: cómo la IA impulsa la mayor concentración de poder de la historia (y cuál fue la predicción de Putin que se está haciendo realidad)",
       "category": "Mundo",
@@ -17,11 +30,11 @@
       "slug": "explosion-en-base-militar-de-bolivia-deja-dos-muertos-y-59-heridos",
       "title": "Explosión en base militar de Bolivia deja dos muertos y 59 heridos",
       "category": "Mundo",
-      "bullets_20s": "• La explosión ocurrió en la base militar de Viacha, generando gran preocupación en la región.\n• Las autoridades bolivianas han iniciado una investigación para determinar la causa del suceso.\n• Se reportan dos muertos y numerosos heridos debido a la explosión en la instalación militar.\n• Al menos siete personas se encuentran desaparecidas tras el incidente en Bolivia.\n• La explosión ha llamado la atención de medios internacionales y organismos de seguridad.",
+      "bullets_20s": "• Una fuerte explosión se registró en una base militar ubicada en Viacha, Bolivia.\n• Las autoridades señalaron que dos personas han muerto y numerosas víctimas han sido reportadas.\n• Al menos 59 heridos han sido atendidos en hospitales cercanos tras el incidente.\n• Siete personas permanecen desaparecidas mientras se llevan a cabo las investigaciones.\n• La causa de la explosión aún no ha sido determinada por las autoridades competentes.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/el-mundo/explosion-en-base-militar-de-bolivia-deja-dos/NDKXDRSLCZGSFBDC5IJVASVTOA/story/",
       "publish_date": "2026-09-05T03:32:41.000Z",
-      "teaser": "Lo clave en 20 segundos: explosión en base militar boliviana con trágicos resultados y una investigación en curso.",
+      "teaser": "Lo clave en 20 segundos: Explosión en base militar en Bolivia deja muertos y heridos, investigan causas.",
       "image_url": "https://www.nacion.com/resizer/v2/OWVLTMLRBZEJTFXDA5VNCBTRZQ.jpg?auth=b30088c23dc2276f53573c30db633c1bcbe64a4325e1486c77f7b83462f5657f&smart=true&width=5589&height=3726",
       "description": "Una explosión en una base militar de Viacha, Bolivia, dejó al menos dos muertos, 59 heridos y siete desaparecidos. Autoridades investigan la causa.",
       "featured": false
@@ -30,26 +43,13 @@
       "slug": "dia-estable-en-costa-rica-este-sabado-pero-estas-zonas-tendran-lluvias-y-aguaceros",
       "title": "Día estable en Costa Rica este sábado, pero estas zonas tendrán lluvias y aguaceros",
       "category": "Costa Rica",
-      "bullets_20s": "• Costa Rica experimentará un sábado mayormente soleado, sin embargo, algunas regiones enfrentarán lluvias.\n• El Instituto Meteorológico Nacional advierte sobre posibles aguaceros y tormentas en ciertas áreas.\n• Es importante estar al tanto de las condiciones climáticas para evitar sorpresas durante el día.\n• Las lluvias se esperan principalmente en la tarde y noche, afectando zonas específicas del país.\n• Se recomienda a los habitantes tomar precauciones si se encuentran en regiones propensas a lluvias.",
+      "bullets_20s": "• Se anticipa un sábado mayormente soleado en muchas regiones de Costa Rica, pero con excepciones.\n• Es probable que algunas zonas experimenten lluvias y aguaceros a lo largo del día.\n• El Instituto Meteorológico Nacional emite alertas sobre lugares específicos afectados por la lluvia.\n• Se espera que las condiciones climáticas se mantengan durante las próximas horas en el país.\n• Los ciudadanos deben estar atentos a las recomendaciones del IMN para no verse sorprendidos.",
       "source_name": "Silvia Ureña Corrales",
       "source_url": "https://www.nacion.com/sucesos/dia-estable-en-costa-rica-este-sabado-pero-estas/BSXQP6JIYZAVHHC5CUM527OZIA/story/",
       "publish_date": "2026-09-05T03:20:14.000Z",
-      "teaser": "Lo clave en 20 segundos: Sábado mayormente estable, pero algunas zonas afrontarán lluvias y tormentas.",
+      "teaser": "Lo clave en 20 segundos: Un sábado mayormente estable, pero algunas zonas experimentarán lluvias.",
       "image_url": "https://www.nacion.com/resizer/v2/MAQANFAE5BGOBA3NFQC3QFKDMI.JPG?auth=7da7e950f84568d87d745b9f93dbb7403fc63de09bf9eb455c7f062c7e57cb6b&smart=true&width=4000&height=2667",
       "description": "El IMN prevé un sábado mayormente estable en Costa Rica, pero varias zonas tendrán lluvias y aguaceros con tormenta. Conozca dónde y a qué hora se esperan.",
-      "featured": false
-    },
-    {
-      "slug": "arbitro-tuvo-que-hacer-la-revision-del-var-comunicandose-con-un-celular-y-pito-penal",
-      "title": "Árbitro tuvo que hacer la revisión del VAR comunicándose con un celular (y pitó penal)",
-      "category": "Costa Rica",
-      "bullets_20s": "• El uso del celular para revisar el VAR sorprendió a los aficionados en el partido.\n• La decisión del árbitro se dio en un contexto de mucha tensión deportiva.\n• Este tipo de situaciones son poco comunes en las competiciones profesionales actuales.\n• El partido entre Escorpiones e Inter San Carlos fue muy disputado y emocionante.\n• Las nuevas tecnologías están cambiando la forma de hacer decisiones arbitrales.",
-      "source_name": "Esteban Valverde",
-      "source_url": "https://www.nacion.com/puro-deporte/futbol/arbitro-tuvo-que-hacer-la-revision-del-var/TOAYDVAUVZADBGTFTBUXNTXZYU/story/",
-      "publish_date": "2026-09-05T03:11:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Un árbitro usó un celular para revisar el VAR y dio penal.",
-      "image_url": "https://www.nacion.com/resizer/v2/2YUQKPO2W5CNJFYII7TBLGHPXI.jpeg?auth=1bdc43bc2baeb3776a27d18091f21c479b7a60f270fde0c6fdbf0c1668535009&smart=true&width=1600&height=1200",
-      "description": "Una inusual accción arbitral se dio en el duelo entre Escorpiones e Inter San Carlos.",
       "featured": false
     },
     {
@@ -173,11 +173,11 @@
       "slug": "como-podria-terminar-la-guerra-de-eeuu-contra-iran-3-expertos-dan-su-opinion",
       "title": "¿Cómo podría terminar la guerra de EE.UU. contra Irán? 3 expertos dan su opinión",
       "category": "Mundo",
-      "bullets_20s": "• Expertos analizan las posibles salidas del conflicto entre EE.UU. e Irán en esta discusión importante.\n• La guerra en Irán ha generado tensiones globales que afectan a múltiples países en su entorno.\n• Las estrategias de negociación podrían cambiar el rumbo de las operaciones militares en curso.\n• El análisis de los expertos incluye diversas perspectivas sobre la situación actual del conflicto.\n• El futuro de la región depende de las decisiones que se tomen en las próximas semanas.\n• Revisar las opiniones de analistas ayuda a entender mejor la complejidad de este conflicto.\n• La guerra podría terminar con acuerdos diplomáticos o seguir escalando si no hay consensos.\n• Cada parte tiene intereses geopolíticos que influyen en sus decisiones y estrategias.",
+      "bullets_20s": "• La guerra entre EE.UU. e Irán ha causado tensiones globales significativas en los últimos años.\n• Expertos analizan posibles desenlaces y cómo podrían afectar a la región del Medio Oriente.\n• Las posibles estrategias de salida son cruciales para evitar un conflicto prolongado.\n• Entender las motivaciones de cada parte es fundamental para prever futuros acuerdos.\n• El papel de la comunidad internacional puede ser decisivo en la resolución del conflicto.\n• Las implicaciones económicas son un factor que ambos países deben considerar seriamente.\n• Las opiniones de expertos ofrecen diferentes perspectivas sobre posibles soluciones pacíficas.\n• El análisis de la situación actual revela un entramado de intereses complejos y entrelazados.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwyzqr7v4n4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-04T23:19:39.000Z",
-      "teaser": "Lo clave en 20 segundos: Estrategias y perspectivas sobre el conflicto entre EE.UU. e Irán.",
+      "teaser": "Lo clave en 20 segundos: Expertos analizan el futuro del conflicto entre EE.UU. e Irán.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a255/live/6ee62f30-a882-11f1-824a-0fc4c5d895ae.jpg",
       "description": "¿Tiene alguna de las partes involucradas en el conflicto en Irán una estrategia de salida tras la reanudación de los ataques?",
       "featured": false
@@ -238,11 +238,11 @@
       "slug": "la-onu-aprueba-un-nuevo-mapamundi-que-refleja-el-tamano-real-de-africa",
       "title": "La ONU aprueba un nuevo mapamundi que refleja el tamaño real de África",
       "category": "Mundo",
-      "bullets_20s": "• La ONU actualiza el mapamundi para corregir distorsiones geográficas históricas.\n• La medida recibió respaldo de 164 países en una votación histórica.\n• Estados Unidos se opuso en solitario a la aprobación del nuevo diseño.\n• La resolución busca una representación más justa de África en los mapas.\n• Togo lideró esta iniciativa en representación de los intereses africanos.",
+      "bullets_20s": "• La ONU introduce un mapamundi que corrige la representación de África en los mapas.\n• El nuevo mapa busca equilibrar la percepción del tamaño real del continente africano.\n• Togo fue el país que propuso esta iniciativa ante la Asamblea General de la ONU.\n• La resolución fue respaldada por 164 naciones en un momento histórico.\n• Estados Unidos se opuso a la propuesta, siendo el único país en rechazarla.\n• Este cambio busca contribuir a una mejor comprensión geográfica global.\n• Los mapas tradicionales han distorsionado la percepción sobre África durante años.\n• Se espera que este nuevo mapa influya en la educación y la cultura.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cn8evenx6epo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-04T21:08:47.000Z",
-      "teaser": "Lo clave en 20 segundos: ONU aprueba nuevo mapamundi que muestra correctamente el tamaño de África.",
+      "teaser": "Lo clave en 20 segundos: La ONU aprueba un nuevo mapa que refleja el tamaño real de África.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/1f88/live/bff197b0-a874-11f1-b109-879e35c24276.png",
       "description": "La resolución, patrocinada por Togo, contó con el apoyo de 164 naciones; Estados Unidos fue el único país que votó en contra.",
       "featured": false
@@ -316,11 +316,11 @@
       "slug": "air-avanza-en-la-modernizacion-del-estatuto-organico-en-sesion-marcada-por-55-aniversario-del-tec",
       "title": "AIR avanza en la modernización del Estatuto Orgánico en sesión marcada por 55 aniversario del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La Asamblea Institucional Representativa del TEC realizó su Sesión Extraordinaria 115-2026 de forma telepresencial.\n• Se destacó el 55 aniversario del TEC, vinculando su historia con la modernización del Estatuto Orgánico.\n• Se presentaron tres propuestas que buscan mejorar la gestión y el lenguaje en el Estatuto Orgánico.\n• Las propuestas abarcan recursos ante el Tribunal Institucional Electoral y la incorporación de lenguaje inclusivo.\n• La sesión incluyó más de 300 asambleístas conectados, evidenciando la participación activa de la comunidad.",
+      "bullets_20s": "• La Asamblea Institucional Representativa del TEC celebró su 55 aniversario en una sesión especial.\n• Se discutieron y votaron tres propuestas de reforma al Estatuto Orgánico durante la sesión.\n• Una de las reformas incluye la implementación de lenguaje inclusivo en la legislación institucional.\n• Otro cambio busca mejorar la gestión de recursos en la Asamblea y su Directorio para quejas.\n• La sesión fue telepresencial y se transmitió en vivo por YouTube para mayor accesibilidad.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/air-avanza-modernizacion-estatuto-organico-sesion-marcada-55-aniversario-tec",
       "publish_date": "2026-09-04T19:50:11.000Z",
-      "teaser": "Lo clave en 20 segundos: Air discute reformas al Estatuto Orgánico en su 55 aniversario.",
+      "teaser": "Lo clave en 20 segundos: La AIR del TEC moderniza su Estatuto Orgánico en su 55 aniversario.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/air_4-setiembre-2026_01.png",
       "description": "AIR avanza en la modernización del Estatuto Orgánico en sesión marcada por 55 aniversario del TEC",
       "featured": false
@@ -472,11 +472,11 @@
       "slug": "documental-bbc-como-ha-cambiado-la-vida-en-el-salvador-en-los-4-anos-de-guerra-de-bukele-contra-las-maras",
       "title": "Documental BBC: cómo ha cambiado la vida en El Salvador en los 4 años de guerra de Bukele contra las maras",
       "category": "Mundo",
-      "bullets_20s": "• El documental aborda la transformación social y económica en El Salvador durante cuatro años.\n• Se exploran los efectos del régimen de excepción en la población salvadoreña.\n• Las maras han tenido un impacto significativo en la vida diaria de los ciudadanos.\n• Se presenta la perspectiva de los salvadoreños sobre la guerra contra las maras.\n• El uso del régimen de excepción ha generado controversia y reacciones diversas.",
+      "bullets_20s": "• El documental se centra en la vida diaria de los ciudadanos salvadoreños bajo el régimen actual del gobierno.\n• Explora cómo la guerra contra las maras ha afectado la cultura y la sociedad en El Salvador.\n• Entrevistas con residentes de El Salvador ofrecen perspectivas únicas sobre los desafíos cotidianos que enfrentan.\n• La BBC examina los impactos sociales y económicos del régimen de excepción en la comunidad local.\n• El documental también refleja la opinión pública sobre las acciones del presidente Bukele y sus políticas.",
       "source_name": "BBC News Brasil",
       "source_url": "https://www.bbc.com/mundo/articles/cy7z03yyjp2o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-04T15:27:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Un análisis del impacto del régimen de excepción en El Salvador.",
+      "teaser": "Lo clave en 20 segundos: Documental de la BBC analiza el régimen de excepción en El Salvador y sus efectos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b9ea/live/acfa14b0-a870-11f1-a291-b542ee92de7c.jpg",
       "description": "En este documental, BBC News Brasil visita El Salvador y explora los efectos del régimen de excepción, un instrumento legal vigente en el país desde 2022.",
       "featured": false
@@ -901,11 +901,11 @@
       "slug": "conmemoracion-del-30-aniversario-de-la-carrera-de-ensenanza-de-la-matematica-con-entornos-tecnologicos",
       "title": "Conmemoración del 30° Aniversario de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos",
       "category": "Costa Rica",
-      "bullets_20s": "• Celebración del 30 aniversario de la carrera en el Tecnológico de Costa Rica.\n• Reflexión sobre el legado y futuro de la Enseñanza de la Matemática.\n• Actos y actividades desde el 14 hasta el 18 de setiembre de 2026.\n• Se incluyen charlas, presentaciones y un foro sobre inteligencia artificial.\n• Reconocimientos a excoordinadores y personal jubilado durante el evento.",
+      "bullets_20s": "• Celebrando tres décadas de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos en el TEC.\n• Un evento que reflejará el compromiso del TEC con la educación matemática en Costa Rica.\n• Oportunidades para reflexionar sobre la historia y futuro de la carrera en la institución.\n• Acto oficial se llevará a cabo el 17 de setiembre en el Auditorio D3, Campus Central.\n• Diversas actividades académicas y culturales están programadas del 14 al 18 de setiembre.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/conmemoracion-30deg-aniversario-carrera-ensenanza-matematica-entornos-tecnologicos",
       "publish_date": "2026-09-03T22:33:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de 30 años de Enseñanza de la Matemática en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Celebración del 30° Aniversario de la carrera de Matemática en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/libros-matematica-eveprim_tec_rgarita_02.png",
       "description": "Conmemoración del 30° Aniversario de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos",
       "featured": false
@@ -979,11 +979,11 @@
       "slug": "jornada-de-graduaciones-ordinarias",
       "title": "Jornada de graduaciones ordinarias",
       "category": "Costa Rica",
-      "bullets_20s": "• Desde el 22 de setiembre hasta el 2 de octubre se celebrará la graduación en el TEC.\n• El evento incluye 535 graduados en diversas carreras de bachillerato y posgrados.\n• Nueve actos de graduación están programados en diferentes campus y centros académicos.\n• Las graduaciones se transmitirán en línea a través de los canales del Tecnológico.\n• Se espera una alta participación en los actos, incluyendo a colaboradores y docentes.",
+      "bullets_20s": "• El Tecnológico de Costa Rica realizará graduaciones entre el 22 de setiembre y el 2 de octubre.\n• Se otorgarán títulos de bachillerato, licenciatura, maestría y doctorado a graduandos.\n• Nueve actos de graduación están programados en distintos campus de la universidad.\n• Los actos serán transmitidos de forma virtual en plataformas del TEC y académicos.\n• La jornada incluye graduaciones en San José, Cartago, Alajuela, San Carlos y Limón.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/jornada-graduaciones-ordinarias-2",
       "publish_date": "2026-09-03T21:23:57.000Z",
-      "teaser": "Lo clave en 20 segundos: Ceremonias de graduación en el TEC este septiembre y octubre.",
+      "teaser": "Lo clave en 20 segundos: Graduaciones ordinarias del TEC se realizarán del 22 de setiembre al 2 de octubre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-cartago_rcascante-1.jpg",
       "description": "Jornada de graduaciones ordinarias",
       "featured": false
@@ -90611,10 +90611,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-05T07:45:25.077Z",
+  "generated_at": "2026-09-05T08:45:25.408Z",
   "total": 6970,
-  "removed_soccer_news_count": 1165,
+  "removed_soccer_news_count": 1166,
   "removed_soccer_news_titles": [
+    "Árbitro tuvo que hacer la revisión del VAR comunicándose con un celular (y pitó penal)",
     "¡Vea qué injusticia! Futbolista Anthony López le hace una broma a su hijo de cinco años y el video se vuelve viral",
     "¿Cómo está el futuro de Kenay Myrie en el Copenhague de Dinamarca?",
     "El Real Madrid pierde el invicto en la Liga Española",
@@ -90663,7 +90664,6 @@
     "‘Nos iban a matar a todos’: Sobrevivientes y familiares relataron drama por balacera donde murió hermano de futbolista y madre de dos niñas en bar Cahuita Town",
     "A sus 41 años, Daniel Colindres hace historia con un nuevo récord en el fútbol de Costa Rica",
     "Repartidor de comidas enfrenta juicio por balacera en bar donde murieron hermano de reconocido futbolista y una joven inocente",
-    "La UEFA prepara denuncia por ‘gestión desleal’ contra Gianni Infantino",
-    "Santa Fe acaba el sueño continental de River y agrava la crisis del equipo de Coudet"
+    "La UEFA prepara denuncia por ‘gestión desleal’ contra Gianni Infantino"
   ]
 }
