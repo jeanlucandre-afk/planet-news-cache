@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "las-preguntas-que-me-hice-tras-estar-a-punto-de-morir-sin-darme-cuenta-un-sabado-cualquiera-en-mi-propia-casa",
+      "title": "Las preguntas que me hice tras estar a punto de morir sin darme cuenta un sábado cualquiera en mi propia casa",
+      "category": "Mundo",
+      "bullets_20s": "• La autora reflexiona sobre momentos críticos de su vida y su impacto emocional.\n• Examina cómo la crisis de vivienda afecta a las personas en su día a día.\n• El artículo destaca las incertidumbres que enfrenta la generación actual.\n• Se abordan los traumas que marcan la vida de muchas personas jóvenes hoy.\n• La narrativa invita a la reflexión sobre la fragilidad de la vida cotidiana.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c4gd508v84jo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-09-05T10:03:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Reflexiones sobre vida, crisis y traumas actuales.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a10e/live/91aa82b0-a1a6-11f1-b097-59bb74eabe62.jpg",
+      "description": "La escritora Marta Jiménez Serrano habla sobre el trauma, la crisis de la vivienda y la incertidumbre que define a toda una generación.",
+      "featured": false
+    },
+    {
       "slug": "que-es-la-proyeccion-de-mercator-y-por-que-los-paises-de-africa-lucharon-para-que-se-deje-de-usar-para-elaborar-los-mapa",
       "title": "Qué es la proyección de Mercator y por qué los países de África lucharon para que se deje de usar para elaborar los mapamundis",
       "category": "Mundo",
-      "bullets_20s": "• La proyección de Mercator ha sido utilizada durante mucho tiempo en cartografía y navegación.\n• Los países africanos argumentan que esta proyección distorsiona su tamaño y relevancia global.\n• La ONU ha decidido votar para buscar alternativas más precisas y representativas.\n• La distorsión de áreas provoca percepciones erróneas sobre el continente africano.\n• Es crucial revisar mapas para fomentar una comprensión justa del mundo.",
+      "bullets_20s": "• La proyección de Mercator distorsiona el tamaño real de los continentes a favor de Europa.\n• Los países africanos han cuestionado esta representación en foros internacionales.\n• La ONU votó a favor de buscar alternativas a esta proyección en mapas.\n• La proyección favorece la visión eurocéntrica del mundo, generando debates sobre justicia.\n• Se busca una representación cartográfica que refleje equidad y realidad geográfica.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx2zv86p1ryo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-05T09:00:02.000Z",
-      "teaser": "Lo clave en 20 segundos: La proyección de Mercator es controvertida por su representación desigual de continentes.",
+      "teaser": "Lo clave en 20 segundos: La proyección de Mercator es criticada por distorsionar el tamaño de África.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a70d/live/d3a2b9c0-7d09-11f0-ab3e-bd52082cd0ae.png",
       "description": "La proyección de Mercator muestra a Europa y Norteamérica desproporcionadamente grandes con respecto a África. La Asamblea General de la ONU votó a favor de sustituirla.",
       "featured": false
@@ -43,11 +56,11 @@
       "slug": "explosion-en-base-militar-de-bolivia-deja-dos-muertos-y-59-heridos",
       "title": "Explosión en base militar de Bolivia deja dos muertos y 59 heridos",
       "category": "Mundo",
-      "bullets_20s": "• Una fuerte explosión ocurrió en una base militar boliviana, causando gran impacto en la región.\n• Las autoridades bolivianas han comenzado una investigación para determinar las causas de la explosión.\n• La explosión ha dejado un saldo de dos personas fallecidas y numerosos heridos en el incidente.\n• En total, se reportan más de 50 heridos, mientras que se buscan a varias personas desaparecidas.\n• La base militar de Viacha es uno de los puntos estratégicos para la defensa boliviana.",
+      "bullets_20s": "• Una fuerte explosión ocurrió en una base militar en Viacha, Bolivia, causando devastación significativa y caos.\n• Las autoridades confirmaron que al menos dos personas han muerto tras la explosión, y hay muchos heridos.\n• Los servicios de emergencia están trabajando en la zona para atender a los afectados por la explosión.\n• Se reportan al menos siete personas desaparecidas, lo que ha aumentado la preocupación en la región.\n• Las causas de la explosión aún están bajo investigación por parte de las autoridades bolivianas competentes.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/el-mundo/explosion-en-base-militar-de-bolivia-deja-dos/NDKXDRSLCZGSFBDC5IJVASVTOA/story/",
       "publish_date": "2026-09-05T03:32:41.000Z",
-      "teaser": "Lo clave en 20 segundos: Explosión en Bolivia afecta a base militar, dejando muertos y heridos.",
+      "teaser": "Lo clave en 20 segundos: tragedia en Bolivia tras explosión en base militar, con muertos y heridos confirmados.",
       "image_url": "https://www.nacion.com/resizer/v2/OWVLTMLRBZEJTFXDA5VNCBTRZQ.jpg?auth=b30088c23dc2276f53573c30db633c1bcbe64a4325e1486c77f7b83462f5657f&smart=true&width=5589&height=3726",
       "description": "Una explosión en una base militar de Viacha, Bolivia, dejó al menos dos muertos, 59 heridos y siete desaparecidos. Autoridades investigan la causa.",
       "featured": false
@@ -56,13 +69,26 @@
       "slug": "dia-estable-en-costa-rica-este-sabado-pero-estas-zonas-tendran-lluvias-y-aguaceros",
       "title": "Día estable en Costa Rica este sábado, pero estas zonas tendrán lluvias y aguaceros",
       "category": "Costa Rica",
-      "bullets_20s": "• El Instituto Meteorológico Nacional informa sobre un día mayormente tranquilo en gran parte del país.\n• Algunas regiones del país experimentarán lluvias y aguaceros durante el sábado según pronóstico.\n• Es importante estar atento a las alertas meteorológicas por posibles tormentas locales.\n• Los pronósticos incluyen períodos de sequía en ciertas áreas y precipitaciones en otras.\n• Los habitantes deben prepararse para cambios climáticos en diferentes regiones durante el día.",
+      "bullets_20s": "• El IMN ha informado sobre un día mayormente estable en todo el país.\n• Sin embargo, algunas regiones experimentarán lluvias y aguaceros locales.\n• Se espera una mayor intensidad de las lluvias en las tardes y noches.\n• Los habitantes deben estar atentos a los cambios climáticos en sus zonas.\n• Las autoridades recomiendan precaución al transitar en áreas lluviosas.",
       "source_name": "Silvia Ureña Corrales",
       "source_url": "https://www.nacion.com/sucesos/dia-estable-en-costa-rica-este-sabado-pero-estas/BSXQP6JIYZAVHHC5CUM527OZIA/story/",
       "publish_date": "2026-09-05T03:20:14.000Z",
-      "teaser": "Lo clave en 20 segundos: temperaturas estables, posibles lluvias en diversas zonas de Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: estabilidad, pero lluvias en algunas zonas de Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/MAQANFAE5BGOBA3NFQC3QFKDMI.JPG?auth=7da7e950f84568d87d745b9f93dbb7403fc63de09bf9eb455c7f062c7e57cb6b&smart=true&width=4000&height=2667",
       "description": "El IMN prevé un sábado mayormente estable en Costa Rica, pero varias zonas tendrán lluvias y aguaceros con tormenta. Conozca dónde y a qué hora se esperan.",
+      "featured": false
+    },
+    {
+      "slug": "arbitro-tuvo-que-hacer-la-revision-del-var-comunicandose-con-un-celular-y-pito-penal",
+      "title": "Árbitro tuvo que hacer la revisión del VAR comunicándose con un celular (y pitó penal)",
+      "category": "Costa Rica",
+      "bullets_20s": "• El VAR es una herramienta clave en el fútbol moderno para decisiones arbitrales.\n• La utilización de celulares por árbitros no es un procedimiento estándar en la FIFA.\n• Esta acción provocó debate sobre la efectividad del VAR en situaciones controvertidas.\n• Los aficionados suelen expresar su opinión sobre decisiones arbitrales en redes sociales.\n• El partido mostró una tensión elevada por la forma en que se desarrolló el encuentro.",
+      "source_name": "Esteban Valverde",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/arbitro-tuvo-que-hacer-la-revision-del-var/TOAYDVAUVZADBGTFTBUXNTXZYU/story/",
+      "publish_date": "2026-09-05T03:11:31.000Z",
+      "teaser": "Lo clave en 20 segundos: Un árbitro usó un celular para revisar el VAR en un penal.",
+      "image_url": "",
+      "description": "Una inusual accción arbitral se dio en el duelo entre Escorpiones e Inter San Carlos.",
       "featured": false
     },
     {
@@ -186,11 +212,11 @@
       "slug": "como-podria-terminar-la-guerra-de-eeuu-contra-iran-3-expertos-dan-su-opinion",
       "title": "¿Cómo podría terminar la guerra de EE.UU. contra Irán? 3 expertos dan su opinión",
       "category": "Mundo",
-      "bullets_20s": "• Expertos analizan las posibles salidas al conflicto entre EE.UU. e Irán en medio de tensiones crecientes.\n• La búsqueda de una solución pacífica es compleja y requiere negociaciones entre las partes involucradas.\n• La situación actual en Irán afecta no solo a su población, sino también a la estabilidad regional.\n• El papel de la comunidad internacional es crucial para mediar y tratar de estabilizar la región.\n• Las opiniones de los expertos varían sobre los posibles desenlaces del conflicto y sus consecuencias.",
+      "bullets_20s": "• Expertos analizan las posibles salidas al conflicto bélico entre EE.UU. e Irán actual.\n• La reanudación de ataques plantea dudas sobre la estrategia de ambas naciones involucradas.\n• Cada experto ofrece una visión única de cómo podría desarrollarse la situación en el futuro.\n• Las implicaciones económicas y políticas que se derivan de esta guerra son significativas.\n• Es crucial entender las motivaciones detrás de las decisiones de ambos lados en el conflicto.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwyzqr7v4n4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-04T23:19:39.000Z",
-      "teaser": "Lo clave en 20 segundos: Expertos analizan posibles desenlaces del conflicto entre EE.UU. e Irán.",
+      "teaser": "Lo clave en 20 segundos: Analizamos las posibles salidas de la guerra entre EE.UU. e Irán.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a255/live/6ee62f30-a882-11f1-824a-0fc4c5d895ae.jpg",
       "description": "¿Tiene alguna de las partes involucradas en el conflicto en Irán una estrategia de salida tras la reanudación de los ataques?",
       "featured": false
@@ -329,11 +355,11 @@
       "slug": "air-avanza-en-la-modernizacion-del-estatuto-organico-en-sesion-marcada-por-55-aniversario-del-tec",
       "title": "AIR avanza en la modernización del Estatuto Orgánico en sesión marcada por 55 aniversario del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La Asamblea Institucional Representativa del TEC realizó una sesión telepresencial por el 55 aniversario.\n• Tres propuestas para reformar el Estatuto Orgánico fueron discutidas en la sesión extraordinaria 115-2026.\n• Se presentó un informe sobre el compromiso del TEC en el mundo educativo y su posiciomiento en rankings.\n• La votación incluyó propuestas sobre recursos electorales, lenguaje inclusivo y mecanismos de quejas.\n• Más de 300 asambleístas participaron en la toma de decisiones para modernizar el estatuto del TEC.",
+      "bullets_20s": "• La Asamblea Institucional Representativa aborda reformas al Estatuto Orgánico en su sesión 115-2026.\n• Se presenta un informe sobre los 55 años del Tecnológico de Costa Rica durante la sesión.\n• Las tres propuestas discuten aspectos como lenguaje inclusivo y gestión de quejas institucionales.\n• El directorio de la AIR está compuesto por varios miembros clave del TEC en diferentes sectores.\n• Más de 300 asambleístas participaron de manera telepresencial y presencial en la sesión.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/air-avanza-modernizacion-estatuto-organico-sesion-marcada-55-aniversario-tec",
       "publish_date": "2026-09-04T19:50:11.000Z",
-      "teaser": "Lo clave en 20 segundos: La AIR del TEC avanza en la modernización del Estatuto Orgánico.",
+      "teaser": "Lo clave en 20 segundos: Sesión extraordinaria del TEC avanza en la modernización de su Estatuto Orgánico.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/air_4-setiembre-2026_01.png",
       "description": "AIR avanza en la modernización del Estatuto Orgánico en sesión marcada por 55 aniversario del TEC",
       "featured": false
@@ -914,11 +940,11 @@
       "slug": "conmemoracion-del-30-aniversario-de-la-carrera-de-ensenanza-de-la-matematica-con-entornos-tecnologicos",
       "title": "Conmemoración del 30° Aniversario de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Matemática del TEC celebra tres décadas de su carrera de Enseñanza de la Matemática.\n• El evento principal se realizará el 17 de septiembre en el Auditorio D3, Campus Central TEC.\n• Habrá diversas actividades de conmemoración del 14 al 18 de septiembre para toda la comunidad.\n• Se presentarán charlas sobre IA y métodos numéricos en el marco de la celebración del aniversario.\n• El acto oficial incluirá palabras de estudiantes, coordinadores y autoridades académicas del TEC.",
+      "bullets_20s": "• La Escuela de Matemática del TEC celebra tres décadas de enseñanza e innovación en el área.\n• El evento principal será el 17 de setiembre en el Auditorio D3 del campus central.\n• Se realizarán diversas actividades del 14 al 18 de setiembre para conmemorar la ocasión.\n• El foro y talleres incluirán temas actuales como inteligencia artificial aplicados a matemáticas.\n• Se entregarán reconocimientos a excoordinadores y personal jubilado por su gran contribución.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/conmemoracion-30deg-aniversario-carrera-ensenanza-matematica-entornos-tecnologicos",
       "publish_date": "2026-09-03T22:33:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebramos 30 años de la carrera en Matemática del TEC con un evento especial.",
+      "teaser": "Lo clave en 20 segundos: Celebración del 30° aniversario de la carrera de Matemática en el TEC con eventos diversos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/libros-matematica-eveprim_tec_rgarita_02.png",
       "description": "Conmemoración del 30° Aniversario de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos",
       "featured": false
@@ -992,11 +1018,11 @@
       "slug": "jornada-de-graduaciones-ordinarias",
       "title": "Jornada de graduaciones ordinarias",
       "category": "Costa Rica",
-      "bullets_20s": "• Desde el 22 de setiembre hasta el 2 de octubre se realizan graduaciones en el TEC.\n• Se entregarán títulos profesionales en diversos grados académicos a graduandos.\n• Nueve actos de graduación están programados en diferentes campus de la universidad.\n• Los graduandos incluyen bachilleres, licenciados, maestros y doctores en diversas áreas.\n• Los actos se transmitirán de forma virtual en los canales sociales del TEC.",
+      "bullets_20s": "• Desde el 22 de setiembre hasta el 2 de octubre, se realizan las graduaciones en el TEC.\n• Se estima que 535 estudiantes recibirán sus títulos en diversas áreas académicas.\n• Cada campus contará con actos programados en fechas específicas para las graduaciones.\n• La graduación se transmitirá de manera virtual en canales y perfiles del TEC.\n• Se desarrollarán actos en nueve fechas distintas en diferentes campus académicos.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/jornada-graduaciones-ordinarias-2",
       "publish_date": "2026-09-03T21:23:57.000Z",
-      "teaser": "Lo clave en 20 segundos: Graduaciones del TEC del 22 de setiembre al 2 de octubre.",
+      "teaser": "Lo clave en 20 segundos: jornada de graduaciones en el TEC del 22 de septiembre al 2 de octubre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-cartago_rcascante-1.jpg",
       "description": "Jornada de graduaciones ordinarias",
       "featured": false
@@ -90624,11 +90650,10 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-05T09:45:24.862Z",
-  "total": 6971,
-  "removed_soccer_news_count": 1166,
+  "generated_at": "2026-09-05T10:45:26.247Z",
+  "total": 6973,
+  "removed_soccer_news_count": 1165,
   "removed_soccer_news_titles": [
-    "Árbitro tuvo que hacer la revisión del VAR comunicándose con un celular (y pitó penal)",
     "¡Vea qué injusticia! Futbolista Anthony López le hace una broma a su hijo de cinco años y el video se vuelve viral",
     "¿Cómo está el futuro de Kenay Myrie en el Copenhague de Dinamarca?",
     "El Real Madrid pierde el invicto en la Liga Española",
@@ -90677,6 +90702,7 @@
     "‘Nos iban a matar a todos’: Sobrevivientes y familiares relataron drama por balacera donde murió hermano de futbolista y madre de dos niñas en bar Cahuita Town",
     "A sus 41 años, Daniel Colindres hace historia con un nuevo récord en el fútbol de Costa Rica",
     "Repartidor de comidas enfrenta juicio por balacera en bar donde murieron hermano de reconocido futbolista y una joven inocente",
-    "La UEFA prepara denuncia por ‘gestión desleal’ contra Gianni Infantino"
+    "La UEFA prepara denuncia por ‘gestión desleal’ contra Gianni Infantino",
+    "Santa Fe acaba el sueño continental de River y agrava la crisis del equipo de Coudet"
   ]
 }
