@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "ministerio-de-salud-cerro-fuente-de-agua-potable-que-abastece-a-distrito-de-zarcero",
+      "title": "Ministerio de Salud cerró fuente de agua potable que abastece a distrito de Zarcero",
+      "category": "Costa Rica",
+      "bullets_20s": "• El cierre de la fuente afectará a muchas familias en el distrito de Zarcero.\n• Vecinos expresan su preocupación por la falta de agua potable en la zona.\n• El Ministerio de Salud justifica su decisión por razones de seguridad sanitaria.\n• Las autoridades locales están buscando alternativas para solucionar el problema.\n• El abastecimiento de agua potable es crucial para la salud de la comunidad.",
+      "source_name": "Marcela Rojas Hidalgo",
+      "source_url": "https://www.nacion.com/el-pais/ministerio-de-salud-cerro-fuente-de-agua-potable/4RYQTAZ5GJDKFKGPGL3IE7NLB4/story/",
+      "publish_date": "2026-09-05T18:21:37.000Z",
+      "teaser": "Lo clave en 20 segundos: El cierre de una fuente de agua en Zarcero genera preocupación en los vecinos.",
+      "image_url": "https://www.nacion.com/resizer/v2/EJFHN4PIMZBBTG37WWSWF6AMEA.jpeg?auth=ffbdc633866fe18f412f8048bc3c8ae734d8dd99c1ca2ba3aee5e7d0180b1869&smart=true&width=1600&height=1200",
+      "description": "El Ministerio de Salud ordenó el cierre de una fuente de agua potable que abastece al 76% del distrito de Palmira, en Zarcero. Vecinos sostienen que el cierre podría ser innecesario.",
+      "featured": false
+    },
+    {
+      "slug": "estados-unidos-ataca-tres-petroleros-iranies-tras-afirmar-que-sus-buques-de-guerra-fueron-objeto-de-una-ofensiva-de-tehe",
+      "title": "Estados Unidos ataca tres petroleros iraníes tras afirmar que sus buques de guerra fueron objeto de una ofensiva de Teherán",
+      "category": "Mundo",
+      "bullets_20s": "• Estados Unidos afirma que sus barcos enfrentaron ataques previos de Irán, provocando la reacción militar reciente.\n• Los petroleros atacados son de origen iraní y están relacionados con las tensiones en el Medio Oriente.\n• Los enfrentamientos marítimos indican una escalada en las hostilidades entre Estados Unidos e Irán.\n• Antes de estos ataques, las amenazas militares entre ambos países se estaban intensificando en la región.\n• La situación en el Medio Oriente sigue siendo volátil y sujeta a cambios políticos y militares constantes.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cwyzwxeqpq5o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-09-05T17:45:09.000Z",
+      "teaser": "Lo clave en 20 segundos: Estados Unidos responde a ataques de Irán con ofensiva militar en el mar.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
+      "description": "Según el Comando Central de Estados Unidos, los ataques se produjeron después de que Irán lanzara misiles balísticos contra dos de sus buques de guerra.",
+      "featured": false
+    },
+    {
+      "slug": "estados-unidos-publica-imagenes-de-destruccion-de-petroleros-iranies-por-lanzamiento-de-misiles",
+      "title": "Estados Unidos publica imágenes de destrucción de petroleros iraníes por lanzamiento de misiles",
+      "category": "Mundo",
+      "bullets_20s": "• Estados Unidos hizo un anuncio sobre la destrucción de petroleros iraníes utilizando misiles.\n• La decisión fue en respuesta a los ataques de Irán a sus buques de guerra en el mar.\n• Las imágenes publicadas muestran los daños ocasionados a los petroleros iraníes.\n• Este incidente aumenta las tensiones en la región entre Irán y Estados Unidos.\n• Las acciones de Irán han sido vistas como una amenaza para la seguridad marítima.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/estados-unidos-publica-imagenes-de-destruccion-de/6Z6P6UHQJ5DAZBCWJZ7XLX4S6Y/story/",
+      "publish_date": "2026-09-05T17:40:42.000Z",
+      "teaser": "Lo clave en 20 segundos: EE.UU. destruyó petroleros iraníes tras ataques con misiles a sus barcos.",
+      "image_url": "https://www.nacion.com/resizer/v2/7YWLSQI6NRC7DKWGGSPVAZCTTE.jpg?auth=307a6b3d575356b56fdf29c183f551b6ed7cba4be1d713ece4da9c59e178690f&smart=true&width=1730&height=1007",
+      "description": "Estados Unidos anunció este sábado que destruyó tres petroleros iraníes en respuesta a los intentos de Irán de atacar con misiles sus buques de guerra.",
+      "featured": false
+    },
+    {
       "slug": "son-ultimos-en-la-tabla-pero-nestor-monge-no-pierde-el-optimismo-escorpiones-juega-bien",
       "title": "Son últimos en la tabla, pero Néstor Monge no pierde el optimismo: ‘Escorpiones juega bien’",
       "category": "Costa Rica",
@@ -37,19 +76,6 @@
       "teaser": "Lo clave en 20 segundos: Cambios en Escorpiones de Belén por mala situación en la tabla.",
       "image_url": "https://www.nacion.com/resizer/v2/A6NL7GNYTJGIXFHAGT2GLQ5EDE.jpg?auth=b1aef234be1950ab259841eb36b8381b1d8f9f61816b97d359dc305d6c5cc119&smart=true&width=1040&height=676",
       "description": "La mala situación en la tabla de posiciones obligó a Escorpiones de Belén a cambiar la nómina de futbolistas.",
-      "featured": false
-    },
-    {
-      "slug": "estados-unidos-ataca-tres-petroleros-iranies-tras-afirmar-que-sus-buques-de-guerra-fueron-objeto-de-una-ofensiva-de-tehe",
-      "title": "Estados Unidos ataca tres petroleros iraníes tras afirmar que sus buques de guerra fueron objeto de una ofensiva de Teherán",
-      "category": "Mundo",
-      "bullets_20s": "• Estados Unidos ha llevado a cabo ataques contra petroleros en la región del Medio Oriente.\n• Los ataques se habrían producido como respuesta a una ofensiva de Teherán contra la armada estadounidense.\n• El Comando Central de Estados Unidos reporta misiles balísticos lanzados por Irán hacia sus buques.\n• La tensión entre Estados Unidos e Irán se intensifica en el contexto geopolítico actual.\n• Se teme que este conflicto pueda afectar el tráfico marítimo en la región del Golfo Pérsico.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/cwyzwxeqpq5o?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-09-05T15:35:05.000Z",
-      "teaser": "Lo clave en 20 segundos: Estados Unidos ataca tres petroleros iraníes en respuesta a acciones de Teherán.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
-      "description": "Según el Comando Central de Estados Unidos, los ataques se produjeron después de que Irán lanzara misiles balísticos contra dos de sus buques de guerra.",
       "featured": false
     },
     {
@@ -134,11 +160,11 @@
       "slug": "como-el-juicio-por-asesinato-de-lindsay-clancy-ha-dividido-a-eeuu-sobre-si-es-victima-de-psicosis-posparto-o-una-crimina",
       "title": "Cómo el juicio por asesinato de Lindsay Clancy ha dividido a EE.UU. sobre si es víctima de psicosis posparto o una criminal que mató a sus 3 hijos",
       "category": "Mundo",
-      "bullets_20s": "• El juicio de Lindsay Clancy ha captado la atención y división en la sociedad estadounidense.\n• Algunos argumentan que su salud mental es un factor crucial en el caso.\n• Otros consideran que las acciones de Clancy son inaceptables y criminales sin excepciones.\n• El caso revela la falta de apoyo para madres que enfrentan problemas de salud mental.\n• El debate sobre la salud mental en madres se intensifica a raíz de este juicio.",
+      "bullets_20s": "• El juicio de Lindsay Clancy ha generado intensas discusiones sobre la salud mental de las madres en EE.UU.\n• Exponentes de la salud mental argumentan que la psicosis posparto es un problema grave y real.\n• Hay un fuerte debate sobre la responsabilidad de las madres en casos de violencia y crimen.\n• La sociedad se enfrenta a la dificultad de comprender los límites entre enfermedad y criminalidad.\n• El caso ha reavivado conversaciones sobre el apoyo a las madres recientes y sus necesidades.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c98094mlydvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-05T12:29:55.000Z",
-      "teaser": "Lo clave en 20 segundos: El juicio ha generado un intenso debate sobre salud mental y criminalidad.",
+      "teaser": "Lo clave en 20 segundos: El juicio de Lindsay Clancy enfrenta posturas sobre salud mental y criminalidad.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a0ca/live/8d2607a0-a8db-11f1-b109-879e35c24276.jpg",
       "description": "Mientras algunos estadounidenses creen que el caso puso en evidencia las problemas de salud mental que enfrentan algunas madres, otros insisten en que estas dificultades no son justificación para cometer delitos.",
       "featured": false
@@ -251,11 +277,11 @@
       "slug": "que-es-la-proyeccion-de-mercator-y-por-que-los-paises-de-africa-lucharon-para-que-se-deje-de-usar-para-elaborar-los-mapa",
       "title": "Qué es la proyección de Mercator y por qué los países de África lucharon para que se deje de usar para elaborar los mapamundis",
       "category": "Mundo",
-      "bullets_20s": "• La proyección de Mercator es un método cartográfico utilizado desde el siglo XVI.\n• Esta proyección distorsiona el tamaño de los continentes, especialmente de África.\n• Los países africanos han denunciado la desigualdad que representa esta proyección.\n• La ONU ha tomado medidas para reemplazar la proyección en documentos oficiales.\n• La cartografía moderna busca ser más inclusiva y justa en sus representaciones.",
+      "bullets_20s": "• La proyección de Mercator ha sido criticada por distorsionar el tamaño de los continentes.\n• África es representada de manera desproporcionada en las mapamundis tradicionales.\n• La ONU ha tomado medidas para cambiar esta proyección en los mapas oficiales.\n• Este movimiento busca reconocer la importancia y tamaño real de los países africanos.\n• La historia y el contexto político han influido en la proyección de los mapas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx2zv86p1ryo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-05T09:00:02.000Z",
-      "teaser": "Lo clave en 20 segundos: La proyección de Mercator es cuestionada por su distorsión de continentes.",
+      "teaser": "Lo clave en 20 segundos: África lucha contra la proyección de Mercator por su distorsión de realidad.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a70d/live/d3a2b9c0-7d09-11f0-ab3e-bd52082cd0ae.png",
       "description": "La proyección de Mercator muestra a Europa y Norteamérica desproporcionadamente grandes con respecto a África. La Asamblea General de la ONU votó a favor de sustituirla.",
       "featured": false
@@ -589,12 +615,12 @@
       "slug": "air-avanza-en-la-modernizacion-del-estatuto-organico-en-sesion-marcada-por-55-aniversario-del-tec",
       "title": "AIR avanza en la modernización del Estatuto Orgánico en sesión marcada por 55 aniversario del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La Asamblea Institucional Representativa del TEC realizó su sesión extraordinaria de forma telepresencial.\n• La presentación destacó el compromiso del TEC en la investigación y extensión a nivel mundial.\n• Las propuestas incluyeron recursos ante el Tribunal Electoral y la incorporación de lenguaje inclusivo.\n• Se aprobaron modificaciones al Estatuto para mejorar la gestión de recursos y mecanismos de quejas.\n• El directorio agradeció a los participantes y cerró la sesión con el himno nacional.",
+      "bullets_20s": "• La Asamblea Institucional Representativa del TEC discutió reformas al Estatuto Orgánico en su sesión 115-2026.\n• Se presentaron propuestas de modificación para incluir lenguaje inclusivo en el Estatuto Orgánico.\n• La sesión se realizó de forma telepresencial por Zoom y fue transmitida en YouTube.\n• Se destacó el 55 aniversario del TEC con la presentación 'TEC 55 años construyendo futuro'.\n• El TEC ingresó al World University Rankings 2026 como un hito histórico para la institución.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/air-avanza-modernizacion-estatuto-organico-sesion-marcada-55-aniversario-tec",
       "publish_date": "2026-09-04T19:50:11.000Z",
-      "teaser": "Lo clave en 20 segundos: AIR avanza en el Estatuto Orgánico al conmemorar 55 años del TEC.",
-      "image_url": "",
+      "teaser": "Lo clave en 20 segundos: La AIR moderniza el Estatuto Orgánico en el marco del 55 aniversario del TEC.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/air_4-setiembre-2026_01.png",
       "description": "AIR avanza en la modernización del Estatuto Orgánico en sesión marcada por 55 aniversario del TEC",
       "featured": false
     },
@@ -1174,11 +1200,11 @@
       "slug": "conmemoracion-del-30-aniversario-de-la-carrera-de-ensenanza-de-la-matematica-con-entornos-tecnologicos",
       "title": "Conmemoración del 30° Aniversario de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebra tres décadas de la carrera de Enseñanza de la Matemática.\n• Se realizará un acto oficial el 17 de setiembre en el campus central de Cartago.\n• El evento incluirá palabras de autoridades académicas y estudiantes comprometidos.\n• Habrá charlas sobre IA y diseños didácticos tecnológicos en el ámbito de la matemática.\n• Se espera una participación activa de estudiantes y docentes durante la celebración.",
+      "bullets_20s": "• Se celebra el 30° aniversario de la carrera de Enseñanza de la Matemática en el TEC.\n• El evento cuenta con actividades programadas desde el 14 hasta el 18 de setiembre.\n• Estudiantes y docentes están invitados a participar en diversas charlas y conferencias.\n• Se llevará a cabo un acto cultural seguido de la entrega de reconocimientos a excoordinadores.\n• La ceremonia del aniversario se realizará el 17 de setiembre en el Auditorio D3 del TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/conmemoracion-30deg-aniversario-carrera-ensenanza-matematica-entornos-tecnologicos",
       "publish_date": "2026-09-03T22:33:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebramos 30 años de enseñanza de matemáticas con tecnología en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Celebración del legado de la carrera de Matemática en el TEC de Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/libros-matematica-eveprim_tec_rgarita_02.png",
       "description": "Conmemoración del 30° Aniversario de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos",
       "featured": false
@@ -1252,11 +1278,11 @@
       "slug": "jornada-de-graduaciones-ordinarias",
       "title": "Jornada de graduaciones ordinarias",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica realizará graduaciones ordinarias del 22 de septiembre al 2 de octubre.\n• Se entregarán títulos de bachillerato, licenciatura, maestría y doctorado a 535 graduandos.\n• Nueve actos de graduación están programados en diferentes campus y centros académicos.\n• Graduaciones se transmitirán virtualmente en redes sociales y canales del TEC.\n• Los actos incluyen ceremonias en San José, Cartago, Alajuela, San Carlos y Limón.",
+      "bullets_20s": "• El Tecnológico de Costa Rica realizará graduaciones entre el 22 de setiembre y el 2 de octubre.\n• Se esperan graduaciones de programas de bachillerato, licenciatura, maestría y doctorado en todos los campus.\n• Las ceremonias se transmitirán de forma virtual por los canales del TEC y centros académicos.\n• Un total de 535 personas recibirán su título profesional durante esta jornada especial.\n• Nueve actos programados para celebrar graduaciones en diferentes fechas y horarios en los campus.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/jornada-graduaciones-ordinarias-2",
       "publish_date": "2026-09-03T21:23:57.000Z",
-      "teaser": "Lo clave en 20 segundos: graduaciones ordinarias en el TEC del 22 de septiembre al 2 de octubre.",
+      "teaser": "Lo clave en 20 segundos: Graduaciones en el TEC del 22 de setiembre al 2 de octubre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-cartago_rcascante-1.jpg",
       "description": "Jornada de graduaciones ordinarias",
       "featured": false
@@ -90884,8 +90910,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-05T17:45:24.945Z",
-  "total": 6991,
+  "generated_at": "2026-09-05T18:45:25.438Z",
+  "total": 6993,
   "removed_soccer_news_count": 1166,
   "removed_soccer_news_titles": [
     "¡Tremendo golazo! Vea la gran anotación de Raquel Rodríguez con su equipo en Estados Unidos",
