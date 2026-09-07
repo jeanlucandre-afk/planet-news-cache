@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "banco-central-autoriza-la-participacion-de-una-nueva-casa-de-cambio-en-costa-rica",
+      "title": "Banco Central autoriza la participación de una nueva casa de cambio en Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Banco Central busca aumentar la competencia en el mercado cambiario de Costa Rica.\n• Una nueva casa de cambio permitirá diversificar las opciones para los ciudadanos.\n• Se espera que la medida mejore las condiciones para los usuarios del sistema cambiario.\n• El BCCR regula el sector para asegurar la estabilidad económica del país.\n• La autorización se otorgó tras un análisis exhaustivo de la solicitud presentada.",
+      "source_name": "Luis Enrique Brenes",
+      "source_url": "https://www.nacion.com/economia/banco-central-autoriza-la-participacion-de-una/IIYNKEAQGJD7FEEIOUKTFXVUHI/story/",
+      "publish_date": "2026-09-07T12:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Banco Central abre la puerta a una nueva casa de cambio en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/W46TIM7BZBCN7HOK6EHXVQVXNY.jpg?auth=d82e72c2acc3a472ea29f693c1b8240a2a1d47732f0fb94b3bb72d031c02c0e1&smart=true&width=8192&height=5464",
+      "description": "La Junta Directiva del Banco Central de Costa Rica (BCCR) autorizó, el 12 de agosto, la participación de un nuevo intermediario en el mercado cambiario bajo la figura de casa de cambio.",
+      "featured": false
+    },
+    {
+      "slug": "consejo-universitario-de-la-ucr-pide-extender-ajuste-salarial-de-15-a-toda-la-planilla-rector-advierte-que-implicaria-de",
+      "title": "Consejo Universitario de la UCR pide extender ajuste salarial de 1,5% a toda la planilla; rector advierte que ‘implicaría desatender el marco legal vigente’",
+      "category": "Costa Rica",
+      "bullets_20s": "• El ajuste salarial del 1,5% afecta a miles de funcionarios de la UCR en espera de solución.\n• Rectoría ha aplicado el ajuste solo a un grupo reducido de empleados, generando controversia.\n• El Consejo Universitario argumenta que el aumento es necesario para enfrentar el costo de vida.\n• El sindicato defiende la legalidad del ajuste y busca justicia para todos los empleados.\n• El rector advierte sobre los riesgos legales de extender el ajuste salarial en este contexto.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/el-pais/consejo-universitario-de-la-ucr-pide-extender/HKYIMC6WF5HDTJBNOC6V3PKXJ4/story/",
+      "publish_date": "2026-09-07T12:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Consejo Universitario busca extender ajuste salarial a más funcionarios UCR.",
+      "image_url": "https://www.nacion.com/resizer/v2/J6VLWAUAYBA5TMU56V6ZYSQBI4.jpg?auth=bc3d6753974572c95b8bd9b41dc1860e371cbec9db48d09cb6051840f588cbe0&smart=true&width=6000&height=4000",
+      "description": "El Consejo Universitario de la UCR pide extender a 7.000 funcionarios el ajuste de 1,5% por costo de vida que Rectoría aplicó solo a 3.000, por efectos de la Ley de Empleo Público. Rector advierte riesgo y sindicato defiende la legalidad.",
+      "featured": false
+    },
+    {
+      "slug": "una-fuente-nueva-para-una-pension-digna",
+      "title": "Una fuente nueva para una pensión digna",
+      "category": "Costa Rica",
+      "bullets_20s": "• Costa Rica enfrenta desafíos importantes en el sistema de pensiones y economía nacional.\n• Una pensión digna es esencial para el bienestar de la población más vulnerable.\n• La propuesta sugiere crear una solución sostenible a largo plazo.\n• Corregir la sobrevaloración del colón podría mejorar la competitividad del país.\n• La discusión debe involucrar a diversas partes interesadas para ser efectiva.",
+      "source_name": "Guillermo von Breymann",
+      "source_url": "https://www.nacion.com/opinion/columnistas/una-fuente-nueva-para-una-pension-digna/VPHN22JD6RHC7HSQTT5CEDZWVU/story/",
+      "publish_date": "2026-09-07T12:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Propuesta para mejorar pensiones y competitividad en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/DSKVM3WN4JCDFE7HXSG5XUZON4.jpg?auth=e31c98e7bd602160f4ceb0a63cc2b676dfd2ddcb466ba6472863cd1cba8c4762&smart=true&width=2400&height=1350",
+      "description": "Una misma propuesta puede ayudarnos, entonces, a enfrentar dos grandes problemas nacionales: construir una pensión digna y sostenible para quienes más la necesitan y ayudar a corregir la sobrevaloración del colón que erosiona nuestra competitividad.",
+      "featured": false
+    },
+    {
+      "slug": "que-es-sea-lion-el-proyecto-petrolero-senalado-por-milei-que-reaviva-la-tension-entre-argentina-y-reino-unido-sobre-las-",
+      "title": "Qué es Sea Lion, el proyecto petrolero señalado por Milei que reaviva la tensión entre Argentina y Reino Unido sobre las Malvinas/Falklands",
+      "category": "Mundo",
+      "bullets_20s": "• El proyecto Sea Lion busca aprovechar reservas petroleras en el Atlántico Sur, cerca de las Malvinas.\n• Milei, presidente argentino, ha expresado su preocupación por las implicaciones de este proyecto.\n• Las tensiones históricas entre Argentina y Reino Unido podrían intensificarse con este desarrollo.\n• La iniciativa está respaldada por empresas británicas e israelíes dedicadas a la explotación de hidrocarburos.\n• Este nuevo capítulo en la disputa podría afectar las relaciones diplomáticas entre ambos países.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cvgy51v7281o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-09-07T11:35:15.000Z",
+      "teaser": "Lo clave en 20 segundos: El proyecto Sea Lion reaviva tensiones entre Argentina y Reino Unido sobre las Malvinas.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/20f1/live/0af4a970-aaa8-11f1-9eba-7de947fa7cd1.jpg",
+      "description": "Se trata de una iniciativa de explotación petrolera británico-israelí que el mandatario argentino calificó como un 'peligro claro y urgente' que justificaría las acciones anunciadas por su gobierno.",
+      "featured": false
+    },
+    {
       "slug": "ocho-cantones-cerraron-con-menos-robos-de-vehiculos-que-hace-una-decada-otros-escalaron-hasta-39-posiciones-frente-al-re",
       "title": "Ocho cantones cerraron con menos robos de vehículos que hace una década; otros escalaron hasta 39 posiciones frente al resto del país",
       "category": "Costa Rica",
@@ -43,24 +95,24 @@
       "slug": "vivimos-en-una-politica-de-la-crueldad-que-busca-normalizar-cosas-que-antes-no-podiamos-tragar",
       "title": "Vivimos en una política de la crueldad que busca normalizar cosas que antes no podíamos tragar",
       "category": "Mundo",
-      "bullets_20s": "• La política de la crueldad ha normalizado situaciones que antes eran inaceptables en la sociedad.\n• Se aborda la responsabilidad colectiva en la lucha contra la violencia estatal en diversos contextos.\n• El autor propone una reflexión profunda sobre la desensibilización frente a la violencia generalizada.\n• Es crucial cuestionar las narrativas que justifican la cruel administración de justicia del Estado.\n• La obra invita al lector a reexaminar nuestra complicidad ante el sufrimiento ajeno en la sociedad.",
+      "bullets_20s": "• La política de la crueldad afecta nuestras interacciones y estructura social diariamente en diversas formas.\n• Reflexionar sobre la responsabilidad colectiva puede ser una herramienta para enfrentar la violencia estatal.\n• El autor sugiere que la normalización de la crueldad no es aceptable en una sociedad avanzada.\n• Se discuten ejemplos históricos de cómo el estado ha normalizado la violencia contra ciertos grupos.\n• La obra 'Lo intolerable' explora cómo revertir esta tendencia a través de la empatía colectiva.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cd6985dl78xo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-07T10:57:27.000Z",
-      "teaser": "Lo clave en 20 segundos: La crueldad y su normalización en la política requieren una respuesta colectiva.",
+      "teaser": "Lo clave en 20 segundos: La crueldad se ha normalizado, necesitamos reflexión y responsabilidad colectiva.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c524/live/c75b78d0-9a83-11f1-aff8-c750495aa1b4.jpg",
-      "description": "El autor de 'Lo intolerable' plantea la responsabilidad colectiva como una respuesta ante la violencia del Estado.",
+      "description": "El autor de \"Lo intolerable\" plantea la responsabilidad colectiva como una respuesta ante la violencia del Estado.",
       "featured": false
     },
     {
       "slug": "como-el-cerebro-de-las-moscas-puede-ofrecer-pistas-sobre-el-comportamiento-de-los-seres-humanos",
       "title": "Cómo el cerebro de las moscas puede ofrecer pistas sobre el comportamiento de los seres humanos",
       "category": "Ciencia",
-      "bullets_20s": "• Investigaciones sobre moscas podrían revolucionar la comprensión del comportamiento en humanos y animales.\n• La diferencia entre cerebros machos y hembras de moscas aporta nuevas perspectivas en genética.\n• Científicos exploran cómo los genes influyen en la conducta a partir de estudios con insectos.\n• Este estudio ofrece un enfoque novedoso para comprender la neurociencia de mamíferos también.\n• Los hallazgos pueden tener implicaciones en áreas como la psicología y la biología evolutiva.",
+      "bullets_20s": "• Las moscas presentan un interesante modelo de estudio para la neurociencia del comportamiento.\n• El análisis de sus cerebros ayuda a comprender el impacto de los genes en el comportamiento.\n• Las diferencias entre machos y hembras revelan aspectos curiosos de la evolución.\n• Este estudio podría arrojar luz sobre el comportamiento humano y su origen genético.\n• Se esperan avances en tratamientos para trastornos del comportamiento a través de esta investigación.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c158v3e8dx4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-07T10:21:20.000Z",
-      "teaser": "Lo clave en 20 segundos: El cerebro de las moscas ofrece vistas nuevas sobre el comportamiento humano.",
+      "teaser": "Lo clave en 20 segundos: El cerebro de las moscas ofrece nuevas perspectivas en el estudio del comportamiento humano.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/de4a/live/49fc5df0-a6ea-11f1-9e4c-79c1c0e340c6.jpg",
       "description": "Una comparación entre los cerebros de moscas macho y hembra puede transformar nuestra comprensión de cómo los genes dan forma al comportamiento de otros animales, incluidos los humanos.",
       "featured": false
@@ -121,11 +173,11 @@
       "slug": "la-red-de-propaganda-prorrusa-que-explota-la-violencia-sexual-y-utiliza-a-mujeres-del-ejercito-ucraniano-como-cebo",
       "title": "La red de propaganda prorrusa que explota la violencia sexual y utiliza a mujeres del ejército ucraniano como cebo",
       "category": "Mundo",
-      "bullets_20s": "• La lucha en Ucrania está marcada por el uso de propaganda para deslegitimar al enemigo.\n• Los canales de Telegram se han convertido en herramientas clave para difundir desinformación.\n• Las mujeres en el ejército ucraniano son utilizadas como elementos de manipulación mediática.\n• Las redes sociales pueden influir en la percepción pública del conflicto y sus actores.\n• La violencia sexual es un tema sensible que se aprovecha en contextos bélicos.",
+      "bullets_20s": "• La propaganda digital está moldeando narrativas sobre la guerra en Ucrania.\n• Las denuncias de violación son manipuladas para atraer audiencia y apoyo.\n• Mujeres del ejército son utilizadas como cebo para captar atención.\n• Los canales de Telegram son la principal herramienta para diseminar estas ideas.\n• El impacto de esta propaganda afecta la percepción global del conflicto.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c0klgne2jd6o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-07T03:36:19.000Z",
-      "teaser": "Lo clave en 20 segundos: La propaganda prorrusa explota la violencia sexual en la guerra de Ucrania.",
+      "teaser": "Lo clave en 20 segundos: cómo la violencia sexual se usa para propaganda en la guerra.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/e1c5/live/4c29ec60-a626-11f1-b384-1f35d0eeee9d.jpg",
       "description": "Los canales rusos de Telegram utilizan denuncias falsas de violación e imágenes de mujeres ucranianas para atraer a millones de usuarios a redes de propaganda a favor de la guerra.",
       "featured": false
@@ -1499,11 +1551,11 @@
       "slug": "air-avanza-en-la-modernizacion-del-estatuto-organico-en-sesion-marcada-por-55-aniversario-del-tec",
       "title": "AIR avanza en la modernización del Estatuto Orgánico en sesión marcada por 55 aniversario del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La Asamblea Institucional Representativa del TEC discute cambios importantes al Estatuto Orgánico.\n• Se presentan propuestas sobre lenguaje inclusivo y mecanismos de quejas para el TIE.\n• El evento fue telepresencial y se transmitió en vivo por el canal de YouTube del TEC.\n• Se realizó una presentación sobre el futuro del TEC en su 55 aniversario de fundación.\n• Hubo una alta participación con un 86% de quórum, mostrando el interés de los asambleístas.",
+      "bullets_20s": "• La Asamblea Institucional Representativa del TEC realizó una sesión extraordinaria telepresencial por Zoom.\n• Durante la sesión, se discutieron y votaron tres propuestas de reforma al Estatuto Orgánico.\n• El TEC celebró su 55 aniversario con una presentación sobre su compromiso y logros internacionales.\n• Se aprobó una reforma que incluye recursos contra el Tribunal Institucional Electoral en casos específicos.\n• Se propuso un cambio de lenguaje inclusivo, estandarizando el término 'persona académica' en el estatuto.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/air-avanza-modernizacion-estatuto-organico-sesion-marcada-55-aniversario-tec",
       "publish_date": "2026-09-04T19:50:11.000Z",
-      "teaser": "Lo clave en 20 segundos: AIR discute reformas vitales al Estatuto Orgánico en el 55 aniversario del TEC.",
+      "teaser": "Lo clave en 20 segundos: La AIR del TEC avanzó en reformas importantes para su Estatuto Orgánico.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/air_4-setiembre-2026_01.png",
       "description": "AIR avanza en la modernización del Estatuto Orgánico en sesión marcada por 55 aniversario del TEC",
       "featured": false
@@ -2084,11 +2136,11 @@
       "slug": "conmemoracion-del-30-aniversario-de-la-carrera-de-ensenanza-de-la-matematica-con-entornos-tecnologicos",
       "title": "Conmemoración del 30° Aniversario de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Matemática celebra tres décadas de historia y compromiso con la educación en Costa Rica.\n• El acto oficial del aniversario se llevará a cabo el 17 de setiembre en el Campus Central del TEC.\n• Diferentes actividades académicas se realizarán desde el 14 hasta el 18 de setiembre de 2026.\n• Se rendirá homenaje a excoordinadores y personal jubilado con reconocimientos especiales durante la ceremonia.\n• Las charlas abarcarán temas innovadores como IA y metodologías numéricas en la enseñanza de matemáticas.",
+      "bullets_20s": "• La Escuela de Matemática del TEC celebra tres décadas formando profesionales en matemáticas.\n• Se invita a la comunidad a reflexionar sobre el impacto de la carrera en Costa Rica.\n• El acto oficial se llevará a cabo el 17 de setiembre en el campus de Cartago.\n• El evento incluirá ponencias y actividades culturales relacionadas con la matemática.\n• Reconocerán a excoordinadores y personal jubilado por su legado en la enseñanza.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/conmemoracion-30deg-aniversario-carrera-ensenanza-matematica-entornos-tecnologicos",
       "publish_date": "2026-09-03T22:33:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebramos 30 años de enseñanza matemática con un evento especial lleno de actividades.",
+      "teaser": "Lo clave en 20 segundos: El TEC conmemora 30 años de su carrera en Enseñanza de Matemática.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/libros-matematica-eveprim_tec_rgarita_02.png",
       "description": "Conmemoración del 30° Aniversario de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos",
       "featured": false
@@ -2162,11 +2214,11 @@
       "slug": "jornada-de-graduaciones-ordinarias",
       "title": "Jornada de graduaciones ordinarias",
       "category": "Costa Rica",
-      "bullets_20s": "• La jornada de graduaciones se realizará del 22 de setiembre al 2 de octubre en el TEC.\n• Se entregarán títulos en bachillerato, licenciatura, maestría y doctorado a 535 graduandos.\n• Nueve actos programados en diferentes campus y centros académicos del TEC.\n• Los eventos serán transmitidos de forma virtual por canales del TEC.\n• Graduaciones en campus de San José, Cartago, Alajuela, San Carlos y Limón.",
+      "bullets_20s": "• El Tecnológico de Costa Rica realizará graduaciones del 22 de setiembre al 2 de octubre de 2026.\n• Serán 535 personas que recibirán títulos en diversas modalidades académicas en distintos campus.\n• Las graduaciones incluyen bachillerato, licenciatura, maestría y doctorado en varios centros académicos.\n• Nueve actos programados a lo largo de la jornada de graduaciones, cada uno con cronograma específico.\n• Los actos serán transmitidos de forma virtual en redes sociales del TEC y centros académicos.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/jornada-graduaciones-ordinarias-2",
       "publish_date": "2026-09-03T21:23:57.000Z",
-      "teaser": "Lo clave en 20 segundos: Graduaciones del TEC del 22 de setiembre al 2 de octubre, con 535 graduandos.",
+      "teaser": "Lo clave en 20 segundos: Jornada de graduaciones del Tecnológico de Costa Rica se realiza del 22 de setiembre al 2 de octubre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-cartago_rcascante-1.jpg",
       "description": "Jornada de graduaciones ordinarias",
       "featured": false
@@ -91794,10 +91846,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-07T11:45:25.388Z",
-  "total": 7061,
-  "removed_soccer_news_count": 1179,
+  "generated_at": "2026-09-07T12:45:25.299Z",
+  "total": 7065,
+  "removed_soccer_news_count": 1180,
   "removed_soccer_news_titles": [
+    "La ‘Sele’ y el gobierno de Chaves tuvieron todo a favor... y los dos desperdiciaron la oportunidad",
     "Tabla de posiciones del Torneo de Apertura 2026: así marcha el fútbol de Costa Rica tras la jornada 7",
     "Costa Rica vs. Colombia: ¿A qué hora y cómo ver este partido en el Mundial Sub-20 de Polonia?",
     "Amarini Villatoro: ‘Teníamos la obligación de ganar ante Puntarenas por la ventaja númerica’",
@@ -91846,7 +91899,6 @@
     "Vea al hijo de Keylor Navas volar ahora en el motocross",
     "Pumas y Keylor Navas sufren ante la nueva joya del fútbol mexicano: Gilberto Mora (video)",
     "Costa Rica vuelve a una de las grandes ligas del fútbol, pero Jeyland Mitchell comete penal en su debut (video)",
-    "Un gol tempranero y otro al final colocan a Sporting como sublíder",
-    "Marquinhos salva un punto para el PSG en el último suspiro"
+    "Un gol tempranero y otro al final colocan a Sporting como sublíder"
   ]
 }
