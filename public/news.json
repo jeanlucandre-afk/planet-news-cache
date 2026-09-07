@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "extienden-cierre-de-aeropuertos-de-indonesia-tras-erupcion-de-volcan",
+      "title": "Extienden cierre de aeropuertos de Indonesia, tras erupción de volcán",
+      "category": "Mundo",
+      "bullets_20s": "• La erupción del Anak Krakatau ha provocados varios problemas de transporte aéreo en Indonesia.\n• Los aeropuertos afectados son esenciales para el tráfico nacional e internacional.\n• Las autoridades monitorean la actividad volcánica y evalúan la situación constantemente.\n• Se espera que el cierre prolongado afecte a miles de pasajeros y vuelos programados.\n• La seguridad de los viajantes es la prioridad para el gobierno indonesio ante esta crisis.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/extienden-cierre-de-aeropuertos-de-indonesia-tras/P4JNMJZ7ABGEPBK4P33X4IWTPQ/story/",
+      "publish_date": "2026-09-07T03:59:01.000Z",
+      "teaser": "Lo clave en 20 segundos: Aeropuertos en Indonesia se cierran por erupción del volcán Anak Krakatau.",
+      "image_url": "https://www.nacion.com/resizer/v2/2XRQZZYPJNA2ZA2MFLO7TXKJKQ.jpg?auth=ab6e63f16df8177238a00cc99bd468d0700cba1f454f2a6ee57f103622bdea01&smart=true&width=4000&height=2667",
+      "description": "El aeropuerto principal de Yakarta, en Indonesia, y otros tres extendieron su cierre tras la erupción del Anak Krakatau, que lanzó lava y ceniza.",
+      "featured": false
+    },
+    {
+      "slug": "israel-anuncia-bombardeo-en-el-sur-de-libano-y-ordena-evacuar-a-residentes",
+      "title": "Israel anuncia bombardeo en el sur de Líbano y ordena evacuar a residentes",
+      "category": "Mundo",
+      "bullets_20s": "• Israel intensifica acciones militares, generando preocupaciones internacionales sobre un posible conflicto en la región.\n• La evacuación de residentes se convierte en una prioridad ante la inminente ofensiva israelí programada.\n• Los líderes mundiales expresan su preocupación por la escalada de tensiones en Medio Oriente y Líbano.\n• La comunidad internacional sigue de cerca la situación, esperando acciones diplomáticas para evitar el conflicto.\n• La población civil enfrenta incertidumbres y miedos, mientras se preparan para el posible ataque militar.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/israel-anuncia-bombardeo-en-el-sur-de-libano-y/I76YDAYKB5HETOAATKPUL55NQY/story/",
+      "publish_date": "2026-09-07T03:51:58.000Z",
+      "teaser": "Lo clave en 20 segundos: Israel bombardea Líbano y evacua residentes ante el aumento de tensiones en la región.",
+      "image_url": "",
+      "description": "Israel anunció que bombardeará una zona del sur de Líbano y ordenó a los residentes evacuar antes del ataque.",
+      "featured": false
+    },
+    {
+      "slug": "trump-sugiere-cambiar-el-nombre-del-estado-de-nuevo-mexico-a-nueva-america",
+      "title": "Trump sugiere cambiar el nombre del estado de Nuevo México a ‘Nueva América’",
+      "category": "Mundo",
+      "bullets_20s": "• Trump ha sido una figura polémica en la política estadounidense desde hace años.\n• Opiniones y reacciones se dividen entre quienes apoyan y rechazan su propuesta.\n• La gobernadora del estado afirmó que el nombre actual no está en discusión.\n• Este cambio de nombre genera un debate sobre identidad y cultura.\n• La propuesta ha resurgido curiosidad sobre la historia del estado de Nuevo México.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/trump-sugiere-cambiar-el-nombre-del-estado-de/LDB4GC3XZVFA7HRYYLAKFPXNUA/story/",
+      "publish_date": "2026-09-07T03:39:15.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump sugiere un nuevo nombre para Nuevo México, pero enfrenta rechazo inmediato.",
+      "image_url": "https://www.nacion.com/resizer/v2/7OANKEZNLVH7DAPMDOACDRXP5M.jpg?auth=fa9b1c3b6acc06fa12e4e9eec41aec25e83d34f50727b2d30d8de906b4dac771&smart=true&width=8256&height=5504",
+      "description": "Trump propone cambiar el nombre de Nuevo México a “Nueva América”, pero la gobernadora del estado rechazó la idea y aseguró que el nombre “no está en discusión”.",
+      "featured": false
+    },
+    {
+      "slug": "loteria-nacional-de-costa-rica-lista-completa-de-ganadores-y-premios-del-sorteo-n-4917-de-este-domingo-6-de-setiembre",
+      "title": "Lotería Nacional de Costa Rica: lista completa de ganadores y premios del sorteo N.° 4.917 de este domingo 6 de setiembre",
+      "category": "Costa Rica",
+      "bullets_20s": "• El sorteo N.° 4.917 se realizó el 6 de septiembre en todo el país.\n• La Lotería Nacional es una institución reconocida en Costa Rica.\n• Cada semana, miles de costarricenses participan en estos sorteos.\n• Los premios se distribuyen entre diferentes categorías de ganadores.\n• Es una tradición para muchos costarricenses comprar billetes de lotería.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/el-pais/loteria-nacional-de-costa-rica-lista-completa-de/IWUUABAIL5HSFKCIRYKXX72G7U/story/",
+      "publish_date": "2026-09-07T03:29:47.000Z",
+      "teaser": "Lo clave en 20 segundos: Este domingo se realizó el sorteo N.° 4.917 de la Lotería Nacional en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/NU7OEJE4VZADTJAAYMYCUPWBVI.jpg?auth=5ee9a47347fd572ae06b22ae59f0882d2df33371b311fcc6272a1a9accee88c6&smart=true&width=1029&height=611",
+      "description": "Este domingo 6 de setiembre se llevó a cabo el sorteo ordinario N.° 4.917 de la Lotería Nacional, de la Junta de Protección Social (JPS).",
+      "featured": false
+    },
+    {
       "slug": "loteria-nacional-de-costa-rica-vea-los-numeros-ganadores-de-este-domingo-6-de-setiembre",
       "title": "Lotería Nacional de Costa Rica: Vea los números ganadores de este domingo 6 de setiembre",
       "category": "Costa Rica",
@@ -160,12 +212,12 @@
       "slug": "por-que-los-paises-europeos-estan-trasladando-su-oro-fuera-de-america-del-norte",
       "title": "¿Por qué los países europeos están trasladando su oro fuera de América del Norte?",
       "category": "Mundo",
-      "bullets_20s": "• Los países europeos están reconsiderando sus reservas de oro en América del Norte.\n• La repatriación del oro busca incrementar la seguridad financiera en Europa.\n• Países como los Países Bajos han comenzado a trasladar grandes cantidades de oro.\n• La situación económica mundial influye en la decisión de mover reservas de oro.\n• Históricamente, el oro ha sido visto como un refugio seguro ante crisis económicas.",
+      "bullets_20s": "• Varios países europeos están repatriando su oro almacenado en América del Norte.\n• El traslado de oro busca asegurar reservas en tiempos de incertidumbre económica.\n• Los Países Bajos lideran la tendencia con el retorno de grandes cantidades de lingotes.\n• Las razones incluyen la desconfianza hacia las instituciones financieras norteamericanas.\n• La seguridad y el control sobre el recurso son preocupaciones crecientes entre gobiernos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c89jpdn4pn3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-06T17:59:07.000Z",
-      "teaser": "Lo clave en 20 segundos: Europa repatria su oro por cuestiones de seguridad económica.",
-      "image_url": "",
+      "teaser": "Lo clave en 20 segundos: Europa repatria oro por cuestiones de seguridad y economía.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3a6b/live/902a3480-aa1b-11f1-8046-e7e0d3946c1a.jpg",
       "description": "Los Países Bajos trasladaron de vuelta a Europa 86 toneladas de ese metal precioso que mantenían en EE.UU. y Canadá. Y no están solos. ¿Qué está pasando?",
       "featured": false
     },
@@ -406,12 +458,12 @@
     {
       "slug": "el-matematico-que-llevaba-7-anos-trabajando-en-descifrar-un-enigma-que-fue-resuelto-por-un-aficionado",
       "title": "El matemático que llevaba 7 años trabajando en descifrar un enigma que fue resuelto por un aficionado",
-      "category": "Mundo",
-      "bullets_20s": "• El problema 1196 de Erdős ha intrigado a matemáticos por décadas y nunca fue resuelto del todo.\n• Jared Duker Lichtman dedicó siete años a este enigma, buscando una solución definitiva.\n• Un aficionado inesperado encontró la solución y la envió por correo, sorprendiendo al investigador.\n• La resolución de este problema es un gran avance en la teoría de números y combinatoria.\n• La comunidad matemática celebra el descubrimiento, destacando la colaboración entre profesionales y aficionados.",
+      "category": "Ciencia",
+      "bullets_20s": "• Un matemático experimentado estuvo trabajando en un enigma matemático por casi siete años.\n• El problema es conocido como el problema 1196 de Erdős, con una larga historia compleja.\n• Un aficionado logró resolver el enigma, sorprendiendo a la comunidad científica y académica.\n• La resolución del enigma puede abrir nuevas puertas para investigaciones matemáticas futuras.\n• Este evento destaca la importancia de la colaboración entre profesionales y aficionados en ciencia.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpw9lgvenkgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-06T12:15:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Un aficionado resuelve un enigma matemático que llevó siete años a un experto.",
+      "teaser": "Lo clave en 20 segundos: un matemático está asombrado por la resolución de un enigma por un aficionado.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/786f/live/0c9ffaf0-a633-11f1-a74e-057e1eb7e669.jpg",
       "description": "El matemático Jared Duker Lichtman de la Universidad de Stanford recibió un inesperado correo con la respuesta al problema 1196 de Erdős, un enigma con décadas de antigüedad en el que estaba trabajando.",
       "featured": false
@@ -1356,12 +1408,12 @@
       "slug": "air-avanza-en-la-modernizacion-del-estatuto-organico-en-sesion-marcada-por-55-aniversario-del-tec",
       "title": "AIR avanza en la modernización del Estatuto Orgánico en sesión marcada por 55 aniversario del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La Asamblea Institucional Representativa del TEC se reunió para discutir reformas importantes al Estatuto Orgánico.\n• Se aprobó el uso de lenguaje inclusivo en documentos oficiales y su impacto en la comunidad académica.\n• Los asambleístas participaron en votaciones para modificar artículos clave del Estatuto Orgánico.\n• La sesión se llevó a cabo de forma telepresencial, mostrando la adaptabilidad del TEC ante nuevos tiempos.\n• El TEC celebra 55 años de compromiso con la educación superior, destacando logros y avances institucionales.",
+      "bullets_20s": "• La Asamblea Institucional Representativa del TEC realizó una sesión extraordinaria el 4 de septiembre.\n• Se discutieron tres propuestas de reforma al Estatuto Orgánico en esta sesión telepresencial.\n• La presentación destacó el ingreso del TEC al ranking mundial en el ODS 13 por primera vez.\n• Se aprobó la incorporación de lenguaje inclusivo en la normativa del Estatuto Orgánico del TEC.\n• El proceso electoral del Tribunal Institucional Electoral se modificará según la nueva reforma.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/air-avanza-modernizacion-estatuto-organico-sesion-marcada-55-aniversario-tec",
       "publish_date": "2026-09-04T19:50:11.000Z",
-      "teaser": "Lo clave en 20 segundos: AIR discute reformas al Estatuto Orgánico en sesión de aniversario del TEC.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/air_4-setiembre-2026_01.png",
+      "teaser": "Lo clave en 20 segundos: AIR moderniza el Estatuto del TEC en un marco de celebración.",
+      "image_url": "",
       "description": "AIR avanza en la modernización del Estatuto Orgánico en sesión marcada por 55 aniversario del TEC",
       "featured": false
     },
@@ -1941,13 +1993,13 @@
       "slug": "conmemoracion-del-30-aniversario-de-la-carrera-de-ensenanza-de-la-matematica-con-entornos-tecnologicos",
       "title": "Conmemoración del 30° Aniversario de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Matemática del TEC celebra tres décadas de compromiso académico y desarrollo educativo.\n• Se invitaron a estudiantes y comunidad a un acto oficial el 17 de setiembre de 2026.\n• El evento incluirá palabras de autoridades y una reseña histórica de la carrera MATEC.\n• Durante la semana se desarrollarán actividades y conferencias sobre tecnología en la educación.\n• Se premiará el esfuerzo de excoordinadores y personal jubilado con reconocimientos especiales.",
+      "bullets_20s": "• La carrera celebra tres décadas de historia en la enseñanza de la matemática en Costa Rica.\n• Historias de excoordinadores y docentes serán parte del evento inaugural programado.\n• Actividades académicas se extenderán del 14 al 18 de setiembre de 2026.\n• Charlas sobre tecnología aplicada a la enseñanza incluirán aspectos de inteligencia artificial.\n• La celebración incluirá conferencias dirigidas a estudiantes, profesores y egresados.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/conmemoracion-30deg-aniversario-carrera-ensenanza-matematica-entornos-tecnologicos",
       "publish_date": "2026-09-03T22:33:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración del 30° aniversario de Enseñanza de la Matemática en el TEC.",
+      "teaser": "Lo clave en 20 segundos: celebración del 30° aniversario con charlas académicas y reconocimientos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/libros-matematica-eveprim_tec_rgarita_02.png",
-      "description": "Conmemoración del 30° Aniversario de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos",
+      "description": "Conmemoración del 30° Aniversario de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos.",
       "featured": false
     },
     {
@@ -2019,11 +2071,11 @@
       "slug": "jornada-de-graduaciones-ordinarias",
       "title": "Jornada de graduaciones ordinarias",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica realizará graduaciones del 22 de setiembre al 2 de octubre de 2026.\n• Un total de 535 graduandos recibirán títulos en diversos grados académicos durante la jornada.\n• Los actos de graduación se llevarán a cabo en varios campus y centros académicos del TEC.\n• Se programaron 9 actos de graduación, cada uno con horarios específicos en distintas fechas.\n• Además, los actos serán transmitidos virtualmente a través de los canales del TEC.",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebrará graduaciones ordinarias desde el 22 de setiembre hasta el 2 de octubre.\n• Un total de 535 personas recibirán títulos en diversas áreas académicas durante esta jornada.\n• Nueve actos programados en varios campus y centros académicos del TEC de Costa Rica.\n• Las graduaciones incluyen bachillerato, licenciatura, maestría y doctorado para los estudiantes.\n• Los eventos se transmitirán en vivo a través de canales virtuales y redes sociales del TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/jornada-graduaciones-ordinarias-2",
       "publish_date": "2026-09-03T21:23:57.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC celebrará graduaciones entre el 22 de setiembre y el 2 de octubre de 2026.",
+      "teaser": "Lo clave en 20 segundos: Graduaciones del TEC en Costa Rica del 22 de setiembre al 2 de octubre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-cartago_rcascante-1.jpg",
       "description": "Jornada de graduaciones ordinarias",
       "featured": false
@@ -91651,10 +91703,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-07T03:45:25.539Z",
-  "total": 7050,
-  "removed_soccer_news_count": 1178,
+  "generated_at": "2026-09-07T04:45:25.941Z",
+  "total": 7054,
+  "removed_soccer_news_count": 1179,
   "removed_soccer_news_titles": [
+    "Tabla de posiciones del Torneo de Apertura 2026: así marcha el fútbol de Costa Rica tras la jornada 7",
     "Costa Rica vs. Colombia: ¿A qué hora y cómo ver este partido en el Mundial Sub-20 de Polonia?",
     "Amarini Villatoro: ‘Teníamos la obligación de ganar ante Puntarenas por la ventaja númerica’",
     "Vea el doblete de Geancarlo Castro para dibujarle una sonrisa al Cartaginés ante Puntarenas FC (video)",
@@ -91703,7 +91756,6 @@
     "Pumas y Keylor Navas sufren ante la nueva joya del fútbol mexicano: Gilberto Mora (video)",
     "Costa Rica vuelve a una de las grandes ligas del fútbol, pero Jeyland Mitchell comete penal en su debut (video)",
     "Un gol tempranero y otro al final colocan a Sporting como sublíder",
-    "Marquinhos salva un punto para el PSG en el último suspiro",
-    "Alejandro Bran sonríe de oreja a oreja en el fútbol de Rumanía"
+    "Marquinhos salva un punto para el PSG en el último suspiro"
   ]
 }
