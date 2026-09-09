@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "seguidilla-de-homicidios-en-nicoya-estaria-relacionada-con-disputas-narco",
+      "title": "Seguidilla de homicidios en Nicoya estaría relacionada con disputas narco",
+      "category": "Costa Rica",
+      "bullets_20s": "• El número de homicidios en Nicoya ha aumentado en las últimas semanas, se habla de disputas territoriales.\n• Las autoridades apuntan a que los asesinatos están vinculados con el narcotráfico en la región.\n• Expertos en seguridad advierten que esta violencia puede extenderse a otras zonas del país.\n• La caída de un líder de narcotraficantes ha provocado desestabilización en grupos delictivos locales.\n• La comunidad ha expresado su temor ante el recrudecimiento de la violencia en la región.",
+      "source_name": "Natalia Vargas",
+      "source_url": "https://www.nacion.com/sucesos/seguidilla-de-homicidios-en-nicoya-estaria/B65S444YRZBDVBO3EMGIK66GW4/story/",
+      "publish_date": "2026-09-09T00:28:05.000Z",
+      "teaser": "Lo clave en 20 segundos: Homicidios en Nicoya están conectados a disputas narco por rivalidades entre organizaciones.",
+      "image_url": "https://www.nacion.com/resizer/v2/24IHQCNTBVBDFD6UX3RB4Y6YL4.png?auth=094420b1859ea2390fb58cdb52074215bd8cf281d4ea8b42f348cc6826c5a40d&smart=true&width=638&height=337",
+      "description": "Una seguidilla de homicidios en Nicoya estaría relacionada con disputas entre organizaciones dedicadas al narcotráfico en la zona, en apariencia, exacerbadas tras la caída del cabecilla Alejandro Arias Monge, alias Diablo.",
+      "featured": false
+    },
+    {
+      "slug": "sali-a-buscar-las-camaras-de-vigilancia-de-mi-barrio-en-nueva-york-y-encontre-muchas-mas-de-las-que-esperaba",
+      "title": "Salí a buscar las cámaras de vigilancia de mi barrio en Nueva York y encontré muchas más de las que esperaba",
+      "category": "Mundo",
+      "bullets_20s": "• Las cámaras de vigilancia están en aumento en diversas ciudades del mundo y generan interés.\n• El uso de estas cámaras plantea cuestiones sobre la privacidad de los ciudadanos.\n• La tecnología de vigilancia se ha vuelto más accesible para diferentes sectores de la sociedad.\n• Debates éticos surgen en torno a la eficacia de las cámaras frente al control de la seguridad.\n• Las leyes sobre el uso de cámaras pasan por un momento de revisión en múltiples países.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/ce30vl704wqo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-09-08T23:33:25.000Z",
+      "teaser": "Lo clave en 20 segundos: El debate entre privacidad y seguridad en la era de las cámaras de vigilancia.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/321c/live/8d270270-a7b1-11f1-a291-b542ee92de7c.jpg",
+      "description": "Las cámaras de vigilancia se extienden no solo por EE.UU., sino por todo el mundo. El debate sobre su uso se centra, una vez más, en la dicotomía entre privacidad y seguridad.",
+      "featured": false
+    },
+    {
       "slug": "joel-campbell-da-un-golpe-sobre-la-mesa-con-actuacion-de-10-puntos",
       "title": "Joel Campbell da un golpe sobre la mesa con actuación de 10 puntos",
       "category": "Costa Rica",
@@ -17,11 +43,11 @@
       "slug": "ultimos-dias-para-inscribirse-en-el-reto-itec-2026",
       "title": "¡Últimos días para inscribirse en el Reto iTEC 2026!",
       "category": "Costa Rica",
-      "bullets_20s": "• Los estudiantes tienen hasta el 15 de septiembre para inscribirse en el Reto iTEC 2026.\n• Se busca fomentar la creatividad, innovación y trabajo en equipo entre los participantes.\n• Cualquier estudiante del TEC puede participar, sin necesidad de un equipo previo formado.\n• Los equipos se integran de manera interdisciplinaria para resolver retos reales.\n• El reto incluye etapas de comprensión, ideación, diseño de prototipos y presentación final.\n• Charla informativa programada para el 25 de septiembre acerca del reto y sus requisitos.\n• Los participantes tendrán la oportunidad de generar impacto social y ambiental con sus ideas.",
+      "bullets_20s": "• El Reto iTEC 2026 busca impulsar la creatividad y el trabajo en equipo entre estudiantes.\n• Las inscripciones están abiertas hasta el 15 de septiembre para todos los interesados.\n• Se formarán equipos interdisciplinarios para enfrentar desafíos reales en el evento.\n• La dinámica incluye etapas de comprensión, ideación y diseño de soluciones innovadoras.\n• No es necesario tener un equipo para inscribirse, se puede participar individualmente.\n• Se realizará una charla informativa sobre el reto el 25 de septiembre.\n• Los participantes podrán presentar sus ideas ante un jurado especializado en el evento.\n• El evento se llevará a cabo el 2 y 3 de octubre en el TEC.\n• Es una gran oportunidad para poner a prueba habilidades y resolver problemas.\n• Inscríbase antes del cierre de inscripciones para no perderse esta experiencia.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/ultimos-dias-inscribirse-reto-itec-2026",
       "publish_date": "2026-09-08T23:02:04.000Z",
-      "teaser": "Lo clave en 20 segundos: ¡Inscríbase al Reto iTEC 2026 antes del 15 de septiembre!",
+      "teaser": "Lo clave en 20 segundos: ¡Inscríbete al Reto iTEC 2026 antes del 15 de septiembre!",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/reto-itec.jpeg",
       "description": "¡Últimos días para inscribirse en el Reto iTEC 2026!",
       "featured": false
@@ -303,13 +329,13 @@
       "slug": "los-fronterizos-somos-de-eeuu-y-de-mexico-y-al-mismo-tiempo-hemos-tenido-el-poder-y-la-pasion-para-crear-nuestra-propia-",
       "title": "Los fronterizos somos de EE.UU. y de México y al mismo tiempo, hemos tenido el poder y la pasión para crear nuestra propia identidad",
       "category": "Mundo",
-      "bullets_20s": "• La obra de Rosa Ramírez Mazaheri toca temas de identidad y multiculturalidad en fronteras.\n• El libro mezcla español e inglés, reflejando la realidad de muchas comunidades fronterizas.\n• Se presenta como una reivindicación de la cultura y la historia de los fronterizos.\n• El uso del slang en el texto enriquece la narrativa y la hace más auténtica.\n• El enfoque del relato es sobre la superación y el poder de la diversidad cultural.",
+      "bullets_20s": "• La obra de Rosa Ramírez Mazaheri explora la identidad cultural en la frontera entre EE.UU. y México.\n• Se destaca la convivencia de diferentes idiomas y culturas en las comunidades fronterizas de América.\n• El libro plantea una reflexión sobre la identidad en un mundo de constantes cambios sociales.\n• Rosa Ramírez utiliza elementos del slang para enriquecer su narrativa y conexión cultural.\n• Esta obra se convierte en un símbolo de la resistencia cultural y el poder de creación conjunta.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c86nxy3258yo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-08T13:51:28.000Z",
-      "teaser": "Lo clave en 20 segundos: La obra desafía los límites de la lengua y celebra la identidad fronteriza.",
+      "teaser": "Lo clave en 20 segundos: Reflexión sobre identidad cultural en frontera entre EE.UU. y México.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/209c/live/7aee4ec0-9acc-11f1-ad7d-21d5090bbb0d.png",
-      "description": "En 'Material inflamable', Rosa Ramírez Mazaheri dinamita el relato de superación, construyendo una obra en la que conviven el español y el inglés como lo hacen en las comunidades fronterizas, sin que un idioma se imponga al otro, salpicada de slang y delirio, y que termina leyéndose como una reivindicación de la identidad.",
+      "description": "En \"Material inflamable\", Rosa Ramírez Mazaheri dinamita el relato de superación, construyendo una obra en la que conviven el español y el inglés como lo hacen en las comunidades fronterizas, sin que un idioma se imponga al otro, salpicada de slang y delirio, y que termina leyéndose como una reivindicación de la identidad.",
       "featured": false
     },
     {
@@ -498,11 +524,11 @@
       "slug": "pruebas-pisa-espana-obtiene-los-peores-resultados-educativos-de-su-historia-mientras-la-mayoria-de-los-paises-de-america",
       "title": "Pruebas PISA: España obtiene los peores resultados educativos de su historia mientras la mayoría de los países de América Latina sufre retrocesos",
       "category": "Mundo",
-      "bullets_20s": "• Las pruebas PISA evalúan el rendimiento educativo de jóvenes en diversos países del mundo.\n• España ha tenido un descenso abrupto en sus resultados educativos, marcando un histórico negativo.\n• América Latina también presenta retrocesos en educación, con una tendencia preocupante a lo largo de los años.\n• Más de 760.000 estudiantes participaron en la última edición de esta importante prueba educativa.\n• La evaluación de PISA se realiza cada tres años y abarca lectura, matemáticas y ciencias.",
+      "bullets_20s": "• Las pruebas PISA evalúan el rendimiento educativo de estudiantes a nivel internacional cada tres años.\n• España ha registrado sus peores resultados en esta edición de las pruebas según los analistas.\n• América Latina enfrenta retrocesos en educación que impactan el desarrollo de sus jóvenes ciudadanos.\n• La participación en PISA incluye a más de 760,000 estudiantes de 91 países y economías diferentes.\n• Resultados preocupantes destacan la necesidad urgente de reformas en sistemas educativos en la región.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c1kx8d94422o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-08T11:03:29.000Z",
-      "teaser": "Lo clave en 20 segundos: Los resultados de las pruebas PISA revelan preocupaciones educativas para España y América Latina.",
+      "teaser": "Lo clave en 20 segundos: España y América Latina reflejan alarmantes resultados en educación.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/29c9/live/a00dc470-ab56-11f1-b471-ff02eb3eac27.jpg",
       "description": "Más de 760.000 estudiantes realizaron la prueba en 91 países y economías, lo que representa a unos 33 millones de jóvenes de 15 años en todo el mundo.",
       "featured": false
@@ -888,11 +914,11 @@
       "slug": "pe-ci-07-prorroga-de-nombramiento-de-personas-en-plazas-del-consejo-institucional",
       "title": "PE-CI-07 Prórroga de nombramiento de personas en plazas del Consejo Institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• Se anuncia la prórroga de nombramientos en el Consejo Institucional de una universidad.\n• Esta decisión se enmarca dentro de los Manuales y Procedimientos de la institución.\n• La creación del documento se realizó en agosto del 2024 para mejorar procesos.\n• La última revisión del procedimiento se efectuó en agosto de 2026.\n• La Oficina de Planificación Institucional participa en la gestión de estos nombramientos.\n• Asegura la estabilidad dentro de las plazas del Consejo Institucional en la universidad.\n• Los nombramientos son fundamentales para el funcionamiento del Consejo.",
+      "bullets_20s": "• Se ha establecido una prórroga para los nombramientos en el Consejo Institucional.\n• La creación de este acuerdo data de agosto del año 2024 en la institución.\n• La última revisión del manual fue realizada en agosto de 2026, asegurando su vigencia.\n• La Oficina de Planificación Institucional ha jugado un papel clave en este proceso.\n• Es importante seguir los procedimientos establecidos para evitar confusiones.\n• Se espera que estas medidas optimicen el funcionamiento del Consejo Institucional.\n• Los cambios en los nombramientos se implementarán de manera efectiva y oportuna.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ci-07-prorroga-nombramiento-personas-plazas-consejo-institucional",
       "publish_date": "2026-09-07T17:10:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Se prorrogan nombramientos en el Consejo Institucional de una universidad.",
+      "teaser": "Lo clave en 20 segundos: Prórroga en nombramientos del Consejo Institucional, buscando optimización.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "evsolano",
       "featured": false
@@ -914,11 +940,11 @@
       "slug": "pe-ci-05-eleccion-de-personas-en-organos-y-comisiones-que-nombra-el-consejo-institucional",
       "title": "PE-CI-05 Elección de personas en órganos y comisiones que nombra el Consejo Institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• La elección de personas busca fortalecer la toma de decisiones en instituciones.\n• Este proceso es clave para la transparencia dentro del Consejo Institucional.\n• Se revisan manuales y procedimientos necesarios para la elección.\n• La Oficina de Planificación Institucional supervisa el proceso electoral.\n• La última modificación fue realizada en agosto de 2026.",
+      "bullets_20s": "• Se realiza la elección de representantes en órganos del Consejo Institucional de la Universidad.\n• La elección afecta la conformación de comisiones importantes para la Universidad.\n• Se busca promover la participación activa de la comunidad educativa en decisiones.\n• El Consejo Institucional tiene competencias en la estructura organizativa de la Universidad.\n• Los procedimientos siguen un manual creado en agosto de 2024 para garantizar la transparencia.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ci-05-eleccion-personas-organos-comisiones-nombra-consejo-institucional",
       "publish_date": "2026-09-07T17:08:10.000Z",
-      "teaser": "Lo clave en 20 segundos: Importante elección de personas en el Consejo Institucional.",
+      "teaser": "Lo clave en 20 segundos: Elección de representantes para el Consejo Institucional de la Universidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "evsolano",
       "featured": false
@@ -2695,11 +2721,11 @@
       "slug": "air-avanza-en-la-modernizacion-del-estatuto-organico-en-sesion-marcada-por-55-aniversario-del-tec",
       "title": "AIR avanza en la modernización del Estatuto Orgánico en sesión marcada por 55 aniversario del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• La Asamblea Institucional Representativa del TEC discutió reformas al Estatuto Orgánico en una sesión extraordinaria.\n• Se presentaron tres propuestas que buscan modernizar el Estatuto, promoviendo la inclusión y transparencia.\n• La sesión se llevó a cabo telepresencialmente, destacando el uso de tecnología para la participación.\n• Celebraron 55 años del Tecnológico de Costa Rica, resaltando logros en educación superior y posicionamiento internacional.\n• Las propuestas fueron votadas y aprobadas con amplia mayoría, reflejando un fuerte apoyo institucional.",
+      "bullets_20s": "• La Asamblea Institucional Representativa del TEC discute la modernización del Estatuto Orgánico actual.\n• Se presentaron y votaron tres propuestas relevantes sobre reforma del estatuto institucional.\n• Se destacó la importancia del lenguaje inclusivo en documentos institucionales y académicos.\n• Se realizó un análisis sobre los mecanismos de quejas y recursos ante el Tribunal Electoral.\n• El TEC celebra su 55 aniversario con una sesión especial y abierta al público.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/air-avanza-modernizacion-estatuto-organico-sesion-marcada-55-aniversario-tec",
       "publish_date": "2026-09-04T19:50:11.000Z",
-      "teaser": "Lo clave en 20 segundos: La AIR del TEC avanza en la modernización de su Estatuto con reformas significativas.",
+      "teaser": "Lo clave en 20 segundos: AIR discute reformas al Estatuto Orgánico en el 55 aniversario del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/air-4-setiembre-1.jpg",
       "description": "AIR avanza en la modernización del Estatuto Orgánico en sesión marcada por 55 aniversario del TEC",
       "featured": false
@@ -3280,13 +3306,13 @@
       "slug": "conmemoracion-del-30-aniversario-de-la-carrera-de-ensenanza-de-la-matematica-con-entornos-tecnologicos",
       "title": "Conmemoración del 30° Aniversario de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos",
       "category": "Costa Rica",
-      "bullets_20s": "• La celebración del 30° aniversario resalta la importancia de la educación matemática en el país.\n• Diversas actividades se llevarán a cabo del 14 al 18 de setiembre en el TEC.\n• El evento oficial será el 17 de setiembre en el Auditorio D3, Campus Central del TEC.\n• Reconocimientos se darán a excoordinadores y personal jubilado durante la ceremonia.\n• Charlas y conferencias abordarán temas de metodología y herramientas en enseñanza matemática.",
+      "bullets_20s": "• La Escuela de Matemática del TEC celebra 30 años de su carrera en Enseñanza de la Matemática.\n• El evento conmemorativo se llevará a cabo el 17 de setiembre en el auditorio D3 del TEC.\n• Diversas actividades permitirán reflexionar sobre la evolución de la carrera en tres décadas.\n• Se realizarán charlas y presentaciones sobre temas relacionados con la enseñanza de la matemática.\n• El acto tiene como objetivo homenajear a quienes han formado parte del legado de la carrera.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/conmemoracion-30deg-aniversario-carrera-ensenanza-matematica-entornos-tecnologicos",
       "publish_date": "2026-09-03T22:33:22.000Z",
-      "teaser": "Lo clave en 20 segundos: Conmemoración del 30° aniversario de una carrera clave en la educación matemática.",
+      "teaser": "Lo clave en 20 segundos: Celebramos 30 años de enseñanza de la matemática en el TEC con un grandioso evento.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/libros-matematica-eveprim_tec_rgarita_02.png",
-      "description": "Conmemoración del 30° Aniversario de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos",
+      "description": "Conmemoración del 30° Aniversario de la carrera de Enseñanza de la Matemática con Entornos Tecnológicos.",
       "featured": false
     },
     {
@@ -92990,10 +93016,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-08T23:45:25.506Z",
-  "total": 7153,
-  "removed_soccer_news_count": 1195,
+  "generated_at": "2026-09-09T00:45:24.941Z",
+  "total": 7155,
+  "removed_soccer_news_count": 1196,
   "removed_soccer_news_titles": [
+    "Periodistas de ESPN se atreven a decir lo que pasa hoy con varios clubes en Centroamérica",
     "El Real Madrid y Haaland dan lustre al estreno de la Champions League",
     "La Selección de Costa Rica en cuenta regresiva: faltan 114 días para un cambio total",
     "¿Estaría Jeaustin Campos dispuesto a  ‘apagar un incendio’ para volver a los banquillos en Costa Rica?",
@@ -93042,7 +93069,6 @@
     "Kevin Briceño: ‘He tenido mis errores, pero han sido más los aciertos en 15 años de carrera’",
     "¿Recuerda a Josué Abarca? El exmundialista de Costa Rica que se retiró a los 23 años ahora irá a otro Mundial (y no es en fútbol)",
     "Asamblea de la Fedefútbol deja ver confrontación a un año de la elección del Comité Ejecutivo",
-    "El Arsenal gana con lo mínimo ante un Aston Villa hundido en la Premier League",
-    "Yamal y Raphinha hacen líder al Barcelona en la Liga Española"
+    "El Arsenal gana con lo mínimo ante un Aston Villa hundido en la Premier League"
   ]
 }
