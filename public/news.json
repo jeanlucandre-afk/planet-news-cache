@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "sala-constitucional-rechaza-recurso-de-amparo-de-diablo-y-tan-por-restricciones-en-carcel-de-alta-contencion",
+      "title": "Sala Constitucional rechaza recurso de amparo de Diablo y Tan por restricciones en cárcel de alta contención",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Sala Constitucional rechazó un recurso de amparo presentado por dos reclusos.\n• El caso involucra restricciones en el Centro Nacional de Atención Específica.\n• Los reclusos alegaron condiciones inadecuadas en la cárcel de máxima seguridad.\n• Los magistrados evaluaron la legalidad de las restricciones impuestas.\n• Decisión del tribunal se fundamentó en consideraciones de seguridad nacional.",
+      "source_name": "Vanessa Loaiza N.",
+      "source_url": "https://www.nacion.com/sucesos/narcotrafico/sala-constitucional-rechaza-recurso-de-amparo-de/A6CDOSKOGNEY3KSK7WEUXFEHG4/story/",
+      "publish_date": "2026-09-09T18:22:30.000Z",
+      "teaser": "Lo clave en 20 segundos: La Sala Constitucional desestimó un amparo de reclusos por restricciones en prisión.",
+      "image_url": "https://www.nacion.com/resizer/v2/KCC6Y34ENJELLEIUF4XLXBIBKY.png?auth=5b8a5292aaf2ea8ac4af76b5e126798473762db9c173dab1d0570c878639a595&smart=true&width=1876&height=1047",
+      "description": "Alejandro Arias Monge y Jonathan Pérez Méndez, alias Tan, acudieron a la Sala IV para denunciar supuestas restricciones en el Centro Nacional de Atención Específica, mejor conocido como Máxima Seguridad de La Reforma. Esto resolvieron los magistrados.",
+      "featured": false
+    },
+    {
+      "slug": "segundo-sospechoso-de-asesinar-a-ingeniero-en-cartago-ira-a-prision-preventiva-por-seis-meses",
+      "title": "Segundo sospechoso de asesinar a ingeniero en Cartago irá a prisión preventiva por seis meses",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un segundo sospechoso fue detenido en relación al asesinato de un ingeniero en Cartago.\n• La prisión preventiva es una medida de seguridad que se aplicará por seis meses.\n• El crimen ha generado conmoción y debate en la comunidad de Guadalupe.\n• Las circunstancias del homicidio aún están bajo investigación por las autoridades.\n• Familiares de la víctima piden justicia y esclarecimiento de los hechos.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/sucesos/segundo-sospechoso-de-asesinar-a-ingeniero-en/4KSPM2G5VFH65MEJXWJ4EQWSKE/story/",
+      "publish_date": "2026-09-09T18:19:05.000Z",
+      "teaser": "Lo clave en 20 segundos: segundo sospechoso en prisión por asesinato de ingeniero en Cartago.",
+      "image_url": "https://www.nacion.com/resizer/v2/EIHQDUVRR5GU3EQJQXSP6P5QQ4.jpeg?auth=7fc748a2ca7ddef635172fae0523155de4ac1142ccdbbc1bd3aa2e32718be4e9&smart=true&width=900&height=1600",
+      "description": "Un hombre de apellido Barquero cumplirá seis meses de prisión preventiva por el homicidio del ingeniero Mauricio Alvarado en Guadalupe de Cartago.",
+      "featured": false
+    },
+    {
+      "slug": "taxistas-y-choferes-de-turismo-protestan-contra-ingreso-de-conductores-de-plataformas-digitales-en-aeropuertos",
+      "title": "Taxistas y choferes de turismo protestan contra ingreso de conductores de plataformas digitales en aeropuertos",
+      "category": "Costa Rica",
+      "bullets_20s": "• Taxistas turísticos organizan protestas en defensa de su trabajo y derechos en Costa Rica.\n• Demandan acciones del gobierno para proteger su sector y garantizar igualdad de condiciones.\n• Las plataformas digitales de transporte generan controversia entre los conductores de taxi.\n• Protestas incluyen caminos alternos, que afectan la movilidad en San José.\n• Los taxistas solicitan una mesa de diálogo con autoridades para discutir sus preocupaciones.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/el-pais/taxistas-y-choferes-de-turismo-protestan-contra/P6C64R5MAZFI5LBTWKEZ4AXU54/story/",
+      "publish_date": "2026-09-09T17:46:42.000Z",
+      "teaser": "Lo clave en 20 segundos: Taxistas protestan contra plataformas digitales en aeropuertos de Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/ERZNI6U2R5CWHGA64UELTJY4PQ.jpeg?auth=9682b67b9fbf37bec3f00f51ef1cb0eeca165465f033fb64732319a622b3cbf5&smart=true&width=3326&height=2254",
+      "description": "Taxistas turísticos protestan en Casa Presidencial contra apertura de los aeropuertos a plataformas digitales, piden mesa de diálogo y mantener base especial. Tome vías alternas.",
+      "featured": false
+    },
+    {
       "slug": "sergio-capon-de-camara-de-industrias-la-fuerza-laboral-femenina-se-ha-retirado-la-ocupacion-de-mujeres-es-mas-baja",
       "title": "Sergio Capón de Cámara de Industrias: ‘La fuerza laboral femenina se ha retirado; la ocupación de mujeres es más baja’",
       "category": "Costa Rica",
@@ -14,14 +53,27 @@
       "featured": false
     },
     {
+      "slug": "openai-asegura-haber-resuelto-en-88-horas-un-problema-matematico-sin-respuesta-durante-90-anos-y-las-acusaciones-plagio-",
+      "title": "OpenAI asegura haber resuelto en 88 horas un problema matemático sin respuesta durante 90 años (y las acusaciones plagio en su contra)",
+      "category": "Mundo",
+      "bullets_20s": "• OpenAI afirma haber solucionado un problema matemático que ha sido un misterio por décadas.\n• El problema está relacionado con las ecuaciones de Navier-Stokes en matemáticas aplicadas.\n• La comunidad científica reacciona con escepticismo ante los resultados de OpenAI.\n• Acusaciones de plagio comenzaron a surgir en torno a este anuncio impactante.\n• Este avance podría tener implicaciones en la comprensión de fluidos y dinámicas complejas.\n• Se espera un debate académico sobre la validez de la solución presentada.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c39md3dd34lo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-09-09T17:23:10.000Z",
+      "teaser": "Lo clave en 20 segundos: OpenAI resuelve un problema matemático de 90 años, pero surgen controversias.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b5b7/live/6a591f20-ac76-11f1-80f0-9795d1a5edbc.jpg",
+      "description": "La afirmación de OpenAI de que había resuelto partes de las ecuaciones de Navier-Stokes ha generado controversia rápidamente.",
+      "featured": false
+    },
+    {
       "slug": "editorial-tecnologica-del-tec-se-suma-a-la-fiesta-de-la-lectura-costa-rica-2026",
       "title": "Editorial Tecnológica del TEC se suma a la Fiesta de la Lectura Costa Rica 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Fiesta de la Lectura busca promover la literatura y fortalecer la economía del sector editorial.\n• El evento se realizará del 11 al 13 de septiembre de 2026 en la Antigua Aduana de San José.\n• Se reunirán más de 120 editoriales comerciales y 50 escritores independientes durante el evento.\n• La entrada a la Fiesta de la Lectura será gratuita y abierta a todo el público interesado.\n• El ilustrador Eduardo 'Edo' Brenes será el homenajeado en esta quinta edición del evento.",
+      "bullets_20s": "• La Fiesta de la Lectura se llevará a cabo en la Antigua Aduana, San José.\n• Más de 120 editoriales y 50 escritores independientes participarán en el evento.\n• Se ofrecerán charlas, talleres y presentaciones sobre literatura y publicación.\n• El evento es gratuito y busca fortalecer la economía del sector editorial.\n• El ilustrador Eduardo 'Edo' Brenes está dedicado en esta edición de la fiesta.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/editorial-tecnologica-tec-se-suma-fiesta-lectura-costa-rica-2026",
       "publish_date": "2026-09-09T17:19:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Fiesta de la Lectura 2026 en San José, con el TEC participando en actividades literarias.",
+      "teaser": "Lo clave en 20 segundos: El TEC promueve la lectura en la Fiesta de la Lectura 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/fiesta-d-ela-lecrura-2026.jpeg",
       "description": "Editorial Tecnológica del TEC se suma a la Fiesta de la Lectura Costa Rica 2026",
       "featured": false
@@ -53,14 +105,27 @@
       "featured": false
     },
     {
+      "slug": "ninas-supercientificas-siembran-arboles-y-comparten-con-la-embajadora-de-italia",
+      "title": "Niñas Supercientíficas siembran árboles y comparten con la Embajadora de Italia",
+      "category": "Costa Rica",
+      "bullets_20s": "• Actividades de las Niñas Supercientíficas promueven la educación ambiental y el trabajo en equipo.\n• Las participantes sembraron árboles nativos, fomentando la reforestación en Costa Rica.\n• El encuentro con la embajadora de Italia fue un espacio de intercambio cultural y educativo.\n• Las niñas disfrutaron corretear y socializar durante la jornada en el TEC.\n• Este evento es parte de las iniciativas del CONARE en el año de la niñez y la infancia.",
+      "source_name": "igrajales",
+      "source_url": "http://www.tec.ac.cr/ninas-supercientificas-siembran-arboles-comparten-embajadora-italia",
+      "publish_date": "2026-09-09T16:17:46.000Z",
+      "teaser": "Lo clave en 20 segundos: Niñas Supercientíficas plantan árboles y comparten experiencias con la Embajadora de Italia.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/ninas-supercientificas.jpeg",
+      "description": "Niñas Supercientíficas siembran árboles y comparten con la Embajadora de Italia",
+      "featured": false
+    },
+    {
       "slug": "25-anos-del-11-s-la-agonia-de-los-familiares-de-las-victimas-de-los-peores-atentados-de-la-historia-de-eeuu",
       "title": "25 años del 11-S: la agonía de los familiares de las víctimas de los peores atentados de la historia de EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• El 11 de septiembre marcará su 25 aniversario, recordando la trágica historia de aquel día en EE.UU.\n• Familiares de las víctimas siguen buscando justicia por los ataques terroristas que dejaron huella profunda.\n• A pesar del tiempo, el dolor y la angustia continúan presentes entre quienes perdieron seres queridos.\n• Las ceremonias conmemorativas están programadas, buscando honrar la memoria de las víctimas fallecidas.\n• La incertidumbre persiste sobre la justicia y su alcance, con un autor intelectual aún no juzgado.",
+      "bullets_20s": "• El 11 de septiembre de 2001 marcó un hito en la historia de EE.UU. y del mundo.\n• Las familias de las víctimas siguen en la lucha por justicia y reconocimiento.\n• A 25 años, la memoria de los atentados sigue viva en la sociedad estadounidense.\n• Los eventos derivados del 11-S cambiaron las políticas de seguridad globalmente.\n• El juicio del presunto autor intelectual aún no ha ocurrido, generando frustración.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c1mvpng28epo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-09T15:33:32.000Z",
-      "teaser": "Lo clave en 20 segundos: El 11-S sigue marcando a los familiares de las víctimas tras 25 años de dolor y búsqueda de justicia.",
+      "teaser": "Lo clave en 20 segundos: la lucha continua de las familias de las víctimas del 11-S.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/4e30/live/c326db60-ab90-11f1-aed2-8d6da8d75094.jpg",
       "description": "A medida que se acerca el 25 aniversario de los ataques del 11 de septiembre de 2001, continúa la espera para que el presunto autor intelectual de los atentados sea llevado ante la justicia.",
       "featured": false
@@ -69,11 +134,11 @@
       "slug": "ciclo-de-exposiciones-pensar-diferente-creatividad-cultura-y-vida-universitaria",
       "title": "Ciclo de Exposiciones \"Pensar Diferente: Creatividad, Cultura Y Vida Universitaria\"",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Ciencias del Lenguaje organiza este ciclo del 7 al 11 de setiembre en varias sedes.\n• Expertos y académicos abordarán temas desde política hasta tecnología y expresiones artísticas.\n• La actividad incluye charlas en campus físicos y virtuales para una mayor participación estudiantil.\n• Entre los temas destacan educación, comunicación y la relación entre arte y sociedad actual.\n• El foro y la obra de teatro son parte de la oferta cultural y educativa de este ciclo.",
+      "bullets_20s": "• El Ciclo de Exposiciones busca fomentar un espacio de reflexión y creatividad en la universidad.\n• Profesionales y académicos compartirán sus conocimientos en diversos temas de interés actual.\n• Las exposiciones abarcan desde la comunicación política hasta la tecnología y el arte.\n• Se realizan actividades tanto presenciales como virtuales para mayor accesibilidad.\n• El evento se desarrolla en diferentes sedes, incluyendo Cartago y San José.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/ciclo-exposiciones-pensar-diferente-creatividad-cultura-vida-universitaria",
       "publish_date": "2026-09-09T15:24:59.000Z",
-      "teaser": "Lo clave en 20 segundos: Ciclo de exposiciones sobre creatividad y cultura universitaria desde el 7 de septiembre.",
+      "teaser": "Lo clave en 20 segundos: Ciclo de exposiciones fomenta la creatividad y el análisis cultural en la universidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/portada_1_0.png",
       "description": "Ciclo de Exposiciones \"Pensar Diferente: Creatividad, Cultura Y Vida Universitaria\"",
       "featured": false
@@ -277,11 +342,11 @@
       "slug": "como-scarlett-y-fabiana-lograron-celebrar-el-primer-matrimonio-homosexual-en-bolivia-un-pais-donde-no-esta-legalizado",
       "title": "Cómo Scarlett y Fabiana lograron celebrar el primer matrimonio homosexual en Bolivia, un país donde no está legalizado",
       "category": "Mundo",
-      "bullets_20s": "• Scarlett y Fabiana enfrentaron desafíos legales y sociales durante su camino hacia el matrimonio en Bolivia.\n• La historia resalta la lucha por los derechos LGBTQ+ en un país donde la legalidad aún no se alcanza.\n• El proceso de cuatro años involucró asesoría legal y apoyo de organizaciones de derechos humanos.\n• A pesar de la falta de legalización, lograron celebrar su amor con una ceremonia significativa.\n• Su historia inspira a otros a continuar la lucha por la igualdad y los derechos civiles.",
+      "bullets_20s": "• Scarlett y Fabiana enfrentaron diversas adversidades para realizar su celebración de amor.\n• El matrimonio entre personas del mismo sexo sigue siendo un tema controversial en muchos países.\n• El proceso legal fue largo y lleno de obstáculos, que duró aproximadamente cuatro años.\n• Activistas siguen luchando por el reconocimiento legal del matrimonio igualitario en Bolivia.\n• Historias como la de Scarlett y Fabiana inspiran a otras parejas a no rendirse en sus sueños.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ckgwdekl698o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-09T11:06:38.000Z",
-      "teaser": "Lo clave en 20 segundos: Scarlett y Fabiana celebran su matrimonio en Bolivia, a pesar de la prohibición legal.",
+      "teaser": "Lo clave en 20 segundos: Scarlett y Fabiana celebran un matrimonio histórico en Bolivia a pesar de la prohibición.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3ff6/live/86e0a980-aabc-11f1-b960-379ca4827622.jpg",
       "description": "Tardaron 4 años en poder casarse, aunque el matrimonio entre personas del mismo sexo no ha sido legalizado en Bolivia.",
       "featured": false
@@ -329,11 +394,11 @@
       "slug": "4-ejercicios-que-ayudan-a-fortalecer-las-munecas-una-de-las-articulaciones-mas-afectadas-por-la-vida-moderna",
       "title": "4 ejercicios que ayudan a fortalecer las muñecas, una de las articulaciones más afectadas por la vida moderna",
       "category": "Ciencia",
-      "bullets_20s": "• Las muñecas son esenciales para actividades cotidianas y se ven afectadas por el uso excesivo.\n• La falta de movilidad en las muñecas puede impactar significativamente la calidad de vida diaria.\n• Realizar ejercicios específicos puede ayudar a prevenir lesiones y mejorar la funcionalidad.\n• Los estiramientos y fortalecimientos son vitales para mantener la salud de las articulaciones.\n• Incorporar rutinas de cuidado de muñecas puede ser beneficioso para quienes trabajan con computadoras.",
+      "bullets_20s": "• Las muñecas son fundamentales en diversas actividades cotidianas de la vida moderna.\n• Ejercicios específicos pueden ayudar a mejorar la fuerza y flexibilidad de las muñecas.\n• Una buena salud en las muñecas contribuye a prevenir lesiones frecuentes.\n• La ergonomía en el trabajo y en casa puede evitar el desgaste articular.\n• Fortalecer las muñecas mejora el rendimiento en deportes y actividades manuales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cn8m1erdd5do?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-09T09:50:03.000Z",
-      "teaser": "Lo clave en 20 segundos: ejercicios para fortalecer muñecas y mejorar su función en la vida diaria.",
+      "teaser": "Lo clave en 20 segundos: Ejercicios para fortalecer muñecas, esenciales en la vida diaria.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0f10/live/cd6917e0-aae7-11f1-99dd-5152b950d9db.jpg",
       "description": "Desde teclear hasta sostener una taza de café, unas muñecas funcionales son esenciales para la vida cotidiana.",
       "featured": false
@@ -524,11 +589,11 @@
       "slug": "ultimos-dias-para-inscribirse-en-el-reto-itec-2026",
       "title": "¡Últimos días para inscribirse en el Reto iTEC 2026!",
       "category": "Costa Rica",
-      "bullets_20s": "• El Reto iTEC 2026 es una iniciativa del TEC que anima la creatividad y el trabajo en equipo.\n• Las inscripciones están abiertas hasta el 15 de septiembre, no pierdas la oportunidad.\n• Los equipos interdisciplinarios resolverán desafíos reales en esta emocionante competencia.\n• No es necesario tener un equipo, puedes inscribirte de manera individual y ser asignado.\n• Habrá charlas informativas el 25 de septiembre para los interesados en participar.",
+      "bullets_20s": "• El Reto iTEC 2026 busca fomentar la innovación y la creatividad entre estudiantes.\n• La fecha límite para inscribirse es el próximo 15 de septiembre de 2026.\n• Los participantes enfrentarán desafíos reales mediante metodologías de innovación.\n• Es posible inscribirse de forma individual, uniendo a personas en equipos interdisciplinarios.\n• Si tienes ideas creativas, esta es tu oportunidad para ponerlas a prueba.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/ultimos-dias-inscribirse-reto-itec-2026",
       "publish_date": "2026-09-08T23:02:04.000Z",
-      "teaser": "Lo clave en 20 segundos: últimos días para inscribirse en el Reto iTEC 2026, ¡no te lo pierdas!",
+      "teaser": "Lo clave en 20 segundos: ¡Inscríbete ya en el Reto iTEC 2026 antes del 15 de septiembre!",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/reto-itec.jpeg",
       "description": "¡Últimos días para inscribirse en el Reto iTEC 2026!",
       "featured": false
@@ -1408,11 +1473,11 @@
       "slug": "pe-ci-07-prorroga-de-nombramiento-de-personas-en-plazas-del-consejo-institucional",
       "title": "PE-CI-07 Prórroga de nombramiento de personas en plazas del Consejo Institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• Se busca prorrogar el nombramiento de personas en el Consejo Institucional del TEC.\n• La creación del manual se realizó en agosto del 2024 para mejorar procesos.\n• Última revisión del documento se hizo en agosto del 2026 por la OPI.\n• Este procedimiento es importante para mantener la continuidad administrativa.\n• La rectoría ha estado muy activa en la modificación de este manual.",
+      "bullets_20s": "• La prórroga de nombramiento se aplica a plazas del Consejo Institucional.\n• La creación de este manual se inscribe en agosto de 2024.\n• La última revisión del documento fue realizada en agosto de 2026.\n• La Oficina de Planificación Institucional es la responsable de este proceso.\n• Se espera una eficacia en la administración de los nombramientos.",
       "source_name": "evsolano",
       "source_url": "http://www.tec.ac.cr/pe-ci-07-prorroga-nombramiento-personas-plazas-consejo-institucional",
       "publish_date": "2026-09-07T17:10:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Se prorrogan nombramientos en el Consejo Institucional del TEC.",
+      "teaser": "Lo clave en 20 segundos: Prórroga de nombramiento de personas en el Consejo Institucional de Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "evsolano",
       "featured": false
@@ -93510,10 +93575,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-09T17:45:28.149Z",
-  "total": 7193,
-  "removed_soccer_news_count": 1198,
+  "generated_at": "2026-09-09T18:45:26.196Z",
+  "total": 7198,
+  "removed_soccer_news_count": 1199,
   "removed_soccer_news_titles": [
+    "El acuerdo del fútbol español para congelar óvulos abre un debate en el deporte femenino",
     "Vuelve la regla en desuso en casi todo el mundo que Concacaf adora y aplica en la Copa Centroamericana",
     "Hazaña de Puntarenas inspira a equipo salvadoreño en la Copa Centroamericana",
     "Periodistas de ESPN se atreven a decir lo que pasa hoy con varios clubes en Centroamérica",
@@ -93562,7 +93628,6 @@
     "Naomi Mondragón, esposa de Joaquín Alonso Hernández, también destaca con su talento en el fútbol",
     "¿Qué molesta a Leonardo Vargas, presidente del Cartaginés, en la Fedefútbol? ‘La Nación’ se adentró en el Comité Ejecutivo",
     "El argentino Enzo Fernández firma con el Manchester City hasta 2031",
-    "Kevin Briceño: ‘He tenido mis errores, pero han sido más los aciertos en 15 años de carrera’",
-    "¿Recuerda a Josué Abarca? El exmundialista de Costa Rica que se retiró a los 23 años ahora irá a otro Mundial (y no es en fútbol)"
+    "Kevin Briceño: ‘He tenido mis errores, pero han sido más los aciertos en 15 años de carrera’"
   ]
 }
