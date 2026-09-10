@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "las-nuevas-reglas-para-conseguir-trabajo-el-curriculum-ya-no-cuenta-toda-la-historia",
+      "title": "Las nuevas reglas para conseguir trabajo: el currículum ya no cuenta toda la historia",
+      "category": "Mundo",
+      "bullets_20s": "• Las empresas buscan habilidades prácticas y no solo títulos académicos en los postulantes.\n• El enfoque está cambiando hacia la capacidad de demostrar conocimientos específicos.\n• Las entrevistas se centran más en las pruebas de habilidades que en el currículum.\n• Los candidatos deben estar listos para mostrar ejemplos de su trabajo anterior.\n• Adaptarse a las nuevas demandas del mercado laboral es clave para conseguir empleo.",
+      "source_name": "Didier Fernández",
+      "source_url": "https://www.nacion.com/revista-perfil/las-nuevas-reglas-para-conseguir-trabajo-el/DSHNZPE7OVEAPBOWAO5CRJI4XM/story/",
+      "publish_date": "2026-09-10T16:26:06.000Z",
+      "teaser": "Lo clave en 20 segundos: Las empresas valoran habilidades prácticas sobre títulos académicos al contratar.",
+      "image_url": "https://www.nacion.com/resizer/v2/BAZFWUXF45CSZDPYSKK5KH4X4I.jpg?auth=024a685819c43f0ee4ed8a15bfd1f94b2d0e1aec55cf73982384d3fe7b23e2d6&smart=true&width=540&height=812",
+      "description": "Durante años, un título universitario, la experiencia acumulada y una buena hoja de vida fueron las principales cartas de presentación para buscar empleo. Hoy siguen teniendo valor, pero ya no cuentan toda la historia. Las empresas quieren saber algo más concreto: ¿qué sabe hacer una persona y cómo puede demostrarlo?",
+      "featured": false
+    },
+    {
+      "slug": "tras-el-drama-en-ormuz-otro-estrecho-en-el-mar-rojo-esta-en-peligro-estas-serian-las-consecuencias-para-el-petroleo-glob",
+      "title": "Tras el drama en Ormuz, otro estrecho en el mar Rojo está en peligro: Estas serían las consecuencias para el petróleo global",
+      "category": "Mundo",
+      "bullets_20s": "• Los ataques en el estrecho de Bab el Mandeb afectan seriamente el tránsito del petróleo global.\n• El transporte marítimo es vital para la economía mundial y cualquier interrupción impacta a todos.\n• Rebeldes hutíes han intensificado sus esfuerzos, lo que genera preocupación internacional.\n• La estabilidad política en la región del mar Rojo es crucial para el comercio global de petróleo.\n• Analistas advierten sobre posibles aumentos en los precios del petróleo debido a esta situación.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/tras-el-drama-en-ormuz-otro-estrecho-en-el-mar/L3DQNM6DRRDXVD4MEQZFKRFBZY/story/",
+      "publish_date": "2026-09-10T16:20:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Conflictos en el mar Rojo amenazan el flujo de petróleo mundial.",
+      "image_url": "",
+      "description": "Ataques de rebeldes hutíes en el estrecho de Bab el Mandeb ponen en peligro el transporte marítimo de petróleo. Descubra la dimensión del conflicto.",
+      "featured": false
+    },
+    {
       "slug": "un-nino-de-7-anos-muere-y-dos-adultos-resultan-heridos-tras-ser-atacados-a-balazos-dentro-de-vehiculo-en-pueblo-nuevo-de",
       "title": "Un niño de 7 años muere y dos adultos resultan heridos tras ser atacados a balazos dentro de vehículo en Pueblo Nuevo de Limón",
       "category": "Costa Rica",
@@ -11,6 +37,19 @@
       "teaser": "Lo clave en 20 segundos: Un niño muere tras ataque armado en Limón, dos adultos heridos.",
       "image_url": "https://www.nacion.com/resizer/v2/4PVNR3GF5NFARDCCIM5BFRMORU.jpeg?auth=317c469ae5996d32687a59b97c3c9cba58c9da4c2ca2745800c33fe442f574e1&smart=true&width=2400&height=1600",
       "description": "Un niño de 7 años falleció tras sufrir un ataque armado mientras viajaba en un vehículo por Pueblo Nuevo de Limón. Dos adultos resultaron heridos por disparos.",
+      "featured": false
+    },
+    {
+      "slug": "sobrevivi-al-11-s-porque-llegue-mas-tarde-a-trabajar-a-las-torres-gemelas-y-a-veces-me-siento-culpable",
+      "title": "Sobreviví al 11-S porque llegué más tarde a trabajar a las Torres Gemelas. Y a veces me siento culpable",
+      "category": "Mundo",
+      "bullets_20s": "• El 11-S fue un acontecimiento que cambió el curso de la historia en el mundo.\n• Las Torres Gemelas eran un símbolo importante de la cultura y la economía de Nueva York.\n• Llegar tarde salvó la vida de Hans, sin embargo, vive con una pesada carga emocional.\n• Los ataques del 11 de septiembre afectaron a miles de personas de diversas maneras.\n• La historia de Hans destaca la complejidad de los sentimientos de supervivencia y culpa.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cwyzqyzn7l3o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-09-10T14:56:09.000Z",
+      "teaser": "Lo clave en 20 segundos: Una historia de supervivencia y sentimientos de culpa tras el 11-S.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/be79/live/b1268870-ab72-11f1-9712-a14d469bace4.jpg",
+      "description": "Hans Gernot Schenk llevaba trabajando más de un año en las Torres Gemelas cuando se produjeron los atentados. Ese día llegó un poco más tarde a la oficina, y probablemente por eso se salvó. Pero los ataques marcaron su vida.",
       "featured": false
     },
     {
@@ -224,12 +263,12 @@
     {
       "slug": "la-ia-es-cada-vez-mas-dificil-de-dominar-podran-los-seres-humanos-mantener-el-control",
       "title": "La IA es cada vez más difícil de dominar: ¿podrán los seres humanos mantener el control?",
-      "category": "Ciencia",
-      "bullets_20s": "• La inteligencia artificial avanza rápidamente, generando desafíos para el control humano.\n• Los expertos advierten sobre un incremento en los incidentes de seguridad informática.\n• Las empresas tecnológicas enfrentan dilemas éticos sobre el desarrollo de IA.\n• Se discute cómo la regulación puede ayudar a controlar la tecnología emergente.\n• Analistas sugieren que la educación en IA es clave para prevenir problemas futuros.",
+      "category": "Mundo",
+      "bullets_20s": "• La inteligencia artificial avanza rápidamente, y los expertos se preocupan por su control.\n• Empresas de tecnología enfrentan un desafío en su gestión y regulación de la IA.\n• Los incidentes de ciberseguridad aumentan cada vez más con el uso de IA no regulada.\n• Hay un debate global sobre la ética y el futuro del desarrollo de la inteligencia artificial.\n• Los gobiernos están considerando nuevas legislaciones para regular el uso de la IA.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cd94yn9834zo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-10T10:42:03.000Z",
-      "teaser": "Lo clave en 20 segundos: ¿Será posible controlar a la IA mientras avanza sin precedentes?",
+      "teaser": "Lo clave en 20 segundos: La IA crea inquietudes sobre su control y la ciberseguridad a nivel global.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/fde0/live/cb057510-acfa-11f1-beae-535b95a24b3e.jpg",
       "description": "Los agentes de IA iniciaron una ola de pirateo informático sin control, lo que generó preocupación en algunos sectores de la industria.",
       "featured": false
@@ -238,11 +277,11 @@
       "slug": "la-batalla-silenciosa-por-la-salud-mental-en-uruguay-el-pais-con-la-tasa-de-suicidios-mas-alta-de-america-latina",
       "title": "La batalla silenciosa por la salud mental en Uruguay, el país con la tasa de suicidios más alta de América Latina",
       "category": "Mundo",
-      "bullets_20s": "• Uruguay enfrenta una crisis de salud mental que preocupa a la comunidad internacional.\n• Los especialistas mencionan la conectividad entre la depresión y los suicidios en jóvenes.\n• Factores socioeconómicos influyen en la situación de salud mental en el país.\n• Existen iniciativas comunitarias que buscan mejorar el bienestar emocional en Uruguay.\n• La educación sobre salud mental se vuelve fundamental para prevenir suicidios.\n• La estigmatización de problemas mentales sigue siendo un reto importante.\n• Las políticas públicas juegan un papel clave en el abordaje del suicidio.\n• La colaboración entre especialistas y gobiernos es vital para abordar esta crisis.",
+      "bullets_20s": "• La salud mental en Uruguay se ha vuelto un tema de preocupación creciente entre los especialistas y la población.\n• Factores sociales, económicos y culturales influyen en la alta tasa de suicidios del país sudamericano.\n• La falta de acceso a servicios de salud mental adecuados agrava la situación en Uruguay.\n• Iniciativas comunitarias buscan crear conciencia sobre la importancia del bienestar emocional en la sociedad.\n• Los jóvenes y adolescentes son particularmente vulnerables ante la crisis de salud mental en Uruguay.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c980ndj537eo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-10T10:15:43.000Z",
-      "teaser": "Lo clave en 20 segundos: Uruguay enfrenta una crisis de salud mental alarmante con altas tasas de suicidio.",
+      "teaser": "Lo clave en 20 segundos: La salud mental en Uruguay es un desafío con múltiples causas y requiere atención urgente.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/bae4/live/52227fc0-94ff-11f1-9181-85140b8ce01b.jpg",
       "description": "Aunque los especialistas advierten que se trata de una problemática compleja y multicausal, aquí destacamos cinco factores que pueden ayudar a entender qué ocurre en este país.",
       "featured": false
@@ -264,11 +303,11 @@
       "slug": "cree-de-la-nada-un-imperio-de-la-moda-que-me-hizo-multimillonaria-pero-crecio-tanto-que-acabe-en-la-bancarrota",
       "title": "Creé de la nada un imperio de la moda que me hizo multimillonaria, pero creció tanto que acabé en la bancarrota",
       "category": "Mundo",
-      "bullets_20s": "• La historia de Sophia Amoruso refleja el auge y la caída de su marca Nasty Gal.\n• Nasty Gal se inició como una pequeña tienda de ropa vintage en línea.\n• La popularidad de la marca llevó a una enorme valoración en el mercado.\n• Desafíos financieros llevaron a la bancarrota de la empresa en pocos años.\n• La historia destaca los riesgos inherentes al emprendimiento en moda.",
+      "bullets_20s": "• Sophia Amoruso comenzó su emprendimiento sin recursos ni experiencia previa en la industria de la moda.\n• El crecimiento explosivo de Nasty Gal la llevó a ser un referente en la moda en línea a nivel global.\n• A pesar del éxito inicial, la empresa enfrentó desafíos financieros que llevaron a su declive.\n• La historia de Amoruso resalta la volatilidad del negocio de la moda y la importancia de la gestión.\n• Su experiencia es un ejemplo de cómo incluso las ideas más prometedoras pueden fracasar.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx2z7krr2pgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-10T09:24:42.000Z",
-      "teaser": "Lo clave en 20 segundos: La caída de un imperio de moda que comenzó desde cero.",
+      "teaser": "Lo clave en 20 segundos: el ascenso y caída del imperio de la moda de Sophia Amoruso.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ff8f/live/95362cb0-ac76-11f1-80f0-9795d1a5edbc.jpg",
       "description": "Sophia Amoruso convirtió de la nada a Nasty Gal en una empresa valorada en cientos de millones, para verla pocos años después naufragando sin remedio.",
       "featured": false
@@ -446,11 +485,11 @@
       "slug": "charla-educacion-y-formacion-tecnica-profesional-tendencias-actuales-y-perspectivas-para-el-futuro",
       "title": "Charla: “Educación y Formación Técnica Profesional: Tendencias Actuales y Perspectivas para el Futuro",
       "category": "Costa Rica",
-      "bullets_20s": "• La charla es organizada por la Escuela de Educación Técnica del TEC en Costa Rica.\n• Destacará tendencias actuales en la formación técnica profesional en el país.\n• El Dr. Patrick McDonald, experto, expondrá sus conocimientos en el evento.\n• Se abordarán retos globales en el ámbito de la educación técnica y profesional.\n• La inscripción se puede completar a través de un formulario en línea.\n• Se espera la participación de docentes, estudiantes e investigadores interesados.\n• El evento se llevará a cabo en el auditorio del Centro de Investigación en Computación.\n• La charla busca generar un diálogo sobre el futuro de la educación técnica.\n• Los asistentes podrán interactuar y hacer preguntas a los expositores durante la actividad.",
+      "bullets_20s": "• La charla explora las tendencias en educación técnica y profesional en el mundo actual.\n• Dr. Patrick McDonald, experto de ETH Zurich, será el expositor principal del evento.\n• Se abordarán retos globales esenciales en el contexto de la formación profesional.\n• Los participantes podrán inscribirse previamente a través de un formulario en línea.\n• La actividad se desarrollará en el auditorio del Centro de Investigación en Computación.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/charla-educacion-formacion-tecnica-profesional-tendencias-actuales-perspectivas-futuro",
       "publish_date": "2026-09-09T21:58:33.000Z",
-      "teaser": "Lo clave en 20 segundos: Charla sobre educación técnica, tendencias y futuro el 10 de septiembre en Cartago.",
+      "teaser": "Lo clave en 20 segundos: charla sobre educación técnica y perspectivas futuras en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/d9715cca-cb27-4dd2-baa1-52264836a112.png",
       "description": "Charla: “Educación y Formación Técnica Profesional: Tendencias Actuales y Perspectivas para el Futuro",
       "featured": false
@@ -693,11 +732,11 @@
       "slug": "editorial-tecnologica-del-tec-se-suma-a-la-fiesta-de-la-lectura-costa-rica-2026",
       "title": "Editorial Tecnológica del TEC se suma a la Fiesta de la Lectura Costa Rica 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Fiesta de la Lectura 2026 se celebrará del 11 al 13 de septiembre en San José.\n• Más de 120 editoriales y 50 escritores independientes participarán en el evento literario.\n• Ofrecerán talleres, charlas y presentaciones de libros para todos los asistentes.\n• La entrada a la Fiesta de la Lectura será gratuita para el público general.\n• El evento rendirá homenaje al ilustrador costarricense Eduardo 'Edo' Brenes.",
+      "bullets_20s": "• La Fiesta de la Lectura se celebra del 11 al 13 de septiembre de 2026 en San José.\n• Más de 120 editoriales y 50 escritores participarán en este evento literario destacado.\n• Actividades incluyen charlas, talleres y presentaciones sobre libros y literatura.\n• La entrada al evento será gratuita y abierta para el público en general.\n• El profesor Eduardo 'Edo' Brenes es el ilustrador destacado en esta edición.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/editorial-tecnologica-tec-se-suma-fiesta-lectura-costa-rica-2026",
       "publish_date": "2026-09-09T17:19:15.000Z",
-      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica se une a la Fiesta de la Lectura 2026 en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La Editorial Tecnológica participa en la Fiesta de la Lectura 2026 en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/fiesta-d-ela-lecrura-2026.jpeg",
       "description": "Editorial Tecnológica del TEC se suma a la Fiesta de la Lectura Costa Rica 2026",
       "featured": false
@@ -732,11 +771,11 @@
       "slug": "ninas-supercientificas-siembran-arboles-y-comparten-con-la-embajadora-de-italia",
       "title": "Niñas Supercientíficas siembran árboles y comparten con la Embajadora de Italia",
       "category": "Costa Rica",
-      "bullets_20s": "• Niñas siembran árboles nativos en el Tecnológico de Costa Rica, impulsadas por CONARE.\n• La jornada promueve la educación ambiental y nuevos vínculos entre las participantes.\n• La embajadora de Italia compartió experiencias y respondió preguntas de las niñas.\n• La siembra fomenta el cuidado del medio ambiente y el amor por la naturaleza.\n• El año 2026 fue declarado año de la niñez y la infancia en Costa Rica.",
+      "bullets_20s": "• Las Niñas Supercientíficas sembraron árboles nativos en el Tecnológico de Costa Rica para reforestar.\n• La jornada promovió la educación ambiental y el trabajo en equipo entre las participantes.\n• Elena Sgarbi, embajadora de Italia, compartió conocimientos sobre diplomacia y cultura italiana.\n• Las niñas fomentaron nuevas amistades mientras aprendían sobre el cuidado del medio ambiente.\n• La actividad fue parte de la Red de Cultura Ambiental del Consejo Nacional de Rectores durante 2026.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/ninas-supercientificas-siembran-arboles-comparten-embajadora-italia",
       "publish_date": "2026-09-09T16:17:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Niñas siembran árboles en el TEC y comparten con la Embajadora de Italia.",
+      "teaser": "Lo clave en 20 segundos: Niñas siembran árboles y dialogan con la embajadora de Italia en un evento ambiental.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/ninas-supercientificas.jpeg",
       "description": "Niñas Supercientíficas siembran árboles y comparten con la Embajadora de Italia",
       "featured": false
@@ -756,15 +795,15 @@
     },
     {
       "slug": "ciclo-de-exposiciones-pensar-diferente-creatividad-cultura-y-vida-universitaria",
-      "title": "Ciclo de Exposiciones 'Pensar Diferente: Creatividad, Cultura Y Vida Universitaria'",
+      "title": "Ciclo de Exposiciones \"Pensar Diferente: Creatividad, Cultura Y Vida Universitaria\"",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Ciencias del Lenguaje organiza el ciclo del 7 al 11 de setiembre de 2026.\n• El evento tiene lugar en el Centro de las Artes en Cartago y otros campus.\n• Se ofrecerán exposiciones sobre literatura, tecnología, y análisis político.\n• Expertos en diferentes campos participarán en charlas y talleres virtuales.\n• La actividad incluye temáticas sobre género, arte y cultura costarricense.",
+      "bullets_20s": "• La Escuela de Ciencias del Lenguaje organiza el Ciclo de Exposiciones para el año 2026.\n• Se realiza del 7 al 11 de setiembre en varios campus de Costa Rica.\n• Gran variedad de temas desde literatura hasta tecnología y arte se abordan.\n• Charlas virtuales permitirán la participación de más personas en esta actividad.\n• Expertos y académicos compartirán sus conocimientos con el público asistente.\n• El evento promete un enfoque innovador sobre la creatividad y la cultura.\n• Incluye foros y talleres sobre temas actuales y relevantes en la sociedad.\n• Las exposiciones buscan fomentar el pensamiento crítico en la comunidad educativa.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/ciclo-exposiciones-pensar-diferente-creatividad-cultura-vida-universitaria",
       "publish_date": "2026-09-09T15:24:59.000Z",
-      "teaser": "Lo clave en 20 segundos: Un ciclo de exposiciones que abarca creatividad y cultura universitaria.",
+      "teaser": "Lo clave en 20 segundos: Un ciclo de exposiciones sobre creatividad y cultura universitaria en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/portada_1_0.png",
-      "description": "Ciclo de Exposiciones 'Pensar Diferente: Creatividad, Cultura Y Vida Universitaria'",
+      "description": "Ciclo de Exposiciones \"Pensar Diferente: Creatividad, Cultura Y Vida Universitaria\"",
       "featured": false
     },
     {
@@ -1213,11 +1252,11 @@
       "slug": "ultimos-dias-para-inscribirse-en-el-reto-itec-2026",
       "title": "¡Últimos días para inscribirse en el Reto iTEC 2026!",
       "category": "Costa Rica",
-      "bullets_20s": "• El Reto iTEC 2026 cierra inscripciones el 15 de septiembre para estudiantes del TEC.\n• Esta iniciativa promueve la creatividad y la innovación en equipos interdisciplinarios.\n• Los participantes trabajarán en desafíos reales con impacto social y económico.\n• No se requiere equipo previo; se permite la inscripción individual para integrar equipos.\n• Las fechas importantes incluyen charlas y el evento principal el 2 y 3 de octubre.",
+      "bullets_20s": "• El Reto iTEC 2026 invita a estudiantes a inscribirse hasta el 15 de septiembre.\n• La iniciativa busca fomentar la creatividad, innovación y trabajo en equipo entre estudiantes.\n• Equipos interdisciplinarios enfrentarán desafíos reales en diversas áreas temáticas.\n• No es necesario tener un equipo previo; inscripciones individuales son bienvenidas.\n• Las fechas importantes incluyen charlas informativas y el reto en octubre.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/ultimos-dias-inscribirse-reto-itec-2026",
       "publish_date": "2026-09-08T23:02:04.000Z",
-      "teaser": "Lo clave en 20 segundos: ¡Últimos días para inscribirse en el Reto iTEC 2026!",
+      "teaser": "Lo clave en 20 segundos: ¡Últimos días para unirse al Reto iTEC 2026, no se lo pierda!",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/reto-itec.jpeg",
       "description": "¡Últimos días para inscribirse en el Reto iTEC 2026!",
       "featured": false
@@ -94199,10 +94238,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-10T15:45:25.230Z",
-  "total": 7246,
-  "removed_soccer_news_count": 1203,
+  "generated_at": "2026-09-10T16:45:25.268Z",
+  "total": 7249,
+  "removed_soccer_news_count": 1204,
   "removed_soccer_news_titles": [
+    "Messi se convertirá en accionista mayoritario de un equipo español",
     "No hubo revancha del Super Bowl en el inicio de la NFL",
     "Estos son los nombres que baraja la Fedefútbol para dirigir el arbitraje",
     "Corea del Norte vs. Costa Rica: Hora y cómo ver el partido de la ‘Sele’ Sub-20 contra las campeonas del mundo",
@@ -94251,7 +94291,6 @@
     "Rónald González, director de Selecciones Nacionales: ‘No nos podemos quedar con el fracaso que tuvimos’",
     "Futbolistas pasados de peso y con alto porcentaje de grasa: esto dice Rónald González",
     "Hijo de reconocido técnico nacional sorprende con su aventura en el fútbol de Alemania",
-    "Jeaustin Campos deja claro lo que piensa de la Selección y sorprende al hablar de Hernán Medford",
-    "Condenan al futbolista del Real Madrid Raúl Asencio por conducir ebrio"
+    "Jeaustin Campos deja claro lo que piensa de la Selección y sorprende al hablar de Hernán Medford"
   ]
 }
