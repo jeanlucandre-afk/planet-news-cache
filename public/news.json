@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "proyecto-de-desarrollar-un-data-center-en-limon-cuan-avanzado-esta-y-quien-lo-impulsa",
+      "title": "Proyecto de desarrollar un ‘data center’ en Limón, ¿cuán avanzado está y quién lo impulsa?",
+      "category": "Tecnología",
+      "bullets_20s": "• El data center en Limón se propone como un hito en innovación tecnológica para Costa Rica.\n• Iniciativas como esta pueden impulsar la economía local y crear nuevos empleos.\n• Expertos analizan el impacto ambiental y las necesidades de infraestructura en la región.\n• Desafíos incluyen la sostenibilidad y la inversión requerida para su desarrollo exitoso.\n• Las dudas en la comunidad sobre su viabilidad son importantes y deben ser abordadas.",
+      "source_name": "Gustavo Ortega Campos",
+      "source_url": "https://www.nacion.com/economia/proyecto-de-desarrollar-un-data-center-en-limon/55LUCXMFPFD6VMETIRYDG5N6KE/story/",
+      "publish_date": "2026-09-11T22:15:35.000Z",
+      "teaser": "Lo clave en 20 segundos: Un innovador data center en Limón enfrenta dudas sobre su desarrollo y sostenibilidad.",
+      "image_url": "https://www.nacion.com/resizer/v2/VOJJ43Q43NEVPOE3AHCIQYCOEY.jpg?auth=0fb30a28aef3e3d91b3cf68f2fd18736eb2e4c37bce6f5f3ef0d6bbb35cf2322&smart=true&width=4000&height=2667",
+      "description": "El proyecto de un data center de IA en Limón promete innovación tecnológica, pero enfrenta dudas.",
+      "featured": false
+    },
+    {
+      "slug": "sala-constitucional-inicia-entrevistas-a-21-candidatos-para-magistrados-suplentes",
+      "title": "Sala Constitucional inicia entrevistas a 21 candidatos para magistrados suplentes",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Sala Constitucional busca llenar tres plazas vacantes en el cargo de magistrados suplentes.\n• Las entrevistas se realizan con los 21 candidatos seleccionados para el proceso actual.\n• El resultado de estas entrevistas definirá la nómina que se enviará al Congreso.\n• Las decisiones de la Sala Constitucional son fundamentales para el sistema judicial del país.\n• Los candidatos serán evaluados por su idoneidad y experiencia previo a la selección final.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/politica/sala-constitucional-inicia-entrevistas-a-21/5GYQUK7AHNGOBFZYHOJTA25AWE/story/",
+      "publish_date": "2026-09-11T21:39:14.000Z",
+      "teaser": "Lo clave en 20 segundos: La Sala Constitucional entrevista a 21 candidatos para magistrados suplentes.",
+      "image_url": "https://www.nacion.com/resizer/v2/IVZDMD2EOZE2ZPXFWW2ZTJO5GM.jpeg?auth=b110807c90ae291dedb3c2b189b47b159722027d060ee7de198da83853ccf35b&smart=true&width=1600&height=1200",
+      "description": "La Sala Constitucional inició entrevistas a 21 candidatos a magistrados suplentes para completar tres plazas pendientes en la nómina que llegará al Congreso.",
+      "featured": false
+    },
+    {
       "slug": "oceanos-alcanzan-temperaturas-record-este-es-su-impacto-ambiental-y-economico-en-todo-el-mundo",
       "title": "Océanos alcanzan temperaturas récord: Este es su impacto ambiental y económico en todo el mundo",
       "category": "Mundo",
@@ -37,6 +63,19 @@
       "teaser": "Lo clave en 20 segundos: Un video revela reunión entre Pecho de Rata y Celso Gamboa en Cahuita.",
       "image_url": "https://www.nacion.com/resizer/v2/ZI7FFZMZGBAONJWXXLTINA6QLY.png?auth=f4564f3b23bfe90d43ecf79dd512f2d40aa678377e95d05129927b6154c65c3a&smart=true&width=1104&height=572",
       "description": "Un video extraído del teléfono celular del cabecilla Edwin López Vega, alias Pecho de Rata, muestra una reunión entre este y el exmagistrado Celso Gamboa Sánchez en el corredor de la casa de López Vega, en Cahuita, Limón.",
+      "featured": false
+    },
+    {
+      "slug": "la-historia-detras-de-la-iconica-imagen-del-hombre-cayendo-de-una-de-las-torres-gemelas-el-11-s",
+      "title": "La historia detrás de la icónica imagen del hombre cayendo de una de las Torres Gemelas el 11-S",
+      "category": "Mundo",
+      "bullets_20s": "• La imagen conocida como 'El hombre que cae' se ha convertido en un símbolo del 11-S.\n• Acompañó un profundo debate sobre la ética del periodismo y el impacto visual.\n• Documenta un momento de desesperación durante la tragedia de las Torres Gemelas.\n• La fotografía fue capturada por el fotógrafo Richard Drew en Nueva York en 2001.\n• Su publicación generó reacciones mezcladas sobre su sensibilidad y su pertinencia.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/clyr0l5qgwpo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-09-11T20:52:30.000Z",
+      "teaser": "Lo clave en 20 segundos: la polémica imagen del 11-S y su impacto en la percepción del evento.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/115f/live/c22a2f10-ae05-11f1-94b8-7786b77e3dd2.jpg",
+      "description": "Durante un cuarto de siglo la polémica ha acompañado a 'El hombre que cae', una de las fotografías más impactantes de los atentados contra las Torres Gemelas.",
       "featured": false
     },
     {
@@ -95,13 +134,13 @@
       "slug": "1115-inscripciones-marcaron-una-nueva-edicion-de-la-carrera-del-dia-del-nino-y-la-nina",
       "title": "1.115 inscripciones marcaron una nueva edición de la Carrera del Día del Niño y la Niña",
       "category": "Costa Rica",
-      "bullets_20s": "• La Carrera del Día del Niño y la Niña se desarrolló en espacio seguro y familiar en Cartago.\n• Cerca de 650 niños y niñas disfrutaron de diferentes recorridos y actividades recreativas.\n• La comunidad mostró gran interés y apoyó a los pequeños durante sus competencias.\n• Este evento promueve la convivencia y el deporte entre las familias costarricenses.\n• Se espera que el éxito continúe en futuras ediciones de esta tradicional carrera.",
+      "bullets_20s": "• Se registraron 1.115 inscripciones superando las expectativas del evento cultural y deportivo.\n• Aproximadamente 650 niños y niñas participaron en el evento, que tuvo gran asistencia familiar.\n• La actividad promovió el deporte y la convivencia entre las familias en Cartago.\n• Las primeras ediciones de la carrera datan de finales de la década de 1990.\n• El evento fue retomado después de la pandemia, sumando tres ediciones desde su reactivación.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/1115-inscripciones-marcaron-nueva-edicion-carrera-dia-nino-nina",
       "publish_date": "2026-09-11T19:28:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Más de mil inscripciones en la emotiva Carrera del Día del Niño y la Niña.",
+      "teaser": "Lo clave en 20 segundos: La Carrera del Día del Niño superó las metas de inscripción y disfrutó gran participación familiar.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/carrera-1.jpeg",
-      "description": "1.115 inscripciones marcaron una nueva edición de la Carrera del Día del Niño y la Niña.",
+      "description": "1.115 inscripciones marcaron una nueva edición de la Carrera del Día del Niño y la Niña",
       "featured": false
     },
     {
@@ -212,11 +251,11 @@
       "slug": "tec-y-uaca-son-los-primeros-ganadores-de-la-i-serie-universitaria-de-beisbol",
       "title": "TEC y UACA son los primeros ganadores de la I Serie Universitaria de Béisbol",
       "category": "Costa Rica",
-      "bullets_20s": "• La I Serie Universitaria de Béisbol busca revivir este deporte en el ámbito académico. La competencia es esencial.\n• En la jornada inaugural, el TEC venció a la UCR Central-A en un ajustado partido por 6 a 5.\n• UACA ganó su encuentro contra UCR Turrialba, destacando con una contundente victoria de 16 a 0.\n• Cuatro jornadas más definirán los equipos finalistas en este nuevo formato de competición.\n• El evento genera expectativas de revitalizar el interés por el béisbol en los jóvenes universitarios.",
+      "bullets_20s": "• El TEC y la UACA inician la I Serie Universitaria de Béisbol con grandes expectativas entre estudiantes.\n• La competencia busca reactivar el béisbol en universidades tras un hiato de 20 años de ausencia.\n• Andrés González destaca la importancia de conexiones deportivas entre universidades y selecciones nacionales.\n• Hironobu Ishibashi, embajador de Japón, resalta la importancia de competiciones universitarias para el béisbol.\n• Las dos primeras victorias de TEC y UACA marcan el inicio de una nueva era en el béisbol universitario.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-uaca-son-primeros-ganadores-i-serie-universitaria-beisbol",
       "publish_date": "2026-09-11T16:39:47.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC y UACA se consagran en el inicio de la I Serie Universitaria de Béisbol.",
+      "teaser": "Lo clave en 20 segundos: TEC y UACA inician la I Serie Universitaria de Béisbol con grandes expectativas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/beisbol-1.jpeg",
       "description": "TEC y UACA son los primeros ganadores de la I Serie Universitaria de Béisbol",
       "featured": false
@@ -394,11 +433,11 @@
       "slug": "las-2-causas-cientificas-por-las-que-se-derrumbaron-las-torres-gemelas-tras-el-impacto-de-los-aviones-el-11-de-septiembr",
       "title": "Las 2 causas científicas por las que se derrumbaron las Torres Gemelas tras el impacto de los aviones el 11 de septiembre de 2001",
       "category": "Mundo",
-      "bullets_20s": "• El impacto de los aviones generó un calor extremo que afectó la estructura de las torres.\n• Los materiales usados en la construcción no soportaron la intensa temperatura del fuego.\n• La combinación de impactos y fuego debilitó las columnas de soporte de las torres.\n• Investigaciones analizaron cómo las características físicas influyeron en el colapso.\n• Los fenómenos químicos contribuyeron a la rápida propagación del fuego en el interior.",
+      "bullets_20s": "• Las Torres Gemelas fueron diseñadas para resistir impactos, pero el fuego fue devastador.\n• El acero de la estructura comenzó a debilitarse ante las altas temperaturas del incendio.\n• Los fenómenos físicos involucrados fueron clave para la rápida propagación del colapso.\n• El diseño de los edificios influyó en la forma en que se dieron los daños estructurales.\n• Las condiciones de ese día crearon un escenario catastrófico que sorprendió a los expertos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx2z51gprlxo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-11T13:13:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Dos causas científicas explican el colapso de las Torres Gemelas.",
+      "teaser": "Lo clave en 20 segundos: El impacto y el fuego causaron un colapso inesperado en las Torres Gemelas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b0a5/live/d4e51580-adcd-11f1-bc1f-3f186ca4140c.jpg",
       "description": "Una serie de fenómenos físicos y químicos desataron una catástrofe que nadie, para ese entonces, era capaz de imaginar.",
       "featured": false
@@ -548,13 +587,13 @@
     },
     {
       "slug": "la-historia-del-vestido-de-la-venganza-que-uso-diana-de-gales-tras-la-confesion-de-adulterio-de-carlos-iii-y-que-ahora-s",
-      "title": "La historia del vestido de la 'venganza' que usó Diana de Gales tras la confesión de adulterio de Carlos III y que ahora sale a subasta",
+      "title": "La historia del vestido de la \"venganza\" que usó Diana de Gales tras la confesión de adulterio de Carlos III y que ahora sale a subasta",
       "category": "Mundo",
-      "bullets_20s": "• El vestido se volvió emblemático tras la confesión de Carlos III sobre su infidelidad.\n• Diana lo usó en un evento muy mediático, capturando la atención del mundo.\n• La subasta promete atraer a coleccionistas y amantes de la historia real.\n• El diseño del vestido refleja el estilo audaz y único de Diana de Gales.\n• Este evento marca un momento histórico en la narrativa de la familia real británica.",
+      "bullets_20s": "• El vestido es un ícono de la moda y simboliza un momento clave en la historia de la realeza.\n• Diana de Gales lo usó en una famosa entrevista que conmocionó a la opinión pública.\n• La subasta atraerá la atención de coleccionistas y amantes de la historia real.\n• Se espera que el precio del vestido alcance cifras elevadas debido a su relevancia.\n• El evento de la subasta promete laminar la historia de la celebración de Diana y sus luchas.",
       "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/c624l137qypo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-11T11:14:49.000Z",
-      "teaser": "Lo clave en 20 segundos: El vestido de Diana de Gales sale a subasta y es un símbolo de su historia personal.",
+      "teaser": "Lo clave en 20 segundos: Un vestido de Diana que simboliza su lucha personal saldrá a subasta.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9272/live/1e197130-add1-11f1-82c1-5ff19bf7a2f2.jpg",
       "description": "El vestido que la princesa Diana usó en un evento que tuvo lugar el mismo día en que Carlos confesó su adulterio mientras estaba con ella en una entrevista de la BBC saldrá a subasta. Te contamos su historia.",
       "featured": false
@@ -940,11 +979,11 @@
       "slug": "el-tecnologico-de-costa-rica-sera-sede-del-nasa-space-apps-challenge-cartago-2026",
       "title": "El Tecnológico de Costa Rica será sede del NASA Space Apps Challenge Cartago 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El NASA Space Apps Challenge es un hackathon internacional promovido por la NASA.\n• El evento se llevará a cabo en el TEC, en Cartago, los días 14 y 15 de noviembre.\n• Abre la fase de formación de equipos el 17 de setiembre para interesados.\n• Se espera participación de estudiantes y profesionales en diversas disciplinas.\n• El evento es gratuito y abierto a todo público interesado en participar.",
+      "bullets_20s": "• El NASA Space Apps Challenge es un hackathon internacional que invita a la creatividad y la innovación.\n• Los estudiantes y profesionales podrán resolver desafíos usando datos abiertos de la NASA.\n• La fase de formación de equipos comenzará el 17 de setiembre para el evento de noviembre.\n• Los participantes contarán con mentoría de expertos locales e internacionales durante el hackathon.\n• El evento promueve la colaboración interdisciplinaria entre varias áreas del conocimiento.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/tecnologico-costa-rica-sera-sede-nasa-space-apps-challenge-cartago-2026",
       "publish_date": "2026-09-10T17:57:55.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC recibirá el NASA Space Apps Challenge en noviembre de 2026.",
+      "teaser": "Lo clave en 20 segundos: El TEC será sede del NASA Space Apps Challenge en noviembre de 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/spaceapps-1.jpg",
       "description": "El Tecnológico de Costa Rica será sede del NASA Space Apps Challenge Cartago 2026",
       "featured": false
@@ -95291,8 +95330,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-11T21:45:25.099Z",
-  "total": 7330,
+  "generated_at": "2026-09-11T22:45:24.636Z",
+  "total": 7333,
   "removed_soccer_news_count": 1213,
   "removed_soccer_news_titles": [
     "Javier Gandolfi, técnico del León, también habló de la bronca en la que estuvo Keylor Navas",
