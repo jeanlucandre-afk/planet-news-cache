@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "tdah-sin-diagnostico-en-la-infancia-deja-un-alto-costo-en-la-vida-adulta-ccss-no-tiene-datos-sobre-atencion",
+      "title": "TDAH sin diagnóstico en la infancia deja un alto costo en la vida adulta; CCSS no tiene datos sobre atención",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TDAH no diagnosticado en la infancia puede acarrear consecuencias negativas en la vida adulta.\n• La atención temprana es crucial para el desarrollo emocional y social de los niños con TDAH.\n• La CCSS no tiene suficientes datos sobre la atención del TDAH en adultos en Costa Rica.\n• La falta de tratamiento puede generar problemas en el ámbito laboral y personal para los adultos.\n• La psiquiatra Andrea Abadi enfatiza la importancia de un diagnóstico temprano y un plan de tratamiento adecuado.",
+      "source_name": "Fernanda Matarrita Chaves",
+      "source_url": "https://www.nacion.com/el-pais/tdah-sin-diagnostico-en-la-infancia-deja-un-alto/SHUG5PCB3NFN7KHPCREXQZL4DM/story/",
+      "publish_date": "2026-09-13T18:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: TDAH sin diagnóstico puede tener graves consecuencias en la vida adulta.",
+      "image_url": "https://www.nacion.com/resizer/v2/M4U7CHCH2BCTXHOLMCPUZUKXAI.png?auth=bc3711a81eae097b60280c5501b11b9d383dbcb9176b951560da4f72a37c0463&smart=true&width=1920&height=1080",
+      "description": "La psiquiatra infanto juvenil, Andrea Abadi, advirtió el costo de no tratar el TDAH. CCSS afirma que en Costa Rica no cuentan con datos de atención en adultos.",
+      "featured": false
+    },
+    {
+      "slug": "los-excepcionales-casos-de-las-personas-inmunes-al-vih-y-que-papel-tienen-en-una-posible-cura",
+      "title": "Los excepcionales casos de las personas inmunes al VIH (y qué papel tienen en una posible cura)",
+      "category": "Ciencia",
+      "bullets_20s": "• El VIH afecta a millones, pero existen individuos que parecen inmunes de forma natural.\n• Investigadores exploran estos casos únicos en busca de respuestas y posibles tratamientos.\n• El estudio de estas personas excepcionales puede revolucionar la ciencia médica moderna.\n• Comprender su inmunidad puede abrir puertas a nuevas curas y terapias efectivas.\n• Los avances en esta área son cruciales para combatir el VIH en todo el mundo.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cwyzenjndxno?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-09-13T17:31:49.000Z",
+      "teaser": "Lo clave en 20 segundos: personas inmunes al VIH ofrecen esperanza para encontrar curas.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f2ab/live/fa73ab40-a85f-11f1-ae45-e9984fc27c77.png",
+      "description": "Científicos están estudiando a las pocas personas excepcionales cuyos organismos parecen capaces de defenderse de forma natural del VIH, con la esperanza de encontrar nuevas curas.",
+      "featured": false
+    },
+    {
       "slug": "132000-personas-no-han-podido-empezar-cursos-de-open-english-en-plataforma-de-hello-brete-por-falta-de-registro-biometri",
       "title": "132.000 personas no han podido empezar cursos de Open English en plataforma de Hello Brete por falta de registro biométrico",
       "category": "Costa Rica",
@@ -108,11 +134,11 @@
       "slug": "fueron-mejores-amigas-durante-una-decada-hasta-que-una-prueba-de-adn-revelo-que-eran-hermanas",
       "title": "Fueron mejores amigas durante una década, hasta que una prueba de ADN reveló que eran hermanas",
       "category": "Mundo",
-      "bullets_20s": "• La historia de dos amigas que descubrieron un lazo familiar inesperado a través de ADN.\n• Ambas fueron adoptadas en los años ochenta y crecieron sin conocer su conexión.\n• Este hallazgo plantea cuestiones sobre la identidad y el parentesco en las adopciones.\n• Los lazos familiares pueden ser reveladores incluso en amistades muy cercanas.\n• La tecnología del ADN ha cambiado la forma en que entendemos nuestras relaciones.",
+      "bullets_20s": "• Dos mujeres descubren un lazo de sangre después de años de amistad ininterrumpida en los Países Bajos.\n• La prueba de ADN revela que eran hermanas biológicas adoptadas en diferentes momentos de su vida.\n• Ambas tuvieron una infancia separada pero compartieron sus caminos en la adolescencia y adultez.\n• El descubrimiento pone de relieve la complejidad de las relaciones familiares y la identidad.\n• La historia refleja la importancia de la genética en la conexión humana y el destino.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cq5x0nqq13po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-13T14:29:17.000Z",
-      "teaser": "Lo clave en 20 segundos: amistad, ADN y un sorprendente vínculo familiar revelado.",
+      "teaser": "Lo clave en 20 segundos: Dos amigas se convierten en hermanas tras una prueba de ADN inesperada.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/8366/live/5eb0b810-ac10-11f1-aed2-8d6da8d75094.jpg",
       "description": "Meena Geltink y Minal Tijssen nacieron en la misma familia en India. Tras ser dadas en adopción en la década de 1980, crecieron por separado en los Países Bajos sin que supieran su parentesco.",
       "featured": false
@@ -303,11 +329,11 @@
       "slug": "una-version-medieval-de-la-manosfera-lo-que-el-tapiz-de-bayeux-revela-sobre-la-sangrienta-y-obscena-realidad-de-la-edad-",
       "title": "Una versión medieval de la manósfera: lo que el tapiz de Bayeux revela sobre la sangrienta y obscena realidad de la Edad Media",
       "category": "Mundo",
-      "bullets_20s": "• El tapiz de Bayeux ofrece una visión única de las luchas de poder en la Edad Media.\n• Este artefacto histórico revela la conexión entre virilidad y poder en tiempos pasados.\n• La obra maestra del siglo XI sigue siendo relevante en el análisis de la sociedad actual.\n• El tapiz narra la historia del trono en disputa entre diferentes facciones medievales.\n• Hoy, la narrativa sobre poder y género resuena con problemas contemporáneos.",
+      "bullets_20s": "• El tapiz de Bayeux representa una historia de poder y virilidad en la Edad Media.\n• Es un artefacto histórico que nos muestra la realidad de un periodo violento.\n• La obra maestra del siglo XI narra una disputa por el trono en ese tiempo.\n• La narrativa visual sugiere paralelismos con las luchas de poder actuales.\n• Este tapiz se considera una de las obras más importantes de la historia del arte.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/czez57d20p0o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-13T10:38:05.000Z",
-      "teaser": "Lo clave en 20 segundos: El tapiz de Bayeux revela la conexión entre poder y virilidad en la Edad Media.",
+      "teaser": "Lo clave en 20 segundos: el tapiz de Bayeux revela el poder y la violencia de la Edad Media.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/d159/live/f6d23aa0-a095-11f1-91dc-4919512f173f.jpg",
       "description": "En la historia sobre un trono en disputa que narra esta obra maestra del siglo XI, la virilidad se equipara al poder. Es un relato que resulta familiar hoy en día.",
       "featured": false
@@ -1200,11 +1226,11 @@
       "slug": "1115-inscripciones-marcaron-una-nueva-edicion-de-la-carrera-del-dia-del-nino-y-la-nina",
       "title": "1.115 inscripciones marcaron una nueva edición de la Carrera del Día del Niño y la Niña",
       "category": "Costa Rica",
-      "bullets_20s": "• La Carrera del Día del Niño es un evento tradicional que reúne a familias para disfrutar del deporte.\n• Más de 650 niños participaron en diferentes pruebas durante la emocionante jornada de la carrera.\n• Los padres animaron a los pequeños corredores, creando un ambiente festivo y familiar en el evento.\n• A pesar de esperar 1.000 inscritos, la cifra alcanzó los 1.115, superando todas las expectativas organizativas.\n• Los pequeños corredores recibieron medallas como recuerdo, celebrando sus logros al cruzar la meta.",
+      "bullets_20s": "• La Carrera del Día del Niño y la Niña reunió a familias y jóvenes corredores en una jornada especial.\n• Aproximadamente 650 niños participaron en diferentes recorridos en la actividad deportiva.\n• La organización superó las expectativas con más de 1.100 inscripciones para este evento familiar.\n• Las primeras ediciones de la carrera se iniciaron a finales de los 90, creando historia en el TEC.\n• Los niños expresaron alegría y nerviosismo al participar, todos con el deseo de llegar a la meta.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/1115-inscripciones-marcaron-nueva-edicion-carrera-dia-nino-nina",
       "publish_date": "2026-09-11T19:28:47.000Z",
-      "teaser": "Lo clave en 20 segundos: más de 1,100 inscripciones en la carrera que celebra a los niños y a la familia.",
+      "teaser": "Lo clave en 20 segundos: La Carrera del Día del Niño y la Niña reunió a más de 1.100 inscritos en una jornada familiar.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/carrera-1.jpeg",
       "description": "1.115 inscripciones marcaron una nueva edición de la Carrera del Día del Niño y la Niña",
       "featured": false
@@ -1317,11 +1343,11 @@
       "slug": "tec-y-uaca-son-los-primeros-ganadores-de-la-i-serie-universitaria-de-beisbol",
       "title": "TEC y UACA son los primeros ganadores de la I Serie Universitaria de Béisbol",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC y UACA inician la competencia con victorias en la primera jornada del torneo universitario.\n• El TEC ganó por 6-5 a UCR Central-A en un partido reñido y emocionante.\n• UACA logró una contundente victoria de 16-0 sobre UCR Turrialba en su primer encuentro.\n• La serie busca revitalizar el béisbol entre estudiantes universitarios después de 20 años.\n• Para Andrés González, es crucial mantener la conexión entre el deporte universitario y selecciones nacionales.",
+      "bullets_20s": "• La I Serie Universitaria de Béisbol comienza con victorias del TEC y UACA.\n• El TEC ganó su primer partido contra UCR Central-A por una cerrada puntuación.\n• UACA dominó su encuentro, venciendo a UCR Turrialba con una amplia diferencia.\n• Cuatro jornadas más definirán a los equipos que competirán en la final.\n• El evento busca revitalizar el béisbol entre estudiantes universitarios en Costa Rica.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-uaca-son-primeros-ganadores-i-serie-universitaria-beisbol",
       "publish_date": "2026-09-11T16:39:47.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC y UACA marcan el inicio de la I Serie Universitaria de Béisbol con victorias.",
+      "teaser": "Lo clave en 20 segundos: TEC y UACA inician con victoria en la I Serie Universitaria de Béisbol.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/beisbol-1.jpeg",
       "description": "TEC y UACA son los primeros ganadores de la I Serie Universitaria de Béisbol",
       "featured": false
@@ -2045,11 +2071,11 @@
       "slug": "el-tecnologico-de-costa-rica-sera-sede-del-nasa-space-apps-challenge-cartago-2026",
       "title": "El Tecnológico de Costa Rica será sede del NASA Space Apps Challenge Cartago 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC será sede del evento internacional de innovación creado por la NASA para todos.\n• El hackathon se llevará a cabo el 14 y 15 de noviembre enCartago, Costa Rica.\n• Los equipos formados enfrentan desafíos relacionados con datos abiertos de la NASA.\n• El evento es gratuito y está abierto a estudiantes y profesionales de diversas áreas.\n• La fase de formación de equipos comienza el 17 de septiembre de 2026.",
+      "bullets_20s": "• El NASA Space Apps Challenge es un hackathon internacional que invita a todos a participar.\n• El evento se llevará a cabo los días 14 y 15 de noviembre en Cartago, Costa Rica.\n• Invita a estudiantes y profesionales a resolver desafíos utilizando datos de la NASA.\n• La fase de formación de equipos comienza el 17 de septiembre, ideal para colaborar.\n• Es gratuito y abierto, promoviendo la innovación y trabajo en equipo entre participantes.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/tecnologico-costa-rica-sera-sede-nasa-space-apps-challenge-cartago-2026",
       "publish_date": "2026-09-10T17:57:55.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC acogerá la edición 2026 del NASA Space Apps Challenge en Cartago.",
+      "teaser": "Lo clave en 20 segundos: El TEC acogerá el NASA Space Apps Challenge Cartago en noviembre próximo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/spaceapps-1.jpg",
       "description": "El Tecnológico de Costa Rica será sede del NASA Space Apps Challenge Cartago 2026",
       "featured": false
@@ -96409,10 +96435,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-13T17:45:24.960Z",
-  "total": 7416,
-  "removed_soccer_news_count": 1227,
+  "generated_at": "2026-09-13T18:45:24.786Z",
+  "total": 7418,
+  "removed_soccer_news_count": 1228,
   "removed_soccer_news_titles": [
+    "Selección Femenina Sub-20 cae de nuevo y se despide del Mundial sufriendo la tercera goleada",
     "Alonso Martínez sonríe en la MLS tras más de 300 días de espera",
     "Vea el gol de Ariel Lassiter en amarga derrota del Portland Timbers en la MLS de Estados Unidos",
     "Arsenal sigue su arranque perfecto en la Premier League, Aston Villa se hunde",
@@ -96461,7 +96488,6 @@
     "Toluca es el nuevo campeón de la Leagues Cup",
     "Muere exfutbolista costarricense luego de marcar un gol",
     "La ‘Sele’ y el gobierno de Chaves tuvieron todo a favor... y los dos desperdiciaron la oportunidad",
-    "Tabla de posiciones del Torneo de Apertura 2026: así marcha el fútbol de Costa Rica tras la jornada 7",
-    "Costa Rica vs. Colombia: ¿A qué hora y cómo ver este partido en el Mundial Sub-20 de Polonia?"
+    "Tabla de posiciones del Torneo de Apertura 2026: así marcha el fútbol de Costa Rica tras la jornada 7"
   ]
 }
