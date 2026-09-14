@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "99000-se-fueron-pero-esto-dice-el-presidente-del-ina-sobre-open-english-y-hello-brete",
+      "title": "99.000 se fueron, pero esto dice el Presidente del INA sobre Open English y Hello Brete",
+      "category": "Costa Rica",
+      "bullets_20s": "• El programa Hello Brete ha crecido exponencialmente en su alcance y popularidad en Costa Rica.\n• A pesar del interés, muchos usuarios abandonan el curso antes de finalizarlo, cuestionando su efectividad.\n• El presidente del INA ofrece su perspectiva sobre la situación actual de estos cursos en línea.\n• Los desafíos en la educación digital son comunes en programas que buscan ampliar su público objetivo.\n• Se abrirá un debate sobre cómo mejorar la retención de estudiantes en estos cursos de idiomas.",
+      "source_name": "Jorge Arturo Mora",
+      "source_url": "https://www.nacion.com/revista-dominical/99000-se-fueron-pero-esto-dice-el-presidente-del/B6QSXVFGANFBTKWFTCGVHZ5S5E/story/",
+      "publish_date": "2026-09-14T20:10:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Analizamos el fenómeno de Hello Brete y las preocupaciones del INA.",
+      "image_url": "https://www.nacion.com/resizer/v2/HUEOTEQYKJAXVKXI4QUVGB652I.JPG?auth=58040617988384576a9aa1895eb9de904d19e9da52ccbb70305599574e25a049&smart=true&width=2976&height=1984",
+      "description": "En apenas cuatro meses, Hello Brete llegó a 210.000 personas. Pero casi la mitad abandonó el programa antes de terminar agosto. ¿Qué está pasando con Open English? Su presidente ejecutivo responde",
+      "featured": false
+    },
+    {
       "slug": "falsos-ozempic-o-mounjaro-podrian-poner-en-riesgo-su-salud-advierte-ministerio",
       "title": "Falsos ‘Ozempic’ o ‘Mounjaro’ podrían poner en riesgo su salud, advierte Ministerio",
       "category": "Costa Rica",
-      "bullets_20s": "• El Ministerio de Salud lanza una advertencia sobre productos falsos relacionados con el control de peso.\n• La marca Exogenics no cuenta con registro sanitario, lo que representa un riesgo para los consumidores.\n• Se recomienda a los pacientes utilizar solo medicamentos aprobados y registrados por la autoridad sanitaria.\n• Los falsos medicamentos pueden tener efectos secundarios graves y potencialmente peligrosos.\n• Es fundamental que las personas informen sobre cualquier producto sospechoso a las autoridades competentes.",
+      "bullets_20s": "• Ozempic y Mounjaro son medicamentos utilizados para el control de peso y diabetes.\n• El Ministerio advierte sobre productos falsos que podrían afectar la salud de las personas.\n• La marca Exogenics no cuenta con registro sanitario en el país, lo cual es preocupante.\n• Consumir estos productos no aprobados puede provocar efectos secundarios graves.\n• Es fundamental verificar las fuentes y legalidad de los medicamentos antes de usar.",
       "source_name": "Irene Rodríguez",
       "source_url": "https://www.nacion.com/el-pais/falsos-ozempic-o-mounjaro-podrian-poner-en-riesgo/P5NUGGSD2JFF5DHKOM3PL72OGU/story/",
       "publish_date": "2026-09-14T19:08:52.000Z",
-      "teaser": "Lo clave en 20 segundos: el Ministerio alerta sobre riesgos de productos no aprobados para adelgazar.",
+      "teaser": "Lo clave en 20 segundos: El Ministerio alerta sobre peligros de medicamentos falsos como Exogenics.",
       "image_url": "https://www.nacion.com/resizer/v2/E4UUJLRZKVHE3IUS4JISMFRAVM.png?auth=fa3a2ba6c155da19ee96493f050e584f5d927621874a7273b6da3bfd8a5abdb0&smart=true&width=1050&height=787",
       "description": "El Ministerio de Salud de Costa Rica alerta sobre la marca Exogenics para bajar de peso por carecer de registro sanitario y representar un riesgo grave.",
       "featured": false
@@ -381,11 +394,11 @@
       "slug": "por-que-volvio-la-tension-entre-argentina-e-inglaterra-por-malvinasfalklands-44-anos-despues-de-la-guerra",
       "title": "Por qué volvió la tensión entre Argentina e Inglaterra por Malvinas/Falklands 44 años después de la guerra",
       "category": "Mundo",
-      "bullets_20s": "• Las tensiones entre Argentina e Inglaterra resurgen debido a las Malvinas y la soberanía del territorio.\n• La guerra por las Malvinas fue un conflicto importante que impactó en ambos países hace décadas.\n• Comentarios recientes de líderes internacionales reavivan el debate sobre las islas y su futuro.\n• Intereses económicos y políticos juegan un papel significativo en la disputa territorial actual.\n• La historia y el conflicto reciente influyen en las relaciones entre Argentina e Inglaterra hoy.",
+      "bullets_20s": "• La disputa por las Malvinas ha resurgido, intensificando el diálogo entre ambos países.\n• Los comentarios de figuras políticas generan nuevas tensiones sobre la soberanía de las islas.\n• Los intereses en la región complican aún más el panorama de las relaciones internacionales.\n• La historia de la guerra de 1982 sigue presente en el contexto actual de la disputa.\n• Las implicaciones geopolíticas destacadas por analistas reflejan la relevancia del tema.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/czrz6d153mxo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-14T10:59:01.000Z",
-      "teaser": "Lo clave en 20 segundos: Tensión renovada entre Argentina e Inglaterra por Malvinas debido a comentarios de Trump.",
+      "teaser": "Lo clave en 20 segundos: Resurgimiento de tensiones entre Argentina e Inglaterra por las Malvinas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/7b52/live/4175af70-b02b-11f1-a8a9-13be82d23441.jpg",
       "description": "El debate sobre la soberanía de las islas gana intensidad con comentarios ambiguos de Trump y varios intereses internacionales en juego.",
       "featured": false
@@ -394,11 +407,11 @@
       "slug": "estuve-a-semanas-de-casarme-con-un-violador-en-serie-mis-seres-queridos-me-salvaron-la-vida",
       "title": "Estuve a semanas de casarme con un violador en serie. Mis seres queridos me salvaron la vida",
       "category": "Mundo",
-      "bullets_20s": "• Un relato impactante sobre una mujer que estuvo a punto de casarse con un violador.\n• La familia y amigos jugaron un papel crucial en su salvación y protección.\n• Pruebas importantes fueron entregadas a la policía para detener al delincuente.\n• La historia resalta la importancia del apoyo familiar en momentos críticos.\n• La mujer comparte su experiencia para crear conciencia sobre estos temas.",
-      "source_name": "BBC Mundo",
+      "bullets_20s": "• Una mujer revela cómo estuvo a punto de casarse con un violador en serie.\n• Los seres queridos de la mujer actuaron rápidamente ante la situación peligrosa.\n• Pruebas enviadas a la policía ayudaron a detener al violador en cuestión.\n• La historia resalta la importancia de la comunicación y el apoyo familiar.\n• Este caso pone en duda la seguridad de las relaciones personales.",
+      "source_name": "BBC",
       "source_url": "https://www.bbc.com/mundo/articles/c5yelx5l880o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-14T10:43:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Cómo el apoyo familiar salvó a una mujer de un violador en serie.",
+      "teaser": "Lo clave en 20 segundos: Una mujer narra cómo sus seres queridos evitaron un trágico destino.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ea88/live/a79787c0-ad0a-11f1-b1d1-571ed4d7ff2c.jpg",
       "description": "La mujer le contó a la BBC cómo su familia y amigos enviaron pruebas cruciales a la policía, lo que condujo a la detención del violador.",
       "featured": false
@@ -1876,11 +1889,11 @@
       "slug": "1115-inscripciones-marcaron-una-nueva-edicion-de-la-carrera-del-dia-del-nino-y-la-nina",
       "title": "1.115 inscripciones marcaron una nueva edición de la Carrera del Día del Niño y la Niña",
       "category": "Costa Rica",
-      "bullets_20s": "• Cerca de 650 niños participaron en la actividad dedicada a la recreación y la convivencia familiar.\n• La jornada se realizó en Cartago y fue organizada por el Tecnológico de Costa Rica (TEC).\n• Las inscripciones superaron las expectativas, llenando los cupos rápidamente.\n• Familias acompañaron a los pequeños, creando una atmósfera de emoción y alegría.\n• Cada niño recibió una medalla y un número de corredor como recuerdo de su participación.",
+      "bullets_20s": "• La Carrera del Día del Niño reunió a familias en una jornada de deporte y convivencia.\n• Cerca de 650 niños y niñas participaron en diversas pruebas y actividades recreativas.\n• Los organizadores se sorprendieron por las 1.115 inscripciones registradas en la edición.\n• Las familias animaron a los pequeños corredores, creando un ambiente de emoción y alegría.\n• Historias de los niños reflejan la importancia de participar y compartir con otros.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/1115-inscripciones-marcaron-nueva-edicion-carrera-dia-nino-nina",
       "publish_date": "2026-09-11T19:28:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Una exitosa carrera reunió a 1.115 inscritos en una fiesta familiar de deporte y alegría.",
+      "teaser": "Lo clave en 20 segundos: 1.115 inscripciones en la Carrera del Día del Niño, un evento lleno de alegría.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/carrera-1.jpeg",
       "description": "1.115 inscripciones marcaron una nueva edición de la Carrera del Día del Niño y la Niña",
       "featured": false
@@ -1993,11 +2006,11 @@
       "slug": "tec-y-uaca-son-los-primeros-ganadores-de-la-i-serie-universitaria-de-beisbol",
       "title": "TEC y UACA son los primeros ganadores de la I Serie Universitaria de Béisbol",
       "category": "Costa Rica",
-      "bullets_20s": "• La I Serie Universitaria busca reanimar el béisbol entre estudiantes universitarios en Costa Rica.\n• El TEC logró vencer a UCR Central-A en un reñido partido por 6 a 5 en su debut.\n• UACA mostró una destacada actuación al vencer a UCR Turrialba con una paliza de 16-0.\n• Faltan cuatro jornadas para definir a los equipos que llegarán a la final el 14 de noviembre.\n• La participación de hombres y mujeres resalta el carácter inclusivo de esta competencia deportiva.",
+      "bullets_20s": "• La I Serie Universitaria de Béisbol comenzó con TEC y UACA celebrando victorias destacadas.\n• La competencia busca reactivar el béisbol entre los estudiantes universitarios de Costa Rica.\n• El TEC se enfrentó a UCR en un partido cerrado, ganando con una carrera de diferencia.\n• UACA dominó su primer encuentro, logrando una victoria contundente de 16 a 0.\n• La liga se establece después de 20 años sin torneo universitario de béisbol en el país.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-uaca-son-primeros-ganadores-i-serie-universitaria-beisbol",
       "publish_date": "2026-09-11T16:39:47.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC y UACA triunfan en la I Serie Universitaria de Béisbol, una nueva actividad entre universidades.",
+      "teaser": "Lo clave en 20 segundos: TEC y UACA inician la I Serie Universitaria de Béisbol con victorias.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/beisbol-1.jpeg",
       "description": "TEC y UACA son los primeros ganadores de la I Serie Universitaria de Béisbol",
       "featured": false
@@ -2721,11 +2734,11 @@
       "slug": "el-tecnologico-de-costa-rica-sera-sede-del-nasa-space-apps-challenge-cartago-2026",
       "title": "El Tecnológico de Costa Rica será sede del NASA Space Apps Challenge Cartago 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El evento invita a estudiantes y profesionales a resolver desafíos con datos abiertos de la NASA.\n• Se llevará a cabo los días 14 y 15 de noviembre en el Campus Cartago del TEC.\n• Los participantes deben registrarse previamente para poder formar parte del evento.\n• Habrá mentoría de especialistas locales e internacionales durante el hackathon.\n• La fase de formación de equipos comienza el 17 de setiembre de 2026.",
+      "bullets_20s": "• El NASA Space Apps Challenge es un evento gratuito que promueve la innovación abierta.\n• Los participantes resuelven retos usando datos abiertos de la NASA durante el hackathon.\n• El evento se llevará a cabo el 14 y 15 de noviembre en el Campus Cartago del TEC.\n• La formación de equipos comenzará el 17 de setiembre y estará abierta a todos.\n• Se busca integrar a estudiantes y profesionales de diversas disciplinas en el hackathon.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/tecnologico-costa-rica-sera-sede-nasa-space-apps-challenge-cartago-2026",
       "publish_date": "2026-09-10T17:57:55.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC recibe el NASA Space Apps Challenge Cartago 2026 para promover la innovación.",
+      "teaser": "Lo clave en 20 segundos: TEC será sede del hackathon internacional NASA Space Apps Challenge 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/spaceapps-1.jpg",
       "description": "El Tecnológico de Costa Rica será sede del NASA Space Apps Challenge Cartago 2026",
       "featured": false
@@ -97072,10 +97085,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-14T19:45:26.820Z",
-  "total": 7467,
-  "removed_soccer_news_count": 1234,
+  "generated_at": "2026-09-14T20:45:24.678Z",
+  "total": 7468,
+  "removed_soccer_news_count": 1235,
   "removed_soccer_news_titles": [
+    "Patrick Pemberton no tiene dudas: señala al heredero de Keylor Navas en la Selección",
     "¿Cómo ver a la Selección de Costa Rica? Dos canales para los juegos en casa y otro para los de visitante",
     "Tabla de posiciones del Apertura 2026: el fútbol de Costa Rica tiene nuevo líder tras la jornada 8",
     "Keylor Navas y Pumas sufrieron con las Chivas",
@@ -97124,7 +97138,6 @@
     "La revancha del Super Bowl abre la temporada más global de la NFL",
     "Pruebas PISA revelan el ‘rendimiento mundial más bajo jamás observado’: ¿cómo le fue a Costa Rica?",
     "Mauricio Solís: ‘Si Joel Campbell, Celso Borges y Keylor Navas están jugando bien, deben volver a la Selección Nacional’",
-    "¿Cuál es la posibilidad real de que Joel Campbell llegue a la Selección de Costa Rica?",
-    "Carlos Mora brilla con asistencia en la goleada de su equipo (video)"
+    "¿Cuál es la posibilidad real de que Joel Campbell llegue a la Selección de Costa Rica?"
   ]
 }
