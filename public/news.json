@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "oij-identifica-a-hombres-asesinados-a-balazos-durante-un-desfile-y-un-bar-en-pocora-de-guacimo",
+      "title": "OIJ identifica a hombres asesinados a balazos durante un desfile y un bar en Pocora de Guácimo",
+      "category": "Costa Rica",
+      "bullets_20s": "• El OIJ trabaja en la identificación de los hombres asesinados en Pocora.\n• Los dos hombres fueron baleados durante un desfile hace poco tiempo.\n• Una mujer estuvo involucrada, resultando herida durante el incidente.\n• Las autoridades están investigando las causas de la balacera en Guácimo.\n• Este tipo de violencia genera preocupación en la comunidad local.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/sucesos/oij-identifica-a-hombres-asesinados-a-balazos/MNANTXCSWNHHPJMENQCA4DQIKY/story/",
+      "publish_date": "2026-09-14T18:22:05.000Z",
+      "teaser": "Lo clave en 20 segundos: El OIJ identifica a hombres asesinados en un desfile en Pocora.",
+      "image_url": "https://www.nacion.com/resizer/v2/OAIOCPWOHZBRRAHWSNDY7YD73Y.jpeg?auth=10f808aa56b49b883e6761c55906869fa8f7c298d03b390e1e339f7e11dd8bd0&smart=true&width=1280&height=1232",
+      "description": "El OIJ identificó a los dos hombres asesinados a balazos este domingo en Pocora de Guácimo. Una mujer resultó herida en una de las balaceras.",
+      "featured": false
+    },
+    {
+      "slug": "mauricio-solis-cuestiona-a-los-jovenes-costarricenses-juegan-dos-partidos-buenos-y-ya-les-dan-un-carro-nuevo",
+      "title": "Mauricio Solís cuestiona a los jóvenes costarricenses: ‘Juegan dos partidos buenos y ya les dan un carro nuevo’",
+      "category": "Costa Rica",
+      "bullets_20s": "• El exjugador cuestiona la falta de ambición en los jóvenes futbolistas costarricenses.\n• Señala que lograr un buen desempeño no debería ser un motivo para recibir recompensas inmediatas.\n• Critica la cultura del premio fácil que afecta a la juventud en el deporte.\n• Hace un llamado a los jóvenes para que mantengan la humildad y trabajen duro.\n• Recalca que el éxito se construye con esfuerzo a largo plazo, no solo con actuaciones breves.",
+      "source_name": "Felipe Castillo Carazo",
+      "source_url": "https://www.nacion.com/puro-deporte/futbol/mauricio-solis-cuestiona-a-los-jovenes-ticos/DYJNB6LU45DJJLIP3FMINQLGYA/story/",
+      "publish_date": "2026-09-14T18:12:49.000Z",
+      "teaser": "Lo clave en 20 segundos: Mauricio Solís critica la falta de hambre en jóvenes futbolistas ticos.",
+      "image_url": "https://www.nacion.com/resizer/v2/OA75IFJBIJGBLA6VO66OCOC4KQ.jpg?auth=1b4af444bcb3cd552f383ae61a733ed30d8460c6451c689916f3e3e12c598f1c&smart=true&width=3000&height=2000",
+      "description": "Mauricio Solís lanzó una dura crítica a los jóvenes talentos al señalar que ahora reciben muchas comodidades y les falta hambre para triunfar.",
+      "featured": false
+    },
+    {
       "slug": "la-onu-pide-una-accion-urgente-para-frenar-la-ia-debido-a-los-riesgos-sin-precedentes",
       "title": "La ONU pide una ‘acción urgente’ para frenar la IA debido a los riesgos sin precedentes",
       "category": "Mundo",
@@ -82,11 +108,11 @@
       "slug": "china-rechaza-la-idea-de-que-esta-en-una-competencia-maliciosa-con-eeuu-por-el-control-de-la-ia",
       "title": "China rechaza la idea de que está en una \"competencia maliciosa\" con EE.UU. por el control de la IA",
       "category": "Mundo",
-      "bullets_20s": "• Las tensiones entre China y EE.UU. han crecido por la inteligencia artificial y su desarrollo.\n• China afirma que no busca una competencia desleal en tecnología con EE.UU.\n• El director de Anthropic pide moderar el desarrollo de IA para evitar riesgos.\n• Ambos países están en una carrera por liderar la innovación en inteligencia artificial.\n• Las implicaciones del desarrollo de IA son vastas y afectan la economía global.",
+      "bullets_20s": "• China y EE.UU. han estado en el centro del debate sobre la inteligencia artificial en la actualidad.\n• Las afirmaciones de competencia han generado tensiones entre las dos naciones en el ámbito tecnológico.\n• Anthropic, una empresa tecnológica, ha instado a ralentizar el avance de la IA por ciertos riesgos.\n• Expertos sugieren necesidad de regulaciones para el desarrollo seguro de la inteligencia artificial.\n• El debate sobre la IA se está convirtiendo en un tema clave de política internacional en el siglo XXI.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c95y4jd0ygddo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-14T16:09:54.000Z",
-      "teaser": "Lo clave en 20 segundos: China desacopla su imagen de competencia con EE.UU. en inteligencia artificial.",
+      "teaser": "Lo clave en 20 segundos: China niega competir malignamente con EE.UU. en inteligencia artificial.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/36f6/live/29acfbb0-b02f-11f1-a8a9-13be82d23441.jpg",
       "description": "Esto se produce tras los llamamientos del director ejecutivo de Anthropic para que se desacelere el desarrollo de la IA, pero de una manera que impida que China tome la delantera en la carrera.",
       "featured": false
@@ -303,11 +329,11 @@
       "slug": "por-que-volvio-la-tension-entre-argentina-e-inglaterra-por-malvinasfalklands-44-anos-despues-de-la-guerra",
       "title": "Por qué volvió la tensión entre Argentina e Inglaterra por Malvinas/Falklands 44 años después de la guerra",
       "category": "Mundo",
-      "bullets_20s": "• La tensión por las Malvinas ha resurgido 44 años tras el conflicto bélico entre Argentina e Inglaterra.\n• Comentarios recientes de figuras influyentes han reavivado el debate sobre la soberanía de las islas.\n• Diversos intereses internacionales están involucrados en la discusión sobre las aguas circundantes.\n• La opinión de Trump sugiere una postura ambigua que agrega complejidad a la situación actual.\n• La historia de las Malvinas marca una larga disputa entre ambas naciones desde el siglo XIX.",
+      "bullets_20s": "• Las islas Malvinas son un tema de larga data en la política argentina y británica.\n• La postura de Estados Unidos ha generado nuevos debates sobre las Malvinas.\n• La influencia internacional en el tema ha aumentado en el último tiempo.\n• Comentarios recientes de figuras políticas han reavivado el conflicto por las islas.\n• El desarrollo militar y estratégico en la región añade complejidad a la situación.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/czrz6d153mxo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-14T10:59:01.000Z",
-      "teaser": "Lo clave en 20 segundos: La tensión sobre Malvinas se intensifica tras comentarios polémicos y múltiples intereses en juego.",
+      "teaser": "Lo clave en 20 segundos: Reavivan tensiones entre Argentina e Inglaterra sobre Malvinas con nuevos comentarios políticos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/7b52/live/4175af70-b02b-11f1-a8a9-13be82d23441.jpg",
       "description": "El debate sobre la soberanía de las islas gana intensidad con comentarios ambiguos de Trump y varios intereses internacionales en juego.",
       "featured": false
@@ -316,11 +342,11 @@
       "slug": "estuve-a-semanas-de-casarme-con-un-violador-en-serie-mis-seres-queridos-me-salvaron-la-vida",
       "title": "Estuve a semanas de casarme con un violador en serie. Mis seres queridos me salvaron la vida",
       "category": "Mundo",
-      "bullets_20s": "• Una mujer comparte su experiencia aterradora con un violador en serie y su familia.\n• Sus seres queridos recolectaron pruebas y las enviaron a las autoridades competentes.\n• La acción de la familia fue fundamental para evitar un trágico desenlace.\n• La historia destaca la importancia de la comunicación y el apoyo familiar.\n• A menudo, las víctimas necesitan aliados para salir del ciclo de abuso.",
+      "bullets_20s": "• La historia de una mujer que logró escapar de una situación peligrosa con un violador en serie.\n• Sus seres queridos jugaron un papel crucial al proporcionar información a las autoridades.\n• El relato destaca la importancia de la comunicación y el apoyo familiar en crisis.\n• La mujer habla sobre el impacto emocional de este suceso en su vida.\n• Este caso resalta la necesidad de atención a signos de abuso y violencia.\n• La reportera comparte detalles de cómo funcionó la intervención policial.\n• Se profundiza en la problemática de la seguridad en relaciones personales.\n• El artículo invita a reflexionar sobre cómo ayudar a quienes están en peligro.\n• La historia ha generado un amplio interés y discusión en redes sociales.\n• Los testimonios de apoyo familiar son vitales para prevenir abusos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c5yelx5l880o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-14T10:43:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Una mujer relata cómo su familia la salvó de un peligro inminente.",
+      "teaser": "Lo clave en 20 segundos: una mujer a punto de casarse con un violador, salvada por su familia.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ea88/live/a79787c0-ad0a-11f1-b1d1-571ed4d7ff2c.jpg",
       "description": "La mujer le contó a la BBC cómo su familia y amigos enviaron pruebas cruciales a la policía, lo que condujo a la detención del violador.",
       "featured": false
@@ -1798,11 +1824,11 @@
       "slug": "1115-inscripciones-marcaron-una-nueva-edicion-de-la-carrera-del-dia-del-nino-y-la-nina",
       "title": "1.115 inscripciones marcaron una nueva edición de la Carrera del Día del Niño y la Niña",
       "category": "Costa Rica",
-      "bullets_20s": "• La Carrera del Día del Niño reunió a familias en una celebrativa jornada de deporte y diversión.\n• Cerca de 650 niños participaron en la edición anterior, superando expectativas de organización.\n• Los participantes disfrutaron de la emoción y camaradería en un ambiente de alegría y entusiasmo.\n• La actividad fomenta el deporte y la interacción familiar, creando vínculos inolvidables.\n• Organizadores destacaron la importancia de asegurar a los niños un recuerdo tras la carrera.",
+      "bullets_20s": "• Cerca de 650 niños participaron en una jornada de deporte y convivencia familiar.\n• Los padres animaron a los pequeños durante las diferentes pruebas de la carrera.\n• La respuesta familiar superó las expectativas de los organizadores en inscripciones.\n• Se llenaron los cupos rápidamente, impidiendo nuevas inscripciones para la carrera.\n• Cada niño recibió materiales como un número de corredor y una medalla recuerdo.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/1115-inscripciones-marcaron-nueva-edicion-carrera-dia-nino-nina",
       "publish_date": "2026-09-11T19:28:47.000Z",
-      "teaser": "Lo clave en 20 segundos: ¡Una gran jornada llena de emoción y diversión para las familias costarricenses!",
+      "teaser": "Lo clave en 20 segundos: La Carrera del Día del Niño reunió a cientos de participantes en una jornada familiar.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/carrera-1.jpeg",
       "description": "1.115 inscripciones marcaron una nueva edición de la Carrera del Día del Niño y la Niña",
       "featured": false
@@ -1915,11 +1941,11 @@
       "slug": "tec-y-uaca-son-los-primeros-ganadores-de-la-i-serie-universitaria-de-beisbol",
       "title": "TEC y UACA son los primeros ganadores de la I Serie Universitaria de Béisbol",
       "category": "Costa Rica",
-      "bullets_20s": "• La I Serie Universitaria de Béisbol comenzó con la victoria del TEC y UACA como los primeros ganadores.\n• Los partidos se disputaron en el Campus del TEC en Cartago, marcando el regreso del béisbol universitario.\n• Andrés González, representante de la Federación, destacó la importancia continua del deporte en universidades.\n• Hironobu Ishibashi, embajador de Japón, enfatizó la relevancia de las competencias para los estudiantes.\n• La serie busca revitalizar el béisbol en el ámbito universitario y fomentar la convivencia entre jóvenes.",
+      "bullets_20s": "• TEC y UACA iniciaron la I Serie Universitaria de Béisbol con emocionantes victorias en su jornada inaugural.\n• El campeonato busca revitalizar el béisbol universitario y fomentar la competencia entre estudiantes.\n• Los primeros partidos se llevaron a cabo en el Campus del TEC, consolidando sus triunfos iniciales.\n• Andrés González reafirma la importancia de continuar el deporte en el ámbito universitario para los jóvenes.\n• Se esperan cuatro jornadas más antes de llegar a la final del torneo y determinar a los ganadores.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-uaca-son-primeros-ganadores-i-serie-universitaria-beisbol",
       "publish_date": "2026-09-11T16:39:47.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC y UACA triunfan en la I Serie Universitaria de Béisbol, marcando un regreso esperado.",
+      "teaser": "Lo clave en 20 segundos: TEC y UACA inician con victorias en la I Serie Universitaria de Béisbol.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/beisbol-1.jpeg",
       "description": "TEC y UACA son los primeros ganadores de la I Serie Universitaria de Béisbol",
       "featured": false
@@ -2643,11 +2669,11 @@
       "slug": "el-tecnologico-de-costa-rica-sera-sede-del-nasa-space-apps-challenge-cartago-2026",
       "title": "El Tecnológico de Costa Rica será sede del NASA Space Apps Challenge Cartago 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El hackathon invita a estudiantes y profesionales a resolver desafíos internacionales con datos de la NASA.\n• El evento se realizará de manera presencial el 14 y 15 de noviembre en el Campus Cartago del TEC.\n• Se abrirá la fase de formación de equipos a partir del 17 de setiembre para los participantes interesados.\n• Los proyectos ganadores a nivel local competirán a nivel internacional representando a Costa Rica.\n• El evento promueve la innovación colaborativa y el uso de datos abiertos de la NASA para soluciones.",
+      "bullets_20s": "• El NASA Space Apps Challenge se realizará en el Tecnológico de Costa Rica en Cartago.\n• El evento busca estudiantes y profesionales para resolver retos usando datos de la NASA.\n• Las inscripciones para unirse a equipos comenzarán el 17 de setiembre de 2026.\n• El hackathon presencial se llevará a cabo el 14 y 15 de noviembre de 2026.\n• Los ganadores locales tienen la oportunidad de competir internacionalmente, representando a Costa Rica.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/tecnologico-costa-rica-sera-sede-nasa-space-apps-challenge-cartago-2026",
       "publish_date": "2026-09-10T17:57:55.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC acogerá el NASA Space Apps Challenge en noviembre, invitando a la innovación y creatividad.",
+      "teaser": "Lo clave en 20 segundos: El TEC será sede del NASA Space Apps Challenge en Cartago en noviembre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/spaceapps-1.jpg",
       "description": "El Tecnológico de Costa Rica será sede del NASA Space Apps Challenge Cartago 2026",
       "featured": false
@@ -96994,10 +97020,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-14T17:45:25.316Z",
-  "total": 7461,
-  "removed_soccer_news_count": 1233,
+  "generated_at": "2026-09-14T18:45:24.733Z",
+  "total": 7463,
+  "removed_soccer_news_count": 1234,
   "removed_soccer_news_titles": [
+    "¿Cómo ver a la Selección de Costa Rica? Dos canales para los juegos en casa y otro para los de visitante",
     "Tabla de posiciones del Apertura 2026: el fútbol de Costa Rica tiene nuevo líder tras la jornada 8",
     "Keylor Navas y Pumas sufrieron con las Chivas",
     "Por qué el estrecho de Bab el‑Mandeb es clave para el comercio mundial y cómo el avance de los hutíes podría desencadenar una crisis marítima",
@@ -97046,7 +97073,6 @@
     "Pruebas PISA revelan el ‘rendimiento mundial más bajo jamás observado’: ¿cómo le fue a Costa Rica?",
     "Mauricio Solís: ‘Si Joel Campbell, Celso Borges y Keylor Navas están jugando bien, deben volver a la Selección Nacional’",
     "¿Cuál es la posibilidad real de que Joel Campbell llegue a la Selección de Costa Rica?",
-    "Carlos Mora brilla con asistencia en la goleada de su equipo (video)",
-    "Mourinho y su asignatura pendiente de la Champions con el Real Madrid"
+    "Carlos Mora brilla con asistencia en la goleada de su equipo (video)"
   ]
 }
