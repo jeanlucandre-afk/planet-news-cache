@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "balacera-en-hatillo-deja-un-hombre-fallecido",
+      "title": "Balacera en Hatillo deja un hombre fallecido",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un tiroteo en Hatillo resultó en un fallecido y la intervención de las autoridades.\n• Las fuerzas del orden incautaron tres armas, incluyendo dos de gran calibre.\n• Dos personas fueron arrestadas en conexión con el incidente violento.\n• La balacera ocurrió en la ciudadela 15 de Setiembre, área conocida por su actividad delictiva.\n• La comunidad está alarmada y exige más seguridad en la zona afectada.",
+      "source_name": "Juan Fernando Lara Salas",
+      "source_url": "https://www.nacion.com/sucesos/accidentes/balacera-en-hatillo-deja-un-hombre-fallecido/FYHIENS4UJANFLASRY7KOWRIM4/story/",
+      "publish_date": "2026-09-14T04:08:28.000Z",
+      "teaser": "Lo clave en 20 segundos: un hombre fallecido en un tiroteo en Hatillo, hay dos detenidos.",
+      "image_url": "https://www.nacion.com/resizer/v2/64F72KI4ONHZ7GT4CBQ3SNEMN4.jpg?smart=true&auth=d4475b5e27a4988fe30c14933b082e72c1af0b28c3510edd3b58b73f4711cf45&width=1440",
+      "description": "Fuerza Pública atendió incidente en la ciudadela 15 de Setiembre y decomisó tres armas —dos de alto poder— y detuvo a dos sospechosos",
+      "featured": false
+    },
+    {
+      "slug": "oscar-arias-tilda-de-banana-republics-a-gobiernos-centroamericanos-por-su-subordinacion-a-washington",
+      "title": "Óscar Arias tilda de ‘banana republics’ a gobiernos centroamericanos por su subordinación a Washington",
+      "category": "Costa Rica",
+      "bullets_20s": "• Óscar Arias, expresidente de Costa Rica, critica apertura del país a operaciones estadounidenses.\n• Arias señala que los gobiernos de Centroamérica están subordinados a la voluntad de Washington.\n• Se refiere a la situación de los países vecinos comparándolos con 'repúblicas bananeras'.\n• La influencia de Estados Unidos en la región es un tema recurrente en la política costarricense.\n• Arias enfatiza la necesidad de una postura más independiente frente a potencias extranjeras.",
+      "source_name": "Juan Fernando Lara Salas",
+      "source_url": "https://www.nacion.com/el-pais/oscar-arias-tilda-de-banana-republics-a-gobiernos/ZSPZQNKP2FDDZC5VMC6O64H3OI/story/",
+      "publish_date": "2026-09-14T03:55:54.000Z",
+      "teaser": "Lo clave en 20 segundos: Óscar Arias critica la influencia de EE. UU. en Centroamérica.",
+      "image_url": "https://www.nacion.com/resizer/v2/5DHJNQUYZFBC5BILAWZ27V3QIE.png?auth=4ec86c4c4c02a576210725e879bc275d9127bbafdf9e997545a2d1d6aab84df5&smart=true&width=1920&height=1080",
+      "description": "Expresidente Óscar Arias cuestionó apertura de Costa Rica a eventuales operaciones terrestres de Estados Unidos y acusó a gobiernos centroamericanos de estar “de rodillas ante Washington”",
+      "featured": false
+    },
+    {
       "slug": "loteria-nacional-salio-el-premio-mayor",
       "title": "Lotería Nacional: salió el PREMIO MAYOR",
       "category": "Costa Rica",
@@ -134,11 +160,11 @@
       "slug": "rusia-ataca-un-tren-ucraniano-poco-despues-de-que-altos-funcionarios-europeos-abandonaran-la-estacion",
       "title": "Rusia ataca un tren ucraniano poco después de que altos funcionarios europeos abandonaran la estación",
       "category": "Mundo",
-      "bullets_20s": "• Rusia realiza un ataque a un tren ucraniano en un contexto de tensiones crecientes.\n• Altos funcionarios europeos abandonaron la estación poco antes del ataque aéreo.\n• El incidente ha generado una fuerte condena internacional por parte de varios líderes.\n• Las implicaciones del ataque podrían afectar las relaciones internacionales en Europa.\n• Expertos analizan las motivaciones detrás de las acciones bélicas de Rusia.",
+      "bullets_20s": "• Un ataque impactante pone en riesgo la seguridad de trenes en Ucrania y la región circundante.\n• Altos funcionarios europeos habían estado presentes en la estación antes del ataque ruso.\n• La comunidad internacional observa con preocupación el desarrollo de la situación en Ucrania.\n• Las repercusiones de este ataque podrían afectar las relaciones diplomáticas en Europa.\n• Análisis sobre las motivaciones detrás de la acción militar de Rusia en territorio ucraniano.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ckg0dr4ek99o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-13T20:23:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Rusia ataca un tren ucraniano tras la salida de funcionarios europeos.",
+      "teaser": "Lo clave en 20 segundos: Rusia ataca un tren en Ucrania tras la salida de funcionarios europeos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f4d2/live/edf64150-af96-11f1-b1d1-571ed4d7ff2c.jpg",
       "description": "El ex primer ministro británico dijo: \"No sé qué lógica retorcida llevó a Putin a volar por los aires una locomotora ucraniana estacionada en la frontera polaca esta mañana\".",
       "featured": false
@@ -212,12 +238,12 @@
       "slug": "los-excepcionales-casos-de-las-personas-inmunes-al-vih-y-que-papel-tienen-en-una-posible-cura",
       "title": "Los excepcionales casos de las personas inmunes al VIH (y qué papel tienen en una posible cura)",
       "category": "Ciencia",
-      "bullets_20s": "• Investigadores analizan los casos únicos de individuos inmunes al VIH y sus implicaciones.\n• El estudio busca entender los mecanismos biológicos detrás de esta resistencia natural.\n• Los hallazgos podrían contribuir al desarrollo de nuevas terapias contra el VIH.\n• Se enfocan en el sistema inmunológico de estas personas para revelar secretos clave.\n• Esperan avances en la medicina que puedan beneficiar a millones de afectados por el virus.",
+      "bullets_20s": "• Investigaciones sobre personas inmunes al VIH están avanzando en busca de una cura posible.\n• La comunidad científica enfoca sus esfuerzos en entender sus mecanismos de defensa innatos.\n• El estudio de estos casos podría revolucionar el tratamiento del VIH a nivel mundial.\n• Aunque raros, estos individuos ofrecen pistas sobre el sistema inmunológico humano.\n• El VIH sigue siendo un desafío de salud pública que afecta a millones en todo el mundo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwyzenjndxno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-13T17:31:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudian a personas inmunes al VIH para encontrar posibles curas.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f2ab/live/fa73ab40-a85f-11f1-ae45-e9984fc27c77.png",
+      "teaser": "Lo clave en 20 segundos: Nuevas investigaciones sobre personas inmunes al VIH ofrecen esperanza para curas futuras.",
+      "image_url": "",
       "description": "Científicos están estudiando a las pocas personas excepcionales cuyos organismos parecen capaces de defenderse de forma natural del VIH, con la esperanza de encontrar nuevas curas.",
       "featured": false
     },
@@ -524,11 +550,11 @@
       "slug": "una-version-medieval-de-la-manosfera-lo-que-el-tapiz-de-bayeux-revela-sobre-la-sangrienta-y-obscena-realidad-de-la-edad-",
       "title": "Una versión medieval de la manósfera: lo que el tapiz de Bayeux revela sobre la sangrienta y obscena realidad de la Edad Media",
       "category": "Mundo",
-      "bullets_20s": "• El tapiz de Bayeux es una obra maestra de la historia medieval y revela mucho sobre la época.\n• La relación entre poder y virilidad en la Edad Media es un tema recurrente en la narrativa actual.\n• Este tapiz ilustra una visión de la guerra llena de violencia y conflicto entre reinos.\n• Analizar las imágenes del tapiz permite entender mejor las costumbres de la sociedad medieval.\n• La obra refleja la lucha por el trono y cómo los poderosos dominaban a la población.",
+      "bullets_20s": "• El tapiz de Bayeux es una obra medieval fascinante que ilustra la historia de una batalla crucial.\n• En su narrativa, se entrelazan temas de poder, violencia y la condición humana a través del tiempo.\n• La obra ofrece un reflejo sobre la sociedad medieval y sus valores complejos, aún relevantes hoy.\n• Se destacan las representaciones de la virilidad, vinculada estrechamente al concepto de dominio.\n• El análisis del tapiz revela cómo la historia es contada desde perspectivas específicas y subjetivas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/czez57d20p0o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-13T10:38:05.000Z",
-      "teaser": "Lo clave en 20 segundos: el tapiz de Bayeux revela las complejidades del poder en la Edad Media.",
+      "teaser": "Lo clave en 20 segundos: un análisis del tapiz de Bayeux y su mensaje sobre poder y violencia.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/d159/live/f6d23aa0-a095-11f1-91dc-4919512f173f.jpg",
       "description": "En la historia sobre un trono en disputa que narra esta obra maestra del siglo XI, la virilidad se equipara al poder. Es un relato que resulta familiar hoy en día.",
       "featured": false
@@ -1421,11 +1447,11 @@
       "slug": "1115-inscripciones-marcaron-una-nueva-edicion-de-la-carrera-del-dia-del-nino-y-la-nina",
       "title": "1.115 inscripciones marcaron una nueva edición de la Carrera del Día del Niño y la Niña",
       "category": "Costa Rica",
-      "bullets_20s": "• La Carrera del Día del Niño reunió a familias en una jornada de deporte y convivencia en Cartago.\n• Cerca de 650 niños participaron en la carrera, superando las expectativas de registro inicial.\n• Los organizadores debieron rechazar solicitudes para mantener la calidad de la experiencia de los niños.\n• Se distribuyeron medallas y materiales a cada niño para hacer memorable la participación.\n• La carrera tiene historia en el TEC, remontándose a finales de los 90 y fue reactivada recientemente.",
+      "bullets_20s": "• La Carrera del Día del Niño tuvo lugar en el Tecnológico de Costa Rica en Cartago.\n• Cerca de 650 pequeños corredores disfrutaron de la actividad familiar y deportiva.\n• La participación superó expectativas, alcanzando 1.115 inscripciones en total.\n• El evento, que se ha realizado desde los 90, es destacado en la comunidad.\n• Organizadores tuvieron que rechazar solicitudes por falta de materiales para los niños.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/1115-inscripciones-marcaron-nueva-edicion-carrera-dia-nino-nina",
       "publish_date": "2026-09-11T19:28:47.000Z",
-      "teaser": "Lo clave en 20 segundos: más de mil inscripciones, una celebración del deporte y la familia.",
+      "teaser": "Lo clave en 20 segundos: Más de mil inscripciones para la Carrera del Día del Niño en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/carrera-1.jpeg",
       "description": "1.115 inscripciones marcaron una nueva edición de la Carrera del Día del Niño y la Niña",
       "featured": false
@@ -1538,11 +1564,11 @@
       "slug": "tec-y-uaca-son-los-primeros-ganadores-de-la-i-serie-universitaria-de-beisbol",
       "title": "TEC y UACA son los primeros ganadores de la I Serie Universitaria de Béisbol",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC y UACA celebraron sus primeras victorias en la nueva serie universitaria de béisbol.\n• La competencia busca revitalizar los espacios para el béisbol entre estudiantes universitarios.\n• La primera jornada se disputó el 5 de septiembre en el Campus del TEC en Cartago.\n• La Serie Universitaria de Béisbol incluye representación tanto masculina como femenina en los equipos.\n• Andrés González destaca la importancia del béisbol en la continuidad deportiva de los jóvenes.",
+      "bullets_20s": "• La I Serie Universitaria de Béisbol ya tiene sus primeros ganadores tras una intensa jornada inaugural.\n• El TEC y la UACA triunfaron en sus respectivos encuentros, destacando el regreso del deporte universitario.\n• Andrés González resaltó la importancia de mantener un proceso continuo de competencia deportiva para los jóvenes.\n• Hironobu Ishibashi, embajador de Japón, destacó la necesidad de generar más competencias universitarias de béisbol.\n• La serie busca involucrar a más estudiantes en el béisbol y fomentar la creación de comunidades deportivas.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-uaca-son-primeros-ganadores-i-serie-universitaria-beisbol",
       "publish_date": "2026-09-11T16:39:47.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC y UACA ganaron en la I Serie Universitaria de Béisbol, reactivando la competencia en este deporte.",
+      "teaser": "Lo clave en 20 segundos: El TEC y UACA inician la I Serie Universitaria de Béisbol con importantes victorias.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/beisbol-1.jpeg",
       "description": "TEC y UACA son los primeros ganadores de la I Serie Universitaria de Béisbol",
       "featured": false
@@ -2266,13 +2292,13 @@
       "slug": "el-tecnologico-de-costa-rica-sera-sede-del-nasa-space-apps-challenge-cartago-2026",
       "title": "El Tecnológico de Costa Rica será sede del NASA Space Apps Challenge Cartago 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El NASA Space Apps Challenge invita a todos a resolver desafíos usando datos abiertos.\n• El evento se llevará a cabo los días 14 y 15 de noviembre en Cartago.\n• La formación de equipos inicia el 17 de setiembre, facilitando la colaboración.\n• Participantes podrán crear soluciones para problemas de la Tierra y el espacio.\n• El evento es gratuito y abierto a estudiantes, profesionales y creativos.\n• Los proyectos ganadores avanzarán a la fase de juzgamiento internacional.\n• Este hackathon promueve la innovación colaborativa entre diversos perfiles.\n• Se ofrecerá mentoría de especialistas locales e internacionales durante el evento.",
+      "bullets_20s": "• El evento se llevará a cabo el 14 y 15 de noviembre en el TEC, Cartago.\n• Invita a estudiantes, profesionales y creativos a resolver desafíos de la NASA.\n• La fase de formación de equipos comienza el 17 de setiembre de 2026.\n• Es un hackathon gratuito que promueve la innovación y el uso de datos abiertos.\n• Los mejores proyectos locales competirán en la fase de juzgamiento internacional.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/tecnologico-costa-rica-sera-sede-nasa-space-apps-challenge-cartago-2026",
       "publish_date": "2026-09-10T17:57:55.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC acoge el NASA Space Apps Challenge 2026, invitando a solucionar problemas globales.",
+      "teaser": "Lo clave en 20 segundos: Innovación y colaboración en el NASA Space Apps Challenge 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/spaceapps-1.jpg",
-      "description": "El Tecnológico de Costa Rica será sede del NASA Space Apps Challenge Cartago 2026",
+      "description": "El Tecnológico de Costa Rica será sede del NASA Space Apps Challenge Cartago 2026.",
       "featured": false
     },
     {
@@ -96617,10 +96643,13 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-14T03:45:24.802Z",
-  "total": 7432,
-  "removed_soccer_news_count": 1230,
+  "generated_at": "2026-09-14T04:45:25.021Z",
+  "total": 7434,
+  "removed_soccer_news_count": 1233,
   "removed_soccer_news_titles": [
+    "Tabla de posiciones del Apertura 2026: el fútbol de Costa Rica tiene nuevo líder tras la jornada 8",
+    "Keylor Navas y Pumas sufrieron con las Chivas",
+    "Por qué el estrecho de Bab el‑Mandeb es clave para el comercio mundial y cómo el avance de los hutíes podría desencadenar una crisis marítima",
     "Kane sale al rescate del Bayern Múnich en la Bundesliga",
     "El Manchester City conquista Old Trafford con diez y resiste el ritmo del Arsenal",
     "Selección Femenina Sub-20 cae de nuevo y se despide del Mundial sufriendo la tercera goleada",
@@ -96667,9 +96696,6 @@
     "Mauricio Solís: ‘Si Joel Campbell, Celso Borges y Keylor Navas están jugando bien, deben volver a la Selección Nacional’",
     "¿Cuál es la posibilidad real de que Joel Campbell llegue a la Selección de Costa Rica?",
     "Carlos Mora brilla con asistencia en la goleada de su equipo (video)",
-    "Mourinho y su asignatura pendiente de la Champions con el Real Madrid",
-    "El dilema que enfrenta Europa tras la primera victoria de la extrema derecha en Alemania desde la Segunda Guerra Mundial",
-    "Toluca es el nuevo campeón de la Leagues Cup",
-    "Muere exfutbolista costarricense luego de marcar un gol"
+    "Mourinho y su asignatura pendiente de la Champions con el Real Madrid"
   ]
 }
