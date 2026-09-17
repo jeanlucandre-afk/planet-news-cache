@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "microsoft-advierte-que-la-ia-sin-control-podria-dar-lugar-a-una-especie-no-humana-que-compita-con-las-personas",
+      "title": "Microsoft advierte que la IA sin control podría dar lugar a una \"especie no humana\" que compita con las personas",
+      "category": "Tecnología",
+      "bullets_20s": "• Microsoft alerta sobre el desarrollo de IA sin un control adecuado en el futuro.\n• El experto Mustafa Suleyman se pronuncia sobre riesgos que plantea esta situación.\n• Suleyman menciona a la empresa rival Anthropic y su bot Claude en su análisis.\n• Se pone en evidencia el potencial de competir con la inteligencia humana.\n• La conversación sobre regulación de IA se vuelve cada vez más urgente.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/ck5ylr62r9r6o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-09-17T16:19:20.000Z",
+      "teaser": "Lo clave en 20 segundos: Microsoft advierte sobre los riesgos de la IA descontrolada.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c4c4/live/26db17d0-b270-11f1-a430-4d16ee157c41.jpg",
+      "description": "El responsable de IA de Microsoft, Mustafa Suleyman, considera que la empresa rival Anthropic está enseñando a su bot Claude que \"puede ser consciente\".",
+      "featured": false
+    },
+    {
+      "slug": "los-regalos-que-su-hijo-recordara-para-siempre-y-que-no-cuestan-dinero-videopodcast-mi-bienestar-t3-e5",
+      "title": "Los regalos que su hijo recordará para siempre (y que no cuestan dinero) | Videopodcast Mi Bienestar T3 - E5",
+      "category": "Ciencia",
+      "bullets_20s": "• Los regalos invisibles influyen en el desarrollo emocional y psicológico de los niños.\n• El tiempo de calidad con los hijos es una de las mejores inversiones emocionales.\n• El apoyo y la escucha activa son fundamentales para una buena crianza.\n• Experiencias compartidas se convierten en recuerdos valiosos para toda la vida.\n• Fomentar la creatividad y la curiosidad contribuye al crecimiento integral.\n• Las lecciones sobre valores como la empatía son regalos invaluables.\n• Las tradiciones familiares fortalecen la conexión entre padres e hijos.\n• Regalar amor incondicional crea un ambiente seguro y de confianza.\n• Las pequeñas atenciones diarias pueden tener un gran impacto emocional.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/mi-bienestar/los-regalos-que-su-hijo-recordara-para-siempre-y/HG4WCKLN5NCDNBKQVPSDVRKO2M/story/",
+      "publish_date": "2026-09-17T16:16:03.000Z",
+      "teaser": "Lo clave en 20 segundos: Regalos invisibles marcan la infancia y son inolvidables.",
+      "image_url": "https://www.nacion.com/resizer/v2/FEXNX6U3PJFDVEZ33CGFMXQM4U.png?auth=abd6a0f4b236ce33fde51f7110c31febf8f448ba5ba3fe3217188fcdf2ceb1d7&smart=true&width=1280&height=720",
+      "description": "¿Qué recordarán sus hijos cuando crezcan? La psicóloga Georgina Echandi explica cuáles son esos regalos invisibles que marcan la infancia y se ven reflejados en la adultez",
+      "featured": false
+    },
+    {
+      "slug": "programa-abre-becas-de-hasta-el-100-para-estudiar-ingles-conozca-los-requisitos-y-como-aplicar",
+      "title": "Programa abre becas de hasta el 100% para estudiar inglés: conozca los requisitos y cómo aplicar",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las becas ofrecen hasta el 100% de cobertura para el estudio del inglés en el país.\n• Existen requisitos específicos que los interesados deben cumplir para aplicar a las becas.\n• El programa tiene como objetivo mejorar las habilidades en inglés de la población costarricense.\n• Las solicitudes estarán abiertas por tiempo limitado, así que se recomienda aplicar pronto.\n• El estudio del inglés es crucial para mejorar oportunidades laborales en un mundo globalizado.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/el-pais/programa-abre-becas-de-hasta-el-100-para-estudiar/Z7O2M2JTXRD5BDP52RB2D4EIAU/story/",
+      "publish_date": "2026-09-17T16:11:18.000Z",
+      "teaser": "Lo clave en 20 segundos: becas de inglés al 100% disponibles en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/UETVV2SN6BB4HDQBPX53DJCTHY.png?auth=a4177f822fec906a6b6981b614f8f8c881161bcfef6123b3676b76d098079bc1&smart=true&width=1920&height=1080",
+      "description": "Programa abre becas y beneficios para estudiar inglés en Costa Rica. Conozca los requisitos, las coberturas disponibles y cómo aplicar.",
+      "featured": false
+    },
+    {
       "slug": "openai-revela-seis-nuevos-casos-de-desajuste-en-el-comportamiento-de-sus-modelos-de-ia",
       "title": "OpenAI revela seis nuevos casos de desajuste en el comportamiento de sus modelos de IA",
       "category": "Tecnología",
@@ -56,11 +95,11 @@
       "slug": "la-playa-de-los-huesos-como-rusia-intenta-olvidar-la-represion-sovietica-pero-las-pruebas-siguen-aflorando-en-un-lago",
       "title": "La playa de los huesos: cómo Rusia intenta olvidar la represión soviética (pero las pruebas siguen aflorando en un lago)",
       "category": "Mundo",
-      "bullets_20s": "• La playa de los huesos es un recordatorio de la represión soviética en Rusia.\n• Las víctimas del gulag siguen dejando su huella en este lago artificial.\n• El pueblo fue construido por prisioneros durante la era soviética.\n• Las pruebas de la represión soviética afloran con cada hallazgo en la playa.\n• Investigadores estudian el impacto histórico y emocional de estos descubrimientos.",
+      "bullets_20s": "• La playa de los huesos se sitúa en un pueblo construido por prisioneros durante la era soviética.\n• A lo largo de los años, restos de víctimas del gulag han aparecido en esta playa artificial.\n• El intento de olvidar la represión es una lucha constante en la memoria histórica de Rusia.\n• Las autoridades rusas enfrentan críticas por no abordar adecuadamente el pasado soviético.\n• A pesar de los esfuerzos, las pruebas del sufrimiento reciente siguen saliendo a la luz.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqm2m487e0kro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-17T14:37:08.000Z",
-      "teaser": "Lo clave en 20 segundos: la playa artificial en Rusia revela los restos de la represión soviética.",
+      "teaser": "Lo clave en 20 segundos: La represión soviética sigue viva en la playa de los huesos en Rusia.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/d11c/live/8915b9c0-a55d-11f1-aed2-8d6da8d75094.jpg",
       "description": "En un remoto pueblo ruso construido por prisioneros soviéticos, los huesos de las víctimas del gulag siguen apareciendo en una playa artificial.",
       "featured": false
@@ -251,11 +290,11 @@
       "slug": "el-caso-de-los-3-estadounidenses-que-denunciaron-torturas-en-venezuela-y-por-el-que-el-gobierno-de-trump-pidio-inmunidad",
       "title": "El caso de los 3 estadounidenses que denunciaron torturas en Venezuela y por el que el gobierno de Trump pidió inmunidad para Delcy Rodríguez",
       "category": "Mundo",
-      "bullets_20s": "• Tres estadounidenses han denunciado torturas en Venezuela, generando preocupación internacional.\n• El gobierno de Trump busca inmunidad para Delcy Rodríguez en este controvertido caso.\n• Alex Saab, empresario aliado de Maduro, está en el centro del intercambio y las liberaciones.\n• El caso resalta la compleja relación entre Estados Unidos y Venezuela en temas de derechos humanos.\n• Organizaciones de derechos humanos siguen de cerca estos acontecimientos y sus consecuencias.",
+      "bullets_20s": "• Tres estadounidenses denunciaron torturas durante su detención en Venezuela, lo que ha generado gran controversia.\n• El gobierno de Trump solicitó inmunidad para Delcy Rodríguez, una figura clave en el asunto.\n• Este caso refleja las tensiones diplomáticas entre Estados Unidos y el gobierno venezolano actual.\n• Los detenidos fueron liberados tras un intercambio relacionado con Alex Saab, un empresario controversioso.\n• La denuncia de tortura pone en evidencia las violaciones de derechos humanos en Venezuela.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/crl6j975nz5o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-17T11:26:32.000Z",
-      "teaser": "Lo clave en 20 segundos: Tres estadounidenses denuncian torturas en Venezuela, lo que genera tensiones políticas.",
+      "teaser": "Lo clave en 20 segundos: Denuncias de tortura y un intercambio diplomático marcan este complejo caso.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/541f/live/5aca14a0-b28a-11f1-8096-b33a1297275a.jpg",
       "description": "Edgar José Marval fue uno de los 10 estadounidenses detenidos en Venezuela que fueron liberados a cambio de la liberación de Alex Saab, el empresario colombiano aliado de Nicolás Maduro.",
       "featured": false
@@ -875,11 +914,11 @@
       "slug": "acceso-a-la-educacion-superior-de-calidad-8-de-cada-10-estudiantes-del-tec-vienen-de-colegios-con-financiamiento-publico",
       "title": "Acceso a la educación superior de calidad: 8 de cada 10 estudiantes del TEC vienen de colegios con financiamiento público",
       "category": "Costa Rica",
-      "bullets_20s": "• El 76,87% de estudiantes del TEC proviene de colegios con financiamiento público desde 2020.\n• 63,32% de estudiantes ingresantes al TEC son de colegios completamente públicos en 2026.\n• La solicitud de becas universitarias se ha mantenido constante alrededor del 56,80% desde 2020.\n• El 70,29% de estudiantes obtiene financiamiento principal de su núcleo familiar, apoyos importantes.\n• La participación de mujeres en el TEC ha aumentado, alcanzando un 39,97% en 2026.",
+      "bullets_20s": "• El 76,87% de estudiantes del TEC proviene de colegios con financiamiento público, según un estudio detallado.\n• La mayoría, 63,32%, asiste a colegios completamente públicos, mientras que solo el 22,18% son de privados.\n• El estudio muestra que el 56,80% de nuevos estudiantes solicitó beca universitaria en 2026, cifra estable.\n• Las condiciones académicas son favorables, con escasa necesidad de trabajo mientras estudian para muchos estudiantes.\n• La participación femenina también aumenta, alcanzando el 39,97% en la nueva generación de estudiantes en 2026.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/acceso-educacion-superior-calidad-8-cada-10-estudiantes-tec-vienen-colegios-financiamiento-publico",
       "publish_date": "2026-09-16T12:29:31.000Z",
-      "teaser": "Lo clave en 20 segundos: El 76,87% del estudiantado del TEC proviene de colegios públicos.",
+      "teaser": "Lo clave en 20 segundos: Ocho de cada diez nuevos estudiantes del TEC provienen de colegios públicos, según un estudio reciente.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/stock_estudiantes-mecatronica_tec-15.jpg",
       "description": "Acceso a la educación superior de calidad: 8 de cada 10 estudiantes del TEC vienen de colegios con financiamiento público",
       "featured": false
@@ -3722,11 +3761,11 @@
       "slug": "1115-inscripciones-marcaron-una-nueva-edicion-de-la-carrera-del-dia-del-nino-y-la-nina",
       "title": "1.115 inscripciones marcaron una nueva edición de la Carrera del Día del Niño y la Niña",
       "category": "Costa Rica",
-      "bullets_20s": "• La Carrera del Día del Niño del TEC reunió a familias para celebrar el deporte y la convivencia familiar.\n• Niños y niñas corrieron emocionados, disfrutando de la experiencia y los abrazos al finalizar la carrera.\n• Se superaron las expectativas de inscripción, alcanzando un total de 1.115 participantes en la actividad.\n• Organizadores ahora buscan mejorar la experiencia familiar durante las competencias y asegurar el orden.\n• A pesar de la pandemia, la carrera ha vuelto a tomar impulso, destacando la alegría entre los pequeños.",
+      "bullets_20s": "• La Carrera del Día del Niño reunió a cientos de pequeños corredores y sus familias en Costa Rica.\n• Cerca de 650 niños y niñas participaron, celebrando el deporte y la convivencia familiar.\n• Los organizadores se sorprendieron por el número de inscripciones, superando las expectativas iniciales.\n• Alcanzaron 1.115 inscripciones, generando necesidad de rechazar nuevas solicitudes por limitaciones.\n• El evento, que tiene una larga trayectoria, se reinició tras la pandemia con gran aceptación.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/1115-inscripciones-marcaron-nueva-edicion-carrera-dia-nino-nina",
       "publish_date": "2026-09-11T19:28:47.000Z",
-      "teaser": "Lo clave en 20 segundos: La Carrera del Día del Niño contó con más de mil inscripciones.",
+      "teaser": "Lo clave en 20 segundos: Más de 1.100 inscripciones en la Carrera del Día del Niño, celebrando el deporte familiar.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/carrera-1.jpeg",
       "description": "1.115 inscripciones marcaron una nueva edición de la Carrera del Día del Niño y la Niña",
       "featured": false
@@ -3839,11 +3878,11 @@
       "slug": "tec-y-uaca-son-los-primeros-ganadores-de-la-i-serie-universitaria-de-beisbol",
       "title": "TEC y UACA son los primeros ganadores de la I Serie Universitaria de Béisbol",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica y la UACA se destacan en la I Serie Universitaria de Béisbol.\n• La serie busca reactivar la práctica del béisbol entre estudiantes universitarios en Costa Rica.\n• Los partidos iniciales muestran competencia y emoción entre los equipos participantes.\n• Las jornadas continuarán hasta definir los equipos que disputarán la gran final en noviembre.\n• El embajador de Japón subraya la importancia del béisbol en el ámbito estudiantil costarricense.",
+      "bullets_20s": "• La I Serie Universitaria de Béisbol busca revitalizar el béisbol entre estudiantes universitarios en Costa Rica.\n• TEC y UACA celebraron victorias en la jornada inaugural del torneo que comienza de nuevo tras 20 años.\n• El TEC ganó su partido contra UCR en una reñida competencia con un marcador de 6 a 5.\n• La UACA también tuvo un gran inicio, logrando vencer a UCR Turrialba por 16 carreras a 0.\n• La competencia se estructurará en varias jornadas, culminando en la gran final el 14 de noviembre.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-uaca-son-primeros-ganadores-i-serie-universitaria-beisbol",
       "publish_date": "2026-09-11T16:39:47.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC y UACA brillan en el béisbol universitario costarricense.",
+      "teaser": "Lo clave en 20 segundos: TEC y UACA inician la I Serie Universitaria de Béisbol con triunfos importantes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/beisbol-1.jpeg",
       "description": "TEC y UACA son los primeros ganadores de la I Serie Universitaria de Béisbol",
       "featured": false
@@ -98918,10 +98957,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-17T15:45:26.043Z",
-  "total": 7609,
-  "removed_soccer_news_count": 1246,
+  "generated_at": "2026-09-17T16:45:24.774Z",
+  "total": 7612,
+  "removed_soccer_news_count": 1247,
   "removed_soccer_news_titles": [
+    "Julio Cascante tiene nuevo equipo en el fútbol internacional",
     "Quiénes son los hutíes, los rebeldes aliados de Irán en Yemen que tienen en vilo al mercado mundial de petróleo",
     "El Barcelona es una máquina de hacer goles",
     "Cartaginés cuenta un gran secreto sobre Geancarlo Castro y su contrato",
@@ -98970,7 +99010,6 @@
     "Este es el millonario monto que desembolsará el Banco Popular a la Federación Costarricense de Fútbol",
     "El acuerdo del fútbol español para congelar óvulos abre un debate en el deporte femenino",
     "Vuelve la regla en desuso en casi todo el mundo que Concacaf adora y aplica en la Copa Centroamericana",
-    "Hazaña de Puntarenas inspira a equipo salvadoreño en la Copa Centroamericana",
-    "Periodistas de ESPN se atreven a decir lo que pasa hoy con varios clubes en Centroamérica"
+    "Hazaña de Puntarenas inspira a equipo salvadoreño en la Copa Centroamericana"
   ]
 }
