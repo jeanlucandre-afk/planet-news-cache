@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "alianza-escudo-de-las-americas-propone-tomar-medidas-colectivas-contra-grupos-criminales",
+      "title": "Alianza Escudo de las Américas propone tomar ‘medidas colectivas’ contra grupos criminales",
+      "category": "Mundo",
+      "bullets_20s": "• La Alianza Escudo de las Américas busca medidas globales contra el crimen organizado.\n• Estados Unidos lidera la iniciativa y Costa Rica se unió en marzo pasado.\n• Se propone sanciones colectivas para combatir grupos delictivos en la región.\n• El enfoque es colaborar entre naciones para mejorar la seguridad.\n• Se incluye la identificación de 24 grupos criminales de interés común.\n• Las medidas buscan fortalecer la cooperación internacional en materia de seguridad.\n• La lucha contra el crimen organizado es una prioridad para varios países.\n• Expertos han señalado la relevancia de estas alianzas frente al delito.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/alianza-escudo-de-las-americas-propone-tomar/XMJ6FBNHSFEKFMCSBC5QLUTPEY/story/",
+      "publish_date": "2026-09-23T00:00:59.000Z",
+      "teaser": "Lo clave en 20 segundos: la Alianza propone sanciones colectivas contra el crimen organizado.",
+      "image_url": "https://www.nacion.com/resizer/v2/M4DDDMV5M5DNDDJ2NTGYVQUKH4.jpg?auth=ac9f6e6cffd23e2cd5e414cc89ce93cf81d0113bc81909839f97b324577849a3&smart=true&width=1200&height=809",
+      "description": "Grupo liderado por Estados Unidos, al que se sumó Costa Rica en marzo, buscará sancionar colectivamente a 24 grupos de crimen organizado.",
+      "featured": false
+    },
+    {
       "slug": "medida-cautelar-frena-nueva-contratacion-para-ampliar-puerto-caldera",
       "title": "Medida cautelar frena nueva contratación para ampliar Puerto Caldera",
       "category": "Costa Rica",
@@ -56,12 +69,12 @@
       "slug": "3-afirmaciones-que-trump-realizo-ante-la-asamblea-general-de-la-onu-verificadas-por-la-bbc",
       "title": "3 afirmaciones que Trump realizó ante la Asamblea General de la ONU, verificadas por la BBC",
       "category": "Mundo",
-      "bullets_20s": "• La Asamblea General de la ONU recibió diversas afirmaciones del presidente Trump este año.\n• BBC Verify dedicó recursos para validar la veracidad de estas afirmaciones políticas.\n• El análisis se centró en los hechos y la evidencia que respaldan las declaraciones de Trump.\n• Las verificaciones han generado un debate sobre la información presentada en el foro internacional.\n• El contexto global influye en cómo se perciben las afirmaciones de los líderes mundiales.",
+      "bullets_20s": "• Las declaraciones de Trump fueron analizadas en un contexto crítico para entender su veracidad.\n• BBC Verify se encargó de contrastar cada afirmación con datos y hechos históricos.\n• Esta revisión busca fomentar una discusión más informada sobre política internacional.\n• El papel de la ONU es crucial en medio de las preocupaciones globales actuales.\n• La transparencia en la información es fundamental para la rendición de cuentas de líderes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqdr743ykg2zo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-22T21:50:08.000Z",
-      "teaser": "Lo clave en 20 segundos: Verifican afirmaciones de Trump en la ONU con contraste de datos reales.",
-      "image_url": "",
+      "teaser": "Lo clave en 20 segundos: Verifican afirmaciones de Trump ante la ONU en contexto global actual.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c07b/live/b8776140-b6c5-11f1-991e-856baf8e71f7.jpg",
       "description": "Jake Horton, Ben Chu y Rupert Carey, de BBC Verify, examinaron las afirmaciones del presidente y las contrastaron con los datos y la evidencia disponibles.",
       "featured": false
     },
@@ -199,11 +212,11 @@
       "slug": "con-una-historia-detras-de-cada-titulo-campus-de-san-jose-gradua-99-profesionales",
       "title": "Con una historia detrás de cada título, Campus de San José gradúa 99 profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El Campus Tecnológico Local San José graduó a 99 nuevos profesionales en una emotiva ceremonia.\n• La graduación fue parte de un proceso que incluye 535 títulos entregados en el TEC.\n• Los graduandos compartieron historias de sacrificio y esfuerzo detrás de sus logros académicos.\n• La educación pública se destaca como un motor de movilidad social en el país.\n• Las becas otorgadas por el TEC permiten a muchos estudiantes cumplir sus sueños educativos.",
+      "bullets_20s": "• La graduación es parte de las ordinarias del TEC, que entregará 535 títulos en total.\n• Gabriela López recibió su título de Bachillerato gracias a una beca del TEC.\n• Gabriel Furnier, graduado, compartió su anhelo de ser conductor de tren en su discurso.\n• Ronald Bonilla resaltó la importancia de las historias detrás de cada título otorgado.\n• El evento se llevó a cabo en dos sesiones el 22 de septiembre, con gran asistencia.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/historia-detras-cada-titulo-campus-san-jose-gradua-99-profesionales",
       "publish_date": "2026-09-22T17:31:32.000Z",
-      "teaser": "Lo clave en 20 segundos: Graduación en San José refleja historias de sacrificio y éxito académico.",
+      "teaser": "Lo clave en 20 segundos: Graduación del TEC con historias inspiradoras de esfuerzo y oportunidades.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-tec-san-jose_22-setiembre-2026_rgarita-17.png",
       "description": "Con una historia detrás de cada título, Campus de San José gradúa 99 profesionales",
       "featured": false
@@ -380,12 +393,12 @@
     {
       "slug": "por-que-las-guacamayas-rojas-dejan-morir-a-sus-crias-y-como-una-cientifica-peruana-intenta-salvarlas",
       "title": "Por qué las guacamayas rojas dejan morir a sus crías y cómo una científica peruana intenta salvarlas",
-      "category": "Ciencia",
-      "bullets_20s": "• Las guacamayas rojas exhiben un comportamiento controversial en su crianza de crías.\n• La investigación se centra en la supervivencia y adaptación de estas aves en la naturaleza.\n• Una científica peruana lidera un esfuerzo para proteger a estas guacamayas en peligro.\n• Los métodos de crianza pueden deberse a la competencia por recursos en el hábitat.\n• El estudio de este comportamiento ayuda a comprender la ecología de estas especies.",
+      "category": "Mundo",
+      "bullets_20s": "• Las guacamayas rojas han desarrollado un comportamiento curioso durante la crianza de sus crías.\n• Una científica peruana investiga el fenómeno de la supervivencia en estas aves tropicales.\n• El abandono de crías puede parecer cruel, pero responde a una estrategia de adaptación evolutiva.\n• El estudio busca mitigar los efectos negativos de la pérdida en el hábitat de estas guacamayas.\n• La investigación promueve el equilibrio entre la conservación y las actividades humanas en la región.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6wyzg18vw05o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-22T13:05:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Las guacamayas rojas sorprenden con sus métodos de crianza.",
+      "teaser": "Lo clave en 20 segundos: Descubre por qué estas guacamayas muestran un comportamiento sorprendente con sus crías.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/4384/live/bacfb730-b2f6-11f1-b1d1-571ed4d7ff2c.jpg",
       "description": "Aunque parezca un método de crianza brutal fue, en su momento, una estrategia de supervivencia.",
       "featured": false
@@ -576,11 +589,11 @@
       "slug": "tec-rindio-un-historico-y-solemne-homenaje-a-su-personal-jubilado-al-conmemorar-su-55-aniversario",
       "title": "TEC rindió un histórico y solemne homenaje a su personal jubilado al conmemorar su 55 aniversario",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica realizó un emotivo homenaje a su personal jubilado en su 55 aniversario.\n• El evento resaltó el legado humano y académico de quienes construyeron la institución a lo largo de los años.\n• Reconocieron públicamente la trayectoria de antiguos empleados con certificados y regalos conmemorativos.\n• La ceremonia incluyó un recorrido histórico sobre los logros del TEC en sus cinco décadas de existencia.\n• Los comentarios de líderes institucionales destacaron la importancia del compromiso de los jubilados con la comunidad.",
+      "bullets_20s": "• El TEC celebró su 55 aniversario honrando a su personal jubilado por su dedicación y esfuerzo.\n• La ceremonia incluyó un video mostrando la evolución del TEC a lo largo de los años.\n• Ricardo Coy, vicerrector de Docencia, agradeció a los jubilados por sus contribuciones al TEC.\n• Sofía Brenes Meza destacó la importancia de disfrutar el tiempo y proyectos en esta nueva etapa.\n• Los jubilados recibieron un certificado y un pin conmemorativo en reconocimiento a su trayectoria.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-rindio-historico-solemne-homenaje-su-personal-jubilado-conmemorar-su-55-aniversario",
       "publish_date": "2026-09-22T04:16:18.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC rinde homenaje a su personal jubilado por 55 años de dedicación y esfuerzo.",
+      "teaser": "Lo clave en 20 segundos: TEC homenajea a su personal jubilado en su 55 aniversario, reconociendo su labor invaluable.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/actividad-pensionados-55-aniversario-tec_rgarita-2-2_0.png",
       "description": "TEC rindió un histórico y solemne homenaje a su personal jubilado al conmemorar su 55 aniversario",
       "featured": false
@@ -784,11 +797,11 @@
       "slug": "taller-gratuito-mamiferos-de-costa-rica",
       "title": "Taller gratuito: Mamíferos de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El taller abordará la taxonomía de los mamíferos nativos del país, en un espacio abierto.\n• Participarán expertos en mamíferos, quienes compartirán información valiosa y actualizada.\n• El evento se llevará a cabo el 8 de octubre en San José, con ingreso libre.\n• Se discutirá la distribución geográfica y los retos de conservación enfrentados.\n• Está dirigido a docentes, investigadores y público en general interesado en la fauna.",
+      "bullets_20s": "• El taller se centrará en la fauna silvestre, especialmente en los mamíferos de Costa Rica.\n• Se discutirán aspectos como taxonomía, distribución geográfica y conservación de mamíferos.\n• El evento es gratuito y abierto al público, promoviendo la educación ambiental.\n• Expertos en mamíferos impartirán el taller, compartiendo valiosa información científica.\n• La actividad está dirigida a académicos, docentes e interesados en la biodiversidad.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/taller-gratuito-mamiferos-costa-rica",
       "publish_date": "2026-09-21T20:18:53.000Z",
-      "teaser": "Lo clave en 20 segundos: Un taller gratuito sobre mamíferos en Costa Rica, el 8 de octubre.",
+      "teaser": "Lo clave en 20 segundos: Taller gratuito sobre mamíferos de Costa Rica invita a expertos y público general.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/812427985_1112345781449502_5653105212852860094_n.jpg",
       "description": "Taller gratuito: Mamíferos de Costa Rica",
       "featured": false
@@ -1356,11 +1369,11 @@
       "slug": "nueve-de-cada-diez-personas-graduadas-del-tec-con-empleo-trabajan-como-asalariadas",
       "title": "Nueve de cada diez personas graduadas del TEC con empleo trabajan como asalariadas",
       "category": "Costa Rica",
-      "bullets_20s": "• El 89,5 % de graduados del TEC trabaja de forma asalariada según el último estudio laboral.\n• Siete de cada diez estudiantes del TEC tenían empleo antes de graduarse, destacando su empleabilidad.\n• El 93,8% de asalariados posee contrato indefinido, reflejando estabilidad laboral en el sector.\n• El 55,9% de los graduados es la primera generación universitaria en su familia, marcando un hito.\n• Un 71,2% de graduados trabajaba al momento de finalizar sus estudios, una tendencia positiva.",
+      "bullets_20s": "• El 89,5% de graduados del TEC trabaja como asalariado según un estudio reciente.\n• Siete de cada diez estudiantes del TEC tenían empleo antes de graduarse.\n• El 93,8% de las personas asalariadas cuenta con contrato indefinido.\n• Más de la mitad de los graduados es la primera generación universitaria en su familia.\n• El 71,2% logró obtener un empleo relacionado con su carrera tras graduarse.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/nueve-cada-diez-personas-graduadas-tec-empleo-trabajan-asalariadas",
       "publish_date": "2026-09-20T21:35:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Casi el 90% de graduados del TEC están empleados, mostrando buena empleabilidad.",
+      "teaser": "Lo clave en 20 segundos: El 89,5% de graduados del TEC trabaja como asalariado, destacando su empleabilidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduaciones-marzo-2026_san-carlos_rcascante-19.jpg",
       "description": "Nueve de cada diez personas graduadas del TEC con empleo trabajan como asalariadas",
       "featured": false
@@ -3150,11 +3163,11 @@
       "slug": "conversatorio-semillas-de-un-sueno-los-pioneros-de-la-escuela-a-50-anos-de-su-siembra",
       "title": "Conversatorio “Semillas de un Sueño: Los Pioneros de la Escuela a 50 Años de su Siembra”",
       "category": "Costa Rica",
-      "bullets_20s": "• El 24 de septiembre de 2026 se celebrará un conversatorio en el TEC.\n• El evento conmemorará los 50 años de la Escuela de Agronegocios.\n• Se honrará la memoria histórica de figuras clave en la institución.\n• Panel de invitados incluye a primeros directores y docentes de la escuela.\n• Los asistentes disfrutarán de un recorrido por instalaciones de la escuela.",
+      "bullets_20s": "• Se celebran 50 años de la Escuela de Agronegocios del TEC en un evento cultural significativo.\n• El conversatorio busca recordar las figuras clave de la fundación de la escuela.\n• Habrá un panel con protagonistas que compartirán sus experiencias y anécdotas.\n• El evento está programado para el 24 de septiembre, a las 9:30 a.m.\n• Incluye una visita a instalaciones clave donde se desarrollan prácticas docentes.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/conversatorio-semillas-sueno-pioneros-escuela-50-anos-su-siembra",
       "publish_date": "2026-09-18T01:44:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Honran a pioneros de la Escuela de Agronegocios en su 50 aniversario.",
+      "teaser": "Lo clave en 20 segundos: Conmemoran 50 años de la Escuela de Agronegocios en un conversatorio especial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/capacitacion_productores_paquera_17_0.jpg",
       "description": "Conversatorio “Semillas de un Sueño: Los Pioneros de la Escuela a 50 Años de su Siembra”",
       "featured": false
@@ -102506,10 +102519,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-22T23:46:05.539Z",
-  "total": 7885,
-  "removed_soccer_news_count": 1272,
+  "generated_at": "2026-09-23T00:46:04.237Z",
+  "total": 7886,
+  "removed_soccer_news_count": 1273,
   "removed_soccer_news_titles": [
+    "¿Dónde ver a la Selección de Costa Rica vs. Curazao?",
     "La encuesta que sacude al fútbol de Costa Rica: este es el club con más afición en la GAM",
     "Exjugador del Tottenham vivió momento de terror: una aplanadora le pasó por encima de las piernas (Video)",
     "Carlos Mora y Kenyel Michel, cara a cara por un lugar en el once de la Selección de Costa Rica",
@@ -102558,7 +102572,6 @@
     "Vea el gol de Ariel Lassiter en amarga derrota del Portland Timbers en la MLS de Estados Unidos",
     "Arsenal sigue su arranque perfecto en la Premier League, Aston Villa se hunde",
     "En el Mónaco de Francia explotan por una entrada de Jeyland Mitchell",
-    "Costa Rica se juega ante Portugal su última carta en el Mundial",
-    "Néstor Monge: ‘Escorpiones FC es de los proyectos importantes para el fútbol de Costa Rica’"
+    "Costa Rica se juega ante Portugal su última carta en el Mundial"
   ]
 }
