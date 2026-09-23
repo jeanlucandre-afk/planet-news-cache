@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "calor-alcanzara-36-c-en-liberia-este-jueves-mientras-otras-zonas-de-costa-rica-esperan-aguaceros-revise-el-pronostico-po",
+      "title": "Calor alcanzará 36 °C en Liberia este jueves mientras otras zonas de Costa Rica esperan aguaceros: revise el pronóstico por región",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las temperaturas alcanzarán hasta 36 °C en Liberia, un clima caluroso para la región.\n• Aguaceros se prevén en varias zonas del país, acompañado de tormenta eléctrica.\n• El pronóstico del IMN incluye detalles sobre las lluvias en diferentes regiones.\n• Los ciudadanos deben estar atentos a cambios climáticos y recomendaciones del IMN.\n• Variaciones de clima son comunes en esta época del año en Costa Rica.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/sucesos/calor-alcanzara-36-c-en-liberia-este-jueves/DKPBDL2KPZGFFOT7HYBTCWQVR4/story/",
+      "publish_date": "2026-09-23T22:18:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Calor en Liberia y aguaceros regionales, pronóstico del IMN.",
+      "image_url": "https://www.nacion.com/resizer/v2/Q7NMO2EMPNDZNAHRQEOMEIR7WU.JPG?auth=21e1a336e5c2b88deb975d8c5258471c71e4e5ff79023c0a12bc125cc498b317&smart=true&width=4000&height=2666",
+      "description": "El IMN pronostica aguaceros y tormenta eléctrica para varias regiones de Costa Rica este jueves. Conozca dónde lloverá y cuáles temperaturas se esperan.",
+      "featured": false
+    },
+    {
+      "slug": "directivos-de-ia-piden-prudencia-y-anthropic-promete-frenar-su-desarrollo-cuando-sea-necesario",
+      "title": "Directivos de IA piden prudencia y Anthropic promete frenar su desarrollo cuando sea necesario",
+      "category": "Mundo",
+      "bullets_20s": "• Los líderes en inteligencia artificial enfatizan la necesidad de cuidado y responsabilidad en su desarrollo.\n• Anthropic ha mostrado su disposición para frenar avances que puedan ser riesgosos para la humanidad.\n• La ONU se posiciona como un espacio clave para discutir regulaciones sobre inteligencia artificial.\n• La preocupación por la IA sigue creciendo en diferentes sectores de la sociedad actual.\n• Un enfoque prudente podría guiar el futuro del desarrollo tecnológico en una dirección segura.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/directivos-de-ia-piden-prudencia-y-anthropic/O7S3VI4D3BFHJFYEVX2VQHJ7YE/story/",
+      "publish_date": "2026-09-23T22:14:38.000Z",
+      "teaser": "Lo clave en 20 segundos: Directivos de IA solicitan cautela en su desarrollo; Anthropic se compromete a frenar cuando sea necesario.",
+      "image_url": "https://www.nacion.com/resizer/v2/XZ4WTVKTVBFZJKIF52B4VXT4PU.jpg?auth=65859d4f068aedd4c181b3586a05f696ffdbaa6f8cc91c19a8298fe930235a28&smart=true&width=6960&height=4640",
+      "description": "Directivos de IA pidieron prudencia ante la ONU y Anthropic se comprometió a desacelerar el desarrollo de sus modelos cuando sea necesario.",
+      "featured": false
+    },
+    {
       "slug": "hospital-calderon-guardia-amplia-horario-del-banco-de-sangre-ante-necesidad-urgente-de-donantes-o-positivo",
       "title": "Hospital Calderón Guardia amplía horario del Banco de Sangre ante necesidad urgente de donantes O positivo",
       "category": "Costa Rica",
@@ -523,13 +549,13 @@
     {
       "slug": "por-que-el-cafe-estimula-mucho-a-algunas-personas-y-tiene-pocos-efectos-en-otras",
       "title": "Por qué el café estimula mucho a algunas personas y tiene pocos efectos en otras",
-      "category": "Mundo",
-      "bullets_20s": "• El café es una bebida consumida globalmente, con grandes variaciones en sus efectos.\n• Factores genéticos pueden determinar cómo cada persona reacciona a la cafeína.\n• Las diferencias en la tolerancia al café afectan a millones de personas.\n• Investigaciones han estudiado el impacto del café en la salud mental y física.\n• La ciencia detrás del café revela diversos mecanismos en el organismo.",
+      "category": "Ciencia",
+      "bullets_20s": "• El café es una de las bebidas más consumidas a nivel mundial, con miles de millones de tazas al día.\n• Los efectos del café dependen en gran medida de la genética de cada persona que lo consume.\n• Las personas metabolizan la cafeína de diferentes maneras, influyendo en su respuesta al café.\n• El entorno y hábitos de vida pueden también modificar cómo el café afecta a cada individuo.\n• Estudios sugieren que la tolerancia a la cafeína se desarrolla con el consumo regular de café.\n• Descubrir por qué algunos son más sensibles a los efectos del café sigue siendo un campo de investigación.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cvj64p0je3d5o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-23T10:17:11.000Z",
-      "teaser": "Lo clave en 20 segundos: ¿Por qué el café afecta a cada persona de manera diferente?",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3192/live/d7f2c8d0-b61f-11f1-8932-2560fb290e4a.jpg",
+      "teaser": "Lo clave en 20 segundos: ¿Por qué algunos sienten más el café que otros?",
+      "image_url": "",
       "description": "Aproximadamente cada día se toman unos 2.000 millones de tazas de café en el mundo y sus efectos pueden variar de acuerdo a cada persona.",
       "featured": false
     },
@@ -576,13 +602,13 @@
       "slug": "guia-para-la-documentacion-de-procedimientos",
       "title": "Guía para la documentación de Procedimientos",
       "category": "Tecnología",
-      "bullets_20s": "• La guía ofrece pautas claras para la correcta documentación de procedimientos.\n• Incluye ejemplos prácticos que facilitan la comprensión de los procesos.\n• Es una herramienta esencial para organizaciones que buscan optimizar su gestión.\n• La documentación adecuada mejora la capacitación de los empleados nuevos.\n• Promueve la transparencia y mejora la comunicación interna en empresas.",
+      "bullets_20s": "• La guía proporciona directrices para la documentación de procesos en instituciones.\n• Es fundamental para la estandarización y mejora continua en las organizaciones.\n• Incorpora métodos efectivos de recopilación y presentación de información.\n• Fomenta la transparencia y la comunicación dentro de las organizaciones.\n• Promueve la eficiencia operativa al documentar procedimientos clave.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/guia-documentacion-procedimientos",
       "publish_date": "2026-09-23T02:36:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Una guía esencial para la documentación efectiva de procesos.",
+      "teaser": "Lo clave en 20 segundos: Una guía esencial para documentar procedimientos en instituciones.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
-      "description": "macastro Mar, 22/09/2026 - 20:36",
+      "description": "macastro",
       "featured": false
     },
     {
@@ -628,11 +654,11 @@
       "slug": "codigo-electoral-estudiantil-de-la-federacion-de-estudiantes-del-instituto-tecnologico-de-costa-rica",
       "title": "Código Electoral Estudiantil de la Federación de Estudiantes del Instituto Tecnológico de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• La creación del código electoral estudiantil busca mejorar la participación estudiantil en el ITCR.\n• Se espera que este código fomente la transparencia en los procesos electorales internos.\n• El objetivo principal es fortalecer la democracia entre los estudiantes del Instituto Tecnológico.\n• Este proyecto cuenta con el apoyo de diferentes organizaciones estudiantiles y administrativas.\n• El código se modificará periódicamente para adaptarse a las necesidades de los estudiantes.",
+      "bullets_20s": "• Se implementa un código electoral para estudiantes en el Instituto Tecnológico de Costa Rica.\n• Este nuevo código busca regular y organizar las elecciones estudiantiles del instituto.\n• La creación tiene como objetivo fomentar la participación democrática en la comunidad estudiantil.\n• El documento establece principios y procedimientos para un proceso electoral transparente.\n• La última modificación del código se realizó en septiembre de 2026.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/codigo-electoral-estudiantil-federacion-estudiantes-instituto-tecnologico-costa-rica",
       "publish_date": "2026-09-23T01:48:54.000Z",
-      "teaser": "Lo clave en 20 segundos: Se presenta código electoral para estudiantes del ITCR promoviendo la participación.",
+      "teaser": "Lo clave en 20 segundos: Se lanza el Código Electoral Estudiantil para fomentar la democracia en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "macastro",
       "featured": false
@@ -641,11 +667,11 @@
       "slug": "codigo-de-etica-del-instituto-tecnologico-de-costa-rica",
       "title": "Código de Ética del Instituto Tecnológico de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El Código de Ética busca regular la conducta de estudiantes y funcionarios del TEC.\n• Establece normas y principios que guían el comportamiento dentro del instituto.\n• El documento fue elaborado en septiembre de 2026 por expertos del TEC.\n• Se espera que todos los miembros de la comunidad educativa lo cumplan.\n• El objetivo es fomentar una cultura de integridad y responsabilidad.\n• Incluye directrices sobre conflictos de interés y manejo de recursos.\n• La implementación de este código pretende mejorar la convivencia institucional.\n• El TEC promueve valores como la honestidad y el respeto mediante este código.\n• Este código es parte de los esfuerzos para fortalecer la ética en educación.\n• Se espera que contribuya a un ambiente más saludable y profesional en el TEC.",
+      "bullets_20s": "• El Código de Ética es un documento clave para guiar la conducta en el Tecnológico.\n• Busca promover valores de responsabilidad y respeto entre los miembros de la comunidad.\n• Se debe seguir el código para mantener un ambiente académico saludable y productivo.\n• Motiva a estudiantes y personal a actuar con integridad en todas las circunstancias.\n• La creación y modificación del código refleja el compromiso institucional con la ética.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/codigo-etica-instituto-tecnologico-costa-rica",
       "publish_date": "2026-09-23T01:38:46.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC lanza su Código de Ética para regular conducta e integridad.",
+      "teaser": "Lo clave en 20 segundos: El nuevo código de ética busca impulsar valores en la comunidad educativa.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
       "description": "macastro",
       "featured": false
@@ -667,13 +693,13 @@
       "slug": "reglamento-de-la-gaceta-del-instituto-tecnologico-de-costa-rica",
       "title": "Reglamento de la Gaceta del Instituto Tecnológico de Costa Rica",
       "category": "Costa Rica",
-      "bullets_20s": "• El reglamento establece disposiciones generales sobre la publicación en la Gaceta Institucional.\n• Define los tipos de documentos sujetos a publicación y su proceso de formalización.\n• La Oficina de Asesoría Legal es responsable de la publicación de la Gaceta Institucional.\n• Los documentos estarán disponibles digitalmente para la comunidad y terceros interesados.\n• El reglamento busca asegurar la eficacia jurídica de los documentos emitidos.",
+      "bullets_20s": "• El reglamento establece normas sobre la publicación en la Gaceta Institucional del Tecnológico.\n• Es de acatamiento obligatorio para todos los órganos y dependencias del instituto.\n• Define competencias y responsabilidades para la publicación de documentos oficiales.\n• La Gaceta Institucional se publicará de forma digital y semanalmente.\n• Los acuerdos deben ser accesibles para la comunidad institucional y otros.\n• Establece plazos y procedimientos para la revisión y actualización del reglamento.\n• El reglamento rige a partir de su aprobación por el Consejo Institucional.\n• Se dispone de un índice temático para facilitar el acceso a los documentos publicados.",
       "source_name": "macastro",
       "source_url": "http://www.tec.ac.cr/reglamento-gaceta-instituto-tecnologico-costa-rica-1",
       "publish_date": "2026-09-23T01:33:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevo reglamento establece normas para la Gaceta del Tecnológico de Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Reglamento que regula publicaciones en el Instituto Tecnológico de Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/default_images/reg_create.png",
-      "description": "Reglamento general para la publicación de documentos en la Gaceta Institucional del Instituto Tecnológico de Costa Rica.",
+      "description": "macastro",
       "featured": false
     },
     {
@@ -103208,10 +103234,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-23T21:46:03.818Z",
-  "total": 7939,
-  "removed_soccer_news_count": 1277,
+  "generated_at": "2026-09-23T22:46:04.906Z",
+  "total": 7941,
+  "removed_soccer_news_count": 1278,
   "removed_soccer_news_titles": [
+    "Kendall Waston casi ahorca a alguien en un partido otra vez",
     "¿Quién será el portero de la Selección de Costa Rica?",
     "Calendario para las selecciones de Centroamérica y el Caribe: empieza la Liga de Naciones de Concacaf",
     "Equipo de Linafa le da la bienvenida a Alejandro Bran",
@@ -103260,7 +103287,6 @@
     "Por qué el estrecho de Bab el‑Mandeb es clave para el comercio mundial y cómo el avance de los hutíes podría desencadenar una crisis marítima",
     "Kane sale al rescate del Bayern Múnich en la Bundesliga",
     "El Manchester City conquista Old Trafford con diez y resiste el ritmo del Arsenal",
-    "Selección Femenina Sub-20 cae de nuevo y se despide del Mundial sufriendo la tercera goleada",
-    "Alonso Martínez sonríe en la MLS tras más de 300 días de espera"
+    "Selección Femenina Sub-20 cae de nuevo y se despide del Mundial sufriendo la tercera goleada"
   ]
 }
