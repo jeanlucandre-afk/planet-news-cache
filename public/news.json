@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "se-abren-las-apuestas-quien-ganara-el-premio-nobel-de-literatura-del-2026",
+      "title": "Se abren las apuestas: ¿Quién ganará el Premio Nobel de Literatura del 2026?",
+      "category": "Mundo",
+      "bullets_20s": "• Las casas de apuestas están evaluando posibilidades para el Premio Nobel de Literatura del 2026.\n• Los nombres de autores destacados comienzan a destacar en las listas de favoritos.\n• La literatura contemporánea genera gran interés entre lectores y apostadores por igual.\n• El premio Nobel es uno de los más prestigiosos en el campo literario mundial.\n• Las especulaciones sobre el ganador generan debate y entusiasmo entre críticos literarios.",
+      "source_name": "Fernando Chaves Espinach",
+      "source_url": "https://www.nacion.com/ancora/se-abren-las-apuestas-quien-ganara-el-premio-nobel/YTU43R6NUVHXJKYZ7ULL7NLBBU/story/",
+      "publish_date": "2026-09-25T19:42:11.000Z",
+      "teaser": "Lo clave en 20 segundos: Casas de apuestas ya analizan posibles ganadores del Nobel de Literatura 2026.",
+      "image_url": "",
+      "description": "Escribir no es un deporte, pero las casas de apuestas empiezan a estimar quién ganará. Estos son algunos de los nombres más sonados.",
+      "featured": false
+    },
+    {
+      "slug": "juzgado-penal-de-cartago-dicto-tres-meses-mas-de-prision-preventiva-a-sospechoso-de-atacar-con-acido-a-su-expareja",
+      "title": "Juzgado Penal de Cartago dictó tres meses más de prisión preventiva a sospechoso de atacar con ácido a su expareja",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Juzgado Penal de Cartago decidió ampliar la prisión preventiva del sospechoso de agresión.\n• La agresión se registró el 14 de abril de 2025 en la vivienda de la víctima.\n• La víctima sufrió quemaduras graves por el ataque con ácido, generando gran conmoción.\n• La decisión busca garantizar la seguridad de la víctima mientras el caso avanza.\n• Este tipo de agresiones plantea un serio problema social en la región y el país.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/sucesos/juzgado-penal-de-cartago-dicto-tres-meses-mas-de/QLOZZMGGSJBGTPC55QGMAMXNFY/story/",
+      "publish_date": "2026-09-25T19:31:08.000Z",
+      "teaser": "Lo clave en 20 segundos: Se amplía prisión preventiva a agresor de ataque con ácido en Cartago.",
+      "image_url": "https://www.nacion.com/resizer/v2/HQRVXFEQRFFDRLPG3H6S2LPTMU.jpg?auth=31c0ae85736bdbc5d826dbca614a74fd26527a651d0a87ff88dfb1631a29b277&smart=true&width=1204&height=677",
+      "description": "La agresión con ácido a mujer dejó quemaduras graves. El hecho ocurrió el 14 de abril de 2025 en la vivienda de la víctima en Cocorí, Agua Caliente de Cartago.",
+      "featured": false
+    },
+    {
       "slug": "por-que-china-envia-pandas-a-otros-paises-asi-funciona-la-diplomacia-de-los-pandas",
       "title": "¿Por qué China envía pandas a otros países? Así funciona la ‘diplomacia de los pandas’",
       "category": "Mundo",
@@ -69,11 +95,11 @@
       "slug": "italia-prohibe-el-burka-y-el-niqab-en-las-escuelas-y-limita-el-numero-de-ninos-que-no-hablen-italiano-en-las-aulas",
       "title": "Italia prohíbe el burka y el niqab en las escuelas y limita el número de niños que no hablen italiano en las aulas",
       "category": "Mundo",
-      "bullets_20s": "• Italia introduce medidas educativas que prohíben el uso de burka y niqab en escuelas.\n• La primera ministra destaca la importancia de estas acciones para la integración social.\n• La política incluye restricciones para estudiantes que no hablen italiano.\n• Representa un cambio significativo en la política de inclusión en educación en Italia.\n• Las decisiones buscan promover un sentido de comunidad en las aulas italianas.",
+      "bullets_20s": "• Italia implementa medidas para restringir el uso del burka y el niqab en las escuelas.\n• Las políticas buscan fomentar la integración de niños en el sistema educativo italiano.\n• La primera ministra apoya estas iniciativas como actos de sentido común.\n• Se establece un límite para el número de niños no hispanohablantes en aulas.\n• Las medidas generan un intenso debate sobre la libertad religiosa y la inclusión.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cje3rr1lkrv7o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-25T17:22:55.000Z",
-      "teaser": "Lo clave en 20 segundos: Italia prohíbe el burka en escuelas para fomentar la integración educativa.",
+      "teaser": "Lo clave en 20 segundos: Italia restringe el uso del burka y el niqab en escuelas para mejorar la integración.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/549e/live/6b0649e0-b8bd-11f1-a430-4d16ee157c41.jpg",
       "description": "La primera ministra de Italia, Giorgia Meloni, describió las medidas como \"instrumentos de sentido común que no dividen, sino que realmente ayudan a integrar\".",
       "featured": false
@@ -186,11 +212,11 @@
       "slug": "uno-de-los-grandes-misterios-de-la-ciencia-lo-que-la-anestesia-general-revela-sobre-como-funciona-nuestro-cerebro",
       "title": "Uno de los grandes misterios de la ciencia: lo que la anestesia general revela sobre cómo funciona nuestro cerebro",
       "category": "Ciencia",
-      "bullets_20s": "• La anestesia general permite estudiar la conciencia y su relación con el cerebro humano.\n• Los científicos exploran cómo la anestesia afecta diferentes áreas cerebrales durante el procedimiento.\n• Estudios recientes revelan claves sobre los mecanismos de la pérdida de conciencia inducida.\n• La investigación abre nuevas vías para entender trastornos neurológicos y su tratamiento.\n• Comprender la anestesia puede mejorar la seguridad y efectividad de los procedimientos médicos.",
+      "bullets_20s": "• La anestesia general permite estudiar los mecanismos de la pérdida de la conciencia en el cerebro.\n• Investigadores exploran las áreas cerebrales afectadas por la anestesia durante los procedimientos médicos.\n• Comprender la anestesia general podría proporcionar nuevas claves sobre el funcionamiento cerebral.\n• Este estudio abre la puerta a investigar el estado de conciencia en otros contextos clínicos.\n• La investigación se centra en identificar cómo la anestesia altera la actividad neuronal del cerebro.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmp306q0dwd1o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-25T15:11:54.000Z",
-      "teaser": "Lo clave en 20 segundos: exploramos cómo la anestesia revela misterios del cerebro humano.",
+      "teaser": "Lo clave en 20 segundos: un vistazo a cómo la anestesia revela secretos del cerebro humano.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0a4d/live/6153be80-b6da-11f1-a430-4d16ee157c41.jpg",
       "description": "Los expertos tratan de conocer qué áreas del cerebro actúan en la pérdida de la conciencia.",
       "featured": false
@@ -368,13 +394,13 @@
       "slug": "como-la-turistica-santa-marta-se-convirtio-en-la-primera-prueba-de-fuego-de-la-lucha-de-de-la-espriella-contra-los-grupo",
       "title": "Cómo la turística Santa Marta se convirtió en la primera prueba de fuego de la lucha de De la Espriella contra los grupos armados en Colombia",
       "category": "Mundo",
-      "bullets_20s": "• La situación en Santa Marta refleja desafíos de seguridad en Colombia en ámbitos turísticos.\n• Este conflicto armado impacta negativamente en la economía local y la imagen del turismo.\n• La militarización es una respuesta del gobierno ante el aumento de la violencia en la región.\n• Líderes sociales y comunitarios analizan las consecuencias de dicha militarización.\n• El turismo debe ser protegido para asegurar el crecimiento económico sostenible en Colombia.",
+      "bullets_20s": "• Santa Marta enfrenta un aumento de la violencia tras la muerte de un líder paramilitar en Colombia.\n• El presidente ordenó militarizar la ciudad para controlar la situación y garantizar la seguridad.\n• La presencia de grupos armados ha intensificado los conflictos dentro y alrededor de la ciudad.\n• De la Espriella se enfrenta a un reto significativo en su lucha contra la violencia y el crimen organizado.\n• La respuesta militar podría tener repercusiones en la percepción del turismo en la región.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cm74ky4x3vp8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-09-25T11:22:32.000Z",
-      "teaser": "Lo clave en 20 segundos: Santa Marta enfrenta graves problemas de seguridad y violencia por grupos armados.",
+      "teaser": "Lo clave en 20 segundos: Santa Marta vive una crisis de violencia tras la muerte de un líder paramilitar.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/59d7/live/5c9bca40-b8d3-11f1-a55c-915ce2fce07b.jpg",
-      "description": "La muerte de alias 'Cholo', uno de los líderes de un grupo paramilitar colombiano, desató una ola de violencia que llevó a militarizar la ciudad por orden del presidente.",
+      "description": "La muerte de alias \"Cholo\", uno de los líderes de un grupo paramilitar colombiano, desató una ola de violencia que llevó a militarizar la ciudad por orden del presidente.",
       "featured": false
     },
     {
@@ -615,11 +641,11 @@
       "slug": "el-tec-participara-en-juncos-2026-con-una-delegacion-inclusiva",
       "title": "El TEC participará en JUNCOS 2026 con una delegación inclusiva",
       "category": "Costa Rica",
-      "bullets_20s": "• Los JUNCOS 2026 se realizarán del 9 al 18 de octubre en varias universidades públicas.\n• El TEC tendrá una delegación con la mayor proporción de mujeres en su historia.\n• Los estudiantes competirán en diez deportes en las justas universitarias.\n• Se busca promover la inclusividad y el crecimiento integral del estudiantado.\n• La ceremonia de inauguración será el 8 de octubre en la UNED de Montes de Oca.",
+      "bullets_20s": "• El TEC llevará la mayor delegación inclusiva en la historia de los JUNCOS 2026.\n• Los Juegos Universitarios Costarricenses se realizarán del 9 al 18 de octubre.\n• Participarán estudiantes de los cinco campus del Tecnológico de Costa Rica.\n• Se competirá en diez deportes, promoviendo la inclusión y diversidad de género.\n• La ceremonia de inauguración será el 8 de octubre en la UNED, Montes de Oca.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/tec-participara-juncos-2026-delegacion-inclusiva",
       "publish_date": "2026-09-24T22:23:40.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC participará en JUNCOS 2026 con una delegación inclusiva y diversa.",
+      "teaser": "Lo clave en 20 segundos: El TEC será parte activa de JUNCOS 2026 con un enfoque inclusivo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/juncos-tec-1.jpg",
       "description": "El TEC participará en JUNCOS 2026 con una delegación inclusiva",
       "featured": false
@@ -752,6 +778,19 @@
       "teaser": "Lo clave en 20 segundos: La confrontación de Laura Fernández tiene respaldo en nuevas encuestas políticas.",
       "image_url": "https://www.nacion.com/resizer/v2/5MJOTRB3IZCGTA2TDA73DCT3MA.jpg?auth=4c4ef86a352d1b0b70d5f38f86e78983c66791befc53402be7cdd2ec693fab6f&smart=true&width=3000&height=2000",
       "description": "La decisión de la Sala Constitucional de mantener a magistrados suplentes obtiene 48,3% de respaldo, por encima del apoyo a la denuncia contra cuatro magistrados y a la forma en que el gobierno ha manejado el conflicto.",
+      "featured": false
+    },
+    {
+      "slug": "nuevas-personas-profesionales-para-el-pais-campus-cartago-del-tec-entrego-346-titulos-universitarios",
+      "title": "Nuevas personas profesionales para el país: Campus Cartago del TEC entregó 346 títulos universitarios",
+      "category": "Costa Rica",
+      "bullets_20s": "• 346 títulos universitarios fueron entregados en el Campus Cartago del TEC durante una ceremonia solemne.\n• La ceremonia se dividió en cuatro actos, celebrándose los días 24 y 25 de septiembre de 2026.\n• Los graduados incluyen bachilleratos, licenciaturas, maestrías y doctorados en diversas carreras.\n• Nardo Joé Pérez, un graduado en Ingeniería en Diseño Industrial, expresó su agradecimiento por la beca recibida.\n• Las autoridades del TEC subrayaron la importancia del perfil profesional que demanda el país actualmente.",
+      "source_name": "nchinchilla",
+      "source_url": "http://www.tec.ac.cr/nuevas-personas-profesionales-pais-campus-cartago-tec-entrego-346-titulos-universitarios",
+      "publish_date": "2026-09-24T20:07:45.000Z",
+      "teaser": "Lo clave en 20 segundos: 346 nuevos profesionales son graduados del TEC en una ceremonia emotiva.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-tec-cartago_24-set-2026_rgarita-16.jpg",
+      "description": "Nuevas personas profesionales para el país: Campus Cartago del TEC entregó 346 títulos universitarios",
       "featured": false
     },
     {
@@ -1577,11 +1616,11 @@
       "slug": "16-mil-personas-hicieron-el-examen-de-admision-al-tec-en-procura-de-un-cupo-para-2027",
       "title": "16 mil personas hicieron el examen de admisión al TEC en procura de un cupo para 2027",
       "category": "Costa Rica",
-      "bullets_20s": "• Se aplicó el examen en 156 sedes a lo largo de Costa Rica para asegurar la cobertura.\n• El evento reunió a más de 16 mil aspirantes que buscan un lugar en el TEC.\n• La prueba se llevó a cabo en varias jornadas para facilitar la participación de estudiantes.\n• Se abrirán 2.152 cupos nuevos para diversos programas académicos en el TEC.\n• El personal del TEC se trasladó a regiones remotas para asegurar la aplicación del examen.",
+      "bullets_20s": "• La Prueba de Aptitud Académica se aplicó en 156 sedes a lo largo del país.\n• Un total de 16.227 jóvenes realizaron el examen, con alta participación estudiantil.\n• Se ofrecen 2.152 nuevos cupos de ingreso para el año 2027 en el TEC.\n• La aplicación del examen incluyó a estudiantes de regiones remotas y comunidades indígenas.\n• Se realizarán futuros procesos como la revisión de promedios y elección de carrera.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/16-mil-personas-hicieron-examen-admision-tec-procura-cupo-2027",
       "publish_date": "2026-09-23T21:50:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Más de 16 mil aspirantes presentaron examen de admisión al TEC para el año 2027.",
+      "teaser": "Lo clave en 20 segundos: 16 mil jóvenes aplicaron al examen de admisión del TEC para ingresar en 2027.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/admision-examen-2027-tec-3.jpg",
       "description": "16 mil personas hicieron el examen de admisión al TEC en procura de un cupo para 2027",
       "featured": false
@@ -104781,8 +104820,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-09-25T19:46:03.657Z",
-  "total": 8060,
+  "generated_at": "2026-09-25T20:46:04.090Z",
+  "total": 8063,
   "removed_soccer_news_count": 1302,
   "removed_soccer_news_titles": [
     "Partido Francia vs. Turquía: Zidane hace con Mbappé lo que Deschamps no se atrevía a hacer",
