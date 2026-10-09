@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "cibercrimen-en-costa-rica-microsoft-revela-el-impacto-de-ataques-digitales-en-el-pais",
+      "title": "Cibercrimen en Costa Rica: Microsoft revela el impacto de ataques digitales en el país",
+      "category": "Costa Rica",
+      "bullets_20s": "• El cibercrimen ha aumentado significativamente en Costa Rica en los últimos años.\n• Microsoft destaca diversas formas de ataques digitales que afectan a empresas y ciudadanos.\n• Las campañas de robo de credenciales son una de las tácticas más utilizadas por los delincuentes.\n• El malware es utilizado para comprometer sistemas y robar información confidencial.\n• Es crucial que las organizaciones fortalezcan sus medidas de ciberseguridad y formación.",
+      "source_name": "Mónica Cerdas Gómez",
+      "source_url": "https://www.nacion.com/economia/cibercrimen-en-costa-rica-microsoft-revela-el/CPUJTP3VKNHFZOPU3F4QTQDQLI/story/",
+      "publish_date": "2026-10-09T21:21:06.000Z",
+      "teaser": "Lo clave en 20 segundos: Microsoft analiza el impacto del cibercrimen en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/NKJBS77NHJGJDK5N6JT54O3LBA.jpg?auth=c9aa18ca6f799b01d72d5542978dfe5215a2f9bd7bf2f6af02c4f01acab833f7&smart=true&width=3840&height=2880",
+      "description": "Las afectaciones en Costa Rica corresponden a distintas operaciones de la delincuencia digital, entre las que se incluyen campañas de robo de credenciales y malware.",
+      "featured": false
+    },
+    {
+      "slug": "terremoto-de-77-en-panama-por-que-este-temblor-y-algunas-de-sus-replicas-no-aparecieron-en-las-aplicaciones-sismicas-ovs",
+      "title": "Terremoto de 7,7 en Panamá: ¿por qué este temblor y algunas de sus réplicas no aparecieron en las aplicaciones sísmicas? Ovsicori y RSN explican",
+      "category": "Mundo",
+      "bullets_20s": "• Un terremoto de 7,7 en Panamá dejó sin alertas a diversas aplicaciones sísmicas conocidas en la región.\n• Ovsicori y la Red Sismológica Nacional compartieron sus análisis sobre este fenómeno natural inesperado.\n• Las réplicas del temblor no fueron registradas, generando dudas sobre los métodos de medición actuales.\n• Las limitaciones de los sistemas sísmicos podrían representar un riesgo para las poblaciones cercanas a fallas geológicas.\n• La importancia de una alerta temprana efectiva es crucial para la seguridad de las comunidades costarricenses.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/sucesos/terremoto-de-77-en-panama-por-que-este-temblor-y/MOWPAMOROVGNREGL3CTCJBXRRA/story/",
+      "publish_date": "2026-10-09T21:18:12.000Z",
+      "teaser": "Lo clave en 20 segundos: ¿Por qué el terremoto de Panamá no generó alertas en aplicaciones sísmicas?",
+      "image_url": "https://www.nacion.com/resizer/v2/KJFZDVBWZFHRTE4EYUHYMHPPGE.jpg?smart=true&auth=8ca7531f473b387399d947554f0e520b7c2df759712b40bd80fffa3e838e4eef&width=1440",
+      "description": "El terremoto de magnitud 7,7 en Panamá no generó alertas en las aplicaciones sísmicas. Expertos del Ovsicori y la Red Sismológica Nacional explican las limitaciones de sus sistemas.",
+      "featured": false
+    },
+    {
+      "slug": "kfc-abre-varios-puestos-de-empleo-en-heredia-vea-cuando-y-donde-puede-llevar-su-curriculum",
+      "title": "KFC abre varios puestos de empleo en Heredia: vea cuándo y dónde puede llevar su currículum",
+      "category": "Costa Rica",
+      "bullets_20s": "• KFC está buscando talento nuevo para fortalecer su equipo en San Rafael de Heredia.\n• La jornada de reclutamiento se llevará a cabo el 12 de octubre de 2026.\n• Los interesados deben llevar su currículum y documentos necesarios para aplicar.\n• Este tipo de iniciativas ayudan a reducir el desempleo en la región.\n• KFC espera atraer a candidatos comprometidos y con ganas de crecer.",
+      "source_name": "Fabiola Montoya Salas",
+      "source_url": "https://www.nacion.com/empleo-costa-rica/empleo-noticias/kfc-abre-varios-puestos-de-empleo-en-heredia-vea/7PQMV4FXYZEDBKRAFY7YZ2LK6U/story/",
+      "publish_date": "2026-10-09T21:13:05.000Z",
+      "teaser": "Lo clave en 20 segundos: KFC abre nuevos puestos en Heredia, infórmate sobre la jornada de reclutamiento.",
+      "image_url": "https://www.nacion.com/resizer/v2/QRPCWAKS4JB5PM4S2UKZWCELAY.JPG?auth=650065e576f23f478f85f4e71db446fab2cc558c1b82a4fdeaffdcea7e474735&smart=true&width=4000&height=2667",
+      "description": "KFC realizará jornada de reclutamiento en San Rafael de Heredia el 12 de este mes, lleve currículum y documentos requeridos.",
+      "featured": false
+    },
+    {
       "slug": "aeropuerto-internacional-de-tocumen-en-panama-suspende-temporalmente-operaciones-y-evacua-pasajeros-por-terremoto",
       "title": "Aeropuerto Internacional de Tocumen en Panamá suspende temporalmente operaciones y evacúa pasajeros por terremoto",
       "category": "Mundo",
@@ -355,11 +394,11 @@
       "slug": "especial-bbc-mundo-isla-coiba-la-brutal-prision-a-cielo-abierto-que-se-convirtio-en-paraiso-natural-y-a-la-que-panama-vu",
       "title": "Especial BBC Mundo: Isla Coiba, la brutal prisión a cielo abierto que se convirtió en paraíso natural y a la que Panamá vuelve a enviar presos",
       "category": "Mundo",
-      "bullets_20s": "• Isla Coiba ha sido un lugar de historia marcada por los casos de abusos sistemáticos.\n• La isla es un Patrimonio de la Humanidad en peligro por las decisiones del gobierno panameño.\n• La decisión de trasladar presos puede afectar la biodiversidad de la isla.\n• Recorrimos la isla para entender su transición de prisión a paraíso natural.\n• Expertos alertan sobre el impacto ambiental de volver a usar la isla para encarcelar.\n• Coiba alberga especies únicas que podrían verse comprometidas por la acción gubernamental.",
+      "bullets_20s": "• Isla Coiba, conocida por su belleza natural, tiene un oscuro pasado como prisión.\n• La isla fue una colonia penal famosa por sus abusos y condiciones infrahumanas.\n• Recientemente, Panamá ha decidido enviar nuevamente presos a este territorio.\n• La decisión ha generado preocupación sobre el impacto ambiental y social en la isla.\n• Coiba es Patrimonio de la Humanidad, lo que complica su actual uso penitenciario.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cr86zqyy4eg3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-09T12:30:33.000Z",
-      "teaser": "Lo clave en 20 segundos: La Isla Coiba enfrenta nuevas realidades con el traslado de presos a su antiguo penal.",
+      "teaser": "Lo clave en 20 segundos: Isla Coiba, de prisión brutal a belleza natural, enfrenta nuevo peligro con envío de presos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/5122/live/cd5f5810-c34a-11f1-9a39-31b474234113.jpg",
       "description": "Panamá trasladó a 29 presos a una isla que fue una temida colonia penal, marcada por abusos y trabajos forzados. La decisión genera preocupación por el futuro de este territorio, hoy Patrimonio de la Humanidad. Viajamos hasta allí para conocer su historia.",
       "featured": false
@@ -536,12 +575,12 @@
     {
       "slug": "congelaron-tejido-de-mis-ovulos-por-un-cancer-cuando-tenia-17-anos-y-ahora-con-44-soy-madre-de-un-hermoso-bebe",
       "title": "Congelaron tejido de mis óvulos por un cáncer cuando tenía 17 años y ahora con 44 soy madre de un hermoso bebé",
-      "category": "Ciencia",
-      "bullets_20s": "• Kassandra Bacon congeló sus óvulos a los 17 años debido a un diagnóstico de cáncer.\n• Veintitrés años después, los mismos óvulos fueron trasplantados a su cuerpo exitosamente.\n• La historia de Kassandra ofrece esperanza a muchas mujeres en situaciones similares.\n• La preservación de óvulos se convierte en una opción viable para tratar el cáncer.\n• Este caso resalta los avances en la medicina reproductiva y sus posibilidades.",
+      "category": "Mundo",
+      "bullets_20s": "• Kassandra Bacon congeló tejido de ovarios a los 17 años por un diagnóstico de cáncer en su juventud.\n• Tras 23 años de espera, logró dar a luz a su primer hijo a los 44 años de edad.\n• El proceso de trasplante y la maduración de los óvulos fue un hito en su historia familiar.\n• Esta historia destaca los avances en tecnología médica y las opciones de fertilidad para mujeres.\n• El cuidado de la salud femenina y la conservación de la fertilidad son temas claves en la actualidad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c617kddd8dpdo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-09T09:49:18.000Z",
-      "teaser": "Lo clave en 20 segundos: Kassandra Bacon, madre a los 44 tras congelar óvulos a los 17 por cáncer.",
+      "teaser": "Lo clave en 20 segundos: La historia inspiradora de Kassandra Bacon y su lucha por la maternidad.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/db1f/live/c0175270-c17e-11f1-8d91-2120227880fe.jpg",
       "description": "Las biopsias tomadas a Kassandra Bacon fueron trasplantadas con éxito a su propio cuerpo 23 años más tarde, lo que le permitió dar a luz a su hijo a los 44 años.",
       "featured": false
@@ -602,11 +641,11 @@
       "slug": "auditoria-interna-del-tec-celebrara-50-anos-de-trayectoria-institucional",
       "title": "Auditoría Interna del TEC celebrará 50 años de trayectoria institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• Celebración del 50 aniversario de la Auditoría Interna del TEC en Costa Rica.\n• Evento programado para el 15 de octubre a las 9:00 a.m. en el Auditorio D3.\n• La Auditoría Interna ha sido clave en el desarrollo institucional y control interno.\n• Reconocimiento especial a exauditoras que han contribuido durante estos años.\n• Se realizará un homenaje póstumo a Manuel Bonilla Cordero durante la celebración.",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebra 50 años de su Auditoría Interna en este evento especial.\n• La ceremonia tendrá lugar el 15 de octubre a las 9:00 a.m. en el Audit. D3 del TEC.\n• El evento busca rendir homenaje a exauditores y alumnos que han contribuido al TEC.\n• El TEC promueve la transparencia y rendición de cuentas a través de su Auditoría Interna.\n• Se realizará un homenaje póstumo a Manuel Bonilla, exfuncionario de Auditoría Interna.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/auditoria-interna-tec-celebra-50-anos-trayectoria-institucional",
       "publish_date": "2026-10-09T00:55:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de la Auditoría Interna del TEC.",
+      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de la Auditoría Interna del TEC el 15 de octubre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/original-k52s3026_3.jpg",
       "description": "Auditoría Interna del TEC celebrará 50 años de trayectoria institucional",
       "featured": false
@@ -638,14 +677,40 @@
       "featured": false
     },
     {
+      "slug": "tec-celebra-medio-siglo-de-trayectoria-del-departamento-de-aprovisionamiento",
+      "title": "TEC celebra medio siglo de trayectoria del Departamento de Aprovisionamiento",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC conmemoró el 50 aniversario del Departamento de Aprovisionamiento con un evento significativo.\n• Autoridades institucionales y comunidad celebraron la importancia del departamento en la educación.\n• La rectora María Estrada Sánchez destacó la importancia del trabajo del departamento en la gestión.\n• El evento reconoció a personal con más de 20 años de trayectoria en aprovisionamiento.\n• La Agrupación de Danza Folklórica Tierra y Cosecha participó en el acto cultural.",
+      "source_name": "nchinchilla",
+      "source_url": "http://www.tec.ac.cr/tec-celebra-medio-siglo-trayectoria-departamento-aprovisionamiento",
+      "publish_date": "2026-10-08T23:13:58.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC celebra 50 años del Departamento de Aprovisionamiento con un evento institucional especial.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/50-aniversario-aprovisionamiento_rgarita-10.png",
+      "description": "TEC celebra medio siglo de trayectoria del Departamento de Aprovisionamiento",
+      "featured": false
+    },
+    {
+      "slug": "el-tec-inaugura-el-i-congreso-internacional-de-biotecnologia-y-convierte-a-costa-rica-en-sede-de-la-ciencia-iberoamerica",
+      "title": "El TEC inaugura el I Congreso Internacional de Biotecnología y convierte a Costa Rica en sede de la ciencia iberoamericana",
+      "category": "Ciencia",
+      "bullets_20s": "• Costa Rica se convierte en el epicentro de la biotecnología iberoamericana durante tres días de congreso.\n• Cerca de 300 participantes de diversas partes del mundo se reúnen para compartir conocimientos.\n• El evento destaca la importancia de la biotecnología en la solución de problemas sociales y ambientales.\n• Incorporará conferencias sobre biotecnología médica, agrícola y sostenibilidad, entre otros temas relevantes.\n• El congreso busca incentivar a los jóvenes a involucrarse en la agricultura como campo innovador.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/tec-inaugura-i-congreso-internacional-biotecnologia-convierte-costa-rica-sede-ciencia",
+      "publish_date": "2026-10-08T15:07:41.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC reúne a expertos en biotecnología, posicionando a Costa Rica en la ciencia regional.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-10-08-at-8.56.44-am.jpeg",
+      "description": "El TEC inaugura el I Congreso Internacional de Biotecnología y convierte a Costa Rica en sede de la ciencia iberoamericana",
+      "featured": false
+    },
+    {
       "slug": "tec-mejora-su-puntaje-en-ranking-qs-de-america-latina-y-fortalece-indicadores-de-investigacion-en-the",
       "title": "TEC mejora su puntaje en Ranking QS de América Latina y fortalece indicadores de investigación en THE",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica ocupa el puesto 90 en el ranking QS de América Latina.\n• El TEC mejoró su puntaje global, destacando en citas por artículo y calidad de investigación.\n• La empleabilidad de sus egresados es uno de los puntos más valorados por el sector productivo.\n• La Universidad de Costa Rica y la Universidad Nacional también destacan en el ranking regional.\n• El concurso QS incluye más de 500 universidades y clasifica por distintos criterios académicos.",
+      "bullets_20s": "• El Tecnológico de Costa Rica ha ascendido en el Ranking QS, manteniéndose entre las mejores universidades.\n• El TEC ocupa el puesto 90 entre 517 universidades en América Latina, destacando su calidad educativa.\n• Mejoró en tres de cinco pilares en el ranking de THE, fortaleciendo su entorno de investigación.\n• La reputación con empleadores sigue siendo el indicador más sólido, con un puntaje relevante.\n• El TEC se mantiene estable en rankings internacionales a pesar de la creciente competencia regional.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/tec-mejora-su-puntaje-ranking-qs-america-latina-fortalece-indicadores-investigacion",
       "publish_date": "2026-10-08T14:57:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC avanza en el ranking QS gracias a mejoras en investigación y empleabilidad.",
+      "teaser": "Lo clave en 20 segundos: TEC mejora su posición en rankings educativos internacionales y refuerza su calidad investigativa.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/stock_estudiantes-mecatronica_tec-16.jpg",
       "description": "TEC mejora su puntaje en Ranking QS de América Latina y fortalece indicadores de investigación en THE",
       "featured": false
@@ -661,19 +726,6 @@
       "teaser": "Lo clave en 20 segundos: Celebración de 50 años de la Ingeniería en Agronegocios del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/50-aniversario-agronegocios_rgarita-17-1.jpg",
       "description": "50 años de Ingeniería en Agronegocios: trayectoria y compromiso ético",
-      "featured": false
-    },
-    {
-      "slug": "el-tec-inaugura-el-i-congreso-internacional-de-biotecnologia-y-convierte-a-costa-rica-en-sede-de-la-ciencia-iberoamerica",
-      "title": "El TEC inaugura el I Congreso Internacional de Biotecnología y convierte a Costa Rica en sede de la ciencia iberoamericana",
-      "category": "Ciencia",
-      "bullets_20s": "• Durante tres días, Costa Rica es el encuentro de la ciencia iberoamericana con cerca de 300 participantes.\n• El congreso se centra en fortalecer ciencia y tecnología como inversión para enfrentar desafíos regionales.\n• Académicos y estudiantes comparten investigaciones en el I Congreso Internacional de Biotecnología del TEC.\n• La biotecnología se presenta como herramienta clave para la producción, salud y medio ambiente.\n• La ceremonia de apertura contó con líderes del sector científico y político de Iberoamérica.",
-      "source_name": "sepacheco",
-      "source_url": "http://www.tec.ac.cr/tec-inaugura-i-congreso-internacional-biotecnologia-convierte-costa-rica-sede-ciencia",
-      "publish_date": "2026-10-08T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica se convierte en el centro de la biotecnología iberoamericana en el TEC.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-10-08-at-8.56.44-am.jpeg",
-      "description": "El TEC inaugura el I Congreso Internacional de Biotecnología y convierte a Costa Rica en sede de la ciencia iberoamericana.",
       "featured": false
     },
     {
@@ -106913,8 +106965,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-09T20:45:27.986Z",
-  "total": 8224,
+  "generated_at": "2026-10-09T21:45:28.304Z",
+  "total": 8228,
   "removed_soccer_news_count": 1334,
   "removed_soccer_news_titles": [
     "Un nombre ‘inesperado’ salió para el posible cuerpo técnico de Bryan Ruiz en la Selección de Costa Rica",
