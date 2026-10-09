@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "aeropuerto-internacional-de-tocumen-en-panama-suspende-temporalmente-operaciones-y-evacua-pasajeros-por-terremoto",
+      "title": "Aeropuerto Internacional de Tocumen en Panamá suspende temporalmente operaciones y evacúa pasajeros por terremoto",
+      "category": "Mundo",
+      "bullets_20s": "• El Aeropuerto Internacional de Tocumen es crucial para el transporte aéreo en la región de Centroamérica.\n• Tras el terremoto, se activaron protocolos para garantizar la seguridad de todos los pasajeros en la terminal.\n• Las autoridades están evaluando los daños en la infraestructura del aeropuerto y la torre de control.\n• La suspensión de operaciones se realiza mientras se llevan a cabo las verificaciones necesarias de seguridad.\n• Los pasajeros evacuados fueron atendidos por el personal en el aeropuerto tras la emergencia.",
+      "source_name": "Juan Fernando Lara Salas",
+      "source_url": "https://www.nacion.com/el-mundo/aeropuerto-internacional-de-tocumen-en-panama/XAAPLNPSVVCNRCPNIDQFTO7CFE/story/",
+      "publish_date": "2026-10-09T19:43:51.000Z",
+      "teaser": "Lo clave en 20 segundos: Aeropuerto de Tocumen evacúa pasajeros tras terremoto y suspende operaciones temporalmente.",
+      "image_url": "https://www.nacion.com/resizer/v2/NENPBLQEEZEFVPETKJZ3JWZVNE.jpeg?smart=true&auth=67218ea4093c35d9776ca76f1150c4ca584fd34f420e3ae42538367fdaf5ce06&width=1440",
+      "description": "Terminal panameña activó protocolos de seguridad y cerró temporalmente mientras se verifican condiciones del aeropuerto y de la torre de control",
+      "featured": false
+    },
+    {
+      "slug": "dos-magistrados-de-la-corte-plena-anuncian-apoyo-a-reeleccion-de-carlo-diaz-para-un-segundo-periodo-como-fiscal-general",
+      "title": "Dos magistrados de la Corte Plena anuncian apoyo a reelección de Carlo Díaz para un segundo periodo como fiscal general",
+      "category": "Costa Rica",
+      "bullets_20s": "• La decisión de los magistrados puede influir en el rumbo de la justicia en el país.\n• Díaz ha mostrado avances en su gestión como fiscal general en su primer periodo.\n• Se establecerán fechas específicas para la votación de su reelección en la Corte.\n• La reelección de fiscales generales es un tema polémico en la política costarricense.\n• Los magistrados resaltan la importancia de la continuidad en la lucha contra el crimen.",
+      "source_name": "Cristian Mora",
+      "source_url": "https://www.nacion.com/sucesos/dos-magistrados-de-la-corte-plena-anuncian-apoyo-a/XKNV27VKURBGXMGB4QTJGQXOKQ/story/",
+      "publish_date": "2026-10-09T19:38:47.000Z",
+      "teaser": "Lo clave en 20 segundos: Dos magistrados apoyan la reelección de Carlo Díaz como fiscal general en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/WELZIGJDTJG67DCJGVXDRABOI4.JPG?auth=2d7d208bc085583938e1f911fd8d7b246fcd4b1e207978c08ab9e43f2c12c25c&smart=true&width=6000&height=4000",
+      "description": "Dos magistrados de la Corte Suprema respaldan la reelección de Carlo Díaz como fiscal general por cuatro años más. Conozca cuándo se votará su el proceso.",
+      "featured": false
+    },
+    {
       "slug": "temblor-en-panama-causa-apagon-parcial-y-sacude-el-sistema-electrico-regional",
       "title": "Temblor en Panamá causa apagón parcial y sacude el sistema eléctrico regional",
       "category": "Mundo",
-      "bullets_20s": "• Un fuerte temblor en Panamá afecta el sistema eléctrico de la región, causando un apagón parcial.\n• El sistema panameño reporta una pérdida significativa de carga debido al sismo.\n• Costa Rica y Nicaragua experimentaron efectos menores como resultado del temblor en su vecino.\n• El Ente Operador Regional proporciona datos sobre la magnitud de los daños en Panamá.\n• Los ciudadanos panameños se sienten preocupados por las implicaciones del apagón en su vida diaria.",
+      "bullets_20s": "• Un temblor en Panamá impactó la red eléctrica de la región causando un apagón significativo.\n• El sistema eléctrico panameño perdió casi un tercio de su carga tras el sismo mencionado.\n• Costa Rica y Nicaragua reportaron solo efectos leves del temblor registrado en Panamá.\n• Expertos analizan las repercusiones del sismo en la estabilidad de la red eléctrica regional.\n• Los habitantes de varias áreas en Panamá experimentaron cortes de luz prolongados.",
       "source_name": "Juan Fernando Lara Salas",
       "source_url": "https://www.nacion.com/el-pais/temblor-en-panama-causa-apagon-parcial-y-sacude-el/LPZNTVASCNF25IWK7LAIX6LFSI/story/",
       "publish_date": "2026-10-09T19:21:55.000Z",
-      "teaser": "Lo clave en 20 segundos: Un temblor en Panamá provoca apagón y afecta el sistema eléctrico en la región.",
+      "teaser": "Lo clave en 20 segundos: un temblor en Panamá altera el sistema eléctrico regional.",
       "image_url": "https://www.nacion.com/resizer/v2/H42KOWUIT5H2HK5B3CCIT7CFL4.jpeg?auth=c0ee6751b79b936595c44e908778918cc3b1cf4108b9240808f7a3016a1eaa6a&smart=true&width=1096&height=456",
       "description": "Sistema panameño perdió casi tercera parte de su carga por sismo, según datos del Ente Operador Regional y del DOCSE. Costa Rica y Nicaragua sintieron efectos leves.",
       "featured": false
@@ -329,11 +355,11 @@
       "slug": "especial-bbc-mundo-isla-coiba-la-brutal-prision-a-cielo-abierto-que-se-convirtio-en-paraiso-natural-y-a-la-que-panama-vu",
       "title": "Especial BBC Mundo: Isla Coiba, la brutal prisión a cielo abierto que se convirtió en paraíso natural y a la que Panamá vuelve a enviar presos",
       "category": "Mundo",
-      "bullets_20s": "• Isla Coiba fue una prisión temida, conocida por tratar a los reclusos con brutalidad extrema.\n• El gobierno panameño decide enviar nuevamente presos a esta histórica colonia penal.\n• Coiba ha sido reconocida como Patrimonio de la Humanidad por su biodiversidad única.\n• La transformación de la isla a un paraíso natural refleja cambios en la política penitenciaria.\n• Se generan preocupaciones sobre el manejo de los reclusos en un lugar tan controversial.\n• La historia de Isla Coiba está marcada por el sufrimiento de muchos prisioneros.\n• La isla alberga un ecosistema diverso, atrayendo investigadores de todo el mundo.\n• La situación actual permite reflexionar sobre los derechos humanos en penales.\n• Visitar Coiba ofrece una mirada a su compleja historia y su belleza natural.\n• Las opiniones sobre el regreso de reclusos son variadas entre la población.",
+      "bullets_20s": "• Isla Coiba ha sido un lugar de historia marcada por los casos de abusos sistemáticos.\n• La isla es un Patrimonio de la Humanidad en peligro por las decisiones del gobierno panameño.\n• La decisión de trasladar presos puede afectar la biodiversidad de la isla.\n• Recorrimos la isla para entender su transición de prisión a paraíso natural.\n• Expertos alertan sobre el impacto ambiental de volver a usar la isla para encarcelar.\n• Coiba alberga especies únicas que podrían verse comprometidas por la acción gubernamental.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cr86zqyy4eg3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-09T12:30:33.000Z",
-      "teaser": "Lo clave en 20 segundos: Isla Coiba, un lugar de historia oscura, regresa a la controversia con nuevos reclusos.",
+      "teaser": "Lo clave en 20 segundos: La Isla Coiba enfrenta nuevas realidades con el traslado de presos a su antiguo penal.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/5122/live/cd5f5810-c34a-11f1-9a39-31b474234113.jpg",
       "description": "Panamá trasladó a 29 presos a una isla que fue una temida colonia penal, marcada por abusos y trabajos forzados. La decisión genera preocupación por el futuro de este territorio, hoy Patrimonio de la Humanidad. Viajamos hasta allí para conocer su historia.",
       "featured": false
@@ -510,12 +536,12 @@
     {
       "slug": "congelaron-tejido-de-mis-ovulos-por-un-cancer-cuando-tenia-17-anos-y-ahora-con-44-soy-madre-de-un-hermoso-bebe",
       "title": "Congelaron tejido de mis óvulos por un cáncer cuando tenía 17 años y ahora con 44 soy madre de un hermoso bebé",
-      "category": "Mundo",
-      "bullets_20s": "• Kassandra Bacon congeló sus óvulos debido a un cáncer a los 17 años de edad.\n• Veintitrés años después, los óvulos fueron trasplantados con éxito a su cuerpo.\n• Este proceso médico le permitió ser madre a los 44 años de edad.\n• La historia de Kassandra resalta los avances en tecnología de reproducción asistida.\n• Una esperanza para muchas mujeres que enfrentan diagnósticos similares de cáncer.",
+      "category": "Ciencia",
+      "bullets_20s": "• Kassandra Bacon congeló sus óvulos a los 17 años debido a un diagnóstico de cáncer.\n• Veintitrés años después, los mismos óvulos fueron trasplantados a su cuerpo exitosamente.\n• La historia de Kassandra ofrece esperanza a muchas mujeres en situaciones similares.\n• La preservación de óvulos se convierte en una opción viable para tratar el cáncer.\n• Este caso resalta los avances en la medicina reproductiva y sus posibilidades.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c617kddd8dpdo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-09T09:49:18.000Z",
-      "teaser": "Lo clave en 20 segundos: Congelaron mis óvulos por cáncer y ahora soy madre a los 44.",
+      "teaser": "Lo clave en 20 segundos: Kassandra Bacon, madre a los 44 tras congelar óvulos a los 17 por cáncer.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/db1f/live/c0175270-c17e-11f1-8d91-2120227880fe.jpg",
       "description": "Las biopsias tomadas a Kassandra Bacon fueron trasplantadas con éxito a su propio cuerpo 23 años más tarde, lo que le permitió dar a luz a su hijo a los 44 años.",
       "featured": false
@@ -576,11 +602,11 @@
       "slug": "auditoria-interna-del-tec-celebrara-50-anos-de-trayectoria-institucional",
       "title": "Auditoría Interna del TEC celebrará 50 años de trayectoria institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Auditoría Interna del TEC celebra cinco décadas de historia y logros institucionales.\n• El evento oficial se llevará a cabo el 15 de octubre a las 9:00 a.m. en el TEC.\n• Autoridades y exauditores participarán en la ceremonia para conmemorar este aniversario.\n• Se entregará un reconocimiento especial a los exauditores por su dedicación y servicio.\n• El homenaje también incluirá un tributo a Manuel Bonilla, un exfuncionario destacado.",
+      "bullets_20s": "• Celebración del 50 aniversario de la Auditoría Interna del TEC en Costa Rica.\n• Evento programado para el 15 de octubre a las 9:00 a.m. en el Auditorio D3.\n• La Auditoría Interna ha sido clave en el desarrollo institucional y control interno.\n• Reconocimiento especial a exauditoras que han contribuido durante estos años.\n• Se realizará un homenaje póstumo a Manuel Bonilla Cordero durante la celebración.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/auditoria-interna-tec-celebra-50-anos-trayectoria-institucional",
       "publish_date": "2026-10-09T00:55:03.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC celebra 50 años de su Auditoría Interna con un evento especial.",
+      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de la Auditoría Interna del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/original-k52s3026_3.jpg",
       "description": "Auditoría Interna del TEC celebrará 50 años de trayectoria institucional",
       "featured": false
@@ -612,27 +638,14 @@
       "featured": false
     },
     {
-      "slug": "el-tec-inaugura-el-i-congreso-internacional-de-biotecnologia-y-convierte-a-costa-rica-en-sede-de-la-ciencia-iberoamerica",
-      "title": "El TEC inaugura el I Congreso Internacional de Biotecnología y convierte a Costa Rica en sede de la ciencia iberoamericana",
-      "category": "Ciencia",
-      "bullets_20s": "• El I Congreso Internacional de Biotecnología se lleva a cabo del 7 al 9 de octubre en Costa Rica.\n• Cerca de 300 científicos de Iberoamérica se reúnen para compartir conocimientos y experiencias.\n• La biotecnología es vista como herramienta clave para afrontar desafíos agroalimentarios en la región.\n• Las universidades públicas son identificadas como motores de la ciencia y la investigación en el país.\n• Los participantes analizan nuevas técnicas de biotecnología aplicada a la agricultura y la salud.",
-      "source_name": "sepacheco",
-      "source_url": "http://www.tec.ac.cr/tec-inaugura-i-congreso-internacional-biotecnologia-convierte-costa-rica-sede-ciencia",
-      "publish_date": "2026-10-08T15:07:41.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC abre el Congreso de Biotecnología, sumando esfuerzos científicos de Iberoamérica.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-10-08-at-8.56.44-am.jpeg",
-      "description": "El TEC inaugura el I Congreso Internacional de Biotecnología y convierte a Costa Rica en sede de la ciencia iberoamericana",
-      "featured": false
-    },
-    {
       "slug": "tec-mejora-su-puntaje-en-ranking-qs-de-america-latina-y-fortalece-indicadores-de-investigacion-en-the",
       "title": "TEC mejora su puntaje en Ranking QS de América Latina y fortalece indicadores de investigación en THE",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC ascendió al puesto 90 en el Ranking QS de América Latina y el Caribe.\n• Mejoró en tres de los cinco pilares evaluados por Times Higher Education.\n• La reputación con empleadores se mantiene sólida, reflejando la valoración del sector productivo.\n• Se observan áreas de oportunidad en el impacto web y la reputación académica.\n• La competitividad regional ha aumentado con más universidades clasificadas en el ranking.",
+      "bullets_20s": "• El Tecnológico de Costa Rica ocupa el puesto 90 en el ranking QS de América Latina.\n• El TEC mejoró su puntaje global, destacando en citas por artículo y calidad de investigación.\n• La empleabilidad de sus egresados es uno de los puntos más valorados por el sector productivo.\n• La Universidad de Costa Rica y la Universidad Nacional también destacan en el ranking regional.\n• El concurso QS incluye más de 500 universidades y clasifica por distintos criterios académicos.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/tec-mejora-su-puntaje-ranking-qs-america-latina-fortalece-indicadores-investigacion",
       "publish_date": "2026-10-08T14:57:59.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC ha mejorado su posicionamiento en rankings académicos importantes.",
+      "teaser": "Lo clave en 20 segundos: El TEC avanza en el ranking QS gracias a mejoras en investigación y empleabilidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/stock_estudiantes-mecatronica_tec-16.jpg",
       "description": "TEC mejora su puntaje en Ranking QS de América Latina y fortalece indicadores de investigación en THE",
       "featured": false
@@ -641,13 +654,26 @@
       "slug": "50-anos-de-ingenieria-en-agronegocios-trayectoria-y-compromiso-etico",
       "title": "50 años de Ingeniería en Agronegocios: trayectoria y compromiso ético",
       "category": "Costa Rica",
-      "bullets_20s": "• La Ingeniería en Agronegocios celebra cinco décadas formando profesionales en Costa Rica.\n• Se han graduado aproximadamente 790 especialistas en el área agroindustrial desde 1976.\n• La carrera se centra en el desarrollo sostenible del sector agroalimentario del país.\n• Sus programas incluyen maestrías y licenciaturas en gestión de recursos naturales.\n• El TEC ha sido clave en la evolución educativa y en la formación de líderes del agro.",
+      "bullets_20s": "• La Ingeniería en Agronegocios del TEC cumple 50 años de formar profesionales éticos y comprometidos.\n• La carrera ha preparado aproximadamente 790 profesionales durante cinco décadas de trayectoria.\n• Desde su creación, la carrera se ha centrado en el desarrollo humano sostenible del agro.\n• Se ofrecen programas académicos en Ingeniería Agronegocios y Maestrías en Gestión de Recursos Naturales.\n• El TEC integra cinco escuelas para fortalecer la educación en agronegocios y biotecnología.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/50-anos-ingenieria-agronegocios-trayectoria-compromiso-etico",
       "publish_date": "2026-10-08T05:45:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Una celebración de 50 años en la Ingeniería en Agronegocios en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de la Ingeniería en Agronegocios del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/50-aniversario-agronegocios_rgarita-17-1.jpg",
       "description": "50 años de Ingeniería en Agronegocios: trayectoria y compromiso ético",
+      "featured": false
+    },
+    {
+      "slug": "el-tec-inaugura-el-i-congreso-internacional-de-biotecnologia-y-convierte-a-costa-rica-en-sede-de-la-ciencia-iberoamerica",
+      "title": "El TEC inaugura el I Congreso Internacional de Biotecnología y convierte a Costa Rica en sede de la ciencia iberoamericana",
+      "category": "Ciencia",
+      "bullets_20s": "• Durante tres días, Costa Rica es el encuentro de la ciencia iberoamericana con cerca de 300 participantes.\n• El congreso se centra en fortalecer ciencia y tecnología como inversión para enfrentar desafíos regionales.\n• Académicos y estudiantes comparten investigaciones en el I Congreso Internacional de Biotecnología del TEC.\n• La biotecnología se presenta como herramienta clave para la producción, salud y medio ambiente.\n• La ceremonia de apertura contó con líderes del sector científico y político de Iberoamérica.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/tec-inaugura-i-congreso-internacional-biotecnologia-convierte-costa-rica-sede-ciencia",
+      "publish_date": "2026-10-08T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Costa Rica se convierte en el centro de la biotecnología iberoamericana en el TEC.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-10-08-at-8.56.44-am.jpeg",
+      "description": "El TEC inaugura el I Congreso Internacional de Biotecnología y convierte a Costa Rica en sede de la ciencia iberoamericana.",
       "featured": false
     },
     {
@@ -106887,8 +106913,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-09T19:45:26.623Z",
-  "total": 8222,
+  "generated_at": "2026-10-09T20:45:27.986Z",
+  "total": 8224,
   "removed_soccer_news_count": 1334,
   "removed_soccer_news_titles": [
     "Un nombre ‘inesperado’ salió para el posible cuerpo técnico de Bryan Ruiz en la Selección de Costa Rica",
