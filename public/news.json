@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "hay-costarricenses-en-panama-afectados-por-el-temblor-de-magnitud-77-esto-dicen-los-consulados",
+      "title": "¿Hay costarricenses en Panamá afectados por el temblor de magnitud 7,7? Esto dicen los Consulados",
+      "category": "Costa Rica",
+      "bullets_20s": "• El temblor de magnitud 7,7 ha generado preocupación en la comunidad costarricense en Panamá.\n• Los consulados están activos, brindando información sobre el estado de los costarricenses.\n• Se establecieron canales de asistencia para ayudar a los afectados por el sismo.\n• Autoridades costarricenses trabajan para evaluar el impacto del sismo en ciudadanos.\n• Recomendaciones de seguridad fueron emitidas para quienes residen en Panamá.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/el-pais/hay-costarricenses-en-panama-afectados-por-el/3AVECEDCFFBZ3MDQAWFEWTOFWA/story/",
+      "publish_date": "2026-10-10T17:06:33.000Z",
+      "teaser": "Lo clave en 20 segundos: sismo preocupa a costarricenses en Panamá; se activan consulados y asistencia.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZLUFG7AIIJBWVKXLJPISM6X6XU.jpg?smart=true&auth=edeb21bb09895761267c021b1a84d6df009537433f49f93726f96c6a72a25e6c&width=1440",
+      "description": "El Ministerio de Relaciones Exteriores se pronunció sobre la situación de los costarricenses en Panamá tras el sismo de magnitud 7,7. Conozca qué informaron los consulados y cuáles son los canales de asistencia disponibles.",
+      "featured": false
+    },
+    {
+      "slug": "yorgina-alvarado-acude-al-ministerio-publico-y-rechaza-denuncias-de-gilbert-diaz-por-presuntas-irregularidades-en-el-sec",
+      "title": "Yorgina Alvarado acude al Ministerio Público y rechaza denuncias de Gilbert Díaz por presuntas irregularidades en el SEC",
+      "category": "Costa Rica",
+      "bullets_20s": "• Yorgina Alvarado se presenta al Ministerio Público para defenderse de las denuncias interpuestas.\n• Las acusaciones son sobre presuntas irregularidades en el Sistema Educativo Costarricense (SEC).\n• Alvarado desmintió las acusaciones y pidió aclarar la situación al presidente del SEC.\n• La situación ha generado un intenso debate en los medios de comunicación nacionales.\n• El SEC es fundamental para la educación y la administración de recursos en el país.",
+      "source_name": "Cristian Mora",
+      "source_url": "https://www.nacion.com/politica/yorgina-alvarado-acude-al-ministerio-publico-y/EYGMFS3UHRH23EAOTBYZMGXU74/story/",
+      "publish_date": "2026-10-10T16:57:56.000Z",
+      "teaser": "Lo clave en 20 segundos: Yorgina Alvarado se defiende de denuncias sobre irregularidades en el SEC.",
+      "image_url": "https://www.nacion.com/resizer/v2/WOPVTGVFTJBHBDAWH35PV5ZEDM.jpeg?auth=81dd4ee3beeaaabdd15c1ad121efee1f3b9f0d7ded39cab024c6aad5d7be2d25&smart=true&width=1200&height=675",
+      "description": "Yorgina Alvarado acudió al Ministerio Público tras las denuncias por presuntas irregularidades en el SEC. La dirigente rechaza las acusaciones y cuestiona al presidente del SEC, Gilberth Díaz.",
+      "featured": false
+    },
+    {
       "slug": "oij-y-fiscalia-investigan-presuntas-agresiones-a-reos-ministerio-de-justicia-niega-maltratos-en-la-reforma",
       "title": "OIJ y Fiscalía investigan presuntas agresiones a reos; Ministerio de Justicia niega maltratos en La Reforma",
       "category": "Costa Rica",
@@ -17,11 +43,11 @@
       "slug": "hiroo-kanamori-el-cientifico-japones-que-creo-la-escala-que-reemplazo-a-la-de-richter-y-por-que-es-mejor-para-medir-terr",
       "title": "Hiroo Kanamori, el científico japonés que creó la escala que reemplazó a la de Richter (y por qué es mejor para medir terremotos de gran magnitud)",
       "category": "Ciencia",
-      "bullets_20s": "• Hiroo Kanamori ha revolucionado la manera en que se miden los terremotos en todo el mundo.\n• Su escala de medición mejora la evaluación de sismos de gran magnitud y su impacto.\n• Con 90 años, Kanamori es un referente en el campo de la sismología a nivel global.\n• Un colaborador colombiano destaca la influencia del trabajo de Kanamori en la comunidad científica.\n• La nueva escala ha sido adoptada por múltiples instituciones para medir sismos más eficazmente.",
+      "bullets_20s": "• Hiroo Kanamori desarrolló una escala que mejora la medición de terremotos de gran magnitud.\n• Su escala ofrece datos más precisos sobre la energía liberada durante sismos importantes.\n• Kanamori ha dedicado su vida a la investigación sobre sismos a nivel global.\n• El científico fue entrevistado para hablar sobre su legado y su colaboración con otros expertos.\n• La nueva escala se diferencia de la de Richter, que tiene limitaciones en eventos intensos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6dj4ne2p0njo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-10T15:59:35.000Z",
-      "teaser": "Lo clave en 20 segundos: Hiroo Kanamori transforma la medición de terremotos con su innovadora escala.",
+      "teaser": "Lo clave en 20 segundos: Hiroo Kanamori revolucionó cómo medimos los terremotos importantes.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ab58/live/7192e9e0-b0ec-11f1-bc1f-3f186ca4140c.jpg",
       "description": "El sismólogo japonés, de 90 años, es considerado 'una leyenda viviente' en sismología. BBC Mundo habló con él y con uno de sus colaboradores más cercanos, el científico colombiano Luis Rivera.",
       "featured": false
@@ -197,13 +223,13 @@
     },
     {
       "slug": "jonas-i-el-autoproclamado-rey-de-suiza-que-ha-creado-un-polemico-imperio-al-apropiarse-de-terrenos-sin-dueno",
-      "title": "Jonas I, el autoproclamado rey de Suiza que ha creado un polémico 'imperio' al apropiarse de terrenos sin dueño",
+      "title": "Jonas I, el autoproclamado rey de Suiza que ha creado un polémico \"imperio\" al apropiarse de terrenos sin dueño",
       "category": "Mundo",
-      "bullets_20s": "• Jonas I se proclamó rey de Suiza, un título simbólico sin respaldo legal formal en el país.\n• Su proyecto ha llamado la atención debido a la acumulación de terrenos sin dueño en Suiza.\n• Lauwiner ha expresado interés en involucrarse en la política nacional del país alpino.\n• Las acciones de Jonas I han suscitado debates sobre la propiedad de la tierra en Suiza.\n• Los críticos cuestionan la legitimidad de su autoproclamación y prácticas territoriales.\n• El 'imperio' de Jonas I representa una visión inusual del liderazgo y la propiedad.\n• Este fenómeno ha generado interés en medios de comunicación internacionales por su rareza.",
+      "bullets_20s": "• Jonas I se autoproclamó rey de Suiza en 2019, lo que generó controversia y atención mediática.\n• El título de rey que se otorga es simbólico, pero ha logrado acumular una gran cantidad de terrenos.\n• Recientemente ha expandido su visión política y busca influir en decisiones a nivel nacional.\n• Los terrenos que ha apropiado son considerados sin dueño, lo que plantea dudas legales.\n• Su proyecto ha atraído tanto admiradores como críticos en el ámbito internacional y su país.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cxyvzg95el1mo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-10T11:07:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Un hombre se autoproclama rey y crea un 'imperio' de terrenos en Suiza.",
+      "teaser": "Lo clave en 20 segundos: Jonas I, un rey simbólico con un inusual proyecto político en Suiza.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/07c4/live/8406f2f0-b11a-11f1-88dd-176b0bb35f89.jpg",
       "description": "Jonas Lauwiner se autoproclamó rey de Suiza en 2019, aunque reconoce que su título es puramente simbólico. Desde entonces, ha acumulado 149 parcelas de terreno y aspira ahora a llevar su peculiar proyecto también a la política nacional.",
       "featured": false
@@ -223,15 +249,15 @@
     },
     {
       "slug": "quien-es-james-chambers-el-millonario-comunista-detenido-en-espana-a-peticion-de-eeuu",
-      "title": "Quién es James Chambers, el millonario \"comunista\" detenido en España a petición de EE.UU.",
+      "title": "Quién es James Chambers, el millonario 'comunista' detenido en España a petición de EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• James Chambers es conocido por su activismo en causas de izquierda y su estilo de vida millonario.\n• Detenido en España, su arresto responde a una petición de las autoridades de Estados Unidos.\n• Acusado de desórdenes y blanqueo de capitales, sus actividades han sido objeto de controversia.\n• Su vida y fortuna se han centrado en el activismo político y social en diversas regiones.\n• Las implicaciones legales de su detención podrían tener repercusiones en el ámbito internacional.",
+      "bullets_20s": "• James Chambers es conocido por su activismo de izquierda y su inversión en causas sociales.\n• Recientemente fue detenido en España debido a una solicitud de extradición de EE.UU.\n• Las autoridades estadounidenses lo acusan de desórdenes y actividades ilegales relacionadas.\n• Su situación ha generado debates sobre la actividad política de los millonarios.\n• El caso pone de relieve las tensiones entre economía y política en la actualidad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwzrzr40ky1ko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-10T10:30:19.000Z",
-      "teaser": "Lo clave en 20 segundos: James Chambers, millonario activista, detenido por EE.UU. en España.",
+      "teaser": "Lo clave en 20 segundos: un millonario activista en el centro de un conflicto internacional.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/fc8a/live/596f09a0-c2be-11f1-a495-0d8c3b3fd3d3.jpg",
-      "description": "James \"Fergie\" Chambers decidió dedicar su vida y su fortuna al activismo de izquierda. Ahora, su país lo acusa de desórdenes y blanqueo de capitales.",
+      "description": "James 'Fergie' Chambers decidió dedicar su vida y su fortuna al activismo de izquierda. Ahora, su país lo acusa de desórdenes y blanqueo de capitales.",
       "featured": false
     },
     {
@@ -524,13 +550,13 @@
       "slug": "eeuu-impone-fuertes-sanciones-a-la-corte-penal-internacional-horas-despues-de-que-una-de-sus-exjuezas-ganara-el-nobel-de",
       "title": "EE.UU. impone fuertes sanciones a la Corte Penal Internacional horas después de que una de sus exjuezas ganara el Nobel de la Paz",
       "category": "Mundo",
-      "bullets_20s": "• Las sanciones impuestas por EE.UU. generan controversia a nivel internacional y afectan la política global.\n• Reino Unido, Canadá y Alemania han expresado su desacuerdo con las decisiones tomadas por EE.UU.\n• Estos acontecimientos ocurren poco después de que una exjueza de la CPI ganara un prestigioso premio.\n• Las reacciones de los estados miembros reflejan la complejidad del apoyo a la Corte Penal Internacional.\n• Las sanciones podrían tener un impacto significativo en las relaciones diplomáticas y judiciales.",
+      "bullets_20s": "• Las sanciones de EE.UU. llegan tras la reciente premiación del Nobel de la Paz a una exjueza.\n• Miembros de la Corte Penal Internacional expresan su preocupación por las medidas impuestas.\n• Reino Unido, Canadá y Alemania critican abiertamente la acción de Washington en el tribunal.\n• Las relaciones entre EE.UU. y la Corte Penal se han tensionado en los últimos años.\n• Analistas reflejan que estas sanciones podrían afectar la operación de la Corte a nivel global.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cq3981jym2rvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-09T21:37:55.000Z",
-      "teaser": "Lo clave en 20 segundos: EE.UU. sanciona a la CPI tras premio Nobel que divide opiniones entre naciones.",
+      "teaser": "Lo clave en 20 segundos: EE.UU. sanciona a la CPI tras el Nobel de Paz de una exjueza, causando repercusiones internacionales.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/70c6/live/7c05c3c0-c401-11f1-9a39-31b474234113.jpg",
-      "description": "Varios estados miembros del tribunal internacional, como Reino Unido, Canadá y Alemania, señalaron que 'discrepan profundamente' de las sanciones.",
+      "description": "Varios estados miembros del tribunal internacional, como Reino Unido, Canadá y Alemania, señalaron que \"discrepan profundamente\" de las sanciones.",
       "featured": false
     },
     {
@@ -1187,11 +1213,11 @@
       "slug": "auditoria-interna-del-tec-celebrara-50-anos-de-trayectoria-institucional",
       "title": "Auditoría Interna del TEC celebrará 50 años de trayectoria institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Auditoría Interna del TEC cumple 50 años de trayectoria en el país.\n• El evento conmemorativo será el 15 de octubre en el Auditorio D3 del TEC.\n• Se espera la participación de exauditores y representantes de diversas escuelas.\n• Se reconocerá la labor de exauditores a lo largo de estos años de servicio.\n• Se realizará un homenaje póstumo a Manuel Bonilla, exfuncionario destacado.",
+      "bullets_20s": "• La Auditoría Interna del TEC ha sido fundamental para el desarrollo de la institución durante cinco décadas.\n• La conmemoración se llevará a cabo el 15 de octubre en el Auditorio D3 del campus central.\n• Participarán autoridades institucionales, exauditores y familiares de Don Manuel Bonilla.\n• Se entregarán reconocimientos a exauditores por su trayectoria y contribuciones al TEC.\n• El evento también incluirá un homenaje póstumo a Manuel Bonilla Cordero.\n• La celebración resalta la importancia de la transparencia y la rendición de cuentas.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/auditoria-interna-tec-celebra-50-anos-trayectoria-institucional",
       "publish_date": "2026-10-09T00:55:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de Auditoría Interna en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de Auditoría Interna del TEC con reconocimiento y homenaje.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/original-k52s3026_3.jpg",
       "description": "Auditoría Interna del TEC celebrará 50 años de trayectoria institucional",
       "featured": false
@@ -1239,11 +1265,11 @@
       "slug": "tec-celebra-medio-siglo-de-trayectoria-del-departamento-de-aprovisionamiento",
       "title": "TEC celebra medio siglo de trayectoria del Departamento de Aprovisionamiento",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebra 50 años del Departamento de Aprovisionamiento.\n• Este departamento es crucial en la adquisición de bienes y servicios para la institución.\n• La celebración contó con la participación de personal jubilado y exdirectores del departamento.\n• Autoridades del TEC destacaron el impacto del departamento en la gestión institucional.\n• Se otorgaron reconocimientos a quienes han trabajado más de 20 años en la unidad.",
+      "bullets_20s": "• El TEC conmemora 50 años de la creación del Departamento de Aprovisionamiento.\n• Se realizó una ceremonia con exdirectores y personal que ha trabajado en el departamento.\n• La rectora del TEC destacó el impacto estratégico del departamento en la institución.\n• Reconocieron el esfuerzo del personal con más de 20 años en el departamento.\n• El evento incluyó una presentación cultural por la Agrupación de Danza Folklórica.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-celebra-medio-siglo-trayectoria-departamento-aprovisionamiento",
       "publish_date": "2026-10-08T23:13:58.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración del medio siglo del Departamento de Aprovisionamiento del TEC.",
+      "teaser": "Lo clave en 20 segundos: El TEC celebra 50 años de su Departamento de Aprovisionamiento con un evento especial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/50-aniversario-aprovisionamiento_rgarita-10.png",
       "description": "TEC celebra medio siglo de trayectoria del Departamento de Aprovisionamiento",
       "featured": false
@@ -1252,11 +1278,11 @@
       "slug": "air-aprueba-requisitos-tecnicos-para-direcciones-de-apoyo-a-la-academia-y-da-curso-a-cambios-en-la-relacion-entre-rector",
       "title": "AIR aprueba requisitos técnicos para direcciones de apoyo a la academia y da curso a cambios en la relación entre Rectoría y Consejo Institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Asamblea Institucional Representativa del TEC aprobó diez propuestas clave en su reciente sesión ordinaria.\n• Seis reformas fueron aprobadas en firme, mientras que cuatro pasaron a la etapa de procedencia.\n• La sesión se realizó en modalidad de telepresencia, lo que permitió la participación inclusiva.\n• El proceso incluye dos votaciones para propuestas que modifiquen el Estatuto Orgánico del TEC.\n• Entre las propuestas aprobadas hay cambios en la relación entre la Rectoría y el Consejo Institucional.",
+      "bullets_20s": "• La Asamblea Institucional Representativa aprobó diez propuestas relacionadas con la gestión académica.\n• Seis propuestas fueron aprobadas y cuatro avanzaron a la siguiente etapa de votación.\n• La sesión se realizó en modalidad de telepresencia y tuvo una amplia participación.\n• La propuesta de requisitos técnicos busca mejorar las decisiones en la elección de líderes académicos.\n• Cambios sobre la relación de la Rectoría con el Consejo Institucional también fueron relevantes.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/air-aprueba-requisitos-tecnicos-direcciones-apoyo-academia-da-curso-cambios-relacion-rectoria",
       "publish_date": "2026-10-08T19:21:28.000Z",
-      "teaser": "Lo clave en 20 segundos: AIR aprueba cambios relevantes para la academia y la rectoría en TEC.",
+      "teaser": "Lo clave en 20 segundos: AIR aprueba cambios técnicos y normativos para fortalecer su autonomía y transparencia.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/air_7-octubre-2026-7.png",
       "description": "AIR aprueba requisitos técnicos para direcciones de apoyo a la academia y da curso a cambios en la relación entre Rectoría y Consejo Institucional",
       "featured": false
@@ -1265,13 +1291,13 @@
       "slug": "el-tec-inaugura-el-i-congreso-internacional-de-biotecnologia-y-convierte-a-costa-rica-en-sede-de-la-ciencia-iberoamerica",
       "title": "El TEC inaugura el I Congreso Internacional de Biotecnología y convierte a Costa Rica en sede de la ciencia iberoamericana",
       "category": "Ciencia",
-      "bullets_20s": "• Costa Rica se convierte en el punto de encuentro de la ciencia iberoamericana durante el congreso.\n• El evento reúne académicos, investigadores y estudiantes de múltiples países en una misma agenda.\n• La biotecnología se plantea como una herramienta clave para resolver los desafíos agroalimentarios.\n• Participantes discuten sobre el financiamiento necesario para la investigación científica en el país.\n• El congreso se lleva a cabo en el Instituto Interamericano de Cooperación para la Agricultura.",
+      "bullets_20s": "• El I Congreso Internacional de Biotecnología reúne a expertos de diversas áreas en Costa Rica.\n• Cerca de 300 participantes buscan fortalecer la ciencia y tecnología a nivel iberoamericano.\n• El evento se lleva a cabo del 7 al 9 de octubre en el IICA, San José.\n• La biotecnología se presenta como una herramienta clave para resolver problemas alimentarios.\n• Varios ministros y académicos destacan el papel vital de la biotecnología en el futuro.\n• Conferencias abordarán biotecnología médica, agrícola y de alimentos, y sostenibilidad.\n• Investigadores jóvenes comparten avances en biotecnología y nuevos enfoques científicos.\n• La Escuela de Biología del TEC colabora en políticas públicas para la bioeconomía.\n• Se realizan visitas técnicas a laboratorios y centros de investigación en Costa Rica.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-inaugura-i-congreso-internacional-biotecnologia-convierte-costa-rica-sede-ciencia",
       "publish_date": "2026-10-08T15:07:41.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica alberga el I Congreso Internacional de Biotecnología para fortalecer la ciencia.",
+      "teaser": "Lo clave en 20 segundos: Costa Rica se convierte en sede de la biotecnología iberoamericana en un congreso internacional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-10-08-at-8.56.44-am.jpeg",
-      "description": "El TEC inaugura el I Congreso Internacional de Biotecnología y convierte a Costa Rica en sede de la ciencia iberoamericana",
+      "description": "El TEC inaugura el I Congreso Internacional de Biotecnología y convierte a Costa Rica en sede de la ciencia iberoamericana.",
       "featured": false
     },
     {
@@ -107537,10 +107563,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-10T16:45:25.658Z",
-  "total": 8272,
-  "removed_soccer_news_count": 1340,
+  "generated_at": "2026-10-10T17:45:26.233Z",
+  "total": 8274,
+  "removed_soccer_news_count": 1341,
   "removed_soccer_news_titles": [
+    "Federación de Estados Unidos destaca a un costarricense como líder de las nuevas figuras de su selección",
     "Juan Pablo Vargas asistió en golazo de Puebla de México (video)",
     "Bayern Múnich encaja el gol más rápido de la Bundesliga en solo ocho segundos y con error de Neuer",
     "Este es el portero elegido por Cartaginés para reemplazar a Kevin Briceño",
@@ -107589,7 +107616,6 @@
     "ESPN, Diario Diez, TUDN: Así reflejó la prensa internacional el desastre de la Selección de Costa Rica",
     "Jugador de la Selección hace fuerte cuestionamiento a cambio de sistema de Batista: ‘No se entrenó como se debe’",
     "Vea la cara que hizo Fernando Batista apenas terminó el ridículo de la Selección de Costa Rica (video)",
-    "Carlos Mora admite el desastre de la Selección de Costa Rica: ‘No podemos perder así’",
-    "Orlando Galo señala a los responsables de la pesadilla que vivió la Selección de Costa Rica ante Curazao"
+    "Carlos Mora admite el desastre de la Selección de Costa Rica: ‘No podemos perder así’"
   ]
 }
