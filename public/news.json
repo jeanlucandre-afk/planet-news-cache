@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "aeropuerto-de-tocumen-reanuda-operaciones-tras-fuerte-temblor-de-magnitud-77-en-panama",
+      "title": "Aeropuerto de Tocumen reanuda operaciones tras fuerte temblor de magnitud 7,7 en Panamá",
+      "category": "Mundo",
+      "bullets_20s": "• El Aeropuerto Internacional de Tocumen volvió a abrir tras el fuerte sismo registrado en Panamá.\n• Se reportaron daños menores, pero las operaciones de vuelos ya están en marcha nuevamente.\n• Las autoridades realizaron inspecciones exhaustivas para garantizar la seguridad de los pasajeros.\n• El temblor se produjo el 9 de octubre y tuvo una magnitud de 7,7 en la escala de Richter.\n• Expertos están analizando el impacto sísmico y preparando medidas preventivas futuras.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-mundo/aeropuerto-de-tocumen-reanuda-operaciones-tras/MCFVT3CTW5EGJBO7SGDIJBAEVI/story/",
+      "publish_date": "2026-10-10T00:19:41.000Z",
+      "teaser": "Lo clave en 20 segundos: El aeropuerto de Tocumen reanuda vuelos tras sismo en Panamá.",
+      "image_url": "https://www.nacion.com/resizer/v2/NENPBLQEEZEFVPETKJZ3JWZVNE.jpeg?auth=67218ea4093c35d9776ca76f1150c4ca584fd34f420e3ae42538367fdaf5ce06&smart=true&width=1600&height=816",
+      "description": "El Aeropuerto Internacional de Tocumen, en Panamá, reanudó sus operaciones tras el temblor de magnitud 7,7 de este viernes 9 de octubre. Autoridades inspeccionaron las instalaciones.",
+      "featured": false
+    },
+    {
+      "slug": "laura-fernandez-si-fue-invitada-a-reunion-del-escudo-de-las-americas-con-trump-por-la-que-fue-despedido-manuel-tovar",
+      "title": "Laura Fernández sí fue invitada a reunión del Escudo de las Américas con Trump por la que fue despedido Manuel Tovar",
+      "category": "Costa Rica",
+      "bullets_20s": "• Laura Fernández recibió una invitación oficial para la reunión del Escudo de las Américas con Trump.\n• La invitación fue enviada por Marco Rubio, secretario de Estado de EE. UU., con antelación.\n• El evento se relaciona con la política hemisférica y la seguridad regional en América Latina.\n• El despido de Manuel Tovar ha generado controversia y análisis sobre las decisiones gubernamentales.\n• Periodistas destacan la importancia de la transparencia en la comunicación política.",
+      "source_name": "Lucía Astorga, Aarón Sequeira",
+      "source_url": "https://www.nacion.com/politica/laura-fernandez-si-fue-invitada-a-reunion-del/KGEJJO4UOJHK7PIYJ6COLTZKPU/story/",
+      "publish_date": "2026-10-09T23:52:15.000Z",
+      "teaser": "Lo clave en 20 segundos: La invitación de Fernández a la reunión del Escudo de las Américas desata polémica.",
+      "image_url": "https://www.nacion.com/resizer/v2/TMWQN3KQERATTMOFOY5CMU5Z6I.jpeg?auth=0c89c953965b355e17d3aa06517ed8d9c7bd10226c2ef17f3c2eb4d1287fadb7&smart=true&width=948&height=1219",
+      "description": "Copia de la invitación enviada por Marco Rubio, secretario de Estados de Estados Unidos, evidencia que cita estaba programada con antelación e iba dirigida a la mandataria.",
+      "featured": false
+    },
+    {
+      "slug": "trump-flexibiliza-sanciones-a-rusia-para-comprarle-diesel-ante-aumento-de-costo-en-estados-unidos",
+      "title": "Trump flexibiliza sanciones a Rusia para comprarle diésel ante aumento de costo en Estados Unidos",
+      "category": "Mundo",
+      "bullets_20s": "• Las sanciones a Rusia han generado un debate sobre su efectividad y necesidad en tiempos de crisis.\n• El aumento del costo del diésel ha llevado a Estados Unidos a reconsiderar su postura sobre Rusia.\n• Volodimir Zelenski critica la decisión de Trump y expresa su preocupación por la situación en Ucrania.\n• Rusia actualmente controla importantes territorios en Ucrania, generando tensiones internacionales.\n• La reacción del gobierno de Ucrania refleja el temor ante cualquier acercamiento con Rusia.\n• Este giro en la política estadounidense podría afectar las relaciones con otros aliados de Ucrania.\n• La comunidad internacional sigue atentamente los movimientos de Trump en este contexto.\n• Análisis sobre cómo esta decisión impactará los precios globales de los combustibles.\n• Trump enfrenta críticas internas y externas por su enfoque hacia la crisis energética.\n• Las repercusiones de esta decisión podrían ser significativas en el ámbito geopolítico.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/trump-flexibiliza-sanciones-a-rusia-para-comprarle/GLILNY57TNGPZIRO3C7XRYIF4I/story/",
+      "publish_date": "2026-10-09T23:47:42.000Z",
+      "teaser": "Lo clave en 20 segundos: Trump flexibiliza sanciones a Rusia ante el aumento del precio del diésel en EE. UU.",
+      "image_url": "https://www.nacion.com/resizer/v2/3L75YLR5UBB4FEOFZIH4LTOOOY.jpg?auth=e218f6c0287a301d73a26e2c5ff4ab173a14d420c8f936e60fb275cb77169bf0&smart=true&width=1200&height=800",
+      "description": "El presidente de Ucrania, Volodimir Zelenski, llama la decisión “indigna” y “débil”; Rusia ocupa la quinta parte del territorio ucraniano. ¿Qué ocurrió?",
+      "featured": false
+    },
+    {
       "slug": "ranking-de-merco-bac-lidera-ranking-de-empresas-con-mejor-reputacion-de-costa-rica-en-2026",
       "title": "Ranking de Merco: BAC lidera ranking de empresas con mejor reputación de Costa Rica en 2026",
       "category": "Costa Rica",
@@ -82,11 +121,11 @@
       "slug": "eeuu-impone-fuertes-sanciones-a-la-corte-penal-internacional-horas-despues-de-que-una-de-sus-exjuezas-ganara-el-nobel-de",
       "title": "EE.UU. impone fuertes sanciones a la Corte Penal Internacional horas después de que una de sus exjuezas ganara el Nobel de la Paz",
       "category": "Mundo",
-      "bullets_20s": "• EE.UU. ha implementado sanciones a la Corte Penal Internacional, generando reacciones en la comunidad internacional.\n• El Nobel de la Paz fue otorgado a una exjueza de la Corte, lo que añade controversia a la decisión.\n• Reino Unido, Canadá y Alemania expresan su desacuerdo profundo con las sanciones impuestas por EE.UU.\n• La Corte Penal Internacional enfrenta desafíos significativos en su función debido a la política estadounidense.\n• Las sanciones destacan las tensiones entre EE.UU. y los organismos internacionales de justicia.",
+      "bullets_20s": "• Las sanciones de EE.UU. generan controversia entre los miembros de la Corte Penal Internacional.\n• Reino Unido, Canadá y Alemania han expresado su desacuerdo con las sanciones impuestas.\n• La exjueza de la Corte fue reconocida con el Nobel de la Paz en un evento significativo.\n• Estas acciones de EE.UU. afectan las relaciones diplomáticas internacionales con la Corte.\n• El triunfo de la exjueza resalta la relevancia de la justicia global en el escenario actual.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cq3981jym2rvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-09T21:37:55.000Z",
-      "teaser": "Lo clave en 20 segundos: EE.UU. sanciona a la Corte Penal Internacional tras la premiación de un Nobel de la Paz.",
+      "teaser": "Lo clave en 20 segundos: EE.UU. sanciona a la Corte Penal Internacional tras Nobel de la Paz.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/70c6/live/7c05c3c0-c401-11f1-9a39-31b474234113.jpg",
       "description": "Varios estados miembros del tribunal internacional, como Reino Unido, Canadá y Alemania, señalaron que 'discrepan profundamente' de las sanciones.",
       "featured": false
@@ -121,11 +160,11 @@
       "slug": "simon-se-fortalece-en-el-pacifico-y-se-preve-que-toque-tierra-en-las-costas-de-mexico-como-potente-huracan-durante-el-fi",
       "title": "Simon se fortalece en el Pacífico y se prevé que toque tierra en las costas de México como potente huracán durante el fin de semana",
       "category": "Mundo",
-      "bullets_20s": "• El huracán Simon se intensifica y genera preocupación por su posible trayectoria hacia México.\n• Las proyecciones indican que Simon podría llegar a ser un huracán categoría 3 o 4.\n• Los meteorólogos monitorean de cerca el avance de Simon en el Océano Pacífico.\n• Se emiten alertas para las poblaciones costeras en preparación ante el impacto del huracán.\n• Las condiciones climáticas alrededor de Simon podrían generar afectaciones en la región.",
+      "bullets_20s": "• El huracán Simon se ha intensificado en el Océano Pacífico a lo largo de los últimos días.\n• Los meteorólogos han alertado sobre el posible impacto en las costas de México este fin de semana.\n• Se estima que Simon alcanzará la categoría 3 o 4 al tocar tierra.\n• Se aconseja a los habitantes de la zona que tomen precauciones por la llegada del huracán.\n• Los cambios climatológicos pueden influir en la trayectoria del fenómeno natural.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6vg0ep71pxmo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-09T21:17:25.000Z",
-      "teaser": "Lo clave en 20 segundos: El huracán Simon se intensifica y podría tocar tierra en México este fin de semana.",
+      "teaser": "Lo clave en 20 segundos: Simon se fortalece y se espera que toque tierra en México como huracán mayor.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/1623/live/9bd98470-c41f-11f1-9462-0fb8e72a616b.png",
       "description": "Los servicios meteorológicos pronostican que Simon tocará tierra como huracán mayor, de categoría 3 o 4, en las costas del oeste de México.",
       "featured": false
@@ -498,11 +537,11 @@
       "slug": "especial-bbc-mundo-isla-coiba-la-brutal-prision-a-cielo-abierto-que-se-convirtio-en-paraiso-natural-y-a-la-que-panama-vu",
       "title": "Especial BBC Mundo: Isla Coiba, la brutal prisión a cielo abierto que se convirtió en paraíso natural y a la que Panamá vuelve a enviar presos",
       "category": "Mundo",
-      "bullets_20s": "• La Isla Coiba fue conocida por ser una prisión infame en Panamá durante décadas.\n• Ahora, el gobierno panameño decide enviar a presos nuevamente a este territorio histórico.\n• La isla es reconocida hoy como un paraíso natural y Patrimonio de la Humanidad.\n• Históricamente, Coiba vio una gran cantidad de abusos hacia sus internos en el pasado.\n• La comunidad se preocupa por la conservación del ecosistema y su biodiversidad.\n• Los visitantes actuales disfrutan de la belleza natural que antes era un centro penal.\n• El cambio en la utilización de Coiba resalta temas de justicia social y derechos humanos.\n• La historia de la isla es un recordatorio de los desafíos en la sistematización penal.\n• Conocer Coiba es entender el impacto del sistema penitenciario en el país.\n• Las decisiones gubernamentales sobre la isla siempre generan debate y controversia.",
+      "bullets_20s": "• La Isla Coiba fue una prisión temida por los abusos cometidos contra sus internos en el pasado.\n• Recientemente, Panamá ha decidido trasladar a nuevos presos a esta isla de controversial historia.\n• Coiba ahora es un Patrimonio de la Humanidad, reconocida por su biodiversidad única y belleza natural.\n• El traslado de reclusos a la isla genera inquietudes sobre el bienestar del área natural que la rodea.\n• Se investigará el impacto medioambiental de volver a usar la isla como prisión.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cr86zqyy4eg3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-09T12:30:33.000Z",
-      "teaser": "Lo clave en 20 segundos: Isla Coiba, de prisión terrible a paraíso natural, en un contexto controvertido.",
+      "teaser": "Lo clave en 20 segundos: Isla Coiba, de prisión brutal a paraíso natural, ahora recibe reclusos nuevamente.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/5122/live/cd5f5810-c34a-11f1-9a39-31b474234113.jpg",
       "description": "Panamá trasladó a 29 presos a una isla que fue una temida colonia penal, marcada por abusos y trabajos forzados. La decisión genera preocupación por el futuro de este territorio, hoy Patrimonio de la Humanidad. Viajamos hasta allí para conocer su historia.",
       "featured": false
@@ -745,11 +784,11 @@
       "slug": "auditoria-interna-del-tec-celebrara-50-anos-de-trayectoria-institucional",
       "title": "Auditoría Interna del TEC celebrará 50 años de trayectoria institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebrará 50 años de su Auditoría Interna con un evento en el Auditorio D3.\n• La actividad se llevará a cabo el 15 de octubre a las 9:00 a.m. en el TEC.\n• Se invitarán exauditores, personal jubilado y autoridades de la institución al evento.\n• El evento resaltará la importancia de la transparencia y rendición de cuentas en el TEC.\n• Habrá un homenaje especial a la trayectoria de Don Manuel Bonilla, exfuncionario destacado.",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebra 50 años de su Auditoría Interna con un evento especial.\n• La celebración se llevará a cabo el 15 de octubre en el Auditorio D3 del campus central.\n• La Auditoría Interna ha sido clave para el desarrollo y la transparencia en el TEC.\n• Se espera la participación de autoridades e exauditores durante la actividad conmemorativa.\n• Durante el evento, se realizará un homenaje póstumo a Manuel Bonilla Cordero.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/auditoria-interna-tec-celebra-50-anos-trayectoria-institucional",
       "publish_date": "2026-10-09T00:55:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de Auditoría Interna del TEC, un evento significativo.",
+      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de Auditoría Interna del TEC el 15 de octubre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/original-k52s3026_3.jpg",
       "description": "Auditoría Interna del TEC celebrará 50 años de trayectoria institucional",
       "featured": false
@@ -784,11 +823,11 @@
       "slug": "tec-celebra-medio-siglo-de-trayectoria-del-departamento-de-aprovisionamiento",
       "title": "TEC celebra medio siglo de trayectoria del Departamento de Aprovisionamiento",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC conmemora 50 años del Departamento de Aprovisionamiento, crucial para la gestión institucional.\n• El evento tuvo lugar en el Auditorio D3 del Campus Central, con autoridades y exdirectores presentes.\n• La rectora del TEC destacó la importancia del departamento en el desarrollo de la institución.\n• Evelyn Bonilla, directora del departamento, resaltó el suministro de bienes y servicios necesarios.\n• Se reconoció al personal con más de 20 años de trayectoria y dedicación en el área.",
+      "bullets_20s": "• El TEC conmemora cinco décadas del Departamento de Aprovisionamiento, clave en su operativa.\n• El evento contó con la participación de exdirectores y personal jubilado de la institución.\n• La rectora María Estrada destacó el impacto del departamento en la gestión institucional.\n• Se otorgaron reconocimientos a quienes han trabajado más de 20 años en el departamento.\n• La actividad incluyó una presentación cultural de danza folklórica a cargo de estudiantes.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-celebra-medio-siglo-trayectoria-departamento-aprovisionamiento",
       "publish_date": "2026-10-08T23:13:58.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC celebra 50 años de su Departamento de Aprovisionamiento con un evento destacable.",
+      "teaser": "Lo clave en 20 segundos: Celebran 50 años del Departamento de Aprovisionamiento en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/50-aniversario-aprovisionamiento_rgarita-10.png",
       "description": "TEC celebra medio siglo de trayectoria del Departamento de Aprovisionamiento",
       "featured": false
@@ -797,11 +836,11 @@
       "slug": "air-aprueba-requisitos-tecnicos-para-direcciones-de-apoyo-a-la-academia-y-da-curso-a-cambios-en-la-relacion-entre-rector",
       "title": "AIR aprueba requisitos técnicos para direcciones de apoyo a la academia y da curso a cambios en la relación entre Rectoría y Consejo Institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Asamblea Institucional Representativa aprobó diez propuestas importantes en su sesión ordinaria de octubre.\n• Seis reformas fueron aprobadas en firme, mientras que cuatro superaron la etapa de procedencia.\n• La sesión se llevó a cabo en modalidad de telepresencia desde el Centro de las Artes.\n• Más de 270 asambleístas participaron en la votación de las propuestas técnicas clave.\n• Las reformas destacaron la relación entre la Rectoría y el Consejo Institucional del TEC.",
+      "bullets_20s": "• La Asamblea Institucional Representativa aprobó diez propuestas en su sesión ordinaria. Las reformas abordaron varias áreas académicas.\n• Seis reformas fueron aprobadas en firme y cuatro superaron la etapa de procedencia para análisis posterior.\n• La sesión se llevó a cabo en telepresencia, con amplia participación de asambleístas en votaciones cruciales.\n• Una de las reformas más ajustadas modificó requisitos para candidatos a direcciones de apoyo a la academia.\n• Las propuestas que afectan el Estatuto Orgánico requieren votación en dos etapas para su aprobación final.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/air-aprueba-requisitos-tecnicos-direcciones-apoyo-academia-da-curso-cambios-relacion-rectoria",
       "publish_date": "2026-10-08T19:21:28.000Z",
-      "teaser": "Lo clave en 20 segundos: La AIR aprueba reformas para fortalecer la estructura académica del TEC.",
+      "teaser": "Lo clave en 20 segundos: AIR aprobó reformas importantes para el funcionamiento interno y dirección académica del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/air_7-octubre-2026-7.png",
       "description": "AIR aprueba requisitos técnicos para direcciones de apoyo a la academia y da curso a cambios en la relación entre Rectoría y Consejo Institucional",
       "featured": false
@@ -810,11 +849,11 @@
       "slug": "el-tec-inaugura-el-i-congreso-internacional-de-biotecnologia-y-convierte-a-costa-rica-en-sede-de-la-ciencia-iberoamerica",
       "title": "El TEC inaugura el I Congreso Internacional de Biotecnología y convierte a Costa Rica en sede de la ciencia iberoamericana",
       "category": "Ciencia",
-      "bullets_20s": "• Costa Rica alberga el I Congreso Internacional de Biotecnología con participación global destacada.\n• Este evento busca fortalecer la ciencia y tecnología en la región iberoamericana a largo plazo.\n• Con cerca de 300 participantes, el congreso reúne a académicos y estudiantes en Coronado.\n• Las conferencias abordan temas cruciales como biotecnología médica, agrícola y sostenibilidad.\n• Los oradores destacan la biotecnología como solución ante retos agroalimentarios y climáticos.",
+      "bullets_20s": "• Costa Rica se convierte en punto de reunión para la ciencia iberoamericana durante tres días.\n• Cerca de 300 participantes de diversas partes del mundo se reúnen para compartir conocimientos.\n• El I Congreso destaca la importancia de invertir en ciencia y tecnología en la región.\n• La biotecnología se presenta como herramienta clave para enfrentar desafíos agroalimentarios.\n• Se realizaron conferencias sobre biotecnología médica, agrícola y sostenibilidad en el evento.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-inaugura-i-congreso-internacional-biotecnologia-convierte-costa-rica-sede-ciencia",
       "publish_date": "2026-10-08T15:07:41.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica se convierte en el epicentro de la biotecnología iberoamericana.",
+      "teaser": "Lo clave en 20 segundos: Costa Rica acoge el I Congreso Internacional de Biotecnología con 300 participantes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-10-08-at-8.56.44-am.jpeg",
       "description": "El TEC inaugura el I Congreso Internacional de Biotecnología y convierte a Costa Rica en sede de la ciencia iberoamericana",
       "featured": false
@@ -107082,10 +107121,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-09T23:45:27.486Z",
-  "total": 8237,
-  "removed_soccer_news_count": 1336,
+  "generated_at": "2026-10-10T00:45:27.459Z",
+  "total": 8240,
+  "removed_soccer_news_count": 1337,
   "removed_soccer_news_titles": [
+    "Jonathan McDonald recuerda sus inicios y revela el sueño que lo mueve en su nueva faceta en San Carlos",
     "Keylor Navas lanza mensaje antes de enfrentar a Cruz Azul con Pumas",
     "Muere una leyenda del fútbol americano",
     "Un nombre ‘inesperado’ salió para el posible cuerpo técnico de Bryan Ruiz en la Selección de Costa Rica",
@@ -107134,7 +107174,6 @@
     "Orlando Galo señala a los responsables de la pesadilla que vivió la Selección de Costa Rica ante Curazao",
     "El ‘Fuera Bocha’ apareció en el estadio en medio del naufragio de la Selección",
     "La Selección pasó de un primer tiempo de ensueño a dar lástima: esta es la calificación de los jugadores",
-    "Alexandre Guimaraes reaparece en partido de la Selección de Costa Rica",
-    "Vea los goles de la Selección de Costa Rica ante Curazao en la Nations League"
+    "Alexandre Guimaraes reaparece en partido de la Selección de Costa Rica"
   ]
 }
