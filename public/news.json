@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "debe-pagar-por-hacer-escala-en-lima-peru",
+      "title": "¿Debe pagar por hacer escala en Lima, Perú?",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los viajeros costarricenses deben informarse sobre costos en escalas internacionales.\n• Lima es un punto de conexión importante para varias rutas aéreas.\n• Consultar con la aerolínea sobre tarifas y políticas de escala es esencial.\n• Viajar a Perú podría incluir tarifas adicionales dependiendo del tipo de escala.\n• Se recomienda verificar si el equipaje se necesita re-chequear en Lima.",
+      "source_name": "Jairo Villegas S.",
+      "source_url": "https://www.nacion.com/blogs/de-viaje-con-jairo/debe-pagar-por-hacer-escala-en-lima-peru/JQRET7INTJE4VCQSBVPQNWFWAY/story/",
+      "publish_date": "2026-10-12T15:02:26.000Z",
+      "teaser": "Lo clave en 20 segundos: Conoce si hay costos por hacer escala en Lima.",
+      "image_url": "https://www.nacion.com/resizer/v2/O3XQ6PZQ2JHA7MSKHY3JZTYHFM.jpg?auth=0656be0e94b5279f15224cb47d70cdd8f78242264f99e44ce887b58ee4a9e947&smart=true&width=5463&height=3642",
+      "description": "Esto deben tomar en cuenta los viajeros costarricenses que deben hacer escala internacional en Lima, Perú.",
+      "featured": false
+    },
+    {
+      "slug": "que-paso-con-el-experimento-de-bukele-de-convertir-a-el-salvador-en-el-pais-del-bitcoin",
+      "title": "Qué pasó con el experimento de Bukele de convertir a El Salvador en el \"país del bitcoin\"",
+      "category": "Mundo",
+      "bullets_20s": "• El Salvador fue pionero al adoptar bitcoin como moneda de curso legal en 2021.\n• La iniciativa enfrentó desafíos significativos, incluida la resistencia popular al uso del criptoactivo.\n• Gran parte del experimento ha sido desmantelado debido a la falta de apoyo ciudadano.\n• El Fondo Monetario Internacional expresó preocupaciones sobre esta implementación cripto.\n• Expertos analizan el impacto económico que ha dejado el experimento en el país.\n• Las criptomonedas generan debates sobre su viabilidad como moneda estable.\n• El futuro de bitcoin en El Salvador queda incierto tras las recientes decisiones gubernamentales.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c8ly0ewg93ddo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-10-12T15:01:12.000Z",
+      "teaser": "Lo clave en 20 segundos: Análisis del experimento de bitcoin en El Salvador y sus consecuencias.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/8d48/live/0cf317d0-c64f-11f1-b47f-e3f9cf703bc3.jpg",
+      "description": "En 2021 la nación centroamericana se convirtió en la primera del mundo adoptar el criptoactivo como moneda de curso legal. Hoy gran parte de la iniciativa fue desmantelada, ante la apatía de la población y la presión del FMI.",
+      "featured": false
+    },
+    {
+      "slug": "rebeca-grynspan-lidera-carrera-por-secretaria-general-de-la-onu-todo-lo-que-tiene-que-saber-para-entender-la-eleccion",
+      "title": "Rebeca Grynspan lidera carrera por secretaría general de la ONU: todo lo que tiene que saber para entender la elección",
+      "category": "Mundo",
+      "bullets_20s": "• Rebeca Grynspan representa un avance en la política internacional y una voz para América Latina.\n• Su candidatura ha despertado el interés de numerosos países en busca de nuevas liderazgos.\n• El proceso electoral en la ONU incluye votaciones de los países miembros del Consejo de Seguridad.\n• Varios embajadores se han manifestado sobre la idoneidad de Grynspan para el puesto.\n• La elección de la Secretaría General es crucial para el futuro de la diplomacia global.\n• Grynspan cuenta con una trayectoria destacada en organizaciones internacionales previas.\n• Su liderazgo ha sido reconocido en temas de desarrollo sostenible y equidad social.\n• Las implicaciones políticas de esta elección tienen repercusiones para toda América Latina.\n• El Consejo de Seguridad puede influir significativamente en la decisión final de elección.\n• Este evento refleja una búsqueda de nuevas perspectivas en la política mundial.",
+      "source_name": "Roger Bolaños Vargas",
+      "source_url": "https://www.nacion.com/el-mundo/rebeca-grynspan-lidera-carrera-por-secretaria/XUKX2BR4ZJAB5EL5UBJNIADXSQ/story/",
+      "publish_date": "2026-10-12T15:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Rebeca Grynspan compite por la Secretaría General de la ONU enfrentando importantes desafíos.",
+      "image_url": "",
+      "description": "Rebeca Grynspan lidera la carrera por la Secretaría General de la ONU; su candidatura enfrenta votos y posibles vetos del Consejo de Seguridad.",
+      "featured": false
+    },
+    {
       "slug": "como-es-yandex-el-google-de-rusia-y-por-que-preocupa-a-moscu-que-el-gigante-tecnologico-se-haya-convertido-en-blanco-de-",
       "title": "Cómo es Yandex, el 'Google de Rusia', y por qué preocupa a Moscú que el gigante tecnológico se haya convertido en blanco de ataques de Ucrania",
       "category": "Mundo",
@@ -262,13 +301,13 @@
     },
     {
       "slug": "que-es-la-depresion-sonriente-y-como-puedes-identificarla",
-      "title": "Qué es la \"depresión sonriente\" y cómo puedes identificarla",
-      "category": "Mundo",
-      "bullets_20s": "• La depresión sonriente se caracteriza por ocultar sentimientos de tristeza tras una fachada feliz.\n• Es un fenómeno que afecta a muchas personas que parecen estar bien socialmente.\n• Los estudios sugieren que la represión emocional puede agravar problemas de salud mental.\n• Identificar esta forma de depresión puede ser crucial para el bienestar individual.\n• Es importante buscar ayuda profesional si sientes que no puedes expresar tus emociones.",
+      "title": "Qué es la 'depresión sonriente' y cómo puedes identificarla",
+      "category": "Ciencia",
+      "bullets_20s": "• La depresión sonriente es un fenómeno donde las personas parecen felices por fuera.\n• Este tipo de depresión puede dificultar la identificación de problemas de salud mental.\n• Los afectados pueden sentir presión social para ocultar sus verdaderos sentimientos.\n• La falta de reconocimiento puede llevar a un daño emocional más profundo.\n• Es crucial hablar abiertamente sobre la salud mental y buscar ayuda.\n• Identificar la depresión sonriente es vital para el bienestar mental y emocional.\n• Estudios sugieren que la autenticidad en los sentimientos puede mejorar la salud mental.\n• Aceptar y expresar las emociones puede ser un primer paso hacia la sanación.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmwyvd29kgkyo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-12T09:33:13.000Z",
-      "teaser": "Lo clave en 20 segundos: la depresión sonriente oculta sufrimientos tras una fachada alegre.",
+      "teaser": "Lo clave en 20 segundos: La depresión sonriente oculta el sufrimiento tras una fachada feliz.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/6a34/live/2e4df1f0-c331-11f1-9981-cf94ea240e40.jpg",
       "description": "Parecer feliz por fuera pero estar sufriendo por dentro puede ser una forma atípica de depresión. Los estudios muestran que ocultar los verdaderos sentimientos puede ser perjudicial para la salud mental.",
       "featured": false
@@ -2292,11 +2331,11 @@
       "slug": "auditoria-interna-del-tec-celebrara-50-anos-de-trayectoria-institucional",
       "title": "Auditoría Interna del TEC celebrará 50 años de trayectoria institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebra 50 años de su Auditoría Interna con un acto conmemorativo.\n• Se recuerda la importancia de la Auditoría Interna en el desarrollo del TEC desde su fundación.\n• La ceremonia tendrá lugar el 15 de octubre en el Campus Central del TEC a las 9:00 a.m.\n• El evento incluirá un reconocimiento a exauditores y un homenaje a Manuel Bonilla Cordero.\n• El TEC invita a la comunidad a unirse a esta celebración que resalta la historia institucional.",
+      "bullets_20s": "• La Auditoría Interna del TEC cumplirá 50 años de historia en la institución el próximo 15 de octubre.\n• El evento se llevará a cabo en el Auditorio D3 del Campus Central a las 9:00 a.m.\n• Se reconocerá la labor de exauditoras y exauditores por su contribución a la transparencia.\n• El TEC busca resaltar el fortalecimiento del sistema de control interno en sus 50 años.\n• Se rendirá homenaje a Manuel Bonilla Cordero, exfuncionario significativo en la auditoría.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/auditoria-interna-tec-celebra-50-anos-trayectoria-institucional",
       "publish_date": "2026-10-09T00:55:03.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC celebra 50 años de su Auditoría Interna con un gran evento conmemorativo.",
+      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de Auditoría Interna del TEC el 15 de octubre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/original-k52s3026_3.jpg",
       "description": "Auditoría Interna del TEC celebrará 50 años de trayectoria institucional",
       "featured": false
@@ -2344,11 +2383,11 @@
       "slug": "tec-celebra-medio-siglo-de-trayectoria-del-departamento-de-aprovisionamiento",
       "title": "TEC celebra medio siglo de trayectoria del Departamento de Aprovisionamiento",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC conmemora 50 años del Departamento de Aprovisionamiento, clave para la institución.\n• El evento contó con la participación de autoridades, personal jubilado y exdirectores.\n• La rectora del TEC destacó la importancia de esta unidad en la gestión institucional.\n• El departamento ha abastecido desde materiales básicos hasta equipos tecnológicos sofisticados.\n• Se otorgó reconocimiento al personal con más de 20 años en el departamento.\n• La celebración incluyó una presentación cultural de la Agrupación de Danza Folklórica.\n• La directora del departamento resaltó la dedicación del equipo a lo largo de los años.\n• El acto se llevó a cabo en el Auditorio D3 del Campus Central del TEC.\n• El TEC busca seguir mejorando su procesos de aprovisionamiento en el futuro.\n• La trayectoria del departamento resalta el compromiso con la educación pública.",
+      "bullets_20s": "• El TEC conmemoró 50 años del Departamento de Aprovisionamiento en un evento especial.\n• El acto celebrado tuvo la presencia de autoridades y miembros de la comunidad institucional.\n• La rectora destacó el impacto estratégico del departamento en la gestión institucional.\n• Evelyn Bonilla Cervantes resaltó el crecimiento y logros del departamento en estas cinco décadas.\n• Se reconoció al personal con más de 20 años de trayectoria dedicados al departamento.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-celebra-medio-siglo-trayectoria-departamento-aprovisionamiento",
       "publish_date": "2026-10-08T23:13:58.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC celebra 50 años de su Departamento de Aprovisionamiento.",
+      "teaser": "Lo clave en 20 segundos: TEC celebra 50 años del Departamento de Aprovisionamiento en un evento especial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/50-aniversario-aprovisionamiento_rgarita-10.png",
       "description": "TEC celebra medio siglo de trayectoria del Departamento de Aprovisionamiento",
       "featured": false
@@ -2357,13 +2396,13 @@
       "slug": "air-aprueba-requisitos-tecnicos-para-direcciones-de-apoyo-a-la-academia-y-da-curso-a-cambios-en-la-relacion-entre-rector",
       "title": "AIR aprueba requisitos técnicos para direcciones de apoyo a la academia y da curso a cambios en la relación entre Rectoría y Consejo Institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• La Asamblea Institucional Representativa (AIR) aprobó reformas para mejorar la gestión académica en el TEC.\n• Se llevaron a cabo votaciones en telepresencia, con más de 270 participantes asambleístas.\n• Las propuestas aprobadas incluyen reformas para la relación entre Rectoría y Consejo Institucional.\n• El proceso técnico se introduce para evaluar idoneidad de candidaturas en direcciones académicas.\n• Se destacan cambios en el funcionamiento interno de la AIR y su reglamentación.",
+      "bullets_20s": "• La AIR del TEC realizó la sesión de aprobación de propuestas técnicas este 7 de octubre.\n• Seis reformas se aprobaron en firme, mientras que cuatro fueron admitidas en etapa de procedencia.\n• Las votaciones se llevaron a cabo en modalidad de telepresencia desde el Centro de las Artes.\n• Se registró la participación de entre 277 y 294 asambleístas con derecho a voto.\n• Se introdujo un proceso técnico previo a la elección para direcciones académicas, mejorando la calidad.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/air-aprueba-requisitos-tecnicos-direcciones-apoyo-academia-da-curso-cambios-relacion-rectoria",
       "publish_date": "2026-10-08T19:21:28.000Z",
-      "teaser": "Lo clave en 20 segundos: AIR establece requisitos técnicos para direcciones académicas en el TEC.",
+      "teaser": "Lo clave en 20 segundos: AIR aprueba cambios en dirección académica y relación con el Consejo Institucional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/air_7-octubre-2026-7.png",
-      "description": "AIR aprueba requisitos técnicos para direcciones de apoyo a la academia y da curso a cambios en la relación entre Rectoría y Consejo Institucional.",
+      "description": "AIR aprueba requisitos técnicos para direcciones de apoyo a la academia y da curso a cambios en la relación entre Rectoría y Consejo Institucional",
       "featured": false
     },
     {
@@ -108642,10 +108681,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-12T14:45:25.121Z",
-  "total": 8357,
-  "removed_soccer_news_count": 1352,
+  "generated_at": "2026-10-12T15:45:25.533Z",
+  "total": 8360,
+  "removed_soccer_news_count": 1353,
   "removed_soccer_news_titles": [
+    "Cartaginés vs. Puntarenas: Hora y canal para no perderse este partido",
     "Keylor Navas vivió una locura de partido con Pumas",
     "¡Al rojo vivo! Tabla de posiciones en el Torneo de Apertura 2026: así marcha el fútbol en Costa Rica",
     "Escándalo del Manchester City salpica hasta al primer ministro británico",
@@ -108694,7 +108734,6 @@
     "¿Se va Fernando Batista de la Selección? Fedefútbol ya tomó una decisión",
     "Carlos Mora no comprende qué le pasa a la Selección de Costa Rica",
     "Josimar Méndez pasó de noche de ensueño al terror colectivo con la Selección de Costa Rica: ‘Hubo una confusión’",
-    "El desastre de la Selección de Costa Rica ante Curazao deja dos riesgos que nadie imaginaba",
-    "Partido Francia vs. Turquía: Zidane hace con Mbappé lo que Deschamps no se atrevía a hacer"
+    "El desastre de la Selección de Costa Rica ante Curazao deja dos riesgos que nadie imaginaba"
   ]
 }
