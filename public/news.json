@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "costa-rica-es-un-paciente-cronico-este-es-su-diagnostico",
+      "title": "Costa Rica es un paciente crónico: este es su diagnóstico",
+      "category": "Costa Rica",
+      "bullets_20s": "• Aumento de enfermedades crónicas afecta la salud pública en Costa Rica.\n• La diabetes y obesidad son problemas crecientes en la población costarricense.\n• El análisis proviene de un informe de la CCSS sobre salud nacional.\n• Las listas de espera en servicios médicos continúan siendo un gran reto.\n• Es necesario abordar el diagnóstico para mejorar la calidad de vida.",
+      "source_name": "Irene Rodríguez",
+      "source_url": "https://www.nacion.com/el-pais/costa-rica-es-un-paciente-cronico-este-es-su/VFERTQWMYFBKZI7TEUMBTC5WQI/story/",
+      "publish_date": "2026-10-13T20:29:55.000Z",
+      "teaser": "Lo clave en 20 segundos: el aumento de diabetes y obesidad marca la salud en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/PC4XJYWZRRG5BCOOY53FUVSMTY.png?auth=13f081220c43cfbf82ceee8de812432684f77e68069fa1fd0827ec7ec01cad4e&smart=true&width=1672&height=941",
+      "description": "Análisis de 'La Nación' con datos de la CCSS revela aumento de diabetes y obesidad en Costa Rica, mientras las listas de espera agravan el panorama.",
+      "featured": false
+    },
+    {
+      "slug": "marjorie-ross-un-verso-de-un-poema-es-como-el-titulo-de-una-noticia",
+      "title": "Marjorie Ross: ‘Un verso de un poema es como el título de una noticia’",
+      "category": "Costa Rica",
+      "bullets_20s": "• Marjorie Ross es una figura destacada en la literatura costarricense y la historia del periodismo.\n• Su experiencia en 'La Nación' marca un legado importante en el periodismo nacional.\n• La autora expresa su visión sobre el poder de las palabras y su impacto en la sociedad.\n• Recordar épocas pasadas ayuda a entender el contexto actual del periodismo escrito.\n• La literatura y el periodismo son dos caras de la misma moneda en su perspectiva.\n• Sus poemas evocan la esencia de la vida cotidiana y la experiencia humana.",
+      "source_name": "Sofía  Sánchez Ramírez",
+      "source_url": "https://www.nacion.com/revista-dominical/marjorie-ross-un-verso-de-un-poema-es-como-el/KY5JDV3NRFCOXGCW2UQNDX6JZI/story/",
+      "publish_date": "2026-10-13T20:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Marjorie Ross reflexiona sobre el poder de la palabra en el periodismo y la literatura.",
+      "image_url": "https://www.nacion.com/resizer/v2/4J3JBKDOUZALJI7NLQNC6CB45A.JPG?auth=e4f4719e3143928586e9456ca5408f6d80381c71921e8bc5e60d16fc4758d0bf&smart=true&width=3000&height=2000",
+      "description": "La renombrada escritora Marjorie Ross recuerda la época en que, como periodista de ‘La Nación’, ‘tuvo un poquito el corazón del mundo en las manos’.",
+      "featured": false
+    },
+    {
       "slug": "estados-unidos-retira-a-su-encargado-de-negocios-en-managua-tras-rechazo-a-su-embajadora-nominada",
       "title": "Estados Unidos retira a su encargado de negocios en Managua tras rechazo a su embajadora nominada",
       "category": "Mundo",
@@ -66,6 +92,19 @@
       "featured": false
     },
     {
+      "slug": "estudiante-del-tec-gana-premio-del-publico-en-estados-unidos-con-investigacion-sobre-plantas-nativas-de-guanacaste",
+      "title": "Estudiante del TEC gana premio del público en Estados Unidos con investigación sobre plantas nativas de Guanacaste",
+      "category": "Costa Rica",
+      "bullets_20s": "• Sofía Jiménez, estudiante del TEC, investiga plantas nativas con potencial medicinal en Guanacaste.\n• Su análisis abarcó 20 especies destacadas por sus propiedades antioxidantes y antiinflamatorias.\n• El estudio se presentó en un simposio en Carolina del Norte con más de 350 profesionales.\n• Jiménez trabajó en la investigación para identificar propiedades beneficiosas de los extractos.\n• El siguiente paso es validar los resultados y profundizar en los mecanismos biológicos involucrados.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/estudiante-tec-gana-premio-publico-estados-unidos-investigacion-plantas-nativas-guanacaste",
+      "publish_date": "2026-10-13T18:00:25.000Z",
+      "teaser": "Lo clave en 20 segundos: Estudiante del TEC destaca en investigación sobre plantas nativas y gana premio en EE.UU.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/biomed_symposium_6363.jpg.jpeg",
+      "description": "Estudiante del TEC gana premio del público en Estados Unidos con investigación sobre plantas nativas de Guanacaste",
+      "featured": false
+    },
+    {
       "slug": "estos-son-los-arbitros-que-estaran-a-cargo-de-los-partidos-en-jornada-de-dientes-apretados",
       "title": "Estos son los árbitros que estarán a cargo de los partidos en jornada de dientes apretados",
       "category": "Costa Rica",
@@ -102,6 +141,19 @@
       "teaser": "Lo clave en 20 segundos: Cerveceros desafían a los campeones Dodgers en la serie de Campeonato.",
       "image_url": "",
       "description": "Los Cerveceros de Milwaukee toman ventaja en la serie de Campeonato de la Liga Nacional ante los Dodgers, bicampeones de la Serie Mundial.",
+      "featured": false
+    },
+    {
+      "slug": "presentacion-de-resultados-del-proyecto-conare-participacion-de-mujeres-universitarias-en-carreras-cientificas-y-tecnolo",
+      "title": "Presentación de resultados del proyecto CONARE: Participación de mujeres universitarias en carreras científicas y tecnológicas",
+      "category": "Costa Rica",
+      "bullets_20s": "• El proyecto Mujeres Universitarias en Carreras STEM promueve la participación de mujeres en ciencia y tecnología.\n• Estudios del CONARE analizan el acceso y la inclusión de mujeres en universidades costarricenses.\n• El evento es virtual y requiere inscripción previa para participar en el webinar.\n• Investigaciones previas muestran un crecimiento en la matrícula femenina en carreras STEM.\n• El Consejo Nacional de Rectores busca fomentar el interés de mujeres en carreras científicas.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/presentacion-resultados-proyecto-conare-participacion-mujeres-universitarias-carreras-cientificas",
+      "publish_date": "2026-10-13T17:18:29.000Z",
+      "teaser": "Lo clave en 20 segundos: Presentan resultados sobre la participación de mujeres en carreras científicas en Costa Rica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/6ef07c06-2393-4b8a-a244-2fa0a21d34b1.jpeg",
+      "description": "Presentación de resultados del proyecto CONARE: Participación de mujeres universitarias en carreras científicas y tecnológicas.",
       "featured": false
     },
     {
@@ -145,13 +197,13 @@
     },
     {
       "slug": "como-breaking-bad-y-rj-mitte-cambiaron-la-percepcion-sobre-la-paralisis-cerebral",
-      "title": "Cómo \"Breaking Bad\" y RJ Mitte cambiaron la percepción sobre la parálisis cerebral",
+      "title": "Cómo 'Breaking Bad' y RJ Mitte cambiaron la percepción sobre la parálisis cerebral",
       "category": "Mundo",
-      "bullets_20s": "• La serie 'Breaking Bad' modificó la visión pública sobre personas con discapacidad.\n• RJ Mitte representa la parálisis cerebral en un papel relevante en la televisión.\n• La representación de Mitte desafía estereotipos arraigados en la sociedad.\n• El papel de Mitte ha llevado a una mayor visibilidad de la parálisis cerebral.\n• La serie impulsó diálogos sobre discapacidad y superación personal en la cultura.",
+      "bullets_20s": "• RJ Mitte ha sido un defensor de la diversidad en el cine y la televisión desde su éxito en 'Breaking Bad'.\n• La serie 'Breaking Bad' ayudó a visibilizar cuestiones sociales, incluyendo la discapacidad y su representación.\n• La actuación de Mitte desafió estereotipos sobre la parálisis cerebral en la industria del entretenimiento.\n• Mitte ha compartido su historia personal para inspirar y crear conciencia sobre la parálisis cerebral.\n• La representación precisa en medios puede cambiar la percepción pública sobre las personas con discapacidades.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6lye2xke7ndo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-13T15:38:28.000Z",
-      "teaser": "Lo clave en 20 segundos: 'Breaking Bad' transformó la narrativa sobre la parálisis cerebral con RJ Mitte.",
+      "teaser": "Lo clave en 20 segundos: RJ Mitte desafía estereotipos sobre la parálisis cerebral a través de su trabajo en 'Breaking Bad'.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/59fc/live/ba29b3f0-c712-11f1-9a5a-91141f7a4b0e.jpg",
       "description": "Mitte sufrió daño cerebral al nacer y fue diagnosticado con parálisis cerebral leve a los tres años.",
       "featured": false
@@ -940,11 +992,11 @@
       "slug": "que-paso-con-el-experimento-de-bukele-de-convertir-a-el-salvador-en-el-pais-del-bitcoin",
       "title": "Qué pasó con el experimento de Bukele de convertir a El Salvador en el \"país del bitcoin\"",
       "category": "Mundo",
-      "bullets_20s": "• En 2021, El Salvador se convirtió en el primer país en adoptar Bitcoin como moneda legal.\n• La iniciativa buscaba atraer inversiones y modernizar la economía del país centroamericano.\n• Recientemente, la presión del FMI y la apatía social han llevado al desmantelamiento de la estrategia.\n• El futuro del Bitcoin en El Salvador se encuentra en una encrucijada incierta y compleja.\n• Muchos salvadoreños se muestran escépticos frente al uso del Bitcoin en su economía diaria.\n• Los desafíos económicos y políticos han impactado el éxito de la adopción del criptoactivo.",
+      "bullets_20s": "• El Salvador lideró la adopción del bitcoin como moneda de curso legal en 2021.\n• La iniciativa buscaba revolucionar la economía local, pero enfrentó desafíos importantes.\n• La población mostró apatía hacia el uso del bitcoin en transacciones diarias.\n• La presión del Fondo Monetario Internacional influyó en la decisión del gobierno.\n• Gran parte del experimento ha sido desmantelado debido a su falta de aceptación.\n• Expertos advierten sobre los riesgos de las criptomonedas en economías inestables.\n• El caso de El Salvador es un ejemplo para otros países considerando el bitcoin.\n• Se considera que la estabilidad económica es crucial para la adopción de criptoactivos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c8ly0ewg93ddo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-12T15:01:12.000Z",
-      "teaser": "Lo clave en 20 segundos: El Salvador enfrenta críticas por su adopción de Bitcoin como moneda legal.",
+      "teaser": "Lo clave en 20 segundos: El Salvador fue pionero en bitcoin, pero la iniciativa enfrenta serios desafíos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/8d48/live/0cf317d0-c64f-11f1-b47f-e3f9cf703bc3.jpg",
       "description": "En 2021 la nación centroamericana se convirtió en la primera del mundo adoptar el criptoactivo como moneda de curso legal. Hoy gran parte de la iniciativa fue desmantelada, ante la apatía de la población y la presión del FMI.",
       "featured": false
@@ -3267,11 +3319,11 @@
       "slug": "auditoria-interna-del-tec-celebrara-50-anos-de-trayectoria-institucional",
       "title": "Auditoría Interna del TEC celebrará 50 años de trayectoria institucional",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebra medio siglo de historia en su Auditoría Interna.\n• La institución rendirá homenaje a las exauditoras y su esfuerzo a lo largo de los años.\n• La celebración se realizará en el Auditorio D3 del Campus Central el 15 de octubre.\n• Las autoridades del TEC y exauditoras participarán en esta conmemoración especial.\n• Se realizará un homenaje póstumo a Manuel Bonilla, exfuncionario de la Auditoría.",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebra las cinco décadas de la Auditoría Interna de la institución.\n• La celebración se llevará a cabo el jueves 15 de octubre en el Auditorio D3.\n• Participarán autoridades, exauditores y familiares de Don Manuel Bonilla en el homenaje.\n• Se reconocerá el trabajo y dedicación de las personas exauditoras durante estos años.\n• La Auditoría ha sido clave en fortalecer el sistema de control interno y transparencia.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/auditoria-interna-tec-celebra-50-anos-trayectoria-institucional",
       "publish_date": "2026-10-09T00:55:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Se celebran 50 años de Auditoría Interna en el TEC con un evento especial.",
+      "teaser": "Lo clave en 20 segundos: Celebración del 50 aniversario de la Auditoría Interna del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/original-k52s3026_3.jpg",
       "description": "Auditoría Interna del TEC celebrará 50 años de trayectoria institucional",
       "featured": false
@@ -3319,11 +3371,11 @@
       "slug": "tec-celebra-medio-siglo-de-trayectoria-del-departamento-de-aprovisionamiento",
       "title": "TEC celebra medio siglo de trayectoria del Departamento de Aprovisionamiento",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica conmemora 50 años de su Departamento de Aprovisionamiento.\n• La celebración incluyó la participación de exdirectores y personal jubilado del departamento.\n• El acto se llevó a cabo en el Auditorio D3 del Campus Central del TEC.\n• La rectora destacó la importancia del departamento en el desarrollo institucional.\n• Se reconoció al personal con más de 20 años de dedicación al aprovisionamiento.\n• Evelyn Bonilla Cervantes resaltó el impacto del departamento en la calidad educativa.\n• La actividad cultural estuvo a cargo de la Agrupación de Danza Folklórica.\n• El departamento ha suministrado desde suministros básicos hasta equipos sofisticados.\n• La celebración busca motivar el esfuerzo continuo por el bien del TEC.\n• Se espera que el departamento siga creciendo y mejorando en el futuro.",
+      "bullets_20s": "• El TEC conmemora 50 años de su Departamento de Aprovisionamiento durante un emotivo evento.\n• La celebración contó con la presencia de exdirectores y personal jubilado de la institución.\n• Autoridades institucionales resaltaron el impacto del departamento en el desarrollo del TEC.\n• La rectora llamó a seguir generando valor público a través de la gestión del aprovisionamiento.\n• El evento incluyó un acto cultural de danza folklórica ofrecido por estudiantes del TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-celebra-medio-siglo-trayectoria-departamento-aprovisionamiento",
       "publish_date": "2026-10-08T23:13:58.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC celebra 50 años del Departamento de Aprovisionamiento, resaltando su impacto institucional.",
+      "teaser": "Lo clave en 20 segundos: Celebración del medio siglo del Departamento de Aprovisionamiento en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/50-aniversario-aprovisionamiento_rgarita-10.png",
       "description": "TEC celebra medio siglo de trayectoria del Departamento de Aprovisionamiento",
       "featured": false
@@ -109617,8 +109669,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-13T19:45:26.870Z",
-  "total": 8432,
+  "generated_at": "2026-10-13T20:45:26.669Z",
+  "total": 8436,
   "removed_soccer_news_count": 1361,
   "removed_soccer_news_titles": [
     "Netflix adquiere los derechos para España del Mundial 2030",
