@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "costa-rica-un-paciente-cronico-foro-de-la-nacion-alerta-sobre-aumento-de-enfermedades-cronicas-cuales-son",
+      "title": "‘Costa Rica, un paciente crónico’: foro de ‘La Nación’ alerta sobre aumento de enfermedades crónicas, ¿cuáles son?",
+      "category": "Costa Rica",
+      "bullets_20s": "• El foro de ‘La Nación’ destaca el aumento de enfermedades crónicas en la población costarricense.\n• Enfermedades como la diabetes y la hipertensión son cada vez más comunes entre los costarricenses.\n• Expertos advierten sobre la necesidad de fortalecer las campañas de prevención sanitaria.\n• La obesidad se posiciona como un factor de riesgo significativo para la salud nacional.\n• El cáncer también muestra un incremento preocupante, según los informes de salud pública.",
+      "source_name": "Yucsiany  Salazar Serrano",
+      "source_url": "https://www.nacion.com/el-pais/costa-rica-un-paciente-cronico-foro-de-la-nacion/SCXIFTDPLZA73PCMEA22KQJSQU/story/",
+      "publish_date": "2026-10-14T02:36:00.000Z",
+      "teaser": "Lo clave en 20 segundos: En Costa Rica, las enfermedades crónicas están en aumento, especialistas recomiendan prevención.",
+      "image_url": "https://www.nacion.com/resizer/v2/HMOSJYPVWBC5VFM34Y2IHJR5QM.JPG?auth=36121971fce9097310af2d4fb39d653156bf6e02ce093d2bb82b89245fc71c02&smart=true&width=4000&height=2667",
+      "description": "Costa Rica enfrenta aumento de enfermedades crónicas: diabetes, hipertensión, obesidad y cáncer. Especialistas llaman a más prevención.",
+      "featured": false
+    },
+    {
+      "slug": "como-los-conflictos-globales-se-han-convertido-en-un-dolor-de-cabeza-para-trump-a-pocas-semanas-de-las-elecciones-de-med",
+      "title": "Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.",
+      "category": "Mundo",
+      "bullets_20s": "• Los conflictos globales actuales presentan múltiples desafíos para la administración de Trump.\n• El alza del petróleo afecta la opinión pública y la votación de los electores.\n• Rusia y Ucrania son factores críticos en la política energética de EE.UU.\n• La incertidumbre internacional puede influir en los resultados de las elecciones a medio término.\n• Trump intenta controlar la narrativa para evitar descontento en sus votantes.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cm20r9337vn8o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-10-14T02:28:54.000Z",
+      "teaser": "Lo clave en 20 segundos: los conflictos globales complican la reelección de Trump.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3ab4/live/fd7fde40-c776-11f1-8ea6-d52df4b01e11.jpg",
+      "description": "Trump responsabiliza a la guerra entre Ucrania y Rusia del alza del petróleo en EE.UU. para contener el descontento de los votantes. Pero los problemas en la escena internacional se le multiplican.",
+      "featured": false
+    },
+    {
       "slug": "embajador-de-costa-rica-dice-en-la-onu-que-los-derechos-sexuales-y-reproductivos-y-el-concepto-de-genero-deben-ajustarse",
       "title": "Embajador de Costa Rica dice en la ONU que los derechos sexuales y reproductivos y el concepto de género deben ajustarse a la Constitución",
-      "category": "Mundo",
-      "bullets_20s": "• El embajador presentó la posición oficial de Costa Rica sobre derechos humanos en la ONU.\n• Se abordaron temas sobre derechos sexuales y reproductivos, muy relevantes en la actualidad.\n• La postura costarricense alineada con otros países de la región en la discusión.\n• Se enfatizó la importancia de la Constitución en la regulación de derechos humanos.\n• La ONU continúa siendo un foro clave para discutir estos temas críticos y urgentes.",
+      "category": "Costa Rica",
+      "bullets_20s": "• La ONU celebró la 63.ª sesión del Consejo de Derechos Humanos en Ginebra.\n• Costa Rica aboga por una interpretación actualizada de los derechos de género.\n• Otros países latinoamericanos apoyaron la postura de Costa Rica en este tema.\n• Los derechos sexuales y reproductivos son cruciales para la igualdad social.\n• El embajador enfatizó la importancia de la Constitución en estos derechos.",
       "source_name": "Silvia Ureña Corrales",
       "source_url": "https://www.nacion.com/el-pais/embajador-de-costa-rica-dice-en-la-onu-que-los/RDNXCBLNCVAFLD4OKIXCBJ5X5M/story/",
       "publish_date": "2026-10-14T02:16:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica reafirma sus derechos en la ONU sobre género y salud reproductiva.",
+      "teaser": "Lo clave en 20 segundos: Costa Rica defiende derechos sexuales en la ONU, alineándose con otros países de la región.",
       "image_url": "https://www.nacion.com/resizer/v2/Z6TMV3CSOVAUDBVEGAXUHU4GFI.jpg?auth=ac97ca7613c02d50b5238eef0e834eaa307a38fa5c9522edc39edb8c182da6ee&smart=true&width=1280&height=853",
       "description": "Costa Rica fijó su posición ante la ONU sobre derechos sexuales y reproductivos y el concepto de género. Su postura coincidió con la de otros países latinoamericanos durante la 63.ª sesión del Consejo de Derechos Humanos.",
       "featured": false
@@ -95,11 +121,11 @@
       "slug": "i-congreso-de-la-semana-de-la-calidad-y-x-foro-gecies",
       "title": "I Congreso de la Semana de la Calidad y X Foro GECIES",
       "category": "Costa Rica",
-      "bullets_20s": "• El I Congreso de la Semana de la Calidad se celebrará en modalidad virtual este noviembre.\n• Se espera la participación de expertos y académicos en la educación superior del país.\n• Las conferencias tratarán temas cruciales como la calidad y la innovación educativa.\n• El evento busca promover la excelencia universitaria en un mundo cada vez más digital.\n• Los interesados pueden unirse a la transmisión en vivo a través del canal de YouTube del TEC.",
+      "bullets_20s": "• El TEC invita a la comunidad educativa al primer congreso de la Semana de la Calidad.\n• Se enfocará en la excelencia universitaria en la era digital y su gestión.\n• La actividad será virtual, transmitida en vivo por YouTube del TEC.\n• Iniciará el 10 de noviembre de 2026, con conferencias relevantes para la educación.\n• Paneles abordarán integración de inteligencia artificial y gobernanza académica.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/i-congreso-semana-calidad-x-foro-gecies",
       "publish_date": "2026-10-13T23:55:02.000Z",
-      "teaser": "Lo clave en 20 segundos: Congreso aborda excelencia universitaria en la era digital.",
+      "teaser": "Lo clave en 20 segundos: Congreso aborda excelencia educativa en era digital.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/instalaciones_cartago_stock_ciberseguridad_datic_foto_105.jpg",
       "description": "I Congreso de la Semana de la Calidad y X Foro GECIES",
       "featured": false
@@ -133,12 +159,12 @@
     {
       "slug": "que-es-un-adenocarcinoma-pulmonar-el-tipo-de-tumor-maligno-que-le-extirparon-al-papa-leon-xiv",
       "title": "Qué es un adenocarcinoma pulmonar, el tipo de tumor maligno que le extirparon al papa León XIV",
-      "category": "Mundo",
-      "bullets_20s": "• El adenocarcinoma pulmonar es un tipo común de cáncer de pulmón en adultos, especialmente en no fumadores.\n• Este tipo de tumor surge en las glándulas productoras de moco, afectando la función respiratoria gravemente.\n• El diagnóstico temprano es fundamental para el tratamiento eficaz y para mejorar la calidad de vida.\n• Los síntomas incluyen tos persistente, dolor en el pecho y dificultad para respirar, entre otros problemas.\n• El tratamiento puede incluir cirugía, quimioterapia y radioterapia, dependiendo del estadío del cáncer.",
+      "category": "Ciencia",
+      "bullets_20s": "• El adenocarcinoma pulmonar es un tipo común de cáncer de pulmón, originado en las glándulas.\n• Este tumor maligno es más frecuente en fumadores y personas expuestas a contaminantes ambientales.\n• La detección temprana juega un papel crucial en el tratamiento y la recuperación del paciente.\n• Los síntomas pueden incluir tos persistente, pérdida de peso y dificultad para respirar.\n• Las opciones de tratamiento varían e incluyen cirugía, quimioterapia y radioterapia.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6n8d099ym07o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-13T22:33:21.000Z",
-      "teaser": "Lo clave en 20 segundos: El adenocarcinoma pulmonar, un tema de salud relevante y grave en la actualidad.",
+      "teaser": "Lo clave en 20 segundos: un adenocarcinoma pulmonar, común y serio, afecta la salud respiratoria.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/317f/live/9ecaa650-c753-11f1-ae7f-21f65a99cae7.jpg",
       "description": "El pontífice, de 71 años, se sometió este martes a una operación de 90 minutos en el Hospital Gemelli de Roma, en la que se le extirpó el lóbulo inferior del pulmón derecho.",
       "featured": false
@@ -225,11 +251,11 @@
       "slug": "diagnostican-con-cancer-al-papa-leon-xiv-tras-someterse-con-exito-a-una-cirugia-en-el-pulmon-derecho",
       "title": "Diagnostican con cáncer al papa León XIV tras someterse con éxito a una cirugía en el pulmón derecho",
       "category": "Mundo",
-      "bullets_20s": "• El papa León XIV ha enfrentado una difícil noticia tras el diagnóstico de cáncer.\n• La cirugía realizada fue un éxito, pero el diagnóstico ha causado preocupación mundial.\n• Se detectó un nódulo en su pulmón derecho durante exámenes de rutina.\n• Las autoridades del Vaticano han pedido oraciones por la salud del pontífice.\n• Este evento ha generado gran interés en la comunidad católica a nivel global.",
+      "bullets_20s": "• León XIV se sometió a cirugía en el pulmón derecho que resultó exitosa.\n• Tras la cirugía, se detectó un nódulo que llevó al diagnóstico de cáncer.\n• El Vaticano informa sobre la salud del papa y sus controles médicos.\n• Expertos debaten sobre la salud de los líderes religiosos en estas situaciones.\n• El diagnóstico genera reacciones y preocupaciones a nivel mundial en la comunidad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwj0lzdq969yo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-13T20:44:28.000Z",
-      "teaser": "Lo clave en 20 segundos: El papa ha sido diagnosticado con cáncer tras una cirugía exitosa en su pulmón.",
+      "teaser": "Lo clave en 20 segundos: León XIV diagnosticado con cáncer tras cirugía exitosa en pulmón derecho.",
       "image_url": "",
       "description": "El diagnóstico se produjo después de que se le detectara un nódulo durante lo que el Vaticano ha descrito como \"controles rutinarios\".",
       "featured": false
@@ -329,11 +355,11 @@
       "slug": "estudiante-del-tec-gana-premio-del-publico-en-estados-unidos-con-investigacion-sobre-plantas-nativas-de-guanacaste",
       "title": "Estudiante del TEC gana premio del público en Estados Unidos con investigación sobre plantas nativas de Guanacaste",
       "category": "Costa Rica",
-      "bullets_20s": "• Sofía Jiménez es estudiante de Biotecnología en el TEC y ganó un importante premio en EE. UU.\n• El premio fue por su presentación sobre plantas nativas, destacando sus propiedades medicinales.\n• Presentó su investigación en un simposio que reunió a más de 350 investigadores y profesionales.\n• Sus estudios se enfocan en el potencial antioxidante y antiinflamatorio de 20 plantas nativas.\n• El conocimiento sobre las plantas nativas es aún limitado y tiene gran potencial en salud.\n• La investigación se encuentra en una fase preclínica exploratoria para validar resultados.\n• Resaltó la importancia de salir de la zona de confort para presentar su trabajo internacionalmente.\n• La investigación ha sido respaldada por la Promotora Costarricense de Innovación e Investigación.",
+      "bullets_20s": "• Sofía Jiménez, estudiante del TEC, recibió un importante premio en un simposio en EE.UU.\n• Su investigación se centra en plantas nativas de Guanacaste con propiedades medicinales.\n• Analizó 20 especies por su potencial antioxidante y antiinflamatorio contra el cáncer.\n• El premio lo otorgan por votación del público durante el simposio de ciencias biomédicas.\n• La investigación busca establecer una base científica para futuras investigaciones clínicas.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/estudiante-tec-gana-premio-publico-estados-unidos-investigacion-plantas-nativas-guanacaste",
       "publish_date": "2026-10-13T18:00:25.000Z",
-      "teaser": "Lo clave en 20 segundos: Investigadora del TEC gana premio en EE. UU. por su trabajo sobre plantas nativas.",
+      "teaser": "Lo clave en 20 segundos: Estudiante del TEC gana premio con investigación innovadora sobre plantas nativas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/biomed_symposium_6363.jpg.jpeg",
       "description": "Estudiante del TEC gana premio del público en Estados Unidos con investigación sobre plantas nativas de Guanacaste",
       "featured": false
@@ -368,11 +394,11 @@
       "slug": "orgullo-generaleno-estudiante-de-ingenieria-ambiental-gana-el-premio-a-la-excelencia-academica",
       "title": "Orgullo generaleño: Estudiante de Ingeniería Ambiental gana el Premio a la Excelencia Académica",
       "category": "Costa Rica",
-      "bullets_20s": "• Camila Tunnermann Picado, estudiante del TEC, es galardonada por su alto desempeño académico regional.\n• El Premio a la Excelencia Académica Rubén Darío destaca el esfuerzo de estudiantes en universidades públicas.\n• La premiación se llevará a cabo el 16 de octubre en la Universidad de El Salvador.\n• El galardón reconoce anualmente a estudiantes con mejor promedio en sus respectivas carreras.\n• Tunnermann enfatiza la importancia del equilibrio entre vida personal y académica para alcanzar metas.",
+      "bullets_20s": "• La ceremonia de premiación se llevará a cabo el 16 de octubre en la Universidad de El Salvador.\n• Camila Tunnermann, estudiante del TEC, es reconocida por su excelencia académica en Ingeniería Ambiental.\n• El premio está dirigido a los mejores promedios de la región centroamericana por el CSUCA.\n• La galardonada atribuye su éxito a un balance entre vida académica y personal.\n• Camila anima a otros estudiantes a creer en sí mismos y alcanzar sus sueños.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/orgullo-generaleno-estudiante-ingenieria-ambiental-gana-premio-excelencia-academica",
       "publish_date": "2026-10-13T17:53:03.000Z",
-      "teaser": "Lo clave en 20 segundos: La estudiante Camila Tunnermann gana importante premio académico en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Estudiante del TEC gana reconocimiento por su destacada trayectoria académica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/camila-ruben-dario.jpeg",
       "description": "Orgullo generaleño: Estudiante de Ingeniería Ambiental gana el Premio a la Excelencia Académica",
       "featured": false
@@ -393,12 +419,12 @@
     {
       "slug": "presentacion-de-resultados-del-proyecto-conare-participacion-de-mujeres-universitarias-en-carreras-cientificas-y-tecnolo",
       "title": "Presentación de resultados del proyecto CONARE: Participación de mujeres universitarias en carreras científicas y tecnológicas",
-      "category": "Costa Rica",
-      "bullets_20s": "• El proyecto Mujeres Universitarias en Carreras STEM busca fomentar la inclusión en ciencia y tecnología.\n• Los resultados se presentarán en un evento virtual organizado por el Consejo Nacional de Rectores.\n• La actividad requiere inscripción previa para asistir al webinar programado.\n• Investigadores de diversas universidades lideran este esfuerzo por visibilizar la participación femenina.\n• Las carreras STEM buscan reducir la brecha de género en campos científicos y tecnológicos.",
+      "category": "Ciencia",
+      "bullets_20s": "• El proyecto CONARE destaca la importancia de la participación femenina en ciencias y tecnologías.\n• Las carreras STEM son fundamentales para el desarrollo del país y su economía.\n• La presentación se realizará en un formato virtual, accesible a todos los interesados.\n• Se recomienda inscripción previa para participar en el seminario web programado.\n• El evento busca empoderar a más mujeres a integrarse en estas áreas profesionales.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/presentacion-resultados-proyecto-conare-participacion-mujeres-universitarias-carreras-cientificas",
       "publish_date": "2026-10-13T17:18:29.000Z",
-      "teaser": "Lo clave en 20 segundos: Presentan resultados sobre participación de mujeres en carreras STEM en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Presentación de resultados sobre mujeres en carreras STEM en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/6ef07c06-2393-4b8a-a244-2fa0a21d34b1.jpeg",
       "description": "Presentación de resultados del proyecto CONARE: Participación de mujeres universitarias en carreras científicas y tecnológicas",
       "featured": false
@@ -654,11 +680,11 @@
       "slug": "ninas-de-3-anos-contagiadas-de-vih-la-indignacion-en-peru-por-las-mas-de-1000-victimas-de-abuso-sexual-infantil-que-no-h",
       "title": "Niñas de 3 años contagiadas de VIH: la indignación en Perú por las más de 1.000 víctimas de abuso sexual infantil que no han sido atendidas por la justicia",
       "category": "Mundo",
-      "bullets_20s": "• El abuso sexual infantil ha aumentado de manera alarmante en varias comunidades de Perú.\n• Las comunidades wampis y awajún enfrentan una grave crisis de salud pública actualmente.\n• Más de 1.000 menores podrían estar afectados, lo que agrava la situación del VIH en el país.\n• La falta de atención de la justicia ha generado indignación entre defensores de derechos humanos.\n• Es crucial que las autoridades actúen para proteger a los menores en riesgo y afectados.",
+      "bullets_20s": "• Desde el 2023, los casos de abuso sexual infantil han ido en aumento en Perú.\n• Las comunidades wampis y awajún son las más afectadas por esta crisis de salud.\n• Más de 1.000 niñas, algunas de tan solo 3 años, han sido víctimas de esta violencia.\n• La falta de atención por parte de la justicia ha exacerbado la indignación social.\n• Activistas exigen medidas inmediatas para proteger a los menores en situaciones vulnerables.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmp3g15gggjeo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-13T12:02:01.000Z",
-      "teaser": "Lo clave en 20 segundos: crisis de VIH por abuso infantil en Perú, muchas víctimas sin justicia.",
+      "teaser": "Lo clave en 20 segundos: El abuso infantil en Perú genera una crisis sanitaria alarmante por contagios de VIH.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/076b/live/3c8c7a10-c701-11f1-b4dd-e786ec6f11b1.jpg",
       "description": "El aumento de casos de abuso ha derivado en una epidemia de contagios de VIH entre menores de edad en las comunidades wampis y awajún de Perú.",
       "featured": false
@@ -109929,10 +109955,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-14T02:45:27.070Z",
-  "total": 8456,
-  "removed_soccer_news_count": 1365,
+  "generated_at": "2026-10-14T03:45:26.850Z",
+  "total": 8458,
+  "removed_soccer_news_count": 1366,
   "removed_soccer_news_titles": [
+    "Amarini Villatoro deja clara su prioridad con Cartaginés: ‘Aunque a muchos no les guste’",
     "Barcelona, Arsenal y Atlético lucen sus goles en la Champions, mientras el Inter sufre",
     "Vea los goles con que Cartaginés hincó a Puntarenas: ¿A qué saliste Pineda?",
     "José Giacone da a conocer el papel que jugó Marcel Hernández en su llegada al fútbol de El Salvador",
@@ -109981,7 +110008,6 @@
     "Futbolista israelí es expulsado después de simular lo que parece un disparo tras gol en Nations League (video)",
     "España estrena su título mundial con victoria en Wembley",
     "La NFL toma el Maracaná, templo del fútbol",
-    "Un jugador costarricense sí celebró en la Nations League de Concacaf",
-    "Esto ocurre con Kylian Mbappé en medio de las preocupaciones por su lesión"
+    "Un jugador costarricense sí celebró en la Nations League de Concacaf"
   ]
 }
