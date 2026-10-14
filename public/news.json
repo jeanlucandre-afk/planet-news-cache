@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "netflix-despide-a-1000-empleados-en-su-mayor-reestructuracion-de-plantilla-desde-2022",
+      "title": "Netflix despide a 1.000 empleados en su mayor reestructuración de plantilla desde 2022",
+      "category": "Mundo",
+      "bullets_20s": "• Netflix ha tomado la decisión de despedir a una gran cantidad de empleados.\n• La reestructuración busca ajustarse a un entorno laboral cambiante en la industria.\n• Este es uno de los mayores despidos en la historia reciente de la empresa.\n• A pesar de sus ingresos sólidos, Netflix decide reducir costos significativamente.\n• La empresa se prepara para presentar su balance en un contexto complicado.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/economia/netflix-despide-a-1000-empleados-en-su-mayor/LMEOVTFXFBAMBITUY5EP62V5EU/story/",
+      "publish_date": "2026-10-14T22:47:06.000Z",
+      "teaser": "Lo clave en 20 segundos: Netflix despide a 1.000 empleados en una drástica reestructuración.",
+      "image_url": "https://www.nacion.com/resizer/v2/MEMERJMW6BG35NV6UQVXKQSYXQ.jpg?auth=93b89ea2fd83a965b88d62879fdc0ceb471822abc23b44702f06eb83a12fabec&smart=true&width=4592&height=2583",
+      "description": "Pese a ingresar $2.800 millones por la cláusula de Warner Bros y mantener un negocio sólido, Netflix ajusta su plantilla antes de presentar balance",
+      "featured": false
+    },
+    {
+      "slug": "inflacion-en-estados-unidos-vuelve-a-subir-en-setiembre-a-dias-de-las-legislativas",
+      "title": "Inflación en Estados Unidos vuelve a subir en setiembre a días de las legislativas",
+      "category": "Mundo",
+      "bullets_20s": "• La inflación en EE.UU. ha mostrado un incremento notable en el mes de setiembre de 2026.\n• A pesar del contexto económico, el aumento en la inflación sorprende a los analistas.\n• El costo de la energía ha sido el principal impulsor del aumento en las cifras de inflación.\n• Este incremento se da a pocos días de las elecciones legislativas cruciales en EE.UU.\n• Las reacciones en los mercados son variadas tras el anuncio de la subida de inflación.\n• La preocupación por la inflación se mantiene entre los consumidores y analistas financieros.\n• Los expertos están analizando cómo este aumento impactará la economía a corto plazo.\n• La atención nacional se dirige hacia las decisiones políticas que podrían influir en esta situación.\n• Los precios de servicios y bienes también están siendo monitoreados de cerca por el público.\n• El panorama económico de EE.UU. continúa siendo incierto en medio de estas fluctuaciones.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/inflacion-en-estados-unidos-vuelve-a-subir-en/4KVSRHXJ2RG2RAA46TCQTK4OMI/story/",
+      "publish_date": "2026-10-14T22:32:14.000Z",
+      "teaser": "Lo clave en 20 segundos: Aumenta la inflación en EE.UU. a días de elecciones, impactando mercados y economía.",
+      "image_url": "https://www.nacion.com/resizer/v2/H3M5T3SWHJGM5OR4HMR2MEY2LM.jpg?auth=4a7798349af006c9224b20f26f8bb55d70d3519f158f5b4dd0c0eac48f0709b2&smart=true&width=1024&height=767",
+      "description": "La energía dispara la inflación mensual al 0,6% y agita los mercados a pocas semanas de las elecciones legislativas de mitad de mandato.",
+      "featured": false
+    },
+    {
       "slug": "partido-de-lula-denunciara-ante-la-oea-interferencia-de-meta-en-las-elecciones-brasilenas",
       "title": "Partido de Lula denunciará ante la OEA ‘interferencia’ de Meta en las elecciones brasileñas",
       "category": "Mundo",
@@ -17,11 +43,11 @@
       "slug": "los-medicos-del-papa-informan-que-camina-y-se-recupera-segun-lo-previsto-tras-su-cirugia-por-un-cancer-de-pulmon",
       "title": "Los médicos del Papa informan que camina y se recupera 'según lo previsto' tras su cirugía por un cáncer de pulmón",
       "category": "Mundo",
-      "bullets_20s": "• Los médicos del Papa han confirmado que su proceso de recuperación va según los planes.\n• El pontífice se encuentra caminando y realizando actividades de manera normal.\n• La cirugía se llevó a cabo para extirpar un nódulo en el pulmón derecho.\n• El cáncer diagnosticado es un adenocarcinoma, un tipo común de cáncer de pulmón.\n• Los fieles están expectantes por la salud del líder católico en todo el mundo.",
+      "bullets_20s": "• Los médicos han indicado que la recuperación del Papa avanza conforme a lo esperado tras la cirugía realizada.\n• La intervención fue exitosa y los datos sobre su salud están siendo monitoreados cuidadosamente por los médicos.\n• Se espera que el Papa regrese a sus actividades cotidianas en un corto período de tiempo, según los informes médicos.\n• El diagnóstico de adenocarcinoma ha causado preocupación pero la respuesta al tratamiento ha sido positiva hasta ahora.\n• Este tipo de cáncer de pulmón es tratado con un enfoque multidisciplinario que incluye cirugía y monitoreo constante.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmvgxvdpwk30o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-14T21:43:54.000Z",
-      "teaser": "Lo clave en 20 segundos: La recuperación del Papa avanza según lo previsto tras su cirugía por cáncer.",
+      "teaser": "Lo clave en 20 segundos: El Papa se recupera bien después de su cirugía por cáncer de pulmón.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/357d/live/53dbcfb0-c81c-11f1-ba52-6f55b182b2fe.jpg",
       "description": "Al pontífice le diagnosticaron un adenocarcinoma tras una operación para extirparle un nódulo en un pulmón.",
       "featured": false
@@ -290,13 +316,13 @@
       "slug": "el-tec-lidera-el-sector-de-educacion-superior-en-los-rankings-de-reputacion-y-responsabilidad-de-merco-2026",
       "title": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica lidera el sector de educación superior en Merco 2026.\n• El TEC mantiene su posición en Merco Empresas, ocupando el primer lugar del sector educativo.\n• Merco Responsabilidad posiciona al TEC como primer lugar en su sector por su compromiso social.\n• La metodología de Merco se basa en encuestas a diversas organizaciones y expertos.\n• El TEC es la única institución educativa en los 20 primeros lugares de Merco Empresas.",
+      "bullets_20s": "• El TEC destaca en los rankings de Merco por su reputación y compromiso con la responsabilidad social.\n• Ocupa el primer lugar en Merco Empresas, liderando el sector de educación superior en Costa Rica.\n• El Tecnológico también se posiciona tercero en Merco Talento, mostrando su capacidad para atraer personal.\n• Es la única institución de educación superior entre los 20 primeros en la clasificación general de Merco.\n• Merco evalúa la reputación a través de encuestas y análisis de fuentes, garantizando resultados confiables.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-lidera-sector-educacion-superior-rankings-reputacion-responsabilidad-merco-2026",
       "publish_date": "2026-10-14T15:01:35.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC se destaca en rankings de Merco 2026 por su reputación y responsabilidad.",
+      "teaser": "Lo clave en 20 segundos: El TEC lidera en reputación y responsabilidad en educación superior, según Merco 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/diseno-sin-titulo-4.png",
-      "description": "El TEC ocupa el primer lugar en los rankings de reputación y responsabilidad de Merco 2026.",
+      "description": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
       "featured": false
     },
     {
@@ -433,12 +459,12 @@
       "slug": "quien-queda-a-cargo-del-vaticano-y-como-funciona-la-iglesia-catolica-mientras-el-papa-leon-xiv-se-recupera-de-una-cirugi",
       "title": "Quién queda a cargo del Vaticano y cómo funciona la Iglesia católica mientras el papa León XIV se recupera de una cirugía pulmonar",
       "category": "Mundo",
-      "bullets_20s": "• La Iglesia Católica enfrenta momentos de incertidumbre tras la cirugía del papa León XIV.\n• La figura que ocupará el liderazgo durante la recuperación del papa es crucial para el Vaticano.\n• Es importante entender cómo funciona la Iglesia en situaciones de crisis y liderazgo temporal.\n• El cáncer de pulmón del papa ha generado preocupación entre los fieles y la comunidad global.\n• La estructura del Vaticano permite una transición fluida en el liderazgo durante emergencias.",
+      "bullets_20s": "• La recuperación del papa León XIV plantea interrogantes sobre la administración de la Iglesia católica.\n• El Vaticano tiene procedimientos establecidos para su funcionamiento ante ausencias de su líder.\n• El cónclave es un aspecto importante en el futuro liderazgo de la Iglesia católica.\n• La salud del papa es prioridad para los fieles y la comunidad católica global.\n• Las decisiones en el Vaticano pueden impactar temas sociales y morales a nivel mundial.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqev3dvnmmjmo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-14T12:50:23.000Z",
-      "teaser": "Lo clave en 20 segundos: El futuro del Vaticano tras la cirugía del papa León XIV genera interrogantes importantes.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ffe7/live/bd0c2a70-c7c2-11f1-993a-152cbb068da1.jpg",
+      "teaser": "Lo clave en 20 segundos: ¿Quién liderará el Vaticano durante la recuperación del papa León XIV?",
+      "image_url": "",
       "description": "El interrogante resurgió tras el diagnóstico de cáncer de pulmón que recibió el papa León XIV este martes.",
       "featured": false
     },
@@ -497,13 +523,13 @@
     {
       "slug": "las-emotivas-fotos-de-la-elefanta-que-no-podia-superar-la-muerte-de-su-cria-y-lo-que-revelan-sobre-el-duelo-animal",
       "title": "Las emotivas fotos de la elefanta que no podía superar la muerte de su cría y lo que revelan sobre el duelo animal",
-      "category": "Mundo",
-      "bullets_20s": "• Los elefantes muestran comportamientos emocionales complejos, especialmente ante la pérdida de un ser querido.\n• Las imágenes del duelo animal ofrecen una mirada profunda a la vida emocional de estos mamíferos.\n• El fotógrafo destaca cómo las elefantes expresan tristeza y dolor a través de su comportamiento.\n• El duelo en estos animales plantea preguntas sobre la empatía y la conexión entre ellos.\n• Las fotografías ganadoras revelan la belleza y la tristeza de las relaciones dentro de la manada.",
+      "category": "Ciencia",
+      "bullets_20s": "• Las fotos revelan el profundo vínculo emocional entre los elefantes, especialmente en momentos de pérdida.\n• El premio Fotógrafo de Vida Silvestre destaca la importancia de la conservación y el respeto por la naturaleza.\n• El duelo en animales es un tema cada vez más estudiado por científicos y biólogos en varias especies.\n• El comportamiento de los elefantes muestra que sienten tristeza, algo poco común en el reino animal.\n• Las imágenes capturan momentos íntimos y emotivos que conmueven a la audiencia mundial.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cr3wvx2wnq4lo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-14T11:08:30.000Z",
-      "teaser": "Lo clave en 20 segundos: La complejidad emocional de los elefantes se revela a través de conmovedoras imágenes.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3b19/live/e2b4ae70-c702-11f1-b4dd-e786ec6f11b1.jpg",
+      "teaser": "Lo clave en 20 segundos: Elefantes y su duelo, revelaciones sobre su vida emocional a través de impresionantes fotos.",
+      "image_url": "",
       "description": "Unas imágenes ganadoras del premio Fotógrafo de Vida Silvestre del Año 2026 revelan un comportamiento poco común de los elefantes y la complejidad de su vida emocional.",
       "featured": false
     },
@@ -602,13 +628,13 @@
       "slug": "tec-sera-sede-del-vi-encuentro-centroamericano-y-caribeno-de-voluntariado-universitario",
       "title": "TEC será sede del VI Encuentro Centroamericano y Caribeño de Voluntariado Universitario",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC albergará el VI Encuentro Centroamericano y Caribeño de Voluntariado Universitario del 28 al 30 de octubre.\n• Este evento busca fomentar el diálogo y la acción en torno al voluntariado y sostenibilidad en la región.\n• Se espera la participación de universidades de Centroamérica y el Caribe en este cónclave significativo.\n• El lema del encuentro es sobre la universidad pública y su servicio al bienestar de los pueblos.\n• Actividades incluirán plenarias, dinámicas de voluntariado y capacitación en Parques Nacionales.",
+      "bullets_20s": "• El TEC albergará el VI Encuentro del 28 al 30 de octubre de 2026 en Cartago.\n• Este evento busca fomentar el voluntariado y la integración regional entre universidades.\n• Se celebran 55 años del TEC, mostrando su compromiso con el bienestar social.\n• Las actividades combinarán diálogos institucionales con dinámicas de impacto social.\n• El evento incluye asistencia presencial y virtual, promoviendo inclusividad.\n• Delegaciones se desplazarán a Parques Nacionales para realizar acción social directa.\n• Se busca consolidar redes de cooperación a través del intercambio de experiencias.\n• Iván Barrantes destaca la importancia de la trayectoria del TEC en este ámbito.\n• El lema del encuentro resalta el papel de la universidad en el bienestar comunitario.\n• Se espera una amplia representación de universidades de toda la región.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-sera-sede-vi-encuentro-centroamericano-caribeno-voluntariado-universitario",
       "publish_date": "2026-10-14T05:18:36.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC será sede de un importante encuentro de voluntariado universitario.",
+      "teaser": "Lo clave en 20 segundos: El TEC será sede del VI Encuentro de Voluntariado Universitario en octubre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/461785265_10226010935604236_1402828480303304386_n.jpg",
-      "description": "TEC será sede del VI Encuentro Centroamericano y Caribeño de Voluntariado Universitario.",
+      "description": "TEC será sede del VI Encuentro Centroamericano y Caribeño de Voluntariado Universitario",
       "featured": false
     },
     {
@@ -667,11 +693,11 @@
       "slug": "tec-celebro-33-anos-del-ceda-y-25-de-sus-primeras-acreditaciones",
       "title": "TEC celebró 33 años del CEDA y 25 de sus primeras acreditaciones",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC conmemora hitos fundamentales para la calidad académica en su comunidad institucional.\n• La celebración resalta el impacto histórico del Centro de Desarrollo Académico en la educación.\n• Durante el evento, se enfatizó el compromiso del TEC con la mejora continua y la excelencia pedagógica.\n• Se rindió homenaje a las carreras acreditadas que defienden los estándares de calidad educativa.\n• La rectora destacó el orgullo del TEC al tener todas sus carreras de grado acreditadas.",
+      "bullets_20s": "• El TEC conmemoró hitos importantes en su calidad académica y acreditaciones este 2026.\n• Se celebraron 33 años del CEDA y 25 años de acreditaciones de ingeniería en la institución.\n• La comunidad del TEC se reunió en un evento significativo para reconocer estas trayectorias.\n• La ceremonia contó con la presencia de autoridades académicas y representantes del SINAES.\n• La rectora destacó el compromiso del TEC con la calidad y la mejora continua en docencia.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-celebro-33-anos-ceda-25-sus-primeras-acreditaciones",
       "publish_date": "2026-10-14T04:07:38.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de 33 años del CEDA y 25 años de acreditaciones en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Celebramos 33 años del CEDA y 25 años de acreditaciones en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/008_33-aniversario-ceda_13_10_2026_paquesada.png",
       "description": "TEC celebró 33 años del CEDA y 25 de sus primeras acreditaciones",
       "featured": false
@@ -823,11 +849,11 @@
       "slug": "i-congreso-de-la-semana-de-la-calidad-y-x-foro-gecies",
       "title": "I Congreso de la Semana de la Calidad y X Foro GECIES",
       "category": "Costa Rica",
-      "bullets_20s": "• El I Congreso y X Foro GECIES se centran en la calidad en la educación superior.\n• Se realizará virtualmente el 10 y 11 de noviembre de 2026, comenzando a las 9 a.m.\n• El congreso abordará competencias necesarias para la universidad en la era digital.\n• Se presentarán conferencias sobre calidad que aprende en entornos inciertos.\n• Integración de inteligencia artificial en universidades será un tema clave.\n• Mesa de diálogo sobre gobernanza académica cerrará el encuentro.\n• Expositores destacados compartirán su experiencia en educación superior.\n• El evento es organizado por el TEC y GECIES para la comunidad académica.\n• Se realizará con una transmisión en vivo a través del canal de YouTube del TEC.\n• El congreso busca mejorar la calidad educativa y fomentar la excelencia.",
+      "bullets_20s": "• El I Congreso de la Semana de la Calidad tiene lugar en noviembre de 2026.\n• La actividad es organizada por el Tecnológico de Costa Rica y GECIES.\n• Se realizará de manera virtual con transmisión en vivo por YouTube.\n• El lema del congreso es construir una cultura de excelencia universitaria.\n• Iniciará cada día a las 9 a.m. con conferencias nacionales e internacionales.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/i-congreso-semana-calidad-x-foro-gecies",
       "publish_date": "2026-10-13T23:55:02.000Z",
-      "teaser": "Lo clave en 20 segundos: Congreso único sobre calidad y tecnología en educación superior en noviembre.",
+      "teaser": "Lo clave en 20 segundos: Congreso para mejorar la calidad educativa se celebra virtualmente en noviembre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/instalaciones_cartago_stock_ciberseguridad_datic_foto_105.jpg",
       "description": "I Congreso de la Semana de la Calidad y X Foro GECIES",
       "featured": false
@@ -1057,11 +1083,11 @@
       "slug": "estudiante-del-tec-gana-premio-del-publico-en-estados-unidos-con-investigacion-sobre-plantas-nativas-de-guanacaste",
       "title": "Estudiante del TEC gana premio del público en Estados Unidos con investigación sobre plantas nativas de Guanacaste",
       "category": "Costa Rica",
-      "bullets_20s": "• La estudiante Sofía Jiménez presentó un análisis de plantas nativas de Guanacaste en un simposio en EE.UU.\n• El simposio reunió a más de 350 investigadores, profesionales y representantes de la industria en Carolina del Norte.\n• Jiménez trabaja en el Laboratorio de Ingeniería de Tejidos en el Centro de Investigación en Biotecnología del TEC.\n• La investigación de 20 plantas nativas muestra potencial antioxidante y contra células de cáncer de pulmón.\n• Sofía ganó el premio al público por su presentación sobre medicina regenerativa y fitoquímicos.",
+      "bullets_20s": "• Sofía Jiménez Murillo recibió el premio en un simposio de ciencias biomédicas en Estados Unidos.\n• Su investigación se centra en las propiedades medicinales de plantas nativas de Guanacaste.\n• El estudio analizó 20 especies de plantas con potencial contra células de cáncer de pulmón.\n• Jiménez es estudiante asistente en el Laboratorio de Ingeniería de Tejidos del TEC.\n• Los resultados muestran diferencias significativas en la actividad de los extractos probados.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/estudiante-tec-gana-premio-publico-estados-unidos-investigacion-plantas-nativas-guanacaste",
       "publish_date": "2026-10-13T18:00:25.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudiante del TEC destaca en EE.UU. con investigación sobre plantas nativas.",
+      "teaser": "Lo clave en 20 segundos: Estudiante del TEC triunfa en simposio internacional por investigación sobre plantas nativas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/biomed_symposium_6363.jpg.jpeg",
       "description": "Estudiante del TEC gana premio del público en Estados Unidos con investigación sobre plantas nativas de Guanacaste",
       "featured": false
@@ -110657,10 +110683,12 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-14T22:45:27.875Z",
-  "total": 8512,
-  "removed_soccer_news_count": 1376,
+  "generated_at": "2026-10-14T23:45:26.582Z",
+  "total": 8514,
+  "removed_soccer_news_count": 1378,
   "removed_soccer_news_titles": [
+    "Víctima que denunció a futbolista de Cartaginés por extorsión acumuló deuda de ¢16 millones",
+    "Cuidacarros de Cartago denunció agresión en la que figura futbolista de Cartaginés investigado por amenazas",
     "El Liverpool se pasea en Austria por la Champions",
     "Vinícius se perderá el clásico Real Madrid-Barcelona tras fuerte sanción",
     "La Selección de Costa Rica ya tiene DT: comienza oficialmente la era de Bryan Ruiz",
@@ -110708,8 +110736,6 @@
     "Bryan Ruiz, Jorge Luis Pinto y ‘Popeye’ Herrera ponen a pensar seriamente a Giancarlo González",
     "Sporting vs. Cartaginés: ¿A qué hora y en qué canal se puede ver este partido?",
     "Ellos son los jugadores que Fernando Batista dejó fuera del partido Haití vs. Costa Rica en Nations League",
-    "Haití vs. Costa Rica: Hora y canal para ver hoy el partido de la ‘Sele’ en Nations League",
-    "Así fue la impactante caída de ciclista costarricense en el Mundial de Canadá (video)",
-    "Pinchazo y caída dejan a Luis Daniel Oses con gran tristeza tras retirarse del Mundial de Ciclismo de Canadá"
+    "Haití vs. Costa Rica: Hora y canal para ver hoy el partido de la ‘Sele’ en Nations League"
   ]
 }
