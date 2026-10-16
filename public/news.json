@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "investigacion-bbc-el-ejercito-de-israel-no-ha-hecho-publicos-los-resultados-de-cientos-de-pesquisas-por-muertos-y-herido",
+      "title": "Investigación BBC: el ejército de Israel no ha hecho públicos los resultados de cientos de pesquisas por muertos y heridos en Medio Oriente",
+      "category": "Mundo",
+      "bullets_20s": "• El ejército de Israel ha enfrentado críticas por la falta de transparencia en sus investigaciones.\n• BBC Verify ha identificado incidentes no divulgados que siguen bajo revisión por parte del ejército.\n• Los resultados de estas pesquisas podrían impactar en la percepción internacional del conflicto.\n• Las investigaciones abarcan años y daños humanos en el contexto del Medio Oriente.\n• La falta de información genera desconfianza entre las comunidades afectadas y organismos internacionales.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c69wzgv94g11o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-10-16T03:01:58.000Z",
+      "teaser": "Lo clave en 20 segundos: El ejército israelí revisa incidentes, pero no revela resultados, generando críticas y desconfianza.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/2cd5/live/6628d920-c7e4-11f1-a64c-550be9e3c66b.png",
+      "description": "BBC Verify ha identificado 254 incidentes de los últimos tres años que el ejército israelí ha declarado estar revisando tras haber sido acusado de causar daños, pero sin informar los resultados.",
+      "featured": false
+    },
+    {
+      "slug": "recortes-del-ppso-por-26000-millones-golpearan-a-sedes-regionales-de-universidades-publicas-afirman-rectores",
+      "title": "Recortes del PPSO por ¢26.000 millones golpearán a sedes regionales de universidades públicas, afirman rectores",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los recortes del PPSO impactarán gravemente a universidades públicas en diferentes regiones del país.\n• Se estima que 417 cupos de ingenierías se verán afectados en la UNA y otras instituciones.\n• Las sedes regionales, como Nicoya y Liberia, sufrirán grandes dificultades por esta reducción.\n• El cierre técnico para la UNED complicará el acceso a la educación superior en algunas áreas.\n• Expertos y rectores expresan preocupación por el futuro de la educación pública en el país.",
+      "source_name": "Aarón Sequeira",
+      "source_url": "https://www.nacion.com/politica/recortes-del-ppso-por-26000-millones-golpearan-a/XARROACEFVCT7EO2B2QTCXFIKY/story/",
+      "publish_date": "2026-10-16T02:32:46.000Z",
+      "teaser": "Lo clave en 20 segundos: La educación superior en Costa Rica enfrenta recortes significativos que afectarán a miles de estudiantes.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZTGQOIYX2FBOHGSZBFG6CPJXBQ.JPG?auth=fe64b5cef8677b3f79fcd76f3ccc0bd1bc944efade13cb58bc349768c3e1c82e&smart=true&width=6000&height=4000",
+      "description": "Rebajas golpearían 417 cupos en ingenierías de la UNA en Nicoya, Liberia, Coto y Sarapiquí; la sede del TEC en Limón; el recinto de Paraíso de la UCR y un cierre técnico para la UNED.",
+      "featured": false
+    },
+    {
       "slug": "costa-rica-tendra-un-viernes-de-calor-y-fuertes-aguaceros-esto-pronostica-el-imn",
       "title": "Costa Rica tendrá un viernes de calor y fuertes aguaceros: esto pronostica el IMN",
       "category": "Costa Rica",
@@ -186,11 +212,11 @@
       "slug": "por-que-la-estafadora-elizabeth-holmes-sigue-causando-fascinacion-en-eeuu",
       "title": "Por qué la estafadora Elizabeth Holmes sigue causando fascinación en EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• Elizabeth Holmes sigue generando interés por su historia de engaño empresarial y consecuencias legales.\n• Theranos prometía revoluciones en diagnósticos médicos, pero no cumplió sus promesas.\n• El nuevo documental explora los aspectos psicológicos detrás de la fascinación por Holmes.\n• El caso levantó preguntas sobre la ética en la industria de la tecnología y la salud.\n• La figura de Holmes se convierte en símbolo para debatir sobre ambición y honestidad.",
-      "source_name": "BBC Mundo",
+      "bullets_20s": "• Elizabeth Holmes se hizo famosa por las promesas de su empresa de tecnología médica.\n• Theranos prometía revolucionar los análisis de sangre con un dispositivo pequeño y fácil de usar.\n• A pesar de sus fracasos, el interés por su historia no ha disminuido en los medios.\n• Se ha producido un nuevo documental que explora su vida y los acontecimientos en Theranos.\n• La fascinación por su caso refleja los riesgos en el mundo de las startups tecnológicas.\n• Holmes se presenta como un símbolo del exceso de confianza en la innovación tecnológica.",
+      "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/c65yng81r7g4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-15T20:30:39.000Z",
-      "teaser": "Lo clave en 20 segundos: La fascinación por Elizabeth Holmes sigue creciendo a pesar de su historia de engaño.",
+      "teaser": "Lo clave en 20 segundos: La historia de Elizabeth Holmes sigue cautivando a EE.UU. con nuevo documental.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/d1b7/live/0b971a30-c8d4-11f1-95b2-9f12d414946d.png",
       "description": "La creadora de Theranos, una compañía que prometía diagnósticos con una sola gota de sangre, es objeto de un nuevo documental.",
       "featured": false
@@ -251,11 +277,11 @@
       "slug": "cuatro-candidaturas-aspiran-a-la-direccion-del-campus-tecnologico-local-san-carlos",
       "title": "Cuatro candidaturas aspiran a la Dirección del Campus Tecnológico Local San Carlos",
       "category": "Costa Rica",
-      "bullets_20s": "• El proceso electoral para la dirección del campus inicia oficialmente con la entrega de candidaturas.\n• TIE informa sobre las fechas claves de la campaña y la elección en el campus tecnológico.\n• Las candidaturas fueron seleccionadas tras cumplir con los requisitos establecidos por el TEC.\n• Actividad de expresión del pensamiento programada para el 5 de noviembre en el auditorio.\n• Las elecciones se llevarán a cabo el 12 de noviembre con horario de 9 a.m. a 6 p.m.",
+      "bullets_20s": "• Cuatro personas se postulan a la Dirección del Campus Tecnológico Local San Carlos.\n• La elección se llevará a cabo el 12 de noviembre de 2026, de 9 a.m. a 6 p.m.\n• Se realizó la entrega oficial de candidaturas por el Tribunal Institucional Electoral.\n• La campaña política de los candidatos inicia con actividades programadas por el TIE.\n• Las personas candidatas tienen que cumplir con requisitos específicos establecidos.\n• El TIE busca promover la participación activa de la comunidad académica en el proceso electoral.\n• Se transmitirá en vivo la actividad de expresión del pensamiento programada para el 5 de noviembre.\n• Las propuestas de los candidatos serán presentadas a la comunidad institucional en este evento.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/cuatro-candidaturas-aspiran-direccion-campus-tecnologico-local-san-carlos",
       "publish_date": "2026-10-15T18:47:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Se presentan cuatro candidaturas para dirigir el Campus Tecnológico Local San Carlos.",
+      "teaser": "Lo clave en 20 segundos: Cuatro candidaturas competirán por la Dirección del Campus Tecnológico Local San Carlos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/entrega-procedencia-tie-san-carlos_rcascante-06.jpg",
       "description": "Cuatro candidaturas aspiran a la Dirección del Campus Tecnológico Local San Carlos",
       "featured": false
@@ -1161,11 +1187,11 @@
       "slug": "el-tec-lidera-el-sector-de-educacion-superior-en-los-rankings-de-reputacion-y-responsabilidad-de-merco-2026",
       "title": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC ha destacado en reputación y responsabilidad según los rankings de Merco 2026.\n• Se ubica primero en educación superior en Merco Empresas y Merco Responsabilidad.\n• El instituto alcanzó también un notable cuarto puesto en Merco Talento a nivel general.\n• Merco evalúa la reputación desde el año 2000 en 20 países de Iberoamérica y EE. UU.\n• Los resultados en Costa Rica se dieron a conocer el 8 de octubre en San José.",
+      "bullets_20s": "• El Tecnológico de Costa Rica se posiciona en el primer lugar en Merco Empresas y Responsabilidad.\n• El TEC es la única institución de educación superior entre las 20 primeras en los rankings.\n• Merco evalúa la reputación de organizaciones en Costa Rica y otros 20 países desde el 2000.\n• Estudios de Merco incluyen encuestas a directivos, analistas y trabajadores del sector.\n• Las clasificaciones son revisadas por KPMG, asegurando un análisis independiente y riguroso.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-lidera-sector-educacion-superior-rankings-reputacion-responsabilidad-merco-2026",
       "publish_date": "2026-10-14T15:01:35.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC brilla en los rankings de reputación y responsabilidad Merco 2026 en educación.",
+      "teaser": "Lo clave en 20 segundos: El TEC encabeza rankings de Merco en educación, destacando su reputación y responsabilidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/diseno-sin-titulo-4.png",
       "description": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
       "featured": false
@@ -1200,11 +1226,11 @@
       "slug": "mesa-de-dialogo-nineces-y-adolescencias-lgbtiaq",
       "title": "Mesa de Diálogo: Niñeces y adolescencias LGBTIAQ+",
       "category": "Costa Rica",
-      "bullets_20s": "• Invitación a la Mesa de Diálogo sobre la niñez y adolescencia LGBTIQ+ en Costa Rica.\n• Se abordará la situación actual que enfrenta esta población en el país.\n• Los derechos y desafíos pendientes para una mejor inclusión social serán discutidos.\n• Se presentarán herramientas para promover el cambio social en las comunidades.\n• La actividad incluye alimentación y se llevará a cabo en el TEC.",
+      "bullets_20s": "• La Mesa de Diálogo abordará temáticas sobre niñez y adolescencia LGBTIQ+ en el país.\n• Se discutirán los derechos de esta población y los desafíos que enfrentan hoy en día.\n• El evento busca fomentar cambios sociales a favor de comunidades más inclusivas.\n• Están invitadas todas las personas interesadas en la situación actual de la población LGBTIQ+.\n• Se ofrecerá alimentación para los asistentes durante el evento programado.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/mesa-dialogo-nineces-adolescencias-lgbtiaq",
       "publish_date": "2026-10-14T13:53:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Conversación sobre derechos y desafíos de niñez LGBTIAQ+.",
+      "teaser": "Lo clave en 20 segundos: Participa en la Mesa de Diálogo sobre niñez y adolescencia LGBTIQ+.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/izo_bandera_diversidad_nruiz_11_0.jpg",
       "description": "Mesa de Diálogo: Niñeces y adolescencias LGBTIAQ+",
       "featured": false
@@ -1486,13 +1512,13 @@
       "slug": "tec-sera-sede-del-vi-encuentro-centroamericano-y-caribeno-de-voluntariado-universitario",
       "title": "TEC será sede del VI Encuentro Centroamericano y Caribeño de Voluntariado Universitario",
       "category": "Costa Rica",
-      "bullets_20s": "• El VI Encuentro se celebrará del 28 al 30 de octubre en el TEC, Costa Rica.\n• Representantes universitarios de la región participarán en actividades sobre voluntariado.\n• El evento fomentará la integración y el desarrollo sostenible entre instituciones educativas.\n• Incluye sesiones teóricas y dinámicas prácticas en parques nacionales y comunidades.\n• El TEC busca demostrar su compromiso con la acción social y el bienestar colectivo.",
+      "bullets_20s": "• El Tecnológico de Costa Rica será la sede del VI Encuentro de Voluntariado Universitario.\n• Este evento se llevará a cabo del 28 al 30 de octubre de 2026 en Cartago.\n• Reunirá a representantes universitarios de la región para debatir sobre voluntariado.\n• El lema oficial del encuentro destaca el servicio al bienestar de los pueblos.\n• Se presentarán actividades prácticas de acción social y diálogo institucional.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-sera-sede-vi-encuentro-centroamericano-caribeno-voluntariado-universitario",
       "publish_date": "2026-10-14T05:18:36.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC acogerá un encuentro sobre voluntariado y sostenibilidad en octubre.",
+      "teaser": "Lo clave en 20 segundos: El TEC acogerá importante encuentro regional de voluntariado universitario.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/461785265_10226010935604236_1402828480303304386_n.jpg",
-      "description": "TEC será sede del VI Encuentro Centroamericano y Caribeño de Voluntariado Universitario",
+      "description": "TEC será sede del VI Encuentro Centroamericano y Caribeño de Voluntariado Universitario.",
       "featured": false
     },
     {
@@ -111541,8 +111567,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-16T02:45:27.142Z",
-  "total": 8580,
+  "generated_at": "2026-10-16T03:45:27.149Z",
+  "total": 8582,
   "removed_soccer_news_count": 1389,
   "removed_soccer_news_titles": [
     "Futbolista brasileño sufrió un asalto en su casa durante partido de la Champions",
