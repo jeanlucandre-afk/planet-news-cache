@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "protestas-en-francia-reunen-a-500000-personas-y-dejan-enfrentamientos-detenidos-y-un-manifestante-herido",
+      "title": "Protestas en Francia reúnen a 500.000 personas y dejan enfrentamientos, detenidos y un manifestante herido",
+      "category": "Mundo",
+      "bullets_20s": "• Las protestas en Francia fueron masivas, con una participación destacada de la ciudadanía.\n• El aumento del costo de vida ha generado descontento en diversas comunidades.\n• Las marchas se caracterizaron por ser pacíficas al inicio, seguidas de enfrentamientos.\n• La policía tuvo que intervenir para controlar las situaciones de violencia generadas.\n• El movimiento de los chalecos amarillos ha revivido con esta nueva ola de protestas.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/protestas-en-francia-reunen-a-500000-personas-y/JZN2XCLM7NBO7GHGVCAFZTACXU/story/",
+      "publish_date": "2026-10-17T16:58:09.000Z",
+      "teaser": "Lo clave en 20 segundos: Protestas masivas en Francia contra el costo de vida, marcando el regreso de los chalecos amarillos.",
+      "image_url": "https://www.nacion.com/resizer/v2/SVO4GDYJXBBY3CV44ZUIAKQWXQ.jpg?auth=76917b744c2868ae3f49b26aff57ffd9629343f858bfe188c94f68c38af436b5&smart=true&width=5857&height=3905",
+      "description": "Unas 500.000 personas protestaron en Francia contra el aumento del costo de vida. Las marchas marcaron el regreso del movimiento de los chalecos amarillos y dejaron enfrentamientos con la policía.",
+      "featured": false
+    },
+    {
+      "slug": "ctrl-curriculum-la-obra-que-confronta-la-precariedad-laboral-debuta-en-las-tablas",
+      "title": "‘CTRL-CURRÍCULUM’: La obra que confronta la precariedad laboral debuta en las tablas",
+      "category": "Costa Rica",
+      "bullets_20s": "• La obra reflexiona sobre las dinámicas del trabajo en la actualidad y sus desafíos.\n• CTRL-CURRÍCULUM propone una mirada crítica a la precariedad laboral en el país.\n• El certamen Teatro del Sol resalta la relevancia de la escritura contemporánea.\n• Las funciones están programadas hasta el 1 de noviembre en un reconocido teatro.\n• La actuación busca conectar con el espectador y fomentar una discusión sobre el tema.",
+      "source_name": "Jorge Arturo Mora",
+      "source_url": "https://www.nacion.com/revista-dominical/ctrl-curriculum-la-obra-que-confronta-la/RIG5EL3KXRC45BMI2YU2TSMQUM/story/",
+      "publish_date": "2026-10-17T16:53:04.000Z",
+      "teaser": "Lo clave en 20 segundos: La obra ‘CTRL-CURRÍCULUM’ aborda la precariedad laboral desde el teatro.",
+      "image_url": "https://www.nacion.com/resizer/v2/GXQN32PXVFBZ7L5VIRK5NXOL24.jpg?auth=a1ac410682a5340890befe23e2c8d89d447824cb79e2fc6c80816f4947084d46&smart=true&width=4672&height=5840",
+      "description": "La puesta en escena 'CTRL-CURRICULUM', ganadora del certamen Teatro del Sol 2026, se presentará del 15 de octubre al 1 de noviembre en el Teatro Universitario.",
+      "featured": false
+    },
+    {
       "slug": "usan-candado-chino-para-someter-a-neerlandes-y-robarle-el-celular-en-el-centro-de-san-jose",
       "title": "Usan ‘candado chino’ para someter a neerlandés y robarle el celular en el centro de San José",
       "category": "Costa Rica",
@@ -108,11 +134,11 @@
       "slug": "por-que-eeuu-vuelve-al-peloton-de-fusilamiento-para-aplicar-la-pena-de-muerte",
       "title": "Por qué EE.UU. vuelve al pelotón de fusilamiento para aplicar la pena de muerte",
       "category": "Mundo",
-      "bullets_20s": "• Estados Unidos retoma el uso del pelotón de fusilamiento para la pena de muerte en su ejército.\n• La decisión viene en medio de un debate sobre la moralidad de las ejecuciones actuales.\n• Desde 1945, no se había utilizado este método en el contexto militar estadounidense.\n• Las opiniones públicas están divididas sobre la efectividad y ética de este método.\n• Este caso específico involucra a un soldado que ha cometido crímenes graves.",
+      "bullets_20s": "• EE.UU. reconsidera el uso del pelotón de fusilamiento como método de ejecución.\n• El caso de Nidal Hasan marca un cambio significativo en la política de pena de muerte.\n• Se exploran las razones tras el retorno a esta práctica histórica y controvertida.\n• El pelotón de fusilamiento ha sido muy poco usado en los últimos años en EE.UU.\n• La decisión genera debates éticos sobre los métodos de ejecución aplicados.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cq70pz32x83do?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-17T12:29:58.000Z",
-      "teaser": "Lo clave en 20 segundos: EE.UU. vuelve al fusilamiento militar tras más de 80 años desde su última vez.",
+      "teaser": "Lo clave en 20 segundos: EE.UU. evalúa el regreso del pelotón de fusilamiento para ejecuciones de pena de muerte.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/4526/live/33cf1fa0-c688-11f1-bb36-afc481a9aa1a.jpg",
       "description": "La ejecución de Nidal Hasan, el pistolero de Fort Hood, sería la primera vez que el Ejército de Estados Unidos utilizaría un pelotón de fusilamiento desde 1945.",
       "featured": false
@@ -171,13 +197,13 @@
     },
     {
       "slug": "un-mundo-feliz-3-inquietantes-tendencias-que-la-famosa-novela-distopica-de-aldous-huxley-predijo-hace-casi-100-anos",
-      "title": "Un mundo feliz: 3 inquietantes tendencias que la famosa novela distópica de Aldous Huxley predijo hace casi 100 años",
-      "category": "Mundo",
-      "bullets_20s": "• La novela de Huxley anticipa un futuro dominado por la tecnología y la manipulación genética.\n• Se refleja en nuestra sociedad la importancia de la felicidad artificial y el consumo excesivo.\n• La idea de un control totalitario se manifiesta en diversas facetas de la vida moderna.\n• Huxley mostró una visión inquietante sobre el potencial de la ciencia para alterar la humanidad.\n• La obra sigue siendo un referente para discutir temas éticos de la tecnología actual.",
+      "title": "\"Un mundo feliz\": 3 inquietantes tendencias que la famosa novela distópica de Aldous Huxley predijo hace casi 100 años",
+      "category": "Ciencia",
+      "bullets_20s": "• Aldous Huxley publicó su novela en 1932, imaginando un futuro distópico que hoy resuena.\n• La obra anticipa avances tecnológicos que han cambiado nuestras vidas, como la manipulación genética.\n• Explora la interacción humana en un mundo dominado por tecnología, parecido al presente.\n• Las críticas sociales planteadas por Huxley se reflejan en tendencias actuales de consumo masivo.\n• Nos invita a reflexionar sobre el equilibrio entre la tecnología y la naturaleza humana.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqx2zdkgk48ko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-17T11:38:11.000Z",
-      "teaser": "Lo clave en 20 segundos: La novela de Huxley anticipó realidades actuales como el consumo y el control social.",
+      "teaser": "Lo clave en 20 segundos: Huxley anticipó inquietantes realidades sobre la tecnología y la sociedad moderna.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ecc0/live/ccafd900-b245-11f1-85fd-79ee2e228456.jpg",
       "description": "La obra del inglés Aldous Huxley ha inspirado a decenas de escritores de ciencia ficción desde su publicación en 1932. Mucho de lo que inventó hoy es realidad.",
       "featured": false
@@ -1239,11 +1265,11 @@
       "slug": "medio-siglo-de-transparencia-y-control-la-auditoria-interna-del-tec-celebra-50-anos-de-trayectoria-al-servicio-de-la-ins",
       "title": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "category": "Costa Rica",
-      "bullets_20s": "• La Auditoría Interna del TEC celebra 50 años de trayectoria en el fortalecimiento institucional y control interno.\n• Este aniversario marca un hito importante en la gestión operativa y el desarrollo universitario del TEC.\n• El evento reunió a autoridades, exauditores y familia de quienes contribuyeron a la auditoría a lo largo del tiempo.\n• Se discutieron los retos actuales en relación con la tecnología y la inteligencia artificial en la auditoría.\n• Se destacó la importancia de la ética y profesionalismo en el trabajo de los auditores y colaboradores del TEC.",
+      "bullets_20s": "• La Auditoría Interna del TEC conmemora 50 años de servicio ininterrumpido y compromiso ético.\n• La celebración destaca el papel de la auditoría en la rendición de cuentas y la mejora continua.\n• Exauditores y autoridades del TEC se reunieron para honrar la trayectoria de la Auditoría Interna.\n• La importancia de la ética y la capacidad técnica de los auditores fue resaltada durante el evento.\n• La inteligencia artificial se perfila como herramienta clave en la fiscalización actual del TEC.\n• El legado de cinco décadas de la Auditoría se refleja en una universidad más transparente y eficiente.\n• La Concejalía General subrayó el reto actual de proteger datos en la era digital.\n• Se rindieron homenajes a exauditores y un emotivo tributo a Manuel Bonilla Cordero.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/medio-siglo-transparencia-control-auditoria-interna-tec-celebra-50-anos-trayectoria-servicio",
       "publish_date": "2026-10-15T21:59:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de aniversario de la Auditoría Interna del TEC con enfoque en su papel fundamental.",
+      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de la Auditoría Interna del TEC, un hito en transparencia.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/auditoria-8.jpeg",
       "description": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "featured": false
@@ -1382,11 +1408,11 @@
       "slug": "cuatro-candidaturas-aspiran-a-la-direccion-del-campus-tecnologico-local-san-carlos",
       "title": "Cuatro candidaturas aspiran a la Dirección del Campus Tecnológico Local San Carlos",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tribunal Institucional Electoral anunció los candidatos a dirigir el Campus Tecnológico Local San Carlos.\n• Las elecciones para la dirección del campus se celebrarán el 12 de noviembre de 2026.\n• Las candidaturas incluyen: Erick Pérez, Oscar Córdoba, Alfredo Alfaro y Marco Juárez.\n• Se llevarán a cabo actividades de expresión del pensamiento durante el proceso electoral.\n• El proceso electoral garantiza que la comunidad TEC pueda conocer a los candidatos.\n• Se requiere apoyo de un porcentaje de votantes para validar las candidaturas.\n• Las elecciones no se realizaban de forma presencial desde 2019, incremento en la participación.\n• Los resultados se anunciarán el 18 de noviembre, con juramentación prevista para febrero de 2027.\n• El campus tecnológico se ubica en una región estratégica entre importantes destinos turísticos.\n• Las elecciones fomentan el análisis crítico de propuestas entre la comunidad educativa.",
+      "bullets_20s": "• El TIE reconoce oficialmente a cuatro candidaturas para la Dirección del Campus en San Carlos.\n• Las elecciones serán el 12 de noviembre, con un período de campaña desde ahora.\n• Cada candidato debe cumplir requisitos establecidos por el Estatuto Orgánico del TEC.\n• Se realizará una Actividad de expresión del pensamiento el 5 de noviembre en el auditorio del CTEC.\n• La persona electa ejercerá del 1 de marzo de 2027 al 28 de febrero de 2031.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/cuatro-candidaturas-aspiran-direccion-campus-tecnologico-local-san-carlos",
       "publish_date": "2026-10-15T18:47:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Se eligen nuevos líderes para el Campus Tecnológico Local San Carlos en noviembre.",
+      "teaser": "Lo clave en 20 segundos: Cuatro candidatos para la Dirección del campus competirán en noviembre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/entrega-procedencia-tie-san-carlos_rcascante-06.jpg",
       "description": "Cuatro candidaturas aspiran a la Dirección del Campus Tecnológico Local San Carlos",
       "featured": false
@@ -2292,11 +2318,11 @@
       "slug": "el-tec-lidera-el-sector-de-educacion-superior-en-los-rankings-de-reputacion-y-responsabilidad-de-merco-2026",
       "title": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC se posiciona primero en educación superior según Merco Empresas 2026 por segundo año consecutivo.\n• La institución se destaca por su compromiso con la reputación y responsabilidad corporativa en Costa Rica.\n• Merco Talento ubica al TEC en el tercer lugar del sector de educación superior, tras UNA y UCR.\n• La evaluación de Merco incluye un amplio número de encuestas de expertos y consumidores.\n• La metodología de Merco fue revisada por KPMG, garantizando la transparencia y confianza de sus resultados.",
+      "bullets_20s": "• El Tecnológico de Costa Rica logra el primer lugar en Merco Empresas y Merco Responsabilidad.\n• El TEC ocupa el tercer puesto en Merco Talento entre instituciones de educación superior.\n• Merco evalúa la reputación de organizaciones desde el año 2000 en varios países.\n• La clasificación general sitúa al TEC en el puesto 12 entre 200 organizaciones.\n• El estudio se basa en encuestas y opiniones de expertos y consumidores.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-lidera-sector-educacion-superior-rankings-reputacion-responsabilidad-merco-2026",
       "publish_date": "2026-10-14T15:01:35.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC se destaca en Merco 2026 como líder en educación superior en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El TEC triunfa en Merco 2026 llegando a la cima del sector educativo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/diseno-sin-titulo-4.png",
       "description": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
       "featured": false
@@ -2331,11 +2357,11 @@
       "slug": "mesa-de-dialogo-nineces-y-adolescencias-lgbtiaq",
       "title": "Mesa de Diálogo: Niñeces y adolescencias LGBTIAQ+",
       "category": "Costa Rica",
-      "bullets_20s": "• La Mesa de Diálogo busca promover una discusión sobre la niñez y adolescencia LGBTIQ+.\n• Se acentúa la importancia de conocer los derechos de esta población en el país.\n• Habrá capacitaciones sobre herramientas para el cambio social y la inclusión.\n• Convocan a participar en una actividad con alimentación incluida para los asistentes.\n• El evento se llevará a cabo en el Tecnológico de Costa Rica en Zapote.\n• Se espera una amplia participación de la comunidad y expertos en el tema.\n• Las conversaciones se centrarán en desafíos y derechos pendientes de la población.\n• Se fomenta la construcción de comunidades más inclusivas y empáticas.\n• La audiencia general es bienvenida a participar en estas capacitaciones.\n• Se menciona la colaboración con la Subcomisión de Niñez y Adolescencia del CONARE.",
+      "bullets_20s": "• El evento busca generar un espacio de diálogo para la comunidad LGBTIQ+ en Costa Rica.\n• Se abordará la situación actual que enfrenta la niñez y adolescencia LGBTIAQ+.\n• Se discutirán los derechos y los desafíos que aún persisten en la sociedad.\n• Ofrecerá herramientas que promuevan cambios sociales en favor de esta comunidad.\n• Se invita a la población a inscribirse para participar en el diálogo inclusivo.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/mesa-dialogo-nineces-adolescencias-lgbtiaq",
       "publish_date": "2026-10-14T13:53:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Inicia el diálogo sobre LGBTIQ+ en niñez y adolescencia en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Participa en la Mesa de Diálogo sobre niñeces LGBTIAQ+ en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/izo_bandera_diversidad_nruiz_11_0.jpg",
       "description": "Mesa de Diálogo: Niñeces y adolescencias LGBTIAQ+",
       "featured": false
@@ -112672,10 +112698,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-17T16:45:25.787Z",
-  "total": 8667,
-  "removed_soccer_news_count": 1398,
+  "generated_at": "2026-10-17T17:45:26.171Z",
+  "total": 8669,
+  "removed_soccer_news_count": 1399,
   "removed_soccer_news_titles": [
+    "Keylor Navas vuelve a brillar y frustra a Miguel ‘Piojo’ Herrera",
     "Sporting vs. San Carlos: Solo hay una forma de ver este partido",
     "Costa Rica hace historia y lleva por primera vez tres gimnastas al Mundial Mayor en Europa",
     "Keylor Navas juega contra el equipo de Miguel ‘Piojo’ Herrera en este momento: véalo en este canal",
@@ -112724,7 +112751,6 @@
     "Cartaginés vs. Puntarenas: Hora y canal para no perderse este partido",
     "Keylor Navas vivió una locura de partido con Pumas",
     "¡Al rojo vivo! Tabla de posiciones en el Torneo de Apertura 2026: así marcha el fútbol en Costa Rica",
-    "Escándalo del Manchester City salpica hasta al primer ministro británico",
-    "Jeyland Mitchell sigue conquistando a la prensa de Francia pese a derrota del Estrasburgo"
+    "Escándalo del Manchester City salpica hasta al primer ministro británico"
   ]
 }
