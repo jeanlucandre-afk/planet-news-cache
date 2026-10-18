@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "presidente-de-asosejud-habria-instalado-tv-por-cable-e-internet-en-su-casa-cargando-el-costo-a-la-asociacion-solidarista",
+      "title": "Presidente de Asosejud habría instalado TV por cable e Internet en su casa cargando el costo a la asociación solidarista, dice OIJ",
+      "category": "Costa Rica",
+      "bullets_20s": "• El OIJ investiga la denuncia sobre el presidente de Asosejud y sus contratos de servicios.\n• Se alega que los costos se cargaron a la asociación de servidores judiciales de manera indebida.\n• Parris Quesada Madrigal es el nombre del presidente implicado en esta situación.\n• Este caso ha levantado preocupaciones sobre el uso de fondos de la asociación solidarista.\n• Los miembros de Asosejud esperan una resolución clara ante estas acusaciones.",
+      "source_name": "Natalia Vargas",
+      "source_url": "https://www.nacion.com/sucesos/presidente-de-asosejud-habria-instalado-tv-por/XVFRBSESGFATRDHAVEPYIP64MI/story/",
+      "publish_date": "2026-10-18T20:20:29.000Z",
+      "teaser": "Lo clave en 20 segundos: Presidente de Asosejud bajo la lupa por costos indebidos de servicios personales.",
+      "image_url": "https://www.nacion.com/resizer/v2/4PJBVY3VJNFHNDHRJ2EBWKN66I.JPG?auth=489eae0d7ffbc0579991c747cc6e3fd354b34c2fb0b5d63daa3d6f022a5cf1dd&smart=true&width=4000&height=2667",
+      "description": "El presidente de la entidad, Parris Quesada Madrigal, habría tramitado un contrato personal de internet y televisión por cable cuyo costo se cargó a las cuentas de la Asociación Solidarista de Servidores Judiciales (Asosejud).",
+      "featured": false
+    },
+    {
+      "slug": "violentas-protestas-en-albania-presionan-al-primer-ministro-edi-rama-quien-rechaza-dimitir",
+      "title": "Violentas protestas en Albania presionan al primer ministro Edi Rama, quien rechaza dimitir",
+      "category": "Mundo",
+      "bullets_20s": "• El primer ministro de Albania, Edi Rama, enfrenta una gran presión social debido a protestas masivas.\n• Las manifestaciones han resultado en enfrentamientos violentos con las fuerzas de policía en el país.\n• Los ciudadanos demandan cambios en políticas y mejoras en la situación económica y social.\n• Rama ha rechazado la dimisión, afirmando que no cederá ante la presión de los manifestantes.\n• Algunos analistas advierten sobre el riesgo de escalada en la violencia y tensiones políticas.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/violentas-protestas-en-albania-presionan-al-primer/WJFRYF3JLNDCBDT33MR2WOFQFU/story/",
+      "publish_date": "2026-10-18T20:17:51.000Z",
+      "teaser": "Lo clave en 20 segundos: Protestas masivas en Albania enfrentan al primer ministro Edi Rama, quien se niega a dimitir.",
+      "image_url": "https://www.nacion.com/resizer/v2/4LA2TWIWOFB3RKZCHDLCRSGG5U.jpg?auth=f7039cdd9210af8b664576adb16033194534330af03a11692851145baf1415d6&smart=true&width=7200&height=4800",
+      "description": "Albania suma seis días de protestas contra Edi Rama. Los enfrentamientos entre manifestantes y policías dejan 272 heridos desde el martes.",
+      "featured": false
+    },
+    {
+      "slug": "los-villanos-de-hollywood-de-esta-temporada-los-magnates-tecnologicos-de-musk-a-zuckerberg",
+      "title": "¿Los villanos de Hollywood de esta temporada? Los magnates tecnológicos, de Musk a Zuckerberg",
+      "category": "Mundo",
+      "bullets_20s": "• El cine explora la caída de figuras tecnológicas en Hollywood, atrayendo gran atención mediática.\n• Elon Musk y Mark Zuckerberg son retratados en nuevas producciones cinematográficas y documentales.\n• Las controversias de estos magnates generan debates sobre la ética en la tecnología.\n• Las historias presentadas ofrecen perspectivas sobre el impacto social de la tecnología moderna.\n• Se espera que las películas generen discusión entre el público sobre su relevancia actual.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/ancora/los-villanos-de-hollywood-de-esta-temporada-los/I6DGPY7YRZFQ7DBX2D26ZLFTSM/story/",
+      "publish_date": "2026-10-18T19:57:10.000Z",
+      "teaser": "Lo clave en 20 segundos: Hollywood retrata la caída de magnates tecnológicos en nuevos estrenos.",
+      "image_url": "https://www.nacion.com/resizer/v2/KKJXIK3XDJHMLEY4GSVJMB3JXM.jpg?auth=f886c83426f465728f89f2f95dd6af76b6c9d217bf074c4504c2c86b239b33aa&smart=true&width=1200&height=835",
+      "description": "Hollywood lleva al cine la caída y controversias de Elon Musk, Mark Zuckerberg, Elizabeth Holmes y Sam Altman. Descubra los nuevos estrenos.",
+      "featured": false
+    },
+    {
       "slug": "cortes-de-luz-en-cartago-jasec-suspendera-el-servicio-este-martes-20-de-octubre",
       "title": "Cortes de luz en Cartago: Jasec suspenderá el servicio este martes 20 de octubre",
       "category": "Costa Rica",
@@ -212,11 +251,11 @@
       "slug": "cuanto-aporta-la-rica-provincia-de-alberta-a-la-economia-de-canada-y-que-pasaria-si-logra-la-independencia",
       "title": "Cuánto aporta la rica provincia de Alberta a la economía de Canadá y qué pasaría si logra la independencia",
       "category": "Mundo",
-      "bullets_20s": "• Alberta es una de las provincias más ricas de Canadá gracias a sus recursos naturales.\n• La votación de este lunes podría marcar un cambio histórico para la provincia.\n• La población está dividida entre los que quieren independencia y quienes prefieren permanecer.\n• Economistas analizan el impacto económico de una posible independencia de Alberta.\n• El referendo podría tener implicaciones políticas para el resto de Canadá.",
+      "bullets_20s": "• Alberta es una de las provincias más ricas de Canadá, conocida por sus recursos naturales.\n• La independencia podría cambiar significativamente la economía y política canadiense.\n• Este referendo es un tema muy debatido y genera opiniones divididas en toda la población.\n• La votación de este lunes es un paso importante hacia la decisión sobre la independencia.\n• Los posibles impactos económicos se están analizando por expertos de diversas áreas.\n• Alberta contribuiría de distintas maneras si se convierte en un país independiente.\n• El futuro de Alberta podría influir en otras provincias con movimientos secesionistas.\n• La comunidad internacional observa de cerca cómo se desarrollará este proceso.\n• El referendo vinculante marcaría un hito en la historia política de Canadá.\n• Las opiniones de los líderes políticos también están influyendo en el clima de votación.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c95yng8me7vmo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-18T13:12:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Alberta vota sobre su posible independencia de Canadá.",
+      "teaser": "Lo clave en 20 segundos: ¿Qué pasará con la rica Alberta si opta por la independencia de Canadá?",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/08ab/live/c621b760-caf6-11f1-acd8-5f0e740dfa92.jpg",
       "description": "Los habitantes de Alberta votan este lunes sobre si seguir siendo parte de Canadá o avanzar hacia un referendo vinculante de independencia.",
       "featured": false
@@ -342,12 +381,12 @@
       "slug": "como-el-arroz-puede-ayudar-a-construir-las-casas-del-futuro",
       "title": "Cómo el arroz puede ayudar a construir las casas del futuro",
       "category": "Ciencia",
-      "bullets_20s": "• La cáscara de arroz, un residuo agrícola, se utiliza en la construcción moderna.\n• Materiales innovadores están transformando las casas del futuro utilizando residuos.\n• La sostenibilidad es clave en la construcción de viviendas con cáscara de arroz.\n• La investigación continúa para mejorar las propiedades del material de construcción.\n• El uso de materiales reciclados reduce el impacto en el medio ambiente.",
+      "bullets_20s": "• La cáscara de arroz presenta una alternativa sostenible para la construcción moderna en el mundo.\n• Los residuos agrícolas como la cáscara pueden ser utilizados en materiales de construcción innovadores.\n• Este nuevo enfoque podría reducir el impacto ambiental de la industria de la construcción globalmente.\n• Investigadores analizan la resistencia y durabilidad de materiales a base de cáscara de arroz.\n• La utilización del arroz en la construcción puede favorecer economías agrícolas a nivel mundial.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cm1j3pjg76x2o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-18T10:39:23.000Z",
-      "teaser": "Lo clave en 20 segundos: el arroz puede revolucionar la construcción sostenible.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/aaff/live/17b9cbb0-c658-11f1-a64c-550be9e3c66b.jpg",
+      "teaser": "Lo clave en 20 segundos: El arroz puede ser el futuro en la construcción sostenible.",
+      "image_url": "",
       "description": "La cáscara de arroz es un residuo de la agricultura notoriamente complicado para el medio ambiente, pero ahora está siendo reconvertido en un material de construcción fuerte y resistente.",
       "featured": false
     },
@@ -433,11 +472,11 @@
       "slug": "un-yate-con-una-piscina-de-50-metros-y-toboganes-acuaticos-imagenes-satelitales-revelan-el-lujoso-complejo-de-vacaciones",
       "title": "Un yate con una piscina de 50 metros y toboganes acuáticos: imágenes satelitales revelan el lujoso complejo de vacaciones de Kim Jong-un en Corea del Norte",
       "category": "Mundo",
-      "bullets_20s": "• Imágenes satelitales muestran un yate extravagantemente equipado en Corea del Norte.\n• El yate tiene una piscina de 50 metros y varios toboganes acuáticos.\n• Los lujos de la embarcación contrastan con la vida cotidiana en Norcorea.\n• Kim Jong-un suele disfrutar de vacaciones en este lujoso complejo de moda.\n• El hallazgo saca a la luz la desigualdad en el acceso a recursos en el país.",
+      "bullets_20s": "• Imágenes satelitales muestran lujosos complejos vacacionales en Corea del Norte.\n• Kim Jong-un ha sido objeto de análisis por su ostentoso estilo de vida.\n• Los lujos contrastan con la realidad de la mayoría de los norcoreanos.\n• El yate incluye una piscina de grandes dimensiones y toboganes para diversión.\n• Las vacaciones de Kim destacan la diferencia socioeconómica en el país.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c63r59qq0vd3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-18T03:59:17.000Z",
-      "teaser": "Lo clave en 20 segundos: lujos de Kim en Corea del Norte contrastan con la vida de los norcoreanos.",
+      "teaser": "Lo clave en 20 segundos: imágenes satelitales muestran el lujoso yate de Kim Jong-un.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a208/live/829d3600-c861-11f1-9a39-31b474234113.png",
       "description": "La BBC sigue la pista de una embarcación de 80 metros de largo equipada con toboganes acuáticos para saber más sobre cómo Kim pasa sus vacaciones, algo inalcanzable para la mayoría de los norcoreanos.",
       "featured": false
@@ -2032,11 +2071,11 @@
       "slug": "medio-siglo-de-transparencia-y-control-la-auditoria-interna-del-tec-celebra-50-anos-de-trayectoria-al-servicio-de-la-ins",
       "title": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebra 50 años de su Auditoría Interna como pilar institucional.\n• La auditoría ha mejorado la gestión operativa y promovido la transparencia en su labor.\n• La conmemoración reunió a autoridades, exauditores y familiares en un acto significativo.\n• El licenciado Pérez resaltó la importancia de la ética y el compromiso de los auditores.\n• Los retos actuales incluyen la digitalización y transformación tecnológica en el control.\n• Se presentó un proyecto de Asistente de Auditoría basado en Inteligencia Artificial.\n• La comunidad del TEC fue instada a enfrentar los desafíos con innovación y transparencia.\n• La Auditoría ha evolucionado para adaptarse a un entorno institucional cambiante.\n• Se rindieron homenajes a exauditores y a quienes han dejado un legado en la institución.\n• El evento fue enriquecido por una presentación cultural de la Orquesta de Guitarras.",
+      "bullets_20s": "• El Tecnológico de Costa Rica conmemora el 50 aniversario de su Auditoría Interna con una ceremonia significativa.\n• La Auditoría Interna ha sido un pilar en el control y la rendición de cuentas de la institución por cinco décadas.\n• La celebración incluyó discursos sobre la importancia de la ética y el compromiso en el servicio público.\n• Se destacó la transformación de la Auditoría frente a los retos tecnológicos, como la inteligencia artificial.\n• Se realizó un homenaje a exauditores que han dejado un legado en la institución durante estos años.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/medio-siglo-transparencia-control-auditoria-interna-tec-celebra-50-anos-trayectoria-servicio",
       "publish_date": "2026-10-15T21:59:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración por 50 años de la Auditoría Interna del TEC destaca su impacto y futuro.",
+      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de la Auditoría Interna del TEC, pilar de transparencia y control.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/auditoria-8.jpeg",
       "description": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "featured": false
@@ -2175,11 +2214,11 @@
       "slug": "cuatro-candidaturas-aspiran-a-la-direccion-del-campus-tecnologico-local-san-carlos",
       "title": "Cuatro candidaturas aspiran a la Dirección del Campus Tecnológico Local San Carlos",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tribunal Institucional Electoral entregó las procedencias a cuatro candidaturas en el TEC.\n• La elección para el nuevo director del campus será el 12 de noviembre de 2026.\n• Se realizarán actividades como la expresión del pensamiento el 5 de noviembre.\n• Erick José Pérez, Oscar Gerardo Córdoba, Alfredo Elías y Marco Antonio son los postulantes.\n• El proceso de campaña se abre oficialmente desde el 15 de octubre hasta el 11 de noviembre.",
+      "bullets_20s": "• El Tribunal Institucional Electoral entregó procedencias a las candidaturas del Campus Tecnológico de San Carlos.\n• Las elecciones para la nueva dirección se llevarán a cabo el 12 de noviembre de 2026.\n• La Actividad de expresión del pensamiento se realizará el 5 de noviembre de 2026 en el Auditorio de CTEC.\n• Cuatro personas pasarán a la campaña política para el periodo 2027-2031 del Campus Tecnológico Local.\n• Cada candidatura presentará propuestas que serán expuestas ante la comunidad institucional en noviembre.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/cuatro-candidaturas-aspiran-direccion-campus-tecnologico-local-san-carlos",
       "publish_date": "2026-10-15T18:47:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Cuatro aspirantes a dirigir el Campus Tecnológico San Carlos se preparan para las elecciones.",
+      "teaser": "Lo clave en 20 segundos: Cuatro candidatos compiten por la Dirección del Campus Tecnológico Local San Carlos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/entrega-procedencia-tie-san-carlos_rcascante-06.jpg",
       "description": "Cuatro candidaturas aspiran a la Dirección del Campus Tecnológico Local San Carlos",
       "featured": false
@@ -3082,6 +3121,19 @@
       "featured": false
     },
     {
+      "slug": "el-tec-lidera-el-sector-de-educacion-superior-en-los-rankings-de-reputacion-y-responsabilidad-de-merco-2026",
+      "title": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC ocupa el primer lugar del sector educativo en Merco Empresas y Merco Responsabilidad.\n• Es la única institución de educación superior en el top 20 general de Merco Empresas.\n• En Merco Talento, el TEC se sitúa en el tercer lugar entre universidades de Costa Rica.\n• Merco evalúa la reputación de organizaciones desde el año 2000 en 20 países.\n• Más de 22.000 encuestas respaldan los resultados de Merco 2026 en Costa Rica.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/tec-lidera-sector-educacion-superior-rankings-reputacion-responsabilidad-merco-2026",
+      "publish_date": "2026-10-14T15:01:35.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC lidera en reputación y responsabilidad educativa según Merco 2026.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/diseno-sin-titulo-4.png",
+      "description": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026.",
+      "featured": false
+    },
+    {
       "slug": "carlos-barahona-sale-esposado-hacia-tribunales-por-caso-gota-a-gota-ver-video",
       "title": "Carlos Barahona sale esposado hacia Tribunales por caso gota a gota (ver video)",
       "category": "Costa Rica",
@@ -3111,11 +3163,11 @@
       "slug": "mesa-de-dialogo-nineces-y-adolescencias-lgbtiaq",
       "title": "Mesa de Diálogo: Niñeces y adolescencias LGBTIAQ+",
       "category": "Costa Rica",
-      "bullets_20s": "• La Mesa de Diálogo busca abordar las realidades de niñeces y adolescencias LGBTIAQ+ en el contexto costarricense.\n• Se analizarán los derechos de esta población y su situación actual en la sociedad costarricense.\n• El evento es organizado por la Subcomisión de Niñez y Adolescencia del CONARE.\n• Habrá capacitaciones sobre herramientas para fomentar el cambio social inclusivo.\n• La participación incluye discusión sobre los desafíos pendientes que enfrenta la comunidad LGBTIAQ+.",
+      "bullets_20s": "• La Mesa de Diálogo busca abordar la situación actual de las niñeces LGBTIAQ+ en Costa Rica.\n• Se conversará sobre los derechos de esta población y los desafíos que enfrentan diariamente.\n• Se proporcionarán herramientas para promover el cambio social en favor de la inclusión.\n• El evento será el 24 de octubre de 2026 en el Tecnológico de Costa Rica, Zapote.\n• La subcomisión de Niñez y Adolescencia del CONARE será organizadora de este importante encuentro.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/mesa-dialogo-nineces-adolescencias-lgbtiaq",
       "publish_date": "2026-10-14T13:53:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Participa en la Mesa de Diálogo sobre niñez y adolescencia LGBTIAQ+ en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Mesa de Diálogo sobre derechos de niñeces LGBTIAQ+ en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/izo_bandera_diversidad_nruiz_11_0.jpg",
       "description": "Mesa de Diálogo: Niñeces y adolescencias LGBTIAQ+",
       "featured": false
@@ -3599,19 +3651,6 @@
       "teaser": "Lo clave en 20 segundos: Aprueban ley para proteger legalmente a policías demandados.",
       "image_url": "https://www.nacion.com/resizer/v2/YETXG74ER5F4XM7WWAZBTEDUHQ.JPG?smart=true&auth=81dc08d51c3aed345b4c15d4f073cf04393d87fe700dccca84025770ff9632dd&width=1440",
       "description": "Reforma incluye un inciso en la Ley General de Policía y fue aprobada de forma unánime por 51 legisladores",
-      "featured": false
-    },
-    {
-      "slug": "el-tec-lidera-el-sector-de-educacion-superior-en-los-rankings-de-reputacion-y-responsabilidad-de-merco-2026",
-      "title": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
-      "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica obtuvo el primer lugar en Merco Empresas y Merco Responsabilidad este año.\n• El TEC es la única institución de educación superior en el grupo de las 20 mejores en general.\n• En Merco Talento, el TEC se posicionó en el tercer lugar en el sector de educación superior.\n• La clasificación de Merco se realiza desde 2000 y tiene alcance en Iberoamérica y Estados Unidos.\n• En la evaluación participaron 22.735 encuestas y diversos expertos de distintas áreas y sectores.",
-      "source_name": "m.molina",
-      "source_url": "http://www.tec.ac.cr/tec-lidera-sector-educacion-superior-rankings-reputacion-responsabilidad-merco-2026",
-      "publish_date": "2026-10-14T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC destaca en Merco 2026, liderando la educación superior por su reputación y responsabilidad.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/diseno-sin-titulo-4.png",
-      "description": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
       "featured": false
     },
     {
@@ -113465,8 +113504,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-18T19:45:25.706Z",
-  "total": 8728,
+  "generated_at": "2026-10-18T20:45:26.020Z",
+  "total": 8731,
   "removed_soccer_news_count": 1406,
   "removed_soccer_news_titles": [
     "Lo que hizo el mexicano Ronaldo Cisneros con un niño quedó grabado y se vuelve viral (video)",
