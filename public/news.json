@@ -1,27 +1,53 @@
 {
   "news": [
     {
+      "slug": "los-hijos-temporales-que-los-ancianos-contratan-en-china-para-combatir-la-soledad",
+      "title": "Los hijos temporales que los ancianos contratan en China para combatir la soledad",
+      "category": "Mundo",
+      "bullets_20s": "• En China, la soledad entre los ancianos ha llevado a soluciones innovadoras y sorprendentes.\n• Los 'hijos temporales' ofrecen compañía a personas mayores que se sienten solas en sus hogares.\n• Este fenómeno ha creado una nueva industria dedicada a conectar ancianos con jóvenes.\n• El aumento de la población anciana en China está impulsando la demanda de estos servicios.\n• La interacciones entre generaciones están transformando la forma en que se enfrenta la soledad.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cmx2we79kxzdo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-10-19T10:00:33.000Z",
+      "teaser": "Lo clave en 20 segundos: Ancianos en China contratan compañía temporal para combatir la soledad creciente.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b9da/live/237a3550-cba5-11f1-9a39-31b474234113.jpg",
+      "description": "A medida que aumenta la soledad en China, está surgiendo una nueva industria para brindar compañía y apoyo.",
+      "featured": false
+    },
+    {
+      "slug": "cuatro-cooperativas-pequenas-enfrentan-incremento-en-morosidad-crediticia",
+      "title": "Cuatro cooperativas pequeñas enfrentan incremento en morosidad crediticia",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las cooperativas pequeñas se ven afectadas por el aumento en la morosidad crediticia de sus clientes.\n• Este incremento en morosidad afecta la liquidez y solvencia de estas instituciones cooperativas.\n• Los clientes presentan dificultades para cumplir con sus obligaciones crediticias actuales.\n• El indicador de morosidad es un reflejo del estado económico de los hogares costarricenses.\n• El contexto económico del país influye directamente en la capacidad de pago de los clientes.",
+      "source_name": "Luis Enrique Brenes",
+      "source_url": "https://www.nacion.com/economia/cuatro-cooperativas-pequenas-enfrentan-incremento/K34VBB7CERAMPBHQBOKNBJHM2A/story/",
+      "publish_date": "2026-10-19T09:45:00.000Z",
+      "teaser": "Lo clave en 20 segundos: incremento en morosidad afecta cooperativas costarricenses pequeñas.",
+      "image_url": "https://www.nacion.com/resizer/v2/DMCGVD24NREUJOJZAVVB4QXTC4.jpg?auth=cfd32d79d883b9ddb50364e3371cc46b35ad09de8dc52bf53ed0d68618b8b32c&smart=true&width=6000&height=4000",
+      "description": "El indicador, que funciona como termómetro de la capacidad de pago de los clientes, creció con fuerza en las cooperativas de menor tamaño.",
+      "featured": false
+    },
+    {
       "slug": "alza-en-combustibles-presiona-costos-de-operacion-de-autobuseros-y-encareceria-tarifas",
       "title": "Alza en combustibles presiona costos de operación de autobuseros y encarecería tarifas",
       "category": "Costa Rica",
-      "bullets_20s": "• El aumento en el precio del diésel impacta los costos de operación de las empresas de autobuses.\n• Canatrans solicita a Aresep medidas para mitigar el impacto en los usuarios del transporte público.\n• Los autobuseros enfrentan retos significativos para mantener tarifas accesibles ante el aumento de costos.\n• La situación genera incertidumbre sobre el futuro de las tarifas del transporte público en el país.\n• Se prevé que el incremento en combustibles agrave problema económico del sector del transporte.",
+      "bullets_20s": "• El precio del diésel ha incrementado, impactando los costos operativos de las empresas de transporte.\n• Las tarifas del servicio de autobuses podrían aumentar si no se toman medidas adecuadas.\n• Canatrans solicita a Aresep intervenir para mitigar el impacto del alza en combustibles.\n• El aumento de tarifas afectaría a los usuarios que dependen del transporte público en el país.\n• La situación actual refleja una problemática más amplia sobre los precios de combustibles en Costa Rica.",
       "source_name": "Mónica Cerdas Gómez",
       "source_url": "https://www.nacion.com/economia/alza-en-combustibles-presiona-costos-de-operacion/IPMISNDECFAVDKN7WUZZWIHYVE/story/",
       "publish_date": "2026-10-19T09:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: El aumento del diésel presiona costos de autobuseros, podrían subir tarifas.",
+      "teaser": "Lo clave en 20 segundos: El aumento del diésel presiona costos operativos de autobuseros en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/NWTQU5A455CUBDMU7KRGFJGQUQ.JPG?auth=97ba5c3808d38297f70679bce60b0c91d0ef782444bd1828480d9007fc0567b4&smart=true&width=4000&height=2666",
-      "description": "El aumento del diésel afecta la operación de autobuses en Costa Rica. Canatrans pide medidas a Aresep para evitar trasladar todo el costo a usuarios",
+      "description": "El aumento del diésel afecta la operación de autobuses en Costa Rica. Canatrans pide medidas a Aresep para evitar trasladar todo el costo a usuarios.",
       "featured": false
     },
     {
       "slug": "consumidores-enfrentarian-precios-mas-altos-por-alza-en-combustibles-segun-presidente-del-banco-central",
       "title": "Consumidores enfrentarían precios más altos por alza en combustibles, según presidente del Banco Central",
       "category": "Costa Rica",
-      "bullets_20s": "• El aumento en los precios de los combustibles impactará a diversos sectores económicos en Costa Rica.\n• Se anticipa que los consumidores sentirán la presión económica por el encarecimiento de los hidrocarburos.\n• El Banco Central advirtió sobre el efecto en el costo de vida debido a este incremento.\n• Se espera que los precios más altos afecten principalmente a bienes y servicios esenciales.\n• Este fenómeno económico podría generar reacciones en el mercado y ajustes en políticas públicas.",
+      "bullets_20s": "• El alza en combustibles podría generar un aumento en los precios de bienes y servicios en el país.\n• Se espera que los consumidores sientan el impacto en su poder adquisitivo debido a los nuevos costos.\n• El presidente del Banco Central advierte sobre la situación crítica de los hidrocarburos en Costa Rica.\n• Expertos analizan los efectos a largo plazo de esta alza en la economía nacional y familiar.\n• Se anticipan medidas y estrategias del gobierno para mitigar el impacto en la población.",
       "source_name": "Mónica Cerdas Gómez",
       "source_url": "https://www.nacion.com/economia/consumidores-enfrentarian-precios-mas-altos-por/IIMNFD3EKVFV3FDVYWWNABSDEQ/story/",
       "publish_date": "2026-10-19T08:15:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Combustibles más caros podrían afectar la economía de los consumidores en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El aumento en combustibles podría agravar la situación económica en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/HWKVJTX3EFFBBEMWZKH2VY72VQ.jpg?auth=2db358a6df77ef0a5b61959bae95e0ec07ac4cde61e8096d0542cf975b62dded&smart=true&width=3000&height=2000",
       "description": "Combustibles más caros amenazan el bolsillo en Costa Rica. Vea cuándo y por cuáles vías impactará el alza de los hidrocarburos según el BCCR",
       "featured": false
@@ -30,7 +56,7 @@
       "slug": "carlo-diaz-se-juega-hoy-su-reeleccion-como-fiscal-general-quienes-lo-apoyan-y-cuales-tensiones-rodean-la-votacion",
       "title": "Carlo Díaz se juega hoy su reelección como fiscal general: quiénes lo apoyan y cuáles tensiones rodean la votación",
       "category": "Costa Rica",
-      "bullets_20s": "• Carlo Díaz se postula hoy para su reelección como fiscal general en Costa Rica.\n• Se espera un proceso de votación lleno de tensiones entre diferentes grupos políticos.\n• La cantidad de votos necesarios para su reelección se ha convertido en un tema clave.\n• Los apoyos que ha recibido son diversos y reflejan diferentes intereses políticos.\n• Las consecuencias de no ser reelegido se discuten entre analistas y comentaristas.",
+      "bullets_20s": "• Carlo Díaz se presenta para su reelección como fiscal general en el país.\n• La votación se lleva a cabo hoy, un momento clave para su carrera.\n• Existen tensiones políticas alrededor de su candidatura y reelección.\n• Díaz cuenta con el respaldo de varios sectores y figuras influyentes.\n• Hot topics incluyen los votos necesarios para su permanencia en el cargo.\n• La situación es crítica si no logra obtener la reelección deseada.\n• Su gestión ha sido objeto de análisis y debate en los medios.\n• Los ciudadanos observan con atención el desarrollo de esta votación.",
       "source_name": "Cristian Mora",
       "source_url": "https://www.nacion.com/sucesos/carlo-diaz-se-juega-hoy-su-reeleccion-como-fiscal/DDJOF6CPTZG2RIP3WPVEOEQGL4/story/",
       "publish_date": "2026-10-19T07:30:00.000Z",
@@ -43,11 +69,11 @@
       "slug": "ccss-evalua-utilizar-las-terapias-glp-1-para-tratar-la-obesidad-conozca-como-funcionan-estos-medicamentos-y-cuanto-peso-",
       "title": "CCSS evalúa utilizar las terapias GLP-1 para tratar la obesidad. Conozca cómo funcionan estos medicamentos y cuánto peso se puede perder",
       "category": "Costa Rica",
-      "bullets_20s": "• La CCSS está considerando nuevas alternativas para el tratamiento de la obesidad en Costa Rica.\n• Las terapias GLP-1 están siendo estudiadas por su efectividad en la reducción de peso.\n• Estos medicamentos se han popularizado en el ámbito de la salud en diferentes países.\n• La obesidad es un problema creciente que afecta la salud de muchos costarricenses.\n• Se sabe que la pérdida de peso puede mejorar la calidad de vida de las personas.",
+      "bullets_20s": "• Las terapias GLP-1 son medicamentos utilizados para el tratamiento de la obesidad en pacientes.\n• CCSS considera la efectividad de estas terapias en la población costarricense con sobrepeso.\n• Los fármacos GLP-1 ayudan a regular el apetito y a mejorar la salud metabólica del paciente.\n• Se están analizando los costos y la accesibilidad de estos tratamientos en el país.\n• Estos medicamentos ya están disponibles en farmacias privadas bajo varios nombres comerciales.",
       "source_name": "Fernanda Matarrita Chaves",
       "source_url": "https://www.nacion.com/el-pais/ccss-evalua-utilizar-las-terapias-glp-1-para/OLF3JU4VJVGG5GDSDG3YEFW4JE/story/",
       "publish_date": "2026-10-19T07:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: CCSS evalúa las terapias GLP-1 para el tratamiento de la obesidad en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: La CCSS investiga el uso de terapias GLP-1 contra la obesidad en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/3QTEH3SPCJGABPJ7XC3AZCBH24.jpeg?auth=d0d06ce8caea05d804f1f98f5882756716dfd0a61210de4c9352aeb863e9f149&smart=true&width=1890&height=1273",
       "description": "La Caja Costarricense de Seguro Social (CCSS) evalúa usar medicamentos conocidos como terapias GLP-1 para tratar la obesidad. Este tipo de fármacos se han popularizado y en Costa Rica se venden en farmacias privadas bajo los nombres comerciales de Ozempic, Mounjaro y Wegovy.",
       "featured": false
@@ -186,11 +212,11 @@
       "slug": "recorte-de-492-millones-pone-en-riesgo-la-operacion-del-tec-en-limon",
       "title": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "category": "Costa Rica",
-      "bullets_20s": "• El Gobierno propone un recorte de ¢492 millones que afecta al TEC en Limón.\n• La sede atiende a 417 estudiantes desde su apertura en 2014 en Limón.\n• Recursos son indispensables para mantener la operación ordinaria del TEC en la región.\n• El Ministerio de Hacienda confirmó el recorte en los fondos del TEC para este año.\n• La rectora del TEC reclama que la educación no puede soportar más recortes económicos.",
+      "bullets_20s": "• El TEC enfrenta un recorte de ¢492 millones, lo que afecta su operación en Limón.\n• Los estudiantes, en total 417, dependerán de este financiamiento para continuar sus estudios.\n• La ley que protege estos fondos está en riesgo de ser modificada por el Gobierno.\n• El Ministerio de Educación Pública confirma que no se girarán los fondos este año.\n• Las protestas por parte del TEC están dirigidas a la Asamblea Legislativa y al MEP.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/recorte-c492-millones-pone-riesgo-operacion-tec-limon",
       "publish_date": "2026-10-18T22:23:39.000Z",
-      "teaser": "Lo clave en 20 segundos: un recorte pone en riesgo la operación del TEC en Limón.",
+      "teaser": "Lo clave en 20 segundos: El recorte afecta a 417 estudiantes del TEC en Limón, poniendo en riesgo su operación.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/stock_centro-academico-limon-tec-7.jpg",
       "description": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "featured": false
@@ -245,6 +271,19 @@
       "teaser": "Lo clave en 20 segundos: Debate sobre socialismo y democracia en el Frente Amplio durante su asamblea reciente.",
       "image_url": "https://www.nacion.com/resizer/v2/HAXTU7IJDVA7TNKB7SRFDHVVCE.jpeg?auth=82a18f40d445604f60c98145316d8c3e4dad949c0bc29524ec668bd96e33f8c8&smart=true&width=1616&height=1080",
       "description": "Durante la Asamblea Nacional del Frente Amplio (FA) de este domingo, los militantes discutieron sobre el concepto de “socialismo” y “democracia” al revisar uno de los objetivos del V congreso ideológico de la agrupación.",
+      "featured": false
+    },
+    {
+      "slug": "cindy-crawford-habla-por-primera-vez-tras-la-muerte-de-su-hijo-presley-estoy-mas-que-destrozada",
+      "title": "Cindy Crawford habla por primera vez tras la muerte de su hijo Presley: \"Estoy más que destrozada\"",
+      "category": "Mundo",
+      "bullets_20s": "• Cindy Crawford se expresa sobre la muerte de su hijo, impacto emocional profundo.\n• La noticia ha conmocionado a familiares y amigos en el círculo cercano.\n• Se investiga el fallecimiento de Presley Gerber como una posible sobredosis.\n• La familia ha solicitado privacidad en este difícil momento personal.\n• Crawford busca apoyo emocional para superar esta tragedia devastadora.",
+      "source_name": "",
+      "source_url": "https://www.bbc.com/mundo/articles/c5vgjv131nvmo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-10-18T20:44:43.000Z",
+      "teaser": "Lo clave en 20 segundos: Cindy Crawford comparte su dolor tras la pérdida de su hijo.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/5135/live/e11ac810-cb35-11f1-9e57-a506a0943bb2.jpg",
+      "description": "El fallecimiento de Presley Gerber en septiembre está siendo investigada como una posible sobredosis.",
       "featured": false
     },
     {
@@ -524,11 +563,11 @@
       "slug": "cuanto-aporta-la-rica-provincia-de-alberta-a-la-economia-de-canada-y-que-pasaria-si-logra-la-independencia",
       "title": "Cuánto aporta la rica provincia de Alberta a la economía de Canadá y qué pasaría si logra la independencia",
       "category": "Mundo",
-      "bullets_20s": "• Alberta es una de las provincias más ricas de Canadá, con una economía diversificada y productiva.\n• La votación sobre la independencia podría cambiar el rumbo económico del país y de la región.\n• Un referéndum vinculante podría desencadenar una serie de negociaciones a nivel nacional.\n• Las implicaciones de la independencia afectarían tanto a ciudadanos como a empresas en Alberta.\n• El interés por la independencia en Alberta ha crecido en los últimos años debido a diversos factores económicos.\n• Las decisiones de política pública en Alberta podrían ser diferentes si se logra la independencia.\n• El apoyo a la independencia muestra tensiones entre regiones ricas y el gobierno federal en Canadá.",
+      "bullets_20s": "• Alberta es una de las provincias más ricas de Canadá gracias a sus vastos recursos naturales.\n• La economía de Alberta tiene un gran impacto en el PIB nacional de Canadá y otros sectores.\n• Un referendo sobre la independencia podría cambiar completamente la estructura política de Canadá.\n• Las decisiones de Alberta pueden influir en la política económica y ambiental de Canadá.\n• Los habitantes están divididos entre el deseo de independencia y permanecer en el país.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c95yng8me7vmo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-18T13:12:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Alberta vota sobre su independencia y su impacto en la economía de Canadá.",
+      "teaser": "Lo clave en 20 segundos: Alberta debate su futuro y su impacto en la economía canadiense.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/08ab/live/c621b760-caf6-11f1-acd8-5f0e740dfa92.jpg",
       "description": "Los habitantes de Alberta votan este lunes sobre si seguir siendo parte de Canadá o avanzar hacia un referendo vinculante de independencia.",
       "featured": false
@@ -745,11 +784,11 @@
       "slug": "un-yate-con-una-piscina-de-50-metros-y-toboganes-acuaticos-imagenes-satelitales-revelan-el-lujoso-complejo-de-vacaciones",
       "title": "Un yate con una piscina de 50 metros y toboganes acuáticos: imágenes satelitales revelan el lujoso complejo de vacaciones de Kim Jong-un en Corea del Norte",
       "category": "Mundo",
-      "bullets_20s": "• Imágenes satelitales del yate de Kim Jong-un han revelado detalles impresionantes del lujo.\n• El yate cuenta con una piscina de 50 metros y toboganes acuáticos muy llamativos.\n• La BBC investiga el estilo de vida de Kim y su impacto en la población norcoreana.\n• Este lujoso complejo contrasta con las condiciones de vida de la mayoría en Corea del Norte.\n• Las vacaciones de Kim han despertado interés sobre el derroche en un país con escasez.",
+      "bullets_20s": "• Un yate lujoso atrae la atención de los medios por su extravagancia y diseño exclusivo en vacaciones.\n• Kim Jong-un ha sido objeto de análisis por sus hábitos de lujo mientras su país enfrenta dificultades.\n• Imágenes satelitales proporcionan un vistazo detallado al opulento estilo de vida del líder norcoreano.\n• Los toboganes acuáticos en el yate son una característica peculiar que sorprende a los observadores internacionales.\n• La situación económica de Corea del Norte plantea dudas sobre la distribución de la riqueza en el país.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c63r59qq0vd3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-18T03:59:17.000Z",
-      "teaser": "Lo clave en 20 segundos: Un lujoso yate de Kim Jong-un desvela el contraste en Corea del Norte.",
+      "teaser": "Lo clave en 20 segundos: lujo y opulencia en vacaciones de Kim Jong-un en Corea del Norte.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a208/live/829d3600-c861-11f1-9a39-31b474234113.png",
       "description": "La BBC sigue la pista de una embarcación de 80 metros de largo equipada con toboganes acuáticos para saber más sobre cómo Kim pasa sus vacaciones, algo inalcanzable para la mayoría de los norcoreanos.",
       "featured": false
@@ -2344,13 +2383,13 @@
       "slug": "medio-siglo-de-transparencia-y-control-la-auditoria-interna-del-tec-celebra-50-anos-de-trayectoria-al-servicio-de-la-ins",
       "title": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "category": "Costa Rica",
-      "bullets_20s": "• La Auditoría Interna del TEC celebra su 50 aniversario con un evento significativo y emotivo.\n• Cinco décadas de trabajo ininterrumpido han fortalecido el control interno y la rendición de cuentas.\n• La comunidad TEC conmemora el legado histórico y los desafíos actuales de la Auditoría Interna.\n• La inteligencia artificial se presenta como herramienta clave en la modernización de procesos auditoriales.\n• Durante la celebración, se rindieron homenajes a exauditores y se recordó al legado de Manuel Bonilla Cordero.",
+      "bullets_20s": "• La Auditoría Interna del TEC celebra 50 años dedicados al control y la transparencia en su gestión.\n• Este aniversario destaca la importancia de la ética y confianza en el ámbito público y educativo.\n• La inteligencia artificial es vista como un reto y una herramienta clave para la auditoría en la actualidad.\n• El evento contó con la participación de autoridades y exauditores que felicitaron la trayectoria de la institución.\n• Se rindieron homenajes a exauditores, recordando su valiosa contribución al TEC y la auditoría interna.\n• La festividad incluyó un panel sobre desafíos en auditoría y la utilización de inteligencia artificial.\n• La importancia del trabajo colaborativo fue enfatizada para enfrentar los retos actuales en auditoría.\n• La Auditoría Interna se subraya como pilar en la rendición de cuentas y mejora de procesos.\n• El legado de cincuenta años se ve reflejado en la confianza ciudadana en la gestión del TEC.\n• El evento culminó con una emotiva presentación musical por estudiantes de la institución.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/medio-siglo-transparencia-control-auditoria-interna-tec-celebra-50-anos-trayectoria-servicio",
       "publish_date": "2026-10-15T21:59:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de auditoría en el TEC, enfocados en control y transformación tecnológica.",
+      "teaser": "Lo clave en 20 segundos: Celebración del 50 aniversario de la Auditoría Interna del TEC resalta su legado.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/auditoria-8.jpeg",
-      "description": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución.",
+      "description": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "featured": false
     },
     {
@@ -2487,13 +2526,13 @@
       "slug": "cuatro-candidaturas-aspiran-a-la-direccion-del-campus-tecnologico-local-san-carlos",
       "title": "Cuatro candidaturas aspiran a la Dirección del Campus Tecnológico Local San Carlos",
       "category": "Costa Rica",
-      "bullets_20s": "• Las candidaturas son oficiales tras la entrega de procedencias por el TIE del TEC.\n• El periodo de campaña se abre oficialmente desde el 15 de octubre hasta el 11 de noviembre.\n• La elección se llevará a cabo el 12 de noviembre de 9 a.m. a 6 p.m.\n• Este proceso marca el regreso de las elecciones presenciales en el campus desde 2019.\n• Las candidaturas presentaron sus colores y credenciales durante la sesión del TIE.",
+      "bullets_20s": "• Las elecciones para la Dirección del Campus se realizarán el 12 de noviembre de 2026.\n• El proceso electoral busca renovar la dirección del campus por cuatro años.\n• Las candidaturas fueron presentadas por el Tribunal Institucional Electoral del TEC.\n• La entrega de procedencias se dio en el Salón Jacaranda del campus.\n• Las fechas clave incluyen una actividad de expresión el 5 de noviembre.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/cuatro-candidaturas-aspiran-direccion-campus-tecnologico-local-san-carlos",
       "publish_date": "2026-10-15T18:47:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Cuatro candidaturas se lanzan a la Dirección del Campus Tecnológico Local San Carlos.",
+      "teaser": "Lo clave en 20 segundos: Cuatro aspirantes a dirigir el campus tecnológico de San Carlos se preparan para las elecciones.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/entrega-procedencia-tie-san-carlos_rcascante-06.jpg",
-      "description": "Cuatro candidaturas aspiran a la Dirección del Campus Tecnológico Local San Carlos",
+      "description": "Cuatro candidaturas aspiran a la Dirección del Campus Tecnológico Local San Carlos.",
       "featured": false
     },
     {
@@ -3394,6 +3433,19 @@
       "featured": false
     },
     {
+      "slug": "el-tec-lidera-el-sector-de-educacion-superior-en-los-rankings-de-reputacion-y-responsabilidad-de-merco-2026",
+      "title": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC ocupa el primer lugar en educación superior en Merco, destacando su reputación y responsabilidad.\n• El merco es un estudio que mide la reputación en 20 países de Iberoamérica y Estados Unidos.\n• La medición incluyó 22.735 encuestas y 27 fuentes de información para su confiabilidad.\n• El TEC es la única institución de educación superior en el top 20 de Merco Empresas 2026.\n• Las organizaciones no pagan por participar, no reciben patrocinios y se financian con ventas.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/tec-lidera-sector-educacion-superior-rankings-reputacion-responsabilidad-merco-2026",
+      "publish_date": "2026-10-14T15:01:35.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC destaca en rankings de reputación y responsabilidad en educación superior.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/diseno-sin-titulo-4.png",
+      "description": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
+      "featured": false
+    },
+    {
       "slug": "carlos-barahona-sale-esposado-hacia-tribunales-por-caso-gota-a-gota-ver-video",
       "title": "Carlos Barahona sale esposado hacia Tribunales por caso gota a gota (ver video)",
       "category": "Costa Rica",
@@ -3911,19 +3963,6 @@
       "teaser": "Lo clave en 20 segundos: Aprueban ley para proteger legalmente a policías demandados.",
       "image_url": "https://www.nacion.com/resizer/v2/YETXG74ER5F4XM7WWAZBTEDUHQ.JPG?smart=true&auth=81dc08d51c3aed345b4c15d4f073cf04393d87fe700dccca84025770ff9632dd&width=1440",
       "description": "Reforma incluye un inciso en la Ley General de Policía y fue aprobada de forma unánime por 51 legisladores",
-      "featured": false
-    },
-    {
-      "slug": "el-tec-lidera-el-sector-de-educacion-superior-en-los-rankings-de-reputacion-y-responsabilidad-de-merco-2026",
-      "title": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
-      "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica se destaca en los rankings de Merco 2026 en educación superior.\n• Ocupa el primer lugar en Merco Empresas y Merco Responsabilidad por segundo año consecutivo.\n• El TEC es la única institución superior en el top 20 de la clasificación general de Merco.\n• En Merco Talento, el TEC se ubica en el tercer lugar del sector de educación superior.\n• La medición de Merco se basa en miles de encuestas y diversas fuentes de información.",
-      "source_name": "m.molina",
-      "source_url": "http://www.tec.ac.cr/tec-lidera-sector-educacion-superior-rankings-reputacion-responsabilidad-merco-2026",
-      "publish_date": "2026-10-14T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC se destaca en rankings de educación superior de Merco 2026.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/diseno-sin-titulo-4.png",
-      "description": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
       "featured": false
     },
     {
@@ -113777,8 +113816,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-19T09:45:26.487Z",
-  "total": 8752,
+  "generated_at": "2026-10-19T10:45:27.205Z",
+  "total": 8755,
   "removed_soccer_news_count": 1410,
   "removed_soccer_news_titles": [
     "Histórico: Costa Rica obtiene dos podios en el Mundial de Kartismo en Italia",
