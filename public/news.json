@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "imn-anuncia-cuando-comenzara-la-epoca-seca-en-costa-rica-conozca-las-fechas",
+      "title": "IMN anuncia cuándo comenzará la época seca en Costa Rica: conozca las fechas",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Instituto Meteorológico Nacional (IMN) aclara las fechas de inicio de la época seca.\n• Este pronóstico es crucial para la agricultura y la planificación de recursos hídricos.\n• La época seca en Costa Rica afecta diversas regiones del país de distinta manera.\n• Se recomienda a la población prepararse para cambios en el clima y la disponibilidad de agua.\n• Conocer el pronóstico ayuda a evitar sorpresas para sector agropecuario y población.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/sucesos/imn-anuncia-cuando-comenzara-la-epoca-seca-en/EZEONL7S2NCWDOLBSRAZURQQLY/story/",
+      "publish_date": "2026-10-20T18:23:40.000Z",
+      "teaser": "Lo clave en 20 segundos: IMN confirma inicio de la época seca y su impacto en el país.",
+      "image_url": "https://www.nacion.com/resizer/v2/OU7WV532CFF2BCZCMSGUZ5SSW4.png?auth=725eff157d5126ea4dc1de40ffa2b0949895af41638a897b3422df0515b49811&smart=true&width=720&height=440",
+      "description": "Conozca las fechas del inicio de la época seca 2026-2027 en Costa Rica según el pronóstico estacional del Instituto Meteorológico Nacional (IMN).",
+      "featured": false
+    },
+    {
+      "slug": "luis-guillermo-solis-acusa-al-gobierno-de-impulsar-un-modelo-autoritario-acritico-y-anticientifico-contra-la-educacion-p",
+      "title": "Luis Guillermo Solís acusa al gobierno de impulsar un modelo autoritario, acrítico y anticientífico contra la educación pública",
+      "category": "Costa Rica",
+      "bullets_20s": "• Luis Guillermo Solís manifestó su preocupación sobre el futuro de la educación pública en el país.\n• Acusó al actual gobierno de promover un enfoque autoritario y anticientífico en la educación.\n• La marcha tuvo como objetivo protestar contra los recortes al Fondo Especial para la Educación Superior.\n• Participantes enfatizaron la importancia de defender la educación pública de posibles amenazas.\n• Solís llamó a la ciudadanía a unirse para preservar los derechos educativos para todos.",
+      "source_name": "Cristian Mora",
+      "source_url": "https://www.nacion.com/el-pais/luis-guillermo-solis-acusa-al-gobierno-de-impulsar/XCUS2V5W7RFVDKHBQSZ5DREQNY/story/",
+      "publish_date": "2026-10-20T18:00:44.000Z",
+      "teaser": "Lo clave en 20 segundos: Solís denuncia un modelo autoritario que pone en riesgo la educación pública.",
+      "image_url": "https://www.nacion.com/resizer/v2/OUFUG3O6ZVDNFOTK5Q5456GG7A.jpeg?auth=864fe7d0bc6409282d8487c14cc24c60026bc14877ffcedb121bb3c70e9923d0&smart=true&width=3000&height=2000",
+      "description": "Luis Guillermo Solís participó en la marcha contra los recortes al FEES y acusó al Gobierno de impulsar un modelo autoritario que amenaza la educación pública.",
+      "featured": false
+    },
+    {
+      "slug": "rectores-elevan-presion-contra-recorte-de-8048-millones-a-universidades-publicas-anuncian-vigilia-y-posibles-acciones-ju",
+      "title": "Rectores elevan presión contra recorte de ¢8.048 millones a universidades públicas: anuncian vigilia y posibles acciones judiciales",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los rectores se oponen al recorte significativo de fondos para las universidades públicas en Costa Rica.\n• Anuncian una vigilia como respuesta y solicitarán apoyo de la comunidad educativa y estudiantes.\n• Se preparan para posibles acciones judiciales en defensa del financiamiento público universitario.\n• La situación plantea preocupaciones sobre el futuro de la educación superior en el país.\n• Los recortes impactan directamente en la calidad académica y en los proyectos de investigación.",
+      "source_name": "Cristian Mora, Fernanda Matarrita Chaves",
+      "source_url": "https://www.nacion.com/el-pais/rectores-elevan-presion-contra-recorte-de-8048/KUSJFXGWOFAGXJBNXIB5ZY6S5U/story/",
+      "publish_date": "2026-10-20T17:59:15.000Z",
+      "teaser": "Lo clave en 20 segundos: Rectores se oponen al recorte y anuncian vigilia para defender universidades públicas.",
+      "image_url": "https://www.nacion.com/resizer/v2/65XBY7ERJZGQRLEVDG7B45OS5M.jpeg?auth=6bab5e173b57fc8a00b0ffedf12c78e71e432351d5a5b6db2e17c121a67a239f&smart=true&width=3000&height=2000",
+      "description": "Rectores de universidades públicas advierten que acudirán a la vía judicial por el recorte de ₡8.048 millones al FEES. Conozca los reclamos y detalles de la marcha de este 20 de octubre.",
+      "featured": false
+    },
+    {
       "slug": "temblor-de-magnitud-preliminar-de-45-se-registra-costa-rica",
       "title": "Temblor de magnitud preliminar de 4,5 se registra Costa Rica",
       "category": "Costa Rica",
@@ -56,11 +95,11 @@
       "slug": "analisis-los-separatistas-de-alberta-sufren-un-duro-reves-pero-la-tension-con-canada-continuara",
       "title": "Análisis: los separatistas de Alberta sufren un duro revés pero la tensión con Canadá continuará",
       "category": "Mundo",
-      "bullets_20s": "• El movimiento separatista de Alberta enfrenta un desafío significativo tras los últimos resultados electorales.\n• Los líderes han declarado su intención de continuar la lucha por la independencia de la región.\n• A pesar de la derrota, mantienen la esperanza de que la situación política cambie a su favor.\n• La tensión política entre Alberta y el gobierno canadiense se mantiene en aumento.\n• Los ciudadanos están divididos sobre el futuro político de la provincia y su relación con Canadá.",
+      "bullets_20s": "• El movimiento separatista enfrenta desafíos significativos tras un importante revés en las elecciones.\n• Líderes independentistas insisten en continuar su lucha a pesar de las derrotas recientes.\n• La tensión entre Alberta y el gobierno federal en Canadá podría intensificarse en los próximos meses.\n• Expertos sugieren que el apoyo popular al separatismo podría disminuir tras esta situación adversa.\n• Ahora, los separatistas deben formular nuevas estrategias para recuperar la moral de sus seguidores.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cxyvr6508relo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-20T17:02:36.000Z",
-      "teaser": "Lo clave en 20 segundos: los separatistas de Alberta enfrentan un reto, pero siguen luchando por su independencia.",
+      "teaser": "Lo clave en 20 segundos: el separatismo en Alberta se enfrenta a una nueva realidad tras un revés electoral.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9494/live/1725eca0-cc99-11f1-9a39-31b474234113.jpg",
       "description": "Los líderes del movimiento independentista prometen seguir adelante, pero el margen de la derrota podría dificultarlo.",
       "featured": false
@@ -355,11 +394,11 @@
       "slug": "por-que-chile-enfrenta-una-crisis-economica-con-record-de-desempleo-en-medio-de-las-politicas-de-austeridad-de-kast",
       "title": "Por qué Chile enfrenta una crisis económica con récord de desempleo en medio de las políticas de austeridad de Kast",
       "category": "Mundo",
-      "bullets_20s": "• Chile enfrenta un desempleo récord, lo que ha generado preocupación en la población y el gobierno.\n• Las políticas de austeridad fiscal del presidente Kast han sido objeto de críticas por su impacto en la economía.\n• La inversión en el país se encuentra estancada, limitando el crecimiento económico sostenible.\n• La confianza de los consumidores ha disminuido, afectando el consumo interno y la demanda.\n• Expertos advierten que la recuperación económica será lenta si continúan las restricciones fiscales.",
+      "bullets_20s": "• Chile vive una crisis económica marcada por un notable aumento del desempleo en los últimos años.\n• A través del plan de austeridad, el gobierno busca controlar el déficit fiscal existente en el país.\n• El 9,6% de desempleo es el porcentaje más alto registrado en los últimos cinco años.\n• Factores como la inversión estancada han contribuido seriamente a la situación actual del país.\n• La confianza del consumidor ha disminuido, lo que afecta el consumo interno y el crecimiento.\n• Se espera que las medidas de austeridad tengan un impacto a largo plazo en la economía chilena.\n• Analistas sugieren que la recuperación requerirá un enfoque equilibrado y sostenible.\n• Desempleo y austeridad crean un escenario complicado para la política económica chilena.\n• Varios sectores están viendo una reducción en la actividad económica debido a esta crisis.\n• Las políticas del gobierno enfrentan críticas debido a su impacto social y económico.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6gr8x40xvz7o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-20T10:58:28.000Z",
-      "teaser": "Lo clave en 20 segundos: La crisis económica en Chile se agrava con un desempleo récord y políticas austeras.",
+      "teaser": "Lo clave en 20 segundos: Chile enfrenta récord de desempleo por austeridad y declive en la inversión.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3e62/live/dad8b980-cb4e-11f1-8128-5942f144dabe.jpg",
       "description": "El desempleo marcó un récord de 9,6%, el mayor en más de cinco años. La inversión está estancada y la confianza de los consumidores ha caído, en medio del plan de austeridad fiscal del gobierno.",
       "featured": false
@@ -388,6 +427,19 @@
       "teaser": "Lo clave en 20 segundos: Alberta decide seguir en Canadá tras consultarse sobre su independencia.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/433b/live/aee5afc0-cc59-11f1-9b08-37acac6be953.jpg",
       "description": "Los votantes de la pronvincia han rechazado por amplio margen una propuesta para iniciar un proceso hacia la independencia.",
+      "featured": false
+    },
+    {
+      "slug": "hipermovilidad-la-poco-conocida-enfermedad-de-la-flexibilidad-que-causa-dolor-y-fatiga",
+      "title": "Hipermovilidad: la poco conocida \"enfermedad de la flexibilidad\" que causa dolor y fatiga",
+      "category": "Ciencia",
+      "bullets_20s": "• La hipermovilidad es un trastorno que afecta las articulaciones y su flexibilidad.\n• Muchos pacientes pueden experimentar dolor y fatiga debido a esta condición.\n• El diagnóstico puede ser complicado y a menudo se retrasa en muchos pacientes.\n• Se estima que cientos de miles de personas pueden verse afectadas de distintas maneras.\n• La conciencia sobre la hipermovilidad es baja, por lo que se requiere educación.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cqj9k3vge1r9o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-10-20T09:34:37.000Z",
+      "teaser": "Lo clave en 20 segundos: La hipermovilidad puede causar dolor y problemas de diagnóstico.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/21ec/live/6e373a20-a2a6-11f1-b109-879e35c24276.jpg",
+      "description": "Este trastorno puede afectar a cientos de miles de personas, pero muchas sufren retrasos a la hora de obtener un diagnóstico.",
       "featured": false
     },
     {
@@ -609,19 +661,6 @@
       "teaser": "Lo clave en 20 segundos: Apoyo de la DEA para reelección de Carlo Díaz como fiscal general.",
       "image_url": "https://www.nacion.com/resizer/v2/S75B4DXDS5GYNPVO2Z63SGH47Q.JPG?auth=456e3ce849168713f93f6b54e46fe82e13300bb604171c55c52efb64fa39533c&smart=true&width=3000&height=2000",
       "description": "Carlo Díaz reveló que el jefe de la DEA en Costa Rica le expresó su apoyo antes de su reelección como fiscal general.",
-      "featured": false
-    },
-    {
-      "slug": "hipermovilidad-la-poco-conocida-enfermedad-de-la-flexibilidad-que-causa-dolor-y-fatiga",
-      "title": "Hipermovilidad: la poco conocida 'enfermedad de la flexibilidad' que causa dolor y fatiga",
-      "category": "Ciencia",
-      "bullets_20s": "• La hipermovilidad se asocia con un aumento de la flexibilidad en las articulaciones.\n• Puede causar síntomas como dolor crónico, fatiga y lesiones frecuentes en los afectados.\n• El diagnóstico a menudo se retrasa debido a la falta de conocimiento general sobre el trastorno.\n• Los profesionales de la salud deben estar mejor informados sobre esta condición específica.\n• La investigación en este campo continúa para mejorar el manejo y comprensión de la hipermovilidad.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/cqj9k3vge1r9o?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-10-20T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: La hipermovilidad, más allá de la flexibilidad, puede limitar la vida diaria con dolor y fatiga.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/21ec/live/6e373a20-a2a6-11f1-b109-879e35c24276.jpg",
-      "description": "Este trastorno puede afectar a cientos de miles de personas, pero muchas sufren retrasos a la hora de obtener un diagnóstico.",
       "featured": false
     },
     {
@@ -1421,11 +1460,11 @@
       "slug": "recorte-de-492-millones-pone-en-riesgo-la-operacion-del-tec-en-limon",
       "title": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "category": "Costa Rica",
-      "bullets_20s": "• El Gobierno propone rebajar fondos críticos que sostienen el Centro Académico de Limón del TEC.\n• Los recortes afectan directamente a los 417 estudiantes que asisten a la sede en Limón.\n• Se espera que la reducción de fondos comprometa las actividades académicas y operativas del TEC.\n• La rectora del TEC solicita mantener los fondos establecidos por ley para la institución.\n• El proyecto de ley que propone el recorte ya fue presentado ante la Asamblea Legislativa.",
+      "bullets_20s": "• El Gobierno propone un recorte significativo que afecta al Centro Académico de Limón del TEC.\n• El TEC atiende a 417 estudiantes en su sede de Limón desde 2014.\n• Los fondos recortados son vitales para la operación ordinaria de la sede en Limón.\n• El Ministerio de Educación confirma que no se realizarán transferencias de noviembre y diciembre.\n• El cierre técnico podría afectar la continuidad educativa del TEC en Limón a corto plazo.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/recorte-c492-millones-pone-riesgo-operacion-tec-limon",
       "publish_date": "2026-10-18T22:23:39.000Z",
-      "teaser": "Lo clave en 20 segundos: Un recorte gubernamental pone en peligro la operación del TEC en Limón.",
+      "teaser": "Lo clave en 20 segundos: Un recorte de ¢492 millones amenaza la operación del TEC en Limón.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/stock_centro-academico-limon-tec-7.jpg",
       "description": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "featured": false
@@ -3592,11 +3631,11 @@
       "slug": "medio-siglo-de-transparencia-y-control-la-auditoria-interna-del-tec-celebra-50-anos-de-trayectoria-al-servicio-de-la-ins",
       "title": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebra el 50 aniversario de su Auditoría Interna con un acto significativo y emotivo.\n• La Auditoría Interna ha sido clave en la mejora continua y la rendición de cuentas en la institución desde su creación.\n• La comunidad del TEC se unió en reconocimiento a los aportes de quienes han trabajado en la Auditoría Interna.\n• Se resaltó la importancia de fomentar la ética y la transparencia en el manejo de recursos públicos durante el evento.\n• Autoridades y expertos debatieron sobre el impacto de la tecnología y la inteligencia artificial en la auditoría.",
+      "bullets_20s": "• La Auditoría Interna del TEC celebra 50 años de importante trayectoria institucional en Costa Rica.\n• Este aniversario simboliza el esfuerzo colectivo y los logros alcanzados en el servicio público.\n• El rol de la auditoría interna es clave para asegurar la correcta administración de recursos.\n• Se destacó la importancia de la ética y la capacidad técnica en el trabajo de los auditores.\n• El uso de inteligencia artificial representa un reto y una oportunidad para el futuro de la auditoría.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/medio-siglo-transparencia-control-auditoria-interna-tec-celebra-50-anos-trayectoria-servicio",
       "publish_date": "2026-10-15T21:59:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebramos 50 años de la Auditoría Interna del TEC, un legado de transparencia y compromiso.",
+      "teaser": "Lo clave en 20 segundos: La Auditoría Interna del TEC conmemora 50 años, reflejando transparencia y mejora continua.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/auditoria-8.jpeg",
       "description": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "featured": false
@@ -3735,11 +3774,11 @@
       "slug": "cuatro-candidaturas-aspiran-a-la-direccion-del-campus-tecnologico-local-san-carlos",
       "title": "Cuatro candidaturas aspiran a la Dirección del Campus Tecnológico Local San Carlos",
       "category": "Costa Rica",
-      "bullets_20s": "• Las personas candidatas buscan asumir la Dirección del Campus Tecnológico Local San Carlos.\n• La elección se realizará el 12 de noviembre del 2026, de 9 a.m. a 6 p.m.\n• Se entregaron las credenciales a los candidatos durante una sesión del TIE.\n• Un total de cuatro candidatos han cumplido con los requisitos necesarios para postularse.\n• La campaña política para los candidatos inicia oficialmente el 15 de octubre.",
+      "bullets_20s": "• La entrega de procedencias a las candidaturas se realizó el 15 de octubre de 2026 por el TIE.\n• Cuatro personas competiran por la Dirección del Campus Tecnológico Local San Carlos para el periodo 2027-2031.\n• La elección presencial se llevará a cabo el 12 de noviembre de 9 a.m. a 6 p.m.\n• Una Actividad de Expresión del Pensamiento se programó para el 5 de noviembre a las 10 a.m.\n• Las candidaturas han cumplido con los requisitos establecidos por el Estatuto Orgánico del TEC.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/cuatro-candidaturas-aspiran-direccion-campus-tecnologico-local-san-carlos",
       "publish_date": "2026-10-15T18:47:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Cuatro candidatos compiten por dirigir el Campus Tecnológico Local San Carlos.",
+      "teaser": "Lo clave en 20 segundos: Cuatro candidatos buscan dirigir el Campus Tecnológico San Carlos en elecciones próximas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/entrega-procedencia-tie-san-carlos_rcascante-06.jpg",
       "description": "Cuatro candidaturas aspiran a la Dirección del Campus Tecnológico Local San Carlos",
       "featured": false
@@ -4645,11 +4684,11 @@
       "slug": "el-tec-lidera-el-sector-de-educacion-superior-en-los-rankings-de-reputacion-y-responsabilidad-de-merco-2026",
       "title": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC destacó en el ranking de Merco como la mejor institución de educación superior en Costa Rica.\n• Obtuvo primer lugar en Merco Empresas y Merco Responsabilidad para el 2026, un gran logro.\n• En Merco Talento, el TEC logró el tercer puesto, destacando su capacidad de atraer personal.\n• La evaluación de Merco se basa en miles de encuestas a directivos y consumidores en el país.\n• Merco tiene presencia en 20 países y mide reputación desde el año 2000 con metodología rigurosa.",
+      "bullets_20s": "• El Tecnológico de Costa Rica lidera el sector de educación superior en Merco 2026.\n• El TEC ocupó el primer lugar en Merco Empresas y Merco Responsabilidad este año.\n• En la clasificación general de Merco, el TEC ocupa el puesto 12 en reputación.\n• El “Merco” evalúa la reputación de organizaciones desde el año 2000 en Iberoamérica.\n• El TEC es la única institución académica entre las 20 primeras organizaciones en reputación.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-lidera-sector-educacion-superior-rankings-reputacion-responsabilidad-merco-2026",
       "publish_date": "2026-10-14T15:01:35.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC lidera en reputación y responsabilidad en educación superior, según Merco 2026.",
+      "teaser": "Lo clave en 20 segundos: El TEC destaca en reputación y responsabilidad en educación superior según Merco 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/diseno-sin-titulo-4.png",
       "description": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
       "featured": false
@@ -115038,8 +115077,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-20T17:45:25.822Z",
-  "total": 8849,
+  "generated_at": "2026-10-20T18:45:26.743Z",
+  "total": 8852,
   "removed_soccer_news_count": 1418,
   "removed_soccer_news_titles": [
     "Tabla de posiciones: así marcha el fútbol en Costa Rica tras la jornada 12 del Torneo de Apertura 2026",
