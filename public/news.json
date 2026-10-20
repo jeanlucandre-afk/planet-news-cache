@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "telecable-abre-camino-con-su-primer-reporte-de-sostenibilidad",
+      "title": "Telecable abre camino con su primer reporte de sostenibilidad",
+      "category": "Costa Rica",
+      "bullets_20s": "• Telecable presenta su primer informe de sostenibilidad, mostrando su compromiso con el medio ambiente.\n• El reporte incluye resultados económicos que reflejan el desempeño de la compañía durante 2025.\n• Se destacan los avances en responsabilidad social y el impacto en la comunidad local.\n• El informe sigue los estándares GRI, garantizando transparencia en la información publicada.\n• La sostenibilidad se convierte en una prioridad clave para Telecable en su operación diaria.",
+      "source_name": "Heilyn  Gómez V",
+      "source_url": "https://www.nacion.com/brandvoice/telecable-abre-camino-con-su-primer-reporte-de/3TKX7KQV5VAJZNV7V44V5W52MQ/story/",
+      "publish_date": "2026-10-20T19:51:46.000Z",
+      "teaser": "Lo clave en 20 segundos: Telecable presenta su primer informe de sostenibilidad, destacando logros y compromisos.",
+      "image_url": "https://www.nacion.com/resizer/v2/UYWBOXUO7VEWDN5Y4TQL3QUH5M.JPG?smart=true&auth=b7e962845a491a82f295742f7b077708ab14e37b4be69fac7cb51e28611eb857&width=1440",
+      "description": "El informe reúne resultados económicos, sociales, ambientales y de gobernanza de la compañía durante 2025, con referencia a los estándares GRI.",
+      "featured": false
+    },
+    {
+      "slug": "cancilleria-de-costa-rica-se-pronuncia-sobre-llamado-de-donald-trump-a-abandonar-la-corte-penal-internacional-tras-sente",
+      "title": "Cancillería de Costa Rica se pronuncia sobre llamado de Donald Trump a abandonar la Corte Penal Internacional, tras sentencia de Sala Constitucional",
+      "category": "Mundo",
+      "bullets_20s": "• La cancillería de Costa Rica emite un comunicado sobre las declaraciones de Donald Trump.\n• Ana Elena Pinto reafirma el compromiso del país con la Corte Penal Internacional.\n• Las presiones políticas de Trump generan un debate en el ámbito internacional.\n• Costa Rica es reconocida por su postura sobre derechos humanos y justicia internacional.\n• La Sala Constitucional pidió aclaraciones sobre el tema a la cancillería.\n• Las relaciones internacionales de Costa Rica se ven influenciadas por estas declaraciones.\n• El país mantiene su independencia en decisiones sobre tratados internacionales.\n• El comunicado busca informar y tranquilizar a la ciudadanía sobre este tema.\n• La postura de Costa Rica refuerza su compromiso con el sistema de justicia global.",
+      "source_name": "Lucía Astorga",
+      "source_url": "https://www.nacion.com/el-mundo/cancilleria-de-costa-rica-se-pronuncia-sobre/SO5KBNKLONCHLHJERPJBWP3IFY/story/",
+      "publish_date": "2026-10-20T19:30:12.000Z",
+      "teaser": "Lo clave en 20 segundos: Costa Rica defiende su posición ante presiones de Trump sobre la Corte Penal Internacional.",
+      "image_url": "https://www.nacion.com/resizer/v2/6E73N4YECJC6NO5BWYXDJ7RIGA.jpg?auth=71983e690de17cb19412e829c9edba48f3ad25c57b5469497919a9077019d798&smart=true&width=519&height=1280",
+      "description": "La canciller Ana Elena Pinto aclaró la posición de Costa Rica sobre las presiones del gobierno de Donald Trump, tras una orden de Sala Constitucional para que se brindara respuesta a cinco consultas de 'La Nación'.",
+      "featured": false
+    },
+    {
       "slug": "arbitro-relata-de-hechos-de-violencia-perez-zeledon-denuncia-agresiones-de-un-aficionado-la-hija-y-el-nieto-video",
       "title": "Árbitro relata de hechos de violencia Pérez Zeledón: denuncia agresiones de un aficionado, la hija y el nieto (video)",
       "category": "Costa Rica",
@@ -108,11 +134,11 @@
       "slug": "analisis-los-separatistas-de-alberta-sufren-un-duro-reves-pero-la-tension-con-canada-continuara",
       "title": "Análisis: los separatistas de Alberta sufren un duro revés pero la tensión con Canadá continuará",
       "category": "Mundo",
-      "bullets_20s": "• Los separatistas de Alberta enfrentan un nuevo desafío tras el reciente revés electoral en Canadá.\n• La tensión política entre los separatistas y el gobierno canadiense se intensifica después de la derrota.\n• A pesar de la derrota, los líderes separatistas prometen continuar la lucha por la independencia.\n• El margen de la derrota podría complicar los esfuerzos independentistas en Alberta a largo plazo.\n• Analistas sugieren que las tensiones regionales en Canadá seguirán alimentando el movimiento separatista.",
+      "bullets_20s": "• Los separatistas en Alberta enfrentan un mecanismo complicado tras su reciente derrota electoral importante.\n• La situación demuestra la complejidad del deseo de independencia en varias provincias de Canadá.\n• Líderes separatistas aseguran que no retrocederán en su lucha por la autonomía provincial.\n• La tensa relación con el gobierno canadiense sigue siendo un desafío significativo para todos los involucrados.\n• El análisis político muestra que la batalla por la independencia aun está muy lejos de terminar.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cxyvr6508relo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-20T17:02:36.000Z",
-      "teaser": "Lo clave en 20 segundos: los separatistas de Alberta enfrentan nuevos retos tras su reciente revés electoral.",
+      "teaser": "Lo clave en 20 segundos: La lucha por la independencia en Alberta enfrenta nuevos desafíos tras un revés electoral.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9494/live/1725eca0-cc99-11f1-9a39-31b474234113.jpg",
       "description": "Los líderes del movimiento independentista prometen seguir adelante, pero el margen de la derrota podría dificultarlo.",
       "featured": false
@@ -407,11 +433,11 @@
       "slug": "por-que-chile-enfrenta-una-crisis-economica-con-record-de-desempleo-en-medio-de-las-politicas-de-austeridad-de-kast",
       "title": "Por qué Chile enfrenta una crisis económica con récord de desempleo en medio de las políticas de austeridad de Kast",
       "category": "Mundo",
-      "bullets_20s": "• Chile experimenta un creciente desempleo que ha alcanzado cifras récord durante el último año.\n• Las políticas de austeridad implementadas han generado preocupación entre los ciudadanos y economistas.\n• La inversión en el país ha permanecido estancada, dificultando la recuperación económica.\n• La confianza de los consumidores ha disminuido, impactando el consumo y la economía local.\n• Expertos analizan las implicaciones de estas políticas en el bienestar social del país.\n• La situación actual plantea interrogantes sobre el futuro económico y social de Chile.\n• El gobierno enfrenta presiones para ajustar sus estrategias económicas a las demandas populares.\n• Las repercusiones de estas decisiones se sienten a nivel laboral y empresarial en todo Chile.",
+      "bullets_20s": "• Chile enfrenta un aumento preocupante en la tasa de desempleo, alcanzando cifras récord en los últimos años.\n• Las políticas de austeridad implementadas por el gobierno actual han generado efectos negativos en la economía.\n• La inversión en el país se encuentra estancada debido a la falta de confianza en el futuro económico.\n• Los consumidores están cada vez más cautelosos, reduciendo su gasto y afectando el crecimiento del mercado.\n• Las medidas económicas deben ser reevaluadas para abordar la creciente crisis laboral en Chile.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6gr8x40xvz7o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-20T10:58:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Chile enfrenta un récord de desempleo y críticas por políticas de austeridad fiscal.",
+      "teaser": "Lo clave en 20 segundos: Chile enfrenta una crisis económica por desempleo récord y políticas de austeridad.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3e62/live/dad8b980-cb4e-11f1-8128-5942f144dabe.jpg",
       "description": "El desempleo marcó un récord de 9,6%, el mayor en más de cinco años. La inversión está estancada y la confianza de los consumidores ha caído, en medio del plan de austeridad fiscal del gobierno.",
       "featured": false
@@ -444,13 +470,13 @@
     },
     {
       "slug": "hipermovilidad-la-poco-conocida-enfermedad-de-la-flexibilidad-que-causa-dolor-y-fatiga",
-      "title": "Hipermovilidad: la poco conocida 'enfermedad de la flexibilidad' que causa dolor y fatiga",
+      "title": "Hipermovilidad: la poco conocida \"enfermedad de la flexibilidad\" que causa dolor y fatiga",
       "category": "Ciencia",
-      "bullets_20s": "• La hipermovilidad es una condición que puede ser hereditaria o desarrollarse a lo largo del tiempo.\n• Personas con hipermovilidad suelen sentir dolor en las articulaciones y fatiga constante.\n• El diagnóstico temprano es esencial para el manejo adecuado de esta afección.\n• Existen tratamientos que pueden ayudar a mejorar la calidad de vida de los pacientes.\n• La concienciación sobre la hipermovilidad sigue siendo baja, dificultando el diagnóstico.",
+      "bullets_20s": "• La hipermovilidad es un trastorno poco conocido que puede causar mucho dolor a quienes lo padecen.\n• Afecta la flexibilidad de las articulaciones, provocando molestias y fatiga crónica.\n• Es difícil de diagnosticar, lo que lleva a un retraso en el tratamiento adecuado.\n• Las personas afectadas suelen buscar respuestas ante síntomas inexplicables de dolor.\n• Es importante sensibilizar sobre esta condición para mejorar el diagnóstico y apoyo a los pacientes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqj9k3vge1r9o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-20T09:34:37.000Z",
-      "teaser": "Lo clave en 20 segundos: La hipermovilidad puede causar dolor y fatiga, y a menudo se diagnostica tarde.",
+      "teaser": "Lo clave en 20 segundos: La hipermovilidad puede causar dolor severo y es a menudo mal diagnosticada.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/21ec/live/6e373a20-a2a6-11f1-b109-879e35c24276.jpg",
       "description": "Este trastorno puede afectar a cientos de miles de personas, pero muchas sufren retrasos a la hora de obtener un diagnóstico.",
       "featured": false
@@ -1473,11 +1499,11 @@
       "slug": "recorte-de-492-millones-pone-en-riesgo-la-operacion-del-tec-en-limon",
       "title": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "category": "Costa Rica",
-      "bullets_20s": "• El gobierno propone un recorte significativo que afecta al Centro Académico de Limón del TEC.\n• La disminución de fondos afecta a 417 estudiantes que dependen de esta sede educativa.\n• La ley específica debería proteger estos recursos según las normativas vigentes.\n• El TEC advierte que si no se giran los fondos, habrá un cierre técnico de operaciones.\n• Distintas mociones en el presupuesto 2027 también favorecerían recortes en recursos para universidades.",
+      "bullets_20s": "• El Gobierno propone un recorte de fondos cruciales para el TEC en Limón, afectando a estudiantes.\n• El recorte de ¢492 millones busca modificarse a través del Proyecto de Ley n.° 25.803.\n• Los fondos son esenciales para mantener la operación del Centro Académico del TEC en Limón.\n• El MEP confirmó que no se realizarán los giros correspondientes para el último trimestre de 2026.\n• El TEC sostiene que la reducción de fondos está en contra de lo establecido por la ley vigente.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/recorte-c492-millones-pone-riesgo-operacion-tec-limon",
       "publish_date": "2026-10-18T22:23:39.000Z",
-      "teaser": "Lo clave en 20 segundos: Recorte de fondos amenaza operación del TEC en Limón y afecta educación superior.",
+      "teaser": "Lo clave en 20 segundos: El TEC en Limón enfrenta crisis por recorte de ¢492 millones que afecta su operación.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/stock_centro-academico-limon-tec-7.jpg",
       "description": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "featured": false
@@ -3644,11 +3670,11 @@
       "slug": "medio-siglo-de-transparencia-y-control-la-auditoria-interna-del-tec-celebra-50-anos-de-trayectoria-al-servicio-de-la-ins",
       "title": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "category": "Costa Rica",
-      "bullets_20s": "• La Auditoría Interna del TEC celebra su 50 aniversario, consolidándose como pilar del control interno.\n• La celebración tuvo invitados especiales, destacando la importancia del compromiso ético en la gestión pública.\n• El auditor interno reflexionó sobre los logros alcanzados en las últimas cinco décadas de servicio.\n• La era de la inteligencia artificial aporta nuevos retos y oportunidades a las auditorías internas.\n• Se rindieron homenajes a exauditores por su contribución a la transparencia y gestión institucional.",
+      "bullets_20s": "• La Auditoría Interna del TEC conmemora su 50 aniversario con un evento significativo para la institución.\n• Este evento resalta la importancia del control interno y la rendición de cuentas en la gestión pública.\n• La celebración contó con la presencia de importantes autoridades y exauditores del Tecnológico de Costa Rica.\n• Se reflexionó sobre el legado y el impacto positivo de la Auditoría en la formación de jóvenes profesionales.\n• El panel sobre inteligencia artificial destacó los retos y oportunidades para la fiscalización moderna.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/medio-siglo-transparencia-control-auditoria-interna-tec-celebra-50-anos-trayectoria-servicio",
       "publish_date": "2026-10-15T21:59:13.000Z",
-      "teaser": "Lo clave en 20 segundos: La Auditoría Interna del TEC celebra 50 años de trayectoria, destacando su impacto en la gestión pública.",
+      "teaser": "Lo clave en 20 segundos: Celebración del 50 aniversario de la Auditoría Interna del TEC resalta su impacto y legado.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/auditoria-8.jpeg",
       "description": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "featured": false
@@ -3787,11 +3813,11 @@
       "slug": "cuatro-candidaturas-aspiran-a-la-direccion-del-campus-tecnologico-local-san-carlos",
       "title": "Cuatro candidaturas aspiran a la Dirección del Campus Tecnológico Local San Carlos",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tribunal Institucional Electoral entregó procedencias a cuatro candidaturas para la dirección del campus.\n• La elección se llevará a cabo el 12 de noviembre de 2026, de 9 a.m. a 6 p.m.\n• Se realizará una Actividad de Expresión del pensamiento el 5 de noviembre en el campus.\n• Entre los criterios de selección, se cuenta con un grado profesional y buena reputación durante tres años.\n• Las candidaturas presentaron colores y credenciales que serán usadas en la campaña electoral.",
+      "bullets_20s": "• Cuatro candidaturas se presentan para la Dirección del Campus Tecnológico Local de San Carlos.\n• Las elecciones se llevarán a cabo el 12 de noviembre de 2026.\n• El Tribunal Institucional Electoral anuncia el inicio del periodo de campaña política.\n• Los candidatos deben cumplir con requisitos académicos y normativas establecidas por el TEC.\n• Se realizará una actividad de expresión del pensamiento el 5 de noviembre.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/cuatro-candidaturas-aspiran-direccion-campus-tecnologico-local-san-carlos",
       "publish_date": "2026-10-15T18:47:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Se abren candidaturas para la dirección del Campus Tecnológico Local San Carlos.",
+      "teaser": "Lo clave en 20 segundos: Cuatro candidatos a dirigir el Campus Tecnológico Local San Carlos para el periodo 2027-2031.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/entrega-procedencia-tie-san-carlos_rcascante-06.jpg",
       "description": "Cuatro candidaturas aspiran a la Dirección del Campus Tecnológico Local San Carlos",
       "featured": false
@@ -4697,11 +4723,11 @@
       "slug": "el-tec-lidera-el-sector-de-educacion-superior-en-los-rankings-de-reputacion-y-responsabilidad-de-merco-2026",
       "title": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica se destaca en educación superior según Merco 2026.\n• El TEC obtiene el primer lugar en Merco Empresas y Merco Responsabilidad este año.\n• La Universidad de Costa Rica y la Universidad Nacional siguen al TEC en los rankings.\n• Merco evalúa la reputación de organizaciones desde el año 2000 en 20 países.\n• Los resultados reflejan encuestas y análisis de expertos sobre reputación empresarial.",
+      "bullets_20s": "• El TEC ocupa el primer lugar en educación superior en Merco Empresas y Merco Responsabilidad en 2026.\n• La institución mejora su posición y se mantiene líder por segundo año consecutivo en el sector.\n• Es la única universidad en los 20 primeros lugares del ranking general de reputación corporativa.\n• En Merco Talento, el TEC ocupa el tercer lugar detrás de la UNA y la UCR en su sector.\n• Este estudio evalúa la reputación de organizaciones desde el año 2000 en Iberoamérica y USA.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/tec-lidera-sector-educacion-superior-rankings-reputacion-responsabilidad-merco-2026",
       "publish_date": "2026-10-14T15:01:35.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC lidera la educación superior en Merco 2026, destacando su responsabilidad y talento.",
+      "teaser": "Lo clave en 20 segundos: El TEC lidera en reputación y responsabilidad en Merco 2026.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/diseno-sin-titulo-4.png",
       "description": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
       "featured": false
@@ -115090,10 +115116,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-20T19:45:25.809Z",
-  "total": 8853,
-  "removed_soccer_news_count": 1420,
+  "generated_at": "2026-10-20T20:45:26.920Z",
+  "total": 8855,
+  "removed_soccer_news_count": 1421,
   "removed_soccer_news_titles": [
+    "Estos son los 10 futbolistas más valiosos del mundo",
     "Un panel de porristas para Jafet Soto",
     "Conozca los goles más rápidos en la historia de la Primera División de Costa Rica",
     "Tabla de posiciones: así marcha el fútbol en Costa Rica tras la jornada 12 del Torneo de Apertura 2026",
@@ -115142,7 +115169,6 @@
     "Costa Rica tiene un nuevo legionario: futbolista de Pérez Zeledón jugará en Inglaterra mientras completa sus estudios",
     "La Selección de Costa Rica tendrá rivales de lujo para noviembre, incluyendo un campeón del mundo",
     "Cartaginés se pronuncia tras la detención de Carlos Barahona",
-    "Esto pensó Darryl Araya cuando Bryan Ruiz lo dejó fuera de la Selección de Costa Rica",
-    "¿Está bien?: madre de futbolista detenido por presuntos vínculos con préstamos extorsivos llegó a la vivienda allanada"
+    "Esto pensó Darryl Araya cuando Bryan Ruiz lo dejó fuera de la Selección de Costa Rica"
   ]
 }
