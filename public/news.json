@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "editorial-carlo-diaz-cuatro-anos-mas-al-frente-de-una-fiscalia-bajo-presion",
+      "title": "Editorial: Carlo Díaz, cuatro años más al frente de una fiscalía bajo presión",
+      "category": "Costa Rica",
+      "bullets_20s": "• Carlo Díaz recibe sustento unánime para seguir como Fiscal General en Costa Rica.\n• Las presiones políticas siguen siendo un desafío significante para la fiscalía.\n• Los recortes presupuestarios pueden afectar la eficacia del Ministerio Público.\n• La administración de justicia enfrenta retos en la lucha contra el delito.\n• El apoyo al Fiscal General muestra un compromiso con la integridad y justicia.",
+      "source_name": "La Nación",
+      "source_url": "https://www.nacion.com/opinion/editorial/editorial-carlo-diaz-cuatro-anos-mas-al-frente-de/RDTQDOWW5FFQTCTDOYQSA2FVAA/story/",
+      "publish_date": "2026-10-21T11:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Carlo Díaz sigue al mando, pero enfrenta presión política y presupuestaria.",
+      "image_url": "https://www.nacion.com/resizer/v2/RLX4PJOJKBB6HL5BZF7H64G6YM.JPG?smart=true&auth=d2c356a5c7c9b6d627ad1befaff87b77bdfa3c0070564e48e59d5d1421594abe&width=1440",
+      "description": "El respaldo unánime a Carlo Díaz para que continúe al mando del Ministerio Público contrasta con las presiones políticas y los recortes presupuestarios que amenazan la capacidad de esa institución para perseguir el delito.",
+      "featured": false
+    },
+    {
+      "slug": "las-imagenes-de-las-fascinantes-especies-del-nuevo-atlas-de-las-islas-galapagos",
+      "title": "Las imágenes de las fascinantes especies del nuevo atlas de las islas Galápagos",
+      "category": "Mundo",
+      "bullets_20s": "• El nuevo atlas detalla más de 60 especies nativas de las islas Galápagos.\n• Se explican las interacciones entre las especies y su ecosistema único.\n• El atlas incluye información sobre las amenazas a estas especies.\n• Las especies invasoras son uno de los principales problemas mencionados.\n• El fenómeno de El Niño impacta en la biodiversidad del archipiélago.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/ck1wvglvpqyqo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-10-21T10:33:41.000Z",
+      "teaser": "Lo clave en 20 segundos: Un atlas revela la riqueza y amenazas de las especies en Galápagos.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3e05/live/4f2faec0-cce8-11f1-bf7e-610931a7bfda.png",
+      "description": "El atlas te presenta más de 60 especies del archipiélago, sus interacciones y lo que aún no se sabe de ellas. También explica sus principales amenazas, desde las especies invasoras hasta el fenómeno de El Niño.",
+      "featured": false
+    },
+    {
       "slug": "hubo-transparencia-en-negociacion-del-acuerdo-transpacifico-esto-respondio-el-comex",
       "title": "¿Hubo transparencia en negociación del Acuerdo Transpacífico? Esto respondió el Comex",
       "category": "Costa Rica",
-      "bullets_20s": "• El Comex busca aclarar dudas sobre el Acuerdo Transpacífico y su transparencia en la negociación.\n• Se presentan cifras de reuniones realizadas durante las negociaciones del Acuerdo Transpacífico.\n• Documentos técnicos son fundamentales en la defensa de la transparencia en el proceso negociador.\n• La importancia del Acuerdo Transpacífico para la economía costarricense sigue generando debates.\n• Las reacciones del público son diversas y evidencian la preocupación por la transparencia.",
+      "bullets_20s": "• El Comex defiende la transparencia en las negociaciones del Acuerdo Transpacífico.\n• Se presentaron cifras sobre reuniones y documentos técnicos utilizados en las negociaciones.\n• El Acuerdo podría tener múltiples impactos en la economía costarricense a futuro.\n• La discusión sobre transparencia es clave en el contexto político actual del país.\n• Las reacciones de distintos sectores variaron entre el apoyo y la crítica a la negociación.",
       "source_name": "Gustavo Ortega Campos",
       "source_url": "https://www.nacion.com/economia/hubo-transparencia-en-negociacion-del-acuerdo/4ZVLQFWSLRAI3EU3J64RUBKD3Y/story/",
       "publish_date": "2026-10-21T09:45:00.000Z",
-      "teaser": "Lo clave en 20 segundos: El Comex defiende la transparencia en las negociaciones del Acuerdo Transpacífico.",
+      "teaser": "Lo clave en 20 segundos: El Comex defiende su gestión en la negociación del Acuerdo Transpacífico.",
       "image_url": "https://www.nacion.com/resizer/v2/ZG2KGWI4BVCGBMDIG24B6MWMOI.jpg?auth=e663cb347e900ab4e23b95d682d7769e4cdc861906fee0c55e35eccf82c91eb0&smart=true&width=3000&height=2000",
       "description": "El Comex defiende la negociación para que Costa Rica se adhiera al Acuerdo Transpacífico con cifras de reuniones y documentos técnicos.",
       "featured": false
@@ -17,11 +43,11 @@
       "slug": "pacientes-duermen-en-el-suelo-o-acostados-en-sillas-se-agrava-la-crisis-en-el-hospital-de-liberia",
       "title": "Pacientes duermen en el suelo o acostados en sillas: se agrava la crisis en el hospital de Liberia",
       "category": "Costa Rica",
-      "bullets_20s": "• La crisis hospitalaria se agrava, pacientes enfrentan condiciones inhumanas en el hospital de Liberia.\n• Falta de camas ha obligado a los enfermos a dormir en el suelo o sobre sillas.\n• La situación de los pacientes genera preocupación entre los ciudadanos y autoridades.\n• Los testimonios evidencian la urgencia de una solución a la crisis hospitalaria.\n• El hospital Enrique Baltodano Briceño enfrenta un colapso por falta de recursos.",
+      "bullets_20s": "• La crisis en el hospital de Liberia afecta gravemente a los pacientes y sus familias.\n• Pacientes deben esperar largas horas en condiciones extremadamente incómodas.\n• La falta de camas causa que muchos pacientes duerman en el suelo o en sillas.\n• El hospital Enrique Baltodano Briceño enfrenta serias limitaciones de recursos.\n• Las autoridades buscan soluciones urgentes para aliviar la situación crítica.",
       "source_name": "Silvia Ureña Corrales",
       "source_url": "https://www.nacion.com/el-pais/pacientes-duermen-en-el-suelo-o-acostados-en/PKOOPCJOLNDDRDCKLVAXEHWBKU/story/",
       "publish_date": "2026-10-21T09:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: crisis hospitalaria en Liberia con pacientes en el suelo y sillas.",
+      "teaser": "Lo clave en 20 segundos: crisis hospitalaria en Liberia obliga a pacientes a dormir en el suelo.",
       "image_url": "https://www.nacion.com/resizer/v2/DHUFQ4FRVBAFDGEDKKRNSWMT6U.png?auth=17ce0c72636699c1e985fc1e7b2bdb41b33ac32ab2092e1f1c5dcc06e3adf2f6&smart=true&width=1920&height=1080",
       "description": "El panorama es crítico: pacientes duermen en el suelo o en sillas a la espera de una cirugía o de que se desocupe una cama de internamiento en el hospital Enrique Baltodano Briceño, en Liberia, Guanacaste.",
       "featured": false
@@ -30,11 +56,11 @@
       "slug": "importaciones-de-lacteos-desde-estados-unidos-crecen-con-fuerza-y-encienden-alarmas-de-productores-nacionales",
       "title": "Importaciones de lácteos desde Estados Unidos crecen con fuerza y encienden alarmas de productores nacionales",
       "category": "Costa Rica",
-      "bullets_20s": "• Crecen las importaciones de lácteos desde Estados Unidos, afectando al sector productivo local.\n• Productores nacionales enfrentan dificultades para comercializar su leche debido a la competencia.\n• Los consumidores disfrutan de una mayor variedad de productos lácteos en el mercado.\n• Quesos, mantequilla y leche concentrada son los productos más importados desde el norte.\n• Se generan alarmas ante la posibilidad de que los productores nacionales queden en desventaja.",
+      "bullets_20s": "• Las importaciones de lácteos han aumentado significativamente en los últimos meses en Costa Rica.\n• Los productores nacionales manifiestan preocupación ante esta creciente competencia externa.\n• Entre los productos más importados se encuentran quesos y mantequilla de Estados Unidos.\n• Los consumidores valoran la diversidad de productos lácteos disponibles en el mercado.\n• Se observan retos para los productores locales al vender su leche en el mercado nacional.",
       "source_name": "Gustavo Ortega Campos",
       "source_url": "https://www.nacion.com/economia/importaciones-de-lacteos-desde-estados-unidos/ANOHO4Y25RFBFJDOJBH5KDVSQY/story/",
       "publish_date": "2026-10-21T08:15:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Importaciones de lácteos crecen, preocupando a productores en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El crecimiento de importaciones lácteas inquieta a productores costarricenses.",
       "image_url": "https://www.nacion.com/resizer/v2/HORAB5MKMZAFXMASVLOYVRXEL4.jpg?auth=6a1f9a99ef70f66ba2aa8a5358025c24f4021d8cc84d2486185a2b43b43dbfaa&smart=true&width=6059&height=4039",
       "description": "Los quesos, la mantequilla y la leche concentrada figuran entre los productos que ganan terreno. Productores nacionales señalan dificultades para colocar la leche, mientras consumidores destacan la mayor variedad.",
       "featured": false
@@ -43,11 +69,11 @@
       "slug": "como-se-puede-atender-un-choque-sin-esperar-al-transito",
       "title": "¿Cómo se puede atender un choque sin esperar al tránsito?",
       "category": "Costa Rica",
-      "bullets_20s": "• Los conductores pueden utilizar un formulario para reportar accidentes menores.\n• Este proceso ayuda a reducir el tiempo de espera en accidentes de tránsito.\n• Es importante saber cómo actuar ante un choque sin involucrar al tránsito.\n• La legislación ha promovido el uso de formularios para incidentes menores.\n• Miles de conductores ya se han beneficiado con este sistema en el país.",
+      "bullets_20s": "• Los conductores pueden utilizar un formulario para reportar accidentes menores.\n• Este sistema busca agilizar el proceso tras un choque de tránsito.\n• Se ha implementado para reducir las congestiones vehiculares causadas por accidentes.\n• Es importante conocer los pasos que se deben seguir en estos casos.\n• La medida ha estado vigente por más de diez años en el país.",
       "source_name": "Patricia Recio",
       "source_url": "https://www.nacion.com/el-pais/como-se-puede-atender-un-choque-sin-esperar-al/OUREYOZCRJEI5J5ZICVTTCISNM/story/",
       "publish_date": "2026-10-21T07:30:00.000Z",
-      "teaser": "Lo clave en 20 segundos: un formulario permite atender accidentes menores sin esperar a tránsito.",
+      "teaser": "Lo clave en 20 segundos: Aprende cómo atender choques sin esperar al tránsito.",
       "image_url": "https://www.nacion.com/resizer/v2/TDMWKGPTPVE5RP2YMF3VMNTLNI.JPG?smart=true&auth=17437ad4583ec913317f3c194d66075843af0a4a9c8b50e4a6be2096121d8e52&width=1440",
       "description": "Desde hace más de 10 años existe un formulario que los conductores pueden llenar para evitar tener que esperar por el tráfico tras un accidente de tránsito menor.",
       "featured": false
@@ -82,11 +108,11 @@
       "slug": "que-es-el-efecto-bola-de-nieve-de-la-deuda-y-que-papel-tiene-en-la-critica-situacion-economica-que-alimenta-las-protesta",
       "title": "Qué es el \"efecto bola de nieve\" de la deuda y qué papel tiene en la crítica situación económica que alimenta las protestas en Francia",
       "category": "Mundo",
-      "bullets_20s": "• Las protestas en Francia destacan la preocupación sobre la situación económica del país.\n• El 'efecto bola de nieve' se refiere al crecimiento de la deuda y su impacto negativo.\n• Los ciudadanos exigen respuestas ante el aumento de costos de vida y recortes presupuestarios.\n• Las políticas fiscales se están debatiendo intensamente en el contexto de estas protestas.\n• El impacto del 'efecto bola de nieve' puede ser letal si no se aborda a tiempo.",
+      "bullets_20s": "• El efecto bola de nieve se refiere al crecimiento descontrolado de la deuda pública en un país.\n• Este fenómeno se agrava cuando los intereses sobre la deuda son mayores que el crecimiento económico.\n• En Francia, la situación económica actual ha llevado a múltiples protestas en las calles.\n• Los ciudadanos protestan buscando soluciones a problemas económicos percibidos en el gobierno.\n• El diálogo sobre la deuda es crucial para entender las tensiones sociales y económicas actuales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c65ynve23xj7o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-21T03:57:54.000Z",
-      "teaser": "Lo clave en 20 segundos: El 'efecto bola de nieve' desata protestas económicas en Francia.",
+      "teaser": "Lo clave en 20 segundos: El efecto bola de nieve y su impacto en las protestas francesas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c1c7/live/0f28a8b0-cc32-11f1-aeea-f9fa95687445.jpg",
       "description": "Mientras siguen las protestas en Francia, las cuentas del país empiezan a generar preocupación.",
       "featured": false
@@ -1821,19 +1847,6 @@
       "featured": false
     },
     {
-      "slug": "recorte-de-492-millones-pone-en-riesgo-la-operacion-del-tec-en-limon",
-      "title": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
-      "category": "Costa Rica",
-      "bullets_20s": "• El recorte de fondos afecta directamente al Centro Académico de Limón del TEC, que tiene 417 estudiantes.\n• El Gobierno propone una reducción significativa en el presupuesto que garantiza el funcionamiento de la sede.\n• El MEP confirmó que los giros de octubre a diciembre no se realizarán por disposiciones de Hacienda.\n• El TEC advierte sobre la posibilidad de un cierre técnico, afectando la continuidad educativa de los estudiantes.\n• La rectora del TEC solicita a las autoridades gubernamentales reconsiderar este recorte y apoyar la educación.\n• El TEC ha estado presente en Limón desde 2014, ofreciendo carreras de ingeniería acreditadas a la comunidad.\n• Se prevé que otros recortes en el presupuesto 2027 agraven aún más la situación financiera del TEC.\n• Los recursos necesarios para el TEC están amparados por leyes que garantizan su financiamiento.\n• La falta de fondos puede comprometer las becas, proyectos de investigación y actividades en las sedes del TEC.\n• La comunidad educativa del CAL ha expresado su fuerte oposición a los recortes propuestos y busca apoyo.",
-      "source_name": "m.molina",
-      "source_url": "http://www.tec.ac.cr/recorte-c492-millones-pone-riesgo-operacion-tec-limon",
-      "publish_date": "2026-10-18T22:23:39.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC enfrenta un recorte que amenaza su operación en Limón, impactando a estudiantes.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/stock_centro-academico-limon-tec-7.jpg",
-      "description": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
-      "featured": false
-    },
-    {
       "slug": "pintar-en-voz-alta-entrevista-con-el-artista-philipp-anaskin-por-su-exposicion-rostros-de-poder",
       "title": "Pintar en voz alta: Entrevista con el artista Philipp Anaskin por su exposición ‘Rostros de poder’",
       "category": "Costa Rica",
@@ -2533,6 +2546,19 @@
       "teaser": "Lo clave en 20 segundos: Descubre la historia de cómo ‘La Nación’ ha educado a niños desde hace 80 años.",
       "image_url": "https://www.nacion.com/resizer/v2/ET5N3KHPKVBVFHSVJQK63PRACI.JPG?auth=ad58c898db360f5b48d165e9456138740d8e9e1b9cd451d3bc629151896b0f24&smart=true&width=3000&height=1682",
       "description": "‘Zurquí’, ‘Tambor’, ‘Leer para disfrutar’, proyectos educativos, historietas en ‘Viva’, pasatiempos y recomendaciones han acompañado a lectores durante los 80 años de historia de 'La Nación'",
+      "featured": false
+    },
+    {
+      "slug": "recorte-de-492-millones-pone-en-riesgo-la-operacion-del-tec-en-limon",
+      "title": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Gobierno planea reducir ¢492 millones que sostienen al Centro Académico de Limón del TEC.\n• El recorte afecta la operación ordinaria y los recursos programados para el último trimestre del año.\n• La Ley n.° 9131 asignó recursos específicos al TEC, protegidos por ley desde su creación.\n• La institución advierte que un cierre técnico sería inminente sin estos fondos en el futuro cercano.\n• El TEC solicita a la Asamblea rechazar los recortes propuestos y garantizar el financiamiento requerido.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/recorte-c492-millones-pone-riesgo-operacion-tec-limon",
+      "publish_date": "2026-10-18T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: el TEC en Limón enfrenta un recorte que pone en peligro su operación regular.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/stock_centro-academico-limon-tec-7.jpg",
+      "description": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "featured": false
     },
     {
@@ -3995,11 +4021,11 @@
       "slug": "medio-siglo-de-transparencia-y-control-la-auditoria-interna-del-tec-celebra-50-anos-de-trayectoria-al-servicio-de-la-ins",
       "title": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "category": "Costa Rica",
-      "bullets_20s": "• La Auditoría Interna del TEC celebra cinco décadas de trabajo y compromiso con la transparencia institucional.\n• Este hito se destaca en el contexto del 55 aniversario del Tecnológico de Costa Rica, fortaleciendo su identidad.\n• El evento reunió a líderes institucionales y exauditores, rindiendo tributo a quienes construyeron su legado.\n• La inteligencia artificial se presenta como una herramienta clave para mejorar los procesos de auditoría en la actualidad.\n• El auditor interno enfatizó la importancia del trabajo ético para mantener la confianza en la gestión pública.",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebra el aniversario de su Auditoría Interna con un acto significativo.\n• Cinco décadas de aportes a la gestión operativa y el desarrollo universitario han sido conmemorados.\n• El auditor interno destaca la importancia del trabajo ético y comprometido en la institución.\n• Se presentan retos contemporáneos como la transformación digital y la inteligencia artificial.\n• La Auditoría ha evolucionado de velar recursos a evaluar riesgos y procesos estratégicos.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/medio-siglo-transparencia-control-auditoria-interna-tec-celebra-50-anos-trayectoria-servicio",
       "publish_date": "2026-10-15T21:59:13.000Z",
-      "teaser": "Lo clave en 20 segundos: La Auditoría Interna del TEC celebra 50 años de excelencia en control y transparencia.",
+      "teaser": "Lo clave en 20 segundos: Se celebra 50 años de la Auditoría Interna en el TEC, un legado de transparencia y control.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/auditoria-8.jpeg",
       "description": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "featured": false
@@ -4137,12 +4163,12 @@
     {
       "slug": "cuatro-candidaturas-aspiran-a-la-direccion-del-campus-tecnologico-local-san-carlos",
       "title": "Cuatro candidaturas aspiran a la Dirección del Campus Tecnológico Local San Carlos",
-      "category": "Ciencia",
-      "bullets_20s": "• La elección para la dirección del campus será el 12 de noviembre próximamente.\n• Las candidaturas presentaron los colores para su identificación durante la campaña.\n• Se realizará una actividad para expresar el pensamiento el 5 de noviembre.\n• El TIE ha entregado las credenciales oficiales a las candidaturas en el acto.\n• La comunidad institucional participará en el proceso y en las votaciones.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Tribunal Institucional Electoral entrega oficialmente las candidaturas para el Campus Tecnológico San Carlos.\n• La elección se llevará a cabo el 12 de noviembre de 2026, en horario de 9 a.m. a 6 p.m.\n• Las actividades previas incluyen una expresión del pensamiento el 5 de noviembre en el Auditorio de CTEC.\n• Cuatro candidatos fueron seleccionados tras cumplir requisitos establecidos en la normativa institucional del TEC.\n• El proceso electoral incluye un periodo de campaña pública de cuatro semanas para las candidaturas.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/cuatro-candidaturas-aspiran-direccion-campus-tecnologico-local-san-carlos",
       "publish_date": "2026-10-15T18:47:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Se presentan cuatro candidaturas para el Campus Tecnológico Local San Carlos.",
+      "teaser": "Lo clave en 20 segundos: Se presentan cuatro candidatos para dirigir el Campus Tecnológico San Carlos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/entrega-procedencia-tie-san-carlos_rcascante-06.jpg",
       "description": "Cuatro candidaturas aspiran a la Dirección del Campus Tecnológico Local San Carlos",
       "featured": false
@@ -5045,19 +5071,6 @@
       "featured": false
     },
     {
-      "slug": "el-tec-lidera-el-sector-de-educacion-superior-en-los-rankings-de-reputacion-y-responsabilidad-de-merco-2026",
-      "title": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
-      "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica (TEC) destaca en los rankings de reputación en 2026.\n• El TEC ocupó el primer lugar en Merco Empresas por segundo año consecutivo.\n• En Merco Responsabilidad, el TEC también lideró la categoría de educación superior.\n• La celebración de resultados tuvo lugar en San José el 8 de octubre.\n• El TEC es la única institución de educación superior entre las principales en ambos rankings.",
-      "source_name": "m.molina",
-      "source_url": "http://www.tec.ac.cr/tec-lidera-sector-educacion-superior-rankings-reputacion-responsabilidad-merco-2026",
-      "publish_date": "2026-10-14T15:01:35.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC destaca en Merco 2026 como líder en educación superior en Costa Rica.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/diseno-sin-titulo-4.png",
-      "description": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
-      "featured": false
-    },
-    {
       "slug": "carlos-barahona-sale-esposado-hacia-tribunales-por-caso-gota-a-gota-ver-video",
       "title": "Carlos Barahona sale esposado hacia Tribunales por caso gota a gota (ver video)",
       "category": "Costa Rica",
@@ -5575,6 +5588,19 @@
       "teaser": "Lo clave en 20 segundos: Aprueban ley para proteger legalmente a policías demandados.",
       "image_url": "https://www.nacion.com/resizer/v2/YETXG74ER5F4XM7WWAZBTEDUHQ.JPG?smart=true&auth=81dc08d51c3aed345b4c15d4f073cf04393d87fe700dccca84025770ff9632dd&width=1440",
       "description": "Reforma incluye un inciso en la Ley General de Policía y fue aprobada de forma unánime por 51 legisladores",
+      "featured": false
+    },
+    {
+      "slug": "el-tec-lidera-el-sector-de-educacion-superior-en-los-rankings-de-reputacion-y-responsabilidad-de-merco-2026",
+      "title": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC mantiene su liderazgo en el sector de educación superior según Merco 2026.\n• Por segundo año, ocupa el primer lugar en Merco Empresas y Responsabilidad.\n• El TEC es la única institución de educación entre los 20 primeros lugares en rankings.\n• En Merco Talento, el TEC se sitúa en el tercer lugar del sector educativo.\n• Merco mide la reputación de organizaciones desde el año 2000 en varios países.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/tec-lidera-sector-educacion-superior-rankings-reputacion-responsabilidad-merco-2026",
+      "publish_date": "2026-10-14T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC lidera los rankings de Merco en Costa Rica, destacando su reputación y responsabilidad.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/diseno-sin-titulo-4.png",
+      "description": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
       "featured": false
     },
     {
@@ -115441,8 +115467,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-21T10:45:25.999Z",
-  "total": 8880,
+  "generated_at": "2026-10-21T11:45:27.784Z",
+  "total": 8882,
   "removed_soccer_news_count": 1426,
   "removed_soccer_news_titles": [
     "Resumen de la Champions: El PSG frena al Barça y el Liverpool resiste su ritmo",
