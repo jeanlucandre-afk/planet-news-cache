@@ -1,14 +1,53 @@
 {
   "news": [
     {
+      "slug": "los-jovenes-no-piden-que-les-regalen-el-futuro",
+      "title": "Los jóvenes no piden que les regalen el futuro",
+      "category": "Costa Rica",
+      "bullets_20s": "• Las nuevas generaciones exigen un entorno que les permita desarrollarse plenamente en la vida.\n• Las oportunidades educativas son fundamentales para que puedan alcanzar sus metas personales.\n• La creación de empleo es crucial para que estos jóvenes puedan construir sus propios proyectos.\n• Es importante que la sociedad apoye el camino de los jóvenes hacia su futuro.\n• El empoderamiento juvenil debe ser un objetivo a largo plazo para todos los sectores.\n• Los jóvenes desean participar activamente en decisiones que les atañen directamente.",
+      "source_name": "Emma Tristán",
+      "source_url": "https://www.nacion.com/opinion/foros/los-jovenes-no-piden-que-les-regalen-el-futuro/2BUHE2G2ZBHF5O7QWCIOCUZXNY/story/",
+      "publish_date": "2026-10-21T12:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: los jóvenes buscan oportunidades, no soluciones fáciles.",
+      "image_url": "https://www.nacion.com/resizer/v2/O4DBYPD3H5GGPFFJQ3Z4EAZ6MQ.jpg?smart=true&auth=d94ebbb603fabf1037b1347d372dd927d4ecec7eb32248df58982a14c3c7d6da&width=1440",
+      "description": "Las nuevas generaciones no esperan que les resuelvan la vida, sino que existan condiciones para estudiar, trabajar y construir un proyecto propio. El deber de la sociedad es no cerrarles el camino antes de que puedan recorrerlo.",
+      "featured": false
+    },
+    {
+      "slug": "inteligencia-artificial-futuro-distopico-o-pura-vida",
+      "title": "Inteligencia artificial: ¿futuro distópico o pura vida?",
+      "category": "Ciencia",
+      "bullets_20s": "• La inteligencia artificial está revolucionando diversas industrias y sectores laborales en el mundo actual.\n• Es esencial para Costa Rica adaptarse a las innovaciones tecnológicas y su impacto en la economía.\n• La gestión de riesgos asociados con la IA es clave para el desarrollo sostenible en el país.\n• El aprovechamiento del potencial de la IA puede mejorar la calidad de vida de los costarricenses.\n• Los desafíos éticos que presenta la IA deben ser discutidos y abordados en la sociedad costarricense.",
+      "source_name": "Víctor Umaña",
+      "source_url": "https://www.nacion.com/opinion/columnistas/inteligencia-artificial-futuro-distopico-o-pura/F2GOQFIJDFG2TEOENOLSV7AXHM/story/",
+      "publish_date": "2026-10-21T12:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: ¿Puede la inteligencia artificial ser una oportunidad para Costa Rica?",
+      "image_url": "https://www.nacion.com/resizer/v2/2Y4KHNKX7RHZNEAOXCYZ45XWJU.jpg?smart=true&auth=a96d84ca71d98d4d6f62dfc73fcc4ba086fbaaa0c916e3209a6397a73b25312c&width=1440",
+      "description": "La IA podría transformar el trabajo, la economía y nuestra forma de vivir. El desafío para Costa Rica es aprovechar su potencial, gestionar sus riesgos y evitar que esta revolución la encuentre desprevenida.",
+      "featured": false
+    },
+    {
+      "slug": "quien-vigila-a-la-inteligencia-artificial",
+      "title": "¿Quién vigila a la inteligencia artificial?",
+      "category": "Ciencia",
+      "bullets_20s": "• La inteligencia artificial genera preguntas sobre su regulación y ética en diferentes sectores de la vida.\n• Los chatbots son utilizados en diversos contextos, incluyendo la industria de aviación y salud.\n• A medida que la tecnología avanza, surge la necesidad de establecer límites claros en su uso.\n• Los expertos debaten sobre la seguridad y el impacto de las decisiones tomadas por la inteligencia artificial.\n• Es fundamental crear una estructura de vigilancia para asegurar sus aplicaciones éticas y responsables.",
+      "source_name": "María L. Ávila Agüero",
+      "source_url": "https://www.nacion.com/opinion/columnistas/quien-vigila-a-la-inteligencia-artificial/VOMW2P7HONA2VLP3FWUMOUUQIE/story/",
+      "publish_date": "2026-10-21T11:30:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La regulación ética de la inteligencia artificial es crucial para su desarrollo.",
+      "image_url": "https://www.nacion.com/resizer/v2/CZAUVOYSF5H2NNV3SUW3N3YL2M.png?smart=true&auth=13b7eec72cbdc525739f1fd5043d4388aa645b4521efde294b0f0bf0553ace60&width=1440",
+      "description": "La próxima vez que subamos a un avión, podríamos pedirle a un 'chatbot' que cuestione al piloto. Después de todo, también habrá leído mucho sobre aviación.",
+      "featured": false
+    },
+    {
       "slug": "editorial-carlo-diaz-cuatro-anos-mas-al-frente-de-una-fiscalia-bajo-presion",
       "title": "Editorial: Carlo Díaz, cuatro años más al frente de una fiscalía bajo presión",
       "category": "Costa Rica",
-      "bullets_20s": "• Carlo Díaz recibe sustento unánime para seguir como Fiscal General en Costa Rica.\n• Las presiones políticas siguen siendo un desafío significante para la fiscalía.\n• Los recortes presupuestarios pueden afectar la eficacia del Ministerio Público.\n• La administración de justicia enfrenta retos en la lucha contra el delito.\n• El apoyo al Fiscal General muestra un compromiso con la integridad y justicia.",
+      "bullets_20s": "• Carlo Díaz recibe un respaldo unánime para seguir al frente de la fiscalía en Costa Rica.\n• La presión política se intensifica sobre el Ministerio Público en el actual contexto nacional.\n• Recortes presupuestarios amenazan la capacidad de la fiscalía para cumplir su función esencial.\n• El liderazgo de Díaz ha sido clave para enfrentar la criminalidad en el país.\n• La necesidad de recursos financieros es crucial para el funcionamiento del Ministerio Público.",
       "source_name": "La Nación",
       "source_url": "https://www.nacion.com/opinion/editorial/editorial-carlo-diaz-cuatro-anos-mas-al-frente-de/RDTQDOWW5FFQTCTDOYQSA2FVAA/story/",
       "publish_date": "2026-10-21T11:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Carlo Díaz sigue al mando, pero enfrenta presión política y presupuestaria.",
+      "teaser": "Lo clave en 20 segundos: Apoyo a Carlo Díaz en medio de presiones y recortes que ponen en riesgo la fiscalía.",
       "image_url": "https://www.nacion.com/resizer/v2/RLX4PJOJKBB6HL5BZF7H64G6YM.JPG?smart=true&auth=d2c356a5c7c9b6d627ad1befaff87b77bdfa3c0070564e48e59d5d1421594abe&width=1440",
       "description": "El respaldo unánime a Carlo Díaz para que continúe al mando del Ministerio Público contrasta con las presiones políticas y los recortes presupuestarios que amenazan la capacidad de esa institución para perseguir el delito.",
       "featured": false
@@ -17,11 +56,11 @@
       "slug": "las-imagenes-de-las-fascinantes-especies-del-nuevo-atlas-de-las-islas-galapagos",
       "title": "Las imágenes de las fascinantes especies del nuevo atlas de las islas Galápagos",
       "category": "Mundo",
-      "bullets_20s": "• El nuevo atlas detalla más de 60 especies nativas de las islas Galápagos.\n• Se explican las interacciones entre las especies y su ecosistema único.\n• El atlas incluye información sobre las amenazas a estas especies.\n• Las especies invasoras son uno de los principales problemas mencionados.\n• El fenómeno de El Niño impacta en la biodiversidad del archipiélago.",
+      "bullets_20s": "• Las islas Galápagos albergan una biodiversidad espectacular, con especies únicas de flora y fauna.\n• El nuevo atlas ofrece imágenes detalladas de más de 60 especies fascinantes de este archipiélago.\n• Se exploran las interacciones entre las especies locales y su entorno natural en detalle.\n• El atlas destaca las amenazas que enfrentan las especies, como las invasoras y el cambio climático.\n• El fenómeno de El Niño también juega un papel crucial en la ecología de las islas Galápagos.\n• Este recurso busca generar conciencia sobre la importancia de la conservación de estas especies.\n• Las imágenes capturan la esencia de la vida salvaje en un ecosistema delicado.\n• Se espera que el atlas inspire a nuevos investigadores y amantes de la naturaleza.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ck1wvglvpqyqo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-21T10:33:41.000Z",
-      "teaser": "Lo clave en 20 segundos: Un atlas revela la riqueza y amenazas de las especies en Galápagos.",
+      "teaser": "Lo clave en 20 segundos: Un nuevo atlas revela la diversidad y desafíos en Galápagos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3e05/live/4f2faec0-cce8-11f1-bf7e-610931a7bfda.png",
       "description": "El atlas te presenta más de 60 especies del archipiélago, sus interacciones y lo que aún no se sabe de ellas. También explica sus principales amenazas, desde las especies invasoras hasta el fenómeno de El Niño.",
       "featured": false
@@ -108,11 +147,11 @@
       "slug": "que-es-el-efecto-bola-de-nieve-de-la-deuda-y-que-papel-tiene-en-la-critica-situacion-economica-que-alimenta-las-protesta",
       "title": "Qué es el \"efecto bola de nieve\" de la deuda y qué papel tiene en la crítica situación económica que alimenta las protestas en Francia",
       "category": "Mundo",
-      "bullets_20s": "• El efecto bola de nieve se refiere al crecimiento descontrolado de la deuda pública en un país.\n• Este fenómeno se agrava cuando los intereses sobre la deuda son mayores que el crecimiento económico.\n• En Francia, la situación económica actual ha llevado a múltiples protestas en las calles.\n• Los ciudadanos protestan buscando soluciones a problemas económicos percibidos en el gobierno.\n• El diálogo sobre la deuda es crucial para entender las tensiones sociales y económicas actuales.",
+      "bullets_20s": "• El efecto bola de nieve se refiere al incremento creciente de la deuda en un país.\n• Esta situación puede generar un impacto negativo en la economía de las naciones.\n• El descontento popular ha llevado a múltiples protestas en diferentes ciudades de Francia.\n• Analistas examinan las causas subyacentes del descontento económico en el país.\n• Las políticas fiscales son clave para entender el crecimiento de la deuda pública.\n• Los ciudadanos demandan cambios que aborden la crisis económica actual en Francia.\n• Las protestas podrían influir en decisiones políticas a corto y largo plazo.\n• La economía global también afecta decisiones internas sobre deuda y gasto público.\n• La situación económica es un tópico central en el debate político actual en Francia.\n• El estudio del impacto del efecto bola de nieve es crucial para futuros análisis económicos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c65ynve23xj7o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-21T03:57:54.000Z",
-      "teaser": "Lo clave en 20 segundos: El efecto bola de nieve y su impacto en las protestas francesas.",
+      "teaser": "Lo clave en 20 segundos: El efecto bola de nieve en la deuda está detrás del descontento social en Francia.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c1c7/live/0f28a8b0-cc32-11f1-aeea-f9fa95687445.jpg",
       "description": "Mientras siguen las protestas en Francia, las cuentas del país empiezan a generar preocupación.",
       "featured": false
@@ -251,11 +290,11 @@
       "slug": "empece-a-consumir-ketamina-a-los-14-anos-y-a-los-22-necesitaba-panales",
       "title": "Empecé a consumir ketamina a los 14 años y a los 22 necesitaba pañales",
       "category": "Mundo",
-      "bullets_20s": "• La ketamina es una droga utilizada medicinalmente, pero también se consume recreativamente.\n• El uso temprano de sustancias puede tener efectos devastadores a largo plazo en la salud.\n• El testimonio de Megan refleja una realidad creciente en el consumo de drogas entre jóvenes.\n• El abuso de drogas no solo afecta al usuario, sino también a su entorno familiar y social.\n• Es importante hablar sobre la prevención de adicciones en jóvenes para evitar tragedias.",
+      "bullets_20s": "• La ketamina se usa medicinalmente, pero también tiene uso recreativo en muchas culturas.\n• Megan comparte su experiencia para crear conciencia sobre los riesgos del consumo de drogas.\n• El testimonio refleja cómo las drogas pueden transformar vidas de manera destructiva.\n• La adicción a la ketamina puede llevar a problemas de salud física y mental severos.\n• Es fundamental educar sobre el consumo responsable y los efectos secundarios de las drogas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqlyeljpn3p8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-20T22:36:12.000Z",
-      "teaser": "Lo clave en 20 segundos: La historia de Megan revela el oscuro camino del consumo de ketamina desde joven.",
+      "teaser": "Lo clave en 20 segundos: el testimonio de Megan sobre su lucha con la ketamina desde adolescente.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0e22/live/99cf5bb0-cc66-11f1-b1a3-5bda642ff934.jpg",
       "description": "En los últimos dos años, Megan ha sufrido un dolor insoportable y ha sido incapaz de mantenerse erguida debido a su consumo de la droga.",
       "featured": false
@@ -1847,6 +1886,19 @@
       "featured": false
     },
     {
+      "slug": "recorte-de-492-millones-pone-en-riesgo-la-operacion-del-tec-en-limon",
+      "title": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
+      "category": "Costa Rica",
+      "bullets_20s": "• El recorte de fondos afecta la operación del TEC en Limón, crucial para su funcionamiento.\n• El gobierno busca reducir el presupuesto del TEC en más de ¢492 millones en 2026.\n• El CAL del TEC atiende a 417 estudiantes en Limón desde su creación en 2014.\n• La rebaja de presupuestos podría causar un cierre técnico en el Centro Académico de Limón.\n• Se han presentado mociones que afectarán aún más el financiamiento para el TEC en 2027.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/recorte-c492-millones-pone-riesgo-operacion-tec-limon",
+      "publish_date": "2026-10-18T22:23:39.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC en Limón enfrenta recortes presupuestarios que amenazan su funcionamiento.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/stock_centro-academico-limon-tec-7.jpg",
+      "description": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
+      "featured": false
+    },
+    {
       "slug": "pintar-en-voz-alta-entrevista-con-el-artista-philipp-anaskin-por-su-exposicion-rostros-de-poder",
       "title": "Pintar en voz alta: Entrevista con el artista Philipp Anaskin por su exposición ‘Rostros de poder’",
       "category": "Costa Rica",
@@ -2546,19 +2598,6 @@
       "teaser": "Lo clave en 20 segundos: Descubre la historia de cómo ‘La Nación’ ha educado a niños desde hace 80 años.",
       "image_url": "https://www.nacion.com/resizer/v2/ET5N3KHPKVBVFHSVJQK63PRACI.JPG?auth=ad58c898db360f5b48d165e9456138740d8e9e1b9cd451d3bc629151896b0f24&smart=true&width=3000&height=1682",
       "description": "‘Zurquí’, ‘Tambor’, ‘Leer para disfrutar’, proyectos educativos, historietas en ‘Viva’, pasatiempos y recomendaciones han acompañado a lectores durante los 80 años de historia de 'La Nación'",
-      "featured": false
-    },
-    {
-      "slug": "recorte-de-492-millones-pone-en-riesgo-la-operacion-del-tec-en-limon",
-      "title": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
-      "category": "Costa Rica",
-      "bullets_20s": "• El Gobierno planea reducir ¢492 millones que sostienen al Centro Académico de Limón del TEC.\n• El recorte afecta la operación ordinaria y los recursos programados para el último trimestre del año.\n• La Ley n.° 9131 asignó recursos específicos al TEC, protegidos por ley desde su creación.\n• La institución advierte que un cierre técnico sería inminente sin estos fondos en el futuro cercano.\n• El TEC solicita a la Asamblea rechazar los recortes propuestos y garantizar el financiamiento requerido.",
-      "source_name": "m.molina",
-      "source_url": "http://www.tec.ac.cr/recorte-c492-millones-pone-riesgo-operacion-tec-limon",
-      "publish_date": "2026-10-18T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: el TEC en Limón enfrenta un recorte que pone en peligro su operación regular.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/stock_centro-academico-limon-tec-7.jpg",
-      "description": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "featured": false
     },
     {
@@ -4021,11 +4060,11 @@
       "slug": "medio-siglo-de-transparencia-y-control-la-auditoria-interna-del-tec-celebra-50-anos-de-trayectoria-al-servicio-de-la-ins",
       "title": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebra el aniversario de su Auditoría Interna con un acto significativo.\n• Cinco décadas de aportes a la gestión operativa y el desarrollo universitario han sido conmemorados.\n• El auditor interno destaca la importancia del trabajo ético y comprometido en la institución.\n• Se presentan retos contemporáneos como la transformación digital y la inteligencia artificial.\n• La Auditoría ha evolucionado de velar recursos a evaluar riesgos y procesos estratégicos.",
+      "bullets_20s": "• La Auditoría Interna del TEC celebra cinco décadas de compromiso y esfuerzo en su labor.\n• Un pilar estratégico en el fortalecimiento del control interno y la rendición de cuentas.\n• La comunidad del TEC conmemora un legado institucional que ha impactado la gestión operativa.\n• La inteligencia artificial se presenta como aliada en la fiscalización y gestión de datos masivos.\n• El evento destaca la importancia de la ética y el compromiso del personal auditor.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/medio-siglo-transparencia-control-auditoria-interna-tec-celebra-50-anos-trayectoria-servicio",
       "publish_date": "2026-10-15T21:59:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Se celebra 50 años de la Auditoría Interna en el TEC, un legado de transparencia y control.",
+      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de la Auditoría Interna del TEC, pilar de transparencia.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/auditoria-8.jpeg",
       "description": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "featured": false
@@ -4164,11 +4203,11 @@
       "slug": "cuatro-candidaturas-aspiran-a-la-direccion-del-campus-tecnologico-local-san-carlos",
       "title": "Cuatro candidaturas aspiran a la Dirección del Campus Tecnológico Local San Carlos",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tribunal Institucional Electoral entrega oficialmente las candidaturas para el Campus Tecnológico San Carlos.\n• La elección se llevará a cabo el 12 de noviembre de 2026, en horario de 9 a.m. a 6 p.m.\n• Las actividades previas incluyen una expresión del pensamiento el 5 de noviembre en el Auditorio de CTEC.\n• Cuatro candidatos fueron seleccionados tras cumplir requisitos establecidos en la normativa institucional del TEC.\n• El proceso electoral incluye un periodo de campaña pública de cuatro semanas para las candidaturas.",
+      "bullets_20s": "• Cuatro candidatos han sido aprobados para la Dirección del Campus Tecnológico Local San Carlos.\n• La elección se llevará a cabo el 12 de noviembre de 2026, presencialmente.\n• Se abrió oficialmente el periodo de campaña electoral para las candidaturas seleccionadas.\n• La Actividad de expresión del pensamiento se realizará el 5 de noviembre en el campus.\n• El TIE establece requisitos claros para las candidaturas a la dirección del campus.\n• Cada candidatura presentó colores que las identificarán durante la campaña.\n• El TIE instó a fomentar el pensamiento crítico en la campaña electoral.\n• La declaratoria oficial de resultados está prevista para el 18 de noviembre.\n• El Campus Tecnológico Local San Carlos tiene una infraestructura que apoya la educación.",
       "source_name": "johumana",
       "source_url": "http://www.tec.ac.cr/cuatro-candidaturas-aspiran-direccion-campus-tecnologico-local-san-carlos",
       "publish_date": "2026-10-15T18:47:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Se presentan cuatro candidatos para dirigir el Campus Tecnológico San Carlos.",
+      "teaser": "Lo clave en 20 segundos: Cuatro candidaturas compiten por la dirección del Campus Tecnológico San Carlos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/entrega-procedencia-tie-san-carlos_rcascante-06.jpg",
       "description": "Cuatro candidaturas aspiran a la Dirección del Campus Tecnológico Local San Carlos",
       "featured": false
@@ -5071,6 +5110,19 @@
       "featured": false
     },
     {
+      "slug": "el-tec-lidera-el-sector-de-educacion-superior-en-los-rankings-de-reputacion-y-responsabilidad-de-merco-2026",
+      "title": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Tecnológico de Costa Rica ocupó el primer lugar del sector en Merco Empresas y responsabilidad.\n• El TEC se posiciona como la única institución de educación superior entre los 20 primeros lugares.\n• En Merco Talento, el TEC se posicionó en el tercer lugar del sector de educación superior.\n• La metodología de Merco fue revisada de manera independiente por KPMG para garantizar transparencia.\n• Merco lleva evaluando la reputación de organizaciones desde el año 2000 en Iberoamérica.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/tec-lidera-sector-educacion-superior-rankings-reputacion-responsabilidad-merco-2026",
+      "publish_date": "2026-10-14T15:01:35.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC lidera en reputación y responsabilidad según el ranking Merco 2026.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/diseno-sin-titulo-4.png",
+      "description": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
+      "featured": false
+    },
+    {
       "slug": "carlos-barahona-sale-esposado-hacia-tribunales-por-caso-gota-a-gota-ver-video",
       "title": "Carlos Barahona sale esposado hacia Tribunales por caso gota a gota (ver video)",
       "category": "Costa Rica",
@@ -5588,19 +5640,6 @@
       "teaser": "Lo clave en 20 segundos: Aprueban ley para proteger legalmente a policías demandados.",
       "image_url": "https://www.nacion.com/resizer/v2/YETXG74ER5F4XM7WWAZBTEDUHQ.JPG?smart=true&auth=81dc08d51c3aed345b4c15d4f073cf04393d87fe700dccca84025770ff9632dd&width=1440",
       "description": "Reforma incluye un inciso en la Ley General de Policía y fue aprobada de forma unánime por 51 legisladores",
-      "featured": false
-    },
-    {
-      "slug": "el-tec-lidera-el-sector-de-educacion-superior-en-los-rankings-de-reputacion-y-responsabilidad-de-merco-2026",
-      "title": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
-      "category": "Costa Rica",
-      "bullets_20s": "• El TEC mantiene su liderazgo en el sector de educación superior según Merco 2026.\n• Por segundo año, ocupa el primer lugar en Merco Empresas y Responsabilidad.\n• El TEC es la única institución de educación entre los 20 primeros lugares en rankings.\n• En Merco Talento, el TEC se sitúa en el tercer lugar del sector educativo.\n• Merco mide la reputación de organizaciones desde el año 2000 en varios países.",
-      "source_name": "m.molina",
-      "source_url": "http://www.tec.ac.cr/tec-lidera-sector-educacion-superior-rankings-reputacion-responsabilidad-merco-2026",
-      "publish_date": "2026-10-14T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC lidera los rankings de Merco en Costa Rica, destacando su reputación y responsabilidad.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/diseno-sin-titulo-4.png",
-      "description": "El TEC lidera el sector de educación superior en los rankings de reputación y responsabilidad de Merco 2026",
       "featured": false
     },
     {
@@ -115467,8 +115506,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-21T11:45:27.784Z",
-  "total": 8882,
+  "generated_at": "2026-10-21T12:45:25.779Z",
+  "total": 8885,
   "removed_soccer_news_count": 1426,
   "removed_soccer_news_titles": [
     "Resumen de la Champions: El PSG frena al Barça y el Liverpool resiste su ritmo",
