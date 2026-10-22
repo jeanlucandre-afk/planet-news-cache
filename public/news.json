@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "especialista-explica-como-protegerse-ante-falla-en-sistema-php-que-amenazaria-a-70-de-sitios-web-del-mundo",
+      "title": "Especialista explica cómo protegerse ante falla en sistema PHP que amenazaría a 70% de sitios web del mundo",
+      "category": "Tecnología",
+      "bullets_20s": "• La falla en PHP podría comprometer la seguridad de una gran cantidad de sitios web en todo el mundo.\n• Especialistas advierten sobre la importancia de contar con medidas de protección adecuadas para evitar pérdidas.\n• Las empresas y usuarios deben ser conscientes de los riesgos y actuar cuanto antes para proteger sus datos.\n• Se recomienda actualizar sistemas y adoptar nuevas prácticas de seguridad cibernética para mitigar vulnerabilidades.\n• La situación demuestra la necesidad de formación continua en tecnologías de la información y seguridad digital.",
+      "source_name": "Roger Bolaños Vargas",
+      "source_url": "https://www.nacion.com/revista-dominical/especialista-explica-como-protegerse-ante-falla-en/W5XXPFV6BBFEJIESQTAD5SNAW4/story/",
+      "publish_date": "2026-10-22T21:23:38.000Z",
+      "teaser": "Lo clave en 20 segundos: La falla en PHP podría afectar a millones de sitios web, advierten especialistas.",
+      "image_url": "https://www.nacion.com/resizer/v2/4XOIE2QHQZDDNO2OPIKCMDSRNU.jpg?auth=f08d15304046319563413c8b67e0bb319e8811ade0ed5ca5b3fcd13208c054ed&smart=true&width=3200&height=2130",
+      "description": "Vicepresidente de Camtic, Hernando Segura, confirmó que las vulnerabilidades en el sistema PHP también afectan a Costa Rica, y millones de datos pudieron ser sustraídos.",
+      "featured": false
+    },
+    {
+      "slug": "homicidio-de-primos-en-dudes-suspendido-juicio-contra-sospechosos-de-asesinarlos-y-enterrarlos-en-una-fosa",
+      "title": "Homicidio de primos en Dude’s: suspendido juicio contra sospechosos de asesinarlos y enterrarlos en una fosa",
+      "category": "Costa Rica",
+      "bullets_20s": "• El caso de los primos ha conmocionado a la comunidad de Heredia en Costa Rica.\n• Los cuerpos fueron hallados en una fosa, generando preocupación sobre la seguridad.\n• El juicio estaba programado pero fue suspendido, lo que causa más incertidumbre.\n• Los familiares de las víctimas han pedido justicia desde el inicio de la investigación.\n• La violencia en la región ha aumentado en los últimos años, alertando a las autoridades.",
+      "source_name": "Natalia Vargas",
+      "source_url": "https://www.nacion.com/sucesos/homicidio-de-primos-en-dudes-suspendido-juicio/3J5SYSW5BZBUJK7BYRUPIRSK3M/story/",
+      "publish_date": "2026-10-22T21:22:27.000Z",
+      "teaser": "Lo clave en 20 segundos: se suspende el juicio por el homicidio de primos en un bar de Heredia.",
+      "image_url": "https://www.nacion.com/resizer/v2/ED2ILHJAPNGMHK6DMMA3HJH5QQ.png?auth=8cd62af97b49828ee7f5c1c2d4e99050de5048a59723178253e141c5545d9230&smart=true&width=1920&height=1080",
+      "description": "Transcurrió un año y ocho meses desde que Carlos Alberto Barboza Chacón, de 32 años, y su primo, Jorge Humberto Barboza Abarca, de 33, aparecieron enterrados en una fosa en el bar Dude’s, en el centro de Heredia. Este jueves inicia el debate por este doble homicidio.",
+      "featured": false
+    },
+    {
       "slug": "traslado-en-el-pentagono-rompe-el-globo-terraqueo-historico-de-eisenhower",
       "title": "Traslado en el Pentágono rompe el globo terráqueo histórico de Eisenhower",
       "category": "Mundo",
@@ -69,11 +95,11 @@
       "slug": "como-trump-esta-tratando-de-influir-para-que-flavio-bolsonaro-gane-a-lula-en-las-elecciones-de-brasil",
       "title": "Cómo Trump está tratando de influir para que Flávio Bolsonaro gane a Lula en las elecciones de Brasil",
       "category": "Mundo",
-      "bullets_20s": "• Donald Trump muestra un interés significativo en las elecciones brasileñas que se aproximan.\n• Flávio Bolsonaro representa una opción política alineada con el estilo de Trump.\n• Las estrategias de influencia internacional pueden afectar la democracia de un país.\n• El papel de Estados Unidos en elecciones ajenas genera controversia a nivel mundial.\n• Las elecciones en Brasil son un evento crucial para la política latinoamericana actual.",
+      "bullets_20s": "• Donald Trump está observando con atención las elecciones en Brasil y sus posibles consecuencias.\n• Flávio Bolsonaro se encuentra en una difícil competencia electoral contra Lula, un antiguo rival.\n• El interés de Trump en Brasil podría estar relacionado con buenas relaciones estratégicas.\n• Las elecciones en Brasil son cruciales y podrían influir en la política de América Latina.\n• Interferir en la votación es un tema delicado y genera muchas controversias internacionalmente.\n• La política de Brasil atrae la atención de líderes mundiales por sus implicaciones globales.\n• Las influencias externas son un factor importante en el contexto electoral de cualquier país.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqglwgj3e91yo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-22T18:31:16.000Z",
-      "teaser": "Lo clave en 20 segundos: Trump busca influir en elecciones brasileñas y apoyará a Flávio Bolsonaro.",
+      "teaser": "Lo clave en 20 segundos: Trump observa las elecciones en Brasil y su interés podría influir en el resultado.",
       "image_url": "",
       "description": "El presidente de EE.UU., Donald Trump, dijo que sigue muy de cerca las próximas elecciones y se refirió a Brasil como un país muy importante. ¿Lo está llevando este interés a interferir en la votación misma?",
       "featured": false
@@ -160,11 +186,11 @@
       "slug": "que-es-php-y-por-que-genero-una-falla-de-seguridad-en-internet-que-desato-una-alerta-global",
       "title": "¿Qué es PHP y por qué generó una falla de seguridad en internet que desató una alerta global?",
       "category": "Mundo",
-      "bullets_20s": "• PHP ha sido un lenguaje de programación popular en el desarrollo web durante décadas.\n• Las fallas detectadas generaron preocupación entre desarrolladores y expertos en ciberseguridad.\n• La IA identificó vulnerabilidades que habían pasado desapercibidas por años, sorprendiendo a muchos.\n• La alerta global se debió al riesgo de que estos fallos fueran explotados por cibercriminales.\n• Es fundamental que las empresas actualicen sus sistemas para prevenir futuros incidentes de seguridad.",
+      "bullets_20s": "• PHP, un lenguaje de programación popular, enfrenta vulnerabilidades históricas que fueron ignoradas por años.\n• Una IA ha identificado fallos que podrían permitir ataques informáticos masivos a nivel global.\n• La respuesta de ciberseguridad ha sido rápida, movilizando equipos para mitigar riesgos potenciales.\n• Expertos alertan sobre la necesidad de actualizar sistemas y aplicaciones que dependen de PHP.\n• Las implicaciones de esta falla podrían afectar la seguridad de millones de sitios web en el mundo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmly0k9y9p1vo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-22T16:20:41.000Z",
-      "teaser": "Lo clave en 20 segundos: PHP generó una alerta global por fallas de seguridad detectadas por una IA.",
+      "teaser": "Lo clave en 20 segundos: PHP revela fallos críticos que generan alerta en la ciberseguridad global.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f83f/live/fc74acb0-ce01-11f1-8991-296181d7e3de.jpg",
       "description": "Una IA detectó fallos de programación ocultos durante años, lo que desencadenó una inusual respuesta de ciberseguridad por temor a que fueran explotados por ciberatacantes.",
       "featured": false
@@ -664,6 +690,19 @@
       "featured": false
     },
     {
+      "slug": "feria-virtual-de-tecnicos-e-idiomas-del-tec",
+      "title": "Feria Virtual de Técnicos e Idiomas del TEC",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC lanzará la primera Feria Virtual de Técnicos e Idiomas el 30 de octubre de 2026.\n• La feria será accessible desde cualquier dispositivo, disponible las 24 horas al día.\n• Habrá 21 stands interactivos para conocer la oferta de programas del TEC.\n• El evento es gratuito y busca facilitar el acceso a la educación técnica y lingüística.\n• Es una gran oportunidad para fortalecer competencias profesionales y personales.",
+      "source_name": "nchinchilla",
+      "source_url": "http://www.tec.ac.cr/feria-virtual-tecnicos-idiomas-tec",
+      "publish_date": "2026-10-22T00:22:40.000Z",
+      "teaser": "Lo clave en 20 segundos: Feria Virtual del TEC abrirá el 30 de octubre con recursos técnicos e idiomas.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/invitacion-feria-virtual-1.png",
+      "description": "Feria Virtual de Técnicos e Idiomas del TEC",
+      "featured": false
+    },
+    {
       "slug": "nogui-acosta-insistira-en-recortes-a-universidades-publicas-en-segundo-presupuesto-extraordinario-2026",
       "title": "Nogui Acosta insistirá en recortes a universidades públicas en Segundo Presupuesto Extraordinario 2026",
       "category": "Costa Rica",
@@ -687,19 +726,6 @@
       "teaser": "Lo clave en 20 segundos: Sospechosos con armas 3D y drogas en Osa generan alarma en Puntarenas.",
       "image_url": "https://www.nacion.com/resizer/v2/EJSUL7665VBZVJCA6UNF7O2KUA.png?auth=48e6c9ce600dd2d7109b312a16ff4255efe44e921999f25a65623354b26884df&smart=true&width=2414&height=1404",
       "description": "Dos sospechosos de almacenar 357 paquetes de cocaína en una mansión en Osa, Puntarenas, tenían entre su arsenal cuatro rifles de asalto fabricados con impresora 3D, cargadores estilo caracol y más de 200 municiones.",
-      "featured": false
-    },
-    {
-      "slug": "feria-virtual-de-tecnicos-e-idiomas-del-tec",
-      "title": "Feria Virtual de Técnicos e Idiomas del TEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• El TEC realizará una feria virtual gratuita para técnicos e idiomas a partir del 30 de octubre de 2026.\n• La feria ofrecerá 21 stands interactivos para conocer programas técnicos y cursos de idiomas del TEC.\n• Este evento busca facilitar el acceso a la información en un entorno digital moderno y dinámico.\n• La plataforma estará disponible las 24 horas del día durante todo un año para todos los interesados.\n• Estudiantes, egresados y sus familias podrán fortalecer sus competencias profesionales y personales.",
-      "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/feria-virtual-tecnicos-idiomas-tec",
-      "publish_date": "2026-10-22T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Feria Virtual del TEC abrirá el 30 de octubre, con 21 stands interactivos.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/invitacion-feria-virtual-1.png",
-      "description": "Feria Virtual de Técnicos e Idiomas del TEC",
       "featured": false
     },
     {
@@ -862,11 +888,11 @@
       "slug": "presupuesto-universitario-que-se-aprobo-en-comision-y-que-puede-cambiar-en-el-plenario",
       "title": "Presupuesto universitario: qué se aprobó en comisión y qué puede cambiar en el Plenario",
       "category": "Costa Rica",
-      "bullets_20s": "• La Comisión de Hacendarios dictaminó el Presupuesto 2027 con recortes a las universidades públicas.\n• Se aprobó un presupuesto extraordinario que afectará al Centro Académico de Limón.\n• Algunas mociones que no se votaron pueden volver a presentarse en el Plenario.\n• El Plenario discutirá el presupuesto a partir del 2 de noviembre.\n• El TEC advierte sobre la insostenibilidad de cubrir becas con recursos propios.\n• El PPSO tiene mayoría en el Plenario, lo que puede influir en las decisiones finales.\n• Las mociones no aprobadas pueden ser reiteradas para modificar el presupuesto propuesto.\n• Los fondos del FEES están en discusión y podrían afectar varios proyectos educativos.\n• El resultado en el Plenario dependerá de las negociaciones políticas entre partidos.\n• El TEC solicita que se rechace la rebaja de fondos y se mantenga apoyo financiero.",
+      "bullets_20s": "• La Comisión de Hacendarios dictaminó el Presupuesto 2027 con recortes importantes para universidades públicas.\n• Una moción aún no votada podría traer cambios significativos en el Plenario para las universidades.\n• El presupuesto extraordinario de 2026 también incluye rebajas que afectan el Centro Académico de Limón.\n• Los recortes podrían poner en riesgo la estabilidad financiera del TEC y otras universidades públicas.\n• La discusión sobre el presupuesto se reanudará en el Plenario el 2 de noviembre, un proceso clave.\n• Se requiere una mayoría simple para aprobar mociones, lo que hace que los votos sean cruciales.\n• El TEC ha solicitado que se mantengan los fondos necesarios para su funcionamiento en la región.\n• Las mociones que no se votaron en la comisión pueden presentarse de nuevo en el Plenario.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/presupuesto-universitario-se-aprobo-comision-puede-cambiar-plenario",
       "publish_date": "2026-10-21T20:39:19.000Z",
-      "teaser": "Lo clave en 20 segundos: La Comisión dictaminó recortes en presupuesto universitario, discutiendo posibles cambios en el Plenario.",
+      "teaser": "Lo clave en 20 segundos: El presupuesto universitario 2027 enfrenta importantes recortes que podrían cambiar en el Plenario.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/asamblea.jpg",
       "description": "Presupuesto universitario: qué se aprobó en comisión y qué puede cambiar en el Plenario",
       "featured": false
@@ -2604,13 +2630,13 @@
       "slug": "costa-rica-asume-el-liderazgo-estudiantil-de-centroamerica-y-el-caribe-tras-exitoso-xxxix-congreso-del-ceuca-en-el-tec",
       "title": "Costa Rica asume el liderazgo estudiantil de Centroamérica y el Caribe tras exitoso XXXIX Congreso del CEUCA en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El XXXIX Congreso del CEUCA se celebró en el campus del Tecnológico de Costa Rica.\n• Este evento reunió a federaciones estudiantiles de varios países de la región.\n• Costa Rica se convierte en la nueva sede de la FEUCA tras el congreso.\n• Se aprobaron reglamentos para mejorar la transparencia en la FEUCA.\n• Delegaciones internacionales disfrutaron de actividades culturales en Cartago.",
+      "bullets_20s": "• El XXXIX Congreso del CEUCA se realizó en el Tecnológico de Costa Rica, consolidando su liderazgo regional.\n• Delegaciones de Panamá, Honduras, Colombia y Costa Rica participaron en diversas actividades y discusiones.\n• Se aprobó un nuevo marco normativo para la FEUCA, enfocándose en la transparencia y rendición de cuentas.\n• La presidencia de la FEUCA fue traspasada de Honduras a Costa Rica, marcando un cambio significativo.\n• Este congreso fortalece la integración y el crecimiento personal de los estudiantes universitarios de la región.\n• Se destacó la importancia del TEC como sede y su papel en la educación superior pública en Centroamérica.\n• Las delegaciones internacionales disfrutaron de actividades culturales en Cartago, promoviendo la cooperación académica.\n• El movimiento estudiantil reafirma su compromiso con la defensa de la educación pública y la democracia.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/costa-rica-asume-liderazgo-estudiantil-centroamerica-caribe-exitoso-xxxix-congreso-ceuca-tec",
       "publish_date": "2026-10-19T14:33:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica lidera el movimiento estudiantil regional tras congreso exitoso en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Costa Rica lidera el movimiento estudiantil en Centroamérica tras exitoso congreso en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tec_0858.JPG",
-      "description": "Costa Rica asume el liderazgo estudiantil de Centroamérica y el Caribe tras exitoso XXXIX Congreso del CEUCA en el TEC",
+      "description": "Costa Rica asume el liderazgo estudiantil de Centroamérica y el Caribe tras exitoso XXXIX Congreso del CEUCA en el TEC.",
       "featured": false
     },
     {
@@ -3059,11 +3085,11 @@
       "slug": "recorte-de-492-millones-pone-en-riesgo-la-operacion-del-tec-en-limon",
       "title": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "category": "Costa Rica",
-      "bullets_20s": "• El Gobierno propone recortar fondos esenciales para el Centro Académico de Limón del TEC.\n• 417 estudiantes podrían verse afectados por el recorte de ¢492 millones propuesto por Hacienda.\n• El TEC advierte que este recorte compromete la operación ordinaria de su sede en Limón.\n• El Proyecto de Ley n.° 25.803 se presentó ante la Asamblea Legislativa para aprobación.\n• Históricamente, el TEC ha tenido respaldo legal para recibir estos fondos destinados a la educación.",
+      "bullets_20s": "• El Gobierno propone un recorte de fondos que afecta el Centro Académico de Limón del TEC directamente.\n• Los recursos son esenciales para mantener las operaciones y los servicios educativos de la sede en Limón.\n• La situación generará problemas para el ciclo lectivo si no se resuelve la falta de financiamiento.\n• El TEC advierte que estas rebajas significan un cierre técnico, afectando a sus estudiantes y staff.\n• Desde 2014, el TEC ha ofrecido carreras de ingeniería acreditadas en Limón y luchará por su supervivencia.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/recorte-c492-millones-pone-riesgo-operacion-tec-limon",
       "publish_date": "2026-10-18T22:23:39.000Z",
-      "teaser": "Lo clave en 20 segundos: Un recorte de ¢492 millones del TEC en Limón podría afectar 417 estudiantes.",
+      "teaser": "Lo clave en 20 segundos: un recorte millonario pone en riesgo la operación del TEC en Limón.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/stock_centro-academico-limon-tec-7.jpg",
       "description": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "featured": false
@@ -5230,11 +5256,11 @@
       "slug": "medio-siglo-de-transparencia-y-control-la-auditoria-interna-del-tec-celebra-50-anos-de-trayectoria-al-servicio-de-la-ins",
       "title": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "category": "Costa Rica",
-      "bullets_20s": "• La Auditoría Interna del TEC cumple 50 años, consolidándose como un referente en transparencia y control.\n• La celebración incluyó a autoridades, exauditores y familiares de quienes contribuyeron a su historia.\n• Durante el evento se reflexionó sobre la importancia de la ética y el compromiso en la función pública.\n• El auditor interno instó a preservar la confianza y credibilidad a través de un trabajo responsable.\n• Se presentó un proyecto basado en inteligencia artificial para optimizar los procesos de auditoría.\n• La comunidad del TEC celebra el legado institucional y el impacto en la mejora de la gestión operativa.\n• La auditoría interna ha evolucionado su enfoque hacia un análisis preventivo y estratégico.\n• Se destacó la importancia de la colaboración y el intercambio de experiencias entre unidades de auditoría.\n• El homenaje a Manuel Bonilla Cordero conmemoró su significativa labor en la institución.\n• El evento concluyó con la actuación de la Orquesta de Guitarras, promoviendo el talento estudiantil.",
+      "bullets_20s": "• El Tecnológico de Costa Rica conmemora 50 años de su Auditoría Interna con una celebración significativa.\n• La Auditoría Interna ha sido un pilar en el fortalecimiento del control y la rendición de cuentas.\n• Se destacó la importancia del legado histórico para enfrentar desafíos actuales y futuros.\n• La inteligencia artificial se presenta como herramienta clave en procesos de auditoría y fiscalización.\n• Reconocimientos fueron entregados a exauditores por su dedicación y contribuciones significativas.\n• El evento reunió a autoridades institucionales, jubilados y familiares de colaboradores destacados.\n• La ética y la profesionalidad han sido fundamentales para mantener la confianza pública en la auditoría.\n• Los retos actuales incluyen la digitalización de procesos y la gestión de riesgos cibernéticos.\n• La Auditoría Interna se vuelve más preventiva y estratégica, adaptándose a cambios tecnológicos.\n• La conmemoración resalta la importancia del trabajo colaborativo en auditoría para enfrentar retos.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/medio-siglo-transparencia-control-auditoria-interna-tec-celebra-50-anos-trayectoria-servicio",
       "publish_date": "2026-10-15T21:59:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebramos 50 años de la Auditoría Interna del TEC con impacto y ética en su labor.",
+      "teaser": "Lo clave en 20 segundos: Celebran 50 años de Auditoría Interna en el Tecnológico de Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/auditoria-8.jpeg",
       "description": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "featured": false
@@ -116676,8 +116702,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-22T20:45:27.679Z",
-  "total": 8975,
+  "generated_at": "2026-10-22T21:45:26.359Z",
+  "total": 8977,
   "removed_soccer_news_count": 1434,
   "removed_soccer_news_titles": [
     "Pumas cae ante Santos y Keylor Navas muestra su enojo porque la liguilla se aleja",
