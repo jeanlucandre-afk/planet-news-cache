@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "sindicato-de-investigadores-del-oij-a-laura-fernandez-mas-que-medallas-necesitamos-recursos",
+      "title": "Sindicato de investigadores del OIJ a Laura Fernández: más que medallas, necesitamos recursos",
+      "category": "Costa Rica",
+      "bullets_20s": "• El sindicato ANIC destaca la necesidad de recursos efectivos para la seguridad pública en el país.\n• Mediante un comunicado, el sindicato solicita atención inmediata a sus preocupaciones y requerimientos.\n• La captura de delincuentes ha sido celebrada, pero los investigadores enfrentan obstáculos significativos.\n• Se subraya la importancia de fortalecer las capacidades operativas del OIJ frente al crimen organizado.\n• La crítica principal radica en priorizar reconocimientos sobre apoyo tangible para los investigadores.\n• Las condiciones laborales y de financiamiento son cruciales para el enfrentamiento del crimen en Costa Rica.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/sucesos/sindicato-de-investigadores-del-oij-a-laura/T536CZFEAZE45O3RYK2N5NV7IE/story/",
+      "publish_date": "2026-10-22T21:54:42.000Z",
+      "teaser": "Lo clave en 20 segundos: el OIJ exige recursos para combatir el crimen organizado, no solo medallas.",
+      "image_url": "https://www.nacion.com/resizer/v2/PBWCTN5KCREXRCYIE5DV7Y3BQM.JPG?auth=1c771ab02b1218f91ba1a39ded7dd546681de3e0c8b574f91eb263eaef91cd1c&smart=true&width=3000&height=2000",
+      "description": "El sindicato ANIC pidió más recursos en lugar de medallas tras la captura de Diablo y Tan. La organización advirtió sobre las dificultades del OIJ para combatir el crimen organizado.",
+      "featured": false
+    },
+    {
+      "slug": "extranajera-fallece-en-clinica-estetica-de-barrio-mexico",
+      "title": "Extranajera fallece en clínica estética de barrio México",
+      "category": "Costa Rica",
+      "bullets_20s": "• Una mujer de 57 años pierde la vida en una clínica estética en San José.\n• El incidente ocurrió durante una cita de control en el establecimiento.\n• Las autoridades están investigando las circunstancias de su fallecimiento.\n• Se espera que se realicen autopsias para determinar la causa exacta.\n• Este caso ha generado preocupación entre los usuarios de clínicas estéticas.",
+      "source_name": "Natalia Vargas",
+      "source_url": "https://www.nacion.com/sucesos/extranjera-fallece-en-clinica-estetica-de-barrio/LZXDZAHF3VALXNTZYKGKJQLD54/story/",
+      "publish_date": "2026-10-22T21:42:26.000Z",
+      "teaser": "Lo clave en 20 segundos: una mujer fallece tras tratamiento en San José.",
+      "image_url": "https://www.nacion.com/resizer/v2/NH2A2KCDDNCR3P2MINKJF2YTRI.png?smart=true&auth=d264832b63dfde2244da2802135c3766975a0b0847c933d1bfa6cc84eb0c2841&width=1440",
+      "description": "Fallece una mujer de 57 años tras una cita de control en clínica estética en barrio México, San José.",
+      "featured": false
+    },
+    {
       "slug": "especialista-explica-como-protegerse-ante-falla-en-sistema-php-que-amenazaria-a-70-de-sitios-web-del-mundo",
       "title": "Especialista explica cómo protegerse ante falla en sistema PHP que amenazaría a 70% de sitios web del mundo",
       "category": "Tecnología",
@@ -95,12 +121,12 @@
       "slug": "como-trump-esta-tratando-de-influir-para-que-flavio-bolsonaro-gane-a-lula-en-las-elecciones-de-brasil",
       "title": "Cómo Trump está tratando de influir para que Flávio Bolsonaro gane a Lula en las elecciones de Brasil",
       "category": "Mundo",
-      "bullets_20s": "• Donald Trump está observando con atención las elecciones en Brasil y sus posibles consecuencias.\n• Flávio Bolsonaro se encuentra en una difícil competencia electoral contra Lula, un antiguo rival.\n• El interés de Trump en Brasil podría estar relacionado con buenas relaciones estratégicas.\n• Las elecciones en Brasil son cruciales y podrían influir en la política de América Latina.\n• Interferir en la votación es un tema delicado y genera muchas controversias internacionalmente.\n• La política de Brasil atrae la atención de líderes mundiales por sus implicaciones globales.\n• Las influencias externas son un factor importante en el contexto electoral de cualquier país.",
+      "bullets_20s": "• Donald Trump muestra interés por las elecciones brasileñas en el contexto político actual del país.\n• Flávio Bolsonaro, candidato en las próximas elecciones, es objeto de la influencia de Trump.\n• El presidente de EE.UU. considera a Brasil crucial para la política en América Latina.\n• Se analizan las implicaciones de la interferencia extranjera en las elecciones brasileñas.\n• Las elecciones en Brasil podrían tener un impacto significativo en las relaciones internacionales.\n• Trump ha manifestado sus opiniones sobre qué candidatos le resultan más favorables.\n• La política internacional sigue siendo un tema crítico en el escenario electoral de Brasil.\n• Observadores internacionales están atentos a cómo estas influencias pueden cambiar el resultado.\n• El interés de Trump despierta debates sobre la soberanía electoral en América Latina.\n• La dinámica electoral se complica con influencias de actores globales como Estados Unidos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqglwgj3e91yo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-22T18:31:16.000Z",
-      "teaser": "Lo clave en 20 segundos: Trump observa las elecciones en Brasil y su interés podría influir en el resultado.",
-      "image_url": "",
+      "teaser": "Lo clave en 20 segundos: Trump incide en las elecciones de Brasil, generando debate sobre la soberanía electoral.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f3b2/live/6b10a760-ce38-11f1-a86f-f78305ec9987.png",
       "description": "El presidente de EE.UU., Donald Trump, dijo que sigue muy de cerca las próximas elecciones y se refirió a Brasil como un país muy importante. ¿Lo está llevando este interés a interferir en la votación misma?",
       "featured": false
     },
@@ -186,11 +212,11 @@
       "slug": "que-es-php-y-por-que-genero-una-falla-de-seguridad-en-internet-que-desato-una-alerta-global",
       "title": "¿Qué es PHP y por qué generó una falla de seguridad en internet que desató una alerta global?",
       "category": "Mundo",
-      "bullets_20s": "• PHP, un lenguaje de programación popular, enfrenta vulnerabilidades históricas que fueron ignoradas por años.\n• Una IA ha identificado fallos que podrían permitir ataques informáticos masivos a nivel global.\n• La respuesta de ciberseguridad ha sido rápida, movilizando equipos para mitigar riesgos potenciales.\n• Expertos alertan sobre la necesidad de actualizar sistemas y aplicaciones que dependen de PHP.\n• Las implicaciones de esta falla podrían afectar la seguridad de millones de sitios web en el mundo.",
+      "bullets_20s": "• PHP es un lenguaje de programación que se utiliza ampliamente en la web.\n• Se ha descubierto una falla de seguridad que afecta a muchos sistemas.\n• La alerta global ha sido provocada por una detección de IA reciente.\n• Los ciberatacantes podrían explotar estos fallos si no se corrigen.\n• Organizaciones de ciberseguridad están respondiendo activamente a la amenaza.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmly0k9y9p1vo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-22T16:20:41.000Z",
-      "teaser": "Lo clave en 20 segundos: PHP revela fallos críticos que generan alerta en la ciberseguridad global.",
+      "teaser": "Lo clave en 20 segundos: un grave fallo en PHP genera alerta de ciberseguridad a nivel global.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f83f/live/fc74acb0-ce01-11f1-8991-296181d7e3de.jpg",
       "description": "Una IA detectó fallos de programación ocultos durante años, lo que desencadenó una inusual respuesta de ciberseguridad por temor a que fueran explotados por ciberatacantes.",
       "featured": false
@@ -693,11 +719,11 @@
       "slug": "feria-virtual-de-tecnicos-e-idiomas-del-tec",
       "title": "Feria Virtual de Técnicos e Idiomas del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC lanzará la primera Feria Virtual de Técnicos e Idiomas el 30 de octubre de 2026.\n• La feria será accessible desde cualquier dispositivo, disponible las 24 horas al día.\n• Habrá 21 stands interactivos para conocer la oferta de programas del TEC.\n• El evento es gratuito y busca facilitar el acceso a la educación técnica y lingüística.\n• Es una gran oportunidad para fortalecer competencias profesionales y personales.",
+      "bullets_20s": "• El Tecnológico de Costa Rica lanza su primera feria virtual de técnicos e idiomas en octubre de 2026.\n• La feria se podrá visitar de manera gratuita durante todo un año y las 24 horas del día.\n• Los visitantes podrán explorar 21 stands interactivos relacionados con la oferta del TEC.\n• Se brinda acceso a información sobre programas técnicos y cursos de idiomas disponibles.\n• Esta iniciativa busca facilitar el acceso a la educación en nuevas dinámicas digitales.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/feria-virtual-tecnicos-idiomas-tec",
       "publish_date": "2026-10-22T00:22:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Feria Virtual del TEC abrirá el 30 de octubre con recursos técnicos e idiomas.",
+      "teaser": "Lo clave en 20 segundos: Feria virtual del TEC, técnica y lengua al alcance de un clic.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/invitacion-feria-virtual-1.png",
       "description": "Feria Virtual de Técnicos e Idiomas del TEC",
       "featured": false
@@ -888,11 +914,11 @@
       "slug": "presupuesto-universitario-que-se-aprobo-en-comision-y-que-puede-cambiar-en-el-plenario",
       "title": "Presupuesto universitario: qué se aprobó en comisión y qué puede cambiar en el Plenario",
       "category": "Costa Rica",
-      "bullets_20s": "• La Comisión de Hacendarios dictaminó el Presupuesto 2027 con recortes importantes para universidades públicas.\n• Una moción aún no votada podría traer cambios significativos en el Plenario para las universidades.\n• El presupuesto extraordinario de 2026 también incluye rebajas que afectan el Centro Académico de Limón.\n• Los recortes podrían poner en riesgo la estabilidad financiera del TEC y otras universidades públicas.\n• La discusión sobre el presupuesto se reanudará en el Plenario el 2 de noviembre, un proceso clave.\n• Se requiere una mayoría simple para aprobar mociones, lo que hace que los votos sean cruciales.\n• El TEC ha solicitado que se mantengan los fondos necesarios para su funcionamiento en la región.\n• Las mociones que no se votaron en la comisión pueden presentarse de nuevo en el Plenario.",
+      "bullets_20s": "• La Comisión de Hacendarios dictaminó el presupuesto universitario con recortes significativos para las universidades públicas.\n• Se aprobó un recorte de ¢8.048 millones al Fondo Especial para la Educación Superior (FEES) para el 2027.\n• Algunas mociones que no se votaron podrían presentarse nuevamente en el Plenario en los próximos días.\n• El Plenario deberá discutir y decidir sobre el presupuesto a partir del 2 de noviembre de 2026.\n• El Tecnológico de Costa Rica (TEC) podría enfrentar recortes adicionales en sus fondos si algunas mociones se aprueban.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/presupuesto-universitario-se-aprobo-comision-puede-cambiar-plenario",
       "publish_date": "2026-10-21T20:39:19.000Z",
-      "teaser": "Lo clave en 20 segundos: El presupuesto universitario 2027 enfrenta importantes recortes que podrían cambiar en el Plenario.",
+      "teaser": "Lo clave en 20 segundos: La Comisión aprobó un recorte a universidades y se espera debate en el Plenario.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/asamblea.jpg",
       "description": "Presupuesto universitario: qué se aprobó en comisión y qué puede cambiar en el Plenario",
       "featured": false
@@ -2630,13 +2656,13 @@
       "slug": "costa-rica-asume-el-liderazgo-estudiantil-de-centroamerica-y-el-caribe-tras-exitoso-xxxix-congreso-del-ceuca-en-el-tec",
       "title": "Costa Rica asume el liderazgo estudiantil de Centroamérica y el Caribe tras exitoso XXXIX Congreso del CEUCA en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El XXXIX Congreso del CEUCA se realizó en el Tecnológico de Costa Rica, consolidando su liderazgo regional.\n• Delegaciones de Panamá, Honduras, Colombia y Costa Rica participaron en diversas actividades y discusiones.\n• Se aprobó un nuevo marco normativo para la FEUCA, enfocándose en la transparencia y rendición de cuentas.\n• La presidencia de la FEUCA fue traspasada de Honduras a Costa Rica, marcando un cambio significativo.\n• Este congreso fortalece la integración y el crecimiento personal de los estudiantes universitarios de la región.\n• Se destacó la importancia del TEC como sede y su papel en la educación superior pública en Centroamérica.\n• Las delegaciones internacionales disfrutaron de actividades culturales en Cartago, promoviendo la cooperación académica.\n• El movimiento estudiantil reafirma su compromiso con la defensa de la educación pública y la democracia.",
+      "bullets_20s": "• El TEC albergó el XXXIX Congreso Estudiantil Universitario de Centroamérica y el Caribe con gran éxito.\n• Delegaciones de varios países, incluyendo Panamá y Honduras, participaron activamente en el congreso.\n• El evento se centró en la integración regional y la defensa de los derechos estudiantiles universitarios.\n• Se aprobaron reglamentos clave para mejorar la transparencia en la gobernanza estudiantil.\n• Costa Rica asumió la presidencia y sede de la FEUCA, marcando un hito importante.\n• La participación del TEC fortalece su liderazgo académico a nivel regional.\n• Los asistentes disfrutaron de actividades culturales y visitas a lugares emblemáticos en Cartago.\n• El congreso sentó las bases para una mayor cooperación regional y modernización estudiantil.\n• La juventud universitaria reafirma su compromiso con la educación pública y la democracia.\n• Santos Alexander López destacó la importancia de fortalecer el movimiento estudiantil.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/costa-rica-asume-liderazgo-estudiantil-centroamerica-caribe-exitoso-xxxix-congreso-ceuca-tec",
       "publish_date": "2026-10-19T14:33:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica lidera el movimiento estudiantil en Centroamérica tras exitoso congreso en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Costa Rica lidera el movimiento estudiantil en Centroamérica tras el CEUCA.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tec_0858.JPG",
-      "description": "Costa Rica asume el liderazgo estudiantil de Centroamérica y el Caribe tras exitoso XXXIX Congreso del CEUCA en el TEC.",
+      "description": "Costa Rica asume el liderazgo estudiantil de Centroamérica y el Caribe tras exitoso XXXIX Congreso del CEUCA en el TEC",
       "featured": false
     },
     {
@@ -3085,11 +3111,11 @@
       "slug": "recorte-de-492-millones-pone-en-riesgo-la-operacion-del-tec-en-limon",
       "title": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "category": "Costa Rica",
-      "bullets_20s": "• El Gobierno propone un recorte de fondos que afecta el Centro Académico de Limón del TEC directamente.\n• Los recursos son esenciales para mantener las operaciones y los servicios educativos de la sede en Limón.\n• La situación generará problemas para el ciclo lectivo si no se resuelve la falta de financiamiento.\n• El TEC advierte que estas rebajas significan un cierre técnico, afectando a sus estudiantes y staff.\n• Desde 2014, el TEC ha ofrecido carreras de ingeniería acreditadas en Limón y luchará por su supervivencia.",
+      "bullets_20s": "• El Gobierno propone un recorte significativo que afecta la continuidad del TEC en Limón.\n• Este ajuste impacta a los 417 estudiantes que dependen de la sede en Limón.\n• La ley que protege los fondos de la sede podría no ser suficiente en esta ocasión.\n• La rectora del TEC insiste en que la educación no puede soportar más recortes.\n• El TEC cubre actualmente salarios y becas con recursos propios, situación insostenible.\n• Están en juego actividades académicas vitales para la comunidad educativa de Limón.\n• El TEC ha estado presente en Limón desde 2014, ofreciendo educación en ingeniería.\n• La propuesta de ley que recorta fondos se discutirá en la Asamblea Legislativa pronto.\n• Al Ministerio de Hacienda se le pide que garantice el financiamiento necesario.\n• La comunidad del CAL se mantiene unida en la defensa de sus derechos educativos.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/recorte-c492-millones-pone-riesgo-operacion-tec-limon",
       "publish_date": "2026-10-18T22:23:39.000Z",
-      "teaser": "Lo clave en 20 segundos: un recorte millonario pone en riesgo la operación del TEC en Limón.",
+      "teaser": "Lo clave en 20 segundos: Un recorte de 492 millones amenaza al TEC en Limón, afectando a sus estudiantes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/stock_centro-academico-limon-tec-7.jpg",
       "description": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "featured": false
@@ -5256,11 +5282,11 @@
       "slug": "medio-siglo-de-transparencia-y-control-la-auditoria-interna-del-tec-celebra-50-anos-de-trayectoria-al-servicio-de-la-ins",
       "title": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica conmemora 50 años de su Auditoría Interna con una celebración significativa.\n• La Auditoría Interna ha sido un pilar en el fortalecimiento del control y la rendición de cuentas.\n• Se destacó la importancia del legado histórico para enfrentar desafíos actuales y futuros.\n• La inteligencia artificial se presenta como herramienta clave en procesos de auditoría y fiscalización.\n• Reconocimientos fueron entregados a exauditores por su dedicación y contribuciones significativas.\n• El evento reunió a autoridades institucionales, jubilados y familiares de colaboradores destacados.\n• La ética y la profesionalidad han sido fundamentales para mantener la confianza pública en la auditoría.\n• Los retos actuales incluyen la digitalización de procesos y la gestión de riesgos cibernéticos.\n• La Auditoría Interna se vuelve más preventiva y estratégica, adaptándose a cambios tecnológicos.\n• La conmemoración resalta la importancia del trabajo colaborativo en auditoría para enfrentar retos.",
+      "bullets_20s": "• La Auditoría Interna del TEC cumple 50 años, fortaleciendo la gestión y control institucional.\n• Celebraciones reunieron autoridades y exauditores, destacando el legado histórico significativo.\n• El auditor interno recordó la ética y compromiso como claves del éxito en la gestión.\n• Se presentó un proyecto innovador de Auditoría con Inteligencia Artificial para mejorar procesos.\n• La digitalización y transparencia son desafíos actuales que enfrenta la Auditoría Interna del TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/medio-siglo-transparencia-control-auditoria-interna-tec-celebra-50-anos-trayectoria-servicio",
       "publish_date": "2026-10-15T21:59:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebran 50 años de Auditoría Interna en el Tecnológico de Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de Auditoría Interna del TEC, un legado de control y transparencia.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/auditoria-8.jpeg",
       "description": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "featured": false
@@ -116702,10 +116728,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-22T21:45:26.359Z",
-  "total": 8977,
-  "removed_soccer_news_count": 1434,
+  "generated_at": "2026-10-22T22:45:28.149Z",
+  "total": 8979,
+  "removed_soccer_news_count": 1435,
   "removed_soccer_news_titles": [
+    "Juventus corta pleno de victorias en Europa League y Benfica es nuevo líder",
     "Pumas cae ante Santos y Keylor Navas muestra su enojo porque la liguilla se aleja",
     "Joaquín Alonso Hernández acerca a Cartaginés a la final, pero le queda una ‘espinita’ tras vencer a Olimpia",
     "Vea el gol con que Cartaginés está derrotando al Olimpia de Honduras",
@@ -116754,7 +116781,6 @@
     "El fútbol vuelve a cruzar a Keylor Navas con el hombre que lo sacó del retiro",
     "Vea el primer gol de Josimar Alcócer en competiciones europeas: Así marcó en la Europa League",
     "Infantino se disculpa pero ‘sin respuestas satisfactorias’, según dos miembros del Consejo de FIFA",
-    "‘Nos están robando el país’: Óscar Ramírez habla sobre posibles indicios de crimen organizado en el fútbol costarricense",
-    "Un golpe de autoridad y una noche mágica en la Champions"
+    "‘Nos están robando el país’: Óscar Ramírez habla sobre posibles indicios de crimen organizado en el fútbol costarricense"
   ]
 }
