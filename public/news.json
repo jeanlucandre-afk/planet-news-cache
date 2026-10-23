@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "estados-unidos-podria-atacar-a-iran-este-fin-de-semana-segun-diplomatico-estadounidense",
+      "title": "Estados Unidos podría atacar a Irán este fin de semana, según diplomático estadounidense",
+      "category": "Mundo",
+      "bullets_20s": "• El diplomático estadounidense señala la posibilidad de un ataque inminente a Irán en este fin de semana.\n• La crisis actual entre Estados Unidos e Irán ha generado preocupación en la comunidad internacional.\n• Analistas especulan sobre las repercusiones de un posible ataque militar en la región del Medio Oriente.\n• El contexto diplomático incluye tensiones surgidas en los últimos meses entre ambas naciones.\n• Expertos sugieren que un ataque podría desestabilizar aún más la situación en esa zona.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/estados-unidos-podria-atacar-a-iran-este-fin-de/Z6A2VXDBBBHBVATL6MY77D42EA/story/",
+      "publish_date": "2026-10-23T20:19:07.000Z",
+      "teaser": "Lo clave en 20 segundos: posible ataque de EE.UU. a Irán este fin de semana según un diplomático.",
+      "image_url": "https://www.nacion.com/resizer/v2/SRJO6XVZBNFU7CQCS2OZDEEIF4.jpg?auth=d0e2edfabeea7b872d9e77001c668e04b90ddc8d255d72e084cc2d3931fd66e1&smart=true&width=1200&height=800",
+      "description": "Un enviado de Estados Unidos advirtió sobre un posible ataque a Irán este fin de semana. Conozca el contexto diplomático y militar de la crisis.",
+      "featured": false
+    },
+    {
+      "slug": "ariel-robles-responde-a-la-diputada-oficialista-kattia-calvo-tras-llamarlo-drogadicto-en-el-plenario-si-a-los-de-arriba-",
+      "title": "Ariel Robles responde a la diputada oficialista Kattia Calvo tras llamarlo ‘drogadicto’ en el Plenario: ‘Si a los de arriba y a los poderosos no se les toca con mano firme, de nada sirve andar ofendiendo a otras personas’",
+      "category": "Costa Rica",
+      "bullets_20s": "• Ariel Robles utilizó una carta pública para expresar su desacuerdo con Kattia Calvo.\n• El comentario de Calvo generó un intenso debate en el Plenario legislativo.\n• Robles destacó la importancia de abordar los problemas estructurales del país.\n• Su respuesta busca respetar el debate sin recurrir a insultos ofensivos.\n• El intercambio de opiniones refleja la polarización en la política nacional.\n• La discusión política en Costa Rica está en un momento crítico y sensible.\n• Robles hace un llamado a los políticos para que se enfoquen en las soluciones.\n• La ofensa por parte de Calvo resalta tensiones existentes entre los partidos.\n• Ambos políticos han liderado iniciativas importantes para el país en el pasado.\n• La comunicación pública entre políticos es esencial para un debate saludable.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/politica/ariel-robles-responde-a-la-diputada-oficialista/XDXF3O3DI5GLLH5NYRI6OGBQSQ/story/",
+      "publish_date": "2026-10-23T20:17:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Ariel Robles responde a Kattia Calvo tras polémicas declaraciones en el Plenario.",
+      "image_url": "https://www.nacion.com/resizer/v2/VIO56BIYCVA7LPZWOTZU2HKXFU.jpg?auth=14b124b4b538f93e4580b0c1bf37f7081980e6e0110ccdbc932843beed84ce79&smart=true&width=4000&height=2667",
+      "description": "Ariel Robles respondió a la diputada Kattia Calvo por medio de una carta pública tras los calificativos emitidos en el Plenario.",
+      "featured": false
+    },
+    {
+      "slug": "bukele-envia-un-contingente-a-haiti-para-ayudar-a-liberar-a-los-4-soldados-salvadorenos-secuestrados-por-pandillas",
+      "title": "Bukele envía un contingente a Haití para ayudar a liberar a los 4 soldados salvadoreños 'secuestrados' por pandillas",
+      "category": "Mundo",
+      "bullets_20s": "• El presidente Bukele ha tomado decisiones rápidas ante la crisis en Haití y sus pandillas.\n• Los soldados salvadoreños forman parte de una misión de la ONU en el país caribeño.\n• Haití enfrenta una creciente violencia y descontrol por parte de grupos criminales.\n• Las organizaciones criminales han intensificado los secuestros en los últimos meses.\n• Bukele ha realizado esfuerzos para promover la seguridad en la región centroamericana.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/ckm230z1vngqo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-10-23T19:43:24.000Z",
+      "teaser": "Lo clave en 20 segundos: El presidente Bukele envía fuerzas a Haití por crisis de rehenes.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/1431/live/325322c0-cef3-11f1-accf-3309656ad0bb.jpg",
+      "description": "El presidente Nayib Bukele había instado previamente a las organizaciones criminales haitianas a liberar a los 'rehenes' que formaban parte de una misión multinacional de la ONU.",
+      "featured": false
+    },
+    {
       "slug": "fusion-coopenae-y-coopeande-coprocom-ya-recibio-notificacion-de-la-operacion",
       "title": "Fusión Coopenae y CoopeAnde: Coprocom ya recibió notificación de la operación",
       "category": "Costa Rica",
@@ -128,19 +167,6 @@
       "teaser": "Lo clave en 20 segundos: El Ministerio de Cultura traslada sus oficinas a un nuevo edificio, buscando fortalecer la cultura.",
       "image_url": "https://www.nacion.com/resizer/v2/K4QRV4TITJFPLFJYYDL5IRT3EQ.JPG?auth=c5ad331898ef695a1b889bd4c4703b1cc4483d46d6767c2bf9962b6fbb7a7ff7&smart=true&width=3000&height=2000",
       "description": "Obras de remodelación para el traslado de las oficinas y readecuación del espacio han costado ¢201 millones. Esto es lo que se conoce del proyecto de la pinacoteca.",
-      "featured": false
-    },
-    {
-      "slug": "bukele-envia-un-contingente-a-haiti-para-ayudar-a-liberar-a-los-4-soldados-salvadorenos-secuestrados-por-pandillas",
-      "title": "Bukele envía un contingente a Haití para ayudar a liberar a los 4 soldados salvadoreños \"secuestrados\" por pandillas",
-      "category": "Mundo",
-      "bullets_20s": "• Nayib Bukele envía soldados a Haití en respuesta a una crisis de seguridad nacional.\n• Los soldados salvadoreños eran parte de una misión de la ONU en el país caribeño.\n• Haití enfrenta un aumento de la violencia de pandillas en las últimas semanas.\n• Bukele pide a las pandillas la liberación de los rehenes para mantener la estabilidad.\n• Las tensiones en Haití han llevado a la comunidad internacional a evaluar respuestas.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/ckm230z1vngqo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-10-23T16:38:21.000Z",
-      "teaser": "Lo clave en 20 segundos: Bukele envía ayuda militar a Haití por soldados retenidos.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/1431/live/325322c0-cef3-11f1-accf-3309656ad0bb.jpg",
-      "description": "El presidente Nayib Bukele había instado previamente a las organizaciones criminales haitianas a liberar a los \"rehenes\" que formaban parte de una misión multinacional de la ONU.",
       "featured": false
     },
     {
@@ -355,11 +381,11 @@
       "slug": "3-claves-que-explican-por-que-el-duelo-final-entre-flavio-bolsonaro-y-lula-en-brasil-es-crucial-para-america-latina-y-pa",
       "title": "3 claves que explican por qué el duelo final entre Flávio Bolsonaro y Lula en Brasil es crucial para América Latina (y para Trump en EE.UU.)",
       "category": "Mundo",
-      "bullets_20s": "• La elección en Brasil marca un punto crucial en la política latinoamericana actual.\n• Las decisiones de Lula podrían afectar la dinámica ambiental en toda la región.\n• Bolsonaro representa una perspectiva conservadora que contrasta con Lula.\n• Ambos candidatos impactarán el comercio y las relaciones internacionales de Brasil.\n• Las repercusiones de esta elección pueden influir en la política de Estados Unidos.",
+      "bullets_20s": "• El enfrentamiento entre Bolsonaro y Lula tiene implicaciones en la política regional de América Latina.\n• Influencia en la relación de Brasil con Estados Unidos y el futuro de Trump en su país.\n• Decisiones sobre medioambiente que afectarán a varios países en la región.\n• Cambios en seguridad regional pueden derivar de los resultados de estas elecciones.\n• Expertos analizan cómo estos eventos pueden alterar el equilibrio geopolítico latinoamericano.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqrkyj450rmlo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-23T11:14:47.000Z",
-      "teaser": "Lo clave en 20 segundos: El duelo entre Bolsonaro y Lula definirá el futuro de América Latina.",
+      "teaser": "Lo clave en 20 segundos: El crucial duelo entre Bolsonaro y Lula para América Latina y el impacto en EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9bb2/live/43c807c0-ced3-11f1-8507-45cb00a1c41c.jpg",
       "description": "La segunda vuelta que disputarán el domingo el senador derechista y el presidente de izquierda puede tener consecuencias en geopolítica, seguridad o incluso el medioambiente de la región, según expertos.",
       "featured": false
@@ -379,15 +405,15 @@
     },
     {
       "slug": "amina-helmi-la-cientifica-argentina-que-recibio-el-nobel-de-astrofisica-por-encontrar-los-restos-de-la-ultima-gran-fusio",
-      "title": "Amina Helmi, la científica argentina que recibió el \"Nobel de astrofísica\" por encontrar los restos de la última gran fusión de la Vía Láctea",
+      "title": "Amina Helmi, la científica argentina que recibió el 'Nobel de astrofísica' por encontrar los restos de la última gran fusión de la Vía Láctea",
       "category": "Ciencia",
-      "bullets_20s": "• Amina Helmi es reconocida por su destacado trabajo en astrofísica y cosmología.\n• Sus descubrimientos permiten entender la historia de la Vía Láctea mejor que nunca.\n• La investigación se centra en la evolución de las galaxias a través de los siglos.\n• Ha abierto nuevas puertas para la exploración del universo en el ámbito científico.\n• El 'Nobel de astrofísica' resalta la importancia de investigaciones en este campo.\n• La caracterización de eventos pasados ayuda a entender el presente de nuestra galaxia.",
+      "bullets_20s": "• Amina Helmi ha revolucionado el campo de la astrofísica con su reciente hallazgo sobre la Vía Láctea.\n• Su descubrimiento permite entender eventos que ocurrieron hace 10 mil millones de años en el universo.\n• El hallazgo revela información crucial sobre la formación y evolución de nuestra galaxia.\n• El trabajo de Helmi ha sido reconocido internacionalmente, comparado con un premio Nobel.\n• La fusión de galaxias es un fenómeno que afecta la estructura actual del cosmos.\n• Los científicos ahora podrán estudiar la historia de la Vía Láctea de manera más detallada.\n• La astrofísica moderna se beneficia de descubrimientos como el de Helmi para entender el pasado.\n• Investigaciones como estas abren nuevas preguntas sobre la física y el universo.\n• Los hallazgos de Helmi destacan la importancia de la investigación en astronomía.\n• Este descubrimiento subraya la relevancia de las científicas en campos de alta complejidad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmqxn83eer03o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-23T10:07:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Amina Helmi gana reconocimiento por su hallazgo de la Vía Láctea.",
+      "teaser": "Lo clave en 20 segundos: Amina Helmi recibe reconocimiento por su descubrimiento de fusión galáctica.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/4c22/live/5cc2ba90-cec9-11f1-bed9-e3a2c35dfdd6.jpg",
-      "description": "Lo que es impactante del descubrimiento es que uno haya podido ir hasta hace 10 mil millones de años y poder caracterizar lo que pasó, dijo la científica a BBC Mundo.",
+      "description": "Lo que es impactante del descubrimiento es que uno haya podido ir hasta hace 10 mil millones de años y poder caracterizar lo que pasó.",
       "featured": false
     },
     {
@@ -1343,13 +1369,13 @@
       "slug": "feria-virtual-de-tecnicos-e-idiomas-del-tec",
       "title": "Feria Virtual de Técnicos e Idiomas del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC lanzará una feria virtual para presentar programas técnicos y cursos de idiomas.\n• La feria abrirá sus puertas el 30 de octubre de 2026 y durará un año.\n• Habrá 21 stands interactivos para explorar la oferta educativa del TEC.\n• La plataforma es gratuita y accesible desde dispositivos móviles y computadoras.\n• Es una oportunidad para estudiantes, egresados y cualquier persona interesada.",
+      "bullets_20s": "• La primera Feria Virtual de Técnicos e Idiomas del TEC se lanzará el 30 de octubre de 2026.\n• La iniciativa busca facilitar el acceso a información técnica y de idiomas para la comunidad.\n• Los visitantes podrán recorrer 21 stands interactivos en la plataforma durante un año.\n• Es una oportunidad para estudiantes, egresados y cualquier persona interesada en crecer profesionalmente.\n• La feria es totalmente gratuita y accesible desde teléfonos celulares y computadoras.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/feria-virtual-tecnicos-idiomas-tec",
       "publish_date": "2026-10-22T00:22:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Feria Virtual del TEC presenta 21 stands de programas técnicos y cursos de idiomas.",
+      "teaser": "Lo clave en 20 segundos: la Feria Virtual del TEC abre oportunidades de aprendizaje digital.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/invitacion-feria-virtual-1.png",
-      "description": "Feria Virtual de Técnicos e Idiomas del TEC",
+      "description": "Feria Virtual de Técnicos e Idiomas del TEC.",
       "featured": false
     },
     {
@@ -1538,11 +1564,11 @@
       "slug": "presupuesto-universitario-que-se-aprobo-en-comision-y-que-puede-cambiar-en-el-plenario",
       "title": "Presupuesto universitario: qué se aprobó en comisión y qué puede cambiar en el Plenario",
       "category": "Costa Rica",
-      "bullets_20s": "• La Comisión de Hacendarios aprobó el Presupuesto 2027, incluyendo recortes a universidades públicas.\n• Un recorte de ¢8.048 millones se trasladó a la Junta de Pensiones del MEP.\n• Las mociones no votadas podrían ser discutidas nuevamente en el Plenario.\n• El Plenario comenzará a discutir el presupuesto el 2 de noviembre de 2026.\n• El TEC ha cubierto gastos del Centro Académico de Limón con recursos propios.",
+      "bullets_20s": "• La Comisión de Hacendarios aprobó un presupuesto con recorte de más de ocho mil millones a universidades.\n• El Plenario discutirá si se mantienen los recortes o se aprueban nuevas mociones en los próximos días.\n• El presupuesto extraordinario de 2026 también incluye una rebaja significativa al Centro de Limón.\n• Las mociones no votadas en la comisión pueden ser presentadas nuevamente en el Plenario.\n• El TEC ha cubierto salarios en Limón, pero advierte que no puede seguir haciéndolo por mucho tiempo.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/presupuesto-universitario-se-aprobo-comision-puede-cambiar-plenario",
       "publish_date": "2026-10-21T20:39:19.000Z",
-      "teaser": "Lo clave en 20 segundos: Recortes al presupuesto universitario generarán debate en el Plenario.",
+      "teaser": "Lo clave en 20 segundos: La Comisión aprobó recortes al presupuesto universitario que se discutirán pronto en el Plenario.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/asamblea.jpg",
       "description": "Presupuesto universitario: qué se aprobó en comisión y qué puede cambiar en el Plenario",
       "featured": false
@@ -3280,11 +3306,11 @@
       "slug": "costa-rica-asume-el-liderazgo-estudiantil-de-centroamerica-y-el-caribe-tras-exitoso-xxxix-congreso-del-ceuca-en-el-tec",
       "title": "Costa Rica asume el liderazgo estudiantil de Centroamérica y el Caribe tras exitoso XXXIX Congreso del CEUCA en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El XXXIX Congreso del CEUCA se realizó en el Tecnológico de Costa Rica, promoviendo la unión estudiantil.\n• Delegaciones de varios países discutieron temas cruciales como derechos estudiantiles y transparencia institucional.\n• Costa Rica se convierte en sede y presidente de la FEUCA, marcando un cambio histórico en la región.\n• Los asistentes exploraron y aprendieron sobre integración regional y crecimiento personal en el evento.\n• El congreso aprobó reglamentos fundamentales para mejorar la rendición de cuentas en federaciones estudiantiles.",
+      "bullets_20s": "• Costa Rica se convierte en líder estudiantil en Centroamérica y el Caribe tras congreso del CEUCA.\n• El evento reunió a delegaciones de varios países en el Tecnológico de Costa Rica.\n• Se aprobaron reglamentos importantes para mejorar la transparencia estudiantil en la región.\n• El congreso celebró la integración y el intercambio cultural entre los asistentes.\n• La presidencia de la FEUCA fue transferida de Honduras a Costa Rica, un cambio significativo.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/costa-rica-asume-liderazgo-estudiantil-centroamerica-caribe-exitoso-xxxix-congreso-ceuca-tec",
       "publish_date": "2026-10-19T14:33:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica lidera el movimiento estudiantil tras el exitoso Congreso del CEUCA en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Costa Rica lidera la educación universitaria en Centroamérica tras importante congreso.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tec_0858.JPG",
       "description": "Costa Rica asume el liderazgo estudiantil de Centroamérica y el Caribe tras exitoso XXXIX Congreso del CEUCA en el TEC",
       "featured": false
@@ -3735,11 +3761,11 @@
       "slug": "recorte-de-492-millones-pone-en-riesgo-la-operacion-del-tec-en-limon",
       "title": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "category": "Costa Rica",
-      "bullets_20s": "• El Gobierno propone un recorte que afecta directamente al Centro Académico de Limón del TEC.\n• Los 417 estudiantes del CAL podrían verse impactados por la reducción de fondos esenciales.\n• La Ley de Presupuesto vigente asegura recursos específicos para estas instituciones educativas.\n• El MEP confirmó que no se girarán fondos durante el último trimestre del año.\n• La rectoría del TEC defiende la urgencia de mantener los recursos para las operaciones en Limón.",
+      "bullets_20s": "• El Gobierno propone rebajar fondos que sostienen el Centro Académico de Limón del TEC.\n• El recorte afecta a 417 estudiantes que dependen de estos recursos para su educación.\n• La rebaja se realiza mediante el Proyecto de Ley n.° 25.803 del Ministerio de Hacienda.\n• El TEC afirma que estos fondos están protegidos por leyes anteriores y acuerdos vigentes.\n• Se advierte sobre un posible cierre técnico si no se reciben los fondos acordados.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/recorte-c492-millones-pone-riesgo-operacion-tec-limon",
       "publish_date": "2026-10-18T22:23:39.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC en Limón enfrenta recortes que amenazan su funcionamiento vital.",
+      "teaser": "Lo clave en 20 segundos: un recorte de fondos amenaza la operación del TEC en Limón, perjudicando a estudiantes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/stock_centro-academico-limon-tec-7.jpg",
       "description": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "featured": false
@@ -5906,11 +5932,11 @@
       "slug": "medio-siglo-de-transparencia-y-control-la-auditoria-interna-del-tec-celebra-50-anos-de-trayectoria-al-servicio-de-la-ins",
       "title": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "category": "Costa Rica",
-      "bullets_20s": "• La Auditoría Interna del TEC celebra su 50 aniversario con un acto conmemorativo significativo.\n• Destacan el fortalecimiento del control interno y la mejora continua en la gestión de la institución.\n• La celebración reunió a autoridades, exauditores y familiares de quienes han contribuido al TEC.\n• Reflexiones sobre la importancia de la ética y el compromiso del personal en la auditoría.\n• Se abordaron retos actuales como la transformación tecnológica y la inteligencia artificial.",
+      "bullets_20s": "• La Auditoría Interna del TEC celebra su 50 aniversario como pilar del control y rendición de cuentas.\n• Se destaca la importancia de la ética y compromiso en la labor auditable a lo largo de los años.\n• Los avances tecnológicos presentan nuevos retos para la auditoría y la protección de datos es crucial.\n• El evento reunió a autoridades institucionales y personal exauditor en un homenaje a su historia.\n• Se presentó un asistente de auditoría basado en inteligencia artificial para mejorar la fiscalización.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/medio-siglo-transparencia-control-auditoria-interna-tec-celebra-50-anos-trayectoria-servicio",
       "publish_date": "2026-10-15T21:59:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración del 50 aniversario de Auditoría Interna del TEC con enfoque en la ética y tecnología.",
+      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de la Auditoría Interna del TEC con avances y retos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/auditoria-8.jpeg",
       "description": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "featured": false
@@ -117365,8 +117391,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-23T19:45:26.209Z",
-  "total": 9028,
+  "generated_at": "2026-10-23T20:45:26.023Z",
+  "total": 9030,
   "removed_soccer_news_count": 1439,
   "removed_soccer_news_titles": [
     "Vincent Kompany es hospitalizado tras desmayarse en un entrenamiento del Bayern",
