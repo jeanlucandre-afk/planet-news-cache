@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "planton-por-los-derechos-de-las-mujeres-reune-a-manifestantes-en-la-avenida-segunda",
+      "title": "Plantón por los derechos de las mujeres reúne a manifestantes en la avenida segunda",
+      "category": "Costa Rica",
+      "bullets_20s": "• La concentración de manifestantes busca llamar la atención sobre los derechos de las mujeres en Costa Rica.\n• El evento se realiza en la avenida segunda, un punto estratégico para estas protestas.\n• Las participantes exigen cambios en la legislación sobre atención a víctimas de violación sexual.\n• Se espera que esta manifestación genere un diálogo sobre políticas de género en el país.\n• Organizaciones feministas han convocado a la población a unirse a la causa y alzar la voz.\n• El ambiente es de solidaridad y apoyo entre las mujeres asistentes a la protesta.\n• La manifestación coincide con otras iniciativas en pro de la equidad de género a nivel local.\n• Las líderes del movimiento resaltan la importancia de visibilizar estas problemáticas sociales.",
+      "source_name": "Silvia Ureña Corrales, Aarón Sequeira",
+      "source_url": "https://www.nacion.com/el-pais/marcha-por-los-derechos-de-las-mujeres-reune-a/56ZXWKYEQVAGXLS5TBZ7MXJP4A/story/",
+      "publish_date": "2026-10-24T00:03:19.000Z",
+      "teaser": "Lo clave en 20 segundos: Manifestantes se agrupan en la avenida segunda para exigir derechos de las mujeres.",
+      "image_url": "https://www.nacion.com/resizer/v2/GQOMHC4D3FAEFMCKM2BI47B5FA.jpeg?smart=true&auth=eec6169bb6a4febc4672032959db6a7c2b5fd841411b08d1c45521e1fc4c7cde&width=1440",
+      "description": "Manifestantes se concentran frente a la Asamblea Legislativa para protestar por los derechos de las mujeres, tras cambios en un proyecto sobre atención a víctimas de violación sexual.",
+      "featured": false
+    },
+    {
+      "slug": "nueva-moneda-de-coleccion-de-100-rinde-tributo-al-calipso-limonense-y-a-walter-ferguson",
+      "title": "Nueva moneda de colección de ¢100 rinde tributo al calipso limonense y a Walter Ferguson",
+      "category": "Costa Rica",
+      "bullets_20s": "• Una nueva moneda de colección destaca la cultura del calipso en Limón y su legado musical.\n• Walter Ferguson, figura emblemática, es homenajeado a través de esta moneda de ¢100.\n• La edición especial se limitará a dos monedas por persona para preservar su valor.\n• Los coleccionistas podrán elegir entre dos presentaciones: acrílico o estuche.\n• La moneda refleja la riqueza cultural de Costa Rica y su diversidad musical y artística.",
+      "source_name": "Mónica Cerdas Gómez",
+      "source_url": "https://www.nacion.com/economia/nueva-moneda-de-coleccion-de-100-rinde-tributo-al/SQABIJ74JNBEVMDMOY6G3SZUAE/story/",
+      "publish_date": "2026-10-23T23:31:15.000Z",
+      "teaser": "Lo clave en 20 segundos: Nueva moneda rinde homenaje al calipso y Walter Ferguson.",
+      "image_url": "https://www.nacion.com/resizer/v2/QOJOQKE56ZETFKNQGMBIFMD6F4.jpg?auth=5c648447060dcbffcde35c1378b0ac86005ecccf56fc34ff8d602fef325b55ff&smart=true&width=5553&height=3702",
+      "description": "La venta se limitará a dos monedas por persona, independientemente de la presentación elegida (en acrílico o en estuche). Vea dónde conseguirla",
+      "featured": false
+    },
+    {
       "slug": "sala-constitucional-de-costa-rica-recibe-premio-internacional-la-libertad-de-prensa-es-objeto-hoy-de-ataques-nunca-visto",
       "title": "Sala Constitucional de Costa Rica recibe premio internacional: ‘La libertad de prensa es objeto hoy de ataques nunca vistos por parte de movimientos políticos que pretenden borrarla’",
       "category": "Costa Rica",
@@ -24,6 +50,19 @@
       "teaser": "Lo clave en 20 segundos: La sede de la final de la Copa Centroamericana está por definirse.",
       "image_url": "https://www.nacion.com/resizer/v2/VPAVFOWNC5EJLDTTNO37X3SVFY.JPG?auth=8c91517a9cc6e5f8f44500574d4b91fd9839571f2a3cbe6661c722d03fbb205c&smart=true&width=4000&height=2667",
       "description": "Estos son los escenarios que definirán dónde se jugará el partido por el título en la cuarta edición de la Copa Centroamericana",
+      "featured": false
+    },
+    {
+      "slug": "las-impactantes-imagenes-del-tiroteo-policial-en-el-que-murio-un-bebe-de-1-ano-en-eeuu",
+      "title": "Las impactantes imágenes del tiroteo policial en el que murió un bebé de 1 año en EE.UU.",
+      "category": "Mundo",
+      "bullets_20s": "• El brutal tiroteo dejó a una madre y un bebé devastados por la tragedia.\n• La comunidad ha reaccionado con protestas y peticiones de justicia.\n• Imágenes impactantes han circulado mostrando la gravedad del incidente.\n• Los hechos han reavivado el debate sobre la violencia policial en EE.UU.\n• Los responsables están bajo investigación por su actuación en el tiroteo.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cq1kdp02xdjmo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-10-23T22:41:33.000Z",
+      "teaser": "Lo clave en 20 segundos: un tiroteo policial dejó un bebé fallecido, generando un gran revuelo.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/582e/live/64f22020-cf32-11f1-b76d-c5efdf6a9e49.png",
+      "description": "Ocurrió en junio en Misisipi. Kohen Wiley, de un año, estaba en el regazo de su madre en un coche en movimiento cuando unos agentes que respondían a una llamada por robo rodearon el vehículo en un estacionamiento.",
       "featured": false
     },
     {
@@ -134,11 +173,11 @@
       "slug": "bukele-envia-un-contingente-a-haiti-para-ayudar-a-liberar-a-los-4-soldados-salvadorenos-secuestrados-por-pandillas",
       "title": "Bukele envía un contingente a Haití para ayudar a liberar a los 4 soldados salvadoreños \"secuestrados\" por pandillas",
       "category": "Mundo",
-      "bullets_20s": "• Nayib Bukele ha enviado tropas para apoyar la misión internacional en Haití.\n• Los soldados estaban involucrados en una misión de la ONU ante crisis de seguridad.\n• Las pandillas en Haití han incrementado sus actividades de secuestro en los últimos meses.\n• El gobierno salvadoreño busca asegurar la libertad de los soldados capturados.\n• La comunidad internacional observa con interés el desarrollo de la situación en Haití.",
+      "bullets_20s": "• Nayib Bukele activó un contingente para apoyar la misión en Haití, buscando rescatar soldados.\n• La misión se centra en la liberación de soldados salvadoreños retenidos por pandillas haitianas.\n• Bukele ha pedido a grupos criminales en Haití que liberen a los rehenes involucrados.\n• La situación en Haití sigue siendo tensa, con múltiples secuestros y violencia creciente.\n• El respaldo internacional es vital para abordar la crisis humanitaria en el país caribeño.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ckm230z1vngqo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-23T19:43:24.000Z",
-      "teaser": "Lo clave en 20 segundos: Bukele envía tropas a Haití para ayudar a liberar soldados secuestrados.",
+      "teaser": "Lo clave en 20 segundos: Bukele envía tropas a Haití para rescatar soldados secuestrados por pandillas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/1431/live/325322c0-cef3-11f1-accf-3309656ad0bb.jpg",
       "description": "El presidente Nayib Bukele había instado previamente a las organizaciones criminales haitianas a liberar a los \"rehenes\" que formaban parte de una misión multinacional de la ONU.",
       "featured": false
@@ -485,11 +524,11 @@
       "slug": "3-claves-que-explican-por-que-el-duelo-final-entre-flavio-bolsonaro-y-lula-en-brasil-es-crucial-para-america-latina-y-pa",
       "title": "3 claves que explican por qué el duelo final entre Flávio Bolsonaro y Lula en Brasil es crucial para América Latina (y para Trump en EE.UU.)",
       "category": "Mundo",
-      "bullets_20s": "• La elección entre Bolsonaro y Lula podría redefinir la política de América Latina en el futuro.\n• Las implicaciones de este duelo impactan tanto en la seguridad como en la economía regional.\n• Expertos alertan sobre la influencia del resultado en temas medioambientales cruciales.\n• Un cambio de liderazgo en Brasil podría alterar relaciones con potencias como Estados Unidos.\n• La polarización política en Brasil también afecta otros países vecinos en el continente.",
+      "bullets_20s": "• El enfrentamiento entre Bolsonaro y Lula tiene repercusiones significativas para toda América Latina.\n• El resultado del duelo podría impactar la estrategia política de Trump en Estados Unidos.\n• Expertos mencionan posibles cambios en políticas de medioambiente según el ganador.\n• Las tensiones geopolíticas en la región pueden aumentar dependiendo del resultado electoral.\n• La polarización política en Brasil refleja tendencias similares en otras naciones latinas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqrkyj450rmlo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-23T11:14:47.000Z",
-      "teaser": "Lo clave en 20 segundos: Elecciones en Brasil, impacto en América Latina y relaciones internacionales.",
+      "teaser": "Lo clave en 20 segundos: El duelo entre Bolsonaro y Lula define el futuro político de la región.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9bb2/live/43c807c0-ced3-11f1-8507-45cb00a1c41c.jpg",
       "description": "La segunda vuelta que disputarán el domingo el senador derechista y el presidente de izquierda puede tener consecuencias en geopolítica, seguridad o incluso el medioambiente de la región, según expertos.",
       "featured": false
@@ -1483,19 +1522,6 @@
       "featured": false
     },
     {
-      "slug": "feria-virtual-de-tecnicos-e-idiomas-del-tec",
-      "title": "Feria Virtual de Técnicos e Idiomas del TEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• Lanzamiento de la primera Feria Virtual de Técnicos e Idiomas del TEC en Costa Rica.\n• Feria estará disponible desde el 30 de octubre de 2026 durante todo un año.\n• Acceso gratuito y 24 horas al día desde teléfonos o computadoras.\n• Contará con 21 stands interactivos para explorar programas y cursos.\n• Ideal para estudiantes, egresados y personas interesadas en mejorar habilidades.\n• Oportunidad para fortalecer competencias profesionales y personales.\n• Iniciativa impulsada por la Fundación Tecnológica de Costa Rica.\n• Facilita el acceso a información en nuevas dinámicas digitales.\n• Promueve la interacción directa con los programas ofrecidos.\n• Un gran recurso para familias que buscan educación continua.",
-      "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/feria-virtual-tecnicos-idiomas-tec",
-      "publish_date": "2026-10-22T00:22:40.000Z",
-      "teaser": "Lo clave en 20 segundos: ¡Descubre la feria virtual del TEC que inicia en octubre!",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/invitacion-feria-virtual-1.png",
-      "description": "Feria Virtual de Técnicos e Idiomas del TEC",
-      "featured": false
-    },
-    {
       "slug": "nogui-acosta-insistira-en-recortes-a-universidades-publicas-en-segundo-presupuesto-extraordinario-2026",
       "title": "Nogui Acosta insistirá en recortes a universidades públicas en Segundo Presupuesto Extraordinario 2026",
       "category": "Costa Rica",
@@ -1519,6 +1545,19 @@
       "teaser": "Lo clave en 20 segundos: Sospechosos con armas 3D y drogas en Osa generan alarma en Puntarenas.",
       "image_url": "https://www.nacion.com/resizer/v2/EJSUL7665VBZVJCA6UNF7O2KUA.png?auth=48e6c9ce600dd2d7109b312a16ff4255efe44e921999f25a65623354b26884df&smart=true&width=2414&height=1404",
       "description": "Dos sospechosos de almacenar 357 paquetes de cocaína en una mansión en Osa, Puntarenas, tenían entre su arsenal cuatro rifles de asalto fabricados con impresora 3D, cargadores estilo caracol y más de 200 municiones.",
+      "featured": false
+    },
+    {
+      "slug": "feria-virtual-de-tecnicos-e-idiomas-del-tec",
+      "title": "Feria Virtual de Técnicos e Idiomas del TEC",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC lanza su primera Feria Virtual de Técnicos e Idiomas, promoviendo la educación en línea.\n• La feria se llevará a cabo del 30 de octubre de 2026 al 31 de octubre de 2026.\n• Se podrán visitar 21 stands interactivos que ofrecen programas técnicos y cursos de idiomas.\n• La plataforma es gratuita y accesible en cualquier dispositivo con internet.\n• Este evento busca facilitar el acceso a educación para todas las personas interesadas.\n• Estudiantes, egresados y familias podrán conocer sobre crecientes oportunidades profesionales.\n• Los asistentes podrán solicitar información directamente sobre cada programa disponible.\n• La feria está diseñada para adaptarse a nuevas dinámicas de participación digital.\n• Este esfuerzo resalta la importancia de la formación continua en tiempos modernos.\n• La inauguración marca un hito en la oferta educativa del Tecnológico de Costa Rica.",
+      "source_name": "nchinchilla",
+      "source_url": "http://www.tec.ac.cr/feria-virtual-tecnicos-idiomas-tec",
+      "publish_date": "2026-10-22T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC lanza una feria virtual para técnicos e idiomas en octubre de 2026.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/invitacion-feria-virtual-1.png",
+      "description": "Feria Virtual de Técnicos e Idiomas del TEC",
       "featured": false
     },
     {
@@ -1681,11 +1720,11 @@
       "slug": "presupuesto-universitario-que-se-aprobo-en-comision-y-que-puede-cambiar-en-el-plenario",
       "title": "Presupuesto universitario: qué se aprobó en comisión y qué puede cambiar en el Plenario",
       "category": "Costa Rica",
-      "bullets_20s": "• La Comisión de Hacendarios dictaminó el Presupuesto 2027 con recortes a universidades públicas.\n• Se aprobó una rebaja de ¢8.048 millones del Fondo Especial para la Educación Superior.\n• Las mociones no votadas en comisión pueden ser presentadas nuevamente en el Plenario.\n• El Plenario discutirá el presupuesto a partir del 2 de noviembre de 2026.\n• El TEC solicita el rechazo de rebajas propuestas en el presupuesto universitario.",
+      "bullets_20s": "• La Comisión de Hacendarios aprobó el presupuesto 2027 con recortes significativos a universidades públicas.\n• La moción 16 reduce ¢8.048 millones del Fondo Especial para la Educación Superior.\n• Propuestas no votadas pueden regresar al Plenario como mociones reiteradas según el reglamento.\n• El Gobierno y universidades acordaron la postergación de recursos de 2026 al presupuesto de 2027.\n• La discusión en el Plenario comienza el lunes 2 de noviembre, con decisiones críticas en juego.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/presupuesto-universitario-se-aprobo-comision-puede-cambiar-plenario",
       "publish_date": "2026-10-21T20:39:19.000Z",
-      "teaser": "Lo clave en 20 segundos: decisiones del presupuesto universitario se deben discutir en el Plenario.",
+      "teaser": "Lo clave en 20 segundos: la Comisión de Hacendarios aprueba recortes relevantes al presupuesto universitario.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/asamblea.jpg",
       "description": "Presupuesto universitario: qué se aprobó en comisión y qué puede cambiar en el Plenario",
       "featured": false
@@ -3423,11 +3462,11 @@
       "slug": "costa-rica-asume-el-liderazgo-estudiantil-de-centroamerica-y-el-caribe-tras-exitoso-xxxix-congreso-del-ceuca-en-el-tec",
       "title": "Costa Rica asume el liderazgo estudiantil de Centroamérica y el Caribe tras exitoso XXXIX Congreso del CEUCA en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El XXXIX Congreso del CEUCA se llevó a cabo en el Tecnológico de Costa Rica en Cartago.\n• Participaron delegaciones estudiantiles de varios países, fomentando el intercambio cultural.\n• Se aprobaron reglamentos clave para mejorar la transparencia en el movimiento estudiantil.\n• Costa Rica tomó oficialmente el liderazgo de la FEUCA, reforzando su papel regional.\n• El congreso promovió la defensa de la educación superior pública y la democracia.",
+      "bullets_20s": "• El XXXIX Congreso del CEUCA se llevó a cabo en el Tecnológico de Costa Rica en Cartago.\n• Delegaciones de Panamá, Honduras, Colombia y más se reunieron para discutir temas importantes.\n• Se aprobó un nuevo marco normativo para la Federación de Estudiantes Universitarios de Centroamérica.\n• Costa Rica asume la presidencia de la FEUCA, marcando un cambio en el liderazgo estudiantil.\n• El evento combinó debates legislativos y culturales, destacando la integración regional.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/costa-rica-asume-liderazgo-estudiantil-centroamerica-caribe-exitoso-xxxix-congreso-ceuca-tec",
       "publish_date": "2026-10-19T14:33:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica lidera el movimiento estudiantil en Centroamérica tras éxito del Congreso CEUCA.",
+      "teaser": "Lo clave en 20 segundos: Costa Rica lidera el movimiento estudiantil tras el exitoso congreso CEUCA.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tec_0858.JPG",
       "description": "Costa Rica asume el liderazgo estudiantil de Centroamérica y el Caribe tras exitoso XXXIX Congreso del CEUCA en el TEC",
       "featured": false
@@ -3872,19 +3911,6 @@
       "teaser": "Lo clave en 20 segundos: MOPT pagará a CHEC por atrasos en la ruta 32.",
       "image_url": "https://www.nacion.com/resizer/v2/BOQMULEQDRATVG5AA3SV24DLWU.JPG?auth=b2de88ffc7ade02f0a5c947771a1e396860abe52d601a28c44fcde48f3812471&smart=true&width=2976&height=1984",
       "description": "El MOPT deberá pagarle $22 millones a la empresa China CHEC por múltiples reclamos relacionados con atrasos y sobrecostos presentados durante la ejecución de la ampliación de la ruta 32, en el tramo entre el cruce hacia Río Frío y el centro de Limón.",
-      "featured": false
-    },
-    {
-      "slug": "recorte-de-492-millones-pone-en-riesgo-la-operacion-del-tec-en-limon",
-      "title": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
-      "category": "Costa Rica",
-      "bullets_20s": "• El Gobierno propone un recorte significativo que afecta directamente al TEC en Limón.\n• La institución opera desde 2014 y atiende a 417 estudiantes en la región caribeña.\n• El recorte impactará la continuidad de operaciones y proyectos educativos en Limón.\n• Ministerio de Educación confirma que no se girarán fondos correspondientes a este año.\n• TEC defiende legalmente que estos fondos son indispensables por ley para su operación.",
-      "source_name": "m.molina",
-      "source_url": "http://www.tec.ac.cr/recorte-c492-millones-pone-riesgo-operacion-tec-limon",
-      "publish_date": "2026-10-18T22:23:39.000Z",
-      "teaser": "Lo clave en 20 segundos: Recorte afecta operación del TEC en Limón, poniendo en riesgo la educación.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/stock_centro-academico-limon-tec-7.jpg",
-      "description": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "featured": false
     },
     {
@@ -4587,6 +4613,19 @@
       "teaser": "Lo clave en 20 segundos: Descubre la historia de cómo ‘La Nación’ ha educado a niños desde hace 80 años.",
       "image_url": "https://www.nacion.com/resizer/v2/ET5N3KHPKVBVFHSVJQK63PRACI.JPG?auth=ad58c898db360f5b48d165e9456138740d8e9e1b9cd451d3bc629151896b0f24&smart=true&width=3000&height=1682",
       "description": "‘Zurquí’, ‘Tambor’, ‘Leer para disfrutar’, proyectos educativos, historietas en ‘Viva’, pasatiempos y recomendaciones han acompañado a lectores durante los 80 años de historia de 'La Nación'",
+      "featured": false
+    },
+    {
+      "slug": "recorte-de-492-millones-pone-en-riesgo-la-operacion-del-tec-en-limon",
+      "title": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Gobierno propone un recorte de ¢492 millones al presupuesto del TEC en Limón.\n• La propuesta se enmarca en el Proyecto de Ley n.° 25.803 presentado ante la Asamblea.\n• Este recorte afecta a 417 estudiantes que dependen del Centro Académico de Limón.\n• El TEC sostiene que estos fondos son indispensables para su operación ordinaria.\n• La situación se agrava con recortes en el presupuesto del año 2027.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/recorte-c492-millones-pone-riesgo-operacion-tec-limon",
+      "publish_date": "2026-10-18T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: el recorte pone en riesgo la operación del TEC en Limón.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/stock_centro-academico-limon-tec-7.jpg",
+      "description": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "featured": false
     },
     {
@@ -6049,13 +6088,13 @@
       "slug": "medio-siglo-de-transparencia-y-control-la-auditoria-interna-del-tec-celebra-50-anos-de-trayectoria-al-servicio-de-la-ins",
       "title": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "category": "Costa Rica",
-      "bullets_20s": "• La Auditoría Interna del TEC celebra 50 años de labor ininterrumpida en transparencia y control.\n• Se conmemora el aporte invaluable de la Auditoría a la gestión operativa del TEC.\n• Estuvo presente el Gerente de la Contraloría General en la celebración del aniversario.\n• El auditor interno resaltó el compromiso ético y la importancia del legado histórico.\n• Se abordaron retos actuales como la transformación tecnológica y la inteligencia artificial.",
+      "bullets_20s": "• La Auditoría Interna del TEC conmemora 50 años de servicio, fortaleciendo la transparencia en la gestión pública.\n• Durante el evento, se destacó la importancia de su rol en la rendición de cuentas y en el control interno.\n• El Lic. José Mauricio Pérez enfatizó el valor del compromiso ético en los auditores a lo largo de estos años.\n• La celebración reunió autoridades, invitados y familiares, honrando la memoria de contribuyentes destacados en la Auditoría.\n• El panel sobre inteligencia artificial mostró cómo la tecnología puede optimizar los procesos de fiscalización.\n• Se presentó un asistente de auditoría basado en inteligencia artificial para mejorar la eficiencia en el control.\n• Reconocimientos fueron otorgados a exauditores, resaltando su dedicación y esfuerzo por más de 50 años.\n• La transformación de la Auditoría Interna refleja el compromiso con la mejoría continua y la prevención de riesgos.\n• Se enfatizó la importancia de la colaboración entre unidades de auditoría en un entorno tecnológico cambiante.\n• La música también estuvo presente, con la actuación de la Orquesta de Guitarras del TEC durante el aniversario.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/medio-siglo-transparencia-control-auditoria-interna-tec-celebra-50-anos-trayectoria-servicio",
       "publish_date": "2026-10-15T21:59:13.000Z",
-      "teaser": "Lo clave en 20 segundos: La Auditoría Interna del TEC celebra 50 años de trayectoria en transparencia y gestión institucional.",
+      "teaser": "Lo clave en 20 segundos: Celebración de 50 años de la Auditoría Interna del TEC, un pilar de transparencia.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/auditoria-8.jpeg",
-      "description": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución.",
+      "description": "Medio siglo de transparencia y control: la Auditoría Interna del TEC celebra 50 años de trayectoria al servicio de la institución",
       "featured": false
     },
     {
@@ -117508,10 +117547,12 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-23T23:45:25.924Z",
-  "total": 9039,
-  "removed_soccer_news_count": 1439,
+  "generated_at": "2026-10-24T00:45:26.213Z",
+  "total": 9042,
+  "removed_soccer_news_count": 1441,
   "removed_soccer_news_titles": [
+    "Amarini Villatoro admite que debe tener más cuidado con lo que dice; también habla de Jafet Soto",
+    "Día Mundial de la Pasta: cuando la tradición italiana abre la mesa a todos",
     "Vincent Kompany es hospitalizado tras desmayarse en un entrenamiento del Bayern",
     "Lionel Messi recibe un premio que va mucho más allá de la cancha: el galardón Princesa de Asturias",
     "Barcelona vs. Real Madrid: ¿cuándo se disputa el clásico y se puede ver en Costa Rica?",
@@ -117559,8 +117600,6 @@
     "Juez ya resolvió qué pasará con Carlos Barahona tras la denuncia por cobros extorsivos",
     "Implicado en causa por presunta estafa que involucró a jugadores sería el denunciante de Carlos Barahona",
     "Abogado del jugador Carlos Barahona cuestiona denuncia asociada a préstamos gota a gota: ´No hay un elemento de extorsión cobratoria´",
-    "Tabla de posiciones del Torneo Apertura 2026: así marcha el fútbol de la Primera División en Costa Rica",
-    "Futbolista brasileño sufrió un asalto en su casa durante partido de la Champions",
-    "Alonso Martínez vuelve a la titularidad tras 10 meses y confiesa lo que más extrañaba"
+    "Tabla de posiciones del Torneo Apertura 2026: así marcha el fútbol de la Primera División en Costa Rica"
   ]
 }
