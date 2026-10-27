@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "conectividad-aerea-crece-en-liberia-y-cae-en-el-juan-santamaria",
+      "title": "Conectividad aérea crece en Liberia y cae en el Juan Santamaría",
+      "category": "Costa Rica",
+      "bullets_20s": "• El aeropuerto Daniel Oduber de Liberia ha aumentado su conectividad en comparación con otras terminales.\n• La caída en el Juan Santamaría refleja cambios en las preferencias de los viajeros nacionales e internacionales.\n• Se han programado más asientos a Costa Rica para atraer a más turistas a sus playas.\n• Las aerolíneas buscan adaptarse a las demanda de los pasajeros en diferentes regiones.\n• Este crecimiento en Liberia podría impactar positivamente la economía de la zona.",
+      "source_name": "Luis Enrique Brenes",
+      "source_url": "https://www.nacion.com/economia/conectividad-aerea-crece-en-liberia-y-cae-en-el/XYHEJU55ABEIHMOMXN6WKD6ZTU/story/",
+      "publish_date": "2026-10-27T20:27:14.000Z",
+      "teaser": "Lo clave en 20 segundos: Crece la conectividad aérea en Liberia, pero cae en Juan Santamaría.",
+      "image_url": "https://www.nacion.com/resizer/v2/BGOCXPG5ZVDDLHR6UVIIH5V6UI.JPG?auth=10b61a46684a697bfdd2d6086b155cd930cda9a94602fd7a05d2420945eca253&smart=true&width=3000&height=2000",
+      "description": "Entre enero y julio de 2026 se programaron 3.352.513 asientos hacia Costa Rica, un incremento de 0,7% frente al mismo período de 2025",
+      "featured": false
+    },
+    {
+      "slug": "donald-trump-eliminara-restricciones-sobre-la-emision-de-metano-para-productores-de-petroleo-y-gas",
+      "title": "Donald Trump eliminará restricciones sobre la emisión de metano para productores de petróleo y gas",
+      "category": "Mundo",
+      "bullets_20s": "• Las emisiones de metano contribuyen significativamente al calentamiento global y el cambio climático.\n• Las decisiones políticas afectan las regulaciones ambientales y la industria energética globalmente.\n• El metano tiene un impacto corto pero intenso en el efecto invernadero, siendo letal para el clima.\n• El avance tecnológico podría ofrecer alternativas más limpias en el sector energético.\n• Los líderes mundiales discuten continuamente sobre cómo reducir las emisiones de gases nocivos.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/donald-trump-eliminara-restricciones-sobre-la/GNPKQIBGLREZJDNTEZNICO743U/story/",
+      "publish_date": "2026-10-27T20:17:17.000Z",
+      "teaser": "Lo clave en 20 segundos: Donald Trump elimina restricciones de metano en industria energética, impactando clima.",
+      "image_url": "",
+      "description": "El metano, principal componente del gas natural, es la segunda mayor causa del calentamiento global después del dióxido de carbono.",
+      "featured": false
+    },
+    {
+      "slug": "ministro-gerald-campos-asiste-a-cumbre-donde-se-aprobara-plan-militar-contra-carteles-de-narcotrafico",
+      "title": "Ministro Gerald Campos asiste a cumbre donde se aprobará ‘plan militar’ contra carteles de narcotráfico",
+      "category": "Costa Rica",
+      "bullets_20s": "• El ministro de Seguridad participó en una cumbre internacional sobre el narcotráfico en la región.\n• Se busca establecer un plan militar conjunto para combatir a los carteles de drogas.\n• La Coalición Anticartel de las Américas se reúne para discutir estrategias de seguridad.\n• Las medidas se enfocan en fortalecer la cooperación entre países de la región.\n• El encuentro refleja la preocupación por el aumento del narcotráfico en América Latina.",
+      "source_name": "Fernando Chaves Espinach",
+      "source_url": "https://www.nacion.com/politica/ministro-gerald-campos-asiste-a-cumbre-donde-se/DBSAOGHFSJCBHKJ4POCX6MYPWE/story/",
+      "publish_date": "2026-10-27T19:50:39.000Z",
+      "teaser": "Lo clave en 20 segundos: Ministro Campos se reúne para proponer un plan militar contra carteles de narcotráfico.",
+      "image_url": "https://www.nacion.com/resizer/v2/A5ALRXEALBHMPLV7GNRSOG2JCQ.jpeg?auth=8362dffac362827be583e3db18b8f0ead0a2760218bcb673c35eb938bcf0f156&smart=true&width=1290&height=853",
+      "description": "El ministro de Seguridad, Gerald Campos, aparece en una imagen divulgada por el mando militar estadounidense durante encuentro de la Coalición Anticartel de las Américas, en República Dominicana.",
+      "featured": false
+    },
+    {
       "slug": "contraloria-advierte-uso-ineficaz-de-canon-de-puerto-caldera-70-de-proyectos-ejecutados-en-10-anos-sin-aporte-al-turismo",
       "title": "Contraloría advierte uso ineficaz de canon de Puerto Caldera: 70% de proyectos ejecutados en 10 años sin aporte al turismo",
       "category": "Costa Rica",
@@ -134,13 +173,13 @@
       "slug": "programa-de-microcredenciales-en-semiconductores-ronda-1",
       "title": "Programa de Microcredenciales en Semiconductores, Ronda 1",
       "category": "Tecnología",
-      "bullets_20s": "• Curso destinado a la formación en semiconductores para profesionales de diversas áreas técnicas.\n• Los cursos son organizados en bloques que abarcan distintos aspectos de la semiconductores.\n• Se ofrece un certificado digital al finalizar exitosamente todos los cursos ofrecidos.\n• El programa está diseñado para estudiantes avanzados y graduados de carreras afines.\n• Inscripción gratuita hasta el 28 de octubre, con cupo limitado a 20 estudiantes por curso.",
+      "bullets_20s": "• El programa ofrece formación en diseño y fabricación de semiconductores para profesionales y estudiantes.\n• Incluye cuatro cursos organizados en dos bloques, impartidos en modalidad virtual-presencial.\n• Cada curso aprobado proporciona una microcredencial que contribuye al certificado digital del programa.\n• Las inscripciones son gratuitas hasta el 28 de octubre, con un cupo limitado de 20 personas por curso.\n• El costo por curso es de ₡2.040, pero la mayoría del costo está cubierto por el TEC y CRUSA.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/programa-microcredenciales-semiconductores-ronda-1",
       "publish_date": "2026-10-27T15:24:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Programa ofrece microcredenciales en semiconductores, ideal para profesionales de tecnología.",
+      "teaser": "Lo clave en 20 segundos: nuevo programa en semiconductores ofrece cursos a estudiantes y profesionales.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/pagina-matricula.png",
-      "description": "Programa de formación en diseño y fabricación de semiconductores para estudiantes avanzados y profesionales de Electrónica, Eléctrica, Computadores y Mecatrónica.",
+      "description": "Programa de Microcredenciales en Semiconductores, Ronda 1",
       "featured": false
     },
     {
@@ -277,11 +316,11 @@
       "slug": "5-claves-de-la-crisis-por-los-militares-de-el-salvador-secuestrados-en-haiti-y-el-ultimatum-de-bukele-a-las-poderosas-pa",
       "title": "5 claves de la crisis por los militares de El Salvador secuestrados en Haití y el ultimátum de Bukele a las poderosas pandillas del país",
       "category": "Mundo",
-      "bullets_20s": "• Crisis actual derivada del secuestro de militares fuera de su país de origen en Haití.\n• El Gobierno de Bukele enfrenta presiones por la situación de los soldados desaparecidos.\n• Las pandillas en El Salvador han incrementado su poder y control territorial en la última década.\n• Bukele ha emitido un ultimátum para que las pandillas se entreguen y se desmilitaricen.\n• La comunidad internacional analiza el impacto de esta crisis militar en la estabilidad de la región.",
+      "bullets_20s": "• Militares de El Salvador en Haití están desaparecidos desde el 18 de octubre, causando preocupación internacional.\n• Bukele busca presionar a las pandillas a través de un ultimátum en medio de la creciente crisis.\n• Las autoridades buscan respuestas sobre la situación de los soldados en un entorno hostil como el haitiano.\n• La comunidad internacional está atenta a los acontecimientos en Haití y la reacción del gobierno salvadoreño.\n• El caso refleja la complicada situación de seguridad en Haití y la intervención extranjera necesaria.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwg7xe5gnvzeo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-27T13:09:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Crisis militar y ultimátum de Bukele a pandillas en El Salvador.",
+      "teaser": "Lo clave en 20 segundos: Desaparición de militares salvaodoreños en Haití genera crisis y reacciones políticas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/1df6/live/d378d0d0-d1a7-11f1-958c-9d3074094b31.jpg",
       "description": "Integrantes de una fuerza multinacional, se les perdió la pista el 18 de octubre. Desde entonces las interrogantes sobre el caso no han dejado de multiplicarse.",
       "featured": false
@@ -4372,11 +4411,11 @@
       "slug": "feria-virtual-de-tecnicos-e-idiomas-del-tec",
       "title": "Feria Virtual de Técnicos e Idiomas del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC lanza la primera Feria Virtual de Técnicos e Idiomas para acceder a programas educativos.\n• La feria comenzará el 30 de octubre y durará un año, disponible día y noche.\n• Los visitantes explorarán 21 stands virtuales con información sobre cursos y programas.\n• Es completamente gratuita y accesible desde celulares y computadoras de cualquier usuario.\n• Una gran oportunidad para estudiantes y egresados que deseen mejorar sus competencias.\n• La iniciativa surge de un grupo proactivo de técnicos del Tecnológico de Costa Rica.\n• Invita a familias a participar y conocer la oferta académica del TEC.\n• Facilita el acceso a la educación en nuevas dinámicas digitales actuales.",
+      "bullets_20s": "• El TEC lanzará su primera Feria Virtual de Técnicos e Idiomas desde el 30 de octubre de 2026.\n• La feria contará con 21 stands interactivos accesibles desde cualquier dispositivo digital.\n• El acceso a la plataforma será gratuito y estará disponible las 24 horas del día, todo el año.\n• La iniciativa busca atender la diversidad de programas técnicos y cursos de idiomas ofrecidos.\n• Estudiantes, egresados y cualquier interesado podrá fortalecer sus competencias profesionales.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/feria-virtual-tecnicos-idiomas-tec",
       "publish_date": "2026-10-22T00:22:40.000Z",
-      "teaser": "Lo clave en 20 segundos: La primera Feria Virtual del TEC abrirá el 30 de octubre para todos.",
+      "teaser": "Lo clave en 20 segundos: Feria Virtual TEC, acceso gratuito y 21 stands interactivos desde el 30 de octubre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/invitacion-feria-virtual-1.png",
       "description": "Feria Virtual de Técnicos e Idiomas del TEC",
       "featured": false
@@ -4567,11 +4606,11 @@
       "slug": "presupuesto-universitario-que-se-aprobo-en-comision-y-que-puede-cambiar-en-el-plenario",
       "title": "Presupuesto universitario: qué se aprobó en comisión y qué puede cambiar en el Plenario",
       "category": "Costa Rica",
-      "bullets_20s": "• La Comisión de Hacendarios aprobó el presupuesto 2027 con recortes a las universidades públicas.\n• Se dictaminó un recorte de ¢8.048 millones al Fondo Especial para la Educación Superior.\n• Propuestas no discutidas pueden volver a presentarse en el Plenario, como mociones reiteradas.\n• El Plenario empezará discusión del presupuesto el 2 de noviembre y tiene plazos establecidos.\n• El TEC ha cubierto salarios y becas con recursos propios ante la falta de fondos asignados.",
+      "bullets_20s": "• La Comisión de Hacendarios aprobó un recorte al presupuesto universitario para 2027, afectará varias universidades públicas.\n• La reducción de ¢8.048 millones al FEES se fundamenta en la necesidad de fondos para el MEP y Jupema.\n• Se espera una serie de mociones en el Plenario, donde podrían reiterarse las propuestas no votadas en comisión.\n• El Plenario tendrá la tarea de discutir el presupuesto a partir del 2 de noviembre del 2026, crucial para las universidades.\n• La discusión del presupuesto extraordinario para 2026 comenzará en la semana del 26 de octubre, también importante.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/presupuesto-universitario-se-aprobo-comision-puede-cambiar-plenario",
       "publish_date": "2026-10-21T20:39:19.000Z",
-      "teaser": "Lo clave en 20 segundos: Presupuesto universitario con recortes, mociones pueden regresar al Plenario.",
+      "teaser": "Lo clave en 20 segundos: recorte universitario deja futuro incierto en el Plenario.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/asamblea.jpg",
       "description": "Presupuesto universitario: qué se aprobó en comisión y qué puede cambiar en el Plenario",
       "featured": false
@@ -6309,13 +6348,13 @@
       "slug": "costa-rica-asume-el-liderazgo-estudiantil-de-centroamerica-y-el-caribe-tras-exitoso-xxxix-congreso-del-ceuca-en-el-tec",
       "title": "Costa Rica asume el liderazgo estudiantil de Centroamérica y el Caribe tras exitoso XXXIX Congreso del CEUCA en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El Congreso del CEUCA reunió a federaciones estudiantiles de varios países de la región.\n• Consolidación del marco normativo de la FEUCA fue uno de los logros más importantes.\n• El TEC fue la sede elegida, asegurando su liderazgo académico y organizativo.\n• Participaron delegaciones de Panamá, Honduras, Colombia y Costa Rica en el evento.\n• Se aprobaron reglamentos clave para garantizar transparencia y rendición de cuentas.",
+      "bullets_20s": "• El XXXIX Congreso Estudiantil Universitario se realizó en el Tecnológico de Costa Rica con gran participación.\n• Federaciones de varios países debatieron sobre integración y derechos estudiantiles en un ambiente colaborativo.\n• Costa Rica se posiciona al frente del movimiento estudiantil con la presidencia de la FEUCA a partir de ahora.\n• Se aprobaron reglamentos clave para la transparencia y rendición de cuentas en el movimiento estudiantil.\n• El evento también destacó la importancia de la cultura y el intercambio académico entre los países participantes.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/costa-rica-asume-liderazgo-estudiantil-centroamerica-caribe-exitoso-xxxix-congreso-ceuca-tec",
       "publish_date": "2026-10-19T14:33:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica lidera el movimiento estudiantil en Centroamérica tras el CEUCA.",
+      "teaser": "Lo clave en 20 segundos: Costa Rica lidera el movimiento estudiantil de la región tras exitoso congreso internacional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tec_0858.JPG",
-      "description": "Costa Rica asume el liderazgo estudiantil de Centroamérica y el Caribe tras exitoso XXXIX Congreso del CEUCA en el TEC",
+      "description": "Costa Rica asume el liderazgo estudiantil de Centroamérica y el Caribe tras exitoso XXXIX Congreso del CEUCA en el TEC.",
       "featured": false
     },
     {
@@ -6764,11 +6803,11 @@
       "slug": "recorte-de-492-millones-pone-en-riesgo-la-operacion-del-tec-en-limon",
       "title": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "category": "Costa Rica",
-      "bullets_20s": "• La rebaja de fondos afecta directamente a 417 estudiantes del Centro Académico de Limón.\n• El Proyecto de Ley n.° 25.803 propone reducir ¢492 millones del presupuesto del TEC.\n• El MEP anunció que no se girarán fondos en octubre, noviembre y diciembre.\n• El TEC argumenta que estos recursos tienen respaldo legal específico desde la ley de 2013.\n• Los recortes podrían ocasionar un cierre técnico de actividades en el CAL de Limón.",
+      "bullets_20s": "• El Gobierno propone recortar ¢492 millones del presupuesto del TEC en Limón, afectando su operación.\n• Este recorte podría comprometer la educación de 417 estudiantes que actualmente asisten al CAL de Limón.\n• La Ley n.° 9131 establece que el TEC tiene derechos específicos sobre estos fondos para su funcionamiento.\n• El MEP ha confirmado que no se harán transferencias en noviembre y diciembre por esta rebaja.\n• La rectora del TEC solicita a legisladores rechazar la propuesta del Gobierno y honrar los fondos legales.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/recorte-c492-millones-pone-riesgo-operacion-tec-limon",
       "publish_date": "2026-10-18T22:23:39.000Z",
-      "teaser": "Lo clave en 20 segundos: un recorte de fondos del TEC en Limón amenaza su operación y el futuro de 417 estudiantes.",
+      "teaser": "Lo clave en 20 segundos: El recorte de ¢492 millones amenaza la operación del TEC en Limón, poniendo en riesgo la educación.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/stock_centro-academico-limon-tec-7.jpg",
       "description": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "featured": false
@@ -120420,10 +120459,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-27T19:45:27.301Z",
-  "total": 9263,
-  "removed_soccer_news_count": 1469,
+  "generated_at": "2026-10-27T20:45:26.212Z",
+  "total": 9266,
+  "removed_soccer_news_count": 1470,
   "removed_soccer_news_titles": [
+    "La Liga denuncia comportamientos violentos en el clásico Barcelona-Real Madrid",
     "¿Irá a la final de Centroamérica? Estos son los escenarios de Cartaginés ante Olimpia",
     "Bryan Ruiz es presentado con la Selección de Costa Rica: Vea la primera foto del nuevo DT y su cuerpo técnico",
     "Las razones del enojo de China con Kylian Mbappé (y Mao Zedong como protagonista)",
@@ -120472,7 +120512,6 @@
     "Marathón vs. Alianza: Hora y cómo ver este juego que hoy abre la jornada internacional en Centroamérica",
     "Estos son los 10 futbolistas más valiosos del mundo",
     "Un panel de porristas para Jafet Soto",
-    "Conozca los goles más rápidos en la historia de la Primera División de Costa Rica",
-    "Tabla de posiciones: así marcha el fútbol en Costa Rica tras la jornada 12 del Torneo de Apertura 2026"
+    "Conozca los goles más rápidos en la historia de la Primera División de Costa Rica"
   ]
 }
