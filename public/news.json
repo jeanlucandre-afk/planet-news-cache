@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "contraloria-advierte-uso-ineficaz-de-canon-de-puerto-caldera-70-de-proyectos-ejecutados-en-10-anos-sin-aporte-al-turismo",
+      "title": "Contraloría advierte uso ineficaz de canon de Puerto Caldera: 70% de proyectos ejecutados en 10 años sin aporte al turismo",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Contraloría resalta un uso ineficaz del canon de Puerto Caldera en los últimos años.\n• Se estima que un 70% de los proyectos no han beneficiado al turismo en el país.\n• Las inversiones se concentran en pocos territorios, sin un respaldo adecuado.\n• La falta de comprobación de precios es una de las principales críticas de la entidad.\n• La institución ha recibido más de 41 millones de dólares en casi 20 años.",
+      "source_name": "Patricia Recio",
+      "source_url": "https://www.nacion.com/el-pais/contraloria-advierte-uso-ineficaz-de-canon-de/2WZ65SMSTZHVLMDWIEU2FDMUIU/story/",
+      "publish_date": "2026-10-27T19:24:59.000Z",
+      "teaser": "Lo clave en 20 segundos: La Contraloría critica el uso de fondos en Puerto Caldera por falta de impacto turístico.",
+      "image_url": "https://www.nacion.com/resizer/v2/OJGDW27QY5APHOHFH7DTMUE7HQ.jpg?auth=3eadc269fba7f3c8d2ee94a3d58b97518bc2b1eabff2f4e6666934fbf500c3de&smart=true&width=1600&height=1200",
+      "description": "La Contraloría señaló concentración de inversiones con canon de Puerto Caldera en pocos territorios y falta de respaldo para comprobar precios; institución recibió $41,1 millones por este canon en casi 20 años.",
+      "featured": false
+    },
+    {
+      "slug": "comision-electoral-de-israel-rechaza-ampliar-periodo-de-votacion-tras-solicitud-de-partido-de-netanyahu",
+      "title": "Comisión electoral de Israel rechaza ampliar periodo de votación tras solicitud de partido de Netanyahu",
+      "category": "Mundo",
+      "bullets_20s": "• La Comisión Electoral de Israel tomó una decisión significativa en medio de las elecciones actuales.\n• La solicitud de un partido político fue rechazada, indicando restricciones en el proceso electoral.\n• Los porcentajes de participación superan los registros habituales, destacando la importancia del evento.\n• Las elecciones en Israel generan un interés global debido a sus implicaciones políticas.\n• El contexto actual refleja tensiones en el panorama político israelí que pueden influir en el futuro.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/el-mundo/comision-electoral-de-israel-rechaza-ampliar/SF35KWSLYVCTXCTX47ESV2UOEU/story/",
+      "publish_date": "2026-10-27T19:22:38.000Z",
+      "teaser": "Lo clave en 20 segundos: Comisión electoral de Israel rechaza petición de extender votación en elecciones actuales.",
+      "image_url": "https://www.nacion.com/resizer/v2/FKDDYFXCXFHZPLHCZHXE44TQNI.jpg?auth=9e96d333900f958383649752c7750368010e18420750f2c73b911f8a6865e87a&smart=true&width=1200&height=800",
+      "description": "La participación sigue rozando récords históricos: 74,3% hasta las 8 p. m., solo por debajo de las elecciones de 1988. Así van los comicios.",
+      "featured": false
+    },
+    {
+      "slug": "canciller-cubano-y-embajador-de-ee-uu-ante-la-onu-pelean-a-gritos-en-la-asamblea-general",
+      "title": "Canciller cubano y embajador de EE. UU. ante la ONU pelean a gritos en la Asamblea General",
+      "category": "Mundo",
+      "bullets_20s": "• Tensión entre Cuba y EE. UU. se evidenció en la Asamblea General de la ONU.\n• El canciller cubano y el embajador estadounidense intercambiaron palabras subidas de tono.\n• El episodio ocurrió durante una importante sesión de la Asamblea General.\n• Ambos diplomáticos abordaron temas políticos sensibles que generan controversia.\n• La discusión muestra la complejidad de las relaciones internacionales actuales.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/el-mundo/canciller-cubano-y-embajador-de-ee-uu-ante-la-onu/XLPPKNGO2JBC3DT2BN72UJLIFY/story/",
+      "publish_date": "2026-10-27T19:19:03.000Z",
+      "teaser": "Lo clave en 20 segundos: Tenso intercambio entre Cuba y EE. UU. en la ONU resalta conflictos diplomáticos actuales.",
+      "image_url": "https://www.nacion.com/resizer/v2/BLDJ4MVIGBDSDM2JXGD6NUKLDY.jpg?smart=true&auth=b860df69a583fe3a37c5ede9a1bef9e750b88fc0613510a672d2b4793f16346c&width=1440",
+      "description": "El embajador de EE. UU. ante la ONU, Mike Waltz, y el canciller cubano, Bruno Rodríguez, protagonizaron un tenso choque. Vea los detalles del altercado.",
+      "featured": false
+    },
+    {
       "slug": "flavio-bolsonaro-salio-de-brasil-hacia-estados-unidos-reportan-medios",
       "title": "Flávio Bolsonaro salió de Brasil hacia Estados Unidos, reportan medios",
       "category": "Mundo",
@@ -95,13 +134,13 @@
       "slug": "programa-de-microcredenciales-en-semiconductores-ronda-1",
       "title": "Programa de Microcredenciales en Semiconductores, Ronda 1",
       "category": "Tecnología",
-      "bullets_20s": "• Se ofrece un programa de formación en semiconductores, dirigido a estudiantes avanzados y profesionales.\n• El programa incluye cursos de diseño y fabricación de semiconductores para diferentes disciplinas.\n• Cada curso aprobado otorga una microcredencial y al completar cuatro se otorga un certificado.\n• El bloque A inicia el 31 de octubre y el bloque B comienza el 9 de enero del 2027.\n• Inscripciones gratuitas están habilitadas hasta el 28 de octubre, con selección de cupos.",
+      "bullets_20s": "• Curso destinado a la formación en semiconductores para profesionales de diversas áreas técnicas.\n• Los cursos son organizados en bloques que abarcan distintos aspectos de la semiconductores.\n• Se ofrece un certificado digital al finalizar exitosamente todos los cursos ofrecidos.\n• El programa está diseñado para estudiantes avanzados y graduados de carreras afines.\n• Inscripción gratuita hasta el 28 de octubre, con cupo limitado a 20 estudiantes por curso.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/programa-microcredenciales-semiconductores-ronda-1",
       "publish_date": "2026-10-27T15:24:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Programa de Microcredenciales en Semiconductores para formación especializada.",
+      "teaser": "Lo clave en 20 segundos: Programa ofrece microcredenciales en semiconductores, ideal para profesionales de tecnología.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/pagina-matricula.png",
-      "description": "Programa de Microcredenciales en Semiconductores, Ronda 1.",
+      "description": "Programa de formación en diseño y fabricación de semiconductores para estudiantes avanzados y profesionales de Electrónica, Eléctrica, Computadores y Mecatrónica.",
       "featured": false
     },
     {
@@ -238,11 +277,11 @@
       "slug": "5-claves-de-la-crisis-por-los-militares-de-el-salvador-secuestrados-en-haiti-y-el-ultimatum-de-bukele-a-las-poderosas-pa",
       "title": "5 claves de la crisis por los militares de El Salvador secuestrados en Haití y el ultimátum de Bukele a las poderosas pandillas del país",
       "category": "Mundo",
-      "bullets_20s": "• Los militares de El Salvador desaparecieron en Haití durante una misión internacional de seguridad y paz.\n• El gobierno de Bukele ha emitido un ultimátum a las pandillas locales para enfrentar la crisis.\n• Haití enfrenta una grave situación de seguridad que afecta a las fuerzas multinacionales presentes.\n• Las interrogantes sobre el paradero de los militares crecen con la falta de información oficial.\n• La situación en Haití refleja la complejidad de la intervención internacional en conflictos internos.\n• El caso pone en evidencia las tensiones entre El Salvador y las pandillas en su territorio.\n• Se espera que la comunidad internacional reaccione ante el ultimátum del presidente Bukele.\n• La desaparición de estos militares ha llamado la atención de diversos medios y analistas globales.",
+      "bullets_20s": "• Crisis actual derivada del secuestro de militares fuera de su país de origen en Haití.\n• El Gobierno de Bukele enfrenta presiones por la situación de los soldados desaparecidos.\n• Las pandillas en El Salvador han incrementado su poder y control territorial en la última década.\n• Bukele ha emitido un ultimátum para que las pandillas se entreguen y se desmilitaricen.\n• La comunidad internacional analiza el impacto de esta crisis militar en la estabilidad de la región.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwg7xe5gnvzeo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-27T13:09:31.000Z",
-      "teaser": "Lo clave en 20 segundos: La crisis en Haití afecta a militares salvadoreños con un nuevo ultimátum de Bukele.",
+      "teaser": "Lo clave en 20 segundos: Crisis militar y ultimátum de Bukele a pandillas en El Salvador.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/1df6/live/d378d0d0-d1a7-11f1-958c-9d3074094b31.jpg",
       "description": "Integrantes de una fuerza multinacional, se les perdió la pista el 18 de octubre. Desde entonces las interrogantes sobre el caso no han dejado de multiplicarse.",
       "featured": false
@@ -4333,11 +4372,11 @@
       "slug": "feria-virtual-de-tecnicos-e-idiomas-del-tec",
       "title": "Feria Virtual de Técnicos e Idiomas del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC organizará una feria virtual de técnicos e idiomas, accesible desde dispositivos digitales.\n• La iniciativa busca facilitar el acceso a programas educativos ante nuevas dinámicas digitales.\n• La feria contará con 21 stands interactivos para conocer la oferta del TEC en cursos.\n• Podrán participar estudiantes, egresados, funcionarios y cualquier persona interesada en mejorar habilidades.\n• La plataforma estará disponible las 24 horas durante todo un año de forma gratuita.",
+      "bullets_20s": "• El TEC lanza la primera Feria Virtual de Técnicos e Idiomas para acceder a programas educativos.\n• La feria comenzará el 30 de octubre y durará un año, disponible día y noche.\n• Los visitantes explorarán 21 stands virtuales con información sobre cursos y programas.\n• Es completamente gratuita y accesible desde celulares y computadoras de cualquier usuario.\n• Una gran oportunidad para estudiantes y egresados que deseen mejorar sus competencias.\n• La iniciativa surge de un grupo proactivo de técnicos del Tecnológico de Costa Rica.\n• Invita a familias a participar y conocer la oferta académica del TEC.\n• Facilita el acceso a la educación en nuevas dinámicas digitales actuales.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/feria-virtual-tecnicos-idiomas-tec",
       "publish_date": "2026-10-22T00:22:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Feria virtual del TEC abrirá el 30 de octubre con 21 stands interactivos.",
+      "teaser": "Lo clave en 20 segundos: La primera Feria Virtual del TEC abrirá el 30 de octubre para todos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/invitacion-feria-virtual-1.png",
       "description": "Feria Virtual de Técnicos e Idiomas del TEC",
       "featured": false
@@ -4528,11 +4567,11 @@
       "slug": "presupuesto-universitario-que-se-aprobo-en-comision-y-que-puede-cambiar-en-el-plenario",
       "title": "Presupuesto universitario: qué se aprobó en comisión y qué puede cambiar en el Plenario",
       "category": "Costa Rica",
-      "bullets_20s": "• La Comisión de Hacendarios dictaminó el Presupuesto 2027, con recortes importantes a universidades públicas.\n• El presupuesto extraordinario de 2026 mantiene la rebaja al Centro Académico de Limón.\n• Varias mociones que afectaban al TEC no fueron votadas, pero pueden regresar al Plenario.\n• El Plenario comenzará a discutir el presupuesto nacional el 2 de noviembre de 2026.\n• Las mociones en el Plenario se aprueban por mayoría simple, con 31 escaños del PPSO.",
+      "bullets_20s": "• La Comisión de Hacendarios aprobó el presupuesto 2027 con recortes a las universidades públicas.\n• Se dictaminó un recorte de ¢8.048 millones al Fondo Especial para la Educación Superior.\n• Propuestas no discutidas pueden volver a presentarse en el Plenario, como mociones reiteradas.\n• El Plenario empezará discusión del presupuesto el 2 de noviembre y tiene plazos establecidos.\n• El TEC ha cubierto salarios y becas con recursos propios ante la falta de fondos asignados.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/presupuesto-universitario-se-aprobo-comision-puede-cambiar-plenario",
       "publish_date": "2026-10-21T20:39:19.000Z",
-      "teaser": "Lo clave en 20 segundos: El Presupuesto 2027 enfrenta recortes que impactan a universidades públicas en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Presupuesto universitario con recortes, mociones pueden regresar al Plenario.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/asamblea.jpg",
       "description": "Presupuesto universitario: qué se aprobó en comisión y qué puede cambiar en el Plenario",
       "featured": false
@@ -6270,11 +6309,11 @@
       "slug": "costa-rica-asume-el-liderazgo-estudiantil-de-centroamerica-y-el-caribe-tras-exitoso-xxxix-congreso-del-ceuca-en-el-tec",
       "title": "Costa Rica asume el liderazgo estudiantil de Centroamérica y el Caribe tras exitoso XXXIX Congreso del CEUCA en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC albergó el XXXIX Congreso del CEUCA, donde se discutieron temas importantes para la región.\n• Delegaciones de países como Panamá, Honduras y Colombia participaron activamente en el congreso.\n• Se aprobaron reglamentos clave para la transparencia y rendición de cuentas en la FEUCA.\n• Costa Rica asumió la presidencia de la FEUCA, marcando un hito en el liderazgo estudiantil.\n• Los estudiantes expresaron su intención de replicar aprendizajes del congreso en sus universidades.\n• El congreso fue una oportunidad para fortalecer la integración cultural y académica de la región.\n• Santos Alexander López destacó la importancia del evento para proyectar el liderazgo del TEC.\n• Durante el congreso, se establecieron lazos de cooperación académica entre las universidades.\n• La modernización de estructuras estudiantiles es un objetivo clave definido en el congreso.\n• El evento reafirma el compromiso de la juventud por la educación pública y la democracia.",
+      "bullets_20s": "• El Congreso del CEUCA reunió a federaciones estudiantiles de varios países de la región.\n• Consolidación del marco normativo de la FEUCA fue uno de los logros más importantes.\n• El TEC fue la sede elegida, asegurando su liderazgo académico y organizativo.\n• Participaron delegaciones de Panamá, Honduras, Colombia y Costa Rica en el evento.\n• Se aprobaron reglamentos clave para garantizar transparencia y rendición de cuentas.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/costa-rica-asume-liderazgo-estudiantil-centroamerica-caribe-exitoso-xxxix-congreso-ceuca-tec",
       "publish_date": "2026-10-19T14:33:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Costa Rica se posiciona como líder estudiantil tras el exitoso CEUCA en el TEC.",
+      "teaser": "Lo clave en 20 segundos: Costa Rica lidera el movimiento estudiantil en Centroamérica tras el CEUCA.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tec_0858.JPG",
       "description": "Costa Rica asume el liderazgo estudiantil de Centroamérica y el Caribe tras exitoso XXXIX Congreso del CEUCA en el TEC",
       "featured": false
@@ -6725,11 +6764,11 @@
       "slug": "recorte-de-492-millones-pone-en-riesgo-la-operacion-del-tec-en-limon",
       "title": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "category": "Costa Rica",
-      "bullets_20s": "• El Gobierno ha propuesto recortar ¢492 millones de fondos destinados al TEC en Limón.\n• Este recorte afecta a 417 estudiantes que dependen del Centro Académico de Limón.\n• La institución sostiene que estos fondos son esenciales para su operación ordinaria.\n• El MEP confirmó que los giros de octubre a diciembre no se realizarán.\n• La rectora del TEC demanda el respeto por los fondos asignados por ley.",
+      "bullets_20s": "• La rebaja de fondos afecta directamente a 417 estudiantes del Centro Académico de Limón.\n• El Proyecto de Ley n.° 25.803 propone reducir ¢492 millones del presupuesto del TEC.\n• El MEP anunció que no se girarán fondos en octubre, noviembre y diciembre.\n• El TEC argumenta que estos recursos tienen respaldo legal específico desde la ley de 2013.\n• Los recortes podrían ocasionar un cierre técnico de actividades en el CAL de Limón.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/recorte-c492-millones-pone-riesgo-operacion-tec-limon",
       "publish_date": "2026-10-18T22:23:39.000Z",
-      "teaser": "Lo clave en 20 segundos: Un recorte significativo amenaza la operación del TEC en Limón y sus estudiantes.",
+      "teaser": "Lo clave en 20 segundos: un recorte de fondos del TEC en Limón amenaza su operación y el futuro de 417 estudiantes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/stock_centro-academico-limon-tec-7.jpg",
       "description": "Recorte de ¢492 millones pone en riesgo la operación del TEC en Limón",
       "featured": false
@@ -120381,10 +120420,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-27T18:45:27.735Z",
-  "total": 9260,
-  "removed_soccer_news_count": 1468,
+  "generated_at": "2026-10-27T19:45:27.301Z",
+  "total": 9263,
+  "removed_soccer_news_count": 1469,
   "removed_soccer_news_titles": [
+    "¿Irá a la final de Centroamérica? Estos son los escenarios de Cartaginés ante Olimpia",
     "Bryan Ruiz es presentado con la Selección de Costa Rica: Vea la primera foto del nuevo DT y su cuerpo técnico",
     "Las razones del enojo de China con Kylian Mbappé (y Mao Zedong como protagonista)",
     "Las reacciones al triunfo de Harry Kane en el Balón de Oro: hasta el príncipe Guillermo lo felicitó",
@@ -120433,7 +120473,6 @@
     "Estos son los 10 futbolistas más valiosos del mundo",
     "Un panel de porristas para Jafet Soto",
     "Conozca los goles más rápidos en la historia de la Primera División de Costa Rica",
-    "Tabla de posiciones: así marcha el fútbol en Costa Rica tras la jornada 12 del Torneo de Apertura 2026",
-    "Sporting y San Carlos quieren pelear y lo demostraron en la cancha"
+    "Tabla de posiciones: así marcha el fútbol en Costa Rica tras la jornada 12 del Torneo de Apertura 2026"
   ]
 }
