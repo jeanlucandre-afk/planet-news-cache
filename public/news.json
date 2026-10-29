@@ -1,6 +1,58 @@
 {
   "news": [
     {
+      "slug": "paso-sobre-puente-en-cambronero-reabrira-antes-de-lo-previsto-conozca-la-fecha-de-apertura",
+      "title": "Paso sobre puente en Cambronero reabrirá antes de lo previsto: conozca la fecha de apertura",
+      "category": "Costa Rica",
+      "bullets_20s": "• El puente bailey en Cambronero es crucial para la ruta Interamericana norte en Costa Rica.\n• La re apertura del puente traerá beneficios a los conductores y a la economía local.\n• Las reparaciones fueron necesarias tras un accidente de camión ocurrido el mes pasado.\n• Se espera que la apertura al tráfico ocurra antes de la fecha inicialmente prevista.\n• Los detalles de la reapertura serán comunicados por las autoridades de transporte.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/el-pais/paso-sobre-puente-en-cambronero-reabrira-antes-de/ZR3SCJYS7NDFDLKK3S2GUXSK4A/story/",
+      "publish_date": "2026-10-29T18:28:05.000Z",
+      "teaser": "Lo clave en 20 segundos: el puente en Cambronero reabrirá antes de lo esperado por reparaciones.",
+      "image_url": "https://www.nacion.com/resizer/v2/TLRJ65VS2VHCTH76IEVD2MOOIA.jpeg?auth=083bea8d0c3ba6b2c1c23a4ec38d9cf0af1719cbe5e3f203838539da92060be6&smart=true&width=4000&height=3000",
+      "description": "Paso por el puente bailey en Cambronero sobre la ruta Interamericana norte volverá a operar tras reparaciones por el choque de un camión en setiembre; conozca los detalles y el momento de apertura vial.",
+      "featured": false
+    },
+    {
+      "slug": "marvin-solano-exalcalde-de-paraiso-condenado-a-tres-anos-de-prision-por-trafico-de-influencias-en-construccion-de-motel-",
+      "title": "Marvin Solano, exalcalde de Paraíso, condenado a tres años de prisión por tráfico de influencias en construcción de motel: así se desarrolló el caso",
+      "category": "Costa Rica",
+      "bullets_20s": "• Marvin Solano Zúñiga fue exalcalde de Paraíso, un cargo que ocupó antes de su condena.\n• El caso involucra tráfico de influencias relacionado con la construcción de un motel en 2016.\n• La condena se estableció por tres años de prisión, decisión tomada por el tribunal.\n• Los hechos ocurrieron durante su gestión, planteando serio cuestionamiento al actuar público.\n• El caso refleja la problemática de la corrupción en proyectos de construcción en Costa Rica.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/sucesos/marvin-solano-exalcalde-de-paraiso-condenado-a/NT3LYIGLWVB5REGYVALM7K5C7E/story/",
+      "publish_date": "2026-10-29T18:04:20.000Z",
+      "teaser": "Lo clave en 20 segundos: exalcalde de Paraíso condenado por tráfico de influencias en construcción de un motel.",
+      "image_url": "https://www.nacion.com/resizer/v2/WBDM227MMZF3PA345RYHETO2V4.JPG?smart=true&auth=83e5bc595eafd20254f9de40198269780489ce011fc722e659df4b2f4eec468b&width=1440",
+      "description": "Marvin Solano Zúñiga, exalcalde de Paraíso, recibió una condena de tres años de prisión por tráfico de influencias agravado y fraude de ley, relacionados con un permiso de construcción de un motel en 2016.",
+      "featured": false
+    },
+    {
+      "slug": "uber-presentara-una-nueva-opcion-para-mujeres-en-costa-rica",
+      "title": "Uber presentará una nueva opción para mujeres en Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• Uber introduce una nueva iniciativa para mejorar la seguridad de las pasajeras en Costa Rica.\n• El servicio 'Uber Mujeres' permitirá a las mujeres viajar con conductoras en el país.\n• Esta opción busca crear un entorno más confiable y cómodo para las usuarias.\n• Se espera que el lanzamiento oficial se lleve a cabo en los próximos meses.\n• La empresa ha implementado esta opción en otros países con gran aceptación entre usuarias.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/economia/uber-presentara-una-nueva-opcion-para-mujeres-en/BEKSJEV4MRASPIIJ63B6BB4KRM/story/",
+      "publish_date": "2026-10-29T18:02:16.000Z",
+      "teaser": "Lo clave en 20 segundos: Uber lanza una opción de viajes exclusiva para mujeres en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/FEOKRZU7WRB7NII75SZKEJV73A.JPG?auth=b6a9d9fe368dd0517dcbe9b18bfb8ed81c77f8b2bdb7dacc873f07b6f83058f4&smart=true&width=3000&height=2000",
+      "description": "Uber Mujeres llega a Costa Rica: una opción para solicitar viajes con conductoras.",
+      "featured": false
+    },
+    {
+      "slug": "guia-visual-para-entender-como-fue-el-accidente-de-trenes-en-espana-que-deja-mas-de-70-muertos",
+      "title": "Guía visual para entender cómo fue el accidente de trenes en España que deja más de 70 muertos",
+      "category": "Mundo",
+      "bullets_20s": "• El accidente se produjo por un fallo en el sistema informático de control de trenes.\n• Un tren de pasajeros circulaba a alta velocidad en una vía en uso.\n• Más de 70 personas perdieron la vida en este lamentable evento ferroviario.\n• Este caso representa el peor accidente ferroviario en más de diez años.\n• Las autoridades están investigando lo sucedido y analizando las fallas técnicas.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cq98zk00pnn1o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-10-29T17:55:21.000Z",
+      "teaser": "Lo clave en 20 segundos: un fallo informático causó un grave accidente ferroviario en España.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/574f/live/21da5c60-d3c6-11f1-9a9b-f59c4656ef09.png",
+      "description": "Un fallo informático y un tren a casi 200 km/h en una vía ocupada. Así ocurrió el peor accidente ferroviario de España en más de una década.",
+      "featured": false
+    },
+    {
       "slug": "la-alianza-francesa-presenta-una-exposicion-sobre-los-fantasmas-del-desplazamiento-en-la-cultura-asiatica",
       "title": "La Alianza Francesa presenta una exposición sobre los fantasmas del desplazamiento en la cultura asiática",
       "category": "Costa Rica",
@@ -134,11 +186,11 @@
       "slug": "los-graficos-que-muestran-como-ha-cambiado-la-migracion-en-eeuu-en-la-era-trump",
       "title": "Los gráficos que muestran cómo ha cambiado la migración en EE.UU. en la era Trump",
       "category": "Mundo",
-      "bullets_20s": "• El análisis de datos muestra un aumento en las restricciones migratorias en EE.UU.\n• Gráficos ilustran el impacto de las políticas de Trump en la migración.\n• Se han registrado cambios significativos en los flujos migratorios hacia EE.UU.\n• Las cifras sugieren que las políticas han afectado intensamente a varias comunidades.\n• La discusión sobre la migración continúa, con reacciones variadas ante los datos presentados.",
+      "bullets_20s": "• La migración en EE.UU. ha tenido cambios significativos durante la administración de Trump.\n• Datos muestran el impacto de las políticas migratorias sobre las comunidades hispanas.\n• Gráficos detallan las tendencias de inmigración hacia EE.UU. en los últimos años.\n• Investigaciones revelan cómo las promesas de Trump afectaron la llegada de inmigrantes.\n• La percepción pública de la inmigración ha evolucionado con las políticas implementadas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqdr8205ylvko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-29T14:19:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Gráficos muestran el cambio en la migración en EE.UU. durante la era Trump.",
+      "teaser": "Lo clave en 20 segundos: Cambios en la migración en EE.UU. bajo Trump a través de gráficos y datos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0786/live/10e1a930-d25a-11f1-a32a-7d1995043c22.jpg",
       "description": "Trump prometió mano dura contra la inmigración. ¿Qué dicen los datos de sus políticas?",
       "featured": false
@@ -836,11 +888,11 @@
       "slug": "sinaes-acreditara-bachillerato-y-licenciatura-en-ingenieria-en-biotecnologia",
       "title": "SINAES acreditará bachillerato y licenciatura en Ingeniería en Biotecnología",
       "category": "Costa Rica",
-      "bullets_20s": "• SINAES acreditará programas en Ingeniería en Biotecnología del Tecnológico de Costa Rica.\n• La acreditación busca garantizar la calidad educativa en el ámbito nacional e internacional.\n• El período de acreditación vencerá el 4 de agosto de 2030.\n• La ceremonia de entrega de certificaciones será el 4 de noviembre a las 2:00 p.m.\n• Esta acreditación reafirma el compromiso del TEC con la educación superior de calidad.",
+      "bullets_20s": "• La acreditación en Biotecnología demuestra la calidad académica del Tecnológico de Costa Rica.\n• SINAES es el sistema encargado de garantizar la excelencia en la educación superior.\n• La ceremonia de entrega de certificaciones se realizará el 4 de noviembre.\n• El periodo de acreditación de las carreras vence en agosto de 2030.\n• Este proceso beneficia a estudiantes y egresados, mejorando sus oportunidades laborales.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/sinaes-acreditara-bachillerato-licenciatura-ingenieria-biotecnologia",
       "publish_date": "2026-10-28T16:25:08.000Z",
-      "teaser": "Lo clave en 20 segundos: SINAES reconoce la calidad en Ingeniería en Biotecnología del TEC.",
+      "teaser": "Lo clave en 20 segundos: SINAES acredita Ingeniería en Biotecnología en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/laboratorios-cib-32.jpg",
       "description": "SINAES acreditará bachillerato y licenciatura en Ingeniería en Biotecnología",
       "featured": false
@@ -1304,11 +1356,11 @@
       "slug": "nuevos-cursos-presenciales-y-virtuales-en-el-k-lab-costa-rica-en-campus-tecnologico-local-san-carlos",
       "title": "Nuevos cursos presenciales y virtuales en el K-Lab Costa Rica en Campus Tecnológico Local San Carlos",
       "category": "Costa Rica",
-      "bullets_20s": "• El K-Lab Costa Rica abre inscripciones para cursos de tecnología y robótica, mejorando habilidades prácticas.\n• Introducción a MODI Kit incluirá programación por bloques y desarrollo de proyectos prácticos en robótica.\n• Curso de Modelado e Impresión 3D Intermedio se enfocará en optimización de modelos y corrección de errores.\n• Modalidad híbrida permitirá participar desde diferentes ubicaciones con docentes virtuales.\n• Inscripciones abiertas, consulta información acerca de cursos y requisitos en la página del K-Lab.",
+      "bullets_20s": "• El K-Lab abre inscripciones para cursos en tecnología y robótica en Costa Rica.\n• El curso de MODI Kit se inicia el 31 de octubre con modalidad híbrida.\n• Aprende a programar mediante bloques en el curso de MODI Kit y desarrolla proyectos.\n• El curso de modelado 3D comienza el 2 de noviembre con modalidad presencial.\n• Los estudiantes deben tener conocimientos previos para el curso de modelado 3D.\n• Inscripciones disponibles a través de formularios en línea para ambos cursos.\n• Los cursos están dirigidos a estudiantes y entusiastas de la tecnología.\n• K-Lab ofrece oportunidades de formación práctica en un ambiente innovador.\n• La capacitación se realizará en el Campus San Carlos del TEC.\n• Las inscripciones pueden consultarse a través del correo info.klab@itcr.ac.cr.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/nuevos-cursos-presenciales-virtuales-k-lab-costa-rica-campus-tecnologico-local-san-carlos",
       "publish_date": "2026-10-28T01:28:28.000Z",
-      "teaser": "Lo clave en 20 segundos: nuevos cursos de tecnología en el K-Lab para potenciar habilidades prácticas.",
+      "teaser": "Lo clave en 20 segundos: Nuevos cursos de tecnología y robótica en K-Lab Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/modikit1_0.jpg",
       "description": "Nuevos cursos presenciales y virtuales en el K-Lab Costa Rica en Campus Tecnológico Local San Carlos",
       "featured": false
@@ -1408,11 +1460,11 @@
       "slug": "agronomia-tec-50-anos-cultivando-lideres-para-el-desarrollo-agricola-y-pecuario",
       "title": "Agronomía TEC: 50 años cultivando líderes para el desarrollo agrícola y pecuario",
       "category": "Costa Rica",
-      "bullets_20s": "• La carrera de Agronomía TEC celebra su 50 aniversario con orgullo y logros significativos.\n• Desde 1976, ha formado profesionales en manejo agropecuario y sostenibilidad en el país.\n• El Centro de Investigación CIDASTH fomenta proyectos de agricultura sostenible en diversas áreas.\n• Más de 1200 graduados han impactado el sector agropecuario a nivel nacional e internacional.\n• Los estudiantes destacan la combinación de teoría y práctica en su formación integral.",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebra los 50 años de su carrera de Ingeniería en Agronomía.\n• Se han formado más de 1180 profesionales que laboran en diferentes regiones del país.\n• El Centro de Investigación CIDASTH impulsa proyectos agrícolas sostenibles desde 1975.\n• La carrera ha fortalecido su vínculo con el sector productivo y la comunidad.\n• Investigaciones incluyen biotecnología vegetal y mejoramiento animal para la agricultura.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/agronomia-tec-50-anos-cultivando-lideres-desarrollo-agricola-pecuario",
       "publish_date": "2026-10-27T22:09:21.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebrando 50 años de excelencia en Agronomía en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Celebramos medio siglo de la carrera de Agronomía en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tomada-por-wainer_1-2.png",
       "description": "Agronomía TEC: 50 años cultivando líderes para el desarrollo agrícola y pecuario",
       "featured": false
@@ -1473,11 +1525,11 @@
       "slug": "71-medallas-y-una-delegacion-de-todo-el-pais-el-balance-del-tec-en-los-juncos-2026",
       "title": "71 medallas y una delegación de todo el país: el balance del TEC en los JUNCOS 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica finalizó su participación en los Juegos Universitarios Costarricenses.\n• La delegación del TEC estuvo compuesta por 234 estudiantes atletas de diversos campus.\n• Se lograron 71 medallas, incluyendo 18 de oro en natación y atletismo.\n• El coordinador resalta la importancia del deporte en la formación integral de los jóvenes.\n• El TEC se prepara para la competencia internacional en Eslovaquia en noviembre próximo.",
+      "bullets_20s": "• El Tecnológico de Costa Rica ganó 71 medallas en los Juegos Universitarios Costarricenses 2026.\n• De los 234 atletas, 18 medallas fueron de oro, destacando el rendimiento en natación y atletismo.\n• Fernando Bogantes afirmó que el balance es positivo, resaltando el compromiso y disciplina de los atletas.\n• La oportunidad de integración entre estudiantes fortaleció la comunidad universitaria en el evento.\n• El TEC viajará a Bratislava en octubre para el 11th World Inter Universities Championships.\n• Los próximos retos incluyen Juegos Deportivos Universitarios Centroamericanos en Honduras.\n• El equipo de natación y atletismo se prepara con dedicación para competencias internacionales.\n• Se destaca la importancia de conciliar estudios con la práctica deportiva a nivel universitario.\n• Las medallas reflejan el esfuerzo constante y la calidad de preparación de los atletas del TEC.\n• Este evento no solo evalúa resultados, sino también el crecimiento humano y formativo en los estudiantes.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/71-medallas-delegacion-todo-pais-balance-tec-juncos-2026",
       "publish_date": "2026-10-27T20:54:34.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC brilla en los JUNCOS 2026 con 71 medallas y una gran delegación.",
+      "teaser": "Lo clave en 20 segundos: El TEC brilla en JUNCOS 2026 con 71 medallas y un fuerte compromiso estudiantil.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/juramentacion-juncos-2026_rgarita-13.jpg",
       "description": "71 medallas y una delegación de todo el país: el balance del TEC en los JUNCOS 2026",
       "featured": false
@@ -1590,11 +1642,11 @@
       "slug": "el-sinaes-acredita-los-programas-de-bachillerato-y-licenciatura-en-ingenieria-en-agronomia-del-campus-san-carlos",
       "title": "El SINAES acredita los programas de Bachillerato y Licenciatura en Ingeniería en Agronomía del Campus San Carlos",
       "category": "Costa Rica",
-      "bullets_20s": "• El SINAES otorga acreditación a programas de Ingeniería en Agronomía del TEC, reafirmando su calidad educativa.\n• La acreditación tiene vigencia hasta el año 2030, reflejando el compromiso del TEC con la excelencia.\n• Los estudiantes de Agronomía se benefician de esta acreditación al potenciar su formación profesional y oportunidades.\n• La ceremonia de entrega se realizó en la Unidad de Cooperación del TEC, promoviendo la educación continua.\n• El director de Agronomía destacó la importancia de esta acreditación para abrir puertas en el mercado laboral.",
+      "bullets_20s": "• El SINAES otorga acreditación a la Escuela de Ingeniería en Agronomía del TEC en San Carlos.\n• La acreditación respalda la calidad educativa y la formación de 241 estudiantes en esta carrera.\n• El compromiso del TEC con la excelencia académica es evidente en este nuevo logro.\n• Estudiantes y personal académico celebran la acreditación como un impulso a su labor educativa.\n• La certificación tendrá vigencia hasta el año 2030, garantizando estándares de calidad.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/sinaes-acredita-programas-bachillerato-licenciatura-ingenieria-agronomia-campus-san-carlos",
       "publish_date": "2026-10-27T17:53:33.000Z",
-      "teaser": "Lo clave en 20 segundos: SINAES acredita programas en Agronomía, impulsando la calidad educativa del TEC.",
+      "teaser": "Lo clave en 20 segundos: El TEC recibe acreditación del SINAES para programas de Ingeniería en Agronomía.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/agro-8.jpeg",
       "description": "El SINAES acredita los programas de Bachillerato y Licenciatura en Ingeniería en Agronomía del Campus San Carlos",
       "featured": false
@@ -121980,10 +122032,12 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-29T17:45:27.980Z",
-  "total": 9383,
-  "removed_soccer_news_count": 1488,
+  "generated_at": "2026-10-29T18:45:26.473Z",
+  "total": 9387,
+  "removed_soccer_news_count": 1490,
   "removed_soccer_news_titles": [
+    "‘Pasarás por cosas que no mereces’: el mensaje de Kevin Briceño tras su mala noche con el Cartaginés",
+    "Keylor Navas y Pumas tienen la obligación de ‘golpear’ a otro costarricense para seguir con vida en la Liga MX",
     "¿Cuándo es la final de la Copa Centroamericana?",
     "Leonardo Vargas, presidente de Cartaginés, tras sufrir como nunca y luego celebrar: ‘Fue algo magnífico’",
     "¡Nadie duerme en Cartago! Vea qué locura desató Cartaginés en la Vieja Metrópoli",
@@ -122031,8 +122085,6 @@
     "Amarini Villatoro admite que debe tener más cuidado con lo que dice; también habla de Jafet Soto",
     "Milwaukee golpea primero en el juego inaugural de la Serie Mundial",
     "Día Mundial de la Pasta: cuando la tradición italiana abre la mesa a todos",
-    "Vincent Kompany es hospitalizado tras desmayarse en un entrenamiento del Bayern",
-    "Lionel Messi recibe un premio que va mucho más allá de la cancha: el galardón Princesa de Asturias",
-    "Barcelona vs. Real Madrid: ¿cuándo se disputa el clásico y se puede ver en Costa Rica?"
+    "Vincent Kompany es hospitalizado tras desmayarse en un entrenamiento del Bayern"
   ]
 }
