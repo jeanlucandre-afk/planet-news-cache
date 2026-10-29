@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "fidelitas-organiza-feria-de-empleo-con-mas-de-750-oportunidades-laborales",
+      "title": "Fidélitas organiza feria de empleo con más de 750 oportunidades laborales",
+      "category": "Costa Rica",
+      "bullets_20s": "• La feria de empleo busca conectar a estudiantes con empresas del área social y económica.\n• Más de 750 vacantes estarán disponibles para los participantes durante el evento.\n• La actividad tiene como objetivo fomentar la inserción laboral de los graduados.\n• Se espera la participación de más de 20 empresas relevantes en el sector.\n• La iniciativa promueve el desarrollo profesional y el empleo juvenil en Costa Rica.",
+      "source_name": "Luis Enrique Brenes",
+      "source_url": "https://www.nacion.com/economia/fidelitas-organiza-feria-de-empleo-con-mas-de-750/R7QMB33JB5ASNGPH4DGOV2LMF4/story/",
+      "publish_date": "2026-10-29T20:03:53.000Z",
+      "teaser": "Lo clave en 20 segundos: Fidélitas presenta feria de empleo con importantes oportunidades laborales.",
+      "image_url": "https://www.nacion.com/resizer/v2/JH4ABJ6FZFCTHNUDKBWLLNEA6U.jpg?auth=3a3e48b1a12dcf5a3b8bebb1e7457d69b3ac3eced5aec63525a8b6dcdec08cc5&smart=true&width=8256&height=5504",
+      "description": "La actividad, especializada en ciencias sociales y económicas, reunirá a más de 20 empresas.",
+      "featured": false
+    },
+    {
       "slug": "cuanto-ayudo-el-gobierno-de-trump-a-la-fuga-de-bolsonaro-esto-revela-el-new-york-times",
       "title": "¿Cuánto ayudó el gobierno de Trump a la fuga de Bolsonaro? Esto revela el ‘New York Times’",
       "category": "Mundo",
@@ -238,11 +251,11 @@
       "slug": "los-graficos-que-muestran-como-ha-cambiado-la-migracion-en-eeuu-en-la-era-trump",
       "title": "Los gráficos que muestran cómo ha cambiado la migración en EE.UU. en la era Trump",
       "category": "Mundo",
-      "bullets_20s": "• Los datos reflejan cambios significativos en la migración hacia Estados Unidos durante el mandato de Trump.\n• Gráficos interactivos muestran cómo las políticas migratorias impactaron diferentes grupos.\n• Trump implementó medidas estrictas que generaron controversias a nivel nacional e internacional.\n• La migración ilegal y legal se vio afectada por las promesas de mano dura y las políticas coercitivas.\n• Los análisis de datos son clave para entender el efecto real de las políticas de Trump.",
+      "bullets_20s": "• La migración en EE.UU. ha sido un tema central en políticas de Trump.\n• Los gráficos evidencian diversos cambios en las tendencias migratorias.\n• Las políticas de inmigración han impactado a muchas comunidades.\n• Datos revelan cómo las promesas electorales afectaron la migración.\n• La era Trump ha visto debates intensos sobre la inmigración.\n• Las gráficas ilustran las consecuencias de decisiones gubernamentales.\n• Los datos pueden ayudar a comprender el fenómeno migratorio actual.\n• El análisis de la migración es crucial para el futuro de políticas.\n• Estos gráficos presentan una mirada crítica a las estadísticas de migración.\n• Las decisiones en migración han generado diversas reacciones a nivel nacional.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqdr8205ylvko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-29T14:19:48.000Z",
-      "teaser": "Lo clave en 20 segundos: La migración en EE.UU. ha cambiado bajo las políticas de Trump, según gráficos alternativos.",
+      "teaser": "Lo clave en 20 segundos: Datos revelan cómo la era Trump impactó la migración en EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0786/live/10e1a930-d25a-11f1-a32a-7d1995043c22.jpg",
       "description": "Trump prometió mano dura contra la inmigración. ¿Qué dicen los datos de sus políticas?",
       "featured": false
@@ -940,11 +953,11 @@
       "slug": "sinaes-acreditara-bachillerato-y-licenciatura-en-ingenieria-en-biotecnologia",
       "title": "SINAES acreditará bachillerato y licenciatura en Ingeniería en Biotecnología",
       "category": "Costa Rica",
-      "bullets_20s": "• La acreditación asegura la calidad educativa de las carreras en Biotecnología del TEC.\n• El período de acreditación finaliza el 4 de agosto de 2030, reafirmando su compromiso.\n• La ceremonia de entrega de certificados será el 4 de noviembre a las 2:00 p.m.\n• El evento se llevará a cabo en el edificio D3 del Tecnológico de Costa Rica.\n• El SINAES se encarga de evaluar la calidad de las instituciones educativas superiores.",
+      "bullets_20s": "• SINAES garantiza la calidad académica de las carreras en el Tecnológico de Costa Rica.\n• Acreditación de Ingeniería en Biotecnología reafirma el compromiso del TEC con la educación.\n• El período de acreditación finalizará el 4 de agosto del año 2030.\n• La ceremonia de entrega de certificaciones se realizará en noviembre de este año.\n• Este paso beneficia a estudiantes y profesionales en el sector biotecnológico.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/sinaes-acreditara-bachillerato-licenciatura-ingenieria-biotecnologia",
       "publish_date": "2026-10-28T16:25:08.000Z",
-      "teaser": "Lo clave en 20 segundos: SINAES acreditará Ingeniería en Biotecnología del TEC.",
+      "teaser": "Lo clave en 20 segundos: SINAES acredita bachillerato y licenciatura en Biotecnología en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/laboratorios-cib-32.jpg",
       "description": "SINAES acreditará bachillerato y licenciatura en Ingeniería en Biotecnología",
       "featured": false
@@ -1407,12 +1420,12 @@
     {
       "slug": "nuevos-cursos-presenciales-y-virtuales-en-el-k-lab-costa-rica-en-campus-tecnologico-local-san-carlos",
       "title": "Nuevos cursos presenciales y virtuales en el K-Lab Costa Rica en Campus Tecnológico Local San Carlos",
-      "category": "Costa Rica",
-      "bullets_20s": "• El K-Lab Costa Rica ofrece cursos prácticos en tecnología y robótica para estudiantes y entusiastas.\n• El curso sobre MODI Kit comienza el 31 de octubre con un horario de 8:00 a.m. a 4:00 p.m.\n• La modalidad del curso MODI Kit es híbrida, con docente virtual desde Bolivia y estudiantes presenciales.\n• Un segundo curso sobre modelado e impresión 3D está disponible del 2 al 10 de noviembre.\n• El curso de impresión 3D es gratuito y requiere un curso básico previo o experiencia equivalente.",
+      "category": "Tecnología",
+      "bullets_20s": "• El K-Lab Costa Rica anuncia nuevos cursos presenciales y virtuales para estudiantes y entusiastas de la tecnología.\n• Los cursos incluyen Introducción a MODI Kit, que abarca programación y robótica básica para proyectos prácticos.\n• Se ofrecerán capacitación en Modelado e Impresión 3D para optimizar la creación de prototipos y soluciones técnicas.\n• Las inscripciones están abiertas para ambos cursos, impulsando la educación y la innovación técnica en Costa Rica.\n• Los cursos se realizarán en el Campus Tecnológico Local de San Carlos, fortaleciendo la formación práctica.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/nuevos-cursos-presenciales-virtuales-k-lab-costa-rica-campus-tecnologico-local-san-carlos",
       "publish_date": "2026-10-28T01:28:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevos cursos de tecnología y robótica en el K-Lab Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Nuevos cursos en tecnología abren oportunidades de aprendizaje en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/modikit1_0.jpg",
       "description": "Nuevos cursos presenciales y virtuales en el K-Lab Costa Rica en Campus Tecnológico Local San Carlos",
       "featured": false
@@ -1512,11 +1525,11 @@
       "slug": "agronomia-tec-50-anos-cultivando-lideres-para-el-desarrollo-agricola-y-pecuario",
       "title": "Agronomía TEC: 50 años cultivando líderes para el desarrollo agrícola y pecuario",
       "category": "Costa Rica",
-      "bullets_20s": "• La carrera de Agronomía del TEC celebra 50 años formando líderes en el campo agrícola.\n• Inició su trayectoria en 1976, marcando un hito en la educación agropecuaria en Costa Rica.\n• Los graduados han impactado tanto a nivel nacional como internacional en el sector agrícola.\n• Se desarrollan investigaciones en biotecnología y sistemas de producción sostenible.\n• La carrera actualmente cuenta con 241 estudiantes matriculados y un fuerte legado profesional.",
+      "bullets_20s": "• La Escuela de Agronomía del TEC celebra su 50 aniversario promoviendo la innovación en agricultura.\n• Formación de profesionales ha impactado la producción agrícola y pecuaria en Costa Rica durante cinco décadas.\n• CIDASTH ha desarrollado importantes investigaciones en agricultura sostenible y manejo ambiental.\n• Iniciativas en biotecnología y reproducción animal han sido fundamentales para mejorar la producción en el país.\n• La acreditación garantiza la calidad de la educación y la mejora continua de la carrera.\n• Estudiantes aprenden a integrar su pasión por la naturaleza con la producción agrícola y pecuaria.\n• La carrera se consolida como un referente nacional en calidad académica y compromiso social.\n• Eventos conmemorativos destacan el papel del sector empresarial en el desarrollo de la Escuela.\n• Graduados han realizado importantes aportes a la agricultura no solo en Costa Rica, sino en el extranjero.\n• El legado de la carrera continúa creciendo con una activa comunidad de estudiantes comprometidos.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/agronomia-tec-50-anos-cultivando-lideres-desarrollo-agricola-pecuario",
       "publish_date": "2026-10-27T22:09:21.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebración del 50 aniversario de Agronomía en el TEC con impactantes resultados.",
+      "teaser": "Lo clave en 20 segundos: Agronomía TEC celebra 50 años formando líderes en desarrollo agrícola y sostenible.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tomada-por-wainer_1-2.png",
       "description": "Agronomía TEC: 50 años cultivando líderes para el desarrollo agrícola y pecuario",
       "featured": false
@@ -1577,13 +1590,13 @@
       "slug": "71-medallas-y-una-delegacion-de-todo-el-pais-el-balance-del-tec-en-los-juncos-2026",
       "title": "71 medallas y una delegación de todo el país: el balance del TEC en los JUNCOS 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica participó con una delegación de 234 estudiantes atletas en JUNCOS 2026.\n• Se lograron 71 medallas: 18 de oro, 26 de plata y 27 de bronce en diversas disciplinas.\n• La participación del TEC es considerada altamente positiva por su compromiso y disciplina en el deporte.\n• La natación fue destacada por sus 12 medallas de oro, fruto de un arduo entrenamiento anual.\n• El atletismo mostró un aumento del 75% en medallas en comparación con la edición anterior de 2023.",
+      "bullets_20s": "• El Tecnológico de Costa Rica obtuvo 71 medallas en los Juegos Universitarios Costarricenses 2026.\n• La delegación fue de 234 estudiantes atletas de cinco campus y centros académicos del TEC.\n• La natación y el atletismo fueron las disciplinas que más oros aportaron al medallero total.\n• Fernando Bogantes, coordinador de la Unidad de Deporte, resaltó el compromiso de los atletas.\n• El equipo de natación viajará a Bratislava para participar en el campeonato internacional.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/71-medallas-delegacion-todo-pais-balance-tec-juncos-2026",
       "publish_date": "2026-10-27T20:54:34.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC brilló en los JUNCOS 2026 con 71 medallas y un fuerte compromiso deportivo.",
+      "teaser": "Lo clave en 20 segundos: el TEC destacó en los JUNCOS 2026 con 71 medallas y una fuerte representación estudiantil.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/juramentacion-juncos-2026_rgarita-13.jpg",
-      "description": "71 medallas y una delegación de todo el país: el balance del TEC en los JUNCOS 2026.",
+      "description": "71 medallas y una delegación de todo el país: el balance del TEC en los JUNCOS 2026",
       "featured": false
     },
     {
@@ -1694,11 +1707,11 @@
       "slug": "el-sinaes-acredita-los-programas-de-bachillerato-y-licenciatura-en-ingenieria-en-agronomia-del-campus-san-carlos",
       "title": "El SINAES acredita los programas de Bachillerato y Licenciatura en Ingeniería en Agronomía del Campus San Carlos",
       "category": "Costa Rica",
-      "bullets_20s": "• La acreditación garantiza la calidad en la educación superior en Costa Rica para Ingeniería Agronómica.\n• El Campus San Carlos alberga 241 estudiantes en la carrera de Ingeniería en Agronomía.\n• La acreditación se extiende hasta el año 2030, reafirmando el compromiso académico del TEC.\n• La ceremonia de entrega de la certificación se realizó el 26 de octubre en un evento especial.\n• Se destaca la importancia de la tradición agrícola en la formación de profesionales agrónomos.",
+      "bullets_20s": "• La acreditación del SINAES se extiende hasta el año 2030, reafirmando la calidad educativa del TEC.\n• La carrera cuenta con una comunidad activa de 241 estudiantes en Ingeniería en Agronomía.\n• El evento de entrega de certificación se realizó en la Unidad de Cooperación del TEC en San Carlos.\n• Directores y estudiantes destacaron el compromiso del TEC hacia la excelencia académica en agronomía.\n• La acreditación respalda la formación de futuros profesionales en un sector clave de la economía.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/sinaes-acredita-programas-bachillerato-licenciatura-ingenieria-agronomia-campus-san-carlos",
       "publish_date": "2026-10-27T17:53:33.000Z",
-      "teaser": "Lo clave en 20 segundos: La carrera de Agronomía del TEC ahora está acreditada por SINAES hasta 2030.",
+      "teaser": "Lo clave en 20 segundos: El SINAES acredita la carrera de Agronomía del TEC, un hito significativo en educación superior.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/agro-8.jpeg",
       "description": "El SINAES acredita los programas de Bachillerato y Licenciatura en Ingeniería en Agronomía del Campus San Carlos",
       "featured": false
@@ -122084,8 +122097,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-29T19:45:28.682Z",
-  "total": 9391,
+  "generated_at": "2026-10-29T20:45:26.141Z",
+  "total": 9392,
   "removed_soccer_news_count": 1490,
   "removed_soccer_news_titles": [
     "‘Pasarás por cosas que no mereces’: el mensaje de Kevin Briceño tras su mala noche con el Cartaginés",
