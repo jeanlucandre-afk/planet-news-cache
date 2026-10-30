@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "new-york-city-reporta-una-lesion-de-alonso-martinez",
+      "title": "New York City reporta una lesión de Alonso Martínez",
+      "category": "Mundo",
+      "bullets_20s": "• Alonso Martínez, jugador clave, se pierde un partido importante por lesión.\n• Lesiones en el deporte son comunes y afectan el rendimiento del equipo.\n• New York City busca alternativas para su alineación ante Montreal.\n• El apoyo de los aficionados es vital en momentos de adversidad.\n• Los tratamientos de lesiones en futbolistas son cada vez más avanzados.",
+      "source_name": "Esteban Valverde",
+      "source_url": "https://www.nacion.com/puro-deporte/new-york-city-reporta-una-lesion-de-alonso/M5JRMDYQOBGZHJCPZQ46F63GBY/story/",
+      "publish_date": "2026-10-30T23:26:11.000Z",
+      "teaser": "Lo clave en 20 segundos: Alonso Martínez se lesiona y no jugará contra Montreal.",
+      "image_url": "https://www.nacion.com/resizer/v2/OBQN5AGHCVHIRJSTWVRQITBQJA.jpg?smart=true&auth=a4d4fb4eb3680f3c8e9c27c3bb811a5d24f8ee1308ec33a94be51b45313045f8&width=1440",
+      "description": "New York City dio a conocer que Alonso Martínez tiene una lesión de pierna y se perderá el juego ante Montreal.",
+      "featured": false
+    },
+    {
+      "slug": "jefa-de-la-diplomacia-de-la-ue-dijo-que-el-canciller-ruso-presento-mentiras-en-reunion-del-g20",
+      "title": "Jefa de la diplomacia de la UE dijo que el Canciller ruso presentó ‘mentiras’ en reunión del G20",
+      "category": "Mundo",
+      "bullets_20s": "• La jefa de la diplomacia de la UE criticó a Rusia por supuestas mentiras en el G20.\n• Las tensiones entre la UE y Rusia se intensifican debido al conflicto en Ucrania.\n• El canciller ruso fue cuestionado sobre sus declaraciones en la reunión del G20.\n• La UE decidió no participar en la foto oficial en reacción a las declaraciones rusas.\n• La situación geopolítica está cada vez más complicada debido a estos enfrentamientos.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/jefa-de-la-diplomacia-de-la-ue-dijo-que-el/AFLLKD636FB6XO3FOQYUDVJ5CE/story/",
+      "publish_date": "2026-10-30T23:22:40.000Z",
+      "teaser": "Lo clave en 20 segundos: La UE denuncia mentiras del canciller ruso en el G20 y las tensiones se agravan.",
+      "image_url": "https://www.nacion.com/resizer/v2/BJIURQ54JFC45LYPC4SGLVC3DY.jpg?smart=true&auth=84abd2d36f22763f7c656ff8f7156475f14812124f586d2e855f75505ba0ce9b&width=1440",
+      "description": "La Unión Europea denunció falsedades del canciller ruso en el G20 y se negó a posar en la foto oficial. Conozca las tensiones y el reclamo por Ucrania.",
+      "featured": false
+    },
+    {
+      "slug": "que-fue-el-experimento-stanford-y-por-que-causa-polemica-que-netflix-haga-un-reality-carcelario-basado-en-el",
+      "title": "Qué fue el experimento Stanford y por qué causa polémica que Netflix haga un \"reality\" carcelario basado en él",
+      "category": "Mundo",
+      "bullets_20s": "• El experimento Stanford expone cómo el entorno puede influir en el comportamiento humano en situaciones extremas.\n• Netflix busca atraer a las audiencias con un reality basado en un estudio psicológico muy controvertido.\n• Se reaviva el debate sobre la ética de usar investigaciones científicas para entretenimiento.\n• El modelo de la serie podría desinformar sobre los hallazgos reales del experimento realizado en 1971.\n• La serie ha suscitado críticas de académicos y defensores de la ética en la investigación científica.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cmwyqxy7ldnjo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-10-30T23:21:57.000Z",
+      "teaser": "Lo clave en 20 segundos: Netflix transforma el experimento Stanford en un reality, generando controversia sobre la ética.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f43d/live/b9ffdf30-d3d3-11f1-9c32-1532a6164171.jpg",
+      "description": "El servicio de streaming ha convertido el controvertido estudio de 1971 del psicólogo estadounidense Philip Zimbardo en una serie de telerrealidad de seis episodios, reavivando un antiguo debate y suscitando nuevas preguntas sobre la frontera entre la ciencia y el entretenimiento.",
+      "featured": false
+    },
+    {
       "slug": "venezuela-levanta-bloqueos-contra-los-medios-digitales-el-nacional-y-la-patilla",
       "title": "Venezuela levanta bloqueos contra los medios digitales ‘El Nacional’ y ‘La Patilla’",
       "category": "Mundo",
@@ -173,11 +212,11 @@
       "slug": "las-claves-del-ultimatum-de-bukele-a-las-poderosas-bandas-de-haiti-tras-el-secuestro-de-4-militares-salvadorenos",
       "title": "Las claves del ultimátum de Bukele a las poderosas bandas de Haití tras el secuestro de 4 militares salvadoreños",
       "category": "Mundo",
-      "bullets_20s": "• El presidente Bukele toma decisiones drásticas ante el aumento de la violencia en Haití.\n• El despliegue de tropas salvadoreñas busca rescatar a cuatro militares secuestrados.\n• Las pandillas en Haití han aumentado su poder en los últimos años en la región.\n• La situación de seguridad en Haití continúa deteriorándose con el tiempo.\n• El envío de 2000 soldados marca un compromiso significativo de El Salvador.",
+      "bullets_20s": "• El presidente Bukele ha intensificado la presencia militar en Haití para abordar la crisis de seguridad.\n• El despliegue de 2.000 soldados busca rescatar a los militares salvadoreños secuestrados.\n• Las bandas en Haití han aumentado su poder y control en diversas regiones del país.\n• Este ultimátum de Bukele busca presionar a las organizaciones criminales en Haití.\n• La situación en Haití ha generado preocupaciones en la comunidad internacional y regional.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/watch/cq9vz31j8xpko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-30T18:27:04.000Z",
-      "teaser": "Lo clave en 20 segundos: Bukele envía militares para rescatar soldados secuestrados en Haití.",
+      "teaser": "Lo clave en 20 segundos: Bukele envía soldados a Haití para rescatar a militares salvadoreños secuestrados.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/75ae/live/364ceac0-d487-11f1-80bc-6d398902272f.png",
       "description": "El presidente de El Salvador ha enviado 2.000 militares a Haití para tratar de rescatar a los 4 soldados secuestrados por las pandillas.",
       "featured": false
@@ -199,11 +238,11 @@
       "slug": "se-realizara-planton-y-vigilia-en-defensa-de-la-educacion-publica",
       "title": "Se realizará “plantón y vigilia en defensa de la educación pública”",
       "category": "Costa Rica",
-      "bullets_20s": "• Las federaciones estudiantiles de universidades públicas han convocado a una vigilia en defensa de la educación.\n• La manifestación se llevará a cabo el 2 de noviembre a las 4:00 p. m. en Plaza de la Democracia.\n• Esta convocatoria surge tras un recorte significativo al presupuesto de educación superior aprobado por la Asamblea.\n• El movimiento busca proteger el financiamiento adecuado y garantizar el cumplimiento de acuerdos educativos.\n• Entre los objetivos están promover la protección de becas y oportunidades educativas para todos los estudiantes.",
+      "bullets_20s": "• Convocatoria de federaciones estudiantiles y organizaciones en defensa de la educación pública.\n• El plantón se realizará el 2 de noviembre a las 4:00 p.m. en Plaza de la Democracia.\n• Surge tras recortes significativos al presupuesto de educación superior en el país.\n• Se espera que se discutan más reducciones de fondos en los próximos días.\n• El movimiento busca garantizar el respeto al financiamiento constitucional educativo.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/se-realizara-planton-vigilia-defensa-educacion-publica",
       "publish_date": "2026-10-30T17:35:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Se convocan a vigilia para defender la educación pública en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Plantón por la educación pública programado para el 2 de noviembre en San José.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/ee6f0d8c-94e5-4abc-8122-75d40c17fa6e.jpg",
       "description": "Se realizará “plantón y vigilia en defensa de la educación pública”",
       "featured": false
@@ -1824,11 +1863,11 @@
       "slug": "sinaes-acreditara-bachillerato-y-licenciatura-en-ingenieria-en-biotecnologia",
       "title": "SINAES acreditará bachillerato y licenciatura en Ingeniería en Biotecnología",
       "category": "Costa Rica",
-      "bullets_20s": "• SINAES acreditará programas de Biotecnología del Tecnológico de Costa Rica, reforzando su calidad educativa.\n• La acreditación proporcionará reconocimiento tanto a nivel nacional como internacional para las carreras técnicas.\n• El proceso de acreditación garantiza estándares de calidad en la enseñanza y formación profesional.\n• La ceremonia de entrega de certificaciones está programada para el 4 de noviembre de 2026.\n• El plazo de acreditación otorgado por SINAES se extenderá hasta el 4 de agosto de 2030.",
+      "bullets_20s": "• El SINAES brindará acreditación a dos programas de Ingeniería en Biotecnología en el TEC.\n• La acreditación es un proceso que garantiza calidad académica y reconocimiento internacional.\n• El período de acreditación para estos programas finalizará el 4 de agosto del 2030.\n• Se realizará una ceremonia de entrega de certificaciones el 4 de noviembre de 2026.\n• El TEC reafirma su compromiso con la calidad en la educación superior en Costa Rica.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/sinaes-acreditara-bachillerato-licenciatura-ingenieria-biotecnologia",
       "publish_date": "2026-10-28T16:25:08.000Z",
-      "teaser": "Lo clave en 20 segundos: SINAES acreditará Ingeniería en Biotecnología en TEC, elevando estándares de calidad educativa.",
+      "teaser": "Lo clave en 20 segundos: SINAES acredita Ingeniería en Biotecnología en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/laboratorios-cib-32.jpg",
       "description": "SINAES acreditará bachillerato y licenciatura en Ingeniería en Biotecnología",
       "featured": false
@@ -2291,12 +2330,12 @@
     {
       "slug": "nuevos-cursos-presenciales-y-virtuales-en-el-k-lab-costa-rica-en-campus-tecnologico-local-san-carlos",
       "title": "Nuevos cursos presenciales y virtuales en el K-Lab Costa Rica en Campus Tecnológico Local San Carlos",
-      "category": "Costa Rica",
-      "bullets_20s": "• K-Lab Costa Rica abre inscripciones para cursos de tecnología y robótica.\n• Curso Introducción a MODI Kit inicia el 31 de octubre de 2026.\n• Modalidad híbrida, con docente virtual desde Bolivia.\n• Curso Modelado e Impresión 3D Intermedio se ofrece en noviembre de 2026.\n• La participación en todos los cursos es gratuita para los interesados.\n• Inscripciones abiertas a estudiantes y entusiastas de la tecnología.\n• Ubicación: Campus Tecnológico Local San Carlos, Aula de Capacitación K-Lab.\n• Los cursos están diseñados para mejorar habilidades prácticas en robótica.\n• Los participantes recibirán atención personalizada durante los cursos.\n• Se recomienda a los interesados inscribirse temprano por espacio limitado.",
+      "category": "Tecnología",
+      "bullets_20s": "• Se anuncian nuevos cursos de formación en el K-Lab para estudiantes y entusiastas de la tecnología.\n• El curso de MODI Kit inicia el 31 de octubre de 2026 con modalidad híbrida.\n• El curso de Modelado e Impresión 3D Intermedio comienza en noviembre con clases presenciales.\n• Los cursos están diseñados para potenciar habilidades prácticas en robótica y modelado 3D.\n• La inscripción está abierta y se puede realizar mediante formularios en línea específicos.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/nuevos-cursos-presenciales-virtuales-k-lab-costa-rica-campus-tecnologico-local-san-carlos",
       "publish_date": "2026-10-28T01:28:28.000Z",
-      "teaser": "Lo clave en 20 segundos: K-Lab Costa Rica lanza nuevos cursos en robótica y 3D, ¡inscríbete ya!",
+      "teaser": "Lo clave en 20 segundos: Nuevos cursos de tecnología y robótica en el K-Lab Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/modikit1_0.jpg",
       "description": "Nuevos cursos presenciales y virtuales en el K-Lab Costa Rica en Campus Tecnológico Local San Carlos",
       "featured": false
@@ -2396,11 +2435,11 @@
       "slug": "agronomia-tec-50-anos-cultivando-lideres-para-el-desarrollo-agricola-y-pecuario",
       "title": "Agronomía TEC: 50 años cultivando líderes para el desarrollo agrícola y pecuario",
       "category": "Costa Rica",
-      "bullets_20s": "• La carrera ha formado más de 1180 profesionales en agronomía durante sus 50 años de existencia.\n• Inició el 2 de febrero de 1976, desde el corazón del Tecnológico de Costa Rica.\n• El programa promueve prácticas sostenibles en la producción agrícola y pecuaria.\n• Destaca por su Centro de Investigación que apoya el desarrollo agrícola sostenible.\n• La Escuela de Ingeniería en Agronomía es un referente en el país por su calidad académica.\n• Más de 240 estudiantes actuales reflejan la continua demanda de la carrera.\n• La acreditación reafirma el compromiso con la mejora continua y la calidad institucional.\n• La celebración incluyó a egresados y miembros de la comunidad institucional.\n• La tradición de rigor y vocación práctica sigue viva en la formación actual.\n• Proyectos científicos y tecnológicos han permitido innovaciones en el sector agrícola.",
+      "bullets_20s": "• La carrera de Agronomía del TEC celebra 50 años formando profesionales claves para el sector agrícola.\n• Han graduado más de 1180 profesionales que impactan la agricultura en Costa Rica y otros países.\n• El programa combina aprendizaje teórico con prácticas en campo, promoviendo innovación sostenible.\n• El Centro de Investigación CIDASTH impulsa proyectos en agricultura y ganadería sostenible desde su fundación.\n• Estudiantes destacan el compromiso de la carrera con la formación de agentes de cambio social.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/agronomia-tec-50-anos-cultivando-lideres-desarrollo-agricola-pecuario",
       "publish_date": "2026-10-27T22:09:21.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebramos 50 años formando líderes en agronomía en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Celebramos 50 años de la carrera de Agronomía del TEC, formando líderes en producción sostenible.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tomada-por-wainer_1-2.png",
       "description": "Agronomía TEC: 50 años cultivando líderes para el desarrollo agrícola y pecuario",
       "featured": false
@@ -2461,11 +2500,11 @@
       "slug": "71-medallas-y-una-delegacion-de-todo-el-pais-el-balance-del-tec-en-los-juncos-2026",
       "title": "71 medallas y una delegación de todo el país: el balance del TEC en los JUNCOS 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica obtuvo 71 medallas en los Juegos Universitarios Costarricenses 2026.\n• La delegación estuvo integrada por 234 estudiantes atletas de varios campus del TEC.\n• El equipo de natación aportó 12 oros, mostrando un gran sentido de familia en el deporte.\n• El atletismo logró 21 medallas, evidenciando un aumento significativo en el rendimiento.\n• Se destacaron los valores como liderazgo y trabajo en equipo entre los participantes del TEC.",
+      "bullets_20s": "• El TEC destacó con una delegación de 234 estudiantes atletas representando a varios campus.\n• Se obtuvieron un total de 71 medallas, incluyendo 18 de oro, en destacadas competencias.\n• Los deportes individuales como natación y atletismo fueron fundamentales para el éxito en los juegos.\n• La participación del TEC en JUNCOS 2026 subraya el compromiso y la disciplina de los atletas.\n• Los próximos retos incluyen competiciones internacionales y regionales para los equipos TEC.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/71-medallas-delegacion-todo-pais-balance-tec-juncos-2026",
       "publish_date": "2026-10-27T20:54:34.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC logra 71 medallas en JUNCOS 2026 con gran participación estudiantil.",
+      "teaser": "Lo clave en 20 segundos: El TEC brilló en los JUNCOS 2026 con 71 medallas y un espíritu ejemplar.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/juramentacion-juncos-2026_rgarita-13.jpg",
       "description": "71 medallas y una delegación de todo el país: el balance del TEC en los JUNCOS 2026",
       "featured": false
@@ -122968,10 +123007,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-30T22:45:26.535Z",
-  "total": 9459,
-  "removed_soccer_news_count": 1497,
+  "generated_at": "2026-10-30T23:45:26.232Z",
+  "total": 9462,
+  "removed_soccer_news_count": 1498,
   "removed_soccer_news_titles": [
+    "Los Cerveceros celebran su triunfo en la Serie Mundial con un bullicioso desfile",
     "Presidente del Cartaginés da a conocer una exigencia a su afición de cara a la final de la Copa Centroamericana",
     "Cómo el tren de alta velocidad de España pasó de ser un modelo mundial a sufrir dos terribles accidentes en menos de un año",
     "Aficionados del Cartaginés recibieron al equipo con un gran festejo tras la hazaña en Honduras",
@@ -123020,7 +123060,6 @@
     "Neymar fue expulsado por taparse la boca mientras discutía con un rival en el partido de Santos",
     "Vea el gol de Alonso Martínez, que celebra en la MLS después de 351 días",
     "Julián Álvarez se disculpa por pedir su salida del Atlético de Madrid",
-    "Arsenal alcanza al Manchester City en el liderato de la Premier",
-    "¿Dónde ver a Keylor Navas y Pumas contra Tigres en la Liga MX?"
+    "Arsenal alcanza al Manchester City en el liderato de la Premier"
   ]
 }
