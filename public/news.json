@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "elecciones-en-israel-bloque-de-netanyahu-no-consigue-mayoria-para-formar-gobierno",
+      "title": "Elecciones en Israel: Bloque de Netanyahu no consigue mayoría para formar gobierno",
+      "category": "Mundo",
+      "bullets_20s": "• El bloque de Netanyahu obtuvo 53 escaños, insuficientes para formar un gobierno estable.\n• Las elecciones generan incertidumbre política en Israel, con posibles negociaciones en curso.\n• Las acusaciones de fraude electoral han empañado el proceso y generado controversia.\n• El panorama político en Israel se complica con la falta de consenso entre partidos.\n• Los votantes manifestaron su descontento con las opciones actuales en el parlamento.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/elecciones-en-israel-bloque-de-netanyahu-no/K3UX5R3FJ5BQZAE5TV47BRG52Y/story/",
+      "publish_date": "2026-10-30T04:59:22.000Z",
+      "teaser": "Lo clave en 20 segundos: Netanyahu lidera, pero no alcanzó la mayoría necesaria para gobernar.",
+      "image_url": "https://www.nacion.com/resizer/v2/SYX3TAUGRFAJTGBPTZPU5WZ7DY.jpg?auth=cd1d0975ccf79e117339895e8e36044d2960f83f278c013ac826d01d91c5a130&smart=true&width=5760&height=3840",
+      "description": "El bloque de Benjamín Netanyahu lidera las elecciones en Israel con 53 escaños, pero no alcanza la mayoría parlamentaria. El resultado abre negociaciones para formar gobierno en medio de acusaciones de fraude electoral.",
+      "featured": false
+    },
+    {
       "slug": "binance-sufre-ciberataque-millonario-congelan-mas-de-2500-millones-y-suspenden-retiros-de-criptomonedas",
       "title": "Binance sufre ciberataque millonario: congelan más de $2.500 millones y suspenden retiros de criptomonedas",
       "category": "Mundo",
@@ -251,12 +264,12 @@
       "slug": "muere-a-los-86-anos-patrick-stewart-legendario-actor-de-star-trek-y-x-men",
       "title": "Muere a los 86 años Patrick Stewart, legendario actor de Star Trek y X-Men",
       "category": "Mundo",
-      "bullets_20s": "• Patrick Stewart fue un actor legendario conocido por su papel en Star Trek.\n• Se destacó como profesor Charles Xavier en la saga de X-Men.\n• Su carrera se extendió por siete décadas, dejando un gran legado.\n• Recibió premios Emmy y Globos de Oro por su destacada actuación.\n• Fue nombrado caballero por la reina Isabel II, un honor significativo.",
+      "bullets_20s": "• Patrick Stewart fue un actor británico conocido por su trabajo en cine y televisión.\n• Participó en producciones icónicas como Star Trek y la saga X-Men.\n• A lo largo de su carrera, recibió numerosos premios y honores culturales.\n• Una de sus distinciones fue el título de caballero, otorgado por la reina.\n• Su trayectoria artística se extendió por más de siete décadas, marcando la historia.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/crlyk9yp775zo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-29T20:26:48.000Z",
-      "teaser": "Lo clave en 20 segundos: Adiós a Patrick Stewart, un ícono del cine y la televisión mundial.",
-      "image_url": "",
+      "teaser": "Lo clave en 20 segundos: recordamos la trayectoria de Patrick Stewart, un ícono del cine y la televisión.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a064/live/b37df130-d3db-11f1-9c32-1532a6164171.jpg",
       "description": "A lo largo de una trayectoria que abarcó siete décadas, Patrick Stewart obtuvo varios premios Emmy y Globos de Oro.",
       "featured": false
     },
@@ -1213,11 +1226,11 @@
       "slug": "sinaes-acreditara-bachillerato-y-licenciatura-en-ingenieria-en-biotecnologia",
       "title": "SINAES acreditará bachillerato y licenciatura en Ingeniería en Biotecnología",
       "category": "Costa Rica",
-      "bullets_20s": "• La acreditación asegura la calidad académica de las carreras ofrecidas por el TEC.\n• El SINAES promueve estándares de excelencia en la educación superior en Costa Rica.\n• La ceremonia de acreditación tendrá lugar el 4 de noviembre de 2026.\n• La acreditación vencerá el 4 de agosto de 2030, reafirmando el compromiso de calidad.\n• El TEC busca brindar confianza a la comunidad nacional e internacional mediante esta acreditación.",
+      "bullets_20s": "• El Sistema de Acreditación de la Educación Superior valida la calidad educativa en Costa Rica.\n• La acreditación garantiza estándares altos en la formación académica de los estudiantes.\n• Este proceso beneficia al Tecnológico de Costa Rica y a su comunidad educativa.\n• Las carreras acreditadas son el bachillerato y la licenciatura en Biotecnología.\n• La ceremonia se llevará a cabo el 4 de noviembre de 2026 en el TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/sinaes-acreditara-bachillerato-licenciatura-ingenieria-biotecnologia",
       "publish_date": "2026-10-28T16:25:08.000Z",
-      "teaser": "Lo clave en 20 segundos: SINAES acreditará la calidad de Ingeniería en Biotecnología en el TEC.",
+      "teaser": "Lo clave en 20 segundos: SINAES reconoce programas de Biotecnología del TEC por su calidad académica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/laboratorios-cib-32.jpg",
       "description": "SINAES acreditará bachillerato y licenciatura en Ingeniería en Biotecnología",
       "featured": false
@@ -1680,12 +1693,12 @@
     {
       "slug": "nuevos-cursos-presenciales-y-virtuales-en-el-k-lab-costa-rica-en-campus-tecnologico-local-san-carlos",
       "title": "Nuevos cursos presenciales y virtuales en el K-Lab Costa Rica en Campus Tecnológico Local San Carlos",
-      "category": "Costa Rica",
-      "bullets_20s": "• K-Lab ofrece nuevas oportunidades de aprendizaje en tecnología y robótica en Costa Rica.\n• Los cursos son presenciales y virtuales, adaptándose a diferentes perfiles de estudiantes.\n• Introducción a MODI Kit será una de las opciones disponibles desde el 31 de octubre.\n• El curso de Modelado e Impresión 3D se impartirá en cuatro fechas entre noviembre.\n• La inscripción es gratuita y se requiere experiencia previa para ciertos cursos.\n• Se fomenta la formación práctica en áreas tecnológicas clave para el desarrollo local.\n• Inscripciones abiertas a través de formularios en línea compartidos en la página web.\n• Los cursos están diseñados para apoyar a estudiantes y entusiastas de la tecnología.",
+      "category": "Ciencia",
+      "bullets_20s": "• El K-Lab Costa Rica ofrece cursos de tecnología y robótica para estudiantes entusiastas.\n• Se abrirán inscripciones para dos nuevos cursos de formación práctica en el K-Lab.\n• Los cursos están diseñados para potenciar habilidades en robótica y tecnología moderna.\n• El curso de MODI Kit comenzará el 31 de octubre y será híbrido.\n• El curso de impresión 3D intermedio se dictará entre el 2 y el 10 de noviembre.\n• La modalidad híbrida incluye docente virtual desde Bolivia y estudiantes presenciales.\n• El curso de impresión 3D es gratuito, con requisito de un curso básico previo.\n• Los interesados pueden inscribirse a través de formularios en línea específicos.\n• Ambos cursos están dirigidos a audiencias generales y fomentan la innovación.\n• El K-Lab busca ampliar el conocimiento práctico en nuevas tecnologías.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/nuevos-cursos-presenciales-virtuales-k-lab-costa-rica-campus-tecnologico-local-san-carlos",
       "publish_date": "2026-10-28T01:28:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevos cursos en K-Lab para potenciar habilidades tecnológicas en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Cursos de robótica y tecnología se lanzan en K-Lab Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/modikit1_0.jpg",
       "description": "Nuevos cursos presenciales y virtuales en el K-Lab Costa Rica en Campus Tecnológico Local San Carlos",
       "featured": false
@@ -1785,11 +1798,11 @@
       "slug": "agronomia-tec-50-anos-cultivando-lideres-para-el-desarrollo-agricola-y-pecuario",
       "title": "Agronomía TEC: 50 años cultivando líderes para el desarrollo agrícola y pecuario",
       "category": "Costa Rica",
-      "bullets_20s": "• La carrera de Agronomía del TEC cumple 50 años formando profesionales en agricultura y ganadería.\n• Desde 1976, el TEC ha capacitado a miles de graduados en Ingeniería Agronómica en Costa Rica.\n• Se han impulsado investigaciones en agricultura sostenible y manejo de recursos naturales.\n• El Centro de Investigación CIDASTH ha desarrollado proyectos innovadores para el sector agrícola.\n• Se destaca la importancia de la acreditación para la calidad de la educación agronómica ofrecida.",
+      "bullets_20s": "• La carrera de Agronomía del TEC celebra su 50 aniversario con orgullo y tradición.\n• Desde 1976, la escuela ha formado más de mil profesionales altamente capacitados.\n• Investigaciones innovadoras se han realizado en producción agrícola y pecuaria sostenible.\n• El Centro de Investigación CIDASTH ha impulsado proyectos de desarrollo agropecuario.\n• La carrera integra prácticas con teoría, formando líderes comprometidos con el campo.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/agronomia-tec-50-anos-cultivando-lideres-desarrollo-agricola-pecuario",
       "publish_date": "2026-10-27T22:09:21.000Z",
-      "teaser": "Lo clave en 20 segundos: La carrera de Agronomía del TEC celebra 50 años formando líderes en agricultura sostenible.",
+      "teaser": "Lo clave en 20 segundos: La Agronomía TEC cuenta con 50 años formando líderes en el sector agrícola.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tomada-por-wainer_1-2.png",
       "description": "Agronomía TEC: 50 años cultivando líderes para el desarrollo agrícola y pecuario",
       "featured": false
@@ -1850,11 +1863,11 @@
       "slug": "71-medallas-y-una-delegacion-de-todo-el-pais-el-balance-del-tec-en-los-juncos-2026",
       "title": "71 medallas y una delegación de todo el país: el balance del TEC en los JUNCOS 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• Una delegación de 234 atletas del TEC participó en los Juegos Universitarios Costarricenses 2026.\n• El TEC obtuvo 71 medallas, con 18 de oro, 26 de plata y 27 de bronce en la competencia.\n• Destacan el compromiso y la disciplina de los estudiantes atletas durante los JUNCOS 2026.\n• La natación y el atletismo fueron las disciplinas más destacadas en la cosecha de medallas.\n• El TEC enviará un equipo de natación a competiciones internacionales en Eslovaquia pronto.",
+      "bullets_20s": "• El Tecnológico de Costa Rica obtuvo un total de 71 medallas en los JUNCOS 2026, destacándose en varias disciplinas.\n• Una delegación de 234 estudiantes atletas participó, representando a diferentes campus y centros académicos.\n• Natación y atletismo fueron las disciplinas que más medallas aportaron a la institución en la competencia.\n• La Unidad de Deporte del TEC destacó el compromiso y disciplina de los estudiantes durante el evento deportivo.\n• El TEC se vio fortalecido en su identificación y sentido de pertenencia gracias a la participación deportiva.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/71-medallas-delegacion-todo-pais-balance-tec-juncos-2026",
       "publish_date": "2026-10-27T20:54:34.000Z",
-      "teaser": "Lo clave en 20 segundos: el TEC brilló en los JUNCOS 2026 con 71 medallas y una participación destacada.",
+      "teaser": "Lo clave en 20 segundos: el TEC brilla con 71 medallas en los JUNCOS 2026, consolidando su compromiso deportivo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/juramentacion-juncos-2026_rgarita-13.jpg",
       "description": "71 medallas y una delegación de todo el país: el balance del TEC en los JUNCOS 2026",
       "featured": false
@@ -1967,11 +1980,11 @@
       "slug": "el-sinaes-acredita-los-programas-de-bachillerato-y-licenciatura-en-ingenieria-en-agronomia-del-campus-san-carlos",
       "title": "El SINAES acredita los programas de Bachillerato y Licenciatura en Ingeniería en Agronomía del Campus San Carlos",
       "category": "Costa Rica",
-      "bullets_20s": "• La acreditación garantiza la calidad de los programas académicos ofrecidos en el TEC.\n• Se otorgó por el Sistema Nacional de Acreditación de la Educación Superior, SINAES.\n• El periodo de acreditación es válido hasta el año 2030.\n• La carrera ha tenido un significativo impacto en la formación de profesionales agrónomos.\n• El evento de entrega tuvo lugar el 26 de octubre en el CTEC.\n• La comunidad académica celebró el compromiso del TEC con la educación superior.\n• La agronomía se vincula estrechamente con el desarrollo sostenible del país.\n• El apoyo al sector productivo es uno de los objetivos de esta acreditación.\n• El programa albergó a 241 estudiantes activos en los dos niveles de grado.\n• La historia de la carrera se remonta a 1976, con un enfoque en la excelencia.",
+      "bullets_20s": "• El Tecnológico de Costa Rica recibe la acreditación del SINAES para sus programas en Agronomía.\n• Esta acreditación respalda la calidad y rigurosidad de la educación en agronomía del TEC.\n• El evento de certificación se celebró el 26 de octubre en el campus de San Carlos.\n• La carrera de Agronomía tiene una historia de más de 50 años de formación profesional.\n• Los egresados han aportado al desarrollo agropecuario y sostenibilidad en Costa Rica.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/sinaes-acredita-programas-bachillerato-licenciatura-ingenieria-agronomia-campus-san-carlos",
       "publish_date": "2026-10-27T17:53:33.000Z",
-      "teaser": "Lo clave en 20 segundos: Se acredita la Ingeniería en Agronomía del TEC, garantía de calidad educativa.",
+      "teaser": "Lo clave en 20 segundos: SINAES acredita programas de Agronomía del TEC para fortalecer la educación superior.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/agro-8.jpeg",
       "description": "El SINAES acredita los programas de Bachillerato y Licenciatura en Ingeniería en Agronomía del Campus San Carlos",
       "featured": false
@@ -122357,8 +122370,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-30T04:45:27.446Z",
-  "total": 9412,
+  "generated_at": "2026-10-30T05:45:27.686Z",
+  "total": 9413,
   "removed_soccer_news_count": 1496,
   "removed_soccer_news_titles": [
     "Cómo el tren de alta velocidad de España pasó de ser un modelo mundial a sufrir dos terribles accidentes en menos de un año",
