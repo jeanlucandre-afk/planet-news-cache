@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "alerta-por-humo-en-cabina-de-airbus-a330-movilizo-a-unidades-de-emergencia-en-el-aeropuerto-juan-santamaria",
+      "title": "Alerta por humo en cabina de Airbus A330 movilizó a unidades de emergencia en el aeropuerto Juan Santamaría",
+      "category": "Costa Rica",
+      "bullets_20s": "• Una emergencia se generó en el aeropuerto por la alerta de humo en el Airbus A330.\n• Los equipos de emergencia fueron movilizados de inmediato para evaluar la situación.\n• Las autoridades confirmaron que no había humo ni personas afectadas en el incidente.\n• El Airbus A330 es un modelo de avión utilizado por diversas aerolíneas comerciales.\n• La seguridad en los aeropuertos es prioridad ante este tipo de alertas.\n• Los pasajeros fueron informados y se les mantuvo en calma mientras se evaluaba el avión.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/sucesos/alerta-por-humo-en-cabina-de-airbus-a330-movilizo/5OYM2B4SG5AZPC6SVHV4QJP7YY/story/",
+      "publish_date": "2026-10-31T16:22:50.000Z",
+      "teaser": "Lo clave en 20 segundos: Alerta por humo en Airbus A330 moviliza emergencias, pero todo está bajo control.",
+      "image_url": "https://www.nacion.com/resizer/v2/DNIA3R7W2JC4RBQHCDNLJAUGHQ.JPG?smart=true&auth=b2b95317693831b9f030d9b2d21bc6c64a43c60a0bcbebed235d450e0b473477&width=1440",
+      "description": "Una alerta por posible humo en la cabina de un Airbus A330 movilizó a equipos de emergencia en el aeropuerto Juan Santamaría. Autoridades descartaron humo y personas afectadas.",
+      "featured": false
+    },
+    {
+      "slug": "motociclista-muere-tras-chocar-contra-camion-de-bomberos",
+      "title": "Motociclista muere tras chocar contra camión de bomberos",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un motociclista falleció en un accidente con un camión de bomberos en Liberia, Guanacaste.\n• La víctima, un hombre de 33 años, fue identificado con el apellido Valles.\n• Las autoridades están investigando las circunstancias específicas del accidente.\n• El choque ocurrió en una zona con tráfico habitual de vehículos y personal de emergencia.\n• El incidente ha generado preocupación sobre la seguridad de motociclistas en carretera.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/sucesos/motociclista-muere-tras-chocar-contra-camion-de/JLMAKP6OWVFXBLCUXFYVVGWGSY/story/",
+      "publish_date": "2026-10-31T15:51:03.000Z",
+      "teaser": "Lo clave en 20 segundos: Un motociclista murió tras un choque con un camión de bomberos en Guanacaste.",
+      "image_url": "https://www.nacion.com/resizer/v2/TWF6QQPSZZEJ5IPGJ7XUYBMX64.JPG?smart=true&auth=65295a38793221089dfe7e39a40a9d6c367962853bb64238739713abf26e96ab&width=1440",
+      "description": "Un motociclista de apellido Valles, de 33 años, murió tras colisionar contra un camión de bomberos en Liberia, Guanacaste. El OIJ investiga las causas del accidente.",
+      "featured": false
+    },
+    {
       "slug": "camara-capta-violento-bajonazo-en-el-automac-de-mcdonalds-en-alajuela-esto-responde-la-empresa",
       "title": "Cámara capta violento ‘bajonazo’ en el AutoMac de McDonald’s en Alajuela; esto responde la empresa",
       "category": "Costa Rica",
@@ -82,11 +108,11 @@
       "slug": "nos-fuimos-de-vacaciones-con-nuestros-vecinos-e-intercambiamos-las-familias-eso-acabo-destrozandonos",
       "title": "Nos fuimos de vacaciones con nuestros vecinos e intercambiamos las familias: eso acabó destrozándonos",
       "category": "Mundo",
-      "bullets_20s": "• Las vacaciones en familia pueden ser experiencias gratificantes para los niños y adultos por igual.\n• El intercambio de familias puede llevar a situaciones inesperadas y complicadas durante el viaje.\n• La historia revela los sentimientos encontrados sobre el perdón y la comprensión familiar.\n• Los desafíos en las relaciones familiares a menudo surgen de decisiones impulsivas y poco pensadas.\n• La comunicación y el entendimiento son claves para resolver conflictos en relaciones personales.\n• Reflexionar sobre experiencias pasadas puede ayudar a sanar heridas emocionales.\n• Las vacaciones pueden convertirse en un escenario para explorar las dinámicas familiares complejas.\n• La importancia del apoyo familiar se pone a prueba en situaciones inusuales y caóticas.\n• El viaje se transforma en una lección invaluable sobre las expectativas y la realidad de la familia.\n• El relato pone de manifiesto cómo el tiempo puede ayudar en el proceso de perdón.",
+      "bullets_20s": "• Las decisiones familiares pueden tener un profundo impacto emocional en los hijos.\n• El intercambio de parejas es un tema controversial que genera opiniones diversas.\n• Las vacaciones suelen ser momentos de alegría, pero pueden complicarse fácilmente.\n• Perdonar a quienes amamos a veces es un camino difícil pero necesario.\n• Las experiencias compartidas entre familias pueden transformar relaciones profundamente.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqrkyp7v4delo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-31T13:51:04.000Z",
-      "teaser": "Lo clave en 20 segundos: el intercambio familiar en vacaciones desata un torbellino emocional difícil de manejar.",
+      "teaser": "Lo clave en 20 segundos: una historia de vacaciones y el caos familiar que generó.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/45d8/live/1344e1b0-d156-11f1-a701-fddedf244c16.jpg",
       "description": "Rachel Stone cuenta cómo sus padres intercambiaron parejas, el caos que esto provocó y cómo llegó a perdonarlos.",
       "featured": false
@@ -264,11 +290,11 @@
       "slug": "la-historia-de-como-una-sobreviviente-de-agresion-sexual-del-siglo-xv-busco-justicia",
       "title": "La historia de cómo una sobreviviente de agresión sexual del siglo XV buscó justicia",
       "category": "Mundo",
-      "bullets_20s": "• La obra refleja las luchas legales de las mujeres en la Edad Media.\n• Cada capítulo ofrece una perspectiva única sobre la vida de las mujeres.\n• La historia se centra en la ciudad de Dijon en el siglo XV.\n• Destaca el desafío a las suposiciones modernas sobre la justicia histórica.\n• El relato busca dar voz a las sobrevivientes del pasado.",
+      "bullets_20s": "• Un nuevo libro explora el testimonio de una mujer en la Edad Media sobre la violencia de género.\n• La historia se centra en un caso legal de agresión ocurrido en Francia en 1472.\n• Se abordan los desafíos que enfrentaron las mujeres al buscar justicia en aquella época.\n• El libro discute cómo los estereotipos actuales impactan nuestra visión de la historia femenina.\n• La autora ofrece una nueva perspectiva sobre la vida de las mujeres en el siglo XV.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cm78p1q8pzdzo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-31T09:24:54.000Z",
-      "teaser": "Lo clave en 20 segundos: Una mujer del siglo XV lucha por justicia tras un ataque.",
+      "teaser": "Lo clave en 20 segundos: Una mujer del siglo XV busca justicia tras sufrir violencia.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/d69d/live/76d12ef0-ce1d-11f1-906e-e3128518d85d.jpg",
       "description": "Un nuevo libro ofrece un relato extraordinario sobre la batalla legal que emprendió una mujer tras sufrir un ataque brutal en 1472, en la ciudad francesa de Dijon. La obra desafía nuestras suposiciones modernas acerca de la vida de las mujeres en la Edad Media.",
       "featured": false
@@ -342,11 +368,11 @@
       "slug": "investigacion-bbc-los-saboteadores-rusos-que-atentan-desde-dentro-del-pais-para-ayudar-a-ucrania-frente-a-putin",
       "title": "Investigación BBC: los saboteadores rusos que atentan desde dentro del país para ayudar a Ucrania frente a Putin",
       "category": "Mundo",
-      "bullets_20s": "• La investigación revela el testimonio de dos rusos involucrados en acciones dentro de su país.\n• Se centran en el apoyo a las fuerzas ucranianas en medio del conflicto bélico actual.\n• Los relatos incluyen detalles sobre sabotage y cooperación con inteligencia ucraniana.\n• Los saboteadores buscan contribuir a la lucha contra el régimen de Putin de forma clandestina.\n• El informe pone de relieve el riesgo que estos individuos enfrentan en su país.",
+      "bullets_20s": "• Un análisis revela la existencia de saboteadores rusos apoyando a Ucrania desde dentro.\n• La investigación se centra en testimonios de dos hombres operando clandestinamente.\n• Se discute el impacto de estas acciones en la inteligencia militar ucraniana.\n• La BBC explora las motivaciones detrás de estos actos de resistencia interna.\n• Se examinan las implicaciones políticas de estos sabotajes en Rusia y Ucrania.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cm2d62jgk125o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-10-31T03:59:10.000Z",
-      "teaser": "Lo clave en 20 segundos: Dos rusos ayudan a Ucrania desde dentro de su país, enfrentando graves riesgos.",
+      "teaser": "Lo clave en 20 segundos: Saboteadores rusos ayudan a Ucrania desde dentro, revelan investigaciones recientes.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b9f8/live/f9937b60-c943-11f1-a64c-550be9e3c66b.jpg",
       "description": "Dos hombres relatan el trabajo que, según dicen, han estado realizando desde Rusia para apoyar a la inteligencia ucraniana durante la guerra.",
       "featured": false
@@ -680,11 +706,11 @@
       "slug": "se-realizara-planton-y-vigilia-en-defensa-de-la-educacion-publica",
       "title": "Se realizará “plantón y vigilia en defensa de la educación pública”",
       "category": "Costa Rica",
-      "bullets_20s": "• Las federaciones de universidades públicas convocan a un plantón este lunes en San José.\n• El evento se realizará en la Plaza de la Democracia a las 4:00 p.m.\n• Se busca defender el presupuesto de la educación pública en Costa Rica.\n• La moción legislativa propone recortar más de ¢8 mil millones a educación superior.\n• Se exige respeto al financiamiento constitucional y cumplimiento de acuerdos.",
+      "bullets_20s": "• Las federaciones estudiantiles convocan a un plantón en defensa de la educación pública.\n• El evento se llevará a cabo el lunes 2 de noviembre a las 4:00 p. m.\n• La Plaza de la Democracia en San José será el lugar de la vigilia.\n• Se busca protestar contra recortes al presupuesto de educación superior.\n• La moción aprobada recortaría más de ¢8 mil millones en fondos educativos.\n• Los estudiantes exigen respeto al financiamiento constitucional actual.\n• La protección de las becas y oportunidades educativas es otro reclamo.\n• Se espera la participación de diversas organizaciones de la sociedad civil.\n• El movimiento es parte de una lucha más amplia por la educación pública.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/se-realizara-planton-vigilia-defensa-educacion-publica",
       "publish_date": "2026-10-30T17:35:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Defiende la educación pública esta semana en San José.",
+      "teaser": "Lo clave en 20 segundos: Estudiantes convocan vigilia para defender la educación pública y protestar recortes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/ee6f0d8c-94e5-4abc-8122-75d40c17fa6e.jpg",
       "description": "Se realizará “plantón y vigilia en defensa de la educación pública”",
       "featured": false
@@ -2305,11 +2331,11 @@
       "slug": "sinaes-acreditara-bachillerato-y-licenciatura-en-ingenieria-en-biotecnologia",
       "title": "SINAES acreditará bachillerato y licenciatura en Ingeniería en Biotecnología",
       "category": "Costa Rica",
-      "bullets_20s": "• SINAES reconoce la calidad académica del Tecnológico de Costa Rica en Ingeniería en Biotecnología.\n• La acreditación garantiza un estándar educativo elevado para futuras generaciones de estudiantes.\n• La ceremonia de entrega de certificaciones está programada para el 4 de noviembre de 2026.\n• Los estudiantes del Tecnológico se benefician de esta acreditación en su futura vida profesional.\n• La acreditación es válida hasta el 4 de agosto de 2030, asegurando la calidad por cuatro años.\n• El Tec reafirma su compromiso con la excelencia educativa a través de esta acreditación.\n• La comunidad internacional tendrá acceso a la calidad educativa del Tecnológico de Costa Rica.",
+      "bullets_20s": "• La acreditación es clave para garantizar la calidad educativa en carreras técnicas y científicas.\n• Este reconocimiento impacta positivamente en la percepción de la educación costarricense.\n• La ceremonia de acreditación está programada para el 4 de noviembre a las 2:00 p.m.\n• El período de acreditación tendrá vigencia hasta el 4 de agosto de 2030.\n• El Tecnológico de Costa Rica busca mejorar constantemente su oferta académica.\n• La ingeniería en biotecnología es fundamental para el desarrollo sostenible del país.\n• La acreditación impulsa la confianza en la educación superior en Costa Rica.\n• SINAES juega un papel crucial en la evaluación de programas educativos en el país.\n• El reconocimiento académico es vital para los estudiantes y futuros profesionales.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/sinaes-acreditara-bachillerato-licenciatura-ingenieria-biotecnologia",
       "publish_date": "2026-10-28T16:25:08.000Z",
-      "teaser": "Lo clave en 20 segundos: SINAES acredita programas en Ingeniería en Biotecnología del Tecnológico de Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: SINAES acreditará Ingeniería en Biotecnología para asegurar su calidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/laboratorios-cib-32.jpg",
       "description": "SINAES acreditará bachillerato y licenciatura en Ingeniería en Biotecnología",
       "featured": false
@@ -2773,11 +2799,11 @@
       "slug": "nuevos-cursos-presenciales-y-virtuales-en-el-k-lab-costa-rica-en-campus-tecnologico-local-san-carlos",
       "title": "Nuevos cursos presenciales y virtuales en el K-Lab Costa Rica en Campus Tecnológico Local San Carlos",
       "category": "Costa Rica",
-      "bullets_20s": "• Los cursos de K-Lab están diseñados para mejorar habilidades en tecnología y robótica.\n• Introducción a MODI Kit empieza el 31 de octubre y es modalidad híbrida.\n• Modelado e Impresión 3D Intermedio se ofrecerá en noviembre y es presencial.\n• Los estudiantes podrán trabajar en proyectos prácticos y optimizar sus habilidades.\n• Los cursos son gratuitos y están abiertos a la audiencia general interesada.",
+      "bullets_20s": "• El K-Lab Costa Rica ofrece nuevos cursos sobre tecnología y robótica para estudiantes y entusiastas.\n• Los cursos están diseñados para potenciar habilidades prácticas en el uso de módulos y sensores.\n• Se invita a inscribirse a dos nuevos cursos: MODI Kit y Modelado e Impresión 3D.\n• El curso de MODI Kit tiene modalidad híbrida y se llevará a cabo el 31 de octubre de 2026.\n• El curso de Modelado e Impresión 3D se impartirá de manera presencial entre el 2 y 10 de noviembre.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/nuevos-cursos-presenciales-virtuales-k-lab-costa-rica-campus-tecnologico-local-san-carlos",
       "publish_date": "2026-10-28T01:28:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevos cursos en K-Lab para potenciar habilidades en tecnología y robótica.",
+      "teaser": "Lo clave en 20 segundos: Nuevos cursos de K-Lab en tecnología y robótica en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/modikit1_0.jpg",
       "description": "Nuevos cursos presenciales y virtuales en el K-Lab Costa Rica en Campus Tecnológico Local San Carlos",
       "featured": false
@@ -2877,11 +2903,11 @@
       "slug": "agronomia-tec-50-anos-cultivando-lideres-para-el-desarrollo-agricola-y-pecuario",
       "title": "Agronomía TEC: 50 años cultivando líderes para el desarrollo agrícola y pecuario",
       "category": "Costa Rica",
-      "bullets_20s": "• La carrera de Agronomía TEC celebra 50 años formando líderes en el sector agrícola y pecuario.\n• Se han graduado más de 1180 profesionales en medio siglo, fortaleciendo el campo costarricense.\n• El Centro de Investigación CIDASTH impulsa proyectos de sostenibilidad en producción agrícola.\n• Estudiantes participan en investigaciones sobre biotecnología y mejora animal en la agricultura.\n• La acreditación del SINAES destaca la calidad y compromiso del programa de ingeniería agronómica.",
+      "bullets_20s": "• La carrera de Agronomía ha formado más de 1180 profesionales en 50 años de trayectoria.\n• Se destaca en la investigación de prácticas agrícolas sostenibles y manejo ambiental efectivo.\n• El aniversario se celebró con la participación de autoridades y la comunidad estudiantil.\n• La carrera ha logrado acreditaciones que respaldan su calidad y compromiso educativo.\n• Posiciona a la Escuela de Agronomía en el ámbito nacional e internacional por su impacto.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/agronomia-tec-50-anos-cultivando-lideres-desarrollo-agricola-pecuario",
       "publish_date": "2026-10-27T22:09:21.000Z",
-      "teaser": "Lo clave en 20 segundos: Agronomía TEC celebra 50 años formando líderes en el desarrollo agrícola.",
+      "teaser": "Lo clave en 20 segundos: Celebración del 50 aniversario de Agronomía TEC y su impacto en el sector agrícola.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/tomada-por-wainer_1-2.png",
       "description": "Agronomía TEC: 50 años cultivando líderes para el desarrollo agrícola y pecuario",
       "featured": false
@@ -2942,11 +2968,11 @@
       "slug": "71-medallas-y-una-delegacion-de-todo-el-pais-el-balance-del-tec-en-los-juncos-2026",
       "title": "71 medallas y una delegación de todo el país: el balance del TEC en los JUNCOS 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La delegación del TEC estuvo compuesta por 234 estudiantes de varios campus del país.\n• El Tecnológico de Costa Rica logró un total de 71 medallas en los JUNCOS 2026.\n• Se obtuvieron 18 medallas de oro principalmente en natación y atletismo en la competencia.\n• El evento realzó el compromiso y la disciplina de los estudiantes atletas del TEC.\n• Los deportivos universitarios fomentan habilidades vitales como liderazgo y trabajo en equipo.",
+      "bullets_20s": "• El Tecnológico de Costa Rica ganó 71 medallas en los JUNCOS 2026, destacando en natación y atletismo.\n• 234 estudiantes atletas representaron al TEC, mostrando compromiso y disciplina en la competencia.\n• La natación del TEC obtuvo 12 medallas de oro, fruto de un arduo entrenamiento y dedicación.\n• El atletismo incrementó su rendimiento un 75 % respecto a la edición anterior, destacando el trabajo en equipo.\n• La delegación del TEC fue la tercera universidad con más medallas, reafirmando su compromiso deportivo.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/71-medallas-delegacion-todo-pais-balance-tec-juncos-2026",
       "publish_date": "2026-10-27T20:54:34.000Z",
-      "teaser": "Lo clave en 20 segundos: 71 medallas en los JUNCOS 2026, reflejando el esfuerzo del TEC.",
+      "teaser": "Lo clave en 20 segundos: El TEC brilló en los JUNCOS 2026 con 71 medallas y un gran compromiso universitario.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/juramentacion-juncos-2026_rgarita-13.jpg",
       "description": "71 medallas y una delegación de todo el país: el balance del TEC en los JUNCOS 2026",
       "featured": false
@@ -123449,10 +123475,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-10-31T15:45:27.661Z",
-  "total": 9496,
-  "removed_soccer_news_count": 1498,
+  "generated_at": "2026-10-31T16:45:26.529Z",
+  "total": 9498,
+  "removed_soccer_news_count": 1499,
   "removed_soccer_news_titles": [
+    "Lo que le pasa a Marcel Hernández en El Salvador genera preocupación",
     "Los Cerveceros celebran su triunfo en la Serie Mundial con un bullicioso desfile",
     "Presidente del Cartaginés da a conocer una exigencia a su afición de cara a la final de la Copa Centroamericana",
     "Cómo el tren de alta velocidad de España pasó de ser un modelo mundial a sufrir dos terribles accidentes en menos de un año",
@@ -123501,7 +123528,6 @@
     "Milwaukee vuelve a ganar y aumenta su ventaja ante los Rays en la Serie Mundial de Grandes Ligas",
     "Neymar fue expulsado por taparse la boca mientras discutía con un rival en el partido de Santos",
     "Vea el gol de Alonso Martínez, que celebra en la MLS después de 351 días",
-    "Julián Álvarez se disculpa por pedir su salida del Atlético de Madrid",
-    "Arsenal alcanza al Manchester City en el liderato de la Premier"
+    "Julián Álvarez se disculpa por pedir su salida del Atlético de Madrid"
   ]
 }
