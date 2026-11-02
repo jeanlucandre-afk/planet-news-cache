@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "vea-a-roger-ajun-narrando-pleito-en-partido-de-liberia-en-desamparados",
+      "title": "Vea a Róger Ajún narrando pleito en partido de Liberia en Desamparados",
+      "category": "Costa Rica",
+      "bullets_20s": "• El partido entre Liberia y Desamparados se tornó violento, sorprendiendo a los aficionados presentes.\n• Róger Ajún, conocido narrador, reaccionó a la disputa que se generó en el terreno de juego.\n• La pelea fue tan intensa que se necesitó la intervención de las autoridades policiales.\n• Los aficionados mostraron su preocupación por la violencia durante un evento deportivo.\n• Este incidente resalta problemas de comportamiento en el fútbol costarricense en general.",
+      "source_name": "Alejandro Cerdas",
+      "source_url": "https://www.nacion.com/puro-deporte/vea-a-roger-ajun-narrando-pleito-en-partido-de/6NEYGTY325C4PIZWRSSJ6SIAEY/story/",
+      "publish_date": "2026-11-02T16:49:30.000Z",
+      "teaser": "Lo clave en 20 segundos: un partido se convierte en pelea, Róger Ajún lo narra.",
+      "image_url": "https://www.nacion.com/resizer/v2/HDHPZ2P7NBG4VEZHSBSOBV5YJE.JPG?smart=true&auth=2b01c8a0f8e2206c2dfe463a4ac6f10fee0b89e1c2e17588cd4493f626752ed0&width=1440",
+      "description": "Encuentro entre Liberia y Desamparados por Linafa terminó en pelea y requirió intervención policial.",
+      "featured": false
+    },
+    {
       "slug": "trump-vuelve-a-poner-en-duda-integridad-de-las-elecciones-y-advierte-a-republicanos-de-posible-triunfo-democrata",
       "title": "Trump vuelve a poner en duda integridad de las elecciones y advierte a republicanos de posible triunfo demócrata",
       "category": "Mundo",
-      "bullets_20s": "• Trump critica la transparencia de las elecciones en un tono alarmista y preocupante.\n• Advierte a los republicanos sobre un posible triunfo demócrata en las elecciones.\n• Reitera su intención de vetar leyes si su partido pierde el control legislativo.\n• El ex-presidente comparte su visión sobre el futuro político de EE.UU.\n• La incertidumbre sobre los resultados electorales genera debate entre los ciudadanos.",
+      "bullets_20s": "• Donald Trump expresa preocupaciones sobre la integridad del proceso electoral en su país.\n• Los republicanos deben prepararse para un posible triunfo de los demócratas en elecciones.\n• La advertencia de Trump incluye anticipar el uso de su veto ante los legisladores.\n• La tensión política en Estados Unidos se intensifica en periodo electoral crucial.\n• Las elecciones legislativas son vistas como un termómetro para el futuro político de Trump.",
       "source_name": "Europa Press",
       "source_url": "https://www.nacion.com/el-mundo/trump-vuelve-a-poner-en-duda-integridad-de-las/3GWXYKM7OFERLP252327CQ634E/story/",
       "publish_date": "2026-11-02T16:22:40.000Z",
-      "teaser": "Lo clave en 20 segundos: Trump cuestiona elecciones y advierte sobre posibles consecuencias para los republicanos.",
+      "teaser": "Lo clave en 20 segundos: Trump cuestiona elecciones y advierte a su partido sobre el peligro demócrata.",
       "image_url": "https://www.nacion.com/resizer/v2/QSCJ3H3OYNBGHFWYOMXMDLK7NE.jpg?auth=26395ebee41d386dc7efd3de035afc598fa310d0e91be004c28615e71478cb2f&smart=true&width=1200&height=800",
       "description": "Donald Trump advierte un panorama crítico si los demócratas ganan las elecciones legislativas y anticipa el uso de su veto. Esto dijo sobre los comicios.",
       "featured": false
@@ -69,11 +82,11 @@
       "slug": "investigan-un-posible-ciberataque-que-afecta-los-refrigeradores-de-supermercados-en-7-paises-europeos-y-causa-perdidas-m",
       "title": "Investigan un posible ciberataque que afecta los refrigeradores de supermercados en 7 países europeos y causa pérdidas millonarias",
       "category": "Mundo",
-      "bullets_20s": "• Investigación sobre ciberataques revela vulnerabilidades en sistemas de refrigeración de supermercados europeos.\n• Supermercados en 7 países europeos reportan problemas con sus refrigeradores y congeladores.\n• Afectaciones severas podrían causar pérdidas millonarias en el sector supermercadista europeo.\n• Temperaturas alcanzan niveles críticos, afectando la calidad de los productos almacenados.\n• Expertos piden reforzar la ciberseguridad en sistemas de gestión de supermercados y tiendas.",
+      "bullets_20s": "• Un ciberataque afecta la cadena de suministro de supermercados en Europa, generando grandes pérdidas económicas.\n• Los congeladores de diversas tiendas registraron temperaturas peligrosas, poniendo en riesgo la mercancía.\n• Las autoridades están investigando el origen del ataque y su metodología para prevenir futuros incidentes.\n• El impacto del ataque ha generado preocupación en el sector alimentario de Europa y más allá.\n• Expertos en ciberseguridad están siendo consultados para analizar la magnitud de la amenaza.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cw1l31v5rnrpo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-02T15:39:51.000Z",
-      "teaser": "Lo clave en 20 segundos: un ciberataque afecta refrigeradores en Europa, generando pérdidas millonarias.",
+      "teaser": "Lo clave en 20 segundos: Un ciberataque afecta refrigeradores de supermercados europeos, causando pérdidas millonarias.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
       "description": "Según los informes, la temperatura de los congeladores en varias tiendas de toda Europa llegó a alcanzar los 50°C.",
       "featured": false
@@ -82,12 +95,12 @@
       "slug": "el-emotivo-regreso-a-casa-de-karl-bushby-el-aventurero-britanico-que-recorrio-el-mundo-a-pie-tras-partir-de-chile-hace-2",
       "title": "El emotivo regreso a casa de Karl Bushby, el aventurero británico que recorrió el mundo a pie tras partir de Chile hace 28 años",
       "category": "Mundo",
-      "bullets_20s": "• Karl Bushby ha recorrido miles de kilómetros a pie durante casi tres décadas.\n• Su travesía comenzó en Chile y ha atravesado numerosos países y continentes.\n• El regreso a casa es un hito emocional tras un largo viaje por el mundo.\n• Bushby ha enfrentado retos significativos en su aventura sin precedentes.\n• Su historia inspira a muchos a explorar el mundo de manera diferente.",
+      "bullets_20s": "• Karl Bushby ha recorrido miles de kilómetros a pie, estableciendo un récord mundial en su viaje.\n• Su travesía comenzó en Chile, llevando a través de diversos continentes y culturas.\n• A lo largo de los años, enfrentó innumerables desafíos y aventuras emocionantes.\n• Bushby compartió su historia y experiencias en libros y documentales alrededor del mundo.\n• El regreso a casa es un momento de celebración y reflexión sobre su increíble viaje.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c8wy941ee4rzo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-02T14:54:04.000Z",
-      "teaser": "Lo clave en 20 segundos: Karl Bushby regresa a casa tras 28 años de aventura por el mundo.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/078d/live/8dc45e30-d6b4-11f1-aacc-5b5f23abff4b.jpg",
+      "teaser": "Lo clave en 20 segundos: Karl Bushby regresa a casa tras 28 años recorriendo el mundo a pie.",
+      "image_url": "",
       "description": "El aventurero británico culmina este lunes su travesía por el mundo. Un viaje que emprendió hace 28 años desde Chile para regresar a su hogar en Reino Unido.",
       "featured": false
     },
@@ -106,13 +119,13 @@
     },
     {
       "slug": "cerro-la-frontera-pero-vivimos-peor-el-descontento-de-los-votantes-latinos-que-le-dieron-a-trump-un-historico-apoyo-en-e",
-      "title": "Cerró la frontera, pero vivimos peor: el descontento de los votantes latinos que le dieron a Trump un histórico apoyo en el sur de Texas",
+      "title": "\"Cerró la frontera, pero vivimos peor\": el descontento de los votantes latinos que le dieron a Trump un histórico apoyo en el sur de Texas",
       "category": "Mundo",
-      "bullets_20s": "• Trump consiguió un apoyo notable entre votantes latinos en el Valle del Río Grande en 2024.\n• La región fronteriza con México había sido tradicionalmente demócrata durante décadas pasadas.\n• Actualmente, las encuestas muestran un cambio hacia los demócratas en la región fronteriza.\n• Las elecciones pasadas generaron un debate intenso entre votantes latinos y sus prioridades.\n• Los cambios en políticas migratorias afectan las percepciones y votaciones de los latinos.\n• El descontento por la situación económica también impacta las decisiones políticas de los votantes.\n• Es crucial entender el contexto social y político en el que se desarrollan estas elecciones.\n• La relación entre política y comunidad latina se refleja en los resultados de las votaciones.\n• Los votantes están buscando respuestas claras sobre sus preocupaciones y expectativas.\n• El panorama electoral está en constante cambio y adaptándose a nuevas realidades.",
+      "bullets_20s": "• Trump logró un apoyo inesperado en una región tradicionalmente demócrata de Texas, impactando la política local.\n• La frontera cerrada ha generado descontento en votantes latinos que se sienten abandonados por los republicanos.\n• Las encuestas actuales muestran un cambio en las preferencias hacia los demócratas, reflejando el resentimiento de la comunidad.\n• El Valle del Río Grande históricamente ha sido un bastión demócrata, lo que complica el panorama electoral.\n• Análisis previos al proceso electoral indican una polarización creciente entre votantes latinos y republicanos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6y9315lrelzo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-02T14:09:53.000Z",
-      "teaser": "Lo clave en 20 segundos: el apoyo de latinos a Trump cambia en un contexto de descontento creciente.",
+      "teaser": "Lo clave en 20 segundos: Los votantes latinos en Texas muestran descontento hacia Trump tras un histórico apoyo.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/dfd6/live/305c3730-d345-11f1-8a05-59afc813496d.jpg",
       "description": "Trump logró en 2024 un apoyo histórico en el Valle del Río Grande, una región fronteriza con México que no había elegido a un republicano para la Casa Blanca en más de tres décadas. Hoy las encuestas las encabezan los demócratas.",
       "featured": false
@@ -316,11 +329,11 @@
       "slug": "que-es-la-cara-de-ferritina-y-por-que-no-es-tan-sencillo-detectar-la-carencia-de-hierro-con-solo-observar-el-rostro",
       "title": "Qué es la \"cara de ferritina\" y por qué no es tan sencillo detectar la carencia de hierro con solo observar el rostro",
       "category": "Ciencia",
-      "bullets_20s": "• La 'cara de ferritina' se refiere a manifestaciones faciales asociadas a la deficiencia de hierro.\n• Detectar la falta de hierro solo con mirar el rostro no es un método confiable ni preciso.\n• Existen diversos síntomas que pueden indicar deficiencia, pero son variaciones entre las personas.\n• Los expertos resaltan la importancia de análisis médicos para confirmar niveles de hierro en sangre.\n• Las redes sociales han viralizado videos que simplifican el diagnóstico, lo que puede confundir a muchos.",
+      "bullets_20s": "• La cara de ferritina es un término que se utiliza para describir ciertos síntomas visibles.\n• La detección visual de deficiencia de hierro es un tema debatido en la comunidad médica.\n• Videos virales en redes sociales generan confusión sobre la identificación de esta condición.\n• El hierro es esencial para muchas funciones del cuerpo, incluida la producción de sangre.\n• Entender los síntomas de deficiencia de hierro requiere un enfoque más que solo observación.\n• Los análisis clínicos siguen siendo la forma más efectiva de detectar deficiencia de hierro.\n• Es importante consultar a un médico para un diagnóstico adecuado y tratamiento.\n• La publicicación de información errónea en línea puede llevar a malentendidos graves.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cq23dyerrdpko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-02T10:48:50.000Z",
-      "teaser": "Lo clave en 20 segundos: La detección de deficiencia de hierro tiene matices y no es tan sencilla como parece.",
+      "teaser": "Lo clave en 20 segundos: la 'cara de ferritina' no es fácil de identificar solo visualmente.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c425/live/edea3700-cedd-11f1-b441-2b33b063138f.jpg",
       "description": "Videos en los que la gente afirma detectar los síntomas de la deficiencia de hierro han atraído millones de visitas en internet.",
       "featured": false
@@ -602,11 +615,11 @@
       "slug": "agenda-iv-evento-calidad-en-accion",
       "title": "AGENDA IV EVENTO CALIDAD EN ACCIÓN",
       "category": "Costa Rica",
-      "bullets_20s": "• El evento se enfoca en la mejora de calidad en diversos sectores productivos.\n• Expertos nacionales compartirán sus experiencias y mejores prácticas durante el evento.\n• Se abordarán temas de innovación y tecnología aplicada a la calidad.\n• Oportunidades de networking entre profesionales del área serán destacadas.\n• Las inscripciones están abiertas para participantes interesados en el tema.\n• El evento contará con conferencias magistrales y talleres prácticos.\n• Este evento resalta la importancia de la calidad en el desarrollo sostenible.",
+      "bullets_20s": "• El evento se centrará en la mejora continua de la calidad en diversas áreas.\n• Expertos compartirán conocimientos sobre herramientas y metodologías efectivas.\n• Se abordarán casos de éxito en implementación de sistemas de calidad.\n• Networking con profesionales dedicados a la gestión y calidad organizacional.\n• Talleres interactivos permitirán a los participantes aplicar lo aprendido.",
       "source_name": "lsalas",
       "source_url": "http://www.tec.ac.cr/agenda-iv-evento-calidad-accion",
       "publish_date": "2026-11-01T16:12:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Evento en Costa Rica busca mejorar la calidad en diferentes sectores productivos.",
+      "teaser": "Lo clave en 20 segundos: Mejora continua y calidad organizacional se unen en este evento.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/agenda_iv_evento_calidad_en_accion_carta_horizontal-1.png",
       "description": "AGENDA IV EVENTO CALIDAD EN ACCIÓN",
       "featured": false
@@ -2071,11 +2084,11 @@
       "slug": "se-realizara-planton-y-vigilia-en-defensa-de-la-educacion-publica",
       "title": "Se realizará “plantón y vigilia en defensa de la educación pública”",
       "category": "Costa Rica",
-      "bullets_20s": "• Convocatoria a plantón y vigilia se realiza en defensa de la educación pública.\n• Organizaciones de la sociedad civil se unen al llamado de los estudiantes.\n• El evento se llevará a cabo en la Plaza de la Democracia en San José.\n• Recortes al presupuesto de educación superior han motivado esta acción.\n• Se busca garantizar el respeto al financiamiento constitucional de la educación.",
+      "bullets_20s": "• Las federaciones estudiantiles convocan un plantón en defensa de la educación pública en San José.\n• El evento está programado para este lunes 2 de noviembre a las 4:00 p. m.\n• La movilización surge tras recortes al presupuesto de educación superior propuestos en la Asamblea Legislativa.\n• Se exige el respeto al financiamiento constitucional y cumplimiento de acuerdos educativos.\n• Los asistentes esperan visibilizar la problemática de la educación pública en Costa Rica.\n• Organizaciones de la sociedad civil apoyan la convocatoria por la defensa de lo público.\n• Se podrían presentar más mociones que reduzcan los fondos destinados a educación.\n• Este movimiento busca proteger las becas y oportunidades educativas para todos los estudiantes.\n• La invitación es abierta y busca la participación masiva de la ciudadanía.\n• Para más detalles, se puede contactar a la Federación de Estudiantes del TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/se-realizara-planton-vigilia-defensa-educacion-publica",
       "publish_date": "2026-10-30T17:35:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Convocan vigilia por la defensa de la educación pública en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: convocan vigilia en defensa de la educación pública por recortes presupuestarios.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/ee6f0d8c-94e5-4abc-8122-75d40c17fa6e.jpg",
       "description": "Se realizará “plantón y vigilia en defensa de la educación pública”",
       "featured": false
@@ -124853,10 +124866,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-02T16:45:28.283Z",
-  "total": 9604,
-  "removed_soccer_news_count": 1516,
+  "generated_at": "2026-11-02T17:45:27.119Z",
+  "total": 9605,
+  "removed_soccer_news_count": 1517,
   "removed_soccer_news_titles": [
+    "Favoritos en Champions buscan posicionarse para evitar una eliminatoria extra",
     "Alerta mundial por violencia contra periodistas: Esta es la alarmante cifra de homicidios impunes",
     "Inter San Carlos vs. Cartaginés: Solo hay una manera de ver este partido",
     "Tabla de posiciones del Torneo Apertura 2026: Así marcha el fútbol en Costa Rica tras la jornada 14",
@@ -124905,7 +124919,6 @@
     "Bryan Ruiz es presentado con la Selección de Costa Rica: Vea la primera foto del nuevo DT y su cuerpo técnico",
     "Las razones del enojo de China con Kylian Mbappé (y Mao Zedong como protagonista)",
     "Las reacciones al triunfo de Harry Kane en el Balón de Oro: hasta el príncipe Guillermo lo felicitó",
-    "Milwaukee aplasta a los Rays y está a un paso de coronarse en la Serie Mundial",
-    "La hazaña de Charlyn Corral, la jugadora que hizo historia para México al ganar el premio a la mejor delantera en el Balón de Oro"
+    "Milwaukee aplasta a los Rays y está a un paso de coronarse en la Serie Mundial"
   ]
 }
