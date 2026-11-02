@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "marchamo-2027-ins-eliminara-seguro-voluntario-incluido-en-cobro-del-derecho-de-circulacion",
+      "title": "Marchamo 2027: INS eliminará seguro voluntario incluido en cobro del derecho de circulación",
+      "category": "Costa Rica",
+      "bullets_20s": "• El seguro voluntario tendrá eliminación total en el próximo marchamo 2027 por parte del INS.\n• Los conductores deberán estar atentos a este cambio para no incurrir en costos innecesarios.\n• Se busca simplificar el proceso de cobro del derecho de circulación en Costa Rica.\n• La medida generará cambios significativos en la administración del marchamo a futuro.\n• El INS comunicará fechas y detalles sobre la eliminación en sus canales oficiales.",
+      "source_name": "Arianna Villalobos Solís, Óscar Rodríguez",
+      "source_url": "https://www.nacion.com/economia/marchamo-2027-ins-eliminara-seguro-voluntario/LET266ELUZG55LQCVOGFV2TK4I/story/",
+      "publish_date": "2026-11-02T18:13:48.000Z",
+      "teaser": "Lo clave en 20 segundos: INS elimina seguro voluntario en marchamo 2027, impactando a los conductores.",
+      "image_url": "https://www.nacion.com/resizer/v2/RNMSCJUBRJD3HC2DEA2WCRGYDA.JPG?auth=f1070894a218da935c26cfd7f9d9e0b896593aff7a6f9ea31ca7f90190f22427&smart=true&width=3000&height=2000",
+      "description": "Marchamo 2027 ya no incluirá el seguro voluntario de ¢11.900. Conozca cuándo el INS retirará el cobro automático en el sistema de consulta",
+      "featured": false
+    },
+    {
+      "slug": "perdidas-millonarias-por-un-segundo-ciberataque-masivo-a-refrigeradoras-de-supermercados-en-europa",
+      "title": "Pérdidas millonarias por un segundo ciberataque masivo a refrigeradoras de supermercados en Europa",
+      "category": "Mundo",
+      "bullets_20s": "• Un ciberataque masivo impacta de nuevo a supermercados en Europa con pérdidas significativas.\n• Los sistemas de refrigeración fueron hackeados, afectando el almacenamiento de alimentos.\n• El ataque ocurre menos de un mes después de otro incidente similar en la región.\n• Cientos de toneladas de alimentos se pierden debido a fallas en la refrigeración.\n• Expertos analizan las consecuencias de estos ciberataques en la industria alimentaria.\n• La seguridad cibernética se vuelve crucial para la protección de las infraestructuras.\n• Este incidente resalta la vulnerabilidad de los sistemas técnicos en supermercados.\n• Gobiernos europeos están tomando medidas para enfrentar amenazas cibernéticas.\n• Los consumidores se ven afectados por la escasez y aumentos de precios en alimentos.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/perdidas-millonarias-por-un-segundo-ciberataque/UPVN2GTNMJGLPCWINMGLJAODJQ/story/",
+      "publish_date": "2026-11-02T18:11:45.000Z",
+      "teaser": "Lo clave en 20 segundos: un nuevo ciberataque provoca pérdidas millonarias en supermercados europeos.",
+      "image_url": "https://www.nacion.com/resizer/v2/FCXP5M6BQNC55MD6N66PQBYATA.jpg?auth=8b3bcafd6a340bdb49b217275f99c08b224c3bd3a14131c0681d97a4fba84c2a&smart=true&width=1200&height=801",
+      "description": "Otro ciberataque masivo a los sistemas de refrigeración de supermercados en menos de un mes provoca la pérdida de toneladas de alimentos en cinco países europeos. Descubra cómo fue que hackearon los refrigeradores.",
+      "featured": false
+    },
+    {
+      "slug": "contraloria-deja-en-firme-adjudicacion-de-redes-5g-del-ice-tras-apelacion-de-datasys",
+      "title": "Contraloría deja en firme adjudicación de redes 5G del ICE tras apelación de Datasys",
+      "category": "Tecnología",
+      "bullets_20s": "• La Contraloría General ha confirmado la adjudicación de redes 5G en un proceso muy esperado.\n• Datasys presentó recursos en contra, pero fueron rechazados sin lugar a apelación.\n• El ICE continúa avanzando en su proyecto de modernización y expansión de servicios 5G.\n• Partidas 4, 5 y 6 fueron adjudicadas a IT Servicios de Infocomunicación S.A.\n• Este desarrollo es un paso importante en el fortalecimiento de la infraestructura tecnológica.",
+      "source_name": "Jailine González Gómez",
+      "source_url": "https://www.nacion.com/el-pais/contraloria-deja-en-firme-adjudicacion-de-redes-5g/WWP7EAR42VDJFBMEPJFK3LXTUQ/story/",
+      "publish_date": "2026-11-02T17:52:48.000Z",
+      "teaser": "Lo clave en 20 segundos: La Contraloría ratifica la adjudicación de redes 5G del ICE, rechazando cualquier apelación.",
+      "image_url": "https://www.nacion.com/resizer/v2/P4I5NJE24VD73NFQ3TGMP2OYAY.jpg?smart=true&auth=07a2cae052dd50e2ec238fb4f3ac26a194c26764b4b0edb76186807ea65e8678&width=1440",
+      "description": "La Contraloría General de la República rechazó los recursos de Datasys contra la licitación del ICE para redes 5G y confirmó la adjudicación de las partidas 4, 5 y 6 a IT Servicios de Infocomunicación S.A.",
+      "featured": false
+    },
+    {
       "slug": "vea-a-roger-ajun-narrando-pleito-en-partido-de-liberia-en-desamparados",
       "title": "Vea a Róger Ajún narrando pleito en partido de Liberia en Desamparados",
       "category": "Costa Rica",
@@ -95,12 +134,12 @@
       "slug": "el-emotivo-regreso-a-casa-de-karl-bushby-el-aventurero-britanico-que-recorrio-el-mundo-a-pie-tras-partir-de-chile-hace-2",
       "title": "El emotivo regreso a casa de Karl Bushby, el aventurero británico que recorrió el mundo a pie tras partir de Chile hace 28 años",
       "category": "Mundo",
-      "bullets_20s": "• Karl Bushby ha recorrido miles de kilómetros a pie, estableciendo un récord mundial en su viaje.\n• Su travesía comenzó en Chile, llevando a través de diversos continentes y culturas.\n• A lo largo de los años, enfrentó innumerables desafíos y aventuras emocionantes.\n• Bushby compartió su historia y experiencias en libros y documentales alrededor del mundo.\n• El regreso a casa es un momento de celebración y reflexión sobre su increíble viaje.",
+      "bullets_20s": "• Karl Bushby emprendió un viaje monumental que duró casi tres décadas. Un recorrido por distintos continentes.\n• El británico partió de Chile y ha atravesado varios países para regresar a su hogar en Reino Unido.\n• Su travesía es un testimonio de resistencia, emoción y descubrimiento a lo largo de todos estos años.\n• Bushby ha enfrentado desafíos físicos y emocionales, convirtiéndose en un símbolo de perseverancia y aventura.\n• El regreso a casa representa no solo un cierre, sino el inicio de un nuevo capítulo en su vida.\n• Los obstáculos superados y las historias vividas enriquecen su experiencia como aventurero global.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c8wy941ee4rzo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-02T14:54:04.000Z",
-      "teaser": "Lo clave en 20 segundos: Karl Bushby regresa a casa tras 28 años recorriendo el mundo a pie.",
-      "image_url": "",
+      "teaser": "Lo clave en 20 segundos: Karl Bushby regresa a casa tras un viaje de 28 años por el mundo.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/078d/live/8dc45e30-d6b4-11f1-aacc-5b5f23abff4b.jpg",
       "description": "El aventurero británico culmina este lunes su travesía por el mundo. Un viaje que emprendió hace 28 años desde Chile para regresar a su hogar en Reino Unido.",
       "featured": false
     },
@@ -329,11 +368,11 @@
       "slug": "que-es-la-cara-de-ferritina-y-por-que-no-es-tan-sencillo-detectar-la-carencia-de-hierro-con-solo-observar-el-rostro",
       "title": "Qué es la \"cara de ferritina\" y por qué no es tan sencillo detectar la carencia de hierro con solo observar el rostro",
       "category": "Ciencia",
-      "bullets_20s": "• La cara de ferritina es un término que se utiliza para describir ciertos síntomas visibles.\n• La detección visual de deficiencia de hierro es un tema debatido en la comunidad médica.\n• Videos virales en redes sociales generan confusión sobre la identificación de esta condición.\n• El hierro es esencial para muchas funciones del cuerpo, incluida la producción de sangre.\n• Entender los síntomas de deficiencia de hierro requiere un enfoque más que solo observación.\n• Los análisis clínicos siguen siendo la forma más efectiva de detectar deficiencia de hierro.\n• Es importante consultar a un médico para un diagnóstico adecuado y tratamiento.\n• La publicicación de información errónea en línea puede llevar a malentendidos graves.",
+      "bullets_20s": "• La carencia de hierro es una condición común que puede afectar la salud general de las personas.\n• La 'cara de ferritina' es un término popular que busca identificar esta deficiencia visualmente.\n• Los videos sobre esta técnica han generado un gran alcance y atención en las redes sociales.\n• Sin embargo, reconocer la deficiencia de hierro solo con el rostro puede ser engañoso.\n• Los síntomas pueden variar ampliamente y requieren análisis médicos para su confirmación.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cq23dyerrdpko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-02T10:48:50.000Z",
-      "teaser": "Lo clave en 20 segundos: la 'cara de ferritina' no es fácil de identificar solo visualmente.",
+      "teaser": "Lo clave en 20 segundos: La 'cara de ferritina' no es suficiente para detectar deficiencias de hierro.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c425/live/edea3700-cedd-11f1-b441-2b33b063138f.jpg",
       "description": "Videos en los que la gente afirma detectar los síntomas de la deficiencia de hierro han atraído millones de visitas en internet.",
       "featured": false
@@ -614,12 +653,12 @@
     {
       "slug": "agenda-iv-evento-calidad-en-accion",
       "title": "AGENDA IV EVENTO CALIDAD EN ACCIÓN",
-      "category": "Costa Rica",
-      "bullets_20s": "• El evento se centrará en la mejora continua de la calidad en diversas áreas.\n• Expertos compartirán conocimientos sobre herramientas y metodologías efectivas.\n• Se abordarán casos de éxito en implementación de sistemas de calidad.\n• Networking con profesionales dedicados a la gestión y calidad organizacional.\n• Talleres interactivos permitirán a los participantes aplicar lo aprendido.",
+      "category": "Ciencia",
+      "bullets_20s": "• El evento busca promover la mejora continua en la calidad en diferentes sectores.\n• Contará con expertos que compartirán sus conocimientos y experiencias prácticas.\n• Se realizarán talleres sobre metodologías efectivas para mejorar la calidad.\n• Los participantes tendrán la oportunidad de intercambiar ideas innovadoras.\n• El enfoque principal será la aplicación de normas y estándares internacionales.",
       "source_name": "lsalas",
       "source_url": "http://www.tec.ac.cr/agenda-iv-evento-calidad-accion",
       "publish_date": "2026-11-01T16:12:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Mejora continua y calidad organizacional se unen en este evento.",
+      "teaser": "Lo clave en 20 segundos: un evento para impulsar la calidad en diversos sectores.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/agenda_iv_evento_calidad_en_accion_carta_horizontal-1.png",
       "description": "AGENDA IV EVENTO CALIDAD EN ACCIÓN",
       "featured": false
@@ -2084,11 +2123,11 @@
       "slug": "se-realizara-planton-y-vigilia-en-defensa-de-la-educacion-publica",
       "title": "Se realizará “plantón y vigilia en defensa de la educación pública”",
       "category": "Costa Rica",
-      "bullets_20s": "• Las federaciones estudiantiles convocan un plantón en defensa de la educación pública en San José.\n• El evento está programado para este lunes 2 de noviembre a las 4:00 p. m.\n• La movilización surge tras recortes al presupuesto de educación superior propuestos en la Asamblea Legislativa.\n• Se exige el respeto al financiamiento constitucional y cumplimiento de acuerdos educativos.\n• Los asistentes esperan visibilizar la problemática de la educación pública en Costa Rica.\n• Organizaciones de la sociedad civil apoyan la convocatoria por la defensa de lo público.\n• Se podrían presentar más mociones que reduzcan los fondos destinados a educación.\n• Este movimiento busca proteger las becas y oportunidades educativas para todos los estudiantes.\n• La invitación es abierta y busca la participación masiva de la ciudadanía.\n• Para más detalles, se puede contactar a la Federación de Estudiantes del TEC.",
+      "bullets_20s": "• Federaciones estudiantiles y organizaciones civiles convoca a la vigilia en defensa de la educación pública.\n• El evento se llevará a cabo el lunes 2 de noviembre a las 4:00 p.m. en San José.\n• La razón de la protesta es un recorte significativo al presupuesto de educación superior.\n• También se busca exigir el cumplimiento de los acuerdos establecidos en el FEES.\n• La protección de becas y oportunidades educativas está en el centro de la movilización.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/se-realizara-planton-vigilia-defensa-educacion-publica",
       "publish_date": "2026-10-30T17:35:28.000Z",
-      "teaser": "Lo clave en 20 segundos: convocan vigilia en defensa de la educación pública por recortes presupuestarios.",
+      "teaser": "Lo clave en 20 segundos: Convocan vigilia para defender la educación pública por recortes presupuestarios.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/ee6f0d8c-94e5-4abc-8122-75d40c17fa6e.jpg",
       "description": "Se realizará “plantón y vigilia en defensa de la educación pública”",
       "featured": false
@@ -124866,8 +124905,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-02T17:45:27.119Z",
-  "total": 9605,
+  "generated_at": "2026-11-02T18:45:27.501Z",
+  "total": 9608,
   "removed_soccer_news_count": 1517,
   "removed_soccer_news_titles": [
     "Favoritos en Champions buscan posicionarse para evitar una eliminatoria extra",
