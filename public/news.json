@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "binance-revela-que-uno-de-sus-ingenieros-descargo-malware-que-propicio-robo-de-6000-millones",
+      "title": "Binance revela que uno de sus ingenieros descargó malware que propició robo de $6.000 millones",
+      "category": "Mundo",
+      "bullets_20s": "• Binance es una de las plataformas de criptomonedas más grandes del mundo.\n• El robo se debió a la descarga de malware por un ingeniero de la firma.\n• La plataforma asegura que ha tomado medidas para proteger sus activos.\n• El 98% de los fondos robados ya han sido reintegrados a los usuarios.\n• Esta situación resalta vulnerabilidades en la seguridad de las criptomonedas.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/binance-revela-que-uno-de-sus-ingenieros-descargo/BCYYNZO23RGIDGW6FSXWE4ZYAA/story/",
+      "publish_date": "2026-11-03T22:20:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Binance enfrenta un ciberataque que llevó al robo significativo de activos.",
+      "image_url": "https://www.nacion.com/resizer/v2/G5LNUGIYPBDDZNMBYVTZDTG3JA.jpg?auth=03178270b069d14624226f9908b5c07da6262d4bd83f2d37ec041e7b16b3b8b8&smart=true&width=1000&height=667",
+      "description": "La plataforma dijo que ya reintegró el 98% de los activos robados con fondos propios",
+      "featured": false
+    },
+    {
+      "slug": "periodistas-de-la-nacion-obtienen-doble-galardon-de-amcham-por-investigar-devastacion-minera-en-cerro-conchudita",
+      "title": "Periodistas de ‘La Nación’ obtienen doble galardón de Amcham por investigar devastación minera en cerro Conchudita",
+      "category": "Costa Rica",
+      "bullets_20s": "• La investigación profundiza en los efectos ambientales de la minería en cerro Conchudita.\n• El Amcham premia el esfuerzo de periodistas que abordan temas medioambientales críticos.\n• La gala reconoció la labor periodística en el ámbito de la protección ambiental y social.\n• El reportaje muestra los desafíos que enfrenta la población local por la minería.\n• El premio busca resaltar la importancia de la prensa en la defensa de la naturaleza.\n• Los periodistas destacan la necesidad de generar conciencia sobre la minería responsable.\n• Los galardonados han trabajado incansablemente para investigar este tema crucial.\n• Este reconocimiento motiva a otros periodistas a abordar temas de interés público.\n• La combinación de arte y periodismo resalta la devastación de los recursos naturales.\n• La ceremonia de premiación celebró el compromiso de los medios con la verdad.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/el-pais/periodistas-de-la-nacion-obtienen-doble-galardon/BDYKJMNQ4REMFIA5NC7AY4OKCE/story/",
+      "publish_date": "2026-11-03T22:17:24.000Z",
+      "teaser": "Lo clave en 20 segundos: Premian a periodistas de La Nación por investigar la devastación minera en cerro Conchudita.",
+      "image_url": "https://www.nacion.com/resizer/v2/IDLCQYRL5ZAQFBKD3OWCQTMGXA.jpeg?auth=a361a32944e0e6bb67873ee5d3bc61f110780343f9681cbfbc597562031999aa&smart=true&width=1600&height=900",
+      "description": "Vanessa Loaiza, Christian Montero y Alonso Tenorio de 'La Nación' obtuvieron el Premio Alberto Martén 2026 en la categoría Periodistas y el reconocimiento de 'Gran ganador', que distingue al reportaje con la mayor calificación de toda la gala.",
+      "featured": false
+    },
+    {
+      "slug": "la-escalada-vea-como-evoluciono-el-nuevo-deporte-olimpico-durante-los-ultimos-25-anos-en-costa-rica",
+      "title": "La escalada: vea cómo evolucionó el nuevo deporte olímpico durante los últimos 25 años en Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• La escalada ha crecido en popularidad desde su inclusión en los Juegos Olímpicos.\n• El deporte ha sido adoptado por una nueva generación de jóvenes en Costa Rica.\n• Se han desarrollado competencias nacionales que fomentan el talento local en la escalada.\n• Los exponentes costarricenses buscan destacarse en torneos internacionales cada vez más.\n• Se cuentan con nuevos centros de escalada que facilitan el entrenamiento para todos.\n• La evolución del deporte incluye diversas modalidades como velocidad y bloque.\n• La comunidad de escaladores se ha vuelto más unida y colaborativa en los años recientes.\n• Se promueve la escalada como una actividad que fomenta la salud física y mental.\n• La escalada en roca ha llevado a muchos a descubrir la belleza natural de Costa Rica.",
+      "source_name": "Fanny Tayver Marín",
+      "source_url": "https://www.nacion.com/puro-deporte/la-escalada-vea-como-evoluciono-el-nuevo-deporte/7KAT64QMTNCHDONAH6XEN4A4OE/story/",
+      "publish_date": "2026-11-03T22:13:35.000Z",
+      "teaser": "Lo clave en 20 segundos: La escalada se ha transformado en un deporte emocionante y popular en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/T4R4NCPSNNDHBMTCBJI36LFPIY.jpg?auth=3dd957c0b12cc0ac4f377d22dfea6ce9fc8976e08bb9fa80b64b328281af3abf&smart=true&width=853&height=1280",
+      "description": "Hoy se cuenta con una nueva generación de talentosos exponentes de la escalada.",
+      "featured": false
+    },
+    {
       "slug": "costa-rica-y-nueve-paises-de-la-oea-crean-la-comision-que-negociara-con-nicaragua",
       "title": "Costa Rica y nueve países de la OEA crean la comisión que negociará con Nicaragua",
       "category": "Mundo",
@@ -43,13 +82,13 @@
       "slug": "mesa-de-dialogo-interuniversitario-sobre-nineces-y-adolescencias-sobrevivientes-de-femicidio",
       "title": "Mesa de diálogo interuniversitario sobre niñeces y adolescencias sobrevivientes de femicidio",
       "category": "Costa Rica",
-      "bullets_20s": "• El Consejo Nacional de Rectores invita a un diálogo sobre niñez y adolescencia en crisis.\n• Se enfoca en el impacto del femicidio en la vida de los más jóvenes en el país.\n• El evento tiene como objetivo analizar vacíos estructurales que afectan a las víctimas.\n• Expertos buscarán generar recomendaciones para mejorar la situación actual en Costa Rica.\n• La actividad se realizará el 25 de noviembre en el Campus Tecnológico en San José.",
+      "bullets_20s": "• La Mesa de diálogo busca abordar el impacto del femicidio en la niñez y adolescencia.\n• Está organizada por el Consejo Nacional de Rectores y su subcomisión de Niñez.\n• Se llevará a cabo el 25 de noviembre en la Escuela de Arquitectura y Urbanismo.\n• La actividad es una oportunidad para identificar vacíos estructurales en el sistema.\n• Se generarán recomendaciones para enfrentar los retos actuales en esta materia.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/mesa-dialogo-interuniversitario-nineces-adolescencias-sobrevivientes-femicidio",
       "publish_date": "2026-11-03T19:58:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Un diálogo interuniversitario busca abordar el impacto del femicidio en la niñez.",
+      "teaser": "Lo clave en 20 segundos: Mesa de diálogo para abordar el impacto del femicidio en niñez y adolescencia.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-03-at-2.30.55-pm.jpeg",
-      "description": "Mesa de diálogo interuniversitario sobre niñeces y adolescencias sobrevivientes de femicidio",
+      "description": "Mesa de diálogo interuniversitario sobre niñeces y adolescencias sobrevivientes de femicidio.",
       "featured": false
     },
     {
@@ -313,6 +352,19 @@
       "featured": false
     },
     {
+      "slug": "por-que-ahora-si-los-democratas-pueden-lograr-en-texas-un-triunfo-trascendental-tras-decadas-de-derrotas",
+      "title": "Por qué (ahora sí) los demócratas pueden lograr en Texas un triunfo trascendental tras décadas de derrotas",
+      "category": "Mundo",
+      "bullets_20s": "• El Senado en Texas es clave para el equilibrio de poder en Estados Unidos.\n• Los demócratas han tenido un crecimiento en apoyo en comunidades diversas.\n• El cambio demográfico en Texas impulsa nuevas oportunidades políticas.\n• Las elecciones pasadas muestran una mayor participación electoral de los votantes.\n• Los temas locales como el acceso a la salud son relevantes para los votantes.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cr2ke7qdk71eo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-11-03T12:40:18.000Z",
+      "teaser": "Lo clave en 20 segundos: Los demócratas buscan un giro histórico en Texas con elecciones cruciales.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f303/live/84cce500-d54b-11f1-bcb7-8f812b44c2e5.jpg",
+      "description": "La pelea por el Senado en Texas va mucho más allá del control del Congreso. Te explicamos los motivos.",
+      "featured": false
+    },
+    {
       "slug": "temblor-de-56-sacudio-a-colombia-durante-la-madrugada-y-desato-seguidilla-de-replicas",
       "title": "Temblor de 5,6 sacudió a Colombia durante la madrugada y desató seguidilla de réplicas",
       "category": "Mundo",
@@ -472,11 +524,11 @@
       "slug": "8-graficos-que-muestran-por-que-las-elecciones-de-medio-mandato-llegan-en-mal-momento-para-trump-y-que-hay-en-juego",
       "title": "8 gráficos que muestran por qué las elecciones de medio mandato llegan en mal momento para Trump y qué hay en juego",
       "category": "Mundo",
-      "bullets_20s": "• El análisis incluye gráficos que ilustran las tendencias actuales en el electorado estadounidense.\n• Se abordan las contiendas electorales más importantes y su impacto en el futuro político de Trump.\n• Expertos analizan cómo los resultados pueden influir en las decisiones del presidente en su mandato.\n• Las encuestas destacan problemas arraigados que enfrenta Trump en estas elecciones cruciales.\n• Las elecciones de medio mandato suelen ser difíciles para el partido en el poder, como sugiere la historia.",
+      "bullets_20s": "• Las elecciones de medio mandato son cruciales para evaluar el desempeño presidencial.\n• Los gráficos presentados analizan diversas encuestas electorales realizadas recientemente.\n• Examinan las contiendas más disputadas que podrían cambiar el rumbo político.\n• Se destacan los temas más relevantes que preocupan a los votantes actuales.\n• Las elecciones podrían definir el futuro del partido en el poder y su agenda.\n• Los resultados pueden influir en la política nacional e internacional a futuro.\n• Se abordan las expectativas de los votantes y su impacto en las urnas.\n• La situación actual en Estados Unidos es cambiante, con opiniones divergentes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cq5ynzzkxeymo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-03T04:41:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Análisis gráfico de las elecciones de medio mandato y su impacto en Trump.",
+      "teaser": "Lo clave en 20 segundos: Los gráficos analizan las elecciones de medio mandato y su relevancia para Trump.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f64c/live/4e58ab20-c552-11f1-bc2e-018d645d8d21.jpg",
       "description": "Este es un análisis exhaustivo de las encuestas clave, las contiendas electorales más disputadas y los temas más importantes de cara a unos comicios que definirán los dos últimos años de Trump como presidente.",
       "featured": false
@@ -485,11 +537,11 @@
       "slug": "quienes-son-las-9-victimas-del-fatal-accidente-del-avion-privado-que-se-estrello-en-florida",
       "title": "Quiénes son las 9 víctimas del fatal accidente del avión privado que se estrelló en Florida",
       "category": "Mundo",
-      "bullets_20s": "• El accidente ocurrió en Florida y ha generado gran conmoción en la comunidad local y nacional.\n• Nueve personas perdieron la vida, incluyendo un reconocido empresario del sector tecnológico.\n• La familia del empresario estaba abordo, lo que aumentó la tristeza del trágico suceso.\n• Las causas del accidente aún están bajo investigación por parte de las autoridades competentes.\n• Se esperan más detalles sobre las circunstancias del siniestro y las víctimas involucradas.",
+      "bullets_20s": "• El accidente aéreo ocurrió en Florida y conmocionó a la comunidad local y global.\n• Nueve personas perdieron la vida en el trágico accidente de avión privado.\n• Entre las víctimas se encontraba un empresario tecnológico de renombre internacional.\n• La esposa e hijos del empresario también estaban a bordo en el momento del accidente.\n• El suceso ha generado un debate sobre la seguridad en vuelos privados.\n• Familias y amigos lloran la pérdida de seres queridos en este accidente devastador.\n• Las circunstancias que rodean el accidente aún están bajo investigación oficial.\n• La comunidad está unida en solidaridad con las familias afectadas.\n• Expertos analizan la posible causa del accidente para evitar futuros incidentes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx054q17vvezo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-03T03:49:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Nueve personas fallecieron en un accidente aéreo en Florida, incluyendo a un empresario tecnológico.",
+      "teaser": "Lo clave en 20 segundos: Nueve vidas se perdieron en un accidente aéreo en Florida, incluyendo un destacado empresario.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c344/live/65462e20-d736-11f1-b306-c3f1b394ab8d.jpg",
       "description": "El accidente del domingo acabó con la vida de las nueve personas que iban a bordo, entre ellas un empresario tecnológico, su esposa y sus dos pequeños hijos.",
       "featured": false
@@ -810,11 +862,11 @@
       "slug": "hackathon-modi-kit-ia",
       "title": "Hackathon MODI Kit + IA",
       "category": "Tecnología",
-      "bullets_20s": "• K-Lab invita a participar en un Hackathon centrado en inteligencia artificial y tecnología MODI.\n• Durante dos días, los participantes recibirán capacitación y trabajarán en equipos creativos.\n• La actividad se llevará a cabo el 14 y 15 de noviembre de 2026, desde las 8 a.m. hasta 4 p.m.\n• El evento es abierto al público y fomenta la innovación y el trabajo en equipo.\n• Los primeros tres lugares recibirán premios, incentivando la competencia saludable.\n• Los participantes podrán desarrollar proyectos innovadores utilizando IA y tecnología MODI.\n• La inscripción está limitada y se debe realizar escaneando un código QR.\n• El Hackathon promueve la construcción y aprendizaje colaborativo entre los asistentes.\n• Es una oportunidad única para mejorar habilidades en tecnología y creatividad.\n• K-Lab garantiza un ambiente propicio para experimentar con nuevas ideas y soluciones.",
+      "bullets_20s": "• K-Lab invita a participar en el Hackathon MODI Kit + IA el 14 y 15 de noviembre de 2026.\n• El evento se enfocará en el uso de inteligencia artificial en proyectos creativos y tecnológicos.\n• Los participantes recibirán capacitación sobre MODI y trabajarán en equipo para innovar.\n• Habrá premiación para los tres mejores proyectos, fomentando la competencia amistosa.\n• Se ofrecen almuerzos y cupos limitados para una experiencia más personalizada.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/hackathon-modi-kit-ia",
       "publish_date": "2026-11-02T19:56:09.000Z",
-      "teaser": "Lo clave en 20 segundos: Participa en el Hackathon MODI Kit + IA y desarrolla soluciones creativas.",
+      "teaser": "Lo clave en 20 segundos: Participa en el Hackathon MODI Kit + IA y desarrolla proyectos creativos con IA.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/image-79.png",
       "description": "Hackathon MODI Kit + IA",
       "featured": false
@@ -940,11 +992,11 @@
       "slug": "asamblea-general-de-estudiantes-aprueba-la-creacion-de-asociaciones-de-interes-y-cambios-en-la-representacion-estudianti",
       "title": "Asamblea General de Estudiantes aprueba la creación de Asociaciones de Interés y cambios en la representación estudiantil",
       "category": "Costa Rica",
-      "bullets_20s": "• La Asamblea General aprobó las Asociaciones de Interés para grupos de estudiantes con intereses comunes.\n• Se redistribuyeron los espacios en la Asamblea Institucional Representativa y Plebiscitaria del TEC.\n• Se establecieron nuevas reglas para la Comisión FESTEC y sus subcomisiones estudiantiles.\n• Se rechazó la propuesta para crear una Comisión Especial para reformar el Estatuto Orgánico de la FEITEC.\n• Más de 300 estudiantes participaron en las votaciones durante la sesión de la Asamblea General.",
+      "bullets_20s": "• Se aprueban Asociaciones de Interés para grupos estudiantiles con características comunes.\n• Más de 300 estudiantes participaron en la sesión de votación celebrada el 27 de octubre.\n• Se modifica la cantidad mínima de miembros para formar una asociación de 15 a 10 personas.\n• Se redistribuyen los espacios en asambleas de dirección de la FEITEC para mejor representación.\n• Una propuesta para reformar el Estatuto de la FEITEC fue rechazada por una votación ajustada.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/asamblea-general-estudiantes-aprueba-creacion-asociaciones-interes-cambios-representacion",
       "publish_date": "2026-11-02T16:40:54.000Z",
-      "teaser": "Lo clave en 20 segundos: La Asamblea General del TEC aprueba nuevas asociaciones estudiantiles y cambios en la representación.",
+      "teaser": "Lo clave en 20 segundos: Se aprueban nuevas categorías estudiantiles en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/age-2026-teccartago_gcastillo-09.JPG",
       "description": "Asamblea General de Estudiantes aprueba la creación de Asociaciones de Interés y cambios en la representación estudiantil",
       "featured": false
@@ -125792,20 +125844,22 @@
       "slug": "eeuu-acude-a-las-urnas-en-unas-elecciones-de-medio-mandato-cruciales-para-el-futuro-del-gobierno-de-trump",
       "title": "EE.UU. acude a las urnas en unas elecciones de medio mandato cruciales para el futuro del gobierno de Trump",
       "category": "Mundo",
-      "bullets_20s": "• Las elecciones de medio mandato se realizan en un contexto político tenso y polarizado.\n• El control del Congreso es fundamental para el futuro de la administración de Trump.\n• Más de 130 millones de electores están convocados a participar en estos comicios.\n• Las políticas migratorias y económicas son temas centrales en la campaña electoral actual.\n• Se espera una alta participación de votantes jóvenes en estas elecciones significativas.\n• El resultado de estas elecciones podría afectar la estrategia de Trump para el 2024.\n• Los independientes jugarán un papel crucial en la toma de decisiones electorales.\n• Las encuestas indican una cerrada competencia entre demócratas y republicanos.\n• Las redes sociales están siendo utilizadas intensamente para difundir información electoral.\n• Las elecciones de medio mandato podrían redefinir la agenda legislativa estadounidense.",
+      "bullets_20s": "• Las elecciones de medio mandato son cruciales para el rumbo del país en Estados Unidos.\n• Se renuevan 435 escaños de la Cámara de Representantes y 35 del Senado este año.\n• Los resultados de estas elecciones pueden influir en las políticas futuras del gobierno.\n• Las votaciones reflejan la opinión pública sobre los dos años restantes de Trump.\n• La participación de votantes es alta, mostrando interés por el proceso democrático.",
       "source_name": "",
       "source_url": "https://www.bbc.co.uk/mundo/live/cq9vz4g97xy2t?at_medium=RSS&at_campaign=rss",
       "publish_date": "",
-      "teaser": "Lo clave en 20 segundos: Millones votan para decidir el rumbo del Congreso en EE.UU. crucial para Trump.",
+      "teaser": "Lo clave en 20 segundos: elecciones cruciales para el futuro político de EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/d8b1/live/cc7de6c0-d798-11f1-801d-cf196dc7232c.jpg",
       "description": "Millones de estadounidenses acuden a las urnas para decidir quién controlará el Congreso en los dos años de presidencia que le restan a Donald Trump.",
       "featured": false
     }
   ],
-  "generated_at": "2026-11-03T21:45:26.823Z",
-  "total": 9677,
-  "removed_soccer_news_count": 1527,
+  "generated_at": "2026-11-03T22:45:26.657Z",
+  "total": 9681,
+  "removed_soccer_news_count": 1529,
   "removed_soccer_news_titles": [
+    "Barcelona golea al Aston Villa y se coloca en la zona buena de la Champions",
+    "Costarricense Tomás Casas fue el mejor de Centroamérica (y sétimo de Latinoamérica) en Copa del Mundo de escalada",
     "Muerte de Jesús de Miguel: el mundo del fútbol se une con condolencias de Messi, Mourinho y la UEFA",
     "Portero Jesús Owono cierra sus redes sociales y la policía investiga la muerte de Jesús de Miguel: ¿A qué se expone el arquero?",
     "OIJ busca a sicario que asesinó a joven cerca de plaza de fútbol en Quepos",
@@ -125853,8 +125907,6 @@
     "Jeyland Mitchell destaca en estadística junto a futbolistas como Rodri o Luka Modric",
     "Bryan Ruiz revela quiénes serán sus hombres de confianza en la Selección de Costa Rica",
     "El Real Madrid se disculpa con China por comentarios de Mbappé sobre Mao",
-    "Cartaginés sabe a lo que va ante Olimpia: tendrá todo el Chelato Uclés en contra",
-    "La prensa de Honduras esperaba a Amarini Villatoro y le cae encima por lo que dijo de Olimpia",
-    "Las mejores frases de Bryan Ruiz en su presentación como DT de la Selección de Costa Rica"
+    "Cartaginés sabe a lo que va ante Olimpia: tendrá todo el Chelato Uclés en contra"
   ]
 }
