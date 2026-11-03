@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "realmente-se-preve-un-triunfo-democrata-este-martes-esto-dice-la-ultima-encuesta-del-times-y-siena",
+      "title": "¿Realmente se prevé un triunfo demócrata este martes? Esto dice la última encuesta del ‘Times’ y Siena",
+      "category": "Mundo",
+      "bullets_20s": "• La encuesta muestra las tendencias políticas en Estados Unidos de cara a las elecciones.\n• Los votantes en siete estados clave están influyendo en el resultado esperado.\n• El papel del New York Times y Siena Research Institute es fundamental en este análisis.\n• Se destacan las preferencias de los votantes para el Senado en el contexto actual.\n• Las encuestas son herramientas cruciales para anticipar resultados electorales.",
+      "source_name": "Roger Bolaños Vargas",
+      "source_url": "https://www.nacion.com/el-mundo/realmente-se-preve-un-triunfo-democrata-este/TLCSXXIBX5AVDPBEODOSOMI56A/story/",
+      "publish_date": "2026-11-03T00:27:25.000Z",
+      "teaser": "Lo clave en 20 segundos: Encuesta del Times muestra cómo los demócratas pueden triunfar en el Senado.",
+      "image_url": "https://www.nacion.com/resizer/v2/UJQZZVVGTBGIDN2X5O7LNY3KMQ.jpg?auth=12c5410e5aa7155384dc5dfbe8fa5bb5af20fccdc195574f4aafeb5eb7ed6423&smart=true&width=6779&height=4519",
+      "description": "Encuesta aplicada por New York Times junto al Siena Research Institute en siete estados clave muestra los favoritos de los votantes para el Senado.",
+      "featured": false
+    },
+    {
+      "slug": "el-femicidio-de-monica-chaves-dejo-a-dos-ninos-sin-su-mama-y-a-una-comunidad-perturbada-por-la-violencia-del-crimen",
+      "title": "El femicidio de Mónica Chaves dejó a dos niños sin su mamá y a una comunidad perturbada por la violencia del crimen",
+      "category": "Costa Rica",
+      "bullets_20s": "• El femicidio de Mónica Chaves impactó a su familia, especialmente a sus dos niños pequeños.\n• El juicio ha señalado la creciente violencia contra las mujeres en Costa Rica y la región.\n• Organizaciones sociales están aumentando sus esfuerzos para visibilizar la violencia de género.\n• La comunidad de Cartago clama por justicia y una mayor protección de los derechos de las mujeres.\n• Las autoridades están bajo presión para implementar políticas efectivas contra el femicidio.",
+      "source_name": "Keyna Calderón, Vanessa Loaiza N.",
+      "source_url": "https://www.nacion.com/sucesos/el-femicidio-de-monica-chaves-dejo-a-dos-ninos-sin/MGJDNNVJSBG2VKXCFSASLTDA3Y/story/",
+      "publish_date": "2026-11-03T00:24:19.000Z",
+      "teaser": "Lo clave en 20 segundos: El caso de Mónica Chaves refleja la cruel realidad de la violencia de género en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/VXID64GSERAPHFIZIXTV5GJ3SM.jpg?auth=7d88f668b78fab09e375a5108cc588d7a1c7f69b5fced3bb9094da33214c872f&smart=true&width=4000&height=1800",
+      "description": "El juicio por el femicidio de Mónica Chaves Solano comenzó este lunes en el Tribunal Penal de Cartago. Ataque a puñaladas ocurrió en agosto del 2025",
+      "featured": false
+    },
+    {
+      "slug": "comienza-el-juicio-contra-beisbolistas-de-grandes-ligas-por-presunto-amano-de-lanzamientos",
+      "title": "Comienza el juicio contra beisbolistas de Grandes Ligas por presunto amaño de lanzamientos",
+      "category": "Mundo",
+      "bullets_20s": "• El juicio está centrado en dos lanzadores profesionales del béisbol estadounidense.\n• Se les acusa de manipular el resultado de ciertos lanzamientos en partidos.\n• Las apuestas deportivas han crecido, aumentando la presión sobre los jugadores.\n• Investigaciones previas ya habían señalado irregularidades en ciertos partidos.\n• Este caso podría sentar un precedente en el béisbol profesional y legal.\n• Impacto negativo en la reputación del deporte y de la liga en general.\n• Los apostadores podrían haber ganado dinero de manera no ética.\n• Expertos analizan cómo afecta esto a la percepción del béisbol laboral.\n• El juicio atrae atención global en el ámbito del deporte y la ley.\n• Se espera que múltiples testigos sean llamados a declarar durante el juicio.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/puro-deporte/comienza-el-juicio-contra-beisbolistas-de-grandes/543CY4G7PJGCHFVUBO2VCGFXYI/story/",
+      "publish_date": "2026-11-02T23:52:03.000Z",
+      "teaser": "Lo clave en 20 segundos: juicio por amaño de lanzamientos en Grandes Ligas impacta el béisbol.",
+      "image_url": "https://www.nacion.com/resizer/v2/PGZMV64MLJGTBIEJUZ24FK5WN4.jpg?auth=7e65c1b817c80af41c07b2bf440e2c12cc29587c9ee5c987f93571163976d7b2&smart=true&width=6000&height=4000",
+      "description": "Dos lanzadores de los Guardianes de Cleveland van a juicio por presuntamente amañar lanzamientos que beneficiaban a los apostadores.",
+      "featured": false
+    },
+    {
       "slug": "otra-renuncia-en-el-gobierno-de-laura-fernandez-ahora-se-va-uno-de-los-viceministros-de-hacienda",
       "title": "Otra renuncia en el gobierno de Laura Fernández: ahora se va uno de los viceministros de Hacienda",
       "category": "Costa Rica",
@@ -157,6 +196,19 @@
       "featured": false
     },
     {
+      "slug": "hackathon-modi-kit-ia",
+      "title": "Hackathon MODI Kit + IA",
+      "category": "Costa Rica",
+      "bullets_20s": "• K-Lab invita a participar en un innovador Hackathon sobre inteligencia artificial y tecnología MODI.\n• La actividad se llevará a cabo del 14 al 15 de noviembre de 2026 en el TEC.\n• Los participantes recibirán capacitación y desarrollarán proyectos creativos en equipos.\n• Incluye almuerzo y premios para los mejores proyectos presentados en el evento.\n• Inscripción abierta al público, con cupos limitados para participar.",
+      "source_name": "tkguzman",
+      "source_url": "http://www.tec.ac.cr/hackathon-modi-kit-ia",
+      "publish_date": "2026-11-02T19:56:09.000Z",
+      "teaser": "Lo clave en 20 segundos: Participa en el Hackathon MODI Kit + IA y desarrolla tu creatividad.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/image-79.png",
+      "description": "Hackathon MODI Kit + IA",
+      "featured": false
+    },
+    {
       "slug": "rebeca-grynspan-onu-debe-reformarse-y-asumir-riesgos",
       "title": "Rebeca Grynspan: ONU debe reformarse y asumir riesgos",
       "category": "Mundo",
@@ -173,11 +225,11 @@
       "slug": "quien-era-nathalia-gadelha-filgueiras-la-copiloto-de-20-anos-que-murio-al-estrellarse-el-avion-en-el-que-viajaba-junto-a",
       "title": "Quién era Nathalia Gadelha Filgueiras, la copiloto de 20 años que murió al estrellarse el avión en el que viajaba junto a otras 8 personas en Florida",
       "category": "Mundo",
-      "bullets_20s": "• Nathalia Gadelha Filgueiras tenía 20 años y era copiloto de un avión privado.\n• El trágico accidente ocurrió en el condado de Palm Beach, un lugar de Florida.\n• Nueve personas viajaban en la aeronave cuando ocurrió el siniestro aéreo.\n• Residentes de la zona captaron imágenes del avión cayendo a gran velocidad.\n• Las autoridades están investigando las causas del accidente aéreo trágico.",
+      "bullets_20s": "• Nathalia Gadelha Filgueiras tenía 20 años y era copiloto en un vuelo privado trágico.\n• El accidente ocurrió en el condado de Palm Beach, generando gran conmoción en la comunidad.\n• Residentes locales captaron las imágenes del jet cayendo antes del impacto catastrófico.\n• El avión transportaba a nueve personas en total, incluido el piloto y otros pasajeros.\n• Las autoridades están investigando las causas del accidente aéreo en Florida.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ck4g1xpx1e81o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-02T19:04:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Nathalia Gadelha Filgueiras, joven copiloto, muere en trágico accidente aéreo en Florida.",
+      "teaser": "Lo clave en 20 segundos: joven copiloto fallece en accidente aéreo en Florida.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/2520/live/90a94d80-d6e7-11f1-a741-236ee91c2e25.png",
       "description": "La aeronave privada se estrelló en el condado de Palm Beach, Florida. Imágenes captadas por los residentes mostraban al jet cayendo a gran velocidad antes de estrellarse.",
       "featured": false
@@ -274,6 +326,19 @@
       "featured": false
     },
     {
+      "slug": "asamblea-general-de-estudiantes-aprueba-la-creacion-de-asociaciones-de-interes-y-cambios-en-la-representacion-estudianti",
+      "title": "Asamblea General de Estudiantes aprueba la creación de Asociaciones de Interés y cambios en la representación estudiantil",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Asamblea General de Estudiantes aprobó nuevas reglas para la representación estudiantil en el TEC.\n• Se creó una nueva categoría de asociaciones que no corresponde a carreras escolares o académicas.\n• La redistribución de espacios ante la AIR y AIP busca mejorar la representación estudiantil.\n• Más de 300 estudiantes participaron en la votación para las propuestas discutidas en la asamblea.\n• La propuesta para la reforma del Estatuto Orgánico fue rechazada, generando diferentes opiniones.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/asamblea-general-estudiantes-aprueba-creacion-asociaciones-interes-cambios-representacion",
+      "publish_date": "2026-11-02T16:40:54.000Z",
+      "teaser": "Lo clave en 20 segundos: Aprobadas nuevas asociaciones estudiantiles en el TEC para mejorar la representación.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/age-2026-teccartago_gcastillo-09.JPG",
+      "description": "Asamblea General de Estudiantes aprueba la creación de Asociaciones de Interés y cambios en la representación estudiantil",
+      "featured": false
+    },
+    {
       "slug": "trump-vuelve-a-poner-en-duda-integridad-de-las-elecciones-y-advierte-a-republicanos-de-posible-triunfo-democrata",
       "title": "Trump vuelve a poner en duda integridad de las elecciones y advierte a republicanos de posible triunfo demócrata",
       "category": "Mundo",
@@ -355,11 +420,11 @@
       "slug": "el-emotivo-regreso-a-casa-de-karl-bushby-el-aventurero-britanico-que-recorrio-el-mundo-a-pie-tras-partir-de-chile-hace-2",
       "title": "El emotivo regreso a casa de Karl Bushby, el aventurero británico que recorrió el mundo a pie tras partir de Chile hace 28 años",
       "category": "Mundo",
-      "bullets_20s": "• Karl Bushby ha recorrido el mundo a pie durante casi tres décadas, un logro monumental.\n• Su viaje comenzó en Chile, donde se propuso regresar a su hogar en el Reino Unido.\n• Ha enfrentado numerosos desafíos, incluidos climas extremos y terrenos difíciles en su camino.\n• Karl se convierte en un símbolo de perseverancia y aventura para las generaciones futuras.\n• El regreso a casa es un momento emotivo, lleno de recuerdos y reflexiones sobre su travesía.",
+      "bullets_20s": "• Karl Bushby ha recorrido miles de kilómetros a pie en su aventura internacional.\n• Su travesía comenzó en Chile y terminó en su hogar en Reino Unido.\n• Bushby ha enfrentado innumerables desafíos en su viaje de 28 años.\n• El aventurero ha compartido su experiencia con diversas culturas y países.\n• Su regreso a casa marca el fin de una odisea emocionante y única.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c8wy941ee4rzo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-02T14:54:04.000Z",
-      "teaser": "Lo clave en 20 segundos: Karl Bushby regresa a casa tras 28 años de aventuras alrededor del mundo.",
+      "teaser": "Lo clave en 20 segundos: Un aventurero regresa tras 28 años recorriendo el mundo a pie desde Chile.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/078d/live/8dc45e30-d6b4-11f1-aacc-5b5f23abff4b.jpg",
       "description": "El aventurero británico culmina este lunes su travesía por el mundo. Un viaje que emprendió hace 28 años desde Chile para regresar a su hogar en Reino Unido.",
       "featured": false
@@ -589,11 +654,11 @@
       "slug": "que-es-la-cara-de-ferritina-y-por-que-no-es-tan-sencillo-detectar-la-carencia-de-hierro-con-solo-observar-el-rostro",
       "title": "Qué es la \"cara de ferritina\" y por qué no es tan sencillo detectar la carencia de hierro con solo observar el rostro",
       "category": "Ciencia",
-      "bullets_20s": "• La 'cara de ferritina' se refiere a cambios visibles en el rostro debido a la deficiencia de hierro.\n• Algunos videos en línea aseguran que es posible identificar la falta de hierro observando rostros.\n• Expertos advierten que este método no es confiable para diagnosticar la carencia de hierro.\n• La deficiencia de hierro puede causar síntomas variados, que no siempre son evidentes visualmente.\n• Es fundamental realizar análisis de sangre para confirmar la presencia de anemia ferropénica.",
+      "bullets_20s": "• La cara de ferritina se refiere a signos visibles de deficiencia de hierro.\n• Hay muchos videos en internet que afirman detectar la carencia de hierro fácilmente.\n• Sin embargo, los síntomas pueden ser sutiles y no siempre evidentes en el rostro.\n• La ferritina es una proteína que almacena hierro, esencial para la salud.\n• Es importante realizar análisis de sangre para confirmar deficiencia de hierro.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cq23dyerrdpko?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-02T10:48:50.000Z",
-      "teaser": "Lo clave en 20 segundos: la detección de la deficiencia de hierro es más compleja de lo que parece.",
+      "teaser": "Lo clave en 20 segundos: La detección de carencia de hierro no es tan sencilla como parece.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c425/live/edea3700-cedd-11f1-b441-2b33b063138f.jpg",
       "description": "Videos en los que la gente afirma detectar los síntomas de la deficiencia de hierro han atraído millones de visitas en internet.",
       "featured": false
@@ -875,11 +940,11 @@
       "slug": "agenda-iv-evento-calidad-en-accion",
       "title": "AGENDA IV EVENTO CALIDAD EN ACCIÓN",
       "category": "Costa Rica",
-      "bullets_20s": "• El evento se enfocará en la mejora continua en procesos de calidad.\n• Expertos compartirán sus conocimientos sobre gestión de calidad.\n• Se presentarán casos de éxito en la implementación de calidad.\n• El evento contará con espacios para networking entre profesionales.\n• Los participantes podrán acceder a talleres prácticos durante el evento.",
+      "bullets_20s": "• Este evento busca promover la calidad en diversas áreas de la industria.\n• Expertos compartirán perspectivas sobre calidad y mejora continua.\n• Se abordarán temas relevantes para profesionales en el sector.\n• El evento incluye talleres y conferencias de líderes del área.\n• Se espera una participación activa de estudiantes y profesionales.",
       "source_name": "lsalas",
       "source_url": "http://www.tec.ac.cr/agenda-iv-evento-calidad-accion",
       "publish_date": "2026-11-01T16:12:37.000Z",
-      "teaser": "Lo clave en 20 segundos: Evento sobre calidad y mejora continua en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Evento sobre calidad y mejora en la industria con expertos destacados.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/agenda_iv_evento_calidad_en_accion_carta_horizontal-1.png",
       "description": "AGENDA IV EVENTO CALIDAD EN ACCIÓN",
       "featured": false
@@ -125126,8 +125191,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-02T23:45:27.955Z",
-  "total": 9625,
+  "generated_at": "2026-11-03T00:45:27.241Z",
+  "total": 9630,
   "removed_soccer_news_count": 1519,
   "removed_soccer_news_titles": [
     "Futbolista quedó inconsciente y en cuidados intensivos tras una fuerte entrada en España (video)",
