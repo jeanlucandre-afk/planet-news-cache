@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "tesla-y-spacex-empresas-de-musk-caen-en-wall-street-tras-victoria-democrata",
+      "title": "Tesla y SpaceX, empresas de Musk, caen en Wall Street tras victoria demócrata",
+      "category": "Mundo",
+      "bullets_20s": "• Las empresas de Musk sufrieron pérdidas en sus acciones por el cambio político en Estados Unidos.\n• Victorias demócratas en elecciones influyen en el mercado financiero y la confianza empresarial.\n• Musk ha sido un donante significativo para candidatos republicanos durante este ciclo electoral.\n• Wall Street reacciona a las noticias políticas, afectando la valoración de las empresas involucradas.\n• El entorno político puede impactar las decisiones de inversión y la dirección de las empresas.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/tesla-y-spacex-empresas-de-musk-caen-en-wall/J45RWPSE2ND57F4NF4ZN4NGAY4/story/",
+      "publish_date": "2026-11-04T16:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La victoria demócrata afecta las acciones de Tesla y SpaceX de Musk.",
+      "image_url": "https://www.nacion.com/resizer/v2/HBUY67NJHBFS7O6NF63CIR7PXI.jpg?auth=761ab7ef5d043a9df2b49c0d9e3ff1856413110e98371c6e7d1cb7bc0715cbc7&smart=true&width=5538&height=3692",
+      "description": "Musk donó casi $500 millones a varias candidaturas republicanas, como en el estado de Texas, donde los demócratas lograron victorias históricas.",
+      "featured": false
+    },
+    {
+      "slug": "pueblo-soberano-consolida-viraje-sobre-reeleccion-de-magistrados-con-respaldo-a-roxana-chacon",
+      "title": "Pueblo Soberano consolida viraje sobre reelección de magistrados con respaldo a Roxana Chacón",
+      "category": "Costa Rica",
+      "bullets_20s": "• El apoyo a Roxana Chacón marca un cambio en la postura del Pueblo Soberano.\n• Jorge Olaso también recibió respaldo, a pesar de la petición de Rodrigo Chaves.\n• La reelección de magistrados sigue siendo un tema polémico en el país.\n• Los diputados enfrentan críticas y presiones por sus decisiones en esta materia.\n• Este viraje refleja las dinámicas políticas cambiantes en Costa Rica.",
+      "source_name": "Lucía Astorga",
+      "source_url": "https://www.nacion.com/politica/pueblo-soberano-consolida-viraje-sobre-reeleccion/AKTDRUQLQVHYPAXTZ7TSAUR6HE/story/",
+      "publish_date": "2026-11-04T15:58:20.000Z",
+      "teaser": "Lo clave en 20 segundos: Pueblo Soberano respalda reelección de magistrados, cambio significativo en la política costarricense.",
+      "image_url": "https://www.nacion.com/resizer/v2/J6PHQTBENVAITLER2NYW5A6YWQ.JPG?auth=a20ea07bfdc1724bebd63cf8f77d0c3f6f5833cd0b50547203769223c7f47af2&smart=true&width=3000&height=2000",
+      "description": "La bancada oficialista también apoyó la continuidad de Jorge Olaso, pese a que Rodrigo Chaves había pedido a los diputados no reelegir a ningún magistrado.",
+      "featured": false
+    },
+    {
+      "slug": "chapecoense-desciende-a-segunda-division-a-diez-anos-de-la-tragedia",
+      "title": "Chapecoense desciende a Segunda División a diez años de la tragedia",
+      "category": "Mundo",
+      "bullets_20s": "• Chapecoense enfrenta un nuevo reto tras su descenso a Segunda División.\n• El descenso llega en el décimo aniversario de una tragedia aérea devastadora.\n• El equipo ha tenido dificultades durante la temporada actual.\n• Aficionados del Chapecoense expresan su desilusión por la situación.\n• Se estudian estrategias para mejorar en la próxima temporada.\n• El legado de los sobrevivientes sigue siendo un punto central para el club.\n• El descenso impacta el ánimo de la comunidad futbolística en Brasil.\n• La historia del Chapecoense sigue siendo motivo de reflexión y memoria.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/puro-deporte/chapecoense-desciende-a-segunda-division-a-diez/F3PX2WKYGVGGZKYB726ATHKGJQ/story/",
+      "publish_date": "2026-11-04T15:57:23.000Z",
+      "teaser": "Lo clave en 20 segundos: Chapecoense desciende nuevamente a Segunda División a diez años de la tragedia.",
+      "image_url": "https://www.nacion.com/resizer/v2/O3EENIH6SFFEHHMR4YUEH3DGZE.jpg?auth=715c13bdc7b3f7efab27cec3fa08f817e7d67d98cd5447c150a53bbddc089faa&smart=true&width=5568&height=3712",
+      "description": "Una vez más el Chapecoense pierde la categoría, justo cuando se cumple una década del accidente aéreo.",
+      "featured": false
+    },
+    {
       "slug": "como-saber-si-una-gripe-se-esta-complicando-estas-senales-de-alerta-en-ninos-requieren-atencion",
       "title": "¿Cómo saber si una gripe se está complicando? Estas señales de alerta en niños requieren atención",
       "category": "Ciencia",
@@ -69,11 +108,11 @@
       "slug": "los-graficos-y-mapas-que-muestran-la-magnitud-del-historico-triunfo-de-los-democratas-en-eeuu",
       "title": "Los gráficos y mapas que muestran la magnitud del histórico triunfo de los demócratas en EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• Las elecciones de mitad de mandato de EE.UU. generan un gran interés electoral entre los votantes de todas las edades.\n• Los demócratas lograron un triunfo significativo, evidenciado por numerosos gráficos y mapas presentados en el artículo.\n• La participación electoral se analizó mediante gráficos que desglosan los votos por estado y por demografía.\n• Mapas interactivos permiten explorar cómo votó cada región del país en estas elecciones.\n• La cobertura de estas elecciones en medios internacionales destaca la relevancia del voto popular en la política actual.",
+      "bullets_20s": "• Las elecciones de mitad de mandato en EE.UU. han tenido un impacto significativo en la política actual.\n• Los gráficos reflejan el cambio en las preferencias electorales de los votantes en varias regiones.\n• Este triunfo de los demócratas es considerado uno de los más importantes en los últimos años.\n• Los datos también muestran el nivel de participación ciudadana en estos comicios.\n• El análisis incluye comparativas con elecciones anteriores y cambios demográficos en el electorado.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c63dj78e4z40o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-04T13:21:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Demócratas triunfan en EE.UU. con gráficos y mapas mostrando la votación por estado.",
+      "teaser": "Lo clave en 20 segundos: Gráficos revelan el triunfo demócrata en elecciones de EE.UU. y su impacto.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png",
       "description": "Consulta los mapas y gráficos que muestran cómo votó Estados Unidos en las elecciones de mitad de mandato.",
       "featured": false
@@ -225,11 +264,11 @@
       "slug": "gina-hinojosa-la-democrata-de-ascendencia-mexicana-que-sera-la-primera-latina-en-gobernar-la-conservadora-texas",
       "title": "Gina Hinojosa, la demócrata de ascendencia mexicana que será la primera latina en gobernar la conservadora Texas",
       "category": "Mundo",
-      "bullets_20s": "• Gina Hinojosa se posiciona como una figura importante en la política estadounidense contemporánea.\n• La victoria marca un hito en la historia política de Texas y de la comunidad latina en EE.UU.\n• Hinojosa trae consigo una mirada fresca y progresista en la gestión gubernamental.\n• Su triunfo puede influir en futuras elecciones estatales y nacionales en el país.\n• Los desafíos que enfrentará como gobernadora incluirán cambiar políticas conservadoras establecidas.",
-      "source_name": "BBC Mundo",
+      "bullets_20s": "• Gina Hinojosa se convierte en la primera latina en liderar el estado de Texas en su historia.\n• Derrotó a Greg Abbott, un gobernador prominente en el partido republicano de Estados Unidos.\n• Su victoria representa un avance significativo para la comunidad latina en la política estadounidense.\n• Hinojosa ha abogado por políticas progresistas que benefician a diversos sectores de la sociedad.\n• El resultado electoral refleja un cambio en las dinámicas políticas conservadoras de Texas.",
+      "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/cqn06jxe3zexo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-04T08:29:12.000Z",
-      "teaser": "Lo clave en 20 segundos: Gina Hinojosa marca un hito político en Texas como primera latina gobernadora.",
+      "teaser": "Lo clave en 20 segundos: Gina Hinojosa hará historia como la primera latina en gobernar Texas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/e15b/live/24709d40-d81c-11f1-a9b6-0f4245e849b7.jpg",
       "description": "La legisladora estatal derrotó a Greg Abbott, uno de los gobernadores republicanos más destacados del país y fiel aliado del presidente Donald Trump.",
       "featured": false
@@ -394,11 +433,11 @@
       "slug": "tec-graduara-a-266-nuevos-profesionales",
       "title": "TEC graduará a 266 nuevos profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebra la graduación de 266 nuevos profesionales este semestre.\n• La ceremonia se llevará a cabo en el auditorio del Centro de las Artes en Cartago.\n• Se han programado dos bloques de graduación para acomodar a todos los graduandos.\n• Los graduandos recibirán títulos en bachillerato, licenciatura, maestría y doctorado.\n• El evento reafirma el compromiso del TEC con el desarrollo científico del país.",
+      "bullets_20s": "• El Tecnológico de Costa Rica organizará su ceremonia de graduación durante el segundo semestre de 2026.\n• Un total de 266 personas recibirán sus títulos entre bachillerato, licenciatura, maestría y doctorado.\n• La ceremonia se llevará a cabo en el auditorio del Centro de las Artes en Cartago.\n• Están programados dos bloques de actos solemnes para los graduandos y sus familias.\n• El primer bloque iniciará a las 10:00 a.m. y el segundo a las 2:00 p.m.\n• Este evento reafirma el compromiso del TEC con el desarrollo científico del país.\n• Se entregarán títulos en diversas áreas del conocimiento a especialistas altamente calificados.\n• La ceremonia es una gran celebración del esfuerzo académico de los estudiantes.\n• Invita a la comunidad a ser parte de este significativo evento educativo.\n• El TEC continúa formando profesionales que impulsan el avance de Costa Rica.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-graduara-266-nuevos-profesionales",
       "publish_date": "2026-11-04T04:13:26.000Z",
-      "teaser": "Lo clave en 20 segundos: graduación de 266 profesionales del TEC en Cartago.",
+      "teaser": "Lo clave en 20 segundos: TEC graduará a 266 nuevos profesionales este noviembre.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/graduacion-tec-cartago_24-set-2026_rgarita-5.jpg-convertido-de-webp.png",
       "description": "TEC graduará a 266 nuevos profesionales",
       "featured": false
@@ -667,11 +706,11 @@
       "slug": "mesa-de-dialogo-interuniversitario-sobre-nineces-y-adolescencias-sobrevivientes-de-femicidio",
       "title": "Mesa de diálogo interuniversitario sobre niñeces y adolescencias sobrevivientes de femicidio",
       "category": "Costa Rica",
-      "bullets_20s": "• El CONARE invita a participar en un importante diálogo sobre la niñez y adolescencia en situaciones de riesgo.\n• La actividad se centrará en el impacto del femicidio en jóvenes desde una perspectiva de derechos humanos.\n• Se busca identificar vacíos estructurales y generar recomendaciones para los retos actuales en el país.\n• El evento se llevará a cabo el 25 de noviembre en el Campus Tecnológico Local San José.\n• Es fundamental abordar estos temas para ayudar a las comunidades afectadas por el femicidio.",
+      "bullets_20s": "• El Consejo Nacional de Rectores invita a un diálogo interuniversitario sobre niñez y adolescencia.\n• Se analizará el impacto del femicidio en estas poblaciones desde una perspectiva de derechos humanos.\n• El objetivo es identificar vacíos estructurales que afectan a la niñez y adolescencia en el país.\n• Se generarán recomendaciones para enfrentar desafíos relacionados con el femicidio y sus consecuencias.\n• La actividad se llevará a cabo el 25 de noviembre en San José de 9 a.m. a 1 p.m.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/mesa-dialogo-interuniversitario-nineces-adolescencias-sobrevivientes-femicidio",
       "publish_date": "2026-11-03T19:58:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Diálogo interuniversitario sobre niñez y femicidio el 25 de noviembre.",
+      "teaser": "Lo clave en 20 segundos: Diálogo interuniversitario sobre femicidio y su impacto en niñez y adolescencia.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-03-at-2.30.55-pm.jpeg",
       "description": "Mesa de diálogo interuniversitario sobre niñeces y adolescencias sobrevivientes de femicidio",
       "featured": false
@@ -1473,11 +1512,11 @@
       "slug": "hackathon-modi-kit-ia",
       "title": "Hackathon MODI Kit + IA",
       "category": "Tecnología",
-      "bullets_20s": "• Participantes aprenderán sobre inteligencia artificial y su aplicación en el Hackathon.\n• K-Lab ofrecerá un espacio para desarrollar soluciones creativas con tecnología MODI.\n• El evento se llevará a cabo el 14 y 15 de noviembre de 2026.\n• Equipos de 3 a 4 personas podrán inscribirse para participar en el Hackathon.\n• Se ofrecerá capacitación y presentaciones durante los dos días del evento.",
+      "bullets_20s": "• K-Lab invita a un Hackathon que combina tecnología MODI e inteligencia artificial.\n• Los participantes recibirán capacitación y podrán desarrollar soluciones creativas en equipo.\n• El evento se llevará a cabo del 14 al 15 de noviembre en San Carlos.\n• Equipos de 3 a 4 personas podrán competir por premios atractivos.\n• Las inscripciones están abiertas al público en general con cupos limitados.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/hackathon-modi-kit-ia",
       "publish_date": "2026-11-02T19:56:09.000Z",
-      "teaser": "Lo clave en 20 segundos: participa en un Hackathon sobre inteligencia artificial y tecnología MODI.",
+      "teaser": "Lo clave en 20 segundos: Hackathon de inteligencia artificial y tecnología MODI se acerca.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/image-79.png",
       "description": "Hackathon MODI Kit + IA",
       "featured": false
@@ -1597,19 +1636,6 @@
       "teaser": "Lo clave en 20 segundos: un partido se convierte en pelea, Róger Ajún lo narra.",
       "image_url": "https://www.nacion.com/resizer/v2/HDHPZ2P7NBG4VEZHSBSOBV5YJE.JPG?smart=true&auth=2b01c8a0f8e2206c2dfe463a4ac6f10fee0b89e1c2e17588cd4493f626752ed0&width=1440",
       "description": "Encuentro entre Liberia y Desamparados por Linafa terminó en pelea y requirió intervención policial.",
-      "featured": false
-    },
-    {
-      "slug": "asamblea-general-de-estudiantes-aprueba-la-creacion-de-asociaciones-de-interes-y-cambios-en-la-representacion-estudianti",
-      "title": "Asamblea General de Estudiantes aprueba la creación de Asociaciones de Interés y cambios en la representación estudiantil",
-      "category": "Costa Rica",
-      "bullets_20s": "• La Asamblea General de Estudiantes del TEC aprobó nuevas Asociaciones de Interés en la sesión del 27 de octubre.\n• Más de 300 estudiantes participaron en la votación, mostrando un gran interés por las propuestas presentadas.\n• Las nuevas asociaciones permiten agrupar estudiantes con intereses comunes, separadas de las asociaciones de carrera.\n• Se aprobó también la redistribución de espacios ante la AIR y la AIP para mejorar la representación estudiantil.\n• La propuesta de crear una Comisión Especial para reformar el Estatuto fue rechazada por la asamblea.",
-      "source_name": "m.molina",
-      "source_url": "http://www.tec.ac.cr/asamblea-general-estudiantes-aprueba-creacion-asociaciones-interes-cambios-representacion",
-      "publish_date": "2026-11-02T16:40:54.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudiantes aprueban nuevas asociaciones y cambios en representación en el TEC.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/age-2026-teccartago_gcastillo-09.JPG",
-      "description": "Asamblea General de Estudiantes aprueba la creación de Asociaciones de Interés y cambios en la representación estudiantil.",
       "featured": false
     },
     {
@@ -2039,6 +2065,19 @@
       "teaser": "Lo clave en 20 segundos: El premio mayor de la Lotería Nacional fue cantado anoche con gran expectación.",
       "image_url": "https://www.nacion.com/resizer/v2/UP3RY656RVEPPJO6WF7WBJH5FQ.JPG?smart=true&auth=29c03b22c2b5a7ae595d6d9e8e677fd7588db1a0756e91cce0db155421fbc924&width=1440",
       "description": "El premio mayor del sorteo fue cantado pasadas las 7:50 p.m.",
+      "featured": false
+    },
+    {
+      "slug": "asamblea-general-de-estudiantes-aprueba-la-creacion-de-asociaciones-de-interes-y-cambios-en-la-representacion-estudianti",
+      "title": "Asamblea General de Estudiantes aprueba la creación de Asociaciones de Interés y cambios en la representación estudiantil",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Asamblea General de Estudiantes aprobó nuevas asociaciones que no corresponden a carreras específicas.\n• Estudiantes de diversas sedes participaron en la votación, tanto presencial como virtualmente.\n• Se reduced a 10 el número mínimo de personas para formar una nueva asociación de interés.\n• Propuestas sobre la representación ante las asambleas del TEC fueron aprobadas con alta participación.\n• El Tribunal de Honor no tendrá tres representantes, decisión rechazada por poco margen.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/asamblea-general-estudiantes-aprueba-creacion-asociaciones-interes-cambios-representacion",
+      "publish_date": "2026-11-02T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La Asamblea aprobó nuevas asociaciones estudiantiles y cambios significativos en representación.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/age-2026-teccartago_gcastillo-09.JPG",
+      "description": "Asamblea General de Estudiantes aprueba la creación de Asociaciones de Interés y cambios en la representación estudiantil",
       "featured": false
     },
     {
@@ -126465,8 +126504,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-04T15:45:27.021Z",
-  "total": 9728,
+  "generated_at": "2026-11-04T16:45:26.454Z",
+  "total": 9731,
   "removed_soccer_news_count": 1530,
   "removed_soccer_news_titles": [
     "Inter San Carlos vs. Cartaginés: Solo hay una manera de ver este partido",
