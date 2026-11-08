@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "asesinan-a-balazos-a-adolescente-de-16-anos",
+      "title": "Asesinan a balazos a adolescente de 16 años",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un adolescente fue víctima de un ataque armado en la localidad de Batán de Matina.\n• El hecho ocurrió durante la noche del sábado, generando gran conmoción en la comunidad.\n• Las autoridades locales están investigando las circunstancias del asesinato.\n• Se recomienda a la población mantenerse alerta ante situaciones de violencia.\n• La violencia en la región ha aumentado, preocupando a los residentes de Limón.",
+      "source_name": "Natalia Vargas",
+      "source_url": "https://www.nacion.com/sucesos/asesinan-a-balazos-a-adolescente-de-16-anos-en/PJG6423VQJDQXEJFQYMMXSWUYA/story/",
+      "publish_date": "2026-11-08T15:52:59.000Z",
+      "teaser": "Lo clave en 20 segundos: Un adolescente asesinado en Matina genera preocupación por la violencia.",
+      "image_url": "https://www.nacion.com/resizer/v2/GUJDSVPAAFA7XOGWGUYOM57QX4.jpg?smart=true&auth=8fe87daf945c360dea9e1cb2016c716be274f756239f003d0366ca6059e1d251&width=1440",
+      "description": "Un menor de 16 años fue asesinado la noche del sábado en Batán de Matina, en Limón.",
+      "featured": false
+    },
+    {
+      "slug": "napoles-acaba-con-la-racha-de-la-lazio-en-la-serie-a",
+      "title": "Nápoles acaba con la racha de la Lazio en la Serie A",
+      "category": "Mundo",
+      "bullets_20s": "• El Nápoles logró un importante empate que detiene la racha ganadora de la Lazio en la Serie A.\n• La Lazio mantiene su posición de líder a pesar del empate en su reciente enfrentamiento.\n• Este partido es crucial para las aspiraciones de ambos equipos en la liga italiana.\n• El Nápoles busca consolidar su posición en el torneo y escalar posiciones en la tabla.\n• A pesar del empate, la Lazio sigue siendo un contendiente fuerte en la Serie A.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/puro-deporte/napoles-acaba-con-la-racha-de-la-lazio-en-la-serie/2ITZKQTHRBFDXD4CVJLKM5VZ2M/story/",
+      "publish_date": "2026-11-08T15:47:25.000Z",
+      "teaser": "Lo clave en 20 segundos: Nápoles frena a la Lazio en la Serie A, aunque los romanos mantienen el liderato.",
+      "image_url": "https://www.nacion.com/resizer/v2/SUE2ROGTERDEFI4KQWZ37TMEJI.jpg?smart=true&auth=fb50e8140519a268fdea77fe2022a3edaf9afb35b41fa492cefc34ad8d0b4023&width=1440",
+      "description": "La Lazio no pudo pasar del empate esta vez, aunque seguirá como líder de la Serie A de Italia.",
+      "featured": false
+    },
+    {
       "slug": "bomberos-restringio-la-libre-competencia-amparandose-en-la-presidenta-laura-fernandez-pero-ahora-niega-que-ella-hubiese-",
       "title": "Bomberos restringió la libre competencia amparándose en la presidenta Laura Fernández, pero ahora niega que ella hubiese dado la instrucción",
       "category": "Costa Rica",
@@ -224,12 +250,12 @@
     {
       "slug": "las-aguilas-gigantes-que-cazaban-ninos-y-moldearon-la-evolucion-humana",
       "title": "Las águilas gigantes que cazaban niños y moldearon la evolución humana",
-      "category": "Mundo",
-      "bullets_20s": "• Las águilas gigantes dominaron los cielos tras la extinción de los dinosaurios, cazando diversas presas.\n• Su tamaño y habilidades hicieron de estas aves depredadores temidos en su ecosistema.\n• Los humanos prehistóricos también eran parte de su vasta dieta según investigaciones recientes.\n• El impacto del asteroide provocó cambios drásticos en la fauna de la época, favoreciendo estas aves.\n• Estos hallazgos destacan la interconexión entre la avifauna y la evolución de los humanos.",
+      "category": "Ciencia",
+      "bullets_20s": "• Las águilas gigantes surgieron tras la extinción de los dinosaurios hace millones de años.\n• Los estudios muestran que eran superdepredadores en su ecosistema, incluso caza de humanos.\n• Estos animales contribuyeron significativamente a la evolución de diversas especies, incluyendo el hombre.\n• Su impacto en la cadena alimentaria fue considerable y afectó a varias especies contemporáneas.\n• La investigación sobre estas aves ayuda a comprender mejor la dinámica de la evolución animal.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cm62yxpxv5kqo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-08T10:56:09.000Z",
-      "teaser": "Lo clave en 20 segundos: las águilas gigantes fueron superdepredadores que impactaron la evolución humana.",
+      "teaser": "Lo clave en 20 segundos: Águilas gigantes dominaron el ecosistema post-dinosaurios y moldearon la evolución humana.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c1f0/live/5eb97170-d51f-11f1-a701-fddedf244c16.jpg",
       "description": "Tras el impacto del asteroide que acabó con los dinosaurios, las aves gigantes se convirtieron en superdepredadores durante decenas de millones de años, y los seres humanos figuraban entre sus presas.",
       "featured": false
@@ -238,13 +264,13 @@
       "slug": "que-se-sabe-del-ataque-que-dejo-al-menos-6-muertos-y-decenas-de-heridos-en-polonia",
       "title": "Qué se sabe del ataque que dejó al menos 6 muertos y decenas de heridos en Polonia",
       "category": "Mundo",
-      "bullets_20s": "• Un ataque reciente en Polonia ha dejado un saldo trágico de al menos seis víctimas fatales.\n• Decenas de personas resultaron heridas, generando gran preocupación en la población local.\n• Las autoridades polacas han comenzado investigaciones profundas para esclarecer los hechos.\n• La naturaleza del ataque aún se está determinando, con diferentes especulaciones en la prensa.\n• Lideres políticos han expresado sus condolencias a las familias afectadas por esta tragedia.",
+      "bullets_20s": "• Un ataque en Polonia ha dejado múltiples víctimas fatales y heridos en un trágico incidente reciente.\n• Las autoridades están llevando a cabo investigaciones exhaustivas para determinar las causas del ataque.\n• Se esperan más detalles sobre el ataque a medida que avancen las investigaciones oficiales.\n• El suceso ha conmocionado a la nación, que busca respuestas y medidas de seguridad adecuadas.\n• La comunidad internacional expresa su preocupación y solidaridad con Polonia en este momento difícil.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6d091e7jzz7o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-08T10:30:14.000Z",
-      "teaser": "Lo clave en 20 segundos: un ataque en Polonia dejó muertos y heridos, generando investigación y preocupación.",
+      "teaser": "Lo clave en 20 segundos: Un ataque en Polonia deja 6 muertos y múltiples heridos; se investigan las causas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9483/live/7f05d160-dacb-11f1-bda8-29fb69dbc026.jpg",
-      "description": "Las autoridades han iniciado las investigaciones para esclarecer los motivos de este 'trágico suceso'.",
+      "description": "Las autoridades han iniciado las investigaciones para esclarecer los motivos de este \"trágico suceso\".",
       "featured": false
     },
     {
@@ -303,7 +329,7 @@
       "slug": "ana-dono-sus-organos-al-morir-en-espana-por-eutanasia-ahora-un-grupo-de-abogados-cristianos-quiere-prohibir-que-vuelva-a",
       "title": "Ana donó sus órganos al morir en España por eutanasia: ahora un grupo de abogados cristianos quiere prohibir que vuelva a suceder",
       "category": "Mundo",
-      "bullets_20s": "• La donación de órganos tras eutanasia genera polémica en diversos países, incluyendo España.\n• Grupos cristianos abogan por restricciones a la donación de órganos en casos de eutanasia.\n• El debate se centra en la ética y los derechos de los pacientes que eligen esta opción.\n• Apoyar la donación de órganos podría salvar vidas según defensores de la causa.\n• La eutanasia sigue siendo un tema controversial en el contexto legal y moral global.",
+      "bullets_20s": "• La eutanasia es un tema polémico que genera debates éticos en diversas sociedades contemporáneas.\n• La donación de órganos tras la eutanasia plantea dilemas éticos para grupos religiosos y profesionales de la salud.\n• En España, recientes casos han avivado discusiones sobre derechos y decisiones de los pacientes.\n• Abogados cristianos están intentando restringir la donación de órganos en casos de eutanasia.\n• El debate no solo se limita a España, sino que también resuena en otras naciones con leyes similares.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqe9eegxvny2o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-08T03:28:41.000Z",
@@ -1408,11 +1434,11 @@
       "slug": "comunidad-institucional-conocio-las-propuestas-de-los-cuatro-candidatos-a-la-direccion-del-campus-san-carlos",
       "title": "Comunidad institucional conoció las propuestas de los cuatro candidatos a la Dirección del Campus San Carlos",
       "category": "Costa Rica",
-      "bullets_20s": "• La actividad se llamó 'Expresión del Pensamiento', promoviendo el diálogo y la democracia.\n• Los candidatos presentaron sus visiones y responder preguntas de la comunidad.\n• El evento se llevó a cabo en el Auditorio de la Unidad de Transferencia Tecnológica.\n• Las elecciones para la nueva dirección del Campus son el 12 de noviembre de 2026.\n• Cuatro candidatos compiten por la dirección, cada uno con enfoques distintos.",
+      "bullets_20s": "• La actividad promovió el diálogo y la participación democrática de la comunidad institucional.\n• Los candidatos compartieron sus propuestas y visiones de trabajo ante la comunidad.\n• Se desarrollaron bloques de preguntas y respuestas entre los candidatos y asistentes.\n• Los candidatos abordaron temas sobre la gestión académica y administrativa del campus.\n• La jornada permitió conocer las prioridades de cada candidato para el Campus San Carlos.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/comunidad-institucional-conocio-propuestas-cuatro-candidatos-direccion-campus-san-carlos",
       "publish_date": "2026-11-06T16:54:07.000Z",
-      "teaser": "Lo clave en 20 segundos: Comunidad conoce propuestas de candidatos al Campus San Carlos en un diálogo democrático.",
+      "teaser": "Lo clave en 20 segundos: Comunidad institucional discute propuestas de candidatos a la Dirección del Campus San Carlos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_8161_0.jpg",
       "description": "Comunidad institucional conoció las propuestas de los cuatro candidatos a la Dirección del Campus San Carlos",
       "featured": false
@@ -1886,6 +1912,19 @@
       "featured": false
     },
     {
+      "slug": "del-tec-a-el-salvador-el-voluntariado-universitario-de-la-region-abre-una-nueva-etapa",
+      "title": "Del TEC a El Salvador: el voluntariado universitario de la región abre una nueva etapa",
+      "category": "Costa Rica",
+      "bullets_20s": "• Más de 180 personas participaron en el VI Encuentro Centroamericano de Voluntariado Universitario 2026 en Cartago.\n• La Universidad de El Salvador asume la coordinación regional de la Red UNIVOCES en el evento.\n• Se desarrollaron foros y talleres sobre voluntariado, desarrollo sostenible y proyectos sociales.\n• Las delegaciones incluyeron estudiantes de cinco países de Centroamérica y el Caribe.\n• El lema del encuentro enfatizó la integración regional y el servicio a comunidades vulnerables.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/tec-salvador-voluntariado-universitario-region-abre-nueva-etapa",
+      "publish_date": "2026-11-05T21:24:07.000Z",
+      "teaser": "Lo clave en 20 segundos: el voluntariado universitario avanza hacia una nueva etapa en Centroamérica.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dsc05058.JPG",
+      "description": "Del TEC a El Salvador: el voluntariado universitario de la región abre una nueva etapa",
+      "featured": false
+    },
+    {
       "slug": "asamblea-juramenta-a-patricia-solano-para-su-segundo-periodo-de-ocho-anos-en-sala-tercera-ppso-le-niega-el-saludo",
       "title": "Asamblea juramenta a Patricia Solano para su segundo periodo de ocho años en Sala Tercera: PPSO le niega el saludo",
       "category": "Costa Rica",
@@ -1935,19 +1974,6 @@
       "teaser": "Lo clave en 20 segundos: Protestas masivas en Francia piden un salario digno ante la creciente inflación.",
       "image_url": "https://www.nacion.com/resizer/v2/SMDOYNT4XNHZXPOP6Z2VYG5G7Y.jpg?auth=8260abaa3b29d55e378a5608e283254b32a227fa210dfecb45079cd55844fdb3&smart=true&width=1200&height=800",
       "description": "Huelga en Francia: multitudinarias marchas y paros paralizan París y sacuden al gobierno de Macron por el alza de precios y reclamos salariales sin resolver.",
-      "featured": false
-    },
-    {
-      "slug": "convocatoria-galerias-tec-2027-arte-consciente-recibe-propuestas-hasta-el-15-de-noviembre",
-      "title": "Convocatoria Galerías TEC 2027: Arte consciente recibe propuestas hasta el 15 de noviembre",
-      "category": "Ciencia",
-      "bullets_20s": "• El Programa de Galerías de Artes Visuales del TEC abre convocatoria para exposiciones.\n• Artistas nacionales y extranjeros residentes pueden participar en la selección de exposiciones.\n• Las propuestas deben girar en torno a la reflexión sobre la vida contemporánea.\n• Se seleccionarán seis exposiciones que formarán parte de la programación del 2027.\n• Las exposiciones incluyen actividades como aperturas y talleres con el público.",
-      "source_name": "sepacheco",
-      "source_url": "http://www.tec.ac.cr/convocatoria-galerias-tec-2027-arte-consciente-recibe-propuestas-15-noviembre",
-      "publish_date": "2026-11-05T20:15:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Convocatoria abierta para propuestas artísticas en Costa Rica.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-05-at-7.46.56-pm-5.jpeg",
-      "description": "Convocatoria Galerías TEC 2027: Arte consciente recibe propuestas hasta el 15 de noviembre",
       "featured": false
     },
     {
@@ -2071,11 +2097,11 @@
       "slug": "50-anos-de-volar-caite-celebra-cinco-decadas-de-danza-en-el-tec",
       "title": "50 años de volar caite celebra cinco décadas de danza en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El espectáculo reúne a cinco agrupaciones artísticas con más de 55 participantes en escena.\n• Las funciones ofrecerán entrada gratuita y se realizarán en noviembre de 2026.\n• La obra entrelaza las manifestaciones culturales de las siete provincias de Costa Rica.\n• Con esta obra se destaca la importancia del aprendizaje y la convivencia en danza.\n• Tierra y Cosecha ha sido un pilar en la cultura universitaria desde su creación en 1976.\n• Se busca fortalecer las habilidades y el pensamiento crítico de los estudiantes.\n• El evento es un homenaje a la trayectoria de la danza en el Tecnológico.\n• La Escuela de Cultura y Deporte promueve la identidad cultural y el patrimonio.",
+      "bullets_20s": "• El espectáculo reunirá a cinco agrupaciones artísticas con alrededor de 55 personas en escena.\n• Las funciones serán los días 7, 20 y 21 de noviembre, con entrada gratuita para el público.\n• El evento es un homenaje al paso y aporte de estudiantes en diversas agrupaciones artísticas.\n• La obra simboliza un recorrido por las siete provincias de Costa Rica y sus culturas.\n• La compañía ha estado formada por estudiantes de varias disciplinas de ingeniería y artes.\n• Se busca fortalecer habilidades de vida y pensamiento crítico en los estudiantes participantes.\n• Las actividades se llevarán a cabo en el Teatro de la Danza y el Centro de las Artes.\n• El espectáculo también celebra el aniversario de la Compañía Folclórica Tierra y Cosecha.\n• Durante su historia, la compañía ha promovido la preservación y difusión de danzas costarricenses.\n• El proyecto visualizará el legado de agrupaciones de danza en el Tecnológico de Costa Rica.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/50-anos-volar-caite-celebra-cinco-decadas-danza-tec",
       "publish_date": "2026-11-05T17:21:38.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebran 50 años de danza en el TEC con un gran espectáculo gratuito.",
+      "teaser": "Lo clave en 20 segundos: Celebramos 50 años de danza en el TEC, un recorrido cultural excepcional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche_temporada26_cda_mesa-de-trabajo-1.jpg.jpeg",
       "description": "50 años de volar caite celebra cinco décadas de danza en el TEC",
       "featured": false
@@ -2549,16 +2575,16 @@
       "featured": false
     },
     {
-      "slug": "del-tec-a-el-salvador-el-voluntariado-universitario-de-la-region-abre-una-nueva-etapa",
-      "title": "Del TEC a El Salvador: el voluntariado universitario de la región abre una nueva etapa",
+      "slug": "convocatoria-galerias-tec-2027-arte-consciente-recibe-propuestas-hasta-el-15-de-noviembre",
+      "title": "Convocatoria Galerías TEC 2027: Arte consciente recibe propuestas hasta el 15 de noviembre",
       "category": "Costa Rica",
-      "bullets_20s": "• Más de 180 personas de cinco países se reunieron en el TEC para discutir el voluntariado universitario en la región.\n• La Universidad de El Salvador asumió la coordinación de la Red UNIVOCES al cierre del evento en Cartago.\n• El VI Encuentro Centroamericano y Caribeño de Voluntariado Estudiantil promovió la integración y el desarrollo sostenible.\n• Las universidades costarricenses presentaron sus acciones en áreas de lectoescritura para fortalecer la educación en la región.\n• Los participantes realizaron jornadas de voluntariado ambiental en parques de Cartago, fomentando la conciencia ecológica.",
+      "bullets_20s": "• Artistas pueden postular exposiciones hasta el 15 de noviembre de 2026 a las 11:59 p. m.\n• El Programa de Galerías del TEC busca reflexiones sobre la vida contemporánea en el arte.\n• Las propuestas pueden ser individuales o grupales, con requisitos específicos para su presentación.\n• Se seleccionarán seis exposiciones para el calendario oficial de 2027 en varias galerías.\n• La postulación requiere un formulario digital y un único PDF con información relevante.",
       "source_name": "sepacheco",
-      "source_url": "http://www.tec.ac.cr/tec-salvador-voluntariado-universitario-region-abre-nueva-etapa",
+      "source_url": "http://www.tec.ac.cr/convocatoria-galerias-tec-2027-arte-consciente-recibe-propuestas-15-noviembre",
       "publish_date": "2026-11-05T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: se fortalece el voluntariado universitario en Centroamérica y El Salvador toma la coordinación.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dsc05058.JPG",
-      "description": "Del TEC a El Salvador: el voluntariado universitario de la región abre una nueva etapa",
+      "teaser": "Lo clave en 20 segundos: Convocatoria abierta para artistas hasta el 15 de noviembre, propuestas de arte consciente.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-05-at-7.46.56-pm-5.jpeg",
+      "description": "Convocatoria Galerías TEC 2027: Arte consciente recibe propuestas hasta el 15 de noviembre",
       "featured": false
     },
     {
@@ -129286,10 +129312,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-08T15:45:27.248Z",
-  "total": 9945,
-  "removed_soccer_news_count": 1557,
+  "generated_at": "2026-11-08T16:45:26.534Z",
+  "total": 9947,
+  "removed_soccer_news_count": 1558,
   "removed_soccer_news_titles": [
+    "Así sale Cartaginés para buscar el liderato",
     "Keylor Navas y Pumas complican sus aspiraciones tras empate ante el América",
     "San Carlos rescató el empate ante Pérez Zeledón sobre la hora, pero se complica en la lucha por clasificar",
     "Boca Juniors gana la Tabla Anual de Argentina, su primer título en tres años",
@@ -129338,7 +129365,6 @@
     "Arsenal gana en Liverpool y es el nuevo líder de la Premier League",
     "Cartaginés no se detiene: clasificó a la final centroamericana y ahora golea a San Carlos",
     "Patrick Sequeira muestra su jerarquía, Jeyland Mitchell disfruta una goleada y Jewison Bennette sigue mejorando",
-    "El Mundial que sí podemos ganar",
-    "Patricia Vargas, presidenta del Poder Judicial, ve lecciones en la Segunda Guerra Mundial: ‘Me parece impresionante cómo podemos llegar los seres humanos a destruirnos a nosotros mismos’"
+    "El Mundial que sí podemos ganar"
   ]
 }
