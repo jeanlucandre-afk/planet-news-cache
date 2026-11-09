@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "cortes-de-luz-de-la-cnfl-afectaran-san-jose-y-cartago-este-martes-10-de-noviembre-conozca-los-lugares-con-suspensiones",
+      "title": "Cortes de luz de la CNFL afectarán San José y Cartago este martes 10 de noviembre: conozca los lugares con suspensiones",
+      "category": "Costa Rica",
+      "bullets_20s": "• La CNFL implementará cortes de luz en tres distritos de San José y Cartago.\n• Los cortes de electricidad están programados para el martes 10 de noviembre.\n• Habitantes de estas zonas deben estar atentos a los horarios específicos.\n• La empresa CNFL busca realizar mejoras en su infraestructura eléctrica.\n• Se recomienda a la población planificar actividades sin electricidad.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-de-la-cnfl-afectaran-san-jose-y/ZNAVCWVQCRAIVKJQAPMUZQY5TQ/story/",
+      "publish_date": "2026-11-09T12:15:58.000Z",
+      "teaser": "Lo clave en 20 segundos: cortes de luz anunciados por la CNFL en San José y Cartago.",
+      "image_url": "https://www.nacion.com/resizer/v2/4M656VABYNF7TKM3P22IAP2PB4.JPG?auth=868650ac0198d2d7d45b9d7d09e217523bea59c15a91167bb0913a45dc31d65d&smart=true&width=4000&height=2667",
+      "description": "La CNFL anunció cortes de electricidad para este martes 10 de noviembre en tres distritos de San José y Cartago. Conozca las zonas y horarios previstos.",
+      "featured": false
+    },
+    {
+      "slug": "no-se-puede-proteger-la-naturaleza-con-una-mano-y-destruirla-con-la-otra",
+      "title": "No se puede proteger la naturaleza con una mano y destruirla con la otra",
+      "category": "Ciencia",
+      "bullets_20s": "• Los esfuerzos de conservación son insuficientes si no se cambian las políticas económicas actuales.\n• Es necesario integrar a múltiples sectores en la protección del medio ambiente.\n• La biodiversidad se encuentra en riesgo debido a decisiones gubernamentales contradictorias.\n• Los incentivos económicos deben alinearse con prácticas sostenibles para la naturaleza.\n• La colaboración entre diferentes ministerios es clave para el éxito de la conservación.",
+      "source_name": "Lenin Corrales Chaves",
+      "source_url": "https://www.nacion.com/opinion/columnistas/no-se-puede-proteger-la-naturaleza-con-una-mano-y/RXISEYO2LRDKNOKENTV3BVUQFA/story/",
+      "publish_date": "2026-11-09T12:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La protección de la naturaleza necesita un enfoque integral y multifacético.",
+      "image_url": "",
+      "description": "El balance mundial sobre biodiversidad advierte de que los esfuerzos de conservación pierden fuerza mientras los gobiernos mantienen incentivos y decisiones económicas que degradan los ecosistemas. Proteger la naturaleza exige comprometer también a Hacienda, Agricultura, Economía y Obras Públicas.",
+      "featured": false
+    },
+    {
+      "slug": "que-es-el-cottolengo-don-orione-y-por-que-es-tan-simbolica-la-visita-del-papa-leon-xiv-durante-su-viaje-a-argentina",
+      "title": "Qué es el Cottolengo Don Orione y por qué es tan simbólica la visita del papa León XIV durante su viaje a Argentina",
+      "category": "Mundo",
+      "bullets_20s": "• El Cottolengo Don Orione es una institución clave en la asistencia social en Argentina.\n• La visita del papa León XIV tiene un significado profundo para la comunidad local.\n• Históricamente, centros como el Cottolengo han brindado apoyo a personas vulnerables.\n• Los recortes en el presupuesto por parte del gobierno afectan la operación del Cottolengo.\n• Organizaciones similares enfrentan desafíos por las políticas actuales de gobierno.\n• La visita papal podría influir en la percepción pública sobre la asistencia social.\n• El papel del Cottolengo en la sociedad es vital para muchos en necesidad.\n• Hay un llamado a la atención sobre la importancia de la asistencia social.\n• La historia del Cottolengo refleja cambios en el sistema de salud y bienestar.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/ck240e0n9z8yo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-11-09T11:30:01.000Z",
+      "teaser": "Lo clave en 20 segundos: El Cottolengo Don Orione y su relevancia tras la visita papal en tiempos complicados.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9d87/live/9e7c6c80-dc1e-11f1-8244-051a160372a2.jpg",
+      "description": "La histórica institución asistencial figura entre las entidades que se han visto afectadas por los recortes aplicados por el gobierno del libertario Javier Milei en los últimos años.",
+      "featured": false
+    },
+    {
       "slug": "dos-empresas-toman-acciones-judiciales-contra-incofer-por-supuesto-favorecimiento-en-la-asignacion-de-los-espacios-publi",
       "title": "Dos empresas toman acciones judiciales contra Incofer por supuesto favorecimiento en la asignación de los espacios publicitarios del tren",
       "category": "Costa Rica",
@@ -14,6 +53,19 @@
       "featured": false
     },
     {
+      "slug": "como-el-extraordinario-crecimiento-de-la-escandalosamente-barata-energia-solar-ha-desafiado-todas-las-proyecciones",
+      "title": "Cómo el extraordinario crecimiento de la 'escandalosamente barata' energía solar ha desafiado todas las proyecciones",
+      "category": "Mundo",
+      "bullets_20s": "• La energía solar ha superado expectativas en múltiples mercados globales en los últimos años.\n• Los costos de instalación han disminuido, haciendo la energía solar más accesible.\n• Este crecimiento podría transformar el panorama energético de varios países.\n• Diversas políticas gubernamentales han impulsado la adopción de esta energía renovable.\n• Las proyecciones iniciales sobre energía solar fueron ampliamente superadas por la realidad.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cr4g1ee27w6po?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-11-09T11:10:31.000Z",
+      "teaser": "Lo clave en 20 segundos: La energía solar se vuelve más económica y desafía proyecciones globales.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/89f9/live/18877e60-d1fd-11f1-93e1-3b657b665bcf.jpg",
+      "description": "La energía solar, debido a sus costos bajos, se ha convertido en una principales fuentes de energía en varios países del mundo.",
+      "featured": false
+    },
+    {
       "slug": "editorial-laura-fernandez-y-el-rumbo-perdido-de-la-diplomacia-costarricense",
       "title": "Editorial: Laura Fernández y el rumbo perdido de la diplomacia costarricense",
       "category": "Costa Rica",
@@ -24,6 +76,19 @@
       "teaser": "Lo clave en 20 segundos: La diplomacia costarricense sufre por decisiones erráticas y contradicciones en su política exterior.",
       "image_url": "https://www.nacion.com/resizer/v2/A5YOWOCOI5E2NCVDZ6DUQ7M7IA.jpg?auth=3155785362248751e70f63a018112bc340aa06e117bf291a2f0d08d286129a2a&smart=true&width=1400&height=930",
       "description": "Declaraciones desafortunadas, posiciones internacionales contradictorias y destituciones intempestivas dibujan una política exterior que parece responder a los impulsos y erráticas decisiones de la presidenta.",
+      "featured": false
+    },
+    {
+      "slug": "te-harias-una-prueba-para-saber-si-una-enfermedad-acortara-tu-vida-yo-me-la-hice-y-eso-me-cambio-por-completo",
+      "title": "¿Te harías una prueba para saber si una enfermedad acortará tu vida? Yo me la hice, y eso me cambió por completo",
+      "category": "Mundo",
+      "bullets_20s": "• La decisión de hacerse una prueba genética puede ser muy compleja y personal en la vida de cualquier persona.\n• Afrontar el riesgo de heredar una enfermedad puede provocar una intensa ansiedad en los individuos afectados.\n• Los avances científicos y tecnológicos han permitido realizar pruebas más precisas para enfermedades hereditarias.\n• Es importante considerar las implicaciones emocionales y psicológicas antes de realizar una prueba de este tipo.\n• La historia de Laura Sides nos invita a reflexionar acerca de la salud y las decisiones médicas en familia.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cqd0988j9vngo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-11-09T10:59:37.000Z",
+      "teaser": "Lo clave en 20 segundos: ¿Vale la pena saber si heredarás una enfermedad que puede acortar tu vida?",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/41ae/live/d5b25700-d903-11f1-9c68-d767468fa269.jpg",
+      "description": "Laura Sides se enfrentó al dilema de averiguar si heredaría la enfermedad de su padre.",
       "featured": false
     },
     {
@@ -82,11 +147,11 @@
       "slug": "las-imagenes-satelitales-que-muestran-importantes-obras-de-construccion-cerca-de-las-bases-de-misiles-de-iran",
       "title": "Las imágenes satelitales que muestran importantes obras de construcción cerca de las bases de misiles de Irán",
       "category": "Mundo",
-      "bullets_20s": "• Las imágenes satelitales revelan excavaciones y construcciones cerca de bases importantes en Irán.\n• Expertos analizan cómo estas obras pueden afectar la política de seguridad en la región.\n• La tecnología satelital permite monitorear avances en infraestructuras militares y estratégicas.\n• Irán continúa desarrollando sus instalaciones, creando preocupación internacional sobre su capacidad armamentista.\n• Estas construcciones podrían influir en las negociaciones nucleares y la estabilidad en Oriente Medio.",
+      "bullets_20s": "• Las imágenes satelitales muestran actividades inusuales cerca de bases de misiles en Irán.\n• Expertos sugieren que estas construcciones pueden estar relacionadas con la militarización del área.\n• Las excavaciones indican un posible incremento en la capacidad de defensa de Irán.\n• Las imágenes fueron capturadas en noviembre y analizadas por especialistas internacionales.\n• La comunidad internacional sigue de cerca estos desarrollos en la región.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ck20ww726y14o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-09T04:11:41.000Z",
-      "teaser": "Lo clave en 20 segundos: imágenes satelitales revelan construcciones cerca de bases de misiles en Irán.",
+      "teaser": "Lo clave en 20 segundos: imágenes satelitales revelan obras cerca de bases de misiles en Irán.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/5589/live/461d3e00-d879-11f1-b441-2b33b063138f.jpg",
       "description": "Las imágenes satelitales tomadas en noviembre sugieren indicios de excavaciones y nuevas construcciones.",
       "featured": false
@@ -237,12 +302,12 @@
     {
       "slug": "nvidia-abre-una-investigacion-sobre-la-relacion-de-su-director-ejecutivo-con-una-presunta-espia-china",
       "title": "Nvidia abre una investigación sobre la relación de su director ejecutivo con una presunta espía china",
-      "category": "Mundo",
-      "bullets_20s": "• Nvidia, empresa tecnológica de renombre, ha iniciado una investigación sobre su CEO.\n• Jensen Huang ha hecho declaraciones sorprendentes sobre su vida personal y laboral.\n• La investigación se centra en la relación con una mujer vinculada a supuestas actividades de espionaje.\n• Huang se comprometió a colaborar plenamente con las autoridades pertinentes en este asunto.\n• La situación ha levantado preocupaciones sobre la seguridad en la industria tecnológica.\n• Analistas observan el impacto potencial en la reputación de Nvidia tras este escándalo.\n• Las implicaciones para el sector tecnológico en relación con espionaje y seguridad son significativas.\n• La comunidad internacional sigue atentamente el desenlace de esta investigación.\n• Los antecedentes del CEO y su papel en Nvidia son de gran interés para el público.\n• Este caso resalta la necesidad de transparencia en las relaciones laborales en tecnología.",
+      "category": "Tecnología",
+      "bullets_20s": "• Nvidia se encuentra en el centro de una controversia tras la investigación reciente sobre su CEO.\n• El director ejecutivo de Nvidia, Jensen Huang, admitió una infidelidad en su vida personal.\n• La investigación también involucra sospechas sobre una supuesta espía vinculada a China.\n• Huang aseguró que colaborará plenamente con las autoridades durante el proceso de investigación.\n• Este escándalo ha generado debate sobre la privacidad en la vida de los ejecutivos tecnológicos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ck20wv99nd81o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-08T22:20:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Nvidia investiga a su CEO por relación con presunta espía china.",
+      "teaser": "Lo clave en 20 segundos: Nvidia investiga a su CEO por presunta relación con una espía china.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
       "description": "Jensen Huang admitió haber sido 'infiel' a su esposa y afirmó que cooperará con la investigación de seguridad.",
       "featured": false
@@ -1080,19 +1145,6 @@
       "featured": false
     },
     {
-      "slug": "cortes-de-luz-de-la-cnfl-afectaran-san-jose-y-cartago-este-martes-10-de-noviembre-conozca-los-lugares-con-suspensiones",
-      "title": "Cortes de luz de la CNFL afectarán San José y Cartago este martes 10 de noviembre: conozca los lugares con suspensiones",
-      "category": "Costa Rica",
-      "bullets_20s": "• Cortes programados por la CNFL afectarán específicamente ciertos distritos de San José.\n• Los cortes fueron anunciados con anticipación para mantener a la población informada.\n• Las zonas afectadas tendrán cortes en horarios establecidos para actividad de mantenimiento.\n• Es importante que los usuarios tomen precauciones durante las horas sin suministro eléctrico.\n• La información sobre lugares y horarios se puede consultar en el sitio oficial de la CNFL.",
-      "source_name": "Marianela Arias Vilchez",
-      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-de-la-cnfl-afectaran-san-jose-y/ZNAVCWVQCRAIVKJQAPMUZQY5TQ/story/",
-      "publish_date": "2026-11-07T14:09:00.000Z",
-      "teaser": "Lo clave en 20 segundos: cortes de luz programados afectarán zonas específicas de San José y Cartago.",
-      "image_url": "https://www.nacion.com/resizer/v2/4M656VABYNF7TKM3P22IAP2PB4.JPG?auth=868650ac0198d2d7d45b9d7d09e217523bea59c15a91167bb0913a45dc31d65d&smart=true&width=4000&height=2667",
-      "description": "La CNFL anunció cortes de electricidad para este martes 10 de noviembre en tres distritos de San José y Cartago. Conozca las zonas y horarios previstos.",
-      "featured": false
-    },
-    {
       "slug": "el-expresidente-de-paraguay-santiago-pena-pasa-la-noche-bajo-arresto-en-un-cuartel-militar-en-medio-de-protestas-en-asun",
       "title": "El expresidente de Paraguay, Santiago Peña, pasa la noche bajo arresto en un cuartel militar en medio de protestas en Asunción",
       "category": "Mundo",
@@ -1863,11 +1915,11 @@
       "slug": "comunidad-institucional-conocio-las-propuestas-de-los-cuatro-candidatos-a-la-direccion-del-campus-san-carlos",
       "title": "Comunidad institucional conoció las propuestas de los cuatro candidatos a la Dirección del Campus San Carlos",
       "category": "Costa Rica",
-      "bullets_20s": "• El evento 'Expresión del Pensamiento' promovió el diálogo entre la comunidad y los candidatos a la dirección.\n• Los aspirantes presentaron sus propuestas y respondieron preguntas de la comunidad institucional en el TEC.\n• Esta actividad tuvo como objetivo fomentar la participación democrática en las elecciones del TEC.\n• El Campus San Carlos elegirá su nuevo director el próximo 12 de noviembre de 2026.\n• Las propuestas abarcan desde el fortalecimiento de la gestión académica hasta la vinculación con la región.",
+      "bullets_20s": "• La actividad promovió un diálogo democrático entre los candidatos y la comunidad institucional del TEC.\n• Los candidatos presentaron sus visiones y prioridades para el desarrollo del Campus San Carlos.\n• El proceso electoral se llevará a cabo el 12 de noviembre de 2026 en votación presencial.\n• El Tribunal Institucional Electoral organizó la actividad para fortalecer la participación informada.\n• Los cuatro candidatos comparten intereses en el trabajo colaborativo y fortalecimiento académico.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/comunidad-institucional-conocio-propuestas-cuatro-candidatos-direccion-campus-san-carlos",
       "publish_date": "2026-11-06T16:54:07.000Z",
-      "teaser": "Lo clave en 20 segundos: La comunidad instituyó diálogo con candidatos a la dirección del Campus San Carlos.",
+      "teaser": "Lo clave en 20 segundos: Presentación de propuestas de candidatos a dirigir el Campus San Carlos del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_8161_0.jpg",
       "description": "Comunidad institucional conoció las propuestas de los cuatro candidatos a la Dirección del Campus San Carlos",
       "featured": false
@@ -2344,11 +2396,11 @@
       "slug": "del-tec-a-el-salvador-el-voluntariado-universitario-de-la-region-abre-una-nueva-etapa",
       "title": "Del TEC a El Salvador: el voluntariado universitario de la región abre una nueva etapa",
       "category": "Costa Rica",
-      "bullets_20s": "• El VI Encuentro Centroamericano y Caribeño de Voluntariado Universitario se realizó en Cartago.\n• Más de 180 personas de cinco países participaron en la actividad, promoviendo la integración regional.\n• La Universidad de El Salvador asumió la coordinación de la Red UNIVOCES tras el encuentro.\n• El voluntariado se centra en el impacto social, ambiental y educativo en comunidades vulnerables.\n• Se celebró el Año Internacional de los Voluntarios por el Desarrollo Sostenible en este evento.\n• Los participantes realizaron actividades de voluntariado en áreas protegidas de la región.\n• El lema del evento fue la importancia del voluntariado universitario para el bienestar social.\n• Hubo talleres sobre gestión de proyectos y reclutamiento de voluntarios de la ONU.\n• El evento incluyó conferencias sobre construcción de condiciones de vida dignas y sostenibles.",
+      "bullets_20s": "• Más de 180 personas de cinco países participaron en el VI ECVUN 2026 en el TEC.\n• El voluntariado universitario se mueve hacia un enfoque regional para fortalecer la integración.\n• La Universidad de El Salvador asumirá la coordinación de la Red UNIVOCES a partir de ahora.\n• El encuentro se enfocó en el desarrollo sostenible y la integración universitaria en Centroamérica.\n• Los participantes vivieron experiencias en actividades de voluntariado ambiental en Costa Rica.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-salvador-voluntariado-universitario-region-abre-nueva-etapa",
       "publish_date": "2026-11-05T21:24:07.000Z",
-      "teaser": "Lo clave en 20 segundos: Voluntariado universitario de la región fortalece la colaboración y el desarrollo sostenible.",
+      "teaser": "Lo clave en 20 segundos: El TEC impulsa la cooperación universitaria en Centroamérica a través del voluntariado.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dsc05058.JPG",
       "description": "Del TEC a El Salvador: el voluntariado universitario de la región abre una nueva etapa",
       "featured": false
@@ -2403,19 +2455,6 @@
       "teaser": "Lo clave en 20 segundos: Protestas masivas en Francia piden un salario digno ante la creciente inflación.",
       "image_url": "https://www.nacion.com/resizer/v2/SMDOYNT4XNHZXPOP6Z2VYG5G7Y.jpg?auth=8260abaa3b29d55e378a5608e283254b32a227fa210dfecb45079cd55844fdb3&smart=true&width=1200&height=800",
       "description": "Huelga en Francia: multitudinarias marchas y paros paralizan París y sacuden al gobierno de Macron por el alza de precios y reclamos salariales sin resolver.",
-      "featured": false
-    },
-    {
-      "slug": "convocatoria-galerias-tec-2027-arte-consciente-recibe-propuestas-hasta-el-15-de-noviembre",
-      "title": "Convocatoria Galerías TEC 2027: Arte consciente recibe propuestas hasta el 15 de noviembre",
-      "category": "Ciencia",
-      "bullets_20s": "• La Convocatoria Galerías TEC 2027 busca propuestas artísticas sobre el mundo contemporáneo.\n• Artistas nacionales y extranjeros residentes pueden postular exposiciones hasta el 15 de noviembre.\n• Se seleccionarán seis exposiciones para programar en las galerías durante el año 2027.\n• Las propuestas pueden incluir diversas técnicas en artes visuales como fotografía y dibujo.\n• Cada selección incluye actividades con el público, además de la exposición principal.",
-      "source_name": "sepacheco",
-      "source_url": "http://www.tec.ac.cr/convocatoria-galerias-tec-2027-arte-consciente-recibe-propuestas-15-noviembre",
-      "publish_date": "2026-11-05T20:15:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Abren convocatoria para artistas de Galerías TEC 2027 hasta el 15 de noviembre.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-05-at-7.46.56-pm-5.jpeg",
-      "description": "Convocatoria Galerías TEC 2027: Arte consciente recibe propuestas hasta el 15 de noviembre",
       "featured": false
     },
     {
@@ -2539,11 +2578,11 @@
       "slug": "50-anos-de-volar-caite-celebra-cinco-decadas-de-danza-en-el-tec",
       "title": "50 años de volar caite celebra cinco décadas de danza en el TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El espectáculo reunirá cinco agrupaciones artísticas con cerca de 55 talentos en escena.\n• Las funciones se llevarán a cabo los días 7, 20 y 21 de noviembre con entrada gratuita.\n• La obra refleja un recorrido cultural por las siete provincias de Costa Rica.\n• Se busca promover el pensamiento crítico y el trabajo colaborativo entre los estudiantes.\n• El espectáculo es un homenaje a los aportes de estudiantes en la cultura costarricense.",
+      "bullets_20s": "• El espectáculo contará con la participación de cinco agrupaciones artísticas del Tecnológico de Costa Rica.\n• Cerca de 55 personas se presentarán en el evento gratuito que celebra la danza en la institución.\n• Las funciones se llevarán a cabo el 7, 20 y 21 de noviembre con acceso abierto al público.\n• El evento es un homenaje a la cultura y a los estudiantes que participan en las agrupaciones artísticas.\n• Se enfocará en el patrimonio cultural costarricense y la formación integral de los estudiantes.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/50-anos-volar-caite-celebra-cinco-decadas-danza-tec",
       "publish_date": "2026-11-05T17:21:38.000Z",
-      "teaser": "Lo clave en 20 segundos: Celebran 50 años de danza en el TEC con un espectáculo gratuito.",
+      "teaser": "Lo clave en 20 segundos: Celebramos cinco décadas de danza en el TEC con un espectáculo interdisciplinario único.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/afiche_temporada26_cda_mesa-de-trabajo-1.jpg.jpeg",
       "description": "50 años de volar caite celebra cinco décadas de danza en el TEC",
       "featured": false
@@ -3014,6 +3053,19 @@
       "teaser": "Lo clave en 20 segundos: Puntarenas recibe buenas noticias del Ministerio de Salud, generando alivio en su comunidad.",
       "image_url": "https://www.nacion.com/resizer/v2/PTSOJ77ADBHZRAPZ3ES6G4Z6AY.jpeg?smart=true&auth=6da704b59aacd5feabd1100164e5282733cce4c8a595ef9f7fcdc93298b275c5&width=1440",
       "description": "Puntarenas vivió unos días de incertidumbre, pero el Ministerio de Salud le dio tranquilidad.",
+      "featured": false
+    },
+    {
+      "slug": "convocatoria-galerias-tec-2027-arte-consciente-recibe-propuestas-hasta-el-15-de-noviembre",
+      "title": "Convocatoria Galerías TEC 2027: Arte consciente recibe propuestas hasta el 15 de noviembre",
+      "category": "Costa Rica",
+      "bullets_20s": "• Artistas nacionales y extranjeros residentes pueden postular exposiciones en las galerías del TEC.\n• Las propuestas se recibirán hasta el 15 de noviembre a las 11:59 p.m.\n• Se seleccionarán seis exposiciones para la programación oficial de 2027.\n• La invitación es a reflexionar sobre la vida contemporánea a través del arte visual.\n• Se aceptan propuestas en diversas técnicas, incluidas pintura, fotografía y arte digital.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/convocatoria-galerias-tec-2027-arte-consciente-recibe-propuestas-15-noviembre",
+      "publish_date": "2026-11-05T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Convocatoria abierta para artistas en Galerías TEC hasta el 15 de noviembre.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-05-at-7.46.56-pm-5.jpeg",
+      "description": "Convocatoria Galerías TEC 2027: Arte consciente recibe propuestas hasta el 15 de noviembre",
       "featured": false
     },
     {
@@ -129741,10 +129793,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-09T11:45:26.967Z",
-  "total": 9980,
-  "removed_soccer_news_count": 1563,
+  "generated_at": "2026-11-09T12:45:28.548Z",
+  "total": 9984,
+  "removed_soccer_news_count": 1564,
   "removed_soccer_news_titles": [
+    "Directora de DHL Express: ‘Tema arancelario de Estados Unidos es un factor más dentro del dinamismo mundial’",
     "Tabla de posiciones del Torneo de Apertura 2026: vea cómo está todo a falta de dos fechas",
     "El enojo de Wálter Centeno no es solo con Bryan Ruiz: ‘Puede pasar cualquier cosa con el VAR’",
     "Ecuador convoca a sus estrellas para enfrentar a la Selección de Costa Rica",
@@ -129793,7 +129846,6 @@
     "Favoritos en Champions buscan posicionarse para evitar una eliminatoria extra",
     "Alerta mundial por violencia contra periodistas: Esta es la alarmante cifra de homicidios impunes",
     "Tabla de posiciones del Torneo Apertura 2026: Así marcha el fútbol en Costa Rica tras la jornada 14",
-    "Keylor Navas y Pumas respiran cerca de la zona de clasificación en Liga MX",
-    "¿Cábala o costumbre? Amarini Villatoro explica por qué siempre usa una camisa azul en el banquillo del Cartaginés"
+    "Keylor Navas y Pumas respiran cerca de la zona de clasificación en Liga MX"
   ]
 }
