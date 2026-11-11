@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "costarricenses-ven-cada-vez-mas-riesgos-para-el-periodismo-y-asignan-a-la-prensa-una-tarea-clave-fiscalizar-al-poder",
+      "title": "Costarricenses ven cada vez más riesgos para el periodismo y asignan a la prensa una tarea clave: fiscalizar al poder",
+      "category": "Costa Rica",
+      "bullets_20s": "• La encuesta de la UCR muestra preocupaciones crecientes sobre la seguridad de periodistas en el país.\n• El 60% de la población siente que informar es cada vez más peligroso en Costa Rica.\n• A pesar de los riesgos, hay un aumento en la confianza hacia los periodistas locales.\n• La fiscalización al poder es vista como una tarea crucial para los medios de comunicación.\n• Se destaca la importancia de mantener la libertad de prensa para una democracia saludable.",
+      "source_name": "Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/politica/costarricenses-ven-cada-vez-mas-riesgos-para-el/DYMGAFXJJRBYRMJ2PPITADTKYA/story/",
+      "publish_date": "2026-11-11T23:20:02.000Z",
+      "teaser": "Lo clave en 20 segundos: Riesgos para el periodismo aumentan en Costa Rica, pero la confianza en medios crece.",
+      "image_url": "https://www.nacion.com/resizer/v2/XBDWPQS2CRFWXGKTKTRDPUL4YI.png?auth=230e129e537b0c04351a22eee145844f84e9307257785bb3411eb0fd08b708b0&smart=true&width=742&height=336",
+      "description": "Casi seis de cada diez encuestados considera peligroso ejercer el periodismo en Costa Rica. Encuesta de la UCR también revela mayor confianza en periodistas y medios.",
+      "featured": false
+    },
+    {
+      "slug": "lo-de-jensen-huang-no-es-nuevo-espias-que-hicieron-del-amor-un-arma",
+      "title": "Lo de Jensen Huang no es nuevo: espías que hicieron del amor un arma",
+      "category": "Mundo",
+      "bullets_20s": "• El espionaje a menudo se entrelaza con relaciones personales complejas y seductoras.\n• Casos históricos nos muestran cómo el amor puede ser una herramienta de espionaje.\n• La tecnología moderna ha transformado las estrategias utilizadas por los espías.\n• Historias de espionaje han inspirado muchos libros y películas a lo largo del tiempo.\n• El espionaje en la actualidad utiliza métodos innovadores y sofisticados para obtener información.",
+      "source_name": "Jorge Arturo Mora",
+      "source_url": "https://www.nacion.com/revista-dominical/lo-de-jensen-huang-no-es-nuevo-espias-que-hicieron/XNSM4AZZRRBATNWNGXKQAL5G4Y/story/",
+      "publish_date": "2026-11-11T23:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El espionaje a través del amor, un tema antiguo que sigue vigente.",
+      "image_url": "https://www.nacion.com/resizer/v2/P4APJHPSSNFJDL75DL2C5MBJEU.jpeg?auth=e2f2bc54a945abd46c7af92eca32cd92dd7645f894133568625fb3c86fb1d570&smart=true&width=738&height=414",
+      "description": "El caso del jefe de Nvidia y Alice Huang revive una historia que parece de novela: el espionaje que comienza con la seducción.",
+      "featured": false
+    },
+    {
       "slug": "rodrigo-chaves-acusa-al-poder-judicial-y-al-tec-de-usar-morgue-y-sede-en-limon-para-presionar-por-presupuesto",
       "title": "Rodrigo Chaves acusa al Poder Judicial y al TEC de usar morgue y sede en Limón para presionar por presupuesto",
       "category": "Costa Rica",
@@ -95,11 +121,11 @@
       "slug": "un-juez-me-ordeno-por-zoom-someterme-a-una-cesarea-mientras-estaba-pariendo-en-el-hospital",
       "title": "Un juez me ordenó por Zoom someterme a una cesárea mientras estaba pariendo en el hospital",
       "category": "Mundo",
-      "bullets_20s": "• Cherise se encontraba en trabajo de parto en el hospital de Florida.\n• Un juez le ordenó una cesárea a través de una audiencia por Zoom.\n• Este caso ha generado debate sobre decisiones médicas y derechos de los pacientes.\n• La audiencia virtual ocurrió en un momento crítico para la madre.\n• La situación plantea preguntas sobre la telemedicina en emergencias.\n• Los hospitales están adoptando tecnología para resolver situaciones complejas.",
+      "bullets_20s": "• Cherise tuvo que participar en una audiencia virtual justo durante su trabajo de parto en el hospital.\n• El juez de Florida decidió que ella necesitaba recibir una cesárea mientras estaba en labor.\n• El caso genera debate sobre la intervención judicial en situaciones de emergencia médica.\n• Las implicaciones éticas y legales de este caso están siendo discutidas por expertos.\n• La situación pone en evidencia la importancia de la comunicación en momentos críticos de salud.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cv36ld8n4rpwo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-11T19:36:00.000Z",
-      "teaser": "Lo clave en 20 segundos: un juez ordena cesárea durante parto por Zoom.",
+      "teaser": "Lo clave en 20 segundos: Juez ordena cesárea por Zoom durante el parto de una mujer en Florida.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f6f5/live/b22bbc20-ccdf-11f1-bc2b-d96f63c66363.png",
       "description": "Mientras estaba pariendo, Cherise tuvo que asistir a una audiencia virtual con un juez de Florida, después de que el hospital decidiera que debían realizarle una cesárea.",
       "featured": false
@@ -154,19 +180,6 @@
       "teaser": "Lo clave en 20 segundos: un joven asesinado en Alajuela estaba bajo investigación por crimen organizado.",
       "image_url": "https://www.nacion.com/resizer/v2/5LYJNWYXCVHCJDZXIKPHHLKRVQ.png?smart=true&auth=432e705840da581714685f8c7d386f45f8bc176009c735ae239dccb6dab8ade8&width=1440",
       "description": "Un joven de 19 años que falleció la tarde del martes tras una balacera en el centro de Alajuela, era investigado por agentes del Organismo de Investigación Judicial (OIJ) por presunto robo de vehículos de alta gama y venta de drogas.",
-      "featured": false
-    },
-    {
-      "slug": "por-que-la-familia-kennedy-demanda-a-trump-por-la-polemica-construccion-de-su-arco-del-triunfo",
-      "title": "Por qué la familia Kennedy demanda a Trump por la polémica construcción de su arco del triunfo",
-      "category": "Mundo",
-      "bullets_20s": "• La demanda se centra en la construcción del arco del triunfo en Estados Unidos.\n• Miembros de la familia Kennedy expresan su desacuerdo con el proyecto actual.\n• El litigio ha suscitado preocupación sobre la preservación de la historia.\n• La Casa Blanca ha calificado la situación como lamentable y desafortunada.\n• La construcción del arco ha generado diversas opiniones en la sociedad.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/cmedq15xwnx9o?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-11-11T18:27:20.000Z",
-      "teaser": "Lo clave en 20 segundos: La familia Kennedy y su demanda contra Trump por la construcción del arco del triunfo.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg",
-      "description": "La Casa Blanca declaró que es \"lamentable\" ver que algunos miembros de la familia Kennedy se han sumado a un litigio contra el arco.",
       "featured": false
     },
     {
@@ -251,11 +264,11 @@
       "slug": "el-capitalismo-ya-trataba-mal-a-las-personas-lo-que-ha-cambiado-ahora-es-que-esa-logica-se-ha-adoptado-en-discursos-sobr",
       "title": "El capitalismo ya trataba mal a las personas; lo que ha cambiado ahora es que esa lógica se ha adoptado (…) en discursos sobre liderazgo",
       "category": "Mundo",
-      "bullets_20s": "• La filósofa eslovena Renata Salecl explora cómo el capitalismo afecta a la sociedad.\n• Su libro 'Maleducados' analiza la normalización de la grosería en varios ámbitos.\n• Se enfoca en cómo la ideología se filtra en nuestra vida diaria y discursos.\n• Renata propone reflexionar sobre el liderazgo y su relación con el capitalismo.\n• El trabajo y la televisión son espacios donde esta grosería se ha normalizado.\n• La obra invita a repensar el impacto de estas conductas en nuestras vidas.",
+      "bullets_20s": "• Renata Salecl reflexiona sobre la normalización de la grosería en las interacciones diarias.\n• Su libro 'Maleducados' explora cómo se infiltra la ideología en nuestra mente colectiva.\n• Salecl lleva décadas analizando el impacto del capitalismo en nuestras relaciones humanas.\n• Discursos sobre liderazgo actuales adoptan lógicas del capitalismo en sus mensajes.\n• La filosofía de Salecl invita a repensar la forma en que interactuamos en sociedad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ck868llen5lgo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-11T14:54:07.000Z",
-      "teaser": "Lo clave en 20 segundos: La filósofa Renata Salecl reflexiona sobre el capitalismo y el liderazgo en su nuevo libro.",
+      "teaser": "Lo clave en 20 segundos: Reflexión sobre cómo la grosería se ha normalizado en discursos de liderazgo.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9526/live/796df210-dd40-11f1-9ac0-6b8f7fc58221.jpg",
       "description": "La filósofa eslovena Renata Salecl lleva varias décadas preguntándose cómo se infiltra la ideología imperante en nuestras mentes. En su libro más reciente en español, Maleducados, aborda cómo la grosería se ha normalizado desde la televisión hasta la política pasando por lo que pasa en el lugar de trabajo.",
       "featured": false
@@ -1382,11 +1395,11 @@
       "slug": "estudiantes-del-tec-ganan-primer-lugar-internacional-con-innovador-recurso-de-matematicas-e-inteligencia-artificial",
       "title": "Estudiantes del TEC ganan primer lugar internacional con innovador recurso de matemáticas e inteligencia artificial",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC se destaca en el ámbito educativo internacional con una innovadora propuesta de enseñanza.\n• El proyecto combina matemáticas y tecnología para mejorar el aprendizaje de métodos numéricos.\n• El material didáctico fue creado por estudiantes de la carrera de Enseñanza de la Matemática.\n• Se presentó en el VI Encuentro Internacional de Estudiantes en Formación en Educación Matemática.\n• Los estudiantes resaltan que su proyecto promueve un aprendizaje activo y participativo.",
+      "bullets_20s": "• Un equipo del TEC ganó en el VI Encuentro Internacional de Educación Matemática con su innovador recurso didáctico.\n• El material didáctico combina matemáticas y tecnología para mejorar la enseñanza de métodos numéricos en aulas.\n• Los estudiantes presentan su trabajo como parte de su formación académica en la carrera de Matemática con Entornos Tecnológicos.\n• Mariela Núñez resalta la importancia de este proyecto en su desarrollo como futura docente y su impacto educativo.\n• El evento celebró la creatividad y el esfuerzo de estudiantes de todo el mundo en educación matemática y tecnología.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/estudiantes-tec-ganan-primer-lugar-internacional-innovador-recurso-matematicas-inteligencia",
       "publish_date": "2026-11-09T19:26:03.000Z",
-      "teaser": "Lo clave en 20 segundos: estudiantes del TEC destacan internacionalmente con innovación en matemáticas y tecnología.",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC triunfan con un recurso innovador de matemáticas y tecnología.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/mate-3.png",
       "description": "Estudiantes del TEC ganan primer lugar internacional con innovador recurso de matemáticas e inteligencia artificial",
       "featured": false
@@ -1629,11 +1642,11 @@
       "slug": "ingenieria-en-biotecnologia-del-tec-recibe-por-cuarta-vez-la-acreditacion-del-sinaes",
       "title": "Ingeniería en Biotecnología del TEC recibe por cuarta vez la acreditación del SINAES",
       "category": "Costa Rica",
-      "bullets_20s": "• La carrera de Biotecnología del TEC logra su cuarta acreditación del SINAES por su calidad académica.\n• El Bachillerato ha mantenido su acreditación desde 2007, mostrando su compromiso con la excelencia educativa.\n• Se celebraron 35 años de la Escuela de Biología, marcando un hito importante en la trayectoria académica.\n• El TEC destaca en empleabilidad, con un 97,5%, garantizando la formación de profesionales competitivos.\n• La acreditación se extiende hasta 2030, asegurando la calidad educativa para futuras generaciones de estudiantes.",
+      "bullets_20s": "• La carrera de Ingeniería en Biotecnología del TEC celebra su cuarta acreditación del SINAES.\n• Este reconocimiento se extiende hasta el año 2030, asegurando la calidad educativa.\n• Desde 2007, el Bachillerato ha sido acreditado de forma continua sin interrupciones.\n• La carrera cuenta con un 97,5 % de empleabilidad en el mercado laboral actual.\n• Graduados están trabajando o estudiando en más de 20 países alrededor del mundo.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/ingenieria-biotecnologia-tec-recibe-cuarta-vez-acreditacion-sinaes",
       "publish_date": "2026-11-09T14:52:22.000Z",
-      "teaser": "Lo clave en 20 segundos: La Ingeniería en Biotecnología del TEC renueva su acreditación hasta 2030 por su calidad educativa.",
+      "teaser": "Lo clave en 20 segundos: La Ingeniería en Biotecnología del TEC renueva su acreditación SINAES hasta 2030.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/reacreditacion-biotecnologia_04_11_2026_paquesada-4.jpg",
       "description": "Ingeniería en Biotecnología del TEC recibe por cuarta vez la acreditación del SINAES",
       "featured": false
@@ -3657,11 +3670,11 @@
       "slug": "comunidad-institucional-conocio-las-propuestas-de-los-cuatro-candidatos-a-la-direccion-del-campus-san-carlos",
       "title": "Comunidad institucional conoció las propuestas de los cuatro candidatos a la Dirección del Campus San Carlos",
       "category": "Costa Rica",
-      "bullets_20s": "• La actividad 'Expresión del Pensamiento' fomentó el diálogo y la participación democrática en el TEC.\n• Los candidatos compartieron propuestas y visiones para dirigir el Campus durante el período 2027-2031.\n• Los cuatro aspirantes respondieron inquietudes de la comunidad institucional en un ambiente participativo.\n• Las propuestas incluyen el fortalecimiento de la gestión académica y el trabajo colaborativo.\n• El Tribunal Institucional Electoral organizó la actividad para facilitar el conocimiento de las candidaturas.\n• Las próximas elecciones se llevarán a cabo el 12 de noviembre de 2026 en el CTEC.\n• Se espera que 185 electores participen en el proceso electoral para elegir al nuevo director.\n• Los resultados oficiales se declararán el 18 de noviembre y la juramentación será en febrero de 2027.",
+      "bullets_20s": "• El espacio ‘Expresión del Pensamiento’ promovió el diálogo y la participación democrática en el campus.\n• Los candidatos presentaron sus visiones y respondieron inquietudes de la comunidad institucional.\n• La actividad buscó conocer las prioridades de quienes aspiran a dirigir el Campus San Carlos.\n• Cada candidato propuso ideas para fortalecer la gestión académica y administrativa del campus.\n• Se realizará una votación presencial para elegir al nuevo director el 12 de noviembre.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/comunidad-institucional-conocio-propuestas-cuatro-candidatos-direccion-campus-san-carlos",
       "publish_date": "2026-11-06T16:54:07.000Z",
-      "teaser": "Lo clave en 20 segundos: La comunidad del TEC conoció las propuestas de los candidatos a dirigir el Campus San Carlos.",
+      "teaser": "Lo clave en 20 segundos: Cuatro candidatos presentan sus propuestas para dirigir el Campus San Carlos.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_8161_0.jpg",
       "description": "Comunidad institucional conoció las propuestas de los cuatro candidatos a la Dirección del Campus San Carlos",
       "featured": false
@@ -4197,6 +4210,19 @@
       "teaser": "Lo clave en 20 segundos: Protestas masivas en Francia piden un salario digno ante la creciente inflación.",
       "image_url": "https://www.nacion.com/resizer/v2/SMDOYNT4XNHZXPOP6Z2VYG5G7Y.jpg?auth=8260abaa3b29d55e378a5608e283254b32a227fa210dfecb45079cd55844fdb3&smart=true&width=1200&height=800",
       "description": "Huelga en Francia: multitudinarias marchas y paros paralizan París y sacuden al gobierno de Macron por el alza de precios y reclamos salariales sin resolver.",
+      "featured": false
+    },
+    {
+      "slug": "convocatoria-galerias-tec-2027-arte-consciente-recibe-propuestas-hasta-el-15-de-noviembre",
+      "title": "Convocatoria Galerías TEC 2027: Arte consciente recibe propuestas hasta el 15 de noviembre",
+      "category": "Mundo",
+      "bullets_20s": "• Artistas nacionales y extranjeros pueden postular exposiciones para Casa de la Ciudad y otras galerías.\n• La convocatoria busca propuestas creativas que exploren la vida contemporánea de manera artística.\n• Se seleccionarán seis exposiciones que se presentarán en 2027 en diversas galerías del TEC.\n• Las propuestas podrán ser individuales o grupales, abarcando diversos formatos de artes visuales.\n• Se valorarán criterios técnicos, coherencia de la propuesta y su relación con el presente.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/convocatoria-galerias-tec-2027-arte-consciente-recibe-propuestas-15-noviembre",
+      "publish_date": "2026-11-05T20:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Convocatoria abierta para artistas en Galerías TEC hasta el 15 de noviembre.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-05-at-7.46.56-pm-5.jpeg",
+      "description": "Convocatoria Galerías TEC 2027: Arte consciente recibe propuestas hasta el 15 de noviembre",
       "featured": false
     },
     {
@@ -4795,19 +4821,6 @@
       "teaser": "Lo clave en 20 segundos: Puntarenas recibe buenas noticias del Ministerio de Salud, generando alivio en su comunidad.",
       "image_url": "https://www.nacion.com/resizer/v2/PTSOJ77ADBHZRAPZ3ES6G4Z6AY.jpeg?smart=true&auth=6da704b59aacd5feabd1100164e5282733cce4c8a595ef9f7fcdc93298b275c5&width=1440",
       "description": "Puntarenas vivió unos días de incertidumbre, pero el Ministerio de Salud le dio tranquilidad.",
-      "featured": false
-    },
-    {
-      "slug": "convocatoria-galerias-tec-2027-arte-consciente-recibe-propuestas-hasta-el-15-de-noviembre",
-      "title": "Convocatoria Galerías TEC 2027: Arte consciente recibe propuestas hasta el 15 de noviembre",
-      "category": "Mundo",
-      "bullets_20s": "• La convocatoria busca artistas nacionales y extranjeros residentes en Costa Rica.\n• Se aceptan propuestas para exposiciones individuales o grupales en diversas técnicas.\n• El objetivo es reflexionar sobre la vida contemporánea a través del arte consciente.\n• Se ofrece espacio para exposiciones de instancias del TEC en las galerías.\n• Las propuestas deben presentarse mediante un formulario digital específico.",
-      "source_name": "sepacheco",
-      "source_url": "http://www.tec.ac.cr/convocatoria-galerias-tec-2027-arte-consciente-recibe-propuestas-15-noviembre",
-      "publish_date": "2026-11-05T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Convocatoria para exposiciones de arte hasta el 15 de noviembre.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-05-at-7.46.56-pm-5.jpeg",
-      "description": "Convocatoria Galerías TEC 2027: Arte consciente recibe propuestas hasta el 15 de noviembre",
       "featured": false
     },
     {
@@ -131548,10 +131561,12 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-11T22:45:27.016Z",
-  "total": 10119,
-  "removed_soccer_news_count": 1585,
+  "generated_at": "2026-11-11T23:45:26.982Z",
+  "total": 10120,
+  "removed_soccer_news_count": 1587,
   "removed_soccer_news_titles": [
+    "Estados Unidos se retira de  Mundial de la FIFA por motivos de seguridad; Costa Rica sí participará",
+    "¿Qué esperan Alexandre Guimaraes y Rodrigo Kenton de la Selección de Costa Rica de Bryan Ruiz?",
     "FIFA señala qué debe mejorar Costa Rica para el Mundial Femenino 2031 (algo que miles padecen cada día)",
     "Uruguay prueba a Argentina, el segundo rival de la Selección de Costa Rica esta Fecha FIFA",
     "Vea cuántos estadios pidió Costa Rica y cuáles avaló FIFA para ser la sede del Mundial 2031",
@@ -131599,8 +131614,6 @@
     "Cristiano Ronaldo, gran ídolo que se retira de la Selección de Portugal, en breve",
     "Algunos grandes partidos en la leyenda de Cristiano Ronaldo",
     "Ha llegado el día de devolver la camiseta número 7: Cristiano Ronaldo anuncia su retiro de la selección de Portugal",
-    "Una batalla campal termina con 51 expulsados en un partido de fútbol (video)",
-    "Bryan Ruiz sentará a Manfred Ugalde junto a Keylor Navas, Celso Borges y Francisco Calvo",
-    "Resumen de la Champions: Real Madrid no falla, Liverpool cae y Como impresiona"
+    "Una batalla campal termina con 51 expulsados en un partido de fútbol (video)"
   ]
 }
