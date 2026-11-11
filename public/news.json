@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "festival-solodos-en-danza-reunira-companias-de-costa-rica-el-salvador-y-espana-en-su-edicion-14",
+      "title": "Festival SóLODOS en Danza reunirá compañías de Costa Rica, El Salvador y España en su edición 14",
+      "category": "Costa Rica",
+      "bullets_20s": "• El festival de danza SóLODOS celebrará su décimo cuarta edición en San José.\n• Compañías de Costa Rica, El Salvador y España participarán en el evento cultural.\n• La cartelera incluye diversas obras que resaltan el talento artístico de los participantes.\n• Los detalles sobre las entradas se compartirán para el público interesado.\n• La ubicación del festival está diseñada para facilitar el acceso a todos los asistentes.",
+      "source_name": "Fernando Chaves Espinach",
+      "source_url": "https://www.nacion.com/ancora/festival-solodos-en-danza-reunira-companias-de/TGYCYL6BMRHZRFNEZMTACNNC7Y/story/",
+      "publish_date": "2026-11-10T23:56:20.000Z",
+      "teaser": "Lo clave en 20 segundos: Festival de danza con artistas de tres países se presenta en San José.",
+      "image_url": "https://www.nacion.com/resizer/v2/TR7JJITJ4FF3RPIAQ7RNAZJOEA.jpeg?auth=d40eba61c9f1614c39de3c61dca0a2a60fdbcc046c7620bded4e2900b7aad0f1&smart=true&width=854&height=1280",
+      "description": "SóLODOS en Danza reúne a artistas de tres países en San José. Conozca la cartelera de obras, los detalles de las entradas y la ubicación del evento cultural.",
+      "featured": false
+    },
+    {
+      "slug": "con-votos-de-pueblo-soberano-y-un-diputado-del-pln-ciudad-gobierno-supera-comision-y-avanza-al-plenario",
+      "title": "Con votos de Pueblo Soberano y un diputado del PLN, Ciudad Gobierno supera comisión y avanza al Plenario",
+      "category": "Costa Rica",
+      "bullets_20s": "• El proyecto de Ciudad Gobierno busca modernizar la infraestructura pública en el país.\n• Contratar directamente con el BCIE es un paso significativo en la ejecución del proyecto.\n• El debate sobre la Contraloría se intensificó durante la discusión del proyecto.\n• Los plazos y condiciones del proyecto fueron analizados por los diputados en la comisión.\n• Pueblo Soberano mostró un fuerte apoyo a avanzar con la iniciativa legislativa.",
+      "source_name": "Cristian Mora",
+      "source_url": "https://www.nacion.com/politica/con-votos-de-pueblo-soberano-y-un-diputado-del-pln/RZPOIXM5EBGO5BBLLY32HPLDTU/story/",
+      "publish_date": "2026-11-10T23:42:53.000Z",
+      "teaser": "Lo clave en 20 segundos: Ciudad Gobierno avanza con el respaldo de Pueblo Soberano y un diputado del PLN.",
+      "image_url": "https://www.nacion.com/resizer/v2/6M5CVXSWPBCCHMTT7Q5SKSSJ7U.jpg?smart=true&auth=da5e324e3ef6564504daaad53f26061f549a8ae18804a596a9784d0c313cae80&width=1440",
+      "description": "Diputados de Pueblo Soberano dictaminaron el proyecto de Ciudad Gobierno, que autoriza contratar directamente con el BCIE. Conozca sus cambios, plazos y el debate sobre la Contraloría.",
+      "featured": false
+    },
+    {
       "slug": "jesus-calderon-critica-a-oficialista-wilson-jimenez-ni-villalta-ni-yo-hemos-hecho-llegar-a-la-asamblea-titulos-que-no-po",
       "title": "Jesús Calderón critica a oficialista Wilson Jiménez: ‘Ni Villalta ni yo hemos hecho llegar a la Asamblea títulos que no poseemos; eso lo convierte a usted en un mentiroso’",
       "category": "Costa Rica",
@@ -128,6 +154,19 @@
       "teaser": "Lo clave en 20 segundos: la lucha por el futuro del secretario de Defensa de EE.UU. está en manos de Trump.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0ab2/live/65887550-dd2b-11f1-a701-fddedf244c16.jpg",
       "description": "Pete Hegseth podría enfrentarse a un juicio político pero es Trump quien podría determinar su destino, plantea este análisis de Gary O'Donoghue.",
+      "featured": false
+    },
+    {
+      "slug": "no-tengo-noticias-de-mi-dinero-los-millones-de-paraguayos-afectados-por-la-crisis-del-ueno-bank-que-reclaman-la-devoluci",
+      "title": "No tengo noticias de mi dinero: los millones de paraguayos afectados por la crisis del Ueno Bank que reclaman la devolución de sus ahorros",
+      "category": "Mundo",
+      "bullets_20s": "• La crisis de Ueno Bank ha dejado a miles de paraguayos sin acceso a sus ahorros.\n• Las autoridades del banco afirman que han reembolsado a muchos clientes afectados.\n• Distintas organizaciones piden más transparencia en el proceso de reembolso.\n• Los afectados organizan protestas para exigir respuestas y soluciones rápidas.\n• La crisis ha generado desconfianza en el sistema financiero en Paraguay.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c977p7pn0m0mo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-11-10T20:28:11.000Z",
+      "teaser": "Lo clave en 20 segundos: Miles de paraguayos esperan reembolsos de Ueno Bank tras una crisis financiera.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f500/live/8e34c130-dd20-11f1-b3af-4d29131e82d0.jpg",
+      "description": "Las autoridades aseguran que ya han devuelto sus ahorros a muchos de los clientes de Ueno Bank, pero todavía quedan grandes cantidades por reembolsar.",
       "featured": false
     },
     {
@@ -264,11 +303,11 @@
       "slug": "mi-hermano-murio-tras-rechazar-una-transfusion-por-sus-creencias-semanas-despues-los-testigos-de-jehova-eliminaron-esa-p",
       "title": "Mi hermano murió tras rechazar una transfusión por sus creencias; semanas después los Testigos de Jehová eliminaron esa prohibición",
       "category": "Mundo",
-      "bullets_20s": "• La decisión de rechazar transfusiones ha generado polémica en diferentes contextos religiosos y sociales.\n• Los Testigos de Jehová han revisado sus políticas sobre transfusiones en un contexto de fuertes debates.\n• Este cambio podría influir en la vida de miles de creyentes a nivel global y sus decisiones médicas.\n• Las transfusiones de sangre han sido un tema de discusión médica y ética a lo largo de los años.\n• Las muertes evitables han resaltado la importancia de la discusión sobre creencias y salud pública.",
+      "bullets_20s": "• Las creencias religiosas pueden influir en decisiones críticas de salud y tratamiento médico.\n• Un cambio en la doctrina puede llevar a nuevas perspectivas sobre la salud entre los testigos.\n• La eliminación de la prohibición podría salvar vidas en la comunidad religiosa.\n• Historias de personas que han enfrentado dilemas por transfusiones de sangre son conmovedoras.\n• Se ha debatido ampliamente sobre los principios éticos de las transfusiones en diversas religiones.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cm9dzdq3p48zo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-10T16:02:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Cambia la postura de los Testigos de Jehová sobre transfusiones tras un caso trágico.",
+      "teaser": "Lo clave en 20 segundos: Un cambio en la doctrina de los Testigos de Jehová puede salvar vidas en su comunidad.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3537/live/8e12a100-dc61-11f1-8fe6-5becaee5408f.jpg",
       "description": "Muchos testigos de Jehová han muerto en las últimas décadas por seguir un precepto ahora revisado.",
       "featured": false
@@ -277,13 +316,13 @@
       "slug": "por-que-mexico-recauda-tan-pocos-impuestos-y-como-financia-su-creciente-estado-de-bienestar",
       "title": "Por qué México recauda tan pocos impuestos (y cómo financia su creciente Estado de bienestar)",
       "category": "Mundo",
-      "bullets_20s": "• El sistema fiscal mexicano presenta características únicas que afectan la recaudación tributaria.\n• A pesar de sus bajos ingresos fiscales, México mantiene un alto gasto público en bienestar.\n• Las anomalías fiscales son un tema debatido por expertos en economía y política pública.\n• El consumo interno se ve impulsado por el gasto del Estado a pesar de los bajos impuestos.\n• El análisis de estos desafíos es crucial para entender la economía mexicana actual.",
+      "bullets_20s": "• México se sitúa entre los países que menos recaudan impuestos en América Latina.\n• El gasto público es fundamental para el consumo interno en México.\n• Análisis de las anomalías fiscales revela problemas estructurales en el sistema.\n• El Estado de bienestar mexicano enfrenta desafíos financieros significativos.\n• Políticas fiscales ineficientes perjudican la capacidad de recaudación de impuestos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cm4g109r03npo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-10T13:52:26.000Z",
-      "teaser": "Lo clave en 20 segundos: México enfrenta grandes desafíos en su sistema fiscal y el gasto público es fundamental.",
+      "teaser": "Lo clave en 20 segundos: México enfrenta desafíos en la recaudación de impuestos y su impacto en el bienestar social.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/936f/live/88d0d610-dd17-11f1-b4f2-5145cca625ab.jpg",
-      "description": "Análisis de las “anomalías fiscales” mexicanas y su impacto en el gasto público.",
+      "description": "Análisis de las “anomalías fiscales” mexicanas.",
       "featured": false
     },
     {
@@ -303,11 +342,11 @@
       "slug": "las-personas-que-solo-necesitan-dormir-4-horas-y-como-lo-explica-la-genetica",
       "title": "Las personas que solo necesitan dormir 4 horas y cómo lo explica la genética",
       "category": "Ciencia",
-      "bullets_20s": "• Un pequeño porcentaje de la población duerme solo cuatro horas y se siente completamente descansada.\n• Investigaciones revelan que la genética juega un papel clave en la necesidad de sueño.\n• Para algunos, la corta duración del sueño no afecta su salud mental ni física.\n• Descubrir si perteneces a este grupo puede requerir análisis genéticos específicos.\n• Los científicos estudian los genes que permiten a ciertas personas funcionar con menos sueño.",
+      "bullets_20s": "• Algunas personas tienen un gen específico que les permite vivir con menos horas de sueño.\n• El estudio de la genética del sueño es un campo en crecimiento que despierta mucho interés.\n• Saber si perteneces a este grupo puede ayudar a optimizar tu rutina diaria.\n• La falta de sueño se relaciona con varios problemas de salud en la población general.\n• Investigaciones recientes están desentrañando los misterios del descanso y la genética.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c678pgk14kedo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-10T11:13:56.000Z",
-      "teaser": "Lo clave en 20 segundos: Un grupo pequeño necesita solo cuatro horas de sueño gracias a la genética.",
+      "teaser": "Lo clave en 20 segundos: Algunas personas pueden dormir solo 4 horas gracias a su genética.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0bcb/live/c20d8e10-d780-11f1-a391-ad4d37bef273.jpg",
       "description": "Hay personas a las que, en realidad, les basta con dormir muy poco. Pero puede resultar difícil saber si eres una de ellas.",
       "featured": false
@@ -329,11 +368,11 @@
       "slug": "epstein-me-violo-mas-de-200-veces-los-nuevos-testimonios-de-mujeres-que-fueron-reclutadas-por-un-socio-del-financiero-me",
       "title": "Epstein me violó más de 200 veces: los nuevos testimonios de mujeres que fueron reclutadas por un socio del financiero mediante una agencia de modelos",
       "category": "Mundo",
-      "bullets_20s": "• Nuevos testimonios revelan el reclutamiento de mujeres por parte de una agencia de modelos.\n• La denuncia destaca la vulnerabilidad de jóvenes en situaciones de explotación.\n• Las víctimas comparten sus experiencias de abuso y manipulación en la industria.\n• Importancia de concienciar sobre el acoso en entornos que parecen seguros.\n• Las redes sociales juegan un papel crucial en la denuncia de estos casos.",
+      "bullets_20s": "• Nuevos testimonios revelan detalles de agresiones por parte de un socio de Epstein.\n• La denuncia incluye el reclutamiento de mujeres a través de una agencia de modelos.\n• Una mujer cuenta su experiencia inquietante en sesiones de fotos con Epstein.\n• El caso despierta atención internacional y debate sobre la justicia social.\n• La historia arroja luz sobre la explotación y el abuso en la industria del entretenimiento.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cq0mem48n7yzo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-10T10:50:15.000Z",
-      "teaser": "Lo clave en 20 segundos: Nuevos testimonios de abuso sexual revelan la manipulación en la industria del modelaje.",
+      "teaser": "Lo clave en 20 segundos: nuevos testimonios sobre agresiones de Epstein y su red de reclutamiento.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9349/live/97006970-dc5a-11f1-a701-fddedf244c16.jpg",
       "description": "Una mujer afirma que el jefe de una agencia la envió a sesiones de fotos en la casa de playa del delincuente sexual.",
       "featured": false
@@ -693,11 +732,11 @@
       "slug": "estudiantes-del-tec-ganan-primer-lugar-internacional-con-innovador-recurso-de-matematicas-e-inteligencia-artificial",
       "title": "Estudiantes del TEC ganan primer lugar internacional con innovador recurso de matemáticas e inteligencia artificial",
       "category": "Costa Rica",
-      "bullets_20s": "• Un equipo de estudiantes del TEC destacó en un evento internacional de educación matemática.\n• La propuesta integra matemáticas y tecnología, mejorando la enseñanza de métodos numéricos.\n• El material didáctico presentado es digital, interactivo y utiliza inteligencia artificial.\n• Los estudiantes recibieron reconocimiento en el VI Encuentro Internacional de Estudiantes.\n• Este evento promueve la reflexión sobre la formación docente en matemáticas a nivel global.",
+      "bullets_20s": "• Estudiantes del TEC triunfan en competencia internacional de educación matemática con un recurso innovador.\n• La propuesta integra matemáticas y tecnología, mejorando la enseñanza de métodos numéricos.\n• El material didáctico digital presentando es interactivo y apoyado por inteligencia artificial.\n• El proyecto se basó en el curso de Métodos Numéricos, demostrando su aplicabilidad en la educación.\n• El evento internacional reunió a educadores y estudiantes de diversas instituciones educativas.\n• La iniciativa resalta la calidad de la educación superior en Costa Rica y su proyección internacional.\n• Este tipo de competencias fomentan la innovación y el intercambio entre futuros educadores.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/estudiantes-tec-ganan-primer-lugar-internacional-innovador-recurso-matematicas-inteligencia",
       "publish_date": "2026-11-09T19:26:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC triunfan en el extranjero con recurso innovador en educación matemática.",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC destacan en competencia internacional con recursos educativos innovadores.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/mate-3.png",
       "description": "Estudiantes del TEC ganan primer lugar internacional con innovador recurso de matemáticas e inteligencia artificial",
       "featured": false
@@ -953,11 +992,11 @@
       "slug": "ingenieria-en-biotecnologia-del-tec-recibe-por-cuarta-vez-la-acreditacion-del-sinaes",
       "title": "Ingeniería en Biotecnología del TEC recibe por cuarta vez la acreditación del SINAES",
       "category": "Costa Rica",
-      "bullets_20s": "• El Bachillerato y la Licenciatura en Biotecnología obtuvieron acreditación hasta 2030.\n• La carrera muestra un 97,5 % de empleabilidad de sus graduados en el extranjero.\n• Hay 253 estudiantes activos en el Bachillerato y 38 en Licenciatura actualmente.\n• La Escuela de Biología celebra su 35 aniversario junto con la acreditación recibida.\n• La actualización del plan de estudios incluye formación en investigación y sostenibilidad.",
+      "bullets_20s": "• La carrera de Biotecnología recibió acreditación del SINAES hasta 2030, garantizando su calidad educativa.\n• Con un 97,5% de empleabilidad, los graduados encuentran oportunidades en más de 20 países.\n• La acreditación también coincide con el 35° aniversario de la Escuela de Biología del TEC.\n• Se actualizaron los planes de estudios fusionando Bachillerato y Licenciatura en un solo programa.\n• El TEC cuenta con un Centro de Investigación en Biotecnología que gestiona numerosos proyectos científicos.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/ingenieria-biotecnologia-tec-recibe-cuarta-vez-acreditacion-sinaes",
       "publish_date": "2026-11-09T14:52:22.000Z",
-      "teaser": "Lo clave en 20 segundos: La Ingeniería en Biotecnología del TEC renueva su acreditación, resaltando su calidad educativa.",
+      "teaser": "Lo clave en 20 segundos: La Ingeniería en Biotecnología del TEC renueva su acreditación hasta 2030, resaltando su calidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/reacreditacion-biotecnologia_04_11_2026_paquesada-4.jpg",
       "description": "Ingeniería en Biotecnología del TEC recibe por cuarta vez la acreditación del SINAES",
       "featured": false
@@ -2981,11 +3020,11 @@
       "slug": "comunidad-institucional-conocio-las-propuestas-de-los-cuatro-candidatos-a-la-direccion-del-campus-san-carlos",
       "title": "Comunidad institucional conoció las propuestas de los cuatro candidatos a la Dirección del Campus San Carlos",
       "category": "Costa Rica",
-      "bullets_20s": "• El espacio promovió el diálogo y la participación democrática en elecciones del Campus San Carlos.\n• Los candidatos presentaron sus visiones de trabajo y respondieron inquietudes del público asistente.\n• Cada candidato ofreció un mensaje de cierre tras presentar su propuesta y trayectoria profesional.\n• La próxima elección se realizará el 12 de noviembre con participación de 185 votantes.\n• La comunidad educativa fue llamada a mantenerse activa y votar, destacando la importancia del proceso.",
+      "bullets_20s": "• El TIE organizó un espacio para el diálogo entre candidatos y la comunidad institucional del TEC.\n• Las elecciones se llevarán a cabo en noviembre, con preparativos avanzados para el proceso electoral.\n• Cada candidato presentó sus propuestas y visiones para el futuro del Campus San Carlos.\n• La actividad fomentó la participación democrática y el intercambio de ideas entre asistentes.\n• Los candidatos destacaron la importancia de la gestión académica en el desarrollo del campus.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/comunidad-institucional-conocio-propuestas-cuatro-candidatos-direccion-campus-san-carlos",
       "publish_date": "2026-11-06T16:54:07.000Z",
-      "teaser": "Lo clave en 20 segundos: Conoce las propuestas de los candidatos al Campus San Carlos aquí.",
+      "teaser": "Lo clave en 20 segundos: Candidatos presentan sus propuestas para la Dirección del Campus San Carlos en una jornada participativa.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_8161_0.jpg",
       "description": "Comunidad institucional conoció las propuestas de los cuatro candidatos a la Dirección del Campus San Carlos",
       "featured": false
@@ -3329,19 +3368,6 @@
       "featured": false
     },
     {
-      "slug": "convocatoria-galerias-tec-2027-arte-consciente-recibe-propuestas-hasta-el-15-de-noviembre",
-      "title": "Convocatoria Galerías TEC 2027: Arte consciente recibe propuestas hasta el 15 de noviembre",
-      "category": "Mundo",
-      "bullets_20s": "• Artistas podrán postular exposiciones individuales o grupales hasta el 15 de noviembre.\n• El programa busca reflexionar sobre la vida contemporánea a través de las artes visuales.\n• Se elegirán seis exposiciones que formarán parte de la programación oficial de 2027.\n• Las propuestas deben estar en un formulario digital con requisitos específicos.\n• El jurado evaluará las propuestas según criterios técnicos y de coherencia artística.",
-      "source_name": "sepacheco",
-      "source_url": "http://www.tec.ac.cr/convocatoria-galerias-tec-2027-arte-consciente-recibe-propuestas-15-noviembre",
-      "publish_date": "2026-11-06T02:15:27.000Z",
-      "teaser": "Lo clave en 20 segundos: Convocatoria abierta para artistas hasta el 15 de noviembre.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-05-at-7.46.56-pm-5.jpeg",
-      "description": "Convocatoria Galerías TEC 2027: Arte consciente recibe propuestas hasta el 15 de noviembre",
-      "featured": false
-    },
-    {
       "slug": "ppso-aprueba-presupuesto-nacional-2027-en-medio-de-criticas-de-oposicion-por-recortes-a-universidades-y-fondos-congelado",
       "title": "PPSO aprueba Presupuesto Nacional 2027 en medio de críticas de oposición por recortes a universidades y fondos congelados al Poder Judicial",
       "category": "Costa Rica",
@@ -3534,6 +3560,19 @@
       "teaser": "Lo clave en 20 segundos: Protestas masivas en Francia piden un salario digno ante la creciente inflación.",
       "image_url": "https://www.nacion.com/resizer/v2/SMDOYNT4XNHZXPOP6Z2VYG5G7Y.jpg?auth=8260abaa3b29d55e378a5608e283254b32a227fa210dfecb45079cd55844fdb3&smart=true&width=1200&height=800",
       "description": "Huelga en Francia: multitudinarias marchas y paros paralizan París y sacuden al gobierno de Macron por el alza de precios y reclamos salariales sin resolver.",
+      "featured": false
+    },
+    {
+      "slug": "convocatoria-galerias-tec-2027-arte-consciente-recibe-propuestas-hasta-el-15-de-noviembre",
+      "title": "Convocatoria Galerías TEC 2027: Arte consciente recibe propuestas hasta el 15 de noviembre",
+      "category": "Costa Rica",
+      "bullets_20s": "• Artistas pueden postular exposiciones en tres galerías del Tecnológico de Costa Rica.\n• La convocatoria busca obras que inviten a la reflexión sobre la vida contemporánea.\n• Se seleccionarán seis exposiciones para la programación oficial de 2027.\n• Las propuestas deben enviarse mediante un formulario digital específico.\n• Se aceptan distintos formatos y técnicas en las artes visuales.\n• Cada exposición incluirá actividades interactivas con el público, como talleres.\n• El jurado evaluará las propuestas según criterios técnicos y creativos.\n• La historia del programa incluye más de 100 exposiciones desde su creación en 2012.\n• Las bases completas de la convocatoria están disponibles en el sitio del TEC.\n• Los artistas deberán asumir los costos de producción de sus obras seleccionadas.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/convocatoria-galerias-tec-2027-arte-consciente-recibe-propuestas-15-noviembre",
+      "publish_date": "2026-11-05T20:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Convocatoria abierta para artistas hasta el 15 de noviembre.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-05-at-7.46.56-pm-5.jpeg",
+      "description": "Convocatoria Galerías TEC 2027: Arte consciente recibe propuestas hasta el 15 de noviembre",
       "featured": false
     },
     {
@@ -130859,10 +130898,12 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-10T23:45:26.784Z",
-  "total": 10066,
-  "removed_soccer_news_count": 1575,
+  "generated_at": "2026-11-11T00:45:27.389Z",
+  "total": 10069,
+  "removed_soccer_news_count": 1577,
   "removed_soccer_news_titles": [
+    "De vestir uniformes usados a representar a Costa Rica en un Mundial: la ilusión de la Selección de Amputados",
+    "Un jugador de Escocia revela que sufrió un ‘susto cardíaco’ durante el Mundial",
     "Julián Valverde jugó un papel clave para la Selección de Costa Rica de Amputados",
     "¿Qué les pide Bryan Ruiz a los jugadores de la Selección para los fogueos contra Ecuador y Argentina?",
     "Carlos Mora destaca qué significa para la Selección tener a Bryan Ruiz al mando",
@@ -130910,8 +130951,6 @@
     "La camiseta de Messi es la más popular en la MLS por cuarto año seguido",
     "Barcelona golea al Aston Villa y se coloca en la zona buena de la Champions",
     "Costarricense Tomás Casas fue el mejor de Centroamérica (y sétimo de Latinoamérica) en Copa del Mundo de escalada",
-    "Muerte de Jesús de Miguel: el mundo del fútbol se une con condolencias de Messi, Mourinho y la UEFA",
-    "Portero Jesús Owono cierra sus redes sociales y la policía investiga la muerte de Jesús de Miguel: ¿A qué se expone el arquero?",
-    "OIJ busca a sicario que asesinó a joven cerca de plaza de fútbol en Quepos"
+    "Muerte de Jesús de Miguel: el mundo del fútbol se une con condolencias de Messi, Mourinho y la UEFA"
   ]
 }
