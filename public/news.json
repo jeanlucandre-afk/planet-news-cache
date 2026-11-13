@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "vientos-alisios-perderan-fuerza-este-viernes-y-favoreceran-lluvias-en-varias-zonas-de-costa-rica",
+      "title": "Vientos alisios perderán fuerza este viernes y favorecerán lluvias en varias zonas de Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• Se espera un cambio en las condiciones climáticas en varias regiones del país.\n• Los vientos alisios que afectan la región perderán intensidad este viernes.\n• Estas condiciones pueden generar lluvias en diversas zonas costarricenses.\n• El Instituto Meteorológico Nacional proporcionará detalles por región.\n• Es importante estar atentos a las recomendaciones del IMN para este día.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/sucesos/este-viernes-el-sol-saldra-a-las-529-a-m-y-la/SBPTJA4B2BH7DHJIOIWGGEFI5U/story/",
+      "publish_date": "2026-11-13T01:44:59.000Z",
+      "teaser": "Lo clave en 20 segundos: posibles lluvias en Costa Rica debido a vientos alisios debilitados.",
+      "image_url": "https://www.nacion.com/resizer/v2/R225ZIXLJFHRLOCZT4HBOH6D74.JPG?smart=true&auth=4395b58b00495f6913577e75804e5b5656d461632b537ddf4b6eb9063725ac44&width=1440",
+      "description": "Conozca cómo estará el tiempo en Costa Rica este viernes 13 de noviembre. El IMN detalla las condiciones por región, las zonas con posibles precipitaciones y las temperaturas previstas.",
+      "featured": false
+    },
+    {
       "slug": "gobierno-anuncia-vacaciones-colectivas-de-fin-de-ano-para-empleados-publicos-estas-son-las-fechas-y-excepciones",
       "title": "Gobierno anuncia vacaciones colectivas de fin de año para empleados públicos: estas son las fechas y excepciones",
       "category": "Costa Rica",
@@ -76,6 +89,19 @@
       "teaser": "Lo clave en 20 segundos: Ciertos productos humanos pueden intoxicar a mascotas solo por contacto.",
       "image_url": "https://www.nacion.com/resizer/v2/66AX7X2XJ5FJ5G45PPWB6YIUFI.jpg?auth=2e3d6ed6b38eb8bb6570716ab10517ea54a6291520d8bd5fef70f09f4bfad843&smart=true&width=5616&height=3744",
       "description": "El Colegio de Profesionales en Medicina Veterinaria advierte sobre una lista de cosméticos y fármacos de uso humano tóxicos para las mascotas.",
+      "featured": false
+    },
+    {
+      "slug": "la-nueva-pelicula-que-muestra-como-sylvester-stallone-paso-de-vivir-en-la-calle-a-convertirse-en-estrella-de-hollywood-g",
+      "title": "La nueva película que muestra cómo Sylvester Stallone pasó de vivir en la calle a convertirse en estrella de Hollywood gracias a su guion de 'Rocky'",
+      "category": "Mundo",
+      "bullets_20s": "• La historia de la superación personal siempre inspira y muestra el poder de la perseverancia.\n• La relación entre el arte y la vida real puede ofrecer caminos inesperados hacia el éxito.\n• Películas sobre triunfos de vida suelen resonar con muchas personas en diferentes culturas.\n• Los guiones pueden ser la clave para el éxito en la industria del cine y la televisión.\n• La narrativa de Stallone es un testimonio sobre la búsqueda de sueños a pesar de adversidades.",
+      "source_name": "",
+      "source_url": "https://www.bbc.com/mundo/articles/cvkg5je34zy5o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-11-12T22:43:47.000Z",
+      "teaser": "Lo clave en 20 segundos: La inspiradora historia de Stallone que pasó de la calle a la fama.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/eeb9/live/88eacc00-ddee-11f1-b441-2b33b063138f.jpg",
+      "description": "En 1976, el exitoso drama sobre boxeo convirtió a su protagonista y guionista, Sylvester Stallone —un desconocido que estaba 'completamente en la ruina'— en una estrella de primer nivel.",
       "featured": false
     },
     {
@@ -212,11 +238,11 @@
       "slug": "global-business-innovation-week-costa-rica-2026",
       "title": "Global Business Innovation Week Costa Rica 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Global Business Innovation Week 2026 busca fomentar el intercambio de conocimientos académicos internacionales.\n• Conferencias magistrales abordarán temas como liderazgo ético y gestión de sistemas complejos en IA.\n• Expertos internacionales compartirán su experiencia en la innovación empresarial y la estrategia.\n• El evento se llevará a cabo en el Tecnológico de Costa Rica del 17 al 19 de noviembre.\n• La participación está abierta a estudiantes, académicos y personal administrativo de la institución.",
+      "bullets_20s": "• La Global Business Innovation Week se celebra en el Tecnológico de Costa Rica este noviembre.\n• Las conferencias están dirigidas a estudiantes, académicos y personal administrativo del TEC.\n• Se abordarán temas innovadores como IA, liderazgo ético y gestión de sistemas complejos.\n• Cada conferencia contará con un expositor internacional de renombre en su campo.\n• Las sesiones buscan fomentar el intercambio de conocimientos y la actualización profesional.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/global-business-innovation-week-costa-rica-2026",
       "publish_date": "2026-11-12T20:40:09.000Z",
-      "teaser": "Lo clave en 20 segundos: Innovación y liderazgo en la Global Business Innovation Week 2026.",
+      "teaser": "Lo clave en 20 segundos: La Global Business Innovation Week 2026 se centrará en IA y liderazgo ético.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/imagen1_5.jpg",
       "description": "Global Business Innovation Week Costa Rica 2026",
       "featured": false
@@ -303,13 +329,13 @@
       "slug": "en-video-el-momento-del-rescate-con-vida-de-un-adolescente-en-australia-que-estuvo-6-dias-perdido-en-un-bosque",
       "title": "En Video: el momento del rescate con vida de un adolescente en Australia que estuvo 6 días perdido en un bosque",
       "category": "Mundo",
-      "bullets_20s": "• Un adolescente estuvo perdido en un bosque de Australia durante seis días antes de ser rescatado.\n• El rescate fue transmitido en video, mostrando la emoción del joven al ser encontrado.\n• Su madre comentó que el joven está 'castigado de por vida' tras esta experiencia.\n• La búsqueda incluyó esfuerzos de rescatistas, utilizando perros y equipos especializados.\n• El caso ha generado discusión sobre la seguridad de los jóvenes en actividades al aire libre.",
+      "bullets_20s": "• Un adolescente de 17 años fue rescatado tras seis días perdido en un bosque australiano.\n• El joven logró sobrevivir gracias a su ingenio y habilidades de supervivencia en la naturaleza.\n• Las autoridades realizaron extensas búsquedas para encontrar al joven desaparecido.\n• El rescate se llevó a cabo tras recibir información vital de otros excursionistas en la zona.\n• La madre del adolescente expresó alivio y humor tras la experiencia vivida por su hijo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c60md00vxkj2o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-12T18:21:28.000Z",
-      "teaser": "Lo clave en 20 segundos: un adolescente perdido en un bosque fue rescatado después de seis días de angustia.",
+      "teaser": "Lo clave en 20 segundos: Un adolescente sobrevive seis días perdido en un bosque australiano.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c8eb/live/75ecf8a0-deb4-11f1-8fb5-a771a656a227.png",
-      "description": "La madre del joven de 17 años bromeó diciendo que está 'castigado de por vida' y que 'nunca más saldrá de casa'.",
+      "description": "La madre del joven de 17 años bromeó diciendo que está \"castigado de por vida\" y que \"nunca más saldrá de casa\".",
       "featured": false
     },
     {
@@ -433,11 +459,11 @@
       "slug": "en-graficos-como-funcionaba-ueno-bank-y-las-razones-detras-del-colapso-que-desato-una-crisis-en-paraguay",
       "title": "En gráficos: cómo funcionaba Ueno Bank y las razones detrás del colapso que desató una crisis en Paraguay",
       "category": "Mundo",
-      "bullets_20s": "• Ueno Bank experimentó un crecimiento sorprendente, impulsado por una gestión financiera agresiva.\n• El colapso del banco sorprendió a muchos, desatando una crisis económica en Paraguay.\n• Gráficos detallan las operaciones del banco y los riesgos asumidos por su liderazgo.\n• Factores internos y externos contribuyeron significativamente a la caída del Ueno Bank.\n• La falta de regulación adecuada fue clave en el desenlace trágico del banco paraguayo.",
+      "bullets_20s": "• Ueno Bank experimentó un crecimiento notable en sus operaciones en Paraguay en los últimos años.\n• La crisis financiera en Paraguay se intensificó tras el colapso de Ueno Bank, afectando a muchos ciudadanos.\n• Los gráficos muestran el crecimiento y eventual caída de Ueno Bank en un contexto económico complejo.\n• Factores clave como la gestión inadecuada contribuyeron al colapso de Ueno Bank y la crisis posterior.\n• El análisis detalla cómo la falta de regulación financiera impactó en la estabilidad del banco.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cm4gneqkg3dno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-12T15:54:39.000Z",
-      "teaser": "Lo clave en 20 segundos: El colapso de Ueno Bank causó una crisis en Paraguay, explicada a través de gráficos.",
+      "teaser": "Lo clave en 20 segundos: cómo el colapso de Ueno Bank desató una crisis en Paraguay.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/7033/live/3b492280-de98-11f1-b441-2b33b063138f.jpg",
       "description": "Te contamos con gráficos cómo creció Ueno Bank, qué había detrás de sus operaciones y qué factores llevaron a su caída.",
       "featured": false
@@ -1031,11 +1057,11 @@
       "slug": "implantes-impresos-en-3d-que-imitan-al-hueso-investigador-del-tec-gana-premio-nacional-de-tecnologia",
       "title": "Implantes impresos en 3D que imitan al hueso: investigador del TEC gana Premio Nacional de Tecnología",
       "category": "Costa Rica",
-      "bullets_20s": "• El Dr.-Ing. Teodolito Guillén Girón es reconocido por su innovadora investigación en biomateriales.\n• Los implantes impresos en 3D buscan mejorar la integración con el tejido óseo para pacientes.\n• El premio es un hito dentro de los 50 años de los Premios Nacionales Clodomiro Picado Twight.\n• El Dr. Guillén ha liderado un grupo de investigación en materiales desde 2014 en el TEC.\n• El galardón destaca su papel en la creación de infraestructura científica en Costa Rica.",
+      "bullets_20s": "• El Dr. Teodolito Guillén Girón ganó el Premio Nacional de Tecnología 2026 en Costa Rica.\n• Reconocimiento al diseño y manufactura aditiva de biomateriales para la salud.\n• Se destaca creación de infraestructura científica en el país bajo su liderazgo.\n• Guillén ha liderado investigaciones en materiales bioinspirados desde 2014.\n• Implantes ortopédicos personalizados mejoran la recuperación de los pacientes.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/implantes-impresos-3d-imitan-hueso-investigador-tec-gana-premio-nacional-tecnologia",
       "publish_date": "2026-11-11T23:35:46.000Z",
-      "teaser": "Lo clave en 20 segundos: investigador del TEC obtiene galardón por innovaciones en biomateriales.",
+      "teaser": "Lo clave en 20 segundos: El Dr. Guillén del TEC, reconocido por innovaciones en implantes 3D.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/proyecto-investigacion-implantes-oseos_rgarita-4.jpg",
       "description": "Implantes impresos en 3D que imitan al hueso: investigador del TEC gana Premio Nacional de Tecnología",
       "featured": false
@@ -1187,11 +1213,11 @@
       "slug": "giras-a-empresas-tecnologicas-la-apuesta-de-estudiantes-del-tec-para-que-mas-mujeres-sigan-en-ingenieria",
       "title": "Giras a empresas tecnológicas: la apuesta de estudiantes del TEC para que más mujeres sigan en ingeniería",
       "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes del TEC participan en giras a empresas tecnológicas para empoderar a mujeres en ingeniería.\n• Las giras fueron organizadas por la Comisión FEMICEM del Tecnológico de Costa Rica.\n• Cerca de 100 mujeres de diferentes carreras asistieron a las giras entre agosto y setiembre.\n• Las giras incluyen charlas sobre currículum y entrevistas, impartidas por profesionales del sector.\n• FEMICEM busca fortalecer la permanencia de mujeres en áreas STEM, con menos del 25% de mujeres matriculadas.",
+      "bullets_20s": "• Estudiantes del TEC realizan giras a empresas en el sector tecnológico solo para mujeres.\n• El objetivo es fomentar la participación y permanencia de mujeres en carreras de ingeniería.\n• Las visitas incluyen orientación profesional y consejos de ingenieras en la industria.\n• Cerca de 100 mujeres de ocho carreras del TEC participaron en estas giras.\n• FEMICEM busca crear comunidad y apoyo entre mujeres en áreas STEM.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/giras-empresas-tecnologicas-apuesta-estudiantes-tec-mas-mujeres-sigan-ingenieria",
       "publish_date": "2026-11-11T19:33:54.000Z",
-      "teaser": "Lo clave en 20 segundos: giras del TEC empoderan a mujeres en ingeniería a través de experiencias en empresas tecnológicas.",
+      "teaser": "Lo clave en 20 segundos: estudiantes del TEC impulsan el interés femenino en ingeniería mediante giras tecnológicas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_0851.jpg.JPG",
       "description": "Giras a empresas tecnológicas: la apuesta de estudiantes del TEC para que más mujeres sigan en ingeniería",
       "featured": false
@@ -2474,11 +2500,11 @@
       "slug": "estudiantes-del-tec-ganan-primer-lugar-internacional-con-innovador-recurso-de-matematicas-e-inteligencia-artificial",
       "title": "Estudiantes del TEC ganan primer lugar internacional con innovador recurso de matemáticas e inteligencia artificial",
       "category": "Costa Rica",
-      "bullets_20s": "• Un grupo de estudiantes del TEC destacó en el VI Encuentro Internacional de Educación Matemática.\n• El material didáctico digital combina matemáticas e inteligencia artificial para la enseñanza.\n• Este logro resalta la innovación de la educación superior costarricense en el ámbito matemático.\n• La propuesta busca transformar la experiencia de aprendizaje en cursos de métodos numéricos.\n• Destacan la importancia del trabajo en equipo y la creatividad en la educación.",
+      "bullets_20s": "• Un equipo del TEC obtuvo primer lugar en EIEFEM con material didáctico interactivo y digital.\n• La propuesta combina creatividad, matemáticas y tecnología para mejorar la enseñanza de métodos numéricos.\n• El evento reunió a educadores destacados de diversas partes, fomentando el intercambio de ideas.\n• Los estudiantes resaltaron la importancia de crear recursos educativos innovadores en las aulas.\n• Emanuelle Parra, tutor del equipo, enfatizó el mérito en la creatividad y esfuerzo del estudiantado.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/estudiantes-tec-ganan-primer-lugar-internacional-innovador-recurso-matematicas-inteligencia",
       "publish_date": "2026-11-09T19:26:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC obtienen primer lugar en concurso internacional con un recurso innovador.",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC triunfan internacionalmente con un recurso didáctico innovador.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/retrato-estudiantes-vi-encuentro-internacional-de-estudiantes-en-formacion-en-educacion-matematica-eiefem-rgarita-1.jpg",
       "description": "Estudiantes del TEC ganan primer lugar internacional con innovador recurso de matemáticas e inteligencia artificial",
       "featured": false
@@ -132640,8 +132666,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-13T01:45:26.872Z",
-  "total": 10203,
+  "generated_at": "2026-11-13T02:45:27.577Z",
+  "total": 10205,
   "removed_soccer_news_count": 1596,
   "removed_soccer_news_titles": [
     "Lionel Scaloni es noticia en la Selección de Argentina a pocos días de jugar ante Costa Rica",
