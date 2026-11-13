@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "ministerio-de-justicia-adjudica-por-urgencia-cocina-de-10-millones-para-cacco-que-omitio-en-su-diseno-original",
+      "title": "Ministerio de Justicia adjudica por urgencia cocina de $10 millones para Cacco que omitió en su diseño original",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Ministerio de Justicia ha tomado una decisión urgente sobre las instalaciones del Cacco.\n• Se destinarán $10 millones para una nueva cocina en el centro penal.\n• Este gasto no estaba contemplado en el diseño original del proyecto.\n• La medida busca mejorar las condiciones en el centro de atención.\n• La falta de una cocina adecuada había sido objeto de críticas constantes.",
+      "source_name": "Cristian Mora",
+      "source_url": "https://www.nacion.com/sucesos/ministerio-de-justicia-adjudica-por-urgencia/POIDHNHUANEJBJF2GLWST5HAI4/story/",
+      "publish_date": "2026-11-13T08:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Adjudicada cocina de $10 millones para Cacco por urgencia de diseño.",
+      "image_url": "https://www.nacion.com/resizer/v2/HBTTCXGXIJEALJATWHCVS4CN7M.jpg?auth=e54574e27ed707ba5b247080ac7230d75e43f5535e223586227ef73278ab0f4d&smart=true&width=4500&height=3000",
+      "description": "Ministerio de Justicia adjudicó de urgencia una cocina de $10 millones para el Cacco, no prevista en su planificación original.",
+      "featured": false
+    },
+    {
+      "slug": "gobierno-empezo-gasto-acelerado-de-dolares-y-euros-detallamos-para-que-se-utilizaron",
+      "title": "Gobierno empezó gasto acelerado de dólares y euros:  detallamos para qué se utilizaron",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Gobierno costarricense ha comenzado a incrementar su gasto en divisas extranjeras recientemente.\n• Las razones detrás de este gasto acelerado incluyen proyectos de infraestructura y servicios públicos.\n• Se observa un aumento en la disponibilidad de dólares y euros en el presupuesto nacional.\n• Expertos analizan las implicaciones de este gasto en la economía del país a largo plazo.\n• La gestión eficiente de estos recursos será clave para el desarrollo sostenible del país.",
+      "source_name": "Luis Enrique Brenes",
+      "source_url": "https://www.nacion.com/economia/gobierno-empezo-gasto-acelerado-de-dolares-y-euros/33BBH6J6XJGCFDFHRU7DCZWM5E/story/",
+      "publish_date": "2026-11-13T07:30:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El Gobierno incrementa su gasto en dólares y euros para diversos proyectos.",
+      "image_url": "https://www.nacion.com/resizer/v2/JXTYJCSZ5FFBLG3XSBWHFONYY4.jpg?auth=f70651415b42a4cf062e5ca5673cb2273a87cb2a56a85f6e4b3835ca6e9cdddb&smart=true&width=6000&height=4000",
+      "description": "La cantidad de dinero disponible en dólares y euros del Gobierno ha venido cambiando en las últimas semanas",
+      "featured": false
+    },
+    {
       "slug": "exportaciones-de-dispositivos-medicos-registran-su-menor-crecimiento-en-10-anos",
       "title": "Exportaciones de dispositivos médicos registran su menor crecimiento en 10 años",
       "category": "Costa Rica",
-      "bullets_20s": "• El crecimiento de exportaciones de dispositivos médicos es el más bajo en la última década.\n• Las cifras actuales reflejan un crecimiento de solo un 1,05% hasta setiembre.\n• La incertidumbre arancelaria está afectando el desempeño del sector médico.\n• Este sector ha sido clave para la economía costarricense en años anteriores.\n• Las empresas están preocupadas por el futuro de sus exportaciones en el mercado.",
+      "bullets_20s": "• El crecimiento de exportaciones de dispositivos médicos es un signo preocupante para la economía costarricense.\n• La incertidumbre arancelaria afecta directamente el comercio de dispositivos médicos en el país.\n• Este aumento de solo 1.05% es el más bajo registrado en la última década.\n• Las empresas enfrentan desafíos significativos en el contexto económico global actual.\n• Analistas sugieren que se necesita una estrategia clara para impulsar el sector.\n• Las exportaciones son clave para la economía y el empleo en muchas comunidades.\n• La industria de dispositivos médicos ha sido un pilar del crecimiento económico reciente.\n• Es crucial monitorear las políticas arancelarias que impactan esta industria.\n• El crecimiento lento podría afectar la inversión extranjera en el país.\n• El sector debe adaptarse a las nuevas realidades del mercado global.",
       "source_name": "Gustavo Ortega Campos",
       "source_url": "https://www.nacion.com/economia/exportaciones-de-dispositivos-medicos-registran-su/OWQCC5DUPZCJLOZGK33IRCDOTU/story/",
       "publish_date": "2026-11-13T07:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Las exportaciones de dispositivos médicos crecen apenas un 1,05%, el menor aumento en 10 años.",
+      "teaser": "Lo clave en 20 segundos: Crecimiento de exportaciones de dispositivos médicos alcanza su mínimo en 10 años.",
       "image_url": "https://www.nacion.com/resizer/v2/EWCK2CEMPZDCBGJ62OURNRHQQM.jpg?auth=bbea0d598a922aa05792d511b6db2b2696662d5f7ee43db575112a5b783e5a85&smart=true&width=1000&height=667",
       "description": "Las exportaciones de dispositivos médicos de Costa Rica crecieron apenas 1,05% a setiembre. Se trata del menor aumento de los últimos 10 años, en medio de la incertidumbre arancelaria.",
       "featured": false
@@ -17,13 +43,13 @@
       "slug": "latin-grammy-2026-estos-son-los-ganadores-de-los-premios-mas-importantes-de-la-musica-en-espanol",
       "title": "Latin Grammy 2026: estos son los ganadores de los premios más importantes de la música en español",
       "category": "Mundo",
-      "bullets_20s": "• Los Latin Grammy son premios reconocidos en la música hispana a nivel internacional.\n• Cada año, artistas destacados compiten en diversas categorías para obtener premios.\n• Rosalía es una de las artistas más aclamadas y ha ganado varios premios.\n• Los premios se entregan en una ceremonia que reúne a importantes figuras de la música.\n• Daddy Yankee recibió el reconocimiento como Persona del Año por su trayectoria.",
+      "bullets_20s": "• Los Latin Grammy celebran la música en español en un evento cargado de emociones.\n• Las premiaciones destacan el talento de artistas reconocidos en la industria musical.\n• Rosalía se lleva dos premios, reafirmando su impacto en la música contemporánea.\n• Milo J. y Daddy Yankee también fueron reconocidos en diferentes categorías.\n• Los Grammy son un reconocimiento significativo en el ámbito musical internacional.",
       "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/cv8e0lplek1ro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-13T05:28:19.000Z",
-      "teaser": "Lo clave en 20 segundos: ganadores de premios de música en español en los Latin Grammy 2026.",
+      "teaser": "Lo clave en 20 segundos: Rosalía triunfa en los Latin Grammy 2026 con varios premios destacados.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/cbef/live/fe319360-df22-11f1-a3e2-c94b68c51bb9.png",
-      "description": "Rosalía se hizo con el premio al mejor álbum por LUX y a la mejor canción por 'La Perla'. La mejor grabación fue para Milo J. Y Daddy Yankee fue honrado como Persona del Año.",
+      "description": "Rosalía se hizo con el premio al mejor álbum por LUX y a la mejor canción por \"La Perla\". La mejor grabación fue para Milo J. Y Daddy Yankee fue honrado como Persona del Año.",
       "featured": false
     },
     {
@@ -173,11 +199,11 @@
       "slug": "como-el-visionario-de-la-ia-jensen-huang-cayo-en-desgracia-por-sus-malas-decisiones-amorosas",
       "title": "Cómo el visionario de la IA Jensen Huang cayó en desgracia por sus malas decisiones amorosas",
       "category": "Mundo",
-      "bullets_20s": "• Análisis del impacto personal en las decisiones empresariales de Jensen Huang.\n• Jensen Huang, fundador de Nvidia, enfrentó una crisis sin precedentes en su vida.\n• Las decisiones amorosas de Huang generaron repercusiones en su carrera profesional.\n• La historia pone en evidencia la relación entre lo personal y lo profesional.\n• Expertos comentan sobre cómo estos errores afectan la percepción pública de líderes.\n• La resiliencia de los emprendedores se pone a prueba en momentos de crisis.\n• El caso de Huang puede ser un estudio de cómo no gestionar problemas personales.",
+      "bullets_20s": "• Jensen Huang es reconocido como líder en la innovación tecnológica y la inteligencia artificial.\n• Las decisiones personales pueden impactar negativamente incluso a los más exitosos.\n• Nvidia ha sido clave en el desarrollo de gráficos y procesamiento de datos.\n• Las historias de figuras públicas nos enseñan sobre la vulnerabilidad humana.\n• El impacto de la vida personal en la carrera profesional es un tema recurrente.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/crgqx8yqgevjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-12T22:17:54.000Z",
-      "teaser": "Lo clave en 20 segundos: Las decisiones personales de Jensen Huang impactaron su carrera significativamente.",
+      "teaser": "Lo clave en 20 segundos: La caída de un gigante tecnológico por decisiones amorosas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9e3f/live/f6e4e9b0-deda-11f1-a75a-dbf83836672c.jpg",
       "description": "Zoe Kleinman explica cómo el hombre que construyó Nvidia desde cero lo perdió todo en cuestión de días.",
       "featured": false
@@ -316,11 +342,11 @@
       "slug": "global-business-innovation-week-costa-rica-2026",
       "title": "Global Business Innovation Week Costa Rica 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• La Global Business Innovation Week se llevará a cabo en el Tecnológico de Costa Rica.\n• Estudiantes y académicos están invitados a participar en conferencias sobre innovación.\n• Las conferencias tocarán temas como IA, liderazgo ético y estrategias complejas.\n• Expositores internacionales compartirán su experiencia en diversas áreas académicas.\n• Las actividades buscan fortalecer la excelencia académica y la innovación en estudiantes.",
+      "bullets_20s": "• La Global Business Innovation Week se llevará a cabo en el TEC con conferencias destacadas.\n• Expertos internacionales compartirán conocimientos sobre inteligencia artificial y gestión.\n• Tendrán charlas sobre liderazgo ético, educación superior y estrategias de innovación.\n• La actividad busca fortalecer la actualización profesional y el intercambio de ideas.\n• Los eventos se realizarán en el Campus Tecnológico Central del TEC.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/global-business-innovation-week-costa-rica-2026",
       "publish_date": "2026-11-12T20:40:09.000Z",
-      "teaser": "Lo clave en 20 segundos: Conferencias sobre innovación y liderazgo en la Global Business Innovation Week.",
+      "teaser": "Lo clave en 20 segundos: Expertos internacionales en IA impartirán conferencias en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/imagen1_5.jpg",
       "description": "Global Business Innovation Week Costa Rica 2026",
       "featured": false
@@ -537,11 +563,11 @@
       "slug": "en-graficos-como-funcionaba-ueno-bank-y-las-razones-detras-del-colapso-que-desato-una-crisis-en-paraguay",
       "title": "En gráficos: cómo funcionaba Ueno Bank y las razones detrás del colapso que desató una crisis en Paraguay",
       "category": "Mundo",
-      "bullets_20s": "• Ueno Bank fue una entidad financiera clave en Paraguay hasta su inesperado colapso reciente.\n• El crecimiento del banco estaba relacionado con operaciones arriesgadas y prácticas cuestionables.\n• Gráficos muestran la progresión del banco y los factores que llevaron a su crisis.\n• La situación ha afectado gravemente la economía local y la confianza en las instituciones financieras.\n• Expertos discuten las lecciones aprendidas para evitar crisis similares en el futuro.",
+      "bullets_20s": "• El caso de Ueno Bank destaca la importancia de una regulación financiera efectiva en Paraguay.\n• Gráficos ilustran el crecimiento acelerado del banco antes de su repentina caída.\n• La falta de transparencia en operaciones generó desconfianza entre los inversores y clientes.\n• Análisis de expertos explican los riesgos que enfrentó el sector financiero paraguayo.\n• El colapso de Ueno Bank provocó un impacto económico significativo en la región.\n• Factores económicos globales también jugaron un papel en la crisis paraguaya.\n• La historia de Ueno Bank sirve como lección para futuros emprendimientos financieros.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cm4gneqkg3dno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-12T15:54:39.000Z",
-      "teaser": "Lo clave en 20 segundos: El colapso de Ueno Bank desató una crisis económica en Paraguay.",
+      "teaser": "Lo clave en 20 segundos: El colapso de Ueno Bank desató una crisis en Paraguay con importantes lecciones financieras.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/7033/live/3b492280-de98-11f1-b441-2b33b063138f.jpg",
       "description": "Te contamos con gráficos cómo creció Ueno Bank, qué había detrás de sus operaciones y qué factores llevaron a su caída.",
       "featured": false
@@ -1135,11 +1161,11 @@
       "slug": "implantes-impresos-en-3d-que-imitan-al-hueso-investigador-del-tec-gana-premio-nacional-de-tecnologia",
       "title": "Implantes impresos en 3D que imitan al hueso: investigador del TEC gana Premio Nacional de Tecnología",
       "category": "Ciencia",
-      "bullets_20s": "• El Dr.-Ing. Teodolito Guillén ganó el Premio Clodomiro Picado Twight 2026 por su labor investigativa.\n• Su investigación se centra en implantes ortopédicos personalizados impresos en 3D que imitan hueso.\n• El premio refleja el esfuerzo y dedicación de un grupo de investigación en el TEC.\n• Se ha destacado en la creación de biomateriales para aplicaciones en salud y medicina.\n• El TEC ha visto el reconocimiento de investigadores en dos años consecutivos por este premio.",
+      "bullets_20s": "• El Dr.-Ing. Teodolito Guillén Girón recibe el premio por sus investigaciones en biomateriales impresos en 3D.\n• Este año es el 50.° aniversario de los Premios Nacionales Clodomiro Picado Twight en Costa Rica.\n• El reconocimiento resalta la importancia de la investigación en la salud y biomecánica.\n• Guillén lidera desde 2014 un grupo enfocado en materiales y procesos bioinspirados.\n• Su trabajo mejorará la integración de implantes ortopédicos personalizados en pacientes.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/implantes-impresos-3d-imitan-hueso-investigador-tec-gana-premio-nacional-tecnologia",
       "publish_date": "2026-11-11T23:35:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Investigador del TEC gana premio por innovadores implantes 3D que imitan al hueso.",
+      "teaser": "Lo clave en 20 segundos: Investigador del TEC es reconocido por innovaciones en implantes 3D para la salud.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/proyecto-investigacion-implantes-oseos_rgarita-4.jpg",
       "description": "Implantes impresos en 3D que imitan al hueso: investigador del TEC gana Premio Nacional de Tecnología",
       "featured": false
@@ -1285,6 +1311,19 @@
       "teaser": "Lo clave en 20 segundos: Un juez ordenó una cesárea a una mujer en trabajo de parto por Zoom.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f6f5/live/b22bbc20-ccdf-11f1-bc2b-d96f63c66363.png",
       "description": "Mientras estaba pariendo, Cherise tuvo que asistir a una audiencia virtual con un juez de Florida, después de que el hospital decidiera que debían realizarle una cesárea.",
+      "featured": false
+    },
+    {
+      "slug": "giras-a-empresas-tecnologicas-la-apuesta-de-estudiantes-del-tec-para-que-mas-mujeres-sigan-en-ingenieria",
+      "title": "Giras a empresas tecnológicas: la apuesta de estudiantes del TEC para que más mujeres sigan en ingeniería",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC organizó giras a empresas tecnológicas para fomentar la participación femenina en ingeniería.\n• Cerca de 100 estudiantes de distintas carreras participaron en las giras organizadas por FEMICEM.\n• Las giras buscan fortalecer la permanencia de mujeres en carreras de ingeniería en el TEC.\n• Las estudiantes recorrieron las instalaciones de importantes empresas de la industria tecnológica.\n• Orientación laboral y experiencias compartidas fueron parte fundamental de estas visitas.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/giras-empresas-tecnologicas-apuesta-estudiantes-tec-mas-mujeres-sigan-ingenieria",
+      "publish_date": "2026-11-11T19:33:54.000Z",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC promueven giras para motivar a mujeres en ingeniería.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_0851.jpg.JPG",
+      "description": "Giras a empresas tecnológicas: la apuesta de estudiantes del TEC para que más mujeres sigan en ingeniería",
       "featured": false
     },
     {
@@ -1831,19 +1870,6 @@
       "teaser": "Lo clave en 20 segundos: Trinidad y Tobago da un paso adelante en derechos LGBTQ+.",
       "image_url": "https://www.nacion.com/resizer/v2/KHUL4RYYPBECPHQLHKJ4QCOBEQ.jpg?auth=20652701ff0b5f0fbda6e9cf619f48787ae1fa604513f48f6a0066e01b17db98&smart=true&width=1200&height=833",
       "description": "Trinidad y Tobago anuló la ley colonial que castigaba la homosexualidad con cárcel. Conozca el histórico veredicto y el activista detrás de la batalla legal.",
-      "featured": false
-    },
-    {
-      "slug": "giras-a-empresas-tecnologicas-la-apuesta-de-estudiantes-del-tec-para-que-mas-mujeres-sigan-en-ingenieria",
-      "title": "Giras a empresas tecnológicas: la apuesta de estudiantes del TEC para que más mujeres sigan en ingeniería",
-      "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes del TEC organizaron giras a empresas tecnológicas, enfocadas en mujeres de ingeniería.\n• Las giras son parte de una iniciativa para fomentar la permanencia de mujeres en carreras STEM.\n• Cerca de 100 estudiantes participaron en las giras, visitando tres diferentes empresas tecnológicas.\n• Las participantes recibieron orientación sobre currículum y entrevistas de trabajo en el sector.\n• FEMICEM busca crear espacios seguros para que las mujeres se apoyen en sus carreras de ingeniería.",
-      "source_name": "m.molina",
-      "source_url": "http://www.tec.ac.cr/giras-empresas-tecnologicas-apuesta-estudiantes-tec-mas-mujeres-sigan-ingenieria",
-      "publish_date": "2026-11-11T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Giras del TEC fomentan la inclusión de mujeres en ingeniería a través de empresas tecnológicas.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_0851.jpg.JPG",
-      "description": "Giras a empresas tecnológicas: la apuesta de estudiantes del TEC para que más mujeres sigan en ingeniería",
       "featured": false
     },
     {
@@ -2578,11 +2604,11 @@
       "slug": "estudiantes-del-tec-ganan-primer-lugar-internacional-con-innovador-recurso-de-matematicas-e-inteligencia-artificial",
       "title": "Estudiantes del TEC ganan primer lugar internacional con innovador recurso de matemáticas e inteligencia artificial",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC destaca en el ámbito educativo tras ganar un concurso internacional de material didáctico.\n• La propuesta combina matemáticas con inteligencia artificial, promoviendo aprendizaje activo.\n• Los estudiantes presentaron su innovación en el VI Encuentro Internacional en Educación Matemática.\n• El evento reunió a exponentes destacados en la educación matemática a nivel internacional.\n• Docentes del TEC apoyaron el proyecto, resaltando la importancia de la creatividad en la enseñanza.",
+      "bullets_20s": "• Estudiantes del TEC destacan a nivel internacional con un recurso innovador en matemáticas e IA.\n• La propuesta transforma la enseñanza de métodos numéricos con tecnología interactiva.\n• El evento se realizó en la Universidad de Costa Rica el 4 de noviembre de 2026.\n• El material didáctico busca un aprendizaje activo y participativo en educación matemática.\n• El equipo está compuesto por estudiantes de la carrera de Matemática con Entornos Tecnológicos.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/estudiantes-tec-ganan-primer-lugar-internacional-innovador-recurso-matematicas-inteligencia",
       "publish_date": "2026-11-09T19:26:03.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC triunfan en un concurso internacional con su innovación educativa.",
+      "teaser": "Lo clave en 20 segundos: estudiantes del TEC innovan con un recurso didáctico premiado internacionalmente.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/retrato-estudiantes-vi-encuentro-internacional-de-estudiantes-en-formacion-en-educacion-matematica-eiefem-rgarita-1.jpg",
       "description": "Estudiantes del TEC ganan primer lugar internacional con innovador recurso de matemáticas e inteligencia artificial",
       "featured": false
@@ -132744,8 +132770,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-13T07:45:27.307Z",
-  "total": 10211,
+  "generated_at": "2026-11-13T08:45:27.192Z",
+  "total": 10213,
   "removed_soccer_news_count": 1596,
   "removed_soccer_news_titles": [
     "Lionel Scaloni es noticia en la Selección de Argentina a pocos días de jugar ante Costa Rica",
