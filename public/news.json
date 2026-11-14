@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "marco-rubio-arremete-contra-el-derecho-internacional-y-la-corte-penal-de-la-haya",
+      "title": "Marco Rubio arremete contra el derecho internacional y la Corte Penal de La Haya",
+      "category": "Mundo",
+      "bullets_20s": "• Marco Rubio critica a la Corte Penal Internacional en un discurso reciente.\n• Advierte sobre las implicaciones de mencionar leyes frente a figuras de autoridad.\n• Su comentario ha generado reacciones en distintos sectores internacionales.\n• La CPI se encarga de juzgar crímenes de guerra y otros delitos graves.\n• El futuro de las relaciones internacionales podría verse afectado por su postura.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/marco-rubio-arremete-contra-el-derecho/6OHEB6XRSNFMDLBOK5PTHEM2EU/story/",
+      "publish_date": "2026-11-14T01:01:57.000Z",
+      "teaser": "Lo clave en 20 segundos: Rubio critica a la CPI y menciona advertencias sobre el derecho internacional.",
+      "image_url": "https://www.nacion.com/resizer/v2/PHIZ7GPGKVHYFEPKBF6KZFNPZI.jpg?smart=true&auth=29d8622b112cc6523a4ab9cc536e823f351a1a745dfb43a80092cd63d2f96680&width=1440",
+      "description": "El secretario de Estado advirtió a la CPI que se cuide antes de “mencionar leyes a hombres con espadas”, a modo de advertencia a la corte que persigue crímenes de guerra.",
+      "featured": false
+    },
+    {
+      "slug": "planton-por-la-educacion-bloquea-paso-de-san-pedro-hacia-san-jose-frente-al-outlet-mall",
+      "title": "Plantón por la educación bloquea paso de San Pedro hacia San José frente al Outlet Mall",
+      "category": "Costa Rica",
+      "bullets_20s": "• El plantón se originó en la Universidad de Costa Rica, congregando a estudiantes y educadores.\n• La protesta busca visibilizar las demandas por una mejor educación en el país.\n• Los manifestantes bloquearon el paso desde San Pedro hacia San José, causando congestión vehicular.\n• El evento se llevó a cabo en un área concurrida, cerca del Outlet Mall.\n• Quienes participaron expresaron su descontento con las políticas educativas actuales.\n• La acción se organizó a través de redes sociales y convocó a una gran multitud.\n• La seguridad vial se vio afectada, generando malestar entre conductores y viajeros.\n• Se reportaron intervenciones por parte de las autoridades para facilitar el paso.\n• Las generaciones futuras de estudiantes fueron un tema central del discurso en la protesta.",
+      "source_name": "Silvia Ureña Corrales, Cristian Mora",
+      "source_url": "https://www.nacion.com/el-pais/planton-por-la-educacion-bloquea-paso-de-san-pedro/R7D4BSQCCBEDTM6NZIF4OHSTYI/story/",
+      "publish_date": "2026-11-14T00:33:21.000Z",
+      "teaser": "Lo clave en 20 segundos: Plantón en San Pedro interrumpe tránsito hacia San José por demandas educativas.",
+      "image_url": "https://www.nacion.com/resizer/v2/2ZJ4VHTLRZBRBMQASCRFT4NTOI.jpeg?auth=b16ac9ff2f7bb354ebd5638ec10014fde842815644d79aa77f74df948cccdd32&smart=true&width=1280&height=960",
+      "description": "El plantón por la educación en San Pedro provocó afectaciones al tránsito hacia San José. La protesta comenzó en la UCR y continuó en las inmediaciones del Outlet Mall.",
+      "featured": false
+    },
+    {
       "slug": "gobierno-esquiva-orden-de-sala-constitutional-y-caja-retoma-sesiones-sin-incorporar-a-rocio-alfaro",
       "title": "Gobierno esquiva orden de Sala Constitutional y Caja retoma sesiones sin incorporar a Rocío Alfaro",
       "category": "Costa Rica",
@@ -147,11 +173,11 @@
       "slug": "aprende-nuevas-tecnologias-y-lleva-tus-ideas-a-otro-nivel-con-k-lab-costa-rica",
       "title": "¡Aprendé nuevas tecnologías y llevá tus ideas a otro nivel con K-Lab Costa Rica!",
       "category": "Tecnología",
-      "bullets_20s": "• K-Lab ofrece un curso gratuito de Corte y Grabado Láser Básico, ideal para innovar.\n• El curso permitirá explorar el diseño y la fabricación con tecnología láser moderna.\n• Las fechas del curso son los martes 17 y 24 de noviembre en San Carlos.\n• La modalidad será presencial, lo que facilita el aprendizaje práctico de los participantes.\n• Las inscripciones se realizan a través de un formulario online con cupos limitados.",
+      "bullets_20s": "• K-Lab Costa Rica ofrece un curso gratuito de Corte y Grabado Láser Básico.\n• El curso se llevará a cabo los días 17 y 24 de noviembre, de 5 a 8 p.m.\n• Los participantes aprenderán fundamentos del corte y grabado láser.\n• Modalidad presencial en el edificio PROTEC, Campus Tecnológico Local San Carlos.\n• Inscripciones abiertas pero con cupos limitados, por orden de registro.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/aprende-nuevas-tecnologias-lleva-tus-ideas-otro-nivel-k-lab-costa-rica",
       "publish_date": "2026-11-13T20:21:59.000Z",
-      "teaser": "Lo clave en 20 segundos: Aprende Corte y Grabado Láser en K-Lab Costa Rica, ¡inscríbete ya!",
+      "teaser": "Lo clave en 20 segundos: curso gratuito de Corte y Grabado Láser en K-Lab Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/corte-y-grabado-laser-basico.jpg",
       "description": "¡Aprendé nuevas tecnologías y llevá tus ideas a otro nivel con K-Lab Costa Rica!",
       "featured": false
@@ -199,11 +225,11 @@
       "slug": "consejo-institucional-aprueba-el-primer-codigo-de-etica-del-tec",
       "title": "Consejo Institucional aprueba el primer Código de Ética del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El nuevo Código de Ética busca fortalecer la convivencia en la comunidad universitaria del TEC.\n• Su aprobación representa un avance en la formalización de principios y valores en la institución.\n• El Código no establece sanciones, sino que promueve la reflexión ética en las decisiones diarias.\n• Fundamentado en cuatro valores, busca la colaboración, calidad y responsabilidad institucional.\n• La implementación se basa en un modelo de cultura organizacional del Departamento de Talento Humano.",
+      "bullets_20s": "• El nuevo Código de Ética busca orientar la toma de decisiones dentro del TEC.\n• Previene conflictos y fortalece la convivencia en la comunidad universitaria.\n• Se basa en principios y valores establecidos desde el Congreso Institucional anterior.\n• El Código promueve la reflexión ética y orienta las actuaciones de todos.\n• Sustenta en valores como trabajo en equipo, excelencia y compromiso institucional.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/consejo-institucional-aprueba-primer-codigo-etica-tec",
       "publish_date": "2026-11-13T19:05:04.000Z",
-      "teaser": "Lo clave en 20 segundos: Se aprueba el primer Código de Ética del TEC, promoviendo la reflexión y convivencia institucional.",
+      "teaser": "Lo clave en 20 segundos: El TEC aprueba su primer Código de Ética para fortalecer su comunidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_3087.png",
       "description": "Consejo Institucional aprueba el primer Código de Ética del TEC",
       "featured": false
@@ -225,11 +251,11 @@
       "slug": "comunidad-limonense-se-reune-para-defender-la-continuidad-del-tec-en-limon",
       "title": "Comunidad limonense se reúne para defender la continuidad del TEC en Limón",
       "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes y docentes participan en foro sobre el futuro del TEC en Limón.\n• El diputado Mangell Mc Lean expone sobre recortes presupuestarios al Centro Académico.\n• El foro busca asegurar la permanencia del TEC como opción educativa en la provincia.\n• Representantes estudiantiles abogan por más cupos y carreras para los jóvenes de Limón.\n• La comunidad se une para defender el derecho a la educación superior en Limón.",
+      "bullets_20s": "• Estudiantes y personal del TEC participan en un foro sobre el futuro del centro académico en Limón.\n• El foro se tituló '¡El TEC se queda en Limón!' y promovió el diálogo sobre la situación presupuestaria.\n• El diputado Mc Lean expuso las gestiones legislativas ante el recorte de fondos al centro académico.\n• La Sala Constitucional suspendió el debate del presupuesto mientras evalúa el caso del TEC.\n• Se espera la participación adicional de la comunidad para respaldar el recurso de amparo presentado.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/comunidad-limonense-se-reune-defender-continuidad-tec-limon-0",
       "publish_date": "2026-11-13T17:59:14.000Z",
-      "teaser": "Lo clave en 20 segundos: La comunidad de Limón aboga por la continuidad del TEC en un foro crucial.",
+      "teaser": "Lo clave en 20 segundos: La comunidad se une para defender el TEC en Limón ante recortes presupuestarios.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dsc05487.JPG",
       "description": "Comunidad limonense se reúne para defender la continuidad del TEC en Limón",
       "featured": false
@@ -459,11 +485,11 @@
       "slug": "segui-a-5-familias-durante-14-anos-para-retratar-como-se-vive-la-pobreza-extrema-en-colombia-y-por-que-solo-algunos-logr",
       "title": "Seguí a 5 familias durante 14 años para retratar cómo se vive la pobreza extrema en Colombia y por qué solo algunos logramos salir de ella",
       "category": "Mundo",
-      "bullets_20s": "• El documental retrata la vida de familias en Colombia y sus desafíos con la pobreza extrema.\n• Se llevaron a cabo 14 años de seguimiento a cinco familias para conocer su realidad.\n• Las historias revelan la lucha diaria por salir adelante en una situación y entorno complicado.\n• El director del documental comparte sus experiencias al filmar vidas tan distintas y conmovedoras.\n• El impacto del documental ha resonado fuertemente entre el público colombiano y más allá.",
+      "bullets_20s": "• Un documental que explora la pobreza extrema en Colombia a través de cinco familias reales.\n• Las dificultades y desafíos que enfrentan estos hogares son retratados con sensibilidad.\n• La producción ha capturado la vivencia en la pobreza durante 14 años continuos.\n• El autor busca visibilizar las razones por las cuales algunas familias logran salir adelante.\n• El documental ha resonado en el público colombiano y ha sido un gran éxito en taquilla.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cwe8rpg5mr9po?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-13T12:26:38.000Z",
-      "teaser": "Lo clave en 20 segundos: Un poderoso retrato de la pobreza en Colombia a través de historias familiares.",
+      "teaser": "Lo clave en 20 segundos: Un documental revela las realidades de la pobreza en Colombia y su superación.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b156/live/6a1d1ea0-df5a-11f1-a8af-15d7a25dc0d1.jpg",
       "description": "El documental 'El juego de la vida' ha sido el más visto en salas de cine colombianas en los últimos cinco años. BBC Mundo habló con su autor.",
       "featured": false
@@ -511,11 +537,11 @@
       "slug": "naci-en-espana-y-un-dia-me-mire-al-espejo-y-me-di-cuenta-de-que-era-china",
       "title": "Nací en España y un día me miré al espejo y me di cuenta de que era china",
       "category": "Mundo",
-      "bullets_20s": "• Quan Zhou explora su identidad cultural en su obra artística y literaria.\n• La novela gráfica 'Gazpacho agridulce' resonó con el público por su propuesta única.\n• La fusión de culturas en su trabajo refleja su historia personal compleja.\n• Artistas contemporáneos juegan un papel importante en el diálogo cultural actual.\n• El arte puede ser un medio poderoso para abordar temáticas de identidad.",
+      "bullets_20s": "• La historia de Quan Zhou refleja aspectos de identidad y multiculturalidad en la sociedad contemporánea.\n• Su obra ha sido reconocida por fusionar elementos de distintas culturas en su narrativa gráfica.\n• Explora las experiencias de vida de las personas con antecedentes multiculturales.\n• Sus trabajos invitan a la reflexión sobre la identidad personal y colectiva en un mundo globalizado.\n• La novela gráfica 'Gazpacho agridulce' ha marcado un hito en su carrera artística y literaria.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c962yy07y42go?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-13T11:34:52.000Z",
-      "teaser": "Lo clave en 20 segundos: Quan Zhou, artista de raíces chinas, reflexiona sobre su identidad cultural.",
+      "teaser": "Lo clave en 20 segundos: Reflexiones sobre identidad en la obra de Quan Zhou.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c0e4/live/ad62bc30-de13-11f1-bb16-0faa4383125d.jpg",
       "description": "Quan Zhou es una artista multidisciplinar nacida en Cádiz en 1989, de padres chinos, se dio a conocer hace unos años en España con su primera novela gráfica 'Gazpacho agridulce'.",
       "featured": false
@@ -641,11 +667,11 @@
       "slug": "editorial-del-tec-presentara-libro-sobre-costarricenses-que-han-contribuido-a-proyectos-de-la-nasa",
       "title": "Editorial del TEC presentará libro sobre costarricenses que han contribuido a proyectos de la NASA",
       "category": "Ciencia",
-      "bullets_20s": "• La Editorial Tecnológica del TEC lanzará un libro sobre costarricenses en la NASA el 19 de noviembre.\n• El libro titulado 'Hacia las estrellas' destaca historias de diez costarricenses y su impacto en la NASA.\n• Los autores Ana Luisa Monge-Naranjo y Bruce James Callow participarán en la presentación del libro.\n• La actividad se realizará a través de un webinar y se podrá inscribir cualquier interesado.\n• Se busca inspirar a jóvenes a seguir carreras en ciencia y tecnología mediante estas historias inspiradoras.",
+      "bullets_20s": "• La editorial del TEC presenta un libro enfocado en costarricenses que han colaborado con la NASA.\n• La obra se titula 'Hacia las estrellas: Costa Rica se consolida en la NASA'.\n• Autores Ana Luisa Monge-Naranjo y Bruce James Callow destacan historias de esfuerzo y dedicación.\n• El lanzamiento se realizará a través de un webinar programado para el 19 de noviembre.\n• Los protagonistas compartirán sus experiencias y aportes a la ciencia y tecnología.\n• El libro busca inspirar a nuevas generaciones en carreras científicas y tecnológicas.\n• Incluye relatos de diez costarricenses con logros significativos en la NASA.\n• Refleja el impacto de la educación y la perseverancia en el ámbito internacional.\n• Invita a jóvenes interesados a explorar oportunidades en proyectos de alta especialización.",
       "source_name": "igrajales",
       "source_url": "http://www.tec.ac.cr/editorial-tec-presentara-libro-costarricenses-han-contribuido-proyectos-nasa",
       "publish_date": "2026-11-13T03:58:21.000Z",
-      "teaser": "Lo clave en 20 segundos: un libro destaca el talento costarricense en proyectos de la NASA.",
+      "teaser": "Lo clave en 20 segundos: Presentan libro sobre costarricenses destacados en proyectos de la NASA.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_3084.jpeg",
       "description": "Editorial del TEC presentará libro sobre costarricenses que han contribuido a proyectos de la NASA",
       "featured": false
@@ -953,11 +979,11 @@
       "slug": "global-business-innovation-week-costa-rica-2026",
       "title": "Global Business Innovation Week Costa Rica 2026",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica organiza la Global Business Innovation Week para promover el aprendizaje y la innovación.\n• Se ofrecerán conferencias magistrales con expertos internacionales en diversas áreas de la administración y tecnología.\n• Temas importantes incluyen educación superior, liderazgo ético y gestión de sistemas complejos en la era digital.\n• Las conferencias están diseñadas para estudiantes, docentes e investigadores en busca de actualización profesional.\n• Se podrá participar en actividades dirigidas a la carrera de Administración de Empresas transmitidas por YouTube.",
+      "bullets_20s": "• La Global Business Innovation Week se llevará a cabo del 17 al 19 de noviembre de 2026.\n• Conferencias sobre liderazgo ético e inteligencia artificial se realizarán en el TEC.\n• Destacados exponentes internacionales participarán en el ciclo de conferencias académicas.\n• El Auditorio D3 será el principal escenario de las actividades programadas para esta semana.\n• Temas incluyen gestión de sistemas complejos y gamificación en procesos administrativos.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/global-business-innovation-week-costa-rica-2026",
       "publish_date": "2026-11-12T20:40:09.000Z",
-      "teaser": "Lo clave en 20 segundos: Innovación y aprendizaje en la Global Business Innovation Week en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Conoce la Global Business Innovation Week en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/imagen1_5.jpg",
       "description": "Global Business Innovation Week Costa Rica 2026",
       "featured": false
@@ -133381,10 +133407,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-14T00:45:27.439Z",
-  "total": 10260,
-  "removed_soccer_news_count": 1603,
+  "generated_at": "2026-11-14T01:45:27.636Z",
+  "total": 10262,
+  "removed_soccer_news_count": 1604,
   "removed_soccer_news_titles": [
+    "Vea el gol con que Ecuador castigó a la Selección de Costa Rica",
     "Ecuador enfrenta a Costa Rica con su selección de lujo: vea sus estrellas",
     "Organización GOLEES llevó el fútbol contra la violencia de género a México",
     "Este es el once confirmado de la Selección de Costa Rica de Bryan Ruiz para enfrentar a Ecuador",
@@ -133433,7 +133460,6 @@
     "Así sale Cartaginés para buscar el liderato",
     "Keylor Navas y Pumas complican sus aspiraciones tras empate ante el América",
     "San Carlos rescató el empate ante Pérez Zeledón sobre la hora, pero se complica en la lucha por clasificar",
-    "Boca Juniors gana la Tabla Anual de Argentina, su primer título en tres años",
-    "La Roma no falla y le sigue la pista de cerca a la Lazio en la Serie A"
+    "Boca Juniors gana la Tabla Anual de Argentina, su primer título en tres años"
   ]
 }
