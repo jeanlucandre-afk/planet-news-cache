@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "periodista-camilo-rodriguez-fue-asesinado-este-lunes-en-la-ruta-32",
+      "title": "Periodista Camilo Rodríguez fue asesinado este lunes en la ruta 32",
+      "category": "Costa Rica",
+      "bullets_20s": "• El periodista Camilo Rodríguez fue atacado mientras se desplazaba en su vehículo por la ruta 32.\n• Se reportan múltiples disparos durante el incidente que resultó en su trágica muerte.\n• Las circunstancias del ataque aún son investigadas por las autoridades competentes en la materia.\n• Este asesinato podría tener repercusiones importantes en el periodismo en Costa Rica.\n• Rodríguez era conocido por sus reportajes sobre temas sociales y de interés público.",
+      "source_name": "Natalia Vargas",
+      "source_url": "https://www.nacion.com/sucesos/periodista-camilo-rodriguez-fue-asesinado-este/ZYZXOILSZBELNPJ2WSXGM4TMXA/story/",
+      "publish_date": "2026-11-16T22:24:26.000Z",
+      "teaser": "Lo clave en 20 segundos: Asesinan al periodista Camilo Rodríguez en la ruta 32, un evento alarmante.",
+      "image_url": "https://www.nacion.com/resizer/v2/ESP4CZVRLFF5ZGCVNJ6B7OPLF4.jpg?smart=true&auth=cbe701875624066269e1f581428beb90fcf41a09230d91712d34f728504bac25&width=1440",
+      "description": "El periodista Camilo Rodríguez fue asesinado a balazos, la tarde de este lunes, mientras viajaba en un vehículo, aparentemente, en la ruta 32.",
+      "featured": false
+    },
+    {
+      "slug": "juez-anula-limites-de-visado-impuestos-por-trump-a-estudiantes-y-periodistas-extranjeros",
+      "title": "Juez anula límites de visado impuestos por Trump a estudiantes y periodistas extranjeros",
+      "category": "Mundo",
+      "bullets_20s": "• Un juez de EE. UU. declaró inconstitucional la normativa de visado impuesta por Trump.\n• La decisión abre oportunidades para estudiantes y periodistas extranjeros en EE. UU.\n• Las implicaciones del fallo afectan a millones que buscan educación y trabajo.\n• La normativa previa generaba tensiones en el intercambio educativo internacional.\n• Se espera que esta anulación incentive el ingreso de talento extranjero al país.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/juez-anula-limites-de-visado-impuestos-por-trump-a/YMJGGGUIG5BH5J6FZPL2XV6CCM/story/",
+      "publish_date": "2026-11-16T21:55:09.000Z",
+      "teaser": "Lo clave en 20 segundos: Un juez revierte los límites de visado de Trump para estudiantes y periodistas extranjeros.",
+      "image_url": "https://www.nacion.com/resizer/v2/KZCBZYJYKJFCZPMQKVZXTIT3FI.jpg?smart=true&auth=aa9cf9f3fa6ca49fa9fdb2b49b8fd86c348f5c1bc12e38ad8defe6071113d869&width=1440",
+      "description": "Un juez federal de Estados Unidos anuló la normativa de Donald Trump que limitaba la estadía de estudiantes y periodistas extranjeros. Conozca el alcance del fallo.",
+      "featured": false
+    },
+    {
       "slug": "de-estos-colegios-provienen-los-10-jovenes-con-mejor-nota-de-admision-de-la-ucr-este-2026",
       "title": "De estos colegios provienen los 10 jóvenes con mejor nota de admisión de la UCR este 2026",
       "category": "Costa Rica",
@@ -95,11 +121,11 @@
       "slug": "que-tan-poderosas-son-las-pandillas-a-las-que-se-enfrenta-bukele-en-haiti",
       "title": "Qué tan poderosas son las pandillas a las que se enfrenta Bukele en Haití",
       "category": "Mundo",
-      "bullets_20s": "• Las pandillas en Haití han creado un clima de violencia y desestabilización en el país caribeño.\n• Bukele ha decidido enviar fuerzas especiales para hacer frente a la situación de seguridad en Haití.\n• La intervención militar es parte de una estrategia para combatir el aumento de la criminalidad organizada.\n• Haití enfrenta retos significativos en su lucha contra el crimen, incluida la falta de recursos.\n• La relación entre El Salvador y Haití se fortalece debido a la cooperación en temas de seguridad.",
+      "bullets_20s": "• Las pandillas en Haití han crecido en número y poder en los últimos años.\n• El conflicto en Haití ha empeorado la situación de seguridad en la región.\n• Bukele busca estabilizar a Haití enviando fuerzas especiales para combatir pandillas.\n• Las pandillas son un problema multifacético que afecta a varios países de América.\n• La intervención militar de El Salvador podría tener repercusiones en la política caribeña.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/watch/cxj05r723gpjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-16T19:14:07.000Z",
-      "teaser": "Lo clave en 20 segundos: Bukele envía tropas a Haití para enfrentar poderosas pandillas.",
+      "teaser": "Lo clave en 20 segundos: Bukele envía fuerzas especiales a Haití para combatir poderosas pandillas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/4abe/live/14b32e40-e1ea-11f1-99a1-253766e7ad8b.jpg",
       "description": "El presidente de El Salvador ha enviado al menos 2.000 militares de fuerzas especiales al país caribeño.",
       "featured": false
@@ -470,13 +496,13 @@
     },
     {
       "slug": "muere-a-los-80-anos-miguel-angel-felix-gallardo-el-jefe-de-jefes-que-revoluciono-el-narcotrafico-en-mexico-al-aliarse-co",
-      "title": "Muere a los 80 años Miguel Ángel Félix Gallardo, el 'Jefe de Jefes' que revolucionó el narcotráfico en México al aliarse con carteles de Colombia",
+      "title": "Muere a los 80 años Miguel Ángel Félix Gallardo, el \"Jefe de Jefes\" que revolucionó el narcotráfico en México al aliarse con carteles de Colombia",
       "category": "Mundo",
-      "bullets_20s": "• Miguel Ángel Félix Gallardo fue una figura clave en el narcotráfico mexicano durante los años 80.\n• Félix Gallardo lideró el Cartel de Guadalajara, influyendo en el tráfico de drogas.\n• Se unió a carteles colombianos, cambiando radicalmente la dinámica del narcotráfico.\n• Su muerte marca el fin de una era para el crimen organizado en México.\n• A lo largo de su vida, fue responsable de múltiples conflictos y violencia.",
+      "bullets_20s": "• Félix Gallardo fue una figura central en el narcotráfico en México durante los años 80.\n• Estableció alianzas con carteles colombianos que transformaron el tráfico de drogas.\n• Su liderazgo en el Cartel de Guadalajara marcó una era en el crimen organizado.\n• La muerte de Félix Gallardo genera reacciones en el ámbito internacional del narcotráfico.\n• El narcotráfico ha evolucionado desde los tiempos de Gallardo hasta la actualidad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c65y172egk2qo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-16T11:09:57.000Z",
-      "teaser": "Lo clave en 20 segundos: Falleció Miguel Ángel Félix Gallardo, líder del narcotráfico en México.",
+      "teaser": "Lo clave en 20 segundos: Falleció el Jefe de Jefes, un líder del narcotráfico revolucionario en México.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b257/live/318cac10-e197-11f1-9e84-492a244b27cc.jpg",
       "description": "El domingo falleció quien fuera el líder del todopoderoso Cartel de Guadalajara en la década de 1980 y quien cambió el negocio del narcotráfico al aliarse con el Cartel de Medellín",
       "featured": false
@@ -1031,11 +1057,11 @@
       "slug": "estudiante-de-ingenieria-en-agronegocios-gana-por-segunda-vez-la-clasica-del-tec",
       "title": "Estudiante de Ingeniería en Agronegocios gana por segunda vez la Clásica del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• Luis Alejandro Castro ganó por segunda ocasión la Clásica Atlética del TEC, destacando en 12 kilómetros.\n• La competencia se llevó a cabo en Cartago, con más de 600 participantes de diversas categorías.\n• Castro ha combinado su formación académica con el deporte, mostrando dedicación y disciplina.\n• La Clásica volvió después de siete años, formando parte del 55 aniversario del TEC.\n• La actividad incluye categorías para personas con discapacidad, promoviendo inclusión en el deporte.",
+      "bullets_20s": "• Luis Alejandro Castro ganó el primer lugar de la Clásica Atlética del TEC este domingo.\n• La competencia atrajo la participación de cerca de 600 personas en diferentes categorías.\n• El atleta combina su preparación deportiva con dos empleos de medio tiempo en calidad y lechería.\n• Castro considera que el deporte ha sido clave en su formación académica y profesional.\n• Rosibel Salazar fue la ganadora de la categoría femenina en los 12 kilómetros.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/estudiante-ingenieria-agronegocios-gana-segunda-vez-clasica-tec",
       "publish_date": "2026-11-15T16:12:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Luis Castro gana por segunda vez la Clásica Atlética del TEC destacando su carrera.",
+      "teaser": "Lo clave en 20 segundos: Luis Castro triunfa nuevamente en la Clásica del TEC tras un entrenamiento riguroso.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_3091.jpeg",
       "description": "Estudiante de Ingeniería en Agronegocios gana por segunda vez la Clásica del TEC",
       "featured": false
@@ -2330,12 +2356,12 @@
     {
       "slug": "aprende-nuevas-tecnologias-y-lleva-tus-ideas-a-otro-nivel-con-k-lab-costa-rica",
       "title": "¡Aprendé nuevas tecnologías y llevá tus ideas a otro nivel con K-Lab Costa Rica!",
-      "category": "Tecnología",
-      "bullets_20s": "• El K-Lab ofrece un curso gratuito de Corte y Grabado Láser Básico en Costa Rica.\n• Los participantes aprenderán principios fundamentales de corte y grabado láser.\n• Las fechas del curso son el 17 y 24 de noviembre de 2026.\n• La modalidad del curso será presencial en el Campus Tecnológico Local San Carlos.\n• Las inscripciones están abiertas, pero los cupos son limitados.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El K-Lab ofrece un curso gratuito de Corte y Grabado Láser Básico para innovadores.\n• El curso se enfoca en los fundamentos del corte y grabado láser, facilitando la creación.\n• Las fechas del curso son el 17 y 24 de noviembre, de 5 p. m. a 8 p. m.\n• La modalidad es presencial en K-Lab Costa Rica, ubicado en el Campus Tecnológico Local.\n• Las inscripciones son a través de un formulario y los cupos son limitados.\n• Este es un espacio para aprender y experimentar con nuevas tecnologías.\n• La inscripción es por orden de registro, así que actúe rápido.\n• K-Lab promueve la innovación y creatividad al alcance de todos los costarricenses.",
       "source_name": "tkguzman",
       "source_url": "http://www.tec.ac.cr/aprende-nuevas-tecnologias-lleva-tus-ideas-otro-nivel-k-lab-costa-rica",
       "publish_date": "2026-11-13T20:21:59.000Z",
-      "teaser": "Lo clave en 20 segundos: K-Lab Costa Rica ofrece un curso gratuito de Corte y Grabado Láser.",
+      "teaser": "Lo clave en 20 segundos: ¡aprender tecnologías innovadoras en K-Lab Costa Rica está al alcance de todos!",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/images/inline-images/corte-y-grabado-laser-basico.jpg",
       "description": "¡Aprendé nuevas tecnologías y llevá tus ideas a otro nivel con K-Lab Costa Rica!",
       "featured": false
@@ -2383,11 +2409,11 @@
       "slug": "consejo-institucional-aprueba-el-primer-codigo-de-etica-del-tec",
       "title": "Consejo Institucional aprueba el primer Código de Ética del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• El Consejo Institucional aprueba un Código de Ética para el Tecnológico de Costa Rica por primera vez.\n• Este nuevo código busca orientar la toma de decisiones y prevenir conflictos dentro de la comunidad universitaria.\n• El Código se fundamenta en cuatro valores: trabajo en equipo, evaluación permanente, excelencia y compromiso.\n• El instrumento tiene un enfoque formativo y preventivo, sin sanciones nuevas para los involucrados.\n• Los principios institucionales se integran ahora en una guía de referencia unificada para el TEC.",
+      "bullets_20s": "• El Código de Ética busca orientar la toma de decisiones en el Tecnológico de Costa Rica.\n• Se establecen cuatro valores institucionales que guiarán las interacciones en la comunidad universitaria.\n• El enfoque es formativo y preventivo, evitando sanciones disciplinarias y promoviendo la reflexión ética.\n• La implementación se basa en un diagnóstico previo de la cultura institucional y valores del TEC.\n• Se espera mejorar la convivencia y consolidar la confianza institucional ante la sociedad.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/consejo-institucional-aprueba-primer-codigo-etica-tec",
       "publish_date": "2026-11-13T19:05:04.000Z",
-      "teaser": "Lo clave en 20 segundos: Se aprueba el primer Código de Ética en el TEC para mejorar la convivencia universitaria.",
+      "teaser": "Lo clave en 20 segundos: Se aprueba el primer Código de Ética en el TEC para fortalecer su cultura institucional.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_3087.png",
       "description": "Consejo Institucional aprueba el primer Código de Ética del TEC",
       "featured": false
@@ -2409,11 +2435,11 @@
       "slug": "comunidad-limonense-se-reune-para-defender-la-continuidad-del-tec-en-limon",
       "title": "Comunidad limonense se reúne para defender la continuidad del TEC en Limón",
       "category": "Costa Rica",
-      "bullets_20s": "• La comunidad se unió en un foro para discutir el futuro del TEC en Limón.\n• Representantes estudiantiles y políticos participaron en el foro '¡El TEC se queda en Limón!'.\n• El foro fue moderado por la profesora Shi Alarcón del Tecnológico de Costa Rica.\n• Se plantearon preocupaciones sobre recortes presupuestarios al Centro Académico de Limón.\n• El diputado Mangell Mc Lean destacó gestiones legislativas ante el presupuesto reducido.\n• El TEC busca mantener el diálogo con las comunidades y sectores políticos involucrados.\n• Se anunció un futuro foro planificado para el 4 de diciembre con más participación.\n• La educación superior en Limón tiene un impacto significativo en la comunidad estudiantil.\n• Estudiantes instan a la población a alzar la voz por la continuidad del TEC.\n• La próxima reunión busca fortalecer la propuesta educativa y la colaboración interinstitucional.",
+      "bullets_20s": "• Estudiantes y docentes de Limón se unen en defensa del Tecnológico de Costa Rica.\n• El foro se realizó para discutir la situación presupuestaria del Centro Académico.\n• Diputados y representantes estudiantiles participaron en esta importante actividad comunitaria.\n• Se suspende el segundo debate del presupuesto por parte de la Sala Constitucional.\n• La comunidad destaca la importancia de mantener abierta la opción de educación superior.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/comunidad-limonense-se-reune-defender-continuidad-tec-limon-0",
       "publish_date": "2026-11-13T17:59:14.000Z",
-      "teaser": "Lo clave en 20 segundos: la comunidad limonense defiende el TEC ante posibles recortes.",
+      "teaser": "Lo clave en 20 segundos: Estudiantes y comunidad defienden el TEC en Limón ante recortes presupuestarios.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dsc05487.JPG",
       "description": "Comunidad limonense se reúne para defender la continuidad del TEC en Limón",
       "featured": false
@@ -135552,8 +135578,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-16T21:45:25.808Z",
-  "total": 10427,
+  "generated_at": "2026-11-16T22:45:26.608Z",
+  "total": 10429,
   "removed_soccer_news_count": 1630,
   "removed_soccer_news_titles": [
     "Selección de Amputados de Costa Rica clasificó a octavos de final tras empatar con Inglaterra en Copa Mundial",
