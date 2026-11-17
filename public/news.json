@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "conare-aprobo-apoyo-de-785-millones-para-el-tec-y-la-uned-ante-recorte-presupuestario-que-afectaria-sedes-regionales",
+      "title": "Conare aprobó apoyo de ¢785 millones para el TEC y la UNED ante recorte presupuestario que afectaría sedes regionales",
+      "category": "Costa Rica",
+      "bullets_20s": "• La aprobación de apoyo es crucial para estabilizar las finanzas de las universidades.\n• Los recortes presupuestarios amenazan con afectar las sedes regionales de ambas instituciones.\n• Conare busca garantizar la continuidad educativa en zonas menos favorecidas del país.\n• El rector de la UNED confirmó la noticia como un alivio ante la situación económica.\n• El apoyo financiero se convierte en un alivio para los estudiantes y profesionales en formación.",
+      "source_name": "Fernanda Matarrita Chaves",
+      "source_url": "https://www.nacion.com/el-pais/conare-aprobo-apoyo-de-785-millones-para-el-tec-y/CTXPIEKKBNG3BCQJGL5TNXIA7M/story/",
+      "publish_date": "2026-11-17T22:15:31.000Z",
+      "teaser": "Lo clave en 20 segundos: Conare destina apoyo millonario para el TEC y la UNED ante recortes presupuestarios.",
+      "image_url": "https://www.nacion.com/resizer/v2/QCN7WHMMLBEAPN6ITG4RNRCMIM.JPG?auth=c667503d0d33384096b7b9b6a60c24762c1a57622de23863bbe89b6783cafe54&smart=true&width=6192&height=3480",
+      "description": "Información fue confirmada por rector de la UNED y por el jerarca de la UCR",
+      "featured": false
+    },
+    {
+      "slug": "feria-de-empleo-de-la-municipalidad-de-san-jose-ofrecera-puestos-este-20-de-noviembre-conozca-donde-sera-y-el-horario",
+      "title": "Feria de empleo de la Municipalidad de San José ofrecerá puestos este 20 de noviembre: conozca dónde será y el horario",
+      "category": "Costa Rica",
+      "bullets_20s": "• La feria de empleo se llevará a cabo el 20 de noviembre en San José, aprovechando el fin de semana.\n• Están disponibles puestos en limpieza urbana, recolección de residuos y otros trabajos temporales.\n• Se requieren algunos documentos para participar en la feria de empleo de San José.\n• La Municipalidad busca ofrecer oportunidades laborales a la comunidad en fechas festivas importantes.\n• Es una gran oportunidad para quienes buscan empleo en la capital de Costa Rica.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/economia/feria-de-empleo-de-la-municipalidad-de-san-jose/BV2VUO5J4ZCVHN2MBN5LWYWMHM/story/",
+      "publish_date": "2026-11-17T22:13:12.000Z",
+      "teaser": "Lo clave en 20 segundos: Feria de empleo en San José abrirá nuevas oportunidades laborales este 20 de noviembre.",
+      "image_url": "https://www.nacion.com/resizer/v2/26UEZZZ3FZCALNZUAZMEKNCM3U.JPG?auth=6d8b27289a6b8894253b2be5cde72288f015faf1c0bf4a6c71b9b808b0da08d5&smart=true&width=4000&height=2667",
+      "description": "La Municipalidad de San José abrirá oportunidades laborales en limpieza urbana, recolección de residuos sólidos y labores temporales en las fiestas de Zapote este viernes 20 de noviembre. Conozca los requisitos y documentos necesarios para participar.",
+      "featured": false
+    },
+    {
+      "slug": "condenan-a-30-anos-de-carcel-a-acusado-de-disparar-contra-opositor-nicaraguense-joao-maldonado-y-su-pareja",
+      "title": "Condenan a 30 años de cárcel a acusado de disparar contra opositor nicaragüense Joao Maldonado y su pareja",
+      "category": "Mundo",
+      "bullets_20s": "• El tribunal dictó una fuerte sentencia en un caso de violencia política en Nicaragua.\n• Joao Maldonado es un reconocido opositor al régimen actual de Nicaragua.\n• El ataque tuvo lugar en un contexto de alta tensión política en el país vecino.\n• Los delitos fueron recalificados como homicidio simple en grado de tentativa.\n• Este caso resalta la lucha de los opositores en un entorno hostil.",
+      "source_name": "Silvia Ureña Corrales, Vanessa Loaiza N.",
+      "source_url": "https://www.nacion.com/sucesos/condenan-a-30-anos-de-carcel-a-acusado-de-disparar/YQBNRPAFMJAE7C4VE52X66HFGE/story/",
+      "publish_date": "2026-11-17T22:09:48.000Z",
+      "teaser": "Lo clave en 20 segundos: Un tribunal condena a 30 años a un hombre por atacar a un opositor nicaragüense.",
+      "image_url": "https://www.nacion.com/resizer/v2/E4WCFMIQIVC7REFLI6SYTGSI5A.jpeg?smart=true&auth=f765e795ab0dcbe162aadab1fe7f55ee609709fe3dbace0d11fb3d39947ffece&width=1440",
+      "description": "Un tribunal condenó a 30 años de prisión al acusado de atacar al opositor nicaragüense Joao Maldonado y su pareja. Los delitos se recalificaron como homicidio simple en grado de tentativa.",
+      "featured": false
+    },
+    {
       "slug": "fiscalia-investiga-posibles-vinculos-del-homicidio-de-camilo-rodriguez-con-narcotrafico-y-politica",
       "title": "Fiscalía investiga posibles vínculos del homicidio de Camilo Rodríguez con narcotráfico y política",
       "category": "Costa Rica",
@@ -37,6 +76,19 @@
       "teaser": "Lo clave en 20 segundos: El relleno sanitario genera controversia y protestas en Turrúcares este martes.",
       "image_url": "https://www.nacion.com/resizer/v2/IIAX6RTO5NGVDAOG3P6BOWUG2I.JPG?auth=8d0c7b034837e0769ba8d2660b3e3c98f3f5dd9206f3f3efd3a5c40f9bba2bf6&smart=true&width=3000&height=1688",
       "description": "El proyecto volvería a ser tema de discusión este martes durante la sesión del Concejo Municipal de Alajuel. Los  vecinos de Turrúcares tienen previsto realizar una protesta.",
+      "featured": false
+    },
+    {
+      "slug": "datos-de-la-nasa-para-la-papa-y-la-cebolla-estudiantes-del-tec-ganan-el-space-apps-challenge-con-un-prototipo-de-app-par",
+      "title": "Datos de la NASA para la papa y la cebolla: estudiantes del TEC ganan el Space Apps Challenge con un prototipo de app para pequeños productores",
+      "category": "Ciencia",
+      "bullets_20s": "• Estudiantes del TEC desarrollaron una app llamada Germina Finance para ayudar a pequeños agricultores.\n• Germina Finance utiliza datos satelitales para recomendar cultivos y rotaciones adecuadas en Cartago.\n• El equipo ganó el primer lugar en el NASA Space Apps Challenge 2026 en Costa Rica.\n• El hackatón reunió a 220 participantes en el TEC, enfocados en solucionar desafíos ambientales.\n• La app funciona sin internet y está diseñada para ser fácil de usar para agricultores novatos.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/datos-nasa-papa-cebolla-estudiantes-tec-ganan-space-apps-challenge-prototipo-app-pequenos",
+      "publish_date": "2026-11-17T20:11:26.000Z",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC crean app para mejorar cultivos usando datos de la NASA.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dsc08350.JPG",
+      "description": "Datos de la NASA para la papa y la cebolla: estudiantes del TEC ganan el Space Apps Challenge con un prototipo de app para pequeños productores",
       "featured": false
     },
     {
@@ -199,13 +251,13 @@
       "slug": "el-tec-destaca-como-la-mejor-institucion-publica-en-reputacion-y-responsabilidad-social",
       "title": "El TEC destaca como la mejor institución pública en reputación y responsabilidad social",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC se posiciona como líder en reputación y responsabilidad social en Costa Rica.\n• Este estudio reafirma la excelencia académica y el compromiso social de la institución.\n• Merco evalúa la reputación desde el año 2000 en 20 países de Iberoamérica.\n• La rectoría del TEC resalta en el ranking de liderazgos mejor evaluados del país.\n• El estudio se basa en un riguroso proceso de investigación y encuestas válidas.",
+      "bullets_20s": "• El Tecnológico de Costa Rica resalta en reputación y responsabilidad social en el país.\n• El estudio Merco clasifica al TEC como la universidad más reputada en Costa Rica.\n• El TEC colabora con comunidades locales para resolver problemas mediante proyectos científicos.\n• La rectoría del TEC también se destaca en el ranking de liderazgos con buena reputación.\n• Desde el año 2000, Merco evalúa organizaciones en 20 países de Iberoamérica y EE.UU.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-destaca-mejor-institucion-publica-reputacion-responsabilidad-social",
       "publish_date": "2026-11-17T18:11:01.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC es reconocido por su reputación y responsabilidad social en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El TEC se posiciona como líder en reputación y responsabilidad social en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/proyecto-recurso-hidrico_rgaria-4-3.png",
-      "description": "El TEC destaca como la mejor institución pública en reputación y responsabilidad social",
+      "description": "El TEC destaca como la mejor institución pública en reputación y responsabilidad social.",
       "featured": false
     },
     {
@@ -225,11 +277,11 @@
       "slug": "el-gran-hito-del-voyager-cuanto-es-un-dia-luz-la-distancia-mas-lejana-a-la-que-llega-un-objeto-creado-por-el-ser-humano",
       "title": "El gran hito del Voyager: cuánto es un día luz, la distancia más lejana a la que llega un objeto creado por el ser humano",
       "category": "Ciencia",
-      "bullets_20s": "• La sonda Voyager ha estado en el espacio por casi 50 años y sigue activa.\n• Pronto alcanzará la distancia de un día luz desde nuestro planeta.\n• Los datos que envía son vitales para la investigación espacial y científica.\n• Es un logro significativo para la tecnología y la exploración humana.\n• La misión Voyager ha ampliado nuestro conocimiento del sistema solar.",
+      "bullets_20s": "• La sonda Voyager ha recorrido distancias impresionantes desde su lanzamiento en 1977.\n• Un día luz es la distancia que la luz viaja en un día, aproximadamente 26 mil trillones de kilómetros.\n• La misión Voyager ha proporcionado datos cruciales sobre el espacio y los planetas externos.\n• La sonda continua enviando información que contribuye a nuestro entendimiento del universo.\n• El éxito de Voyager destaca la capacidad de la humanidad para explorar más allá de la Tierra.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmgrewv5zxqro?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-17T17:21:46.000Z",
-      "teaser": "Lo clave en 20 segundos: La sonda Voyager alcanza un día luz de distancia y sigue enviando datos valiosos.",
+      "teaser": "Lo clave en 20 segundos: Voyager alcanza un día luz de distancia y sigue sorprendiendo con sus datos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/8d16/live/3fcb94e0-ddbd-11f1-93e1-3b657b665bcf.png",
       "description": "Casi 50 años después de su lanzamiento, una de las sondas gemelas de la misión Voyager está a punto de alcanzar una distancia de un día luz con respecto a nosotros y sigue enviando valiosos datos.",
       "featured": false
@@ -251,11 +303,11 @@
       "slug": "diputaciones-rectoria-y-comunidad-estudiantil-del-cal-limon-buscan-salidas-a-la-crisis-en-el-caribe",
       "title": "Diputaciones, Rectoría y comunidad estudiantil del CAL Limón buscan salidas a la crisis en el Caribe",
       "category": "Costa Rica",
-      "bullets_20s": "• Reunión en la Asamblea Legislativa busca soluciones a crisis del Centro Académico de Limón.\n• Diputaciones se unen al TEC para garantizar la sostenibilidad del CAL Limón.\n• Sala Constitucional estudia recurso de amparo presentado por el TEC ante falta de fondos.\n• TEC enfrenta cierre técnico, cubriendo gastos con recursos propios desde octubre.\n• Estudiantes del CAL Limón analizan situación presupuestaria y requieren igualdad de condiciones.",
+      "bullets_20s": "• Representantes de diputaciones y comunidad estudiantil se reúnen para abordar crisis del CAL Limón.\n• La reunión busca soluciones a la problemática presupuestaria que enfrenta el centro académico.\n• La Sala Constitucional estudia el recurso de amparo presentado por el TEC por falta de fondos.\n• La rectora del TEC menciona cierre técnico y operación con recursos propios como situaciones presentes.\n• El director del CAL Limón afirma que el TEC no planea cerrar el centro académico en Limón.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/diputaciones-rectoria-comunidad-estudiantil-cal-limon-buscan-salidas-crisis-caribe",
       "publish_date": "2026-11-17T16:27:25.000Z",
-      "teaser": "Lo clave en 20 segundos: Reunión en busca de soluciones para crisis en el CAL Limón.",
+      "teaser": "Lo clave en 20 segundos: Diputaciones y comunidad del CAL Limón buscan soluciones a crisis educativa.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dsc05470.JPG",
       "description": "Diputaciones, Rectoría y comunidad estudiantil del CAL Limón buscan salidas a la crisis en el Caribe",
       "featured": false
@@ -290,11 +342,11 @@
       "slug": "parte-del-puente-de-crimea-que-construyo-el-gobierno-de-putin-se-derrumba-mientras-ucrania-celebra-un-ataque-sin-precede",
       "title": "Parte del puente de Crimea que construyó el gobierno de Putin se derrumba, mientras Ucrania celebra un ataque \"sin precedentes\"",
       "category": "Mundo",
-      "bullets_20s": "• El puente de Crimea, símbolo de la anexión rusa, sufre daños significativos.\n• Ucrania celebra un ataque que consideran histórico y de gran impacto militar.\n• Rutas estratégicas en Kyiv continúan cerradas, afectando el tráfico local.\n• Analistas discuten las implicaciones de estos eventos en la guerra actual.\n• Tensión entre Rusia y Ucrania se intensifica ante estos recientes desarrollos.",
+      "bullets_20s": "• El puente de Crimea es una importante vía de conexión entre Rusia y la península.\n• Ucrania informa sobre un ataque exitoso que afecta la infraestructura rusa.\n• El colapso del puente genera preocupación sobre la seguridad en la región.\n• Analistas estudian el impacto del ataque en la guerra en curso entre ambos países.\n• Este hecho representa un nuevo capítulo en el conflicto entre Rusia y Ucrania.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cje39lr0v1w7o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-17T16:00:58.000Z",
-      "teaser": "Lo clave en 20 segundos: Un ataque ucraniano deja en ruinas el puente de Crimea, aumentando las tensiones.",
+      "teaser": "Lo clave en 20 segundos: El puente de Crimea colapsa, mientras Ucrania celebra un ataque significativo.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f3f8/live/238ed940-e263-11f1-900c-895604014268.jpg",
       "description": "El puente que une a Crimea y Rusia ha sufrido graves daños, mientras que dos rutas que atraviesan Kyiv permanecen cerradas.",
       "featured": false
@@ -329,11 +381,11 @@
       "slug": "el-gobierno-de-ortega-me-prohibio-entrar-en-nicaragua-por-lo-que-regrese-clandestinamente-a-mi-propio-pais",
       "title": "El gobierno de Ortega me prohibió entrar en Nicaragua, por lo que regresé clandestinamente a mi propio país",
       "category": "Mundo",
-      "bullets_20s": "• Nicaragua enfrenta tensiones políticas que afectan a muchos ciudadanos que desean regresar a su país.\n• La ONU ha documentado una gran cantidad de casos de denegación de entrada en los últimos años.\n• Las restricciones de entrada han provocado el regreso clandestino de muchos nicaragüenses a su hogar.\n• Las relaciones entre Nicaragua y otros países se han deteriorado significativamente en la última década.\n• Los gobiernos de la región están atentos a la situación y sus implicaciones para los ciudadanos.",
+      "bullets_20s": "• La prohibición de entrada en Nicaragua afecta a muchos ciudadanos nicaragüenses que buscan regresar.\n• Documentación de la ONU revela un incremento en las restricciones de acceso al país.\n• Las razones detrás de estas prohibiciones son diversas y complejas, involucrando política.\n• El regreso clandestino a su país plantea peligros y complicaciones legales para los ciudadanos.\n• La situación presenta un reto humanitario para las autoridades de Nicaragua y la región.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx21p732nv5o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-17T14:53:10.000Z",
-      "teaser": "Lo clave en 20 segundos: La situación política en Nicaragua provoca retorno clandestino de ciudadanos.",
+      "teaser": "Lo clave en 20 segundos: la ONU documenta casos de nicaragüenses prohibidos de regresar a su país.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/dcf4/live/923896f0-e296-11f1-8dda-8925a81c3da5.jpg",
       "description": "La ONU ha documentado al menos 318 casos de nicaragüenses a los que se les denegó la entrada a su país entre junio de 2018 y agosto de 2025.",
       "featured": false
@@ -505,19 +557,6 @@
       "teaser": "Lo clave en 20 segundos: Reflexión sobre educación y demagogia en la política costarricense.",
       "image_url": "https://www.nacion.com/resizer/v2/E3XCR3VV2ZGPTKL4JXHNVCOKNE.jpg?smart=true&auth=47b8220d240cd0c985c8caed790514195c62e180da940a88868f5dd4f5dcb330&width=1440",
       "description": "Sin la arrogancia de los opulentos ni el odio nacido de la marginación, la gente puede escuchar la razón y defender el imperio de la ley sobre las pasiones. Por eso los políticos demagogos y corruptos le temen a la educación.",
-      "featured": false
-    },
-    {
-      "slug": "vi-decenas-de-cadaveres-para-reconocer-a-mi-hermano-de-14-anos-tras-los-terremotos-de-venezuela-y-aun-no-se-si-esta-ente",
-      "title": "Vi decenas de cadáveres para reconocer a mi hermano de 14 años tras los terremotos de Venezuela y aún no sé si está enterrado o desaparecido",
-      "category": "Mundo",
-      "bullets_20s": "• Los terremotos en Venezuela han dejado a muchas familias devastadas e inciertas sobre el destino de sus seres queridos.\n• La búsqueda de cuerpos tras los sismos es un proceso doloroso y complicado para los familiares.\n• Lorena Laya experimentó la angustia de reconocer a su hermano en medio de la tragedia.\n• Las autoridades han enfrentado críticas por su manejo de la identificación de cuerpos tras los desastres.\n• Las consecuencias de estos desastres naturales afectan profundamente a comunidades enteras en Venezuela.\n• El reconocimiento de cadáveres es un momento delicado y emocional para quienes pierden a seres queridos.\n• Los terremotos generan no solo pérdidas humanas, sino también un gran impacto psicológico en la población.\n• La incertidumbre sobre los desaparecidos es un problema que persiste en muchas regiones afectadas por sismos.\n• El caso de Lorena resalta la necesidad de mejorar la identificación y atención a víctimas de desastres.\n• El impacto de los temblores en la infraestructura también complica los trabajos de rescate y recuperación.",
-      "source_name": "BBC Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/cwm25nnnp5yxo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-11-17T11:59:29.000Z",
-      "teaser": "Lo clave en 20 segundos: la angustiante búsqueda de un hermano tras un devastador terremoto en Venezuela.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/4216/live/49167040-e27e-11f1-bd1e-f9c53347c5a6.jpg",
-      "description": "Lorena Laya encontró un cuerpo bajo los escombros que se parecía a su hermano Diego tras los sismos de La Guaira. Cuando lo examinaron las autoridades, reportaron resultados contradictorios sobre la identidad del cadáver.",
       "featured": false
     },
     {
@@ -706,11 +745,11 @@
       "slug": "potenciando-el-turismo-local-estudiantes-de-turrialba-y-jimenez-disenan-servicios-sostenibles-con-el-apoyo-del-tec",
       "title": "Potenciando el turismo local: estudiantes de Turrialba y Jiménez diseñan servicios sostenibles con el apoyo del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• Los estudiantes de Turrialba y Jiménez están diseñando propuestas turísticas sostenibles con el TEC.\n• Se busca vincular la teoría académica con el desarrollo local a través de talleres prácticos.\n• Un equipo multidisciplinario de expertos del TEC está apoyando a los jóvenes en este esfuerzo.\n• La iniciativa se centra en fortalecer la formación técnico profesional en el sector turístico.\n• El proyecto incluye metodologías prácticas sobre sostenibilidad y reconocimiento del patrimonio local.",
+      "bullets_20s": "• Estudiantes de secundaria técnica trabajan en propuestas de turismo sostenible con el apoyo del TEC.\n• El proyecto vincula la educación técnica con el desarrollo local en comunidades rurales de Costa Rica.\n• Se imparten talleres prácticos para fomentar la sostenibilidad y el patrimonio local entre jóvenes.\n• La iniciativa busca transformar la visión de los estudiantes sobre oportunidades en el sector turístico.\n• Un equipo multidisciplinario del TEC colabora en el diseño e implementación del proyecto de extensión.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/potenciando-turismo-local-estudiantes-turrialba-jimenez-disenan-servicios-sostenibles-apoyo-tec",
       "publish_date": "2026-11-17T01:50:30.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudiantes de Turrialba y Jiménez desarrollan propuestas de turismo sostenible con el TEC.",
+      "teaser": "Lo clave en 20 segundos: estudiantes de Turrialba y Jiménez diseñan servicios turísticos sostenibles.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/liceo-tucurrique-v-ano_0.jpeg",
       "description": "Potenciando el turismo local: estudiantes de Turrialba y Jiménez diseñan servicios sostenibles con el apoyo del TEC",
       "featured": false
@@ -136449,10 +136488,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-17T21:45:27.106Z",
-  "total": 10496,
-  "removed_soccer_news_count": 1636,
+  "generated_at": "2026-11-17T22:45:26.089Z",
+  "total": 10499,
+  "removed_soccer_news_count": 1637,
   "removed_soccer_news_titles": [
+    "Vea la alineación de Argentina para enfrentar a la Selección de Costa Rica",
     "Condenado un aficionado en España por insultos racistas contra Mbappé",
     "Canadá fulmina a Guatemala y avanza al Final Four de la Nations League de Concacaf",
     "Brasil se pasea ante Singapur con el primer triplete de Vinícius",
@@ -136501,7 +136541,6 @@
     "Arquero que provocó accidentalmente la muerte de Jesús de Miguel ‘está muy tocado’, dice su entrenador",
     "Ecuador es un lujo como rival para la Selección de Costa Rica: vea sus grandes figuras",
     "Rodrigo Kenton alaba el mensaje que Bryan Ruiz está mandando desde el banquillo de la Selección de Costa Rica",
-    "El detalle que Alexandre Guimaraes no pasa por alto en la convocatoria de Bryan Ruiz en la Selección de Costa Rica",
-    "Estados Unidos se retira de  Mundial de la FIFA por motivos de seguridad; Costa Rica sí participará"
+    "El detalle que Alexandre Guimaraes no pasa por alto en la convocatoria de Bryan Ruiz en la Selección de Costa Rica"
   ]
 }
