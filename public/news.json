@@ -1,14 +1,27 @@
 {
   "news": [
     {
+      "slug": "sugef-urge-a-diputados-endurecer-requisitos-para-elegir-la-junta-directiva-del-banco-popular",
+      "title": "Sugef urge a diputados endurecer requisitos para elegir la Junta Directiva del Banco Popular",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Superintendencia de Entidades Financieras ha solicitado cambios en la normativa financiera.\n• Se busca garantizar una mejor gobernanza en el Banco Popular y entidades similares.\n• El objetivo es prevenir futuros problemas en el sistema financiero nacional.\n• Requisitos más estrictos buscan elevar el nivel de responsabilidad en la dirigencia.\n• El llamado surge ante preocupaciones sobre la estabilidad económica del país.",
+      "source_name": "Mónica Cerdas Gómez",
+      "source_url": "https://www.nacion.com/economia/sugef-urge-a-diputados-endurecer-requisitos-para/2PHHTA2MPFDDBP6Z3P5Y7UOQFQ/story/",
+      "publish_date": "2026-11-18T07:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La Sugef pide cambios para mejorar la gobernanza del Banco Popular.",
+      "image_url": "https://www.nacion.com/resizer/v2/P6CWWXI5VBGZXL3ZQY3GIRNPXY.JPG?auth=ec08660ca5fddf2bea0e4e6f90418622d2d883b33e54162adcf523dcce0ec141&smart=true&width=4000&height=2667",
+      "description": "Sugef advirtió de que deficiencias en el gobierno corporativo de entidades de importancia sistémica, como el BP, pueden tener consecuencias para todo el sistema financiero.",
+      "featured": false
+    },
+    {
       "slug": "tec-advierte-de-que-284-millones-aportados-por-conare-no-cubren-la-totalidad-de-los-recursos-solicitados-para-operar-en-",
       "title": "TEC advierte de que ¢284 millones aportados por Conare no cubren la totalidad de los recursos solicitados para operar en Limón",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica (TEC) enfrenta un déficit financiero para operar en Limón.\n• Conare aportará ¢284 millones, pero la solicitud total asciende a ¢492,9 millones.\n• Es necesario obtener el aval de la Contraloría para asegurar los recursos.\n• La situación financiera podría afectar el funcionamiento de sus programas en Limón.\n• El TEC busca alternativas para completar la financiación necesaria.",
+      "bullets_20s": "• El TEC necesita fondos adicionales para asegurar su operación en Limón a largo plazo.\n• La cantidad solicitada supera significativamente el aporte aprobado por Conare.\n• Se requiere un aval adicional de la Contraloría para asegurar el funcionamiento adecuado.\n• La situación financiera del TEC en Limón genera preocupación entre las autoridades locales.\n• El aporte de Conare es insuficiente y podría afectar la calidad educativa en Limón.",
       "source_name": "Silvia Ureña Corrales",
       "source_url": "https://www.nacion.com/el-pais/tec-advierte-de-que-284-millones-aportados-por/FF2VIZFM4RGHVF75ZAZPWAPPOU/story/",
       "publish_date": "2026-11-18T04:16:00.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC no cubrirá completamente los recursos para Limón con el aporte de Conare.",
+      "teaser": "Lo clave en 20 segundos: El TEC enfrenta un déficit de recursos para operar en Limón tras aporte insuficiente de Conare.",
       "image_url": "https://www.nacion.com/resizer/v2/643VSZ6EUZEYHIGENFUZY2NKJQ.JPG?smart=true&auth=7a3e97b13e7f0497dfed26fab75088544d584eaf3d3758e5827cf29103e92d41&width=1440",
       "description": "El TEC recibirá ¢284 millones del Conare para operar en Limón, pero advierte que el aporte no cubre los ¢492,9 millones solicitados y aún requiere el aval de la Contraloría.",
       "featured": false
@@ -17,11 +30,11 @@
       "slug": "por-que-la-historica-cumbre-entre-trump-putin-y-xi-preocupa-a-europa-y-que-puede-significar-para-el-resto-del-mundo",
       "title": "Por qué la histórica cumbre entre Trump, Putin y Xi preocupa a Europa (y qué puede significar para el resto del mundo)",
       "category": "Mundo",
-      "bullets_20s": "• La cumbre de líderes podría redefinir las relaciones internacionales actuales y futuras.\n• Se teme que la reunión fortalezca alianzas estratégicas en contra de Europa.\n• Históricos paralelismos muestran cómo estas cumbres causan divisiones geopolíticas.\n• Los expertos advierten sobre el impacto económico de acuerdos secretos potenciales.\n• Los líderes buscarán consolidar su poder en un mundo multipolar incierto.",
+      "bullets_20s": "• La reunión entre líderes globales podría redefinir las relaciones internacionales en el siglo XXI.\n• Europa observa con preocupación, temiendo por su influencia en un mundo bipolar.\n• Expertos alertan sobre posibles cambios en políticas económicas y de seguridad.\n• Históricamente, cumbres como estas han alterado el equilibrio de poder en el mundo.\n• Analistas sugieren que este encuentro podría fortalecer la cooperación entre potencias.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmwy98z3727vo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-18T04:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: Europa teme la nueva cumbre entre Trump, Putin y Xi y sus repercusiones.",
+      "teaser": "Lo clave en 20 segundos: La cumbre de Trump, Putin y Xi despierta temores sobre el futuro de Europa.",
       "image_url": "",
       "description": "Los preparativos para la primera reunión trilateral de los líderes de China, Rusia y Estados Unidos han generado alarma en Europa, donde algunos ven paralelismos con la división del mundo en esferas de influencia tras la Segunda Guerra Mundial.",
       "featured": false
@@ -30,11 +43,11 @@
       "slug": "sol-lluvia-o-viento-asi-estara-el-tiempo-en-costa-rica-este-miercoles-18-de-noviembre",
       "title": "¿Sol, lluvia o viento? Así estará el tiempo en Costa Rica este miércoles 18 de noviembre",
       "category": "Costa Rica",
-      "bullets_20s": "• Este miércoles, las temperaturas pueden alcanzar los 35,3 °C en varias regiones de Costa Rica.\n• Se esperan lluvias aisladas tanto en la región del Pacífico como en el Caribe costarricense.\n• El Instituto Meteorológico Nacional advierte sobre ráfagas de viento de hasta 80 km/h en montañas.\n• El clima puede variar, desde sol radiante hasta lluvias repentinas a lo largo del día.\n• Es importante que los costarricenses estén preparados para condiciones climáticas cambiantes.",
+      "bullets_20s": "• Las temperaturas superarán los 30 °C en diversas regiones del país durante el día.\n• Se prevén lluvias aisladas especialmente en las zonas del Pacífico y el Caribe.\n• Los vientos alcanzarán ráfagas de hasta 80 km/h en áreas montañosas, según pronóstico.\n• El clima puede variar ampliamente, con cambios rápidos en la tarde y noche.\n• Es importante estar preparado para condiciones climáticas cambiantes y tomar precauciones.",
       "source_name": "Silvia Ureña Corrales",
       "source_url": "https://www.nacion.com/sucesos/sol-lluvia-o-viento-asi-estara-el-tiempo-en-costa/BLDEXYKEVNH7BGDSAMQX4ERZOQ/story/",
       "publish_date": "2026-11-18T03:48:34.000Z",
-      "teaser": "Lo clave en 20 segundos: Temperaturas altas, lluvias aisladas y vientos fuertes en Costa Rica este miércoles.",
+      "teaser": "Lo clave en 20 segundos: clima variable con temperaturas altas y lluvias aisladas en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/QB5G6WSH2FANLM2OYPKSVIBIZA.JPG?smart=true&auth=8a716fc9568be53b6d675f30cc3ea326650d7d6b0aebbe2d935c54e4147f0836&width=1440",
       "description": "Costa Rica tendrá este miércoles temperaturas de hasta 35,3 °C, lluvias aisladas en el Pacífico y el Caribe, y ráfagas de viento de hasta 80 km/h en zonas montañosas, según el IMN.",
       "featured": false
@@ -121,11 +134,11 @@
       "slug": "como-fue-el-sofisticado-ataque-con-el-que-ucrania-destruyo-parte-del-preciado-puente-de-crimea-de-putin-y-que-consecuenc",
       "title": "Cómo fue el sofisticado ataque con el que Ucrania destruyó parte del preciado puente de Crimea de Putin (y qué consecuencias tendrá)",
       "category": "Mundo",
-      "bullets_20s": "• El ataque en Crimea fue de alta complejidad, ejecutado en siete fases distintas por fuerzas ucranianas.\n• Este puente es un símbolo clave de la ocupación rusa y su destrucción tiene fuertes implicancias.\n• Las técnicas utilizadas en el ataque subrayan el avance de la estrategia militar ucraniana.\n• Las repercusiones del ataque podrían cambiar el rumbo del conflicto actual en la región.\n• Expertos indican que la eficacia del ataque podría inspirar a otras naciones en conflictos similares.",
+      "bullets_20s": "• El ataque a Crimea fue planificado en múltiples fases, mostrando la estrategia militar de Ucrania.\n• Se utilizó tecnología avanzada para coordinar el ataque y minimizar pérdidas civiles.\n• Este puente simboliza mucho para Rusia, y su daño tiene implicaciones políticas.\n• Las consecuencias del ataque están generando reacciones en la comunidad internacional.\n• Ucrania busca demostrar su capacidad militar frente a la ocupación rusa en el área.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6y498pd1q54o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-18T00:55:45.000Z",
-      "teaser": "Lo clave en 20 segundos: un ataque sofisticado de Ucrania afecta gravemente a un puente simbólico en Crimea.",
+      "teaser": "Lo clave en 20 segundos: Ucrania lanza un ataque sofisticado al puente de Crimea, repercusiones significativas se anticipan.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/fa82/live/714c81a0-e2ea-11f1-b501-7dd6988c3a9e.png",
       "description": "Uno de los símbolos de la ocupación rusa de Ucrania ha sufrido graves daños tras un ataque en siete fases perpetrado por Kyiv.",
       "featured": false
@@ -186,11 +199,11 @@
       "slug": "el-disco-de-oro-con-mensajes-para-los-extraterrestres-que-transporta-la-sonda-voyager-1-y-como-podran-descifrarlo",
       "title": "El disco de oro con mensajes para los extraterrestres que transporta la sonda Voyager 1 (y cómo podrán descifrarlo)",
       "category": "Mundo",
-      "bullets_20s": "• Las sondas Voyager 1 y 2 llevan un disco de oro con mensajes para extraterrestres.\n• El disco contiene audio, imágenes y saludos en múltiples lenguas del mundo.\n• Se diseñaron mensajes para transmitir información sobre la humanidad y la Tierra.\n• Los científicos han elaborado métodos para que civilizaciones lejanas puedan descifrarlos.\n• Esta misión representa un esfuerzo humano por conectar con otras formas de vida.",
+      "bullets_20s": "• La sonda Voyager 1 lleva un disco de oro con mensajes para posibles civilizaciones extraterrestres.\n• Estos discos incluyen saludos, música y sonidos de la Tierra, representando nuestra diversidad.\n• Los científicos han desarrollado métodos para que estos mensajes puedan ser descifrados por extraterrestres.\n• La Voyager 1 se lanzó en 1977 y ha viajado más allá de los límites de nuestro sistema solar.\n• La importancia de este disco radica en la posibilidad de contacto con vida inteligente en el universo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ck1l0v4yy6p0o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-17T23:39:46.000Z",
-      "teaser": "Lo clave en 20 segundos: Mensajes en el disco de oro de Voyager 1 buscan contactar extraterrestres.",
+      "teaser": "Lo clave en 20 segundos: La Voyager 1 porta un disco de oro con mensajes para extraterrestres.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f567/live/1e628630-e2d9-11f1-ba34-c7d189b2efe2.jpg",
       "description": "Las sondas Voyager 1 y Voyager 2 fueron lanzadas al espacio con discos de oro que contienen mensajes para civilizaciones extraterrestres.",
       "featured": false
@@ -238,11 +251,11 @@
       "slug": "como-los-directores-del-premiado-documental-naza-convencieron-a-soldados-israelies-para-que-hablaran-sobre-el-uso-de-ia-",
       "title": "Cómo los directores del premiado documental \"Naza\" convencieron a soldados israelíes para que hablaran sobre el uso de IA para seleccionar objetivos en Gaza",
       "category": "Mundo",
-      "bullets_20s": "• El documental \"Naza\" aborda el uso de inteligencia artificial en conflictos bélicos actuales.\n• Se explora cómo los directores lograron entrevistas con soldados israelíes sobre su experiencia.\n• La obra ha recibido diversas críticas positivas por su enfoque audaz y revelador.\n• El uso de IA en contextos militares genera debates éticos significativos en la sociedad.\n• Los realizadores han sido reconocidos internacionalmente por su trabajo innovador en el cine.",
+      "bullets_20s": "• Los directores abordan el impacto de la inteligencia artificial en conflictos bélicos actuales.\n• La conversación se centra en la moralidad y ética del uso de IA en la guerra moderna.\n• Abraham y Szor realizaron entrevistas reveladoras con soldados sobre sus experiencias.\n• El documental ha generado un amplio debate sobre la percepción de la guerra y la tecnología.\n• La película destaca los dilemas que enfrentan los militares al usar tecnología avanzada.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c8r4g6xr75vyo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-17T22:24:17.000Z",
-      "teaser": "Lo clave en 20 segundos: El documental \"Naza\" revela el uso de IA en la guerra, conversando con soldados.",
+      "teaser": "Lo clave en 20 segundos: El documental \"Naza\" aborda el uso de IA en conflictos y sus implicaciones éticas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9e06/live/ac35afb0-e2ba-11f1-b083-69f1e69220f8.jpg",
       "description": "En una entrevista con la BBC, los cineastas israelíes Yuval Abraham y Rachel Szor, ganadores del Oscar, hablan sobre su aclamado documental \"Naza\".",
       "featured": false
@@ -328,12 +341,12 @@
     {
       "slug": "datos-de-la-nasa-para-la-papa-y-la-cebolla-estudiantes-del-tec-ganan-el-space-apps-challenge-con-un-prototipo-de-app-par",
       "title": "Datos de la NASA para la papa y la cebolla: estudiantes del TEC ganan el Space Apps Challenge con un prototipo de app para pequeños productores",
-      "category": "Ciencia",
-      "bullets_20s": "• Estudiantes del TEC desarrollaron Germina Finance, apoyados por datos satelitales de la NASA.\n• La app ayuda a los agricultores a mejorar rotaciones de cultivos en Cartago.\n• Este año, 220 participantes colaboraron en 56 equipos en el Space Apps Challenge.\n• El prototipo brinda recomendaciones basadas en varios factores, como la salud del suelo.\n• El desafío promueve soluciones innovadoras usando datos abiertos de la NASA.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El primer lugar del Space Apps Challenge lo ganó un equipo del Tecnológico de Costa Rica.\n• Desarrollaron una app que ayuda a pequeños productores a gestionar sus cultivos.\n• El proyecto utiliza datos satelitales de la NASA sobre clima y vegetación.\n• El prototipo está diseñado para personas con poca experiencia digital y funciona offline.\n• El fenómeno de El Niño afecta las lluvias en varias regiones del país.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/datos-nasa-papa-cebolla-estudiantes-tec-ganan-space-apps-challenge-prototipo-app-pequenos",
       "publish_date": "2026-11-17T20:11:26.000Z",
-      "teaser": "Lo clave en 20 segundos: estudiantes del TEC destacan con app para agricultores usando datos de la NASA.",
+      "teaser": "Lo clave en 20 segundos: estudiantes del TEC ganan con app para apoyar a productores agrícolas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dsc08350.JPG",
       "description": "Datos de la NASA para la papa y la cebolla: estudiantes del TEC ganan el Space Apps Challenge con un prototipo de app para pequeños productores",
       "featured": false
@@ -498,13 +511,13 @@
       "slug": "el-tec-destaca-como-la-mejor-institucion-publica-en-reputacion-y-responsabilidad-social",
       "title": "El TEC destaca como la mejor institución pública en reputación y responsabilidad social",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC es reconocido por su compromiso con la responsabilidad social y la excelencia académica.\n• Se destaca en el Monitor Empresarial de Reputación Corporativa (Merco) en su décima edición.\n• La institución promueve proyectos que benefician a comunidades con conocimiento científico.\n• Su rectora, María Estrada Sánchez, también es reconocida en el ranking de líderes con mejor reputación.\n• Merco evalúa la reputación de empresas y líderes desde el año 2000 en múltiples países.",
+      "bullets_20s": "• El Tecnológico de Costa Rica es reconocido por su alto compromiso con la responsabilidad social.\n• Estudios recientes posicionan al TEC como la mejor universidad pública en reputación del país.\n• La investigación incluyó 695 encuestas y 11 fuentes de información detallada.\n• El compromiso social del TEC incluye proyectos en colaboración con comunidades locales.\n• La rectora del TEC, María Estrada, mejora su posición en el ranking nacional de líderes.\n• El Monitor Empresarial de Reputación Corporativa evalúa organizaciones desde el año 2000.\n• El TEC sigue liderando tanto en el sector público como en el privado en educación superior.\n• Este estudio se realiza en 20 países de Iberoamérica y Estados Unidos.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-destaca-mejor-institucion-publica-reputacion-responsabilidad-social",
       "publish_date": "2026-11-17T18:11:01.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC es la mejor institución pública en reputación y responsabilidad social en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El TEC se consagra como la mejor institución pública en responsabilidad social.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/proyecto-recurso-hidrico_rgaria-4-3.png",
-      "description": "El TEC destaca como la mejor institución pública en reputación y responsabilidad social.",
+      "description": "El TEC destaca como la mejor institución pública en reputación y responsabilidad social",
       "featured": false
     },
     {
@@ -550,11 +563,11 @@
       "slug": "diputaciones-rectoria-y-comunidad-estudiantil-del-cal-limon-buscan-salidas-a-la-crisis-en-el-caribe",
       "title": "Diputaciones, Rectoría y comunidad estudiantil del CAL Limón buscan salidas a la crisis en el Caribe",
       "category": "Costa Rica",
-      "bullets_20s": "• Representantes de Diputaciones y el TEC se reunieron para abordar la crisis del Centro Académico de Limón.\n• La comunidad estudiantil busca garantizar la sostenibilidad del CAL Limón a través de soluciones efectivas.\n• La Sala Constitucional revisa un recurso de amparo del TEC por falta de fondos asignados.\n• La rectoría del TEC enfatiza que no hay financiamiento disponible de superávit para cubrir los gastos de Limón.\n• El centro académico ha enfrentado una crisis presupuestaria significativa desde octubre de este año.",
+      "bullets_20s": "• Reunión en la Asamblea Legislativa para abordar la crisis del CAL Limón y buscar soluciones.\n• La Sala Constitucional estudia un recurso de amparo presentado por el TEC por falta de fondos.\n• Desde octubre, el CAL Limón enfrenta cierre técnico por la falta de recursos para su operación.\n• Diputados de varias fracciones legislativas apoyan la búsqueda de financiamiento sostenible.\n• La Rectora del TEC comentó la importancia de mantener la educación superior en Limón.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/diputaciones-rectoria-comunidad-estudiantil-cal-limon-buscan-salidas-crisis-caribe",
       "publish_date": "2026-11-17T16:27:25.000Z",
-      "teaser": "Lo clave en 20 segundos: se busca solución a la crisis del CAL Limón con apoyo estudiantil y legislativo.",
+      "teaser": "Lo clave en 20 segundos: Diputaciones y comunidad estudiantil trabajan juntos para resolver crisis educativa en Limón.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dsc05470.JPG",
       "description": "Diputaciones, Rectoría y comunidad estudiantil del CAL Limón buscan salidas a la crisis en el Caribe",
       "featured": false
@@ -999,6 +1012,19 @@
       "teaser": "Lo clave en 20 segundos: Mayuli Ortega cubrirá el alquiler de su BMW tras rechazo del TSE.",
       "image_url": "https://www.nacion.com/resizer/v2/WH7BR6WCUZEI3FKMQ4643BEDDY.JPG?smart=true&auth=4e32f726c2f8eb5fba31c63862e450dee51a2d92c4fb4a504b8e0f58a55a33c7&width=1440",
       "description": "Mayuli Ortega anunció que pagará de su bolsillo el alquiler del BMW X1 asignado por Pueblo Soberano, luego de que el TSE rechazó cubrir el gasto con fondos públicos.",
+      "featured": false
+    },
+    {
+      "slug": "potenciando-el-turismo-local-estudiantes-de-turrialba-y-jimenez-disenan-servicios-sostenibles-con-el-apoyo-del-tec",
+      "title": "Potenciando el turismo local: estudiantes de Turrialba y Jiménez diseñan servicios sostenibles con el apoyo del TEC",
+      "category": "Costa Rica",
+      "bullets_20s": "• Estudiantes de Turrialba y Jiménez colaboran en un proyecto de turismo sostenible junto al TEC.\n• El proyecto busca vincular la educación técnica con el desarrollo de sus comunidades locales.\n• Talleres prácticos permiten a estudiantes diseñar propuestas turísticas sostenibles y viables.\n• El TEC reafirma su compromiso con la formación técnica y el desarrollo socioeconómico local.\n• La iniciativa incorpora un segundo módulo sobre Contabilidad y Finanzas Básicas para emprendedores.",
+      "source_name": "nchinchilla",
+      "source_url": "http://www.tec.ac.cr/potenciando-turismo-local-estudiantes-turrialba-jimenez-disenan-servicios-sostenibles-apoyo-tec",
+      "publish_date": "2026-11-17T01:50:30.000Z",
+      "teaser": "Lo clave en 20 segundos: estudiantes crean servicios turísticos sostenibles con el TEC en Turrialba y Jiménez.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/liceo-tucurrique-v-ano_0.jpeg",
+      "description": "Potenciando el turismo local: estudiantes de Turrialba y Jiménez diseñan servicios sostenibles con el apoyo del TEC",
       "featured": false
     },
     {
@@ -1883,19 +1909,6 @@
       "teaser": "Lo clave en 20 segundos: Un bebé fue salvado de una situación crítica en Alajuela.",
       "image_url": "https://www.nacion.com/resizer/v2/GP4NMJNWUVCIBBD5NKG7GNFOKM.jpg?smart=true&auth=3efa3493ea99961b60315113160e288af5b15da43dc365ca0d290def63b87163&width=1440",
       "description": "Niña tenía múltiples lesiones y marcas en cara y cuello. Su madre, sospechosa de intentar asfixiarla, fue detenida en Barrio San José de Alajuela",
-      "featured": false
-    },
-    {
-      "slug": "potenciando-el-turismo-local-estudiantes-de-turrialba-y-jimenez-disenan-servicios-sostenibles-con-el-apoyo-del-tec",
-      "title": "Potenciando el turismo local: estudiantes de Turrialba y Jiménez diseñan servicios sostenibles con el apoyo del TEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes de Turrialba y Jiménez participan en un proyecto de turismo sostenible apoyado por el TEC.\n• El objetivo es acercar estudiantes a metodologías prácticas vinculadas al turismo y desarrollo local.\n• Se involucraron talleres prácticos para diseñar propuestas turísticas innovadoras en la región.\n• El proyecto impulsa el talento joven y conecta teoría con la realidad comunitaria del turismo.\n• Expertos del TEC guían a los estudiantes en el desarrollo de servicios turísticos sostenibles.",
-      "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/potenciando-turismo-local-estudiantes-turrialba-jimenez-disenan-servicios-sostenibles-apoyo-tec",
-      "publish_date": "2026-11-16T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: estudiantes de Turrialba y Jiménez diseñan servicios turísticos sostenibles con el TEC.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/liceo-tucurrique-v-ano_0.jpeg",
-      "description": "Potenciando el turismo local: estudiantes de Turrialba y Jiménez diseñan servicios sostenibles con el apoyo del TEC",
       "featured": false
     },
     {
@@ -136748,8 +136761,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-18T06:45:26.385Z",
-  "total": 10519,
+  "generated_at": "2026-11-18T07:45:26.328Z",
+  "total": 10520,
   "removed_soccer_news_count": 1643,
   "removed_soccer_news_titles": [
     "Inter San Carlos vs. Sporting: Día, hora y canal para ver este partido",
