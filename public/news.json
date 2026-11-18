@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "nvidia-suspende-los-envios-de-chips-de-ia-a-china-en-medio-de-escandalo-por-presunto-espionaje",
+      "title": "Nvidia suspende los envíos de chips de IA a China en medio de escándalo por presunto espionaje",
+      "category": "Mundo",
+      "bullets_20s": "• Nvidia ha tomado una decisión drástica que afecta sus envíos de chips a China debido a preocupaciones de espionaje.\n• Los chips avanzados de inteligencia artificial son clave para diversas industrias en el gigante asiático.\n• Este movimiento se produce en medio de crecientes tensiones geopolíticas entre Estados Unidos y China.\n• Cuestionamientos sobre el contrabando de estos equipos han llevado a Nvidia a reconsiderar sus operaciones.\n• La suspensión podría impactar varios sectores tecnológicos que dependen de la innovación de Nvidia.\n• Analistas sugieren que esta decisión influirá en el futuro de la colaboración tecnológica entre ambas naciones.\n• Las autoridades chinas han expresado su descontento con esta medida, que consideran un acto de proteccionismo.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/nvidia-suspende-los-envios-de-chips-de-ia-a-china/X5GTUG4VTVAITCRMY4ZQMMA5ZA/story/",
+      "publish_date": "2026-11-18T16:20:06.000Z",
+      "teaser": "Lo clave en 20 segundos: Nvidia suspende envíos de chips a China por preocupaciones de espionaje.",
+      "image_url": "https://www.nacion.com/resizer/v2/L5F2MUNMNBHPTGKD5SVY66ULUE.jpg?auth=0b4d9cd9bb1a1cad81f5797e2acd27e0703eaf5c13732c3ec2e25edcebacf47a&smart=true&width=7488&height=4994",
+      "description": "Nvidia suspendió los envíos de sus chips avanzados de IA a China, mientras enfrenta cuestionamientos por el posible contrabando de estos equipos.",
+      "featured": false
+    },
+    {
+      "slug": "nuevo-adhesivo-para-la-cabeza-acelera-el-inicio-del-sueno-rem-en-43-minutos-conozca-los-detalles-del-dispositivo",
+      "title": "Nuevo adhesivo para la cabeza acelera el inicio del sueño REM en 43 minutos: conozca los detalles del dispositivo",
+      "category": "Ciencia",
+      "bullets_20s": "• NEUSLeeP es un dispositivo innovador diseñado para mejorar la calidad del sueño.\n• Utiliza ultrasonido para inducir el inicio del sueño REM más rápidamente.\n• El adhesivo es bioelectrónico y se encuentra en fase de prueba actualmente.\n• Los investigadores provienen de la reconocida Universidad de Texas en Estados Unidos.\n• No requiere el uso de medicamentos ni procedimientos quirúrgicos invasivos.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/nuevo-adhesivo-para-la-cabeza-acelera-el-inicio/4LKVIONTRBENRGUAZ3PQN5WKVE/story/",
+      "publish_date": "2026-11-18T15:59:48.000Z",
+      "teaser": "Lo clave en 20 segundos: Un nuevo adhesivo acelera el sueño REM sin medicación ni cirugía.",
+      "image_url": "https://www.nacion.com/resizer/v2/QFVBKIPI35CLBMDNUATCXDMK3Y.png?auth=95f06ccf733cecbed4a609433cdb345d833bf715c39491371682da2b243c76ed&smart=true&width=1062&height=814",
+      "description": "Investigadores de la Universidad de Texas crearon NEUSLeeP, un adhesivo bioelectrónico en fase de prueba que utiliza ultrasonido para acelerar en 43 minutos el inicio del sueño REM sin fármacos ni cirugías.",
+      "featured": false
+    },
+    {
+      "slug": "israel-cruza-la-llamada-linea-amarilla-en-gaza-y-ordena-evacuar-sectores-pese-al-alto-el-fuego",
+      "title": "Israel cruza la llamada ‘línea amarilla’ en Gaza y ordena evacuar sectores pese al alto el fuego",
+      "category": "Mundo",
+      "bullets_20s": "• La situación en Gaza continúa siendo tensa con operaciones militares recientes en la región.\n• La línea amarilla se ha convertido en un punto crítico de conflicto entre Israel y Palestina.\n• Se prevé un impacto significativo en la población civil debido a las evacuaciones ordenadas.\n• La comunidad internacional sigue de cerca los eventos en Gaza y sus repercusiones.\n• El alto el fuego se encuentra en riesgo de ser violado tras estas acciones militares.\n• El análisis sobre esta incursión militar revela cambios en la estrategia israelí en la zona.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/el-mundo/israel-cruza-la-llamada-linea-amarilla-en-gaza-y/NJ2TY4VP5NF2LMDI2WEEATR7IQ/story/",
+      "publish_date": "2026-11-18T15:41:17.000Z",
+      "teaser": "Lo clave en 20 segundos: Israel lanza operación en Gaza, complicando el cese del fuego y generando evacuaciones.",
+      "image_url": "https://www.nacion.com/resizer/v2/BCGYGAOGCFCZRGAGDB5NPLWZ24.jpg?smart=true&auth=2720fef2d5f99a44080129d92ee6acbeb5d3cd7bc12ccdd22e5d761616b7972e&width=1440",
+      "description": "El Ejército de Israel lanzó una operación en el centro de Gaza más allá de la línea amarilla y cerró una vía clave. Conozca el impacto de la incursión.",
+      "featured": false
+    },
+    {
       "slug": "detenidos-dos-sospechosos-de-homicidio-en-playa-hermosa-en-allanamientos-a-tres-casas-en-puntarenas",
       "title": "Detenidos dos sospechosos de homicidio en playa Hermosa en allanamientos a tres casas en Puntarenas",
       "category": "Costa Rica",
@@ -147,11 +186,11 @@
       "slug": "investigue-el-asesinato-de-mi-padre-y-desafio-la-version-oficial-de-un-episodio-clave-de-la-historia-de-peru",
       "title": "Investigué el asesinato de mi padre y desafío la versión oficial de un episodio clave de la historia de Perú",
       "category": "Mundo",
-      "bullets_20s": "• El episodio de Uchuraccay marca una herida profunda en la historia de Perú.\n• La investigación sobre este evento sigue siendo un tema sensible y polémico.\n• Periodistas asesinados dejaron un legado de valentía y sacrificio.\n• Las versiones oficiales sobre el caso han sido cuestionadas durante años.\n• La búsqueda de la verdad continúa siendo un desafío para las familias afectadas.",
+      "bullets_20s": "• El caso del asesinato en Uchuraccay sigue generando controversia en la sociedad peruana.\n• El relato de los hechos desafía las versiones oficiales presentadas a lo largo de los años.\n• Los periodistas asesinados son recordados cada año, evocando dolor en sus familias.\n• Investigaciones recientes buscan aclarar lo sucedido en ese trágico episodio de la historia.\n• La libertad de expresión y la seguridad de los periodistas son temas cruciales hoy en día.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmwyz0wj4xjeo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-18T12:24:23.000Z",
-      "teaser": "Lo clave en 20 segundos: Un hijo investiga el asesinato de su padre y desafía la versión oficial sobre Uchuraccay.",
+      "teaser": "Lo clave en 20 segundos: el caso de Uchuraccay sigue suscitando debates y revisiones cruciales.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9bdc/live/cd95a0d0-b645-11f1-b1d1-571ed4d7ff2c.png",
       "description": "La matanza de varios periodistas en Uchuraccay es uno de los episodios más recordados de un pasado doloroso y de nuevo en discusión.",
       "featured": false
@@ -212,11 +251,11 @@
       "slug": "no-podiamos-pagar-una-casa-para-nuestra-familia-asi-que-compramos-una-con-desconocidos",
       "title": "No podíamos pagar una casa para nuestra familia, así que compramos una con desconocidos",
       "category": "Mundo",
-      "bullets_20s": "• El elevado costo de vida ha llevado a muchas familias a buscar alternativas habitacionales.\n• Las cooperativas de vivienda están ganando popularidad entre quienes buscan soluciones.\n• El modelo de compartir vivienda puede ser una respuesta a la crisis de la vivienda.\n• Las familias buscan formar comunidades que les ayuden a compartir costos y responsabilidades.\n• La incertidumbre del mercado inmobiliario genera un ambiente complicado para los compradores.",
+      "bullets_20s": "• En Canadá, los altos precios de vivienda han afectado a muchas familias que buscan alternativas.\n• El fenómeno de compartir casas está en aumento, ayudando a reducir costos de vivienda.\n• Algunas familias se agrupan para compartir gastos y mejorar su calidad de vida.\n• La situación económica ha llevado a diversas familias a buscar soluciones innovadoras.\n• Este modelo de vivienda compartida puede ser una respuesta ante la crisis actual.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmzx95xnwdd6o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-18T11:50:32.000Z",
-      "teaser": "Lo clave en 20 segundos: Familias canadienses buscan compartir viviendas ante el alto costo de la propiedad.",
+      "teaser": "Lo clave en 20 segundos: Familias canadienses buscan compartir hogares ante la crisis de precios de vivienda.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/da1d/live/2cfb5880-e265-11f1-900c-895604014268.jpg",
       "description": "Hay personas y familias en Canadá que no pueden permitirse adquirir una vivienda por sus precios elevados y buscan cómo asociarse a otros que estén en su misma situación.",
       "featured": false
@@ -355,11 +394,11 @@
       "slug": "por-que-la-historica-cumbre-entre-trump-putin-y-xi-preocupa-a-europa-y-que-puede-significar-para-el-resto-del-mundo",
       "title": "Por qué la histórica cumbre entre Trump, Putin y Xi preocupa a Europa (y qué puede significar para el resto del mundo)",
       "category": "Mundo",
-      "bullets_20s": "• La cumbre marca un hito significativo en las relaciones internacionales del siglo XXI.\n• Los líderes de tres potencias globales se reúnen en un contexto de tensión creciente.\n• Analistas advierten sobre nuevos bloques de poder en el escenario mundial tras la cumbre.\n• La reacción europea refleja preocupaciones sobre la estabilidad global y la paz.\n• Se anticipan cambios en las políticas internacionales, afectando a países aliados.",
+      "bullets_20s": "• La cumbre entre los líderes puede redefinir las relaciones internacionales en el contexto actual.\n• Europa muestra preocupación ante el potencial de nuevas divisiones geopolíticas al estilo post-Segunda Guerra.\n• Analistas indican que la reunión podría influir notablemente en la seguridad global y el comercio.\n• Las alianzas estratégicas entre estas potencias afectan las dinámicas de poder a nivel mundial.\n• La historia nos enseña que encuentros como este pueden llevar a importantes acuerdos o conflictos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmwy98z3727vo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-18T04:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: Cumbre entre líderes mundiales genera temores sobre el futuro geopolítico.",
+      "teaser": "Lo clave en 20 segundos: la cumbre entre Trump, Putin y Xi puede alterar el panorama global.",
       "image_url": "",
       "description": "Los preparativos para la primera reunión trilateral de los líderes de China, Rusia y Estados Unidos han generado alarma en Europa, donde algunos ven paralelismos con la división del mundo en esferas de influencia tras la Segunda Guerra Mundial.",
       "featured": false
@@ -653,12 +692,12 @@
     {
       "slug": "datos-de-la-nasa-para-la-papa-y-la-cebolla-estudiantes-del-tec-ganan-el-space-apps-challenge-con-un-prototipo-de-app-par",
       "title": "Datos de la NASA para la papa y la cebolla: estudiantes del TEC ganan el Space Apps Challenge con un prototipo de app para pequeños productores",
-      "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes del TEC crean app para ayudar a pequeños productores agrícolas en Cartago utilizando datos de la NASA.\n• El prototipo Germina Finance busca recomendar cultivos sostenibles para mejorar los ingresos de las familias agricultoras.\n• El hackatón Space Apps Challenge reúne a participantes de diversas disciplinas para resolver retos sobre la Tierra y el espacio.\n• El TEC organizó el evento en noviembre y participaron 220 personas organizadas en 56 equipos de trabajo.\n• El proyecto busca enfrentar retos del cambio climático y la erosión del suelo que afectan la agricultura costarricense.",
+      "category": "Ciencia",
+      "bullets_20s": "• Estudiantes del TEC desarrollaron una app para ayudar a productores de papa y cebolla en Cartago.\n• La app utiliza datos satelitales de la NASA para mejorar la rotación de cultivos agrícolas.\n• Germina Finance facilita la toma de decisiones para minimizar la erosión y ahorrar agua.\n• El hackatón Space Apps Challenge reunió a 220 participantes en equipos para resolver retos propuestos.\n• El proyecto busca ser una herramienta accesible incluso para quienes no tienen experiencia digital.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/datos-nasa-papa-cebolla-estudiantes-tec-ganan-space-apps-challenge-prototipo-app-pequenos",
       "publish_date": "2026-11-17T20:11:26.000Z",
-      "teaser": "Lo clave en 20 segundos: estudiantes del TEC ganan Space Apps Challenge con app para agricultores usando datos de la NASA.",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC crean app agrícola ganadora del Space Apps Challenge utilizando datos de la NASA.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dsc08350.JPG",
       "description": "Datos de la NASA para la papa y la cebolla: estudiantes del TEC ganan el Space Apps Challenge con un prototipo de app para pequeños productores",
       "featured": false
@@ -823,11 +862,11 @@
       "slug": "el-tec-destaca-como-la-mejor-institucion-publica-en-reputacion-y-responsabilidad-social",
       "title": "El TEC destaca como la mejor institución pública en reputación y responsabilidad social",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC se posiciona como líder en reputación social en el país y en la educación superior.\n• Se realizó un estudio que ratifica la excelencia y responsabilidad del Tecnológico de Costa Rica.\n• La Ing. María Estrada Sánchez ocupa el puesto 42 en el ranking de liderazgos en reputación.\n• El estudio fue realizado por Merco, que evalúa la reputación desde el año 2000 a nivel nacional.\n• Las buenas prácticas del TEC contribuyen a su reconocimiento en responsabilidad social y ambiental.",
+      "bullets_20s": "• El TEC se posiciona como la universidad líder en reputación y responsabilidad social en Costa Rica.\n• La excelente gestión institucional del TEC refleja su compromiso con la excelencia académica y social.\n• Se han resaltado proyectos que fortalecen la conexión entre la universidad y comunidades locales.\n• El estudio Merco confirma la reputación y responsabilidad social del TEC en el ámbito nacional.\n• La rectora del TEC, María Estrada, también es reconocida por su liderazgo en el país.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-destaca-mejor-institucion-publica-reputacion-responsabilidad-social",
       "publish_date": "2026-11-17T18:11:01.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC es reconocido como la mejor institución pública en reputación social.",
+      "teaser": "Lo clave en 20 segundos: El TEC reafirma su liderazgo en reputación y responsabilidad social en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/proyecto-recurso-hidrico_rgaria-4-3.png",
       "description": "El TEC destaca como la mejor institución pública en reputación y responsabilidad social",
       "featured": false
@@ -875,11 +914,11 @@
       "slug": "diputaciones-rectoria-y-comunidad-estudiantil-del-cal-limon-buscan-salidas-a-la-crisis-en-el-caribe",
       "title": "Diputaciones, Rectoría y comunidad estudiantil del CAL Limón buscan salidas a la crisis en el Caribe",
       "category": "Costa Rica",
-      "bullets_20s": "• Representantes de varios bloques legislativos se reunieron con el TEC para abordar la crisis en el CAL Limón.\n• La Sala Constitucional acoge el amparo presentado por el TEC por la falta de fondos.\n• El TEC enfrenta un cierre técnico y debe operar con recursos propios desde octubre.\n• La rectora del TEC enfatiza que es vital mantener la educación pública en todas las regiones.\n• Estudiantes expresan su preocupación por las diferencias de financiamiento entre sedes centrales y regionales.",
+      "bullets_20s": "• Representantes de fracciones legislativas se reunieron con la comunidad estudiantil del TEC en Limón.\n• El presupuesto del CAL Limón enfrenta una crisis que requiere atención urgente y soluciones efectivas.\n• La Sala Constitucional estudia un recurso de amparo relacionado con el financiamiento del CAL Limón.\n• Los legisladores analizan formas de garantizar la sostenibilidad educativa en la región caribeña.\n• El TEC ha tenido que cubrir sus costos operativos con recursos propios desde la falta de financiamiento.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/diputaciones-rectoria-comunidad-estudiantil-cal-limon-buscan-salidas-crisis-caribe",
       "publish_date": "2026-11-17T16:27:25.000Z",
-      "teaser": "Lo clave en 20 segundos: Diputaciones y comunidad buscan soluciones ante crisis en el CAL Limón.",
+      "teaser": "Lo clave en 20 segundos: Diputaciones y comunidad estudial unen fuerzas por la crisis educativa en Limón.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dsc05470.JPG",
       "description": "Diputaciones, Rectoría y comunidad estudiantil del CAL Limón buscan salidas a la crisis en el Caribe",
       "featured": false
@@ -1317,11 +1356,11 @@
       "slug": "potenciando-el-turismo-local-estudiantes-de-turrialba-y-jimenez-disenan-servicios-sostenibles-con-el-apoyo-del-tec",
       "title": "Potenciando el turismo local: estudiantes de Turrialba y Jiménez diseñan servicios sostenibles con el apoyo del TEC",
       "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes de secundaria en Turrialba y Jiménez desarrollan servicios turísticos sostenibles. Esta experiencia es enriquecedora y práctica.\n• Los talleres buscan conectar teoría y realidad, promoviendo el desarrollo local y el legado cultural de las comunidades.\n• El proyecto involucra a profesionales del Tecnológico de Costa Rica para guiar a los estudiantes en la sostenibilidad turística.\n• Las metodologías aplicadas incluyen innovación y análisis de costos para impulsar el emprendimiento en sus comunidades.\n• El enfoque del proyecto está en la formación práctico-teórica que permite una visión clara del sector turístico local.\n• Los talleres motivan a la juventud a transformar sus ideas en negocios sostenibles, mejorando su educación y empleabilidad.",
+      "bullets_20s": "• Estudiantes de Turrialba y Jiménez crean propuestas turísticas sostenibles con ayuda del TEC.\n• El proyecto vincula la teoría académica con el desarrollo local a través del turismo.\n• Talleres prácticos permiten que jóvenes aprendan sobre sostenibilidad y patrimonio cultural.\n• La coordinación interescuelas asegura enfoque multidisciplinario en la enseñanza del turismo.\n• El TEC implica a estudiantes universitarios para fortalecer el aprendizaje práctico.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/potenciando-turismo-local-estudiantes-turrialba-jimenez-disenan-servicios-sostenibles-apoyo-tec",
       "publish_date": "2026-11-17T01:50:30.000Z",
-      "teaser": "Lo clave en 20 segundos: estudiantes de Turrialba y Jiménez crean propuestas turísticas sostenibles con el TEC.",
+      "teaser": "Lo clave en 20 segundos: estudiantes diseñan servicios turísticos sostenibles con apoyo del TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/liceo-tucurrique-v-ano_0.jpeg",
       "description": "Potenciando el turismo local: estudiantes de Turrialba y Jiménez diseñan servicios sostenibles con el apoyo del TEC",
       "featured": false
@@ -137060,10 +137099,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-18T15:45:27.307Z",
-  "total": 10543,
-  "removed_soccer_news_count": 1644,
+  "generated_at": "2026-11-18T16:45:27.396Z",
+  "total": 10546,
+  "removed_soccer_news_count": 1645,
   "removed_soccer_news_titles": [
+    "La Selección de Costa Rica jugará ante un equipo del Caribe el repechaje para la Copa Oro",
     "Tráfico mundial de la cocaína se afianza en nuevo centro neurálgico: el oeste de África",
     "Inter San Carlos vs. Sporting: Día, hora y canal para ver este partido",
     "Escorpiones vs. San Carlos: Solo hay una manera de ver este partido",
@@ -137112,7 +137152,6 @@
     "¿A qué hora juega Costa Rica hoy? Todo lo que debe saber del partido entre Ecuador y la ‘Sele’",
     "Falla mundial de Microsoft afecta servicios de salud, empresas y a millones de usuarios",
     "Guerra híbrida: las nuevas armas del desorden mundial",
-    "Lionel Scaloni es noticia en la Selección de Argentina a pocos días de jugar ante Costa Rica",
-    "Fuerzas de Haití recuperan estadio de la selección de fútbol bajo control de pandilleros"
+    "Lionel Scaloni es noticia en la Selección de Argentina a pocos días de jugar ante Costa Rica"
   ]
 }
