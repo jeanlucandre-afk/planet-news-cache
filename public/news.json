@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "fiscalia-conforma-equipo-especializado-para-investigar-asesinato-del-periodista-camilo-rodriguez",
+      "title": "Fiscalía conforma equipo especializado para investigar asesinato del periodista Camilo Rodríguez",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Fiscalía busca esclarecer el asesinato del periodista Camilo Rodríguez en Heredia.\n• Se formó un equipo especializado para investigar este homicidio reciente.\n• El crimen ocurrió en la ruta 32 en San Miguel de Santo Domingo.\n• La investigación busca asegurar justicia y esclarecer los hechos del caso.\n• Rodríguez era conocido por su trabajo en el periodismo costarricense.\n• Las autoridades han solicitado la colaboración de la comunidad para obtener información.\n• Este caso marca un momento crítico para la libertad de expresión en el país.",
+      "source_name": "Natalia Vargas",
+      "source_url": "https://www.nacion.com/sucesos/fiscalia-conforma-equipo-especializado-para/IHU4WVNSMZCTJHJRINREJWYWNU/story/",
+      "publish_date": "2026-11-18T16:56:14.000Z",
+      "teaser": "Lo clave en 20 segundos: Fiscalía crea equipo para investigar el asesinato del periodista Camilo Rodríguez en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/OREYNRACT5CNBHLC6YQCM2PKW4.jpeg?auth=1e457e17a8af0a5f761926626cdf0f228b771a29b8da5e6504f01752a3905f44&smart=true&width=1600&height=900",
+      "description": "La Fiscalía General de la República anunció que un equipo especializado dirigirá la investigación por el homicidio del periodista Camilo Rodríguez, ocurrido la tarde del lunes en la ruta 32, en San Miguel de Santo Domingo de Heredia.",
+      "featured": false
+    },
+    {
+      "slug": "bomberos-rescata-a-puma-que-habria-sido-golpeado-por-un-vehiculo-en-guapiles",
+      "title": "Bomberos rescata a puma que habría sido golpeado por un vehículo en Guápiles",
+      "category": "Costa Rica",
+      "bullets_20s": "• Bomberos realizaron un operativo para rescatar un puma en Guápiles, Limón, tras un accidente.\n• El animal presentaba heridas que podrían ser consecuencia de un atropello por un vehículo.\n• El Sistema Nacional de Áreas de Conservación se encargará del cuidado del puma.\n• Este tipo de rescates es importante para la conservación de la fauna silvestre en Costa Rica.\n• Los bomberos están capacitados para atender emergencias relacionadas con la fauna salvaje.",
+      "source_name": "Cristian Mora",
+      "source_url": "https://www.nacion.com/el-pais/bomberos-rescata-a-puma-que-habria-sido-golpeado/JQN6TFZPQVF3XJA4GYM3POQLSI/story/",
+      "publish_date": "2026-11-18T16:44:17.000Z",
+      "teaser": "Lo clave en 20 segundos: Rescate de un puma en Guápiles tras ser golpeado por un vehículo.",
+      "image_url": "https://www.nacion.com/resizer/v2/BTM5TM3YH5DSLK5H4HMDFGV2RY.jpg?smart=true&auth=50d68eebc87d695985227b2833b05103c92f42f3e6f5150b25a8d38df7155f75&width=1440",
+      "description": "Bomberos atendió el rescate de un puma adulto que aparentemente fue atropellado en Guápiles, Limón. El Sinac coordina la atención del animal.",
+      "featured": false
+    },
+    {
+      "slug": "que-revela-la-frecuencia-de-las-siestas-sobre-la-salud-esto-descubrio-un-estudio-cientifico",
+      "title": "¿Qué revela la frecuencia de las siestas sobre la salud? Esto descubrió un estudio científico",
+      "category": "Ciencia",
+      "bullets_20s": "• Investigaciones muestran que las siestas largas pueden afectar negativamente la salud de los adultos mayores.\n• Estudio realizado durante 19 años en Estados Unidos ha proporcionado hallazgos significativos.\n• Las siestas matutinas y prolongadas están asociadas con un mayor riesgo de mortalidad.\n• Es importante estar alerta a los cambios en los patrones de sueño y siestas.\n• Los científicos identificaron señales que podrían indicar riesgos a la salud en este contexto.",
+      "source_name": "O Globo",
+      "source_url": "https://www.nacion.com/ciencia/que-revela-la-frecuencia-de-las-siestas-sobre-la/TGBJJQCMQNFY7PMZMK42LWG5XQ/story/",
+      "publish_date": "2026-11-18T16:39:50.000Z",
+      "teaser": "Lo clave en 20 segundos: estudios revelan que las siestas largas pueden aumentar el riesgo de mortalidad en adultos mayores.",
+      "image_url": "https://www.nacion.com/resizer/v2/57DADEJEYFD4RE32H3RS5S35W4.png?auth=2c74c8aa23efa0371ca27a41936d20b893402b13bd214ab075a2986fa1f47c3f&smart=true&width=1536&height=1024",
+      "description": "Un estudio científico de 19 años en Estados Unidos revela que los adultos mayores que duermen siestas por la mañana o por periodos prolongados tienen mayor riesgo de mortalidad. Conozca los hallazgos y las señales de alerta para la salud.",
+      "featured": false
+    },
+    {
       "slug": "nvidia-suspende-los-envios-de-chips-de-ia-a-china-en-medio-de-escandalo-por-presunto-espionaje",
       "title": "Nvidia suspende los envíos de chips de IA a China en medio de escándalo por presunto espionaje",
       "category": "Mundo",
@@ -186,11 +225,11 @@
       "slug": "investigue-el-asesinato-de-mi-padre-y-desafio-la-version-oficial-de-un-episodio-clave-de-la-historia-de-peru",
       "title": "Investigué el asesinato de mi padre y desafío la versión oficial de un episodio clave de la historia de Perú",
       "category": "Mundo",
-      "bullets_20s": "• El caso del asesinato en Uchuraccay sigue generando controversia en la sociedad peruana.\n• El relato de los hechos desafía las versiones oficiales presentadas a lo largo de los años.\n• Los periodistas asesinados son recordados cada año, evocando dolor en sus familias.\n• Investigaciones recientes buscan aclarar lo sucedido en ese trágico episodio de la historia.\n• La libertad de expresión y la seguridad de los periodistas son temas cruciales hoy en día.",
+      "bullets_20s": "• La matanza en Uchuraccay es un episodio crítico que impactó la historia de Perú.\n• Se cuestiona la versión oficial sobre los hechos y su contexto político.\n• La investigación personal busca visibilizar la verdad detrás de la matanza.\n• Los asesinatos de periodistas son un tema sensible aún en la actualidad en Perú.\n• El análisis de este evento histórico genera debate sobre la libertad de prensa.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmwyz0wj4xjeo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-18T12:24:23.000Z",
-      "teaser": "Lo clave en 20 segundos: el caso de Uchuraccay sigue suscitando debates y revisiones cruciales.",
+      "teaser": "Lo clave en 20 segundos: un desafío a la historia oficial sobre la matanza en Uchuraccay.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/9bdc/live/cd95a0d0-b645-11f1-b1d1-571ed4d7ff2c.png",
       "description": "La matanza de varios periodistas en Uchuraccay es uno de los episodios más recordados de un pasado doloroso y de nuevo en discusión.",
       "featured": false
@@ -251,11 +290,11 @@
       "slug": "no-podiamos-pagar-una-casa-para-nuestra-familia-asi-que-compramos-una-con-desconocidos",
       "title": "No podíamos pagar una casa para nuestra familia, así que compramos una con desconocidos",
       "category": "Mundo",
-      "bullets_20s": "• En Canadá, los altos precios de vivienda han afectado a muchas familias que buscan alternativas.\n• El fenómeno de compartir casas está en aumento, ayudando a reducir costos de vivienda.\n• Algunas familias se agrupan para compartir gastos y mejorar su calidad de vida.\n• La situación económica ha llevado a diversas familias a buscar soluciones innovadoras.\n• Este modelo de vivienda compartida puede ser una respuesta ante la crisis actual.",
+      "bullets_20s": "• La crisis de la vivienda afecta a muchas familias en diversas regiones del mundo.\n• Las altas tarifas de propiedades están llevando a nuevas soluciones habitacionales.\n• Las personas buscan compartir casas para reducir costos y asegurar vivienda.\n• El modelo de cohabitación está ganando popularidad entre jóvenes y familias.\n• Vivir con desconocidos puede ofrecer oportunidades de comunidad y ahorro.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmzx95xnwdd6o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-18T11:50:32.000Z",
-      "teaser": "Lo clave en 20 segundos: Familias canadienses buscan compartir hogares ante la crisis de precios de vivienda.",
+      "teaser": "Lo clave en 20 segundos: familias canadienses encuentran soluciones a la crisis de vivienda compartiendo casas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/da1d/live/2cfb5880-e265-11f1-900c-895604014268.jpg",
       "description": "Hay personas y familias en Canadá que no pueden permitirse adquirir una vivienda por sus precios elevados y buscan cómo asociarse a otros que estén en su misma situación.",
       "featured": false
@@ -394,11 +433,11 @@
       "slug": "por-que-la-historica-cumbre-entre-trump-putin-y-xi-preocupa-a-europa-y-que-puede-significar-para-el-resto-del-mundo",
       "title": "Por qué la histórica cumbre entre Trump, Putin y Xi preocupa a Europa (y qué puede significar para el resto del mundo)",
       "category": "Mundo",
-      "bullets_20s": "• La cumbre entre los líderes puede redefinir las relaciones internacionales en el contexto actual.\n• Europa muestra preocupación ante el potencial de nuevas divisiones geopolíticas al estilo post-Segunda Guerra.\n• Analistas indican que la reunión podría influir notablemente en la seguridad global y el comercio.\n• Las alianzas estratégicas entre estas potencias afectan las dinámicas de poder a nivel mundial.\n• La historia nos enseña que encuentros como este pueden llevar a importantes acuerdos o conflictos.",
+      "bullets_20s": "• La reunión busca un diálogo entre potencias que podría cambiar la dinámica global actual.\n• Expertos analizan el impacto que tendrá en las relaciones internacionales y la seguridad mundial.\n• Se generan temores por una nueva polarización en el sistema internacional actual.\n• La historia enseña que alianzas entre grandes potencias pueden desestabilizar regiones enteras.\n• Las reacciones en Europa reflejan un aumento de la preocupación por la seguridad continental.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmwy98z3727vo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-18T04:04:11.000Z",
-      "teaser": "Lo clave en 20 segundos: la cumbre entre Trump, Putin y Xi puede alterar el panorama global.",
+      "teaser": "Lo clave en 20 segundos: La cumbre entre potencias genera alarma por posibles implicaciones globales.",
       "image_url": "",
       "description": "Los preparativos para la primera reunión trilateral de los líderes de China, Rusia y Estados Unidos han generado alarma en Europa, donde algunos ven paralelismos con la división del mundo en esferas de influencia tras la Segunda Guerra Mundial.",
       "featured": false
@@ -693,11 +732,11 @@
       "slug": "datos-de-la-nasa-para-la-papa-y-la-cebolla-estudiantes-del-tec-ganan-el-space-apps-challenge-con-un-prototipo-de-app-par",
       "title": "Datos de la NASA para la papa y la cebolla: estudiantes del TEC ganan el Space Apps Challenge con un prototipo de app para pequeños productores",
       "category": "Ciencia",
-      "bullets_20s": "• Estudiantes del TEC desarrollaron una app para ayudar a productores de papa y cebolla en Cartago.\n• La app utiliza datos satelitales de la NASA para mejorar la rotación de cultivos agrícolas.\n• Germina Finance facilita la toma de decisiones para minimizar la erosión y ahorrar agua.\n• El hackatón Space Apps Challenge reunió a 220 participantes en equipos para resolver retos propuestos.\n• El proyecto busca ser una herramienta accesible incluso para quienes no tienen experiencia digital.",
+      "bullets_20s": "• Estudiantes del TEC desarrollaron Germina Finance usando datos satelitales para mejorar cultivos en Cartago.\n• La app ayuda a pequeños productores a tomar decisiones para incrementar ingresos y reducir pérdidas.\n• El proyecto fue premiado en el NASA Space Apps Challenge 2026, celebrando la innovación local.\n• Germina Finance opera sin internet y proporciona alertas y recomendaciones en lenguaje sencillo.\n• El reto fue parte de un hackatón que reunió más de 200 participantes en 56 equipos en el TEC.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/datos-nasa-papa-cebolla-estudiantes-tec-ganan-space-apps-challenge-prototipo-app-pequenos",
       "publish_date": "2026-11-17T20:11:26.000Z",
-      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC crean app agrícola ganadora del Space Apps Challenge utilizando datos de la NASA.",
+      "teaser": "Lo clave en 20 segundos: Estudiantes del TEC crean app agrícola ganadora del Space Apps Challenge usando datos de la NASA.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dsc08350.JPG",
       "description": "Datos de la NASA para la papa y la cebolla: estudiantes del TEC ganan el Space Apps Challenge con un prototipo de app para pequeños productores",
       "featured": false
@@ -862,11 +901,11 @@
       "slug": "el-tec-destaca-como-la-mejor-institucion-publica-en-reputacion-y-responsabilidad-social",
       "title": "El TEC destaca como la mejor institución pública en reputación y responsabilidad social",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC se posiciona como la universidad líder en reputación y responsabilidad social en Costa Rica.\n• La excelente gestión institucional del TEC refleja su compromiso con la excelencia académica y social.\n• Se han resaltado proyectos que fortalecen la conexión entre la universidad y comunidades locales.\n• El estudio Merco confirma la reputación y responsabilidad social del TEC en el ámbito nacional.\n• La rectora del TEC, María Estrada, también es reconocida por su liderazgo en el país.",
+      "bullets_20s": "• El TEC es reconocido por su responsabilidad social y liderazgo en educación superior en Costa Rica.\n• El Monitor Empresarial de Reputación Corporativa ratifica la posición del TEC en el país.\n• La universidad implementa proyectos en comunidades, compartiendo conocimientos científicos y tecnológicos.\n• La gestión institucional y académica del TEC se consolida en el ámbito nacional e internacional.\n• La rectora del TEC está posicionado entre los 100 liderazgos con mejor reputación en el país.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/tec-destaca-mejor-institucion-publica-reputacion-responsabilidad-social",
       "publish_date": "2026-11-17T18:11:01.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC reafirma su liderazgo en reputación y responsabilidad social en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El TEC lidera en reputación y responsabilidad social según nuevo estudio en Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/proyecto-recurso-hidrico_rgaria-4-3.png",
       "description": "El TEC destaca como la mejor institución pública en reputación y responsabilidad social",
       "featured": false
@@ -914,11 +953,11 @@
       "slug": "diputaciones-rectoria-y-comunidad-estudiantil-del-cal-limon-buscan-salidas-a-la-crisis-en-el-caribe",
       "title": "Diputaciones, Rectoría y comunidad estudiantil del CAL Limón buscan salidas a la crisis en el Caribe",
       "category": "Costa Rica",
-      "bullets_20s": "• Representantes de fracciones legislativas se reunieron con la comunidad estudiantil del TEC en Limón.\n• El presupuesto del CAL Limón enfrenta una crisis que requiere atención urgente y soluciones efectivas.\n• La Sala Constitucional estudia un recurso de amparo relacionado con el financiamiento del CAL Limón.\n• Los legisladores analizan formas de garantizar la sostenibilidad educativa en la región caribeña.\n• El TEC ha tenido que cubrir sus costos operativos con recursos propios desde la falta de financiamiento.",
+      "bullets_20s": "• Representantes del TEC y diputaciones analizan crisis presupuestaria en el CAL Limón.\n• Se busca asegurar la operación sostenible y futura del Centro Académico de Limón.\n• La Sala Constitucional estudia un recurso de amparo presentado por el TEC.\n• Recursos postergados han afectado gravemente el funcionamiento del centro académico.\n• Estudiantes y autoridades buscan soluciones conjuntas para superar la crisis educacional.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/diputaciones-rectoria-comunidad-estudiantil-cal-limon-buscan-salidas-crisis-caribe",
       "publish_date": "2026-11-17T16:27:25.000Z",
-      "teaser": "Lo clave en 20 segundos: Diputaciones y comunidad estudial unen fuerzas por la crisis educativa en Limón.",
+      "teaser": "Lo clave en 20 segundos: Diputaciones y resto del TEC se unen para enfrentar crisis en CAL Limón.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dsc05470.JPG",
       "description": "Diputaciones, Rectoría y comunidad estudiantil del CAL Limón buscan salidas a la crisis en el Caribe",
       "featured": false
@@ -1353,19 +1392,6 @@
       "featured": false
     },
     {
-      "slug": "potenciando-el-turismo-local-estudiantes-de-turrialba-y-jimenez-disenan-servicios-sostenibles-con-el-apoyo-del-tec",
-      "title": "Potenciando el turismo local: estudiantes de Turrialba y Jiménez diseñan servicios sostenibles con el apoyo del TEC",
-      "category": "Costa Rica",
-      "bullets_20s": "• Estudiantes de Turrialba y Jiménez crean propuestas turísticas sostenibles con ayuda del TEC.\n• El proyecto vincula la teoría académica con el desarrollo local a través del turismo.\n• Talleres prácticos permiten que jóvenes aprendan sobre sostenibilidad y patrimonio cultural.\n• La coordinación interescuelas asegura enfoque multidisciplinario en la enseñanza del turismo.\n• El TEC implica a estudiantes universitarios para fortalecer el aprendizaje práctico.",
-      "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/potenciando-turismo-local-estudiantes-turrialba-jimenez-disenan-servicios-sostenibles-apoyo-tec",
-      "publish_date": "2026-11-17T01:50:30.000Z",
-      "teaser": "Lo clave en 20 segundos: estudiantes diseñan servicios turísticos sostenibles con apoyo del TEC.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/liceo-tucurrique-v-ano_0.jpeg",
-      "description": "Potenciando el turismo local: estudiantes de Turrialba y Jiménez diseñan servicios sostenibles con el apoyo del TEC",
-      "featured": false
-    },
-    {
       "slug": "uccaep-condena-asesinato-del-periodista-camilo-rodriguez-y-pide-investigacion-pronta-y-rigurosa",
       "title": "Uccaep condena asesinato del periodista Camilo Rodríguez y pide investigación pronta y rigurosa",
       "category": "Costa Rica",
@@ -1649,6 +1675,19 @@
       "teaser": "Lo clave en 20 segundos: trabajadores en Venezuela protestan por salarios insuficientes y condiciones laborales.",
       "image_url": "https://www.nacion.com/resizer/v2/FK6LWY3OTFAZLMBMUPHCPFODIQ.jpg?smart=true&auth=524e00f48cac141b10b6f09984d396f45f5b7468d69ce1270a4d4160d032e3d4&width=1440",
       "description": "Maestros y personal de la salud protestaron en Venezuela tras recibir un bono navideño de 75 dólares. Conozca cuánto exigían y el impacto del paro.",
+      "featured": false
+    },
+    {
+      "slug": "potenciando-el-turismo-local-estudiantes-de-turrialba-y-jimenez-disenan-servicios-sostenibles-con-el-apoyo-del-tec",
+      "title": "Potenciando el turismo local: estudiantes de Turrialba y Jiménez diseñan servicios sostenibles con el apoyo del TEC",
+      "category": "Costa Rica",
+      "bullets_20s": "• Estudiantes participan en un proyecto del TEC para crear servicios turísticos sostenibles.\n• El proyecto inicia en 2025, uniendo la teoría y práctica en la educación técnica.\n• Se realizan talleres prácticos en colegios técnicos de Turrialba y Jiménez.\n• La iniciativa busca ofrecer oportunidades reales de desarrollo mediante el turismo.\n• Se involucran profesionales y estudiantes universitarios en el proceso educativo.\n• Los talleres son interdisciplinarios y fomentan el trabajo en equipo.\n• Los estudiantes valoran la importancia de los emprendimientos sostenibles.\n• El TEC reafirma su compromiso con el desarrollo local a través de estas iniciativas.\n• El segundo módulo incorporado cubre finanzas básicas para emprendedores.\n• Las nuevas herramientas ayudan a los jóvenes a ejecutar sus ideas creativas.",
+      "source_name": "nchinchilla",
+      "source_url": "http://www.tec.ac.cr/potenciando-turismo-local-estudiantes-turrialba-jimenez-disenan-servicios-sostenibles-apoyo-tec",
+      "publish_date": "2026-11-16T19:50:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Estudiantes desarrollan servicios turísticos sostenibles en Turrialba y Jiménez con el TEC.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/liceo-tucurrique-v-ano_0.jpeg",
+      "description": "Potenciando el turismo local: estudiantes de Turrialba y Jiménez diseñan servicios sostenibles con el apoyo del TEC",
       "featured": false
     },
     {
@@ -137099,8 +137138,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-18T16:45:27.396Z",
-  "total": 10546,
+  "generated_at": "2026-11-18T17:45:27.098Z",
+  "total": 10549,
   "removed_soccer_news_count": 1645,
   "removed_soccer_news_titles": [
     "La Selección de Costa Rica jugará ante un equipo del Caribe el repechaje para la Copa Oro",
