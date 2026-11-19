@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "organismo-europeo-alerta-sobre-riesgos-de-la-inteligencia-artificial-para-los-bancos",
+      "title": "Organismo europeo alerta sobre riesgos de la inteligencia artificial para los bancos",
+      "category": "Mundo",
+      "bullets_20s": "• La Autoridad Bancaria Europea hizo un llamado a la prudencia en el uso de inteligencia artificial.\n• El informe destaca los riesgos asociados al uso de tecnología en el sector bancario.\n• Se mencionan preocupaciones sobre ciberataques y su impacto en la seguridad financiera.\n• La dependencia tecnológica puede abrir puertas a fraudes más sofisticados y difíciles de detectar.\n• Expertos piden evaluar las medidas de seguridad actuales ante el avance tecnológico.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/economia/organismo-europeo-alerta-sobre-riesgos-de-la/XVTERDYR5BFGVHJ6XODLKDQZDM/story/",
+      "publish_date": "2026-11-19T22:23:43.000Z",
+      "teaser": "Lo clave en 20 segundos: Europa alerta sobre los riesgos de la inteligencia artificial en los bancos.",
+      "image_url": "https://www.nacion.com/resizer/v2/VPE5A3QJYREIPBFUMNGOZNVLPI.jpg?auth=25dedc335773eade3e2fc29f60768739eaada650874c1e699264d14f8b019608&smart=true&width=6000&height=3375",
+      "description": "La Autoridad Bancaria Europea advirtió que el uso de inteligencia artificial y la dependencia tecnológica elevan los riesgos de ciberataques y fraudes bancarios.",
+      "featured": false
+    },
+    {
+      "slug": "diputados-convocan-a-carlo-diaz-y-michael-soto-por-caso-de-camilo-rodriguez-pero-rechazan-llamar-a-figuras-de-gobierno",
+      "title": "Diputados convocan a Carlo Díaz y Michael Soto por caso de Camilo Rodríguez, pero rechazan llamar a figuras de gobierno",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Comisión de Seguridad y Narcotráfico se centra en investigar denuncias de Camilo Rodríguez.\n• Se convocó a Carlo Díaz y Michael Soto para esclarecer posibles irregularidades relacionadas.\n• La oposición exige que el Gobierno sea incluido en las investigaciones de este caso.\n• El rechazo a llamar a figuras del gobierno genera polémica entre legisladores y ciudadanos.\n• El alcance de la investigación podría tener implicaciones en la política nacional actual.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/politica/diputados-convocan-a-carlo-diaz-y-michael-soto-por/SKL43FB275AI5G5AWPUSHVK3GI/story/",
+      "publish_date": "2026-11-19T22:18:05.000Z",
+      "teaser": "Lo clave en 20 segundos: Oposición exige más transparencia en investigación relacionada a casos de seguridad.",
+      "image_url": "https://www.nacion.com/resizer/v2/2BTLSSHAEJFRTD4P4FUPO77YUY.JPG?auth=69a6bdf28196ae1e310af38abf21aa4c6059c2ee1cc8fbe6e5101b55be11c795&smart=true&width=4464&height=2976",
+      "description": "La Comisión de Seguridad y Narcotráfico aprobó investigar a la Fiscalía y al OIJ por las denuncias de Camilo Rodríguez. La oposición pidió incluir al Gobierno y cuestionó el alcance de la investigación.",
+      "featured": false
+    },
+    {
+      "slug": "como-una-mujer-fue-drogada-por-su-marido-y-violada-por-desconocidos-durante-13-anos",
+      "title": "Cómo una mujer fue drogada por su marido y violada por desconocidos durante 13 años",
+      "category": "Mundo",
+      "bullets_20s": "• Un caso impactante que revela la violencia de género en la sociedad moderna.\n• La mujer fue objeto de abuso sistemático a lo largo de más de una década.\n• Los implicados enfrentan consecuencias legales tras ser encontrados culpables.\n• Su historia destaca la importancia de la atención y apoyo a las víctimas.\n• Este incidente ha generado un debate sobre la protección de las mujeres.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c6pw4ddp2glpo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-11-19T21:38:59.000Z",
+      "teaser": "Lo clave en 20 segundos: un caso de abuso que expone la violencia de género en el Reino Unido.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/dae1/live/2fc34f30-e433-11f1-a094-5fdc692f3e33.jpg",
+      "description": "Cuatro hombres han sido declarados culpables en Reino Unido de abusar de una mujer después de que su marido la drogara.",
+      "featured": false
+    },
+    {
       "slug": "fallecio-recluso-que-sufrio-fracturas-en-el-craneo-por-agresion-en-el-cacco-confirma-oij",
       "title": "Falleció recluso que sufrió fracturas en el cráneo por agresión en el Cacco, confirma OIJ",
       "category": "Costa Rica",
@@ -41,13 +80,13 @@
     },
     {
       "slug": "anthropic-por-que-el-mayor-debut-bursatil-de-la-historia-pone-a-prueba-la-burbuja-de-la-ia-y-la-posibilidad-de-que-estal",
-      "title": "Anthropic: por qué el mayor debut bursátil de la historia pone a prueba 'la burbuja' de la IA y la posibilidad de que estalle",
+      "title": "Anthropic: por qué el mayor debut bursátil de la historia pone a prueba \"la burbuja\" de la IA y la posibilidad de que estalle",
       "category": "Mundo",
-      "bullets_20s": "• Anthropic ha generado gran expectativa en el mercado financiero con su reciente debut bursátil.\n• La valoración inicial de la empresa podría ser indicativa de una posible burbuja en el sector tecnológico.\n• Expertos analizan cómo este fenómeno podría repercutir en la industria de la inteligencia artificial.\n• El futuro de Anthropic se presenta incierto, a pesar de su éxito inicial en la bolsa.\n• Las inversiones en inteligencia artificial siguen creciendo, pero con riesgos asociados importantes.",
+      "bullets_20s": "• El debut bursátil de Anthropic marca un hito histórico en la industria de la inteligencia artificial.\n• La valoración inicial de la empresa ha generado debates sobre la estabilidad del mercado tecnológico.\n• Expertos analizan qué implicaciones puede tener este evento para el futuro de la IA.\n• Las opiniones están divididas entre optimistas y escépticos sobre la sostenibilidad de la burbuja tecnológica.\n• Este caso podría afectar la percepción pública sobre la inversión en tecnologías emergentes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqm2ln990v10o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-19T20:34:12.000Z",
-      "teaser": "Lo clave en 20 segundos: Anthropic marca un hito en la bolsa, desatando análisis sobre la burbuja de la IA.",
+      "teaser": "Lo clave en 20 segundos: El debut bursátil de Anthropic genera dudas sobre la burbuja de la IA.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/aae7/live/cdfec8b0-e441-11f1-9192-3924a59e54c7.jpg",
       "description": "La empresa quedó situada entre las 10 empresas estadounidenses más valoradas en el mercado bursátil, pero su futuro es incierto.",
       "featured": false
@@ -138035,10 +138074,12 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-19T21:45:28.485Z",
-  "total": 10618,
-  "removed_soccer_news_count": 1658,
+  "generated_at": "2026-11-19T22:45:28.726Z",
+  "total": 10621,
+  "removed_soccer_news_count": 1660,
   "removed_soccer_news_titles": [
+    "Goleada y sorpresa en el inicio del Mundial Sub-17: ¿Cuándo debuta Costa Rica?",
+    "Costa Rica vs. Jamaica: Lindsay Camila elige las 23 jugadoras para buscar el boleto al Mundial de Brasil 2027",
     "Final de la Copa Libertadores tendrá show de medio tiempo por primera vez",
     "Bryan Ruiz confiesa su ‘obsesión’ con un jugador de la Selección de Costa Rica",
     "La Selección de Costa Rica se medirá a México en busca de su tercer mundial consecutivo",
@@ -138086,8 +138127,6 @@
     "Jamaica sorprende a México en la ida por la Nations League de Concacaf",
     "Quizás veamos el 25 de octubre de este año como el comienzo del fin de la recesión democrática mundial",
     "Keylor Navas ya entrena con normalidad luego del tratamiento en la rodilla",
-    "Estados Unidos le da tremenda goleada a Haití en la Nations League",
-    "Portugal ensombrece su homenaje a Cristiano Ronaldo con una debacle ante Dinamarca",
-    "Vea el insólito gol en contra que se anotó el Comunicaciones"
+    "Estados Unidos le da tremenda goleada a Haití en la Nations League"
   ]
 }
