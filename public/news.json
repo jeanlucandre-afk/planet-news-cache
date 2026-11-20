@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "laura-fernandez-designa-a-francisco-gamboa-como-nuevo-ministro-de-comercio-exterior",
+      "title": "Laura Fernández designa a Francisco Gamboa como nuevo ministro de Comercio Exterior",
+      "category": "Costa Rica",
+      "bullets_20s": "• La designación de Gamboa busca fortalecer las políticas comerciales del país.\n• Fernández destaca la experiencia de Gamboa en el ámbito económico nacional.\n• Se espera un enfoque en la atracción de inversiones internacionales.\n• Gamboa trabajará en alianza con el sector privado para fortalecer exportaciones.\n• La transición en el ministerio se realizará de manera inmediata.",
+      "source_name": "Óscar Rodríguez",
+      "source_url": "https://www.nacion.com/economia/laura-fernandez-designa-a-francisco-gamboa-como/UYNAGBQ4YBBRTNDKXGWTSFWWAA/story/",
+      "publish_date": "2026-11-20T01:17:37.000Z",
+      "teaser": "Lo clave en 20 segundos: Laura Fernández designa a Francisco Gamboa como nuevo titular de Comercio Exterior.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZEBYQ3KTDRGVXDS5GHEDIA4K3U.jpg?smart=true&auth=d8b62e0a51bd941b36c95d08b6aeba5090bb18704673a245572e0a00f42f5601&width=1440",
+      "description": "Francisco Gamboa, primer vicepresidente de la República, asumirá Comex a partir de este viernes 20 de noviembre",
+      "featured": false
+    },
+    {
+      "slug": "curridabat-se-llenara-de-atletas-con-la-novex-run-2026",
+      "title": "Curridabat se llenará de atletas con la Novex Run 2026",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Novex Run 2026 en Curridabat promete un evento deportivo emocionante y participativo para todos.\n• Se espera la participación de cientos de atletas locales y visitantes de diferentes lugares.\n• El evento busca fomentar el deporte y el bienestar en la comunidad de Curridabat.\n• Se realizarán varias categorías para que todos puedan competir según su nivel de habilidad.\n• La carrera comenzará a las 6 a. m., dando inicio a un día lleno de actividad física.",
+      "source_name": "Fanny Tayver Marín",
+      "source_url": "https://www.nacion.com/puro-deporte/curridabat-se-llenara-de-atletas-con-la-novex-run/XVUKQ3WLS5HP3ESEGDIYH4C5CM/story/",
+      "publish_date": "2026-11-20T00:53:10.000Z",
+      "teaser": "Lo clave en 20 segundos: La Novex Run 2026 llenará de energía Curridabat este domingo.",
+      "image_url": "https://www.nacion.com/resizer/v2/UZAS3NAERVDUHH3HB3RVXF2R6A.jpg?smart=true&auth=4dec36d7a02260445b434ff8547d5f9b4bfbf30b4bd951a5bd737c0e0900b156&width=1440",
+      "description": "La carrera será este domingo 22 de noviembre a partir de las 6 a. m.",
+      "featured": false
+    },
+    {
       "slug": "imn-preve-viernes-con-temperaturas-de-hasta-355-c-y-fuertes-vientos-en-costa-rica",
       "title": "IMN prevé viernes con temperaturas de hasta 35,5 °C y fuertes vientos en Costa Rica",
       "category": "Costa Rica",
@@ -69,11 +95,11 @@
       "slug": "como-una-mujer-fue-drogada-por-su-marido-y-violada-por-desconocidos-durante-13-anos",
       "title": "Cómo una mujer fue drogada por su marido y violada por desconocidos durante 13 años",
       "category": "Mundo",
-      "bullets_20s": "• Un caso impactante que destapa el abuso sistemático y la manipulación extrema por parte del marido.\n• La mujer sufrió una serie de violaciones que la mantuvieron en una situación de vulnerabilidad total.\n• Los abusos ocurrieron durante más de una década, afectando profundamente su bienestar físico y mental.\n• El matrimonio se tornó en un verdadero calvario, donde se combinó el abuso físico con el químico.\n• La justicia finalmente ha comenzado a actuar contra los culpables, marcando un precedente importante.",
+      "bullets_20s": "• La historia de una mujer en Reino Unido ha revelado abusos systemáticos y terribles por parte de su pareja.\n• Su marido la drogaba para facilitar el abuso por parte de desconocidos durante más de una década.\n• Cuatro hombres han sido condenados por su participación en estos actos atroces de violencia.\n• El caso ha generado una intensa discusión sobre la violencia de género en diversas sociedades.\n• Las autoridades están trabajando en medidas para prevenir este tipo de abusos en el futuro.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6pw4ddp2glpo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-19T21:38:59.000Z",
-      "teaser": "Lo clave en 20 segundos: un caso de abuso inhumano de una mujer durante 13 años por su esposo.",
+      "teaser": "Lo clave en 20 segundos: Una mujer sufrió abuso sistemático durante 13 años por su marido y otros.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/dae1/live/2fc34f30-e433-11f1-a094-5fdc692f3e33.jpg",
       "description": "Cuatro hombres han sido declarados culpables en Reino Unido de abusar de una mujer después de que su marido la drogara.",
       "featured": false
@@ -119,13 +145,13 @@
     },
     {
       "slug": "anthropic-por-que-el-mayor-debut-bursatil-de-la-historia-pone-a-prueba-la-burbuja-de-la-ia-y-la-posibilidad-de-que-estal",
-      "title": "Anthropic: por qué el mayor debut bursátil de la historia pone a prueba \"la burbuja\" de la IA y la posibilidad de que estalle",
+      "title": "Anthropic: por qué el mayor debut bursátil de la historia pone a prueba 'la burbuja' de la IA y la posibilidad de que estalle",
       "category": "Mundo",
-      "bullets_20s": "• El debut bursátil de Anthropic es considerado el más grande en la historia del mercado.\n• Las acciones de la empresa han suscitado dudas sobre la sostenibilidad de la burbuja en IA.\n• Analistas advierten sobre la volatilidad en el mercado tecnológico tras este debut.\n• El futuro de Anthropic dependerá de su capacidad para innovar en inteligencia artificial.\n• La valoración de empresas de IA ha generado tanto interés como incertidumbre entre inversionistas.",
+      "bullets_20s": "• Anthropic se convierte en un caso de estudio para el mercado relacionado con la inteligencia artificial.\n• Su debut bursátil está generando preocupaciones sobre la sostenibilidad de la inversión en IA.\n• La incertidumbre del futuro de la empresa plantea preguntas sobre la burbuja actual del sector.\n• Expertos discuten si el valor de las acciones refleja un crecimiento real o especulación.\n• El avance de la inteligencia artificial sigue siendo un tema central en la economía global.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqm2ln990v10o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-19T20:34:12.000Z",
-      "teaser": "Lo clave en 20 segundos: El debut de Anthropic ignita preguntas sobre la burbuja de la inteligencia artificial.",
+      "teaser": "Lo clave en 20 segundos: El debut de Anthropic genera debates sobre la burbuja de IA y su futuro incierto.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/aae7/live/cdfec8b0-e441-11f1-9192-3924a59e54c7.jpg",
       "description": "La empresa quedó situada entre las 10 empresas estadounidenses más valoradas en el mercado bursátil, pero su futuro es incierto.",
       "featured": false
@@ -138126,10 +138152,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-20T00:45:28.489Z",
-  "total": 10625,
-  "removed_soccer_news_count": 1661,
+  "generated_at": "2026-11-20T01:45:25.950Z",
+  "total": 10627,
+  "removed_soccer_news_count": 1662,
   "removed_soccer_news_titles": [
+    "Suspenden tres años a la corredora campeona mundial de maratón",
     "Goleada y sorpresa en el inicio del Mundial Sub-17: ¿Cuándo debuta Costa Rica?",
     "Costa Rica vs. Jamaica: Lindsay Camila elige las 23 jugadoras para buscar el boleto al Mundial de Brasil 2027",
     "Final de la Copa Libertadores tendrá show de medio tiempo por primera vez",
@@ -138178,7 +138205,6 @@
     "Boca Juniors golea y es finalista de la Copa Argentina",
     "Jamaica sorprende a México en la ida por la Nations League de Concacaf",
     "Quizás veamos el 25 de octubre de este año como el comienzo del fin de la recesión democrática mundial",
-    "Keylor Navas ya entrena con normalidad luego del tratamiento en la rodilla",
-    "Estados Unidos le da tremenda goleada a Haití en la Nations League"
+    "Keylor Navas ya entrena con normalidad luego del tratamiento en la rodilla"
   ]
 }
