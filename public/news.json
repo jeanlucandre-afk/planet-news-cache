@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "industria-del-crimen-da-origen-a-una-tercera-economia-en-costa-rica-segun-el-estado-de-la-nacion",
+      "title": "Industria del crimen da origen a una tercera economía en Costa Rica, según el Estado de la Nación",
+      "category": "Costa Rica",
+      "bullets_20s": "• La economía del crimen en Costa Rica ha crecido a ritmo acelerado en los últimos años.\n• Se ha evidenciado un incremento en las actividades ilícitas que impactan la sociedad.\n• El informe destaca la falta de oportunidades como un factor crítico en esta situación.\n• Las estadísticas muestran la relación entre exclusión económica y aumento del crimen.\n• El Estado de la Nación resalta la necesidad de inversiones públicas en áreas prioritarias.\n• Las consecuencias de este fenómeno afectan la seguridad y bienestar de los ciudadanos.\n• El crimen organizado presenta desafíos significativos para las autoridades del país.\n• Es esencial abordar las raíces sociales del problema para una solución sostenible.\n• La comunidad se ve afectada por la normalización de la violencia y del crimen.\n• Estudios sugieren que la educación y oportunidades laborales son clave para revertir esta tendencia.",
+      "source_name": "Natalia Vargas",
+      "source_url": "https://www.nacion.com/sucesos/industria-del-crimen-da-origen-a-una-tercera/ZGDHQ6G6RBGYJJNHSA3MHOFCTY/story/",
+      "publish_date": "2026-11-20T09:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La economía del crimen se convierte en seria preocupación en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/BX63PUU7ZFHTPHZLTDHA6IMTLU.jpeg?auth=024c31074dfa889e13c0f2e16f66b4b868108fdc947d60689f6147f99cdd1fcb&smart=true&width=2893&height=1929",
+      "description": "El crimen organizado en Costa Rica extendió sus tentáculos y el Informe Estado de la Nación 2026 advierte que la exclusión económica, la falta de inversión estatal en áreas prioritarias y la expansión de las actividades ilícitas propiciaron que surgiera el crimen como tercera economía.",
+      "featured": false
+    },
+    {
+      "slug": "por-que-la-condena-por-genocidio-contra-myanmar-es-historica-y-podria-tener-repercusiones-de-gran-alcance",
+      "title": "Por qué la condena por genocidio contra Myanmar es histórica y podría tener repercusiones de gran alcance",
+      "category": "Mundo",
+      "bullets_20s": "• La condena marca un hito en la lucha contra el genocidio a nivel global.\n• Gambia presentó pruebas contundentes que llevaron al tribunal a dictar sentencia.\n• El caso de Myanmar podría influir en futuras decisiones sobre derechos humanos.\n• Estudiosos analizan las repercusiones políticas del veredicto en la región.\n• La intención de genocidio es un elemento clave en litigios similares futuros.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c5y4jve4zypxo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-11-20T08:23:18.000Z",
+      "teaser": "Lo clave en 20 segundos: La condena a Myanmar puede cambiar el enfoque global sobre genocidios.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c260/live/4384ee10-e439-11f1-99b6-a35a62fa4264.jpg",
+      "description": "Los abogados estudiarán cómo Gambia logró demostrar que Myanmar tenía la intención de cometer genocidio, un aspecto crucial del caso, según el editor internacional de la BBC.",
+      "featured": false
+    },
+    {
       "slug": "presidenta-del-ins-responsabiliza-a-bomberos-por-el-metodo-escogido-para-comprar-40-ambulancias",
       "title": "Presidenta del INS responsabiliza a Bomberos por el método escogido para comprar 40 ambulancias",
       "category": "Costa Rica",
-      "bullets_20s": "• La Presidenta del INS menciona el papel de Bomberos en el proceso de compra.\n• Se solicitó la adquisición de 40 ambulancias por un monto significativo.\n• El INS no tomó parte en la adjudicación de este contrato específico.\n• La urgencia en la compra de ambulancias es un tema de debate administrativo.\n• Gabriela Chacón argumenta la necesidad de actuar rápidamente en esta situación.",
+      "bullets_20s": "• La presidenta del INS, Gabriela Chacón, aborda la compra de ambulancias en el país.\n• Se discutió el método de contratación que utilizó Bomberos para adquirir las ambulancias.\n• El INS aclaró que no tuvo parte en la adjudicación de las 40 ambulancias.\n• Chacón destacó la urgencia de tener estas ambulancias disponibles para la población.\n• Las declaraciones de Chacón han generado un debate sobre la eficiencia del proceso.",
       "source_name": "Silvia Ureña Corrales",
       "source_url": "https://www.nacion.com/politica/presidenta-del-ins-responsabiliza-a-bomberos-por/3W37GDH7MFC5JLJ3Z5NM63BVKU/story/",
       "publish_date": "2026-11-20T08:15:00.000Z",
-      "teaser": "Lo clave en 20 segundos: La presidenta del INS critica a Bomberos por la compra de ambulancias.",
+      "teaser": "Lo clave en 20 segundos: La presidenta del INS defiende compra de ambulancias y apunta a Bomberos.",
       "image_url": "https://www.nacion.com/resizer/v2/CL5KVI2ZDRADZF4UB3VZCMSLPI.jpg?auth=4ac3871b93a188a12f9ee00695c35cd22b686eb94316695f30b5d3c59d5d3351&smart=true&width=3000&height=2000",
       "description": "El INS negó participación en la adjudicación de 40 ambulancias por ¢6.500 millones. Gabriela Chacón defendió la urgencia de la compra y responsabilizó a Bomberos por el método de contratación.",
       "featured": false
@@ -17,11 +43,11 @@
       "slug": "del-record-de-casi-700-a-caer-bajo-los-450-las-cuatro-etapas-que-marcaron-el-precio-del-dolar-en-la-ultima-decada",
       "title": "Del récord de casi ¢700 a caer bajo los ¢450: las cuatro etapas que marcaron el precio del dólar en la última década",
       "category": "Costa Rica",
-      "bullets_20s": "• El dólar en Costa Rica ha pasado por diversas fluctuaciones en la última década.\n• Cuatro etapas clave han marcado los cambios en el tipo de cambio observado.\n• Este informe detalla la evolución del dólar a lo largo de los años recientes.\n• La economía costarricense refleja tensiones en el mercado cambiario actual.\n• Los factores internos y externos influyen en el costo del dólar en el país.",
+      "bullets_20s": "• El informe revisa las variaciones del tipo de cambio en los últimos diez años en Costa Rica.\n• Se identifican cuatro etapas claves que definieron el precio del dólar en el país.\n• Los cambios económicos globales impactaron directamente en el valor del colón costarricense.\n• Es fundamental entender estas etapas para prever futuros comportamientos cambiarios.\n• Los análisis permiten a los colombianos prepararse ante fluctuaciones económicas inminentes.",
       "source_name": "Mónica Cerdas Gómez",
       "source_url": "https://www.nacion.com/economia/del-record-de-casi-700-a-caer-bajo-los-450-las/PCKNNW2XUVC3NB7N75YAK7F2G4/story/",
       "publish_date": "2026-11-20T07:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Dólar en Costa Rica ha fluctuado notablemente en la última década, con cuatro etapas identifiables.",
+      "teaser": "Lo clave en 20 segundos: El informe detalla cuatro etapas de variación del dólar en la última década.",
       "image_url": "https://www.nacion.com/resizer/v2/XG4W57CQWZGMLKJ65J7ELVFC3Q.jpg?auth=e782bfc63d8f70edd5a61c5c19ecc0a967d2fa5c3a26f56fe02c0f58c0ddaa64&smart=true&width=4500&height=2899",
       "description": "El informe 2026 del Programa Estado de la Nación identifica cuatro etapas en el comportamiento del tipo de cambio durante la última década",
       "featured": false
@@ -134,11 +160,11 @@
       "slug": "la-hipopotamo-fiona-muere-tras-tragarse-el-gorro-de-un-visitante-en-el-zoologico-de-cincinnati",
       "title": "La hipopótamo Fiona muere tras tragarse el gorro de un visitante en el zoológico de Cincinnati",
       "category": "Mundo",
-      "bullets_20s": "• Fiona fue una hipopótamo muy querida en el zoológico de Cincinnati.\n• El incidente ocurrió cuando un visitante le arrojó un gorro accidentalmente.\n• El zoológico trató de salvar a Fiona tras el incidente, pero no tuvo éxito.\n• Durante días, Fiona luchó por su vida tras tragarse el gorro.\n• Su muerte ha conmovido a los amantes de los animales en todo el mundo.",
+      "bullets_20s": "• Fiona, la hipopótamo, fue una atracción popular en el zoológico de Cincinnati.\n• El incidente se produjo cuando un visitante perdió su gorro durante una visita.\n• El zoológico emitió un comunicado sobre la difícil situación de Fiona.\n• Tras tragarse el gorro, la hipopótamo mostró signos de enfermedad rápidamente.\n• Fiona luchó con su salud antes de fallecer, generando tristeza entre los visitantes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c64gn0rw8447o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-19T22:58:28.000Z",
-      "teaser": "Lo clave en 20 segundos: La hipopótamo Fiona falleció tras un grave accidente en el zoológico de Cincinnati.",
+      "teaser": "Lo clave en 20 segundos: Fiona, hipopótamo de Cincinnati, muere tras tragar un gorro en el zoológico.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0deb/live/75026a20-e45d-11f1-a599-65f550c2a35a.jpg",
       "description": "Luchó hasta que ya no pudo más, declaró el zoológico de Cincinnati en un comunicado. Fiona enfermó pocos días después del incidente.",
       "featured": false
@@ -249,13 +275,13 @@
     },
     {
       "slug": "anthropic-por-que-el-mayor-debut-bursatil-de-la-historia-pone-a-prueba-la-burbuja-de-la-ia-y-la-posibilidad-de-que-estal",
-      "title": "Anthropic: por qué el mayor debut bursátil de la historia pone a prueba 'la burbuja' de la IA y la posibilidad de que estalle",
+      "title": "Anthropic: por qué el mayor debut bursátil de la historia pone a prueba \"la burbuja\" de la IA y la posibilidad de que estalle",
       "category": "Mundo",
-      "bullets_20s": "• El debut bursátil de Anthropic ha sido uno de los más importantes de la historia reciente.\n• Las valoraciones del mercado sobre las empresas de inteligencia artificial están bajo análisis profundo.\n• Se cuestiona si estamos ante una burbuja en el sector de la inteligencia artificial.\n• Los inversores están evaluando la viabilidad futura de estas empresas emergentes.\n• La tecnología de IA está revolucionando múltiples industrias en todo el mundo.\n• Las expectativas sobre la rentabilidad de la IA generan tanto entusiasmo como escepticismo.\n• La competencia entre empresas de IA se intensifica, afectando las valoraciones.\n• Los analistas advierten sobre riesgos en inversiones en tecnología emergente.\n• Este caso podría influir en futuras regulaciones del sector tecnológico a nivel global.",
+      "bullets_20s": "• Anthropic se convierte en un referente en el sector tecnológico tras su debut en el mercado bursátil.\n• El aumento repentino en la valoración de la empresa ha generado dudas sobre su sostenibilidad a largo plazo.\n• Analistas comparan este fenómeno con otras burbujas históricas del mercado, preguntándose por su impacto.\n• La inteligencia artificial sigue siendo un campo de gran inversión y especulación en todo el mundo.\n• El futuro de Anthropic dependerá de su capacidad para innovar y mantener su base de clientes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqm2ln990v10o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-19T20:34:12.000Z",
-      "teaser": "Lo clave en 20 segundos: Anthropic desafía percepciones sobre la burbuja de la IA en su gran debut bursátil.",
+      "teaser": "Lo clave en 20 segundos: ¿Es sostenido el éxito bursátil de Anthropic en la burbuja de la IA?",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/aae7/live/cdfec8b0-e441-11f1-9192-3924a59e54c7.jpg",
       "description": "La empresa quedó situada entre las 10 empresas estadounidenses más valoradas en el mercado bursátil, pero su futuro es incierto.",
       "featured": false
@@ -138256,8 +138282,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-20T08:45:27.818Z",
-  "total": 10635,
+  "generated_at": "2026-11-20T09:45:26.668Z",
+  "total": 10637,
   "removed_soccer_news_count": 1662,
   "removed_soccer_news_titles": [
     "Suspenden tres años a la corredora campeona mundial de maratón",
