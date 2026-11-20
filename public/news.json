@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "la-bolsa-de-wall-street-cae-con-fuerza-en-medio-del-desplome-de-las-acciones-de-las-tecnologicas-y-registra-su-peor-sema",
+      "title": "La bolsa de Wall Street cae con fuerza en medio del desplome de las acciones de las tecnológicas y registra su peor semana desde la pandemia",
+      "category": "Mundo",
+      "bullets_20s": "• La bolsa de Wall Street sufre una caída significativa esta semana, afectando a inversionistas globales.\n• Las acciones de empresas tecnológicas han sido las más impactadas tras reportes negativos.\n• Este es el peor desempeño semanal para el mercado desde el inicio de la pandemia.\n• Los analistas advierten sobre un posible cambio en la tendencia del sector tecnológico.\n• El temor en los mercados financieros ha crecido debido a las incertidumbres económicas globales.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cm8791vvwelno?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-11-20T23:15:44.000Z",
+      "teaser": "Lo clave en 20 segundos: Mercado en caída, acciones tecnológicas sufren, una semana crítica para Wall Street.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/eea7/live/5f3cbf00-e535-11f1-b232-9987117b4bfe.png",
+      "description": "Las tecnológicas se han visto afectadas por la caída masiva del sector en los mercados bursátiles.",
+      "featured": false
+    },
+    {
+      "slug": "un-misil-ruso-impacta-en-polonia-mientras-los-aliados-de-ucrania-realizan-ejercicios-militares",
+      "title": "Un misil ruso impacta en Polonia mientras los aliados de Ucrania realizan ejercicios militares",
+      "category": "Mundo",
+      "bullets_20s": "• Un misil ruso aterrizó en territorio polaco durante ejercicios militares aliados en la región.\n• El gobierno polaco describe el incidente como una clara provocación por parte de Rusia.\n• No se reportaron heridos ni daños significativos tras el impacto del misil.\n• Las tensiones entre Rusia y Polonia siguen aumentando en el contexto de la guerra en Ucrania.\n• El evento generó seguridad reforzada en las fronteras polacas ante posibles futuros incidentes.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cmkgkd79q9e6o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-11-20T22:46:07.000Z",
+      "teaser": "Lo clave en 20 segundos: Un misil ruso cae en Polonia, generado polémica y tensión en la región.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
+      "description": "Nadie resultó herido y no se han reportado daños, pero Varsovia calificó el incidente de \"provocación\" por parte de Moscú.",
+      "featured": false
+    },
+    {
+      "slug": "tec-toma-decision-sobre-comunicacion-de-resultados-de-examen-de-admision-ante-incertidumbre-de-recortes-presupuestarios",
+      "title": "TEC toma decisión sobre comunicación de resultados de examen de admisión ante incertidumbre de recortes presupuestarios",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC debate cómo comunicar los resultados del examen de admisión debido a la incertidumbre presupuestaria.\n• Se estima que el recorte en el presupuesto podría superar los ¢4.000 millones, afectando la educación.\n• Las decisiones sobre los cupos de nuevo ingreso para 2027 aún están en evaluación dentro de la institución.\n• El impacto del recorte podría influir en la calidad de la educación en el Tecnológico de Costa Rica.\n• La gestión financiera y los recursos disponibles serán determinantes para la admisión futura.",
+      "source_name": "Fernanda Matarrita Chaves",
+      "source_url": "https://www.nacion.com/el-pais/tec-toma-decision-sobre-comunicacion-de-resultados/6Y6XASWGLRHXBBWLWGW7U2APDA/story/",
+      "publish_date": "2026-11-20T22:39:23.000Z",
+      "teaser": "Lo clave en 20 segundos: TEC enfrenta incertidumbre sobre admisiones por recortes presupuestarios significativos.",
+      "image_url": "https://www.nacion.com/resizer/v2/QCN7WHMMLBEAPN6ITG4RNRCMIM.JPG?auth=c667503d0d33384096b7b9b6a60c24762c1a57622de23863bbe89b6783cafe54&smart=true&width=6192&height=3480",
+      "description": "El TEC enfrentaría un recorte presupuestario de más de  ¢4.000 millones. Los cupos de nuevo ingreso 2027 están pendientes de definición",
+      "featured": false
+    },
+    {
       "slug": "sala-constitucional-ordena-eliminar-normas-que-congelan-30000-millones-al-poder-judicial-y-recortes-por-8048-millones-a-",
       "title": "Sala Constitucional ordena eliminar normas que congelan ¢30.000 millones al Poder Judicial y recortes por ¢8.048 millones a universidades en el Presupuesto Nacional 2027",
       "category": "Costa Rica",
@@ -121,11 +160,11 @@
       "slug": "en-que-consiste-y-a-quien-beneficia-el-acuerdo-de-reinicio-de-las-relaciones-entre-reino-unido-y-la-union-europea-tras-e",
       "title": "En qué consiste y a quién beneficia el acuerdo de \"reinicio\" de las relaciones entre Reino Unido y la Unión Europea tras el Brexit",
       "category": "Mundo",
-      "bullets_20s": "• El nuevo acuerdo busca fortalecer las relaciones comerciales entre Reino Unido y la Unión Europea.\n• Afecta áreas clave como exportaciones de alimentos y movilidad de jóvenes entre regiones.\n• Se establecen nuevos parámetros para las emisiones de carbono entre ambas partes.\n• Ambas partes esperan que este acuerdo genere estabilidad en el comercio bilateral.\n• El acuerdo es parte de una serie de negociaciones post-Brexit entre las dos partes.",
+      "bullets_20s": "• El nuevo acuerdo busca mejorar las relaciones comerciales entre Reino Unido y la UE.\n• Incluye provisiones sobre exportaciones de alimentos y productos agrícolas entre ambas regiones.\n• Se aborda la movilidad de los jóvenes, facilitando oportunidades de intercambio y estudio.\n• El acuerdo también se centra en las emisiones de carbono y la sostenibilidad ambiental.\n• Ambas partes esperan que esto fortalezca la economía tras el Brexit.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cvp86lp2rd24o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-20T18:48:26.000Z",
-      "teaser": "Lo clave en 20 segundos: acuerdo entre Reino Unido y la UE post-Brexit para exportaciones y movilidad.",
+      "teaser": "Lo clave en 20 segundos: Un nuevo acuerdo entre Reino Unido y la UE mejora la movilidad y comercio tras el Brexit.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/4ccf/live/8967a750-e4f8-11f1-a8e4-b1e12a49db15.jpg",
       "description": "Reino Unido y la Unión Europea llegaron, este viernes, a un nuevo acuerdo que cubre las exportaciones de alimentos, la movilidad de los jóvenes y las emisiones de carbono.",
       "featured": false
@@ -147,11 +186,11 @@
       "slug": "los-gritos-de-un-reo-durante-su-ejecucion-en-texas-reavivan-el-debate-sobre-la-pena-de-muerte-en-eeuu",
       "title": "Los gritos de un reo durante su ejecución en Texas reavivan el debate sobre la pena de muerte en EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• La ejecución de un reo en Texas ha reabierto el debate sobre la pena de muerte en EE.UU.\n• Los gritos del reo durante el proceso han causado conmoción en la opinión pública y medios.\n• Políticos y grupos de derechos humanos cuestionan la ética de las ejecuciones capitales.\n• La ejecución se realizó con un fármaco que ya había suscitado controversias previas.\n• Este caso se suma a otros incidentes que ponen en tela de juicio la aplicación de la pena de muerte.",
+      "bullets_20s": "• El caso reaviva la discusión sobre la ética de la pena de muerte en Estados Unidos.\n• Expertos analizan la eficacia y humanidad de los métodos actuales de ejecución.\n• Las protestas en contra de la pena de muerte han crecido en los últimos años.\n• Se cuestiona si la inyección letal es un procedimiento confiable y humano.\n• Los gritos del reo generaron una reacción inmediata en la opinión pública.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cq3dg820rre0o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-20T17:20:55.000Z",
-      "teaser": "Lo clave en 20 segundos: Un reo grita durante ejecución y reaviva el debate sobre la pena de muerte en EE.UU.",
+      "teaser": "Lo clave en 20 segundos: el debate sobre la pena de muerte se intensifica tras una ejecución polémica en Texas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/19f8/live/7c960b40-e4ce-11f1-8ebd-0fa6091698b5.jpg",
       "description": "Esta prolongada ejecución se produce semanas después de que Christa Pike sobreviviera a la inyección letal del mismo fármaco.",
       "featured": false
@@ -901,11 +940,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebra la graduación de 266 nuevos profesionales, un gran logro institucional.\n• Casi la mitad de los graduados obtuvieron maestrías, destacando el compromiso por una educación de calidad.\n• Estudiantes de diversas provincias se titulan en carreras estratégicas para el desarrollo nacional.\n• Las graduaciones se realizaron en dos actos, reflejando la alegría de familias y amigos presentes.\n• La rectora del TEC enfatiza la educación como una inversión clave para el futuro del país.",
+      "bullets_20s": "• El TEC celebra la graduación de 266 nuevos profesionales en Cartago, marcando un hito significativo en su historia.\n• La ceremonia se dividió en dos actos, con participación de estudiantes de diversas provincias del país.\n• Se destacan las maestrías en administración y áreas tecnológicas, así como dos graduaciones de doctorado.\n• La participación femenina representó el 42% de los graduados, con un fuerte avance en áreas técnicas.\n• María Estrada, rectora del TEC, subrayó la importancia de la educación pública para el desarrollo nacional.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC celebra 266 nuevas historias de éxito en su graduación 2026.",
+      "teaser": "Lo clave en 20 segundos: El TEC celebra graduación de 266 nuevos profesionales, destacando el esfuerzo y compromiso educativo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -138711,10 +138750,12 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-20T22:45:26.870Z",
-  "total": 10670,
-  "removed_soccer_news_count": 1662,
+  "generated_at": "2026-11-20T23:45:26.371Z",
+  "total": 10673,
+  "removed_soccer_news_count": 1664,
   "removed_soccer_news_titles": [
+    "Alarma en Bayern Múnich e Inglaterra: el Balón de Oro Harry Kane estará de baja varios meses por lesión",
+    "¿Jugará Keylor Navas? Esto se sabe sobre su estado físico antes del duelo clave de Pumas",
     "Suspenden tres años a la corredora campeona mundial de maratón",
     "Goleada y sorpresa en el inicio del Mundial Sub-17: ¿Cuándo debuta Costa Rica?",
     "Costa Rica vs. Jamaica: Lindsay Camila elige las 23 jugadoras para buscar el boleto al Mundial de Brasil 2027",
@@ -138762,8 +138803,6 @@
     "Klopp apuesta por sustituir a Infantino en la FIFA: ‘Tendría mucho sentido’",
     "Ronaldinho se da el gusto de jugar un partido oficial a los 46 años",
     "Boca Juniors golea y es finalista de la Copa Argentina",
-    "Jamaica sorprende a México en la ida por la Nations League de Concacaf",
-    "Quizás veamos el 25 de octubre de este año como el comienzo del fin de la recesión democrática mundial",
-    "Keylor Navas ya entrena con normalidad luego del tratamiento en la rodilla"
+    "Jamaica sorprende a México en la ida por la Nations League de Concacaf"
   ]
 }
