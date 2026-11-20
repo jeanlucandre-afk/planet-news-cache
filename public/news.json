@@ -1,27 +1,40 @@
 {
   "news": [
     {
+      "slug": "presidenta-del-ins-responsabiliza-a-bomberos-por-el-metodo-escogido-para-comprar-40-ambulancias",
+      "title": "Presidenta del INS responsabiliza a Bomberos por el método escogido para comprar 40 ambulancias",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Presidenta del INS menciona el papel de Bomberos en el proceso de compra.\n• Se solicitó la adquisición de 40 ambulancias por un monto significativo.\n• El INS no tomó parte en la adjudicación de este contrato específico.\n• La urgencia en la compra de ambulancias es un tema de debate administrativo.\n• Gabriela Chacón argumenta la necesidad de actuar rápidamente en esta situación.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/politica/presidenta-del-ins-responsabiliza-a-bomberos-por/3W37GDH7MFC5JLJ3Z5NM63BVKU/story/",
+      "publish_date": "2026-11-20T08:15:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La presidenta del INS critica a Bomberos por la compra de ambulancias.",
+      "image_url": "https://www.nacion.com/resizer/v2/CL5KVI2ZDRADZF4UB3VZCMSLPI.jpg?auth=4ac3871b93a188a12f9ee00695c35cd22b686eb94316695f30b5d3c59d5d3351&smart=true&width=3000&height=2000",
+      "description": "El INS negó participación en la adjudicación de 40 ambulancias por ¢6.500 millones. Gabriela Chacón defendió la urgencia de la compra y responsabilizó a Bomberos por el método de contratación.",
+      "featured": false
+    },
+    {
       "slug": "del-record-de-casi-700-a-caer-bajo-los-450-las-cuatro-etapas-que-marcaron-el-precio-del-dolar-en-la-ultima-decada",
       "title": "Del récord de casi ¢700 a caer bajo los ¢450: las cuatro etapas que marcaron el precio del dólar en la última década",
       "category": "Costa Rica",
-      "bullets_20s": "• La evolución del tipo de cambio ha tenido grandes fluctuaciones en la última década.\n• Las políticas económicas han influido en el valor del dólar en el país.\n• Cuatro etapas claves se identifican para entender esta tendencia económica.\n• El Programa Estado de la Nación realiza un análisis exhaustivo de los cambios.\n• Los factores internos y externos afectaron el comportamiento del dólar.",
+      "bullets_20s": "• El dólar en Costa Rica ha pasado por diversas fluctuaciones en la última década.\n• Cuatro etapas clave han marcado los cambios en el tipo de cambio observado.\n• Este informe detalla la evolución del dólar a lo largo de los años recientes.\n• La economía costarricense refleja tensiones en el mercado cambiario actual.\n• Los factores internos y externos influyen en el costo del dólar en el país.",
       "source_name": "Mónica Cerdas Gómez",
       "source_url": "https://www.nacion.com/economia/del-record-de-casi-700-a-caer-bajo-los-450-las/PCKNNW2XUVC3NB7N75YAK7F2G4/story/",
       "publish_date": "2026-11-20T07:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Análisis de las fluctuaciones del dólar en Costa Rica en la última década.",
+      "teaser": "Lo clave en 20 segundos: Dólar en Costa Rica ha fluctuado notablemente en la última década, con cuatro etapas identifiables.",
       "image_url": "https://www.nacion.com/resizer/v2/XG4W57CQWZGMLKJ65J7ELVFC3Q.jpg?auth=e782bfc63d8f70edd5a61c5c19ecc0a967d2fa5c3a26f56fe02c0f58c0ddaa64&smart=true&width=4500&height=2899",
-      "description": "El informe 2026 del Programa Estado de la Nación identifica cuatro etapas en el comportamiento del tipo de cambio durante la última década.",
+      "description": "El informe 2026 del Programa Estado de la Nación identifica cuatro etapas en el comportamiento del tipo de cambio durante la última década",
       "featured": false
     },
     {
       "slug": "aqui-los-drones-no-vuelan-la-bbc-en-el-interior-del-gasoducto-desde-el-que-ucrania-libra-una-guerra-subterranea-contra-r",
       "title": "\"Aquí los drones no vuelan\": la BBC en el interior del gasoducto desde el que Ucrania libra una guerra subterránea contra Rusia",
       "category": "Mundo",
-      "bullets_20s": "• El conflicto entre Ucrania y Rusia ha llevado a enfrentamientos en túneles subterráneos tradicionales.\n• Los drones son ineficaces en este tipo de combates, limitando la tecnología militar convencional.\n• Los soldados enfrentan condiciones de vida extremas en un entorno hostil y peligroso.\n• La historia revela cómo estos túneles fueron utilizados durante la Guerra Fría.\n• El análisis de esta zona destaca la importancia estratégica de los recursos energéticos.",
+      "bullets_20s": "• Ucrania enfrenta a las tropas rusas en un antiguo túnel en condiciones extremadamente difíciles.\n• El túnel, parte del gasoducto, se convierte en escenario de una lucha subterránea clave.\n• Las fuerzas ucranianas utilizan estrategias innovadoras para combatir en la guerra moderna.\n• La infraestructura soviética se transforma en un recurso vital para la defensa nacional.\n• El conflicto resalta la importancia del control territorial y logístico en guerras contemporáneas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6wy418my1mlo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-20T04:06:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Un vistazo a la guerra subterránea de Ucrania en antiguos túneles soviéticos.",
+      "teaser": "Lo clave en 20 segundos: Ucrania usa túneles soviéticos para combatir a Rusia en guerra subterránea.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg",
       "description": "Las fuerzas ucranianas combaten contra las tropas rusas en un antiguo túnel soviético en la región de Járkiv en condiciones extremas.",
       "featured": false
@@ -30,11 +43,11 @@
       "slug": "pedro-sanchez-reconoce-errores-en-debate-electoral-con-feijoo-a-diez-dias-de-las-elecciones-en-espana",
       "title": "Pedro Sánchez reconoce errores en debate electoral con Feijóo a diez días de las elecciones en España",
       "category": "Mundo",
-      "bullets_20s": "• Pedro Sánchez admitió fallos en su administración durante un debate electoral complicado.\n• El debate se centró en temas de corrupción, economía e inmigración en España.\n• Los enfrentamientos entre Sánchez y Feijóo marcaron la confrontación política reciente.\n• La opinión pública evalúa las respuestas y estrategias de los candidatos en elecciones.\n• El debate se realizó a pocos días de las elecciones generales en España.",
+      "bullets_20s": "• El debate electoral entre Sánchez y Feijóo fue muy esperado por los votantes españoles.\n• Ambos candidatos discutieron temas cruciales como la economía y la inmigración.\n• Las acusaciones de corrupción fueron un punto álgido del debate entre los contendientes.\n• Sánchez admitió fallos en su gestión ante un electorado exigente y crítico.\n• El debate tuvo lugar a solo diez días de las elecciones generales en España.\n• Las posturas sobre políticas migratorias diferían notablemente entre ambos candidatos.\n• La tensión entre los dos políticos fue palpable durante la discusión en televisión.\n• Los votantes estarán atentos a las repercusiones de este debate en los resultados.\n• Este evento podría ser decisivo para el futuro político en España.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/el-mundo/pedro-sanchez-reconoce-errores-en-debate-electoral/WMVE3YS7MREXJMJVCJ6FMMKX4Q/story/",
       "publish_date": "2026-11-20T02:49:36.000Z",
-      "teaser": "Lo clave en 20 segundos: Pedro Sánchez reconoce errores en un tenso debate electoral en España.",
+      "teaser": "Lo clave en 20 segundos: Pedro Sánchez admite errores en tenso debate con Feijóo a días de elecciones.",
       "image_url": "https://www.nacion.com/resizer/v2/IXF5NF3B7JGXRLIX7HYRKZYOUM.jpg?smart=true&auth=d8ade47b7b64aa911ae218e62dca38a6c79b260b5b732e1f477b5488fec378d8&width=1440",
       "description": "Pedro Sánchez reconoció errores en su gestión durante un tenso debate electoral con Alberto Núñez Feijóo, marcado por acusaciones de corrupción, críticas económicas y diferencias sobre inmigración en España.",
       "featured": false
@@ -121,11 +134,11 @@
       "slug": "la-hipopotamo-fiona-muere-tras-tragarse-el-gorro-de-un-visitante-en-el-zoologico-de-cincinnati",
       "title": "La hipopótamo Fiona muere tras tragarse el gorro de un visitante en el zoológico de Cincinnati",
       "category": "Mundo",
-      "bullets_20s": "• La hipopótamo Fiona fue un residente popular en el zoológico de Cincinnati.\n• El incidente involucró un gorro de un visitante que accidentalmente fue ingerido.\n• El zoológico informó que Fiona enfrentó complicaciones tras el trágico evento.\n• Fiona luchó por su vida, pero lamentablemente no logró recuperarse.\n• El zoológico de Cincinnati emitió un comunicado sobre la difícil situación.",
+      "bullets_20s": "• Fiona fue una hipopótamo muy querida en el zoológico de Cincinnati.\n• El incidente ocurrió cuando un visitante le arrojó un gorro accidentalmente.\n• El zoológico trató de salvar a Fiona tras el incidente, pero no tuvo éxito.\n• Durante días, Fiona luchó por su vida tras tragarse el gorro.\n• Su muerte ha conmovido a los amantes de los animales en todo el mundo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c64gn0rw8447o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-19T22:58:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Hipopótamo Fiona muere por trágico incidente en zoológico de Cincinnati.",
+      "teaser": "Lo clave en 20 segundos: La hipopótamo Fiona falleció tras un grave accidente en el zoológico de Cincinnati.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0deb/live/75026a20-e45d-11f1-a599-65f550c2a35a.jpg",
       "description": "Luchó hasta que ya no pudo más, declaró el zoológico de Cincinnati en un comunicado. Fiona enfermó pocos días después del incidente.",
       "featured": false
@@ -236,13 +249,13 @@
     },
     {
       "slug": "anthropic-por-que-el-mayor-debut-bursatil-de-la-historia-pone-a-prueba-la-burbuja-de-la-ia-y-la-posibilidad-de-que-estal",
-      "title": "Anthropic: por qué el mayor debut bursátil de la historia pone a prueba \"la burbuja\" de la IA y la posibilidad de que estalle",
+      "title": "Anthropic: por qué el mayor debut bursátil de la historia pone a prueba 'la burbuja' de la IA y la posibilidad de que estalle",
       "category": "Mundo",
-      "bullets_20s": "• Anthropic ha tenido un gran debut bursátil, generando expectativas en el sector tecnológico global.\n• Expertos analizan si la valoración actual de la empresa refleja una burbuja especulativa en IA.\n• El mercado está atento a los próximos movimientos de Anthropic y su impacto en las inversiones.\n• Se debate sobre la sostenibilidad de las valoraciones altísimas en el contexto de la inteligencia artificial.\n• Las empresas relacionadas con IA podrían verse afectadas si se concretan cambios en el mercado.",
+      "bullets_20s": "• El debut bursátil de Anthropic ha sido uno de los más importantes de la historia reciente.\n• Las valoraciones del mercado sobre las empresas de inteligencia artificial están bajo análisis profundo.\n• Se cuestiona si estamos ante una burbuja en el sector de la inteligencia artificial.\n• Los inversores están evaluando la viabilidad futura de estas empresas emergentes.\n• La tecnología de IA está revolucionando múltiples industrias en todo el mundo.\n• Las expectativas sobre la rentabilidad de la IA generan tanto entusiasmo como escepticismo.\n• La competencia entre empresas de IA se intensifica, afectando las valoraciones.\n• Los analistas advierten sobre riesgos en inversiones en tecnología emergente.\n• Este caso podría influir en futuras regulaciones del sector tecnológico a nivel global.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqm2ln990v10o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-19T20:34:12.000Z",
-      "teaser": "Lo clave en 20 segundos: el debut bursátil de Anthropic desafía la estabilidad del mercado de IA.",
+      "teaser": "Lo clave en 20 segundos: Anthropic desafía percepciones sobre la burbuja de la IA en su gran debut bursátil.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/aae7/live/cdfec8b0-e441-11f1-9192-3924a59e54c7.jpg",
       "description": "La empresa quedó situada entre las 10 empresas estadounidenses más valoradas en el mercado bursátil, pero su futuro es incierto.",
       "featured": false
@@ -138243,8 +138256,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-20T07:45:26.597Z",
-  "total": 10634,
+  "generated_at": "2026-11-20T08:45:27.818Z",
+  "total": 10635,
   "removed_soccer_news_count": 1662,
   "removed_soccer_news_titles": [
     "Suspenden tres años a la corredora campeona mundial de maratón",
