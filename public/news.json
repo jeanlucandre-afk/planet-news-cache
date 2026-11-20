@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "otro-ciberataque-masivo-a-proveedor-de-jpmorgan-visa-y-mastercard-expone-datos-de-clientes",
+      "title": "Otro ciberataque masivo a proveedor de JPMorgan, Visa y Mastercard expone datos de clientes",
+      "category": "Mundo",
+      "bullets_20s": "• Un ciberataque masivo afectó a un proveedor de servicios de varias instituciones financieras importantes.\n• Datos sensibles de clientes de JPMorgan, Visa y Mastercard fueron comprometidos en el ciberataque.\n• Se desconoce la magnitud total de la información expuesta tras el incidente cibernético.\n• Expertos en ciberseguridad investigan cómo pudo ocurrir esta brecha de datos significativa.\n• Se recomienda a los clientes monitorizar sus cuentas bancarias ante posibles fraudes.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/otro-ciberataque-masivo-a-proveedor-de-jpmorgan/NDSFDWO74JBYND523CEGDKKZ2Q/story/",
+      "publish_date": "2026-11-20T15:08:12.000Z",
+      "teaser": "Lo clave en 20 segundos: Un nuevo ciberataque expone datos sensibles de clientes de grandes bancos.",
+      "image_url": "https://www.nacion.com/resizer/v2/4Y524B7LM5DUPND3O6QXGTRZL4.jpg?smart=true&auth=a7529f11e72295636e14b04b0a0cd1590a6fb839ca431cd150a78acef9b18630&width=1440",
+      "description": "JPMorgan Chase, Visa y Mastercard confirmaron que un ciberataque a un proveedor expuso datos de clientes. Conozca qué información resultó comprometida.",
+      "featured": false
+    },
+    {
+      "slug": "migracion-pasa-al-ministerio-de-seguridad-publica-e-imprenta-nacional-al-de-la-presidencia-con-el-cierre-oficial-del-min",
+      "title": "Migración pasa al Ministerio de Seguridad Pública e Imprenta Nacional al de la Presidencia con el cierre oficial del Ministerio de Gobernación",
+      "category": "Costa Rica",
+      "bullets_20s": "• El cierre del Ministerio de Gobernación cambiará la estructura del gobierno en Costa Rica.\n• Migración y otras competencias se asignan al Ministerio de Seguridad Pública para mayor eficiencia.\n• Se espera que los cambios mejoren la gestión de la migración en el país.\n• El nuevo decreto busca reducir burocracia y acelerar procesos administrativos.\n• El Tribunal Administrativo Migratorio ahora estará bajo el mando del Ministerio de Seguridad.",
+      "source_name": "Juan Fernando Lara Salas",
+      "source_url": "https://www.nacion.com/el-pais/migracion-pasa-al-ministerio-de-seguridad-publica/QUR72S7Q4ZEULP7JI2GMADDCNI/story/",
+      "publish_date": "2026-11-20T15:03:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Migración cambia de ministerio con el cierre de Gobernación en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/DTOXBLTPM5GIXAS5QLCU3AHFJ4.jpg?smart=true&auth=a2074d708cd338bf1c0a12113f0e6505dadb79d1b7efb921cb5ff8880bccbf3a&width=1440",
+      "description": "Decreto suprime cartera de Gobernación y divide sus competencias en cinco instancias; Migración y Tribunal Administrativo Migratorio quedan en Seguridad Pública.",
+      "featured": false
+    },
+    {
       "slug": "me-negaron-despedirme-de-mi-madre-recien-fallecida",
       "title": "Me negaron despedirme de mi madre recién fallecida",
       "category": "Costa Rica",
@@ -95,11 +121,11 @@
       "slug": "que-paso-con-las-farc-10-anos-despues-del-acuerdo-de-paz-que-puso-fin-a-mas-de-50-anos-de-conflicto-con-el-estado-en-col",
       "title": "Qué pasó con las FARC 10 años después del acuerdo de paz que puso fin a más de 50 años de conflicto con el Estado en Colombia",
       "category": "Mundo",
-      "bullets_20s": "• Las FARC firmaron un acuerdo de paz en 2016, marcando el fin de un largo conflicto armado.\n• Más de 13,000 guerrilleros dejaron las armas para reintegrarse a la sociedad civil.\n• A 10 años del acuerdo, se evalúa el impacto en la seguridad y desarrollo de Colombia.\n• La reincorporación ha enfrentado desafíos sociales y económicos para los excombatientes.\n• El proceso de paz busca estabilidad en un país que ha vivido décadas de violencia.",
+      "bullets_20s": "• El acuerdo de paz firmado en 2016 buscaba terminar un conflicto armado de más de cinco décadas en Colombia.\n• Más de 13.000 exguerrilleros se desmovilizaron y comenzaron su proceso de reintegración a la sociedad colombiana.\n• La implementación del acuerdo ha enfrentado numerosos retos y desafíos dentro de la sociedad colombiana.\n• Algunos líderes exguerrilleros han optado por la política, mientras otros enfrentan obstáculos para su inclusión.\n• La seguridad y la violencia en varias regiones siguen siendo temas delicados y relevantes en el país.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c8zxl4rd6nq5o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-20T12:05:05.000Z",
-      "teaser": "Lo clave en 20 segundos: Impacto del acuerdo de paz de las FARC tras 10 años de su firma.",
+      "teaser": "Lo clave en 20 segundos: El impacto del acuerdo de paz en Colombia tras diez años de su firma.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/e2a6/live/8ec2bde0-d2ef-11f1-8d86-83eebc838351.jpg",
       "description": "En 2016, más de 13.000 guerrilleros firmaron la paz con el Estado colombiano tras más de 50 años en guerra, dejaron las armas y se reincorporaron a la vida civil. ¿Qué ha ocurrido desde entonces?",
       "featured": false
@@ -147,11 +173,11 @@
       "slug": "el-hotel-peruano-que-ofrece-vistas-espectaculares-pero-requiere-nervios-de-acero-para-llegar-a-el",
       "title": "El hotel peruano que ofrece vistas espectaculares, pero requiere nervios de acero para llegar a él",
       "category": "Mundo",
-      "bullets_20s": "• Skylodge ofrece alojamiento único en cápsulas transparentes con vistas impresionantes.\n• Las cápsulas están situadas a 365 metros de altura en el Valle Sagrado de Perú.\n• Llegar al hotel requiere un viaje emocionante por caminos difíciles y trepadas.\n• Ideal para aventureros que buscan una experiencia diferente en la naturaleza.\n• Las vistas desde las cápsulas son impresionantes, ofreciendo un espectáculo natural.",
+      "bullets_20s": "• El Skylodge es un hotel único que ofrece vistas impresionante sobre el Valle Sagrado.\n• Sus cápsulas transparentes brindan una experiencia alojativa inigualable para los aventureros.\n• El acceso al hotel implica un emocionante recorrido por vías ferratas desafiantes.\n• Situado a 365 metros de altura, el hotel es perfecto para los amantes de la adrenalina.\n• Los huéspedes disfrutan de comidas gourmet mientras contemplan paisajes extraordinarios desde las alturas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cw0k00z0v1r0o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-20T10:34:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Un hotel en Perú que sorprende por sus vistas y acceso desafiante.",
+      "teaser": "Lo clave en 20 segundos: Este hotel peruano tiene vistas impresionantes y un acceso lleno de adrenalina.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/50f3/live/34e8d5b0-e4d4-11f1-b045-89fda867dd9a.jpg",
       "description": "Skylodge tiene cápsulas transparentes situadas a 365 metros sobre el Valle Sagrado de Perú... pero hay que ser valiente para llegar a ellas.",
       "featured": false
@@ -186,13 +212,13 @@
       "slug": "por-que-la-condena-por-genocidio-contra-myanmar-es-historica-y-podria-tener-repercusiones-de-gran-alcance",
       "title": "Por qué la condena por genocidio contra Myanmar es histórica y podría tener repercusiones de gran alcance",
       "category": "Mundo",
-      "bullets_20s": "• El caso de Myanmar ha llamado la atención internacional por su contexto de violaciones a derechos humanos.\n• Gambia destaca por su papel en demostrar la intención del genocidio ante la Corte Internacional.\n• Históricamente, este tipo de condenas pueden influir en otras jurisdicciones y conflictos.\n• La condena puede establecer un precedente importante en la legislación internacional.\n• Las repercusiones de este juicio podrían cambiar el enfoque hacia otros gobiernos acusados de genocidio.",
+      "bullets_20s": "• La condena por genocidio a Myanmar es un hito en la lucha por justicia internacional.\n• Expertos analizan la importancia de la decisión tomada por la corte internacional.\n• El caso ha resaltado las atrocidades y el sufrimiento de la población en Myanmar.\n• Se espera que esta condena genere un impacto duradero en la política global.\n• Los abogados destacan la relevancia de las pruebas presentadas por Gambia en el juicio.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c5y4jve4zypxo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-20T08:23:18.000Z",
-      "teaser": "Lo clave en 20 segundos: Las implicaciones del juicio a Myanmar por genocidio son significativas.",
+      "teaser": "Lo clave en 20 segundos: La condena a Myanmar por genocidio marca un hito en la justicia internacional.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c260/live/4384ee10-e439-11f1-99b6-a35a62fa4264.jpg",
-      "description": "Los abogados estudiarán cómo Gambia logró demostrar que Myanmar tenía la intención de cometer genocidio, un aspecto crucial del caso, según el editor internacional de la BBC.",
+      "description": "Los abogados estudiarán cómo Gambia logró demostrar que Myanmar tenía la intención de cometer genocidio, un aspecto crucial del caso.",
       "featured": false
     },
     {
@@ -225,11 +251,11 @@
       "slug": "aqui-los-drones-no-vuelan-la-bbc-en-el-interior-del-gasoducto-desde-el-que-ucrania-libra-una-guerra-subterranea-contra-r",
       "title": "\"Aquí los drones no vuelan\": la BBC en el interior del gasoducto desde el que Ucrania libra una guerra subterránea contra Rusia",
       "category": "Mundo",
-      "bullets_20s": "• Las fuerzas ucranianas utilizan túneles para resistir los ataques rusos en la guerra actual.\n• El antiguo gasoducto ha sido escenario de intensos combates entre las dos naciones.\n• Los soldados enfrentan condiciones extremas dentro de los túneles subterráneos.\n• La lucha por el control de estos túneles es crucial en la estrategia militar.\n• Este conflicto representa una nueva forma de guerra moderna entre Ucrania y Rusia.",
+      "bullets_20s": "• El conflicto entre Ucrania y Rusia se intensifica en terrenos difíciles y peligrosos como los túneles.\n• Las fuerzas ucranianas realizan operaciones tácticas en condiciones extremas en el antiguo gasoducto.\n• Los túneles soviéticos se han convertido en un campo de batalla vital en la guerra actual.\n• Con cada avance, los soldados enfrentan retos complejos y decisiones críticas en su lucha.\n• La guerra subterránea ofrece un nuevo panorama de las estrategias bélicas en el conflicto.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6wy418my1mlo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-20T04:06:31.000Z",
-      "teaser": "Lo clave en 20 segundos: Ucrania combate en túneles ocultos de gasoductos contra Rusia.",
+      "teaser": "Lo clave en 20 segundos: La guerra subterránea de Ucrania en épocas difíciles y condiciones extremas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg",
       "description": "Las fuerzas ucranianas combaten contra las tropas rusas en un antiguo túnel soviético en la región de Járkiv en condiciones extremas.",
       "featured": false
@@ -138425,8 +138451,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-20T14:45:26.476Z",
-  "total": 10648,
+  "generated_at": "2026-11-20T15:45:27.091Z",
+  "total": 10650,
   "removed_soccer_news_count": 1662,
   "removed_soccer_news_titles": [
     "Suspenden tres años a la corredora campeona mundial de maratón",
