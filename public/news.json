@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "fuerte-temblor-de-magnitud-67-sacude-peru-reportan-danos-leves-en-viviendas-cortes-electricos-y-deslizamientos",
+      "title": "Fuerte temblor de magnitud 6,7 sacude Perú: reportan daños leves en viviendas, cortes eléctricos y deslizamientos",
+      "category": "Mundo",
+      "bullets_20s": "• El sismo tuvo una magnitud de 6,7 y se sintió en varias regiones del país.\n• Las autoridades reportan daños leves en diversas viviendas afectadas por el temblor.\n• Cortes de electricidad han sido registrados en áreas cercanas al epicentro del sismo.\n• Deslizamientos de tierra han complicado la situación en algunas zonas afectadas.\n• Se está realizando un balance oficial para determinar la magnitud de los daños.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/fuerte-temblor-de-magnitud-67-sacude-peru-reportan/5D4JSKGEFBEXBMX7HCA7XGKJGI/story/",
+      "publish_date": "2026-11-21T04:14:39.000Z",
+      "teaser": "Lo clave en 20 segundos: Un fuerte sismo sacudió Perú causando daños leves y cortes eléctricos.",
+      "image_url": "https://www.nacion.com/resizer/v2/U4STJO3YIJFRHMRDGLG7ZARARU.jpg?smart=true&auth=1dfbfa7fa8daca687bbccdbe33ce270b00e6cdd861922bac91059204b9b4ca4e&width=1440",
+      "description": "Un sismo de magnitud 6,7 sacudió Perú y provocó daños en viviendas, cortes de electricidad y deslizamientos. Conozca las regiones afectadas y el balance oficial.",
+      "featured": false
+    },
+    {
+      "slug": "imn-pronostica-un-sabado-caluroso-y-ventoso-en-costa-rica-solo-una-region-tendra-posibilidad-de-lluvia",
+      "title": "IMN pronostica un sábado caluroso y ventoso en Costa Rica: solo una región tendrá posibilidad de lluvia",
+      "category": "Costa Rica",
+      "bullets_20s": "• El IMN reporta que el clima de hoy tendrá calor extremo en varias regiones del país.\n• Esperan vientos fuertes que pueden alcanzar velocidades notables en áreas abiertas.\n• Una región específica tendrá chubascos, mientras que el resto del país estará seco.\n• Las temperaturas llegarán hasta los 35,5 °C, causando sensación de calor intenso.\n• Se recomienda a la población mantenerse hidratada y protegerse del sol este sábado.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/sucesos/imn-pronostica-un-sabado-caluroso-y-ventoso-en/7EWG32BRMFGURGRPYKBKK4YZLA/story/",
+      "publish_date": "2026-11-21T04:06:16.000Z",
+      "teaser": "Lo clave en 20 segundos: IMN prevé un sábado caluroso y ventoso en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/F2OF3GNM7NHZLPFQQTYAITYDYM.png?auth=204fa1db8b2f442dce0f46e4d03670e12e50c0fa50696c4198cc85a7cef464a8",
+      "description": "El IMN pronostica un sábado 21 de noviembre caluroso y ventoso en Costa Rica, con temperaturas de hasta 35,5 °C. Conozca cuál será la única región con posibilidad de lluvia.",
+      "featured": false
+    },
+    {
+      "slug": "aeropuerto-juan-santamaria-estrena-centro-de-transporte-estos-son-los-servicios-que-encontraran-los-pasajeros",
+      "title": "Aeropuerto Juan Santamaría estrena centro de transporte: estos son los servicios que encontrarán los pasajeros",
+      "category": "Costa Rica",
+      "bullets_20s": "• El nuevo centro de transporte tiene un diseño moderno y funcional para mejorar la experiencia del pasajero.\n• Ofrece múltiples servicios, desde información hasta transporte a diferentes destinos en el país.\n• Se espera que este centro agilice los procesos de traslado para los viajeros que arriban al aeropuerto.\n• El espacio incluye áreas de espera cómodas y acceso a tecnologías para facilitar la información.\n• El Aeropuerto continúa modernizándose para adaptarse a las nuevas necesidades de los usuarios.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-pais/aeropuerto-juan-santamaria-estrena-centro-de/6L65AEBX4ZB7LLDHDA4JVNLXCQ/story/",
+      "publish_date": "2026-11-21T03:52:57.000Z",
+      "teaser": "Lo clave en 20 segundos: nuevo centro de transporte en el Aeropuerto Juan Santamaría mejora servicios para pasajeros.",
+      "image_url": "https://www.nacion.com/resizer/v2/MGIQMCHKI5D33GL67USIYHNGBM.jpg?auth=077c88d46bbb559f631b31572da152976d227c74f2e6efa3c08a2a20cefecfb3&smart=true&width=960&height=1280",
+      "description": "El Aeropuerto Juan Santamaría estrenó un centro de transporte de 2.800 metros cuadrados. Conozca dónde se ubica, qué servicios ofrece y cómo beneficia a los pasajeros.",
+      "featured": false
+    },
+    {
       "slug": "chances-de-la-jps-estos-son-los-numeros-ganadores-del-sorteo-de-este-viernes-20-de-noviembre",
       "title": "Chances de la JPS: estos son los números ganadores del sorteo de este viernes 20 de noviembre",
       "category": "Costa Rica",
@@ -95,11 +134,11 @@
       "slug": "la-bolsa-de-wall-street-cae-con-fuerza-en-medio-del-desplome-de-las-acciones-de-las-tecnologicas-y-registra-su-peor-sema",
       "title": "La bolsa de Wall Street cae con fuerza en medio del desplome de las acciones de las tecnológicas y registra su peor semana desde la pandemia",
       "category": "Mundo",
-      "bullets_20s": "• Wall Street enfrenta su peor semana desde el inicio de la pandemia global en 2020.\n• Las acciones de las empresas tecnológicas han liderado el desplome en el mercado bursátil.\n• Los inversores están preocupados por la sostenibilidad del crecimiento de estas empresas.\n• La volatilidad del mercado ha aumentado debido a factores económicos y geopolíticos.\n• Los analistas sugieren una posible corrección en el valor de estas acciones a futuro.",
+      "bullets_20s": "• Wall Street experimenta caídas significativas, afectando la confianza de los inversores en el mercado.\n• El descenso en las acciones tecnológicas se debe a reportes financieros negativos recientes.\n• Analistas advierten sobre la volatilidad del mercado tras los eventos económicos globales.\n• La crisis en el sector tecnológico resuena en mercados internacionales, aumentando el nerviosismo.\n• Los inversores buscan refugio en activos más seguros ante la incertidumbre económica actual.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cm8791vvwelno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-20T23:15:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Wall Street sufre su peor semana desde la pandemia por caída en tecnológicas.",
+      "teaser": "Lo clave en 20 segundos: La bolsa cae tras el desplome tecnológico, generando inquietud en los mercados globales.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/eea7/live/5f3cbf00-e535-11f1-b232-9987117b4bfe.png",
       "description": "Las tecnológicas se han visto afectadas por la caída masiva del sector en los mercados bursátiles.",
       "featured": false
@@ -108,11 +147,11 @@
       "slug": "un-misil-ruso-impacta-en-polonia-mientras-los-aliados-de-ucrania-realizan-ejercicios-militares",
       "title": "Un misil ruso impacta en Polonia mientras los aliados de Ucrania realizan ejercicios militares",
       "category": "Mundo",
-      "bullets_20s": "• Un misil ruso impactó en territorio polaco durante maniobras militares conjuntas de aliados de Ucrania.\n• El gobierno de Polonia calificó el impacto como una clara provocación por parte de Rusia.\n• No se reportaron heridos ni daños significativos tras el incidente en Polonia.\n• Los ejercicios militares de la OTAN continúan en la región, frente a tensiones crecientes.\n• La situación refleja el estado de alerta en Europa por el conflicto en Ucrania.",
+      "bullets_20s": "• Un misil ruso ha impactado territorio polaco mientras se realizan ejercicios en Ucrania.\n• Las autoridades de Varsovia han calificado el incidente de provocación desde Moscú.\n• No se reportaron víctimas ni daños materiales tras el impacto del misil.\n• Este evento genera tensiones en el contexto de la guerra entre Rusia y Ucrania.\n• Los aliados de Ucrania realizan maniobras militares en la región en respuesta a la invasión.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmkgkd79q9e6o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-20T22:46:07.000Z",
-      "teaser": "Lo clave en 20 segundos: un misil ruso impactó Polonia, intensificando la tensión en Europa.",
+      "teaser": "Lo clave en 20 segundos: un misil ruso impacta en Polonia sin heridos ni daños significativos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
       "description": "Nadie resultó herido y no se han reportado daños, pero Varsovia calificó el incidente de \"provocación\" por parte de Moscú.",
       "featured": false
@@ -249,13 +288,13 @@
     },
     {
       "slug": "en-que-consiste-y-a-quien-beneficia-el-acuerdo-de-reinicio-de-las-relaciones-entre-reino-unido-y-la-union-europea-tras-e",
-      "title": "En qué consiste y a quién beneficia el acuerdo de \"reinicio\" de las relaciones entre Reino Unido y la Unión Europea tras el Brexit",
+      "title": "En qué consiste y a quién beneficia el acuerdo de 'reinicio' de las relaciones entre Reino Unido y la Unión Europea tras el Brexit",
       "category": "Mundo",
-      "bullets_20s": "• Este nuevo acuerdo marcará un reinicio tras el Brexit, cambiando dinámicas comerciales.\n• Incluirá medidas sobre las exportaciones de alimentos para facilitar el comercio.\n• La movilidad de los jóvenes también será uno de los puntos clave de esta negociación.\n• Se han establecido nuevas normativas sobre las emisiones de carbono en el acuerdo.\n• El acuerdo promete impactar positivamente en las relaciones entre ambas partes.",
+      "bullets_20s": "• El nuevo acuerdo busca facilitar las exportaciones de alimentos entre Reino Unido y la UE.\n• Se han incluido disposiciones sobre la movilidad de los jóvenes para oportunidades de estudio.\n• El acuerdo también aborda temas relacionados con las emisiones de carbono y sostenibilidad.\n• Ambos lados esperan que este acuerdo mejore las relaciones post-Brexit considerablemente.\n• Se espera que el acuerdo proporcione beneficios económicos a sectores clave de ambas regiones.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cvp86lp2rd24o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-20T18:48:26.000Z",
-      "teaser": "Lo clave en 20 segundos: Un nuevo acuerdo busca mejorar relaciones tras el Brexit entre Reino Unido y la UE.",
+      "teaser": "Lo clave en 20 segundos: Un nuevo acuerdo entre Reino Unido y la UE busca mejorar relaciones post-Brexit.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/4ccf/live/8967a750-e4f8-11f1-a8e4-b1e12a49db15.jpg",
       "description": "Reino Unido y la Unión Europea llegaron, este viernes, a un nuevo acuerdo que cubre las exportaciones de alimentos, la movilidad de los jóvenes y las emisiones de carbono.",
       "featured": false
@@ -277,11 +316,11 @@
       "slug": "los-gritos-de-un-reo-durante-su-ejecucion-en-texas-reavivan-el-debate-sobre-la-pena-de-muerte-en-eeuu",
       "title": "Los gritos de un reo durante su ejecución en Texas reavivan el debate sobre la pena de muerte en EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• La pena de muerte en Estados Unidos genera controversia desde hace décadas entre diferentes sectores de la sociedad.\n• La ejecución en Texas ha reavivado el debate sobre los métodos de ejecución y su humanidad.\n• Expertos analizan la eficacia y ética de la pena capital en el contexto actual estadounidense.\n• Los gritos del reo han sido interpretados como un símbolo de la violencia del sistema penitenciario.\n• El caso de Christa Pike plantea preguntas sobre la seguridad y los protocolos de ejecución en el país.",
+      "bullets_20s": "• El uso de la pena de muerte en EE.UU. genera fuertes controversias y debates éticos.\n• Los detalles de la ejecución y sus consecuencias vuelven a poner el tema en la agenda nacional.\n• Expertos analizan la efectividad y la moralidad de la inyección letal como método de ejecución.\n• Activistas contra la pena de muerte piden cambios legislativos tras este reciente suceso.\n• La situación reaviva la discusión sobre los derechos humanos en el contexto penal.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cq3dg820rre0o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-20T17:20:55.000Z",
-      "teaser": "Lo clave en 20 segundos: Gritos en ejecución en Texas reabren controversia sobre la pena de muerte en EE.UU.",
+      "teaser": "Lo clave en 20 segundos: Los gritos de un reo reavivan el debate sobre la pena capital en EE.UU.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/19f8/live/7c960b40-e4ce-11f1-8ebd-0fa6091698b5.jpg",
       "description": "Esta prolongada ejecución se produce semanas después de que Christa Pike sobreviviera a la inyección letal del mismo fármaco.",
       "featured": false
@@ -1031,11 +1070,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra la graduación de 266 nuevos profesionales en dos ceremonias realizadas en Cartago.\n• La ceremonia destaca el esfuerzo de los graduados, que provienen de diversas regiones del país.\n• Casi la mitad de los graduados obtuvieron maestrías, mostrando el compromiso con la educación superior.\n• La ceremonia coincide con el 55 aniversario del TEC y el 50 de varias carreras emblemáticas.\n• La rectora del TEC subraya la importancia de la educación pública como una inversión nacional.",
+      "bullets_20s": "• El TEC celebra una nueva generación de graduados con 266 títulos entregados en una emotiva ceremonia.\n• Familias y docentes acompañaron a los graduandos en dos actos de graduación en Cartago este viernes.\n• Casi la mitad de los graduados obtuvieron maestrías y se entregaron también dos doctorados durante el evento.\n• La rectora del TEC enfatizó la importancia de la educación pública como inversión para el desarrollo nacional.\n• Los graduados provienen de las siete provincias, reflejando el alcance educativo del Tecnológico de Costa Rica.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: 266 graduados celebran sus logros en el TEC, destacando la importancia de la educación pública.",
+      "teaser": "Lo clave en 20 segundos: TEC celebra graduación de 266 nuevos profesionales con énfasis en educación de calidad.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -138841,10 +138880,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-21T03:45:27.105Z",
-  "total": 10680,
-  "removed_soccer_news_count": 1664,
+  "generated_at": "2026-11-21T04:45:26.603Z",
+  "total": 10683,
+  "removed_soccer_news_count": 1665,
   "removed_soccer_news_titles": [
+    "San Carlos empata y se complica en el Apertura 2026",
     "Alarma en Bayern Múnich e Inglaterra: el Balón de Oro Harry Kane estará de baja varios meses por lesión",
     "¿Jugará Keylor Navas? Esto se sabe sobre su estado físico antes del duelo clave de Pumas",
     "Suspenden tres años a la corredora campeona mundial de maratón",
@@ -138893,7 +138933,6 @@
     "Aficionados argentinos buscaron a tres integrantes de la Selección de Costa Rica para fotografías y autógrafos",
     "Klopp apuesta por sustituir a Infantino en la FIFA: ‘Tendría mucho sentido’",
     "Ronaldinho se da el gusto de jugar un partido oficial a los 46 años",
-    "Boca Juniors golea y es finalista de la Copa Argentina",
-    "Jamaica sorprende a México en la ida por la Nations League de Concacaf"
+    "Boca Juniors golea y es finalista de la Copa Argentina"
   ]
 }
