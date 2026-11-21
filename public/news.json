@@ -1,27 +1,53 @@
 {
   "news": [
     {
+      "slug": "quien-fue-james-bond-antes-de-llegar-al-cine-la-verdadera-historia-detras-del-espia-mas-famoso-del-mundo",
+      "title": "¿Quién fue James Bond antes de llegar al cine? La verdadera historia detrás del espía más famoso del mundo",
+      "category": "Mundo",
+      "bullets_20s": "• James Bond es un personaje creado por Ian Fleming en la década de 1950 para sus novelas.\n• El personaje refleja la vida de un espía en tiempos de guerra y paz en Europa.\n• A través de los años, Bond ha evolucionado en su representación en el cine y literatura.\n• Cada actor que ha interpretado a Bond ha dejado una marca en el personaje icónico.\n• La popularidad de Bond ha influido en la cultura pop y en otros medios de entretenimiento.",
+      "source_name": "Fernando Chaves Espinach",
+      "source_url": "https://www.nacion.com/ancora/quien-fue-james-bond-antes-de-llegar-al-cine-la/3YXZVIDZLFCEDEXF7AOD6KQSDU/story/",
+      "publish_date": "2026-11-21T13:12:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La historia de James Bond y su evolución desde las páginas hasta la pantalla.",
+      "image_url": "https://www.nacion.com/resizer/v2/XGCY4AMFW5GVNJV3IVPL7RZRR4.jpg?auth=c5b0132c23feb821570506c76d99b886b435292fb063a133bfb3854fe353f287&smart=true&width=254&height=400",
+      "description": "El anuncio de Robert Pattinson como el nuevo agente 007 invita a regresar a su creador, el escritor británico Ian Fleming, y al extraño personaje que ahora queremos tanto.",
+      "featured": false
+    },
+    {
+      "slug": "cuanto-mas-arriesgara-costa-rica-la-inversion-energetica",
+      "title": "¿Cuánto más arriesgará Costa Rica la inversión energética?",
+      "category": "Costa Rica",
+      "bullets_20s": "• La inversión energética es clave para el desarrollo sostenible de Costa Rica en el futuro.\n• Proyectos estancados pueden tener un impacto negativo en la economía nacional.\n• El capital busca condiciones favorables en mercados más estables y atractivos.\n• Analizar costos de la inacción es fundamental para tomar decisiones acertadas.\n• Reformas energéticas son urgentes para mantener competitividad en la región.",
+      "source_name": "William Villalobos Herrera",
+      "source_url": "https://www.nacion.com/opinion/foros/cuanto-mas-esta-dispuesto-costa-rica-a-comprometer/E67Q2IEF3JCU3EOCBX4DFJS65A/story/",
+      "publish_date": "2026-11-21T12:45:00.000Z",
+      "teaser": "Lo clave en 20 segundos: La inversión energética en Costa Rica enfrenta riesgos que podrían afectar su desarrollo futuro.",
+      "image_url": "https://www.nacion.com/resizer/v2/UG33RZHDERF3RJ23EQ4AVMAM7E.JPG?smart=true&auth=16f86322ac76742024b519e7f9db563e9c12e4bc0befd35b90c9a4f36272c359&width=1440",
+      "description": "El costo de postergar reformas no siempre aparece en las tarifas o presupuestos: se expresa en proyectos que no se estructuran, negocios que se esfuman y capital que encuentra mejores condiciones en otros mercados",
+      "featured": false
+    },
+    {
       "slug": "baja-la-exclusion-pero-hay-inclusion",
       "title": "Baja la exclusión… ¿pero hay inclusión?",
       "category": "Costa Rica",
-      "bullets_20s": "• La disminución de la deserción escolar se celebra como un avance significativo en Costa Rica.\n• A pesar del progreso, persisten barreras que limitan el acceso a la educación inclusiva.\n• Estimaciones señalan que miles de adolescentes están fuera del sistema educativo formal en el país.\n• Muchos estudiantes continúan asistiendo a clases, pero no logran los aprendizajes requeridos.\n• Es crucial identificar y abordar las razones detrás de la exclusión escolar en jóvenes.\n• La educación inclusiva debe considerar las necesidades de todos los estudiantes por igual.\n• Las políticas educativas deben ir acompañadas de acciones concretas para fomentar la inclusión.\n• El papel de la comunidad y la familia es vital para revertir la exclusión educativa.\n• Un análisis profundo es necesario para entender el fenómeno de la deserción en jóvenes.",
+      "bullets_20s": "• La reducción de la deserción escolar es un acontecimiento positivo en el sistema educativo.\n• A pesar de los avances, muchos adolescentes aún enfrentan importantes barreras educativas.\n• El acceso a la educación formal sigue siendo un desafío para miles de jóvenes costarricenses.\n• Solo menos de la mitad de los adolescentes alcanzan los aprendizajes esperados en su educación.\n• Es crucial abordar las causas que llevan a la exclusión en la educación secundaria.",
       "source_name": "Linda De Donder",
       "source_url": "https://www.nacion.com/opinion/foros/baja-la-exclusion-pero-hay-inclusion/R4USZA4PVJCFVC63XNLARR7B5M/story/",
       "publish_date": "2026-11-21T12:20:00.000Z",
-      "teaser": "Lo clave en 20 segundos: La deserción escolar baja en Costa Rica, pero faltan acciones inclusivas.",
+      "teaser": "Lo clave en 20 segundos: La deserción escolar baja, pero las barreras persisten para muchos jóvenes.",
       "image_url": "https://www.nacion.com/resizer/v2/MSHTD2LTKFDMZEHYVATWO57ICU.jpeg?smart=true&auth=df0cd174757e50d99cf5c0e985eb784867e1ef7b34bf8578ceb92493582e3197&width=1440",
-      "description": "La reducción de la deserción escolar en Costa Rica es un avance, pero no refleja todas las barreras que enfrentan los jóvenes. Cerca de 27.000 adolescentes de 13 a 17 años están fuera de la educación formal y muchos más permanecen en las aulas sin alcanzar los aprendizajes esperados.",
+      "description": "La reducción de la deserción escolar en Costa Rica es un avance, pero no refleja todas las barreras que enfrentan los jóvenes. Cerca de 27.000 adolescentes de 13 a 17 años están fuera de la educación formal y muchos más permanecen en las aulas sin alcanzar los aprendizajes esperados",
       "featured": false
     },
     {
       "slug": "imn-pronostica-un-sabado-caluroso-y-ventoso-en-costa-rica-solo-una-region-tendra-posibilidad-de-lluvia",
       "title": "IMN pronostica un sábado caluroso y ventoso en Costa Rica: solo una región tendrá posibilidad de lluvia",
       "category": "Costa Rica",
-      "bullets_20s": "• El Instituto Meteorológico Nacional advierte sobre un clima cálido este 21 de noviembre en Costa Rica.\n• Se esperan temperaturas que pueden alcanzar hasta 35,5 grados Celsius en varias regiones del país.\n• La previsión incluye vientos moderados que afectarán diversas áreas durante el día.\n• Se debe tener precaución con la hidratación y protección solar debido al calor intenso.\n• Solo una región del país tiene probabilidades de recibir lluvias durante este día caluroso.",
+      "bullets_20s": "• El IMN advierte sobre un clima caluroso para el sábado en gran parte del país.\n• Las temperaturas pueden alcanzar hasta 35,5 °C en varias regiones costarricenses.\n• El viento será un factor destacado, con ráfagas intensas en ciertas áreas.\n• Solo una región específica tendrá posibilidades de recibir lluvia en el día.\n• Los ciudadanos deben estar preparados para altas temperaturas y vientos fuertes.",
       "source_name": "Silvia Ureña Corrales",
       "source_url": "https://www.nacion.com/sucesos/imn-pronostica-un-sabado-caluroso-y-ventoso-en/7EWG32BRMFGURGRPYKBKKX4YZLA/story/",
       "publish_date": "2026-11-21T12:15:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Calor y viento dominarán el sábado, con una región posiblemente lluviosa.",
+      "teaser": "Lo clave en 20 segundos: IMN anuncia calor y viento para el sábado, con una región con posibilidad de lluvia.",
       "image_url": "https://www.nacion.com/resizer/v2/F2OF3GNM7NHZLPFQQTYAITYDYM.png?auth=204fa1db8b2f442dce0f46e4d03670e12e50c0fa50696c4198cc85a7cef464a8",
       "description": "El IMN pronostica un sábado 21 de noviembre caluroso y ventoso en Costa Rica, con temperaturas de hasta 35,5 °C. Conozca cuál será la única región con posibilidad de lluvia.",
       "featured": false
@@ -108,11 +134,11 @@
       "slug": "como-una-taza-de-te-mal-servida-transformo-la-estadistica-y-abrio-el-camino-a-la-ciencia-de-los-datos",
       "title": "Cómo una taza de té mal servida transformó la estadística y abrió el camino a la ciencia de los datos",
       "category": "Ciencia",
-      "bullets_20s": "• El desafío entre colegas se volvió un hito en la historia de la estadística moderna.\n• Discute cómo un simple error en el servicio puede afectar los resultados científicos.\n• Resalta la importancia de la metodología en la investigación científica actual.\n• Investigadores utilizan datos erróneos para demostrar sus teorías y explicaciones.\n• La estadística se ha convertido en la base para múltiples disciplinas científicas hoy.",
+      "bullets_20s": "• La estadística ha sido fundamental en el desarrollo de la ciencia moderna y su aplicación.\n• El té mal servido simboliza el inicio de la búsqueda de métodos científicos rigurosos.\n• Investigadores han destacado la importancia de los desafíos en la materia estadística.\n• Las reglas establecidas han influido en el diseño de experimentos en diversas disciplinas.\n• Este evento encierra un aprendizaje profundo sobre la importancia de datos confiables.\n• La ciencia de datos se basa en principios matemáticos y estadísticos fundamentales.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpq0lv5p5vqo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-21T09:51:54.000Z",
-      "teaser": "Lo clave en 20 segundos: Un error al servir té cambió la forma de entender la estadística.",
+      "teaser": "Lo clave en 20 segundos: El impacto de un té mal servido en la evolución de la estadística.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/d0bc/live/bbe894e0-a6fb-11f1-b109-879e35c24276.jpg",
       "description": "Un curioso desafío entre colegas terminó dando forma a las reglas que hoy sostienen casi cualquier experimento científico.",
       "featured": false
@@ -290,11 +316,11 @@
       "slug": "la-bolsa-de-wall-street-cae-con-fuerza-en-medio-del-desplome-de-las-acciones-de-las-tecnologicas-y-registra-su-peor-sema",
       "title": "La bolsa de Wall Street cae con fuerza en medio del desplome de las acciones de las tecnológicas y registra su peor semana desde la pandemia",
       "category": "Mundo",
-      "bullets_20s": "• La bolsa de Wall Street experimenta una caída significativa que preocupa a los inversionistas.\n• Las acciones de empresas tecnológicas están en el centro de este incidente bursátil.\n• Como resultado, se registra el peor rendimiento semanal desde el inicio de la pandemia.\n• Las condiciones del mercado reflejan la inestabilidad económica a nivel mundial.\n• Los analistas advierten sobre posibles repercusiones en diferentes sectores.\n• El descenso de las tecnológicas podría afectar el crecimiento de la economía global.\n• A medida que las acciones bajan, los inversionistas buscan refugio en activos más seguros.\n• Se esperan análisis más detallados sobre esta situación en los próximos días.\n• La incertidumbre en el mercado refuerza la necesidad de precaución entre los inversionistas.\n• Las reacciones en otras bolsas del mundo también aumentan la inquietud general.",
+      "bullets_20s": "• Las acciones de las tecnológicas han tenido un fuerte desplome en Wall Street en la última semana.\n• Este descenso ha sido el más significativo desde el inicio de la pandemia mundial.\n• Analistas anticipan que el mercado puede tardar en recuperarse de esta caída drástica.\n• El panorama económico global afecta directamente a las empresas tecnológicas en la bolsa.\n• Los inversionistas están en estado de alerta ante la inestabilidad actual de los mercados.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cm8791vvwelno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-20T23:15:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Wall Street enfrenta su peor semana desde la pandemia por caída tecnológica.",
+      "teaser": "Lo clave en 20 segundos: La bolsa de Wall Street vive su peor semana desde la pandemia por el desplome tecnológico.",
       "image_url": "",
       "description": "Las tecnológicas se han visto afectadas por la caída masiva del sector en los mercados bursátiles.",
       "featured": false
@@ -472,7 +498,7 @@
       "slug": "los-gritos-de-un-reo-durante-su-ejecucion-en-texas-reavivan-el-debate-sobre-la-pena-de-muerte-en-eeuu",
       "title": "Los gritos de un reo durante su ejecución en Texas reavivan el debate sobre la pena de muerte en EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• La pena de muerte sigue siendo un tema controversial en Estados Unidos y en otros países.\n• Los gritos del reo han generado una amplia discusión sobre la ética de las ejecuciones.\n• Criticas han surgido sobre el uso de ciertos fármacos en las inyecciones letales.\n• Activistas piden reconsiderar el uso de la pena capital ante el debate creciente.\n• Las opiniones están divididas; algunos apoyan la pena de muerte, otros se oponen.",
+      "bullets_20s": "• Los gritos de un reo durante su ejecución han reabierto el debate sobre la pena de muerte en EE.UU.\n• La ejecución en Texas ha generado críticas sobre la ética del uso de inyecciones letales en condenados.\n• Grupos de derechos humanos han pedido la abolición total de la pena capital en el país.\n• En semanas anteriores, un caso similar fue protagonizado por Christa Pike en el mismo estado.\n• La controversia sobre la efectividad y humanidad de la pena de muerte sigue vigente en la sociedad estadounidense.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cq3dg820rre0o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-20T17:20:55.000Z",
@@ -1226,11 +1252,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebró la graduación de 266 nuevos profesionales en su Campus Tecnológico Central Cartago.\n• Casi la mitad de los graduados obtuvieron una maestría, destacando la calidad académica del TEC.\n• La ceremonia estuvo llena de emoción y orgullo por parte de las familias de los graduados.\n• Este año, el TEC celebra 55 años de historia y logros educativos significativos.\n• Los graduados provienen de diversas provincias, reflejando el alcance regional del TEC.",
+      "bullets_20s": "• Dos ceremonias de graduación se llevaron a cabo en el Campus Tecnológico Central de Cartago.\n• Casi el 50% de los graduados recibieron títulos de maestría en diversas áreas.\n• El TEC celebra su 55 aniversario y el 50 de varias carreras emblemáticas.\n• Los graduados provienen de todas las provincias del país, reflejando diversidad.\n• La educación pública se presenta como una inversión estratégica para el país.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC celebra a su nueva generación de profesionales tras años de esfuerzo.",
+      "teaser": "Lo clave en 20 segundos: El TEC celebra la graduación de 266 nuevos profesionales en un emotivo acto.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -139036,10 +139062,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-21T12:45:26.101Z",
-  "total": 10695,
-  "removed_soccer_news_count": 1665,
+  "generated_at": "2026-11-21T13:45:26.869Z",
+  "total": 10697,
+  "removed_soccer_news_count": 1666,
   "removed_soccer_news_titles": [
+    "Tanzania vs. Costa Rica: Hora y canal para ver el debut de la ‘Sele’ en el Mundial Sub-17 de Catar",
     "San Carlos empata y se complica en el Apertura 2026",
     "Alarma en Bayern Múnich e Inglaterra: el Balón de Oro Harry Kane estará de baja varios meses por lesión",
     "¿Jugará Keylor Navas? Esto se sabe sobre su estado físico antes del duelo clave de Pumas",
@@ -139088,7 +139115,6 @@
     "Nations League de Concacaf: así está el camino al Final Four, con un país de Centroamérica ya clasificado",
     "Aficionados argentinos buscaron a tres integrantes de la Selección de Costa Rica para fotografías y autógrafos",
     "Klopp apuesta por sustituir a Infantino en la FIFA: ‘Tendría mucho sentido’",
-    "Ronaldinho se da el gusto de jugar un partido oficial a los 46 años",
-    "Boca Juniors golea y es finalista de la Copa Argentina"
+    "Ronaldinho se da el gusto de jugar un partido oficial a los 46 años"
   ]
 }
