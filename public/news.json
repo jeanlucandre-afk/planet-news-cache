@@ -1,16 +1,55 @@
 {
   "news": [
     {
+      "slug": "corte-de-luz-del-ice-afectara-zonas-de-alajuela-este-lunes-23-de-noviembre",
+      "title": "Corte de luz del ICE afectará zonas de Alajuela este lunes 23 de noviembre",
+      "category": "Costa Rica",
+      "bullets_20s": "• El corte de luz programado impactará diferentes localidades en la provincia de Alajuela.\n• ICE recomienda a los usuarios preparar sus actividades para el lunes 23 de noviembre.\n• Los horarios de corte y las áreas afectadas han sido anunciados por el ICE.\n• Este tipo de cortes son necesarios para el mantenimiento de la red eléctrica.\n• Los usuarios pueden consultar más detalles en el sitio web del ICE.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/el-pais/corte-de-luz-del-ice-afectara-alajuela-este-lunes/NIAMMS6PNBF6PMGFTCIZMHQDRQ/story/",
+      "publish_date": "2026-11-21T16:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Corte de luz programado en Alajuela afecta varias localidades este lunes.",
+      "image_url": "https://www.nacion.com/resizer/v2/K4UL7KIKFNGCXEGMD3YGF7CICQ.JPG?auth=8d9974bf14e92c8fbabf1d7abe60319bbdb834e2f0fde5a51c7df623685c3b20&smart=true&width=4000&height=2667",
+      "description": "El Instituto Costarricense de Electricidad programó un corte de luz en Alajuela para este lunes 23 de noviembre. Conozca cuáles localidades serán afectadas y durante qué horario.",
+      "featured": false
+    },
+    {
+      "slug": "mexico-captura-a-chapo-isidro-uno-de-los-10-fugitivos-mas-buscados-por-el-fbi",
+      "title": "México captura a ‘Chapo Isidro’, uno de los 10 fugitivos más buscados por el FBI",
+      "category": "Mundo",
+      "bullets_20s": "• La captura de ‘Chapo Isidro’ genera reacciones en el ámbito internacional y local. La lucha sigue.\n• Sinaloa es conocido por ser un epicentro de problemas relacionados con el narcotráfico y la violencia.\n• La detención se realizó tras semanas de operaciones de inteligencia y persecuciones tumultuosas.\n• El FBI mantiene una lista de fugitivos que incluye a los más peligrosos del narcotráfico en México.\n• El gobierno mexicano ha intensificado su lucha contra el crimen organizado en los últimos años.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/mexico-captura-a-chapo-isidro-uno-de-los-10/PWT4GEOTTBCCRBXLD6644EDN7U/story/",
+      "publish_date": "2026-11-21T15:52:15.000Z",
+      "teaser": "Lo clave en 20 segundos: Detenido ‘Chapo Isidro’, fugitivo señalado por su conexión al narcotráfico.",
+      "image_url": "https://www.nacion.com/resizer/v2/OS2YKYUT3ZFSPE2HFCE7JGQS7I.png?smart=true&auth=a192190e8a47ca97e75a47264cbea05df29814e362f087c4d69d910d90ff375d&width=1440",
+      "description": "Detienen en Sinaloa a “Chapo Isidro”, uno de los 10 más buscados por el FBI, tras enfrentamientos y caos en Guasave.",
+      "featured": false
+    },
+    {
+      "slug": "choque-en-avenida-segunda-deja-dos-muertos-y-un-herido-grave-madrugada-del-sabado-registro-nueve-accidentes-de-transito",
+      "title": "Choque en avenida segunda deja dos muertos y un herido grave; madrugada del sábado registró nueve accidentes de tránsito",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los accidentes de tránsito son un problema recurrente en las vías costarricenses, especialmente los fines de semana.\n• Las autoridades realizan esfuerzos para mejorar la seguridad vial y prevenir tragedias como estas.\n• Se reportaron dos muertes y varios heridos graves tras complicadas colisiones en horas nocturnas.\n• La falta de atención y el exceso de velocidad suelen ser las causas principales de estos accidentes.\n• Los conductores deben estar más conscientes de las normas de tránsito para evitar desastres viales.\n• Se espera que las cifras de accidentes de tránsito sigan en aumento sin medidas efectivas de seguridad.\n• Ambiente de preocupación entre los ciudadanos tras la serie de fatalidades en las carreteras.\n• Los servicios de emergencias actúan rápidamente ante estos eventos para auxiliar a los afectados.\n• La educación vial es clave para reducir la incidencia de accidentes en las carreteras nacionales.",
+      "source_name": "Cristian Mora",
+      "source_url": "https://www.nacion.com/sucesos/choque-en-avenida-segunda-deja-dos-muertos-y-un/J7AKZ5OJLNHZ3PWIBTCMGHWBNA/story/",
+      "publish_date": "2026-11-21T15:29:58.000Z",
+      "teaser": "Lo clave en 20 segundos: Un trágico accidente en Costa Rica suma tres muertos en un fin de semana complicado.",
+      "image_url": "https://www.nacion.com/resizer/v2/YMNJ33W6KBCBPPB3SWYJCDTQWI.png?smart=true&auth=a1afeaf9062d3d1c627c7abcbe2fb12272030a0e0cfb0d103c39ba709536c166&width=1440",
+      "description": "Nueve accidentes de tránsito dejaron tres personas fallecidas y nueve heridos graves entre la noche del viernes y la madrugada del sábado en Costa Rica.",
+      "featured": false
+    },
+    {
       "slug": "juez-de-estados-unidos-aprobo-multimillonario-acuerdo-para-cerrar-casos-por-herbicida-roundup-de-bayer",
       "title": "Juez de Estados Unidos aprobó multimillonario acuerdo para cerrar casos por herbicida Roundup de Bayer",
       "category": "Mundo",
-      "bullets_20s": "• El juez aprobó un acuerdo que beneficiará a miles de afectados a nivel global.\n• Las indemnizaciones son por el uso del herbicida Roundup, vinculado a problemas de salud.\n• Este acuerdo sienta un precedente importante para casos similares en el futuro.\n• La controversia alrededor del Roundup ha generado debate sobre su seguridad y uso.\n• Bayer adquirió Roundup y enfrenta múltiples demandas relacionadas con su toxicidad.",
+      "bullets_20s": "• El tribunal estadounidense validó un acuerdo compensatorio por el uso del herbicida Roundup.\n• Bayer, la empresa detrás de Roundup, deberá indemnizar a miles de demandantes afectados.\n• Las víctimas alegaban que el herbicida causaba linfoma no Hodgkin y otros problemas de salud.\n• Este acuerdo busca cerrar múltiples litigios en diversas regiones de Estados Unidos.\n• El monto total de indemnización asciende a $7.250 millones, una cifra relevante en estos casos.",
       "source_name": "AFP",
       "source_url": "https://www.nacion.com/el-mundo/juez-de-estados-unidos-aprobo-multimillonario/RGPTQOBL6RCWVEXR3W5QYQFJO4/story/",
       "publish_date": "2026-11-21T15:22:59.000Z",
-      "teaser": "Lo clave en 20 segundos: Se aprueba un acuerdo masivo por daños del herbicida Roundup en Estados Unidos.",
+      "teaser": "Lo clave en 20 segundos: Aprobado acuerdo de $7.250 millones por casos de herbicida Roundup en EE. UU.",
       "image_url": "https://www.nacion.com/resizer/v2/LZS2B5CTWBE4TFXQOWGULXH2RM.jpg?auth=3eee11fa969f9b31f62a142cc1e5a211d16fda376ab353d4f8846c015a931959&smart=true&width=5472&height=3648",
-      "description": "Tribunal de Estados Unidos aprueba acuerdo de hasta $7.250 millones para indemnizar a víctimas de Roundup con linfoma no Hodgkin",
+      "description": "Tribunal de Estados Unidos aprueba acuerdo hasta de $7.250 millones para indemnizar a víctimas de Roundup con linfoma no Hodgkin.",
       "featured": false
     },
     {
@@ -199,11 +238,11 @@
       "slug": "como-una-taza-de-te-mal-servida-transformo-la-estadistica-y-abrio-el-camino-a-la-ciencia-de-los-datos",
       "title": "Cómo una taza de té mal servida transformó la estadística y abrió el camino a la ciencia de los datos",
       "category": "Mundo",
-      "bullets_20s": "• La historia del té refleja la evolución de la estadística a través de un simple experimento.\n• El desafío entre colegas marcó un hito en la validación de resultados científicos.\n• Aprender de errores en experimentos puede conducir a descubrimientos fundamentales.\n• La estadística ha sido clave en el avance de la ciencia de datos moderna.\n• El papel de la aleatoriedad en experimentos se destacó gracias a este curioso desafío.",
+      "bullets_20s": "• Una taza de té mal servida inspiró innovaciones en el ámbito de la estadística moderna.\n• El evento fue un desafío que llevó a reflexionar sobre métodos de experimentación científica.\n• La historia destaca cómo la curiosidad puede llevar a avances significativos en la ciencia.\n• Las reglas de la estadística son fundamentales en cualquier experimento a nivel global.\n• El impacto del relato enseña la importancia de la observación en la ciencia contemporánea.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpq0lv5p5vqo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-21T09:51:54.000Z",
-      "teaser": "Lo clave en 20 segundos: Un simple té cambió el rumbo de la estadística y la ciencia de datos.",
+      "teaser": "Lo clave en 20 segundos: Un té mal servido cambió las reglas de la ciencia moderna.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/d0bc/live/bbe894e0-a6fb-11f1-b109-879e35c24276.jpg",
       "description": "Un curioso desafío entre colegas terminó dando forma a las reglas que hoy sostienen casi cualquier experimento científico.",
       "featured": false
@@ -381,12 +420,12 @@
       "slug": "la-bolsa-de-wall-street-cae-con-fuerza-en-medio-del-desplome-de-las-acciones-de-las-tecnologicas-y-registra-su-peor-sema",
       "title": "La bolsa de Wall Street cae con fuerza en medio del desplome de las acciones de las tecnológicas y registra su peor semana desde la pandemia",
       "category": "Mundo",
-      "bullets_20s": "• La bolsa de Wall Street ha registrado una caída significativa en sus índices principales.\n• Las acciones de las tecnológicas han experimentado un desplome considerable reciente.\n• Este desplome marca la peor semana desde el inicio de la pandemia en 2020.\n• Los analistas alertan sobre la incertidumbre en los mercados financieros globales.\n• Factores económicos y cambios en la política están influyendo en esta tendencia negativa.",
+      "bullets_20s": "• Wall Street experimenta una baja notable en sus acciones tras las caídas de las tecnológicas.\n• Los inversores están preocupados por la salud del sector tecnológico a nivel global.\n• Analistas prevén un impacto en la economía debido a esta reciente situación en la bolsa.\n• La caída se considera la más drástica desde el inicio de la pandemia mundial.\n• El desplome afecta a varias grandes empresas que dominan el mercado tecnológico.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cm8791vvwelno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-20T23:15:44.000Z",
-      "teaser": "Lo clave en 20 segundos: caída de Wall Street afecta el sector tecnológico gravemente.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/eea7/live/5f3cbf00-e535-11f1-b232-9987117b4bfe.png",
+      "teaser": "Lo clave en 20 segundos: Wall Street cae por acciones tecnológicas en fuerte desplome.",
+      "image_url": "",
       "description": "Las tecnológicas se han visto afectadas por la caída masiva del sector en los mercados bursátiles.",
       "featured": false
     },
@@ -1317,11 +1356,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebró la graduación de 266 nuevos profesionales en varias disciplinas educativas.\n• Las ceremonias de graduación se realizaron en el Campus Tecnológico Central en Cartago.\n• Cerca de la mitad de los graduados obtuvieron maestrías, destacándose en diversas áreas.\n• El TEC celebra 55 años de historia y un notable avance en sus rankings internacionales.\n• Las ingenierías y administración de empresas fueron las carreras con mayor cantidad de graduados.",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebró la graduación de 266 nuevos profesionales en su campus.\n• La ceremonia se dividió en dos actos, con centenares de familias presentes para celebrar.\n• Casi la mitad de la nueva generación obtuvo títulos de maestría y dos graduados alcanzaron el doctorado.\n• Estudiantes provinieron de diversas provincias del país, reflejando la diversidad institucional del TEC.\n• La graduación conmemora 55 años de historia y el 50 aniversario de varias carreras en el TEC.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC celebra graduación con 266 nuevos profesionales y una rica historia educativa.",
+      "teaser": "Lo clave en 20 segundos: 266 nuevos profesionales del TEC celebran su esfuerzo y compromiso con la educación.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -139127,8 +139166,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-21T15:45:26.564Z",
-  "total": 10702,
+  "generated_at": "2026-11-21T16:45:27.274Z",
+  "total": 10705,
   "removed_soccer_news_count": 1667,
   "removed_soccer_news_titles": [
     "Costa Rica deja escapar la victoria en su debut en el Mundial de Catar (vea los goles)",
