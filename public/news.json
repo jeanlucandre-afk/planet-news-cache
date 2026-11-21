@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "juez-de-estados-unidos-aprobo-multimillonario-acuerdo-para-cerrar-casos-por-herbicida-roundup-de-bayer",
+      "title": "Juez de Estados Unidos aprobó multimillonario acuerdo para cerrar casos por herbicida Roundup de Bayer",
+      "category": "Mundo",
+      "bullets_20s": "• El juez aprobó un acuerdo que beneficiará a miles de afectados a nivel global.\n• Las indemnizaciones son por el uso del herbicida Roundup, vinculado a problemas de salud.\n• Este acuerdo sienta un precedente importante para casos similares en el futuro.\n• La controversia alrededor del Roundup ha generado debate sobre su seguridad y uso.\n• Bayer adquirió Roundup y enfrenta múltiples demandas relacionadas con su toxicidad.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/juez-de-estados-unidos-aprobo-multimillonario/RGPTQOBL6RCWVEXR3W5QYQFJO4/story/",
+      "publish_date": "2026-11-21T15:22:59.000Z",
+      "teaser": "Lo clave en 20 segundos: Se aprueba un acuerdo masivo por daños del herbicida Roundup en Estados Unidos.",
+      "image_url": "https://www.nacion.com/resizer/v2/LZS2B5CTWBE4TFXQOWGULXH2RM.jpg?auth=3eee11fa969f9b31f62a142cc1e5a211d16fda376ab353d4f8846c015a931959&smart=true&width=5472&height=3648",
+      "description": "Tribunal de Estados Unidos aprueba acuerdo de hasta $7.250 millones para indemnizar a víctimas de Roundup con linfoma no Hodgkin",
+      "featured": false
+    },
+    {
+      "slug": "competencia-perfecta-detectar-a-tiempo-el-piloto-que-arranco-en-tibas",
+      "title": "Competencia Perfecta: Detectar a tiempo, el piloto que arrancó en Tibás",
+      "category": "Costa Rica",
+      "bullets_20s": "• La CCSS pone en marcha un innovador proyecto en Tibás para la detección precoz del cáncer.\n• Utiliza inteligencia artificial para mejorar la precisión en detecciones de cáncer de mama.\n• Se espera que este piloto beneficie a muchas mujeres en la región de Tibás.\n• Expertos estarán presentes para capacitar y guiar a los participantes en el proceso.\n• El proyecto buscará mejorar la tasa de detección y el tratamiento efectivo del cáncer.",
+      "source_name": "José Luis Arce",
+      "source_url": "https://www.nacion.com/economia/competencia-perfecta-detectar-a-tiempo-el-piloto/X6UNX77UEVGP5PYPF4Z3Q4SO2Y/story/",
+      "publish_date": "2026-11-21T15:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Un nuevo piloto en Tibás usa IA para detectar el cáncer de mama a tiempo.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZLQICKYYLNBERDK7MDP6IK7NOA.jpg?auth=82214339f12c501b55163d39c56ade33fd9db82fc9a426f81a00572f4ad400b8&smart=true&width=2064&height=1548",
+      "description": "La CCSS inició en Tibás un plan piloto con inteligencia artificial para detectar el cáncer de mama a tiempo. Conozca cómo funciona y a quiénes convocará",
+      "featured": false
+    },
+    {
+      "slug": "corte-de-luz-de-la-cnfl-afectara-san-jose-este-lunes-23-de-noviembre-conozca-las-zonas-impactadas",
+      "title": "Corte de luz de la CNFL afectará San José este lunes 23 de noviembre: conozca las zonas impactadas",
+      "category": "Costa Rica",
+      "bullets_20s": "• El corte de luz está programado para el lunes 23 de noviembre en varias zonas de San José.\n• La CNFL publicará un listado de áreas directamente impactadas por este corte de electricidad.\n• Se recomienda a los usuarios tomar precauciones y planificar sus actividades del día.\n• El servicio de electricidad se restablecerá una vez finalizados los trabajos programados.\n• Es importante estar informado sobre los horarios del corte para evitar inconvenientes.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/el-pais/corte-de-luz-de-la-cnfl-afectara-san-jose-este/GSOACOAYQZHKZBNQPJFCVEL7WM/story/",
+      "publish_date": "2026-11-21T15:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Corte de luz programado en San José afectará diversas zonas este lunes.",
+      "image_url": "https://www.nacion.com/resizer/v2/GJK2GMYRN5A5VIQZFFSMKBZ73A.JPG?auth=e0439037dc2de8efd1d9c89765fcc39d9204460ebcd3024e9bf48ea2def978be&smart=true&width=2930&height=1872",
+      "description": "La Compañía Nacional de Fuerza y Luz programó un corte de electricidad para este lunes 23 de noviembre en San José. Conozca cuáles lugares serán afectados y durante qué horario.",
+      "featured": false
+    },
+    {
       "slug": "seis-horas-de-espera-para-que-atendieran-a-nino-de-4-anos-con-vomito-y-fiebre-de-39",
       "title": "Seis horas de espera para que atendieran a niño de 4 años con vómito y fiebre de 39°",
       "category": "Costa Rica",
@@ -159,12 +198,12 @@
     {
       "slug": "como-una-taza-de-te-mal-servida-transformo-la-estadistica-y-abrio-el-camino-a-la-ciencia-de-los-datos",
       "title": "Cómo una taza de té mal servida transformó la estadística y abrió el camino a la ciencia de los datos",
-      "category": "Ciencia",
-      "bullets_20s": "• Un grupo de colegas protagoniza un reto que pone a prueba sus habilidades estadísticas.\n• Las reglas experimentales desarrolladas han tenido un impacto duradero en la ciencia moderna.\n• El té mal servido se convierte en un símbolo de descubrimiento y análisis crítico.\n• Las metodologías estadísticas usadas hoy en día tienen raíces en este particular desafío.\n• La importancia de la precisión en la recopilación de datos fue resaltada a lo largo de la historia.",
+      "category": "Mundo",
+      "bullets_20s": "• La historia del té refleja la evolución de la estadística a través de un simple experimento.\n• El desafío entre colegas marcó un hito en la validación de resultados científicos.\n• Aprender de errores en experimentos puede conducir a descubrimientos fundamentales.\n• La estadística ha sido clave en el avance de la ciencia de datos moderna.\n• El papel de la aleatoriedad en experimentos se destacó gracias a este curioso desafío.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpq0lv5p5vqo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-21T09:51:54.000Z",
-      "teaser": "Lo clave en 20 segundos: Un desafío inocente transformó las bases de la estadística moderna.",
+      "teaser": "Lo clave en 20 segundos: Un simple té cambió el rumbo de la estadística y la ciencia de datos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/d0bc/live/bbe894e0-a6fb-11f1-b109-879e35c24276.jpg",
       "description": "Un curioso desafío entre colegas terminó dando forma a las reglas que hoy sostienen casi cualquier experimento científico.",
       "featured": false
@@ -342,11 +381,11 @@
       "slug": "la-bolsa-de-wall-street-cae-con-fuerza-en-medio-del-desplome-de-las-acciones-de-las-tecnologicas-y-registra-su-peor-sema",
       "title": "La bolsa de Wall Street cae con fuerza en medio del desplome de las acciones de las tecnológicas y registra su peor semana desde la pandemia",
       "category": "Mundo",
-      "bullets_20s": "• Wall Street enfrenta una caída significativa en el mercado financiero actual.\n• Las acciones de varias empresas tecnológicas están sufriendo grandes pérdidas.\n• Los expertos consideran que esta es la peor semana desde el inicio de la pandemia.\n• El desplome ha afectado la confianza de los inversionistas en el sector tecnológico.\n• Se temen repercusiones para la economía global debido a estas caídas masivas.",
+      "bullets_20s": "• La bolsa de Wall Street ha registrado una caída significativa en sus índices principales.\n• Las acciones de las tecnológicas han experimentado un desplome considerable reciente.\n• Este desplome marca la peor semana desde el inicio de la pandemia en 2020.\n• Los analistas alertan sobre la incertidumbre en los mercados financieros globales.\n• Factores económicos y cambios en la política están influyendo en esta tendencia negativa.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cm8791vvwelno?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-20T23:15:44.000Z",
-      "teaser": "Lo clave en 20 segundos: Wall Street sufre su peor caída desde la pandemia, con acciones tecnológicas en declive.",
+      "teaser": "Lo clave en 20 segundos: caída de Wall Street afecta el sector tecnológico gravemente.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/eea7/live/5f3cbf00-e535-11f1-b232-9987117b4bfe.png",
       "description": "Las tecnológicas se han visto afectadas por la caída masiva del sector en los mercados bursátiles.",
       "featured": false
@@ -1278,11 +1317,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra la graduación de 266 nuevos profesionales en ceremonias llenas de orgullo y emoción.\n• Cerca de la mitad de los graduados consiguió titulación de maestría, destacando la formación técnica.\n• La rectoría del TEC subraya el compromiso de la institución con la educación pública y de calidad.\n• La graduación celebró no solo títulos, sino historias de esfuerzo y superación de cada estudiante presente.\n• Cartago fue el escenario de un evento que reunió familias y autoridades para rendir homenaje a los graduados.",
+      "bullets_20s": "• El TEC celebró la graduación de 266 nuevos profesionales en varias disciplinas educativas.\n• Las ceremonias de graduación se realizaron en el Campus Tecnológico Central en Cartago.\n• Cerca de la mitad de los graduados obtuvieron maestrías, destacándose en diversas áreas.\n• El TEC celebra 55 años de historia y un notable avance en sus rankings internacionales.\n• Las ingenierías y administración de empresas fueron las carreras con mayor cantidad de graduados.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: 266 graduados del TEC celebran esfuerzo y logros académicos en Cartago.",
+      "teaser": "Lo clave en 20 segundos: El TEC celebra graduación con 266 nuevos profesionales y una rica historia educativa.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -139088,10 +139127,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-21T14:45:26.764Z",
-  "total": 10699,
-  "removed_soccer_news_count": 1666,
+  "generated_at": "2026-11-21T15:45:26.564Z",
+  "total": 10702,
+  "removed_soccer_news_count": 1667,
   "removed_soccer_news_titles": [
+    "Costa Rica deja escapar la victoria en su debut en el Mundial de Catar (vea los goles)",
     "Tanzania vs. Costa Rica: Hora y canal para ver el debut de la ‘Sele’ en el Mundial Sub-17 de Catar",
     "San Carlos empata y se complica en el Apertura 2026",
     "Alarma en Bayern Múnich e Inglaterra: el Balón de Oro Harry Kane estará de baja varios meses por lesión",
@@ -139140,7 +139180,6 @@
     "Bryan Ruiz ya sumó a sus ‘invitados’ en la Selección de Costa Rica que enfrentará a Argentina",
     "Nations League de Concacaf: así está el camino al Final Four, con un país de Centroamérica ya clasificado",
     "Aficionados argentinos buscaron a tres integrantes de la Selección de Costa Rica para fotografías y autógrafos",
-    "Klopp apuesta por sustituir a Infantino en la FIFA: ‘Tendría mucho sentido’",
-    "Ronaldinho se da el gusto de jugar un partido oficial a los 46 años"
+    "Klopp apuesta por sustituir a Infantino en la FIFA: ‘Tendría mucho sentido’"
   ]
 }
