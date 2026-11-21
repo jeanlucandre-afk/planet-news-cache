@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "oij-identifica-a-dos-hermanos-fallecidos-en-accidente-de-transito-en-avenida-segunda-de-san-jose",
+      "title": "OIJ identifica a dos hermanos fallecidos en accidente de tránsito en avenida segunda de San José",
+      "category": "Costa Rica",
+      "bullets_20s": "• El OIJ ha identificado a dos hermanos fallecidos en un accidente automovilístico en una vía importante.\n• El incidente ocurrió en la avenida segunda, un punto crítico del tránsito en San José.\n• Ambos hermanos, de 25 y 27 años, perdieron la vida en el lugar del accidente.\n• El OIJ también ha confirmado otro fallecido en un accidente reciente en Hatillo.\n• Las autoridades investigan las causas del choque que llevó a esta tragedia vial.",
+      "source_name": "Cristian Mora",
+      "source_url": "https://www.nacion.com/sucesos/oij-identifica-a-dos-hermanos-fallecidos-en/VKDZC6SCNBAPDBXRXY6BBJSPVM/story/",
+      "publish_date": "2026-11-21T20:56:07.000Z",
+      "teaser": "Lo clave en 20 segundos: Dos hermanos fallecen en accidente en San José, mientras OIJ investiga el impacto del choque.",
+      "image_url": "https://www.nacion.com/resizer/v2/YHFWU4QJ6VEBVGX2L5AKACKJHA.jpg?smart=true&auth=f64bccca2709718bc3bdb84b10119cc43e6b3c4be3c965e7de64eaba630889b3&width=1440",
+      "description": "Dos hermanos de apellido Arce, de 25 y 27 años, murieron en un choque en la avenida segunda. El OIJ también reportó otro fallecido en Hatillo.",
+      "featured": false
+    },
+    {
+      "slug": "pandora-prepara-su-regreso-a-costa-rica",
+      "title": "Pandora prepara su regreso a Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• Pandora es conocida por sus joyas personalizables y su concepto innovador en la industria del lujo.\n• La marca había cerrado cinco locales en Costa Rica debido a la situación económica en el país.\n• El regreso de Pandora promete reactivar la oferta de lujo accesible en la región.\n• Los planes incluyen abrir nuevas tiendas y reinvertir en el mercado costarricense.\n• Pandora ha gozado de gran popularidad en la región entre los amantes de la joyería.",
+      "source_name": "Luis Enrique Brenes",
+      "source_url": "https://www.nacion.com/economia/pandora-prepara-su-regreso-a-costa-rica/4WLK6OB4VRAALMDDAJJW6JRXPM/story/",
+      "publish_date": "2026-11-21T20:37:57.000Z",
+      "teaser": "Lo clave en 20 segundos: Pandora regresa a Costa Rica tras varios meses de ausencia con planes de expansión.",
+      "image_url": "https://www.nacion.com/resizer/v2/DU4NQH5Y2NDDPLBX3KJWUHGFSE.JPG?auth=8ffb8c4510e526b21a6ef36354972b573b51dc46d4f59336fe7c05b7b62a7f34&smart=true&width=3184&height=2120",
+      "description": "La joyería danesa Pandora anunció este sábado 21 de noviembre su regreso a Costa Rica, meses después del cierre de los cinco establecimientos que operaban en el país.",
+      "featured": false
+    },
+    {
       "slug": "fiscalia-investiga-a-policias-en-paris-por-violencia-y-agresion-sexual-contra-manifestantes",
       "title": "Fiscalía investiga a policías en París por violencia y agresión sexual contra manifestantes",
       "category": "Mundo",
@@ -30,11 +56,11 @@
       "slug": "la-utopia-socialista-que-llevo-a-un-grupo-de-australianos-idealistas-a-paraguay-hace-mas-de-130-anos-y-en-que-termino-la",
       "title": "La utopía socialista que llevó a un grupo de australianos idealistas a Paraguay hace más de 130 años (y en qué terminó la experiencia)",
       "category": "Mundo",
-      "bullets_20s": "• A finales del siglo XIX, un grupo de australianos decidió emigrar hacia Paraguay buscando mejorar su vida.\n• Estos individuos eran idealistas, soñadores de una vida diferente en un nuevo país.\n• Su viaje hacia Paraguay simbolizaba la búsqueda de una utopía socialista en aquel entonces.\n• La experiencia en Paraguay estuvo llena de desafíos, desde el clima hasta las costumbres locales.\n• La historia de esta migración ofrece lecciones sobre la búsqueda de mejores condiciones de vida.",
+      "bullets_20s": "• Un grupo de australianos buscó una nueva vida en Paraguay a finales del siglo XIX.\n• La experiencia se basó en ideales socialistas y la búsqueda de comunidad.\n• Los colonos enfrentaron desafíos económicos y sociales en su nuevo entorno.\n• La llegada de estos australianos cambió la dinámica en la región paraguaya.\n• A lo largo de los años, la comunidad fue transformándose y adaptándose.\n• El idealismo inicial chocó con la realidad de la vida en el país sudamericano.\n• La historia de esta colonización es un reflejo de las utopías sociales.\n• Hoy se examina el impacto de estas decisiones en la sociedad moderna paraguaya.\n• La experiencia dejó lecciones sobre la migración y el deseo de un futuro mejor.\n• El legado de estos australianos sigue presente en la cultura paraguaya actual.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cr5yny54gvy3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-21T18:52:41.000Z",
-      "teaser": "Lo clave en 20 segundos: La migración australiana a Paraguay en busca de una utopía socialista y sus desafíos.",
+      "teaser": "Lo clave en 20 segundos: un grupo de australianos buscó una vida mejor en Paraguay, pero enfrentaron grandes desafíos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b851/live/83d46e10-dd08-11f1-97df-bd0937690c4d.jpg",
       "description": "Decenas de australianos salieron de su país a finales del siglo XIX en busca de un mejor lugar para vivir. El país escogido fue Paraguay.",
       "featured": false
@@ -394,11 +420,11 @@
       "slug": "como-una-taza-de-te-mal-servida-transformo-la-estadistica-y-abrio-el-camino-a-la-ciencia-de-los-datos",
       "title": "Cómo una taza de té mal servida transformó la estadística y abrió el camino a la ciencia de los datos",
       "category": "Ciencia",
-      "bullets_20s": "• Una taza de té mal servida generó un desafío inesperado entre colegas en el ámbito científico.\n• El suceso llevó a la creación de reglas fundamentales en el campo de la estadística moderna.\n• La estadística se ha vuelto esencial para validar experimentos científicos hoy en día.\n• Los datos y su análisis son esenciales en diversas disciplinas científicas contemporáneas.\n• Se destaca la importancia de la estadística en la investigación y en la toma de decisiones.",
+      "bullets_20s": "• Un reto entre científicos sobre la forma de servir té generó un cambio en la estadística moderna.\n• Las reglas de la estadística son esenciales para la validez de experimentos científicos en la actualidad.\n• Este evento histórico muestra cómo situaciones cotidianas pueden influir en grandes descubrimientos.\n• La ciencia de los datos se basa en principios estadísticos que hoy en día son fundamentales.\n• La curiosidad y la competencia intelectual pueden dar lugar a innovaciones increíbles en la ciencia.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cpq0lv5p5vqo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-21T09:51:54.000Z",
-      "teaser": "Lo clave en 20 segundos: cómo un simple té revolucionó la estadística y la ciencia de datos.",
+      "teaser": "Lo clave en 20 segundos: Un desafío entre colegas revolucionó la estadística y la ciencia de datos.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/d0bc/live/bbe894e0-a6fb-11f1-b109-879e35c24276.jpg",
       "description": "Un curioso desafío entre colegas terminó dando forma a las reglas que hoy sostienen casi cualquier experimento científico.",
       "featured": false
@@ -1512,13 +1538,13 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra la graduación de 266 nuevos profesionales en dos ceremonias en Cartago.\n• Cerca del 50% de los graduados obtuvieron una maestría, reflejando el compromiso académico.\n• La institución cumple 55 años y destaca en los rankings de universidades latinoamericanas.\n• Ingeniería en Construcción fue la carrera con más graduados, seguida por varias ingenierías.\n• Esteban González, un graduado, agradeció a sus familiares por el apoyo en su trayectoria.",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebra la graduación de 266 nuevos profesionales con ceremonias emotivas.\n• Casi la mitad de los graduados recibió maestrías, mientras que dos personas obtuvieron un doctorado.\n• Los graduandos provienen de diversas provincias, evidenciando la diversidad de formación profesional.\n• La ceremonia se realiza en el marco de los 55 años de historia del TEC como institución educativa.\n• Se destaca la importancia de la inversión en educación pública y el compromiso de los nuevos graduados.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: 266 graduados celebran su triunfo en el TEC con emoción y orgullo familiar.",
+      "teaser": "Lo clave en 20 segundos: El TEC celebra la graduación de 266 nuevos profesionales en una emotiva ceremonia.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
-      "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales.",
+      "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
     },
     {
@@ -139322,10 +139348,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-21T20:45:26.729Z",
-  "total": 10717,
-  "removed_soccer_news_count": 1667,
+  "generated_at": "2026-11-21T21:45:26.144Z",
+  "total": 10719,
+  "removed_soccer_news_count": 1668,
   "removed_soccer_news_titles": [
+    "Manchester City agrava su crisis con un empate",
     "Costa Rica deja escapar la victoria en su debut en el Mundial de Catar (vea los goles)",
     "Tanzania vs. Costa Rica: Hora y canal para ver el debut de la ‘Sele’ en el Mundial Sub-17 de Catar",
     "San Carlos empata y se complica en el Apertura 2026",
@@ -139374,7 +139401,6 @@
     "El fantasma de Yalta vuelve a recorrer la geopolítica mundial",
     "Bryan Ruiz ya sumó a sus ‘invitados’ en la Selección de Costa Rica que enfrentará a Argentina",
     "Nations League de Concacaf: así está el camino al Final Four, con un país de Centroamérica ya clasificado",
-    "Aficionados argentinos buscaron a tres integrantes de la Selección de Costa Rica para fotografías y autógrafos",
-    "Klopp apuesta por sustituir a Infantino en la FIFA: ‘Tendría mucho sentido’"
+    "Aficionados argentinos buscaron a tres integrantes de la Selección de Costa Rica para fotografías y autógrafos"
   ]
 }
