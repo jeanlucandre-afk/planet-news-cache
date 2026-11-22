@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "hombre-muere-baleado-en-nosara-es-el-segundo-homicidio-en-menos-de-24-horas-en-nicoya",
+      "title": "Hombre muere baleado en Nosara; es el segundo homicidio en menos de 24 horas en Nicoya",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un hombre fue encontrado sin vida debido a heridas de bala en Nosara, Guanacaste, este domingo.\n• Este es el segundo caso de homicidio registrado en menos de 24 horas en la región de Nicoya.\n• La Cruz Roja local respondió a la emergencia, pero el paciente ya no presentaba signos vitales.\n• El día anterior, un incidente similar tuvo lugar en Sámara, donde otro hombre perdió la vida.\n• Además, se reportaron dos personas heridas durante el mismo incidente en Sámara.",
+      "source_name": "Lucía Astorga",
+      "source_url": "https://www.nacion.com/sucesos/hombre-muere-baleado-en-nosara-es-el-segundo/LXNYB73ISZEJDAUMYO3JEY4UZE/story/",
+      "publish_date": "2026-11-22T23:18:19.000Z",
+      "teaser": "Lo clave en 20 segundos: Homicidios en Nicoya en menos de 24 horas aumentan la preocupación en la comunidad.",
+      "image_url": "https://www.nacion.com/resizer/v2/GB5FVFDGKJCUPO3WGD234P37HQ.jpg?smart=true&auth=c6d20e38bfed62ff4927b9583bcc124d5884cf80ad11649a7a7c131d48d7e570&width=1440",
+      "description": "La Cruz Roja encontró al paciente sin signos vitales la tarde de este domingo. El sábado, otro hombre murió baleado en Sámara y dos más resultaron heridos.",
+      "featured": false
+    },
+    {
+      "slug": "atropello-cerca-del-parque-de-la-paz-deja-dos-personas-trasladadas-de-urgencia-a-centros-medicos",
+      "title": "Atropello cerca del Parque de la Paz deja dos personas trasladadas de urgencia a centros médicos",
+      "category": "Costa Rica",
+      "bullets_20s": "• Un atropello ocurrió cerca del Parque de la Paz, impactando a dos personas\n• Los involucrados fueron trasladados de urgencia a centros médicos cercanos\n• El incidente sucedió la tarde del domingo en horario de gran afluencia\n• Las causas del atropello aún están bajo investigación por parte de las autoridades\n• Este tipo de accidentes resalta la importancia de la seguridad vial en la zona",
+      "source_name": "Lucía Astorga",
+      "source_url": "https://www.nacion.com/sucesos/atropello-cerca-del-parque-de-la-paz-deja-dos/PUYRQPRGNBEDZEVWQ66TNSUP4Q/story/",
+      "publish_date": "2026-11-22T23:17:07.000Z",
+      "teaser": "Lo clave en 20 segundos: un atropello en el Parque de la Paz deja dos heridos graves.",
+      "image_url": "https://www.nacion.com/resizer/v2/PKHBC7CVYFBFRDPIYP56B2PN2U.JPG?smart=true&auth=91270ba53a36cc6d4e60ea76d2f6ab50bf7efcf2bb05f9108f6afeb370625e0f&width=1440",
+      "description": "El hecho ocurrió la tarde de este domingo frente a un local de Burger King",
+      "featured": false
+    },
+    {
       "slug": "diez-mil-corredores-llenaron-de-deporte-las-calles-de-san-jose-en-la-gran-maraton-de-costa-rica",
       "title": "Diez mil corredores llenaron de deporte las calles de San José en la Gran Maratón de Costa Rica",
       "category": "Costa Rica",
@@ -303,11 +329,11 @@
       "slug": "pase-mas-de-10-anos-llevando-por-las-montanas-de-colombia-los-mensajes-secretos-que-hicieron-posible-el-acuerdo-de-paz-e",
       "title": "Pasé más de 10 años llevando por las montañas de Colombia los mensajes secretos que hicieron posible el acuerdo de paz entre el gobierno y las FARC",
       "category": "Mundo",
-      "bullets_20s": "• Henry Acosta Patiño tuvo un papel crucial durante las negociaciones de paz en Colombia.\n• Las FARC y el gobierno colombiano llevaron a cabo diálogos por varios años.\n• El acuerdo de paz fue un hito importante en la historia reciente de Colombia.\n• Acosta Patiño transportó mensajes entre las partes de manera clandestina.\n• Las montañas de Colombia sirvieron como un escenario clave para estas negociaciones.",
+      "bullets_20s": "• Henry Acosta Patiño desempeñó un rol crucial en el proceso de paz con las FARC en Colombia.\n• Los mensajes secretos que entregó ayudaron a forjar un acuerdo histórico entre las partes.\n• Viajó por montañas y zonas remotas para llevar información vital a los negociadores.\n• Su trabajo pasó desapercibido, pero fue fundamental para lograr la paz en Colombia.\n• El acuerdo de paz marcó un antes y un después en la historia reciente del país.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ckz74v0n4rydo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-22T14:00:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Un mensajero en las montañas ayudó al acuerdo de paz en Colombia.",
+      "teaser": "Lo clave en 20 segundos: el mensajero crucial detrás del acuerdo de paz en Colombia.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ac01/live/01adb2a0-e485-11f1-94d4-555e90b4210d.jpg",
       "description": "Henry Acosta Patiño fue durante años el mensajero oculto entre el gobierno de Colombia y las FARC. Su papel en el detrás de escenas de las negociaciones fue clave para el acuerdo de paz firmado hace 10 años.",
       "featured": false
@@ -329,11 +355,11 @@
       "slug": "como-dos-neveras-abandonadas-por-el-ejercito-de-eeuu-en-toscana-dieron-origen-al-helado-italiano",
       "title": "Cómo dos neveras abandonadas por el ejército de EE.UU. en Toscana dieron origen al helado italiano",
       "category": "Mundo",
-      "bullets_20s": "• El gelato, famoso en Italia, tiene raíces que se remontan a una historia peculiar en Toscana.\n• Dos neveras abandonadas por el ejército de EE.UU. jugaron un papel clave en su origen.\n• Este dulce italiano se popularizó en Europa tras la Segunda Guerra Mundial.\n• La historia del gelato es un ejemplo de reciclaje y creatividad postguerra.\n• Las neveras se convirtieron en un símbolo de innovación en la gastronomía italiana.",
+      "bullets_20s": "• El gelato italiano se considera un símbolo cultural y gastronómico de Italia en todo el mundo.\n• La Segunda Guerra Mundial trajo diversos cambios, incluso en la industria alimentaria en Europa.\n• Las neveras abandonadas se convirtieron en una herramienta clave para la creación del gelato.\n• La historia del helado resalta la creatividad en tiempos de escasez y necesidad.\n• La Toscana es célebre por sus tradiciones culinarias y su influencia en la gastronomía italiana.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c3d3g9d1rk3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-22T13:46:07.000Z",
-      "teaser": "Lo clave en 20 segundos: Un par de neveras cambiaron la historia del gelato en Italia.",
+      "teaser": "Lo clave en 20 segundos: El gelato tiene orígenes en neveras de EE.UU. tras la guerra.",
       "image_url": "",
       "description": "El gelato es sinónimo de Italia, pero sus orígenes modernos se remontan a una humilde lechería de la Toscana y a un par de refrigeradores abandonados tras la Segunda Guerra Mundial.",
       "featured": false
@@ -651,19 +677,6 @@
       "featured": false
     },
     {
-      "slug": "la-princesa-de-gales-kate-middleton-habla-abiertamente-sobre-como-el-cancer-cambio-su-vida-en-un-documental-de-la-bbc",
-      "title": "La princesa de Gales, Kate Middleton, habla abiertamente sobre cómo el cáncer cambió su vida en un documental de la BBC",
-      "category": "Mundo",
-      "bullets_20s": "• Kate Middleton refleja sobre su experiencia personal y el impacto del cáncer en su vida.\n• El documental de la BBC revela emociones y lecciones aprendidas durante su lucha.\n• La Princesa destaca la importancia de la salud mental en el proceso de sanación.\n• El cáncer ha cambiado su perspectiva sobre la vida y el bienestar general.\n• Se invita a la audiencia a considerar la lucha y resiliencia ante enfermedades críticas.",
-      "source_name": "",
-      "source_url": "https://www.bbc.com/mundo/articles/c6gregq1xynwo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-11-21T22:57:24.000Z",
-      "teaser": "Lo clave en 20 segundos: Kate Middleton comparte cómo el cáncer transformó su vida en un documental.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c010/live/8fc02730-e5a7-11f1-8df2-d7de7bfd91b9.jpg",
-      "description": "Hay una faceta mucho, mucho más profunda de cómo un cáncer te cambia, dice la Princesa de Gales en el documental.",
-      "featured": false
-    },
-    {
       "slug": "legionario-costarricense-brillo-con-anotacion-y-es-lider-en-europa",
       "title": "Legionario costarricense brilló con anotación y es líder en Europa",
       "category": "Mundo",
@@ -732,11 +745,11 @@
       "slug": "la-utopia-socialista-que-llevo-a-un-grupo-de-australianos-idealistas-a-paraguay-hace-mas-de-130-anos-y-en-que-termino-la",
       "title": "La utopía socialista que llevó a un grupo de australianos idealistas a Paraguay hace más de 130 años (y en qué terminó la experiencia)",
       "category": "Mundo",
-      "bullets_20s": "• Un grupo de australianos viajó a Paraguay en busca de una vida mejor a finales del siglo XIX.\n• La utopía socialista prometía un estilo de vida ideal y comunitario en tierras lejanas.\n• A medida que avanzaban, enfrentaron desafíos inesperados en un entorno desconocido.\n• Sus esperanzas contrastaban con la dura realidad que encontraron al arribar a Paraguay.\n• La experiencia culminó en aprendizajes sobre la idealización y la vida en comunidad.",
+      "bullets_20s": "• Un grupo de australianos buscó en Paraguay una vida idealista en el siglo XIX.\n• La emigración fue motivada por la búsqueda de mejores condiciones de vida.\n• Paraguay se presentaba como una opción atractiva en aquel entonces.\n• Las experiencias de estos inmigrantes han quedado en la historia.\n• Los ideales socialistas guiaron el camino de los australianos hacia Sudamérica.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cr5yny54gvy3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-21T18:52:41.000Z",
-      "teaser": "Lo clave en 20 segundos: Australianos en busca de una vida mejor en Paraguay enfrentaron desafíos inesperados.",
+      "teaser": "Lo clave en 20 segundos: Un grupo australiano buscó una vida utópica en Paraguay hace más de 130 años.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b851/live/83d46e10-dd08-11f1-97df-bd0937690c4d.jpg",
       "description": "Decenas de australianos salieron de su país a finales del siglo XIX en busca de un mejor lugar para vivir. El país escogido fue Paraguay.",
       "featured": false
@@ -2214,11 +2227,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebró la graduación de 266 nuevos profesionales, destacando su esfuerzo y dedicación.\n• La graduación se llevó a cabo en dos actos en el Campus Tecnológico Central de Cartago.\n• Casi la mitad de los graduados obtuvieron maestrías, mostrando un fuerte enfoque en la educación superior.\n• La institución celebra 55 años de historia y un alto ranking en universidades de Latinoamérica.\n• La rectora exhortó a los egresados a retribuir a la sociedad costarricense por su formación.\n• La composición de género muestra que 42% de los graduados son mujeres, destacando su participación.\n• Los nuevos graduados son de diversas provincias, reflejando el alcance nacional del TEC.\n• Las áreas de estudio incluyen ingenierías, administración y carreras tecnológicas con gran demanda.\n• Los recortes presupuestarios ocupan un tema central en el contexto actual de la educación pública.\n• El evento fue un espacio de celebración y reconocimiento a los sacrificios de los graduados.",
+      "bullets_20s": "• El TEC celebra la graduación de 266 nuevos profesionales en dos actos realizados en su campus.\n• La graduación subraya el esfuerzo y compromiso de los graduados en sus trayectorias académicas.\n• Cerca de la mitad de la nueva generación alcanzó una maestría, destacando el interés en posgrados.\n• Los graduados provienen de las siete provincias y de los centros académicos del TEC en todo el país.\n• La rectora destaca la importancia de la educación pública como inversión estratégica para el país.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC celebra graduación de 266 nuevos profesionales, reflejando esfuerzo y compromiso.",
+      "teaser": "Lo clave en 20 segundos: 266 nuevos profesionales celebran su graduación en el TEC este año.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -140022,12 +140035,26 @@
       "image_url": "https://www.nacion.com/resizer/v2/FYDWI5MUXBFVZPHEMGHN545BWI.jpg?smart=true&auth=1c107906dc2a99d127506b2d4b3fb27cebde36bef742affe4b336fcc703c5546&width=1440",
       "description": "LeBron James y los Lakers de Los Ángeles fueron noticia en una nueva jornada de la NBA.",
       "featured": false
+    },
+    {
+      "slug": "la-princesa-de-gales-kate-middleton-habla-abiertamente-sobre-como-el-cancer-cambio-su-vida-en-un-documental-de-la-bbc",
+      "title": "La princesa de Gales, Kate Middleton, habla abiertamente sobre cómo el cáncer cambió su vida en un documental de la BBC",
+      "category": "Mundo",
+      "bullets_20s": "• Kate Middleton comparte cómo el cáncer ha influido en su perspectiva de vida de manera significativa.\n• El documental de la BBC presenta una mirada emocional y reflexiva de la princesa sobre la enfermedad.\n• La Princesa de Gales resalta la importancia de la salud mental durante y después del tratamiento del cáncer.\n• Se discuten las maneras en que el apoyo familiar juega un papel crucial en la recuperación emocional.\n• El documental aborda mitos comunes y realidades difíciles relacionadas con el cáncer en la sociedad actual.",
+      "source_name": "",
+      "source_url": "https://www.bbc.com/mundo/articles/c6gregq1xynwo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "",
+      "teaser": "Lo clave en 20 segundos: Kate Middleton revela cómo el cáncer ha impactado su vida en un documental.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c010/live/8fc02730-e5a7-11f1-8df2-d7de7bfd91b9.jpg",
+      "description": "Hay una faceta mucho, mucho más profunda de cómo un cáncer te cambia, dice la Princesa de Gales en el documental.",
+      "featured": false
     }
   ],
-  "generated_at": "2026-11-22T22:45:27.347Z",
-  "total": 10771,
-  "removed_soccer_news_count": 1675,
+  "generated_at": "2026-11-22T23:45:27.939Z",
+  "total": 10773,
+  "removed_soccer_news_count": 1676,
   "removed_soccer_news_titles": [
+    "Inter de Milán deja ir la victoria en un partido de ocho goles en Italia",
     "Musiala sufrió un nuevo episodio de salud esta semana",
     "Leandro Paredes se desvaneció durante una entrevista después del título que ganó Boca Juniors (video)",
     "Boca gana la Copa Sudamericana al vencer a Atlético Mineiro",
@@ -140076,7 +140103,6 @@
     "Scaloni anuncia cambios en Argentina para enfrentar a la Selección de Costa Rica",
     "Presidente de la Federación Francesa será candidato a presidencia de la FIFA contra Infantino",
     "Romelu Lukaku, máximo goleador de Bélgica, pone fin a su carrera internacional",
-    "Argentina teme otro papelón, ahora ante la Selección de Costa Rica",
-    "Vinícius atribuye su mal inicio de temporada al impacto emocional de la eliminación en el Mundial"
+    "Argentina teme otro papelón, ahora ante la Selección de Costa Rica"
   ]
 }
