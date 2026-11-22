@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "gobierno-prueba-un-camino-peligroso-con-la-junta-directiva-de-la-ccss",
+      "title": "Gobierno prueba un camino peligroso con la Junta Directiva de la CCSS",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Caja Costarricense de Seguro Social es fundamental para la salud pública del país.\n• El camino que toma el gobierno puede afectar atención médica de miles de costarricenses.\n• La Junta Directiva de la CCSS tiene un papel crucial en la gestión de recursos.\n• Decisiones políticas pueden influir en la eficiencia y funcionamiento de la CCSS.\n• La salud pública requiere un enfoque cuidadoso para decisiones administrativas.",
+      "source_name": "Esteban Oviedo",
+      "source_url": "https://www.nacion.com/blogs/corrillos-politicos/gobierno-prueba-un-camino-peligroso-con-la-junta/HQ7XB24GOBBVJJAUAEUEYOPW4A/story/",
+      "publish_date": "2026-11-22T18:20:33.000Z",
+      "teaser": "Lo clave en 20 segundos: el gobierno enfrenta críticas por su manejo en la CCSS.",
+      "image_url": "https://www.nacion.com/resizer/v2/A3EBNDLR2RFDLNAQ2QCL3OD6EE.jpg?auth=52556f7029608a4cf3f6aa5b6a7d4543683657b113edaa243d818df3522357bf&smart=true&width=4000&height=2666",
+      "description": "El gobierno está probando un camino muy peligroso con la Junta Directiva de la Caja Costarricense de Seguro Social (CCSS).",
+      "featured": false
+    },
+    {
+      "slug": "donde-puede-utilizar-la-cedula-digital-en-costa-rica-estos-son-los-bancos-ministerios-y-entidades-que-se-preparan-para-a",
+      "title": "¿Dónde puede utilizar la cédula digital en Costa Rica? Estos son los bancos, ministerios y entidades que se preparan para aceptarla",
+      "category": "Costa Rica",
+      "bullets_20s": "• La cédula digital facilitará trámites en diversas entidades y bancos en Costa Rica.\n• Varios ministerios se están adaptando para incluir la cédula digital en sus procesos.\n• Los ciudadanos deben conocer cómo obtener la cédula digital de manera sencilla.\n• Es fundamental saber qué hacer en caso de rechazo de la cédula digital.\n• La implementación de la cédula digital busca modernizar la identificación en el país.",
+      "source_name": "Cristian Mora",
+      "source_url": "https://www.nacion.com/el-explicador/donde-puede-utilizar-la-cedula-digital-en-costa/ODK7TBBIZNGCTFJ2HAPHRK3BMA/story/",
+      "publish_date": "2026-11-22T18:07:23.000Z",
+      "teaser": "Lo clave en 20 segundos: conoce dónde aceptarán la cédula digital en Costa Rica y cómo obtenerla.",
+      "image_url": "https://www.nacion.com/resizer/v2/IJSX6Y3PFNAOFIYVU6OT7C7HVI.png?auth=f3378a0b09b44d3d906c9ce0855ee5d96449795f6fc768e74bb61e45510954c5&smart=true&width=1789&height=877",
+      "description": "Conozca qué instituciones y empresas se preparan para aceptar la cédula digital en Costa Rica, cómo obtenerla y qué hacer si se la rechazan.",
+      "featured": false
+    },
+    {
+      "slug": "ingeniero-mecanico-logra-por-tercera-vez-800-puntos-en-examenes-de-admision-de-la-ucr-y-el-tec-conozca-su-historia",
+      "title": "Ingeniero mecánico logra por tercera vez 800 puntos en exámenes de admisión de la UCR y el TEC: conozca su historia",
+      "category": "Costa Rica",
+      "bullets_20s": "• Mario Zumbado ha alcanzado 800 puntos en exámenes de admisión por tercera vez en su carrera.\n• Este logro se repite en universidades prestigiosas como la UCR y el TEC de Costa Rica.\n• Zumbado comparte consejos sobre el estudio y la preparación para los exámenes.\n• El ingeniero mecánico destaca la importancia de la disciplina en el proceso educativo.\n• Su historia inspira a otros estudiantes a esforzarse por alcanzar sus metas académicas.",
+      "source_name": "Cristian Mora",
+      "source_url": "https://www.nacion.com/el-pais/ingeniero-mecanico-logra-por-tercera-vez-800/EOV5TI4E2VHQ7N74N2AXJRSXII/story/",
+      "publish_date": "2026-11-22T17:31:05.000Z",
+      "teaser": "Lo clave en 20 segundos: Mario Zumbado obtiene 800 puntos en admisiones por tercera vez, compartiendo su inspiradora historia.",
+      "image_url": "https://www.nacion.com/resizer/v2/GNZVXUK7VREOJFY3EDMXXEZY24.jpeg?auth=24d4d6a1e3f71d5747f408035131ca9a235a7f59e3196b274826ea15f563b717&smart=true&width=960&height=540",
+      "description": "Mario Zumbado ha obtenido tres veces la nota máxima de 800 puntos en exámenes de admisión: dos en la UCR y una en el TEC. Conozca su historia y sus consejos.",
+      "featured": false
+    },
+    {
       "slug": "raquel-rodriguez-celebra-un-titulo-historico-en-estados-unidos-y-deja-sin-corona-a-la-famosa-trinity-rodman",
       "title": "Raquel Rodríguez celebra un título histórico en Estados Unidos y deja sin corona a la famosa Trinity Rodman",
       "category": "Mundo",
@@ -134,11 +173,11 @@
       "slug": "pase-mas-de-10-anos-llevando-por-las-montanas-de-colombia-los-mensajes-secretos-que-hicieron-posible-el-acuerdo-de-paz-e",
       "title": "Pasé más de 10 años llevando por las montañas de Colombia los mensajes secretos que hicieron posible el acuerdo de paz entre el gobierno y las FARC",
       "category": "Mundo",
-      "bullets_20s": "• Henry Acosta Patiño desempeñó un papel fundamental en las negociaciones de paz en Colombia.\n• Su trabajo como mensajero oculto fue crucial para la comunicación entre las partes involucradas.\n• Las montañas de Colombia fueron el escenario de estas entregas de mensajes secretos.\n• El acuerdo de paz fue firmado hace diez años, marcando un hito en la historia del país.\n• La historia de Acosta revela el impacto de los mensajeros en la diplomacia y el diálogo.",
-      "source_name": "BBC Mundo",
+      "bullets_20s": "• Henry Acosta Patiño llevó mensajes secretos a lo largo de Colombia durante años complicados.\n• Su labor fue esencial para la firma del acuerdo de paz entre el gobierno y las FARC.\n• Las montañas colombianas fueron el telón de fondo de estas negociaciones silenciosas.\n• El papel de mensajero oculto es poco conocido pero fundamental en la historia reciente.\n• El acuerdo de paz ha cambiado la vida de muchas comunidades a lo largo del país.",
+      "source_name": "",
       "source_url": "https://www.bbc.com/mundo/articles/ckz74v0n4rydo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-22T14:00:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Un mensajero oculto fue clave en el acuerdo de paz entre el gobierno de Colombia y las FARC.",
+      "teaser": "Lo clave en 20 segundos: un mensajero jugó un papel vital en las negociaciones de paz en Colombia.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ac01/live/01adb2a0-e485-11f1-94d4-555e90b4210d.jpg",
       "description": "Henry Acosta Patiño fue durante años el mensajero oculto entre el gobierno de Colombia y las FARC. Su papel en el detrás de escenas de las negociaciones fue clave para el acuerdo de paz firmado hace 10 años.",
       "featured": false
@@ -160,11 +199,11 @@
       "slug": "como-dos-neveras-abandonadas-por-el-ejercito-de-eeuu-en-toscana-dieron-origen-al-helado-italiano",
       "title": "Cómo dos neveras abandonadas por el ejército de EE.UU. en Toscana dieron origen al helado italiano",
       "category": "Mundo",
-      "bullets_20s": "• La historia del gelato comienza con una lechería en la Toscana después de la guerra.\n• Dos neveras abandonadas jugaron un papel clave en la creación del helado italiano moderno.\n• La influencia del ejército estadounidense impactó la gastronomía local en ese momento.\n• El gelato se ha convertido en un símbolo de la cultura italiana y su tradición.\n• Este postre se disfruta en todo el mundo y es apreciado por su textura cremosa.",
+      "bullets_20s": "• El gelato es una parte fundamental de la cultura gastronómica italiana y mundial.\n• Se atribuye un origen particular a la influencia de las neveras militares estadounidenses.\n• Su producción tiene raíces en la Toscana, con elaboraciones antiguas y modernas.\n• Los refrigeradores abandonados permitieron nuevas técnicas para crear helados saborizados.\n• La combinación de ingredientes frescos y técnicos innovadores dio vida al helado actual.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c3d3g9d1rk3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-22T13:46:07.000Z",
-      "teaser": "Lo clave en 20 segundos: El helado italiano tiene un origen peculiar relacionado con la Segunda Guerra Mundial.",
+      "teaser": "Lo clave en 20 segundos: El origen del gelato se relaciona con neveras abandonadas en Toscana.",
       "image_url": "",
       "description": "El gelato es sinónimo de Italia, pero sus orígenes modernos se remontan a una humilde lechería de la Toscana y a un par de refrigeradores abandonados tras la Segunda Guerra Mundial.",
       "featured": false
@@ -563,11 +602,11 @@
       "slug": "la-utopia-socialista-que-llevo-a-un-grupo-de-australianos-idealistas-a-paraguay-hace-mas-de-130-anos-y-en-que-termino-la",
       "title": "La utopía socialista que llevó a un grupo de australianos idealistas a Paraguay hace más de 130 años (y en qué terminó la experiencia)",
       "category": "Mundo",
-      "bullets_20s": "• Un grupo de australianos emigró a Paraguay buscando un nuevo hogar en el siglo XIX.\n• La experiencia se centró en la creación de una comunidad socialista en tierras paraguayas.\n• A pesar de las expectativas, los ideales chocaron con la dura realidad del lugar.\n• El viaje fue motivado por el deseo de encontrar mejores condiciones de vida y libertad.\n• La historia refleja los retos que enfrentan las utopías en contextos complejos y adversos.",
+      "bullets_20s": "• Un grupo de australianos emigró a Paraguay buscando construir una vida ideal basada en la igualdad.\n• La llegada de estos colonos se enmarca en un contexto de cambios sociales y políticos en Australia.\n• La experiencia utópica estuvo llena de desafíos y conflictos con la realidad paraguaya.\n• La comunidad se esforzó por crear una sociedad que reflejara sus ideales socialistas.\n• Con el tiempo, la utopía fue desmoronándose ante dificultades económicas y sociales.\n• El legado de esta experiencia se analiza en la actualidad como un caso de estudio histórico.\n• La historia de estos colonos resuena con actuales debates sobre migración y utopías sociales.\n• A pesar de las dificultades, muchos valores de convivencia y solidaridad persistieron en el tiempo.\n• La colonización no fue solo un sueño, sino un verdadero complejo de relaciones humanas.\n• Este relato invita a reflexionar sobre el ideal de comunidad y la búsqueda de significado.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cr5yny54gvy3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-21T18:52:41.000Z",
-      "teaser": "Lo clave en 20 segundos: australianos buscaron un nuevo comienzo en Paraguay, pero su utopía tuvo un destino incierto.",
+      "teaser": "Lo clave en 20 segundos: Un grupo de australianos buscó construir una utopía en Paraguay y enfrentó la dura realidad.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b851/live/83d46e10-dd08-11f1-97df-bd0937690c4d.jpg",
       "description": "Decenas de australianos salieron de su país a finales del siglo XIX en busca de un mejor lugar para vivir. El país escogido fue Paraguay.",
       "featured": false
@@ -2045,11 +2084,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC graduó a 266 nuevos profesionales en ceremonias celebradas en Cartago este 19 de noviembre.\n• La graduación incluyó a casi la mitad de estudiantes que obtuvieron títulos de posgrado y dos doctorados.\n• La ceremonia destacó la importancia de la educación pública como inversión para el desarrollo nacional.\n• Estudiantes provienen de todas las provincias de Costa Rica, reflejando el alcance nacional del TEC.\n• La rectora del TEC subrayó la necesidad de valorar la educación como un activo estratégico para el país.",
+      "bullets_20s": "• El TEC celebró la graduación de 266 nuevos profesionales en dos ceremonias en Cartago.\n• Casi la mitad de los graduados obtuvieron maestrías, destacando en diversas áreas académicas.\n• Dos personas se graduaron con doctorados, reflejando el nivel académico del TEC.\n• Las ingenierías representaron casi 80 graduados en diversas especialidades relevantes.\n• Las familias apoyaron a los graduados, quienes expresaron su agradecimiento en el acto.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC celebra la graduación de 266 nuevos profesionales con un fuerte compromiso social.",
+      "teaser": "Lo clave en 20 segundos: El TEC celebra la graduación de 266 nuevos profesionales con éxito y esfuerzo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -139855,8 +139894,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-22T17:45:27.033Z",
-  "total": 10758,
+  "generated_at": "2026-11-22T18:45:26.732Z",
+  "total": 10761,
   "removed_soccer_news_count": 1675,
   "removed_soccer_news_titles": [
     "Musiala sufrió un nuevo episodio de salud esta semana",
