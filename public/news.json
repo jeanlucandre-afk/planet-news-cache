@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "raquel-rodriguez-celebra-un-titulo-historico-en-estados-unidos-y-deja-sin-corona-a-la-famosa-trinity-rodman",
+      "title": "Raquel Rodríguez celebra un título histórico en Estados Unidos y deja sin corona a la famosa Trinity Rodman",
+      "category": "Mundo",
+      "bullets_20s": "• Raquel Rodríguez logra un hito en su carrera con este importante triunfo en la NWSL.\n• Su equipo, Kansas City Current, mostró una destacada actuación en la final del torneo.\n• Este campeonato resalta el crecimiento del fútbol femenino en Estados Unidos.\n• Trinity Rodman, jugador icónica, es superada por Rodríguez en esta ocasión.\n• El éxito de Rodríguez inspira a futuras generaciones de futbolistas en Costa Rica.",
+      "source_name": "Milton Montenegro",
+      "source_url": "https://www.nacion.com/puro-deporte/raquel-rodriguez-celebra-un-titulo-historico-en/HS6YACR3Q5EDZH4INPJQV6RZ3E/story/",
+      "publish_date": "2026-11-22T17:09:36.000Z",
+      "teaser": "Lo clave en 20 segundos: Raquel Rodríguez hace historia al ganar el título de la NWSL en Estados Unidos.",
+      "image_url": "https://www.nacion.com/resizer/v2/753F5UI4GBAZ5K7KMMUINNZNWU.png?auth=d01f2f638cce99d6f66b140d11beacc2968415f0cd9b83eb872ec70d93182798&smart=true&width=776&height=437",
+      "description": "Raquel Rodríguez y su equipo, el Kansas City Current, conquistaron el título de la liga femenina de Estados Unidos (NWSL).",
+      "featured": false
+    },
+    {
+      "slug": "cortes-de-luz-del-ice-afectaran-localidades-de-alajuela-y-san-jose-este-martes-24-de-noviembre",
+      "title": "Cortes de luz del ICE afectarán localidades de Alajuela y San José este martes 24 de noviembre",
+      "category": "Costa Rica",
+      "bullets_20s": "• El ICE realizará trabajos de mantenimiento que causarán cortes de luz programados en varias localidades.\n• Se prevé que los cortes afecten tanto a comunidades en Alajuela como en San José específicamente.\n• Es importante tomar precauciones y anticipar las actividades diarias según los horarios de corte.\n• Los usuarios afectados deberán estar informados sobre el restablecimiento del servicio eléctrico.\n• El ICE recomienda estar atentos a sus comunicados para recibir actualizaciones sobre el servicio.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/el-pais/cortes-de-luz-del-ice-afectaran-localidades-de/PM7MDE3GDFF6DBFN6O7ACTYH24/story/",
+      "publish_date": "2026-11-22T17:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Cortes de luz programados por el ICE afectarán Alajuela y San José este martes.",
+      "image_url": "https://www.nacion.com/resizer/v2/XKW4ZDZWRZA4TPUMQM2S67EY2Q.JPG?auth=b7a19279642f97dfc7ba73d64f89431623f19eddc321243009f31a6fb9a13a27&smart=true&width=4000&height=2667",
+      "description": "El Instituto Costarricense de Electricidad (ICE) programó cortes de luz para este martes 24 de noviembre por trabajos de mantenimiento. Conozca cuáles comunidades serán afectadas y durante qué horarios.",
+      "featured": false
+    },
+    {
+      "slug": "bebe-de-2-anos-y-nina-de-9-heridas-de-bala-en-ataque-de-gatilleros-en-corredores-donde-hubo-dos-fallecidos",
+      "title": "Bebé de 2 años y niña de 9 heridas de bala en ataque de gatilleros en Corredores donde hubo dos fallecidos",
+      "category": "Costa Rica",
+      "bullets_20s": "• El ataque ocurrió en Laurel de Corredores, causando conmoción en la comunidad local.\n• Las víctimas son una bebé y una niña, quienes se encontraban en el lugar equivocado.\n• Las autoridades han intensificado la búsqueda de los responsables detrás del ataque.\n• El incidente ha generado preocupación por la seguridad en la zona de Corredores.\n• La comunidad pide justicia para las víctimas y mayor protección ciudadana.",
+      "source_name": "Roger Bolaños Vargas",
+      "source_url": "https://www.nacion.com/sucesos/bebe-de-2-anos-y-nina-de-9-heridas-de-bala-en/SWPWLLRS5FBRLA7FWI5L5OUD3E/story/",
+      "publish_date": "2026-11-22T16:58:30.000Z",
+      "teaser": "Lo clave en 20 segundos: Bebé y niña heridas en ataque, comunidad en alerta.",
+      "image_url": "https://www.nacion.com/resizer/v2/6NEG2WJW2ZCQJDI2E5J7IMR6E4.jpeg?smart=true&auth=26dec8bf7a5cd089bb5124ae8d1977506a510cf41d3a70b5f5c8fedd16ae40d6&width=1440",
+      "description": "Una bebé de 2 años y una niña de 9 años resultaron heridas de bala en un ataque de dos gatilleros en Laurel de Corredores, la noche de este sábado 21 de noviembre, en el que dos hombres fallecieron.",
+      "featured": false
+    },
+    {
       "slug": "tiroteo-en-fiesta-privada-con-mas-de-100-asistentes-deja-nueve-heridos-en-california-dos-en-estado-critico",
       "title": "Tiroteo en fiesta privada con más de 100 asistentes deja nueve heridos en California, dos en estado crítico",
       "category": "Mundo",
@@ -95,11 +134,11 @@
       "slug": "pase-mas-de-10-anos-llevando-por-las-montanas-de-colombia-los-mensajes-secretos-que-hicieron-posible-el-acuerdo-de-paz-e",
       "title": "Pasé más de 10 años llevando por las montañas de Colombia los mensajes secretos que hicieron posible el acuerdo de paz entre el gobierno y las FARC",
       "category": "Mundo",
-      "bullets_20s": "• Henry Acosta Patiño dedicó más de una década a llevar mensajes entre el gobierno colombiano y las FARC.\n• Su trabajo en la sombra fue fundamental para establecer diálogos que llevarían a un acuerdo de paz.\n• Las montañas de Colombia fueron el escenario de estas operaciones clandestinas cargadas de riesgo.\n• Entender la importancia del mensajero es vital para apreciar los procesos de negociación complejos.\n• El acuerdo de paz alcanzado hace 10 años sigue siendo un punto de referencia en la historia colombiana.",
+      "bullets_20s": "• Henry Acosta Patiño desempeñó un papel fundamental en las negociaciones de paz en Colombia.\n• Su trabajo como mensajero oculto fue crucial para la comunicación entre las partes involucradas.\n• Las montañas de Colombia fueron el escenario de estas entregas de mensajes secretos.\n• El acuerdo de paz fue firmado hace diez años, marcando un hito en la historia del país.\n• La historia de Acosta revela el impacto de los mensajeros en la diplomacia y el diálogo.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/ckz74v0n4rydo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-22T14:00:13.000Z",
-      "teaser": "Lo clave en 20 segundos: La historia de un mensajero clave en el proceso de paz colombiano.",
+      "teaser": "Lo clave en 20 segundos: Un mensajero oculto fue clave en el acuerdo de paz entre el gobierno de Colombia y las FARC.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ac01/live/01adb2a0-e485-11f1-94d4-555e90b4210d.jpg",
       "description": "Henry Acosta Patiño fue durante años el mensajero oculto entre el gobierno de Colombia y las FARC. Su papel en el detrás de escenas de las negociaciones fue clave para el acuerdo de paz firmado hace 10 años.",
       "featured": false
@@ -121,11 +160,11 @@
       "slug": "como-dos-neveras-abandonadas-por-el-ejercito-de-eeuu-en-toscana-dieron-origen-al-helado-italiano",
       "title": "Cómo dos neveras abandonadas por el ejército de EE.UU. en Toscana dieron origen al helado italiano",
       "category": "Mundo",
-      "bullets_20s": "• El helado italiano, conocido como gelato, tiene un origen sorprendente relacionado con la historia.\n• Referencias históricas indican que refrigeradores abandonados jugaron un papel crucial en su desarrollo.\n• Las neveras fueron dejadas por el ejército estadounidense tras la Segunda Guerra Mundial.\n• Una pequeña lechería en Toscana se convirtió en el epicentro de esta deliciosa innovación.\n• El gelato italiano es famoso en todo el mundo y es muy apreciado por su textura cremosa.",
-      "source_name": "",
+      "bullets_20s": "• La historia del gelato comienza con una lechería en la Toscana después de la guerra.\n• Dos neveras abandonadas jugaron un papel clave en la creación del helado italiano moderno.\n• La influencia del ejército estadounidense impactó la gastronomía local en ese momento.\n• El gelato se ha convertido en un símbolo de la cultura italiana y su tradición.\n• Este postre se disfruta en todo el mundo y es apreciado por su textura cremosa.",
+      "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c3d3g9d1rk3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-22T13:46:07.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre cómo el helado italiano surgió de neveras abandonadas en Toscana.",
+      "teaser": "Lo clave en 20 segundos: El helado italiano tiene un origen peculiar relacionado con la Segunda Guerra Mundial.",
       "image_url": "",
       "description": "El gelato es sinónimo de Italia, pero sus orígenes modernos se remontan a una humilde lechería de la Toscana y a un par de refrigeradores abandonados tras la Segunda Guerra Mundial.",
       "featured": false
@@ -316,11 +355,11 @@
       "slug": "fui-coaccionada-para-tener-un-hijo-como-un-multimillonario-engano-a-la-exitosa-dj-liv-nervo-para-que-quedara-embarazada",
       "title": "Fui coaccionada para tener un hijo: cómo un multimillonario engañó a la exitosa DJ Liv Nervo para que quedara embarazada",
       "category": "Mundo",
-      "bullets_20s": "• Liv Nervo, famosa DJ, vivió engañada por un multimillonario durante años en una relación amorosa.\n• La historia se vuelve trágica con la revelación de la coacción para quedar embarazada.\n• Con seis meses de embarazo, Nervo descubre la verdad sobre su pareja y la relación.\n• La DJ ahora busca que su experiencia sirva para cambiar la ley sobre coerción en embarazos.\n• Este caso destaca la importancia de abordar el consentimiento en la maternidad y las relaciones.",
+      "bullets_20s": "• La historia relata la experiencia personal de una DJ famosa y su complicada relación.\n• Un multimillonario es señalado por manipulación y coacción en la decisión familiar.\n• La lucha por la justicia implica cambios en legislaciones sobre derechos reproductivos.\n• La opinión pública se muestra dividida sobre el caso y su impacto social.\n• Se discute la moralidad de las acciones del multimillonario en el contexto actual.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cqm2ly382ylxo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-22T11:04:08.000Z",
-      "teaser": "Lo clave en 20 segundos: La DJ Liv Nervo revela un engaño que la llevó a la maternidad en coerción.",
+      "teaser": "Lo clave en 20 segundos: Una DJ revela su lucha tras ser coaccionada por un multimillonario.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/ebc7/live/828d8a60-e293-11f1-a094-5fdc692f3e33.jpg",
       "description": "Durante años creyó vivir un amor de película. Hasta que, con seis meses de embarazo, descubrió la verdad. Ahora lucha porque eso sea castigado por la ley cuando le ocurra a otras.",
       "featured": false
@@ -443,6 +482,19 @@
       "featured": false
     },
     {
+      "slug": "la-princesa-de-gales-kate-middleton-habla-abiertamente-sobre-como-el-cancer-cambio-su-vida-en-un-documental-de-la-bbc",
+      "title": "La princesa de Gales, Kate Middleton, habla abiertamente sobre cómo el cáncer cambió su vida en un documental de la BBC",
+      "category": "Mundo",
+      "bullets_20s": "• Kate Middleton expone cómo el cáncer impactó su vida personal y profesional en un nuevo documental.\n• La Princesa de Gales comparte experiencias sobre el sufrimiento y la superación ante la enfermedad.\n• El documental de la BBC revela la visión de la princesa sobre la salud y la resiliencia humana.\n• Con este documental, se busca crear conciencia sobre el cáncer y sus efectos en la vida de las personas.\n• Históricamente, la figura real ha abordado temas de salud mental y bienestar público en sus intervenciones.",
+      "source_name": "",
+      "source_url": "https://www.bbc.com/mundo/articles/c6gregq1xynwo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-11-21T22:57:24.000Z",
+      "teaser": "Lo clave en 20 segundos: Kate Middleton reflexiona sobre cómo el cáncer transformó su vida en un nuevo documental.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c010/live/8fc02730-e5a7-11f1-8df2-d7de7bfd91b9.jpg",
+      "description": "Hay una faceta mucho, mucho más profunda de cómo un cáncer te cambia, dice la Princesa de Gales en el documental.",
+      "featured": false
+    },
+    {
       "slug": "legionario-costarricense-brillo-con-anotacion-y-es-lider-en-europa",
       "title": "Legionario costarricense brilló con anotación y es líder en Europa",
       "category": "Mundo",
@@ -511,11 +563,11 @@
       "slug": "la-utopia-socialista-que-llevo-a-un-grupo-de-australianos-idealistas-a-paraguay-hace-mas-de-130-anos-y-en-que-termino-la",
       "title": "La utopía socialista que llevó a un grupo de australianos idealistas a Paraguay hace más de 130 años (y en qué terminó la experiencia)",
       "category": "Mundo",
-      "bullets_20s": "• A finales del siglo XIX, un grupo de australianos decidió emigrar en busca de una utopía socialista.\n• El destino escogido fue Paraguay, un lugar prometedor para fundar una nueva comunidad idealista.\n• La experiencia fue única, pero no estuvo exenta de desafíos y dificultades en su desarrollo.\n• La colonización buscaba crear un modelo de vida diferente basado en principios socialistas y comunitarios.\n• Historias de vida y desafíos que enfrentaron estos pioneros australianos en tierras paraguayas.",
+      "bullets_20s": "• Un grupo de australianos emigró a Paraguay buscando un nuevo hogar en el siglo XIX.\n• La experiencia se centró en la creación de una comunidad socialista en tierras paraguayas.\n• A pesar de las expectativas, los ideales chocaron con la dura realidad del lugar.\n• El viaje fue motivado por el deseo de encontrar mejores condiciones de vida y libertad.\n• La historia refleja los retos que enfrentan las utopías en contextos complejos y adversos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cr5yny54gvy3o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-21T18:52:41.000Z",
-      "teaser": "Lo clave en 20 segundos: Un grupo de australianos buscó fundar una utopía socialista en Paraguay en el siglo XIX.",
+      "teaser": "Lo clave en 20 segundos: australianos buscaron un nuevo comienzo en Paraguay, pero su utopía tuvo un destino incierto.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b851/live/83d46e10-dd08-11f1-97df-bd0937690c4d.jpg",
       "description": "Decenas de australianos salieron de su país a finales del siglo XIX en busca de un mejor lugar para vivir. El país escogido fue Paraguay.",
       "featured": false
@@ -1993,11 +2045,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebra a 266 nuevos profesionales en graduación especial en Cartago.\n• La ceremonia coincide con el 55 aniversario del TEC y el 50 de varias carreras emblemáticas.\n• Casi la mitad de los graduados obtuvieron títulos de maestría, destacando la calidad educativa del TEC.\n• Estudiantes de diversas provincias se unieron en el evento, reflejando el alcance nacional del TEC.\n• La rectora enfatizó la importancia de la educación como inversión para el progreso del país.",
+      "bullets_20s": "• El TEC graduó a 266 nuevos profesionales en ceremonias celebradas en Cartago este 19 de noviembre.\n• La graduación incluyó a casi la mitad de estudiantes que obtuvieron títulos de posgrado y dos doctorados.\n• La ceremonia destacó la importancia de la educación pública como inversión para el desarrollo nacional.\n• Estudiantes provienen de todas las provincias de Costa Rica, reflejando el alcance nacional del TEC.\n• La rectora del TEC subrayó la necesidad de valorar la educación como un activo estratégico para el país.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: 266 nuevos graduados del TEC celebran su esfuerzo y logros académicos en Cartago.",
+      "teaser": "Lo clave en 20 segundos: El TEC celebra la graduación de 266 nuevos profesionales con un fuerte compromiso social.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -139801,25 +139853,13 @@
       "image_url": "https://www.nacion.com/resizer/v2/FYDWI5MUXBFVZPHEMGHN545BWI.jpg?smart=true&auth=1c107906dc2a99d127506b2d4b3fb27cebde36bef742affe4b336fcc703c5546&width=1440",
       "description": "LeBron James y los Lakers de Los Ángeles fueron noticia en una nueva jornada de la NBA.",
       "featured": false
-    },
-    {
-      "slug": "la-princesa-de-gales-kate-middleton-habla-abiertamente-sobre-como-el-cancer-cambio-su-vida-en-un-documental-de-la-bbc",
-      "title": "La princesa de Gales, Kate Middleton, habla abiertamente sobre cómo el cáncer cambió su vida en un documental de la BBC",
-      "category": "Mundo",
-      "bullets_20s": "• El cáncer puede tener un impacto significativo en la vida personal y profesional de las personas.\n• Es importante hablar sobre las experiencias y sentimientos relacionados con la enfermedad.\n• La salud mental y el apoyo emocional son cruciales durante el tratamiento del cáncer.\n• Los documentales pueden ayudar a aumentar la conciencia sobre el cáncer y su impacto.\n• La comunicación abierta sobre la enfermedad puede inspirar a otros a compartir sus historias.",
-      "source_name": "",
-      "source_url": "https://www.bbc.com/mundo/articles/c6gregq1xynwo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "",
-      "teaser": "Lo clave en 20 segundos: Kate Middleton reflexiona sobre el impacto del cáncer en su vida personal.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/c010/live/8fc02730-e5a7-11f1-8df2-d7de7bfd91b9.jpg",
-      "description": "Hay una faceta mucho, mucho más profunda de cómo un cáncer te cambia, dice la Princesa de Gales.",
-      "featured": false
     }
   ],
-  "generated_at": "2026-11-22T16:45:26.695Z",
-  "total": 10755,
-  "removed_soccer_news_count": 1674,
+  "generated_at": "2026-11-22T17:45:27.033Z",
+  "total": 10758,
+  "removed_soccer_news_count": 1675,
   "removed_soccer_news_titles": [
+    "Musiala sufrió un nuevo episodio de salud esta semana",
     "Leandro Paredes se desvaneció durante una entrevista después del título que ganó Boca Juniors (video)",
     "Boca gana la Copa Sudamericana al vencer a Atlético Mineiro",
     "Se acabó la temporada para Keylor Navas y los Pumas de México",
@@ -139868,7 +139908,6 @@
     "Presidente de la Federación Francesa será candidato a presidencia de la FIFA contra Infantino",
     "Romelu Lukaku, máximo goleador de Bélgica, pone fin a su carrera internacional",
     "Argentina teme otro papelón, ahora ante la Selección de Costa Rica",
-    "Vinícius atribuye su mal inicio de temporada al impacto emocional de la eliminación en el Mundial",
-    "León XIV cierra gira sudamericana tras mostrar recuperación y reforzar su defensa de los más pobres"
+    "Vinícius atribuye su mal inicio de temporada al impacto emocional de la eliminación en el Mundial"
   ]
 }
