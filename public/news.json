@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "aya-suspendera-servicio-de-agua-en-zonas-de-san-jose-este-miercoles-por-trabajos-de-mantenimiento",
+      "title": "AyA suspenderá servicio de agua en zonas de San José este miércoles por trabajos de mantenimiento",
+      "category": "Costa Rica",
+      "bullets_20s": "• La suspensión afectará varias zonas específicas en San José durante el miércoles próximo.\n• Se realizarán trabajos de mantenimiento en el Sistema de Puente Mulas este miércoles.\n• AyA recomienda a los usuarios hacer acopio de agua antes de la suspensión anunciada.\n• Se establecerán horarios específicos para la recuperación del suministro de agua.\n• Es fundamental que los usuarios revisen las zonas afectadas en comunicación oficial.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/el-pais/aya-suspendera-servicio-de-agua-en-zonas-de-san/4XEMPRHXMVB5BDFH6W242GZW4U/story/",
+      "publish_date": "2026-11-23T23:16:11.000Z",
+      "teaser": "Lo clave en 20 segundos: AyA suspenderá el servicio de agua en varias zonas de San José.",
+      "image_url": "https://www.nacion.com/resizer/v2/NSIYFV5EP5FHXKJYPJABLOQZAU.JPG?auth=4e9ae469508475a489ba262696818717842af05b7c415fbf7e022181cc7f3d8a&smart=true&width=3567&height=2279",
+      "description": "Conozca los detalles de la suspensión temporal del servicio de agua potable programada para este miércoles 25 de noviembre por trabajos de mantenimiento en el Sistema de Puente Mulas. Revise los horarios de corte y recuperación del suministro.",
+      "featured": false
+    },
+    {
+      "slug": "calor-de-hasta-359-c-y-rafagas-de-viento-asi-estara-el-tiempo-este-martes-en-costa-rica",
+      "title": "Calor de hasta 35,9 °C y ráfagas de viento: así estará el tiempo este martes en Costa Rica",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Instituto Meteorológico Nacional advierte temperaturas altas para el próximo martes en Costa Rica.\n• Se esperan ráfagas de viento que podrían afectar el clima local en diferentes regiones.\n• Las regiones más calurosas se identificarán y se proporcionarán recomendaciones para la población.\n• El pronóstico también menciona algunas posibilidades de lluvias ligeras durante el día.\n• Es importante estar atentos a las actualizaciones del clima ante condiciones elevadas de calor.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/sucesos/calor-de-hasta-359-c-y-rafagas-de-viento-asi/XMV5NXIGSRF5JAXQJSOIUBI36U/story/",
+      "publish_date": "2026-11-23T22:44:42.000Z",
+      "teaser": "Lo clave en 20 segundos: altas temperaturas y viento predominarán este martes en el país.",
+      "image_url": "https://www.nacion.com/resizer/v2/Q7GFEUHQ5BFI5FDLZZLZKKEWBY.JPG?smart=true&auth=dcd719bfd72ba66df6105493fcd017043d6964e00cf97c0747cc6217d6d99cbb&width=1440",
+      "description": "El IMN pronostica para este martes 24 de noviembre temperaturas de hasta 35,9 °C, ráfagas de viento y pocas lluvias en Costa Rica. Conozca dónde hará más calor y cuáles regiones podrían registrar aguaceros.",
+      "featured": false
+    },
+    {
       "slug": "examen-de-admision-tec-2027-como-ver-si-es-elegible-y-que-pasa-con-los-cupos-por-carrera",
       "title": "Examen de Admisión TEC 2027: cómo ver si es elegible y qué pasa con los cupos por carrera",
       "category": "Costa Rica",
@@ -82,11 +108,11 @@
       "slug": "la-cantante-irani-que-recibio-74-latigazos-por-actuar-en-youtube-sin-el-velo",
       "title": "La cantante iraní que recibió 74 latigazos por actuar en YouTube sin el velo",
       "category": "Mundo",
-      "bullets_20s": "• La cantante iraní Parastoo Ahmadi fue condenada por actuar sin el velo impuesto por el régimen.\n• Actuar en plataformas como YouTube puede repercutir severamente en artistas en Irán.\n• El caso ha generado reacciones internacionales sobre la libertad de expresión en la música.\n• La condena de 74 latigazos destaca la severidad de las leyes en contra de la moralidad.\n• Otras artistas han enfrentado sanciones similares por desafiar las normas de vestimenta.",
+      "bullets_20s": "• La decisión judicial resalta las severas restricciones impuestas en Irán sobre la música y el arte.\n• La cantante enfrentó represalias por su actuación, lo que generó una ola de indignación internacional.\n• Activistas de derechos humanos exigen un cambio inmediato en las leyes opresivas iraníes.\n• La comunidad artística enfrenta desafíos constantes al expresarse bajo un régimen restrictivo.\n• Múltiples voces se alzan en defensa de la libertad de expresión y los derechos de los artistas.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmly7qnw55z4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-23T21:19:36.000Z",
-      "teaser": "Lo clave en 20 segundos: Una cantante iraní recibe latigazos por actuar sin velo en YouTube.",
+      "teaser": "Lo clave en 20 segundos: una cantante iraní es condenada a latigazos por actuar sin velo en YouTube.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg",
       "description": "Según sus abogados, Parastoo Ahmadi, tres músicos y un productor recibieron 74 latigazos en Qom.",
       "featured": false
@@ -159,12 +185,12 @@
     {
       "slug": "por-que-jensen-huang-es-demasiado-importante-como-para-que-nvidia-pudiera-despedirlo",
       "title": "Por qué Jensen Huang es demasiado importante como para que Nvidia pudiera despedirlo",
-      "category": "Mundo",
-      "bullets_20s": "• Jensen Huang ha sido una figura clave en el desarrollo de tecnologías de inteligencia artificial.\n• Su liderazgo ha posicionado a Nvidia como una empresa líder en el sector tecnológico.\n• La gestión de Huang ha sido fundamental en tiempos de cambios tecnológicos rápidos.\n• Se prevé que Huang continúe impulsando la innovación en el campo de la IA.\n• Nvidia ha logrado atraer la atención de inversores gracias a su dirección estratégica.",
+      "category": "Tecnología",
+      "bullets_20s": "• Jensen Huang ha sido un líder en la industria de la inteligencia artificial y el hardware de computación.\n• Su visión ha llevado a Nvidia a revolucionar el mercado de los gráficos y el aprendizaje automático.\n• Bajo su dirección, Nvidia se ha convertido en un competidor clave en tecnologías emergentes.\n• Huang ha sido reconocido por su capacidad para anticipar tendencias en tecnología y adaptarse rápidamente.\n• La importancia de su liderazgo se refleja en el crecimiento superior de Nvidia en los últimos años.\n• Su enfoque en IA y aprendizaje profundo ha sido un factor determinante en el éxito de la compañía.\n• El regreso de Huang subraya la relevancia de líderes visionarios en la tecnología actual.\n• Las decisiones estratégicas de Huang han facilitado colaboraciones clave en el sector tecnológico.\n• Su impacto en Nvidia ha establecido un estándar para futuras generaciones de líderes tecnológicos.\n• La continuidad de Huang destaca la importancia del liderazgo en momentos de disrupción tecnológica.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c9143kp61ldjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-23T18:40:21.000Z",
-      "teaser": "Lo clave en 20 segundos: Jensen Huang es crucial para Nvidia, transformando su enfoque hacia la inteligencia artificial.",
+      "teaser": "Lo clave en 20 segundos: Jensen Huang ha sido fundamental para el éxito y la transformación de Nvidia.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/938d/live/58a5fb00-e762-11f1-a094-5fdc692f3e33.jpg",
       "description": "El papel de Huang como pieza clave en la transformación de su empresa en un pilar fundamental de la IA resultó crucial para su regreso.",
       "featured": false
@@ -289,12 +315,12 @@
     {
       "slug": "el-extraordinario-hallazgo-de-un-cementerio-de-osos-de-las-cavernas-que-se-extinguieron-hace-24000-anos",
       "title": "El extraordinario hallazgo de un cementerio de osos de las cavernas que se extinguieron hace 24.000 años",
-      "category": "Mundo",
-      "bullets_20s": "• Investigadores descubrieron un cementerio de osos de las cavernas en los Dolomitas.\n• Este hallazgo ofrece información sobre la vida de estos animales extintos.\n• Las imágenes exclusivas detallan la conservación de los esqueletos encontrados.\n• La exploración de la cueva es un avance en la paleontología moderna.\n• Descubrimientos similares han sido escasos en la región de Europa.",
+      "category": "Ciencia",
+      "bullets_20s": "• Se descubrió un cementerio de osos de las cavernas en los Dolomitas, Italia.\n• Este lugar contiene restos de osos que vivieron hace 24.000 años.\n• Los esqueletos hallados son más grandes de lo que se esperaba inicialmente.\n• La cueva ha permanecido inexplorada hasta este descubrimiento reciente.\n• Imágenes exclusivas muestran las condiciones del hallazgo arqueológico.\n• Los científicos estudiarán estos restos para entender la extinción.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmq5vl3d603wo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-23T16:42:07.000Z",
-      "teaser": "Lo clave en 20 segundos: un cementerio de osos de las cavernas fue hallado en los Dolomitas.",
+      "teaser": "Lo clave en 20 segundos: un descubrimiento arqueológico revela osos de las cavernas en Italia.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/6dc5/live/8af6b990-e1c8-11f1-8776-ed07496d36d8.jpg",
       "description": "La BBC revela imágenes exclusivas del interior de una cueva previamente inexplorada en los Dolomitas, que contiene un tesoro de esqueletos de enormes osos de las cavernas extintos hace mucho tiempo.",
       "featured": false
@@ -362,19 +388,6 @@
       "teaser": "Lo clave en 20 segundos: Ahorre un 80% en la suscripción digital anual de 'La Nación' este Black Friday.",
       "image_url": "https://www.nacion.com/resizer/v2/MEOVQ7XTQVHWPJMRZPVH4FT3YY.png?auth=c695ec63d599afed51b1ed9821fa195bd072b2acceca7802909b9f3aa8730b3b&smart=true&width=1920&height=1080",
       "description": "Ahorre un 80% este 'Black Friday' en la suscripción digital anual de 'La Nación'. Promoción por tiempo limitado para disfrutar de todo su contenido digital.",
-      "featured": false
-    },
-    {
-      "slug": "dos-hombres-en-mi-vida-como-un-accidente-de-trafico-me-enseno-nuevas-formas-de-amar",
-      "title": "Dos hombres en mi vida: cómo un accidente de tráfico me enseñó nuevas formas de amar",
-      "category": "Mundo",
-      "bullets_20s": "• Los accidentes de tráfico pueden cambiar la vida de las personas en un instante y de formas inesperadas.\n• La historia de amor entre Kris y Brandon es un ejemplo de resiliencia y adaptación emocional.\n• Las relaciones a menudo requieren nuevas formas de conexión después de eventos traumáticos.\n• El amor puede manifestarse de distintas maneras dependiendo de las circunstancias enfrentadas.\n• El proceso de duelo por la pérdida de un ser querido es complejo y requiere tiempo para sanar.",
-      "source_name": "",
-      "source_url": "https://www.bbc.com/mundo/articles/cx4gnrrqm61jo?at_medium=RSS&at_campaign=rss",
-      "publish_date": "2026-11-23T14:45:43.000Z",
-      "teaser": "Lo clave en 20 segundos: cómo un accidente transforma la percepción del amor.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/607a/live/72877a90-e356-11f1-acd4-25eaaa5def63.jpg",
-      "description": "Brandon era el amor de la adolescencia de Kris y su 'Príncipe Azul', pero cuando él sufrió un catastrófico accidente automovilístico, ella tuvo que encontrar una nueva forma de amarlo.",
       "featured": false
     },
     {
@@ -2942,11 +2955,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebró la graduación de 266 nuevos profesionales en su campus.\n• Casi la mitad de los graduados obtuvieron maestrías, mostrando un alto nivel académico.\n• Las ceremonias de graduación resaltaron el esfuerzo individual y el apoyo familiar constante.\n• El TEC celebra 55 años de historia y además, presenta importantes logros internacionales.\n• Las carreras de ingeniería aportaron la mayoría de los nuevos graduados de esta promoción.",
+      "bullets_20s": "• El TEC celebra la graduación de 266 nuevos profesionales en su Campus Tecnológico Central Cartago.\n• La ceremonia de graduación se realizó en dos actos, con un significativo número de títulos entregados.\n• De los graduados, casi la mitad obtuvo maestrías, destacando áreas como administración y tecnología.\n• La graduación marca el 55 aniversario del TEC y su creciente posición en rankings educativos.\n• Estudiantes de diversas provincias del país lograron completar su formación en áreas estratégicas.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: 266 estudiantes obtienen sus títulos en el TEC, destacando la calidad educativa y el esfuerzo personal.",
+      "teaser": "Lo clave en 20 segundos: Se celebran 266 graduaciones en el TEC, reflejando esfuerzo y dedicación de los estudiantes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -140752,8 +140765,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-23T22:45:26.865Z",
-  "total": 10827,
+  "generated_at": "2026-11-23T23:45:26.493Z",
+  "total": 10828,
   "removed_soccer_news_count": 1682,
   "removed_soccer_news_titles": [
     "FIFA confirma una noticia histórica para el fútbol de Costa Rica",
