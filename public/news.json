@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "ataque-israeli-mata-a-funcionario-de-la-onu-en-gaza-y-deja-tres-heridos",
+      "title": "Ataque israelí mata a funcionario de la ONU en Gaza y deja tres heridos",
+      "category": "Mundo",
+      "bullets_20s": "• El ataque se realizó en el campamento de Yabalia, afectando a varias personas presentes.\n• Se reportan tres heridos, quienes trabajaban en labores humanitarias en la zona.\n• La ONU condena el ataque y exige una investigación sobre el incidente.\n• Las tensiones en la región continúan en aumento tras este suceso violento.\n• El funcionamiento de varios pozos de agua en la zona se ha visto comprometido.",
+      "source_name": "Europa Press",
+      "source_url": "https://www.nacion.com/el-mundo/ataque-israeli-mata-a-funcionario-de-la-onu-en/TVYJLIJU5BAURHGIZRQA75VUFM/story/",
+      "publish_date": "2026-11-23T18:01:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Ataque en Gaza afecta a personal de la ONU y humanitarios.",
+      "image_url": "https://www.nacion.com/resizer/v2/STYM3G2WUBGKDNZIRRDY3CG74U.jpg?smart=true&auth=ce44d24ed2f41b77975f7b201e56c1e97b25b8d76bdc25c77a8fe773497fbb64&width=1440",
+      "description": "La agencia afirma que las víctimas estaban realizando labores relacionadas con el funcionamiento de un pozo en el campamento de Yabalia.",
+      "featured": false
+    },
+    {
+      "slug": "gisele-pelicot-denuncia-que-usaron-fotos-suyas-desnuda-sin-consentimiento-para-promocionar-un-libro",
+      "title": "Gisèle Pelicot denuncia que usaron fotos suyas desnuda sin consentimiento para promocionar un libro",
+      "category": "Mundo",
+      "bullets_20s": "• Gisèle Pelicot es una figura pública que ha expresado su indignación por el uso de su imagen.\n• Las fotos utilizadas fueron tomadas sin su consentimiento para un libro en Francia.\n• La denuncia resalta temas de privacidad y derechos de imagen en el ámbito público.\n• Pelicot menciona sentirse humillada y afecta emocionalmente por el incidente reciente.\n• Este caso refleja la importancia de la ética en el uso de imágenes personales.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/gisele-pelicot-denuncia-que-usaron-fotos-suyas/CMQT2LXDM5H6XAFPUIEZNCWEM4/story/",
+      "publish_date": "2026-11-23T17:44:38.000Z",
+      "teaser": "Lo clave en 20 segundos: Gisèle Pelicot denuncia el uso no autorizado de sus fotos desnuda para un libro.",
+      "image_url": "https://www.nacion.com/resizer/v2/UMSTUTE6XZECVDHILCOKVFSQ4U.jpg?smart=true&auth=c82884db49fd932b18d289755a4170653db984fa6bd290ec1e94ef57fbc05643&width=1440",
+      "description": "Gisèle Pelicot denunció este lunes sentirse humillada por el uso sin permiso de fotos suyas desnuda para promocionar un ensayo en Francia. Conozca su reacción.",
+      "featured": false
+    },
+    {
+      "slug": "servicio-civil-abre-plazas-con-salarios-de-hasta-23-millones-vea-requisitos-y-como-aplicar",
+      "title": "Servicio Civil abre plazas con salarios de hasta ¢2,3 millones: vea requisitos y cómo aplicar",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Servicio Civil ha abierto nuevas plazas laborales en Costa Rica para varios ministerios.\n• Los salarios llegan hasta ¢2.3 millones, lo que atrae a muchos interesados.\n• Los requisitos para aplicar varían según el puesto y la institución solicitante.\n• La convocatoria incluye plazas en el Ministerio de Salud, entre otros organismos.\n• Los interesados deben cumplir con la normativa del Servicio Civil para postularse.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/economia/servicio-civil-abre-plazas-con-salarios-de-hasta/VCRG2M3W7VD4PB7WLJTJMOOBFI/story/",
+      "publish_date": "2026-11-23T17:44:18.000Z",
+      "teaser": "Lo clave en 20 segundos: nuevas plazas en Servicio Civil con salarios atractivos.",
+      "image_url": "https://www.nacion.com/resizer/v2/3HJCBXBOKFC55E6I2DFEPBEXEM.png?auth=d14cb51af1cc41749de608876139c8aeb5d227347a7126d99801af431e69ae1b&smart=true&width=1920&height=1080",
+      "description": "La Dirección General de Servicio Civil  requiere conformar registro de elegibles para puestos con salarios globales de hasta ¢2.379.407 para puestos en el Ministerio de Salud y el Ministerio de Justicia y Paz. Conozca requisitos y fechas para postularse.",
+      "featured": false
+    },
+    {
       "slug": "tec-confirma-cierre-tecnico-de-sede-de-limon-que-pasara-con-los-estudiantes-actuales-y-los-aspirantes-a-ingresar-en-el-2",
       "title": "TEC confirma cierre técnico de sede de Limón: ¿qué pasará con los estudiantes actuales y los aspirantes a ingresar en el 2027?",
       "category": "Costa Rica",
@@ -11,6 +50,19 @@
       "teaser": "Lo clave en 20 segundos: TEC cierra sede en Limón, se afectan estudiantes actuales y futuros aspirantes en 2027.",
       "image_url": "https://www.nacion.com/resizer/v2/6OFINYPNVVG3NE75DNDI33XJFE.webp?auth=446cb99c372f425b808cd5d8e67712ce3e0c264659356cef081852127ca94116&smart=true&width=1049&height=590",
       "description": "Diego Noguera, director del Centro Académico de Limón, detalló a La Nación cuál es la situación de la sede el TEC en Limón.",
+      "featured": false
+    },
+    {
+      "slug": "un-buque-de-guerra-ruso-es-atacado-y-hundido-por-drones-ucranianos-en-un-puerto-de-libia-segun-zelensky",
+      "title": "Un buque de guerra ruso es atacado y hundido por drones ucranianos en un puerto de Libia, según Zelensky",
+      "category": "Mundo",
+      "bullets_20s": "• El ataque a un buque ruso en Libia resalta las tensiones entre Rusia y Ucrania.\n• Drones ucranianos han demostrado ser una herramienta eficaz en conflictos modernos.\n• Zelensky informa sobre el éxito de las operaciones en la región del Mediterráneo.\n• El Kremlin se muestra reservado sobre los incidentes recientes en su flota militar.\n• Este ataque podría incrementar las tensiones en el ya volátil escenario de Libia.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/ckjwjq7z1v0jo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-11-23T17:13:55.000Z",
+      "teaser": "Lo clave en 20 segundos: Un buque ruso es hundido por drones ucranianos en Libia, aumentando las tensiones entre los países.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f684/live/02351f90-e74d-11f1-99b6-a35a62fa4264.jpg",
+      "description": "El Kremlin advierte de una \"escalada de tensiones en la región\", pero no quiso comentar directamente sobre los ataques en Libia.",
       "featured": false
     },
     {
@@ -238,11 +290,11 @@
       "slug": "un-empleado-de-anthropic-dice-haber-usado-la-ia-para-resolver-uno-de-los-mas-grandes-problemas-matematicos",
       "title": "Un empleado de Anthropic dice haber usado la IA para resolver uno de los más grandes problemas matemáticos",
       "category": "Ciencia",
-      "bullets_20s": "• La hipótesis de Riemann es un enigma matemático no resuelto desde el siglo XIX.\n• La IA se utiliza cada vez más en diferentes áreas de la investigación científica.\n• El matemático sostiene que la IA puede acelerar la resolución de problemas complejos.\n• Verificar este tipo de demostraciones requiere la revisión por expertos en matemáticas.\n• El avance de la IA hace que se replanteen las capacidades humanas en la ciencia.",
+      "bullets_20s": "• Un empleado de Anthropic ha realizado un avance impactante en matemáticas usando inteligencia artificial.\n• La hipótesis de Riemann es uno de los problemas más complejos en la teoría de números.\n• Claude, el modelo de IA, se usó para alcanzar este notable descubrimiento matemático.\n• La comunidad matemática tomará tiempo para verificar la solución presentada por el empleado.\n• El uso de IA en matemáticas abre nuevas puertas para resolver problemas complejos en estudios futuros.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6n901zg7rylo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-23T11:32:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Un empleado de IA dice haber resuelto un gran problema matemático.",
+      "teaser": "Lo clave en 20 segundos: Un empleado de Anthropic afirma haber resuelto un problema matemático crucial con IA.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
       "description": "Un matemático de la compañía afirma haber utilizado Claude para demostrar la famosa hipótesis de Riemann, aunque la verificación llevará algún tiempo.",
       "featured": false
@@ -2656,11 +2708,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC graduó a 266 nuevos profesionales en un evento emotivo lleno de orgullo familiar.\n• Los graduados provienen de siete provincias y cinco campus de la institución educativa.\n• El 50 aniversario de varias carreras coincide con esta celebración de logros académicos.\n• La educación publica en Costa Rica enfrenta recortes, pero se fomenta como inversión estratégica.\n• La participación femenina fue notable, representando un 42 % de la nueva generación.",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebró la graduación de 266 nuevos profesionales en Cartago este 20 de noviembre.\n• Cerca de la mitad de los graduados obtuvo una maestría, destacando varias áreas de administración y tecnología.\n• La ceremonia se llevó a cabo en dos actos, con 134 graduados en la mañana y 132 en la tarde.\n• La rectora destacó la importancia de la educación pública como un motor para el desarrollo nacional y regional.\n• El TEC celebra 55 años de historia y ha ascendido en rankings internacionales de universidades en América Latina.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: 266 nuevos profesionales celebran con orgullo su graduación en el TEC.",
+      "teaser": "Lo clave en 20 segundos: El TEC gradúa 266 nuevos profesionales en un emotivo acto de reconocimiento.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -140466,8 +140518,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-23T17:45:26.452Z",
-  "total": 10805,
+  "generated_at": "2026-11-23T18:45:26.771Z",
+  "total": 10809,
   "removed_soccer_news_count": 1682,
   "removed_soccer_news_titles": [
     "FIFA confirma una noticia histórica para el fútbol de Costa Rica",
