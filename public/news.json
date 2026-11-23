@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "tec-confirma-cierre-tecnico-de-sede-de-limon-que-pasara-con-los-estudiantes-actuales-y-los-aspirantes-a-ingresar-en-el-2",
+      "title": "TEC confirma cierre técnico de sede de Limón: ¿qué pasará con los estudiantes actuales y los aspirantes a ingresar en el 2027?",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Tecnológico de Costa Rica anunció el cierre técnico de su sede en Limón, generando incertidumbre.\n• Estudiantes actuales deben conocer los pasos a seguir para su situación académica tras el cierre.\n• Se han planteado medidas para los próximos aspirantes que desean ingresar en 2027 al TEC.\n• El director Diego Noguera explicó las razones que llevaron a esta decisión por parte de la institución.\n• Se espera que la comunidad académica se adapte a estos cambios en los próximos años.",
+      "source_name": "Fernanda Matarrita Chaves",
+      "source_url": "https://www.nacion.com/el-pais/tec-confirma-cierre-tecnico-de-sede-de-limon-que/2OSR4FKJAVAJTNK3AY6RX54WOI/story/",
+      "publish_date": "2026-11-23T17:21:23.000Z",
+      "teaser": "Lo clave en 20 segundos: TEC cierra sede en Limón, se afectan estudiantes actuales y futuros aspirantes en 2027.",
+      "image_url": "https://www.nacion.com/resizer/v2/6OFINYPNVVG3NE75DNDI33XJFE.webp?auth=446cb99c372f425b808cd5d8e67712ce3e0c264659356cef081852127ca94116&smart=true&width=1049&height=590",
+      "description": "Diego Noguera, director del Centro Académico de Limón, detalló a La Nación cuál es la situación de la sede el TEC en Limón.",
+      "featured": false
+    },
+    {
+      "slug": "personas-solicitantes-de-refugio-perderan-su-seguro-a-partir-del-1-de-enero-de-2027-tras-fin-de-convenio-ccss-y-acnur",
+      "title": "Personas solicitantes de refugio perderán su seguro a partir del 1.º de enero de 2027 tras fin de convenio CCSS y Acnur",
+      "category": "Costa Rica",
+      "bullets_20s": "• El convenio entre la CCSS y Acnur será concluido por falta de financiamiento adecuado para su sostenibilidad.\n• Las personas que solicitan refugio en Costa Rica perderán su seguro asociado a este convenio específico.\n• La decisión impactará a cientos de personas que dependen del seguro médico para su salud y bienestar.\n• Se han mostrado preocupaciones sobre cómo afectará la salud de los refugiados tras esta medida.\n• Se están buscando alternativas para brindar atención médica a quienes se verán afectados por esta situación.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/el-pais/personas-solicitantes-de-refugio-perderan-su/FGUZUYA36JCLHDOMLUDDX5DQPI/story/",
+      "publish_date": "2026-11-23T17:06:12.000Z",
+      "teaser": "Lo clave en 20 segundos: Finaliza convenio entre CCSS y Acnur, afectando seguros de refugiados en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZVYDTJDLLFCFJGNYW36PX52W4I.jpg?auth=1555811155f9eb83d31fc41dd71bffcdae796d5bd971f9a550fe17d4ff3979c6&smart=true&width=1782&height=956",
+      "description": "La Caja Costarricense de Seguro Social (CCSS) y el Alto Comisionado de las Naciones Unidas para los Refugiados (Acnur) concluirán el convenio marco de aseguramiento colectivo el 1.º de enero de 2027 por falta de financiamiento.",
+      "featured": false
+    },
+    {
       "slug": "la-ue-abre-una-investigacion-antimonopolio-contra-el-principal-productor-europeo-de-coca-cola",
       "title": "La UE abre una investigación antimonopolio contra el principal productor europeo de Coca-Cola",
       "category": "Mundo",
@@ -212,11 +238,11 @@
       "slug": "un-empleado-de-anthropic-dice-haber-usado-la-ia-para-resolver-uno-de-los-mas-grandes-problemas-matematicos",
       "title": "Un empleado de Anthropic dice haber usado la IA para resolver uno de los más grandes problemas matemáticos",
       "category": "Ciencia",
-      "bullets_20s": "• Un empleado de Anthropic afirma haber utilizado IA para abordar un problema matemático clásico.\n• La hipótesis de Riemann es un famoso enigma sin resolver en el campo de las matemáticas.\n• El uso de inteligencia artificial abre nuevas posibilidades en la resolución de problemas complejos.\n• La verificación de los resultados llevará tiempo y deberá ser revisada por matemáticos expertos.\n• Microavances en matemáticas pueden tener implicaciones mayores en la ciencia y tecnología.\n• La colaboración entre inteligencia artificial y matemáticas podría cambiar el enfoque en la investigación.",
+      "bullets_20s": "• La hipótesis de Riemann es un enigma matemático no resuelto desde el siglo XIX.\n• La IA se utiliza cada vez más en diferentes áreas de la investigación científica.\n• El matemático sostiene que la IA puede acelerar la resolución de problemas complejos.\n• Verificar este tipo de demostraciones requiere la revisión por expertos en matemáticas.\n• El avance de la IA hace que se replanteen las capacidades humanas en la ciencia.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6n901zg7rylo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-23T11:32:45.000Z",
-      "teaser": "Lo clave en 20 segundos: un empleado utiliza IA para abordar un reto matemático clásico.",
+      "teaser": "Lo clave en 20 segundos: Un empleado de IA dice haber resuelto un gran problema matemático.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
       "description": "Un matemático de la compañía afirma haber utilizado Claude para demostrar la famosa hipótesis de Riemann, aunque la verificación llevará algún tiempo.",
       "featured": false
@@ -2630,11 +2656,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica graduó a 266 nuevos profesionales este 20 de noviembre en Cartago.\n• La ceremonia se dividió en dos actos, donde participaron graduandos de diversas carreras.\n• Casi la mitad de los graduados obtuvo una maestría, destacando programas en administración y tecnología.\n• El TEC celebra 55 años de historia y ha logrado reconocer su calidad educativa en rankings internacionales.\n• La rectora enfatiza la educación como una inversión para el desarrollo del país y su gente.",
+      "bullets_20s": "• El TEC graduó a 266 nuevos profesionales en un evento emotivo lleno de orgullo familiar.\n• Los graduados provienen de siete provincias y cinco campus de la institución educativa.\n• El 50 aniversario de varias carreras coincide con esta celebración de logros académicos.\n• La educación publica en Costa Rica enfrenta recortes, pero se fomenta como inversión estratégica.\n• La participación femenina fue notable, representando un 42 % de la nueva generación.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: 266 nuevos profesionales celebran su graduación en el TEC, han trabajado duro por su meta.",
+      "teaser": "Lo clave en 20 segundos: 266 nuevos profesionales celebran con orgullo su graduación en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -140440,8 +140466,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-23T16:45:27.143Z",
-  "total": 10803,
+  "generated_at": "2026-11-23T17:45:26.452Z",
+  "total": 10805,
   "removed_soccer_news_count": 1682,
   "removed_soccer_news_titles": [
     "FIFA confirma una noticia histórica para el fútbol de Costa Rica",
