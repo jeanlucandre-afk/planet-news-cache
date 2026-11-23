@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "mas-de-21000-personas-tendran-suspensiones-de-agua-esta-semana-en-heredia-fechas-y-horarios",
+      "title": "Más de 21.000 personas tendrán suspensiones de agua esta semana en Heredia: fechas y horarios",
+      "category": "Costa Rica",
+      "bullets_20s": "• Los trabajos de mantenimiento son esenciales para garantizar la calidad del agua en Heredia.\n• Los cortes afectarán a más de 21.000 usuarios en diversas comunidades esta semana.\n• Las autoridades han programado el lavado de tanques y plantas como parte del proceso.\n• Se recomienda a los usuarios ahorrar agua y prever el uso durante los cortes programados.\n• Los horarios de suspensión varían según la comunidad; consulte el detalle para su área.\n• Estos trabajos buscan mejorar el servicio de agua potable en la región.\n• Es importante que los usuarios estén informados sobre las fechas y horarios específicos.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/el-pais/mas-de-21000-personas-tendran-suspensiones-de-agua/JY6P77B7LRFLRAJZWGRZ33XDLU/story/",
+      "publish_date": "2026-11-23T15:24:26.000Z",
+      "teaser": "Lo clave en 20 segundos: más de 21.000 personas sin agua en Heredia por mantenimiento.",
+      "image_url": "https://www.nacion.com/resizer/v2/ZGJH5DYH5VBDRKZOTSLBKXNDSA.jpg?auth=d44d7bc34c15f108f7992cd26b5e19061aeddfb24a65f89f04c8bd00e4bd8319&smart=true&width=5327&height=3551",
+      "description": "Más de 21.000 personas enfrentarán cortes programados de agua potable esta semana debido a labores de lavado en tanques y plantas. Consulte el detalle completo de los días, horarios y comunidades afectadas en esta nota.",
+      "featured": false
+    },
+    {
+      "slug": "black-friday-en-la-nacion-ahorre-un-80-en-su-suscripcion-digital-anual",
+      "title": "‘Black Friday’ en ‘La Nación’: ahorre un 80% en su suscripción digital anual",
+      "category": "Costa Rica",
+      "bullets_20s": "• La promoción permite obtener un 80% de descuento en la suscripción digital anual.\n• Esta oferta es válida solo por tiempo limitado, ideal para nuevos suscriptores.\n• El usuario podrá acceder a todo el contenido digital de 'La Nación'.\n• Es una oportunidad para quienes desean recibir noticias de calidad en línea.\n• Se espera un gran interés por parte del público costarricense en esta oferta.",
+      "source_name": "Kevin Ruiz",
+      "source_url": "https://www.nacion.com/blogs/noticias-grupo-nacion/black-friday-en-la-nacion-ahorre-un-80-en-su/M4WFQAOPYVAEZD232BBGJNQZKI/story/",
+      "publish_date": "2026-11-23T15:21:43.000Z",
+      "teaser": "Lo clave en 20 segundos: Ahorre un 80% en la suscripción digital anual de 'La Nación' este Black Friday.",
+      "image_url": "https://www.nacion.com/resizer/v2/MEOVQ7XTQVHWPJMRZPVH4FT3YY.png?auth=c695ec63d599afed51b1ed9821fa195bd072b2acceca7802909b9f3aa8730b3b&smart=true&width=1920&height=1080",
+      "description": "Ahorre un 80% este 'Black Friday' en la suscripción digital anual de 'La Nación'. Promoción por tiempo limitado para disfrutar de todo su contenido digital.",
+      "featured": false
+    },
+    {
       "slug": "nvidia-restituye-a-jensen-huang-como-presidente-y-director-ejecutivo",
       "title": "Nvidia restituye a Jensen Huang como presidente y director ejecutivo",
       "category": "Mundo",
@@ -147,11 +173,11 @@
       "slug": "un-empleado-de-anthropic-dice-haber-usado-la-ia-para-resolver-uno-de-los-mas-grandes-problemas-matematicos",
       "title": "Un empleado de Anthropic dice haber usado la IA para resolver uno de los más grandes problemas matemáticos",
       "category": "Ciencia",
-      "bullets_20s": "• La hipótesis de Riemann es un enigma matemático no resuelto que fascina a los expertos desde hace décadas.\n• El uso de IA en matemáticas abre nuevas posibilidades pero también plantea dilemas éticos interesantes.\n• Anthropic es una compañía reconocida por su desarrollo en inteligencia artificial avanzada y responsable.\n• La verificación de este hallazgo llevará tiempo y será objeto de atención en la comunidad matemática.\n• La IA tiene el potencial de transformar campos como la matemática, facilitando soluciones complejas.\n• Los matemáticos celebran el avance, pero se requiere un análisis riguroso antes de validar las afirmaciones.",
+      "bullets_20s": "• Un empleado de Anthropic ha anunciado el uso de la inteligencia artificial para resolver un antiguo enigma matemático.\n• La hipótesis de Riemann se considera uno de los problemas más importantes en la teoría de números.\n• La verificación de esta solución podría tardar tiempo, según expertos en la materia.\n• El avance en la IA ha generado nuevas posibilidades en la investigación matemática moderna.\n• Estudios previos de la hipótesis han sido extensos, pero no definitivos ni concluyentes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6n901zg7rylo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-23T11:32:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Un empleado de Anthropic usa IA para abordar un problema matemático histórico.",
+      "teaser": "Lo clave en 20 segundos: Un empleado de Anthropic usa IA para abordar un gran misterio matemático.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
       "description": "Un matemático de la compañía afirma haber utilizado Claude para demostrar la famosa hipótesis de Riemann, aunque la verificación llevará algún tiempo.",
       "featured": false
@@ -2565,11 +2591,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebró la graduación de 266 nuevos profesionales en Cartago.\n• El evento se realizó en dos ceremonias, con graduandos de diversas provincias del país.\n• Las carreras de ingeniería destacaron entre los nuevos titulados, con un gran número de graduados.\n• La rectora del TEC enfatizó la importancia de la educación pública para el desarrollo nacional.\n• Este año, el TEC celebra su 55 aniversario y 50 años de varias carreras emblemáticas.",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebró la graduación de 266 nuevos profesionales este 19 de noviembre.\n• Las ceremonias se llevaron a cabo en el Campus Tecnológico Central en Cartago, Costa Rica.\n• Casi la mitad de las personas graduadas obtuvo títulos de maestría, destacando varias áreas de estudio.\n• La rectora enfatizó el compromiso del TEC con la educación de calidad y el futuro del país.\n• Esteban González, un graduado, resaltó el esfuerzo detrás de cada título obtenido por los estudiantes.\n• La inclusión de estudiantes de diversas regiones refleja el alcance nacional del TEC en educación.\n• El TEC alcanza una posición destacada en rankings de universidades de América Latina y el Caribe.\n• Esta celebración coincide con el 55 aniversario de la institución y su impacto en el país.\n• El compromiso de los egresados es retribuir a la sociedad por la inversión realizada en su educación.\n• La graduación incluyó a un 42% de mujeres, destacando el avance en la equidad de género.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: 266 nuevos profesionales celebran su graduación en el TEC de Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: 266 nuevos profesionales celebran logros en el TEC de Costa Rica.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -3131,19 +3157,6 @@
       "teaser": "Lo clave en 20 segundos: Camilo Rodríguez envió videos justo antes de ser asesinado, lo cual ha sorprendido a muchos.",
       "image_url": "https://www.nacion.com/resizer/v2/KRFDGH3HKBHWPMI53AWZI3XFCY.JPG?auth=b62a58d7c68f37eac5c96d75d41907a49bc4d6a5665c6ba06f5903a52b84d6be&smart=true&width=3000&height=1687",
       "description": "Una hora antes de que Camilo Rodríguez fuera asesinado, envió a un empresario los últimos dos vídeos que pretendía publicar en sus redes sociales.",
-      "featured": false
-    },
-    {
-      "slug": "black-friday-en-la-nacion-ahorre-un-80-en-su-suscripcion-digital-anual",
-      "title": "‘Black Friday’ en ‘La Nación’: ahorre un 80% en su suscripción digital anual",
-      "category": "Costa Rica",
-      "bullets_20s": "• La Nación ofrece descuentos significativos en su suscripción digital durante Black Friday.\n• Este ahorro del 80% es una oportunidad para acceder a su contenido premium.\n• La promoción tiene una duración limitada, invitando a los lectores a aprovecharla.\n• Los suscriptores disfrutarán de noticias, análisis y reportajes sin costo adicional.\n• Ideal para aquellos que desean mantenerse informados de manera digital.",
-      "source_name": "Kevin Ruiz",
-      "source_url": "https://www.nacion.com/blogs/noticias-grupo-nacion/black-friday-en-la-nacion-ahorre-un-80-en-su/M4WFQAOPYVAEZD232BBGJNQZKI/story/",
-      "publish_date": "2026-11-18T22:00:13.000Z",
-      "teaser": "Lo clave en 20 segundos: Ahorre un 80% en la suscripción digital de La Nación por Black Friday.",
-      "image_url": "https://www.nacion.com/resizer/v2/MEOVQ7XTQVHWPJMRZPVH4FT3YY.png?auth=c695ec63d599afed51b1ed9821fa195bd072b2acceca7802909b9f3aa8730b3b&smart=true&width=1920&height=1080",
-      "description": "Ahorre un 80% este 'Black Friday' en la suscripción digital anual de 'La Nación'. Promoción por tiempo limitado para disfrutar de todo su contenido digital.",
       "featured": false
     },
     {
@@ -4951,6 +4964,19 @@
       "teaser": "Lo clave en 20 segundos: Estados Unidos podría perder su estatus de libre de sarampión por el aumento de casos.",
       "image_url": "https://www.nacion.com/resizer/v2/HEFO4765RRHDBN2THAH7ATLXR4.png?smart=true&auth=dfb896731d6ae8cb0a882d64f8983aa0670acfe33f1f54c38bd324291b506496&width=1440",
       "description": "Estados Unidos perdería su estatus de eliminación del sarampión tras registrar más de 5.000 casos en 2026. Conozca el alarmante panorama en Guatemala y México.",
+      "featured": false
+    },
+    {
+      "slug": "el-gigante-tecnologico-nvidia-reincorpora-a-jensen-huang-como-director-ejecutivo-11-dias-despues-de-su-renuncia",
+      "title": "El gigante tecnológico Nvidia reincorpora a Jensen Huang como director ejecutivo 11 días después de su renuncia",
+      "category": "Mundo",
+      "bullets_20s": "• Nvidia ha sido un actor clave en la industria de la inteligencia artificial en los últimos años.\n• La renuncia y posterior regreso de Jensen Huang ha sorprendido a analistas y mercados financieros.\n• Las acciones de Nvidia mostraron un notable aumento tras el anuncio de reintegración de Huang.\n• Este evento podría influir en las decisiones corporativas de empresas tecnológicas en todo el mundo.\n• La estabilidad del liderazgo en tecnología es crucial para mantener la confianza de los inversores.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cm4gnx691zp5o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-11-16T18:57:49.000Z",
+      "teaser": "Lo clave en 20 segundos: Nvidia restituye a Jensen Huang como CEO tras renuncia, impactando el mercado.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f8a0/live/f01ca330-e74e-11f1-88dc-f746e0cde621.jpg",
+      "description": "Las acciones del gigante de la inteligencia artificial se dispararon cerca de 30% tras el anuncio del regreso de Huang al inicio de la jornada bursátil.",
       "featured": false
     },
     {
@@ -140375,10 +140401,12 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-23T14:45:26.473Z",
-  "total": 10798,
-  "removed_soccer_news_count": 1679,
+  "generated_at": "2026-11-23T15:45:26.216Z",
+  "total": 10800,
+  "removed_soccer_news_count": 1681,
   "removed_soccer_news_titles": [
+    "Espí, la respuesta del Real Madrid para desatar partidos",
+    "Lamine Yamal será baja con el Barcelona en Champions",
     "Vivir la Primera Guerra Mundial desde Costa Rica: un libro que cuenta cómo fue la experiencia",
     "Douglas Sequeira, tras derrota: ‘Si jugamos así el sábado, el marcador puede ser muy abultado’",
     "Sporting venció y se mantiene en la lucha por el liderato",
@@ -140426,8 +140454,6 @@
     "Osael Maroto sobre Bryan Ruiz: ‘Es un fenómeno que une a todos en este país’",
     "Lionel Scaloni confirma el regreso de un figurón para enfrentar a la Selección de Costa Rica",
     "Selección de Amputados de Costa Rica clasificó a octavos de final tras empatar con Inglaterra en Copa Mundial",
-    "Clubes y Fedefútbol llegan a un acuerdo: las semifinales cambian de fecha por la Selección de Costa Rica",
-    "Diego Ardiles, campeón mundial de kartismo, participará en las Tres Horas de Costa Rica",
-    "Scaloni anuncia cambios en Argentina para enfrentar a la Selección de Costa Rica"
+    "Clubes y Fedefútbol llegan a un acuerdo: las semifinales cambian de fecha por la Selección de Costa Rica"
   ]
 }
