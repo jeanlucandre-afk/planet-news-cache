@@ -1,16 +1,42 @@
 {
   "news": [
     {
+      "slug": "corte-de-luz-del-ice-impactara-zona-de-guanacaste-este-miercoles-conozca-el-lugar-afectado",
+      "title": "Corte de luz del ICE impactará zona de Guanacaste este miércoles: conozca el lugar afectado",
+      "category": "Costa Rica",
+      "bullets_20s": "• El ICE realiza cortes de luz programados para mantener la calidad del servicio eléctrico.\n• Los trabajos de mantenimiento son esenciales para el sistema eléctrico costarricense.\n• Se recomienda preparar alternativas energéticas durante el corte programado.\n• La comunidad afectada deberá estar al tanto de los horarios establecidos.\n• Es importante seguir las indicaciones del ICE para evitar inconvenientes.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/el-pais/corte-de-luz-del-ice-impactara-zona-de-guanacaste/3VYVOBSUAJGSDHIGCCOP6667IY/story/",
+      "publish_date": "2026-11-23T21:21:05.000Z",
+      "teaser": "Lo clave en 20 segundos: corte de luz programado por el ICE en Guanacaste este miércoles.",
+      "image_url": "https://www.nacion.com/resizer/v2/PUZMMV264RFKLLTDU376GOUIHI.jpg?auth=8acdc05ee05f22b28cb7cafe78833657d618c84e58cc6befeb734d9cfae68d93&smart=true&width=2400&height=1350",
+      "description": "El Instituto Costarricense de Electricidad programó un corte de luz para este miércoles 25 de noviembre por trabajos de mantenimiento. Conozca la comunidad afectada y el horario previsto.",
+      "featured": false
+    },
+    {
+      "slug": "puede-llevar-un-arbol-de-navidad-en-el-techo-de-su-carro-esto-dice-la-policia-de-transito",
+      "title": "¿Puede llevar un árbol de Navidad en el techo de su carro? Esto dice la Policía de Tránsito",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Policía de Tránsito establece directrices claras para el transporte de árboles de Navidad.\n• Es importante asegurar correctamente el árbol en el vehículo para evitar accidentes.\n• Las multas pueden aplicarse si las directrices no se siguen adecuadamente.\n• Necesario revisar las dimensiones del árbol antes de transportarlo en el carro.\n• Además, se recomienda revisar la estabilidad del árbol fijado en el techo.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/el-pais/compro-un-arbol-de-navidad-natural-cuidado-con/VKT4F366OJB5NPYAHDMFAQW7SU/story/",
+      "publish_date": "2026-11-23T20:51:17.000Z",
+      "teaser": "Lo clave en 20 segundos: Reglas para transportar árboles de Navidad en carro según la Policía de Tránsito.",
+      "image_url": "https://www.nacion.com/resizer/v2/DWKDWVONPVFXHKAQCN4FDJEXFU.JPG?auth=8c10e6773f6b429ec6b42d1d9670957e2221ba4f87a0a385d658a42773cdb720&smart=true&width=3000&height=2000",
+      "description": "Si planea comprar un árbol de Navidad, conozca primero qué establece la Policía de Tránsito sobre su transporte en carros, las reglas de seguridad y la posible multa.",
+      "featured": false
+    },
+    {
       "slug": "agarre-el-cuchillo-cerre-los-ojos-y-trate-de-pegarle-al-cuerpo-imputado-por-asesinato-de-primos-de-heredia-detallo-su-pr",
       "title": "‘Agarré el cuchillo, cerré los ojos y traté de pegarle al cuerpo’: imputado por asesinato de primos de Heredia detalló su presunta participación",
       "category": "Costa Rica",
-      "bullets_20s": "• Un imputado describió su experiencia durante el trágico evento en un bar de Heredia.\n• Los hechos ocurrieron en la noche del 6 de febrero del 2025 en el bar Dude’s.\n• Los primos Carlos Alberto y Jorge Humberto Barboza fueron las víctimas del homicidio.\n• El relato fue compartido con un psicólogo como parte del proceso judicial.\n• El caso ha generado gran interés y preocupación en la comunidad de Heredia.",
+      "bullets_20s": "• El imputado describe su experiencia en un momento de violencia y confusión en el bar.\n• Se revelan detalles sobre los eventos que llevaron al asesinato en Heredia.\n• Las declaraciones se dieron en una sesión con un psicólogo especializado.\n• Los primos Barboza fueron víctima de un conflicto violentamente inesperado.\n• Se hace evidente la necesidad de abordar la violencia en el entorno social de Costa Rica.",
       "source_name": "Natalia Vargas",
       "source_url": "https://www.nacion.com/sucesos/agarre-el-cuchillo-cerre-los-ojos-y-trate-de/LK72FVEK4JHPFDUI5U6PLJUXYY/story/",
       "publish_date": "2026-11-23T20:18:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Un imputado revela detalles impactantes de un asesinato en Heredia.",
+      "teaser": "Lo clave en 20 segundos: Un imputado relata su participación en el asesinato de primos en Heredia.",
       "image_url": "https://www.nacion.com/resizer/v2/ZPWFW2EXSNHEHF4SGJSTTDGI7A.jpeg?auth=14c2d4467c204e5554d7db43ea5b302913938288b72833ecde474e81b511f29b&smart=true&width=4160&height=2728",
-      "description": "Uno de los imputados por el homicidio de los primos Carlos Alberto y Jorge Humberto Barboza (Bam Bam), relató a un psicólogo de apellido Vega los hechos ocurridos la noche del 6 de febrero del 2025 en el bar Dude’s, en Heredia.",
+      "description": "Uno de los imputados por el homicidio de los primos Carlos Alberto y Jorge Humberto Barboza relató los hechos ocurridos la noche del 6 de febrero.",
       "featured": false
     },
     {
@@ -55,13 +81,13 @@
     {
       "slug": "por-que-jensen-huang-es-demasiado-importante-como-para-que-nvidia-pudiera-despedirlo",
       "title": "Por qué Jensen Huang es demasiado importante como para que Nvidia pudiera despedirlo",
-      "category": "Mundo",
-      "bullets_20s": "• Jensen Huang ha sido fundamental en la evolución de Nvidia hacia la inteligencia artificial avanzada.\n• Su liderazgo ha posicionado a la empresa como un referente en el sector tecnológico global.\n• Cada estrategia implementada por Huang ha apuntado al desarrollo del potencial de la IA.\n• Los desafíos enfrentados por Nvidia reflejan la creciente competencia en la industria tecnológica.\n• Huang ha demostrado ser un innovador incansable, impulsando la investigación y desarrollo.",
+      "category": "Tecnología",
+      "bullets_20s": "• Jensen Huang ha transformado Nvidia en un líder mundial en el campo de la inteligencia artificial.\n• Su visión ha sido fundamental para el desarrollo de innovaciones disruptivas en tecnología.\n• Los despidos no son una opción viable considerando su impacto en la industria tecnológica.\n• Huang ha cultivado un entorno que fomenta la creatividad y el avance científico dentro de Nvidia.\n• El regreso de Huang refuerza la importancia del liderazgo en empresas de tecnología avanzada.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c9143kp61ldjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-23T18:40:21.000Z",
-      "teaser": "Lo clave en 20 segundos: el liderazgo de Huang ha revolucionado a Nvidia en la era de la inteligencia artificial.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/938d/live/58a5fb00-e762-11f1-a094-5fdc692f3e33.jpg",
+      "teaser": "Lo clave en 20 segundos: Jensen Huang, esencial para Nvidia, transforma la IA y la industria tecnológica.",
+      "image_url": "",
       "description": "El papel de Huang como pieza clave en la transformación de su empresa en un pilar fundamental de la IA resultó crucial para su regreso.",
       "featured": false
     },
@@ -185,12 +211,12 @@
     {
       "slug": "el-extraordinario-hallazgo-de-un-cementerio-de-osos-de-las-cavernas-que-se-extinguieron-hace-24000-anos",
       "title": "El extraordinario hallazgo de un cementerio de osos de las cavernas que se extinguieron hace 24.000 años",
-      "category": "Ciencia",
-      "bullets_20s": "• Un hallazgo arqueológico destaca la diversidad de fauna en la era de los osos de las cavernas.\n• Los esqueletos pueden proporcionar información valiosa sobre la extinción de especies antiguas.\n• La cueva fue inexplorada hasta ahora, revelando secretos inesperados sobre el pasado.\n• Investigadores utilizarán tecnología moderna para estudiar los restos encontrados.\n• Este descubrimiento podría cambiar lo que sabemos sobre los ecosistemas del pasado.",
+      "category": "Mundo",
+      "bullets_20s": "• Científicos descubren un cementerio de osos de las cavernas en los Dolomitas.\n• Esqueletos de osos de las cavernas fueron hallados en una cueva inexplorada.\n• El sitio data de hace aproximadamente 24,000 años, revelando un pasado antiguo.\n• Imágenes exclusivas dieron a conocer la magnitud del descubrimiento científico.\n• La investigación promete ofrecer más datos sobre la extinción de estas especies.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmq5vl3d603wo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-23T16:42:07.000Z",
-      "teaser": "Lo clave en 20 segundos: descubrimiento de una cueva con esqueletos de osos de las cavernas.",
+      "teaser": "Lo clave en 20 segundos: Hallan esqueletos de osos de las cavernas en una cueva de los Dolomitas.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/6dc5/live/8af6b990-e1c8-11f1-8776-ed07496d36d8.jpg",
       "description": "La BBC revela imágenes exclusivas del interior de una cueva previamente inexplorada en los Dolomitas, que contiene un tesoro de esqueletos de enormes osos de las cavernas extintos hace mucho tiempo.",
       "featured": false
@@ -406,12 +432,12 @@
     {
       "slug": "un-empleado-de-anthropic-dice-haber-usado-la-ia-para-resolver-uno-de-los-mas-grandes-problemas-matematicos",
       "title": "Un empleado de Anthropic dice haber usado la IA para resolver uno de los más grandes problemas matemáticos",
-      "category": "Mundo",
-      "bullets_20s": "• Un matemático de Anthropic revela avances en la resolución de problemas matemáticos complejos.\n• La famosa hipótesis de Riemann es uno de los problemas más importantes de las matemáticas.\n• La inteligencia artificial se ha utilizado para dar un paso en la verificación de la hipótesis.\n• Este logro podría cambiar la forma en que se abordan problemas matemáticos en el futuro.\n• Se espera que la verificación del resultado tome tiempo y rigor científico.",
+      "category": "Tecnología",
+      "bullets_20s": "• Un matemático de Anthropic usó inteligencia artificial para abordar la hipótesis de Riemann.\n• La hipótesis de Riemann es uno de los espacios más desafiantes en matemáticas modernas.\n• El uso de IA en matemáticas plantea nuevas oportunidades y desafíos interesantes.\n• La verificación de este resultado podría tomar un tiempo considerable, según los expertos.\n• Esto podría revolucionar la forma en que abordamos problemas matemáticos complejos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6n901zg7rylo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-23T11:32:45.000Z",
-      "teaser": "Lo clave en 20 segundos: Un empleado usa IA para avanzar en la resolución de la hipótesis de Riemann.",
+      "teaser": "Lo clave en 20 segundos: Un empleado de Anthropic usó IA para abordar la hipótesis de Riemann.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
       "description": "Un matemático de la compañía afirma haber utilizado Claude para demostrar la famosa hipótesis de Riemann, aunque la verificación llevará algún tiempo.",
       "featured": false
@@ -2825,11 +2851,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• Un total de 266 graduados reciben sus títulos en dos ceremonias en el TEC, Cartago.\n• Casi la mitad de los graduados optaron por maestrías en áreas como administración y tecnología.\n• Se celebran 55 años del TEC y 50 años de diversas carreras académicas ofrecidas.\n• La rectora destaca compromiso del TEC para ofrecer educación de calidad y subsidiada.\n• La graduación incluye a egresados de diversas regiones de Costa Rica, mostrando diversidad.",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebra la graduación de 266 nuevos profesionales en su campus central.\n• Cerca de la mitad de los graduados obtuvieron maestrías en diferentes áreas del conocimiento.\n• La ceremonia se dividió en dos actos con la participación de familiares y autoridades del TEC.\n• Este año, la institución celebra 55 años y destaca en rankings internacionales de educación superior.\n• El compromiso social de los egresados fue enfatizado durante los discursos de graduación.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: 266 nuevos profesionales celebran su graduación en el TEC, marcando un importante logro.",
+      "teaser": "Lo clave en 20 segundos: El TEC celebra con orgullo la graduación de 266 nuevos profesionales con esfuerzo y dedicación.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -140635,8 +140661,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-23T20:45:27.210Z",
-  "total": 10818,
+  "generated_at": "2026-11-23T21:45:26.472Z",
+  "total": 10820,
   "removed_soccer_news_count": 1682,
   "removed_soccer_news_titles": [
     "FIFA confirma una noticia histórica para el fútbol de Costa Rica",
