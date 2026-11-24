@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "diputados-aprueban-mocion-de-jose-miguel-villalobos-para-convocar-a-freddy-gonzalez-y-a-guobin-tam-para-que-expliquen-su",
+      "title": "Diputados aprueban moción de José Miguel Villalobos para convocar a Freddy González y a Guobin Tam, para que expliquen sus presuntos vínculos",
+      "category": "Costa Rica",
+      "bullets_20s": "• La moción busca esclarecer posibles vínculos con el narcotráfico en el ámbito electoral.\n• Freddy González y Guobin Tam deberán comparecer ante la comisión correspondiente.\n• El diputado José Miguel Villalobos fue el autor de la iniciativa aprobada.\n• Los diputados mostraron un respaldo unánime hacia esta moción vital.\n• Se espera que las explicaciones arrojen luz sobre las financiación irregular.",
+      "source_name": "Aarón Sequeira",
+      "source_url": "https://www.nacion.com/politica/diputados-aprueban-mocion-de-jose-miguel/KNSFNOWZSNGCLGPS4Z2D7B5BXI/story/",
+      "publish_date": "2026-11-24T01:34:17.000Z",
+      "teaser": "Lo clave en 20 segundos: Diputados convocan a Freddy González y Guobin Tam por vínculos con el narcotráfico.",
+      "image_url": "https://www.nacion.com/resizer/v2/TGUV65RJLFBLVF3LJ2DX54QO4Q.jpeg?auth=3e37b1b4c96f36387a65cbc91bc5398596e4af41cf1e4f42f72e01ccf4b3a631&smart=true&width=1600&height=971",
+      "description": "Moción del diputado oficialista fue aprobada de forma unánime en la comisión que investiga presuntos nexos del narcotráfico y el crimen organizado en el financiamiento electoral.",
+      "featured": false
+    },
+    {
+      "slug": "mep-se-pronuncia-tras-declaratoria-de-ilegalidad-de-huelga-del-11-de-noviembre-asi-procedera-con-los-funcionarios",
+      "title": "MEP se pronuncia tras declaratoria de ilegalidad de huelga del 11 de noviembre: así procederá con los funcionarios",
+      "category": "Costa Rica",
+      "bullets_20s": "• El MEP presenta su postura ante la reciente decisión judicial sobre la huelga de noviembre.\n• Los funcionarios deberán seguir ciertos procedimientos tras la declaratoria de ilegalidad.\n• La huelga del 11 de noviembre ha generado reacciones en el ámbito educativo nacional.\n• El proceso judicial relacionado continúa su curso, afectando a muchos trabajadores.\n• El MEP promete informar claramente sobre los pasos a seguir para los funcionarios.",
+      "source_name": "Silvia Ureña Corrales",
+      "source_url": "https://www.nacion.com/el-pais/mep-se-pronuncia-tras-declaratoria-de-ilegalidad/NVSYCVQHRRGT5ATADLSKQMWA5M/story/",
+      "publish_date": "2026-11-24T01:23:27.000Z",
+      "teaser": "Lo clave en 20 segundos: MEP reacciona a la ilegalidad de la huelga y detalla procedimientos para docentes.",
+      "image_url": "https://www.nacion.com/resizer/v2/5H3V3OBHTNH5RABDIMDY237YUE.jpeg?smart=true&auth=17557fce7414b504411a186fd53cd14fd6dcca2dd979b0452ba05f7674d8a520&width=1440",
+      "description": "El MEP explicó cómo procederá con los funcionarios tras la declaratoria de ilegalidad de la huelga del 11 de noviembre y los pasos pendientes del proceso judicial.",
+      "featured": false
+    },
+    {
       "slug": "oij-decomisa-412-kilos-de-cocaina-tras-accidente-de-transito-en-orotina",
       "title": "OIJ decomisa 412 kilos de cocaína tras accidente de tránsito en Orotina",
       "category": "Costa Rica",
@@ -121,11 +147,11 @@
       "slug": "la-cantante-irani-que-recibio-74-latigazos-por-actuar-en-youtube-sin-el-velo",
       "title": "La cantante iraní que recibió 74 latigazos por actuar en YouTube sin el velo",
       "category": "Mundo",
-      "bullets_20s": "• Parastoo Ahmadi y otros recibieron penas severas por actuar sin velo en un video.\n• La represión a artistas ha crecido en Irán, afectando la libertad de expresión.\n• YouTube se ha convertido en una plataforma relevante para músicos en todo el mundo.\n• Las leyes iraníes sobre el velo han sido objeto de controversia y debate internacional.\n• Organizaciones de derechos humanos condenan la severidad de las penas impuestas.\n• Irán enfrenta críticas por la falta de derechos culturales y humanos en el país.",
+      "bullets_20s": "• La artista Parastoo Ahmadi fue condenada por actuar sin el velo en un video.\n• La sentencia ha provocado indignación a nivel internacional y denuncias por derechos humanos.\n• Irán mantiene estrictas leyes sobre la vestimenta de las mujeres en público y en medios.\n• Los latigazos han sido considerados una forma extrema de juicio en el país persa.\n• Organizaciones de derechos humanos exigen la liberación de los condenados en este caso.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmly7qnw55z4o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-23T21:19:36.000Z",
-      "teaser": "Lo clave en 20 segundos: Actuación sin velo resulta en castigos severos en Irán.",
+      "teaser": "Lo clave en 20 segundos: Una cantante iraní enfrenta una severa condena por actuar sin velo.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg",
       "description": "Según sus abogados, Parastoo Ahmadi, tres músicos y un productor recibieron 74 latigazos en Qom.",
       "featured": false
@@ -198,12 +224,12 @@
     {
       "slug": "por-que-jensen-huang-es-demasiado-importante-como-para-que-nvidia-pudiera-despedirlo",
       "title": "Por qué Jensen Huang es demasiado importante como para que Nvidia pudiera despedirlo",
-      "category": "Tecnología",
-      "bullets_20s": "• Jensen Huang ha sido fundamental en el crecimiento y éxito de Nvidia en el sector de la IA.\n• Su liderazgo ha transformado a Nvidia en un referente dentro del ámbito tecnológico global.\n• Huang es reconocido por su visión pionera en la implementación de nuevas tecnologías.\n• El regreso de Huang destaca su importancia en la estrategia a largo plazo de Nvidia.\n• La empresa ha demostrado que su CEO es un activo invaluable para su futuro.",
+      "category": "Mundo",
+      "bullets_20s": "• Jensen Huang ha sido un líder visionario para Nvidia y el desarrollo de la inteligencia artificial.\n• La estrategia de Nvidia ha impulsado a la compañía a nuevas alturas en el sector tecnológico.\n• Huang ha sido fundamental en la creación de innovaciones que han cambiado la industria.\n• Las decisiones de liderazgo de Huang han tenido un impacto duradero en el mercado tecnológico global.\n• Nvidia se ha convertido en una referencia por su enfoque en inteligencia artificial y gráficos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c9143kp61ldjo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-23T18:40:21.000Z",
-      "teaser": "Lo clave en 20 segundos: Jensen Huang, un líder esencial para Nvidia y el futuro de la IA.",
+      "teaser": "Lo clave en 20 segundos: El papel de Jensen Huang es fundamental para el éxito de Nvidia en inteligencia artificial.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/938d/live/58a5fb00-e762-11f1-a094-5fdc692f3e33.jpg",
       "description": "El papel de Huang como pieza clave en la transformación de su empresa en un pilar fundamental de la IA resultó crucial para su regreso.",
       "featured": false
@@ -328,12 +354,12 @@
     {
       "slug": "el-extraordinario-hallazgo-de-un-cementerio-de-osos-de-las-cavernas-que-se-extinguieron-hace-24000-anos",
       "title": "El extraordinario hallazgo de un cementerio de osos de las cavernas que se extinguieron hace 24.000 años",
-      "category": "Ciencia",
-      "bullets_20s": "• Científicos descubren un cementerio de osos de las cavernas en los Dolomitas, datando hace 24,000 años.\n• El hallazgo incluye miles de esqueletos conservados que ofrecen nueva información sobre la especie.\n• La cueva había permanecido inexplorada, lo que hace más significativo el descubrimiento arqueológico.\n• Los osos de las cavernas eran gigantes y dominaban la fauna de su tiempo en Europa.\n• El estudio de estos restos puede revelar cómo vivieron y se extinguieron los osos de las cavernas.",
+      "category": "Mundo",
+      "bullets_20s": "• Descubrimiento de un cementerio de osos de las cavernas en los Dolomitas, impactante hallazgo arqueológico.\n• Esqueletos de osos de las cavernas datan de hace aproximadamente 24.000 años, un tesoro científico.\n• Imágenes exclusivas del interior de la cueva han sido reveladas, mostrando el contexto del hallazgo.\n• Los osos de las cavernas eran enormes, lo que brinda información sobre la fauna de la época glacial.\n• Este hallazgo contribuye al estudio de la extinción de especies y su relación con los humanos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmq5vl3d603wo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-23T16:42:07.000Z",
-      "teaser": "Lo clave en 20 segundos: descubrimiento arqueológico de un cementerio de osos de las cavernas en Dolomitas.",
+      "teaser": "Lo clave en 20 segundos: hallazgo de esqueletos de osos de las cavernas en Dolomitas, hace 24.000 años.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/6dc5/live/8af6b990-e1c8-11f1-8776-ed07496d36d8.jpg",
       "description": "La BBC revela imágenes exclusivas del interior de una cueva previamente inexplorada en los Dolomitas, que contiene un tesoro de esqueletos de enormes osos de las cavernas extintos hace mucho tiempo.",
       "featured": false
@@ -407,11 +433,11 @@
       "slug": "dos-hombres-en-mi-vida-como-un-accidente-de-trafico-me-enseno-nuevas-formas-de-amar",
       "title": "Dos hombres en mi vida: cómo un accidente de tráfico me enseñó nuevas formas de amar",
       "category": "Mundo",
-      "bullets_20s": "• Kris enfrentó un accidente automovilístico que cambió su perspectiva sobre el amor y las relaciones.\n• El viaje emocional de Kris refleja la complejidad de la conexión humana tras eventos trágicos.\n• Explora cómo el amor puede transformarse en diferentes formas y cómo encontrar nuevas maneras de amar.\n• Las experiencias de superación pueden ofrecer una nueva visión sobre lo que significa amar a alguien.\n• Kris aprende a valorar la vida y el amor desde una nueva ha perspectiva después del accidente.",
+      "bullets_20s": "• El amor puede adaptarse a las circunstancias difíciles y evolucionar con el tiempo.\n• Las relaciones requieren esfuerzo y creatividad frente a los desafíos inesperados.\n• Cómo afrontar la pérdida y redefinir lo que significa amar a alguien.\n• La historia muestra la importancia del apoyo emocional en tiempos de crisis.\n• El proceso de sanar y redescubrir el amor también puede ser terapéutico.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx4gnrrqm61jo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-23T14:45:43.000Z",
-      "teaser": "Lo clave en 20 segundos: El amor puede transformarse tras una tragedia, enseñando nuevas formas de amar.",
+      "teaser": "Lo clave en 20 segundos: Un accidente transformó el amor y desafío en la vida de una mujer.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/607a/live/72877a90-e356-11f1-acd4-25eaaa5def63.jpg",
       "description": "Brandon era el amor de la adolescencia de Kris y su \"Príncipe Azul\", pero cuando él sufrió un catastrófico accidente automovilístico, ella tuvo que encontrar una nueva forma de amarlo.",
       "featured": false
@@ -2981,11 +3007,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra la graduación de 266 nuevos profesionales, marcando un hito significativo en su historia.\n• Los graduados provienen de todas las provincias del país, reflejando la diversidad del TEC.\n• El evento se realizó en dos ceremonias en el Campus Tecnológico Central Cartago, en un ambiente festivo.\n• Casi la mitad de los graduados obtuvieron un posgrado, mostrando el compromiso con la educación avanzada.\n• La rectora destacó la importancia de la educación como una inversión estratégica para el desarrollo nacional.",
+      "bullets_20s": "• El Tecnológico de Costa Rica celebra la graduación de 266 nuevos profesionales de diversas disciplinas.\n• La ceremonia se llevó a cabo en Cartago, con conferencias y presentaciones de orquesta para los graduados.\n• Casi la mitad de los graduados obtuvieron títulos de maestría, destacando la calidad educativa del TEC.\n• Este evento marca 55 años de historia del TEC y un crecimiento significativo en sus programas académicos.\n• Se alienta a los graduados a contribuir a la sociedad, retribuyendo la inversión en su educación pública.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC celebra 266 nuevos graduados en un evento lleno de emoción y orgullo.",
+      "teaser": "Lo clave en 20 segundos: 266 nuevos profesionales del TEC celebran su graduación con orgullo y esfuerzo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -140791,10 +140817,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-24T01:45:26.361Z",
-  "total": 10830,
-  "removed_soccer_news_count": 1685,
+  "generated_at": "2026-11-24T02:45:26.684Z",
+  "total": 10832,
+  "removed_soccer_news_count": 1686,
   "removed_soccer_news_titles": [
+    "Estos canales de TV transmitirán la última jornada del fútbol de Costa Rica, con juegos simultáneos",
     "Defensor del Porto pide cambio después de un insólito autogol (video)",
     "Keylor Navas recordó cuando ‘tenía todo’, pero acepta que no era feliz",
     "¿Qué significa la imagen que usó FIFA para anunciar el Mundial 2031 en el que Costa Rica será sede?",
@@ -140843,7 +140870,6 @@
     "Y sigue la fiesta: Argentina ya marcó el quinto a la Selección de Costa Rica (video)",
     "Vea la alineación de Argentina para enfrentar a la Selección de Costa Rica",
     "Condenado un aficionado en España por insultos racistas contra Mbappé",
-    "Canadá fulmina a Guatemala y avanza al Final Four de la Nations League de Concacaf",
-    "Brasil se pasea ante Singapur con el primer triplete de Vinícius"
+    "Canadá fulmina a Guatemala y avanza al Final Four de la Nations League de Concacaf"
   ]
 }
