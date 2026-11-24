@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "slug": "kilmar-abrego-garcia-saldra-voluntariamente-de-estados-unidos-tras-20-meses-de-batalla-legal",
+      "title": "Kilmar Ábrego García saldrá voluntariamente de Estados Unidos tras 20 meses de batalla legal",
+      "category": "Mundo",
+      "bullets_20s": "• Kilmar Ábrego García ha concluido un largo proceso legal en Estados Unidos sobre su estatus migratorio.\n• Tras 20 meses de incertidumbre, Ábrego opta por regresar a su país de origen, El Salvador.\n• Se prevé que viaje primero a España antes de dirigirse hacia México en su nueva vida.\n• Costa Rica fue uno de los países que mostró disposición para acogerlo durante su proceso legal.\n• Este caso resalta la complejidad de los procesos migratorios en Estados Unidos y sus implicaciones.",
+      "source_name": "Fernando Chaves Espinach",
+      "source_url": "https://www.nacion.com/el-mundo/kilmar-abrego-garcia-saldra-voluntariamente-de/GILOF6QFEBHEDOBQFNRT6AGCQE/story/",
+      "publish_date": "2026-11-24T23:10:20.000Z",
+      "teaser": "Lo clave en 20 segundos: Kilmar Ábrego regresa tras batalla legal de 20 meses por su estatus migratorio.",
+      "image_url": "https://www.nacion.com/resizer/v2/OYXUTBWTO5HLVO3UBANOCPMLN4.jpg?smart=true&auth=2438607e7fbb4e7909ed24af0323e40e63991b96b2fcaf275245eea03153c47a&width=1440",
+      "description": "El salvadoreño viajará a España y después pretende trasladarse a México. Costa Rica estuvo entre los países que se ofrecieron a recibirlo durante el prolongado litigio sobre su deportación.",
+      "featured": false
+    },
+    {
       "slug": "como-registrarse-en-edus-de-la-ccss-paso-a-paso-para-crear-su-cuenta-en-linea",
       "title": "Cómo registrarse en EDUS de la CCSS: paso a paso para crear su cuenta en línea",
       "category": "Costa Rica",
@@ -17,11 +30,11 @@
       "slug": "hombres-armados-mantienen-decenas-de-rehenes-en-un-supermercado-en-colombia",
       "title": "Hombres armados mantienen decenas de rehenes en un supermercado en Colombia",
       "category": "Mundo",
-      "bullets_20s": "• Un intento de robo se tornó en una situación de rehenes en un supermercado colombiano.\n• Los hombres armados sorprendieron a clientes y empleados durante el evento.\n• Las autoridades locales están trabajando para resolver la situación de manera pacífica.\n• La Policía se encuentra en el lugar intentando negociar con los captores.\n• La población está preocupada por la seguridad en estos lugares públicos.",
+      "bullets_20s": "• Hombres armados ingresaron a un supermercado en Colombia, tomando rehenes entre clientes y empleados.\n• La situación se tornó crítica cuando la Policía llegó para frustrar un intento de robo.\n• Los detalles sobre los rehenes se mantienen en secreto por razones de seguridad.\n• El gobierno colombiano está evaluando la situación para gestionar la liberación de los rehenes.\n• Este evento resalta la preocupación creciente por la seguridad en entornos comerciales en el país.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cmx2rny0dn17o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-24T22:11:06.000Z",
-      "teaser": "Lo clave en 20 segundos: hombres armados toman rehenes en Colombia mientras intentan robar un supermercado.",
+      "teaser": "Lo clave en 20 segundos: hombres armados toman rehenes en un supermercado en Colombia.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f749/live/5902e0d0-e84e-11f1-aa88-031e8213533d.jpg",
       "description": "Según informó el gobierno, los hombres armados tomaron a los clientes y empleados del supermercado como rehenes, al ser sorprendidos por la Policía en medio de un intento de robo.",
       "featured": false
@@ -199,11 +212,11 @@
       "slug": "el-papa-francisco-revela-en-su-diario-que-vio-al-diablo-3-veces-asi-como-las-puertas-del-infierno",
       "title": "El papa Francisco revela en su diario que vio al diablo 3 veces, así como \"las puertas del infierno\"",
       "category": "Mundo",
-      "bullets_20s": "• El papa Francisco compartió visiones impactantes en su diario sobre encuentros con el diablo.\n• Una de las visiones ocurrió durante la misa, lo que generó gran interés en sus seguidores.\n• Los extractos del diario revelan una perspectiva única sobre su vida y creencias espirituales.\n• El contenido ha generado conversaciones sobre la fe y la percepción del mal en el mundo.\n• Los medios han reaccionado con curiosidad ante las revelaciones del difunto pontífice.",
+      "bullets_20s": "• El diario del papa Francisco revela momentos impactantes de su vida espiritual y visiones.\n• Se mencionan tres visiones del diablo que marcan la experiencia del pontífice.\n• Una de las visiones reportadas ocurrió durante una misa, en un momento de gran devoción.\n• Este tipo de comunicación refleja una lucha interna entre el bien y el mal.\n• Las puertas del infierno, según la visión, son un tema recurrente en su diario.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cm5y1p3e5knvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-24T17:21:17.000Z",
-      "teaser": "Lo clave en 20 segundos: El papa Francisco revela visiones impactantes sobre el diablo en su diario.",
+      "teaser": "Lo clave en 20 segundos: El papa Francisco comparte visiones impactantes en su diario.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/6bfc/live/e3f9d920-e7f2-11f1-ab60-79086b6495b8.jpg",
       "description": "Según extractos publicados del diario del difunto pontífice, una de las visiones tuvo lugar \"en el coro\" durante la misa.",
       "featured": false
@@ -238,11 +251,11 @@
       "slug": "las-lecciones-que-el-regreso-de-jensen-huang-a-nvidia-le-ensena-a-xi-jinping-sobre-como-tratar-a-trump",
       "title": "Las lecciones que el regreso de Jensen Huang a Nvidia le enseña a Xi Jinping sobre cómo tratar a Trump",
       "category": "Mundo",
-      "bullets_20s": "• Jensen Huang regresa a Nvidia en un momento crucial para la industria tecnológica global.\n• La relación entre Huawei y la tecnología estadounidense sigue siendo tensa y complicada.\n• Xi Jinping observa de cerca cómo se mueve Huang en el panorama empresarial actual.\n• Las estrategias de negociación entre líderes políticos y empresariales son más importantes que nunca.\n• Nvidia está en el centro del debate sobre tecnología y regulaciones internacionales.",
+      "bullets_20s": "• El regreso de Jensen Huang a Nvidia puede tener repercusiones políticas a nivel global.\n• Xi Jinping podría aprender de la gestión de Huang para abordar diplomáticamente a Trump.\n• Las tensiones entre Estados Unidos y China siguen influyendo en el sector tecnológico.\n• Las relaciones diplomáticas son cruciales para el desarrollo de empresas tecnológicas ahora.\n• Huang ha demostrado liderazgo efectivo en momentos decididos para la empresa Nvidia.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cr930kp5eq12o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-24T16:48:51.000Z",
-      "teaser": "Lo clave en 20 segundos: Las lecciones de Huang para la relación entre Trump y Xi Jinping.",
+      "teaser": "Lo clave en 20 segundos: Huang y sus lecciones para Jinping sobre relaciones con Trump.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/f9c2/live/cc0c8590-e826-11f1-93d4-6d580946ad80.jpg",
       "description": "El regreso de Huang al frente de Nvidia no garantiza ningún alivio para Pekín, pero si le da pistas sobre cómo tratar a Trump.",
       "featured": false
@@ -336,19 +349,6 @@
       "teaser": "Lo clave en 20 segundos: Senegal recupera el título de la Copa de África tras fallo del TAS.",
       "image_url": "https://www.nacion.com/resizer/v2/7CEEY5BSB5GP7G4WEJBXOX5SGU.jpg?smart=true&auth=5827054edd93c644ff52d8e82f31205b2ac8ecd3436cea091d3ab134afa0862e&width=1440",
       "description": "La justicia deportiva falló a favor de Senegal en el insólito caso de la Copa de África que se terminó resolviendo en la mesa.",
-      "featured": false
-    },
-    {
-      "slug": "pequenos-grandes-oradores-el-tec-lleva-la-oratoria-a-las-aulas-rurales-de-cartago",
-      "title": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
-      "category": "Costa Rica",
-      "bullets_20s": "• Diecinueve docentes aprendieron técnicas de oratoria para mejorar la expresión oral de sus estudiantes.\n• El proyecto se enfoca en atender las dificultades comunicativas desde las escuelas rurales.\n• Las sesiones incluyen prácticas sobre voz, gestos y la estructura de una presentación efectiva.\n• El taller busca que los estudiantes enfrenten públicos y expresen sus ideas con confianza.\n• Los docentes valoran la importancia de desarrollar habilidades comunicativas desde temprana edad.",
-      "source_name": "m.molina",
-      "source_url": "http://www.tec.ac.cr/pequenos-grandes-oradores-tec-lleva-oratoria-aulas-rurales-cartago",
-      "publish_date": "2026-11-24T15:07:47.000Z",
-      "teaser": "Lo clave en 20 segundos: el TEC impulsa la oratoria en aulas rurales de Cartago.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_20251031_143128.jpg",
-      "description": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
       "featured": false
     },
     {
@@ -537,11 +537,11 @@
       "slug": "como-un-adolescente-aficionado-a-los-videojuegos-y-su-madre-ayudaron-a-rescatar-a-una-chica-que-llevaba-mas-de-un-ano-de",
       "title": "Cómo un adolescente aficionado a los videojuegos y su madre ayudaron a rescatar a una chica que llevaba más de un año desaparecida",
       "category": "Mundo",
-      "bullets_20s": "• Un adolescente de 16 años utilizó un videojuego en línea para conocer a una chica desaparecida.\n• Su madre se unió a su búsqueda, mostrando la importancia del apoyo familiar en estas situaciones.\n• Esta historia destaca cómo los videojuegos pueden servir como herramientas valiosas para ayudar a otros.\n• El adolescente y su madre contactaron al FBI para compartir la información crucial que tenían.\n• El rescate revela los peligros que enfrentan los jóvenes en el mundo digital y la importancia de la vigilancia.",
+      "bullets_20s": "• Un adolescente conoció a una chica en un videojuego y descubrió su situación preocupante.\n• La historia destaca el papel de los videojuegos en la conexión y la ayuda mutua.\n• La madre del adolescente se involucró en la situación, mostrando apoyo y valentía.\n• El rescate fue realizado con la cooperación del FBI, destacando la importancia de la tecnología.\n• Este caso resalta los riesgos de los secuestros en línea y su impacto en los jóvenes.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6lywgreg77lo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-24T11:20:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Un videojuego llevó a un adolescente y su madre a ayudar en un rescate.",
+      "teaser": "Lo clave en 20 segundos: Un adolescente y su madre ayudaron al FBI a rescatar a una chica desaparecida.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3e06/live/d8778490-e503-11f1-9e2f-7fb5281f0b3c.jpg",
       "description": "Luego de que Landon Tresp, de 16 años, conociera a una adolescente en un juego en línea, él y su madre terminaron ayudando al FBI a rescatarla de un secuestro.",
       "featured": false
@@ -703,6 +703,19 @@
       "featured": false
     },
     {
+      "slug": "funcionarios-del-tec-destacan-por-su-liderazgo-en-el-xii-simposio-internacional-de-icacit-en-chile",
+      "title": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC fue representado por dos funcionarios en un importante simposio en Chile.\n• La Dra. Mónica Hernández Campos destacó en analítica curricular como conferencista.\n• El Ing. Víctor J. Hernández González evaluó ponencias como Revisor Internacional.\n• El evento es clave en la acreditación de programas de ingeniería en América Latina.\n• Cinco expositores costarricenses participaron en el simposio con proyectos estudiantiles.",
+      "source_name": "nchinchilla",
+      "source_url": "http://www.tec.ac.cr/funcionarios-tec-destacan-su-liderazgo-xii-simposio-internacional-icacit-chile",
+      "publish_date": "2026-11-24T03:39:58.000Z",
+      "teaser": "Lo clave en 20 segundos: el TEC brilla en simposio internacional, destacando en innovación y educación.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/con-don-olman-y-monica.jpeg",
+      "description": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
+      "featured": false
+    },
+    {
       "slug": "acciones-de-nvidia-de-trump-habrian-aumentado-hasta-15-millones-en-valor-tras-repunte-en-bolsa-calcula-financial-times",
       "title": "Acciones de Nvidia de Trump habrían aumentado hasta $15 millones en valor tras repunte en bolsa, calcula ‘Financial Times’",
       "category": "Mundo",
@@ -752,6 +765,19 @@
       "teaser": "Lo clave en 20 segundos: Un accidente llevó al OIJ a decomisar 412 kilos de cocaína en Orotina.",
       "image_url": "https://www.nacion.com/resizer/v2/5BYKT4CQPBC5ZC7CNHNTVX77QE.jpeg?auth=a84db1f49aaf9dbf99f36e73cb75ea4d56e693dd1c900d77036650c58fa8fc3d&smart=true&width=900&height=1600",
       "description": "Un accidente de tránsito en San Jerónimo de Orotina llevó a agentes del Organismo de Investigación Judicial (OIJ) a incautar 412 kilogramos de cocaína que estaban ocultos dentro de uno de los vehículos involucrados.",
+      "featured": false
+    },
+    {
+      "slug": "pequenos-grandes-oradores-el-tec-lleva-la-oratoria-a-las-aulas-rurales-de-cartago",
+      "title": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
+      "category": "Costa Rica",
+      "bullets_20s": "• Diecinueve maestros han sido capacitados en técnicas de oratoria para ayudar a sus estudiantes.\n• El proyecto busca mejorar habilidades de comunicación en alumnos de escuelas rurales.\n• Los talleres se centran en la expresión oral y escrita desde la primaria.\n• Se han identificado vacíos en la educación que afectan la comunicación efectiva.\n• El TEC pretende replicar el modelo en más comunidades educativas de Costa Rica.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/pequenos-grandes-oradores-tec-lleva-oratoria-aulas-rurales-cartago",
+      "publish_date": "2026-11-24T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: el TEC capacita a maestros en oratoria para mejorar la comunicación en aulas rurales.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_20251031_143128.jpg",
+      "description": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
       "featured": false
     },
     {
@@ -817,19 +843,6 @@
       "teaser": "Lo clave en 20 segundos: La UE busca sancionar a los atletas rusos para evitar la propaganda política.",
       "image_url": "https://www.nacion.com/resizer/v2/RWSG3C4OGREVRGH74BGPUD3GVE.jpg?smart=true&auth=3c9f09c914a148665d876f0cd2441e5690a6c91afe1522ae92b1e1337782512e&width=1440",
       "description": "En la UE pretenden evitar que Rusia utilice sus delegaciones deportivas como instrumentos de propaganda, en medio de las tensiones por la invasión a Ucrania.",
-      "featured": false
-    },
-    {
-      "slug": "funcionarios-del-tec-destacan-por-su-liderazgo-en-el-xii-simposio-internacional-de-icacit-en-chile",
-      "title": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
-      "category": "Costa Rica",
-      "bullets_20s": "• La Dra. Mónica Hernández Campos fue conferencista principal sobre analítica curricular en el simposio.\n• El Ing. Víctor J. Hernández González participó como Revisor Internacional de ponencias científicas del evento.\n• El encuentro se enfocó en la acreditación de educación en ingeniería y computación a nivel internacional.\n• Cinco invitados costarricenses presentaron proyectos y charlas sobre innovación educativa durante el simposio.\n• Los participantes discutieron sobre la importancia de la mejora continua en la formación profesional.",
-      "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/funcionarios-tec-destacan-su-liderazgo-xii-simposio-internacional-icacit-chile",
-      "publish_date": "2026-11-23T21:39:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Dos funcionarios del TEC se destacaron en el simposio internacional sobre educación en ingeniería.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/con-don-olman-y-monica.jpeg",
-      "description": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
       "featured": false
     },
     {
@@ -3709,11 +3722,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra la graduación de 266 profesionales en dos ceremonias en Cartago.\n• Casi la mitad de los graduados alcanzó una maestría, y dos obtuvieron un doctorado.\n• La ceremonia destaca el compromiso de la institución con la educación de calidad.\n• Este año, el TEC celebra 55 años formando profesionales en diversas áreas.\n• El Tecnológico se ubica entre las mejores universidades de América Latina en rankings.",
+      "bullets_20s": "• El TEC celebra la graduación de 266 nuevos profesionales, con actos en Cartago.\n• Familias, docentes y autoridades conmemoraron el esfuerzo de los graduados en cada paso.\n• Casi la mitad de la nueva generación obtuvo una maestría y dos doctorados este año.\n• El TEC cumple 55 años, destacando su compromiso con la educación de calidad y actualizada.\n• Los graduados vienen de todas las provincias, mostrando el alcance nacional de la institución.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: 266 nuevos profesionales se gradúan del TEC, destacando su esfuerzo y compromiso.",
+      "teaser": "Lo clave en 20 segundos: El TEC celebra 266 graduados en un evento emocionante en Cartago.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -141519,10 +141532,11 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-24T22:45:26.644Z",
-  "total": 10886,
-  "removed_soccer_news_count": 1692,
+  "generated_at": "2026-11-24T23:45:26.966Z",
+  "total": 10887,
+  "removed_soccer_news_count": 1693,
   "removed_soccer_news_titles": [
+    "City y Nápoles firman tablas en duelo de Champions entre equipos en crisis",
     "Sicario interrumpió partido en Desamparados para asesinar a jugador",
     "Sporting vs. Puntarenas FC: Solo hay una forma de ver este partido y es muy distinta a lo habitual",
     "Cartaginés vs. Pérez Zeledón: Hora y canal para ver este partido que ilusiona a los brumosos",
@@ -141571,7 +141585,6 @@
     "La Selección de Costa Rica jugará ante un equipo del Caribe el repechaje para la Copa Oro",
     "Tráfico mundial de la cocaína se afianza en nuevo centro neurálgico: el oeste de África",
     "Inter San Carlos vs. Sporting: Día, hora y canal para ver este partido",
-    "Escorpiones vs. San Carlos: Solo hay una manera de ver este partido",
-    "Jugadores de Argentina cuentan por qué querían ganar como lo hicieron ante la Selección de Costa Rica"
+    "Escorpiones vs. San Carlos: Solo hay una manera de ver este partido"
   ]
 }
