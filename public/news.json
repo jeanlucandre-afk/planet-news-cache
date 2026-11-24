@@ -1,16 +1,81 @@
 {
   "news": [
     {
+      "slug": "schneider-electric-la-competitividad-ya-no-depende-de-tener-mas-energia-depende-de-gestionarla-mas-inteligentemente",
+      "title": "Schneider Electric: “La competitividad ya no depende de tener más energía, depende de gestionarla más inteligentemente",
+      "category": "Tecnología",
+      "bullets_20s": "• La gestión inteligente de la energía es clave para la competitividad en el sector energético.\n• Los avances en inteligencia artificial están cambiando la forma de gestionar la energía.\n• La sostenibilidad se ha convertido en un objetivo primordial para las empresas energéticas.\n• Los centros de datos juegan un papel crucial en la transformación del sector energético.\n• Luis D'Acosta comparte su visión sobre los retos de la región en esta nueva era energética.",
+      "source_name": "Andrea Mora Zamora",
+      "source_url": "https://www.nacion.com/brandvoice/schneider-electric-la-competitividad-ya-no-depende/N2SQLWZW35EZ7JVSHMPRGMN5KA/story/",
+      "publish_date": "2026-11-24T16:21:48.000Z",
+      "teaser": "Lo clave en 20 segundos: La sostenibilidad y la gestión inteligente son esenciales para la competitividad en energía.",
+      "image_url": "https://www.nacion.com/resizer/v2/UCL75O36RFABFBYJL7YDN5IZ2M.JPG?auth=0f1ae02fe03cdc735426617f36a0331c943773dfc0c415a9e68824d2d8d136e2&smart=true&width=6048&height=4032",
+      "description": "La IA, los centros de datos y la sostenibilidad están transformando el sector energético: Luis D’Acosta, presidente y CEO de Schneider Electric para México y Centroamérica, analiza los retos y las oportunidades para la región.",
+      "featured": false
+    },
+    {
+      "slug": "el-papa-francisco-relato-en-su-diario-que-vio-al-diablo-no-olvidare-sus-ojos-amenazantes",
+      "title": "El papa Francisco relató en su diario que vio al diablo: ‘No olvidaré sus ojos amenazantes’",
+      "category": "Mundo",
+      "bullets_20s": "• El papa Francisco narra visiones que impactaron su vida espiritual y mental durante sus años de pontificado.\n• Su diario espiritual menciona encuentros con el diablo, evidenciando la lucha entre el bien y el mal.\n• Las visiones se dan en un contexto de reflexión sobre la vida y la muerte del pontífice.\n• El contenido del diario aporta un enfoque único sobre las creencias del papa Francisco en el más allá.\n• Este libro ha generado interés entre los seguidores y críticos de la Iglesia Católica en todo el mundo.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/el-papa-francisco-relato-en-su-diario-que-vio-al/UK7V74OIRNBVDF5STEWOF3XMSI/story/",
+      "publish_date": "2026-11-24T15:45:15.000Z",
+      "teaser": "Lo clave en 20 segundos: El papa Francisco revela visiones del diablo en su diario espiritual.",
+      "image_url": "https://www.nacion.com/resizer/v2/Y3S2HDLCCBFEPOG2ZAKQGRHOUU.jpg?auth=1e36ec73ad039406425dcd17f0903f775362bd832a0186c114374510eb02ea06&smart=true&width=3126&height=2149",
+      "description": "El libro El diario espiritual del papa Francisco revela que el fallecido pontífice vio al diablo tres veces y divisó las puertas del Infierno antes de morir en 2025.",
+      "featured": false
+    },
+    {
+      "slug": "superluna-del-castor-hoy-como-y-a-que-hora-ver-el-fenomeno-mas-grande-y-brillante-de-este-24-de-noviembre",
+      "title": "Superluna del Castor hoy: cómo y a qué hora ver el fenómeno más grande y brillante de este 24 de noviembre",
+      "category": "Ciencia",
+      "bullets_20s": "• La superluna del Castor es un evento astronómico notable en el cielo nocturno.\n• Este fenómeno ocurre cuando la luna llena está más cerca de la Tierra.\n• Los astrónomos recomiendan observarla en lugares oscuros para mejor visibilidad.\n• Se puede apreciar la superluna de manera impresionante desde cualquier ubicación clara.\n• Es un fenómeno que atrae tanto a aficionados como a profesionales de la astronomía.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/ciencia/superluna-del-castor-en-costa-rica-hoy-como-y-a/LJH6G75PS5FSPFU62VLTD37YEI/story/",
+      "publish_date": "2026-11-24T15:43:54.000Z",
+      "teaser": "Lo clave en 20 segundos: La superluna del Castor será visible hoy con gran brillo y tamaño.",
+      "image_url": "https://www.nacion.com/resizer/v2/VD6YIPS5PVBU7F2IYT6LASP5UY.JPG?auth=c60b9086125846ec667632f28c7dc6dbf6029dbb76614943b2a998af48789b91&smart=true&width=4500&height=2999",
+      "description": "Conozca los detalles de la superluna de este martes 24 de noviembre. El fenómeno permite observarla más grande y brillante.",
+      "featured": false
+    },
+    {
+      "slug": "por-que-no-deberia-perderse-esta-obra-de-mahler-con-la-orquesta-sinfonica-nacional-una-guia-para-la-resurreccion",
+      "title": "¿Por qué no debería perderse esta obra de Mahler con la Orquesta Sinfónica Nacional? Una guía para la ‘Resurrección’",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Segunda Sinfonía de Mahler es conocida como la 'Resurrección', una obra maestra sinfónica.\n• La Orquesta Sinfónica Nacional ofrecerá dos presentaciones en el Teatro Nacional de Costa Rica.\n• Esta obra combina elementos orquestales y corales, creando una experiencia única en vivo.\n• Mahler explora temas de vida, muerte y redención, resonando profundamente con el público.\n• Los músicos ensayan arduamente para interpretar esta compleja y emotiva sinfonía.",
+      "source_name": "Fernando Chaves Espinach",
+      "source_url": "https://www.nacion.com/ancora/por-que-no-deberia-perderse-esta-obra-de-mahler/G2SFTARUBRCZTOLFA3XKEQ52AI/story/",
+      "publish_date": "2026-11-24T15:29:17.000Z",
+      "teaser": "Lo clave en 20 segundos: la Orquesta Sinfónica Nacional interpretará Mahler en el Teatro Nacional, no te lo pierdas.",
+      "image_url": "https://www.nacion.com/resizer/v2/QJ2SNAQW4VDLLN43G24ZURQ5HY.jpeg?auth=1c66a327ceaab0c54211ba20bb838d124501090162dd12d0dafa2ce74454b0fb&smart=true&width=4096&height=2730",
+      "description": "La Orquesta Sinfónica Nacional interpretará la Segunda Sinfonía de Gustav Mahler en el Teatro Nacional el 27 y 29 de noviembre. Conozca la historia de esta obra.",
+      "featured": false
+    },
+    {
       "slug": "el-papa-francisco-revela-en-su-diario-que-vio-al-diablo-3-veces-asi-como-las-puertas-del-infierno",
       "title": "El papa Francisco revela en su diario que vio al diablo 3 veces, así como \"las puertas del infierno\"",
       "category": "Mundo",
-      "bullets_20s": "• El diario del papa Francisco comparte experiencias espirituales impactantes y reveladoras.\n• Se mencionan tres visiones de Satanás que inquietaron profundamente al pontífice.\n• Una de las visiones ocurrió durante una misa, en un momento de reflexión.\n• Las puertas del infierno se describen como un concepto aterrador pero fascinante.\n• El contenido del diario ha generado un gran interés entre historiadores y fieles.",
+      "bullets_20s": "• El papa Francisco menciona en su diario encuentros con lo que describe como el diablo.\n• Las visiones ocurrieron en contextos significativos como durante ceremonias religiosas.\n• Extractos del diario fueron divulgados recientemente, revelando reflexiones profundas.\n• Estas experiencias pueden generar discusión sobre fe y espiritualidad en el catolicismo.\n• La comunidad religiosa espera que estas revelaciones impacten el entendimiento contemporáneo de la fe.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cm5y1p3e5knvo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-24T15:28:04.000Z",
-      "teaser": "Lo clave en 20 segundos: el papa Francisco comparte visiones del diablo en su diario personal.",
+      "teaser": "Lo clave en 20 segundos: El papa Francisco relata visiones extraordinarias en su diario privado.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/6bfc/live/e3f9d920-e7f2-11f1-ab60-79086b6495b8.jpg",
       "description": "Según extractos publicados del diario del difunto pontífice, una de las visiones tuvo lugar \"en el coro\" durante la misa.",
+      "featured": false
+    },
+    {
+      "slug": "pueblo-soberano-sella-recomendacion-para-ratificar-a-cinthya-zapata-comisionada-propietaria-de-coprocom",
+      "title": "Pueblo Soberano sella recomendación para ratificar a Cinthya Zapata comisionada propietaria de Coprocom",
+      "category": "Costa Rica",
+      "bullets_20s": "• Pueblo Soberano se pronunció a favor de la ratificación de Cinthya Zapata en Coprocom.\n• El Plenario cuenta con un plazo de 30 días para tomar una decisión al respecto.\n• Zapata es una figura reconocida en el ámbito de la defensa del consumidor.\n• La recomendación de Pueblo Soberano es un paso clave en el proceso.\n• Este nombramiento tiene implicaciones importantes para la regulación del mercado.",
+      "source_name": "Juan Fernando Lara Salas",
+      "source_url": "https://www.nacion.com/el-pais/pueblo-soberano-sella-recomendacion-para-ratificar/K27CIJJWWVDHLGI7DGLZDB4WLQ/story/",
+      "publish_date": "2026-11-24T15:24:25.000Z",
+      "teaser": "Lo clave en 20 segundos: Pueblo Soberano apoya ratificación de Cinthya Zapata en Coprocom.",
+      "image_url": "https://www.nacion.com/resizer/v2/C4IWUPH67JCNJM2CD44O3TXNNM.JPG?smart=true&auth=33e01044ebd111165274166ff81439e0f557a627f18024f12db4eae108c5f7db&width=1440",
+      "description": "Con el expediente recibido el 6 de noviembre pasado, el Plenario dispone de 30 días naturales para ratificar u objetar el nombramiento",
       "featured": false
     },
     {
@@ -43,11 +108,11 @@
       "slug": "pequenos-grandes-oradores-el-tec-lleva-la-oratoria-a-las-aulas-rurales-de-cartago",
       "title": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC implementa un taller de oratoria para docentes de escuelas rurales en Cartago.\n• Diecinueve maestros aprendieron técnicas para mejorar la expresión oral de sus estudiantes.\n• El programa busca abordar la falta de habilidades comunicativas desde la educación básica.\n• Las sesiones incluyen formación en vocalización, dicción y estructura del discurso.\n• Los estudiantes de la universidad también participan para aportar en este desarrollo educativo.",
+      "bullets_20s": "• El TEC implementa un taller para enseñar oratoria a docentes en escuelas rurales de Cartago.\n• Diecinueve maestros y maestras aprenden a mejorar la expresión oral de sus estudiantes.\n• Los talleres buscan motivar a los estudiantes a comunicarse con seguridad y confianza.\n• El proyecto surge para abordar la falta de habilidades de comunicación en estudiantes.\n• Se enfocan en capacitar a los docentes para que puedan replicar lo aprendido.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/pequenos-grandes-oradores-tec-lleva-oratoria-aulas-rurales-cartago",
       "publish_date": "2026-11-24T15:07:47.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC capacita a docentes en oratoria para mejorar la comunicación en aulas rurales.",
+      "teaser": "Lo clave en 20 segundos: el TEC capacita a docentes de Cartago en oratoria para mejorar la comunicación de sus estudiantes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_20251031_143128.jpg",
       "description": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
       "featured": false
@@ -225,11 +290,11 @@
       "slug": "como-un-adolescente-aficionado-a-los-videojuegos-y-su-madre-ayudaron-a-rescatar-a-una-chica-que-llevaba-mas-de-un-ano-de",
       "title": "Cómo un adolescente aficionado a los videojuegos y su madre ayudaron a rescatar a una chica que llevaba más de un año desaparecida",
       "category": "Mundo",
-      "bullets_20s": "• Un adolescente aficionado a los videojuegos hizo una conexión especial en línea con una joven desaparecida.\n• La historia destaca cómo el gaming puede tener un impacto positivo en situaciones críticas y peligrosas.\n• El trabajo conjunto entre el adolescente y su madre resultó decisivo para el rescate de la joven.\n• Esta experiencia resalta la importancia de la comunicación digital en la sociedad moderna.\n• Los videojuegos pueden ser más que entretenimiento; pueden ayudar a salvar vidas en circunstancias extremas.",
-      "source_name": "",
+      "bullets_20s": "• Un adolescente conoció a una chica en un videojuego y la ayudó a ser rescatada.\n• El joven y su madre colaboraron con las autoridades para localizar a la desaparecida.\n• La experiencia destaca cómo los juegos en línea pueden tener un impacto real.\n• Historias de rescate como esta son raras pero noticias que inspiran esperanza.\n• El uso de la tecnología en casos de secuestro muestra avances significativos.",
+      "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6lywgreg77lo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-24T11:20:28.000Z",
-      "teaser": "Lo clave en 20 segundos: Un adolescente y su madre ayudan a rescatar a una chica desaparecida gracias a los videojuegos.",
+      "teaser": "Lo clave en 20 segundos: Un joven, su madre y un rescate admirable.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3e06/live/d8778490-e503-11f1-9e2f-7fb5281f0b3c.jpg",
       "description": "Luego de que Landon Tresp, de 16 años, conociera a una adolescente en un juego en línea, él y su madre terminaron ayudando al FBI a rescatarla de un secuestro.",
       "featured": false
@@ -391,19 +456,6 @@
       "featured": false
     },
     {
-      "slug": "funcionarios-del-tec-destacan-por-su-liderazgo-en-el-xii-simposio-internacional-de-icacit-en-chile",
-      "title": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
-      "category": "Costa Rica",
-      "bullets_20s": "• La Dra. Mónica Hernández participó como conferencista principal en el simposio internacional.\n• El Ing. Víctor J. Hernández actuó como Revisor Internacional de ponencias científicas en el evento.\n• El simposio se realizó en la Universidad Católica de Chile, promoviendo calidad en educación.\n• Cinco panelistas costarricenses compartieron sus experiencias y proyectos estudiantiles innovadores.\n• Hernández Campos destacó la importancia de evaluar el aprendizaje en programas académicos.",
-      "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/funcionarios-tec-destacan-su-liderazgo-xii-simposio-internacional-icacit-chile",
-      "publish_date": "2026-11-24T03:39:58.000Z",
-      "teaser": "Lo clave en 20 segundos: Funcionarios del TEC brillan en ICACIT 2026 abordando innovación y educación.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/con-don-olman-y-monica.jpeg",
-      "description": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
-      "featured": false
-    },
-    {
       "slug": "acciones-de-nvidia-de-trump-habrian-aumentado-hasta-15-millones-en-valor-tras-repunte-en-bolsa-calcula-financial-times",
       "title": "Acciones de Nvidia de Trump habrían aumentado hasta $15 millones en valor tras repunte en bolsa, calcula ‘Financial Times’",
       "category": "Mundo",
@@ -518,6 +570,19 @@
       "teaser": "Lo clave en 20 segundos: La UE busca sancionar a los atletas rusos para evitar la propaganda política.",
       "image_url": "https://www.nacion.com/resizer/v2/RWSG3C4OGREVRGH74BGPUD3GVE.jpg?smart=true&auth=3c9f09c914a148665d876f0cd2441e5690a6c91afe1522ae92b1e1337782512e&width=1440",
       "description": "En la UE pretenden evitar que Rusia utilice sus delegaciones deportivas como instrumentos de propaganda, en medio de las tensiones por la invasión a Ucrania.",
+      "featured": false
+    },
+    {
+      "slug": "funcionarios-del-tec-destacan-por-su-liderazgo-en-el-xii-simposio-internacional-de-icacit-en-chile",
+      "title": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Dra. Mónica Hernández Campos fue conferencista principal en el XII Simposio Internacional de ICACIT en Chile.\n• El Ing. Víctor J. Hernández González fue Revisor Internacional de ponencias en el mismo encuentro internacional.\n• El simposio se enfocó en la calidad de la educación en ingeniería y computación en América Latina.\n• Cinco invitados costarricenses participaron, incluyendo expositores de proyectos estudiantiles destacados.\n• Ambos funcionarios resaltaron la importancia de la evaluación y mejora continua en la formación académica.",
+      "source_name": "nchinchilla",
+      "source_url": "http://www.tec.ac.cr/funcionarios-tec-destacan-su-liderazgo-xii-simposio-internacional-icacit-chile",
+      "publish_date": "2026-11-23T21:39:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Funcionarios del TEC brillan en el Simposio ICACIT y destacan su compromiso académico.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/con-don-olman-y-monica.jpeg",
+      "description": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile.",
       "featured": false
     },
     {
@@ -836,11 +901,11 @@
       "slug": "dos-hombres-en-mi-vida-como-un-accidente-de-trafico-me-enseno-nuevas-formas-de-amar",
       "title": "Dos hombres en mi vida: cómo un accidente de tráfico me enseñó nuevas formas de amar",
       "category": "Mundo",
-      "bullets_20s": "• Una historia de amor que se transforma tras un trágico accidente de tráfico en la vida de Kris.\n• Kris enfrenta el reto de redefinir sus sentimientos y su amor hacia Brandon después del accidente.\n• La importancia de adaptarse a las nuevas circunstancias y a las nuevas formas de amar.\n• Relaciones que evolucionan con el tiempo y las experiencias de vida compartidas entre dos personas.\n• Cómo el amor puede encontrarse y mantenerse a pesar de los obstáculos más difíciles.",
-      "source_name": "",
+      "bullets_20s": "• La historia de amor presentada aborda temas de resiliencia y nuevas formas de amar.\n• Un accidente automovilístico cambia la vida de los protagonistas y su forma de relacionarse.\n• Explora cómo los desafíos pueden transformar nuestras percepciones sobre el amor.\n• La narrativa invita a la reflexión sobre la vida, la muerte y las segundas oportunidades.\n• Las relaciones humanas son complejas y pueden adaptarse a diversas circunstancias.",
+      "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cx4gnrrqm61jo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-23T14:45:43.000Z",
-      "teaser": "Lo clave en 20 segundos: una transformación del amor tras un accidente de tráfico que redefine la vida de Kris.",
+      "teaser": "Lo clave en 20 segundos: Amor, pérdida y la búsqueda de nuevas formas de amar tras un accidente.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/607a/live/72877a90-e356-11f1-acd4-25eaaa5def63.jpg",
       "description": "Brandon era el amor de la adolescencia de Kris y su 'Príncipe Azul', pero cuando él sufrió un catastrófico accidente automovilístico, ella tuvo que encontrar una nueva forma de amarlo.",
       "featured": false
@@ -3397,11 +3462,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebró la graduación de 266 nuevos profesionales en dos ceremonias esta semana en Cartago.\n• Casi la mitad de los graduados obtuvo maestrías y dos personas alcanzaron el doctorado en distintas áreas.\n• Este acto de graduación conmemora 55 años del TEC y 50 años de algunas carreras destacadas.\n• La graduación incluyó estudiantes de las siete provincias y cinco campus del Tecnológico de Costa Rica.\n• Destacan las ingenierías en las graduaciones, aportando una mayoría significativa de nuevos profesionales.",
+      "bullets_20s": "• El TEC celebra la graduación de 266 profesionales en una emotiva ceremonia de títulos.\n• La institución ha formado a estudiantes de todas las provincias del país en diversas áreas.\n• Este año, el TEC conmemora 55 años y 50 años de algunas carreras destacadas.\n• El evento se dividió en dos actos con participación de familias y autoridades institucionales.\n• Las maestrías en administración y tecnología tuvieron una alta representación en graduados.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC celebra la graduación de 266 nuevos profesionales en una emotiva ceremonia.",
+      "teaser": "Lo clave en 20 segundos: 266 nuevos profesionales celebran su graduación en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -141207,8 +141272,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-24T15:45:27.661Z",
-  "total": 10862,
+  "generated_at": "2026-11-24T16:45:26.454Z",
+  "total": 10867,
   "removed_soccer_news_count": 1688,
   "removed_soccer_news_titles": [
     "Selección de Costa Rica Sub-17 cae ante Irlanda y complica su clasificación en el Mundial",
