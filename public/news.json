@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "slug": "sala-constitucional-encuentra-vicios-en-recortes-al-fees-y-al-poder-judicial-aprobados-en-presupuesto-extraordinario-202",
+      "title": "Sala Constitucional encuentra vicios en recortes al FEES y al Poder Judicial aprobados en Presupuesto Extraordinario 2026",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Sala Constitucional ha analizado los recortes y encontró fallos importantes en el procedimiento.\n• Los recortes al FEES son considerados un vicio insalvable por la Sala Constitucional.\n• El recorte al Poder Judicial presenta problemas de fondo, inquietando a muchos ciudadanos.\n• El Presupuesto Extraordinario 2026 ha sido objeto de controversia debido a estas decisiones.\n• La decisión de la Sala busca proteger la integridad del sistema judicial y educativo en el país.",
+      "source_name": "Aarón Sequeira",
+      "source_url": "https://www.nacion.com/politica/sala-constitucional-encuentra-vicios-en-recortes/GTHH7VTYKZB7PN4Z3ZZU66FQTI/story/",
+      "publish_date": "2026-11-25T23:21:48.000Z",
+      "teaser": "Lo clave en 20 segundos: La Sala Constitucional identifica vicios graves en recortes presupuestarios en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/NMYQHGLMONEEFNIVH74IMEYQ3M.JPG?smart=true&auth=97b03555195aeff290bf3554ec85ae8f8edd6ddd23c7c5d1ee4e23e4e20822c3&width=1440",
+      "description": "En el caso de los recortes al FEES, se trata de un vicio de procedimiento, insalvable, y en el caso del recorte al Poder Judicial, de fondo.",
+      "featured": false
+    },
+    {
+      "slug": "un-agujero-negro-del-tamano-de-un-atomo-podria-hacer-estallar-una-estrella-desde-su-interior",
+      "title": "Un agujero negro del tamaño de un átomo podría hacer estallar una estrella desde su interior",
+      "category": "Ciencia",
+      "bullets_20s": "• Los agujeros negros primordiales son teorías intrigantes de la física moderna y astrofísica avanzada.\n• Estudios muestran que estos agujeros pueden tener efectos devastadores sobre las estrellas cercanas.\n• Los físicos están explorando implicaciones de su existencia en el universo observable actual.\n• Descubrimientos recientes pueden cambiar entendimientos sobre la formación de agujeros negros.\n• La investigación se centra en la dinámica de las estrellas y su interacción con estos fenómenos.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/ciencia/un-agujero-negro-del-tamano-de-un-atomo-podria/T762WDWBRFHS7FH2UA6JXO3LLE/story/",
+      "publish_date": "2026-11-25T23:07:49.000Z",
+      "teaser": "Lo clave en 20 segundos: Un agujero negro diminuto podría explotar una estrella desde su núcleo.",
+      "image_url": "https://www.nacion.com/resizer/v2/G6DJIRHAUZG4NCZII4RT6KXZ6Y.jpg?auth=b2ce7ae586e72a8f3bbeefa20e83485cc4cc2a21a5b00bb75d0e494249b3e7bd&smart=true&width=1260&height=955",
+      "description": "Físicos del MIT descubrieron cómo un diminuto agujero negro primordial podría desintegrar una estrella similar al Sol desde su núcleo.",
+      "featured": false
+    },
+    {
       "slug": "catalogo-celebra-los-nombres-y-las-trayectorias-de-mas-de-500-mujeres-de-la-danza-en-costa-rica",
       "title": "Catálogo celebra los nombres y las trayectorias de más de 500 mujeres de la danza en Costa Rica",
       "category": "Costa Rica",
@@ -82,13 +108,13 @@
       "slug": "editorial-tecnologica-invita-a-conocer-las-aplicaciones-de-la-inteligencia-artificial-en-la-ingenieria-industrial",
       "title": "Editorial Tecnológica invita a conocer las aplicaciones de la inteligencia artificial en la Ingeniería Industrial",
       "category": "Tecnología",
-      "bullets_20s": "• La inteligencia artificial está transformando la Ingeniería Industrial y los procesos productivos en diversas organizaciones.\n• Se realizará un webinar sobre la relación entre inteligencia artificial e ingeniería industrial el 3 de diciembre.\n• El evento contará con la presencia de Ing. Jorge Acuña, experto en Ingeniería Industrial y autor de publicaciones.\n• Los participantes conocerán los retos y oportunidades de la inteligencia artificial en los entornos industriales.\n• El webinar incluye temas como gestión de calidad y control estadístico en procesos industriales.",
+      "bullets_20s": "• La inteligencia artificial revolutiona los procesos industriales mediante herramientas innovadoras y eficientes.\n• El webinar se centrará en cómo la inteligencia artificial impacta la Ingeniería Industrial directamente.\n• El Ing. Jorge Acuña, experto en la materia, guiará la discusión y explorará nuevos enfoques.\n• Las inscripciones para el evento están abiertas y son totalmente gratuitas para todos los interesados.\n• Las aplicaciones de inteligencia artificial incluyen simulación de procesos y control estadístico en producción.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/editorial-tecnologica-invita-conocer-aplicaciones-inteligencia-artificial-ingenieria-industrial-0",
       "publish_date": "2026-11-25T20:07:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Conozca cómo la IA transforma la Ingeniería Industrial en un webinar exclusivo.",
+      "teaser": "Lo clave en 20 segundos: Descubre cómo la IA transforma la Ingeniería Industrial en un próximo webinar.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/charla-ia-1_0.jpg",
-      "description": "Editorial Tecnológica invita a conocer las aplicaciones de la inteligencia artificial en la Ingeniería Industrial.",
+      "description": "Editorial Tecnológica invita a conocer las aplicaciones de la inteligencia artificial en la Ingeniería Industrial",
       "featured": false
     },
     {
@@ -173,11 +199,11 @@
       "slug": "tec-recibe-el-ix-encuentro-sobre-didactica-de-la-estadistica-la-probabilidad-y-el-analisis-de-datos-edepa-9",
       "title": "TEC recibe el IX Encuentro sobre Didáctica de la Estadística, la Probabilidad y el Análisis de Datos (EDEPA 9)",
       "category": "Costa Rica",
-      "bullets_20s": "• La Escuela de Matemática del TEC organiza el IX Encuentro sobre Didáctica de la Estadística y Probabilidad.\n• El evento se llevará a cabo del 7 al 11 de diciembre en el campus central de Cartago.\n• Contará con 5 conferencias, 47 ponencias y 16 talleres prácticos, orientados a diferentes niveles educativos.\n• Estudiantes y docentes de varios países se reunirán para compartir conocimientos sobre estadística y análisis de datos.\n• Se abordarán temas como probabilidad aplicada y ética en la estadística a través de diversas herramientas modernas.",
+      "bullets_20s": "• El IX Encuentro sobre Didáctica se llevará a cabo del 7 al 11 de diciembre de 2026.\n• Se realizará en modalidad presencial en el Campus Tecnológico Central en Cartago, Costa Rica.\n• Está dirigido a docentes, investigadores y estudiantes de diversas instituciones educativas.\n• Las conferencias incluyen temas de estadística y probabilidad aplicados a la educación.\n• Participarán expertos de Costa Rica y varios países de América Latina y Europa.\n• Las actividades abarcan 5 conferencias, 47 ponencias y 16 talleres prácticos.\n• Se contará con herramientas tecnológicas como GeoGebra y RStudio en las presentaciones.\n• Las charlas Pre y Pos EDEPA están abiertas al público interesado en la estadística.\n• El evento promueve ideas frescas y prácticas efectivas para la enseñanza estadística.\n• El comité organizador está compuesto por expertos de la Escuela de Matemática del TEC.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-recibe-ix-encuentro-didactica-estadistica-probabilidad-analisis-datos-edepa-9",
       "publish_date": "2026-11-25T17:40:19.000Z",
-      "teaser": "Lo clave en 20 segundos: IX Encuentro EDEPA 9 del TEC promueve la educación en estadística y análisis de datos.",
+      "teaser": "Lo clave en 20 segundos: El TEC acoge un encuentro importante sobre educación estadística y probabilística.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/edepa.jpeg",
       "description": "TEC recibe el IX Encuentro sobre Didáctica de la Estadística, la Probabilidad y el Análisis de Datos (EDEPA 9)",
       "featured": false
@@ -355,11 +381,11 @@
       "slug": "kilmar-abrego-garcia-abandona-eeuu-y-viaja-a-espana-tras-una-larga-batalla-legal-para-evitar-ser-deportado-de-nuevo",
       "title": "Kilmar Abrego García abandona EE.UU. y viaja a España tras una larga batalla legal para evitar ser deportado de nuevo",
       "category": "Mundo",
-      "bullets_20s": "• Kilmar Abrego García, conocido por su lucha contra la deportación, ha llegado a España.\n• Su historia resuena con muchos inmigrantes que temen ser deportados de EE.UU.\n• Abrego enfrentó una batalla legal intensa que lo llevó a la atención pública.\n• La comunidad inmigrante ve su historia como un símbolo de resistencia y esperanza.\n• Las políticas migratorias de EE.UU. han generado un gran debate en la sociedad.",
+      "bullets_20s": "• Kilmar Abrego García enfrentó una larga y ardua batalla legal en Estados Unidos.\n• Su caso ha sido emblemático en la lucha por los derechos de inmigrantes indocumentados.\n• Abrego es visto como un símbolo de resistencia ante políticas restrictivas de inmigración.\n• La deportación ha sido un tema candente en el debate político de EE.UU. recientemente.\n• Su viaje a España marca un nuevo capítulo tras su difícil experiencia en EE.UU.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6y80kp45gv2o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-25T13:32:58.000Z",
-      "teaser": "Lo clave en 20 segundos: Kilmar Abrego García vuela a España tras una larga batalla legal contra su deportación.",
+      "teaser": "Lo clave en 20 segundos: Kilmar Abrego García se muda a España tras la lucha legal contra su deportación.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/af4b/live/6cf06380-e8c9-11f1-99a1-253766e7ad8b.jpg",
       "description": "Ábrego se convirtió en un símbolo de la resistencia en contra de la persecución del gobierno de EE.UU. en contra de los inmigrantes indocumentados.",
       "featured": false
@@ -1031,11 +1057,11 @@
       "slug": "pequenos-grandes-oradores-el-tec-lleva-la-oratoria-a-las-aulas-rurales-de-cartago",
       "title": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
       "category": "Costa Rica",
-      "bullets_20s": "• Diecinueve maestros de Cartago aprenden técnicas de oratoria para mejorar la expresión de sus estudiantes.\n• El proyecto ayuda a los docentes a diseñar talleres que motiven a los alumnos a expresarse mejor.\n• La capacitación busca fundamentalmente mejorar la comunicación oral en estudiantes de escuelas rurales.\n• Las sesiones del taller incluyen técnicas de voz, postura, expresión y narración oral entre otros.\n• El enfoque es vital, ya que muchos estudiantes llegan a la universidad con problemas de expresión oral.",
+      "bullets_20s": "• Diecinueve docentes de Cartago aprenden técnicas de oratoria para mejorar la expresión oral de sus estudiantes.\n• El Taller de Oratoria busca fomentar la confianza de los niños al hablar frente a un público.\n• Los docentes del TEC identifican una falta en la formación sobre oratoria en el currículo escolar.\n• El proyecto tiene como objetivo cultivar habilidades de comunicación desde la escuela a la universidad.\n• Las sesiones de oratoria incluyen teoría y práctica para un aprendizaje integral en el aula.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/pequenos-grandes-oradores-tec-lleva-oratoria-aulas-rurales-cartago",
       "publish_date": "2026-11-24T15:07:47.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC capacita docentes rurales para mejorar la oratoria de sus estudiantes.",
+      "teaser": "Lo clave en 20 segundos: El TEC promueve la oratoria en escuelas rurales de Cartago para mejorar habilidades comunicativas.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_20251031_143128.jpg",
       "description": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
       "featured": false
@@ -1389,19 +1415,6 @@
       "teaser": "Lo clave en 20 segundos: Yara Jiménez investiga a Angie Cruickshank por una inspección sorpresa en el Cacco.",
       "image_url": "https://www.nacion.com/resizer/v2/KMLLJL6X65CLZB2O5JEAZSA774.JPG?auth=64f3a0ea772432c9d5fb844854c857b40da54df1f00b8ec804b45be986cfd077&smart=true&width=3000&height=2000",
       "description": "Acuerdo de la presidenta legislativa enumera la moción aprobada por el partido de gobierno, una ‘denuncia ciudadana’ y una solicitud de investigación del Ministerio de Justicia y Paz.",
-      "featured": false
-    },
-    {
-      "slug": "funcionarios-del-tec-destacan-por-su-liderazgo-en-el-xii-simposio-internacional-de-icacit-en-chile",
-      "title": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
-      "category": "Costa Rica",
-      "bullets_20s": "• La Dra. Mónica Hernández Campos presentó su investigación sobre analítica curricular en el simposio.\n• El Ing. Víctor J. Hernández González se desempeñó como Revisor Internacional de ponencias científicas.\n• ICACIT es un congreso clave en América Latina, centrado en la formación en ingeniería y computación.\n• Los funcionarios del TEC representaron a Costa Rica, destacando el compromiso con la educación de calidad.\n• La evaluación sistemática de competencias profesionales clave es crucial para mejorar el aprendizaje.\n• Los asistentes incluyen expositores de proyectos estudiantiles y representantes de agencias de acreditación.\n• Hernández Campos enfatizó la responsabilidad de rendir cuentas a la sociedad costarricense.\n• El evento fue coorganizado con la Pontificia Universidad Católica de Chile, reforzando la colaboración educativa.\n• Cinco invitados costarricenses aportaron sus experiencias en la formación de ingenieros y arquitectos.\n• El simposio reunió a países como Perú, Chile, Argentina, y España, promoviendo la cooperación internacional.",
-      "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/funcionarios-tec-destacan-su-liderazgo-xii-simposio-internacional-icacit-chile",
-      "publish_date": "2026-11-24T03:39:58.000Z",
-      "teaser": "Lo clave en 20 segundos: Funcionarios del TEC brillan en simposio de acreditación internacional en Chile.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/con-don-olman-y-monica.jpeg",
-      "description": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
       "featured": false
     },
     {
@@ -2156,6 +2169,19 @@
       "teaser": "Lo clave en 20 segundos: el premio mayor de la Lotería Nacional impacta a muchos en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/EBNIBIP3KJEQXOEEP4OAY46YH4.jpeg?smart=true&auth=3e40a7418b0df72c144e807502cd2261ea9cbd3b149940b15648ad2832ba817b&width=1440",
       "description": "La Junta de Protección Social (JPS) realizó la noche de este domingo 22 de noviembre el sorteo de la Lotería Nacional N.° 4.928.",
+      "featured": false
+    },
+    {
+      "slug": "funcionarios-del-tec-destacan-por-su-liderazgo-en-el-xii-simposio-internacional-de-icacit-en-chile",
+      "title": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
+      "category": "Ciencia",
+      "bullets_20s": "• La Dra. Mónica Hernández participó como conferencista principal en el simposio ICACIT en Chile.\n• El Ing. Víctor J. Hernández fue Revisor Internacional de los trabajos presentados en el evento.\n• Se discutieron avances en analítica curricular y evaluación de programas académicos en ingeniería.\n• El evento reunió a expertos de varios países de América Latina centrados en la acreditación educativa.\n• Los participantes compartieron experiencias sobre mejora continua en la formación de profesionales.",
+      "source_name": "nchinchilla",
+      "source_url": "http://www.tec.ac.cr/funcionarios-tec-destacan-su-liderazgo-xii-simposio-internacional-icacit-chile",
+      "publish_date": "2026-11-23T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Destacan funcionarios del TEC en ICACIT 2026 en Chile, abordando acreditación educativa.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/con-don-olman-y-monica.jpeg",
+      "description": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
       "featured": false
     },
     {
@@ -4372,11 +4398,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El Tecnológico de Costa Rica celebra la graduación de 266 nuevos profesionales en Cartago.\n• Las ceremonias de graduación se realizaron en dos actos diferentes a lo largo del día.\n• Casi la mitad de los graduados obtuvieron maestrías, destacando áreas administrativas y tecnológicas.\n• La institución celebra su 55 aniversario y ha logrado reconocimientos internacionales en educación.\n• La rectora enfatiza que la educación es una inversión estratégica para el desarrollo del país.",
+      "bullets_20s": "• Dos ceremonias celebraron la graduación de 266 nuevos profesionales en el TEC este viernes pasado.\n• Casi la mitad de los graduados obtuvo una maestría, destacando el esfuerzo personal en sus trayectorias.\n• La ceremonia conmemoró 55 años de la institución, reforzando su compromiso con la educación de calidad.\n• Un alto número de mujeres se graduaron, evidenciando el crecimiento en la participación femenina en las ingenierías.\n• Graduados provienen de las siete provincias del país, mostrando el alcance regional de la educación en el TEC.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: 266 graduados celebran su esfuerzo y logros en el TEC de Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El TEC celebra 266 nuevas historias de esfuerzo con graduaciones llenas de orgullo.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -142182,8 +142208,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-25T22:45:26.721Z",
-  "total": 10937,
+  "generated_at": "2026-11-25T23:45:26.746Z",
+  "total": 10939,
   "removed_soccer_news_count": 1696,
   "removed_soccer_news_titles": [
     "Jugador de Cartaginés recibió muchas preguntas por su ausencia de la Selección de Costa Rica",
