@@ -1,14 +1,66 @@
 {
   "news": [
     {
+      "slug": "a-200-anos-del-poder-judicial-en-costa-rica-todavia-hay-mucho-por-contar",
+      "title": "A 200 años del Poder Judicial en Costa Rica, todavía hay mucho por contar",
+      "category": "Costa Rica",
+      "bullets_20s": "• El Poder Judicial en Costa Rica ha evolucionado significativamente desde su fundación hace 200 años.\n• Conozca los hitos más importantes que marcaron la historia del sistema judicial en el país.\n• La Corte Suprema ha tenido un papel fundamental en la defensa de los derechos ciudadanos.\n• Repasaremos el impacto del desarrollo del Poder Judicial en la sociedad costarricense.\n• El término 'Corte' tiene un origen histórico que refleja la consolidación del sistema legal.",
+      "source_name": "Tomás Federico Arias Castro",
+      "source_url": "https://www.nacion.com/ancora/a-200-anos-del-poder-judicial-en-costa-rica/BH2ZMEOJV5BFTOE6ZZVMOF4IDY/story/",
+      "publish_date": "2026-11-25T14:04:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El Poder Judicial de Costa Rica cumple 200 años, una rica historia por descubrir.",
+      "image_url": "https://www.nacion.com/resizer/v2/MO4KZZSHYFACJCUYRAM5B62AM4.jpg?auth=f56e1aeedc1a0fa1f6eceba3c1e375d4f74c2989f973b0c9c55a619f0ac41828&smart=true&width=2712&height=3684",
+      "description": "El Poder Judicial de Costa Rica cumple 200 años en 2026. Repase el origen histórico del término Corte y los hitos que dieron vida a la Corte Suprema.",
+      "featured": false
+    },
+    {
+      "slug": "debe-permitirse-que-un-presidente-gobierne-ocho-anos-seguidos-encuesta-ciep-revela-opinion-de-los-costarricenses",
+      "title": "¿Debe permitirse que un presidente gobierne ocho años seguidos?  Encuesta CIEP revela opinión de los costarricenses",
+      "category": "Costa Rica",
+      "bullets_20s": "• La reelección presidencial consecutiva es un tema candente entre los costarricenses en este contexto político.\n• La encuesta del CIEP revela opiniones diversas sobre el gobernar ocho años seguidos.\n• El oficialismo impulsa la idea de la reelección, generando debate entre la ciudadanía.\n• Las respuestas a la encuesta muestran mayores niveles de rechazo en ciertos sectores de la población.\n• Es crucial entender cómo esta cuestión afecta la percepción sobre la democracia en el país.",
+      "source_name": "Cristian Mora",
+      "source_url": "https://www.nacion.com/politica/debe-permitirse-que-un-presidente-gobierne-ocho/PA6KZQ3TOJBIZAI7JTT2ZQ2IVA/story/",
+      "publish_date": "2026-11-25T13:46:04.000Z",
+      "teaser": "Lo clave en 20 segundos: La encuesta revela opiniones de los costarricenses sobre la reelección presidencial.",
+      "image_url": "https://www.nacion.com/resizer/v2/VXR3UATSSJFBHE7TJHYZYAWB6M.jpg?smart=true&auth=c44f7e3711f5ffdb2159168e2deab35210275187587f27f53b394059c2318a53&width=1440",
+      "description": "Conozca qué opinan los costarricenses sobre la reelección presidencial consecutiva impulsada por el oficialismo y entre quiénes se registra mayor rechazo.",
+      "featured": false
+    },
+    {
+      "slug": "hace-50-anos-bomba-de-dinamita-y-plastico-estallo-en-la-cancilleria",
+      "title": "Hace 50 años: bomba de dinamita y plástico estalló en la Cancillería",
+      "category": "Costa Rica",
+      "bullets_20s": "• El incidente ocurrió en la Cancillería de Costa Rica, generando sorpresa y preocupación en la sociedad.\n• Una bomba de dinamita fue colocada de manera clandestina en las instalaciones del ministerio.\n• El ataque resultó en lesiones a un alto funcionario del país, aunque el impacto fue limitado.\n• Las medidas de seguridad se volvieron más estrictas tras este evento trágico en la historia costarricense.\n• Se tuvieron repercusiones políticas y sociales, afectando la percepción de seguridad en el país.",
+      "source_name": "Marianela Arias Vilchez",
+      "source_url": "https://www.nacion.com/el-pais/hace-50-anos-bomba-de-dinamita-y-plastico-estallo/LQ54SAX7ZNH5NN7OF2X6RD547U/story/",
+      "publish_date": "2026-11-25T13:30:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Una bomba estalló en la Cancillería, marcando un hecho histórico en Costa Rica.",
+      "image_url": "https://www.nacion.com/resizer/v2/NHM5RBB3RJHVDOZHYNMPPYK2SU.jpeg?auth=0e4fe2e69dbb4c424209e66df5b83ae91355f267feeb9ba156d978ff7a71ae10&smart=true&width=1280&height=927",
+      "description": "Hace 50 años, una bomba colocada debajo de un sillón estalló en la antesala del ministro de Relaciones Exteriores de Costa Rica, dejando herido al funcionario Evencio Hidalgo.",
+      "featured": false
+    },
+    {
+      "slug": "medio-millon-de-muertos-la-filtracion-de-datos-que-revela-las-abrumadoras-bajas-rusas-en-la-guerra-de-ucrania",
+      "title": "Medio millón de muertos: la filtración de datos que revela las abrumadoras bajas rusas en la guerra de Ucrania",
+      "category": "Mundo",
+      "bullets_20s": "• Una reciente filtración de datos revela cifras alarmantes sobre bajas rusas en la guerra.\n• Los datos obtenidos reflejan un importante impacto en la mortalidad de la población rusa.\n• La guerra en Ucrania ha cambiado radicalmente la dinámica social y demográfica en Rusia.\n• Hackers han contribuido a la divulgación de información crítica sobre el conflicto en Ucrania.\n• La invasión ha dejado huellas profundas no solo en el campo de batalla, sino también en la sociedad.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cq5y1lpz5pr8o?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-11-25T13:17:56.000Z",
+      "teaser": "Lo clave en 20 segundos: filtraciones muestran alarmantes bajas rusas en la guerra de Ucrania.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/8801/live/922b1400-e8d9-11f1-a3b9-79c60ec9ab33.jpg",
+      "description": "Las cifras obtenidas por unos hackers muestran cómo la invasión a gran escala de Ucrania ha transformado significativamente los patrones de mortalidad en Rusia.",
+      "featured": false
+    },
+    {
       "slug": "corte-de-luz-del-ice-impactara-zona-de-guanacaste-este-miercoles-conozca-el-lugar-afectado",
       "title": "Corte de luz del ICE impactará zona de Guanacaste este miércoles: conozca el lugar afectado",
       "category": "Costa Rica",
-      "bullets_20s": "• El ICE realizará mantenimiento, por lo que habrá un corte de luz en Guanacaste.\n• Este corte afectará a varias comunidades de la región durante el miércoles.\n• Se recomienda a los usuarios tomar precauciones durante el corte programado.\n• Los horarios específicos del corte se han dado a conocer con anticipación.\n• Es importante estar informado sobre los lugares específicos afectados.",
+      "bullets_20s": "• El ICE realizará un corte de luz para llevar a cabo trabajos de mantenimiento necesarios en la zona.\n• La suspensión del suministro afectará a varias comunidades en Guanacaste este miércoles.\n• Los horarios del corte están programados para garantizar que las labores se realicen rápidamente.\n• Se recomienda a los habitantes tomar precauciones y estar atentos a las indicaciones del ICE.\n• Es vital conocer el lugar específico afectado para minimizar inconvenientes durante el corte.",
       "source_name": "Marianela Arias Vilchez",
       "source_url": "https://www.nacion.com/el-pais/corte-de-luz-del-ice-impactara-zona-de-guanacaste/3VYVOBSUAJGSDHIGCCOP6667IY/story/",
       "publish_date": "2026-11-25T13:15:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Corte de luz programado por el ICE en Guanacaste este miércoles.",
+      "teaser": "Lo clave en 20 segundos: Corte de luz en Guanacaste por mantenimiento del ICE este miércoles.",
       "image_url": "https://www.nacion.com/resizer/v2/PUZMMV264RFKLLTDU376GOUIHI.jpg?auth=8acdc05ee05f22b28cb7cafe78833657d618c84e58cc6befeb734d9cfae68d93&smart=true&width=2400&height=1350",
       "description": "El Instituto Costarricense de Electricidad programó un corte de luz para este miércoles 25 de noviembre por trabajos de mantenimiento. Conozca la comunidad afectada y el horario previsto.",
       "featured": false
@@ -82,11 +134,11 @@
       "slug": "como-china-mantiene-su-influencia-en-america-latina-en-pleno-pulso-geopolitico-con-eeuu",
       "title": "Cómo China mantiene su influencia en América Latina en pleno pulso geopolítico con EE.UU.",
       "category": "Mundo",
-      "bullets_20s": "• La influencia de China en América Latina se ha incrementado en los últimos años de diversas maneras.\n• Pekín utiliza estrategias diplomáticas y comerciales para establecer fuertes lazos con los países latinoamericanos.\n• Washington busca contrarrestar la expansión del poder chino en la región mediante acuerdos bilaterales.\n• Las inversiones chinas en infraestructura son clave para fortalecer su presencia en América Latina.\n• China ofrece alternativas económicas a los países que están en búsqueda de desarrollo sostenible.",
+      "bullets_20s": "• China ha implementado estrategias diplomáticas para fortalecer sus lazos con América Latina.\n• La inversión china en infraestructura es clave para consolidar su influencia en la región.\n• Se ha promovido el comercio bilateral entre China y varios países latinoamericanos.\n• A través de préstamos blandos, Pekín busca garantizar su presencia en América Latina.\n• La cultura china también es una herramienta importante en su estrategia de influencia.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c32l5enge15go?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-25T12:02:10.000Z",
-      "teaser": "Lo clave en 20 segundos: China refuerza su influencia en América Latina desafiando a EE.UU. mediante diversas estrategias.",
+      "teaser": "Lo clave en 20 segundos: China avanza en su influencia en América Latina aunque EE.UU. busca limitarla.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/d879/live/4a384900-e826-11f1-93d4-6d580946ad80.jpg",
       "description": "De distintas formas —y a veces con bajo perfil—, Pekín logra sostener una presencia trascendental en la región aunque Washington busca limitarla.",
       "featured": false
@@ -134,11 +186,11 @@
       "slug": "la-disputa-entre-matematicos-que-aviva-el-temor-de-que-la-ia-pueda-socavar-la-ciencia",
       "title": "La disputa entre matemáticos que aviva el temor de que la IA pueda socavar la ciencia",
       "category": "Ciencia",
-      "bullets_20s": "• La inteligencia artificial está cambiando la manera en que se realizan los descubrimientos científicos.\n• Matemáticos están debatiendo sobre la validez de los hallazgos generados por IA en la investigación.\n• Hay preocupaciones sobre la precisión y la transparencia de los datos utilizados por la IA.\n• La ética en el uso de inteligencia artificial se convierte en un tema vital en la ciencia moderna.\n• Los resultados de la IA a menudo son difíciles de replicar, lo que genera dudas en la comunidad científica.",
+      "bullets_20s": "• La inteligencia artificial ha superado a humanos en ciertos descubrimientos científicos notables.\n• Matemáticos debaten sobre la validez y precisión de los resultados generados por la IA.\n• Científicos expresan preocupaciones sobre la fiabilidad de los hallazgos ofrecidos por máquinas.\n• El uso de IA en la ciencia plantea interrogantes éticos y de confianza en los métodos.\n• Expertos sugieren un balance entre la IA y el trabajo humano en la investigación.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cje36d6456vwo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-25T11:25:49.000Z",
-      "teaser": "Lo clave en 20 segundos: La IA revoluciona la ciencia, pero surgen dudas sobre su precisión y validez.",
+      "teaser": "Lo clave en 20 segundos: La IA genera hallazgos sorprendentes, pero surfacen dudas sobre su precisión en la ciencia.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/47cb/live/bedde230-d3c0-11f1-a62f-fd53d503ac8d.jpg",
       "description": "La IA ha realizado algunos descubrimientos científicos asombrosos. Pero ahora, se están planteando dudas sobre su precisión.",
       "featured": false
@@ -638,19 +690,6 @@
       "featured": false
     },
     {
-      "slug": "pequenos-grandes-oradores-el-tec-lleva-la-oratoria-a-las-aulas-rurales-de-cartago",
-      "title": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
-      "category": "Costa Rica",
-      "bullets_20s": "• Diecinueve docentes de Cartago participan en un taller de oratoria para mejorar la comunicación de los estudiantes.\n• El proyecto busca que los maestros puedan impartir talleres educativos en sus propias aulas, beneficiando a los alumnos.\n• Se trabaja en la vocalización, dicción y confianza para que los niños se expresen sin miedo ante el público.\n• La iniciativa surge ante la necesidad de fortalecer la expresión oral de los estudiantes en las escuelas rurales.\n• Luz Marina Montenegro comparte su experiencia y destaca la importancia del acompañamiento en el proceso de aprendizaje.",
-      "source_name": "m.molina",
-      "source_url": "http://www.tec.ac.cr/pequenos-grandes-oradores-tec-lleva-oratoria-aulas-rurales-cartago",
-      "publish_date": "2026-11-24T15:07:47.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC implementa oratoria en aulas rurales para mejorar la expresión de los estudiantes.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_20251031_143128.jpg",
-      "description": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
-      "featured": false
-    },
-    {
       "slug": "un-vino-sin-historia-es-un-vino-vacio-la-leccion-del-enologo-danes-que-visito-costa-rica",
       "title": "Un vino sin historia es un vino vacío: la lección del enólogo danés que visitó Costa Rica",
       "category": "Costa Rica",
@@ -1054,6 +1093,19 @@
       "featured": false
     },
     {
+      "slug": "pequenos-grandes-oradores-el-tec-lleva-la-oratoria-a-las-aulas-rurales-de-cartago",
+      "title": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC ha implementado un taller de oratoria en escuelas rurales de Cartago.\n• Diecinueve docentes participan en un proyecto que busca mejorar la expresión oral.\n• Los talleres ofrecen técnicas que permiten a estudiantes hablar con confianza.\n• La formación docente es clave para desarrollar competencias comunicativas en niños.\n• María Celeste, estudiante del TEC, apoya el proyecto como asistente docente.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/pequenos-grandes-oradores-tec-lleva-oratoria-aulas-rurales-cartago",
+      "publish_date": "2026-11-24T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC capacita docentes para fortalecer la oratoria en aulas rurales de Cartago.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_20251031_143128.jpg",
+      "description": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
+      "featured": false
+    },
+    {
       "slug": "aya-suspendera-servicio-de-agua-en-zonas-de-san-jose-este-miercoles-por-trabajos-de-mantenimiento",
       "title": "AyA suspenderá servicio de agua en zonas de San José este miércoles por trabajos de mantenimiento",
       "category": "Costa Rica",
@@ -1122,11 +1174,11 @@
       "slug": "funcionarios-del-tec-destacan-por-su-liderazgo-en-el-xii-simposio-internacional-de-icacit-en-chile",
       "title": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
       "category": "Ciencia",
-      "bullets_20s": "• El XII Simposio ICACIT se realizó en la Pontificia Universidad Católica de Chile en Santiago.\n• La Dra. Mónica Hernández Campos fue conferencista principal y habló sobre analítica curricular.\n• El Ing. Víctor J. Hernández González actuó como Revisor Internacional de ponencias científicas.\n• Cinco invitados costarricenses participaron, incluyendo expositores de proyectos estudiantiles.\n• El evento busca mejorar la calidad en la formación de ingenieros en América Latina.\n• Hernández Campos destacó la importancia de evaluar competencias profesionales clave.\n• El TEC busca rendir cuentas a la sociedad sobre la calidad educativa ofrecida.\n• El Ing. Víctor Hernández resalta la responsabilidad de ser Revisor Internacional en el simposio.\n• Entre los países participantes se incluyen Perú, Chile, Argentina y Colombia.\n• El encuentro fue coorganizado por la Pontificia Universidad Católica de Chile.",
+      "bullets_20s": "• Dra. Mónica Hernández destacó en el Simposio como conferencista sobre analítica curricular y educación.\n• Ing. Víctor Hernández participó como Revisor Internacional evaluando investigaciones de impacto global.\n• El evento reunió a expositores de varios países y se centró en la calidad educativa en ingeniería.\n• ICACIT es un congreso clave en América Latina sobre acreditación y mejora continua educativa.\n• La intervención de los funcionarios del TEC resalta la importancia de la educación pública en Costa Rica.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/funcionarios-tec-destacan-su-liderazgo-xii-simposio-internacional-icacit-chile",
       "publish_date": "2026-11-23T21:39:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Funcionarios del TEC destacan en simposio internacional en Chile.",
+      "teaser": "Lo clave en 20 segundos: Funcionarios del TEC brillan en simposio sobre educación en ingeniería en Chile.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/con-don-olman-y-monica.jpeg",
       "description": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
       "featured": false
@@ -3982,11 +4034,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebró la graduación de 266 nuevos profesionales en dos ceremonias especiales en Cartago.\n• Casi la mitad de los graduados alcanzaron una maestría, demostrando un fuerte compromiso académico.\n• La institución celebra 55 años de historia y su impacto en la educación técnica en Costa Rica.\n• Esteban González resaltó el arduo camino detrás de cada graduado, con historias únicas de esfuerzo.\n• La participación femenina fue alta, con 113 mujeres representando el 42% de los graduados en total.",
+      "bullets_20s": "• La graduación del TEC se realizó en dos ceremonias en su campus de Cartago.\n• Casi la mitad de los graduados obtuvieron grados de maestría y dos fueron doctorados.\n• Los graduados provienen de las siete provincias y de cinco campus del TEC.\n• El TEC celebra 55 años de historia y la diversidad de sus carreras y programas.\n• Las mujeres representan el 42% del total de graduados en esta ceremonia.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: 266 graduados del TEC celebran esfuerzo y dedicación en ceremonia especial.",
+      "teaser": "Lo clave en 20 segundos: 266 graduados del TEC celebran logros en emocionantes ceremonias de graduación.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -141792,8 +141844,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-25T13:45:26.290Z",
-  "total": 10907,
+  "generated_at": "2026-11-25T14:45:26.777Z",
+  "total": 10911,
   "removed_soccer_news_count": 1694,
   "removed_soccer_news_titles": [
     "Hijo de Pecho de Rata que murió en el hospital fue futbolista y seleccionado nacional",
