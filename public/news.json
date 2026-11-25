@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "slug": "cruz-roja-dejo-de-gestionar-parqueo-y-servicios-sanitarios-en-el-volcan-poas-sinac-cedio-contrato-a-consorcio-privado",
+      "title": "Cruz Roja dejó de gestionar parqueo y servicios sanitarios en el volcán Poás; Sinac cedió contrato a consorcio privado",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Cruz Roja administró servicios sanitarios en el volcán Poás durante cuatro años.\n• Sinac decidió ceder el contrato a un consorcio privado a partir de noviembre.\n• La gestión anterior incluía el parqueo y la atención sanitaria de visitantes.\n• Los cambios buscan mejorar la atención y servicios para los turistas.\n• El volcán Poás es uno de los destinos más visitados en Costa Rica.",
+      "source_name": "Marcela Rojas Hidalgo",
+      "source_url": "https://www.nacion.com/el-pais/cruz-roja-dejo-de-gestionar-parqueo-y-servicios/CT3JHTCZNZBIVHFOT2HEUFGGZA/story/",
+      "publish_date": "2026-11-25T18:27:15.000Z",
+      "teaser": "Lo clave en 20 segundos: La Cruz Roja deja de gestionar el volcán Poás y un consorcio privado tomará la dirección.",
+      "image_url": "https://www.nacion.com/resizer/v2/TXMP77ML55AQ3NYNCU4SRYDEBY.JPG?smart=true&auth=1a32d36af7e88310618db3ffac61ac338e08083bc9ed720dd26584f595cf375b&width=1440",
+      "description": "La Cruz Roja ya no se encargará de gestionar el parqueo y los servicios sanitarios del Parque Nacional Volcán Poás como lo venía haciendo desde hace cuatro años. Desde noviembre, esas labores fueron adjudicadas a un consorcio privado.",
+      "featured": false
+    },
+    {
+      "slug": "jueces-de-israel-recomiendan-retirar-cargos-de-corrupcion-contra-benjamin-netanyahu",
+      "title": "Jueces de Israel recomiendan retirar cargos de corrupción contra Benjamin Netanyahu",
+      "category": "Mundo",
+      "bullets_20s": "• Los jueces argumentaron que las pruebas presentadas no eran suficientes para mantener los cargos.\n• Este caso ha sido uno de los más mediáticos en la política israelí en años recientes.\n• Netanyahu ha enfrentado múltiples acusaciones de corrupción durante su mandato como primer ministro.\n• La decisión podría tener un impacto significativo en el futuro político de Netanyahu.\n• Expertos analizan las repercusiones de esta recomendación en la política israelí y regional.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/jueces-de-israel-recomiendan-retirar-cargos-de/62ETBSWTLFDMPFZCFFNKQ5TUOA/story/",
+      "publish_date": "2026-11-25T18:16:59.000Z",
+      "teaser": "Lo clave en 20 segundos: jueces israelíes recomiendan retirar cargos de corrupción a Netanyahu.",
+      "image_url": "https://www.nacion.com/resizer/v2/2LV7JX3QNNCANB2XY6EO3B3TVU.jpg?smart=true&auth=d63354f2905f1ebf87de91e4e1fe4c4c480c313b41130ad4948c536d480557b1&width=1440",
+      "description": "Jueces de Israel recomendaron este miércoles retirar los cargos de corrupción contra el primer ministro saliente, Benjamin Netanyahu. Conozca qué argumentaron.",
+      "featured": false
+    },
+    {
+      "slug": "tec-recibe-el-ix-encuentro-sobre-didactica-de-la-estadistica-la-probabilidad-y-el-analisis-de-datos-edepa-9",
+      "title": "TEC recibe el IX Encuentro sobre Didáctica de la Estadística, la Probabilidad y el Análisis de Datos (EDEPA 9)",
+      "category": "Costa Rica",
+      "bullets_20s": "• El IX EDEPA se llevará a cabo del 7 al 11 de diciembre en Cartago.\n• Se espera la participación de conferencistas internacionales de varios países.\n• Las conferencias y talleres son claves para docentes y estudiantes interesados.\n• Entre los temas se destaca el uso de la inteligencia artificial en estadística.\n• El evento es una oportunidad para compartir estrategias educativas efectivas.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/tec-recibe-ix-encuentro-didactica-estadistica-probabilidad-analisis-datos-edepa-9",
+      "publish_date": "2026-11-25T17:40:19.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC acoge el IX EDEPA, un encuentro educativo sobre estadística y análisis de datos.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/edepa.jpeg",
+      "description": "TEC recibe el IX Encuentro sobre Didáctica de la Estadística, la Probabilidad y el Análisis de Datos (EDEPA 9)",
+      "featured": false
+    },
+    {
       "slug": "embajador-del-reino-unido-reacciona-al-archivo-de-costa-rica-del-acuerdo-transpacifico-es-decepcionante",
       "title": "Embajador del Reino Unido reacciona al archivo de Costa Rica del Acuerdo Transpacífico: ‘Es decepcionante’",
       "category": "Mundo",
@@ -329,11 +368,11 @@
       "slug": "la-disputa-entre-matematicos-que-aviva-el-temor-de-que-la-ia-pueda-socavar-la-ciencia",
       "title": "La disputa entre matemáticos que aviva el temor de que la IA pueda socavar la ciencia",
       "category": "Ciencia",
-      "bullets_20s": "• Expertos en matemáticas discuten los impactos de la IA en la investigación científica actual.\n• La inteligencia artificial ha alcanzado logros notables, generando maravillas y preocupaciones crecientes.\n• Matemáticos debaten si los descubrimientos de la IA son fiables o carecen de rigor científico.\n• El temor es que la IA replantee la forma en que percibimos y validamos la ciencia.\n• Investigaciones anteriores de la IA han sorprendido a la comunidad científica en diversas ocasiones.",
+      "bullets_20s": "• La inteligencia artificial ha sorprendido al mundo con sus descubrimientos en campos científicos.\n• Sin embargo, matemáticos cuestionan su precisión y validez en la investigación científica.\n• La disputa genera un debate sobre el futuro de la ciencia y su metodología.\n• Algunos científicos defienden a la IA, mientras que otros son más escépticos.\n• El temor a que la IA socave la ciencia resuena entre investigadores académicos.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/cje36d6456vwo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-25T11:25:49.000Z",
-      "teaser": "Lo clave en 20 segundos: Matemáticos debaten si la IA amenaza la validez de la ciencia.",
+      "teaser": "Lo clave en 20 segundos: La IA sorprende, pero despierta dudas sobre su validez científica.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/47cb/live/bedde230-d3c0-11f1-a62f-fd53d503ac8d.jpg",
       "description": "La IA ha realizado algunos descubrimientos científicos asombrosos. Pero ahora, se están planteando dudas sobre su precisión.",
       "featured": false
@@ -836,11 +875,11 @@
       "slug": "pequenos-grandes-oradores-el-tec-lleva-la-oratoria-a-las-aulas-rurales-de-cartago",
       "title": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
       "category": "Costa Rica",
-      "bullets_20s": "• Diecinueve docentes participaron en un taller de oratoria en escuelas rurales de Cartago.\n• El TEC busca fomentar la expresión oral en los estudiantes desde la educación básica.\n• El proyecto responde a la necesidad de mejorar la comunicación en las aulas universitarias.\n• Los talleres incluyen técnicas de vocalización, dicción y expresión corporal.\n• Los docentes podrán diseñar sus propios talleres de oratoria en sus escuelas.",
+      "bullets_20s": "• Diecinueve docentes de Cartago han aprendido importantes técnicas de oratoria para mejorar la comunicación de los estudiantes.\n• El taller busca fomentar la expresión oral desde la educación primaria en comunidades rurales de Costa Rica.\n• Los participantes han expresado sentirse más seguros y preparados para ayudar a sus alumnos a comunicarse.\n• La oratoria se ha reconocido como una habilidad esencial que no se desarrolla adecuadamente en los programas escolares.\n• Expertos del TEC identifican la necesidad de formar a los docentes para beneficiar a los estudiantes en el futuro.\n• Las sesiones del taller incluyen prácticas de vocalización, dicción y la estructura de un discurso.\n• Las técnicas aprendidas son aplicables a todos los estudiantes, independientemente de su habilidad inicial.\n• Se busca extender el proyecto a más aulas y promover el desarrollo de concursos de oratoria en escuelas.\n• El equipo del TEC contempla documentar el proyecto para compartir sus resultados y experiencias en artículos académicos.",
       "source_name": "m.molina",
       "source_url": "http://www.tec.ac.cr/pequenos-grandes-oradores-tec-lleva-oratoria-aulas-rurales-cartago",
       "publish_date": "2026-11-24T15:07:47.000Z",
-      "teaser": "Lo clave en 20 segundos: el TEC capacita a docentes en oratoria para mejorar la expresión en niños en Cartago.",
+      "teaser": "Lo clave en 20 segundos: El TEC capacita a docentes rurales en oratoria para fortalecer la expresión en estudiantes.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_20251031_143128.jpg",
       "description": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
       "featured": false
@@ -1249,19 +1288,6 @@
       "featured": false
     },
     {
-      "slug": "funcionarios-del-tec-destacan-por-su-liderazgo-en-el-xii-simposio-internacional-de-icacit-en-chile",
-      "title": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
-      "category": "Costa Rica",
-      "bullets_20s": "• La Dra. Mónica Hernández Campos fue conferencista principal en el simposio ICACIT 2026 en Chile.\n• El Ing. Víctor J. Hernández González actuó como Revisor Internacional de los trabajos presentados.\n• El simposio destacó la importancia de la acreditación en educación en ingeniería y computación.\n• Asistieron invitados costarricenses, incluyendo expositores de proyectos estudiantiles y charlas magistrales.\n• La participación en este evento resalta el compromiso del TEC con la educación de calidad en Costa Rica.",
-      "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/funcionarios-tec-destacan-su-liderazgo-xii-simposio-internacional-icacit-chile",
-      "publish_date": "2026-11-24T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: Funcionarios del TEC brillan en simposio internacional sobre educación en ingeniería.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/con-don-olman-y-monica.jpeg",
-      "description": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
-      "featured": false
-    },
-    {
       "slug": "aya-suspendera-servicio-de-agua-en-zonas-de-san-jose-este-miercoles-por-trabajos-de-mantenimiento",
       "title": "AyA suspenderá servicio de agua en zonas de San José este miércoles por trabajos de mantenimiento",
       "category": "Costa Rica",
@@ -1324,6 +1350,19 @@
       "teaser": "Lo clave en 20 segundos: La UE busca sancionar a los atletas rusos para evitar la propaganda política.",
       "image_url": "https://www.nacion.com/resizer/v2/RWSG3C4OGREVRGH74BGPUD3GVE.jpg?smart=true&auth=3c9f09c914a148665d876f0cd2441e5690a6c91afe1522ae92b1e1337782512e&width=1440",
       "description": "En la UE pretenden evitar que Rusia utilice sus delegaciones deportivas como instrumentos de propaganda, en medio de las tensiones por la invasión a Ucrania.",
+      "featured": false
+    },
+    {
+      "slug": "funcionarios-del-tec-destacan-por-su-liderazgo-en-el-xii-simposio-internacional-de-icacit-en-chile",
+      "title": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
+      "category": "Mundo",
+      "bullets_20s": "• La Dra. Mónica Hernández participó como conferencista principal en el evento ICACIT en Chile.\n• El Ing. Víctor J. Hernández fue revisor internacional de ponencias en el simposio.\n• Ambos funcionarios representaron al TEC en un congreso sobre acreditación educativa.\n• ICACIT se enfoca en la calidad y mejora continua en la formación de ingenieros.\n• Se presentaron proyectos estudiantiles y conferencias magistrales durante el evento.",
+      "source_name": "nchinchilla",
+      "source_url": "http://www.tec.ac.cr/funcionarios-tec-destacan-su-liderazgo-xii-simposio-internacional-icacit-chile",
+      "publish_date": "2026-11-23T21:39:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Funciones del TEC brillan en el simposio ICACIT en Chile.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/con-don-olman-y-monica.jpeg",
+      "description": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
       "featured": false
     },
     {
@@ -4174,6 +4213,19 @@
       "featured": false
     },
     {
+      "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
+      "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
+      "category": "Costa Rica",
+      "bullets_20s": "• El TEC celebró la graduación de 266 nuevos profesionales en el Campus Tecnológico Central de Cartago.\n• La ceremonia tuvo dos actos, donde los graduados recibieron títulos de diversas carreras profesionales.\n• Casi la mitad de los graduados alcanzó una maestría, destacando el compromiso educativo del TEC.\n• El evento conmemora 55 años de historia del Tecnológico de Costa Rica en el ámbito académico.\n• Esteban González, un graduado, subrayó la singularidad detrás de cada título y su significado personal.",
+      "source_name": "sepacheco",
+      "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
+      "publish_date": "2026-11-19T17:06:28.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC celebra la graduación de 266 nuevos profesionales, un gran esfuerzo educativo.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
+      "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
+      "featured": false
+    },
+    {
       "slug": "nasa-ofrece-1-millon-a-estudiantes-por-ideas-para-construir-una-base-en-la-luna-conozca-los-detalles-de-la-iniciativa",
       "title": "NASA ofrece $1 millón a estudiantes por ideas para construir una base en la Luna: conozca los detalles de la iniciativa",
       "category": "Mundo",
@@ -4652,19 +4704,6 @@
       "teaser": "Lo clave en 20 segundos: Cierres viales por la Gran Maratón Costa Rica en San José este fin de semana.",
       "image_url": "https://www.nacion.com/resizer/v2/VFJWHA67ORCSPOHBUTUJKA4OKE.png?smart=true&auth=a71cc9ca70236e585dc6c569e27cbf8d252943bf292ea6190b4be0f750f82405&width=1440",
       "description": "Conozca los horarios de cierres viales en diferentes puntos de San José para la Gran Maratón Costa Rica, este fin de semana.",
-      "featured": false
-    },
-    {
-      "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
-      "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
-      "category": "Costa Rica",
-      "bullets_20s": "• El TEC celebra a 266 nuevos profesionales en dos ceremonias de graduación en Cartago.\n• Casi la mitad de los graduados obtuvo una maestría y destacan dos doctorados.\n• Familias y autoridades acompañaron a los graduados en este importante acontecimiento.\n• El TEC se posiciona entre las mejores universidades de la región según rankings internacionales.\n• La rectoría reafirma la importancia de la educación pública como inversión en el país.",
-      "source_name": "sepacheco",
-      "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
-      "publish_date": "2026-11-19T00:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: 266 nuevos profesionales del TEC celebran su graduación con familia y compromiso social.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
-      "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
     },
     {
@@ -141987,8 +142026,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-25T17:45:27.042Z",
-  "total": 10922,
+  "generated_at": "2026-11-25T18:45:28.309Z",
+  "total": 10925,
   "removed_soccer_news_count": 1695,
   "removed_soccer_news_titles": [
     "¿Genera confianza Kevin Briceño a la defensa de Cartaginés? Líder de la zaga brumosa responde",
