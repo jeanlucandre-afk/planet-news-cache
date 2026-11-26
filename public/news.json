@@ -1,14 +1,40 @@
 {
   "news": [
     {
+      "slug": "policia-detiene-a-tres-personas-durante-marcha-contra-la-violencia-hacia-las-mujeres-en-san-jose",
+      "title": "Policía detiene a tres personas durante marcha contra la violencia hacia las mujeres en San José",
+      "category": "Costa Rica",
+      "bullets_20s": "• La marcha en San José se realizó para protestar contra la violencia hacia las mujeres.\n• La intervención policial generó controversia y ha sido condenada por diversas organizaciones.\n• Multitud de ciudadanos apoyaron la causa con pancartas y consignas de unidad.\n• El Frente Amplio exige una revisión del accionar de la Fuerza Pública.\n• La violencia hacia las mujeres sigue siendo un tema crítico en la sociedad costarricense.",
+      "source_name": "Silvia Ureña Corrales, Sebastián Sánchez",
+      "source_url": "https://www.nacion.com/sucesos/policia-detiene-a-tres-personas-durante-marcha/3OLRQRNFPVEF3NRHZRMSCEH77Q/story/",
+      "publish_date": "2026-11-26T01:19:17.000Z",
+      "teaser": "Lo clave en 20 segundos: detención de tres personas durante marcha contra violencia hacia mujeres en San José.",
+      "image_url": "https://www.nacion.com/resizer/v2/7YJC3I4L2BBMJH4TF6UVDW37IM.jpeg?smart=true&auth=5b801330341c6ba188bb668e2e585809dbb267fe233360ec50e27c6b350c44e8&width=1440",
+      "description": "La Fuerza Pública detuvo a tres personas durante la marcha contra la violencia hacia las mujeres en San José este 25 de noviembre. El Frente Amplio condenó la intervención policial.",
+      "featured": false
+    },
+    {
+      "slug": "tributacion-exige-a-contribuyentes-identificar-a-los-contadores-que-elaboren-sus-declaraciones-de-impuestos-incorporara-",
+      "title": "Tributación exige a contribuyentes identificar a los contadores que elaboren sus declaraciones de impuestos: incorporará nuevos campos en formularios",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Hacienda modificará los formularios para declarar impuestos de IVA y renta.\n• Los contribuyentes deberán identificar a sus contadores en las declaraciones fiscales.\n• Se busca mejorar la transparencia en el proceso de declaración tributaria.\n• Los cambios buscan simplificar la presentación de impuestos y asegurar cumplimiento.\n• Esta medida se implementará en formularios que usan contadores profesionales.\n• Los nuevos campos en los formularios facilitarán la función de auditoría tributaria.",
+      "source_name": "Arianna  Villalobos Solís",
+      "source_url": "https://www.nacion.com/economia/tributacion-exige-a-contribuyentes-identificar-a/J5FBD4OEFFCK7KBT6PBM3ICELQ/story/",
+      "publish_date": "2026-11-26T00:38:11.000Z",
+      "teaser": "Lo clave en 20 segundos: Hacienda exigirá a contribuyentes identificar a contadores en sus declaraciones de impuestos.",
+      "image_url": "https://www.nacion.com/resizer/v2/XWWX4AR6YFEN5MBZA4TXOORWDU.jpg?auth=3a4a67683933051438a46ef59c906f2e865d16349f987790b7d7bc3f47fb4e09&smart=true&width=4398&height=2932",
+      "description": "Hacienda modificará los formularios de IVA y renta para que los contribuyentes identifiquen a los profesionales en ciencias contables o económicas que elaboren las declaraciones tributarias.",
+      "featured": false
+    },
+    {
       "slug": "como-identificar-los-primeros-indicios-del-ciclo-de-violencia-preguntas-clave-para-saber-si-una-relacion-limita-su-auton",
       "title": "Cómo identificar los primeros indicios del ciclo de violencia: preguntas clave para saber si una relación limita su autonomía",
       "category": "Costa Rica",
-      "bullets_20s": "• Identificar el ciclo de violencia es esencial para la prevención y búsqueda de ayuda adecuada.\n• Señales de control en la relación pueden ser indicativos de una dinámica tóxica y perjudicial.\n• El miedo y la dependencia son alarmantes aspectos en las relaciones personales a observar.\n• Preguntas clave ayudan a discernir si hay un riesgo de violencia en la relación actual.\n• Conocer dónde buscar ayuda es vital para aquellos que enfrentan situaciones de violencia.",
+      "bullets_20s": "• Identificar los indicios del ciclo de violencia es crucial para tomar medidas a tiempo.\n• Señales como el control excesivo pueden ser un indicativo de problemas en la relación.\n• El miedo constante es un síntoma que no debe ser ignorado por las víctimas.\n• Buscar ayuda profesional es vital para salir de una situación de violencia.\n• La autonomía personal puede verse fuertemente afectada en relaciones abusivas.",
       "source_name": "Yucsiany  Salazar Serrano",
       "source_url": "https://www.nacion.com/mi-bienestar/como-identificar-los-primeros-indicios-del-ciclo/3ZQ76QTP2JBVHOZ2VE5K2SIIQE/story/",
       "publish_date": "2026-11-26T00:10:42.000Z",
-      "teaser": "Lo clave en 20 segundos: Identifica los signos de violencia y busca ayuda en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: Identifica indicios de violencia en relaciones y busca apoyo.",
       "image_url": "https://www.nacion.com/resizer/v2/YYVZSYC53ZEZ5M4FEQX545K6CQ.jpg?auth=dd37605441278c403100cc2efbf9209f8f133b60bd308d1c1b7446d09d281d50&smart=true&width=5131&height=3420",
       "description": "Ciclo de violencia contra la mujer: señales de control, miedo y dependencia que advierten riesgo. Conozca cómo identificarlo y dónde buscar ayuda en Costa Rica.",
       "featured": false
@@ -50,6 +76,19 @@
       "teaser": "Lo clave en 20 segundos: Fiscalía solicita pena severa por un caso de homicidio grabado.",
       "image_url": "https://www.nacion.com/resizer/v2/3KYXN2AHNNCSHP3PRJSCJ2M7AY.jpeg?auth=b92a3b4a47f7c6135f0402496d585eab8dff74c6d88a2a9eacc54ca2208965e5&smart=true&width=1511&height=2015",
       "description": "La Fiscalía de Osa solicitó una fuerte condena para un finquero acusado de asesinar al productor agrícola Reymer Novo Espinoza, de 42 años, quien grabó su propio homicidio ocurrido el 23 de enero de 2023 en Palmar Norte.",
+      "featured": false
+    },
+    {
+      "slug": "pase-decadas-como-agente-del-fbi-y-este-es-el-caso-que-no-pude-dejar-atras",
+      "title": "Pasé décadas como agente del FBI y este es el caso que no pude dejar atrás",
+      "category": "Mundo",
+      "bullets_20s": "• Jane Collins trabajó durante décadas para el FBI, investigando casos complejos y demandantes.\n• Uno de sus casos más impactantes estuvo relacionado con un tiroteo masivo en el pasado.\n• Los culpables fueron acusados de robar a la familia de una víctima del tiroteo.\n• El artículo analiza cómo el trabajo de Collins marcó su vida personal y profesional.\n• Collins narra sus emociones al ver justicia después de tantos años de sufrimiento.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c6174wy0l54eo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-11-25T23:49:27.000Z",
+      "teaser": "Lo clave en 20 segundos: la historia de un caso que marcó la vida de una agente del FBI.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/bd15/live/0cab0d90-e815-11f1-a094-5fdc692f3e33.jpg",
+      "description": "Jane Collins casi había perdido la esperanza de ver a Michael Donovan y Richard Moore comparecer ante la justicia. Entonces fueron acusados de robar al hermano de un autor de un tiroteo masivo.",
       "featured": false
     },
     {
@@ -173,13 +212,13 @@
       "slug": "editorial-tecnologica-invita-a-conocer-las-aplicaciones-de-la-inteligencia-artificial-en-la-ingenieria-industrial",
       "title": "Editorial Tecnológica invita a conocer las aplicaciones de la inteligencia artificial en la Ingeniería Industrial",
       "category": "Tecnología",
-      "bullets_20s": "• La inteligencia artificial está revolucionando los procesos industriales actuales en todo el mundo.\n• Se abordarán oportunidades y desafíos en la incorporación de estas herramientas tecnológicas.\n• El webinar está dirigido a estudiantes y profesionales en Ingeniería Industrial y disciplinas relacionadas.\n• El evento contará con la participación del Ing. Jorge Acuña, reconocido académico en esta área.\n• Los participantes conocerán las obras publicadas del Ing. Acuña y sus aportes académicos en industria.",
+      "bullets_20s": "• La inteligencia artificial está revolucionando los procesos en el ámbito industrial y académico.\n• Se abordará la conexión entre Ingeniería Industrial y la inteligencia artificial en el webinar.\n• El Ing. Jorge Acuña compartirá su conocimiento sobre aplicaciones prácticas en la ingeniería.\n• La actividad está dirigida a estudiantes y profesionales interesados en nuevas tendencias.\n• El webinar se realizará el jueves 3 de diciembre a las 5 p. m. por Zoom.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/editorial-tecnologica-invita-conocer-aplicaciones-inteligencia-artificial-ingenieria-industrial-0",
       "publish_date": "2026-11-25T20:07:20.000Z",
-      "teaser": "Lo clave en 20 segundos: conoce cómo la inteligencia artificial impacta la Ingeniería Industrial en un webinar.",
+      "teaser": "Lo clave en 20 segundos: Inteligencia artificial transforma la Ingeniería Industrial, participa en el webinar.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/charla-ia-1_0.jpg",
-      "description": "Editorial Tecnológica invita a conocer las aplicaciones de la inteligencia artificial en la Ingeniería Industrial",
+      "description": "Editorial Tecnológica invita a conocer las aplicaciones de la inteligencia artificial en la Ingeniería Industrial.",
       "featured": false
     },
     {
@@ -263,12 +302,12 @@
     {
       "slug": "tec-recibe-el-ix-encuentro-sobre-didactica-de-la-estadistica-la-probabilidad-y-el-analisis-de-datos-edepa-9",
       "title": "TEC recibe el IX Encuentro sobre Didáctica de la Estadística, la Probabilidad y el Análisis de Datos (EDEPA 9)",
-      "category": "Costa Rica",
-      "bullets_20s": "• El Encuentro EDEPA 9 se llevará a cabo del 7 al 11 de diciembre de 2026.\n• Está dirigido a docentes y estudiantes interesados en la estadística y probabilidad.\n• Habrá 5 conferencias y 47 ponencias de expertos en educación estocástica.\n• Los temas incluyen estadísticas descriptivas, visualización y ética en datos.\n• Conferencias serán dictadas por profesionales de Costa Rica y el extranjero.\n• Las charlas Pre y Pos EDEPA estarán abiertas al público interesado.\n• El evento se transmitirá en vivo por el canal de YouTube del TEC.\n• Inscripciones son requeridas y están sujetas a disponibilidad de cupos.\n• Este evento ofrece una valiosa oportunidad de aprendizaje en educación matemática.\n• Las actividades se realizarán en el Campus Tecnológico Central en Cartago.",
+      "category": "Ciencia",
+      "bullets_20s": "• El IX Encuentro EDEPA 9 se llevará a cabo en el TEC del 7 al 11 de diciembre.\n• Está dirigido a educadores, estudiantes e interesados en estadística y análisis de datos.\n• Contará con 5 conferencias, 47 ponencias y 16 talleres prácticos sobre estadística.\n• Expositores de varios países compartirán su conocimiento en la enseñanza de la estadística.\n• Se abordarán temas como probabilidad, visualización de datos y ética en la estadística.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-recibe-ix-encuentro-didactica-estadistica-probabilidad-analisis-datos-edepa-9",
       "publish_date": "2026-11-25T17:40:19.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC albergará el EDEPA 9, un evento educativo sobre estadística y probabilidad.",
+      "teaser": "Lo clave en 20 segundos: El IX Encuentro EDEPA 9 promueve la enseñanza de la estadística en el TEC.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/edepa.jpeg",
       "description": "TEC recibe el IX Encuentro sobre Didáctica de la Estadística, la Probabilidad y el Análisis de Datos (EDEPA 9)",
       "featured": false
@@ -446,13 +485,13 @@
       "slug": "kilmar-abrego-garcia-abandona-eeuu-y-viaja-a-espana-tras-una-larga-batalla-legal-para-evitar-ser-deportado-de-nuevo",
       "title": "Kilmar Abrego García abandona EE.UU. y viaja a España tras una larga batalla legal para evitar ser deportado de nuevo",
       "category": "Mundo",
-      "bullets_20s": "• Kilmar Abrego García ha enfrentado una prolongada y difícil batalla legal en Estados Unidos.\n• Su viaje a España marca un nuevo capítulo en su vida luego de años de incertidumbre legal.\n• Se ha convertido en un ícono de la lucha por los derechos de inmigrantes en EE.UU.\n• La situación de Abrego resalta la complejidad de las leyes migratorias en Estados Unidos.\n• Su historia inspira a muchos que enfrentan situaciones similares en la comunidad inmigrante.",
+      "bullets_20s": "• Kilmar Ábrego García ha luchado por su permanencia en EE.UU. durante años y finalmente decidió partir.\n• Su odisea resalta los desafíos que enfrentan muchos inmigrantes en busca de un futuro mejor.\n• La situación actual de los inmigrantes es un tema de gran relevancia en el ámbito internacional.\n• Las políticas de inmigración en EE.UU. han sido objeto de intensos debates y controversias.\n• Ábrego se ha convertido en un icono para aquellos que luchan contra la deportación injusta.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c6y80kp45gv2o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-25T13:32:58.000Z",
-      "teaser": "Lo clave en 20 segundos: Kilmar Abrego García viaja a España tras una larga batalla legal en EE.UU.",
+      "teaser": "Lo clave en 20 segundos: Kilmar Ábrego trasciende su lucha como símbolo de resistencia inmigrante.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/af4b/live/6cf06380-e8c9-11f1-99a1-253766e7ad8b.jpg",
-      "description": "Ábrego se convirtió en un símbolo de la resistencia en contra de la persecución del gobierno de EE.UU. en contra de los inmigrantes indocumented.",
+      "description": "Ábrego se convirtió en un símbolo de la resistencia en contra de la persecución del gobierno de EE.UU. en contra de los inmigrantes indocumentados.",
       "featured": false
     },
     {
@@ -1119,19 +1158,6 @@
       "featured": false
     },
     {
-      "slug": "pequenos-grandes-oradores-el-tec-lleva-la-oratoria-a-las-aulas-rurales-de-cartago",
-      "title": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
-      "category": "Costa Rica",
-      "bullets_20s": "• El TEC ha implementado un proyecto de oratoria en escuelas rurales de Cartago.\n• Diecinueve docentes aprendieron técnicas para mejorar la expresión oral de sus estudiantes.\n• El taller cuenta con cinco sesiones enfocadas en la práctica de la oratoria.\n• Se identificó una necesidad de mayor formación en habilidades comunicativas en educación.\n• El enfoque del proyecto promueve la formación de docentes como base para el aprendizaje.",
-      "source_name": "m.molina",
-      "source_url": "http://www.tec.ac.cr/pequenos-grandes-oradores-tec-lleva-oratoria-aulas-rurales-cartago",
-      "publish_date": "2026-11-24T15:07:47.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC capacita a docentes de Cartago en oratoria para potenciar la comunicación en estudiantes.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_20251031_143128.jpg",
-      "description": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
-      "featured": false
-    },
-    {
       "slug": "un-vino-sin-historia-es-un-vino-vacio-la-leccion-del-enologo-danes-que-visito-costa-rica",
       "title": "Un vino sin historia es un vino vacío: la lección del enólogo danés que visitó Costa Rica",
       "category": "Costa Rica",
@@ -1483,19 +1509,6 @@
       "featured": false
     },
     {
-      "slug": "funcionarios-del-tec-destacan-por-su-liderazgo-en-el-xii-simposio-internacional-de-icacit-en-chile",
-      "title": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
-      "category": "Costa Rica",
-      "bullets_20s": "• La Dra. Mónica Hernández Campos fue conferencista principal en el simposio, destacando su investigación.\n• El Ing. Víctor J. Hernández González actuó como Revisor Internacional de artículos en el evento académico.\n• El simposio se llevó a cabo en la Pontificia Universidad Católica de Chile, un lugar de prestigio.\n• Cinco invitados costarricenses participaron, exhibiendo proyectos y charlas sobre calidad educativa.\n• El evento convalidó su importancia en América Latina para la mejora en ingeniería y computación.",
-      "source_name": "nchinchilla",
-      "source_url": "http://www.tec.ac.cr/funcionarios-tec-destacan-su-liderazgo-xii-simposio-internacional-icacit-chile",
-      "publish_date": "2026-11-24T03:39:58.000Z",
-      "teaser": "Lo clave en 20 segundos: Funcionarios del TEC brillan en simposio internacional de ICACIT en Chile.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/con-don-olman-y-monica.jpeg",
-      "description": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
-      "featured": false
-    },
-    {
       "slug": "acciones-de-nvidia-de-trump-habrian-aumentado-hasta-15-millones-en-valor-tras-repunte-en-bolsa-calcula-financial-times",
       "title": "Acciones de Nvidia de Trump habrían aumentado hasta $15 millones en valor tras repunte en bolsa, calcula ‘Financial Times’",
       "category": "Mundo",
@@ -1545,6 +1558,19 @@
       "teaser": "Lo clave en 20 segundos: Un accidente llevó al OIJ a decomisar 412 kilos de cocaína en Orotina.",
       "image_url": "https://www.nacion.com/resizer/v2/5BYKT4CQPBC5ZC7CNHNTVX77QE.jpeg?auth=a84db1f49aaf9dbf99f36e73cb75ea4d56e693dd1c900d77036650c58fa8fc3d&smart=true&width=900&height=1600",
       "description": "Un accidente de tránsito en San Jerónimo de Orotina llevó a agentes del Organismo de Investigación Judicial (OIJ) a incautar 412 kilogramos de cocaína que estaban ocultos dentro de uno de los vehículos involucrados.",
+      "featured": false
+    },
+    {
+      "slug": "pequenos-grandes-oradores-el-tec-lleva-la-oratoria-a-las-aulas-rurales-de-cartago",
+      "title": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
+      "category": "Costa Rica",
+      "bullets_20s": "• El proyecto 'Pequeños GRANDES Oradores' busca mejorar la expresión oral en estudiantes rurales.\n• Nueve docentes de Cartago asistieron a un taller para aprender técnicas de oratoria.\n• El TEC identifica la necesidad de fortalecer habilidades comunicativas desde la escuela.\n• Formar a los maestros permite que las enseñanzas se reproduzcan en el aula efectivamente.\n• Las técnicas de oratoria ayudan a estudiantes a expresar sus ideas con confianza y claridad.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/pequenos-grandes-oradores-tec-lleva-oratoria-aulas-rurales-cartago",
+      "publish_date": "2026-11-24T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: El TEC capacita docentes para enseñar oratoria en escuelas rurales.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_20251031_143128.jpg",
+      "description": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
       "featured": false
     },
     {
@@ -1610,6 +1636,19 @@
       "teaser": "Lo clave en 20 segundos: La UE busca sancionar a los atletas rusos para evitar la propaganda política.",
       "image_url": "https://www.nacion.com/resizer/v2/RWSG3C4OGREVRGH74BGPUD3GVE.jpg?smart=true&auth=3c9f09c914a148665d876f0cd2441e5690a6c91afe1522ae92b1e1337782512e&width=1440",
       "description": "En la UE pretenden evitar que Rusia utilice sus delegaciones deportivas como instrumentos de propaganda, en medio de las tensiones por la invasión a Ucrania.",
+      "featured": false
+    },
+    {
+      "slug": "funcionarios-del-tec-destacan-por-su-liderazgo-en-el-xii-simposio-internacional-de-icacit-en-chile",
+      "title": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile",
+      "category": "Costa Rica",
+      "bullets_20s": "• La Dra. Mónica Hernández Campos fue conferencista principal durante el simposio en Chile, liderando un taller.\n• El Ing. Víctor J. Hernández González actuó como Revisor Internacional, evaluando ponencias científicas presentadas.\n• Cinco representantes costarricenses participaron, incluyendo expositores de proyectos estudiantiles y conferencias.\n• El simposio se enfoca en la acreditación y calidad de la educación en ingeniería y computación.\n• La intervención de Hernández Campos abordó la analítica curricular y la rendición de cuentas académicas.",
+      "source_name": "nchinchilla",
+      "source_url": "http://www.tec.ac.cr/funcionarios-tec-destacan-su-liderazgo-xii-simposio-internacional-icacit-chile",
+      "publish_date": "2026-11-23T21:39:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Funcionarios del TEC brillan en simposio internacional sobre calidad educativa.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/con-don-olman-y-monica.jpeg",
+      "description": "Funcionarios del TEC destacan por su liderazgo en el XII Simposio Internacional de ICACIT en Chile.",
       "featured": false
     },
     {
@@ -4463,11 +4502,11 @@
       "slug": "266-historias-de-esfuerzo-cruzan-la-meta-el-tec-celebra-a-su-nueva-generacion-de-profesionales",
       "title": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "category": "Costa Rica",
-      "bullets_20s": "• Este viernes, 266 graduados del Tecnológico de Costa Rica celebraron su éxito en dos ceremonias especiales.\n• La graduación se llevó a cabo en el Campus Tecnológico Central en Cartago, con familias presentes para celebrar.\n• Casi la mitad de los graduados obtuvo una maestría, destacando el compromiso del TEC con la educación de calidad.\n• El TEC alcanzó un lugar destacado en el QS World University Rankings: Latin America & The Caribbean 2027.\n• El evento conmemoró 55 años de historia del TEC y el 50 aniversario de varias carreras técnicas importantes.",
+      "bullets_20s": "• Este año, 266 graduados del TEC celebran su esfuerzo durante una emotiva ceremonia en Cartago.\n• La graduación del TEC incluye títulos en diversas áreas, resaltando la ingeniería y administración.\n• María Estrada, rectora del TEC, destaca la importancia de la educación pública para el desarrollo del país.\n• La ceremonia marca el 55 aniversario del TEC y su compromiso con la educación de calidad.\n• Los graduados provienen de diversas provincias, reflejando el alcance nacional de la institución.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/266-historias-esfuerzo-cruzan-meta-tec-celebra-su-nueva-generacion-profesionales",
       "publish_date": "2026-11-19T17:06:28.000Z",
-      "teaser": "Lo clave en 20 segundos: 266 graduados del TEC celebran su esfuerzo y logros en dos ceremonias emotivas.",
+      "teaser": "Lo clave en 20 segundos: El TEC celebra 266 nuevos profesionales de diversas disciplinas en su graduación.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/whatsapp-image-2026-11-20-at-2.22.20-pm-5.jpeg",
       "description": "266 historias de esfuerzo cruzan la meta: el TEC celebra a su nueva generación de profesionales",
       "featured": false
@@ -142273,8 +142312,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-26T00:45:26.083Z",
-  "total": 10944,
+  "generated_at": "2026-11-26T01:45:26.008Z",
+  "total": 10947,
   "removed_soccer_news_count": 1696,
   "removed_soccer_news_titles": [
     "Jugador de Cartaginés recibió muchas preguntas por su ausencia de la Selección de Costa Rica",
