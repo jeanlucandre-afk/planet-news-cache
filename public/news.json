@@ -1,16 +1,68 @@
 {
   "news": [
     {
+      "slug": "ejercito-de-israel-mata-a-dos-empleados-de-medicos-sin-fronteras-en-gaza",
+      "title": "Ejército de Israel mata a dos empleados de Médicos Sin Fronteras en Gaza",
+      "category": "Mundo",
+      "bullets_20s": "• El ataque tuvo lugar en Gaza, un territorio con conflictos históricos y recientes.\n• Médicos Sin Fronteras condenó la muerte de sus empleados en este trágico incidente.\n• Israel justifica sus acciones alegando vínculos con el grupo militante de Hamás.\n• El acceso a la atención médica es un tema crítico en zonas de conflicto armado.\n• Organizaciones humanitarias demandan protección para el personal médico en crisis.\n• La violencia en Gaza continúa afectando a la población civil de manera severa.\n• Los ataques a clínicas plantean serias preocupaciones sobre derechos humanos.\n• Este tipo de eventos agravan la crisis humanitaria en la región de Medio Oriente.",
+      "source_name": "AFP",
+      "source_url": "https://www.nacion.com/el-mundo/ejercito-de-israel-mata-a-dos-empleados-de-medicos/2G7GR2NTDZCY5PNNVG37VMPXQU/story/",
+      "publish_date": "2026-11-28T12:00:01.000Z",
+      "teaser": "Lo clave en 20 segundos: el ataque en Gaza dejó muertos entre médicos humanitarios.",
+      "image_url": "https://www.nacion.com/resizer/v2/RYVI3JYK65G4BM32DJ77MDZCCI.jpg?auth=6cb27a7b7a88e837f9d678bf044fdf64dccff55026282be2ebb364a49c14555a&smart=true&width=1024&height=682",
+      "description": "Médicos Sin Fronteras denunció que dos de sus empleados murieron en un ataque israelí contra una clínica en Gaza. Israel aseguró que eran de Hamás.",
+      "featured": false
+    },
+    {
+      "slug": "francesca-albanese-y-el-signo-de-un-gobierno",
+      "title": "Francesca Albanese y el signo de un gobierno",
+      "category": "Mundo",
+      "bullets_20s": "• Los derechos humanos son esenciales para evaluar la relación entre el poder y la ciudadanía.\n• Albanese destaca la importancia de cuestionar las decisiones del gobierno de manera crítica.\n• El artículo examina cómo los derechos se utilizan en el contexto internacional.\n• Cada Estado tiene la responsabilidad de respetar y promover los derechos humanos.\n• La interpelación al poder es fundamental para el funcionamiento de una democracia robusta.",
+      "source_name": "José Daniel Rodríguez Arrieta",
+      "source_url": "https://www.nacion.com/opinion/columnistas/francesca-albanese-y-el-signo-de-un-gobierno/MNIUVSQ52ZCSNNNSHOBAXUDPZI/story/",
+      "publish_date": "2026-11-28T11:45:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Los derechos humanos son fundamentales para la crítica del poder gubernamental.",
+      "image_url": "https://www.nacion.com/resizer/v2/KMH2JDXHQRFGTEWVBJH6A57XQA.jpg?smart=true&auth=fe650483702d520bd4ade7f61c047f63b5a5769225e04bd21160a0eb5e01a09e&width=1440",
+      "description": "Los derechos humanos no constituyen solo un repertorio de virtudes con las cuales los Estados adornan su identidad internacional. Su razón de ser reside, precisamente, en su capacidad para interpelar al poder, sobre todo cuando esa interpelación resulta políticamente inconveniente.",
+      "featured": false
+    },
+    {
+      "slug": "por-que-la-temperatura-corporal-de-los-humanos-se-ha-reducido-en-los-ultimos-150-anos",
+      "title": "¿Por qué la temperatura corporal de los humanos se ha reducido en los últimos 150 años?",
+      "category": "Ciencia",
+      "bullets_20s": "• Investigaciones muestran que la temperatura corporal de los humanos ha cambiado significativamente en el tiempo.\n• La temperatura promedio de los humanos en el pasado era más alta que la actual.\n• Científicos investigan las posibles razones detrás de esta reducción en la temperatura corporal.\n• Factores ambientales y cambios en el estilo de vida podrían influir en esta variación.\n• La salud pública y el bienestar humano también se ven afectados por temperaturas corporales diferentes.",
+      "source_name": "BBC Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c62kek7gyy3qo?at_medium=RSS&at_campaign=rss",
+      "publish_date": "2026-11-28T11:33:29.000Z",
+      "teaser": "Lo clave en 20 segundos: Se investiga la reducción de la temperatura corporal en humanos durante 150 años.",
+      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/2cd9/live/56146c30-dd05-11f1-93e1-3b657b665bcf.jpg",
+      "description": "Al parecer, la temperatura corporal promedio de los seres humanos solía ser más alta que ahora. Los científicos aún investigan la razón exacta.",
+      "featured": false
+    },
+    {
+      "slug": "costa-rica-presume-de-su-agua-potable-pero-hay-cantones-donde-el-acceso-apenas-llega-al-60",
+      "title": "Costa Rica presume de su agua potable, pero hay cantones donde el acceso apenas llega al 60%",
+      "category": "Costa Rica",
+      "bullets_20s": "• Costa Rica muestra logros en abastecimiento de agua potable a su población.\n• Se mencionan diferencias significativas en acceso al agua entre cantones.\n• Limón presenta un acceso al agua potable de solo el 79%.\n• En cantones como Talamanca, el acceso al agua cae hasta el 60%.\n• La Contraloría alerta sobre temas de calidad y continuidad del servicio.",
+      "source_name": "Andrés Fernández Arauz",
+      "source_url": "https://www.nacion.com/opinion/columnistas/costa-rica-presume-de-su-agua-potable-pero-hay/XD2C6ZK7IBA7DAJLHDPQXOIBZE/story/",
+      "publish_date": "2026-11-28T11:30:00.000Z",
+      "teaser": "Lo clave en 20 segundos: Costa Rica enfrenta desigualdades en el acceso al agua potable en diferentes cantones.",
+      "image_url": "https://www.nacion.com/resizer/v2/BBHFASAVHJC4BJFKHQWOXP3WZ4.png?smart=true&auth=abb4d2b8e842b1c14ae29358300084bad1a79dcc4e0d80f61d661817ee4aaadc&width=1440",
+      "description": "Aunque Costa Rica abastece de agua potable a cerca del 94% de la población, el acceso por acueducto cae al 79% en Limón y ronda el 60% en Talamanca. La Contraloría advierte, además, sobre problemas de calidad y continuidad.",
+      "featured": false
+    },
+    {
       "slug": "bccr-bajo-la-tpm-pero-advierte-que-esta-listo-para-actuar-si-se-desordena-el-mercado-cambiario",
       "title": "BCCR bajó la TPM, pero advierte que está ‘listo para actuar’ si se desordena el mercado cambiario",
       "category": "Costa Rica",
-      "bullets_20s": "• El BCCR ha tomado medidas para ajustar la tasa de política monetaria en respuesta a la economía.\n• Se advierte sobre el posible desorden en el mercado cambiario si se alteran las condiciones actuales.\n• La brecha entre la TPM y las tasas de la Fed podría incrementar en los próximos meses.\n• Analistas esperan que el banco central actúe si se presentan condiciones de volatilidad extrema.\n• El impacto de estas decisiones podría influir en el costo del crédito y la inflación futura.",
+      "bullets_20s": "• El BCCR ha decidido reducir la Tasa de Política Monetaria para estimular la economía.\n• La medida podría afectar la estabilidad del mercado cambiario en los próximos meses.\n• La brecha con las tasas de la Fed es motivo de atención para las autoridades económicas.\n• Los analistas esperan que esta decisión genere reacciones en el tipo de cambio del colón.\n• El BCCR se mantiene alerta y listo para ajustar políticas si es necesario.\n• La TPM influye en las tasas de interés del sistema financiero nacional y el consumo.\n• El contexto internacional también está afectando las decisiones del Banco Central.\n• Se anticipa que la economía costarricense enfrente retos en su recuperación.\n• Las decisiones del BCCR son cruciales para mantener la estabilidad económica en el país.",
       "source_name": "Luis Enrique Brenes",
       "source_url": "https://www.nacion.com/economia/bccr-bajo-la-tpm-pero-advierte-que-esta-listo-para/5EGHPPUYFZEG5FEIAF6MNJ2QDU/story/",
       "publish_date": "2026-11-28T11:15:00.000Z",
-      "teaser": "Lo clave en 20 segundos: BCCR reduce la TPM, pero se prepara para actuar ante el desorden cambiario.",
+      "teaser": "Lo clave en 20 segundos: El BCCR bajó la TPM, pero está listo para actuar ante posibles desordenes en el mercado.",
       "image_url": "https://www.nacion.com/resizer/v2/APNYSS3PU5DHTJNM3NNRMNLHCA.JPG?auth=54c2168db6a54a209a023ff1165f37cbb73292197b6ff559e2450d882fde4c66&smart=true&width=3000&height=2000",
-      "description": "La reducción de la TPM amplió el diferencial respecto a las tasas de la Fed, una brecha que podría aumentar nuevamente en diciembre",
+      "description": "La reducción de la TPM amplió el diferencial respecto a las tasas de la Fed, una brecha que podría aumentar nuevamente en diciembre.",
       "featured": false
     },
     {
@@ -30,11 +82,11 @@
       "slug": "editorial-el-caso-albanese-mucho-mas-que-verguenza",
       "title": "Editorial: El caso Albanese: mucho más que vergüenza",
       "category": "Costa Rica",
-      "bullets_20s": "• El caso Albanese revela problemas profundos en la cultura política de Costa Rica.\n• La vergüenza pública puede impactar la confianza en las instituciones democráticas.\n• Es vital la contención constitucional y legal en el ejercicio del poder Ejecutivo.\n• Inquietudes sobre el Estado de derecho se acentúan con este episodio.\n• La falta de principios en el gobierno es un asunto que preocupa a la ciudadanía.",
+      "bullets_20s": "• El caso Albanese pone en jaque la confianza de los ciudadanos en las instituciones públicas de Costa Rica.\n• La falta de acción del Ejecutivo afecta la percepción de democracia en el país y en la región.\n• Este episodio refleja una crisis de valores y principios en el gobierno actual.\n• Es fundamental restablecer el respeto a la Constitución y el Estado de derecho en el país.\n• El impacto de este caso podría tener repercusiones en futuras elecciones y decisiones políticas.",
       "source_name": "La Nación",
       "source_url": "https://www.nacion.com/opinion/editorial/editorial-el-caso-albanese-mucho-mas-que-verguenza/Z6SVYM7VBZAX7O5KAEHKHMZREA/story/",
       "publish_date": "2026-11-28T11:00:00.000Z",
-      "teaser": "Lo clave en 20 segundos: un debate sobre la democracia y el Estado de derecho en Costa Rica.",
+      "teaser": "Lo clave en 20 segundos: El caso Albanese revela crisis en democracia y gobernanza en Costa Rica.",
       "image_url": "https://www.nacion.com/resizer/v2/VEHMVMHLSBGCFOCZ7FKWHI5HU4.jpg?smart=true&auth=dc8325c2458c4fff1bf72e1b8ffa6217f785506042840d757155f0f27fae5c9b&width=1440",
       "description": "Vergüenza y humillación nacional, sin duda, pero también transgresiones inaceptables para la democracia y el Estado de derecho. El episodio revela, además, un mal aún mayor: el de la falta de contención constitucional, legal, diplomática y de principios del Ejecutivo para ejercer el poder",
       "featured": false
@@ -69,12 +121,12 @@
       "slug": "erika-cheung-la-joven-que-crecio-en-la-pobreza-y-termino-exponiendo-el-fraude-multimillonario-de-elizabeth-holmes-con-th",
       "title": "Erika Cheung, la joven que creció en la pobreza y terminó exponiendo el fraude multimillonario de Elizabeth Holmes con Theranos",
       "category": "Mundo",
-      "bullets_20s": "• Erika Cheung fue una de las pioneras en el área de tecnología médica innovadora.\n• Su historia destaca la lucha contra las irregularidades en el ámbito empresarial.\n• El escándalo de Theranos generó un gran debate sobre la ética en tecnología.\n• Denunció fraudes que comprometían la seguridad de los pacientes y usuarios.\n• Su valentía motivó a otros a hablar en situaciones difíciles en sus trabajos.\n• La atención médica sigue enfrentando retos de regulación y veracidad.\n• Su experiencia recalca la importancia de la transparencia en los negocios.\n• Los jóvenes innovadores deben ser críticos ante lo que sus empleadores proponen.",
+      "bullets_20s": "• Erika Cheung se gradúa y comienza su carrera en una innovadora empresa tecnológica.\n• La empresa prometía transformar el sector de la atención médica a nivel mundial.\n• Cheung descubre irregularidades que ponen en riesgo la salud y confianza del público.\n• Decide actuar y denuncia el fraude dentro de la organización a altos niveles.\n• Su valentía y compromiso ético despiertan atención en los medios y la sociedad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c60qjwen98jdo?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-28T09:59:57.000Z",
-      "teaser": "Lo clave en 20 segundos: Erika Cheung expone un fraude en tecnología médica que cambió su vida y el sector.",
-      "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/80ce/live/c66ee8b0-e4ef-11f1-8781-bf15c9202663.jpg",
+      "teaser": "Lo clave en 20 segundos: Erika expone un fraude impactante tras trabajar en Theranos.",
+      "image_url": "",
       "description": "Recién graduada, empezó a trabajar en una pujante empresa tecnológica que prometía revolucionar la atención médica. Pero descubrió algo oscuro y se atrevió a denunciarlo.",
       "featured": false
     },
@@ -160,11 +212,11 @@
       "slug": "el-pais-cuya-revolucion-solar-ha-sido-tan-exitosa-que-su-red-electrica-se-esta-desmoronando",
       "title": "El país cuya revolución solar ha sido tan exitosa que su red eléctrica se está desmoronando",
       "category": "Mundo",
-      "bullets_20s": "• El uso de energía solar en Pakistán ha crecido significativamente en los últimos años.\n• La tasa actual de energía solar en la red eléctrica es del 28%, un porcentaje notable.\n• Sin embargo, esta revolución solar presenta desafíos técnicos y de infraestructura importantes.\n• Los ciudadanos han adoptado la tecnología de paneles solares con gran entusiasmo y necesidad.\n• Los problemas estructurales en la red están generando un desbalance en la distribución de electricidad.",
+      "bullets_20s": "• El crecimiento de la energía solar en Pakistán ha sido impresionante y ha transformado el panorama energético.\n• La generación de energía solar ha pasado de ser casi inexistente a representar un porcentaje significativo.\n• Los ciudadanos están adoptando cada vez más paneles solares en sus hogares y negocios.\n• Sin embargo, esta revolución energética trae consigo desafíos tecnológicos y estructurales importantes.\n• La infraestructura eléctrica existente enfrenta retos para integrar el aumento de energía solar.\n• Los problemas de distribución eléctrica se vuelven más evidentes con la generación descentralizada.\n• Se requiere una inversión significativa para modernizar la red eléctrica nacional.\n• Expertos advierten sobre posibles fallos en la red si no se aborda la situación pronto.\n• La experiencia de Pakistán podría servir de lección para otros países en transición energética.\n• La energía solar debe ser parte de una estrategia más amplia hacia sostenibilidad y estabilidad.",
       "source_name": "BBC Mundo",
       "source_url": "https://www.bbc.com/mundo/articles/c9y7rgpe5dp8o?at_medium=RSS&at_campaign=rss",
       "publish_date": "2026-11-28T03:21:41.000Z",
-      "teaser": "Lo clave en 20 segundos: Pakistán enfrenta desafíos tras su auge en energía solar.",
+      "teaser": "Lo clave en 20 segundos: Pakistán enfrenta retos tras un notable aumento de energía solar en su red eléctrica.",
       "image_url": "https://ichef.bbci.co.uk/news/1200/branded_mundo/7f9b/live/9d67ed20-e29e-11f1-8dda-8925a81c3da5.jpg",
       "description": "La instalación de paneles solares por parte de los ciudadanos ha contribuido a aumentar la cuota de energía solar en la electricidad de Pakistán del 1% al 28%. Pero también hay serios problemas.",
       "featured": false
@@ -341,12 +393,12 @@
     {
       "slug": "feria-del-ciemtec-reunio-36-proyectos-estudiantiles-en-el-40-aniversario-de-ingenieria-en-materiales",
       "title": "Feria del CIEMTEC reunió 36 proyectos estudiantiles en el 40 aniversario de Ingeniería en Materiales",
-      "category": "Costa Rica",
-      "bullets_20s": "• La feria se llevó a cabo en el 40 aniversario de Ingeniería en Materiales en el TEC.\n• Se presentaron 36 proyectos divididos en áreas de salud, industria y biomateriales.\n• Los estudiantes desarrollaron prototipos que abordan problemas reales en diversas industrias.\n• La automatización industrial fue un tema destacado con innovaciones en válvulas y bandas transportadoras.\n• Prototipos como SkinGuard y OncoAlert buscan mejorar la salud y bienestar de las personas.",
+      "category": "Ciencia",
+      "bullets_20s": "• La feria, en su 40 aniversario, mostró 36 proyectos de estudiantes de Ingeniería en Materiales.\n• Prototipos abordaron soluciones para salud, industria y sostenibilidad en ingeniería de materiales.\n• Equipos presentaron innovaciones como válvulas hidráulicas y sistemas automatizados de producción.\n• Dispositivos como audífonos y sistemas de monitoreo fisiológico destacaron en la jornada.\n• Colaboraciones internacionales ampliaron la investigación en materiales avanzados y reciclaje.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/feria-ciemtec-reunio-36-proyectos-estudiantiles-40-aniversario-ingenieria-materiales",
       "publish_date": "2026-11-27T20:51:50.000Z",
-      "teaser": "Lo clave en 20 segundos: ¡Descubre los innovadores proyectos estudiantiles en la feria del CIEMTEC!",
+      "teaser": "Lo clave en 20 segundos: La feria del CIEMTEC mostró 36 proyectos innovadores de Ingeniería en Materiales.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/dsc05621.JPG",
       "description": "Feria del CIEMTEC reunió 36 proyectos estudiantiles en el 40 aniversario de Ingeniería en Materiales",
       "featured": false
@@ -406,12 +458,12 @@
     {
       "slug": "tec-reunio-a-corea-y-america-latina-para-analizar-el-futuro-de-la-inteligencia-artificial-en-salud",
       "title": "TEC reunió a Corea y América Latina para analizar el futuro de la inteligencia artificial en salud",
-      "category": "Ciencia",
-      "bullets_20s": "• Universidades latinoamericanas firmaron memorando para cooperación en IA con Corea del Sur.\n• Foro analizó cómo la IA puede mejorar la atención de salud y enfrentarse a sus retos.\n• TEC, NIPA y otros institutos organizaron el evento en celebración de su 55 aniversario.\n• Presentaciones destacaron la importancia de la IA en el primer nivel de atención médica.\n• Se discutieron riesgos éticos y la necesidad de formación en el personal de salud.",
+      "category": "Tecnología",
+      "bullets_20s": "• El Foro de Cooperación Internacional en IA se realizó en el TEC, enfocado en la salud.\n• Universidades e instituciones firmaron un memorando para colaborar en IA con Corea del Sur.\n• Especialistas discutieron los retos éticos y clínicos de la inteligencia artificial en salud.\n• El doctor Carlos Solano presentó su experiencia con IA en la atención primaria en salud.\n• La validación clínica y ética son esenciales en el uso de IA para tratamientos médicos.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-reunio-corea-america-latina-analizar-futuro-inteligencia-artificial-salud",
       "publish_date": "2026-11-27T20:06:42.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC analizó el uso de IA en salud junto a Corea y América Latina.",
+      "teaser": "Lo clave en 20 segundos: El TEC y Corea del Sur analizan el papel de la IA en la salud.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/colectiva-foro.jpg",
       "description": "TEC reunió a Corea y América Latina para analizar el futuro de la inteligencia artificial en salud",
       "featured": false
@@ -2032,13 +2084,13 @@
       "slug": "editorial-tecnologica-invita-a-conocer-las-aplicaciones-de-la-inteligencia-artificial-en-la-ingenieria-industrial",
       "title": "Editorial Tecnológica invita a conocer las aplicaciones de la inteligencia artificial en la Ingeniería Industrial",
       "category": "Tecnología",
-      "bullets_20s": "• La inteligencia artificial está revolucionando la forma en que se gestionan los procesos industriales.\n• Se llevará a cabo un webinar sobre la relación entre la ingeniería industrial y la inteligencia artificial.\n• El evento será dirigido por el Ing. Jorge Acuña, especialista en ingeniería industrial.\n• Se abordarán oportunidades y desafíos en la implementación de inteligencia artificial en industrias.\n• Se trata de una iniciativa para fortalecer la formación en ingeniería industrial y nuevas tecnologías.",
+      "bullets_20s": "• La inteligencia artificial está transformando procesos industriales a nivel global.\n• El webinar abordará la relación entre la ingeniería industrial y la inteligencia artificial.\n• Participará el Ing. Jorge Acuña, experto en Ingeniería Industrial y académico destacado.\n• Se discutirán oportunidades y desafíos de incorporar inteligencia artificial en industrias.\n• Inscripción gratuita para profesionales y estudiantes interesados en nuevas tendencias.",
       "source_name": "nchinchilla",
       "source_url": "http://www.tec.ac.cr/editorial-tecnologica-invita-conocer-aplicaciones-inteligencia-artificial-ingenieria-industrial-0",
       "publish_date": "2026-11-25T20:07:20.000Z",
-      "teaser": "Lo clave en 20 segundos: Descubre cómo la inteligencia artificial transforma la ingeniería industrial.",
+      "teaser": "Lo clave en 20 segundos: Conozca cómo la inteligencia artificial impacta la Ingeniería Industrial.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/charla-ia-1_0.jpg",
-      "description": "Editorial Tecnológica invita a conocer las aplicaciones de la inteligencia artificial en la Ingeniería Industrial",
+      "description": "Editorial Tecnológica invita a conocer las aplicaciones de la inteligencia artificial en la Ingeniería Industrial.",
       "featured": false
     },
     {
@@ -2122,12 +2174,12 @@
     {
       "slug": "tec-recibe-el-ix-encuentro-sobre-didactica-de-la-estadistica-la-probabilidad-y-el-analisis-de-datos-edepa-9",
       "title": "TEC recibe el IX Encuentro sobre Didáctica de la Estadística, la Probabilidad y el Análisis de Datos (EDEPA 9)",
-      "category": "Ciencia",
-      "bullets_20s": "• El IX Encuentro EDEPA se llevará a cabo del 7 al 11 de diciembre en Cartago.\n• Participarán expositores de varios países latinos en el evento educativo.\n• Se ofrecerán conferencias y talleres prácticos específicos para docentes.\n• La temática incluye estadística descriptiva y visualización de datos.\n• El evento se transmitirá en vivo a través del canal de YouTube del TEC.",
+      "category": "Costa Rica",
+      "bullets_20s": "• El IX Encuentro EDEPA 9 se llevará a cabo del 7 al 11 de diciembre de 2026.\n• El lema del encuentro es Ideas frescas y estrategias efectivas para llevar al aula.\n• Está dirigido a docentes, estudiantes e investigadores en estadística y probabilidad.\n• Contará con conferencias, ponencias y talleres prácticos para diferentes niveles educativos.\n• Los participantes provienen de varios países latinoamericanos y europeos.",
       "source_name": "sepacheco",
       "source_url": "http://www.tec.ac.cr/tec-recibe-ix-encuentro-didactica-estadistica-probabilidad-analisis-datos-edepa-9",
       "publish_date": "2026-11-25T17:40:19.000Z",
-      "teaser": "Lo clave en 20 segundos: TEC organiza el IX Encuentro sobre Estadística y Análisis de Datos.",
+      "teaser": "Lo clave en 20 segundos: El TEC organiza el IX Encuentro EDEPA 9 sobre didáctica de la estadística.",
       "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/edepa.jpeg",
       "description": "TEC recibe el IX Encuentro sobre Didáctica de la Estadística, la Probabilidad y el Análisis de Datos (EDEPA 9)",
       "featured": false
@@ -2978,19 +3030,6 @@
       "featured": false
     },
     {
-      "slug": "pequenos-grandes-oradores-el-tec-lleva-la-oratoria-a-las-aulas-rurales-de-cartago",
-      "title": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
-      "category": "Costa Rica",
-      "bullets_20s": "• El TEC implementa un proyecto de oratoria en escuelas rurales de Cartago para mejorar la comunicación.\n• Diecinueve docentes participan en talleres para ayudar a los alumnos a expresarse con seguridad.\n• El programa responde a la necesidad de mejorar la expresión oral en niños y niñas en las aulas.\n• Durante el taller, los docentes aprenden técnicas de oratoria para implementarlas en su enseñanza.\n• Se identificó que hay un vacío en la formación escolar sobre habilidades de comunicación.\n• Las sesiones de oratoria incluyen elementos como la voz, postura y el arte de narrar en voz alta.\n• La iniciativa busca fomentar la confianza de los estudiantes al hablar en público.\n• Las comunidades rurales a menudo tienen menos acceso a capacitaciones educativas de calidad.\n• La participación también incluye estudiantes de la universidad que apoyan el proyecto.\n• El objetivo es extender este modelo a más centros educativos en el país.",
-      "source_name": "m.molina",
-      "source_url": "http://www.tec.ac.cr/pequenos-grandes-oradores-tec-lleva-oratoria-aulas-rurales-cartago",
-      "publish_date": "2026-11-24T15:07:47.000Z",
-      "teaser": "Lo clave en 20 segundos: El TEC lleva talleres de oratoria a escuelas rurales en Cartago para potenciar la expresión oral.",
-      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_20251031_143128.jpg",
-      "description": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
-      "featured": false
-    },
-    {
       "slug": "un-vino-sin-historia-es-un-vino-vacio-la-leccion-del-enologo-danes-que-visito-costa-rica",
       "title": "Un vino sin historia es un vino vacío: la lección del enólogo danés que visitó Costa Rica",
       "category": "Costa Rica",
@@ -3391,6 +3430,19 @@
       "teaser": "Lo clave en 20 segundos: Un accidente llevó al OIJ a decomisar 412 kilos de cocaína en Orotina.",
       "image_url": "https://www.nacion.com/resizer/v2/5BYKT4CQPBC5ZC7CNHNTVX77QE.jpeg?auth=a84db1f49aaf9dbf99f36e73cb75ea4d56e693dd1c900d77036650c58fa8fc3d&smart=true&width=900&height=1600",
       "description": "Un accidente de tránsito en San Jerónimo de Orotina llevó a agentes del Organismo de Investigación Judicial (OIJ) a incautar 412 kilogramos de cocaína que estaban ocultos dentro de uno de los vehículos involucrados.",
+      "featured": false
+    },
+    {
+      "slug": "pequenos-grandes-oradores-el-tec-lleva-la-oratoria-a-las-aulas-rurales-de-cartago",
+      "title": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
+      "category": "Costa Rica",
+      "bullets_20s": "• Diecinueve maestros aprendieron técnicas de oratoria para enseñar a sus estudiantes con confianza.\n• La iniciativa busca mejorar la comunicación oral desde la educación primaria en escuelas rurales.\n• Los docentes reciben formación en cinco sesiones que incluyen teoría, práctica y presentaciones.\n• Las técnicas de oratoria se aplican a todos los estudiantes, adaptándose a sus habilidades.\n• Se busca documentar esta experiencia a través de artículos y un libro para su difusión.",
+      "source_name": "m.molina",
+      "source_url": "http://www.tec.ac.cr/pequenos-grandes-oradores-tec-lleva-oratoria-aulas-rurales-cartago",
+      "publish_date": "2026-11-24T00:00:00.000Z",
+      "teaser": "Lo clave en 20 segundos: TEC enseña oratoria a maestros rurales, mejorando la expresión oral de estudiantes.",
+      "image_url": "http://www.tec.ac.cr/sites/default/files/media/img/main/img_20251031_143128.jpg",
+      "description": "Pequeños grandes oradores: el TEC lleva la oratoria a las aulas rurales de Cartago",
       "featured": false
     },
     {
@@ -144132,8 +144184,8 @@
       "featured": false
     }
   ],
-  "generated_at": "2026-11-28T11:45:26.418Z",
-  "total": 11087,
+  "generated_at": "2026-11-28T12:45:27.356Z",
+  "total": 11091,
   "removed_soccer_news_count": 1711,
   "removed_soccer_news_titles": [
     "Lindsay Camila confiesa lo que más le duele y qué la reconforta tras caída de la Selección de Costa Rica",
